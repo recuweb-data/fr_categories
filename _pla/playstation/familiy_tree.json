@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "playstation"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/playstation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/playstation/playstation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/playstation/playstation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/playstation/playstation/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "playstation": "lifestyle/jeu-vid\u00e9o/playstation"
+        },
+        "parents": {
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o"
+        },
+        "sisters": {
+            "jeu-d-arcade": "lifestyle/jeu-vid\u00e9o/jeu-d-arcade",
+            "jeu-de-r\u00f4le-en-ligne-massivement-multijoueur": "lifestyle/jeu-vid\u00e9o/jeu-de-r\u00f4le-en-ligne-massivement-multijoueur",
+            "playstation": "lifestyle/jeu-vid\u00e9o/playstation"
+        }
+    }
+}
