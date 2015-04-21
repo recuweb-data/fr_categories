@@ -1,0 +1,52 @@
+{
+    "meta": {
+        "portal_name": "sport-de-ballon"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-de-ballon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport-de-ballon": "sport/sport-de-ballon"
+        },
+        "children": {
+            "baseball": "sport/sport-de-ballon/baseball",
+            "basket-ball": "sport/sport-de-ballon/basket-ball",
+            "football": "sport/sport-de-ballon/football",
+            "golf": "sport/sport-de-ballon/golf",
+            "handball": "sport/sport-de-ballon/handball",
+            "hockey": "sport/sport-de-ballon/hockey",
+            "rugby": "sport/sport-de-ballon/rugby",
+            "sport-de-raquette": "sport/sport-de-ballon/sport-de-raquette",
+            "volley-ball": "sport/sport-de-ballon/volley-ball"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme",
+            "athletisme": "sport/athletisme",
+            "football": "sport/football",
+            "jeux-olympiques": "sport/jeux-olympiques",
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral",
+            "sport-de-ballon": "sport/sport-de-ballon",
+            "sport-de-combat": "sport/sport-de-combat",
+            "sport-extr\u00eame": "sport/sport-extr\u00eame",
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "sports-nautiques": "sport/sports-nautiques"
+        },
+        "grandchildren": {
+            "club-de-foot": "sport/sport-de-ballon/football/club-de-foot",
+            "football-am\u00e9ricain": "sport/sport-de-ballon/football/football-am\u00e9ricain",
+            "hockey-sur-gazon": "sport/sport-de-ballon/hockey/hockey-sur-gazon",
+            "hockey-sur-glace": "sport/sport-de-ballon/hockey/hockey-sur-glace",
+            "rink-hockey": "sport/sport-de-ballon/hockey/rink-hockey",
+            "pelot": "sport/sport-de-ballon/sport-de-raquette/pelot",
+            "tennis": "sport/sport-de-ballon/sport-de-raquette/tennis",
+            "beach-volley": "sport/sport-de-ballon/volley-ball/beach-volley"
+        }
+    }
+}
