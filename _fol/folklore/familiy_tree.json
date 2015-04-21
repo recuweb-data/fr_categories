@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/folklore/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "folklore": "culture/culture-populaire/tradition/folklore"
+        },
+        "parents": {
+            "tradition": "culture/culture-populaire/tradition"
+        },
+        "sisters": {
+            "folklore": "culture/culture-populaire/tradition/folklore"
+        }
+    }
+}
