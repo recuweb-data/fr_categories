@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/joomla/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/joomla/joomla/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/joomla/joomla/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "joomla": "internet/application-web/blogs/joomla"
+        },
+        "parents": {
+            "blogs": "internet/application-web/blogs"
+        },
+        "sisters": {
+            "drupal": "internet/application-web/blogs/drupal",
+            "joomla": "internet/application-web/blogs/joomla",
+            "wordpress": "internet/application-web/blogs/wordpress"
+        }
+    }
+}
