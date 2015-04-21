@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "pelot"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelot/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pelot": "sport/sport-de-ballon/sport-de-raquette/pelot"
+        },
+        "children": {
+            "pelote-basque": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-basque",
+            "pelote-valencienne": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-valencienne",
+            "racquetball": "sport/sport-de-ballon/sport-de-raquette/pelot/racquetball",
+            "squash": "sport/sport-de-ballon/sport-de-raquette/pelot/squash"
+        },
+        "parents": {
+            "sport-de-raquette": "sport/sport-de-ballon/sport-de-raquette"
+        },
+        "sisters": {
+            "pelot": "sport/sport-de-ballon/sport-de-raquette/pelot",
+            "tennis": "sport/sport-de-ballon/sport-de-raquette/tennis"
+        }
+    }
+}
