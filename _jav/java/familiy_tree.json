@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/java/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/java/java/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/java/java/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "java": "internet/programmation-web/langages-web/java"
+        },
+        "parents": {
+            "langages-web": "internet/programmation-web/langages-web"
+        },
+        "sisters": {
+            "java": "internet/programmation-web/langages-web/java",
+            "javascript": "internet/programmation-web/langages-web/javascript",
+            "perl": "internet/programmation-web/langages-web/perl",
+            "php": "internet/programmation-web/langages-web/php"
+        }
+    }
+}
