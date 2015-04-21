@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-environnemental/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "art-environnemental": "culture/art-\u00e9ph\u00e9m\u00e8re/art-environnemental"
+        },
+        "parents": {
+            "art-\u00e9ph\u00e9m\u00e8re": "culture/art-\u00e9ph\u00e9m\u00e8re"
+        },
+        "sisters": {
+            "art-environnemental": "culture/art-\u00e9ph\u00e9m\u00e8re/art-environnemental",
+            "art-urbain": "culture/art-\u00e9ph\u00e9m\u00e8re/art-urbain",
+            "tatouage": "culture/art-\u00e9ph\u00e9m\u00e8re/tatouage"
+        }
+    }
+}
