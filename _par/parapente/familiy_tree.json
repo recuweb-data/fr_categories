@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "parapente"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/parapente/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/parapente/parapente/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/parapente/parapente/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/parapente/parapente/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "parapente": "sport/sport-extr\u00eame/parachutisme/parapente"
+        },
+        "parents": {
+            "parachutisme": "sport/sport-extr\u00eame/parachutisme"
+        },
+        "sisters": {
+            "parapente": "sport/sport-extr\u00eame/parachutisme/parapente",
+            "saut-\u00e0-\u00e9lastique": "sport/sport-extr\u00eame/parachutisme/saut-\u00e0-\u00e9lastique"
+        }
+    }
+}
