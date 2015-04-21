@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "philat\u00e9lie"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/philat\u00e9lie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/philat%C3%A9lie/philat%C3%A9lie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/philat%C3%A9lie/philat%C3%A9lie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/philat%C3%A9lie/philat%C3%A9lie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "philat\u00e9lie": "culture/culture-populaire/collection/philat\u00e9lie"
+        },
+        "parents": {
+            "collection": "culture/culture-populaire/collection"
+        },
+        "sisters": {
+            "bibliophilie": "culture/culture-populaire/collection/bibliophilie",
+            "numismatique": "culture/culture-populaire/collection/numismatique",
+            "philat\u00e9lie": "culture/culture-populaire/collection/philat\u00e9lie"
+        }
+    }
+}
