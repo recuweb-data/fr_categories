@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/drupal/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "drupal": "internet/application-web/blogs/drupal"
+        },
+        "parents": {
+            "blogs": "internet/application-web/blogs"
+        },
+        "sisters": {
+            "drupal": "internet/application-web/blogs/drupal",
+            "joomla": "internet/application-web/blogs/joomla",
+            "wordpress": "internet/application-web/blogs/wordpress"
+        }
+    }
+}
