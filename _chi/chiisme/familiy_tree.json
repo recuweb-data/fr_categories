@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/chiisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/chiisme/chiisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/chiisme/chiisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/chiisme/chiisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "chiisme": "culture/religion/religion-abrahamique/islam/chiisme"
+        },
+        "parents": {
+            "islam": "culture/religion/religion-abrahamique/islam"
+        },
+        "sisters": {
+            "chiisme": "culture/religion/religion-abrahamique/islam/chiisme",
+            "soufisme": "culture/religion/religion-abrahamique/islam/soufisme",
+            "sunnisme": "culture/religion/religion-abrahamique/islam/sunnisme"
+        }
+    }
+}
