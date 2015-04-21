@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "saut-\u00e0-la-perche"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-\u00e0-la-perche/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "saut-\u00e0-la-perche": "sport/athl\u00e9tisme/saut-\u00e0-la-perche"
+        },
+        "parents": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme"
+        },
+        "sisters": {
+            "lancer-du-javelot": "sport/athl\u00e9tisme/lancer-du-javelot",
+            "marathon": "sport/athl\u00e9tisme/marathon",
+            "saut-en-hauteur": "sport/athl\u00e9tisme/saut-en-hauteur"
+        }
+    }
+}
