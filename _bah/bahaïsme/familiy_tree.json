@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/baha\u00efsme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/baha%C3%AFsme/baha%C3%AFsme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/baha%C3%AFsme/baha%C3%AFsme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baha%C3%AFsme/baha%C3%AFsme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "baha\u00efsme": "culture/religion/religion-abrahamique/baha\u00efsme"
+        },
+        "parents": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique"
+        },
+        "sisters": {
+            "baha\u00efsme": "culture/religion/religion-abrahamique/baha\u00efsme",
+            "christianisme": "culture/religion/religion-abrahamique/christianisme",
+            "islam": "culture/religion/religion-abrahamique/islam",
+            "juda\u00efsme": "culture/religion/religion-abrahamique/juda\u00efsme"
+        }
+    }
+}
