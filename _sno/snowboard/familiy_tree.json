@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "snowboard"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/snowboard/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "snowboard": "sport/sport-extr\u00eame/snowboard"
+        },
+        "parents": {
+            "sport-extr\u00eame": "sport/sport-extr\u00eame"
+        },
+        "sisters": {
+            "escalada": "sport/sport-extr\u00eame/escalada",
+            "escalade": "sport/sport-extr\u00eame/escalade",
+            "parachutisme": "sport/sport-extr\u00eame/parachutisme",
+            "snowboard": "sport/sport-extr\u00eame/snowboard",
+            "surf": "sport/sport-extr\u00eame/surf"
+        }
+    }
+}
