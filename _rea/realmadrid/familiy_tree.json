@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "realmadrid"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/realmadrid/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/realmadrid/realmadrid/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/realmadrid/realmadrid/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/realmadrid/realmadrid/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "realmadrid": "sport/football/realmadrid"
+        },
+        "parents": {
+            "football": "sport/football"
+        },
+        "sisters": {
+            "realmadrid": "sport/football/realmadrid"
+        }
+    }
+}
