@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeu-de-cartes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeu-de-cartes/jeu-de-cartes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeu-de-cartes/jeu-de-cartes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-de-cartes/jeu-de-cartes/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "jeu-de-cartes": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes"
+        },
+        "children": {
+            "poker": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes/poker"
+        },
+        "parents": {
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral"
+        },
+        "sisters": {
+            "jeu-de-cartes": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes",
+            "jeu-de-table": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table"
+        }
+    }
+}
