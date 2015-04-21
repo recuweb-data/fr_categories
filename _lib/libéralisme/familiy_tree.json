@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lib\u00e9ralisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lib\u00e9ralisme": "politique/id\u00e9ologie-politique/capitalisme/lib\u00e9ralisme"
+        },
+        "parents": {
+            "capitalisme": "politique/id\u00e9ologie-politique/capitalisme"
+        },
+        "sisters": {
+            "consum\u00e9risme": "politique/id\u00e9ologie-politique/capitalisme/consum\u00e9risme",
+            "lib\u00e9ralisme": "politique/id\u00e9ologie-politique/capitalisme/lib\u00e9ralisme",
+            "r\u00e9publicanisme": "politique/id\u00e9ologie-politique/capitalisme/r\u00e9publicanisme"
+        }
+    }
+}
