@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "misogynie"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/misogynie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/misogynie/misogynie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/misogynie/misogynie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/misogynie/misogynie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "misogynie": "politique/mouvement-social/f\u00e9minisme/misogynie"
+        },
+        "parents": {
+            "f\u00e9minisme": "politique/mouvement-social/f\u00e9minisme"
+        },
+        "sisters": {
+            "f\u00e9minit\u00e9": "politique/mouvement-social/f\u00e9minisme/f\u00e9minit\u00e9",
+            "manifestations-f\u00e9ministes": "politique/mouvement-social/f\u00e9minisme/manifestations-f\u00e9ministes",
+            "misogynie": "politique/mouvement-social/f\u00e9minisme/misogynie"
+        }
+    }
+}
