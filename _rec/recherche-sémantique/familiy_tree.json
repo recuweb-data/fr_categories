@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "recherche-s\u00e9mantique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/recherche-s\u00e9mantique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/recherche-s%C3%A9mantique/recherche-s%C3%A9mantique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/recherche-s%C3%A9mantique/recherche-s%C3%A9mantique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/recherche-s%C3%A9mantique/recherche-s%C3%A9mantique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "recherche-s\u00e9mantique": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/recherche-s\u00e9mantique"
+        },
+        "parents": {
+            "optimisation-pour-les-moteurs-de-recherche": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche"
+        },
+        "sisters": {
+            "microformat": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/microformat",
+            "pagerank": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/pagerank",
+            "publicit\u00e9-contextuelle": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/publicit\u00e9-contextuelle",
+            "recherche-s\u00e9mantique": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/recherche-s\u00e9mantique",
+            "spamdexing": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/spamdexing"
+        }
+    }
+}
