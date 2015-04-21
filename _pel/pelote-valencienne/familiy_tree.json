@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "pelote-valencienne"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelote-valencienne/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelote-valencienne/pelote-valencienne/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelote-valencienne/pelote-valencienne/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelote-valencienne/pelote-valencienne/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pelote-valencienne": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-valencienne"
+        },
+        "parents": {
+            "pelot": "sport/sport-de-ballon/sport-de-raquette/pelot"
+        },
+        "sisters": {
+            "pelote-basque": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-basque",
+            "pelote-valencienne": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-valencienne",
+            "racquetball": "sport/sport-de-ballon/sport-de-raquette/pelot/racquetball",
+            "squash": "sport/sport-de-ballon/sport-de-raquette/pelot/squash"
+        }
+    }
+}
