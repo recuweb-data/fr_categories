@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/internet/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/internet/internet/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/internet/internet/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "internet": "internet"
+        },
+        "children": {
+            "application-web": "internet/application-web",
+            "audience-un-site-web": "internet/audience-un-site-web",
+            "cybercrime": "internet/cybercrime",
+            "programmation-web": "internet/programmation-web",
+            "services-web": "internet/services-web"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "\u00e9conomie": "\u00e9conomie",
+            "culture": "culture",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "nature": "nature",
+            "politique": "politique",
+            "sant\u00e9": "sant\u00e9",
+            "science": "science",
+            "soci\u00e9t\u00e9": "soci\u00e9t\u00e9",
+            "sport": "sport",
+            "technologie": "technologie"
+        },
+        "grandchildren": {
+            "blogs": "internet/application-web/blogs",
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique",
+            "forum-internet": "internet/application-web/forum-internet",
+            "wiki": "internet/application-web/wiki",
+            "audience-web": "internet/audience-un-site-web/audience-web",
+            "moteur-de-recherche": "internet/audience-un-site-web/moteur-de-recherche",
+            "optimisation-pour-les-moteurs-de-recherche": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche",
+            "base-de-donn\u00e9es": "internet/programmation-web/base-de-donn\u00e9es",
+            "formats-web": "internet/programmation-web/formats-web",
+            "langages-web": "internet/programmation-web/langages-web",
+            "microblog": "internet/services-web/microblog",
+            "r\u00e9seau-social": "internet/services-web/r\u00e9seau-social"
+        }
+    }
+}
