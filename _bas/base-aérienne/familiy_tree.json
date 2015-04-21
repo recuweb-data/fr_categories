@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/base-a\u00e9rienne/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/base-a%C3%A9rienne/base-a%C3%A9rienne/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/base-a%C3%A9rienne/base-a%C3%A9rienne/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/base-a%C3%A9rienne/base-a%C3%A9rienne/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "base-a\u00e9rienne": "technologie/ingenierie/science-militaire/fortification/base-a\u00e9rienne"
+        },
+        "parents": {
+            "fortification": "technologie/ingenierie/science-militaire/fortification"
+        },
+        "sisters": {
+            "base-a\u00e9rienne": "technologie/ingenierie/science-militaire/fortification/base-a\u00e9rienne"
+        }
+    }
+}
