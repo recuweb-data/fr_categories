@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/disque-dur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "disque-dur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/m\u00e9moire-informatique/disque-dur"
+        },
+        "parents": {
+            "m\u00e9moire-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/m\u00e9moire-informatique"
+        },
+        "sisters": {
+            "disque-dur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/m\u00e9moire-informatique/disque-dur",
+            "m\u00e9moire-flash": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/m\u00e9moire-informatique/m\u00e9moire-flash"
+        }
+    }
+}
