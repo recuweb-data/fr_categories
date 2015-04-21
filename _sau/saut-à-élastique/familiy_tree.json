@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "saut-\u00e0-\u00e9lastique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-\u00e0-\u00e9lastique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-%C3%A9lastique/saut-%C3+-%C3%A9lastique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-%C3%A9lastique/saut-%C3+-%C3%A9lastique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-%C3%A9lastique/saut-%C3+-%C3%A9lastique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "saut-\u00e0-\u00e9lastique": "sport/sport-extr\u00eame/parachutisme/saut-\u00e0-\u00e9lastique"
+        },
+        "parents": {
+            "parachutisme": "sport/sport-extr\u00eame/parachutisme"
+        },
+        "sisters": {
+            "parapente": "sport/sport-extr\u00eame/parachutisme/parapente",
+            "saut-\u00e0-\u00e9lastique": "sport/sport-extr\u00eame/parachutisme/saut-\u00e0-\u00e9lastique"
+        }
+    }
+}
