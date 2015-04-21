@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ingenierie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ingenierie/ingenierie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ingenierie/ingenierie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ingenierie/ingenierie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ingenierie": "technologie/ingenierie"
+        },
+        "children": {
+            "\u00e9lectrom\u00e9canique": "technologie/ingenierie/\u00e9lectrom\u00e9canique",
+            "g\u00e9nie-\u00e9cologique": "technologie/ingenierie/g\u00e9nie-\u00e9cologique",
+            "g\u00e9nie-chimique": "technologie/ingenierie/g\u00e9nie-chimique",
+            "g\u00e9nie-civil": "technologie/ingenierie/g\u00e9nie-civil",
+            "g\u00e9nie-m\u00e9canique": "technologie/ingenierie/g\u00e9nie-m\u00e9canique",
+            "ing\u00e9nierie-et-technologie-spatiale": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale",
+            "science-militaire": "technologie/ingenierie/science-militaire"
+        },
+        "parents": {
+            "technologie": "technologie"
+        },
+        "sisters": {
+            "\u00e9nergie-\u00e9lectrique": "technologie/\u00e9nergie-\u00e9lectrique",
+            "electronique": "technologie/electronique",
+            "ingenierie": "technologie/ingenierie",
+            "robotique": "technologie/robotique",
+            "telecommunications": "technologie/telecommunications"
+        },
+        "grandchildren": {
+            "fortification": "technologie/ingenierie/science-militaire/fortification",
+            "tactique-militaire": "technologie/ingenierie/science-militaire/tactique-militaire"
+        }
+    }
+}
