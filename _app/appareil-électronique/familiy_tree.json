@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/appareil-\u00e9lectronique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/appareil-%C3%A9lectronique/appareil-%C3%A9lectronique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/appareil-%C3%A9lectronique/appareil-%C3%A9lectronique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/appareil-%C3%A9lectronique/appareil-%C3%A9lectronique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "appareil-\u00e9lectronique": "technologie/electronique/appareil-\u00e9lectronique"
+        },
+        "children": {
+            "mat\u00e9riel-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique",
+            "radar": "technologie/electronique/appareil-\u00e9lectronique/radar"
+        },
+        "parents": {
+            "electronique": "technologie/electronique"
+        },
+        "sisters": {
+            "\u00e9lectroacoustique": "technologie/electronique/\u00e9lectroacoustique",
+            "appareil-\u00e9lectronique": "technologie/electronique/appareil-\u00e9lectronique"
+        }
+    }
+}
