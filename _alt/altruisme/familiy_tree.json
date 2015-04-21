@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/altruisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "altruisme": "culture/culture-populaire/altruisme"
+        },
+        "children": {
+            "b\u00e9n\u00e9volat": "culture/culture-populaire/altruisme/b\u00e9n\u00e9volat",
+            "philanthropie": "culture/culture-populaire/altruisme/philanthropie"
+        },
+        "parents": {
+            "culture-populaire": "culture/culture-populaire"
+        },
+        "sisters": {
+            "altruisme": "culture/culture-populaire/altruisme",
+            "collection": "culture/culture-populaire/collection",
+            "tauromachie": "culture/culture-populaire/tauromachie",
+            "tradition": "culture/culture-populaire/tradition"
+        }
+    }
+}
