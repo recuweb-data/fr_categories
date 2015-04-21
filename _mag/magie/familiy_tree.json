@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "magie"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/magie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/magie/magie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/magie/magie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magie/magie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "magie": "culture/spiritualite/\u00e9sot\u00e9risme/magie"
+        },
+        "parents": {
+            "\u00e9sot\u00e9risme": "culture/spiritualite/\u00e9sot\u00e9risme"
+        },
+        "sisters": {
+            "astrologie": "culture/spiritualite/\u00e9sot\u00e9risme/astrologie",
+            "clairvoyance": "culture/spiritualite/\u00e9sot\u00e9risme/clairvoyance",
+            "d\u00e9monologie": "culture/spiritualite/\u00e9sot\u00e9risme/d\u00e9monologie",
+            "magie": "culture/spiritualite/\u00e9sot\u00e9risme/magie",
+            "num\u00e9rologie": "culture/spiritualite/\u00e9sot\u00e9risme/num\u00e9rologie",
+            "occultisme": "culture/spiritualite/\u00e9sot\u00e9risme/occultisme",
+            "spiritisme": "culture/spiritualite/\u00e9sot\u00e9risme/spiritisme"
+        }
+    }
+}
