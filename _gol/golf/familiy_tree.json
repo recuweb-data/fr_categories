@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/golf/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/golf/golf/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/golf/golf/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/golf/golf/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "golf": "sport/sport-de-ballon/golf"
+        },
+        "parents": {
+            "sport-de-ballon": "sport/sport-de-ballon"
+        },
+        "sisters": {
+            "baseball": "sport/sport-de-ballon/baseball",
+            "basket-ball": "sport/sport-de-ballon/basket-ball",
+            "football": "sport/sport-de-ballon/football",
+            "golf": "sport/sport-de-ballon/golf",
+            "handball": "sport/sport-de-ballon/handball",
+            "hockey": "sport/sport-de-ballon/hockey",
+            "rugby": "sport/sport-de-ballon/rugby",
+            "sport-de-raquette": "sport/sport-de-ballon/sport-de-raquette",
+            "volley-ball": "sport/sport-de-ballon/volley-ball"
+        }
+    }
+}
