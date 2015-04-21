@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "sous-titrage"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sous-titrage/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sous-titrage": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage"
+        },
+        "children": {
+            "karaok\u00e9": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/karaok\u00e9",
+            "t\u00e9l\u00e9texte": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/t\u00e9l\u00e9texte",
+            "transcription": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/transcription"
+        },
+        "parents": {
+            "technologie-vid\u00e9o": "technologie/telecommunications/technologie-vid\u00e9o"
+        },
+        "sisters": {
+            "clip": "technologie/telecommunications/technologie-vid\u00e9o/clip",
+            "doublage": "technologie/telecommunications/technologie-vid\u00e9o/doublage",
+            "sous-titrage": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage",
+            "television": "technologie/telecommunications/technologie-vid\u00e9o/television"
+        }
+    }
+}
