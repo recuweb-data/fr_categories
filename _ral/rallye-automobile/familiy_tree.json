@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "rallye-automobile"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rallye-automobile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rallye-automobile": "sport/sport-m\u00e9canique/competition-automobile/rallye-automobile"
+        },
+        "parents": {
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile"
+        },
+        "sisters": {
+            "course-sur-route": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route",
+            "drift": "sport/sport-m\u00e9canique/competition-automobile/drift",
+            "karting": "sport/sport-m\u00e9canique/competition-automobile/karting",
+            "rallye-automobile": "sport/sport-m\u00e9canique/competition-automobile/rallye-automobile"
+        }
+    }
+}
