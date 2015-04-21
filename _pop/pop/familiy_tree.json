@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "pop"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pop/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pop/pop/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pop/pop/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pop": "culture/beaux-arts/musique/pop"
+        },
+        "parents": {
+            "musique": "culture/beaux-arts/musique"
+        },
+        "sisters": {
+            "pop": "culture/beaux-arts/musique/pop",
+            "rock": "culture/beaux-arts/musique/rock"
+        }
+    }
+}
