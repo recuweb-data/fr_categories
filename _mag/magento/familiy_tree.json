@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "magento"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/magento/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/magento/magento/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/magento/magento/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magento/magento/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "magento": "internet/application-web/commerce-\u00e9lectronique/magento"
+        },
+        "parents": {
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique"
+        },
+        "sisters": {
+            "magento": "internet/application-web/commerce-\u00e9lectronique/magento"
+        }
+    }
+}
