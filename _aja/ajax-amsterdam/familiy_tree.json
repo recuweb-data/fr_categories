@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ajax-amsterdam/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ajax-amsterdam": "sport/sport-de-ballon/football/club-de-foot/ajax-amsterdam"
+        },
+        "parents": {
+            "club-de-foot": "sport/sport-de-ballon/football/club-de-foot"
+        },
+        "sisters": {
+            "ajax-amsterdam": "sport/sport-de-ballon/football/club-de-foot/ajax-amsterdam",
+            "associazione-calcio-milan": "sport/sport-de-ballon/football/club-de-foot/associazione-calcio-milan",
+            "olympique-de-marseille": "sport/sport-de-ballon/football/club-de-foot/olympique-de-marseille",
+            "olympique-lyonnais": "sport/sport-de-ballon/football/club-de-foot/olympique-lyonnais",
+            "valence-club-de-f\u00fatbol": "sport/sport-de-ballon/football/club-de-foot/valence-club-de-f\u00fatbol"
+        }
+    }
+}
