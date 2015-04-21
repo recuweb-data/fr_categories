@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/hypertext-markup-language/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/hypertext-markup-language/hypertext-markup-language/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/hypertext-markup-language/hypertext-markup-language/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hypertext-markup-language/hypertext-markup-language/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hypertext-markup-language": "internet/programmation-web/formats-web/hypertext-markup-language"
+        },
+        "parents": {
+            "formats-web": "internet/programmation-web/formats-web"
+        },
+        "sisters": {
+            "css": "internet/programmation-web/formats-web/css",
+            "extensible-markup-language": "internet/programmation-web/formats-web/extensible-markup-language",
+            "feuilles-de-style-en-cascade": "internet/programmation-web/formats-web/feuilles-de-style-en-cascade",
+            "hypertext-markup-language": "internet/programmation-web/formats-web/hypertext-markup-language"
+        }
+    }
+}
