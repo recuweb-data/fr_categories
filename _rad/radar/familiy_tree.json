@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "radar"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/radar/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/radar/radar/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/radar/radar/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radar/radar/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "radar": "technologie/electronique/appareil-\u00e9lectronique/radar"
+        },
+        "parents": {
+            "appareil-\u00e9lectronique": "technologie/electronique/appareil-\u00e9lectronique"
+        },
+        "sisters": {
+            "mat\u00e9riel-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique",
+            "radar": "technologie/electronique/appareil-\u00e9lectronique/radar"
+        }
+    }
+}
