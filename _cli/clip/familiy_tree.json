@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/clip/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/clip/clip/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/clip/clip/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/clip/clip/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "clip": "technologie/telecommunications/technologie-vid\u00e9o/clip"
+        },
+        "parents": {
+            "technologie-vid\u00e9o": "technologie/telecommunications/technologie-vid\u00e9o"
+        },
+        "sisters": {
+            "clip": "technologie/telecommunications/technologie-vid\u00e9o/clip",
+            "doublage": "technologie/telecommunications/technologie-vid\u00e9o/doublage",
+            "sous-titrage": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage",
+            "television": "technologie/telecommunications/technologie-vid\u00e9o/television"
+        }
+    }
+}
