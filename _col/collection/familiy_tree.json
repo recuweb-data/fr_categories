@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/collection/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/collection/collection/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/collection/collection/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "collection": "culture/culture-populaire/collection"
+        },
+        "children": {
+            "bibliophilie": "culture/culture-populaire/collection/bibliophilie",
+            "numismatique": "culture/culture-populaire/collection/numismatique",
+            "philat\u00e9lie": "culture/culture-populaire/collection/philat\u00e9lie"
+        },
+        "parents": {
+            "culture-populaire": "culture/culture-populaire"
+        },
+        "sisters": {
+            "altruisme": "culture/culture-populaire/altruisme",
+            "collection": "culture/culture-populaire/collection",
+            "tauromachie": "culture/culture-populaire/tauromachie",
+            "tradition": "culture/culture-populaire/tradition"
+        }
+    }
+}
