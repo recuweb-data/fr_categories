@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ipad/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ipad": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipad"
+        },
+        "parents": {
+            "apple-hardware": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware"
+        },
+        "sisters": {
+            "ipad": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipad",
+            "iphone": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/iphone",
+            "ipod": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipod",
+            "macintosh": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh"
+        }
+    }
+}
