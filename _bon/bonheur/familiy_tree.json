@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/bonheur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/bonheur/bonheur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/bonheur/bonheur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bonheur/bonheur/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bonheur": "lifestyle/d\u00e9veloppement-personnel/bonheur"
+        },
+        "parents": {
+            "d\u00e9veloppement-personnel": "lifestyle/d\u00e9veloppement-personnel"
+        },
+        "sisters": {
+            "bonheur": "lifestyle/d\u00e9veloppement-personnel/bonheur",
+            "discipline": "lifestyle/d\u00e9veloppement-personnel/discipline",
+            "m\u00e9ditation": "lifestyle/d\u00e9veloppement-personnel/m\u00e9ditation",
+            "pr\u00e9jug\u00e9": "lifestyle/d\u00e9veloppement-personnel/pr\u00e9jug\u00e9",
+            "superstition": "lifestyle/d\u00e9veloppement-personnel/superstition"
+        }
+    }
+}
