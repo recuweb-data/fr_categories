@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "planche-\u00e0-voile"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/planche-\u00e0-voile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/planche-%C3+-voile/planche-%C3+-voile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/planche-%C3+-voile/planche-%C3+-voile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/planche-%C3+-voile/planche-%C3+-voile/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "planche-\u00e0-voile": "sport/sport-extr\u00eame/surf/planche-\u00e0-voile"
+        },
+        "parents": {
+            "surf": "sport/sport-extr\u00eame/surf"
+        },
+        "sisters": {
+            "kitesurf": "sport/sport-extr\u00eame/surf/kitesurf",
+            "planche-\u00e0-voile": "sport/sport-extr\u00eame/surf/planche-\u00e0-voile"
+        }
+    }
+}
