@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "mixed-martial-arts"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mixed-martial-arts/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mixed-martial-arts": "sport/sport-de-combat/art-martial/mixed-martial-arts"
+        },
+        "parents": {
+            "art-martial": "sport/sport-de-combat/art-martial"
+        },
+        "sisters": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique",
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains",
+            "mixed-martial-arts": "sport/sport-de-combat/art-martial/mixed-martial-arts"
+        }
+    }
+}
