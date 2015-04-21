@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "pelote-basque"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelote-basque/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelote-basque/pelote-basque/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelote-basque/pelote-basque/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelote-basque/pelote-basque/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pelote-basque": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-basque"
+        },
+        "parents": {
+            "pelot": "sport/sport-de-ballon/sport-de-raquette/pelot"
+        },
+        "sisters": {
+            "pelote-basque": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-basque",
+            "pelote-valencienne": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-valencienne",
+            "racquetball": "sport/sport-de-ballon/sport-de-raquette/pelot/racquetball",
+            "squash": "sport/sport-de-ballon/sport-de-raquette/pelot/squash"
+        }
+    }
+}
