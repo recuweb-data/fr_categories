@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "photographie"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/photographie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "photographie": "culture/beaux-arts/photographie"
+        },
+        "parents": {
+            "beaux-arts": "culture/beaux-arts"
+        },
+        "sisters": {
+            "litterature": "culture/beaux-arts/litterature",
+            "musique": "culture/beaux-arts/musique",
+            "peinture": "culture/beaux-arts/peinture",
+            "photographie": "culture/beaux-arts/photographie",
+            "sculpture": "culture/beaux-arts/sculpture"
+        }
+    }
+}
