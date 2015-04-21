@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "macintosh"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/macintosh/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/macintosh/macintosh/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/macintosh/macintosh/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/macintosh/macintosh/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "macintosh": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh"
+        },
+        "children": {
+            "imac": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/imac",
+            "mac-mini": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/mac-mini",
+            "macbook": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/macbook",
+            "powerbook": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/powerbook"
+        },
+        "parents": {
+            "apple-hardware": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware"
+        },
+        "sisters": {
+            "ipad": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipad",
+            "iphone": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/iphone",
+            "ipod": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipod",
+            "macintosh": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh"
+        }
+    }
+}
