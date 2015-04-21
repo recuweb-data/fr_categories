@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "religion-en-inde"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion-en-inde/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion-en-inde": "culture/religion/religion-en-inde"
+        },
+        "children": {
+            "bouddhisme": "culture/religion/religion-en-inde/bouddhisme",
+            "hindouisme": "culture/religion/religion-en-inde/hindouisme",
+            "ja\u00efnisme": "culture/religion/religion-en-inde/ja\u00efnisme",
+            "sikhisme": "culture/religion/religion-en-inde/sikhisme"
+        },
+        "parents": {
+            "religion": "culture/religion"
+        },
+        "sisters": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique",
+            "religion-en-inde": "culture/religion/religion-en-inde",
+            "religion-orientale": "culture/religion/religion-orientale",
+            "religions-abrahamiques": "culture/religion/religions-abrahamiques"
+        }
+    }
+}
