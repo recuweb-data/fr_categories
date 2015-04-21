@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/fascisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/fascisme/fascisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/fascisme/fascisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/fascisme/fascisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "fascisme": "politique/id\u00e9ologie-politique/nationalisme/fascisme"
+        },
+        "parents": {
+            "nationalisme": "politique/id\u00e9ologie-politique/nationalisme"
+        },
+        "sisters": {
+            "fascisme": "politique/id\u00e9ologie-politique/nationalisme/fascisme",
+            "r\u00e9gionalisme": "politique/id\u00e9ologie-politique/nationalisme/r\u00e9gionalisme"
+        }
+    }
+}
