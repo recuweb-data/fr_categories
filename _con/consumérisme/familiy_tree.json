@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/consum\u00e9risme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/consum%C3%A9risme/consum%C3%A9risme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/consum%C3%A9risme/consum%C3%A9risme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/consum%C3%A9risme/consum%C3%A9risme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "consum\u00e9risme": "politique/id\u00e9ologie-politique/capitalisme/consum\u00e9risme"
+        },
+        "parents": {
+            "capitalisme": "politique/id\u00e9ologie-politique/capitalisme"
+        },
+        "sisters": {
+            "consum\u00e9risme": "politique/id\u00e9ologie-politique/capitalisme/consum\u00e9risme",
+            "lib\u00e9ralisme": "politique/id\u00e9ologie-politique/capitalisme/lib\u00e9ralisme",
+            "r\u00e9publicanisme": "politique/id\u00e9ologie-politique/capitalisme/r\u00e9publicanisme"
+        }
+    }
+}
