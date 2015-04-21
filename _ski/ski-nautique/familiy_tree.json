@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "ski-nautique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ski-nautique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ski-nautique": "sport/sports-nautiques/ski-nautique"
+        },
+        "parents": {
+            "sports-nautiques": "sport/sports-nautiques"
+        },
+        "sisters": {
+            "bodyboard": "sport/sports-nautiques/bodyboard",
+            "cano\u00eb-kayak": "sport/sports-nautiques/cano\u00eb-kayak",
+            "natation-sportive": "sport/sports-nautiques/natation-sportive",
+            "p\u00eache-sportive": "sport/sports-nautiques/p\u00eache-sportive",
+            "rafting": "sport/sports-nautiques/rafting",
+            "regate": "sport/sports-nautiques/regate",
+            "ski-nautique": "sport/sports-nautiques/ski-nautique",
+            "water-polo": "sport/sports-nautiques/water-polo"
+        }
+    }
+}
