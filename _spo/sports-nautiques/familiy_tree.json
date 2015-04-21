@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "sports-nautiques"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sports-nautiques/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sports-nautiques": "sport/sports-nautiques"
+        },
+        "children": {
+            "bodyboard": "sport/sports-nautiques/bodyboard",
+            "cano\u00eb-kayak": "sport/sports-nautiques/cano\u00eb-kayak",
+            "natation-sportive": "sport/sports-nautiques/natation-sportive",
+            "p\u00eache-sportive": "sport/sports-nautiques/p\u00eache-sportive",
+            "rafting": "sport/sports-nautiques/rafting",
+            "regate": "sport/sports-nautiques/regate",
+            "ski-nautique": "sport/sports-nautiques/ski-nautique",
+            "water-polo": "sport/sports-nautiques/water-polo"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme",
+            "athletisme": "sport/athletisme",
+            "football": "sport/football",
+            "jeux-olympiques": "sport/jeux-olympiques",
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral",
+            "sport-de-ballon": "sport/sport-de-ballon",
+            "sport-de-combat": "sport/sport-de-combat",
+            "sport-extr\u00eame": "sport/sport-extr\u00eame",
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "sports-nautiques": "sport/sports-nautiques"
+        }
+    }
+}
