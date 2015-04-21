@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/bibliophilie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "bibliophilie": "culture/culture-populaire/collection/bibliophilie"
+        },
+        "parents": {
+            "collection": "culture/culture-populaire/collection"
+        },
+        "sisters": {
+            "bibliophilie": "culture/culture-populaire/collection/bibliophilie",
+            "numismatique": "culture/culture-populaire/collection/numismatique",
+            "philat\u00e9lie": "culture/culture-populaire/collection/philat\u00e9lie"
+        }
+    }
+}
