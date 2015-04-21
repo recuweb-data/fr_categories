@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/dokuwiki/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "dokuwiki": "internet/application-web/wiki/dokuwiki"
+        },
+        "parents": {
+            "wiki": "internet/application-web/wiki"
+        },
+        "sisters": {
+            "dokuwiki": "internet/application-web/wiki/dokuwiki"
+        }
+    }
+}
