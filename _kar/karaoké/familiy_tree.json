@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/karaok\u00e9/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/karaok%C3%A9/karaok%C3%A9/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/karaok%C3%A9/karaok%C3%A9/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/karaok%C3%A9/karaok%C3%A9/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "karaok\u00e9": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/karaok\u00e9"
+        },
+        "parents": {
+            "sous-titrage": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage"
+        },
+        "sisters": {
+            "karaok\u00e9": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/karaok\u00e9",
+            "t\u00e9l\u00e9texte": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/t\u00e9l\u00e9texte",
+            "transcription": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage/transcription"
+        }
+    }
+}
