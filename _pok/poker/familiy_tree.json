@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "poker"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/poker/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/poker/poker/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/poker/poker/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/poker/poker/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "poker": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes/poker"
+        },
+        "parents": {
+            "jeu-de-cartes": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes"
+        },
+        "sisters": {
+            "poker": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes/poker"
+        }
+    }
+}
