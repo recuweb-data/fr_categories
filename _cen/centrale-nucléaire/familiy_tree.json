@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/centrale-nucl\u00e9aire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "centrale-nucl\u00e9aire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable/centrale-nucl\u00e9aire"
+        },
+        "parents": {
+            "\u00e9nergie-non-renouvelable": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable"
+        },
+        "sisters": {
+            "centrale-nucl\u00e9aire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable/centrale-nucl\u00e9aire",
+            "gaz-naturel": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable/gaz-naturel"
+        }
+    }
+}
