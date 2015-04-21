@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jquery/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jquery/jquery/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jquery/jquery/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "jquery": "internet/programmation-web/langages-web/javascript/jquery"
+        },
+        "parents": {
+            "javascript": "internet/programmation-web/langages-web/javascript"
+        },
+        "sisters": {
+            "javascript-object-notation": "internet/programmation-web/langages-web/javascript/javascript-object-notation",
+            "jquery": "internet/programmation-web/langages-web/javascript/jquery"
+        }
+    }
+}
