@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "lutte-gr\u00e9co-romaine"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lutte-gr\u00e9co-romaine/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lutte-gr%C3%A9co-romaine/lutte-gr%C3%A9co-romaine/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lutte-gr%C3%A9co-romaine/lutte-gr%C3%A9co-romaine/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lutte-gr%C3%A9co-romaine/lutte-gr%C3%A9co-romaine/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lutte-gr\u00e9co-romaine": "sport/sport-de-combat/lucha-libre/lutte-gr\u00e9co-romaine"
+        },
+        "parents": {
+            "lucha-libre": "sport/sport-de-combat/lucha-libre"
+        },
+        "sisters": {
+            "lutte-gr\u00e9co-romaine": "sport/sport-de-combat/lucha-libre/lutte-gr\u00e9co-romaine"
+        }
+    }
+}
