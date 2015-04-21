@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "lobby"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lobby/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lobby/lobby/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lobby/lobby/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lobby/lobby/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lobby": "politique/mouvement-social/lobby"
+        },
+        "parents": {
+            "mouvement-social": "politique/mouvement-social"
+        },
+        "sisters": {
+            "\u00e9cologisme": "politique/mouvement-social/\u00e9cologisme",
+            "agrarisme": "politique/mouvement-social/agrarisme",
+            "f\u00e9minisme": "politique/mouvement-social/f\u00e9minisme",
+            "indig\u00e9nisme": "politique/mouvement-social/indig\u00e9nisme",
+            "lobby": "politique/mouvement-social/lobby"
+        }
+    }
+}
