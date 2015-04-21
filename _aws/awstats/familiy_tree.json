@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/awstats/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "awstats": "internet/audience-un-site-web/audience-web/awstats"
+        },
+        "parents": {
+            "audience-web": "internet/audience-un-site-web/audience-web"
+        },
+        "sisters": {
+            "awstats": "internet/audience-un-site-web/audience-web/awstats"
+        }
+    }
+}
