@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/football-am\u00e9ricain/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "football-am\u00e9ricain": "sport/sport-de-ballon/football/football-am\u00e9ricain"
+        },
+        "parents": {
+            "football": "sport/sport-de-ballon/football"
+        },
+        "sisters": {
+            "club-de-foot": "sport/sport-de-ballon/football/club-de-foot",
+            "football-am\u00e9ricain": "sport/sport-de-ballon/football/football-am\u00e9ricain"
+        }
+    }
+}
