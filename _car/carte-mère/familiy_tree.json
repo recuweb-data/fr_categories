@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/carte-m\u00e8re/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/carte-m%C3%A8re/carte-m%C3%A8re/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/carte-m%C3%A8re/carte-m%C3%A8re/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/carte-m%C3%A8re/carte-m%C3%A8re/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "carte-m\u00e8re": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/carte-m\u00e8re"
+        },
+        "parents": {
+            "mat\u00e9riel-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique"
+        },
+        "sisters": {
+            "carte-m\u00e8re": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/carte-m\u00e8re",
+            "circuit-int\u00e9gr\u00e9": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/circuit-int\u00e9gr\u00e9",
+            "constructeur-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique",
+            "livre-num\u00e9rique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/livre-num\u00e9rique",
+            "m\u00e9moire-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/m\u00e9moire-informatique",
+            "ordinateur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/ordinateur",
+            "p\u00e9riph\u00e9rique-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/p\u00e9riph\u00e9rique-informatique"
+        }
+    }
+}
