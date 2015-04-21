@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/apple-hardware/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "apple-hardware": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware"
+        },
+        "children": {
+            "ipad": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipad",
+            "iphone": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/iphone",
+            "ipod": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/ipod",
+            "macintosh": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh"
+        },
+        "parents": {
+            "constructeur-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique"
+        },
+        "sisters": {
+            "apple-hardware": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware"
+        }
+    }
+}
