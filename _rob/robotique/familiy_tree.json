@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "robotique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/robotique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/robotique/robotique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/robotique/robotique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/robotique/robotique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "robotique": "technologie/robotique"
+        },
+        "children": {
+            "domotique": "technologie/robotique/domotique"
+        },
+        "parents": {
+            "technologie": "technologie"
+        },
+        "sisters": {
+            "\u00e9nergie-\u00e9lectrique": "technologie/\u00e9nergie-\u00e9lectrique",
+            "electronique": "technologie/electronique",
+            "ingenierie": "technologie/ingenierie",
+            "robotique": "technologie/robotique",
+            "telecommunications": "technologie/telecommunications"
+        }
+    }
+}
