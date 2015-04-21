@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/arts-martiaux-japonais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arts-martiaux-japonais": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais"
+        },
+        "children": {
+            "ju-jitsu": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/ju-jitsu",
+            "judo": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/judo",
+            "karat\u00e9": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/karat\u00e9",
+            "ninjutsu": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/ninjutsu"
+        },
+        "parents": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique"
+        },
+        "sisters": {
+            "art-martial-chinois": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois",
+            "art-martial-cor\u00e9en": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en",
+            "arts-martiaux-japonais": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais"
+        }
+    }
+}
