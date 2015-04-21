@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "sqlite"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sqlite/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sqlite": "internet/programmation-web/base-de-donn\u00e9es/sqlite"
+        },
+        "parents": {
+            "base-de-donn\u00e9es": "internet/programmation-web/base-de-donn\u00e9es"
+        },
+        "sisters": {
+            "mysql": "internet/programmation-web/base-de-donn\u00e9es/mysql",
+            "postgresql": "internet/programmation-web/base-de-donn\u00e9es/postgresql",
+            "sqlite": "internet/programmation-web/base-de-donn\u00e9es/sqlite"
+        }
+    }
+}
