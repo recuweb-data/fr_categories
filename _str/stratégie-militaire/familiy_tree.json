@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "strat\u00e9gie-militaire"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/strat\u00e9gie-militaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/strat%C3%A9gie-militaire/strat%C3%A9gie-militaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/strat%C3%A9gie-militaire/strat%C3%A9gie-militaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/strat%C3%A9gie-militaire/strat%C3%A9gie-militaire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "strat\u00e9gie-militaire": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire"
+        },
+        "children": {
+            "strat\u00e8ge": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge"
+        },
+        "parents": {
+            "tactique-militaire": "technologie/ingenierie/science-militaire/tactique-militaire"
+        },
+        "sisters": {
+            "gu\u00e9rilla": "technologie/ingenierie/science-militaire/tactique-militaire/gu\u00e9rilla",
+            "strat\u00e9gie-militaire": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire"
+        }
+    }
+}
