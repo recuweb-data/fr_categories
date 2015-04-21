@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/athletisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/athletisme/athletisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/athletisme/athletisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/athletisme/athletisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "athletisme": "sport/athletisme"
+        },
+        "children": {
+            "course-de-relais": "sport/athletisme/course-de-relais",
+            "lancer-du-javelot": "sport/athletisme/lancer-du-javelot",
+            "marathon": "sport/athletisme/marathon",
+            "saut-\u00e0-la-perche": "sport/athletisme/saut-\u00e0-la-perche",
+            "saut-en-hauteur": "sport/athletisme/saut-en-hauteur",
+            "triathlon": "sport/athletisme/triathlon",
+            "triple-saut": "sport/athletisme/triple-saut"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme",
+            "athletisme": "sport/athletisme",
+            "football": "sport/football",
+            "jeux-olympiques": "sport/jeux-olympiques",
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral",
+            "sport-de-ballon": "sport/sport-de-ballon",
+            "sport-de-combat": "sport/sport-de-combat",
+            "sport-extr\u00eame": "sport/sport-extr\u00eame",
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "sports-nautiques": "sport/sports-nautiques"
+        }
+    }
+}
