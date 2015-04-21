@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/anglicanisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "anglicanisme": "culture/religion/religion-abrahamique/christianisme/anglicanisme"
+        },
+        "parents": {
+            "christianisme": "culture/religion/religion-abrahamique/christianisme"
+        },
+        "sisters": {
+            "\u00e9glise-orthodoxe": "culture/religion/religion-abrahamique/christianisme/\u00e9glise-orthodoxe",
+            "anglicanisme": "culture/religion/religion-abrahamique/christianisme/anglicanisme",
+            "catholicisme": "culture/religion/religion-abrahamique/christianisme/catholicisme",
+            "mormonisme": "culture/religion/religion-abrahamique/christianisme/mormonisme",
+            "protestantisme": "culture/religion/religion-abrahamique/christianisme/protestantisme"
+        }
+    }
+}
