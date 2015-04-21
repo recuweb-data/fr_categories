@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/gaz-naturel/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "gaz-naturel": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable/gaz-naturel"
+        },
+        "parents": {
+            "\u00e9nergie-non-renouvelable": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable"
+        },
+        "sisters": {
+            "centrale-nucl\u00e9aire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable/centrale-nucl\u00e9aire",
+            "gaz-naturel": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-non-renouvelable/gaz-naturel"
+        }
+    }
+}
