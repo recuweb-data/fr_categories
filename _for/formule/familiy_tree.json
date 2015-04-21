@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/formule/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/formule/formule/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/formule/formule/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/formule/formule/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "formule": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace/formule"
+        },
+        "parents": {
+            "monoplace": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace"
+        },
+        "sisters": {
+            "formule": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace/formule"
+        }
+    }
+}
