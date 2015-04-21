@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "moto-cross"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/moto-cross/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "moto-cross": "sport/sport-m\u00e9canique/sport-motocycliste/moto-cross"
+        },
+        "children": {
+            "freestyle-motocross": "sport/sport-m\u00e9canique/sport-motocycliste/moto-cross/freestyle-motocross"
+        },
+        "parents": {
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        },
+        "sisters": {
+            "moto-cross": "sport/sport-m\u00e9canique/sport-motocycliste/moto-cross",
+            "rallye-raid": "sport/sport-m\u00e9canique/sport-motocycliste/rallye-raid",
+            "superbike": "sport/sport-m\u00e9canique/sport-motocycliste/superbike"
+        }
+    }
+}
