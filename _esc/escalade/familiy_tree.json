@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/escalade/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "escalade": "sport/sport-extr\u00eame/escalade"
+        },
+        "children": {
+            "canyonisme": "sport/sport-extr\u00eame/escalade/canyonisme",
+            "escalade-glaciaire": "sport/sport-extr\u00eame/escalade/escalade-glaciaire"
+        },
+        "parents": {
+            "sport-extr\u00eame": "sport/sport-extr\u00eame"
+        },
+        "sisters": {
+            "escalada": "sport/sport-extr\u00eame/escalada",
+            "escalade": "sport/sport-extr\u00eame/escalade",
+            "parachutisme": "sport/sport-extr\u00eame/parachutisme",
+            "snowboard": "sport/sport-extr\u00eame/snowboard",
+            "surf": "sport/sport-extr\u00eame/surf"
+        }
+    }
+}
