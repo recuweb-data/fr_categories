@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "phpbb"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/phpbb/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "phpbb": "internet/application-web/forum-internet/phpbb"
+        },
+        "parents": {
+            "forum-internet": "internet/application-web/forum-internet"
+        },
+        "sisters": {
+            "phpbb": "internet/application-web/forum-internet/phpbb"
+        }
+    }
+}
