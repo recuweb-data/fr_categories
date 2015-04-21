@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/indig\u00e9nisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/indig%C3%A9nisme/indig%C3%A9nisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/indig%C3%A9nisme/indig%C3%A9nisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/indig%C3%A9nisme/indig%C3%A9nisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "indig\u00e9nisme": "politique/mouvement-social/indig\u00e9nisme"
+        },
+        "parents": {
+            "mouvement-social": "politique/mouvement-social"
+        },
+        "sisters": {
+            "\u00e9cologisme": "politique/mouvement-social/\u00e9cologisme",
+            "agrarisme": "politique/mouvement-social/agrarisme",
+            "f\u00e9minisme": "politique/mouvement-social/f\u00e9minisme",
+            "indig\u00e9nisme": "politique/mouvement-social/indig\u00e9nisme",
+            "lobby": "politique/mouvement-social/lobby"
+        }
+    }
+}
