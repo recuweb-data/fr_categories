@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/blogs/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "blogs": "internet/application-web/blogs"
+        },
+        "children": {
+            "drupal": "internet/application-web/blogs/drupal",
+            "joomla": "internet/application-web/blogs/joomla",
+            "wordpress": "internet/application-web/blogs/wordpress"
+        },
+        "parents": {
+            "application-web": "internet/application-web"
+        },
+        "sisters": {
+            "blogs": "internet/application-web/blogs",
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique",
+            "forum-internet": "internet/application-web/forum-internet",
+            "wiki": "internet/application-web/wiki"
+        }
+    }
+}
