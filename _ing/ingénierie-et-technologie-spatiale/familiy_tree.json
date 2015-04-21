@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ing\u00e9nierie-et-technologie-spatiale/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ing%C3%A9nierie-et-technologie-spatiale/ing%C3%A9nierie-et-technologie-spatiale/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ing%C3%A9nierie-et-technologie-spatiale/ing%C3%A9nierie-et-technologie-spatiale/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ing%C3%A9nierie-et-technologie-spatiale/ing%C3%A9nierie-et-technologie-spatiale/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "ing\u00e9nierie-et-technologie-spatiale": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale"
+        },
+        "children": {
+            "a\u00e9ronef": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/a\u00e9ronef",
+            "aeronautique": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/aeronautique"
+        },
+        "parents": {
+            "ingenierie": "technologie/ingenierie"
+        },
+        "sisters": {
+            "\u00e9lectrom\u00e9canique": "technologie/ingenierie/\u00e9lectrom\u00e9canique",
+            "g\u00e9nie-\u00e9cologique": "technologie/ingenierie/g\u00e9nie-\u00e9cologique",
+            "g\u00e9nie-chimique": "technologie/ingenierie/g\u00e9nie-chimique",
+            "g\u00e9nie-civil": "technologie/ingenierie/g\u00e9nie-civil",
+            "g\u00e9nie-m\u00e9canique": "technologie/ingenierie/g\u00e9nie-m\u00e9canique",
+            "ing\u00e9nierie-et-technologie-spatiale": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale",
+            "science-militaire": "technologie/ingenierie/science-militaire"
+        }
+    }
+}
