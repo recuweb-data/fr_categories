@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "programmation-web"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/programmation-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "programmation-web": "internet/programmation-web"
+        },
+        "children": {
+            "base-de-donn\u00e9es": "internet/programmation-web/base-de-donn\u00e9es",
+            "formats-web": "internet/programmation-web/formats-web",
+            "langages-web": "internet/programmation-web/langages-web"
+        },
+        "parents": {
+            "internet": "internet"
+        },
+        "sisters": {
+            "application-web": "internet/application-web",
+            "audience-un-site-web": "internet/audience-un-site-web",
+            "cybercrime": "internet/cybercrime",
+            "programmation-web": "internet/programmation-web",
+            "services-web": "internet/services-web"
+        },
+        "grandchildren": {
+            "css": "internet/programmation-web/formats-web/css",
+            "extensible-markup-language": "internet/programmation-web/formats-web/extensible-markup-language",
+            "feuilles-de-style-en-cascade": "internet/programmation-web/formats-web/feuilles-de-style-en-cascade",
+            "hypertext-markup-language": "internet/programmation-web/formats-web/hypertext-markup-language",
+            "java": "internet/programmation-web/langages-web/java",
+            "javascript": "internet/programmation-web/langages-web/javascript",
+            "perl": "internet/programmation-web/langages-web/perl",
+            "php": "internet/programmation-web/langages-web/php"
+        }
+    }
+}
