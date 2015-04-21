@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sikhisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sikhisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sikhisme/sikhisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sikhisme/sikhisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sikhisme/sikhisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sikhisme": "culture/religion/religion-en-inde/sikhisme"
+        },
+        "parents": {
+            "religion-en-inde": "culture/religion/religion-en-inde"
+        },
+        "sisters": {
+            "bouddhisme": "culture/religion/religion-en-inde/bouddhisme",
+            "hindouisme": "culture/religion/religion-en-inde/hindouisme",
+            "ja\u00efnisme": "culture/religion/religion-en-inde/ja\u00efnisme",
+            "sikhisme": "culture/religion/religion-en-inde/sikhisme"
+        }
+    }
+}
