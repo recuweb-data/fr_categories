@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "rink-hockey"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rink-hockey/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rink-hockey": "sport/sport-de-ballon/hockey/rink-hockey"
+        },
+        "parents": {
+            "hockey": "sport/sport-de-ballon/hockey"
+        },
+        "sisters": {
+            "hockey-sur-gazon": "sport/sport-de-ballon/hockey/hockey-sur-gazon",
+            "hockey-sur-glace": "sport/sport-de-ballon/hockey/hockey-sur-glace",
+            "rink-hockey": "sport/sport-de-ballon/hockey/rink-hockey"
+        }
+    }
+}
