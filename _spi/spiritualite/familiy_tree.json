@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "spiritualite"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/spiritualite/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "spiritualite": "culture/spiritualite"
+        },
+        "children": {
+            "\u00e9sot\u00e9risme": "culture/spiritualite/\u00e9sot\u00e9risme",
+            "m\u00e9decine-non-conventionnelle": "culture/spiritualite/m\u00e9decine-non-conventionnelle",
+            "mystique": "culture/spiritualite/mystique",
+            "mythologie": "culture/spiritualite/mythologie",
+            "paganisme": "culture/spiritualite/paganisme",
+            "surnaturel": "culture/spiritualite/surnaturel"
+        },
+        "parents": {
+            "culture": "culture"
+        },
+        "sisters": {
+            "art-\u00e9ph\u00e9m\u00e8re": "culture/art-\u00e9ph\u00e9m\u00e8re",
+            "arts": "culture/arts",
+            "beaux-arts": "culture/beaux-arts",
+            "culture-populaire": "culture/culture-populaire",
+            "langage": "culture/langage",
+            "lettres": "culture/lettres",
+            "musique": "culture/musique",
+            "religion": "culture/religion",
+            "spiritualit\u00e9": "culture/spiritualit\u00e9",
+            "spiritualite": "culture/spiritualite",
+            "v\u00eatement": "culture/v\u00eatement"
+        }
+    }
+}
