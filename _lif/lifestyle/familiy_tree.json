@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "portal_name": "lifestyle"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lifestyle/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "lifestyle": "lifestyle"
+        },
+        "children": {
+            "amour": "lifestyle/amour",
+            "animal-de-compagnie": "lifestyle/animal-de-compagnie",
+            "boisson": "lifestyle/boisson",
+            "d\u00e9veloppement-personnel": "lifestyle/d\u00e9veloppement-personnel",
+            "divertissement": "lifestyle/divertissement",
+            "emploi": "lifestyle/emploi",
+            "gestion-du-temps": "lifestyle/gestion-du-temps",
+            "honneur": "lifestyle/honneur",
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o",
+            "jeux-videos": "lifestyle/jeux-videos",
+            "loisirs": "lifestyle/loisirs",
+            "nourriture": "lifestyle/nourriture",
+            "simplicit\u00e9-volontaire": "lifestyle/simplicit\u00e9-volontaire",
+            "temps-libre": "lifestyle/temps-libre",
+            "vie-priv\u00e9e": "lifestyle/vie-priv\u00e9e"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "\u00e9conomie": "\u00e9conomie",
+            "culture": "culture",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "nature": "nature",
+            "politique": "politique",
+            "sant\u00e9": "sant\u00e9",
+            "science": "science",
+            "soci\u00e9t\u00e9": "soci\u00e9t\u00e9",
+            "sport": "sport",
+            "technologie": "technologie"
+        },
+        "grandchildren": {
+            "romance": "lifestyle/amour/romance",
+            "vertu": "lifestyle/amour/vertu",
+            "caf\u00e9": "lifestyle/boisson/caf\u00e9",
+            "th\u00e9": "lifestyle/boisson/th\u00e9",
+            "aventure": "lifestyle/divertissement/aventure",
+            "danse": "lifestyle/divertissement/danse",
+            "humour": "lifestyle/divertissement/humour",
+            "jeu-vid\u00e9o": "lifestyle/divertissement/jeu-vid\u00e9o",
+            "jouet": "lifestyle/divertissement/jouet",
+            "musique": "lifestyle/divertissement/musique",
+            "pom-pom-girl": "lifestyle/divertissement/pom-pom-girl",
+            "th\u00e9\u00e2tre": "lifestyle/divertissement/th\u00e9\u00e2tre",
+            "vie-nocturne": "lifestyle/divertissement/vie-nocturne",
+            "ch\u00f4mage": "lifestyle/emploi/ch\u00f4mage",
+            "recrutement": "lifestyle/emploi/recrutement",
+            "playstation": "lifestyle/jeux-videos/playstation",
+            "xbox": "lifestyle/jeux-videos/xbox",
+            "brassage-amateur": "lifestyle/loisirs/brassage-amateur",
+            "collection": "lifestyle/loisirs/collection",
+            "cosplay": "lifestyle/loisirs/cosplay",
+            "fandom": "lifestyle/loisirs/fandom",
+            "g\u00e9n\u00e9alogie": "lifestyle/loisirs/g\u00e9n\u00e9alogie",
+            "photographie": "lifestyle/loisirs/photographie",
+            "pyrotechnie": "lifestyle/loisirs/pyrotechnie",
+            "chocolat": "lifestyle/nourriture/chocolat",
+            "dessert": "lifestyle/nourriture/dessert",
+            "fruit": "lifestyle/nourriture/fruit",
+            "p\u00e2tes-alimentaires": "lifestyle/nourriture/p\u00e2tes-alimentaires",
+            "p\u00e2tisserie": "lifestyle/nourriture/p\u00e2tisserie",
+            "pain": "lifestyle/nourriture/pain",
+            "pudding": "lifestyle/nourriture/pudding",
+            "sauce": "lifestyle/nourriture/sauce",
+            "soupe": "lifestyle/nourriture/soupe",
+            "tourte": "lifestyle/nourriture/tourte",
+            "viande": "lifestyle/nourriture/viande",
+            "baignade": "lifestyle/temps-libre/baignade",
+            "jonglerie": "lifestyle/temps-libre/jonglerie",
+            "loisir": "lifestyle/temps-libre/loisir",
+            "voyage": "lifestyle/temps-libre/voyage"
+        }
+    }
+}
