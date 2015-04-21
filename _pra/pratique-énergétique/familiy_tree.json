@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "pratique-\u00e9nerg\u00e9tique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pratique-\u00e9nerg\u00e9tique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pratique-%C3%A9nerg%C3%A9tique/pratique-%C3%A9nerg%C3%A9tique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pratique-%C3%A9nerg%C3%A9tique/pratique-%C3%A9nerg%C3%A9tique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pratique-%C3%A9nerg%C3%A9tique/pratique-%C3%A9nerg%C3%A9tique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pratique-\u00e9nerg\u00e9tique": "culture/spiritualite/m\u00e9decine-non-conventionnelle/pratique-\u00e9nerg\u00e9tique"
+        },
+        "parents": {
+            "m\u00e9decine-non-conventionnelle": "culture/spiritualite/m\u00e9decine-non-conventionnelle"
+        },
+        "sisters": {
+            "ethnom\u00e9decine": "culture/spiritualite/m\u00e9decine-non-conventionnelle/ethnom\u00e9decine",
+            "hom\u00e9opathie": "culture/spiritualite/m\u00e9decine-non-conventionnelle/hom\u00e9opathie",
+            "pratique-\u00e9nerg\u00e9tique": "culture/spiritualite/m\u00e9decine-non-conventionnelle/pratique-\u00e9nerg\u00e9tique",
+            "source-chaude": "culture/spiritualite/m\u00e9decine-non-conventionnelle/source-chaude"
+        }
+    }
+}
