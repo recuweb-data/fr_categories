@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "motonautisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/motonautisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "motonautisme": "sport/sport-m\u00e9canique/motonautisme"
+        },
+        "children": {
+            "motomarine": "sport/sport-m\u00e9canique/motonautisme/motomarine"
+        },
+        "parents": {
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique"
+        },
+        "sisters": {
+            "aeronautique": "sport/sport-m\u00e9canique/aeronautique",
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile",
+            "motonautisme": "sport/sport-m\u00e9canique/motonautisme",
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        }
+    }
+}
