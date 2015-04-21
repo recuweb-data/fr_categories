@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "plante-m\u00e9dicinale"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/plante-m\u00e9dicinale/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/plante-m%C3%A9dicinale/plante-m%C3%A9dicinale/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/plante-m%C3%A9dicinale/plante-m%C3%A9dicinale/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/plante-m%C3%A9dicinale/plante-m%C3%A9dicinale/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "plante-m\u00e9dicinale": "culture/spiritualite/m\u00e9decine-non-conventionnelle/ethnom\u00e9decine/plante-m\u00e9dicinale"
+        },
+        "parents": {
+            "ethnom\u00e9decine": "culture/spiritualite/m\u00e9decine-non-conventionnelle/ethnom\u00e9decine"
+        },
+        "sisters": {
+            "chamanisme": "culture/spiritualite/m\u00e9decine-non-conventionnelle/ethnom\u00e9decine/chamanisme",
+            "plante-m\u00e9dicinale": "culture/spiritualite/m\u00e9decine-non-conventionnelle/ethnom\u00e9decine/plante-m\u00e9dicinale"
+        }
+    }
+}
