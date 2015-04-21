@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "manifestations-\u00e9cologiques"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/manifestations-\u00e9cologiques/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/manifestations-%C3%A9cologiques/manifestations-%C3%A9cologiques/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/manifestations-%C3%A9cologiques/manifestations-%C3%A9cologiques/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/manifestations-%C3%A9cologiques/manifestations-%C3%A9cologiques/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "manifestations-\u00e9cologiques": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques"
+        },
+        "children": {
+            "masse-critique": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques/masse-critique"
+        },
+        "parents": {
+            "\u00e9cologisme": "politique/mouvement-social/\u00e9cologisme"
+        },
+        "sisters": {
+            "crise-\u00e9cologique": "politique/mouvement-social/\u00e9cologisme/crise-\u00e9cologique",
+            "environnement": "politique/mouvement-social/\u00e9cologisme/environnement",
+            "manifestations-\u00e9cologiques": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques",
+            "politique-\u00e9cologique": "politique/mouvement-social/\u00e9cologisme/politique-\u00e9cologique"
+        }
+    }
+}
