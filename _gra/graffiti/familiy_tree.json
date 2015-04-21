@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/graffiti/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "graffiti": "culture/art-\u00e9ph\u00e9m\u00e8re/art-urbain/graffiti"
+        },
+        "parents": {
+            "art-urbain": "culture/art-\u00e9ph\u00e9m\u00e8re/art-urbain"
+        },
+        "sisters": {
+            "graffiti": "culture/art-\u00e9ph\u00e9m\u00e8re/art-urbain/graffiti"
+        }
+    }
+}
