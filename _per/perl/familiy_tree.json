@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "perl"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/perl/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/perl/perl/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/perl/perl/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/perl/perl/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "perl": "internet/programmation-web/langages-web/perl"
+        },
+        "parents": {
+            "langages-web": "internet/programmation-web/langages-web"
+        },
+        "sisters": {
+            "java": "internet/programmation-web/langages-web/java",
+            "javascript": "internet/programmation-web/langages-web/javascript",
+            "perl": "internet/programmation-web/langages-web/perl",
+            "php": "internet/programmation-web/langages-web/php"
+        }
+    }
+}
