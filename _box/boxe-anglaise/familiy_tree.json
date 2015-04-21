@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/boxe-anglaise/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/boxe-anglaise/boxe-anglaise/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/boxe-anglaise/boxe-anglaise/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/boxe-anglaise/boxe-anglaise/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise"
+        },
+        "children": {
+            "kick-boxing": "sport/sport-de-combat/boxe-anglaise/kick-boxing",
+            "muay-tha\u00ef": "sport/sport-de-combat/boxe-anglaise/muay-tha\u00ef"
+        },
+        "parents": {
+            "sport-de-combat": "sport/sport-de-combat"
+        },
+        "sisters": {
+            "art-martial": "sport/sport-de-combat/art-martial",
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise",
+            "escrime": "sport/sport-de-combat/escrime",
+            "lucha-libre": "sport/sport-de-combat/lucha-libre"
+        }
+    }
+}
