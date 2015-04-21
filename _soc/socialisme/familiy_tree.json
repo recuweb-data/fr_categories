@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "socialisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/socialisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/socialisme/socialisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/socialisme/socialisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/socialisme/socialisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "socialisme": "politique/id\u00e9ologie-politique/socialisme"
+        },
+        "children": {
+            "communisme": "politique/id\u00e9ologie-politique/socialisme/communisme",
+            "marxisme": "politique/id\u00e9ologie-politique/socialisme/marxisme",
+            "social-d\u00e9mocratie": "politique/id\u00e9ologie-politique/socialisme/social-d\u00e9mocratie"
+        },
+        "parents": {
+            "id\u00e9ologie-politique": "politique/id\u00e9ologie-politique"
+        },
+        "sisters": {
+            "capitalisme": "politique/id\u00e9ologie-politique/capitalisme",
+            "monarchisme": "politique/id\u00e9ologie-politique/monarchisme",
+            "nationalisme": "politique/id\u00e9ologie-politique/nationalisme",
+            "socialisme": "politique/id\u00e9ologie-politique/socialisme"
+        }
+    }
+}
