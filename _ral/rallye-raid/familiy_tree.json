@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "rallye-raid"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rallye-raid/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rallye-raid": "sport/sport-m\u00e9canique/sport-motocycliste/rallye-raid"
+        },
+        "parents": {
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        },
+        "sisters": {
+            "moto-cross": "sport/sport-m\u00e9canique/sport-motocycliste/moto-cross",
+            "rallye-raid": "sport/sport-m\u00e9canique/sport-motocycliste/rallye-raid",
+            "superbike": "sport/sport-m\u00e9canique/sport-motocycliste/superbike"
+        }
+    }
+}
