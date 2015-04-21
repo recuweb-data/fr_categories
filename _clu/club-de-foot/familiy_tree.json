@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/club-de-foot/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/club-de-foot/club-de-foot/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/club-de-foot/club-de-foot/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/club-de-foot/club-de-foot/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "club-de-foot": "sport/sport-de-ballon/football/club-de-foot"
+        },
+        "children": {
+            "ajax-amsterdam": "sport/sport-de-ballon/football/club-de-foot/ajax-amsterdam",
+            "associazione-calcio-milan": "sport/sport-de-ballon/football/club-de-foot/associazione-calcio-milan",
+            "olympique-de-marseille": "sport/sport-de-ballon/football/club-de-foot/olympique-de-marseille",
+            "olympique-lyonnais": "sport/sport-de-ballon/football/club-de-foot/olympique-lyonnais",
+            "valence-club-de-f\u00fatbol": "sport/sport-de-ballon/football/club-de-foot/valence-club-de-f\u00fatbol"
+        },
+        "parents": {
+            "football": "sport/sport-de-ballon/football"
+        },
+        "sisters": {
+            "club-de-foot": "sport/sport-de-ballon/football/club-de-foot",
+            "football-am\u00e9ricain": "sport/sport-de-ballon/football/football-am\u00e9ricain"
+        }
+    }
+}
