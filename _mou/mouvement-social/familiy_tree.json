@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "mouvement-social"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mouvement-social/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mouvement-social/mouvement-social/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mouvement-social/mouvement-social/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mouvement-social/mouvement-social/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mouvement-social": "politique/mouvement-social"
+        },
+        "children": {
+            "\u00e9cologisme": "politique/mouvement-social/\u00e9cologisme",
+            "agrarisme": "politique/mouvement-social/agrarisme",
+            "f\u00e9minisme": "politique/mouvement-social/f\u00e9minisme",
+            "indig\u00e9nisme": "politique/mouvement-social/indig\u00e9nisme",
+            "lobby": "politique/mouvement-social/lobby"
+        },
+        "parents": {
+            "politique": "politique"
+        },
+        "sisters": {
+            "\u00e9thique": "politique/\u00e9thique",
+            "id\u00e9ologie-politique": "politique/id\u00e9ologie-politique",
+            "mondialisation": "politique/mondialisation",
+            "mouvement-social": "politique/mouvement-social"
+        }
+    }
+}
