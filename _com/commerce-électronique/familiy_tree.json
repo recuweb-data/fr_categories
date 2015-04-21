@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/commerce-\u00e9lectronique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/commerce-%C3%A9lectronique/commerce-%C3%A9lectronique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/commerce-%C3%A9lectronique/commerce-%C3%A9lectronique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/commerce-%C3%A9lectronique/commerce-%C3%A9lectronique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique"
+        },
+        "children": {
+            "magento": "internet/application-web/commerce-\u00e9lectronique/magento"
+        },
+        "parents": {
+            "application-web": "internet/application-web"
+        },
+        "sisters": {
+            "blogs": "internet/application-web/blogs",
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique",
+            "forum-internet": "internet/application-web/forum-internet",
+            "wiki": "internet/application-web/wiki"
+        }
+    }
+}
