@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "microblog"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/microblog/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "microblog": "internet/services-web/microblog"
+        },
+        "children": {
+            "tumblr": "internet/services-web/microblog/tumblr",
+            "twitter": "internet/services-web/microblog/twitter"
+        },
+        "parents": {
+            "services-web": "internet/services-web"
+        },
+        "sisters": {
+            "microblog": "internet/services-web/microblog",
+            "r\u00e9seau-social": "internet/services-web/r\u00e9seau-social"
+        }
+    }
+}
