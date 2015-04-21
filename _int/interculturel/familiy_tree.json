@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/interculturel/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/interculturel/interculturel/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/interculturel/interculturel/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/interculturel/interculturel/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "interculturel": "politique/mondialisation/interculturel"
+        },
+        "parents": {
+            "mondialisation": "politique/mondialisation"
+        },
+        "sisters": {
+            "interculturel": "politique/mondialisation/interculturel",
+            "internationalization": "politique/mondialisation/internationalization",
+            "lib\u00e9risme": "politique/mondialisation/lib\u00e9risme"
+        }
+    }
+}
