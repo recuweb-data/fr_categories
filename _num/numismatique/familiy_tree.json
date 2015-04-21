@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "numismatique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/numismatique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "numismatique": "culture/culture-populaire/collection/numismatique"
+        },
+        "parents": {
+            "collection": "culture/culture-populaire/collection"
+        },
+        "sisters": {
+            "bibliophilie": "culture/culture-populaire/collection/bibliophilie",
+            "numismatique": "culture/culture-populaire/collection/numismatique",
+            "philat\u00e9lie": "culture/culture-populaire/collection/philat\u00e9lie"
+        }
+    }
+}
