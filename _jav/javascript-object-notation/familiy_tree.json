@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "javascript-object-notation": "internet/programmation-web/langages-web/javascript/javascript-object-notation"
+        },
+        "parents": {
+            "javascript": "internet/programmation-web/langages-web/javascript"
+        },
+        "sisters": {
+            "javascript-object-notation": "internet/programmation-web/langages-web/javascript/javascript-object-notation",
+            "jquery": "internet/programmation-web/langages-web/javascript/jquery"
+        }
+    }
+}
