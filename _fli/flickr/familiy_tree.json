@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/flickr/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "flickr": "internet/services-web/r\u00e9seau-social/flickr"
+        },
+        "parents": {
+            "r\u00e9seau-social": "internet/services-web/r\u00e9seau-social"
+        },
+        "sisters": {
+            "facebook": "internet/services-web/r\u00e9seau-social/facebook",
+            "flickr": "internet/services-web/r\u00e9seau-social/flickr",
+            "linkedin": "internet/services-web/r\u00e9seau-social/linkedin",
+            "tuenti": "internet/services-web/r\u00e9seau-social/tuenti"
+        }
+    }
+}
