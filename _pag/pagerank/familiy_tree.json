@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pagerank"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pagerank/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "pagerank": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/pagerank"
+        },
+        "parents": {
+            "optimisation-pour-les-moteurs-de-recherche": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche"
+        },
+        "sisters": {
+            "microformat": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/microformat",
+            "pagerank": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/pagerank",
+            "publicit\u00e9-contextuelle": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/publicit\u00e9-contextuelle",
+            "recherche-s\u00e9mantique": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/recherche-s\u00e9mantique",
+            "spamdexing": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/spamdexing"
+        }
+    }
+}
