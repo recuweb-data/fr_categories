@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/encierros/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/encierros/encierros/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/encierros/encierros/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/encierros/encierros/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "encierros": "culture/culture-populaire/tauromachie/encierros"
+        },
+        "parents": {
+            "tauromachie": "culture/culture-populaire/tauromachie"
+        },
+        "sisters": {
+            "encierro": "culture/culture-populaire/tauromachie/encierro",
+            "encierros": "culture/culture-populaire/tauromachie/encierros",
+            "rejoneos": "culture/culture-populaire/tauromachie/rejoneos",
+            "torero": "culture/culture-populaire/tauromachie/torero",
+            "toreros": "culture/culture-populaire/tauromachie/toreros"
+        }
+    }
+}
