@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": "science-militaire"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/science-militaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/science-militaire/science-militaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/science-militaire/science-militaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/science-militaire/science-militaire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "science-militaire": "technologie/ingenierie/science-militaire"
+        },
+        "children": {
+            "fortification": "technologie/ingenierie/science-militaire/fortification",
+            "tactique-militaire": "technologie/ingenierie/science-militaire/tactique-militaire"
+        },
+        "parents": {
+            "ingenierie": "technologie/ingenierie"
+        },
+        "sisters": {
+            "\u00e9lectrom\u00e9canique": "technologie/ingenierie/\u00e9lectrom\u00e9canique",
+            "g\u00e9nie-\u00e9cologique": "technologie/ingenierie/g\u00e9nie-\u00e9cologique",
+            "g\u00e9nie-chimique": "technologie/ingenierie/g\u00e9nie-chimique",
+            "g\u00e9nie-civil": "technologie/ingenierie/g\u00e9nie-civil",
+            "g\u00e9nie-m\u00e9canique": "technologie/ingenierie/g\u00e9nie-m\u00e9canique",
+            "ing\u00e9nierie-et-technologie-spatiale": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale",
+            "science-militaire": "technologie/ingenierie/science-militaire"
+        },
+        "grandchildren": {
+            "base-a\u00e9rienne": "technologie/ingenierie/science-militaire/fortification/base-a\u00e9rienne"
+        }
+    }
+}
