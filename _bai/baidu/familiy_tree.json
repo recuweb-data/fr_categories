@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/baidu/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/baidu/baidu/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/baidu/baidu/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baidu/baidu/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "baidu": "internet/audience-un-site-web/moteur-de-recherche/baidu"
+        },
+        "parents": {
+            "moteur-de-recherche": "internet/audience-un-site-web/moteur-de-recherche"
+        },
+        "sisters": {
+            "baidu": "internet/audience-un-site-web/moteur-de-recherche/baidu",
+            "bing": "internet/audience-un-site-web/moteur-de-recherche/bing",
+            "google": "internet/audience-un-site-web/moteur-de-recherche/google",
+            "yahoo": "internet/audience-un-site-web/moteur-de-recherche/yahoo",
+            "yandex": "internet/audience-un-site-web/moteur-de-recherche/yandex"
+        }
+    }
+}
