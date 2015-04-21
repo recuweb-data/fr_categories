@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/environnement/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/environnement/environnement/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/environnement/environnement/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/environnement/environnement/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "environnement": "politique/mouvement-social/\u00e9cologisme/environnement"
+        },
+        "parents": {
+            "\u00e9cologisme": "politique/mouvement-social/\u00e9cologisme"
+        },
+        "sisters": {
+            "crise-\u00e9cologique": "politique/mouvement-social/\u00e9cologisme/crise-\u00e9cologique",
+            "environnement": "politique/mouvement-social/\u00e9cologisme/environnement",
+            "manifestations-\u00e9cologiques": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques",
+            "politique-\u00e9cologique": "politique/mouvement-social/\u00e9cologisme/politique-\u00e9cologique"
+        }
+    }
+}
