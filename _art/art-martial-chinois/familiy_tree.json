@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial-chinois/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial-chinois/art-martial-chinois/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial-chinois/art-martial-chinois/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial-chinois/art-martial-chinois/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "art-martial-chinois": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois"
+        },
+        "children": {
+            "kung-fu": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois/kung-fu"
+        },
+        "parents": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique"
+        },
+        "sisters": {
+            "art-martial-chinois": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois",
+            "art-martial-cor\u00e9en": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en",
+            "arts-martiaux-japonais": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais"
+        }
+    }
+}
