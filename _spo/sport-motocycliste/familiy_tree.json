@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "sport-motocycliste"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-motocycliste/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        },
+        "children": {
+            "moto-cross": "sport/sport-m\u00e9canique/sport-motocycliste/moto-cross",
+            "rallye-raid": "sport/sport-m\u00e9canique/sport-motocycliste/rallye-raid",
+            "superbike": "sport/sport-m\u00e9canique/sport-motocycliste/superbike"
+        },
+        "parents": {
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique"
+        },
+        "sisters": {
+            "aeronautique": "sport/sport-m\u00e9canique/aeronautique",
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile",
+            "motonautisme": "sport/sport-m\u00e9canique/motonautisme",
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        }
+    }
+}
