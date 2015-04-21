@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "religion-abrahamique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion-abrahamique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion-abrahamique/religion-abrahamique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion-abrahamique/religion-abrahamique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-abrahamique/religion-abrahamique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique"
+        },
+        "children": {
+            "baha\u00efsme": "culture/religion/religion-abrahamique/baha\u00efsme",
+            "christianisme": "culture/religion/religion-abrahamique/christianisme",
+            "islam": "culture/religion/religion-abrahamique/islam",
+            "juda\u00efsme": "culture/religion/religion-abrahamique/juda\u00efsme"
+        },
+        "parents": {
+            "religion": "culture/religion"
+        },
+        "sisters": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique",
+            "religion-en-inde": "culture/religion/religion-en-inde",
+            "religion-orientale": "culture/religion/religion-orientale",
+            "religions-abrahamiques": "culture/religion/religions-abrahamiques"
+        },
+        "grandchildren": {
+            "\u00e9glise-orthodoxe": "culture/religion/religion-abrahamique/christianisme/\u00e9glise-orthodoxe",
+            "anglicanisme": "culture/religion/religion-abrahamique/christianisme/anglicanisme",
+            "catholicisme": "culture/religion/religion-abrahamique/christianisme/catholicisme",
+            "mormonisme": "culture/religion/religion-abrahamique/christianisme/mormonisme",
+            "protestantisme": "culture/religion/religion-abrahamique/christianisme/protestantisme",
+            "chiisme": "culture/religion/religion-abrahamique/islam/chiisme",
+            "soufisme": "culture/religion/religion-abrahamique/islam/soufisme",
+            "sunnisme": "culture/religion/religion-abrahamique/islam/sunnisme"
+        }
+    }
+}
