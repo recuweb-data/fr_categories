@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "source-chaude"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/source-chaude/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "source-chaude": "culture/spiritualite/m\u00e9decine-non-conventionnelle/source-chaude"
+        },
+        "parents": {
+            "m\u00e9decine-non-conventionnelle": "culture/spiritualite/m\u00e9decine-non-conventionnelle"
+        },
+        "sisters": {
+            "ethnom\u00e9decine": "culture/spiritualite/m\u00e9decine-non-conventionnelle/ethnom\u00e9decine",
+            "hom\u00e9opathie": "culture/spiritualite/m\u00e9decine-non-conventionnelle/hom\u00e9opathie",
+            "pratique-\u00e9nerg\u00e9tique": "culture/spiritualite/m\u00e9decine-non-conventionnelle/pratique-\u00e9nerg\u00e9tique",
+            "source-chaude": "culture/spiritualite/m\u00e9decine-non-conventionnelle/source-chaude"
+        }
+    }
+}
