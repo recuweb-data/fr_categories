@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/doublage/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/doublage/doublage/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/doublage/doublage/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/doublage/doublage/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "doublage": "technologie/telecommunications/technologie-vid\u00e9o/doublage"
+        },
+        "parents": {
+            "technologie-vid\u00e9o": "technologie/telecommunications/technologie-vid\u00e9o"
+        },
+        "sisters": {
+            "clip": "technologie/telecommunications/technologie-vid\u00e9o/clip",
+            "doublage": "technologie/telecommunications/technologie-vid\u00e9o/doublage",
+            "sous-titrage": "technologie/telecommunications/technologie-vid\u00e9o/sous-titrage",
+            "television": "technologie/telecommunications/technologie-vid\u00e9o/television"
+        }
+    }
+}
