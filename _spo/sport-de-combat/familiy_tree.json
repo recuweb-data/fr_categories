@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "portal_name": "sport-de-combat"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-de-combat/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport-de-combat": "sport/sport-de-combat"
+        },
+        "children": {
+            "art-martial": "sport/sport-de-combat/art-martial",
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise",
+            "escrime": "sport/sport-de-combat/escrime",
+            "lucha-libre": "sport/sport-de-combat/lucha-libre"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme",
+            "athletisme": "sport/athletisme",
+            "football": "sport/football",
+            "jeux-olympiques": "sport/jeux-olympiques",
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral",
+            "sport-de-ballon": "sport/sport-de-ballon",
+            "sport-de-combat": "sport/sport-de-combat",
+            "sport-extr\u00eame": "sport/sport-extr\u00eame",
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "sports-nautiques": "sport/sports-nautiques"
+        },
+        "grandchildren": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique",
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains",
+            "mixed-martial-arts": "sport/sport-de-combat/art-martial/mixed-martial-arts",
+            "kick-boxing": "sport/sport-de-combat/boxe-anglaise/kick-boxing",
+            "muay-tha\u00ef": "sport/sport-de-combat/boxe-anglaise/muay-tha\u00ef",
+            "lutte-gr\u00e9co-romaine": "sport/sport-de-combat/lucha-libre/lutte-gr\u00e9co-romaine"
+        }
+    }
+}
