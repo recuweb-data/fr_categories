@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/adwords/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/adwords/adwords/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/adwords/adwords/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "adwords": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/publicit\u00e9-contextuelle/adwords"
+        },
+        "parents": {
+            "publicit\u00e9-contextuelle": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/publicit\u00e9-contextuelle"
+        },
+        "sisters": {
+            "adwords": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche/publicit\u00e9-contextuelle/adwords"
+        }
+    }
+}
