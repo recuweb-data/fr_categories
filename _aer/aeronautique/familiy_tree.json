@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/aeronautique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "aeronautique": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/aeronautique"
+        },
+        "children": {
+            "voltige-a\u00e9rienne": "sport/sport-m\u00e9canique/aeronautique/voltige-a\u00e9rienne",
+            "aviation-civile": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/aeronautique/aviation-civile",
+            "navigation-a\u00e9rienne": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/aeronautique/navigation-a\u00e9rienne"
+        },
+        "parents": {
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "ing\u00e9nierie-et-technologie-spatiale": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale"
+        },
+        "sisters": {
+            "aeronautique": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/aeronautique",
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile",
+            "motonautisme": "sport/sport-m\u00e9canique/motonautisme",
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste",
+            "a\u00e9ronef": "technologie/ingenierie/ing\u00e9nierie-et-technologie-spatiale/a\u00e9ronef"
+        }
+    }
+}
