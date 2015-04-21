@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "rejoneos"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rejoneos/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rejoneos/rejoneos/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rejoneos/rejoneos/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rejoneos/rejoneos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rejoneos": "culture/culture-populaire/tauromachie/rejoneos"
+        },
+        "parents": {
+            "tauromachie": "culture/culture-populaire/tauromachie"
+        },
+        "sisters": {
+            "encierro": "culture/culture-populaire/tauromachie/encierro",
+            "encierros": "culture/culture-populaire/tauromachie/encierros",
+            "rejoneos": "culture/culture-populaire/tauromachie/rejoneos",
+            "torero": "culture/culture-populaire/tauromachie/torero",
+            "toreros": "culture/culture-populaire/tauromachie/toreros"
+        }
+    }
+}
