@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "motomarine"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/motomarine/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/motomarine/motomarine/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/motomarine/motomarine/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/motomarine/motomarine/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "motomarine": "sport/sport-m\u00e9canique/motonautisme/motomarine"
+        },
+        "parents": {
+            "motonautisme": "sport/sport-m\u00e9canique/motonautisme"
+        },
+        "sisters": {
+            "motomarine": "sport/sport-m\u00e9canique/motonautisme/motomarine"
+        }
+    }
+}
