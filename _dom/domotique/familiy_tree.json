@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/domotique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "domotique": "technologie/robotique/domotique"
+        },
+        "parents": {
+            "robotique": "technologie/robotique"
+        },
+        "sisters": {
+            "domotique": "technologie/robotique/domotique"
+        }
+    }
+}
