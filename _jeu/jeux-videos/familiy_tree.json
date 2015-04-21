@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeux-videos/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "jeux-videos": "lifestyle/jeux-videos"
+        },
+        "children": {
+            "playstation": "lifestyle/jeux-videos/playstation",
+            "xbox": "lifestyle/jeux-videos/xbox"
+        },
+        "parents": {
+            "lifestyle": "lifestyle"
+        },
+        "sisters": {
+            "amour": "lifestyle/amour",
+            "animal-de-compagnie": "lifestyle/animal-de-compagnie",
+            "boisson": "lifestyle/boisson",
+            "d\u00e9veloppement-personnel": "lifestyle/d\u00e9veloppement-personnel",
+            "divertissement": "lifestyle/divertissement",
+            "emploi": "lifestyle/emploi",
+            "gestion-du-temps": "lifestyle/gestion-du-temps",
+            "honneur": "lifestyle/honneur",
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o",
+            "jeux-videos": "lifestyle/jeux-videos",
+            "loisirs": "lifestyle/loisirs",
+            "nourriture": "lifestyle/nourriture",
+            "simplicit\u00e9-volontaire": "lifestyle/simplicit\u00e9-volontaire",
+            "temps-libre": "lifestyle/temps-libre",
+            "vie-priv\u00e9e": "lifestyle/vie-priv\u00e9e"
+        }
+    }
+}
