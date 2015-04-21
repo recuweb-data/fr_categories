@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "muay-tha\u00ef"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/muay-tha\u00ef/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/muay-tha%C3%AF/muay-tha%C3%AF/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/muay-tha%C3%AF/muay-tha%C3%AF/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/muay-tha%C3%AF/muay-tha%C3%AF/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "muay-tha\u00ef": "sport/sport-de-combat/boxe-anglaise/muay-tha\u00ef"
+        },
+        "parents": {
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise"
+        },
+        "sisters": {
+            "kick-boxing": "sport/sport-de-combat/boxe-anglaise/kick-boxing",
+            "muay-tha\u00ef": "sport/sport-de-combat/boxe-anglaise/muay-tha\u00ef"
+        }
+    }
+}
