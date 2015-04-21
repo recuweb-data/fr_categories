@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/competition-automobile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile"
+        },
+        "children": {
+            "course-sur-route": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route",
+            "drift": "sport/sport-m\u00e9canique/competition-automobile/drift",
+            "karting": "sport/sport-m\u00e9canique/competition-automobile/karting",
+            "rallye-automobile": "sport/sport-m\u00e9canique/competition-automobile/rallye-automobile"
+        },
+        "parents": {
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique"
+        },
+        "sisters": {
+            "aeronautique": "sport/sport-m\u00e9canique/aeronautique",
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile",
+            "motonautisme": "sport/sport-m\u00e9canique/motonautisme",
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        }
+    }
+}
