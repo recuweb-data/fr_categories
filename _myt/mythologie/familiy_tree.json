@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "mythologie"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mythologie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mythologie": "culture/spiritualite/mythologie"
+        },
+        "parents": {
+            "spiritualite": "culture/spiritualite"
+        },
+        "sisters": {
+            "\u00e9sot\u00e9risme": "culture/spiritualite/\u00e9sot\u00e9risme",
+            "m\u00e9decine-non-conventionnelle": "culture/spiritualite/m\u00e9decine-non-conventionnelle",
+            "mystique": "culture/spiritualite/mystique",
+            "mythologie": "culture/spiritualite/mythologie",
+            "paganisme": "culture/spiritualite/paganisme",
+            "surnaturel": "culture/spiritualite/surnaturel"
+        }
+    }
+}
