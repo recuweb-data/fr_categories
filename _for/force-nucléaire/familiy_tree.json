@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/force-nucl\u00e9aire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/force-nucl%C3%A9aire/force-nucl%C3%A9aire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/force-nucl%C3%A9aire/force-nucl%C3%A9aire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/force-nucl%C3%A9aire/force-nucl%C3%A9aire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "force-nucl\u00e9aire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-nucl\u00e9aire/force-nucl\u00e9aire"
+        },
+        "parents": {
+            "\u00e9nergie-nucl\u00e9aire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-nucl\u00e9aire"
+        },
+        "sisters": {
+            "force-nucl\u00e9aire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-nucl\u00e9aire/force-nucl\u00e9aire"
+        }
+    }
+}
