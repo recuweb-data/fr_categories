@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "philanthropie"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/philanthropie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "philanthropie": "culture/culture-populaire/altruisme/philanthropie"
+        },
+        "parents": {
+            "altruisme": "culture/culture-populaire/altruisme"
+        },
+        "sisters": {
+            "b\u00e9n\u00e9volat": "culture/culture-populaire/altruisme/b\u00e9n\u00e9volat",
+            "philanthropie": "culture/culture-populaire/altruisme/philanthropie"
+        }
+    }
+}
