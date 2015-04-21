@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "scrabble"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/scrabble/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/scrabble/scrabble/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/scrabble/scrabble/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/scrabble/scrabble/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "scrabble": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/scrabble"
+        },
+        "parents": {
+            "jeu-de-table": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table"
+        },
+        "sisters": {
+            "\u00e9checs": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/\u00e9checs",
+            "backgammon": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/backgammon",
+            "scrabble": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/scrabble"
+        }
+    }
+}
