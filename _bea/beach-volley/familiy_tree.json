@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/beach-volley/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/beach-volley/beach-volley/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/beach-volley/beach-volley/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/beach-volley/beach-volley/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "beach-volley": "sport/sport-de-ballon/volley-ball/beach-volley"
+        },
+        "parents": {
+            "volley-ball": "sport/sport-de-ballon/volley-ball"
+        },
+        "sisters": {
+            "beach-volley": "sport/sport-de-ballon/volley-ball/beach-volley"
+        }
+    }
+}
