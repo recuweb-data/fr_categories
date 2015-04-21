@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "rafting"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rafting/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "rafting": "sport/sports-nautiques/rafting"
+        },
+        "parents": {
+            "sports-nautiques": "sport/sports-nautiques"
+        },
+        "sisters": {
+            "bodyboard": "sport/sports-nautiques/bodyboard",
+            "cano\u00eb-kayak": "sport/sports-nautiques/cano\u00eb-kayak",
+            "natation-sportive": "sport/sports-nautiques/natation-sportive",
+            "p\u00eache-sportive": "sport/sports-nautiques/p\u00eache-sportive",
+            "rafting": "sport/sports-nautiques/rafting",
+            "regate": "sport/sports-nautiques/regate",
+            "ski-nautique": "sport/sports-nautiques/ski-nautique",
+            "water-polo": "sport/sports-nautiques/water-polo"
+        }
+    }
+}
