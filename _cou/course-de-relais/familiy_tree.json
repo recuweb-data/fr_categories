@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/course-de-relais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "course-de-relais": "sport/athletisme/course-de-relais"
+        },
+        "parents": {
+            "athletisme": "sport/athletisme"
+        },
+        "sisters": {
+            "course-de-relais": "sport/athletisme/course-de-relais",
+            "lancer-du-javelot": "sport/athletisme/lancer-du-javelot",
+            "marathon": "sport/athletisme/marathon",
+            "saut-\u00e0-la-perche": "sport/athletisme/saut-\u00e0-la-perche",
+            "saut-en-hauteur": "sport/athletisme/saut-en-hauteur",
+            "triathlon": "sport/athletisme/triathlon",
+            "triple-saut": "sport/athletisme/triple-saut"
+        }
+    }
+}
