@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/arts-martiaux-am\u00e9ricains/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-am%C3%A9ricains/arts-martiaux-am%C3%A9ricains/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-am%C3%A9ricains/arts-martiaux-am%C3%A9ricains/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-am%C3%A9ricains/arts-martiaux-am%C3%A9ricains/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains"
+        },
+        "children": {
+            "capoeira": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains/capoeira"
+        },
+        "parents": {
+            "art-martial": "sport/sport-de-combat/art-martial"
+        },
+        "sisters": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique",
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains",
+            "mixed-martial-arts": "sport/sport-de-combat/art-martial/mixed-martial-arts"
+        }
+    }
+}
