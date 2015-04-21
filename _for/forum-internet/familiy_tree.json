@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/forum-internet/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "forum-internet": "internet/application-web/forum-internet"
+        },
+        "children": {
+            "phpbb": "internet/application-web/forum-internet/phpbb"
+        },
+        "parents": {
+            "application-web": "internet/application-web"
+        },
+        "sisters": {
+            "blogs": "internet/application-web/blogs",
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique",
+            "forum-internet": "internet/application-web/forum-internet",
+            "wiki": "internet/application-web/wiki"
+        }
+    }
+}
