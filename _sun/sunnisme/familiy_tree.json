@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "sunnisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sunnisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sunnisme": "culture/religion/religion-abrahamique/islam/sunnisme"
+        },
+        "parents": {
+            "islam": "culture/religion/religion-abrahamique/islam"
+        },
+        "sisters": {
+            "chiisme": "culture/religion/religion-abrahamique/islam/chiisme",
+            "soufisme": "culture/religion/religion-abrahamique/islam/soufisme",
+            "sunnisme": "culture/religion/religion-abrahamique/islam/sunnisme"
+        }
+    }
+}
