@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "strat\u00e8ge"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/strat\u00e8ge/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/strat%C3%A8ge/strat%C3%A8ge/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/strat%C3%A8ge/strat%C3%A8ge/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/strat%C3%A8ge/strat%C3%A8ge/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "strat\u00e8ge": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge"
+        },
+        "children": {
+            "carl-von-clausewitz": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge/carl-von-clausewitz",
+            "p\u00e9ricl\u00e8s": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge/p\u00e9ricl\u00e8s"
+        },
+        "parents": {
+            "strat\u00e9gie-militaire": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire"
+        },
+        "sisters": {
+            "strat\u00e8ge": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge"
+        }
+    }
+}
