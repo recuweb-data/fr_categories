@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/canyonisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "canyonisme": "sport/sport-extr\u00eame/escalade/canyonisme"
+        },
+        "parents": {
+            "escalade": "sport/sport-extr\u00eame/escalade"
+        },
+        "sisters": {
+            "canyonisme": "sport/sport-extr\u00eame/escalade/canyonisme",
+            "escalade-glaciaire": "sport/sport-extr\u00eame/escalade/escalade-glaciaire"
+        }
+    }
+}
