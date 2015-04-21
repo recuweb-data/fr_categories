@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "saut-en-hauteur"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-en-hauteur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "saut-en-hauteur": "sport/athletisme/saut-en-hauteur"
+        },
+        "parents": {
+            "athletisme": "sport/athletisme"
+        },
+        "sisters": {
+            "course-de-relais": "sport/athletisme/course-de-relais",
+            "lancer-du-javelot": "sport/athletisme/lancer-du-javelot",
+            "marathon": "sport/athletisme/marathon",
+            "saut-\u00e0-la-perche": "sport/athletisme/saut-\u00e0-la-perche",
+            "saut-en-hauteur": "sport/athletisme/saut-en-hauteur",
+            "triathlon": "sport/athletisme/triathlon",
+            "triple-saut": "sport/athletisme/triple-saut"
+        }
+    }
+}
