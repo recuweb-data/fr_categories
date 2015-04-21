@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "superbike"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/superbike/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/superbike/superbike/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/superbike/superbike/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/superbike/superbike/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "superbike": "sport/sport-m\u00e9canique/sport-motocycliste/superbike"
+        },
+        "children": {
+            "speedway": "sport/sport-m\u00e9canique/sport-motocycliste/superbike/speedway"
+        },
+        "parents": {
+            "sport-motocycliste": "sport/sport-m\u00e9canique/sport-motocycliste"
+        },
+        "sisters": {
+            "moto-cross": "sport/sport-m\u00e9canique/sport-motocycliste/moto-cross",
+            "rallye-raid": "sport/sport-m\u00e9canique/sport-motocycliste/rallye-raid",
+            "superbike": "sport/sport-m\u00e9canique/sport-motocycliste/superbike"
+        }
+    }
+}
