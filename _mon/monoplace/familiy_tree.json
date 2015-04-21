@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "monoplace"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/monoplace/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/monoplace/monoplace/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/monoplace/monoplace/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/monoplace/monoplace/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "monoplace": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace"
+        },
+        "children": {
+            "formule": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace/formule"
+        },
+        "parents": {
+            "course-sur-route": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route"
+        },
+        "sisters": {
+            "monoplace": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace",
+            "sport-prototypes": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/sport-prototypes",
+            "supercar": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/supercar"
+        }
+    }
+}
