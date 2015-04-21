@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/biomasse/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/biomasse/biomasse/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/biomasse/biomasse/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/biomasse/biomasse/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "biomasse": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/biomasse"
+        },
+        "parents": {
+            "\u00e9nergie-renouvelable": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable"
+        },
+        "sisters": {
+            "\u00e9nergie-\u00e9olienne": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/\u00e9nergie-\u00e9olienne",
+            "\u00e9nergie-cin\u00e9tique": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/\u00e9nergie-cin\u00e9tique",
+            "\u00e9nergie-hydraulique": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/\u00e9nergie-hydraulique",
+            "\u00e9nergie-mar\u00e9motrice": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/\u00e9nergie-mar\u00e9motrice",
+            "\u00e9nergie-osmotique": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/\u00e9nergie-osmotique",
+            "\u00e9nergie-solaire": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/\u00e9nergie-solaire",
+            "biomasse": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/biomasse",
+            "g\u00e9othermie": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/g\u00e9othermie",
+            "thermo\u00e9lectricit\u00e9": "technologie/\u00e9nergie-\u00e9lectrique/\u00e9nergie-renouvelable/thermo\u00e9lectricit\u00e9"
+        }
+    }
+}
