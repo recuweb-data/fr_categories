@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/divertissement/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "divertissement": "lifestyle/divertissement"
+        },
+        "children": {
+            "aventure": "lifestyle/divertissement/aventure",
+            "danse": "lifestyle/divertissement/danse",
+            "humour": "lifestyle/divertissement/humour",
+            "jeu-vid\u00e9o": "lifestyle/divertissement/jeu-vid\u00e9o",
+            "jouet": "lifestyle/divertissement/jouet",
+            "musique": "lifestyle/divertissement/musique",
+            "pom-pom-girl": "lifestyle/divertissement/pom-pom-girl",
+            "th\u00e9\u00e2tre": "lifestyle/divertissement/th\u00e9\u00e2tre",
+            "vie-nocturne": "lifestyle/divertissement/vie-nocturne"
+        },
+        "parents": {
+            "lifestyle": "lifestyle"
+        },
+        "sisters": {
+            "amour": "lifestyle/amour",
+            "animal-de-compagnie": "lifestyle/animal-de-compagnie",
+            "boisson": "lifestyle/boisson",
+            "d\u00e9veloppement-personnel": "lifestyle/d\u00e9veloppement-personnel",
+            "divertissement": "lifestyle/divertissement",
+            "emploi": "lifestyle/emploi",
+            "gestion-du-temps": "lifestyle/gestion-du-temps",
+            "honneur": "lifestyle/honneur",
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o",
+            "jeux-videos": "lifestyle/jeux-videos",
+            "loisirs": "lifestyle/loisirs",
+            "nourriture": "lifestyle/nourriture",
+            "simplicit\u00e9-volontaire": "lifestyle/simplicit\u00e9-volontaire",
+            "temps-libre": "lifestyle/temps-libre",
+            "vie-priv\u00e9e": "lifestyle/vie-priv\u00e9e"
+        }
+    }
+}
