@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "surf"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/surf/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/surf/surf/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/surf/surf/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/surf/surf/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "surf": "sport/sport-extr\u00eame/surf"
+        },
+        "children": {
+            "kitesurf": "sport/sport-extr\u00eame/surf/kitesurf",
+            "planche-\u00e0-voile": "sport/sport-extr\u00eame/surf/planche-\u00e0-voile"
+        },
+        "parents": {
+            "sport-extr\u00eame": "sport/sport-extr\u00eame"
+        },
+        "sisters": {
+            "escalada": "sport/sport-extr\u00eame/escalada",
+            "escalade": "sport/sport-extr\u00eame/escalade",
+            "parachutisme": "sport/sport-extr\u00eame/parachutisme",
+            "snowboard": "sport/sport-extr\u00eame/snowboard",
+            "surf": "sport/sport-extr\u00eame/surf"
+        }
+    }
+}
