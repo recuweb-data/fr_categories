@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "mondialisation"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mondialisation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "mondialisation": "politique/mondialisation"
+        },
+        "children": {
+            "interculturel": "politique/mondialisation/interculturel",
+            "internationalization": "politique/mondialisation/internationalization",
+            "lib\u00e9risme": "politique/mondialisation/lib\u00e9risme"
+        },
+        "parents": {
+            "politique": "politique"
+        },
+        "sisters": {
+            "\u00e9thique": "politique/\u00e9thique",
+            "id\u00e9ologie-politique": "politique/id\u00e9ologie-politique",
+            "mondialisation": "politique/mondialisation",
+            "mouvement-social": "politique/mouvement-social"
+        }
+    }
+}
