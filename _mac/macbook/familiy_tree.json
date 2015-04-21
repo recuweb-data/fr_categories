@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "macbook"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/macbook/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/macbook/macbook/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/macbook/macbook/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/macbook/macbook/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "macbook": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/macbook"
+        },
+        "parents": {
+            "macintosh": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh"
+        },
+        "sisters": {
+            "imac": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/imac",
+            "mac-mini": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/mac-mini",
+            "macbook": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/macbook",
+            "powerbook": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/constructeur-informatique/apple-hardware/macintosh/powerbook"
+        }
+    }
+}
