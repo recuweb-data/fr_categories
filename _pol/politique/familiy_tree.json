@@ -1,0 +1,48 @@
+{
+    "meta": {
+        "portal_name": "politique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/politique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/politique/politique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/politique/politique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/politique/politique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "politique": "politique"
+        },
+        "children": {
+            "\u00e9thique": "politique/\u00e9thique",
+            "id\u00e9ologie-politique": "politique/id\u00e9ologie-politique",
+            "mondialisation": "politique/mondialisation",
+            "mouvement-social": "politique/mouvement-social"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "\u00e9conomie": "\u00e9conomie",
+            "culture": "culture",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "nature": "nature",
+            "politique": "politique",
+            "sant\u00e9": "sant\u00e9",
+            "science": "science",
+            "soci\u00e9t\u00e9": "soci\u00e9t\u00e9",
+            "sport": "sport",
+            "technologie": "technologie"
+        },
+        "grandchildren": {
+            "interculturel": "politique/mondialisation/interculturel",
+            "internationalization": "politique/mondialisation/internationalization",
+            "lib\u00e9risme": "politique/mondialisation/lib\u00e9risme",
+            "\u00e9cologisme": "politique/mouvement-social/\u00e9cologisme",
+            "agrarisme": "politique/mouvement-social/agrarisme",
+            "f\u00e9minisme": "politique/mouvement-social/f\u00e9minisme",
+            "indig\u00e9nisme": "politique/mouvement-social/indig\u00e9nisme",
+            "lobby": "politique/mouvement-social/lobby"
+        }
+    }
+}
