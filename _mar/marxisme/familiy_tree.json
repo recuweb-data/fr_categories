@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "marxisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/marxisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/marxisme/marxisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/marxisme/marxisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/marxisme/marxisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "marxisme": "politique/id\u00e9ologie-politique/socialisme/marxisme"
+        },
+        "parents": {
+            "socialisme": "politique/id\u00e9ologie-politique/socialisme"
+        },
+        "sisters": {
+            "communisme": "politique/id\u00e9ologie-politique/socialisme/communisme",
+            "marxisme": "politique/id\u00e9ologie-politique/socialisme/marxisme",
+            "social-d\u00e9mocratie": "politique/id\u00e9ologie-politique/socialisme/social-d\u00e9mocratie"
+        }
+    }
+}
