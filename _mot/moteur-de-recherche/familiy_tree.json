@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": "moteur-de-recherche"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "moteur-de-recherche": "internet/audience-un-site-web/moteur-de-recherche"
+        },
+        "children": {
+            "baidu": "internet/audience-un-site-web/moteur-de-recherche/baidu",
+            "bing": "internet/audience-un-site-web/moteur-de-recherche/bing",
+            "google": "internet/audience-un-site-web/moteur-de-recherche/google",
+            "yahoo": "internet/audience-un-site-web/moteur-de-recherche/yahoo",
+            "yandex": "internet/audience-un-site-web/moteur-de-recherche/yandex"
+        },
+        "parents": {
+            "audience-un-site-web": "internet/audience-un-site-web"
+        },
+        "sisters": {
+            "audience-web": "internet/audience-un-site-web/audience-web",
+            "moteur-de-recherche": "internet/audience-un-site-web/moteur-de-recherche",
+            "optimisation-pour-les-moteurs-de-recherche": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche"
+        }
+    }
+}
