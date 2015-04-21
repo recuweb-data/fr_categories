@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial-asiatique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial-asiatique/art-martial-asiatique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial-asiatique/art-martial-asiatique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial-asiatique/art-martial-asiatique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique"
+        },
+        "children": {
+            "art-martial-chinois": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois",
+            "art-martial-cor\u00e9en": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en",
+            "arts-martiaux-japonais": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais"
+        },
+        "parents": {
+            "art-martial": "sport/sport-de-combat/art-martial"
+        },
+        "sisters": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique",
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains",
+            "mixed-martial-arts": "sport/sport-de-combat/art-martial/mixed-martial-arts"
+        },
+        "grandchildren": {
+            "kung-fu": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois/kung-fu",
+            "ju-jitsu": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/ju-jitsu",
+            "judo": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/judo",
+            "karat\u00e9": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/karat\u00e9",
+            "ninjutsu": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais/ninjutsu"
+        }
+    }
+}
