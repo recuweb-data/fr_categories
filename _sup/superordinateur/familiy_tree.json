@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "superordinateur"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/superordinateur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "superordinateur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/ordinateur/superordinateur"
+        },
+        "parents": {
+            "ordinateur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/ordinateur"
+        },
+        "sisters": {
+            "ordinateur-personnel": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/ordinateur/ordinateur-personnel",
+            "superordinateur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/ordinateur/superordinateur"
+        }
+    }
+}
