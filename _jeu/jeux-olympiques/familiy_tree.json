@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeux-olympiques/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeux-olympiques/jeux-olympiques/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeux-olympiques/jeux-olympiques/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeux-olympiques/jeux-olympiques/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "jeux-olympiques": "sport/jeux-olympiques"
+        },
+        "parents": {
+            "sport": "sport"
+        },
+        "sisters": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme",
+            "athletisme": "sport/athletisme",
+            "football": "sport/football",
+            "jeux-olympiques": "sport/jeux-olympiques",
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral",
+            "sport-de-ballon": "sport/sport-de-ballon",
+            "sport-de-combat": "sport/sport-de-combat",
+            "sport-extr\u00eame": "sport/sport-extr\u00eame",
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "sports-nautiques": "sport/sports-nautiques"
+        }
+    }
+}
