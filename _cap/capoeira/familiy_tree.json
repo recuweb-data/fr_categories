@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/capoeira/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/capoeira/capoeira/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/capoeira/capoeira/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/capoeira/capoeira/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "capoeira": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains/capoeira"
+        },
+        "parents": {
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains"
+        },
+        "sisters": {
+            "capoeira": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains/capoeira"
+        }
+    }
+}
