@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/audience-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "audience-web": "internet/audience-un-site-web/audience-web"
+        },
+        "children": {
+            "awstats": "internet/audience-un-site-web/audience-web/awstats"
+        },
+        "parents": {
+            "audience-un-site-web": "internet/audience-un-site-web"
+        },
+        "sisters": {
+            "audience-web": "internet/audience-un-site-web/audience-web",
+            "moteur-de-recherche": "internet/audience-un-site-web/moteur-de-recherche",
+            "optimisation-pour-les-moteurs-de-recherche": "internet/audience-un-site-web/optimisation-pour-les-moteurs-de-recherche"
+        }
+    }
+}
