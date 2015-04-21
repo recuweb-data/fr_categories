@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeu-de-table/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "jeu-de-table": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table"
+        },
+        "children": {
+            "\u00e9checs": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/\u00e9checs",
+            "backgammon": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/backgammon",
+            "scrabble": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table/scrabble"
+        },
+        "parents": {
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral"
+        },
+        "sisters": {
+            "jeu-de-cartes": "sport/sport-c\u00e9r\u00e9bral/jeu-de-cartes",
+            "jeu-de-table": "sport/sport-c\u00e9r\u00e9bral/jeu-de-table"
+        }
+    }
+}
