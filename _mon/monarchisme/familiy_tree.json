@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": "monarchisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/monarchisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/monarchisme/monarchisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/monarchisme/monarchisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/monarchisme/monarchisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "monarchisme": "politique/id\u00e9ologie-politique/monarchisme"
+        },
+        "children": {
+            "empire": "politique/id\u00e9ologie-politique/monarchisme/empire",
+            "liste-de-g\u00e9n\u00e9alogies-imp\u00e9riales-royales-et-princi\u00e8res": "politique/id\u00e9ologie-politique/monarchisme/liste-de-g\u00e9n\u00e9alogies-imp\u00e9riales-royales-et-princi\u00e8res",
+            "r\u00e8gne": "politique/id\u00e9ologie-politique/monarchisme/r\u00e8gne"
+        },
+        "parents": {
+            "id\u00e9ologie-politique": "politique/id\u00e9ologie-politique"
+        },
+        "sisters": {
+            "capitalisme": "politique/id\u00e9ologie-politique/capitalisme",
+            "monarchisme": "politique/id\u00e9ologie-politique/monarchisme",
+            "nationalisme": "politique/id\u00e9ologie-politique/nationalisme",
+            "socialisme": "politique/id\u00e9ologie-politique/socialisme"
+        }
+    }
+}
