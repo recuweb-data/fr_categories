@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/hockey-sur-gazon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "hockey-sur-gazon": "sport/sport-de-ballon/hockey/hockey-sur-gazon"
+        },
+        "parents": {
+            "hockey": "sport/sport-de-ballon/hockey"
+        },
+        "sisters": {
+            "hockey-sur-gazon": "sport/sport-de-ballon/hockey/hockey-sur-gazon",
+            "hockey-sur-glace": "sport/sport-de-ballon/hockey/hockey-sur-glace",
+            "rink-hockey": "sport/sport-de-ballon/hockey/rink-hockey"
+        }
+    }
+}
