@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "art-martial": "sport/sport-de-combat/art-martial"
+        },
+        "children": {
+            "art-martial-asiatique": "sport/sport-de-combat/art-martial/art-martial-asiatique",
+            "arts-martiaux-am\u00e9ricains": "sport/sport-de-combat/art-martial/arts-martiaux-am\u00e9ricains",
+            "mixed-martial-arts": "sport/sport-de-combat/art-martial/mixed-martial-arts"
+        },
+        "parents": {
+            "sport-de-combat": "sport/sport-de-combat"
+        },
+        "sisters": {
+            "art-martial": "sport/sport-de-combat/art-martial",
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise",
+            "escrime": "sport/sport-de-combat/escrime",
+            "lucha-libre": "sport/sport-de-combat/lucha-libre"
+        },
+        "grandchildren": {
+            "art-martial-chinois": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-chinois",
+            "art-martial-cor\u00e9en": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en",
+            "arts-martiaux-japonais": "sport/sport-de-combat/art-martial/art-martial-asiatique/arts-martiaux-japonais"
+        }
+    }
+}
