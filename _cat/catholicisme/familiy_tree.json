@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/catholicisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/catholicisme/catholicisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/catholicisme/catholicisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/catholicisme/catholicisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "catholicisme": "culture/religion/religion-abrahamique/christianisme/catholicisme"
+        },
+        "parents": {
+            "christianisme": "culture/religion/religion-abrahamique/christianisme"
+        },
+        "sisters": {
+            "\u00e9glise-orthodoxe": "culture/religion/religion-abrahamique/christianisme/\u00e9glise-orthodoxe",
+            "anglicanisme": "culture/religion/religion-abrahamique/christianisme/anglicanisme",
+            "catholicisme": "culture/religion/religion-abrahamique/christianisme/catholicisme",
+            "mormonisme": "culture/religion/religion-abrahamique/christianisme/mormonisme",
+            "protestantisme": "culture/religion/religion-abrahamique/christianisme/protestantisme"
+        }
+    }
+}
