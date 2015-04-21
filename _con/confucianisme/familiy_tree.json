@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/confucianisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/confucianisme/confucianisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/confucianisme/confucianisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/confucianisme/confucianisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "confucianisme": "culture/religion/religion-orientale/confucianisme"
+        },
+        "parents": {
+            "religion-orientale": "culture/religion/religion-orientale"
+        },
+        "sisters": {
+            "confucianisme": "culture/religion/religion-orientale/confucianisme",
+            "zen": "culture/religion/religion-orientale/zen"
+        }
+    }
+}
