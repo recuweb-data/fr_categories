@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "masse-critique"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/masse-critique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/masse-critique/masse-critique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/masse-critique/masse-critique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/masse-critique/masse-critique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "masse-critique": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques/masse-critique"
+        },
+        "parents": {
+            "manifestations-\u00e9cologiques": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques"
+        },
+        "sisters": {
+            "masse-critique": "politique/mouvement-social/\u00e9cologisme/manifestations-\u00e9cologiques/masse-critique"
+        }
+    }
+}
