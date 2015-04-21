@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/christianisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/christianisme/christianisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/christianisme/christianisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/christianisme/christianisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "christianisme": "culture/religion/religion-abrahamique/christianisme"
+        },
+        "children": {
+            "\u00e9glise-orthodoxe": "culture/religion/religion-abrahamique/christianisme/\u00e9glise-orthodoxe",
+            "anglicanisme": "culture/religion/religion-abrahamique/christianisme/anglicanisme",
+            "catholicisme": "culture/religion/religion-abrahamique/christianisme/catholicisme",
+            "mormonisme": "culture/religion/religion-abrahamique/christianisme/mormonisme",
+            "protestantisme": "culture/religion/religion-abrahamique/christianisme/protestantisme"
+        },
+        "parents": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique"
+        },
+        "sisters": {
+            "baha\u00efsme": "culture/religion/religion-abrahamique/baha\u00efsme",
+            "christianisme": "culture/religion/religion-abrahamique/christianisme",
+            "islam": "culture/religion/religion-abrahamique/islam",
+            "juda\u00efsme": "culture/religion/religion-abrahamique/juda\u00efsme"
+        }
+    }
+}
