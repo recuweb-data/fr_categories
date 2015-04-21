@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "taekwondo"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/taekwondo/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/taekwondo/taekwondo/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/taekwondo/taekwondo/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/taekwondo/taekwondo/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "taekwondo": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en/taekwondo"
+        },
+        "parents": {
+            "art-martial-cor\u00e9en": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en"
+        },
+        "sisters": {
+            "hapkido": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en/hapkido",
+            "taekwondo": "sport/sport-de-combat/art-martial/art-martial-asiatique/art-martial-cor\u00e9en/taekwondo"
+        }
+    }
+}
