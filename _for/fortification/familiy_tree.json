@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/fortification/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "fortification": "technologie/ingenierie/science-militaire/fortification"
+        },
+        "children": {
+            "base-a\u00e9rienne": "technologie/ingenierie/science-militaire/fortification/base-a\u00e9rienne"
+        },
+        "parents": {
+            "science-militaire": "technologie/ingenierie/science-militaire"
+        },
+        "sisters": {
+            "fortification": "technologie/ingenierie/science-militaire/fortification",
+            "tactique-militaire": "technologie/ingenierie/science-militaire/tactique-militaire"
+        }
+    }
+}
