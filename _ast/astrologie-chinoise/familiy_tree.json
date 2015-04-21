@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/astrologie-chinoise/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/astrologie-chinoise/astrologie-chinoise/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/astrologie-chinoise/astrologie-chinoise/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/astrologie-chinoise/astrologie-chinoise/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "astrologie-chinoise": "culture/spiritualite/\u00e9sot\u00e9risme/astrologie/th\u00e8me-astrologique/zodiaque/astrologie-chinoise"
+        },
+        "parents": {
+            "zodiaque": "culture/spiritualite/\u00e9sot\u00e9risme/astrologie/th\u00e8me-astrologique/zodiaque"
+        },
+        "sisters": {
+            "astrologie-chinoise": "culture/spiritualite/\u00e9sot\u00e9risme/astrologie/th\u00e8me-astrologique/zodiaque/astrologie-chinoise",
+            "signe-du-zodiaque": "culture/spiritualite/\u00e9sot\u00e9risme/astrologie/th\u00e8me-astrologique/zodiaque/signe-du-zodiaque"
+        }
+    }
+}
