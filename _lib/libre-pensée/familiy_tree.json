@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "libre-pens\u00e9e"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/libre-pens\u00e9e/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "libre-pens\u00e9e": "politique/\u00e9thique/humanisme/libre-pens\u00e9e"
+        },
+        "parents": {
+            "humanisme": "politique/\u00e9thique/humanisme"
+        },
+        "sisters": {
+            "libre-pens\u00e9e": "politique/\u00e9thique/humanisme/libre-pens\u00e9e"
+        }
+    }
+}
