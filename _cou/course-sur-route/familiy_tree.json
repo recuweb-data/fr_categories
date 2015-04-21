@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/course-sur-route/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "course-sur-route": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route"
+        },
+        "children": {
+            "monoplace": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/monoplace",
+            "sport-prototypes": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/sport-prototypes",
+            "supercar": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route/supercar"
+        },
+        "parents": {
+            "competition-automobile": "sport/sport-m\u00e9canique/competition-automobile"
+        },
+        "sisters": {
+            "course-sur-route": "sport/sport-m\u00e9canique/competition-automobile/course-sur-route",
+            "drift": "sport/sport-m\u00e9canique/competition-automobile/drift",
+            "karting": "sport/sport-m\u00e9canique/competition-automobile/karting",
+            "rallye-automobile": "sport/sport-m\u00e9canique/competition-automobile/rallye-automobile"
+        }
+    }
+}
