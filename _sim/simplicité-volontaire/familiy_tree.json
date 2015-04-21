@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "portal_name": "simplicit\u00e9-volontaire"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/simplicit\u00e9-volontaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/simplicit%C3%A9-volontaire/simplicit%C3%A9-volontaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/simplicit%C3%A9-volontaire/simplicit%C3%A9-volontaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/simplicit%C3%A9-volontaire/simplicit%C3%A9-volontaire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "simplicit\u00e9-volontaire": "lifestyle/simplicit\u00e9-volontaire"
+        },
+        "children": {
+            "asc\u00e8se": "lifestyle/simplicit\u00e9-volontaire/asc\u00e8se",
+            "v\u00e9g\u00e9tarisme": "lifestyle/simplicit\u00e9-volontaire/v\u00e9g\u00e9tarisme"
+        },
+        "parents": {
+            "lifestyle": "lifestyle"
+        },
+        "sisters": {
+            "amour": "lifestyle/amour",
+            "animal-de-compagnie": "lifestyle/animal-de-compagnie",
+            "boisson": "lifestyle/boisson",
+            "d\u00e9veloppement-personnel": "lifestyle/d\u00e9veloppement-personnel",
+            "divertissement": "lifestyle/divertissement",
+            "emploi": "lifestyle/emploi",
+            "gestion-du-temps": "lifestyle/gestion-du-temps",
+            "honneur": "lifestyle/honneur",
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o",
+            "jeux-videos": "lifestyle/jeux-videos",
+            "loisirs": "lifestyle/loisirs",
+            "nourriture": "lifestyle/nourriture",
+            "simplicit\u00e9-volontaire": "lifestyle/simplicit\u00e9-volontaire",
+            "temps-libre": "lifestyle/temps-libre",
+            "vie-priv\u00e9e": "lifestyle/vie-priv\u00e9e"
+        }
+    }
+}
