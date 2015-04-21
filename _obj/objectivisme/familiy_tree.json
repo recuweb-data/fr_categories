@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "objectivisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/objectivisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/objectivisme/objectivisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/objectivisme/objectivisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/objectivisme/objectivisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "objectivisme": "politique/\u00e9thique/objectivisme"
+        },
+        "parents": {
+            "\u00e9thique": "politique/\u00e9thique"
+        },
+        "sisters": {
+            "h\u00e9donisme": "politique/\u00e9thique/h\u00e9donisme",
+            "humanisme": "politique/\u00e9thique/humanisme",
+            "nihilisme": "politique/\u00e9thique/nihilisme",
+            "objectivisme": "politique/\u00e9thique/objectivisme",
+            "pacifisme": "politique/\u00e9thique/pacifisme",
+            "utilitarisme": "politique/\u00e9thique/utilitarisme"
+        }
+    }
+}
