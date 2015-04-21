@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "radio"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/radio/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/radio/radio/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/radio/radio/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radio/radio/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "radio": "technologie/telecommunications/radio"
+        },
+        "parents": {
+            "telecommunications": "technologie/telecommunications"
+        },
+        "sisters": {
+            "radio": "technologie/telecommunications/radio",
+            "t\u00e9l\u00e9phone": "technologie/telecommunications/t\u00e9l\u00e9phone",
+            "technologie-vid\u00e9o": "technologie/telecommunications/technologie-vid\u00e9o"
+        }
+    }
+}
