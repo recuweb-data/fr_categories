@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeu-vid\u00e9o/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o"
+        },
+        "children": {
+            "jeu-d-arcade": "lifestyle/jeu-vid\u00e9o/jeu-d-arcade",
+            "jeu-de-r\u00f4le-en-ligne-massivement-multijoueur": "lifestyle/jeu-vid\u00e9o/jeu-de-r\u00f4le-en-ligne-massivement-multijoueur",
+            "playstation": "lifestyle/jeu-vid\u00e9o/playstation"
+        },
+        "parents": {
+            "lifestyle": "lifestyle"
+        },
+        "sisters": {
+            "amour": "lifestyle/amour",
+            "animal-de-compagnie": "lifestyle/animal-de-compagnie",
+            "boisson": "lifestyle/boisson",
+            "d\u00e9veloppement-personnel": "lifestyle/d\u00e9veloppement-personnel",
+            "divertissement": "lifestyle/divertissement",
+            "emploi": "lifestyle/emploi",
+            "gestion-du-temps": "lifestyle/gestion-du-temps",
+            "honneur": "lifestyle/honneur",
+            "jeu-vid\u00e9o": "lifestyle/jeu-vid\u00e9o",
+            "jeux-videos": "lifestyle/jeux-videos",
+            "loisirs": "lifestyle/loisirs",
+            "nourriture": "lifestyle/nourriture",
+            "simplicit\u00e9-volontaire": "lifestyle/simplicit\u00e9-volontaire",
+            "temps-libre": "lifestyle/temps-libre",
+            "vie-priv\u00e9e": "lifestyle/vie-priv\u00e9e"
+        }
+    }
+}
