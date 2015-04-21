@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "religion"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion/religion/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion/religion/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion/religion/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion": "culture/religion"
+        },
+        "children": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique",
+            "religion-en-inde": "culture/religion/religion-en-inde",
+            "religion-orientale": "culture/religion/religion-orientale",
+            "religions-abrahamiques": "culture/religion/religions-abrahamiques"
+        },
+        "parents": {
+            "culture": "culture"
+        },
+        "sisters": {
+            "art-\u00e9ph\u00e9m\u00e8re": "culture/art-\u00e9ph\u00e9m\u00e8re",
+            "arts": "culture/arts",
+            "beaux-arts": "culture/beaux-arts",
+            "culture-populaire": "culture/culture-populaire",
+            "langage": "culture/langage",
+            "lettres": "culture/lettres",
+            "musique": "culture/musique",
+            "religion": "culture/religion",
+            "spiritualit\u00e9": "culture/spiritualit\u00e9",
+            "spiritualite": "culture/spiritualite",
+            "v\u00eatement": "culture/v\u00eatement"
+        },
+        "grandchildren": {
+            "baha\u00efsme": "culture/religion/religion-abrahamique/baha\u00efsme",
+            "christianisme": "culture/religion/religions-abrahamiques/christianisme",
+            "islam": "culture/religion/religions-abrahamiques/islam",
+            "juda\u00efsme": "culture/religion/religions-abrahamiques/juda\u00efsme",
+            "bouddhisme": "culture/religion/religion-en-inde/bouddhisme",
+            "hindouisme": "culture/religion/religion-en-inde/hindouisme",
+            "ja\u00efnisme": "culture/religion/religion-en-inde/ja\u00efnisme",
+            "sikhisme": "culture/religion/religion-en-inde/sikhisme",
+            "confucianisme": "culture/religion/religion-orientale/confucianisme",
+            "zen": "culture/religion/religion-orientale/zen"
+        }
+    }
+}
