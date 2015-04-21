@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "sport-de-raquette"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-de-raquette/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport-de-raquette": "sport/sport-de-ballon/sport-de-raquette"
+        },
+        "children": {
+            "pelot": "sport/sport-de-ballon/sport-de-raquette/pelot",
+            "tennis": "sport/sport-de-ballon/sport-de-raquette/tennis"
+        },
+        "parents": {
+            "sport-de-ballon": "sport/sport-de-ballon"
+        },
+        "sisters": {
+            "baseball": "sport/sport-de-ballon/baseball",
+            "basket-ball": "sport/sport-de-ballon/basket-ball",
+            "football": "sport/sport-de-ballon/football",
+            "golf": "sport/sport-de-ballon/golf",
+            "handball": "sport/sport-de-ballon/handball",
+            "hockey": "sport/sport-de-ballon/hockey",
+            "rugby": "sport/sport-de-ballon/rugby",
+            "sport-de-raquette": "sport/sport-de-ballon/sport-de-raquette",
+            "volley-ball": "sport/sport-de-ballon/volley-ball"
+        },
+        "grandchildren": {
+            "pelote-basque": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-basque",
+            "pelote-valencienne": "sport/sport-de-ballon/sport-de-raquette/pelot/pelote-valencienne",
+            "racquetball": "sport/sport-de-ballon/sport-de-raquette/pelot/racquetball",
+            "squash": "sport/sport-de-ballon/sport-de-raquette/pelot/squash",
+            "tennis-de-table": "sport/sport-de-ballon/sport-de-raquette/tennis/tennis-de-table"
+        }
+    }
+}
