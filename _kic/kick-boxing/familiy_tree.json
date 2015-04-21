@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/kick-boxing/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/kick-boxing/kick-boxing/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/kick-boxing/kick-boxing/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/kick-boxing/kick-boxing/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "kick-boxing": "sport/sport-de-combat/boxe-anglaise/kick-boxing"
+        },
+        "parents": {
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise"
+        },
+        "sisters": {
+            "kick-boxing": "sport/sport-de-combat/boxe-anglaise/kick-boxing",
+            "muay-tha\u00ef": "sport/sport-de-combat/boxe-anglaise/muay-tha\u00ef"
+        }
+    }
+}
