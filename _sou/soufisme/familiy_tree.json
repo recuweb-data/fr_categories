@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "soufisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/soufisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/soufisme/soufisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/soufisme/soufisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/soufisme/soufisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "soufisme": "culture/religion/religion-abrahamique/islam/soufisme"
+        },
+        "parents": {
+            "islam": "culture/religion/religion-abrahamique/islam"
+        },
+        "sisters": {
+            "chiisme": "culture/religion/religion-abrahamique/islam/chiisme",
+            "soufisme": "culture/religion/religion-abrahamique/islam/soufisme",
+            "sunnisme": "culture/religion/religion-abrahamique/islam/sunnisme"
+        }
+    }
+}
