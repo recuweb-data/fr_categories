@@ -1,0 +1,75 @@
+{
+    "meta": {
+        "portal_name": "sport"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport/sport/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport/sport/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport/sport/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "sport": "sport"
+        },
+        "children": {
+            "athl\u00e9tisme": "sport/athl\u00e9tisme",
+            "athletisme": "sport/athletisme",
+            "football": "sport/football",
+            "jeux-olympiques": "sport/jeux-olympiques",
+            "sport-c\u00e9r\u00e9bral": "sport/sport-c\u00e9r\u00e9bral",
+            "sport-de-ballon": "sport/sport-de-ballon",
+            "sport-de-combat": "sport/sport-de-combat",
+            "sport-extr\u00eame": "sport/sport-extr\u00eame",
+            "sport-m\u00e9canique": "sport/sport-m\u00e9canique",
+            "sports-nautiques": "sport/sports-nautiques"
+        },
+        "parents": {
+            "recuweb": ""
+        },
+        "sisters": {
+            "\u00e9conomie": "\u00e9conomie",
+            "culture": "culture",
+            "internet": "internet",
+            "lifestyle": "lifestyle",
+            "nature": "nature",
+            "politique": "politique",
+            "sant\u00e9": "sant\u00e9",
+            "science": "science",
+            "soci\u00e9t\u00e9": "soci\u00e9t\u00e9",
+            "sport": "sport",
+            "technologie": "technologie"
+        },
+        "grandchildren": {
+            "course-de-relais": "sport/athletisme/course-de-relais",
+            "lancer-du-javelot": "sport/athletisme/lancer-du-javelot",
+            "marathon": "sport/athletisme/marathon",
+            "saut-\u00e0-la-perche": "sport/athletisme/saut-\u00e0-la-perche",
+            "saut-en-hauteur": "sport/athletisme/saut-en-hauteur",
+            "triathlon": "sport/athletisme/triathlon",
+            "triple-saut": "sport/athletisme/triple-saut",
+            "realmadrid": "sport/football/realmadrid",
+            "baseball": "sport/sport-de-ballon/baseball",
+            "basket-ball": "sport/sport-de-ballon/basket-ball",
+            "football": "sport/sport-de-ballon/football",
+            "golf": "sport/sport-de-ballon/golf",
+            "handball": "sport/sport-de-ballon/handball",
+            "hockey": "sport/sport-de-ballon/hockey",
+            "rugby": "sport/sport-de-ballon/rugby",
+            "sport-de-raquette": "sport/sport-de-ballon/sport-de-raquette",
+            "volley-ball": "sport/sport-de-ballon/volley-ball",
+            "art-martial": "sport/sport-de-combat/art-martial",
+            "boxe-anglaise": "sport/sport-de-combat/boxe-anglaise",
+            "escrime": "sport/sport-de-combat/escrime",
+            "lucha-libre": "sport/sport-de-combat/lucha-libre",
+            "bodyboard": "sport/sports-nautiques/bodyboard",
+            "cano\u00eb-kayak": "sport/sports-nautiques/cano\u00eb-kayak",
+            "natation-sportive": "sport/sports-nautiques/natation-sportive",
+            "p\u00eache-sportive": "sport/sports-nautiques/p\u00eache-sportive",
+            "rafting": "sport/sports-nautiques/rafting",
+            "regate": "sport/sports-nautiques/regate",
+            "ski-nautique": "sport/sports-nautiques/ski-nautique",
+            "water-polo": "sport/sports-nautiques/water-polo"
+        }
+    }
+}
