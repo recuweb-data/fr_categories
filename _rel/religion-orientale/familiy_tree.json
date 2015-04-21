@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "religion-orientale"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion-orientale/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "religion-orientale": "culture/religion/religion-orientale"
+        },
+        "children": {
+            "confucianisme": "culture/religion/religion-orientale/confucianisme",
+            "zen": "culture/religion/religion-orientale/zen"
+        },
+        "parents": {
+            "religion": "culture/religion"
+        },
+        "sisters": {
+            "religion-abrahamique": "culture/religion/religion-abrahamique",
+            "religion-en-inde": "culture/religion/religion-en-inde",
+            "religion-orientale": "culture/religion/religion-orientale",
+            "religions-abrahamiques": "culture/religion/religions-abrahamiques"
+        }
+    }
+}
