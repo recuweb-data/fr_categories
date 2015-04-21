@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/imprimante/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/imprimante/imprimante/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/imprimante/imprimante/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/imprimante/imprimante/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "imprimante": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/p\u00e9riph\u00e9rique-informatique/imprimante"
+        },
+        "parents": {
+            "p\u00e9riph\u00e9rique-informatique": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/p\u00e9riph\u00e9rique-informatique"
+        },
+        "sisters": {
+            "\u00e9cran-ordinateur": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/p\u00e9riph\u00e9rique-informatique/\u00e9cran-ordinateur",
+            "imprimante": "technologie/electronique/appareil-\u00e9lectronique/mat\u00e9riel-informatique/p\u00e9riph\u00e9rique-informatique/imprimante"
+        }
+    }
+}
