@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "nationalisme"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/nationalisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/nationalisme/nationalisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/nationalisme/nationalisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/nationalisme/nationalisme/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "nationalisme": "politique/id\u00e9ologie-politique/nationalisme"
+        },
+        "children": {
+            "fascisme": "politique/id\u00e9ologie-politique/nationalisme/fascisme",
+            "r\u00e9gionalisme": "politique/id\u00e9ologie-politique/nationalisme/r\u00e9gionalisme"
+        },
+        "parents": {
+            "id\u00e9ologie-politique": "politique/id\u00e9ologie-politique"
+        },
+        "sisters": {
+            "capitalisme": "politique/id\u00e9ologie-politique/capitalisme",
+            "monarchisme": "politique/id\u00e9ologie-politique/monarchisme",
+            "nationalisme": "politique/id\u00e9ologie-politique/nationalisme",
+            "socialisme": "politique/id\u00e9ologie-politique/socialisme"
+        }
+    }
+}
