@@ -1,0 +1,51 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/culture-populaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "culture-populaire": "culture/culture-populaire"
+        },
+        "children": {
+            "altruisme": "culture/culture-populaire/altruisme",
+            "collection": "culture/culture-populaire/collection",
+            "tauromachie": "culture/culture-populaire/tauromachie",
+            "tradition": "culture/culture-populaire/tradition"
+        },
+        "parents": {
+            "culture": "culture"
+        },
+        "sisters": {
+            "art-\u00e9ph\u00e9m\u00e8re": "culture/art-\u00e9ph\u00e9m\u00e8re",
+            "arts": "culture/arts",
+            "beaux-arts": "culture/beaux-arts",
+            "culture-populaire": "culture/culture-populaire",
+            "langage": "culture/langage",
+            "lettres": "culture/lettres",
+            "musique": "culture/musique",
+            "religion": "culture/religion",
+            "spiritualit\u00e9": "culture/spiritualit\u00e9",
+            "spiritualite": "culture/spiritualite",
+            "v\u00eatement": "culture/v\u00eatement"
+        },
+        "grandchildren": {
+            "b\u00e9n\u00e9volat": "culture/culture-populaire/altruisme/b\u00e9n\u00e9volat",
+            "philanthropie": "culture/culture-populaire/altruisme/philanthropie",
+            "bibliophilie": "culture/culture-populaire/collection/bibliophilie",
+            "numismatique": "culture/culture-populaire/collection/numismatique",
+            "philat\u00e9lie": "culture/culture-populaire/collection/philat\u00e9lie",
+            "encierro": "culture/culture-populaire/tauromachie/encierro",
+            "encierros": "culture/culture-populaire/tauromachie/encierros",
+            "rejoneos": "culture/culture-populaire/tauromachie/rejoneos",
+            "torero": "culture/culture-populaire/tauromachie/torero",
+            "toreros": "culture/culture-populaire/tauromachie/toreros",
+            "folklore": "culture/culture-populaire/tradition/folklore"
+        }
+    }
+}
