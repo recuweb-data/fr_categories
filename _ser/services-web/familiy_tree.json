@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "services-web"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/services-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/services-web/services-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/services-web/services-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/services-web/services-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "services-web": "internet/services-web"
+        },
+        "children": {
+            "microblog": "internet/services-web/microblog",
+            "r\u00e9seau-social": "internet/services-web/r\u00e9seau-social"
+        },
+        "parents": {
+            "internet": "internet"
+        },
+        "sisters": {
+            "application-web": "internet/application-web",
+            "audience-un-site-web": "internet/audience-un-site-web",
+            "cybercrime": "internet/cybercrime",
+            "programmation-web": "internet/programmation-web",
+            "services-web": "internet/services-web"
+        },
+        "grandchildren": {
+            "tumblr": "internet/services-web/microblog/tumblr",
+            "twitter": "internet/services-web/microblog/twitter"
+        }
+    }
+}
