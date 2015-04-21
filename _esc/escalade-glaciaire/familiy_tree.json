@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/escalade-glaciaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/escalade-glaciaire/escalade-glaciaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/escalade-glaciaire/escalade-glaciaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escalade-glaciaire/escalade-glaciaire/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "escalade-glaciaire": "sport/sport-extr\u00eame/escalade/escalade-glaciaire"
+        },
+        "parents": {
+            "escalade": "sport/sport-extr\u00eame/escalade"
+        },
+        "sisters": {
+            "canyonisme": "sport/sport-extr\u00eame/escalade/canyonisme",
+            "escalade-glaciaire": "sport/sport-extr\u00eame/escalade/escalade-glaciaire"
+        }
+    }
+}
