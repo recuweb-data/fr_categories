@@ -1,0 +1,39 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/application-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "application-web": "internet/application-web"
+        },
+        "children": {
+            "blogs": "internet/application-web/blogs",
+            "commerce-\u00e9lectronique": "internet/application-web/commerce-\u00e9lectronique",
+            "forum-internet": "internet/application-web/forum-internet",
+            "wiki": "internet/application-web/wiki"
+        },
+        "parents": {
+            "internet": "internet"
+        },
+        "sisters": {
+            "application-web": "internet/application-web",
+            "audience-un-site-web": "internet/audience-un-site-web",
+            "cybercrime": "internet/cybercrime",
+            "programmation-web": "internet/programmation-web",
+            "services-web": "internet/services-web"
+        },
+        "grandchildren": {
+            "drupal": "internet/application-web/blogs/drupal",
+            "joomla": "internet/application-web/blogs/joomla",
+            "wordpress": "internet/application-web/blogs/wordpress",
+            "phpbb": "internet/application-web/forum-internet/phpbb",
+            "dokuwiki": "internet/application-web/wiki/dokuwiki"
+        }
+    }
+}
