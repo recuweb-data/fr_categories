@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/electronique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "electronique": "technologie/electronique"
+        },
+        "children": {
+            "\u00e9lectroacoustique": "technologie/electronique/\u00e9lectroacoustique",
+            "appareil-\u00e9lectronique": "technologie/electronique/appareil-\u00e9lectronique"
+        },
+        "parents": {
+            "technologie": "technologie"
+        },
+        "sisters": {
+            "\u00e9nergie-\u00e9lectrique": "technologie/\u00e9nergie-\u00e9lectrique",
+            "electronique": "technologie/electronique",
+            "ingenierie": "technologie/ingenierie",
+            "robotique": "technologie/robotique",
+            "telecommunications": "technologie/telecommunications"
+        }
+    }
+}
