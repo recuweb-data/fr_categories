@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/carl-von-clausewitz/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/carl-von-clausewitz/carl-von-clausewitz/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/carl-von-clausewitz/carl-von-clausewitz/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/carl-von-clausewitz/carl-von-clausewitz/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "carl-von-clausewitz": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge/carl-von-clausewitz"
+        },
+        "parents": {
+            "strat\u00e8ge": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge"
+        },
+        "sisters": {
+            "carl-von-clausewitz": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge/carl-von-clausewitz",
+            "p\u00e9ricl\u00e8s": "technologie/ingenierie/science-militaire/tactique-militaire/strat\u00e9gie-militaire/strat\u00e8ge/p\u00e9ricl\u00e8s"
+        }
+    }
+}
