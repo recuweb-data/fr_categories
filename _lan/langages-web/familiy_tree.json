@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "portal_name": null
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/langages-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/blogs.json"
+    },
+    "tree": {
+        "self": {
+            "langages-web": "internet/programmation-web/langages-web"
+        },
+        "children": {
+            "java": "internet/programmation-web/langages-web/java",
+            "javascript": "internet/programmation-web/langages-web/javascript",
+            "perl": "internet/programmation-web/langages-web/perl",
+            "php": "internet/programmation-web/langages-web/php"
+        },
+        "parents": {
+            "programmation-web": "internet/programmation-web"
+        },
+        "sisters": {
+            "base-de-donn\u00e9es": "internet/programmation-web/base-de-donn\u00e9es",
+            "formats-web": "internet/programmation-web/formats-web",
+            "langages-web": "internet/programmation-web/langages-web"
+        },
+        "grandchildren": {
+            "javascript-object-notation": "internet/programmation-web/langages-web/javascript/javascript-object-notation",
+            "jquery": "internet/programmation-web/langages-web/javascript/jquery",
+            "xampp": "internet/programmation-web/langages-web/php/xampp"
+        }
+    }
+}
