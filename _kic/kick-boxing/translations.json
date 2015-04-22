@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "kick-boxing",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/kick-boxing/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/kick-boxing/kick-boxing/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/kick-boxing/kick-boxing/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/kick-boxing/kick-boxing/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Kick boxing",
+            "term_title_slug": "kick-boxing",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Kickboxing",
+            "term_title_slug": "kickboxing",
+            "branche": "sport/combat-sport/boxing/kickboxing"
+        },
+        "fr": {
+            "term_title": "Kick boxing",
+            "term_title_slug": "kick-boxing",
+            "branche": ""
+        }
+    }
+}
