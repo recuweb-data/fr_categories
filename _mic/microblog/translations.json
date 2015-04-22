@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "microblog",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/microblog/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Microblogging",
+            "term_title_slug": "microblogging",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Microblogging",
+            "term_title_slug": "microblogging",
+            "branche": "internet/web-services/microblogging"
+        },
+        "fr": {
+            "term_title": "Microblog",
+            "term_title_slug": "microblog",
+            "branche": ""
+        }
+    }
+}
