@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tauromachie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/tauromachie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/tauromachie/tauromachie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/tauromachie/tauromachie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tauromachie/tauromachie/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Tauromachie",
+            "term_title_slug": "tauromachie"
+        },
+        "en": {
+            "term_title": "Bullfighting",
+            "term_title_slug": "bullfighting"
+        },
+        "es": {
+            "term_title": "Tauromaquia",
+            "term_title_slug": "tauromaquia"
+        }
+    }
+}
