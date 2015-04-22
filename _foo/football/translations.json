@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "football",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/football/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/football/football/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/football/football/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football/football/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "F\u00fatbol",
+            "term_title_slug": "futbol",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Association football",
+            "term_title_slug": "association-football",
+            "branche": "sport/ball-game/association-football"
+        },
+        "fr": {
+            "term_title": "Football",
+            "term_title_slug": "football",
+            "branche": ""
+        }
+    }
+}
