@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "awstats",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/awstats/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Awstats",
+            "term_title_slug": "awstats"
+        },
+        "en": {
+            "term_title": "AWStats",
+            "term_title_slug": "awstats"
+        },
+        "fr": {
+            "term_title": "AWStats",
+            "term_title_slug": "awstats"
+        }
+    }
+}
