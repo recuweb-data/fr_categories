@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "plante-m\u00e9dicinale",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/plante-m\u00e9dicinale/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/plante-m%C3%A9dicinale/plante-m%C3%A9dicinale/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/plante-m%C3%A9dicinale/plante-m%C3%A9dicinale/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/plante-m%C3%A9dicinale/plante-m%C3%A9dicinale/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Planta medicinal",
+            "term_title_slug": "planta-medicinal"
+        },
+        "en": {
+            "term_title": "Medicinal plants",
+            "term_title_slug": "medicinal-plants"
+        },
+        "fr": {
+            "term_title": "Plante m\u00e9dicinale",
+            "term_title_slug": "plante-m\u00e9dicinale"
+        }
+    }
+}
