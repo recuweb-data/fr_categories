@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "religion",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion/religion/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion/religion/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion/religion/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Religion",
+            "term_title_slug": "religion",
+            "branche": "culture/religion"
+        },
+        "es": {
+            "term_title": "Religi\u00f3n",
+            "term_title_slug": "religi\u00f3n",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Religion",
+            "term_title_slug": "religion",
+            "branche": ""
+        }
+    }
+}
