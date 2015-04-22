@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "fortification",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/fortification/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Fortificaci\u00f3n",
+            "term_title_slug": "fortificaci\u00f3n",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Fortification",
+            "term_title_slug": "fortification",
+            "branche": "technology/engineering/military-science/fortification"
+        },
+        "fr": {
+            "term_title": "Fortification",
+            "term_title_slug": "fortification",
+            "branche": ""
+        }
+    }
+}
