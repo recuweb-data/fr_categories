@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "associazione-calcio-milan",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/associazione-calcio-milan/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/associazione-calcio-milan/associazione-calcio-milan/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/associazione-calcio-milan/associazione-calcio-milan/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/associazione-calcio-milan/associazione-calcio-milan/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Associazione Calcio Milan",
+            "term_title_slug": "associazione-calcio-milan"
+        },
+        "en": {
+            "term_title": "A.C. Milan",
+            "term_title_slug": "ac-milan"
+        },
+        "fr": {
+            "term_title": "Associazione Calcio Milan",
+            "term_title_slug": "associazione-calcio-milan"
+        }
+    }
+}
