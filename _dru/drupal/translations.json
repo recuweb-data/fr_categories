@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "drupal",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/drupal/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Drupal",
+            "term_title_slug": "drupal",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Drupal",
+            "term_title_slug": "drupal",
+            "branche": "internet/web-application/blogs/drupal"
+        },
+        "fr": {
+            "term_title": "Drupal",
+            "term_title_slug": "drupal",
+            "branche": ""
+        }
+    }
+}
