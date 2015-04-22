@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "baseball",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/baseball/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "B\u00e9isbol",
+            "term_title_slug": "beisbol",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Baseball",
+            "term_title_slug": "baseball",
+            "branche": "sport/ball-game/baseball"
+        },
+        "fr": {
+            "term_title": "Baseball",
+            "term_title_slug": "baseball",
+            "branche": ""
+        }
+    }
+}
