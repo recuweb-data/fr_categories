@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "php",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/php/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/php/php/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/php/php/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/php/php/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "PHP",
+            "term_title_slug": "php",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "PHP",
+            "term_title_slug": "php",
+            "branche": "internet/web-development/web-languages/php"
+        },
+        "fr": {
+            "term_title": "PHP",
+            "term_title_slug": "php",
+            "branche": ""
+        }
+    }
+}
