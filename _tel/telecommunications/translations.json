@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "telecommunications",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/telecommunications/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/telecommunications/telecommunications/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/telecommunications/telecommunications/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/telecommunications/telecommunications/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Telecomunicaci\u00f3n",
+            "term_title_slug": "telecomunicacion",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Telecommunication",
+            "term_title_slug": "telecommunication",
+            "branche": "technology/telecommunication"
+        },
+        "fr": {
+            "term_title": "T\u00e9l\u00e9communications",
+            "term_title_slug": "telecommunications",
+            "branche": ""
+        }
+    }
+}
