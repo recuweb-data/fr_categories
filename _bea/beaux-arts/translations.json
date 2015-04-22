@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "beaux-arts",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/beaux-arts/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/beaux-arts/beaux-arts/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/beaux-arts/beaux-arts/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/beaux-arts/beaux-arts/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Bellas artes",
+            "term_title_slug": "bellas-artes",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Fine art",
+            "term_title_slug": "fine-art",
+            "branche": "culture/fine-art"
+        },
+        "fr": {
+            "term_title": "Beaux-arts (disciplines)",
+            "term_title_slug": "beaux-arts",
+            "branche": ""
+        }
+    }
+}
