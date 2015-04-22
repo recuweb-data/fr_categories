@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "manifestations-f\u00e9ministes",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/manifestations-f\u00e9ministes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Feminist events",
+            "term_title_slug": "feminist-events",
+            "branche": "politics/social-movement/feminism/feminist-events"
+        },
+        "es": {
+            "term_title": "Enventos feministas",
+            "term_title_slug": "enventos-feministas",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Manifestations f\u00e9ministes",
+            "term_title_slug": "manifestations-f\u00e9ministes",
+            "branche": ""
+        }
+    }
+}
