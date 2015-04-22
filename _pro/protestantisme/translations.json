@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "protestantisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/protestantisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/protestantisme/protestantisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/protestantisme/protestantisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/protestantisme/protestantisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Protestantismo",
+            "term_title_slug": "protestantismo"
+        },
+        "en": {
+            "term_title": "Protestantism",
+            "term_title_slug": "protestantism"
+        },
+        "fr": {
+            "term_title": "Protestantisme",
+            "term_title_slug": "protestantisme"
+        }
+    }
+}
