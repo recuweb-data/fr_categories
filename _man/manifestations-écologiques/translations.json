@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "manifestations-\u00e9cologiques",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/manifestations-\u00e9cologiques/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/manifestations-%C3%A9cologiques/manifestations-%C3%A9cologiques/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/manifestations-%C3%A9cologiques/manifestations-%C3%A9cologiques/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/manifestations-%C3%A9cologiques/manifestations-%C3%A9cologiques/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ecology orientated meetings",
+            "term_title_slug": "ecology-orientated-meetings",
+            "branche": "politics/social-movement/environmentalism/ecology-orientated-meetings"
+        },
+        "es": {
+            "term_title": "Eventos ecologistas",
+            "term_title_slug": "eventos-ecologistas",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Manifestations \u00e9cologiques",
+            "term_title_slug": "manifestations-\u00e9cologiques",
+            "branche": ""
+        }
+    }
+}
