@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "hapkido",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/hapkido/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/hapkido/hapkido/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/hapkido/hapkido/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hapkido/hapkido/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hapkido",
+            "term_title_slug": "hapkido",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Hapkido",
+            "term_title_slug": "hapkido",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts/korean-martial-arts/hapkido"
+        },
+        "fr": {
+            "term_title": "Hapkido",
+            "term_title_slug": "hapkido",
+            "branche": ""
+        }
+    }
+}
