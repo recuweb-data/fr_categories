@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "zen",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/zen/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/zen/zen/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/zen/zen/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/zen/zen/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Zen",
+            "term_title_slug": "zen",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Zen",
+            "term_title_slug": "zen",
+            "branche": "culture/religion/eastern-religion/zen"
+        },
+        "fr": {
+            "term_title": "Zen",
+            "term_title_slug": "zen",
+            "branche": ""
+        }
+    }
+}
