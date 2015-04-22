@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "liste-de-g\u00e9n\u00e9alogies-imp\u00e9riales-royales-et-princi\u00e8res",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/liste-de-g\u00e9n\u00e9alogies-imp\u00e9riales-royales-et-princi\u00e8res/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/liste-de-g%C3%A9n%C3%A9alogies-imp%C3%A9riales-royales-et-princi%C3%A8res/liste-de-g%C3%A9n%C3%A9alogies-imp%C3%A9riales-royales-et-princi%C3%A8res/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/liste-de-g%C3%A9n%C3%A9alogies-imp%C3%A9riales-royales-et-princi%C3%A8res/liste-de-g%C3%A9n%C3%A9alogies-imp%C3%A9riales-royales-et-princi%C3%A8res/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/liste-de-g%C3%A9n%C3%A9alogies-imp%C3%A9riales-royales-et-princi%C3%A8res/liste-de-g%C3%A9n%C3%A9alogies-imp%C3%A9riales-royales-et-princi%C3%A8res/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Familia real",
+            "term_title_slug": "familia-real",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Royal family",
+            "term_title_slug": "royal-family",
+            "branche": "politics/political-ideology/monarchism/royal-family"
+        },
+        "fr": {
+            "term_title": "Liste de g\u00e9n\u00e9alogies imp\u00e9riales, royales et princi\u00e8res",
+            "term_title_slug": "liste-de-g\u00e9n\u00e9alogies-imp\u00e9riales-royales-et-princi\u00e8res",
+            "branche": ""
+        }
+    }
+}
