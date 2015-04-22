@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "jeu-vid\u00e9o",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeu-vid\u00e9o/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Video game",
+            "term_title_slug": "video-game",
+            "branche": "lifestyle/video-game"
+        },
+        "es": {
+            "term_title": "Videojuego",
+            "term_title_slug": "videojuego",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Jeu vid\u00e9o",
+            "term_title_slug": "jeu-vid\u00e9o",
+            "branche": ""
+        }
+    }
+}
