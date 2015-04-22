@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "javascript-object-notation",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "JSON",
+            "term_title_slug": "json",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "JSON",
+            "term_title_slug": "json",
+            "branche": "internet/web-development/web-languages/javascript/json"
+        },
+        "fr": {
+            "term_title": "JavaScript Object Notation",
+            "term_title_slug": "javascript-object-notation",
+            "branche": ""
+        }
+    }
+}
