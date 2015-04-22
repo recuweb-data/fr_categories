@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sqlite/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "SQLite",
+            "term_title_slug": "sqlite",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "SQLite",
+            "term_title_slug": "sqlite",
+            "branche": "internet/web-development/database/sqlite"
+        },
+        "fr": {
+            "term_title": "SQLite",
+            "term_title_slug": "sqlite",
+            "branche": ""
+        }
+    }
+}
