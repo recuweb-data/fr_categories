@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "kung-fu",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/kung-fu/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Kung-fu",
+            "term_title_slug": "kung-fu",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Kung fu (term)",
+            "term_title_slug": "kung-fu",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts/chinese-martial-arts/kung-fu"
+        },
+        "fr": {
+            "term_title": "Kung-fu (terme)",
+            "term_title_slug": "kung-fu",
+            "branche": ""
+        }
+    }
+}
