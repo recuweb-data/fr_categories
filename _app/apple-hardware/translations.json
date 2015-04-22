@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "apple-hardware",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/apple-hardware/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Apple hardware",
+            "term_title_slug": "apple-hardware",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware"
+        },
+        "es": {
+            "term_title": "Hardware apple",
+            "term_title_slug": "hardware-apple",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Apple hardware",
+            "term_title_slug": "apple-hardware",
+            "branche": ""
+        }
+    }
+}
