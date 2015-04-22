@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "strat\u00e8ge",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/strat\u00e8ge/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/strat%C3%A8ge/strat%C3%A8ge/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/strat%C3%A8ge/strat%C3%A8ge/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/strat%C3%A8ge/strat%C3%A8ge/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Strategist",
+            "term_title_slug": "strategist",
+            "branche": "technology/engineering/military-science/military-tactics/military-strategy/strategist"
+        },
+        "es": {
+            "term_title": "Estratega",
+            "term_title_slug": "estratega",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Strat\u00e8ge",
+            "term_title_slug": "strat\u00e8ge",
+            "branche": ""
+        }
+    }
+}
