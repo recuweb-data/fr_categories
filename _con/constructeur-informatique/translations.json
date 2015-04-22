@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "constructeur-informatique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/constructeur-informatique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Computer hardware companies",
+            "term_title_slug": "computer-hardware-companies",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies"
+        },
+        "es": {
+            "term_title": "Empresas de hardware",
+            "term_title_slug": "empresas-de-hardware",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Constructeur informatique",
+            "term_title_slug": "constructeur-informatique",
+            "branche": ""
+        }
+    }
+}
