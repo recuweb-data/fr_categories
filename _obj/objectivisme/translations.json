@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "objectivisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/objectivisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/objectivisme/objectivisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/objectivisme/objectivisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/objectivisme/objectivisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Objetivismo",
+            "term_title_slug": "objetivismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Objectivism (Ayn Rand)",
+            "term_title_slug": "objectivism",
+            "branche": "politics/ethics/objectivism"
+        },
+        "fr": {
+            "term_title": "Objectivisme (Ayn Rand)",
+            "term_title_slug": "objectivisme",
+            "branche": ""
+        }
+    }
+}
