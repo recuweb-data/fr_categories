@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "utilitarisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/utilitarisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/utilitarisme/utilitarisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/utilitarisme/utilitarisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/utilitarisme/utilitarisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Utilitarismo",
+            "term_title_slug": "utilitarismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Utilitarianism",
+            "term_title_slug": "utilitarianism",
+            "branche": "politics/ethics/utilitarianism"
+        },
+        "fr": {
+            "term_title": "Utilitarisme",
+            "term_title_slug": "utilitarisme",
+            "branche": ""
+        }
+    }
+}
