@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "flickr",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/flickr/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Flickr",
+            "term_title_slug": "flickr",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Flickr",
+            "term_title_slug": "flickr",
+            "branche": "internet/web-services/social-network/flickr"
+        },
+        "fr": {
+            "term_title": "Flickr",
+            "term_title_slug": "flickr",
+            "branche": ""
+        }
+    }
+}
