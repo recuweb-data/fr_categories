@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "mixed-martial-arts",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mixed-martial-arts/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Artes marciales mixtas",
+            "term_title_slug": "artes-marciales-mixtas",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Mixed martial arts",
+            "term_title_slug": "mixed-martial-arts",
+            "branche": "sport/combat-sport/martial-arts/mixed-martial-arts"
+        },
+        "fr": {
+            "term_title": "Mixed martial arts",
+            "term_title_slug": "mixed-martial-arts",
+            "branche": ""
+        }
+    }
+}
