@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "canyonisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/canyonisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Barranquismo",
+            "term_title_slug": "barranquismo"
+        },
+        "en": {
+            "term_title": "Canyoning",
+            "term_title_slug": "canyoning"
+        },
+        "fr": {
+            "term_title": "Canyonisme",
+            "term_title_slug": "canyonisme"
+        }
+    }
+}
