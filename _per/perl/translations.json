@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "perl",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/perl/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/perl/perl/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/perl/perl/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/perl/perl/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Perl",
+            "term_title_slug": "perl",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Perl",
+            "term_title_slug": "perl",
+            "branche": "internet/web-development/web-languages/perl"
+        },
+        "fr": {
+            "term_title": "Perl (langage)",
+            "term_title_slug": "perl",
+            "branche": ""
+        }
+    }
+}
