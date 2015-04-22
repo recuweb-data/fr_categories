@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "centrale-nucl\u00e9aire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/centrale-nucl\u00e9aire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Central nuclear",
+            "term_title_slug": "central-nuclear"
+        },
+        "en": {
+            "term_title": "Nuclear power plant",
+            "term_title_slug": "nuclear-power-plant"
+        },
+        "fr": {
+            "term_title": "Centrale nucl\u00e9aire",
+            "term_title_slug": "centrale-nucl\u00e9aire"
+        }
+    }
+}
