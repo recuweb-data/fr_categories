@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "radar",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/radar/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/radar/radar/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/radar/radar/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radar/radar/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Radar",
+            "term_title_slug": "radar",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Radar",
+            "term_title_slug": "radar",
+            "branche": "technology/electronics/electronic-device/radar"
+        },
+        "fr": {
+            "term_title": "Radar",
+            "term_title_slug": "radar",
+            "branche": ""
+        }
+    }
+}
