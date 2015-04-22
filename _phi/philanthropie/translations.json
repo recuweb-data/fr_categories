@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "philanthropie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/philanthropie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Filantrop\u00eda",
+            "term_title_slug": "filantrop\u00eda",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Philanthropy",
+            "term_title_slug": "philanthropy",
+            "branche": "culture/popular-culture/altruism/philanthropy"
+        },
+        "fr": {
+            "term_title": "Philanthropie",
+            "term_title_slug": "philanthropie",
+            "branche": ""
+        }
+    }
+}
