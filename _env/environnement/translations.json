@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "environnement",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/environnement/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/environnement/environnement/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/environnement/environnement/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/environnement/environnement/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Medio ambiente",
+            "term_title_slug": "medio-ambiente",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Natural environment",
+            "term_title_slug": "natural-environment",
+            "branche": "politics/social-movement/environmentalism/natural-environment"
+        },
+        "fr": {
+            "term_title": "Environnement",
+            "term_title_slug": "environnement",
+            "branche": ""
+        }
+    }
+}
