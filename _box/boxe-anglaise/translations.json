@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "boxe-anglaise",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/boxe-anglaise/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/boxe-anglaise/boxe-anglaise/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/boxe-anglaise/boxe-anglaise/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/boxe-anglaise/boxe-anglaise/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Boxeo",
+            "term_title_slug": "boxeo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Boxing",
+            "term_title_slug": "boxing",
+            "branche": "sport/combat-sport/boxing"
+        },
+        "fr": {
+            "term_title": "Boxe anglaise",
+            "term_title_slug": "boxe-anglaise",
+            "branche": ""
+        }
+    }
+}
