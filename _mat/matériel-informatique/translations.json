@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "mat\u00e9riel-informatique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mat\u00e9riel-informatique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mat%C3%A9riel-informatique/mat%C3%A9riel-informatique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mat%C3%A9riel-informatique/mat%C3%A9riel-informatique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mat%C3%A9riel-informatique/mat%C3%A9riel-informatique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hardware",
+            "term_title_slug": "hardware",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Computer hardware",
+            "term_title_slug": "computer-hardware",
+            "branche": "technology/electronics/electronic-device/computer-hardware"
+        },
+        "fr": {
+            "term_title": "Mat\u00e9riel informatique",
+            "term_title_slug": "mat\u00e9riel-informatique",
+            "branche": ""
+        }
+    }
+}
