@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "saut-\u00e0-\u00e9lastique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-\u00e0-\u00e9lastique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-%C3%A9lastique/saut-%C3+-%C3%A9lastique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-%C3%A9lastique/saut-%C3+-%C3%A9lastique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-%C3%A9lastique/saut-%C3+-%C3%A9lastique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Puentismo",
+            "term_title_slug": "puentismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Bungee jumping",
+            "term_title_slug": "bungee-jumping",
+            "branche": "sport/extreme-sport/parachuting/bungee-jumping"
+        },
+        "fr": {
+            "term_title": "Saut \u00e0 l'\u00e9lastique",
+            "term_title_slug": "saut-\u00e0-\u00e9lastique",
+            "branche": ""
+        }
+    }
+}
