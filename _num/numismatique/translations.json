@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "numismatique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/numismatique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Numism\u00e1tica",
+            "term_title_slug": "numism\u00e1tica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Numismatics",
+            "term_title_slug": "numismatics",
+            "branche": "culture/popular-culture/collecting/numismatics"
+        },
+        "fr": {
+            "term_title": "Numismatique",
+            "term_title_slug": "numismatique",
+            "branche": ""
+        }
+    }
+}
