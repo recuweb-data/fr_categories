@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "karting",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/karting/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/karting/karting/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/karting/karting/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/karting/karting/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Karting",
+            "term_title_slug": "karting",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Kart racing",
+            "term_title_slug": "kart-racing",
+            "branche": "sport/motorsport/auto-racing/kart-racing"
+        },
+        "fr": {
+            "term_title": "Karting",
+            "term_title_slug": "karting",
+            "branche": ""
+        }
+    }
+}
