@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "strat\u00e9gie-militaire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/strat\u00e9gie-militaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/strat%C3%A9gie-militaire/strat%C3%A9gie-militaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/strat%C3%A9gie-militaire/strat%C3%A9gie-militaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/strat%C3%A9gie-militaire/strat%C3%A9gie-militaire/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Estrategia militar",
+            "term_title_slug": "estrategia-militar",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Military strategy",
+            "term_title_slug": "military-strategy",
+            "branche": "technology/engineering/military-science/military-tactics/military-strategy"
+        },
+        "fr": {
+            "term_title": "Strat\u00e9gie militaire",
+            "term_title_slug": "strat\u00e9gie-militaire",
+            "branche": ""
+        }
+    }
+}
