@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "valence-club-de-f\u00fatbol",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/valence-club-de-f\u00fatbol/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Valencia Club de F\u00fatbol",
+            "term_title_slug": "valencia-club-de-f\u00fatbol",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Valencia CF",
+            "term_title_slug": "valencia-cf"
+        },
+        "fr": {
+            "term_title": "Valence Club de F\u00fatbol",
+            "term_title_slug": "valence-club-de-f\u00fatbol"
+        }
+    }
+}
