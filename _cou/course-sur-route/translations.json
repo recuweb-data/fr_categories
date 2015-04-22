@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "course-sur-route",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/course-sur-route/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Road racing",
+            "term_title_slug": "road-racing",
+            "branche": "sport/motorsport/auto-racing/road-racing"
+        },
+        "es": {
+            "term_title": "Automovilismo de velocidad",
+            "term_title_slug": "automovilismo-de-velocidad",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Course sur route",
+            "term_title_slug": "course-sur-route",
+            "branche": ""
+        }
+    }
+}
