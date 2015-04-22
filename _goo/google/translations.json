@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "google",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/google/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/google/google/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/google/google/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Google",
+            "term_title_slug": "google"
+        },
+        "en": {
+            "term_title": "Google",
+            "term_title_slug": "google"
+        },
+        "fr": {
+            "term_title": "Google",
+            "term_title_slug": "google"
+        }
+    }
+}
