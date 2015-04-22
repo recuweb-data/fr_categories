@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "supercar",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/supercar/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/supercar/supercar/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/supercar/supercar/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/supercar/supercar/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Supercar",
+            "term_title_slug": "supercar",
+            "branche": "sport/motorsport/auto-racing/road-racing/supercar"
+        },
+        "es": {
+            "term_title": "Autom\u00f3vil superdeportivo",
+            "term_title_slug": "autom\u00f3vil-superdeportivo",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Supercar",
+            "term_title_slug": "supercar",
+            "branche": ""
+        }
+    }
+}
