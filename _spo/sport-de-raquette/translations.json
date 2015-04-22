@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport-de-raquette",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-de-raquette/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Racquet sports",
+            "term_title_slug": "racquet-sports",
+            "branche": "sport/ball-game/racquet-sports"
+        },
+        "es": {
+            "term_title": "Deportes de raqueta",
+            "term_title_slug": "deportes-de-raqueta",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Sport de raquette",
+            "term_title_slug": "sport-de-raquette",
+            "branche": ""
+        }
+    }
+}
