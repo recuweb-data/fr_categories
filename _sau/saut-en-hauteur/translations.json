@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "saut-en-hauteur",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-en-hauteur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Salto de altura",
+            "term_title_slug": "salto-de-altura"
+        },
+        "en": {
+            "term_title": "High jump",
+            "term_title_slug": "high-jump"
+        },
+        "fr": {
+            "term_title": "Saut en hauteur",
+            "term_title_slug": "saut-en-hauteur"
+        }
+    }
+}
