@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "rugby",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rugby/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Rugby",
+            "term_title_slug": "rugby",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Rugby football",
+            "term_title_slug": "rugby-football",
+            "branche": "sport/ball-game/rugby-football"
+        },
+        "fr": {
+            "term_title": "Rugby (sport)",
+            "term_title_slug": "rugby",
+            "branche": ""
+        }
+    }
+}
