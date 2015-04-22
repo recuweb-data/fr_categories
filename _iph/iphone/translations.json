@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "iphone",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/iphone/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/iphone/iphone/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/iphone/iphone/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/iphone/iphone/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IPhone",
+            "term_title_slug": "iphone",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IPhone",
+            "term_title_slug": "iphone",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/iphone"
+        },
+        "fr": {
+            "term_title": "IPhone",
+            "term_title_slug": "iphone",
+            "branche": ""
+        }
+    }
+}
