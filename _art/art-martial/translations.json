@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "art-martial",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Arte marcial",
+            "term_title_slug": "arte-marcial",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Martial arts",
+            "term_title_slug": "martial-arts",
+            "branche": "sport/combat-sport/martial-arts"
+        },
+        "fr": {
+            "term_title": "Art martial",
+            "term_title_slug": "art-martial",
+            "branche": ""
+        }
+    }
+}
