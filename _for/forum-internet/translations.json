@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "forum-internet",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/forum-internet/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Internet forum",
+            "term_title_slug": "internet-forum",
+            "branche": "internet/web-application/internet-forum"
+        },
+        "es": {
+            "term_title": "Foro internet",
+            "term_title_slug": "foro-internet",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Forum internet",
+            "term_title_slug": "forum-internet",
+            "branche": ""
+        }
+    }
+}
