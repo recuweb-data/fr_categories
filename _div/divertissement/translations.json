@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "divertissement",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/divertissement/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Entertainment",
+            "term_title_slug": "entertainment",
+            "branche": "lifestyle/entertainment"
+        },
+        "es": {
+            "term_title": "Entretenimiento",
+            "term_title_slug": "entretenimiento",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Divertissement",
+            "term_title_slug": "divertissement",
+            "branche": ""
+        }
+    }
+}
