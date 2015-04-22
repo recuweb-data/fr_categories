@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "mac-mini",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mac-mini/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mac-mini/mac-mini/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mac-mini/mac-mini/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mac-mini/mac-mini/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Mac mini",
+            "term_title_slug": "mac-mini",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Mac Mini",
+            "term_title_slug": "mac-mini",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/macintosh/mac-mini"
+        },
+        "fr": {
+            "term_title": "Mac mini",
+            "term_title_slug": "mac-mini",
+            "branche": ""
+        }
+    }
+}
