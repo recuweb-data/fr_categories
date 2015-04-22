@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "religion-orientale",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion-orientale/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Eastern religion",
+            "term_title_slug": "eastern-religion",
+            "branche": "culture/religion/eastern-religion"
+        },
+        "es": {
+            "term_title": "Religion oriental",
+            "term_title_slug": "religion-oriental",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Religion orientale",
+            "term_title_slug": "religion-orientale",
+            "branche": ""
+        }
+    }
+}
