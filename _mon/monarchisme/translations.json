@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "monarchisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/monarchisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/monarchisme/monarchisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/monarchisme/monarchisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/monarchisme/monarchisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Monarquismo",
+            "term_title_slug": "monarquismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Monarchism",
+            "term_title_slug": "monarchism",
+            "branche": "politics/political-ideology/monarchism"
+        },
+        "fr": {
+            "term_title": "Monarchisme",
+            "term_title_slug": "monarchisme",
+            "branche": ""
+        }
+    }
+}
