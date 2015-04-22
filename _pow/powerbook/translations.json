@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "powerbook",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/powerbook/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/powerbook/powerbook/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/powerbook/powerbook/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "PowerBook",
+            "term_title_slug": "powerbook",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "PowerBook",
+            "term_title_slug": "powerbook",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/macintosh/powerbook"
+        },
+        "fr": {
+            "term_title": "PowerBook",
+            "term_title_slug": "powerbook",
+            "branche": ""
+        }
+    }
+}
