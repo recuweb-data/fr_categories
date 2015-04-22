@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "communisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/communisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/communisme/communisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/communisme/communisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/communisme/communisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Comunismo",
+            "term_title_slug": "comunismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Communism",
+            "term_title_slug": "communism",
+            "branche": "politics/political-ideology/socialism/communism"
+        },
+        "fr": {
+            "term_title": "Communisme",
+            "term_title_slug": "communisme",
+            "branche": ""
+        }
+    }
+}
