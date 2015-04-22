@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "art-martial-cor\u00e9en",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial-cor\u00e9en/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial-cor%C3%A9en/art-martial-cor%C3%A9en/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial-cor%C3%A9en/art-martial-cor%C3%A9en/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial-cor%C3%A9en/art-martial-cor%C3%A9en/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Korean martial arts",
+            "term_title_slug": "korean-martial-arts",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts/korean-martial-arts"
+        },
+        "es": {
+            "term_title": "Artes marciales coreanos",
+            "term_title_slug": "artes-marciales-coreanos",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Art martial cor\u00e9en",
+            "term_title_slug": "art-martial-cor\u00e9en",
+            "branche": ""
+        }
+    }
+}
