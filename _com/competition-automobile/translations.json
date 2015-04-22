@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "competition-automobile",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/competition-automobile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Automovilismo",
+            "term_title_slug": "automovilismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Auto racing",
+            "term_title_slug": "auto-racing",
+            "branche": "sport/motorsport/auto-racing"
+        },
+        "fr": {
+            "term_title": "Comp\u00e9tition automobile",
+            "term_title_slug": "competition-automobile",
+            "branche": ""
+        }
+    }
+}
