@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "ipod",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ipod/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ipod/ipod/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ipod/ipod/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IPod",
+            "term_title_slug": "ipod",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IPod",
+            "term_title_slug": "ipod",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/ipod"
+        },
+        "fr": {
+            "term_title": "IPod",
+            "term_title_slug": "ipod",
+            "branche": ""
+        }
+    }
+}
