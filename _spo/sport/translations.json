@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport/sport/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport/sport/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport/sport/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deporte",
+            "term_title_slug": "deporte",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Sport",
+            "term_title_slug": "sport",
+            "branche": "sport"
+        },
+        "fr": {
+            "term_title": "Sport",
+            "term_title_slug": "sport",
+            "branche": ""
+        }
+    }
+}
