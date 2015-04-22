@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "programmation-web",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/programmation-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Desarrollo web",
+            "term_title_slug": "desarrollo-web",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Web development",
+            "term_title_slug": "web-development",
+            "branche": "internet/web-development"
+        },
+        "fr": {
+            "term_title": "Programmation web",
+            "term_title_slug": "programmation-web",
+            "branche": ""
+        }
+    }
+}
