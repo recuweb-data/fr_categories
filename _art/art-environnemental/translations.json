@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "art-environnemental",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-environnemental/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Arte ambiental",
+            "term_title_slug": "arte-ambiental"
+        },
+        "en": {
+            "term_title": "Environmental art",
+            "term_title_slug": "environmental-art"
+        },
+        "fr": {
+            "term_title": "Art environnemental",
+            "term_title_slug": "art-environnemental"
+        }
+    }
+}
