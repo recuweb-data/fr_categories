@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport-prototypes",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-prototypes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Sport prototipo",
+            "term_title_slug": "sport-prototipo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Sports prototype",
+            "term_title_slug": "sports-prototype",
+            "branche": "sport/motorsport/auto-racing/road-racing/sports-prototype"
+        },
+        "fr": {
+            "term_title": "Sport-Prototypes",
+            "term_title_slug": "sport-prototypes",
+            "branche": ""
+        }
+    }
+}
