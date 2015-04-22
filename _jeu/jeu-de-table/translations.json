@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "jeu-de-table",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeu-de-table/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Tabletop game",
+            "term_title_slug": "tabletop-game",
+            "branche": "sport/mind-sport/tabletop-game"
+        },
+        "es": {
+            "term_title": "Juego de mesa",
+            "term_title_slug": "juego-de-mesa",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Jeu de table",
+            "term_title_slug": "jeu-de-table",
+            "branche": ""
+        }
+    }
+}
