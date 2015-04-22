@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "yahoo",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/yahoo/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/yahoo/yahoo/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/yahoo/yahoo/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yahoo/yahoo/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Yahoo!",
+            "term_title_slug": "yahoo"
+        },
+        "en": {
+            "term_title": "Yahoo!",
+            "term_title_slug": "yahoo"
+        },
+        "fr": {
+            "term_title": "Yahoo!",
+            "term_title_slug": "yahoo"
+        }
+    }
+}
