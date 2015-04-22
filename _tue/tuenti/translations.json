@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "tuenti",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/tuenti/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/tuenti/tuenti/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/tuenti/tuenti/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tuenti/tuenti/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tuenti",
+            "term_title_slug": "tuenti",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Tuenti",
+            "term_title_slug": "tuenti",
+            "branche": "internet/web-services/social-network/tuenti"
+        },
+        "fr": {
+            "term_title": "Tuenti",
+            "term_title_slug": "tuenti",
+            "branche": ""
+        }
+    }
+}
