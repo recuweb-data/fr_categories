@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "source-chaude",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/source-chaude/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Aguas termales",
+            "term_title_slug": "aguas-termales"
+        },
+        "en": {
+            "term_title": "Hot spring",
+            "term_title_slug": "hot-spring"
+        },
+        "fr": {
+            "term_title": "Source chaude",
+            "term_title_slug": "source-chaude"
+        }
+    }
+}
