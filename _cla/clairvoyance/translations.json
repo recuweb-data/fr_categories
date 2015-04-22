@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "clairvoyance",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/clairvoyance/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/clairvoyance/clairvoyance/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/clairvoyance/clairvoyance/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/clairvoyance/clairvoyance/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Clarividencia",
+            "term_title_slug": "clarividencia"
+        },
+        "en": {
+            "term_title": "Clairvoyance",
+            "term_title_slug": "clairvoyance"
+        },
+        "fr": {
+            "term_title": "Clairvoyance",
+            "term_title_slug": "clairvoyance"
+        }
+    }
+}
