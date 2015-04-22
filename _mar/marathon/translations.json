@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "marathon",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/marathon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/marathon/marathon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/marathon/marathon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/marathon/marathon/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Marat\u00f3n",
+            "term_title_slug": "maraton"
+        },
+        "en": {
+            "term_title": "Marathon",
+            "term_title_slug": "marathon"
+        },
+        "fr": {
+            "term_title": "Marathon (sport)",
+            "term_title_slug": "marathon"
+        }
+    }
+}
