@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "ethnom\u00e9decine",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ethnom\u00e9decine/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ethnom%C3%A9decine/ethnom%C3%A9decine/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ethnom%C3%A9decine/ethnom%C3%A9decine/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ethnom%C3%A9decine/ethnom%C3%A9decine/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ethnomedicine",
+            "term_title_slug": "ethnomedicine"
+        },
+        "es": {
+            "term_title": "Etnomedicina",
+            "term_title_slug": "etnomedicina"
+        },
+        "fr": {
+            "term_title": "Ethnom\u00e9decine",
+            "term_title_slug": "ethnom\u00e9decine"
+        }
+    }
+}
