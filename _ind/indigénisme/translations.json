@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "indig\u00e9nisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/indig\u00e9nisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/indig%C3%A9nisme/indig%C3%A9nisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/indig%C3%A9nisme/indig%C3%A9nisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/indig%C3%A9nisme/indig%C3%A9nisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Indigenismo",
+            "term_title_slug": "indigenismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Indigenismo",
+            "term_title_slug": "indigenismo",
+            "branche": "politics/social-movement/indigenismo"
+        },
+        "fr": {
+            "term_title": "Indig\u00e9nisme",
+            "term_title_slug": "indig\u00e9nisme",
+            "branche": ""
+        }
+    }
+}
