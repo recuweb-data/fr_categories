@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "bouddhisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/bouddhisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/bouddhisme/bouddhisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/bouddhisme/bouddhisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bouddhisme/bouddhisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Budismo",
+            "term_title_slug": "budismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Buddhism",
+            "term_title_slug": "buddhism",
+            "branche": "culture/religion/religion-in-india/buddhism"
+        },
+        "fr": {
+            "term_title": "Bouddhisme",
+            "term_title_slug": "bouddhisme",
+            "branche": ""
+        }
+    }
+}
