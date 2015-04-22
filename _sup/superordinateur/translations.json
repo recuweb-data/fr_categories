@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "superordinateur",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/superordinateur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Supercomputadora",
+            "term_title_slug": "supercomputadora"
+        },
+        "en": {
+            "term_title": "Supercomputer",
+            "term_title_slug": "supercomputer"
+        },
+        "fr": {
+            "term_title": "Superordinateur",
+            "term_title_slug": "superordinateur"
+        }
+    }
+}
