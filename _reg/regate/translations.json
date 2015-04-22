@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "regate",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/regate/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/regate/regate/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/regate/regate/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/regate/regate/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Regata",
+            "term_title_slug": "regata",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Regatta",
+            "term_title_slug": "regatta",
+            "branche": "sport/water-sports/regatta"
+        },
+        "fr": {
+            "term_title": "R\u00e9gate",
+            "term_title_slug": "regate",
+            "branche": ""
+        }
+    }
+}
