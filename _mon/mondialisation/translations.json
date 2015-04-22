@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "portal_name": "mondialisation",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mondialisation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Globalization",
+            "term_title_slug": "globalization",
+            "branche": "society/sociology/globalization"
+        },
+        "es": {
+            "term_title": "Globalizaci\u00f3n",
+            "term_title_slug": "globalizaci\u00f3n",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Mondialisation",
+            "term_title_slug": "mondialisation"
+        }
+    }
+}
