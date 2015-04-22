@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "consum\u00e9risme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/consum\u00e9risme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/consum%C3%A9risme/consum%C3%A9risme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/consum%C3%A9risme/consum%C3%A9risme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/consum%C3%A9risme/consum%C3%A9risme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Consumismo",
+            "term_title_slug": "consumismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Consumerism",
+            "term_title_slug": "consumerism",
+            "branche": "politics/political-ideology/capitalism/consumerism"
+        },
+        "fr": {
+            "term_title": "Consum\u00e9risme",
+            "term_title_slug": "consum\u00e9risme",
+            "branche": ""
+        }
+    }
+}
