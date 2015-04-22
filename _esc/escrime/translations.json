@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "escrime",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/escrime/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/escrime/escrime/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/escrime/escrime/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escrime/escrime/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Esgrima",
+            "term_title_slug": "esgrima",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Fencing",
+            "term_title_slug": "fencing",
+            "branche": "sport/combat-sport/fencing"
+        },
+        "fr": {
+            "term_title": "Escrime",
+            "term_title_slug": "escrime",
+            "branche": ""
+        }
+    }
+}
