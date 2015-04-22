@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "force-nucl\u00e9aire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/force-nucl\u00e9aire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/force-nucl%C3%A9aire/force-nucl%C3%A9aire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/force-nucl%C3%A9aire/force-nucl%C3%A9aire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/force-nucl%C3%A9aire/force-nucl%C3%A9aire/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Fuerza nuclear",
+            "term_title_slug": "fuerza-nuclear"
+        },
+        "en": {
+            "term_title": "Nuclear force",
+            "term_title_slug": "nuclear-force"
+        },
+        "fr": {
+            "term_title": "Force nucl\u00e9aire",
+            "term_title_slug": "force-nucl\u00e9aire"
+        }
+    }
+}
