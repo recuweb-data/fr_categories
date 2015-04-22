@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "planche-\u00e0-voile",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/planche-\u00e0-voile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/planche-%C3+-voile/planche-%C3+-voile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/planche-%C3+-voile/planche-%C3+-voile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/planche-%C3+-voile/planche-%C3+-voile/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Windsurf",
+            "term_title_slug": "windsurf",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Windsurfing",
+            "term_title_slug": "windsurfing",
+            "branche": "sport/extreme-sport/surfing/windsurfing"
+        },
+        "fr": {
+            "term_title": "Planche \u00e0 voile",
+            "term_title_slug": "planche-\u00e0-voile",
+            "branche": ""
+        }
+    }
+}
