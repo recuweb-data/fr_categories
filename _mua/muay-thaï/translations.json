@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "muay-tha\u00ef",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/muay-tha\u00ef/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/muay-tha%C3%AF/muay-tha%C3%AF/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/muay-tha%C3%AF/muay-tha%C3%AF/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/muay-tha%C3%AF/muay-tha%C3%AF/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Muay thai",
+            "term_title_slug": "muay-thai",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Muay Thai",
+            "term_title_slug": "muay-thai",
+            "branche": "sport/combat-sport/boxing/muay-thai"
+        },
+        "fr": {
+            "term_title": "Muay-tha\u00ef",
+            "term_title_slug": "muay-tha\u00ef",
+            "branche": ""
+        }
+    }
+}
