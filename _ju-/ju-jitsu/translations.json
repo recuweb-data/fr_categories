@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "ju-jitsu",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ju-jitsu/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ju-jitsu/ju-jitsu/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ju-jitsu/ju-jitsu/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ju-jitsu/ju-jitsu/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Jiu-jitsu",
+            "term_title_slug": "jiu-jitsu",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Jujutsu",
+            "term_title_slug": "jujutsu",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts/japanese-martial-arts/jujutsu"
+        },
+        "fr": {
+            "term_title": "Ju-jitsu",
+            "term_title_slug": "ju-jitsu",
+            "branche": ""
+        }
+    }
+}
