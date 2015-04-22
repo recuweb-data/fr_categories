@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "formule",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/formule/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/formule/formule/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/formule/formule/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/formule/formule/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "F\u00f3rmula 1",
+            "term_title_slug": "f\u00f3rmula",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Formula One",
+            "term_title_slug": "formula-one",
+            "branche": "sport/motorsport/auto-racing/road-racing/open-wheel-car/formula-one"
+        },
+        "fr": {
+            "term_title": "Formule 1",
+            "term_title_slug": "formule",
+            "branche": ""
+        }
+    }
+}
