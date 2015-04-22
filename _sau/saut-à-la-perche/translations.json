@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "saut-\u00e0-la-perche",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-\u00e0-la-perche/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Salto con p\u00e9rtiga",
+            "term_title_slug": "salto-con-p\u00e9rtiga",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Pole vault",
+            "term_title_slug": "pole-vault",
+            "branche": "sport/athletics/pole-vault"
+        },
+        "fr": {
+            "term_title": "Saut \u00e0 la perche",
+            "term_title_slug": "saut-\u00e0-la-perche",
+            "branche": ""
+        }
+    }
+}
