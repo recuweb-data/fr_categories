@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "portal_name": "thermo\u00e9lectricit\u00e9",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/thermo\u00e9lectricit\u00e9/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/thermo%C3%A9lectricit%C3%A9/thermo%C3%A9lectricit%C3%A9/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/thermo%C3%A9lectricit%C3%A9/thermo%C3%A9lectricit%C3%A9/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/thermo%C3%A9lectricit%C3%A9/thermo%C3%A9lectricit%C3%A9/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Termoelectricidad",
+            "term_title_slug": "termoelectricidad"
+        },
+        "fr": {
+            "term_title": "Thermo\u00e9lectricit\u00e9",
+            "term_title_slug": "thermo\u00e9lectricit\u00e9"
+        }
+    }
+}
