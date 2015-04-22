@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sous-titrage",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sous-titrage/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Subt\u00edtulo",
+            "term_title_slug": "subt\u00edtulo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Subtitle (captioning)",
+            "term_title_slug": "subtitle",
+            "branche": "technology/telecommunication/video-technology/subtitle"
+        },
+        "fr": {
+            "term_title": "Sous-titrage",
+            "term_title_slug": "sous-titrage",
+            "branche": ""
+        }
+    }
+}
