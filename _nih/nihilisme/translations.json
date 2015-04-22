@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "nihilisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/nihilisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/nihilisme/nihilisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/nihilisme/nihilisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/nihilisme/nihilisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Nihilismo",
+            "term_title_slug": "nihilismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Nihilism",
+            "term_title_slug": "nihilism",
+            "branche": "politics/ethics/nihilism"
+        },
+        "fr": {
+            "term_title": "Nihilisme",
+            "term_title_slug": "nihilisme",
+            "branche": ""
+        }
+    }
+}
