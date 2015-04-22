@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "ski-nautique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ski-nautique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Esqu\u00ed acu\u00e1tico",
+            "term_title_slug": "esqu\u00ed-acu\u00e1tico",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Waterskiing",
+            "term_title_slug": "waterskiing",
+            "branche": "sport/water-sports/waterskiing"
+        },
+        "fr": {
+            "term_title": "Ski nautique",
+            "term_title_slug": "ski-nautique",
+            "branche": ""
+        }
+    }
+}
