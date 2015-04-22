@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "occultisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/occultisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/occultisme/occultisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/occultisme/occultisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/occultisme/occultisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Ocultismo",
+            "term_title_slug": "ocultismo"
+        },
+        "en": {
+            "term_title": "Occult",
+            "term_title_slug": "occult"
+        },
+        "fr": {
+            "term_title": "Occultisme",
+            "term_title_slug": "occultisme"
+        }
+    }
+}
