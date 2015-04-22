@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "humanisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/humanisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/humanisme/humanisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/humanisme/humanisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/humanisme/humanisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Humanismo",
+            "term_title_slug": "humanismo"
+        },
+        "en": {
+            "term_title": "Humanism",
+            "term_title_slug": "humanism"
+        },
+        "fr": {
+            "term_title": "Humanisme",
+            "term_title_slug": "humanisme"
+        }
+    }
+}
