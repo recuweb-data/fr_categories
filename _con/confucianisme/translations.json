@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "confucianisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/confucianisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/confucianisme/confucianisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/confucianisme/confucianisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/confucianisme/confucianisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Confucianismo",
+            "term_title_slug": "confucianismo"
+        },
+        "en": {
+            "term_title": "Confucianism",
+            "term_title_slug": "confucianism"
+        },
+        "fr": {
+            "term_title": "Confucianisme",
+            "term_title_slug": "confucianisme"
+        }
+    }
+}
