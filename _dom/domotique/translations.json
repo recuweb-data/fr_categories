@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "domotique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/domotique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Dom\u00f3tica",
+            "term_title_slug": "dom\u00f3tica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Home automation",
+            "term_title_slug": "home-automation",
+            "branche": "technology/robotics/home-automation"
+        },
+        "fr": {
+            "term_title": "Domotique",
+            "term_title_slug": "domotique",
+            "branche": ""
+        }
+    }
+}
