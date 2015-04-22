@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "photographie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/photographie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Fotograf\u00eda",
+            "term_title_slug": "fotografia"
+        },
+        "en": {
+            "term_title": "Photography",
+            "term_title_slug": "photography"
+        },
+        "fr": {
+            "term_title": "Photographie",
+            "term_title_slug": "photographie"
+        }
+    }
+}
