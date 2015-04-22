@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport-de-ballon",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-de-ballon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deporte de pelota",
+            "term_title_slug": "deporte-de-pelota",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Ball game",
+            "term_title_slug": "ball-game",
+            "branche": "sport/ball-game"
+        },
+        "fr": {
+            "term_title": "Sport de ballon",
+            "term_title_slug": "sport-de-ballon",
+            "branche": ""
+        }
+    }
+}
