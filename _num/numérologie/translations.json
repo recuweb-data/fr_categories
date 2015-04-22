@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "num\u00e9rologie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/num\u00e9rologie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/num%C3%A9rologie/num%C3%A9rologie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/num%C3%A9rologie/num%C3%A9rologie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/num%C3%A9rologie/num%C3%A9rologie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Numerolog\u00eda",
+            "term_title_slug": "numerolog\u00eda"
+        },
+        "en": {
+            "term_title": "Numerology",
+            "term_title_slug": "numerology"
+        },
+        "fr": {
+            "term_title": "Num\u00e9rologie",
+            "term_title_slug": "num\u00e9rologie"
+        }
+    }
+}
