@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "escalade",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/escalade/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Escalada",
+            "term_title_slug": "escalada"
+        },
+        "en": {
+            "term_title": "Climbing",
+            "term_title_slug": "climbing"
+        },
+        "fr": {
+            "term_title": "Escalade",
+            "term_title_slug": "escalade"
+        }
+    }
+}
