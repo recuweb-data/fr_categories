@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "surf",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/surf/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/surf/surf/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/surf/surf/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/surf/surf/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Surf",
+            "term_title_slug": "surf",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Surfing",
+            "term_title_slug": "surfing",
+            "branche": "sport/extreme-sport/surfing"
+        },
+        "fr": {
+            "term_title": "Surf",
+            "term_title_slug": "surf",
+            "branche": ""
+        }
+    }
+}
