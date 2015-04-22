@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "interculturel",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/interculturel/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/interculturel/interculturel/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/interculturel/interculturel/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/interculturel/interculturel/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Interculturalidad",
+            "term_title_slug": "interculturalidad"
+        },
+        "en": {
+            "term_title": "Interculturality",
+            "term_title_slug": "interculturality"
+        },
+        "fr": {
+            "term_title": "Interculturel",
+            "term_title_slug": "interculturel"
+        }
+    }
+}
