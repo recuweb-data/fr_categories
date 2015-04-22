@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "pelote-valencienne",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelote-valencienne/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelote-valencienne/pelote-valencienne/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelote-valencienne/pelote-valencienne/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelote-valencienne/pelote-valencienne/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pelota valenciana",
+            "term_title_slug": "pelota-valenciana",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Valencian pilota",
+            "term_title_slug": "valencian-pilota",
+            "branche": "sport/ball-game/racquet-sports/fronton/valencian-pilota"
+        },
+        "fr": {
+            "term_title": "Pelote valencienne",
+            "term_title_slug": "pelote-valencienne",
+            "branche": ""
+        }
+    }
+}
