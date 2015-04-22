@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "bibliophilie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/bibliophilie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Bibliofilia",
+            "term_title_slug": "bibliofilia",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Bibliophilia",
+            "term_title_slug": "bibliophilia",
+            "branche": "culture/popular-culture/collecting/bibliophilia"
+        },
+        "fr": {
+            "term_title": "Bibliophilie",
+            "term_title_slug": "bibliophilie",
+            "branche": ""
+        }
+    }
+}
