@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "technologie-vid\u00e9o",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/technologie-vid\u00e9o/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/technologie-vid%C3%A9o/technologie-vid%C3%A9o/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/technologie-vid%C3%A9o/technologie-vid%C3%A9o/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/technologie-vid%C3%A9o/technologie-vid%C3%A9o/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Video technology",
+            "term_title_slug": "video-technology",
+            "branche": "technology/telecommunication/video-technology"
+        },
+        "es": {
+            "term_title": "Tecnolog\u00eda de v\u00eddeo",
+            "term_title_slug": "tecnolog\u00eda-de-v\u00eddeo",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Technologie vid\u00e9o",
+            "term_title_slug": "technologie-vid\u00e9o",
+            "branche": ""
+        }
+    }
+}
