@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "altruisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/altruisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Altruismo",
+            "term_title_slug": "altruismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Altruism",
+            "term_title_slug": "altruism",
+            "branche": "culture/popular-culture/altruism"
+        },
+        "fr": {
+            "term_title": "Altruisme",
+            "term_title_slug": "altruisme",
+            "branche": ""
+        }
+    }
+}
