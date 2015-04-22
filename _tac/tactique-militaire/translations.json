@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "tactique-militaire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/tactique-militaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/tactique-militaire/tactique-militaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/tactique-militaire/tactique-militaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tactique-militaire/tactique-militaire/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Military tactics",
+            "term_title_slug": "military-tactics",
+            "branche": "technology/engineering/military-science/military-tactics"
+        },
+        "es": {
+            "term_title": "Tacticas militares",
+            "term_title_slug": "tacticas-militares",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Tactique militaire",
+            "term_title_slug": "tactique-militaire",
+            "branche": ""
+        }
+    }
+}
