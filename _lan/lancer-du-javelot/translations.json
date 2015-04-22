@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "lancer-du-javelot",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lancer-du-javelot/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lancer-du-javelot/lancer-du-javelot/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lancer-du-javelot/lancer-du-javelot/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lancer-du-javelot/lancer-du-javelot/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Lanzamiento de jabalina",
+            "term_title_slug": "lanzamiento-de-jabalina"
+        },
+        "en": {
+            "term_title": "Javelin throw",
+            "term_title_slug": "javelin-throw"
+        },
+        "fr": {
+            "term_title": "Lancer du javelot",
+            "term_title_slug": "lancer-du-javelot"
+        }
+    }
+}
