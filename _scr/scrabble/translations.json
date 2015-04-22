@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "scrabble",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/scrabble/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/scrabble/scrabble/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/scrabble/scrabble/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/scrabble/scrabble/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Scrabble",
+            "term_title_slug": "scrabble",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Scrabble",
+            "term_title_slug": "scrabble",
+            "branche": "sport/mind-sport/tabletop-game/scrabble"
+        },
+        "fr": {
+            "term_title": "Scrabble",
+            "term_title_slug": "scrabble",
+            "branche": ""
+        }
+    }
+}
