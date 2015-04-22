@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "golf",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/golf/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/golf/golf/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/golf/golf/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/golf/golf/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Golf",
+            "term_title_slug": "golf"
+        },
+        "en": {
+            "term_title": "Golf",
+            "term_title_slug": "golf"
+        },
+        "fr": {
+            "term_title": "Golf",
+            "term_title_slug": "golf"
+        }
+    }
+}
