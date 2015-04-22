@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "clip",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/clip/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/clip/clip/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/clip/clip/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/clip/clip/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Videoclip",
+            "term_title_slug": "videoclip",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Music video",
+            "term_title_slug": "music-video",
+            "branche": "technology/telecommunication/video-technology/music-video"
+        },
+        "fr": {
+            "term_title": "Clip",
+            "term_title_slug": "clip",
+            "branche": ""
+        }
+    }
+}
