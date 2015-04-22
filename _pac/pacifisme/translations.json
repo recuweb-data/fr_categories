@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "pacifisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pacifisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pacifisme/pacifisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pacifisme/pacifisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pacifisme/pacifisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pacifismo",
+            "term_title_slug": "pacifismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Pacifism",
+            "term_title_slug": "pacifism",
+            "branche": "politics/ethics/pacifism"
+        },
+        "fr": {
+            "term_title": "Pacifisme",
+            "term_title_slug": "pacifisme",
+            "branche": ""
+        }
+    }
+}
