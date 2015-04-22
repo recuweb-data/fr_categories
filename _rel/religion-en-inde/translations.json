@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "religion-en-inde",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion-en-inde/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Religion in india",
+            "term_title_slug": "religion-in-india",
+            "branche": "culture/religion/religion-in-india"
+        },
+        "es": {
+            "term_title": "Religi\u00f3n en la india",
+            "term_title_slug": "religi\u00f3n-en-la-india",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Religion en inde",
+            "term_title_slug": "religion-en-inde",
+            "branche": ""
+        }
+    }
+}
