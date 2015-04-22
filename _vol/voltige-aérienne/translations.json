@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "voltige-a\u00e9rienne",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/voltige-a\u00e9rienne/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/voltige-a%C3%A9rienne/voltige-a%C3%A9rienne/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/voltige-a%C3%A9rienne/voltige-a%C3%A9rienne/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/voltige-a%C3%A9rienne/voltige-a%C3%A9rienne/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Aerobatics",
+            "term_title_slug": "aerobatics",
+            "branche": "sport/motorsport/aeronautics/aerobatics"
+        },
+        "es": {
+            "term_title": "Acrobacia a\u00e9rea",
+            "term_title_slug": "acrobacia-a\u00e9rea",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Voltige a\u00e9rienne",
+            "term_title_slug": "voltige-a\u00e9rienne",
+            "branche": ""
+        }
+    }
+}
