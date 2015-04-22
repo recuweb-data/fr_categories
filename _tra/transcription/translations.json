@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "transcription",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/transcription/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/transcription/transcription/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/transcription/transcription/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/transcription/transcription/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Transcripci\u00f3n",
+            "term_title_slug": "transcripci\u00f3n"
+        },
+        "en": {
+            "term_title": "Transcription",
+            "term_title_slug": "transcription"
+        },
+        "fr": {
+            "term_title": "Transcription",
+            "term_title_slug": "transcription"
+        }
+    }
+}
