@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "soufisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/soufisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/soufisme/soufisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/soufisme/soufisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/soufisme/soufisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Sufismo",
+            "term_title_slug": "sufismo"
+        },
+        "en": {
+            "term_title": "Sufism",
+            "term_title_slug": "sufism"
+        },
+        "fr": {
+            "term_title": "Soufisme",
+            "term_title_slug": "soufisme"
+        }
+    }
+}
