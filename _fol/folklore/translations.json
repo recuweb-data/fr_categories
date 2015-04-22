@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "folklore",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/folklore/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Folclore",
+            "term_title_slug": "folclore",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Folklore",
+            "term_title_slug": "folklore",
+            "branche": "culture/popular-culture/tradition/folklore"
+        },
+        "fr": {
+            "term_title": "Folklore",
+            "term_title_slug": "folklore",
+            "branche": ""
+        }
+    }
+}
