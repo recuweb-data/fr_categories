@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "facebook",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/facebook/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/facebook/facebook/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/facebook/facebook/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Facebook",
+            "term_title_slug": "facebook",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Facebook",
+            "term_title_slug": "facebook",
+            "branche": "internet/web-services/social-network/facebook"
+        },
+        "fr": {
+            "term_title": "Facebook",
+            "term_title_slug": "facebook",
+            "branche": ""
+        }
+    }
+}
