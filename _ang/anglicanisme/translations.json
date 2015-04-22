@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "anglicanisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/anglicanisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Anglicanismo",
+            "term_title_slug": "anglicanismo"
+        },
+        "en": {
+            "term_title": "Anglicanism",
+            "term_title_slug": "anglicanism"
+        },
+        "fr": {
+            "term_title": "Anglicanisme",
+            "term_title_slug": "anglicanisme"
+        }
+    }
+}
