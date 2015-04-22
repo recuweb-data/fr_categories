@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "microformat",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/microformat/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Microformato",
+            "term_title_slug": "microformato"
+        },
+        "en": {
+            "term_title": "Microformat",
+            "term_title_slug": "microformat"
+        },
+        "fr": {
+            "term_title": "Microformat",
+            "term_title_slug": "microformat"
+        }
+    }
+}
