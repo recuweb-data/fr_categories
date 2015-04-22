@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "racquetball",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/racquetball/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/racquetball/racquetball/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/racquetball/racquetball/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/racquetball/racquetball/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Raquetbol",
+            "term_title_slug": "raquetbol",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Racquetball",
+            "term_title_slug": "racquetball",
+            "branche": "sport/ball-game/racquet-sports/fronton/racquetball"
+        },
+        "fr": {
+            "term_title": "Racquetball",
+            "term_title_slug": "racquetball",
+            "branche": ""
+        }
+    }
+}
