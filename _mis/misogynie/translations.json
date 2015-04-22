@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "misogynie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/misogynie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/misogynie/misogynie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/misogynie/misogynie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/misogynie/misogynie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Misoginia",
+            "term_title_slug": "misoginia",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Misogyny",
+            "term_title_slug": "misogyny",
+            "branche": "politics/social-movement/feminism/misogyny"
+        },
+        "fr": {
+            "term_title": "Misogynie",
+            "term_title_slug": "misogynie",
+            "branche": ""
+        }
+    }
+}
