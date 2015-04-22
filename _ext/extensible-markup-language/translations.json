@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "extensible-markup-language",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/extensible-markup-language/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Extensible Markup Language",
+            "term_title_slug": "extensible-markup-language",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "XML",
+            "term_title_slug": "xml",
+            "branche": "internet/web-development/web-formats/xml"
+        },
+        "fr": {
+            "term_title": "Extensible Markup Language",
+            "term_title_slug": "extensible-markup-language",
+            "branche": ""
+        }
+    }
+}
