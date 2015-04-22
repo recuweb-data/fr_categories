@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pratique-\u00e9nerg\u00e9tique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pratique-\u00e9nerg\u00e9tique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pratique-%C3%A9nerg%C3%A9tique/pratique-%C3%A9nerg%C3%A9tique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pratique-%C3%A9nerg%C3%A9tique/pratique-%C3%A9nerg%C3%A9tique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pratique-%C3%A9nerg%C3%A9tique/pratique-%C3%A9nerg%C3%A9tique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Curaci\u00f3n a trav\u00e9s de la fe",
+            "term_title_slug": "curaci\u00f3n-trav\u00e9s-de-la-fe"
+        },
+        "en": {
+            "term_title": "Faith healing",
+            "term_title_slug": "faith-healing"
+        },
+        "fr": {
+            "term_title": "Pratique \u00e9nerg\u00e9tique",
+            "term_title_slug": "pratique-\u00e9nerg\u00e9tique"
+        }
+    }
+}
