@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "encierro",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/encierro/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/encierro/encierro/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/encierro/encierro/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/encierro/encierro/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Encierro (tauromaquia)",
+            "term_title_slug": "encierro"
+        },
+        "en": {
+            "term_title": "Running of the Bulls",
+            "term_title_slug": "running-of-the-bulls"
+        },
+        "fr": {
+            "term_title": "Encierro",
+            "term_title_slug": "encierro"
+        }
+    }
+}
