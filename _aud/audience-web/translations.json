@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "audience-web",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/audience-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Web analytics",
+            "term_title_slug": "web-analytics"
+        },
+        "es": {
+            "term_title": "An\u00e1lisis web",
+            "term_title_slug": "an\u00e1lisis-web"
+        },
+        "fr": {
+            "term_title": "Audience web",
+            "term_title_slug": "audience-web"
+        }
+    }
+}
