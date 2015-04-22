@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "lib\u00e9ralisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lib\u00e9ralisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Liberalismo",
+            "term_title_slug": "liberalismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Liberalism",
+            "term_title_slug": "liberalism",
+            "branche": "politics/political-ideology/capitalism/liberalism"
+        },
+        "fr": {
+            "term_title": "Lib\u00e9ralisme",
+            "term_title_slug": "lib\u00e9ralisme",
+            "branche": ""
+        }
+    }
+}
