@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "bing",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/bing/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/bing/bing/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/bing/bing/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bing/bing/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Bing",
+            "term_title_slug": "bing"
+        },
+        "en": {
+            "term_title": "Bing",
+            "term_title_slug": "bing"
+        },
+        "fr": {
+            "term_title": "Bing (moteur de recherche)",
+            "term_title_slug": "bing"
+        }
+    }
+}
