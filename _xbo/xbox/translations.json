@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "xbox",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/xbox/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/xbox/xbox/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/xbox/xbox/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/xbox/xbox/blogs.json"
+    },
+    "translations": {
+        "fr": {
+            "term_title": "Xbox",
+            "term_title_slug": "xbox"
+        },
+        "en": {
+            "term_title": "Xbox (console)",
+            "term_title_slug": "xbox"
+        },
+        "es": {
+            "term_title": "Xbox",
+            "term_title_slug": "xbox"
+        }
+    }
+}
