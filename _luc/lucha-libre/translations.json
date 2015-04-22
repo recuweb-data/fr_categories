@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "lucha-libre",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lucha-libre/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Lucha libre",
+            "term_title_slug": "lucha-libre",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Lucha Libre",
+            "term_title_slug": "lucha-libre",
+            "branche": "sport/combat-sport/lucha-libre"
+        },
+        "fr": {
+            "term_title": "Lucha libre",
+            "term_title_slug": "lucha-libre",
+            "branche": ""
+        }
+    }
+}
