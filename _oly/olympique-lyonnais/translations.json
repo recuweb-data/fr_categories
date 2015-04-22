@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "olympique-lyonnais",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/olympique-lyonnais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Olympique de Lyon",
+            "term_title_slug": "olympique-de-lyon",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Olympique Lyonnais",
+            "term_title_slug": "olympique-lyonnais"
+        },
+        "fr": {
+            "term_title": "Olympique lyonnais",
+            "term_title_slug": "olympique-lyonnais"
+        }
+    }
+}
