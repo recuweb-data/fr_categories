@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "tennis",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/tennis/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/tennis/tennis/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/tennis/tennis/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis/tennis/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tenis",
+            "term_title_slug": "tenis",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Tennis",
+            "term_title_slug": "tennis",
+            "branche": "sport/ball-game/racquet-sports/tennis"
+        },
+        "fr": {
+            "term_title": "Tennis",
+            "term_title_slug": "tennis",
+            "branche": ""
+        }
+    }
+}
