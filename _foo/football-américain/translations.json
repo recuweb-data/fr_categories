@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "football-am\u00e9ricain",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/football-am\u00e9ricain/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "American football",
+            "term_title_slug": "american-football",
+            "branche": "sport/ball-game/association-football/american-football"
+        },
+        "es": {
+            "term_title": "F\u00fatbol americano",
+            "term_title_slug": "f\u00fatbol-americano",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Football am\u00e9ricain",
+            "term_title_slug": "football-am\u00e9ricain",
+            "branche": ""
+        }
+    }
+}
