@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "postgresql",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/postgresql/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "PostgreSQL",
+            "term_title_slug": "postgresql",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "PostgreSQL",
+            "term_title_slug": "postgresql",
+            "branche": "internet/web-development/database/postgresql"
+        },
+        "fr": {
+            "term_title": "PostgreSQL",
+            "term_title_slug": "postgresql",
+            "branche": ""
+        }
+    }
+}
