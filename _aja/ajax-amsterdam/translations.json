@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "portal_name": "ajax-amsterdam",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ajax-amsterdam/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Ajax de \u00c1msterdam",
+            "term_title_slug": "ajax-de-\u00e1msterdam",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "AFC Ajax",
+            "term_title_slug": "afc-ajax"
+        },
+        "fr": {
+            "term_title": "Ajax Amsterdam",
+            "term_title_slug": "ajax-amsterdam"
+        }
+    }
+}
