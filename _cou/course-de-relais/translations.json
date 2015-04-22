@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "course-de-relais",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/course-de-relais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Carreras de relevos",
+            "term_title_slug": "carreras-de-relevos"
+        },
+        "en": {
+            "term_title": "Relay race",
+            "term_title_slug": "relay-race"
+        },
+        "fr": {
+            "term_title": "Course de relais",
+            "term_title_slug": "course-de-relais"
+        }
+    }
+}
