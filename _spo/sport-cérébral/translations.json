@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport-c\u00e9r\u00e9bral",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-c\u00e9r\u00e9bral/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Mind sport",
+            "term_title_slug": "mind-sport",
+            "branche": "sport/mind-sport"
+        },
+        "es": {
+            "term_title": "Deportes mentales",
+            "term_title_slug": "deportes-mentales",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Sport c\u00e9r\u00e9bral",
+            "term_title_slug": "sport-c\u00e9r\u00e9bral",
+            "branche": ""
+        }
+    }
+}
