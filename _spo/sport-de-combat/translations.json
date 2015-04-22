@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport-de-combat",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-de-combat/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deportes de lucha",
+            "term_title_slug": "deportes-de-lucha",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Combat sport",
+            "term_title_slug": "combat-sport",
+            "branche": "sport/combat-sport"
+        },
+        "fr": {
+            "term_title": "Sport de combat",
+            "term_title_slug": "sport-de-combat",
+            "branche": ""
+        }
+    }
+}
