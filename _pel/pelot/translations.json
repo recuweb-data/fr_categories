@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "pelot",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelot/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Fronton",
+            "term_title_slug": "fronton",
+            "branche": "sport/ball-game/racquet-sports/fronton"
+        },
+        "es": {
+            "term_title": "Fronton",
+            "term_title_slug": "fronton",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Pelot",
+            "term_title_slug": "pelot",
+            "branche": ""
+        }
+    }
+}
