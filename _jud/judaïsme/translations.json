@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "juda\u00efsme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/juda\u00efsme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/juda%C3%AFsme/juda%C3%AFsme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/juda%C3%AFsme/juda%C3%AFsme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/juda%C3%AFsme/juda%C3%AFsme/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Judaism",
+            "term_title_slug": "judaism",
+            "branche": "culture/religion/abrahamic-religions/judaism"
+        },
+        "es": {
+            "term_title": "Juda\u00edsmo",
+            "term_title_slug": "juda\u00edsmo",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Juda\u00efsme",
+            "term_title_slug": "juda\u00efsme",
+            "branche": ""
+        }
+    }
+}
