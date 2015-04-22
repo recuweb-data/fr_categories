@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "tatouage",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/tatouage/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/tatouage/tatouage/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/tatouage/tatouage/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tatouage/tatouage/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Tatuaje",
+            "term_title_slug": "tatuaje"
+        },
+        "en": {
+            "term_title": "Tattoo",
+            "term_title_slug": "tattoo"
+        },
+        "fr": {
+            "term_title": "Tatouage",
+            "term_title_slug": "tatouage"
+        }
+    }
+}
