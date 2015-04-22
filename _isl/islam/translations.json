@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "islam",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/islam/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/islam/islam/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/islam/islam/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/islam/islam/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Islam",
+            "term_title_slug": "islam"
+        },
+        "en": {
+            "term_title": "Islam",
+            "term_title_slug": "islam"
+        },
+        "fr": {
+            "term_title": "Islam",
+            "term_title_slug": "islam"
+        }
+    }
+}
