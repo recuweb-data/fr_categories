@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sport-extr\u00eame",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-extr\u00eame/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-extr%C3%AAme/sport-extr%C3%AAme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-extr%C3%AAme/sport-extr%C3%AAme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-extr%C3%AAme/sport-extr%C3%AAme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Deporte extremo",
+            "term_title_slug": "deporte-extremo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Extreme sport",
+            "term_title_slug": "extreme-sport",
+            "branche": "sport/extreme-sport"
+        },
+        "fr": {
+            "term_title": "Sport extr\u00eame",
+            "term_title_slug": "sport-extr\u00eame",
+            "branche": ""
+        }
+    }
+}
