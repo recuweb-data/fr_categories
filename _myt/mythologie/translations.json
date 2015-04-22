@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "mythologie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/mythologie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Mitolog\u00eda",
+            "term_title_slug": "mitolog\u00eda"
+        },
+        "en": {
+            "term_title": "Mythology",
+            "term_title_slug": "mythology"
+        },
+        "fr": {
+            "term_title": "Mythologie",
+            "term_title_slug": "mythologie"
+        }
+    }
+}
