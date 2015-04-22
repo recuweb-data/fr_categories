@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "yandex",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/yandex/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Yandex",
+            "term_title_slug": "yandex"
+        },
+        "en": {
+            "term_title": "Yandex",
+            "term_title_slug": "yandex"
+        },
+        "fr": {
+            "term_title": "Yandex",
+            "term_title_slug": "yandex"
+        }
+    }
+}
