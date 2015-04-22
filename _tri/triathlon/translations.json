@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "triathlon",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/triathlon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/triathlon/triathlon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/triathlon/triathlon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/triathlon/triathlon/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Triatl\u00f3n",
+            "term_title_slug": "triatlon"
+        },
+        "en": {
+            "term_title": "Triathlon",
+            "term_title_slug": "triathlon"
+        },
+        "fr": {
+            "term_title": "Triathlon",
+            "term_title_slug": "triathlon"
+        }
+    }
+}
