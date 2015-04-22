@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "xampp",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/xampp/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/xampp/xampp/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/xampp/xampp/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "XAMPP",
+            "term_title_slug": "xampp",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "XAMPP",
+            "term_title_slug": "xampp",
+            "branche": "internet/web-development/web-languages/php/xampp"
+        },
+        "fr": {
+            "term_title": "XAMPP",
+            "term_title_slug": "xampp",
+            "branche": ""
+        }
+    }
+}
