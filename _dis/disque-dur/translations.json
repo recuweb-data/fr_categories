@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "disque-dur",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/disque-dur/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Unidad de disco duro",
+            "term_title_slug": "unidad-de-disco-duro",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Hard disk drive",
+            "term_title_slug": "hard-disk-drive",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-data-storage/hard-disk-drive"
+        },
+        "fr": {
+            "term_title": "Disque dur",
+            "term_title_slug": "disque-dur",
+            "branche": ""
+        }
+    }
+}
