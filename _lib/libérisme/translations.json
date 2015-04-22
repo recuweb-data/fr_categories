@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "lib\u00e9risme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lib\u00e9risme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9risme/lib%C3%A9risme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9risme/lib%C3%A9risme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9risme/lib%C3%A9risme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Comercio libre",
+            "term_title_slug": "comercio-libre"
+        },
+        "en": {
+            "term_title": "Liberism",
+            "term_title_slug": "liberism"
+        },
+        "fr": {
+            "term_title": "Lib\u00e9risme",
+            "term_title_slug": "lib\u00e9risme"
+        }
+    }
+}
