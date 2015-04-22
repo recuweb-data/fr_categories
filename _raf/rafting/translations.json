@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "rafting",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rafting/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Rafting",
+            "term_title_slug": "rafting",
+            "branche": "sport/water-sports/rafting"
+        },
+        "es": {
+            "term_title": "Descenso de r\u00edos",
+            "term_title_slug": "descenso-de-r\u00edos",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Rafting",
+            "term_title_slug": "rafting",
+            "branche": ""
+        }
+    }
+}
