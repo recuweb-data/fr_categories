@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pagerank",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pagerank/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "PageRank",
+            "term_title_slug": "pagerank"
+        },
+        "en": {
+            "term_title": "PageRank",
+            "term_title_slug": "pagerank"
+        },
+        "fr": {
+            "term_title": "PageRank",
+            "term_title_slug": "pagerank"
+        }
+    }
+}
