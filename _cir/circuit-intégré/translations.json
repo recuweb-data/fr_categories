@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "circuit-int\u00e9gr\u00e9",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/circuit-int\u00e9gr\u00e9/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/circuit-int%C3%A9gr%C3%A9/circuit-int%C3%A9gr%C3%A9/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/circuit-int%C3%A9gr%C3%A9/circuit-int%C3%A9gr%C3%A9/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/circuit-int%C3%A9gr%C3%A9/circuit-int%C3%A9gr%C3%A9/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Circuito integrado",
+            "term_title_slug": "circuito-integrado",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Integrated circuit",
+            "term_title_slug": "integrated-circuit",
+            "branche": "technology/electronics/electronic-device/computer-hardware/integrated-circuit"
+        },
+        "fr": {
+            "term_title": "Circuit int\u00e9gr\u00e9",
+            "term_title_slug": "circuit-int\u00e9gr\u00e9",
+            "branche": ""
+        }
+    }
+}
