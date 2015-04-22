@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "moto-cross",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/moto-cross/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Motocross",
+            "term_title_slug": "motocross",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Motocross",
+            "term_title_slug": "motocross",
+            "branche": "sport/motorsport/motorcycle-sport/motocross"
+        },
+        "fr": {
+            "term_title": "Moto-cross",
+            "term_title_slug": "moto-cross",
+            "branche": ""
+        }
+    }
+}
