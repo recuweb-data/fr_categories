@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "aeronautique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/aeronautique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Aeron\u00e1utica",
+            "term_title_slug": "aeronautica"
+        },
+        "en": {
+            "term_title": "Aeronautics",
+            "term_title_slug": "aeronautics"
+        },
+        "fr": {
+            "term_title": "A\u00e9ronautique",
+            "term_title_slug": "aeronautique"
+        }
+    }
+}
