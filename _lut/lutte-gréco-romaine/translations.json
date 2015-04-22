@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "lutte-gr\u00e9co-romaine",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/lutte-gr\u00e9co-romaine/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/lutte-gr%C3%A9co-romaine/lutte-gr%C3%A9co-romaine/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/lutte-gr%C3%A9co-romaine/lutte-gr%C3%A9co-romaine/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lutte-gr%C3%A9co-romaine/lutte-gr%C3%A9co-romaine/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Lucha grecorromana",
+            "term_title_slug": "lucha-grecorromana",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Greco-Roman wrestling",
+            "term_title_slug": "greco-roman-wrestling",
+            "branche": "sport/combat-sport/lucha-libre/greco-roman-wrestling"
+        },
+        "fr": {
+            "term_title": "Lutte gr\u00e9co-romaine",
+            "term_title_slug": "lutte-gr\u00e9co-romaine",
+            "branche": ""
+        }
+    }
+}
