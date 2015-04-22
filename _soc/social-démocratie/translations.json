@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "social-d\u00e9mocratie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/social-d\u00e9mocratie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/social-d%C3%A9mocratie/social-d%C3%A9mocratie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/social-d%C3%A9mocratie/social-d%C3%A9mocratie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/social-d%C3%A9mocratie/social-d%C3%A9mocratie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Socialdemocracia",
+            "term_title_slug": "socialdemocracia",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Social democracy",
+            "term_title_slug": "social-democracy",
+            "branche": "politics/political-ideology/socialism/social-democracy"
+        },
+        "fr": {
+            "term_title": "Social-d\u00e9mocratie",
+            "term_title_slug": "social-d\u00e9mocratie",
+            "branche": ""
+        }
+    }
+}
