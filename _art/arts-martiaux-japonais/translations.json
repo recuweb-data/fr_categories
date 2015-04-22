@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "arts-martiaux-japonais",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/arts-martiaux-japonais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Japanese martial arts",
+            "term_title_slug": "japanese-martial-arts",
+            "branche": "sport/combat-sport/martial-arts/asian-martial-arts/japanese-martial-arts"
+        },
+        "es": {
+            "term_title": "Artes marciales japoneses",
+            "term_title_slug": "artes-marciales-japoneses",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Arts martiaux japonais",
+            "term_title_slug": "arts-martiaux-japonais",
+            "branche": ""
+        }
+    }
+}
