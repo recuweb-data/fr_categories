@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "twitter",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/twitter/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/twitter/twitter/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/twitter/twitter/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/twitter/twitter/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Twitter",
+            "term_title_slug": "twitter",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Twitter",
+            "term_title_slug": "twitter",
+            "branche": "internet/web-services/microblogging/twitter"
+        },
+        "fr": {
+            "term_title": "Twitter",
+            "term_title_slug": "twitter",
+            "branche": ""
+        }
+    }
+}
