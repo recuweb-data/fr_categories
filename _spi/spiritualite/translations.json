@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "spiritualite",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/spiritualite/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Espiritualidad",
+            "term_title_slug": "espiritualidad"
+        },
+        "en": {
+            "term_title": "Spirituality",
+            "term_title_slug": "spirituality"
+        },
+        "fr": {
+            "term_title": "Spiritualit\u00e9",
+            "term_title_slug": "spiritualite"
+        }
+    }
+}
