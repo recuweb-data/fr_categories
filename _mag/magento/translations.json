@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "magento",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/magento/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/magento/magento/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/magento/magento/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magento/magento/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Magento",
+            "term_title_slug": "magento",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Magento",
+            "term_title_slug": "magento",
+            "branche": "internet/web-application/commerce/magento"
+        },
+        "fr": {
+            "term_title": "Magento",
+            "term_title_slug": "magento",
+            "branche": ""
+        }
+    }
+}
