@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "television",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/television/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/television/television/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/television/television/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/television/television/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Television",
+            "term_title_slug": "television"
+        },
+        "en": {
+            "term_title": "Television (band)",
+            "term_title_slug": "television"
+        },
+        "fr": {
+            "term_title": "Television (groupe)",
+            "term_title_slug": "television"
+        }
+    }
+}
