@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "carl-von-clausewitz",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/carl-von-clausewitz/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/carl-von-clausewitz/carl-von-clausewitz/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/carl-von-clausewitz/carl-von-clausewitz/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/carl-von-clausewitz/carl-von-clausewitz/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Carl von Clausewitz",
+            "term_title_slug": "carl-von-clausewitz",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Carl von Clausewitz",
+            "term_title_slug": "carl-von-clausewitz",
+            "branche": "technology/engineering/military-science/military-tactics/military-strategy/strategist/carl-von-clausewitz"
+        },
+        "fr": {
+            "term_title": "Carl von Clausewitz",
+            "term_title_slug": "carl-von-clausewitz",
+            "branche": ""
+        }
+    }
+}
