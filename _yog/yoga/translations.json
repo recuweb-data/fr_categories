@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "yoga",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/yoga/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/yoga/yoga/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/yoga/yoga/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Yoga",
+            "term_title_slug": "yoga",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Yoga",
+            "term_title_slug": "yoga",
+            "branche": "lifestyle/self-help/meditation/yoga"
+        },
+        "fr": {
+            "term_title": "Yoga",
+            "term_title_slug": "yoga",
+            "branche": ""
+        }
+    }
+}
