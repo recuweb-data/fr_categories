@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "motonautisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/motonautisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Moton\u00e1utica",
+            "term_title_slug": "motonautica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Powerboating",
+            "term_title_slug": "powerboating",
+            "branche": "sport/motorsport/powerboating"
+        },
+        "fr": {
+            "term_title": "Motonautisme (sport)",
+            "term_title_slug": "motonautisme",
+            "branche": ""
+        }
+    }
+}
