@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "gaz-naturel",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/gaz-naturel/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Gas natural",
+            "term_title_slug": "gas-natural"
+        },
+        "en": {
+            "term_title": "Natural gas",
+            "term_title_slug": "natural-gas"
+        },
+        "fr": {
+            "term_title": "Gaz naturel",
+            "term_title_slug": "gaz-naturel"
+        }
+    }
+}
