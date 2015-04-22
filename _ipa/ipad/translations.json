@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "ipad",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ipad/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "IPad",
+            "term_title_slug": "ipad",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "IPad",
+            "term_title_slug": "ipad",
+            "branche": "technology/electronics/electronic-device/computer-hardware/computer-hardware-companies/apple-hardware/ipad"
+        },
+        "fr": {
+            "term_title": "IPad",
+            "term_title_slug": "ipad",
+            "branche": ""
+        }
+    }
+}
