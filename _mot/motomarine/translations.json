@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "motomarine",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/motomarine/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/motomarine/motomarine/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/motomarine/motomarine/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/motomarine/motomarine/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Moto de agua",
+            "term_title_slug": "moto-de-agua",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Personal water craft",
+            "term_title_slug": "personal-water-craft",
+            "branche": "sport/motorsport/powerboating/personal-water-craft"
+        },
+        "fr": {
+            "term_title": "Motomarine",
+            "term_title_slug": "motomarine",
+            "branche": ""
+        }
+    }
+}
