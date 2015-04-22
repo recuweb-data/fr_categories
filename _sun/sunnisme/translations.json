@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "sunnisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sunnisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Sunismo",
+            "term_title_slug": "sunismo"
+        },
+        "en": {
+            "term_title": "Sunni Islam",
+            "term_title_slug": "sunni-islam"
+        },
+        "fr": {
+            "term_title": "Sunnisme",
+            "term_title_slug": "sunnisme"
+        }
+    }
+}
