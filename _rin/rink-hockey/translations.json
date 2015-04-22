@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "rink-hockey",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rink-hockey/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Hockey sobre patines",
+            "term_title_slug": "hockey-sobre-patines",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Roller hockey (quad)",
+            "term_title_slug": "roller-hockey",
+            "branche": "sport/ball-game/hockey/roller-hockey"
+        },
+        "fr": {
+            "term_title": "Rink hockey",
+            "term_title_slug": "rink-hockey",
+            "branche": ""
+        }
+    }
+}
