@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "triple-saut",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/triple-saut/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Triple salto",
+            "term_title_slug": "triple-salto"
+        },
+        "en": {
+            "term_title": "Triple jump",
+            "term_title_slug": "triple-jump"
+        },
+        "fr": {
+            "term_title": "Triple saut",
+            "term_title_slug": "triple-saut"
+        }
+    }
+}
