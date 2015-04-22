@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "collection",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/collection/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/collection/collection/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/collection/collection/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Coleccionismo",
+            "term_title_slug": "coleccionismo"
+        },
+        "en": {
+            "term_title": "Collecting",
+            "term_title_slug": "collecting"
+        },
+        "fr": {
+            "term_title": "Collection (activit\u00e9)",
+            "term_title_slug": "collection"
+        }
+    }
+}
