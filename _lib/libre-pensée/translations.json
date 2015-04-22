@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "libre-pens\u00e9e",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/libre-pens\u00e9e/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Librepensador",
+            "term_title_slug": "librepensador"
+        },
+        "en": {
+            "term_title": "Freethought",
+            "term_title_slug": "freethought"
+        },
+        "fr": {
+            "term_title": "Libre-pens\u00e9e",
+            "term_title_slug": "libre-pens\u00e9e"
+        }
+    }
+}
