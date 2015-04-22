@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "moteur-de-recherche",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Search engine",
+            "term_title_slug": "search-engine"
+        },
+        "es": {
+            "term_title": "Buscador web",
+            "term_title_slug": "buscador-web"
+        },
+        "fr": {
+            "term_title": "Moteur de recherche",
+            "term_title_slug": "moteur-de-recherche"
+        }
+    }
+}
