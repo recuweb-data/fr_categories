@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "appareil-\u00e9lectronique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/appareil-\u00e9lectronique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/appareil-%C3%A9lectronique/appareil-%C3%A9lectronique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/appareil-%C3%A9lectronique/appareil-%C3%A9lectronique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/appareil-%C3%A9lectronique/appareil-%C3%A9lectronique/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Electronic device",
+            "term_title_slug": "electronic-device",
+            "branche": "technology/electronics/electronic-device"
+        },
+        "es": {
+            "term_title": "Aparato electr\u00f3nico",
+            "term_title_slug": "aparato-electr\u00f3nico",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Appareil \u00e9lectronique",
+            "term_title_slug": "appareil-\u00e9lectronique",
+            "branche": ""
+        }
+    }
+}
