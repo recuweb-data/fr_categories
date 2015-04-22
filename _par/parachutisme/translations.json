@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "parachutisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/parachutisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Paracaidismo",
+            "term_title_slug": "paracaidismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Parachuting",
+            "term_title_slug": "parachuting",
+            "branche": "sport/extreme-sport/parachuting"
+        },
+        "fr": {
+            "term_title": "Parachutisme",
+            "term_title_slug": "parachutisme",
+            "branche": ""
+        }
+    }
+}
