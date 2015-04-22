@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "cano\u00eb-kayak",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/cano\u00eb-kayak/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/cano%C3%AB-kayak/cano%C3%AB-kayak/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/cano%C3%AB-kayak/cano%C3%AB-kayak/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/cano%C3%AB-kayak/cano%C3%AB-kayak/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pirag\u00fcismo",
+            "term_title_slug": "pirag\u00fcismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Canoeing",
+            "term_title_slug": "canoeing",
+            "branche": "sport/water-sports/canoeing"
+        },
+        "fr": {
+            "term_title": "Cano\u00eb-kayak",
+            "term_title_slug": "cano\u00eb-kayak",
+            "branche": ""
+        }
+    }
+}
