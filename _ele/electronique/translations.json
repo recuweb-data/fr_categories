@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "electronique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/electronique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Electr\u00f3nica",
+            "term_title_slug": "electronica",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Electronics",
+            "term_title_slug": "electronics",
+            "branche": "technology/electronics"
+        },
+        "fr": {
+            "term_title": "\u00c9lectronique",
+            "term_title_slug": "electronique",
+            "branche": ""
+        }
+    }
+}
