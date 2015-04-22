@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "livre-num\u00e9rique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/livre-num\u00e9rique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Ebook",
+            "term_title_slug": "ebook",
+            "branche": "technology/electronics/electronic-device/computer-hardware/ebook"
+        },
+        "es": {
+            "term_title": "Libro electr\u00f3nico",
+            "term_title_slug": "libro-electr\u00f3nico",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Livre num\u00e9rique",
+            "term_title_slug": "livre-num\u00e9rique",
+            "branche": ""
+        }
+    }
+}
