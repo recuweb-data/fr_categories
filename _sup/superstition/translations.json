@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "superstition",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/superstition/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/superstition/superstition/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/superstition/superstition/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/superstition/superstition/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Superstici\u00f3n",
+            "term_title_slug": "superstici\u00f3n",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Superstition",
+            "term_title_slug": "superstition",
+            "branche": "lifestyle/self-help/superstition"
+        },
+        "fr": {
+            "term_title": "Superstition",
+            "term_title_slug": "superstition",
+            "branche": ""
+        }
+    }
+}
