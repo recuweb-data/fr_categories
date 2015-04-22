@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "sikhisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sikhisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sikhisme/sikhisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sikhisme/sikhisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sikhisme/sikhisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Sijismo",
+            "term_title_slug": "sijismo",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Sikhism",
+            "term_title_slug": "sikhism",
+            "branche": "culture/religion/religion-in-india/sikhism"
+        },
+        "fr": {
+            "term_title": "Sikhisme",
+            "term_title_slug": "sikhisme",
+            "branche": ""
+        }
+    }
+}
