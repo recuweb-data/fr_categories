@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "hom\u00e9opathie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/hom\u00e9opathie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/hom%C3%A9opathie/hom%C3%A9opathie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/hom%C3%A9opathie/hom%C3%A9opathie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hom%C3%A9opathie/hom%C3%A9opathie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Homeopat\u00eda",
+            "term_title_slug": "homeopat\u00eda"
+        },
+        "en": {
+            "term_title": "Homeopathy",
+            "term_title_slug": "homeopathy"
+        },
+        "fr": {
+            "term_title": "Hom\u00e9opathie",
+            "term_title_slug": "hom\u00e9opathie"
+        }
+    }
+}
