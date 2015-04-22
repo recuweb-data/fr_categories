@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "astrologie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/astrologie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/astrologie/astrologie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/astrologie/astrologie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/astrologie/astrologie/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Astrolog\u00eda",
+            "term_title_slug": "astrolog\u00eda"
+        },
+        "en": {
+            "term_title": "Astrology",
+            "term_title_slug": "astrology"
+        },
+        "fr": {
+            "term_title": "Astrologie",
+            "term_title_slug": "astrologie"
+        }
+    }
+}
