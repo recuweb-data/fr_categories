@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "pop",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pop/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pop/pop/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pop/pop/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Pop",
+            "term_title_slug": "pop"
+        },
+        "en": {
+            "term_title": "Pop music",
+            "term_title_slug": "pop-music"
+        },
+        "fr": {
+            "term_title": "Pop (musique)",
+            "term_title_slug": "pop"
+        }
+    }
+}
