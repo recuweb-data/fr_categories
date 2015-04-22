@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "backgammon",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/backgammon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/backgammon/backgammon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/backgammon/backgammon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/backgammon/backgammon/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Backgammon",
+            "term_title_slug": "backgammon",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Backgammon",
+            "term_title_slug": "backgammon",
+            "branche": "sport/mind-sport/tabletop-game/backgammon"
+        },
+        "fr": {
+            "term_title": "Backgammon",
+            "term_title_slug": "backgammon",
+            "branche": ""
+        }
+    }
+}
