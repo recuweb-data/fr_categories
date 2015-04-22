@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "base-de-donn\u00e9es",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/base-de-donn\u00e9es/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/base-de-donn%C3%A9es/base-de-donn%C3%A9es/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/base-de-donn%C3%A9es/base-de-donn%C3%A9es/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/base-de-donn%C3%A9es/base-de-donn%C3%A9es/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Base de datos",
+            "term_title_slug": "base-de-datos",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Database",
+            "term_title_slug": "database",
+            "branche": "internet/web-development/database"
+        },
+        "fr": {
+            "term_title": "Base de donn\u00e9es",
+            "term_title_slug": "base-de-donn\u00e9es",
+            "branche": ""
+        }
+    }
+}
