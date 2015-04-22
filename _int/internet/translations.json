@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "internet",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/internet/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/internet/internet/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/internet/internet/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
+    },
+    "translations": {
+        "en": {
+            "term_title": "Internet",
+            "term_title_slug": "internet",
+            "branche": "internet"
+        },
+        "es": {
+            "term_title": "Internet",
+            "term_title_slug": "internet",
+            "branche": ""
+        },
+        "fr": {
+            "term_title": "Internet",
+            "term_title_slug": "internet",
+            "branche": ""
+        }
+    }
+}
