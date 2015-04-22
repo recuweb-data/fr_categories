@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "portal_name": "snowboard",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/snowboard/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Snowboarding",
+            "term_title_slug": "snowboarding",
+            "branche": ""
+        },
+        "en": {
+            "term_title": "Snowboarding",
+            "term_title_slug": "snowboarding",
+            "branche": "sport/extreme-sport/snowboarding"
+        },
+        "fr": {
+            "term_title": "Snowboard",
+            "term_title_slug": "snowboard",
+            "branche": ""
+        }
+    }
+}
