@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "chamanisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/chamanisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/chamanisme/chamanisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/chamanisme/chamanisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/chamanisme/chamanisme/blogs.json"
+    },
+    "translations": {
+        "es": {
+            "term_title": "Chamanismo",
+            "term_title_slug": "chamanismo"
+        },
+        "en": {
+            "term_title": "Shamanism",
+            "term_title_slug": "shamanism"
+        },
+        "fr": {
+            "term_title": "Chamanisme",
+            "term_title_slug": "chamanisme"
+        }
+    }
+}
