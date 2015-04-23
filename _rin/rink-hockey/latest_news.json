@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "rink-hockey",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rink-hockey/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/blogs.json"
+    },
+    "items": {
+        "lavoixdunord.fr/2015/02/rink-hockey-l%C3%A9o-quentin-lucas-la-rel%C3%A8ve-du-scra": {
+            "title": "Rink-hockey: L\u00e9o, Quentin, Lucas... la rel\u00e8ve du SCRA est en marche - La Voix du Nord...",
+            "snippet": "Rink-hockey: L\u00e9o, Quentin, Lucas... la rel\u00e8ve du SCRA est en marcheLa Voix du NordTrois jeunes du club s'immiscent r\u00e9guli\u00e8rement dans l'\u00e9quipe des titulaires. Ils jouent un peu, parfois plus, en fonction des circonstances. Des fid\u00e8les sur...",
+            "date": "2015-02-20",
+            "categories": "hockey",
+            "tags": "jeunes,club,voix,rink,hockey,lucas,scra,nord",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/02/rink-hockey-l%C3%A9o-quentin-lucas-la-rel%C3%A8ve-du-scra",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/rink-hockey-leo-quentin-lucas-la-releve-du-scra-est-ia37b0n2672487"
+        },
+        "nantes.maville.com/2015/02/animation-sportive-une-quarantaine-d-enfants-en-stage": {
+            "title": "Animation sportive: une quarantaine d'enfants en stage...",
+            "snippet": "Les jeunes ont pratiqu\u00e9 le rink hockey et le roller entre 10 h et 16 h, mercredi. Mercredi, le stage propos\u00e9 par l'animation sportive d\u00e9partementale a regroup\u00e9 une quarantaine de jeunes scolaris\u00e9s en CE2, CM1 et CM2 dans la salle du Landas.",
+            "date": "2015-02-12",
+            "categories": "hockey",
+            "tags": "jeunes,rink,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/nantes.maville.com/2015/02/animation-sportive-une-quarantaine-d-enfants-en-stage",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rink%2Bhockey&format=RSS&cc=fr",
+            "source_url": "http://nantes.maville.com/actu/actudet_-animation-sportive-une-quarantaine-d-enfants-en-stage_8-2716911_actu.Htm"
+        },
+        "lavoixdunord.fr/2015/02/rink-hockey-coupe-d-europe-le-scra-perd-contre-lyon": {
+            "title": "Rink-hockey - coupe d'Europe: le SCRA perd contre Lyon mais se... - La Voix du Nord...",
+            "snippet": "La Voix du NordRink-hockey - coupe d'Europe: le SCRA perd contre Lyon mais se...La Voix du NordSamedi 7 f\u00e9vrier, ce match de coupe d'Europe contre Lyon semble \u00eatre une formalit\u00e9 pour le SCRA qui compte quatre buts d'avance apr\u00e8s sa victoire au...",
+            "date": "2015-02-09",
+            "categories": "hockey",
+            "tags": "victoire,rink,hockey,scra,contre,voix,nord,match",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/02/rink-hockey-coupe-d-europe-le-scra-perd-contre-lyon",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey%2Brink%2Bhockey&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/rink-hockey-coupe-d-europe-le-scra-perd-contre-lyon-ia37b0n2651328"
+        }
+    }
+}
