@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "parachutisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/parachutisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/blogs.json"
+    },
+    "items": {
+        "letelegramme.fr/2015/03/parachutisme-des-projets-pour-l-%C3%A9cole-le-t%C3%A9l%C3%A9gramme": {
+            "title": "Parachutisme. Des projets pour l'\u00e9cole - Le T\u00e9l\u00e9gramme...",
+            "snippet": "Le T\u00e9l\u00e9grammeParachutisme. Des projets pour l'\u00e9coleLe T\u00e9l\u00e9grammeJacques de Certaines et Jean-No\u00ebl Hardouin, le nouveau directeur technique Apr\u00e8s 17 rotations pour marquer la fin de l'hiver, l'\u00e9cole de parachutisme a tenu, samedi, son...",
+            "date": "2015-03-10",
+            "categories": "parachutisme",
+            "tags": "parachutisme,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/letelegramme.fr/2015/03/parachutisme-des-projets-pour-l-%C3%A9cole-le-t%C3%A9l%C3%A9gramme",
+            "resource_url": "http://news.google.fr/?hl=fr&q=parachutisme&output=atom&nord=1",
+            "source_url": "http://letelegramme.fr/morbihan/monterblanc/parachutisme-des-projets-pour-l-ecole-10-03-2015-10552814.php"
+        },
+        "ledauphine.com/2015/03/parachutisme-sauv%C3%A9-par-son-moniteur-apr%C3%A8s-une-crise-d-le-dauphin%C3%A9": {
+            "title": "PARACHUTISME Sauv\u00e9 par son moniteur apr\u00e8s une crise d... - Le Dauphin\u00e9 Lib\u00e9r\u00e9...",
+            "snippet": "PARACHUTISME Sauv\u00e9 par son moniteur apr\u00e8s une crise d...Le Dauphin\u00e9 Lib\u00e9r\u00e9Au cours d'un saut en parachute avec un moniteur, un homme a fait une crise d'\u00e9pilepsie pendant la chute libre et a perdu connaissance. La vid\u00e9o date du 14 novembre...",
+            "date": "2015-03-02",
+            "categories": "connaissance,parachutisme",
+            "tags": "homme,crise,apr\u00e8s,parachutisme,saut,parachute",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/ledauphine.com/2015/03/parachutisme-sauv%C3%A9-par-son-moniteur-apr%C3%A8s-une-crise-d-le-dauphin%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=parachutisme%2Bparachutisme&output=atom&nord=1",
+            "source_url": "http://ledauphine.com/france-monde/2015/03/01/sauve-par-son-moniteuir-apres-une-crise-d-epilepsie-en-plein-vol"
+        }
+    }
+}
