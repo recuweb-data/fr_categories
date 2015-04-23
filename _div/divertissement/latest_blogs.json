@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "divertissement",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/divertissement/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/blogs.json"
+    },
+    "items": {
+        "aucafedesloisirs.com/2015/03/night-run-un-divertissement-rythm%C3%A9-et-efficaceau-caf%C3%A9-des-loisirs": {
+            "title": "Night Run: un divertissement rythm\u00e9 et efficaceAu Caf\u00e9 Des Loisirs...",
+            "snippet": "Date de sortie: 11 mars 2015 R\u00e9alis\u00e9 par: Jaume Collet-Serra Avec: Liam Neeson, Ed Harris, Joel Kinnaman... Genre: Action, thriller Dur\u00e9e:...",
+            "date": "2015-03-10",
+            "author_name": "acladmin",
+            "categories": "divertissement",
+            "tags": "loisirs,divertissement",
+            "recuweb_url": "http://fr.recuweb.com/divertissement/aucafedesloisirs.com/2015/03/night-run-un-divertissement-rythm%C3%A9-et-efficaceau-caf%C3%A9-des-loisirs",
+            "resource_url": "http://www.google.com/search?q=divertissement%2Bdivertissement&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://aucafedesloisirs.com/2015/03/10/critique-night-run/"
+        },
+        "magasindemariage.info/2015/02/divertissement-de-mariage-magasin": {
+            "title": "Divertissement de mariage Magasin de Mariage...",
+            "snippet": "Autres divertissement de mariage id\u00e9es pour la nuit pourraient \u00eatre d'avoir un interpr\u00e8te d'incendie ou de cracheurs de feu. Ce est une option.",
+            "date": "2015-02-11",
+            "author_name": "admin",
+            "categories": "divertissement",
+            "tags": "divertissement",
+            "recuweb_url": "http://fr.recuweb.com/divertissement/magasindemariage.info/2015/02/divertissement-de-mariage-magasin",
+            "resource_url": "http://www.google.com/search?q=divertissement%2Bdivertissement&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://magasindemariage.info/divertissement-de-mariage-2/"
+        }
+    }
+}
