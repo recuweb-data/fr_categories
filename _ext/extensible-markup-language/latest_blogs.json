@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "portal_name": "extensible-markup-language",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/extensible-markup-language/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/blogs.json"
+    },
+    "items": {
+        "bortzmeyer.org/2008/09/blog-st%C3%A9phane-bortzmeyer-rfc-5261-an-extensible-markup": {
+            "title": "Blog St\u00e9phane Bortzmeyer: RFC 5261: An Extensible Markup...",
+            "snippet": "De nombreux protocoles IETF s'appuient sur XML, par exemple pour stocker de l'information de configuration. Dans ce cadre, le besoin de modifier de l'information XML sans devoir transporter le fichier entier,...",
+            "date": "2008-09-11",
+            "author_name": "St\u00e9phane Bortzmeyer",
+            "tags": "information,extensible,extensible_markup,markup,xml",
+            "recuweb_url": "http://fr.recuweb.com/bortzmeyer.org/2008/09/blog-st%C3%A9phane-bortzmeyer-rfc-5261-an-extensible-markup",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bortzmeyer.org/5261.html"
+        },
+        "journaldunet.com/2006/09/xml-le-nouvel-%C3%A9lan-des-standards-du-web-jdn-d%C3%A9veloppeurs": {
+            "title": "XML: Le nouvel \u00e9lan des standards du Web - JDN D\u00e9veloppeurs...",
+            "snippet": "En moins de 10 ans, la syntaxe XML est devenue le standard d'\u00e9change de donn\u00e9es num\u00e9rique. Services Web, RSS, XHTML: pourquoi le langage de balises est-il si omnipr\u00e9sent? Le langage XML, pour Extensible Markup Language...",
+            "date": "2006-09-26",
+            "author_name": "inconnu",
+            "categories": "extensible-markup-language,langage",
+            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,langage,donn\u00e9es,xml,web,xhtml",
+            "recuweb_url": "http://fr.recuweb.com/langage/journaldunet.com/2006/09/xml-le-nouvel-%C3%A9lan-des-standards-du-web-jdn-d%C3%A9veloppeurs",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://journaldunet.com/developpeur/tutoriel/xml/guide-pratique-xml/0.shtml"
+        },
+        "aliasdmc.fr/2005/07/les-termes-lettre-x-xhtml-xml-data-islands-zone-html": {
+            "title": "Les termes - lettre X: xhtml, xml data islands Zone HTML/XHTML...",
+            "snippet": "XHTML, veut dire EXTENSIBLE HYPERTEXT MARKUP LANGUAGE. C'est le langage qui va remplacer le HTML. Data Islands (\u00eelot de donn\u00e9es XML) est au d\u00e9part un technologie Microsoft (Internet Explorer 5.5. DMC a cr\u00e9e un...",
+            "date": "2005-07-11",
+            "author_name": "DMC",
+            "categories": "internet,technologie,langage,hypertext-markup-language",
+            "tags": "donn\u00e9es,data,langage,extensible,markup,markup_language,language,xhtml,xml",
+            "recuweb_url": "http://fr.recuweb.com/hypertext-markup-language/aliasdmc.fr/2005/07/les-termes-lettre-x-xhtml-xml-data-islands-zone-html",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://aliasdmc.fr/terme/zone_html_terme_x.html"
+        }
+    }
+}
