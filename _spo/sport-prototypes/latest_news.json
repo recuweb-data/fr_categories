@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "sport-prototypes",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-prototypes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/blogs.json"
+    },
+    "items": {
+        "motorlegend.com/2015/04/lancement-d-un-championnat-imsa-sur-iracing": {
+            "title": "Lancement d'un championnat IMSA sur iRacing...",
+            "snippet": "Les concurrents de cette s\u00e9rie IMSA pourront \u00e9voluer aux commandes de sport-prototypes tels que les HPD ARX-01c et autre Riley MKXX Daytona Prototype, ou encore au volant de plusieurs GT figurant au catalogue d'iRacing (qui comprend notamment...",
+            "date": "2015-04-02",
+            "categories": "sport",
+            "tags": "prototypes,sport,championnat",
+            "recuweb_url": "http://fr.recuweb.com/sport/motorlegend.com/2015/04/lancement-d-un-championnat-imsa-sur-iracing",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
+            "source_url": "http://motorlegend.com/actualite-automobile/l-imsa-et-iracing-partenaires/11771.html"
+        },
+        "dijon-sportnews.fr/2015/04/prenois-un-week-end-historic": {
+            "title": "Prenois: Un week-end Historic...",
+            "snippet": "Un titre de cat\u00e9gorie A regroupant les monoplaces et les Sport-Prototypes et donc les voitures participant aux troph\u00e9es F3 Classic, Formules Renaults Classic, Formules Ford Kent, Formula Ford et SportProtos Cup. Un titre de championnat de...",
+            "date": "2015-04-02",
+            "categories": "formule,monoplace,sport",
+            "tags": "championnat,sport,prototypes",
+            "recuweb_url": "http://fr.recuweb.com/sport/dijon-sportnews.fr/2015/04/prenois-un-week-end-historic",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
+            "source_url": "http://dijon-sportnews.fr/2015/04/01/prenois-un-week-end-historic/106918/"
+        }
+    }
+}
