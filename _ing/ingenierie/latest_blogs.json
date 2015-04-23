@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "ingenierie",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ingenierie/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ingenierie/ingenierie/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ingenierie/ingenierie/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ingenierie/ingenierie/blogs.json"
+    },
+    "items": {
+        "ngformationconseil.wordpress.com/2015/03/ing%C3%A9nierie-de-formation-et-p%C3%A9dagogique": {
+            "title": "Ing\u00e9nierie de formation et ing\u00e9nierie p\u00e9dagogique...",
+            "snippet": "J'accompagne la r\u00e9alisation d'actions de formation sur-mesure Analyse des besoins Mise en oeuvre et pilotage d'un projet de formation Ing\u00e9nierie p\u00e9dagogique favorisant le d\u00e9veloppement des comp\u00e9tences Recueil et analyse de l'information...",
+            "date": "2015-03-02",
+            "author_name": "Nathalie GACHET",
+            "categories": "ingenierie",
+            "tags": "d\u00e9veloppement,formation,ing\u00e9nierie,projet,information",
+            "recuweb_url": "http://fr.recuweb.com/ingenierie/ngformationconseil.wordpress.com/2015/03/ing%C3%A9nierie-de-formation-et-p%C3%A9dagogique",
+            "resource_url": "http://fr.search.wordpress.com/?q=ingenierie%2Bingenierie&f=feed&page=1",
+            "source_url": "http://ngformationconseil.wordpress.com/ingenierie-de-formation-et-ingenierie-pedagogique/"
+        }
+    }
+}
