@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "arts-martiaux-japonais",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/arts-martiaux-japonais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/blogs.json"
+    },
+    "items": {
+        "elmoudjahid.com/2015/02/le-palais-des-ra%C3%AFs-abrite-vernissage-de-l-exposition-esprit": {
+            "title": "Le palais des ra\u00efs abrite le vernissage de l'exposition l'esprit du... - El Moudjahid...",
+            "snippet": "El MoudjahidLe palais des ra\u00efs abrite le vernissage de l'exposition l'esprit du...El MoudjahidC'est en d'autres termes tout un pan de l'histoire des arts martiaux du Japon qui a travers\u00e9 les ges et les g\u00e9n\u00e9rations, depuis mille ans. En exposant...",
+            "date": "2015-02-21",
+            "categories": "arts",
+            "tags": "arts,martiaux",
+            "recuweb_url": "http://fr.recuweb.com/arts/elmoudjahid.com/2015/02/le-palais-des-ra%C3%AFs-abrite-vernissage-de-l-exposition-esprit",
+            "resource_url": "http://news.google.fr/?hl=fr&q=arts%2Bmartiaux%2Bjaponais&output=atom&nord=1",
+            "source_url": "http://elmoudjahid.com/fr/actualites/73741"
+        },
+        "france3-regions.francetvinfo.fr/2015/02/un-grand-ma%C3%AEtre-des-arts-martiaux-en-visite-au-dojo": {
+            "title": "Un grand ma\u00eetre des arts martiaux en visite au dojo de Ceyrat (63) - Francetv info...",
+            "snippet": "Francetv infoUn grand ma\u00eetre des arts martiaux en visite au dojo de Ceyrat (63)Francetv infoAndr\u00e9 Cognard est membre de la Dai Nippon Butoku Kai, prestigieuse organisation gouvernementale japonaise des arts martiaux. Il a re\u00e7u de celle-ci le...",
+            "date": "2015-02-15",
+            "categories": "arts",
+            "tags": "re\u00e7u,arts,martiaux",
+            "recuweb_url": "http://fr.recuweb.com/arts/france3-regions.francetvinfo.fr/2015/02/un-grand-ma%C3%AEtre-des-arts-martiaux-en-visite-au-dojo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=arts%2Bmartiaux%2Bjaponais&output=atom&nord=1",
+            "source_url": "http://france3-regions.francetvinfo.fr/auvergne/2015/02/15/un-grand-maitre-des-arts-martiaux-en-visite-au-dojo-de-ceyrat-63-656009.html"
+        }
+    }
+}
