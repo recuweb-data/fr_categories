@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "kung-fu",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/kung-fu/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/blogs.json"
+    },
+    "items": {
+        "guidetv.france3.fr/2015/02/crazy-kung-fu": {
+            "title": "Crazy Kung-Fu...",
+            "snippet": "Dans le chaos de la Chine des ann\u00e9es 1940, un petit voleur, Sing, r\u00eave de rejoindre le Gang des haches, la puissante organisation criminelle qui r\u00e8gne sur la ville. En tentant d'extorquer de l'argent aux habitants d'un quartier surpeupl\u00e9,...",
+            "date": "2015-02-18",
+            "tags": "kung",
+            "recuweb_url": "http://fr.recuweb.com/guidetv.france3.fr/2015/02/crazy-kung-fu",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=kung%2Bfu&format=RSS&cc=fr",
+            "source_url": "http://guidetv.france3.fr/programme-tv/fiche/numero-23/film/195940769/crazy-kung-fu.html"
+        },
+        "bibamagazine.fr/2015/02/kung-fu-la-parfaite-harmonie-du-corps-et-de-l-esprit": {
+            "title": "Kung-fu: la parfaite harmonie du corps et de l'esprit - Biba Magazine...",
+            "snippet": "Biba MagazineKung-fu: la parfaite harmonie du corps et de l'espritBiba MagazineBoxe chinoise ou kung-fu, peu importe le nom qu'on lui donne, cet art martial chinois a de quoi en s\u00e9duire plus d'un. Pour se relaxer, pour trouver la tranquillit\u00e9...",
+            "date": "2015-02-12",
+            "categories": "art-martial,art-martial-chinois",
+            "tags": "martial,kung,lui",
+            "recuweb_url": "http://fr.recuweb.com/art-martial-chinois/bibamagazine.fr/2015/02/kung-fu-la-parfaite-harmonie-du-corps-et-de-l-esprit",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kung%2Bfu%2Bkung%2Bfu&output=atom&nord=1",
+            "source_url": "http://bibamagazine.fr/style-de-vie/kung-fu-la-parfaite-harmonie-du-corps-et-de-l-esprit-24733"
+        }
+    }
+}
