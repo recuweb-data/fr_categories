@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sqlite/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "items": {
+        "admin-magazin.de/2015/04/mailman-3-0-modernisiert-admin-magazin": {
+            "title": "Mailman 3.0 modernisiert - ADMIN-Magazin...",
+            "snippet": "ADMIN-MagazinMailman 3.0 modernisiertADMIN-MagazinDies findet nun nicht mehr \u00fcber Python-Pickle-Files statt, die sehr systemspezifisch sind, sondern \u00fcber eine SQL-Datenbank, per Default SQLite. Mailman 3.0 soll mindestens die gleichen Features...",
+            "date": "2015-04-08",
+            "categories": "sqlite",
+            "tags": "sqlite",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/admin-magazin.de/2015/04/mailman-3-0-modernisiert-admin-magazin",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
+            "source_url": "http://admin-magazin.de/News/Mailman-3.0-modernisiert"
+        },
+        "aerovfr.com/2015/04/les-nouveaut%C3%A9s-de-la-cartabossy-2015-aerovfr": {
+            "title": "Les nouveaut\u00e9s de la Cartabossy 2015 - aeroVFR...",
+            "snippet": "aeroVFRLes nouveaut\u00e9s de la Cartabossy 2015aeroVFRMBTILES: sp\u00e9cification Mapbox permettant de stocker des donn\u00e9es cartographiques tuil\u00e9es dans une base de donn\u00e9es SQLite. WMTS: standard de service web permettant de diffuser des donn\u00e9es...",
+            "date": "2015-04-01",
+            "categories": "sqlite",
+            "tags": "donn\u00e9es,base,sqlite",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/aerovfr.com/2015/04/les-nouveaut%C3%A9s-de-la-cartabossy-2015-aerovfr",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
+            "source_url": "http://aerovfr.com/2015/04/les-nouveautes-de-la-cartabossy-2015/"
+        },
+        "secuobs.com/2015/03/pcap-to-xml-and-sqlite-introduction-need-for-tool": {
+            "title": "PCAP to XML and SQLITE - Introduction and Need for Tool...",
+            "snippet": "- Vigilance - WordPress Pie Register Cross Site Scripting, analys\u00e9 le 11 03 2015 - Vigilance - Drupal Site Documentation Cross Site Scripting, analys\u00e9 le 11 03 2015 - Vigilance - Drupal Image Title Cross Site Scripting, analys\u00e9 le 11 03 2015 -...",
+            "date": "2015-03-27",
+            "categories": "drupal,wordpress,sqlite",
+            "tags": "sqlite,need",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/secuobs.com/2015/03/pcap-to-xml-and-sqlite-introduction-need-for-tool",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=fr",
+            "source_url": "http://secuobs.com/revue/news/565019.shtml"
+        },
+        "arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup": {
+            "title": "Realm Raises 18 M series B to bring databases to Mobile - ArcticStartup...",
+            "snippet": "Realm Raises 18 M series B to bring databases to MobileArcticStartupIt uses a brand-new storage architecture, not SQLite, and an easier API designed for needs of modern mobile apps and smartphones. It is already used by tens of thousands of app...",
+            "date": "2015-03-25",
+            "categories": "sqlite",
+            "tags": "mobile,storage,realm,not,sqlite",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
+            "source_url": "http://arcticstartup.com/2015/03/25/realm-raises-e18-m-series-b-to-bring-databases-to-mobile"
+        },
+        "infoq.com/2014/10/realm-brings-sqlite-alternative-to-android": {
+            "title": "Realm Brings SQLite Alternative to Android -...",
+            "snippet": "Realm Brings SQLite Alternative to is an open-source, object oriented, mobile database. Last month, Realm for Android was released, less than 3 months after the iOS version was first available. As we wrote earlier, Realm does not use SQLite as it's...",
+            "date": "2014-10-24",
+            "categories": "sqlite",
+            "tags": "not,available,mobile,realm,sqlite,android,ios",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2014/10/Realm-android"
+        },
+        "drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb": {
+            "title": "iOS Data Storage: Core Data vs. SQLite - Dr. Dobb's...",
+            "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
+            "date": "2014-08-12",
+            "categories": "technologie,sqlite",
+            "tags": "need,storage,available,ios,sqlite",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
+            "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
+        }
+    }
+}
