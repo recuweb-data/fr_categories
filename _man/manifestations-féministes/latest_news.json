@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "manifestations-f\u00e9ministes",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/manifestations-f\u00e9ministes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/blogs.json"
+    },
+    "items": {
+        "ledevoir.com/2015/02/la-guerre-yes-sir-le-devoir-abonnement": {
+            "title": "La guerre, yes sir - Le Devoir (Abonnement)...",
+            "snippet": "La guerre, yes sirLe Devoir (Abonnement)On croit m\u00eame qu'il faudrait interdire les manifestations de communistes (53%), de hippies (43%) et de f\u00e9ministes (31%), pour bonne mesure. C'est seulement en d\u00e9couvrant, 10 ans plus tard, les exc\u00e8s de...",
+            "date": "2015-02-25",
+            "tags": "f\u00e9ministes,manifestations",
+            "recuweb_url": "http://fr.recuweb.com/ledevoir.com/2015/02/la-guerre-yes-sir-le-devoir-abonnement",
+            "resource_url": "http://news.google.fr/?hl=fr&q=manifestations%2Bf%C3%A9ministes%2Bmanifestations%2Bf%C3%A9ministes&output=atom&nord=1",
+            "source_url": "http://ledevoir.com/politique/canada/432788/la-guerre-yes-sir"
+        }
+    }
+}
