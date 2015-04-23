@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "hindouisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/hindouisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/hindouisme/hindouisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/hindouisme/hindouisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hindouisme/hindouisme/blogs.json"
+    },
+    "items": {
+        "studyrama.com/2015/04/inde-informations-pratiques": {
+            "title": "Inde: informations pratiques...",
+            "snippet": "Religion: Un peu plus des 4/5\u00e8me de la population pratiquent lhindouisme. Il y a \u00e9galement des musulmans, des sikhs, et des chr\u00e9tiens. Le bouddhisme et le ja\u00efnisme ne sont plus beaucoup pratiqu\u00e9s. Sant\u00e9: Le risque de paludisme est faible...",
+            "date": "2015-04-16",
+            "categories": "bouddhisme,religion",
+            "tags": "bouddhisme,inde,religion",
+            "recuweb_url": "http://fr.recuweb.com/religion/studyrama.com/2015/04/inde-informations-pratiques",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hindouisme&format=RSS&cc=fr",
+            "source_url": "http://studyrama.com/international/etudier-a-l-etranger/etudier-en-inde/inde-informations-pratiques-20039"
+        },
+        "newspress.fr/2015/04/assises-du-dialogue-interreligieux": {
+            "title": "Assises du dialogue interreligieux...",
+            "snippet": "Anne Graff pour l'hindouisme, Emine Mutlu pour l'islam, Janine Elkouby pour le juda\u00efsme, Alexandre Oancea pour l'orthodoxie et le Pasteur Rudi Popp pour le protestantisme. Bruno Michon, sociologue de l'\u00e9ducation et de la jeunesse, des religions et...",
+            "date": "2015-04-15",
+            "categories": "religion,protestantisme,hindouisme,islam",
+            "tags": "religions,juda\u00efsme,hindouisme,islam",
+            "recuweb_url": "http://fr.recuweb.com/islam/newspress.fr/2015/04/assises-du-dialogue-interreligieux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hindouisme&format=RSS&cc=fr",
+            "source_url": "http://newspress.fr/Communique_FR_288137_683.aspx"
+        },
+        "lectures.revues.org/2015/04/religion-et-libert%C3%A9": {
+            "title": "Religion et libert\u00e9...",
+            "snippet": "Ce volume convoque les meilleurs sp\u00e9cialistes des religions (juda\u00efsme, christianisme, islam, hindouisme, bouddhisme) et leurs diverses approches philosophiques (ph\u00e9nom\u00e9nologie, philosophie analytique, \u00e9thique, analyste des textes sacr\u00e9s,...",
+            "date": "2015-04-13",
+            "categories": "religion,christianisme,islam,hindouisme,bouddhisme",
+            "tags": "religions,religion,juda\u00efsme,islam,hindouisme,bouddhisme",
+            "recuweb_url": "http://fr.recuweb.com/bouddhisme/lectures.revues.org/2015/04/religion-et-libert%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hindouisme&format=RSS&cc=fr",
+            "source_url": "http://lectures.revues.org/17668"
+        }
+    }
+}
