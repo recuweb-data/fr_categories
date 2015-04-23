@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "portal_name": "audience-web",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/audience-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/blogs.json"
+    },
+    "items": {
+        "inaglobal.fr/2015/04/jusqu-o%C3%B9-%C3%A9crire-pour-google": {
+            "title": "Jusqu'o\u00f9 \u00e9crire pour Google? -...",
+            "snippet": "Jusqu'o\u00f9 \u00e9crire pour Google? les \u00e9diteurs de sites web, il est primordial d'avoir de l'audience, et donc d'appara\u00eetre en premier dans les r\u00e9sultats de Google. Quels sont les crit\u00e8res favoris\u00e9s par le moteur de recherche? Comment faire pour...",
+            "date": "2015-04-10",
+            "categories": "moteur-de-recherche,google",
+            "tags": "avoir,\u00e9diteurs,sites,google,web,audience",
+            "recuweb_url": "http://fr.recuweb.com/google/inaglobal.fr/2015/04/jusqu-o%C3%B9-%C3%A9crire-pour-google",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bweb&output=atom&nord=1",
+            "source_url": "http://inaglobal.fr/numerique/article/jusqu-ou-ecrire-pour-google-8213"
+        },
+        "20minutes.fr/2015/04/allocin%C3%A9-l-audience-progresse-de-10-6%-en-f%C3%A9vrier": {
+            "title": "AlloCin\u00e9: L'audience progresse de 10,6% en f\u00e9vrier sur le Web...",
+            "snippet": "Le site d'actualit\u00e9 cin\u00e9matographique s'est notamment hiss\u00e9 dans le top 20 du classement, et a surtout \u00e9t\u00e9 le site ayant connu la plus forte progression par rapport au mois de janvier: 10,6% d'audience Web. AlloCin\u00e9 a ainsi enregistr\u00e9...",
+            "date": "2015-04-07",
+            "tags": "site,mois,top,f\u00e9vrier,audience,web",
+            "recuweb_url": "http://fr.recuweb.com/20minutes.fr/2015/04/allocin%C3%A9-l-audience-progresse-de-10-6%-en-f%C3%A9vrier",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=audience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://20minutes.fr/economie/1580531-20150407-allocine-audience-progresse-106-fevrier-web"
+        },
+        "cbanque.com/2015/04/audience-des-banques-sur-le-web-cr%C3%A9dit-agricole-en-t%C3%AAte-devant": {
+            "title": "Audience des banques sur le web: le Cr\u00e9dit Agricole en t\u00eate devant... -...",
+            "snippet": "des banques sur le web: le Cr\u00e9dit Agricole en t\u00eate devant... internaute sur deux a consult\u00e9 un site bancaire au cours du mois de f\u00e9vrier 2015, en France, selon M\u00e9diam\u00e9trie, soit 23,6 millions d'internautes. Quelle banque draine le plus de...",
+            "date": "2015-04-07",
+            "tags": "millions,site,mois,f\u00e9vrier,audience,web,france",
+            "recuweb_url": "http://fr.recuweb.com/cbanque.com/2015/04/audience-des-banques-sur-le-web-cr%C3%A9dit-agricole-en-t%C3%AAte-devant",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bweb&output=atom&nord=1",
+            "source_url": "http://cbanque.com/actu/51478/audience-des-banques-sur-le-web-le-credit-agricole-en-tete-devant-la-banque-postale"
+        },
+        "latribune.fr/2015/04/bordeaux-veut-devenir-lune-des-cit%C3%A9s-les-plus-smart-deurope": {
+            "title": "Bordeaux veut devenir lune des cit\u00e9s les plus smart dEurope...",
+            "snippet": "chef de file europ\u00e9en de la mesure d'audience Web. En outre, dans la g\u00e9olocalisation, la r\u00e9gion compte \u00e9galement des entreprises telles que Helileo ou Insiteo. Sans oublier le secteur des technologies de l'information et de la communication...",
+            "date": "2015-04-03",
+            "categories": "technologie",
+            "tags": "mesure,devenir,bordeaux,audience,web,communication",
+            "recuweb_url": "http://fr.recuweb.com/technologie/latribune.fr/2015/04/bordeaux-veut-devenir-lune-des-cit%C3%A9s-les-plus-smart-deurope",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=audience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://latribune.fr/regions/smart-cities/bordeaux-veut-devenir-l-une-des-cites-les-plus-smart-d-europe-465981.html"
+        },
+        "blogs.wsj.com/2015/03/web-audience-for-march-madness-still-growing-albeit-more-slowly-wall": {
+            "title": "Web Audience For March Madness Still Growing, Albeit More Slowly - Wall Street Journal (blog)...",
+            "snippet": "Wall Street Journal (blog)Web Audience For March Madness Still Growing, Albeit More SlowlyWall Street Journal (blog)March Madness once again disrupted plenty of offices, as hoops fans watched a record 54 million live video streams during the NCAA...",
+            "date": "2015-03-23",
+            "tags": "web,audience",
+            "recuweb_url": "http://fr.recuweb.com/blogs.wsj.com/2015/03/web-audience-for-march-madness-still-growing-albeit-more-slowly-wall",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bweb%2Baudience%2Bweb&output=atom&nord=1",
+            "source_url": "http://blogs.wsj.com/cmo/2015/03/23/web-audience-for-march-madness-still-growing-albeit-more-slowly/"
+        }
+    }
+}
