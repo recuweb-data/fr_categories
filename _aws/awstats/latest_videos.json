@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "awstats",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/awstats/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
+    },
+    "items": {
+        "youtube.com/2013/11/otys-tutoriel-001-consulter-des-statistiques-de-votre-site-web": {
+            "title": "OTYS Tutoriel 001 Consulter des statistiques de votre site Web avec AWStats 180...",
+            "snippet": "OTYS Tutoriel 001 Consulter des statistiques de votre site Web avec AWStats 180 Votre site web OTYS c'est plus qu'une carte de visite num\u00e9rique. Votre site web est votre plate-forme de communication entre vous et vos candidat... From: Otysacademy...",
+            "date": "2013-11-19",
+            "author_name": "Otysacademy France",
+            "categories": "awstats",
+            "recuweb_url": "http://fr.recuweb.com/awstats/youtube.com/2013/11/otys-tutoriel-001-consulter-des-statistiques-de-votre-site-web",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=awstats%2Bawstats&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=9nShmPNn24o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/9nShmPNn24o/0.jpg"
+        }
+    }
+}
