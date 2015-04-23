@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "altruisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/altruisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/altruisme/altruisme/blogs.json"
+    },
+    "items": {
+        "scilogs.fr/2014/12/la-biologie-de-l-altruisme-science-soci%C3%A9t%C3%A9": {
+            "title": "La biologie de l'altruisme, science, soci\u00e9t\u00e9...",
+            "snippet": "En un demi-si\u00e8cle, la recherche sur l'altruisme a migr\u00e9 des sciences morales aux sciences de la vie. Alors que ce comportement \u00e9tait consid\u00e9r\u00e9 depuis toujours comme la grande sp\u00e9cificit\u00e9 humaine, son \u00e9tude est devenue...",
+            "date": "2014-12-03",
+            "author_name": "Pierre Jouventin",
+            "categories": "science,biologie,altruisme",
+            "tags": "comportement,altruisme",
+            "recuweb_url": "http://fr.recuweb.com/altruisme/scilogs.fr/2014/12/la-biologie-de-l-altruisme-science-soci%C3%A9t%C3%A9",
+            "resource_url": "http://www.google.com/search?q=altruisme%2Baltruisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://scilogs.fr/ecologie-science-societe/2014/12/03/la-biologie-de-laltruisme/"
+        },
+        "amazon.fr/2014/12/plaidoyer-pour-l-altruisme-matthieu-ricard-fabrice": {
+            "title": "- Plaidoyer pour l'altruisme - Matthieu RICARD, Fabrice...",
+            "snippet": "Not\u00e9 4.3/5. Retrouvez Plaidoyer pour l'altruisme et des millions de livres en stock sur. Achetez neuf ou d'occasion.",
+            "date": "2014-12-02",
+            "author_name": "inconnu",
+            "categories": "altruisme",
+            "tags": "matthieu,matthieu_ricard,ricard,plaidoyer,altruisme,retrouvez",
+            "recuweb_url": "http://fr.recuweb.com/altruisme/amazon.fr/2014/12/plaidoyer-pour-l-altruisme-matthieu-ricard-fabrice",
+            "resource_url": "http://www.google.com/search?q=altruisme%2Baltruisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://amazon.fr/Plaidoyer-pour-laltruisme-Matthieu-RICARD/dp/2266249347"
+        }
+    }
+}
