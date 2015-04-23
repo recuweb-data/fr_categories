@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "portal_name": "pelot",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelot/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/blogs.json"
+    },
+    "items": {
+        "ladepeche.fr/2015/04/un-air-de-pays-basque": {
+            "title": "Un air de Pays basque...",
+            "snippet": "Sans oublier, tout au long du week-end, les superbes d\u00e9monstrations, sur le fronton, r\u00e9alis\u00e9es par des membres de l'\u00e9quipe de France de pelote basque. Et c'est impressionnant...",
+            "date": "2015-04-16",
+            "categories": "pelote-basque",
+            "tags": "pelote,pelote-basque,basque,france",
+            "recuweb_url": "http://fr.recuweb.com/pelote-basque/ladepeche.fr/2015/04/un-air-de-pays-basque",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/04/17/2088959-un-air-de-pays-basque.html"
+        },
+        "yle.fi/2015/04/teerinevalle-suunniteltu-turvetuotanto-nosti-esiin-vanhat-pelot-yle": {
+            "title": "Teerinevalle suunniteltu turvetuotanto nosti esiin vanhat pelot... - YLE...",
+            "snippet": "YLETeerinevalle suunniteltu turvetuotanto nosti esiin vanhat pelot...YLETeerinevalle suunniteltu turvetuotanto nosti esiin vanhat pelot Lestij\u00e4rvell\u00e4 10 vuotta valmisteltu YVA-selostus valmistui. 1980-luvun alussa Teerinevan turvety\u00f6maalla...",
+            "date": "2015-04-14",
+            "categories": "pelot",
+            "tags": "pelot",
+            "recuweb_url": "http://fr.recuweb.com/pelot/yle.fi/2015/04/teerinevalle-suunniteltu-turvetuotanto-nosti-esiin-vanhat-pelot-yle",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
+            "source_url": "http://yle.fi/uutiset/teerinevalle_suunniteltu_turvetuotanto_nosti_esiin_vanhat_pelot_lestijarvella__10_vuotta_valmisteltu_yva-selostus_valmistui/7918659"
+        },
+        "lanouvellerepublique.fr/2015/04/les-nordistes-rois-de-la-pelote": {
+            "title": "Les Nordistes rois de la pelote...",
+            "snippet": "Une fois n'est pas coutume, c'est une paire nordiste qui a remport\u00e9 le tournoi amical de pelote basque organis\u00e9 par l'ASPTT Tours samedi et dimanche derniers. Pour cette 3 e \u00e9dition, 12 \u00e9quipes venues de toute la France se sont affront\u00e9es dans...",
+            "date": "2015-04-08",
+            "categories": "pelote-basque",
+            "tags": "\u00e9quipes,remport\u00e9,pelote,pelote-basque,basque,france",
+            "recuweb_url": "http://fr.recuweb.com/pelote-basque/lanouvellerepublique.fr/2015/04/les-nordistes-rois-de-la-pelote",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
+            "source_url": "http://lanouvellerepublique.fr/Indre-et-Loire/Communes/Tours/n/Contenus/Articles/2015/04/09/Les-Nordistes-rois-de-la-pelote-2287871"
+        },
+        "sudouest.fr/2015/03/la-vallade-en-terrain-connu-sud-ouest": {
+            "title": "La Vallade en terrain connu - Sud Ouest...",
+            "snippet": "La Vallade en terrain connuSud OuestApr\u00e8s avoir remport\u00e9 le titre de champion de France par \u00e9quipes de pitch and putt (distances r\u00e9duites), l'an pass\u00e9, deux licenci\u00e9s du club, son pr\u00e9sident Philippe Faup-Pelot et Gis\u00e8le Vinet avaient...",
+            "date": "2015-03-20",
+            "categories": "pelot",
+            "tags": "deux,pass\u00e9,\u00e9quipes,remport\u00e9,france,pelot",
+            "recuweb_url": "http://fr.recuweb.com/pelot/sudouest.fr/2015/03/la-vallade-en-terrain-connu-sud-ouest",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
+            "source_url": "http://sudouest.fr/2015/03/20/la-vallade-en-terrain-connu-1865137-1586.php"
+        },
+        "tekniikkatalous.fi/2015/03/tesla-lopettaa-pelot-akkujen-loppumisesta-lis%C3%A4%C3%A4m%C3%A4tt%C3%A4-lainkaan-tekniikka-&-talous": {
+            "title": "Tesla lopettaa pelot akkujen loppumisesta - Lis\u00e4\u00e4m\u00e4tt\u00e4 lainkaan... - Tekniikka & Talous...",
+            "snippet": "Tekniikka & TalousTesla lopettaa pelot akkujen loppumisesta - Lis\u00e4\u00e4m\u00e4tt\u00e4 lainkaan...Tekniikka & TalousToimitusjohtaja Elon Musk on julistanut twiitiss\u00e4\u00e4n uudesta ohjelmistop\u00e4ivityksest\u00e4 Teslan Model S -autoihin. P\u00e4ivityksen m\u00e4\u00e4r\u00e4 on...",
+            "date": "2015-03-18",
+            "categories": "pelot",
+            "tags": "pelot",
+            "recuweb_url": "http://fr.recuweb.com/pelot/tekniikkatalous.fi/2015/03/tesla-lopettaa-pelot-akkujen-loppumisesta-lis%C3%A4%C3%A4m%C3%A4tt%C3%A4-lainkaan-tekniikka-&-talous",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
+            "source_url": "http://tekniikkatalous.fi/autot/tesla+lopettaa+pelot+akkujen+loppumisesta++lisaamatta+lainkaan+akkukapasiteettia/a1054108"
+        },
+        "liberation.fr/2014/03/pierre-pelot-voyageur-immobile-lib%C3%A9ration": {
+            "title": "Pierre Pelot, voyageur immobile - Lib\u00e9ration...",
+            "snippet": "Lib\u00e9rationPierre Pelot, voyageur immobileLib\u00e9rationPierre Pelot, Pelot pour petit Pierre, Grosdemange de son vrai nom, n'a pas son permis de conduire. L'ours vosgien a pass\u00e9 sa vie dans ce village au pied du ballon d'Alsace. Cet immobilisme...",
+            "date": "2014-03-04",
+            "categories": "pelot",
+            "tags": "pass\u00e9,pelot",
+            "recuweb_url": "http://fr.recuweb.com/pelot/liberation.fr/2014/03/pierre-pelot-voyageur-immobile-lib%C3%A9ration",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
+            "source_url": "http://liberation.fr/livres/2014/03/03/pierre-pelot-voyageur-immobile_984214"
+        }
+    }
+}
