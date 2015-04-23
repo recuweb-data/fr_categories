@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "portal_name": "snowboard",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/snowboard/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
+    },
+    "items": {
+        "beachbrother.com/2015/03/red-bull-the-station-into-night-beach-brother": {
+            "title": "RED BULL THE STATION: INTO THE NIGHT - Beach Brother...",
+            "snippet": "Beach BrotherRED BULL THE STATION: INTO THE NIGHTBeach BrotherSURF; SKATE; SNOWBOARD; LIFESTYLE; SHOPPING; JEU. Facebook Twitter RSS Instagram. Beachbrother - Magazine Surf, skate & snowboard./JEU CONCOURS FREE SURF MAROC x BEACHBROTHER. RED BULL...",
+            "date": "2015-03-28",
+            "categories": "surf,facebook,twitter,lifestyle",
+            "tags": "surf,into,beach,beach_brother,brother,board",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/beachbrother.com/2015/03/red-bull-the-station-into-night-beach-brother",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "source_url": "http://beachbrother.com/2015/03/red-bull-the-station-into-the-night/"
+        },
+        "e-adrenaline.fr/2015/03/un-jeune-prodige-en-snowboard-e-adrenaline": {
+            "title": "Un jeune prodige en snowboard - e-adrenaline...",
+            "snippet": "e-adrenalineUn jeune prodige en snowboarde-adrenalineCe petit surdou\u00e9 du snow \u00e9tait au snowpark de Vars en compagnie d'Alex Stewart. Les deux membres du Rusty Toothbrush crew sont visiblement proches et ne manquent pas d'imagination quand il...",
+            "date": "2015-03-28",
+            "tags": "deux,jeune,board",
+            "recuweb_url": "http://fr.recuweb.com/e-adrenaline.fr/2015/03/un-jeune-prodige-en-snowboard-e-adrenaline",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "source_url": "http://e-adrenaline.fr/neige/actualites/un-jeune-prodige-en-snowboard/6080"
+        },
+        "beachbrother.com/2015/03/marcus-kleveland-au-japon-beach-brother": {
+            "title": "MARCUS KLEVELAND AU JAPON - Beach Brother...",
+            "snippet": "Beach BrotherMARCUS KLEVELAND AU JAPONBeach BrotherMarcus Kleveland est un jeune snowboarder norv\u00e9gien (si si 15 ans c'est jeune!) qui a certainement un avenir dans le milieu du snowboard. On ne s'avance pas trop mais bon quand il part au Japon...",
+            "date": "2015-03-27",
+            "tags": "part,jeune,boarder,beach,beach_brother,brother,board",
+            "recuweb_url": "http://fr.recuweb.com/beachbrother.com/2015/03/marcus-kleveland-au-japon-beach-brother",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "source_url": "http://beachbrother.com/2015/03/marcus-kleveland-au-japon/"
+        },
+        "sportquick.com/2015/03/les-r%C3%A9sultats-snowboard-coupe-du-monde": {
+            "title": "Les r\u00e9sultats Snowboard Coupe du Monde...",
+            "snippet": "Cr\u00e9\u00e9e en 1994 par la F\u00e9d\u00e9ration Internationale de Ski (FIS), elle se d\u00e9roule chaque hiver en plusieurs \u00e9tapes (16 en 2015 avec 28 \u00e9v\u00e8nements pour les femmes et les hommes). A la fin de la saison auront lieu les finales qui regroupent les...",
+            "date": "2015-03-24",
+            "categories": "ski",
+            "tags": "plusieurs,f\u00e9d\u00e9ration,internationale,board,coupe,monde,ski",
+            "recuweb_url": "http://fr.recuweb.com/ski/sportquick.com/2015/03/les-r%C3%A9sultats-snowboard-coupe-du-monde",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
+            "source_url": "http://sportquick.com/snowboard-000064/resultats-sports/coupe-du-monde-001019/big-air-005107/annee-2015/Hommes-0/"
+        },
+        "ici.radio-canada.ca/2015/03/snowboard-cross-la-coupe-du-monde-au-massif-de-charlevoix": {
+            "title": "Snowboard cross: la Coupe du monde au Massif de Charlevoix?",
+            "snippet": "La Coupe du monde de snowboard cross pourrait se tenir d'ici deux ans au Massif de Charlevoix. Des discussions sont en cours entre Gestev et la F\u00e9d\u00e9ration internationale de ski. L'\u00e9v\u00e9nement serait organis\u00e9 s\u00e9par\u00e9ment du Snowboard Jamboree,...",
+            "date": "2015-03-23",
+            "categories": "ski",
+            "tags": "internationale,ski,deux,monde,board,coupe,f\u00e9d\u00e9ration",
+            "recuweb_url": "http://fr.recuweb.com/ski/ici.radio-canada.ca/2015/03/snowboard-cross-la-coupe-du-monde-au-massif-de-charlevoix",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
+            "source_url": "http://ici.radio-canada.ca/regions/quebec/2015/03/23/009-coupe-du-monde-snowboard-cross.shtml"
+        }
+    }
+}
