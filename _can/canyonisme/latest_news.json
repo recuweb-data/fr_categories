@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "canyonisme",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/canyonisme/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/blogs.json"
+    },
+    "items": {
+        "francebleu.fr/2014/09/journ%C3%A9es-nationales-de-la-sp%C3%A9l%C3%A9ologie-et-du-canyon-france-bleu": {
+            "title": "Journ\u00e9es nationales de la Sp\u00e9l\u00e9ologie et du Canyon - France Bleu...",
+            "snippet": "Journ\u00e9es nationales de la Sp\u00e9l\u00e9ologie et du CanyonFrance BleuVisite de la grotte encadr\u00e9e par des cadres f\u00e9d\u00e9raux, expositions et animations sur l'activit\u00e9. - Pour le canyonisme: canyon du Bucatoghju, d\u00e9part de la cascade de l'Ucelluline sur...",
+            "date": "2014-09-30",
+            "categories": "canyonisme",
+            "tags": "france,canyon,canyonisme",
+            "recuweb_url": "http://fr.recuweb.com/canyonisme/francebleu.fr/2014/09/journ%C3%A9es-nationales-de-la-sp%C3%A9l%C3%A9ologie-et-du-canyon-france-bleu",
+            "resource_url": "http://news.google.fr/?hl=fr&q=canyonisme&output=atom&nord=1",
+            "source_url": "http://francebleu.fr/evenements/evenement/journees-nationales-de-la-speleologie-et-du-canyon-1815030"
+        }
+    }
+}
