@@ -1,0 +1,69 @@
+{
+    "meta": {
+        "portal_name": "sqlite",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sqlite/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
+    },
+    "items": {
+        "forum.frandroid.com/2015/04/base-de-donn%C3%A9e-et-interface-connexion-acc%C3%A8s-aux-donn%C3%A9es": {
+            "title": "Base de donn\u00e9e et interface de connexion - Acc\u00e8s aux donn\u00e9es...",
+            "snippet": "Base de donn\u00e9e et interface de connexion - posted in Acc\u00e8s aux donn\u00e9es (ContentProvider, SQLite...): Bonjour, Je suis actuellement en dernier ann\u00e9e de BTS informatique et jai pour projet de developper une application de...",
+            "date": "2015-04-08",
+            "author_name": "inconnu",
+            "categories": "sqlite",
+            "tags": "projet,suis,suis-actuellement,actuellement,donn\u00e9es,base,acc\u00e8s,contentprovider,sqlite,bonjour,bts",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/forum.frandroid.com/2015/04/base-de-donn%C3%A9e-et-interface-connexion-acc%C3%A8s-aux-donn%C3%A9es",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.frandroid.com/topic/217740-base-de-donn\u00e9e-et-interface-de-connexion/"
+        },
+        "forum.frandroid.com/2015/02/importation-bdd-acc%C3%A8s-aux-donn%C3%A9es-contentprovider-sqlite": {
+            "title": "Importation BDD - Acc\u00e8s aux donn\u00e9es (ContentProvider, SQLite...",
+            "snippet": "Importation BDD - posted in Acc\u00e8s aux donn\u00e9es (ContentProvider, SQLite...): Bonjour, je suis actuellement en bts iris 2eme ann\u00e9es et je dois r\u00e9aliser un projet qui consiste pour ma part de creer une BDD et ensuite de g\u00e9n\u00e9rer...",
+            "date": "2015-02-05",
+            "author_name": "inconnu",
+            "categories": "sqlite",
+            "tags": "r\u00e9aliser,projet,suis,suis-actuellement,actuellement,bts,bdd,acc\u00e8s,donn\u00e9es,contentprovider,sqlite,bonjour",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/forum.frandroid.com/2015/02/importation-bdd-acc%C3%A8s-aux-donn%C3%A9es-contentprovider-sqlite",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.frandroid.com/topic/213977-importation-bdd/"
+        },
+        "dekibae.com/2015/02/am%C3%A9lioration-des-performances-core-data-sqlite-sous-ios-8": {
+            "title": "Am\u00e9lioration des performances Core Data/SQLite sous iOS 8...",
+            "snippet": "Au choix de l'utilisateur, cette persistance s'effectue en interne via des fichiers XML, des donn\u00e9es binaires brutes ou une base de donn\u00e9es SQLite. L'optimisation dont nous allons parler dans cet article concerne SQLite, nous...",
+            "date": "2015-02-02",
+            "author_name": "Florian",
+            "categories": "sqlite",
+            "tags": "article,binaires,fichiers,core,core_data,data,sqlite,ios,xml,donn\u00e9es,base",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/dekibae.com/2015/02/am%C3%A9lioration-des-performances-core-data-sqlite-sous-ios-8",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dekibae.com/2015/02/amelioration-des-performances-core-data-sqlite-sous-ios-8/"
+        },
+        "dawinseed.wordpress.com/2015/01/d%C3%A9but-de-projet": {
+            "title": "D\u00e9but de projet...",
+            "snippet": "Aujourd'hui, commence le projet Dawin Seed des licences pro dawin de l'Iut de Bordeaux! Nous avons: -Choisit nos technos (html5/css3, jquery, sqlite pour la base de donn\u00e9e). -Cr\u00e9\u00e9e le...",
+            "date": "2015-01-19",
+            "author_name": "dawinseedproject",
+            "categories": "css,jquery,sqlite",
+            "tags": "projet,sqlite,base",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/dawinseed.wordpress.com/2015/01/d%C3%A9but-de-projet",
+            "resource_url": "http://fr.search.wordpress.com/?q=sqlite%2Bsqlite&f=feed&page=1",
+            "source_url": "http://dawinseed.wordpress.com/2015/01/19/debut-de-projet/"
+        },
+        "janvianoce.com/2014/12/jeu-textuel-les-arbres-binaires-et-le-sqlite-janvianoce": {
+            "title": "Jeu textuel: Les arbres binaires et le SQLite Janvianoce...",
+            "snippet": "Re. Dans l'article pr\u00e9c\u00e9dent, j'ai parl\u00e9 de ce jeu iOS de type aventure textuelle que je suis en train de programmer. On a notamment parl\u00e9 de l'impl\u00e9mentation d'une base SQLite contenant le chemin de l'aventure. Pourquoi...",
+            "date": "2014-12-22",
+            "author_name": "Janvianoce",
+            "categories": "sqlite",
+            "tags": "type,suis,article,sqlite,binaires,ios,base",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/janvianoce.com/2014/12/jeu-textuel-les-arbres-binaires-et-le-sqlite-janvianoce",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://janvianoce.com/2014/12/22/jeu-textuel-les-arbres-binaires-et-le-sqlite/"
+        }
+    }
+}
