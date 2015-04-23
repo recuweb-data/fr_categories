@@ -1,0 +1,36 @@
+{
+    "meta": {
+        "portal_name": "sport-motocycliste",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-motocycliste/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/blogs.json"
+    },
+    "items": {
+        "moto.caradisiac.com/2014/11/la-france-premi%C3%A8re-nation-de-sport-motocycliste-au-monde": {
+            "title": "La France premi\u00e8re nation de sport motocycliste au monde...",
+            "snippet": "La France premi\u00e8re nation de sport motocycliste au monde - Classement - FFM -: Quelle est la premi\u00e8re nation motocycliste au monde? Aussi \u00e9tonnant que cela puisse para\u00eetre c'est la France qui arrive en t\u00eate du classement...",
+            "date": "2014-11-24",
+            "author_name": "( Alexandre Hubner-Loriol )",
+            "categories": "sport",
+            "tags": "france,sport,motocyc",
+            "recuweb_url": "http://fr.recuweb.com/sport/moto.caradisiac.com/2014/11/la-france-premi%C3%A8re-nation-de-sport-motocycliste-au-monde",
+            "resource_url": "http://www.google.com/search?q=sport%2Bmotocycliste%2Bsport%2Bmotocycliste&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://moto.caradisiac.com/La-France-premiere-nation-de-sport-motocycliste-au-monde-061"
+        },
+        "motorevue.com/2012/12/jean-michel-bayle-un-parcours-unique-et-in%C3%A9galable-1-4-sport": {
+            "title": "Jean-Michel Bayle - Un parcours unique et in\u00e9galable (1/4) - Sport...",
+            "snippet": "Enfin, JMB acheva son triptyque par l'endurance et deux victoires au Bol d'Or, qui finirent de donner au tableau du maitre une touche definitivement unique dans l'histoire du sport motocycliste. Nous vous proposons ici de...",
+            "date": "2012-12-30",
+            "author_name": "Christian Batteux",
+            "categories": "sport",
+            "tags": "jean,sport,bol,motocyc",
+            "recuweb_url": "http://fr.recuweb.com/sport/motorevue.com/2012/12/jean-michel-bayle-un-parcours-unique-et-in%C3%A9galable-1-4-sport",
+            "resource_url": "http://www.google.com/search?q=sport%2Bmotocycliste&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://motorevue.com/site/jean-michel-bayle-un-parcours-unique-et-inegalable-1-4--63222.html"
+        }
+    }
+}
