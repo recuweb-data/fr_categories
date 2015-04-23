@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "saut-\u00e0-la-perche",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/saut-\u00e0-la-perche/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-%C3+-la-perche/saut-%C3+-la-perche/blogs.json"
+    },
+    "items": {
+        "aisnenouvelle.fr/2015/04/athl%C3%A9tisme-championnats-de-l-aisne-unss-250-jeunes-prennent-d-nouvelle": {
+            "title": "Athl\u00e9tisme/Championnats de l'Aisne Unss: 250 jeunes prennent d... - L'Aisne Nouvelle...",
+            "snippet": "L'Aisne NouvelleAthl\u00e9tisme/Championnats de l'Aisne Unss: 250 jeunes prennent d...L'Aisne NouvelleOutre les relais, quatre lancers (poids, disque, javelot, marteau), quatre sauts (hauteur, longueur, triple saut, perche), les sprints (50m, 100m, 50,...",
+            "date": "2015-04-23",
+            "categories": "triple-saut,athletisme",
+            "recuweb_url": "http://fr.recuweb.com/athletisme/aisnenouvelle.fr/2015/04/athl%C3%A9tisme-championnats-de-l-aisne-unss-250-jeunes-prennent-d-nouvelle",
+            "resource_url": "http://news.google.fr/?hl=fr&q=saut%2B%C3%A0%2Bla%2Bperche&output=atom&nord=1",
+            "source_url": "http://aisnenouvelle.fr/sport-region/athletismechampionnats-de-l-aisne-unss-250-jeunes-ia0b0n207208"
+        }
+    }
+}
