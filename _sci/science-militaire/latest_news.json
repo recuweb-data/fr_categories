@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "science-militaire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/science-militaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/science-militaire/science-militaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/science-militaire/science-militaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/science-militaire/science-militaire/blogs.json"
+    },
+    "items": {
+        "wsws.org/2015/02/le-danger-d-escalade-en-ukraine": {
+            "title": "Le danger d'escalade en Ukraine...",
+            "snippet": "Cela serait trop co\u00fbteux en sang vers\u00e9, financi\u00e8rement paralysant. C'est un vieil adage de la science militaire que la guerre est la plus impr\u00e9visible des activit\u00e9s humaines. On peut simaginer d'innombrables situations o\u00f9 un plan comme...",
+            "date": "2015-02-12",
+            "categories": "escalade,science",
+            "tags": "science,militaire",
+            "recuweb_url": "http://fr.recuweb.com/science/wsws.org/2015/02/le-danger-d-escalade-en-ukraine",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=science%2Bmilitaire&format=RSS&cc=fr",
+            "source_url": "http://wsws.org/fr/articles/2015/fev2015/pers-f12.shtml"
+        }
+    }
+}
