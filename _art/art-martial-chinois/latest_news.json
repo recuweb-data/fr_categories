@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "art-martial-chinois",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial-chinois/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial-chinois/art-martial-chinois/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial-chinois/art-martial-chinois/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial-chinois/art-martial-chinois/blogs.json"
+    },
+    "items": {
+        "lefigaro.fr/2015/02/%C3+-paris-ce-week-end-salon-de-l-agriculture-nouvel": {
+            "title": "\u00c0 Paris ce week-end: salon de l'agriculture, nouvel an chinois et... - Le Figaro...",
+            "snippet": "Le Figaro\u00c0 Paris ce week-end: salon de l'agriculture, nouvel an chinois et...Le FigaroNouvel an chinois: 2015 sera l'ann\u00e9e de la ch\u00e8vre, selon le calendrier chinois. Des spectacles d'art martiaux et les danses du dragon viendront \u00e9gayer une...",
+            "date": "2015-02-20",
+            "tags": "nouvel,chinois,art,martiaux",
+            "recuweb_url": "http://",
+            "resource_url": "http://news.google.fr/?hl=fr&q=art%2Bmartial%2Bchinois%2Bart%2Bmartial%2Bchinois&output=atom&nord=1",
+            "source_url": "http://lefigaro.fr/sortir-paris/2015/02/20/30004-20150220ARTFIG00117--paris-ce-week-end-salon-de-l-agriculture-nouvel-an-chinois-et-comedie-musicale.php"
+        },
+        "lavoixdunord.fr/2015/02/le-touquet-ta%C3%AF-chi-chuan-un-art-martial-que-l": {
+            "title": "Le Touquet: le Ta\u00ef-Chi-Chuan, un art martial que l'on pratique tout... - La Voix du Nord...",
+            "snippet": "La Voix du NordLe Touquet: le Ta\u00ef-Chi-Chuan, un art martial que l'on pratique tout...La Voix du NordC'est un art martial chinois interne. On n'utilise pas la force, on utilise une technique \u00e9nerg\u00e9tique au m\u00eame titre que le Qi gong (technique de...",
+            "date": "2015-02-06",
+            "tags": "art,martial,chinois",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/02/le-touquet-ta%C3%AF-chi-chuan-un-art-martial-que-l",
+            "resource_url": "http://news.google.fr/?hl=fr&q=art%2Bmartial%2Bchinois%2Bart%2Bmartial%2Bchinois&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/le-touquet-le-tai-chi-chuan-un-art-martial-que-l-on-ia36b49168n2646445"
+        }
+    }
+}
