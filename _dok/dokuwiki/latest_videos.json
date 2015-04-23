@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "portal_name": "dokuwiki",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/dokuwiki/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2013/05/dokuwiki-les-listes-de-contr%C3%B4le-d-acc%C3%A8s": {
+            "title": "DokuWiki: Les listes de contr\u00f4le d'acc\u00e8s...",
+            "snippet": "Abordez les notions de listes de contr\u00f4le d'acc\u00e8s, de groupes, de permissions et de droits avec le formateur Christophe: monvideo2brainTags: Christophe Aubry DokuWiki liste formation permission contr\u00f4le dacc\u00e8s Posted: 02 May 2013Rating:: 0...",
+            "date": "2013-05-02",
+            "author_name": "monvideo2brain",
+            "categories": "dokuwiki",
+            "tags": "dokuwiki,christophe,monvideo,braintags,aubry",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/dailymotion.com/2013/05/dokuwiki-les-listes-de-contr%C3%B4le-d-acc%C3%A8s",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/dokuwiki+dokuwiki/0?af=1",
+            "source_url": "http://dailymotion.com/video/xzijdt_dokuwiki-les-listes-de-controle-d-acces_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xzijdt_dokuwiki-les-listes-de-controle-d-acces_lifestyle"
+        },
+        "dailymotion.com/2013/01/dokuwiki-les-flux-rss": {
+            "title": "DokuWiki: Les flux RSS...",
+            "snippet": "comment ins\u00e9rer les derni\u00e8res nouvelles d'autres sites sur votre: monvideo2brainTags: DokuWiki ins\u00e9rer nouvelles sites Christophe Aubry flux RSS Posted: 18 January 2013Rating:: 0...",
+            "date": "2013-01-18",
+            "author_name": "monvideo2brain",
+            "categories": "dokuwiki",
+            "tags": "christophe,aubry,dokuwiki,monvideo,braintags",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/dailymotion.com/2013/01/dokuwiki-les-flux-rss",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/dokuwiki+dokuwiki/0?af=1",
+            "source_url": "http://dailymotion.com/video/xwuzmp_dokuwiki-les-flux-rss_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xwuzmp_dokuwiki-les-flux-rss_lifestyle"
+        }
+    }
+}
