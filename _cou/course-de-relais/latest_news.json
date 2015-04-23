@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "course-de-relais",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/course-de-relais/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-de-relais/course-de-relais/blogs.json"
+    },
+    "items": {
+        "basketusa.com/2015/03/la-course-au-mvp-deux-co-est-ce-possible-basketusa": {
+            "title": "La course au MVP: deux co-MVP, est-ce possible? - BasketUSA...",
+            "snippet": "BasketUSALa course au MVP: deux co-MVP, est-ce possible?BasketUSAEn fait, jusqu'en 1980, c'\u00e9tait les joueurs qui votaient pour le MVP de la saison, mais depuis cette p\u00e9riode, c'est un panel de journalistes qui a pris le relais (entre 69 et 127...",
+            "date": "2015-03-31",
+            "tags": "deux,course,relais",
+            "recuweb_url": "http://fr.recuweb.com/basketusa.com/2015/03/la-course-au-mvp-deux-co-est-ce-possible-basketusa",
+            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bde%2Brelais%2Bcourse%2Bde%2Brelais&output=atom&nord=1",
+            "source_url": "http://basketusa.com/news/285010/la-course-au-mvp-deux-co-mvp-est-ce-possible/"
+        }
+    }
+}
