@@ -1,0 +1,53 @@
+{
+    "meta": {
+        "portal_name": "blogs",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/blogs/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
+    },
+    "items": {
+        "skeudsleblog.20minutes-blogs.fr/2015/03/aap-rocky-donne-enfin-de-ses-nouvelles-skeuds-les-blogs": {
+            "title": "AAP Rocky donne enfin de ses nouvelles - Skeuds - Les blogs...",
+            "snippet": "AAP Rocky nous donne ENFIN plus d'informations concernant son prochain faisait un moment que AAP Rocky se faisait discret, surtout...",
+            "date": "2015-03-21",
+            "author_name": "noreply@20minutes-blogs.fr (Skeuds)",
+            "tags": "moment,nouvelles",
+            "recuweb_url": "http://fr.recuweb.com/skeudsleblog.20minutes-blogs.fr/2015/03/aap-rocky-donne-enfin-de-ses-nouvelles-skeuds-les-blogs",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://skeudsleblog.20minutes-blogs.fr/archive/2015/03/21/asap-rocky-se-confie.html"
+        },
+        "bruxelles.blogs.liberation.fr/2015/03/evasion-fiscale-des-entreprises-la-commission-joue-montre": {
+            "title": "Evasion fiscale des entreprises: \"la Commission joue la montre\"...",
+            "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9 Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
+            "date": "2015-03-18",
+            "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
+            "tags": "entreprises,accueil",
+            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/03/evasion-fiscale-des-entreprises-la-commission-joue-montre",
+            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bruxelles.blogs.liberation.fr/2015/03/18/evasion-fiscale-des-entreprises-la-commission-joue-la-montre-affirme-le-vert-philippe-lamberts/"
+        },
+        "blog.mondediplo.net/2015/03/confession-d-un-espion-du-si%C3%A8cle-les-blogs-diplo": {
+            "title": "Confession d'un espion du si\u00e8cle - Les blogs du Diplo...",
+            "snippet": "Les derni\u00e8res r\u00e9v\u00e9lations d'Edward Snowden sur le piratage du fabricant de cartes SIM Gemalto [1] par les agences de renseignement am\u00e9ricaine et britannique ont co\u00efncid\u00e9 avec la sortie de Kingsman: services secrets.",
+            "date": "2015-03-03",
+            "author_name": "Thibault Henneton",
+            "tags": "services",
+            "recuweb_url": "http://fr.recuweb.com/blog.mondediplo.net/2015/03/confession-d-un-espion-du-si%C3%A8cle-les-blogs-diplo",
+            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.mondediplo.net/2015-03-03-Confession-d-un-espion-du-siecle"
+        },
+        "knittedart.wordpress.com/2014/08/recommended-blogs-recommand%C3%A9s": {
+            "title": "Recommended blogs/Blogs recommand\u00e9s...",
+            "snippet": "Here's a list of 18 blogs dealing with knitting and/or crochet that we consider especially interesting. Most of them are in english, but we also want to include...",
+            "date": "2014-08-06",
+            "author_name": "lamaisonbisoux",
+            "recuweb_url": "http://fr.recuweb.com/knittedart.wordpress.com/2014/08/recommended-blogs-recommand%C3%A9s",
+            "resource_url": "http://fr.search.wordpress.com/?q=blogs%2Bblogs&f=feed&page=1",
+            "source_url": "http://knittedart.wordpress.com/2014/08/06/recommended-blogs-blogs-recommandes-9/"
+        }
+    }
+}
