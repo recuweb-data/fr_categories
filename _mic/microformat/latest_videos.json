@@ -1,0 +1,84 @@
+{
+    "meta": {
+        "portal_name": "microformat",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/microformat/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2011/03/tutoriel-les-microformats-pour-votre-curriculum-vitae": {
+            "title": "Tutoriel: Les microformats pour votre Curriculum vitae...",
+            "snippet": "Author: creatiqfrTags: microformatcvCurriculum vitaetutorielhresumecreatiq Posted: 21 March 2011Rating:: 0...",
+            "date": "2011-03-21",
+            "author_name": "creatiqfr",
+            "categories": "microformat",
+            "tags": "microformats",
+            "recuweb_url": "http://fr.recuweb.com/microformat/dailymotion.com/2011/03/tutoriel-les-microformats-pour-votre-curriculum-vitae",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microformat+microformat/0?af=1",
+            "source_url": "http://dailymotion.com/video/xhqf6n_tutoriel-les-microformats-pour-votre-curriculum-vitae_lifestyle",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xhqf6n_tutoriel-les-microformats-pour-votre-curriculum-vitae_lifestyle"
+        },
+        "youtube.com/2009/12/expo-des-oeuvres-in-the-pocket-tours": {
+            "title": "Expo: Des oeuvres in the pocket (Tours)...",
+            "snippet": "Expo: Des oeuvres \"in the pocket\" (Tours) Plus sur. Exposition petit et micro-format, \u00e0 l'espace Mauricio Cordereo, le concept, exhiber des oeuvres dont la dimension est aussi petite et accessible que... From: TV Tours Views: 49 0 ratings Time:...",
+            "date": "2009-12-05",
+            "author_name": "TV Tours",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2009/12/expo-des-oeuvres-in-the-pocket-tours",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microformat%2Bmicroformat&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Rt14LW6N5tk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Rt14LW6N5tk/0.jpg"
+        },
+        "youtube.com/2008/04/recherche-emploi-fa%C3%A7on-microformats": {
+            "title": "Recherche emploi fa\u00e7on microformats...",
+            "snippet": "Recherche emploi fa\u00e7on microformats Emission de tv7 diffus\u00e9e en Octobre 2007 lors de la sortie de le moteur de recherche d'emploi. From: Fran\u00e7ois GOUBE Views: 1917 0 ratings Time: 01:51 More in People & Blogs...",
+            "date": "2008-04-09",
+            "author_name": "Fran\u00e7ois GOUBE",
+            "categories": "moteur-de-recherche,emploi,microformat",
+            "tags": "microformats",
+            "recuweb_url": "http://fr.recuweb.com/microformat/youtube.com/2008/04/recherche-emploi-fa%C3%A7on-microformats",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microformat%2Bmicroformat&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=ig4sICW9itY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ig4sICW9itY/0.jpg"
+        },
+        "dailymotion.com/2008/01/comprendre-le-web-s%C3%A9mantique": {
+            "title": "Comprendre le web s\u00e9mantique...",
+            "snippet": "Short introduction about semantic webAuthor: voxinablogTags: web s\u00e9mantique microformats rdf semantic-web Posted: 15 January 2008Rating:: 0...",
+            "date": "2008-01-15",
+            "author_name": "voxinablog",
+            "categories": "microformat",
+            "tags": "web,microformats,about,voxinablogtags",
+            "recuweb_url": "http://fr.recuweb.com/microformat/dailymotion.com/2008/01/comprendre-le-web-s%C3%A9mantique",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microformat+microformat/0?af=1",
+            "source_url": "http://dailymotion.com/video/x422bk_comprendre-le-web-semantique_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x422bk_comprendre-le-web-semantique_tech"
+        },
+        "dailymotion.com/2007/03/cantinecamp-paris-10e-%C3%A9dition": {
+            "title": "CantineCamp Paris 10e \u00e9dition...",
+            "snippet": "Author: lucosTags: web 2.0 intelligence collective information vlog blog microformats Posted: 29 March 2007Rating:: 0...",
+            "date": "2007-03-29",
+            "author_name": "lucos",
+            "categories": "microformat",
+            "tags": "microformats,web",
+            "recuweb_url": "http://fr.recuweb.com/microformat/dailymotion.com/2007/03/cantinecamp-paris-10e-%C3%A9dition",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microformat+microformat/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1klv7_cantinecamp-paris-10e-edition_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1klv7_cantinecamp-paris-10e-edition_tech"
+        },
+        "dailymotion.com/2006/12/david-sifri-about-microformats": {
+            "title": "David Sifri about Microformats...",
+            "snippet": "David Sifri's response on what microformats mean to our web: voxinablogTags: David Sifri Microformats Technorati Web Futur Web2.0 blog Posted: 15 December 2006Rating:: 1...",
+            "date": "2006-12-15",
+            "author_name": "voxinablog",
+            "categories": "microformat",
+            "tags": "web,microformats,about,voxinablogtags",
+            "recuweb_url": "http://fr.recuweb.com/microformat/dailymotion.com/2006/12/david-sifri-about-microformats",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microformat+microformat/0?af=1",
+            "source_url": "http://dailymotion.com/video/xszzb_david-sifri-about-microformats_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xszzb_david-sifri-about-microformats_tech"
+        }
+    }
+}
