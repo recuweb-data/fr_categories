@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "portal_name": "apple-hardware",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/apple-hardware/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/05/cowcot-tv-apple-mac-book-pro-13-bioschock-inifinite": {
+            "title": "Cowcot TV Apple Mac Book Pro 13/Bioschock Inifinite...",
+            "snippet": "Cowcot TV Apple Mac Book Pro 13/Bioschock Inifinite En partenariat avec LDLC: Toutes nos news/articles Hardware sur, mais aussi notre FB:... From: Cowcotland Views: 2437 35 ratings Time: 04:58 More in Science & Technology...",
+            "date": "2014-05-30",
+            "author_name": "Cowcotland",
+            "categories": "macbook,science",
+            "tags": "apple,mac,hardware",
+            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2014/05/cowcot-tv-apple-mac-book-pro-13-bioschock-inifinite",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=apple%2Bhardware%2Bapple%2Bhardware&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=NtSyoJ5mpYY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NtSyoJ5mpYY/0.jpg"
+        },
+        "youtube.com/2012/09/tuto-mettre-le-th%C3%A9me-mac-apple": {
+            "title": "TUTO Mettre le th\u00e9me mac (apple)...",
+            "snippet": "TUTO Mettre le th\u00e9me mac (apple) Lis la description.... tuto pour Lo0hLo0h et pour les autres. Notre page facbook: abonne-toi et like la video... From: Geek Hardware Views: 172 11 ratings Time: 04:39 More in People & Blogs...",
+            "date": "2012-09-08",
+            "author_name": "Geek Hardware",
+            "tags": "hardware,mac,apple",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/09/tuto-mettre-le-th%C3%A9me-mac-apple",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=apple%2Bhardware%2Bapple%2Bhardware&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=7QOcODybe58&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7QOcODybe58/0.jpg"
+        }
+    }
+}
