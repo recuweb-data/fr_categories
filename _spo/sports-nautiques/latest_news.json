@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "sports-nautiques",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sports-nautiques/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/blogs.json"
+    },
+    "items": {
+        "newspress.fr/2015/04/d%C3%A9couvrez-les-services-rendus-par-%C3%A9cosyst%C3%A8mes-d-eau-douce-en-france": {
+            "title": "D\u00e9couvrez les services rendus par les \u00e9cosyst\u00e8mes d'eau douce en France...",
+            "snippet": "Ils repr\u00e9sentent des lieux recherch\u00e9s par les touristes et permettent la pratique de multiples activit\u00e9s (p\u00eache, baignade, sports nautiques...). Aujourd'hui, ces milieux d'eau douce sont fortement impact\u00e9s par les activit\u00e9s humaines comme l...",
+            "date": "2015-04-19",
+            "categories": "baignade,sport",
+            "tags": "activit\u00e9s,sports,nautiques",
+            "recuweb_url": "http://fr.recuweb.com/sport/newspress.fr/2015/04/d%C3%A9couvrez-les-services-rendus-par-%C3%A9cosyst%C3%A8mes-d-eau-douce-en-france",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
+            "source_url": "http://newspress.fr/Communique_FR_288218_3497.aspx"
+        },
+        "consoglobe.com/2015/04/partir-en-vacances-sans-papa-et-maman-super": {
+            "title": "Partir en vacances sans papa et maman? Super, je le fais l\u00e9t\u00e9 prochain!",
+            "snippet": "Jai besoin de me d\u00e9penser, alors un stage sportif o\u00f9 je pourrais pratiquer des sports nautiques, essayer plusieurs sports diff\u00e9rents ou faire de superbes randonn\u00e9es sous forme de chasses au tr\u00e9sor, cela me plairait bien. Cest un peu cher...",
+            "date": "2015-04-19",
+            "categories": "chasse,sport",
+            "tags": "sports,nautiques",
+            "recuweb_url": "http://fr.recuweb.com/sport/consoglobe.com/2015/04/partir-en-vacances-sans-papa-et-maman-super",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
+            "source_url": "http://consoglobe.com/partir-sans-papa-et-maman-cg"
+        },
+        "fr.news.yahoo.com/2015/04/dakhla-la-petite-essaouira-aux-portes-du-d%C3%A9sert": {
+            "title": "Dakhla, la petite Essaouira aux portes du d\u00e9sert...",
+            "snippet": "Paradis des surfeurs, l'ancienne colonie espagnole jouit de sa localisation entre le Sahara et l'Atlantique pour offrir des s\u00e9jours bien-\u00eatre et d\u00e9couvertes. Trekkings dans le d\u00e9sert, sources chaudes et sports nautiques sont au rendez-vous dans...",
+            "date": "2015-04-08",
+            "categories": "sport",
+            "tags": "sports,nautiques",
+            "recuweb_url": "http://fr.recuweb.com/sport/fr.news.yahoo.com/2015/04/dakhla-la-petite-essaouira-aux-portes-du-d%C3%A9sert",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sports%2Bnautiques",
+            "source_url": "http://fr.news.yahoo.com/dakhla-petite-essaouira-portes-d\u00e9sert-145021999.html"
+        }
+    }
+}
