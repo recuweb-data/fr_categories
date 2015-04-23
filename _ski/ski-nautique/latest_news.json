@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "ski-nautique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/ski-nautique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/blogs.json"
+    },
+    "items": {
+        "royan-actu.com/2015/03/quand-saujon-devient-un-haut-lieu-de-la-glisse": {
+            "title": "Quand Saujon devient un haut lieu de la glisse...",
+            "snippet": "Les installations permettront la pratique du ski nautique, du kneeboard pour les enfants et les d\u00e9butants, et le wakeboard avec modules pour les plus confirm\u00e9s. Ces activit\u00e9s seront accessibles d\u00e8s lge de 8 ans. A condition de savoir nager.",
+            "date": "2015-03-18",
+            "categories": "ski",
+            "tags": "enfants,ski,nautique",
+            "recuweb_url": "http://fr.recuweb.com/ski/royan-actu.com/2015/03/quand-saujon-devient-un-haut-lieu-de-la-glisse",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ski%2Bnautique&format=RSS&cc=fr",
+            "source_url": "http://royan-actu.com/quand-saujon-devient-un-haut-lieu-de-la-glisse-13410"
+        },
+        "lanouvellerepublique.fr/2015/03/l-indre-bon-%C3%A9l%C3%A8ve-la-nouvelle-r%C3%A9publique": {
+            "title": "L'Indre, bon \u00e9l\u00e8ve - la Nouvelle R\u00e9publique...",
+            "snippet": "la Nouvelle R\u00e9publiqueL'Indre, bon \u00e9l\u00e8vela Nouvelle R\u00e9publiqueCelui que l'on surnommait Le Petit Prince lorsqu'il survolait le ski nautique mondial conna\u00eet bien le d\u00e9partement de l'Indre pour y faire \u00e9tape au moins une fois par an, lorsque...",
+            "date": "2015-03-17",
+            "categories": "ski",
+            "tags": "petit,ski,nautique",
+            "recuweb_url": "http://fr.recuweb.com/ski/lanouvellerepublique.fr/2015/03/l-indre-bon-%C3%A9l%C3%A8ve-la-nouvelle-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ski%2Bnautique&output=atom&nord=1",
+            "source_url": "http://lanouvellerepublique.fr/Indre/Sport/Sports-de-glisse/Ski-nautique/n/Contenus/Articles/2015/03/17/L-Indre-bon-eleve-2259857"
+        }
+    }
+}
