@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "hockey-sur-gazon",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/hockey-sur-gazon/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/blogs.json"
+    },
+    "items": {
+        "bibamagazine.fr/2015/02/tout-savoir-sur-le-hockey-gazon-biba-magazine": {
+            "title": "Tout savoir sur le hockey sur gazon - Biba Magazine...",
+            "snippet": "Biba MagazineTout savoir sur le hockey sur gazonBiba MagazineLe hockey sur gazon est probablement le plus vieux sport de crosse au monde. Tr\u00e8s populaire dans les pays anglo-saxons, il est encore injustement m\u00e9connu en France. Il poss\u00e8de pourtant...",
+            "date": "2015-02-10",
+            "categories": "hockey,sport",
+            "tags": "crosse,hockey,gazon,sport,france",
+            "recuweb_url": "http://fr.recuweb.com/sport/bibamagazine.fr/2015/02/tout-savoir-sur-le-hockey-gazon-biba-magazine",
+            "resource_url": "http://news.google.fr/?hl=fr&q=hockey%2Bsur%2Bgazon&output=atom&nord=1",
+            "source_url": "http://bibamagazine.fr/style-de-vie/tout-savoir-sur-le-hockey-sur-gazon-24385"
+        }
+    }
+}
