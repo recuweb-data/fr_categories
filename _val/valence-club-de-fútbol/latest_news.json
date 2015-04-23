@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "valence-club-de-f\u00fatbol",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/valence-club-de-f\u00fatbol/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/blogs.json"
+    },
+    "items": {
+        "fr.uefa.com/2014/10/valence-d%C3%A9fait-l-atl%C3%A9tico-news": {
+            "title": "Valence d\u00e9fait l'Atl\u00e9tico - News - -...",
+            "snippet": "d\u00e9fait l'Atl\u00e9tico - News - UEFA.com d\u00e9fait l'Atl\u00e9tico. Publi\u00e9: Samedi, 4 octobre 2014,. Le Valencia CF n'a pas tard\u00e9 pour faire la diff\u00e9rence contre le Club Atl\u00e9tico de Madrid avec trois buts dans les 13 premi\u00e8res minutes. par Richard...",
+            "date": "2014-10-04",
+            "tags": "minutes,buts,contre,club,valence,atl\u00e9tico,valencia,madrid",
+            "recuweb_url": "http://fr.recuweb.com/fr.uefa.com/2014/10/valence-d%C3%A9fait-l-atl%C3%A9tico-news",
+            "resource_url": "http://news.google.fr/?hl=fr&q=valence%2Bclub%2Bde%2Bf%C3%BAtbol&output=atom&nord=1",
+            "source_url": "http://fr.uefa.com/memberassociations/association=esp/news/newsid=2160386.html"
+        }
+    }
+}
