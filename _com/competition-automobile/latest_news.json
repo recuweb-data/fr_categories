@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "competition-automobile",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/competition-automobile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/blogs.json"
+    },
+    "items": {
+        "lequipe.fr/2015/03/le-sport-auto-moteur-de-recherches-l-%C3%A9": {
+            "title": "Le sport auto, moteur de recherches - L'\u00c9...",
+            "snippet": "L'\u00c9 sport auto, moteur de recherchesL'\u00c9 comp\u00e9tition automobile a toujours constitu\u00e9 un formidable laboratoire technologique. Dans un contexte environnemental qui \u00e9volue, quelles sont les pistes d\u00e9velopp\u00e9es pour le futur? Des ing\u00e9nieurs...",
+            "date": "2015-03-31",
+            "categories": "moteur-de-recherche,sport",
+            "tags": "sport,auto,comp\u00e9tition,automobile",
+            "recuweb_url": "http://fr.recuweb.com/sport/lequipe.fr/2015/03/le-sport-auto-moteur-de-recherches-l-%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=competition%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://lequipe.fr/Tous-sports/Article/Le-sport-auto-moteur-de-recherches/44600"
+        }
+    }
+}
