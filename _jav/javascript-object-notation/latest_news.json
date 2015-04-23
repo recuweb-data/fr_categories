@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "javascript-object-notation",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/blogs.json"
+    },
+    "items": {
+        "cio.com/2015/03/apache-tajo-brings-data-warehousing-to-hadoop-cio": {
+            "title": "Apache Tajo brings data warehousing to Hadoop - CIO...",
+            "snippet": "Apache Tajo brings data warehousing to HadoopCIOLike a growing number of database systems, Tajo now features full support for JSON (JavaScript Object Notation), easing the process for Web developers to work with Tajo. Tajo can also work directly...",
+            "date": "2015-03-09",
+            "categories": "javascript,javascript-object-notation",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/cio.com/2015/03/apache-tajo-brings-data-warehousing-to-hadoop-cio",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&output=atom&nord=1",
+            "source_url": "http://cio.com/article/2894633/apache-tajo-brings-data-warehousing-to-hadoop.html"
+        }
+    }
+}
