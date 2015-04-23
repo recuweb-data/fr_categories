@@ -1,0 +1,71 @@
+{
+    "meta": {
+        "portal_name": "application-web",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/application-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
+    },
+    "items": {
+        "programmez.com/2015/04/offre-d-emploi": {
+            "title": "Offre d'emploi...",
+            "snippet": "De formation sup\u00e9rieur en Informatique (Bac 4/5, \u00e9cole ding\u00e9nieur ou formation universitaire), vous b\u00e9n\u00e9ficiez dau moins 6 ans dexpertise sur les langages de d\u00e9veloppement.Net et Java et en application web trois-tiers. Vous avez une tr\u00e8s...",
+            "date": "2015-04-13",
+            "categories": "langage,emploi,java",
+            "tags": "application,web",
+            "recuweb_url": "http://fr.recuweb.com/java/programmez.com/2015/04/offre-d-emploi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://programmez.com/emploi-detail/JHR83X6MX40C876NRCT"
+        },
+        "weblife.fr/2015/04/facebook-messenger-version-de-bureau-la-messagerie": {
+            "title": "Facebook Messenger: Version de bureau de la messagerie...",
+            "snippet": "Des fonctionnalit\u00e9s bien connues des utilisateurs de Google Hangouts. Sans surprise, cette application web dispose dun certain nombre de pr\u00e9f\u00e9rences utilisateur, avec notamment la possibilit\u00e9 de g\u00e9rer les notifications ou ajuster le volume du...",
+            "date": "2015-04-09",
+            "categories": "google,facebook",
+            "tags": "utilisateurs,facebook,messenger,version,application,web",
+            "recuweb_url": "http://fr.recuweb.com/facebook/weblife.fr/2015/04/facebook-messenger-version-de-bureau-la-messagerie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://weblife.fr/actus/facebook-messenger-version-de-bureau-de-la-messagerie"
+        },
+        "generation-nt.com/2015/04/messenger-en-version-web-autonome": {
+            "title": "Messenger en version Web autonome...",
+            "snippet": "Aujourd'hui, Facebook Messenger n'est plus seulement une application mobile adopt\u00e9e par plus de 600 millions d'utilisateurs mais \u00e9galement une application Web. Cette adaptation au Web se fait de mani\u00e8re ind\u00e9pendante du r\u00e9seau social lui-m\u00eame.",
+            "date": "2015-04-09",
+            "categories": "facebook",
+            "tags": "mani\u00e8re,millions,version,messenger,web,aujourd,hui,facebook,application,mobile,utilisateurs,m\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/facebook/generation-nt.com/2015/04/messenger-en-version-web-autonome",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://generation-nt.com/facebook-messenger-application-web-messagerie-actualite-1913984.html"
+        },
+        "bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news": {
+            "title": "Collibris: l'application qui propage la lecture - BSC News...",
+            "snippet": "Collibris: l'application qui propage la lectureBSC NewsCollibris est une application Web et Mobile gratuite destin\u00e9e aux lecteurs qui propose d'enregistrer ses lectures et sa biblioth\u00e8que, de garder une trace de son \u00e9motion en notant et...",
+            "date": "2015-04-07",
+            "tags": "lecture,application,web,mobile",
+            "recuweb_url": "http://fr.recuweb.com/bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news",
+            "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
+            "source_url": "http://bscnews.fr/201504074636/TECH-WEB/collibris-l-application-qui-propage-la-lecture.html"
+        },
+        "fr.news.yahoo.com/2015/04/montpellier-une-application-web-pour-traduire-les-menus-des-restaurants": {
+            "title": "Montpellier: Montpellier: Une application web pour traduire les menus des restaurants aux touristes...",
+            "snippet": "TOURISME - Chaque ann\u00e9e, cinq millions de touristes \u00e9trangers viennent d\u00e9couvrir les joyaux du Languedoc-Roussillon. Et beaucoup ne parlent pas un mot de fran\u00e7ais...",
+            "date": "2015-04-07",
+            "tags": "fran\u00e7ais,millions,application,web",
+            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/04/montpellier-une-application-web-pour-traduire-les-menus-des-restaurants",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=application%2Bweb",
+            "source_url": "http://fr.news.yahoo.com/montpellier-montpellier-application-web-traduire-menus-restaurants-touristes-173224633.html"
+        },
+        "metronews.fr/2015/04/dyslexie-une-application-qui-facilite-la-lecture": {
+            "title": "Dyslexie: une application qui facilite la lecture...",
+            "snippet": "Il fallait y penser. A Lyon, la start-up sociale Aidodys a cr\u00e9\u00e9 l'application Web collaborative du m\u00eame nom, permettant dadapter de fa\u00e7on sp\u00e9cifique la mise en page de textes le\u00e7ons, exercices ou pages de livres et donc de faciliter la...",
+            "date": "2015-04-06",
+            "tags": "faciliter,m\u00eame,lecture,application,web",
+            "recuweb_url": "http://fr.recuweb.com/metronews.fr/2015/04/dyslexie-une-application-qui-facilite-la-lecture",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://metronews.fr/lyon/une-application-web-pour-aider-les-enfants-dyslexiques/modf!NF7Vo0WFNweuw/"
+        }
+    }
+}
