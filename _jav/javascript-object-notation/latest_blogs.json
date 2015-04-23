@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "portal_name": "javascript-object-notation",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/blogs.json"
+    },
+    "items": {
+        "bortzmeyer.org/2015/02/rfc-7464-javascript-object-notation-json-text-sequences": {
+            "title": "RFC 7464: JavaScript Object Notation (JSON) Text Sequences...",
+            "snippet": "Un document JSON est normalement form\u00e9 d'un texte JSON tel qu'un tableau ou un objet. Mais certains usages de JSON auraient besoin d'un autre genre de documents, une suite de textes JSON, s\u00e9par\u00e9s par un caract\u00e8re...",
+            "date": "2015-02-26",
+            "author_name": "St\u00e9phane Bortzmeyer",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "texte,documents,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2015/02/rfc-7464-javascript-object-notation-json-text-sequences",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bortzmeyer.org/7464.html"
+        },
+        "rfrombruxelles.blogspot.com/2014/12/how-do-you-work-with-javascript-object-notation-hodentekhelp": {
+            "title": "How do you work with Javascript Object Notation? HodentekHelp...",
+            "snippet": "So what is JSON? It's an acronym you might have started appearing in greater frequency on the Internet. JSON stands for JavaScript Object Notation. Well, it is a special object notational construct and is a subset of JavaScript.",
+            "date": "2014-12-29",
+            "author_name": "Rinaldo Bonazzo",
+            "categories": "javascript,javascript-object-notation,internet",
+            "tags": "object,javascript,javascript_object,javascript_object_notation,object_notation,notation,work,json",
+            "recuweb_url": "http://fr.recuweb.com/internet/rfrombruxelles.blogspot.com/2014/12/how-do-you-work-with-javascript-object-notation-hodentekhelp",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rfrombruxelles.blogspot.com/2014/12/how-do-you-work-with-javascript-object.html"
+        },
+        "bortzmeyer.org/2013/04/blog-st%C3%A9phane-bortzmeyer-rfc-6901-javascript-object-notation": {
+            "title": "Blog St\u00e9phane Bortzmeyer: RFC 6901: JavaScript Object Notation...",
+            "snippet": "JSON (RFC 7159) est un format structur\u00e9 de donn\u00e9es tr\u00e8s populaire sur le Web. Les documents JSON peuvent \u00eatre de taille tr\u00e8s variable et il serait int\u00e9ressant d'avoir une syntaxe formelle pour d\u00e9signer une partie bien...",
+            "date": "2013-04-03",
+            "author_name": "St\u00e9phane Bortzmeyer",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "syntaxe,format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,st\u00e9phane,st\u00e9phane_bortzmeyer,bortzmeyer,rfc,json,web,documents",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2013/04/blog-st%C3%A9phane-bortzmeyer-rfc-6901-javascript-object-notation",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bortzmeyer.org/6901.html"
+        },
+        "bortzmeyer.org/2013/04/blog-st%C3%A9phane-bortzmeyer-rfc-6902-javascript-object-notation": {
+            "title": "Blog St\u00e9phane Bortzmeyer: RFC 6902: JavaScript Object Notation...",
+            "snippet": "Le format de donn\u00e9es structur\u00e9es JSON, normalis\u00e9 dans le RFC 7159, a pris une importance de plus en plus grande et est d\u00e9sormais utilis\u00e9 dans bien des contextes. Cela entraine l'apparition de normes auxiliaires, sp\u00e9cifiant...",
+            "date": "2013-04-03",
+            "author_name": "St\u00e9phane Bortzmeyer",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,st\u00e9phane,st\u00e9phane_bortzmeyer,bortzmeyer,rfc,json",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2013/04/blog-st%C3%A9phane-bortzmeyer-rfc-6902-javascript-object-notation",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bortzmeyer.org/6902.html"
+        },
+        "alsacreations.com/2010/12/le-format-json-ajax-et-jquery-alsacreations": {
+            "title": "Le format JSON, AJAX et jQuery - Alsacreations...",
+            "snippet": "JSON (JavaScript Object Notation) est une forme d'\u00e9criture de donn\u00e9es en JavaScript. Son avantage est de fournir un support pour une \u00e9criture simple et l\u00e9g\u00e8re au format texte, relativement compr\u00e9hensible par les...",
+            "date": "2010-12-31",
+            "author_name": "dew",
+            "categories": "javascript,javascript-object-notation,jquery",
+            "tags": "support,format,texte,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json",
+            "recuweb_url": "http://fr.recuweb.com/jquery/alsacreations.com/2010/12/le-format-json-ajax-et-jquery-alsacreations",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://alsacreations.com/article/lire/1161-json-ajax-jquery-jsonp-getjson.html"
+        },
+        "doc.pcsoft.fr/2010/02/json-pc-soft-documentation-en-ligne": {
+            "title": "JSON - PC SOFT - Documentation en ligne...",
+            "snippet": "JSON - JSON (JavaScript Object Notation - Notation Objet issue de JavaScript) est un format l\u00e9ger d'\u00e9change de donn\u00e9es...",
+            "date": "2010-02-05",
+            "author_name": "PC SOFT",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "donn\u00e9es,format,notation,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,json",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/doc.pcsoft.fr/2010/02/json-pc-soft-documentation-en-ligne",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://doc.pcsoft.fr/fr-FR/?1000017287"
+        },
+        "blog.pascal-martin.fr/2007/01/json-javascript-object-notation-pr%C3%A9sentation-pascal-martin": {
+            "title": "JSON - JavaScript Object Notation: Pr\u00e9sentation Pascal MARTIN...",
+            "snippet": "JSON est l'abr\u00e9viation de JavaScript Object Notation. En quelques mots, JSON est une mani\u00e8re d'\u00e9crire des objets bas\u00e9e sur la syntaxe Javascript. Le format JSON est d\u00e9fini par la RFC 4627, post\u00e9e en Juillet 2006 par...",
+            "date": "2007-01-13",
+            "author_name": "Pascal MARTIN",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "syntaxe,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json,format,rfc,juillet",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/blog.pascal-martin.fr/2007/01/json-javascript-object-notation-pr%C3%A9sentation-pascal-martin",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.pascal-martin.fr/post/json-javascript-object-notation-presentation.html"
+        },
+        "bortzmeyer.org/2006/08/blog-st%C3%A9phane-bortzmeyer-rfc-4627-the-application-json-media": {
+            "title": "Blog St\u00e9phane Bortzmeyer: RFC 4627: The application/json Media...",
+            "snippet": "RFC 4627: The application/json Media Type for JavaScript Object Notation (JSON). Date de publication du RFC: Juillet 2006. Auteur(s) du RFC: D. Crockford () Pour information. Premi\u00e8re r\u00e9daction de cet article le...",
+            "date": "2006-08-30",
+            "author_name": "St\u00e9phane Bortzmeyer",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "javascript,javascript_object,javascript_object_notation,object,object_notation,notation,st\u00e9phane,st\u00e9phane_bortzmeyer,bortzmeyer,rfc,json,juillet",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2006/08/blog-st%C3%A9phane-bortzmeyer-rfc-4627-the-application-json-media",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bortzmeyer.org/4627.html"
+        }
+    }
+}
