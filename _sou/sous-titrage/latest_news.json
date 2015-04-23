@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "sous-titrage",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sous-titrage/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
+    },
+    "items": {
+        "lavoixdunord.fr/2015/04/merville-le-cin%C3%A9ma-sadapte-aux-malentendants-et-malvoyants": {
+            "title": "Merville: le cin\u00e9ma sadapte aux malentendants et malvoyants...",
+            "snippet": "Bient\u00f4t une nouvelle signal\u00e9tique Certaines s\u00e9ances seront \u00e9galement programm\u00e9es pour les personnes sourdes avec un syst\u00e8me de sous-titrage de couleur diff\u00e9rente qui se d\u00e9placera sur l\u00e9cran. Lobjectif sera de sensibiliser le public...",
+            "date": "2015-04-04",
+            "tags": "titrage",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/04/merville-le-cin%C3%A9ma-sadapte-aux-malentendants-et-malvoyants",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/merville-le-cinema-s-adapte-aux-malentendants-et-malvoyants-ia18b47658n2754583"
+        }
+    }
+}
