@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "rallye-raid",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rallye-raid/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/blogs.json"
+    },
+    "items": {
+        "turbo.fr/2015/02/essai-moto-aprilia-caponord-rally": {
+            "title": "Essai Moto: Aprilia Caponord Rally -...",
+            "snippet": "Moto: Aprilia Caponord aussi dispose de son trail routier 1200 avec la Caponord, une machine qui s'offre cette ann\u00e9e une version Rally. Nettement plus \u00e9quip\u00e9e, cette Aprilia n'est pas destin\u00e9e aux rallye-raid mais simplement aux grands voyages.",
+            "date": "2015-02-23",
+            "tags": "moto,rallye,raid",
+            "recuweb_url": "http://fr.recuweb.com/turbo.fr/2015/02/essai-moto-aprilia-caponord-rally",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Braid&output=atom&nord=1",
+            "source_url": "http://turbo.fr/actualite-automobile/755447-essai-moto-aprilia-caponord-rally/"
+        },
+        "lamontagne.fr/2015/02/jean-pierre-roux-remporte-l-open-international-d-%C3%A9checs-de-clermont": {
+            "title": "Jean-Pierre Roux remporte l'Open international d'\u00e9checs de Clermont...",
+            "snippet": "Alors, aucun doute, l'action R\u00e9s'Auvergne 63 de la Jeune chambre... Depuis jeudi, jeunes conducteurs de 4L sont en route vers le Maroc pour un rallye-raid humanitaire. Les Clermontois partaient mardi depuis la place de Jaude. La LPO Auvergne et...",
+            "date": "2015-02-22",
+            "categories": "place",
+            "tags": "place,maroc,rallye,raid,humanitaire",
+            "recuweb_url": "http://fr.recuweb.com/place/lamontagne.fr/2015/02/jean-pierre-roux-remporte-l-open-international-d-%C3%A9checs-de-clermont",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
+            "source_url": "http://lamontagne.fr/auvergne/actualite/departement/puy-de-dome/clermont-ferrand/2015/02/22/jean-pierre-roux-remporte-l-open-international-d-echecs-de-clermont_11339237.html"
+        },
+        "leblogauto.com/2015/02/yutaka-katayama-1909-2015-le-p%C3%A8re-de-la-datsun-240-z": {
+            "title": "Yutaka Katayama 1909-2015: Le p\u00e8re de la Datsun 240 Z nest plus...",
+            "snippet": "Cest \u00e9galement lui qui lancera Nissan en comp\u00e9tition, pressentant limportance de cette activit\u00e9 pour la promotion de la marque, en conduisant l\u00e9quipe qui fit courir deux Datsun 210 dans le rallye-raid de 16000 km doutback australien Mobil...",
+            "date": "2015-02-21",
+            "tags": "comp\u00e9tition,rallye,raid",
+            "recuweb_url": "http://fr.recuweb.com/leblogauto.com/2015/02/yutaka-katayama-1909-2015-le-p%C3%A8re-de-la-datsun-240-z",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
+            "source_url": "http://leblogauto.com/2015/02/yutaka-katayama-1909-2015-le-pere-de-la-datsun-240-z-nest-plus.html"
+        }
+    }
+}
