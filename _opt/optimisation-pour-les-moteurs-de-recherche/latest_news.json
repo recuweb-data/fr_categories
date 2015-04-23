@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "optimisation-pour-les-moteurs-de-recherche",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/optimisation-pour-les-moteurs-de-recherche/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/optimisation-pour-les-moteurs-de-recherche/optimisation-pour-les-moteurs-de-recherche/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/optimisation-pour-les-moteurs-de-recherche/optimisation-pour-les-moteurs-de-recherche/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/optimisation-pour-les-moteurs-de-recherche/optimisation-pour-les-moteurs-de-recherche/blogs.json"
+    },
+    "items": {
+        "ladepeche.fr/2015/03/eddy-marianne-l-informaticien-discret": {
+            "title": "Eddy Marianne, l'informaticien discret -...",
+            "snippet": "Marianne, l'informaticien a travaill\u00e9 pour la soci\u00e9t\u00e9 Aveyron Recrutement, dirig\u00e9e par une personne du Bassin. Le but \u00e9tait de d\u00e9velopper une r\u00e9elle optimisation pour le r\u00e9f\u00e9rencement au sein des moteurs de recherche. Le public qui visite...",
+            "date": "2015-03-23",
+            "categories": "recrutement",
+            "tags": "r\u00e9elle,optimisation,r\u00e9f\u00e9rencement,moteurs,recherche",
+            "recuweb_url": "http://fr.recuweb.com/recrutement/ladepeche.fr/2015/03/eddy-marianne-l-informaticien-discret",
+            "resource_url": "http://news.google.fr/?hl=fr&q=optimisation%2Bpour%2Bles%2Bmoteurs%2Bde%2Brecherche%2Boptimisation%2Bpour%2Bles%2Bmoteurs%2Bde%2Brecherche&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/03/23/2072224-eddy-marianne-l-informaticien-discret.html"
+        },
+        "digimedia.be/2015/03/la-situation-du-marketing-digital-au-benelux": {
+            "title": "La situation du marketing digital au Benelux...",
+            "snippet": "loptimisation pour les moteurs de recherche, les applications web et mobiles, et les outils de marketing social. La combinaison de ces domaines donne une vision unique permettant de personnaliser le contenu et ainsi dattirer de nouveaux clients...",
+            "date": "2015-03-22",
+            "categories": "marketing",
+            "tags": "marketing,moteurs,recherche,web",
+            "recuweb_url": "http://fr.recuweb.com/marketing/digimedia.be/2015/03/la-situation-du-marketing-digital-au-benelux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=optimisation%2Bpour%2Bles%2Bmoteurs%2Bde%2Brecherche&format=RSS&cc=fr",
+            "source_url": "http://digimedia.be/News/fr/17888/la-situation-du-marketing-digital-au-benelux.html"
+        }
+    }
+}
