@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "publicit\u00e9-contextuelle",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/publicit\u00e9-contextuelle/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/publicit%C3%A9-contextuelle/publicit%C3%A9-contextuelle/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/publicit%C3%A9-contextuelle/publicit%C3%A9-contextuelle/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/publicit%C3%A9-contextuelle/publicit%C3%A9-contextuelle/blogs.json"
+    },
+    "items": {
+        "youtube.com/2013/02/techdays-les-objets-connect%C3%A9s-sous-windows-14-02": {
+            "title": "TechDays: les objets connect\u00e9s sous Windows (14/02)...",
+            "snippet": "TechDays: les objets connect\u00e9s sous Windows (14/02) Windows Embeded, ce sont des syst\u00e8mes d'exploitation Microsoft utilis\u00e9s dans les syst\u00e8mes embarqu\u00e9s. D\u00e9monstration de deux innovations \u00e0 venir: un syst\u00e8me de publicit\u00e9 contextuelle...",
+            "date": "2013-02-14",
+            "author_name": "01netTV",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2013/02/techdays-les-objets-connect%C3%A9s-sous-windows-14-02",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=publicit%C3%A9%2Bcontextuelle%2Bpublicit%C3%A9%2Bcontextuelle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=p0D7Lp0Rjwg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/p0D7Lp0Rjwg/0.jpg"
+        }
+    }
+}
