@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "jeux-videos",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeux-videos/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/blogs.json"
+    },
+    "items": {
+        "anthonydeleener.wordpress.com/2015/03/les-jeux-vid%C3%A9os-n%C3%A9faste": {
+            "title": "les jeux vid\u00e9os n\u00e9faste ou pas?",
+            "snippet": "Dans la soci\u00e9t\u00e9 actuelle les jeux vid\u00e9os sont omnipr\u00e9sent, les jeunes y jouent de plus en plus t\u00f4t mais cela est-il bon pour eux ou n\u00e9faste? C'est...",
+            "date": "2015-03-20",
+            "author_name": "Drakosis",
+            "tags": "jeux",
+            "recuweb_url": "http://fr.recuweb.com/anthonydeleener.wordpress.com/2015/03/les-jeux-vid%C3%A9os-n%C3%A9faste",
+            "resource_url": "http://fr.search.wordpress.com/?q=jeux%2Bvideos%2Bjeux%2Bvideos&f=feed&page=1",
+            "source_url": "http://anthonydeleener.wordpress.com/2015/03/20/les-jeux-videos-nefaste-ou-pas/"
+        }
+    }
+}
