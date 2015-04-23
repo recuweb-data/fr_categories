@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "manifestations-f\u00e9ministes",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/manifestations-f\u00e9ministes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/manifestations-f%C3%A9ministes/manifestations-f%C3%A9ministes/blogs.json"
+    },
+    "items": {
+        "youtube.com/2013/04/les-femen-la-v%C3%A9rit%C3%A9-sur-ces-soit-disant-f%C3%A9ministes-en-france": {
+            "title": "Les Femen La V\u00c9RIT\u00c9 sur ces soit disant F\u00e9ministes - Femen en France et leurs Manifestations...",
+            "snippet": "Les Femen La V\u00c9RIT\u00c9 sur ces \"soit disant\" F\u00e9ministes - Femen en France et leurs Manifestations Tout est dit, dans le titre. Alain Soral d\u00e9crypte et r\u00e9v\u00e8le la face cach\u00e9 du mouvement \"f\u00e9ministe\" des Femen. - Quel est le v\u00e9ritable projet de...",
+            "date": "2013-04-03",
+            "author_name": "xProuzzer",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2013/04/les-femen-la-v%C3%A9rit%C3%A9-sur-ces-soit-disant-f%C3%A9ministes-en-france",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=manifestations%2Bf%C3%A9ministes%2Bmanifestations%2Bf%C3%A9ministes&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=03uztgGhxYM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/03uztgGhxYM/0.jpg"
+        }
+    }
+}
