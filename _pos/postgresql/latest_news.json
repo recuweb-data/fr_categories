@@ -1,0 +1,99 @@
+{
+    "meta": {
+        "portal_name": "postgresql",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/postgresql/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
+    },
+    "items": {
+        "zdnet.fr/2015/03/applications-packag%C3%A9es-google-copie-ovh-en-mieux": {
+            "title": "Applications packag\u00e9es: Google copie OVH, en mieux...",
+            "snippet": "C\u00f4t\u00e9 base de donn\u00e9es, MongoDB, MySQL et PostgreSQL sont pr\u00e9sents. Enfin, la biblioth\u00e8que applicative recense Wordpress, Drupal, JasperReports, Joomla ou encore SugarCRM. Dans le d\u00e9tail, on note la pr\u00e9sence de 23 briques dinfrastructure...",
+            "date": "2015-03-27",
+            "categories": "google,mysql,wordpress,drupal,joomla",
+            "tags": "base,donn\u00e9es,mongodb,mysql,gresql",
+            "recuweb_url": "http://fr.recuweb.com/joomla/zdnet.fr/2015/03/applications-packag%C3%A9es-google-copie-ovh-en-mieux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://zdnet.fr/actualites/applications-packagees-google-copie-ovh-en-mieux-39817068.htm"
+        },
+        "linuxfr.org/2015/03/ouverture-des-inscriptions-au-pgday-paris-du-21-avril-2015-linuxfr": {
+            "title": "Ouverture des inscriptions au pgDay Paris du 21 avril 2015 - LinuxFr...",
+            "snippet": "Ouverture des inscriptions au pgDay Paris du 21 avril 2015LinuxFr... d'\u00e9changes organis\u00e9e par la communaut\u00e9 fran\u00e7aise de PostgreSQL. Un ensemble de pr\u00e9sentations en anglais et en fran\u00e7ais vous sera propos\u00e9, couvrant des sujets techniques...",
+            "date": "2015-03-25",
+            "tags": "techniques,gresql",
+            "recuweb_url": "http://fr.recuweb.com/linuxfr.org/2015/03/ouverture-des-inscriptions-au-pgday-paris-du-21-avril-2015-linuxfr",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "source_url": "http://linuxfr.org/news/ouverture-des-inscriptions-au-pgday-paris-du-21-avril-2015"
+        },
+        "emploi.silicon.fr/2015/03/alternance-d%C3%A9veloppement-d-interfaces-avec-des-codes-de-calculs": {
+            "title": "Alternance - D\u00e9veloppement d'interfaces avec des codes de calculs dans le d - Stage conventionn\u00e9...",
+            "snippet": "Vous connaissez les techniques de programmation Objet (C/Qt), Web (PHP/Zend), les bases de donn\u00e9es (Oracle, SQL Server, PostgreSQL). Vous faites preuve d'autonomie, de curiosit\u00e9, de rigueur.",
+            "date": "2015-03-24",
+            "categories": "php",
+            "tags": "sql,sql_server,server,techniques,stage,objet,php,zend,bases,donn\u00e9es,gresql",
+            "recuweb_url": "http://fr.recuweb.com/php/emploi.silicon.fr/2015/03/alternance-d%C3%A9veloppement-d-interfaces-avec-des-codes-de-calculs",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/336685/alternance-developpement-dinterfaces-avec-des-codes-de-calculs-dans-le-d/"
+        },
+        "programmez.com/2015/03/offre-d-emploi": {
+            "title": "Offre d'emploi...",
+            "snippet": "D\u00e9finition de la configuration des services en ad\u00e9quation avec l'exploitation (Tomcat/Apache/Firebird/PostgreSQL etc...). Mise en place d'outils pour la s\u00e9curisation des serveurs (R\u00e9plications/Clustering...) Mise en place d'outils pour le...",
+            "date": "2015-03-24",
+            "categories": "place,emploi",
+            "tags": "apache,gresql,mise",
+            "recuweb_url": "http://fr.recuweb.com/emploi/programmez.com/2015/03/offre-d-emploi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://programmez.com/emploi-detail/JHR1XR5YMLPK2HZKNSZ"
+        },
+        "capcampus.com/2015/03/h-f-d%C3%A9veloppeur-python": {
+            "title": "H/F D\u00e9veloppeur python...",
+            "snippet": "Flask, Django, Gevent HTML5, CSS3, jQuery et autres librairies JS Processing asynchrones et message queuing nginx, Apache MongoDB, MySQL, PostgreSQL, MS SQL Server, memcached Gentoo Linux Git...",
+            "date": "2015-03-20",
+            "categories": "css,jquery,mysql",
+            "tags": "sql,sql_server,server,apache,mongodb,nginx,processing,mysql,gresql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/capcampus.com/2015/03/h-f-d%C3%A9veloppeur-python",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://capcampus.com/emploi-20/h-f-developpeur-python-e889580.htm"
+        },
+        "admin-magazin.de/2015/03/amazon-rds-bietet-postgresql-9-4-admin-magazin": {
+            "title": "Amazon RDS bietet PostgreSQL 9.4 - ADMIN-Magazin...",
+            "snippet": "Amazon RDS bietet PostgreSQL RDS, der Datenbankdienst der Amazon-Cloud, bietet ab sofort Support f\u00fcr PostgreSQL 9.4. Die aktuelle Version des freien relationalen Datenbanksystems wurde Ende letzten Jahres ver\u00f6ffentlicht. Ein herausragendes Feature...",
+            "date": "2015-03-19",
+            "tags": "gresql,admin,support",
+            "recuweb_url": "http://fr.recuweb.com/admin-magazin.de/2015/03/amazon-rds-bietet-postgresql-9-4-admin-magazin",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://admin-magazin.de/News/Amazon-RDS-bietet-PostgreSQL-9.4"
+        },
+        "datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami": {
+            "title": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQL - Datanami...",
+            "snippet": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQLDatanamiFujitsu Laboratories last week announced that it's developed a column-oriented data storage and processing engine that can quickly analyze large amounts of data stored on a...",
+            "date": "2015-03-06",
+            "tags": "data,processing,gresql",
+            "recuweb_url": "http://fr.recuweb.com/datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "source_url": "http://datanami.com/2015/03/04/fujitsu-adding-column-oriented-processing-engine-to-postgresql/"
+        },
+        "globalsecuritymag.fr/2015/03/vigilnce-zend-framework-injection-sql-de-postgresql-zenddb": {
+            "title": "Vigilnce - Zend Framework: injection SQL de PostgreSQL ZendDb...",
+            "snippet": "Ladaptateur PostgreSQL ZendDb peut \u00eatre install\u00e9 sur Zend Framework. Cependant, les donn\u00e9es provenant de lutilisateur sont directement ins\u00e9r\u00e9es dans une requ\u00eate SQL. Un attaquant peut donc provoquer une injection SQL dans PostgreSQL ZendDb...",
+            "date": "2015-03-06",
+            "tags": "gresql,zend,sql,donn\u00e9es",
+            "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/03/vigilnce-zend-framework-injection-sql-de-postgresql-zenddb",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Zend-Framework-injection,20150306,51326.html"
+        },
+        "journaldunet.com/2014/12/postgresql-vers-une-admin-stack-compl%C3%A8te-jdn": {
+            "title": "PostgreSQL: vers une admin stack compl\u00e8te - JDN...",
+            "snippet": "PostgreSQL: vers une admin stack compl\u00e8teJDNS\u00e9duites par l'extensibilit\u00e9, la s\u00e9curit\u00e9 et la maturit\u00e9 de la solution, de plus en plus d'entreprises et d'administrations publiques migrent vers PostgreSQL et des organisations aussi vari\u00e9es que...",
+            "date": "2014-12-15",
+            "tags": "admin,gresql",
+            "recuweb_url": "http://fr.recuweb.com/journaldunet.com/2014/12/postgresql-vers-une-admin-stack-compl%C3%A8te-jdn",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "source_url": "http://journaldunet.com/developpeur/expert/59445/postgresql---vers-une-admin-stack-complete.shtml"
+        }
+    }
+}
