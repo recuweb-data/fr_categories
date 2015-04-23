@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "portal_name": "sculpture",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sculpture/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/blogs.json"
+    },
+    "items": {
+        "actualites.sympatico.ca/2015/04/des-sculptures-danimaux-avec-%C3%A9quipements-de-ferme-r%C3%A9cup%C3%A9r%C3%A9s": {
+            "title": "Des sculptures danimaux avec des \u00e9quipements de ferme r\u00e9cup\u00e9r\u00e9s...",
+            "snippet": "Quelle magnifique id\u00e9e de r\u00e9cup\u00e9ration. Lartiste John Lopez utilise de la ferraille d\u00e9quipements de ferme pour cr\u00e9er dincroyables sculptures danimaux, de ferme ou dautres milieux, comme des buffles, des chevaux, des vaches, des b\u00e9liers...",
+            "date": "2015-04-12",
+            "categories": "sculpture",
+            "tags": "magnifique,sculptures",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/actualites.sympatico.ca/2015/04/des-sculptures-danimaux-avec-%C3%A9quipements-de-ferme-r%C3%A9cup%C3%A9r%C3%A9s",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://actualites.sympatico.ca/culture/sculptures-animaux-ferme"
+        },
+        "fr.news.yahoo.com/2015/03/la-sculpture-de-juan-carlos-qui-bouleverse-l-espagne": {
+            "title": "La sculpture de Juan Carlos qui bouleverse l'Espagne...",
+            "snippet": "ART - Depuis quelques jours, l'Espagne est boulevers\u00e9e par une exposition controvers\u00e9e montrant une sculpture de l'ancien roi d'Espagne, Juan Carlos, en train d'\u00eatre sodomis\u00e9 symboliquement.",
+            "date": "2015-03-23",
+            "categories": "sculpture",
+            "tags": "\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,juan,juan_carlos,carlos,sculpture,espagne,art,jours",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/fr.news.yahoo.com/2015/03/la-sculpture-de-juan-carlos-qui-bouleverse-l-espagne",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sculpture",
+            "source_url": "http://fr.news.yahoo.com/sculpture-juan-carlos-fait-pol\u00e9mique-110640711.html"
+        },
+        "fr-ca.actualites.yahoo.com/2015/03/espagne-un-mus%C3%A9e-expose-une-sculpture-pol%C3%A9mique-du-roi-juan-carlos": {
+            "title": "Espagne: un mus\u00e9e expose une sculpture pol\u00e9mique du roi Juan Carlos...",
+            "snippet": "Une exposition controvers\u00e9e montrant une sculpture de l'ancien roi d'Espagne Juan Carlos en position d'\u00eatre sodomis\u00e9 a finalement ouvert ses portes ce week-end au Mus\u00e9e d'art contemporain de Barcelone (MACBA), son directeur \u00e9tant revenu sur sa...",
+            "date": "2015-03-22",
+            "categories": "sculpture",
+            "tags": "\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,juan,juan_carlos,carlos,espagne,sculpture,art",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/fr-ca.actualites.yahoo.com/2015/03/espagne-un-mus%C3%A9e-expose-une-sculpture-pol%C3%A9mique-du-roi-juan-carlos",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sculpture",
+            "source_url": "http://fr-ca.actualites.yahoo.com/espagne-un-mus\u00e9e-expose-une-sculpture-pol\u00e9mique-du-134715846.html"
+        }
+    }
+}
