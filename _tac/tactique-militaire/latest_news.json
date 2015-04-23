@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "tactique-militaire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/tactique-militaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/tactique-militaire/tactique-militaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/tactique-militaire/tactique-militaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tactique-militaire/tactique-militaire/blogs.json"
+    },
+    "items": {
+        "agoravox.fr/2015/04/catacombes-sentimentales-les-rancoeurs-charitables-agoravox": {
+            "title": "Catacombes sentimentales: les rancoeurs charitables - AgoraVox...",
+            "snippet": "AgoraVoxCatacombes sentimentales: les rancoeurs charitablesAgoraVoxC'est de la c\u0153liochirurgie, de la microchirurgie militaire. Des guerres propres, sans bavures... C'est une s\u00e9paration tactique antiseptique, une marginalisation s\u00e9curitaire...",
+            "date": "2015-04-22",
+            "tags": "militaire,tactique",
+            "recuweb_url": "http://fr.recuweb.com/agoravox.fr/2015/04/catacombes-sentimentales-les-rancoeurs-charitables-agoravox",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tactique%2Bmilitaire&output=atom&nord=1",
+            "source_url": "http://agoravox.fr/culture-loisirs/parodie/article/catacombes-sentimentales-les-166004"
+        }
+    }
+}
