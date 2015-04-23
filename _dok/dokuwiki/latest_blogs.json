@@ -1,0 +1,47 @@
+{
+    "meta": {
+        "portal_name": "dokuwiki",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/dokuwiki/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/dokuwiki/dokuwiki/blogs.json"
+    },
+    "items": {
+        "forum.dokuwiki.org/2015/04/edition-de-page-dokuwiki-user-forum": {
+            "title": "Edition de page - DokuWiki User Forum...",
+            "snippet": "Bonjour, je souhaite faire un wiki vraiment exactement de la meme facon que fonctionne wikipedia mais uniquement sur la gastronomie. J'adore la fa\u00e7on dont on peut modifier les pages sur wikipedia, l'ent\u00eate n'est pas...",
+            "date": "2015-04-13",
+            "author_name": "no_email@example.com (cloterus)",
+            "categories": "dokuwiki,wiki",
+            "tags": "meme,souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,bonjour,wiki",
+            "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/04/edition-de-page-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/post/47920;?unb855sess=52649sjq6ol6jv9dkim6rf24j5"
+        },
+        "forum.dokuwiki.org/2015/03/cr%C3%A9ation-de-deux-wiki-dokuwiki-user-forum": {
+            "title": "Cr\u00e9ation de deux wiki - DokuWiki User Forum...",
+            "snippet": "Bonjour, Je souhaite cr\u00e9er 2 wiki: un pour le service QSE un pour le service Informatique Est ce que j'ai besoin de faire une seule installation de dokuwiki ou deux installations dans deux dossiers diff\u00e9rents??? Evidemment...",
+            "date": "2015-03-04",
+            "author_name": "no_email@example.com (lpawel)",
+            "categories": "dokuwiki,wiki",
+            "tags": "souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,wiki,bonjour",
+            "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/03/cr%C3%A9ation-de-deux-wiki-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/12326"
+        },
+        "forum.dokuwiki.org/2014/02/securite-masquer-le-menu-gestionnaire-de-forum-dokuwiki": {
+            "title": "SECURITE Masquer le menu 'Gestionnaire de... - Forum - DokuWiki...",
+            "snippet": "(Je pr\u00e9cise que la configuration de mon dokuwiki implique une authentification pour sa consulation) J'irais meme a prenser que cette option ne devrait apparaitre que pour les membres ayant une permission de modifications...",
+            "date": "2014-02-10",
+            "author_name": "no_email@example.com (wild-dagger)",
+            "categories": "dokuwiki",
+            "tags": "meme,forum,dokuwiki",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/forum.dokuwiki.org/2014/02/securite-masquer-le-menu-gestionnaire-de-forum-dokuwiki",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/10853"
+        }
+    }
+}
