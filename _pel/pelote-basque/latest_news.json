@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "pelote-basque",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/pelote-basque/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/pelote-basque/pelote-basque/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/pelote-basque/pelote-basque/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelote-basque/pelote-basque/blogs.json"
+    },
+    "items": {
+        "sudouest.fr/2015/04/ospital-dicte-sa-loi": {
+            "title": "Ospital dicte sa loi...",
+            "snippet": "Dimanche apr\u00e8s-midi, il a \u00e9chou\u00e9 pour la cinqui\u00e8me fois. Publicit\u00e9 Est-ce l'ambiance tr\u00e8s particuli\u00e8re du Trinquet Moderne de Bayonne, v\u00e9ritable temple de la pelote basque? Ou plut\u00f4t la raret\u00e9 des parties de haut niveau que l'Andr\u00e9sien...",
+            "date": "2015-04-13",
+            "tags": "trinquet,dimanche,midi,pelote,basque",
+            "recuweb_url": "http://fr.recuweb.com/sudouest.fr/2015/04/ospital-dicte-sa-loi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pelote%2Bbasque&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/04/14/ospital-dicte-sa-loi-1890849-4018.php"
+        },
+        "sudouest.fr/2015/04/pelote-basque-harismendy-esp%C3%A8re-ne-pas-servir-d-exemple-sud-ouest": {
+            "title": "Pelote basque: Harismendy esp\u00e8re ne pas servir d'exemple - Sud Ouest...",
+            "snippet": "Pelote basque: Harismendy esp\u00e8re ne pas servir d'exemple Sud OuestCette affaire fait du bruit et dans le monde de la pelote, certains pourraient ne pas comprendre. J'esp\u00e8re ne pas servir d'exemple. Dans quel \u00e9tat d'esprit \u00eates-vous actuellement?",
+            "date": "2015-04-06",
+            "tags": "pelote,basque",
+            "recuweb_url": "http://fr.recuweb.com/sudouest.fr/2015/04/pelote-basque-harismendy-esp%C3%A8re-ne-pas-servir-d-exemple-sud-ouest",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelote%2Bbasque%2Bpelote%2Bbasque&output=atom&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/06/j-espere-ne-pas-servir-d-exemple-1882993-4578.php"
+        },
+        "ladepeche.fr/2015/04/un-week-end-de-pelote-basque": {
+            "title": "Un week-end de pelote basque -...",
+            "snippet": "week-end de pelote championnat du Gers de pelote basque vient de s'achever ce week-end avec les finales de 4e s\u00e9rie o\u00f9 Mirande, repr\u00e9sent\u00e9e par. Astugues, s'est inclin\u00e9e devant Masseube. Ce championnat n'aura pas vu d'\u00e9quipe mirandaise...",
+            "date": "2015-04-04",
+            "tags": "pelote,basque",
+            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/un-week-end-de-pelote-basque",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelote%2Bbasque%2Bpelote%2Bbasque&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/04/2080807-un-week-end-de-pelote-basque.html"
+        },
+        "gazettevaldoise.fr/2015/03/saint-brice-sous-for%C3%AAt-pelote-basque-tournoi-au-trinquet": {
+            "title": "Saint-Brice-sous-For\u00eat Pelote basque: tournoi au trinquet de Saint... - La Gazette du Val d'Oise...",
+            "snippet": "Saint-Brice-sous-For\u00eat Pelote basque: tournoi au trinquet de Saint... - La Gazette du Val d'Oise...",
+            "date": "2015-03-26",
+            "tags": "tournoi,pelote,basque,trinquet",
+            "recuweb_url": "http://fr.recuweb.com/gazettevaldoise.fr/2015/03/saint-brice-sous-for%C3%AAt-pelote-basque-tournoi-au-trinquet",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelote%2Bbasque%2Bpelote%2Bbasque&output=atom&nord=1",
+            "source_url": "http://gazettevaldoise.fr/breves/pelote-basque-tournoi-au-trinquet-de-saint-brice-dimanche-12-avril_12838"
+        }
+    }
+}
