@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "triple-saut",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/triple-saut/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/blogs.json"
+    },
+    "items": {
+        "larepublique77.fr/2015/03/en-triple-saut-melvin-raffin-vise-toujours-plus-loin-r%C3%A9publique-seine": {
+            "title": "En triple saut, Melvin Raffin vise toujours plus loin - R\u00e9publique Seine-et-Marne...",
+            "snippet": "R\u00e9publique Seine-et-MarneEn triple saut, Melvin Raffin vise toujours plus loinR\u00e9publique Seine-et-MarneChampion de France cadet de triple saut, le Savignien Melvin Raffin a re\u00e7u le troph\u00e9e de l'espoir qui r\u00e9compense les meilleurs jeunes...",
+            "date": "2015-03-30",
+            "tags": "triple,saut,france",
+            "recuweb_url": "http://fr.recuweb.com/larepublique77.fr/2015/03/en-triple-saut-melvin-raffin-vise-toujours-plus-loin-r%C3%A9publique-seine",
+            "resource_url": "http://news.google.fr/?hl=fr&q=triple%2Bsaut%2Btriple%2Bsaut&output=atom&nord=1",
+            "source_url": "http://larepublique77.fr/2015/03/30/en-triple-saut-melvin-raffin-vise-toujours-plus-loin/"
+        }
+    }
+}
