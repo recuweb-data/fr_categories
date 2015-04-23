@@ -1,0 +1,133 @@
+{
+    "meta": {
+        "portal_name": "microblog",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/microblog/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2013/08/chine-d%C3%A9but-du-proc%C3%A8s-de-bo-xilai-le-prince-rouge": {
+            "title": "Chine: d\u00e9but du proc\u00e8s de Bo Xilai, le prince rouge...",
+            "snippet": "Le proc\u00e8s de Bo Xilai s'est ouvert sous le contr\u00f4le \u00e9troit des autorit\u00e9s chinoises. Le compte-rendu des d\u00e9bats n'est accessible que par des microblogs diffus\u00e9s par la cour et la presse \u00e9trang\u00e8re n'a pas \u00e9t\u00e9 admise dans la salle d'audience.",
+            "date": "2013-08-22",
+            "author_name": "euronews-fr",
+            "categories": "microblog",
+            "tags": "microblogs,presse,autorit\u00e9s,autorit\u00e9s-chinoises,chinoises,chine",
+            "recuweb_url": "http://fr.recuweb.com/microblog/dailymotion.com/2013/08/chine-d%C3%A9but-du-proc%C3%A8s-de-bo-xilai-le-prince-rouge",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x13h1q6_chine-debut-du-proces-de-bo-xilai-le-prince-rouge_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x13h1q6_chine-debut-du-proces-de-bo-xilai-le-prince-rouge_news"
+        },
+        "dailymotion.com/2013/05/yahoo-s-offre-tumblr": {
+            "title": "Yahoo s'offre Tumblr...",
+            "snippet": "20/05/2013 Comme soup\u00e7onn\u00e9 ce week-end, Tumblr devient bien propri\u00e9t\u00e9 de Yahoo! Le moteur de recherche a officialis\u00e9 le rachat du microblog ce lundi, contre environ 850 millions d': NYFPTags: blog clubic nyfpbourse24tv nyfptechos Sebastien...",
+            "date": "2013-05-20",
+            "author_name": "NYFP",
+            "categories": "moteur-de-recherche,microblog,yahoo,tumblr",
+            "tags": "millions,contre,microblog,comme",
+            "recuweb_url": "http://fr.recuweb.com/tumblr/dailymotion.com/2013/05/yahoo-s-offre-tumblr",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x10232x_yahoo-s-offre-tumblr_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x10232x_yahoo-s-offre-tumblr_news"
+        },
+        "youtube.com/2012/02/les-internautes-refusent-de-donner-leur-identit%C3%A9-en-ligne": {
+            "title": "Les internautes refusent de donner leur identit\u00e9 en ligne...",
+            "snippet": "Les internautes refusent de donner leur identit\u00e9 en ligne R\u00e9cemment, le Bureau de la presse du conseil d'\u00e9tat communiste chinois a exig\u00e9 que les internautes utilisent leur v\u00e9ritable identit\u00e9 pour s'inscrire sur les microblogs comme Weibo.",
+            "date": "2012-02-04",
+            "author_name": "NTDFrench",
+            "categories": "microblog",
+            "tags": "microblogs,comme,presse",
+            "recuweb_url": "http://fr.recuweb.com/microblog/youtube.com/2012/02/les-internautes-refusent-de-donner-leur-identit%C3%A9-en-ligne",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=LrNa2Xwn8Gg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LrNa2Xwn8Gg/0.jpg"
+        },
+        "dailymotion.com/2011/12/les-microblogs-vis%C3%A9s-par-la-censure-informatique": {
+            "title": "Les microblogs vis\u00e9s par la censure informatique...",
+            "snippet": "Les autorit\u00e9s chinoises ont d\u00e9clar\u00e9 avoir ferm\u00e9 plus de 200 comptes de microblog sur Internet en raison de leur contenu vulgaire. Mais selon les observateurs, le r\u00e9gime a utilis\u00e9 cette campagne de r\u00e9pression de la pornographie sur Internet...",
+            "date": "2011-12-23",
+            "author_name": "NTDFrancais",
+            "categories": "microblog,internet",
+            "tags": "microblogs,autorit\u00e9s,autorit\u00e9s-chinoises,chinoises,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2011/12/les-microblogs-vis%C3%A9s-par-la-censure-informatique",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/xn7fwk_les-microblogs-vises-par-la-censure-informatique_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xn7fwk_les-microblogs-vises-par-la-censure-informatique_news"
+        },
+        "youtube.com/2011/11/un-amour-vache": {
+            "title": "Un amour vache...",
+            "snippet": "Un amour vache Premi\u00e8re vid\u00e9o faite avec GoAnimate!!! D\u00e9sol\u00e9 pour les voix de robots mais je savais pas comment faire pour enregistrer leur voix avec ma voix (avec un micro)!!! Blog Skyrock: dgb9... From: DGB9743323 Views: 1142 3 ratings Time:...",
+            "date": "2011-11-13",
+            "author_name": "DGB9743323",
+            "tags": "micro",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2011/11/un-amour-vache",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Y0E5hOcHDe4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Y0E5hOcHDe4/0.jpg"
+        },
+        "youtube.com/2011/03/tech-24-twitter-5-ans-et-de-grandes-ambitions": {
+            "title": "TECH 24: Twitter - 5 ans et de grandes ambitions...",
+            "snippet": "TECH 24: Twitter - 5 ans et de grandes ambitions Twitter f\u00eate ses 5 ans. Avec 210 millions d'utilisateurs dans le monde, le petit oiseau bleu est devenu grand. Christophe Ramel, aka Kriisis, d\u00e9crypte l'ascension du site de micro blog sur... From:...",
+            "date": "2011-03-24",
+            "author_name": "FRANCE 24",
+            "categories": "microblog,twitter",
+            "tags": "micro,millions,twitter",
+            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2011/03/tech-24-twitter-5-ans-et-de-grandes-ambitions",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=yHnb88YWcew&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/yHnb88YWcew/0.jpg"
+        },
+        "youtube.com/2011/02/un-microblog-pour-enfants-kidnapp%C3%A9s-en-chine": {
+            "title": "Un microblog pour enfants kidnapp\u00e9s en Chine...",
+            "snippet": "Un microblog pour enfants kidnapp\u00e9s en Chine Ces derni\u00e8rs ann\u00e9es, les microblogs, des sites sur Internet permettant la diffusion de courts messages d'informations, comme Twitter par exemple, sont devenus tr\u00e8s populaires. En Chine,... From:...",
+            "date": "2011-02-24",
+            "author_name": "NTDFrench",
+            "categories": "microblog,internet,twitter",
+            "tags": "microblogs,microblog,chine,internet,comme,twitter",
+            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2011/02/un-microblog-pour-enfants-kidnapp%C3%A9s-en-chine",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=6WSeVk-TgUE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/6WSeVk-TgUE/0.jpg"
+        },
+        "dailymotion.com/2008/11/pittbull-contre-une-branche-d-arbre": {
+            "title": "Pittbull contre une branche d'arbre...",
+            "snippet": "merci pour vos commentaires sur mon microblogAuthor: B1ouB1Tags: pittbull chien humour dr\u00f4le Posted: 30 November 2008Rating:: 0...",
+            "date": "2008-11-30",
+            "author_name": "B1ouB1",
+            "categories": "humour",
+            "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,contre,microblogauthor,oub,tags",
+            "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/pittbull-contre-une-branche-d-arbre",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x7kcsy_pittbull-contre-une-branche-d-arbre_animals",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcsy_pittbull-contre-une-branche-d-arbre_animals"
+        },
+        "dailymotion.com/2008/11/boire-une-bi%C3%A8re-coup-sec": {
+            "title": "boire une bi\u00e8re coup sec...",
+            "snippet": "merci pour vos commentaires sur mon microblogAuthor: B1ouB1Tags: bi\u00e8re humour dr\u00f4le Posted: 30 November 2008Rating:: 0...",
+            "date": "2008-11-30",
+            "author_name": "B1ouB1",
+            "categories": "humour",
+            "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
+            "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/boire-une-bi%C3%A8re-coup-sec",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x7kcqr_boire-une-biere-coup-sec_fun",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcqr_boire-une-biere-coup-sec_fun"
+        },
+        "dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur": {
+            "title": "le cam\u00e9lion rappeur...",
+            "snippet": "merci pour vos commentaires sur mon microblogAuthor: B1ouB1Tags: cam\u00e9l\u00e9on rap humour dr\u00f4le Posted: 30 November 2008Rating:: 0...",
+            "date": "2008-11-30",
+            "author_name": "B1ouB1",
+            "categories": "humour",
+            "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
+            "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x7kcq8_le-camelion-rappeur_animals",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcq8_le-camelion-rappeur_animals"
+        }
+    }
+}
