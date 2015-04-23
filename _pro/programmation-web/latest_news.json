@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "programmation-web",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/programmation-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/blogs.json"
+    },
+    "items": {
+        "globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global": {
+            "title": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web... - Global Security Mag...",
+            "snippet": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web...Global Security MagQualys WAF bloque en temps r\u00e9el les attaques contre les sites Web. Ce service d\u00e9ploie un bouclier contre les d\u00e9fauts de programmation, les failles au sein de...",
+            "date": "2015-04-22",
+            "tags": "applications,web,programmation",
+            "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global",
+            "resource_url": "http://news.google.fr/?hl=fr&q=programmation%2Bweb%2Bprogrammation%2Bweb&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451.html"
+        },
+        "macplus.net/2015/04/sparkle-corrige-ses-bogues-et-sam%C3%A9liore": {
+            "title": "Sparkle corrige ses bogues et sam\u00e9liore...",
+            "snippet": "Pour les d\u00e9\u00e7us diWeb (quApple ne maintient plus depuis des ann\u00e9es) et d\u00e9sirant un logiciel performant pour monter un site web sans connaissances particuli\u00e8res des rouages de la programmation web, Sparkle remplit cet objectif avec brio.",
+            "date": "2015-04-15",
+            "categories": "connaissance",
+            "tags": "sans,site,web,programmation",
+            "recuweb_url": "http://fr.recuweb.com/connaissance/macplus.net/2015/04/sparkle-corrige-ses-bogues-et-sam%C3%A9liore",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=programmation%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://macplus.net/depeche-83456-sparkle-corrige-ses-bogues-et-s-ameliore"
+        }
+    }
+}
