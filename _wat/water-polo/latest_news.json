@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "portal_name": "water-polo",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/water-polo/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/water-polo/water-polo/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/water-polo/water-polo/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/water-polo/water-polo/blogs.json"
+    },
+    "items": {
+        "sports.nice.fr/2015/03/l-%C3%A9quipe-de-france-water-polo-f%C3%A9minin-u17-triomphe-le-portail": {
+            "title": "L'\u00e9quipe de France de Water Polo F\u00e9minin U17 triomphe - Le portail des sports Nice C\u00f4te d'Azur...",
+            "snippet": "L'\u00e9quipe de France de Water Polo F\u00e9minin U17 triomphe - Le portail des sports Nice C\u00f4te d'Azur...",
+            "date": "2015-03-17",
+            "categories": "sport,water-polo",
+            "tags": "water,water_polo,polo,\u00e9quipe,france",
+            "recuweb_url": "http://fr.recuweb.com/water-polo/sports.nice.fr/2015/03/l-%C3%A9quipe-de-france-water-polo-f%C3%A9minin-u17-triomphe-le-portail",
+            "resource_url": "http://news.google.fr/?hl=fr&q=water%2Bpolo&output=atom&nord=1",
+            "source_url": "http://sports.nice.fr/l-equipe-de-france-de-water-polo,6433.html"
+        },
+        "libertebonhomme.fr/2015/03/water-polo-h%C3%A9rouville-ou-la-ran%C3%A7on-du-succ%C3%A8s": {
+            "title": "Water-polo. H\u00e9rouville ou la ran\u00e7on du succ\u00e8s...",
+            "snippet": "Johann Paco aurait tout pour \u00eatre un entra\u00eeneur heureux. A lissue des trois premiers tournois de la saison, ses filles caracolent en t\u00eate de leur poule de Nationale 1, avec neuf succ\u00e8s en autant de rencontres disput\u00e9es, 173 buts inscrits...",
+            "date": "2015-03-13",
+            "tags": "water,polo",
+            "recuweb_url": "http://fr.recuweb.com/libertebonhomme.fr/2015/03/water-polo-h%C3%A9rouville-ou-la-ran%C3%A7on-du-succ%C3%A8s",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=water%2Bpolo&format=RSS&cc=fr",
+            "source_url": "http://libertebonhomme.fr/2015/03/13/water-polo-herouville-ou-la-rancon-du-succes/"
+        }
+    }
+}
