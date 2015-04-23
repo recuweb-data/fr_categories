@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "spamdexing",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/spamdexing/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/spamdexing/spamdexing/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/spamdexing/spamdexing/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/spamdexing/spamdexing/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2006/09/spamdexing-2-0": {
+            "title": "Spamdexing 2.0...",
+            "snippet": "Intervention de S\u00e9bastien Billard sur le Spamdexing version 2.0: Splog et Sping. Plus d'infos:: 1ere-positionTags: spamdexing web2.0 sebastien-billard conference business Posted: 01 October 2006Rating:: 0...",
+            "date": "2006-09-30",
+            "author_name": "1ere-position",
+            "categories": "spamdexing",
+            "recuweb_url": "http://fr.recuweb.com/spamdexing/dailymotion.com/2006/09/spamdexing-2-0",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/spamdexing+spamdexing/0?af=1",
+            "source_url": "http://dailymotion.com/video/xg8sb_spamdexing-2-0_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xg8sb_spamdexing-2-0_tech"
+        }
+    }
+}
