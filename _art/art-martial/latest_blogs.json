@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "portal_name": "art-martial",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/art-martial/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial/art-martial/blogs.json"
+    },
+    "items": {
+        "cotemanche.fr/2015/03/saint-l%C3%B4-le-body-karat%C3%A9-du-fitness-en-mode-art-martial": {
+            "title": "Saint-L\u00f4. Le body-karat\u00e9, du fitness en mode art martial - C\u00f4t\u00e9 Manche...",
+            "snippet": "Rassurez-vous, pas besoin de savoir ma\u00eetriser les arts martiaux pour y prendre du plaisir. Les mouvements de base du karat\u00e9 sont acquis au fil des s\u00e9ances: coup de poing en marteau, attaques de coude, coups de pied, etc.",
+            "date": "2015-03-10",
+            "author_name": "acapitaine",
+            "categories": "plaisir,arts",
+            "tags": "karat\u00e9,art,martial,arts,martiaux,base",
+            "recuweb_url": "http://fr.recuweb.com/arts/cotemanche.fr/2015/03/saint-l%C3%B4-le-body-karat%C3%A9-du-fitness-en-mode-art-martial",
+            "resource_url": "http://www.google.com/search?q=art%2Bmartial%2Bart%2Bmartial&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cotemanche.fr/2015/03/10/le-body-karate-du-fitness-en-mode-art-martial/"
+        },
+        "nsjiujitsu.wordpress.com/2015/02/le-jiu-jitsu": {
+            "title": "Le Jiu-Jitsu...",
+            "snippet": "Le jiu-jitsu est un art martial japonais d\u00e9velopp\u00e9 durant la p\u00e9riode f\u00e9odale du Japon. Cet art martial r\u00e9unit diff\u00e9rentes techniques de combat dans un objectif de ma\u00eetrise de []...",
+            "date": "2015-02-23",
+            "author_name": "jiujitsushy",
+            "tags": "ma\u00eetrise,techniques,jitsu,jiu,art,martial,japon,combat",
+            "recuweb_url": "http://fr.recuweb.com/nsjiujitsu.wordpress.com/2015/02/le-jiu-jitsu",
+            "resource_url": "http://fr.search.wordpress.com/?q=art%2Bmartial%2Bart%2Bmartial&f=feed&page=1",
+            "source_url": "http://nsjiujitsu.wordpress.com/le-jiu-jitsu/"
+        },
+        "hitmanknow.wordpress.com/2014/12/qu-est-ce-un-art-martial": {
+            "title": "Qu'est-ce qu'un art martial?",
+            "snippet": "Un art martial n'est pas un sport c'est une fa\u00e7on de se comporter, de se mouvoir, bien que la plupart le d\u00e9finisse comme un style ou une \u00e9cole...",
+            "date": "2014-12-06",
+            "author_name": "informateriel",
+            "categories": "sport",
+            "tags": "\u00e9cole,art,martial,comme",
+            "recuweb_url": "http://fr.recuweb.com/sport/hitmanknow.wordpress.com/2014/12/qu-est-ce-un-art-martial",
+            "resource_url": "http://fr.search.wordpress.com/?q=art%2Bmartial%2Bart%2Bmartial&f=feed&page=1",
+            "source_url": "http://hitmanknow.wordpress.com/quest-ce-quun-art-martial/"
+        }
+    }
+}
