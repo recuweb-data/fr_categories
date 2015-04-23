@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "escalade-glaciaire",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/escalade-glaciaire/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/escalade-glaciaire/escalade-glaciaire/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/escalade-glaciaire/escalade-glaciaire/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escalade-glaciaire/escalade-glaciaire/blogs.json"
+    },
+    "items": {
+        "pmsport-news.com/2012/02/d%C3%A9couverte-de-l-escalade-glaciaire-un-sport-extr%C3%AAme-qui-n%C3%A9cessite": {
+            "title": "D\u00e9couverte de l'escalade glaciaire; un sport extr\u00eame qui n\u00e9cessite...",
+            "snippet": "D\u00e9couverte de l'escalade glaciaire; un sport extr\u00eame qui n\u00e9cessite une pr\u00e9paration. Post\u00e9 par Philippe Morelle le 18 f\u00e9vrier 2012. Via PmSportNews. D\u00e9couverte de l'escalade glaciaire; un sport extr\u00eame qui n\u00e9cessite une...",
+            "date": "2012-02-18",
+            "author_name": "Curator",
+            "categories": "sport,escalade",
+            "tags": "escalade,glaciaire,f\u00e9vrier",
+            "recuweb_url": "http://fr.recuweb.com/escalade/pmsport-news.com/2012/02/d%C3%A9couverte-de-l-escalade-glaciaire-un-sport-extr%C3%AAme-qui-n%C3%A9cessite",
+            "resource_url": "http://www.google.com/search?q=escalade%2Bglaciaire%2Bescalade%2Bglaciaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://pmsport-news.com/decouverte-de-lescalade-glaciaire-un-sport-extreme-qui-necessite-une-preparation/1/"
+        }
+    }
+}
