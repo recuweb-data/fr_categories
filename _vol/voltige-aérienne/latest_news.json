@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "voltige-a\u00e9rienne",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/voltige-a\u00e9rienne/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/voltige-a%C3%A9rienne/voltige-a%C3%A9rienne/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/voltige-a%C3%A9rienne/voltige-a%C3%A9rienne/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/voltige-a%C3%A9rienne/voltige-a%C3%A9rienne/blogs.json"
+    },
+    "items": {
+        "ouest-france.fr/2015/02/a%C3%A9romod%C3%A9lisme-45-pilotes-se-retrouvent-au-meeting": {
+            "title": "A\u00e9romod\u00e9lisme: 45 pilotes se retrouvent au meeting...",
+            "snippet": "Comme les avions r\u00e9els, toutes leurs gouvernes (ailerons, profondeur, d\u00e9rives) sont fonctionnelles et permettent la pratique de la voltige a\u00e9rienne. Quarante-cinq pilotes repr\u00e9sentaient huit clubs: le RMCF, Les Ailes du Maine, Les Coucous du Val...",
+            "date": "2015-02-17",
+            "tags": "pilotes,meeting,voltige,a\u00e9rienne",
+            "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/02/a%C3%A9romod%C3%A9lisme-45-pilotes-se-retrouvent-au-meeting",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=voltige%2Ba%C3%A9rienne&format=RSS&cc=fr",
+            "source_url": "http://ouest-france.fr/aeromodelisme-45-pilotes-se-retrouvent-au-meeting-3196326"
+        },
+        "parismatch.com/2014/11/aude-lemordant-top-girl-paris-match": {
+            "title": "Aude Lemordant, Top Girl - Paris Match...",
+            "snippet": "Paris MatchAude Lemordant, Top GirlParis MatchUn stage de voltige a\u00e9rienne. Son coup de coeur d'autrefois se transforme en coup de foudre. En 2005, elle commence la comp\u00e9tition. En 2009, elle int\u00e8gre l'\u00e9quipe de France de voltige. D\u00e8s 2011,...",
+            "date": "2014-11-03",
+            "tags": "voltige,a\u00e9rienne",
+            "recuweb_url": "http://fr.recuweb.com/parismatch.com/2014/11/aude-lemordant-top-girl-paris-match",
+            "resource_url": "http://news.google.fr/?hl=fr&q=voltige%2Ba%C3%A9rienne&output=atom&nord=1",
+            "source_url": "http://parismatch.com/People/Sport/Aude-Lemordant-Top-Girl-644796"
+        }
+    }
+}
