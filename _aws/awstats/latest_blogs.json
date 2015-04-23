@@ -1,0 +1,124 @@
+{
+    "meta": {
+        "portal_name": "awstats",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/awstats/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
+    },
+    "items": {
+        "quel-hebergement-web.com/2015/02/awstats-qu-est-ce-que-c-le-guide-de-l-h%C3%A9bergement": {
+            "title": "AWStats, qu'est-ce que c'est? - Le guide de l'h\u00e9bergement...",
+            "snippet": "AWStats est un analyseur de logs qui s'inscrit dans la droite lign\u00e9e des Google Analytics et autres Statcounter.",
+            "date": "2015-02-26",
+            "author_name": "heberg",
+            "categories": "google,awstats",
+            "tags": "google,google_analytics,analytics,awstats,logs",
+            "recuweb_url": "http://fr.recuweb.com/awstats/quel-hebergement-web.com/2015/02/awstats-qu-est-ce-que-c-le-guide-de-l-h%C3%A9bergement",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://quel-hebergement-web.com/awstats-c-est-quoi/"
+        },
+        "aitibourek.wordpress.com/2012/12/installation-et-configuration-d-awstats-sous-debian-ait-ibourek": {
+            "title": "Installation et configuration d'awstats sous Debian AIT IBOUREK...",
+            "snippet": "AWstats est un outil permettant d'avoir des statistiques de fr\u00e9quentation des sites que l'on met en ligne via un serveur web: nombre de visiteurs, de pages vues, de clics,mots-clef utilis\u00e9s,... Outil tr\u00e8s pr\u00e9cieux et pr\u00e9sent...",
+            "date": "2012-12-21",
+            "author_name": "aitibourek",
+            "categories": "awstats",
+            "tags": "pages,visiteurs,via,serveur,statistiques,outil,debian,configuration,installation,awstats,web",
+            "recuweb_url": "http://fr.recuweb.com/awstats/aitibourek.wordpress.com/2012/12/installation-et-configuration-d-awstats-sous-debian-ait-ibourek",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://aitibourek.wordpress.com/2012/12/21/installation-et-configuration-dawstats-sous-debian/"
+        },
+        "technique.arscenic.org/2012/11/installation-et-configuration-de-base-d-awstats-documentation": {
+            "title": "Installation et configuration de base d'Awstats - Documentation...",
+            "snippet": "Installation L'installation de base car, m\u00eame s'il n'est pas dans sa derni\u00e8re version, Awstats est disponible dans les d\u00e9p\u00f4ts de base de Debian. On (...)...",
+            "date": "2012-11-16",
+            "author_name": "Quentin Drouet",
+            "categories": "awstats",
+            "tags": "installation,configuration,awstats,debian",
+            "recuweb_url": "http://fr.recuweb.com/awstats/technique.arscenic.org/2012/11/installation-et-configuration-de-base-d-awstats-documentation",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://technique.arscenic.org/monitoring/awstats/article/installation-et-configuration-de"
+        },
+        "em-corporation.fr/2012/04/awstats-installation-et-configuration-pour-postfix-les-m%C3%A9mos-d": {
+            "title": "Awstats Installation et configuration pour postfix Les m\u00e9mos d'un...",
+            "snippet": "Installation de awstats sous Squeeze: apt-get install awstats. Configuration de awstats pour postfix: cp/etc/awstats//etc/awstats/cp/usr/share/doc/awstats/examples//usr/share/awstats.",
+            "date": "2012-04-18",
+            "author_name": "Johan",
+            "categories": "awstats",
+            "tags": "install,configuration,awstats,installation,fix",
+            "recuweb_url": "http://fr.recuweb.com/awstats/em-corporation.fr/2012/04/awstats-installation-et-configuration-pour-postfix-les-m%C3%A9mos-d",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://em-corporation.fr/?p=609"
+        },
+        "adaltas.com/2011/08/interpr%C3%A9ter-les-statistiques-sous-typo3-avec-awstats-adaltas": {
+            "title": "Interpr\u00e9ter les statistiques sous Typo3 avec AWStats - Adaltas...",
+            "snippet": "Interpr\u00e9ter les statistiques sous Typo3 avec AWStats Aug 25th, 2011 Ce module est bas\u00e9 sur le logiciel AWStats et permet en autre de conna\u00eetre le...",
+            "date": "2011-08-25",
+            "author_name": "info@adaltas.com",
+            "categories": "awstats",
+            "tags": "logiciel,statistiques,awstats",
+            "recuweb_url": "http://fr.recuweb.com/awstats/adaltas.com/2011/08/interpr%C3%A9ter-les-statistiques-sous-typo3-avec-awstats-adaltas",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://adaltas.com/ressources/typo3/awstats.html"
+        },
+        "tavie.onsenfout.com/2011/01/statistiques-de-t%C3%A9l%C3%A9chargements-avec-awstats-ta-vie-on-s-en-fout": {
+            "title": "Statistiques de t\u00e9l\u00e9chargements avec AWStats Ta vie on s'en fout!",
+            "snippet": "Debian Lenny AWStats 6.7. Pour un site qui propose une section de t\u00e9l\u00e9chargements, les infos donn\u00e9es par AWStats dans la section Pages-URL sont un peu confuses, on y trouve aussi bien les hits vers des...",
+            "date": "2011-01-02",
+            "author_name": "Fran\u00e7ois",
+            "categories": "awstats",
+            "tags": "site,debian,awstats,fout,vie,statistiques,pages",
+            "recuweb_url": "http://fr.recuweb.com/awstats/tavie.onsenfout.com/2011/01/statistiques-de-t%C3%A9l%C3%A9chargements-avec-awstats-ta-vie-on-s-en-fout",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tavie.onsenfout.com/2011/01/02/stats-de-telechargements-avec-awstats/"
+        },
+        "tavie.onsenfout.com/2010/12/configurer-les-plugins-awstats-de-g%C3%A9olocalisation-ta-vie": {
+            "title": "Configurer les plugins AWStats de g\u00e9olocalisation - Ta vie on s'en fout!",
+            "snippet": "Comment installer les plugins AWStats geoip et geoip_city_maxmind pour une meilleur g\u00e9olocalisation des visiteurs d'un site web.",
+            "date": "2010-12-19",
+            "author_name": "Fran\u00e7ois",
+            "categories": "awstats",
+            "tags": "site,visiteurs,fout,vie,awstats,web",
+            "recuweb_url": "http://fr.recuweb.com/awstats/tavie.onsenfout.com/2010/12/configurer-les-plugins-awstats-de-g%C3%A9olocalisation-ta-vie",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tavie.onsenfout.com/2010/12/19/configurer-les-plugins-awstats-de-localisation-geographique/"
+        },
+        "blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats-le-blog": {
+            "title": "Analyser les logs de votre serveur Web avec AWStats - Le blog de...",
+            "snippet": "Nous allons donc dans ce billet mettre en place le logiciel AWStats pour qu'il analyse les logs g\u00e9n\u00e9r\u00e9s par un serveur Apache. La proc\u00e9dure est faire sur une distribution Ubuntu Server mais pourra tr\u00e8s bien \u00eatre adapt\u00e9...",
+            "date": "2010-09-13",
+            "author_name": "NicoLargo",
+            "categories": "place,awstats",
+            "tags": "server,proc\u00e9dure,serveur,analyse,logiciel,logs,web,awstats,apache",
+            "recuweb_url": "http://fr.recuweb.com/awstats/blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats-le-blog",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats.html"
+        },
+        "rootslabs.net/2010/08/rootslabs-awstats-exclure-une-ip-des-statistiques": {
+            "title": "RootsLabs AWStats: exclure une IP des statistiques...",
+            "snippet": "AWStats: exclure une IP des statistiques Progi1984 - Commentaires (0) Logiciel Libre. Comment exclure une IP ou un sous r\u00e9seau des statistiques AWStats? Voici la proc\u00e9dure: Ouvrir le fichier de configuration de votre site...",
+            "date": "2010-08-23",
+            "author_name": "Progi1984",
+            "categories": "awstats",
+            "tags": "configuration,site,proc\u00e9dure,statistiques,logiciel,libre,awstats",
+            "recuweb_url": "http://fr.recuweb.com/awstats/rootslabs.net/2010/08/rootslabs-awstats-exclure-une-ip-des-statistiques",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rootslabs.net/blog/56-awstats-exclure-une-ip-des-statistiques"
+        },
+        "system-linux.eu/2010/04/statistiques-et-analyse-de-log-avec-awstats-postfix-&-apache": {
+            "title": "Statistiques et analyse de log avec Awstats (postfix & apache...",
+            "snippet": "Garder un \u0153il sur son serveur web ou son serveur mail. AWStats est un outil d'analyse statistique. Programm\u00e9 en perl, il vous fournira une belle interface web et en fran\u00e7ais...",
+            "date": "2010-04-06",
+            "author_name": "GanGan",
+            "categories": "perl,awstats",
+            "tags": "analyse,statistiques,outil,serveur,mail,fix,apache,log,awstats,web",
+            "recuweb_url": "http://fr.recuweb.com/awstats/system-linux.eu/2010/04/statistiques-et-analyse-de-log-avec-awstats-postfix-&-apache",
+            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://system-linux.eu/index.php?post/2010/04/10/awstats"
+        }
+    }
+}
