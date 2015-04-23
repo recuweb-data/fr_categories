@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "basket-ball",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/basket-ball/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/basket-ball/basket-ball/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/basket-ball/basket-ball/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/basket-ball/basket-ball/blogs.json"
+    },
+    "items": {
+        "sport365.fr/2015/04/basketball-euroleague-de-colo-et-le-cska-en-feu-fenerbahce-confirme": {
+            "title": "BASKETBALL: Euroleague: De Colo et le CSKA en feu, Fenerbahce confirme...",
+            "snippet": "Grce notamment aux 16 points et 4 passes de Nando De Colo, le CSKA Moscou s'est impos\u00e9 contre le Panathina\u00efkos (100-80) jeudi dans le match 2 des quarts de finale de l'Euroligue. De son c\u00f4t\u00e9, Fenerbahce s'est impos\u00e9 contre le Maccabi Tel-Aviv...",
+            "date": "2015-04-16",
+            "tags": "finale,match",
+            "recuweb_url": "http://fr.recuweb.com/sport365.fr/2015/04/basketball-euroleague-de-colo-et-le-cska-en-feu-fenerbahce-confirme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=basket%2Bball&format=RSS&cc=fr",
+            "source_url": "http://sport365.fr/basketball/basketball-euroleague-de-colo-et-cska-en-feu-fenerbahce-confirme-1227330.shtml"
+        },
+        "fr.news.yahoo.com/2015/03/nba-harden-suspendu-un-match-apr%C3%A8s-une-altercation-avec-james": {
+            "title": "NBA: Harden suspendu un match apr\u00e8s une altercation avec James...",
+            "snippet": "Le joueur-vedette des Houston Rockets James Harden a \u00e9t\u00e9 suspendu lundi un match par la Ligue nord-am\u00e9ricaine de basket-ball (NBA) apr\u00e8s une altercation avec LeBron James dimanche lors du match entre Houston et Cleveland (105-103 a.p.).",
+            "date": "2015-03-03",
+            "tags": "lors,match,nba,houston,rockets,ligue,nord,basket,ball",
+            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/03/nba-harden-suspendu-un-match-apr%C3%A8s-une-altercation-avec-james",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=basket%2Bball",
+            "source_url": "http://fr.news.yahoo.com/nba-harden-suspendu-match-apr\u00e8s-altercation-james-092521809--spt.html"
+        },
+        "fr.news.yahoo.com/2015/02/nba-houston-corrige-toronto": {
+            "title": "NBA: Houston corrige Toronto...",
+            "snippet": "Les Houston Rockets ont surclass\u00e9 les Toronto Raptors, pourtant impressionnants vainqueurs la veille des Atlanta Hawks, samedi dans le cadre du Championnat du nord-am\u00e9ricain de basket-ball (NBA).",
+            "date": "2015-02-22",
+            "tags": "nord,samedi,rockets,nba,houston,championnat,basket,ball",
+            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/02/nba-houston-corrige-toronto",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=basket%2Bball",
+            "source_url": "http://fr.news.yahoo.com/nba-houston-corrige-toronto-130528606--spt.html"
+        }
+    }
+}
