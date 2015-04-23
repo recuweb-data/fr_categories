@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "jeu-de-table",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/jeu-de-table/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/blogs.json"
+    },
+    "items": {
+        "gamergen.com/2015/03/magic-2015-table-ronde-la-french-touch-dans-les-jeux-vid%C3%A9o": {
+            "title": "MAGIC 2015 - Table ronde La French Touch dans les jeux vid\u00e9o... - GAMERGEN (Inscription)...",
+            "snippet": "GAMERGEN (Inscription)MAGIC 2015 - Table ronde La French Touch dans les jeux vid\u00e9o...GAMERGEN (Inscription)3 cam\u00e9ras, prise de son directe, vivez la table ronde avec Alain Damasio (Remember Me), Fr\u00e9d\u00e9rick Raynal (Alone in the Dark), \u00c9ric Chahi...",
+            "date": "2015-03-30",
+            "tags": "table,ronde,jeux",
+            "recuweb_url": "http://fr.recuweb.com/gamergen.com/2015/03/magic-2015-table-ronde-la-french-touch-dans-les-jeux-vid%C3%A9o",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jeu%2Bde%2Btable%2Bjeu%2Bde%2Btable&output=atom&nord=1",
+            "source_url": "http://gamergen.com/actualites/magic-2015-table-ronde-la-french-touch-jeux-video-passe-present-et-avenir-video-hd-260874-1"
+        }
+    }
+}
