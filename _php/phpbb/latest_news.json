@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "portal_name": "phpbb",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/phpbb/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
+    },
+    "items": {
+        "infoq.com/2015/04/zerodb-internals-and-end-to-database-encryption": {
+            "title": "ZeroDB Internals and End-To-End Database Encryption -...",
+            "snippet": "ZeroDB Internals and End-To-End Database in a research paper and hosted in GitHub, it claims just 14.5% performance degradation for phpBB and 26% for TPC-C query load compared to unmodified MySQL. CryptDB is in research prototype stage. According to...",
+            "date": "2015-04-10",
+            "categories": "phpbb,mysql",
+            "tags": "phpbb",
+            "recuweb_url": "http://fr.recuweb.com/mysql/infoq.com/2015/04/zerodb-internals-and-end-to-database-encryption",
+            "resource_url": "http://news.google.fr/?hl=fr&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2015/04/Encrypt-Database-CryptDB-ZeroDB"
+        },
+        "hexus.net/2015/03/wd-my-cloud-ex4100-hexus": {
+            "title": "WD My Cloud EX4100 - HEXUS...",
+            "snippet": "HEXUSWD My Cloud EX4100HEXUSThird-party apps have been introduced to help close the gap - these include aMule, phpBB and WordPress, among others - but the My Cloud OS still has some catching up to do. Built-in anti-virus and a surveillance package...",
+            "date": "2015-03-26",
+            "categories": "phpbb,wordpress",
+            "tags": "phpbb",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/hexus.net/2015/03/wd-my-cloud-ex4100-hexus",
+            "resource_url": "http://news.google.fr/?hl=fr&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://hexus.net/tech/reviews/storage/81856-wd-my-cloud-ex4100/"
+        }
+    }
+}
