@@ -1,0 +1,74 @@
+{
+    "meta": {
+        "portal_name": "awstats",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/awstats/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/awstats/awstats/blogs.json"
+    },
+    "items": {
+        "fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer": {
+            "title": "Awstats, la alternativa libre a Google Analytics - FayerWayer...",
+            "snippet": "Awstats, la alternativa libre a Google AnalyticsFayerWayerAwstats no tiene versiones premium, debido a que el programa es libre en su instalaci\u00f3n y distribuci\u00f3n debido a su licencia GPL y con un poco m\u00e1s de experiencia, existe una variedad de...",
+            "date": "2014-06-19",
+            "categories": "google,awstats",
+            "tags": "google,google_analytics,analytics,awstats",
+            "recuweb_url": "http://fr.recuweb.com/awstats/fayerwayer.com/2014/06/awstats-la-alternativa-libre-a-google-analytics-fayerwayer",
+            "resource_url": "http://news.google.fr/?hl=fr&q=awstats&output=atom&nord=1",
+            "source_url": "http://fayerwayer.com/2014/06/awstats-alternativa-libre-a-google-analytics/"
+        },
+        "blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-pc-tech": {
+            "title": "Understanding your website's traffic: AWStats vs Google Analytics... - PC Tech Magazine (blog)...",
+            "snippet": "Understanding your website's traffic: AWStats vs Google Analytics...PC Tech Magazine (blog)The main difference between Google Analytics, AWStats and Webalizer is that Google Analytics gathers visitor information via some JavaScript code you have to...",
+            "date": "2013-03-23",
+            "categories": "google,awstats,javascript",
+            "tags": "that,google,google_analytics,analytics,awstats",
+            "recuweb_url": "http://fr.recuweb.com/javascript/blogs.pctechmag.com/2013/03/understanding-your-website-s-traffic-awstats-vs-google-analytics-pc-tech",
+            "resource_url": "http://news.google.fr/?hl=fr&q=awstats&output=atom&nord=1",
+            "source_url": "http://blogs.pctechmag.com/2013/03/understanding-your-websites-traffic-awstats-vs-webalizer-vs-google-analytics-visitor-numbers/"
+        },
+        "linuxtoday.com/2011/07/how-to-install-secure-and-automate-awstats-centos-rhel-linux-today": {
+            "title": "How To Install, Secure, And Automate AWStats (CentOS/RHEL) - Linux Today...",
+            "snippet": "How To Install, Secure, And Automate AWStats (CentOS/RHEL)Linux Today\"AWStats is a free and very powerful tool that generates advanced web, streaming, ftp or mail server statistics, graphically. It can analyze log files from all major server tools...",
+            "date": "2011-07-25",
+            "categories": "awstats",
+            "tags": "server,tool,analyze,log,awstats,free,that,web,how",
+            "recuweb_url": "http://fr.recuweb.com/awstats/linuxtoday.com/2011/07/how-to-install-secure-and-automate-awstats-centos-rhel-linux-today",
+            "resource_url": "http://news.google.fr/?hl=fr&q=awstats&output=atom&nord=1",
+            "source_url": "http://linuxtoday.com/it_management/2011072700839OSHLRH"
+        },
+        "onlamp.com/2006/01/analyzing-web-logs-with-awstats-part-2-onlamp": {
+            "title": "Analyzing Web Logs with AWStats, Part 2 - Onlamp...",
+            "snippet": "Analyzing Web Logs with AWStats, Part 2OnlampPart one of this series showed how to perform a basic installation of the web server log analysis tool AWStats, generate sample reports, and understand basic web analytics terminology. This second article...",
+            "date": "2006-01-11",
+            "categories": "awstats",
+            "tags": "basic,web,analytics,sample,reports,this,series,how,perform,perform-basic,web-server,web-server-log,server,server-log,log,analysis,tool,analyzing,analyzing_web,analyzing_web_logs,web_logs,logs,awstats,part,onlamp",
+            "recuweb_url": "http://fr.recuweb.com/awstats/onlamp.com/2006/01/analyzing-web-logs-with-awstats-part-2-onlamp",
+            "resource_url": "http://news.google.fr/?hl=fr&q=awstats&output=atom&nord=1",
+            "source_url": "http://onlamp.com/pub/a/onlamp/2006/01/09/awstats_reports.html"
+        },
+        "serverwatch.com/2005/12/analyzing-iis6-web-logs-with-awstats-server-watch": {
+            "title": "Analyzing IIS6 Web Logs With AWStats - Server Watch...",
+            "snippet": "Analyzing IIS6 Web Logs With AWStatsServer WatchAWStats is a free, open source log analyzer. It can analyze a wide variety of logs, and it creates good reports not the full-featured, interactive, and special-effect-filled reports costly commercial...",
+            "date": "2005-12-16",
+            "categories": "awstats",
+            "tags": "reports,analyze,logs,open,open-source,source,log,free,web,web_logs,awstats,analyzing,server",
+            "recuweb_url": "http://fr.recuweb.com/awstats/serverwatch.com/2005/12/analyzing-iis6-web-logs-with-awstats-server-watch",
+            "resource_url": "http://news.google.fr/?hl=fr&q=awstats&output=atom&nord=1",
+            "source_url": "http://serverwatch.com/tutorials/article.php/3570801/Analyzing-IIS6-Web-Logs-With-AWStats.htm"
+        },
+        "onlamp.com/2005/12/analyzing-web-logs-with-awstats-onlamp": {
+            "title": "Analyzing Web Logs with AWStats - Onlamp...",
+            "snippet": "Analyzing Web Logs with AWStatsOnlampThis is the first of a two-part series exploring how to use the open source tool AWStats to perform web server log file analysis. This first part shows how to prepare a sample web log file, perform a basic...",
+            "date": "2005-12-04",
+            "categories": "awstats",
+            "tags": "perform,perform-basic,basic,part,how,sample,web,web_logs,log,web-server,web-server-log,server,server-log,analysis,series,open,open-source,source,tool,analyzing,analyzing_web,analyzing_web_logs,logs,awstats,onlamp,this",
+            "recuweb_url": "http://fr.recuweb.com/awstats/onlamp.com/2005/12/analyzing-web-logs-with-awstats-onlamp",
+            "resource_url": "http://news.google.fr/?hl=fr&q=awstats&output=atom&nord=1",
+            "source_url": "http://onlamp.com/pub/a/onlamp/2005/12/01/awstats.html"
+        }
+    }
+}
