@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "portal_name": "olympique-de-marseille",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/olympique-de-marseille/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/olympique-de-marseille/olympique-de-marseille/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/olympique-de-marseille/olympique-de-marseille/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/olympique-de-marseille/olympique-de-marseille/blogs.json"
+    },
+    "items": {
+        "sofoot.com/2015/04/olympique-de-marseille": {
+            "title": "Olympique de Marseille...",
+            "snippet": "L'EAG est encore menace de descente si je ne m'abuse. La jouer a fond oui mais a quel prix? Alors autant je trouve que les Guingampais c'est un peu des sous-hommes, autant le maintien est quasiment acquis, et on ne peut pas trop nier que c'est...",
+            "date": "2015-04-23",
+            "tags": "autant,olympique,marseille",
+            "recuweb_url": "http://fr.recuweb.com/sofoot.com/2015/04/olympique-de-marseille",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarseille&format=RSS&cc=fr",
+            "source_url": "http://sofoot.com/olympique-de-marseille-277623-p437-forum.html"
+        },
+        "sport24.lefigaro.fr/2015/04/fabrice-olszewski-le-traducteur-gaffeur-de-l-olympique-marseille-figaro": {
+            "title": "Fabrice Olszewski, le traducteur gaffeur de l'Olympique de Marseille - Le Figaro...",
+            "snippet": "Le FigaroFabrice Olszewski, le traducteur gaffeur de l'Olympique de MarseilleLe FigaroA chaque conf\u00e9rence de presse de l'Olympique de Marseille, Fabrice Olszewski suscite d\u00e9sormais (presque) autant les attentes du public et des journalistes que...",
+            "date": "2015-04-03",
+            "tags": "autant,olympique,marseille",
+            "recuweb_url": "http://fr.recuweb.com/sport24.lefigaro.fr/2015/04/fabrice-olszewski-le-traducteur-gaffeur-de-l-olympique-marseille-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=olympique%2Bde%2Bmarseille&output=atom&nord=1",
+            "source_url": "http://sport24.lefigaro.fr/le-scan-sport/people/2015/04/03/27003-20150403ARTFIG00426-fabrice-olszewski-le-traducteur-gaffeur-de-l-olympique-de-marseille.php"
+        }
+    }
+}
