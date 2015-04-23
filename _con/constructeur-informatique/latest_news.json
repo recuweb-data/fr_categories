@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "constructeur-informatique",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/constructeur-informatique/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/blogs.json"
+    },
+    "items": {
+        "lemondeinformatique.fr/2015/04/bmw-lance-des-lunettes-connect%C3%A9es-pour-ses-mini-lemondeinformatique": {
+            "title": "BMW lance des lunettes connect\u00e9es pour ses Mini - LeMondeInformatique...",
+            "snippet": "LeMondeInformatiqueBMW lance des lunettes connect\u00e9es pour ses MiniLeMondeInformatiqueLe constructeur automobile allemand BMW a d\u00e9voil\u00e9 des lunettes connect\u00e9es avec r\u00e9alit\u00e9 augment\u00e9e, concurrentes des Google Glass, qui permettent aux...",
+            "date": "2015-04-15",
+            "categories": "google",
+            "tags": "constructeur",
+            "recuweb_url": "http://fr.recuweb.com/google/lemondeinformatique.fr/2015/04/bmw-lance-des-lunettes-connect%C3%A9es-pour-ses-mini-lemondeinformatique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=constructeur%2Binformatique&output=atom&nord=1",
+            "source_url": "http://lemondeinformatique.fr/actualites/lire-bmw-lance-des-lunettes-connectees-pour-ses-mini-60853.html"
+        }
+    }
+}
