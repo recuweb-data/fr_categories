@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sport-motocycliste",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-motocycliste/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/blogs.json"
+    },
+    "items": {
+        "youtube.com/2013/11/que-sont-ils-devenus-retour-sur-jean-jacques-lovichi": {
+            "title": "Que sont-ils devenus? Retour sur Jean-Jacques Lovichi...",
+            "snippet": "Que sont-ils devenus? Retour sur Jean-Jacques Lovichi Jean-Jacques Lovichi, un pilote sartenais qui a \u00e9crit l'une des plus belles pages du sport motocycliste insulaire. Plusieurs fois champion de France, deuxi\u00e8me au Bol d'Or 1993, retour sur...",
+            "date": "2013-11-06",
+            "author_name": "France 3 Corse ViaStella",
+            "categories": "sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2013/11/que-sont-ils-devenus-retour-sur-jean-jacques-lovichi",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bmotocycliste&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=_vksY_wtYUo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/_vksY_wtYUo/0.jpg"
+        }
+    }
+}
