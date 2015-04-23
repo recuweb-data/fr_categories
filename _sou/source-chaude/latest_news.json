@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "portal_name": "source-chaude",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/source-chaude/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/blogs.json"
+    },
+    "items": {
+        "routard.com/2015/02/sjour-avec-enfant": {
+            "title": "Sjour avec enfant...",
+            "snippet": "j'ai souvenir d'avoir fait une balade dans le haut de ste rose des douches aussi source chaude. Pour l'horaire vous vous r\u00e9veillerez super t\u00f4t avec le d\u00e9calage et c'est mieux pour les balades aussi et pour les petits bouts il fait moins chaud...",
+            "date": "2015-02-24",
+            "tags": "aussi,source,chaude",
+            "recuweb_url": "http://fr.recuweb.com/routard.com/2015/02/sjour-avec-enfant",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=source%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://routard.com/forum_message/3820296/sjour_avec_enfant.htm"
+        },
+        "lalibre.be/2015/02/elle-vit-sans-eau-chaude-ni-gaz-depuis-deux-mois": {
+            "title": "Elle vit sans eau chaude ni gaz depuis deux mois -...",
+            "snippet": "vit sans eau chaude ni gaz depuis deux si l'\u00e9lectricit\u00e9 fonctionne, lui permettant de chauffer son eau, les factures envoy\u00e9es par son fournisseur Lampiris sont devenues une source de stress suppl\u00e9mentaire. Celles-ci ont en effet litt\u00e9ralement...",
+            "date": "2015-02-23",
+            "tags": "effet,eau,chaude,source",
+            "recuweb_url": "http://fr.recuweb.com/lalibre.be/2015/02/elle-vit-sans-eau-chaude-ni-gaz-depuis-deux-mois",
+            "resource_url": "http://news.google.fr/?hl=fr&q=source%2Bchaude&output=atom&nord=1",
+            "source_url": "http://lalibre.be/regions/bruxelles/elle-vit-sans-eau-chaude-ni-gaz-depuis-deux-mois-54e7ad4935700d7522b2196e"
+        },
+        "sudouest.fr/2015/02/les-dessous-de-lea-u-mer": {
+            "title": "Les dessous de lea u de mer...",
+            "snippet": "Lorsqu'elle est livr\u00e9e au client, l'eau de mer est aussi claire que de l'eau de source, chaude comme celle d'un geyser et saine comme l'entend l'Agence r\u00e9gionale de sant\u00e9. En effet, on ne plaisante pas avec l'hygi\u00e8ne: un laboratoire...",
+            "date": "2015-02-17",
+            "tags": "aussi,eau,source,chaude,effet",
+            "recuweb_url": "http://fr.recuweb.com/sudouest.fr/2015/02/les-dessous-de-lea-u-mer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=source%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/02/18/les-dessous-de-l-ea-u-de-mer-1833414-3944.php"
+        }
+    }
+}
