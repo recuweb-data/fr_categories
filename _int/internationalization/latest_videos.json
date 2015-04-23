@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "internationalization",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/internationalization/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/internationalization/internationalization/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/internationalization/internationalization/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internationalization/internationalization/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2010/07/la-r%C3%A9ponse-est-en-vous-mai-2010": {
+            "title": "La r\u00e9ponse est en vous mai 2010...",
+            "snippet": "Faced with the challenges of internationalization, the growing demand for higher education in emerging countries and the new needs of students and companies, ESSEC has developed an ambitious plan to maintain its position amongst the top business...",
+            "date": "2010-07-22",
+            "author_name": "ESSECBusinessSchool",
+            "categories": "internationalization",
+            "recuweb_url": "http://fr.recuweb.com/internationalization/dailymotion.com/2010/07/la-r%C3%A9ponse-est-en-vous-mai-2010",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/internationalization+internationalization/0?af=1",
+            "source_url": "http://dailymotion.com/video/xe49ri_la-reponse-est-en-vous-mai-2010_school",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xe49ri_la-reponse-est-en-vous-mai-2010_school"
+        }
+    }
+}
