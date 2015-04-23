@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "portal_name": "rallye-automobile",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/rallye-automobile/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/blogs.json"
+    },
+    "items": {
+        "lavoixdunord.fr/2015/02/rallye-automobile-sur-les-routes-du-nord-et-c%C3%B4te-fleurie": {
+            "title": "Rallye automobile: sur les Routes du Nord et C\u00f4te fleurie, les... - La Voix du Nord...",
+            "snippet": "La Voix du NordRallye automobile: sur les Routes du Nord et C\u00f4te fleurie, les...La Voix du NordLe prochain rallye du Touquet s'annonce bien avec ces pilotes qui ont maintenant repris leur voiture en main. En revanche, Xavier Pruvot n'aura pas pu se...",
+            "date": "2015-02-23",
+            "tags": "aura,rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/02/rallye-automobile-sur-les-routes-du-nord-et-c%C3%B4te-fleurie",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/rallye-automobile-sur-les-routes-du-nord-et-cote-ia36b0n2677378"
+        },
+        "lejdc.fr/2015/02/cent-soixante-quinze-licenci%C3%A9s-dont-95%-de-retrait%C3%A9s-amoureux-la-randonn%C3%A9e": {
+            "title": "Cent soixante quinze licenci\u00e9s, dont 95% de retrait\u00e9s, amoureux de la randonn\u00e9e...",
+            "snippet": "Grosse chambr\u00e9e tous les jeudis Au menu de l'apr\u00e8s-midi, point de rallye automobile. Mais de la randonn\u00e9e p\u00e9destre. En premi\u00e8re ligne, la section de l'association sports et loisirs de Saint-P\u00e8re. Le sc\u00e9nario est bien huil\u00e9: quatre-vingt...",
+            "date": "2015-02-22",
+            "categories": "sport",
+            "tags": "sports,rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/sport/lejdc.fr/2015/02/cent-soixante-quinze-licenci%C3%A9s-dont-95%-de-retrait%C3%A9s-amoureux-la-randonn%C3%A9e",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
+            "source_url": "http://lejdc.fr/nievre/actualite/pays/val-de-loire/2015/02/23/cent-soixante-quinze-licencies-dont-95-de-retraites-amoureux-de-la-randonnee_11340068.html"
+        },
+        "ouest-france.fr/2015/02/automobile-un-rallye-national-en-novembre-ouest-france": {
+            "title": "Automobile: un rallye national en novembre - Ouest-France...",
+            "snippet": "Ouest-FranceAutomobile: un rallye national en novembreOuest-FranceCe premier Rallye national de Normandie va remplacer le Rallye r\u00e9gional de Normandie-Beuzeville et aura lieu du vendredi 6 au dimanche 8 novembre prochains, explique le Honfleurais...",
+            "date": "2015-02-20",
+            "tags": "novembre,aura,automobile,rallye",
+            "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/02/automobile-un-rallye-national-en-novembre-ouest-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://ouest-france.fr/automobile-un-rallye-national-en-novembre-3199502"
+        }
+    }
+}
