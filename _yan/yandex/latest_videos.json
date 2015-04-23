@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "portal_name": "yandex",
+        "language": "fr"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/yandex/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/blogs.json"
+    },
+    "items": {
+        "youtube.com/2014/11/formation-boite2-com-google-et-ces-concurrents-yandex-ask-bing": {
+            "title": "Formation BOITE2 com Google et ces concurrents Yandex, ASk et Bing par BOITE2 com et SUPINFO...",
+            "snippet": "Formation BOITE2 com Google et ces concurrents Yandex, ASk et Bing par BOITE2 com et SUPINFO Interna Formation BOITE2 com Google et ces concurrents Yandex, ask et Bing par BOITE2 com et SUPINFO Interna. From: Boite deuxcom Views: 4 0 ratings Time:...",
+            "date": "2014-11-27",
+            "author_name": "Boite deuxcom",
+            "categories": "google,yandex,bing",
+            "tags": "google,yandex",
+            "recuweb_url": "http://fr.recuweb.com/bing/youtube.com/2014/11/formation-boite2-com-google-et-ces-concurrents-yandex-ask-bing",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Tj9WWM7YGBE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Tj9WWM7YGBE/0.jpg"
+        },
+        "youtube.com/2014/10/exterminas-indexation-referencement-comment-faire-une-nouvelle-inscription-dans-internet-google": {
+            "title": "Exterminas indexation Referencement comment faire une nouvelle inscription dans internet Google...",
+            "snippet": "Exterminas indexation Referencement comment faire une nouvelle inscription dans internet Google La R\u00e9f\u00e9rence des Exterminateur dans le Grand Montr\u00e9al Exterminas ou Comment ajouter mon site web ou internet dans Google Yahoo la toile Yandex et tout...",
+            "date": "2014-10-19",
+            "author_name": "Yvon Saulnier",
+            "categories": "yahoo,internet,google,yandex",
+            "tags": "google,yandex",
+            "recuweb_url": "http://fr.recuweb.com/yandex/youtube.com/2014/10/exterminas-indexation-referencement-comment-faire-une-nouvelle-inscription-dans-internet-google",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=JQOJ-tfeGek&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/JQOJ-tfeGek/0.jpg"
+        },
+        "dailymotion.com/2013/11/la-chronique-de-moscou-12-par-adrien-henni": {
+            "title": "La chronique de Moscou 12, par Adrien Henni...",
+            "snippet": "Author: frenchwebTags: Yandex chronique moscou adrien henni ewdn Posted: 19 November 2013Rating:: 0...",
+            "date": "2013-11-19",
+            "author_name": "frenchweb",
+            "categories": "yandex",
+            "tags": "yandex",
+            "recuweb_url": "http://fr.recuweb.com/yandex/dailymotion.com/2013/11/la-chronique-de-moscou-12-par-adrien-henni",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yandex+yandex/0?af=1",
+            "source_url": "http://dailymotion.com/video/x17dgo9_la-chronique-de-moscou-12-par-adrien-henni_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x17dgo9_la-chronique-de-moscou-12-par-adrien-henni_tech"
+        }
+    }
+}
