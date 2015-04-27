@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "jquery",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jquery/",
@@ -16,7 +17,7 @@
             "date": "2015-03-30",
             "author_name": "juliette",
             "categories": "internet,jquery",
-            "tags": "rendre,rendre-votre-site,site,site-internet,internet,plugins,toujours,jquery,aussi",
+            "tags": "rendre,rendre-votre-site,site,plugins,toujours,jquery,aussi",
             "recuweb_url": "http://fr.recuweb.com/jquery/iim.fr/2015/03/les-plugins-jquery-indispensables-pour-rendre-votre-site-plus-iim",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://iim.fr/les-plugins-jquery-indispensables-pour-rendre-votre-site-plus-ergonomique/"
@@ -27,7 +28,7 @@
             "date": "2015-03-29",
             "author_name": "inconnu",
             "categories": "jquery",
-            "tags": "plusieurs,permet,div,jquery,code,pouvez",
+            "tags": "plusieurs,code,permet,jquery,pouvez",
             "recuweb_url": "http://fr.recuweb.com/jquery/forum.webrankinfo.com/2015/03/jquery-repeter-une-fonction-sur-div-forums-webrankinfo",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.webrankinfo.com/jquery-repeter-une-fonction-sur-une-div-t179931.html"
@@ -49,7 +50,7 @@
             "date": "2015-03-17",
             "author_name": "Luc",
             "categories": "jquery,javascript",
-            "tags": "d\u00e9veloppement,jquery,mars,javascript,programmation",
+            "tags": "informatique,d\u00e9veloppement,jquery,angularjs,mars,javascript,programmation",
             "recuweb_url": "http://fr.recuweb.com/javascript/luc-damas.fr/2015/03/js-jquery-et-angularjs-font-le-caf%C3%A9-humeurs-illustr%C3%A9es-luc-damas",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://luc-damas.fr/humeurs/js-jquery-et-angularjs-font-le-cafe/"
@@ -60,7 +61,7 @@
             "date": "2015-03-16",
             "author_name": "Matthieu20",
             "categories": "jquery",
-            "tags": "plusieurs,\u00e9l\u00e9ments,framework,jquery,html,afficher",
+            "tags": "formation,plusieurs,\u00e9l\u00e9ments,technique,utiliser,framework,jquery,html",
             "recuweb_url": "http://fr.recuweb.com/jquery/developpementfacile.wordpress.com/2015/03/la-technique-pour-utiliser-les-filtres-de-base-du-framework-jquery",
             "resource_url": "http://fr.search.wordpress.com/?q=jquery%2Bjquery&f=feed&page=1",
             "source_url": "http://developpementfacile.wordpress.com/2015/03/16/la-technique-pour-utiliser-les-filtres-de-base-du-framework-jquery/"
@@ -71,7 +72,7 @@
             "date": "2015-01-27",
             "author_name": "Design Spartan",
             "categories": "jquery",
-            "tags": "rendre,rendre-votre-site,site,toujours,interactif,plugins,jquery,design",
+            "tags": "rendre,rendre-votre-site,site,toujours,interactif,plugins,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/designspartan.com/2015/01/35-plugins-jquery-gratuits-pour-rendre-votre-site-incroyable-design",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://designspartan.com/ressources/35-plugins-jquery-gratuits-pour-rendre-votre-site-incroyable/"
@@ -82,7 +83,7 @@
             "date": "2015-01-06",
             "author_name": "admine",
             "categories": "jquery",
-            "tags": "web,jquery",
+            "tags": "web,cours,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/blogpresso.com/2015/01/cours-iut-jquery-et-bonus",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=jquery%2Bjquery&rss=1&lng=fr",
             "source_url": "http://blogpresso.com/\u2605-cours-iut-jquery-et-bonus/"
@@ -93,21 +94,10 @@
             "date": "2014-12-01",
             "author_name": "easyaddom",
             "categories": "wordpress,jquery",
-            "tags": "page,jquery",
+            "tags": "front,page,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/easysteponline.wordpress.com/2014/12/enqueue-js-script-in-wordpress",
             "resource_url": "http://fr.search.wordpress.com/?q=jquery%2Bjquery&f=feed&page=1",
             "source_url": "http://easysteponline.wordpress.com/2014/12/01/enqueue-js-script-in-wordpress/"
-        },
-        "nextinpact.com/2014/09/le-site-de-jquery-compromis-mais-les-biblioth%C3%A8ques": {
-            "title": "Le site de jQuery compromis, mais les biblioth\u00e8ques ne sont pas...",
-            "snippet": "Via son blog, jQuery vient de confirmer que son site internet avait \u00e9t\u00e9 compromis il y a quelques jours, mais r\u00e9fute par contre la contamination de ses biblioth\u00e8ques, ce qui aurait eu des r\u00e9percussions bien diff\u00e9rentes.",
-            "date": "2014-09-26",
-            "author_name": "sebastien@nextinpact.com",
-            "categories": "internet,jquery",
-            "tags": "site,site-internet,internet,jquery,via",
-            "recuweb_url": "http://fr.recuweb.com/jquery/nextinpact.com/2014/09/le-site-de-jquery-compromis-mais-les-biblioth%C3%A8ques",
-            "resource_url": "http://www.google.com/search?q=jquery&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://nextinpact.com/news/90093-le-site-jquery-compromis-mais-bibliotheques-ne-sont-pas-touchees.htm"
         },
         "behaba.com/2010/07/un-plugin-de-gestion-d-%C3%A9v%C3%A8nements-olivier-g": {
             "title": ", un plugin de gestion d'\u00e9v\u00e8nements - Olivier G.",
@@ -115,7 +105,7 @@
             "date": "2010-07-16",
             "author_name": "Olivier G.",
             "categories": "jquery",
-            "tags": "permet,ajouter,\u00e9l\u00e9ments,fonctionne,plugin,gestion,m\u00e9thode,jquery,dom,via",
+            "tags": "permet,ajouter,\u00e9l\u00e9ments,plugin,gestion,m\u00e9thode,jquery,ajax",
             "recuweb_url": "http://fr.recuweb.com/jquery/behaba.com/2010/07/un-plugin-de-gestion-d-%C3%A9v%C3%A8nements-olivier-g",
             "resource_url": "http://www.google.com/search?q=jquery%2Bjquery&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://behaba.com/articles/jquery-eventmanager-un-plugin-de-gestion-devenements"
