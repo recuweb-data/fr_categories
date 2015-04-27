@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "culture",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture/",
@@ -11,72 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
-        "rfi.fr/2015/04/guin%C3%A9e-ces-violences-expriment-l-absence-de-culture-rfi": {
-            "title": "Guin\u00e9e: Ces violences expriment l'absence de culture... - RFI...",
-            "snippet": "RFIGuin\u00e9e: Ces violences expriment l'absence de culture...RFIGuin\u00e9e: Ces violences expriment l'absence de culture d\u00e9mocratique. Par Anthony Lattier. Diffusion: dimanche 26 avril 2015. Guin\u00e9e: Ces violences expriment l'absence de culture...",
-            "date": "2015-04-26",
+        "leparisien.fr/2015/04/40000-de-taxis-la-patronne-l-ina-fleur-pellerin-r%C3%A9agit-fermement": {
+            "title": "40000 de taxis de la patronne de l'INA: Fleur Pellerin r\u00e9agit fermement...",
+            "snippet": "Concernant les frais de d\u00e9placement priv\u00e9s de la pr\u00e9sidente de l'Institut national de l'audiovisuel, la ministre de la Culture a imm\u00e9diatement demand\u00e9 le remboursement int\u00e9gral, qui est en cours. Le Figaro a r\u00e9v\u00e9l\u00e9 qu'Agn\u00e8s Saal...",
+            "date": "2015-04-27",
             "categories": "culture",
-            "tags": "expriment,culture,dimanche,avril",
-            "recuweb_url": "http://fr.recuweb.com/culture/rfi.fr/2015/04/guin%C3%A9e-ces-violences-expriment-l-absence-de-culture-rfi",
+            "tags": "demand\u00e9,ministre,fleur,fleur_pellerin,pellerin,culture,figaro",
+            "recuweb_url": "http://fr.recuweb.com/culture/leparisien.fr/2015/04/40000-de-taxis-la-patronne-l-ina-fleur-pellerin-r%C3%A9agit-fermement",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/economie/40000-eur-de-taxis-de-la-patronne-de-l-ina-fleur-pellerin-reagit-fermement-27-04-2015-4729283.php"
+        },
+        "fr.euronews.com/2015/04/de-jeunes-traducteurs-au-service-la-culture-europ%C3%A9enne": {
+            "title": "De jeunes traducteurs au service de la culture europ\u00e9enne...",
+            "snippet": "On ma demand\u00e9 de r\u00e9aliser des couvertures de livres qui navaient m\u00eame pas encore \u00e9t\u00e9 \u00e9crits,explique le Tch\u00e8que David Koneny. La plupart du temps, le titre ne dit rien sur lhistoire. La pire erreur que vous pouvez faire pour une...",
+            "date": "2015-04-27",
+            "categories": "culture",
+            "tags": "demand\u00e9,r\u00e9aliser,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/fr.euronews.com/2015/04/de-jeunes-traducteurs-au-service-la-culture-europ%C3%A9enne",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
+            "source_url": "http://fr.euronews.com/2015/04/27/de-jeunes-traducteurs-au-service-de-la-culture-europeenne/"
+        },
+        "toutelaculture.com/2015/04/l-agenda-culture-de-la-semaine-du-27-avril-toutelaculture": {
+            "title": "L'agenda culture de la semaine du 27 avril - Toutelaculture...",
+            "snippet": "ToutelacultureL'agenda culture de la semaine du 27 avrilToutelacultureDeuxi\u00e8me semaine des vacances entre farniente et culture! Un peu de musique pour nos oreilles, du th\u00e9tre pour nos sens, de l'humour pour nous d\u00e9tendre et de la nature pour des...",
+            "date": "2015-04-27",
+            "categories": "humour,nature,musique,culture",
+            "tags": "th\u00e9tre,musique,culture,avril",
+            "recuweb_url": "http://fr.recuweb.com/culture/toutelaculture.com/2015/04/l-agenda-culture-de-la-semaine-du-27-avril-toutelaculture",
             "resource_url": "http://news.google.fr/?hl=fr&q=culture&output=atom&nord=1",
-            "source_url": "http://rfi.fr/emission/20150426-guinee-violences-absence-culture-democratique-khalifa-gassama-diaby+/"
+            "source_url": "http://toutelaculture.com/actu/lagenda-culture-de-la-semaine-du-27-avril/"
         },
-        "republicain-lorrain.fr/2015/04/culture-vall%C3%A9e-de-la-fensch-le-baglama-c%C5%93ur-des-al%C3%A9vis": {
-            "title": "culture Vall\u00e9e de la Fensch: le baglama, c\u0153ur des Al\u00e9vis...",
-            "snippet": "Le plaisir de savoir jouer dun instrument na pas d\u00e9gal. Mais quand en plus il sagit de la voix danc\u00eatres Rencontre avec Taylan Bil, le professeur de baglama de lassociation des Al\u00e9vis de la Fensch. Il est convenu chez les...",
-            "date": "2015-04-26",
-            "categories": "plaisir,culture",
-            "tags": "voix,savoir,culture,rencontre",
-            "recuweb_url": "http://fr.recuweb.com/culture/republicain-lorrain.fr/2015/04/culture-vall%C3%A9e-de-la-fensch-le-baglama-c%C5%93ur-des-al%C3%A9vis",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
-            "source_url": "http://republicain-lorrain.fr/moselle/2015/04/26/le-baglama-coeur-des-alevis"
-        },
-        "elmoudjahid.com/2015/04/constantine-capitale-de-la-culture-arabe-2015-m%C3%A9moire-forteresse": {
-            "title": "Constantine, capitale de la culture arabe 2015: Constantine, m\u00e9moire forteresse...",
-            "snippet": "Constantine au petit matin. La lumi\u00e8re naissante du soleil de mars adoucit les paysages. Elle conf\u00e8re une po\u00e9sie tendre aux montagnes qui encadrent le Rhummel dans sa descente vers la capitale de lEst alg\u00e9rien, lorsque les terres cultiv\u00e9es et...",
-            "date": "2015-04-25",
+        "centre-presse.fr/2015/04/la-culture-de-gagne": {
+            "title": "La culture de la gagne...",
+            "snippet": "Poitiers - Nice: 3-2 Ils ont donn\u00e9 tout ce qu'ils poss\u00e9daient. Leur enthousiasme, leur coeur et leur honneur. Mais l'an prochain, cela ne suffira pas. Depuis plusieurs mois, le club de Nice a perdu son pointu sur blessure. Il a n\u00e9anmoins pu,...",
+            "date": "2015-04-27",
             "categories": "culture",
-            "tags": "constantine,capitale,culture,arabe",
-            "recuweb_url": "http://fr.recuweb.com/culture/elmoudjahid.com/2015/04/constantine-capitale-de-la-culture-arabe-2015-m%C3%A9moire-forteresse",
+            "tags": "mois,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/centre-presse.fr/2015/04/la-culture-de-gagne",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
-            "source_url": "http://elmoudjahid.com/fr/actualites/76650"
+            "source_url": "http://centre-presse.fr/article-385035-la-culture-de-la-gagne.html"
         },
-        "rtl.fr/2015/04/festival-de-cannes-les-s%C3%A9lectionn%C3%A9s-fran%C3%A7ais-re%C3%A7us-au-minist%C3%A8re-la-culture": {
-            "title": "Festival de Cannes: les s\u00e9lectionn\u00e9s fran\u00e7ais re\u00e7us au minist\u00e8re de la Culture...",
-            "snippet": "Les fran\u00e7ais s\u00e9lectionn\u00e9s pour le Festival de Cannes ont \u00e9t\u00e9 re\u00e7us vendredi 24 avril par la ministre de la Culture Fleur Pellerin. Fleur Pellerin devant les s\u00e9lectionn\u00e9s fran\u00e7ais pour le Festival de Cannes Les \u00e9quipes des films...",
-            "date": "2015-04-25",
+        "tsa-algerie.com/2015/04/le-torchon-br%C3%BBle-entre-louisa-hanoune-et-la-ministre-de-culture": {
+            "title": "Le torchon br\u00fble entre Louisa Hanoune et la ministre de la Culture - TSA - Tout Sur l'Alg\u00e9rie...",
+            "snippet": "TSA - Tout Sur l'Alg\u00e9rieLe torchon br\u00fble entre Louisa Hanoune et la ministre de la CultureTSA - Tout Sur l'Alg\u00e9rieCette fois, c'est entre la porte-parole du parti des travailleurs et la ministre de la Culture, Nadia Labidi, que le torchon br\u00fble.",
+            "date": "2015-04-27",
             "categories": "culture",
-            "tags": "fleur,fleur_pellerin,pellerin,avril,ministre,\u00e9t\u00e9,vendredi,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/rtl.fr/2015/04/festival-de-cannes-les-s%C3%A9lectionn%C3%A9s-fran%C3%A7ais-re%C3%A7us-au-minist%C3%A8re-la-culture",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
-            "source_url": "http://rtl.fr/culture/arts-spectacles/festival-de-cannes-les-selectionnes-francais-recus-au-ministere-de-la-culture-7777469645"
-        },
-        "lavoixdunord.fr/2015/04/loison-sous-lens-la-culture-africaine-se-d%C3%A9voile-en-photos-voix": {
-            "title": "Loison-sous-Lens: la culture africaine se d\u00e9voile en photos - La Voix du Nord...",
-            "snippet": "La Voix du NordLoison-sous-Lens: la culture africaine se d\u00e9voile en photosLa Voix du NordL'association C3A2L a pour objectif de favoriser l'entraide et l'int\u00e9gration des ressortissants d'origine africaine, de promouvoir la culture africaine et de...",
-            "date": "2015-04-25",
-            "categories": "culture",
-            "tags": "voix,culture,nord",
-            "recuweb_url": "http://fr.recuweb.com/culture/lavoixdunord.fr/2015/04/loison-sous-lens-la-culture-africaine-se-d%C3%A9voile-en-photos-voix",
-            "resource_url": "http://news.google.fr/?hl=fr&q=culture&output=atom&nord=1",
-            "source_url": "http://lavoixdunord.fr/region/loison-sous-lens-la-culture-africaine-se-devoile-en-photos-ia35b54052n2793320"
-        },
-        "lemonde.fr/2015/04/mus%C3%A9es-du-nord-la-culture-pour-capital-le-monde": {
-            "title": "Mus\u00e9es du Nord: la culture pour capital - Le Monde...",
-            "snippet": "Le MondeMus\u00e9es du Nord: la culture pour capitalLe MondeIl rendait compte alors des r\u00e9sultats de la politique culturelle du Second Empire, relay\u00e9e par la IIIe R\u00e9publique, qui avait d\u00e9cid\u00e9 un envoi massif des \u0153uvres des r\u00e9serves du Louvre dans...",
-            "date": "2015-04-24",
-            "categories": "empire,politique,culture",
-            "tags": "nord,culture,monde",
-            "recuweb_url": "http://fr.recuweb.com/culture/lemonde.fr/2015/04/mus%C3%A9es-du-nord-la-culture-pour-capital-le-monde",
+            "tags": "ministre,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/tsa-algerie.com/2015/04/le-torchon-br%C3%BBle-entre-louisa-hanoune-et-la-ministre-de-culture",
             "resource_url": "http://news.google.fr/?hl=fr&q=culture%2Bculture&output=atom&nord=1",
-            "source_url": "http://lemonde.fr/arts/article/2015/04/24/musees-du-nord-la-culture-pour-capital_4622301_1655012.html"
+            "source_url": "http://tsa-algerie.com/20150427/le-torchon-brule-entre-louisa-hanoune-et-la-ministre-de-la-culture/"
+        },
+        "zonebourse.com/2015/04/top-culture-co-ltd-d%C3%A9tachement-de-dividende-interm%C3%A9diaire": {
+            "title": "TOP CULTURE CO LTD: D\u00e9tachement de dividende interm\u00e9diaire...",
+            "snippet": "Un dividende interm\u00e9diaire est d\u00e9tach\u00e9 ce jour sur la valeur Top Culture Co Ltd. 2014 TOP CULTURE CO LTD: D\u00e9tachement de dividende final 2014 TOP CULTURE CO LTD: D\u00e9tachement de dividende interm\u00e9diaire 2013 TOP CULTURE CO., LTD.: D\u00e9tachement...",
+            "date": "2015-04-26",
+            "categories": "culture,dividende",
+            "tags": "culture",
+            "recuweb_url": "http://fr.recuweb.com/dividende/zonebourse.com/2015/04/top-culture-co-ltd-d%C3%A9tachement-de-dividende-interm%C3%A9diaire",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
+            "source_url": "http://zonebourse.com/TOP-CULTURE-CO-LTD-6495322/actualite/Interim-dividend-19832272/"
+        },
+        "europe1.fr/2015/04/abdennour-bidar-l-interview-int%C3%A9grale": {
+            "title": "Abdennour Bidar, l'interview int\u00e9grale...",
+            "snippet": "Anne Sinclair re\u00e7oit ce matin Abdennour Bidar, agr\u00e9g\u00e9 et docteur en philosophie, charg\u00e9 de mission sur la p\u00e9dagogie de la la\u00efcit\u00e9 au minist\u00e8re de l'\u00e9ducation nationale, producteur de l'\u00e9mission sur France Culture Culture d'Islam, et auteur...",
+            "date": "2015-04-25",
+            "categories": "culture,islam",
+            "tags": "france,culture,\u00e9ducation,inter",
+            "recuweb_url": "http://fr.recuweb.com/islam/europe1.fr/2015/04/abdennour-bidar-l-interview-int%C3%A9grale",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bculture&format=RSS&cc=fr",
+            "source_url": "http://europe1.fr/mediacenter/emissions/l-interview/sons/abdennour-bidar-l-interview-integrale-2437277"
         },
         "jactiv.ouest-france.fr/2015/04/culture-ces-sourds-se-font-entendre-sur-le-net": {
             "title": "Culture. Ces sourds se font entendre sur le Net...",
             "snippet": "Blogs, web-s\u00e9rie, Tumblr... De plus en plus de sourds s'expriment sur Internet pour ouvrir le monde de la surdit\u00e9 aux entendants et faire tomber les clich\u00e9s. Diffus\u00e9s sur Youtube, les 15 \u00e9pisodes de 6 minutes de cette web s\u00e9rie bordelaise...",
             "date": "2015-04-20",
             "categories": "culture,tumblr,internet",
-            "tags": "monde,expriment,culture",
+            "tags": "monde,culture",
             "recuweb_url": "http://fr.recuweb.com/internet/jactiv.ouest-france.fr/2015/04/culture-ces-sourds-se-font-entendre-sur-le-net",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bculture&format=RSS&cc=fr",
             "source_url": "http://jactiv.ouest-france.fr/actualites/culture/culture-ces-sourds-se-font-entendre-sur-net-46733"
@@ -86,7 +96,7 @@
             "snippet": "Le pr\u00e9sident de l'UMP Nicolas Sarkozy juge que \"Radio France est devenu un bateau ivre\" et d\u00e9nonce \"le manque de consid\u00e9ration pour la cr\u00e9ation artistique et le monde de la culture\" du gouvernement, dans une interview au Journal du Dimanche.",
             "date": "2015-04-12",
             "categories": "radio,culture",
-            "tags": "radio,radio-france,france,monde,culture,dimanche",
+            "tags": "inter,radio,radio-france,france,monde,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/fr.news.yahoo.com/2015/04/sarkozy-radio-france-est-devenu-un-bateau-ivre",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
             "source_url": "http://fr.news.yahoo.com/sarkozy-radio-france-devenu-bateau-ivre-055150457.html"
@@ -100,16 +110,6 @@
             "recuweb_url": "http://fr.recuweb.com/culture/fr-ca.actualites.yahoo.com/2015/04/une-gu%C3%A9rison-qui-passe-par-la-culture-pour-femme-autochtone",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
             "source_url": "http://fr-ca.actualites.yahoo.com/une-gu\u00e9rison-qui-passe-par-la-culture-pour-205725251.html"
-        },
-        "fr.news.yahoo.com/2015/04/radio-france-le-conflit-a-son-m%C3%A9diateur-dominique-jean-chertier": {
-            "title": "Radio France: Le conflit a son m\u00e9diateur, Dominique-Jean Chertier...",
-            "snippet": "MEDIAS - Nomm\u00e9 par la ministre de la culture, Fleur Pellerin, il rencontrera mes syndicats vendredi en fin de matin\u00e9e...",
-            "date": "2015-04-09",
-            "categories": "radio,culture",
-            "tags": "vendredi,fleur,fleur_pellerin,pellerin,ministre,jean,radio,france,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/fr.news.yahoo.com/2015/04/radio-france-le-conflit-a-son-m%C3%A9diateur-dominique-jean-chertier",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
-            "source_url": "http://fr.news.yahoo.com/radio-france-conflit-m\u00e9diateur-dominique-jean-chertier-174227862.html"
         }
     }
 }
