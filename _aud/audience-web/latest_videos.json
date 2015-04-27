@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "audience-web",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/audience-web/",
@@ -12,7 +13,7 @@
     "items": {
         "youtube.com/2015/02/at-internet-pourquoi-bordeaux-et-sa-metropole": {
             "title": "AT Internet Pourquoi Bordeaux et sa metropole...",
-            "snippet": "AT Internet Pourquoi Bordeaux et sa metropole AT Internet, sp\u00e9cialis\u00e9e dans la mesure d'audience et de performance de sites web, parle de son implantation \u00e0 Merignac. From: Invest in Bordeaux Views: 252 5 ratings Time: 02:05 More in Nonprofits &...",
+            "snippet": "AT Internet Pourquoi Bordeaux et sa metropole AT Internet, sp\u00e9cialis\u00e9e dans la mesure d'audience et de performance de sites web, parle de son implantation \u00e0 Merignac. From: Invest in Bordeaux Views: 268 5 ratings Time: 02:05 More in Nonprofits &...",
             "date": "2015-02-09",
             "author_name": "Invest in Bordeaux",
             "categories": "internet",
@@ -40,7 +41,7 @@
             "date": "2014-10-13",
             "author_name": "Bxeco",
             "categories": "place",
-            "tags": "visiteurs,web,m\u00e9dias,audience",
+            "tags": "web,m\u00e9dias,audience",
             "recuweb_url": "http://fr.recuweb.com/place/youtube.com/2014/10/groupe-sud-ouest-une-audience-qualifi%C3%A9e-par-les-donn%C3%A9es",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bweb%2Baudience%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ThphOP8uTv4&feature=youtube_gdata",
@@ -59,14 +60,25 @@
         },
         "youtube.com/2014/07/images-exclusives-de-karim-wade-dans-la-salle-d-audience": {
             "title": "Images Exclusives de Karim Wade dans la salle d'audience...",
-            "snippet": "Images Exclusives de Karim Wade dans la salle d'audience Apres la T\u00e9l\u00e9-realite, Vivez la Web-R\u00e9alit\u00e9. PiccMi WEBTV, Le Meilleur pour vous. Retrouvez-nous sur From: PiccMi WEBTV Views: 9031 19 ratings Time: 01:11 More in News & Politics...",
+            "snippet": "Images Exclusives de Karim Wade dans la salle d'audience Apres la T\u00e9l\u00e9-realite, Vivez la Web-R\u00e9alit\u00e9. PiccMi WEBTV, Le Meilleur pour vous. Retrouvez-nous sur From: PiccMi WEBTV Views: 9860 19 ratings Time: 01:11 More in News & Politics...",
             "date": "2014-07-31",
             "author_name": "PiccMi WEBTV",
-            "tags": "audience,web,politics",
+            "tags": "piccmi,piccmi_webtv,webtv,salle,images,audience,apres,t\u00e9l\u00e9,r\u00e9alit\u00e9,vivez,web,meilleur,retrouvez,politics",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/07/images-exclusives-de-karim-wade-dans-la-salle-d-audience",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bweb%2Baudience%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=NdaIrn9MjsA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/NdaIrn9MjsA/0.jpg"
+        },
+        "youtube.com/2014/07/images-de-bibo-bourgi-dans-la-salle-d-audience-sous-perfusion": {
+            "title": "Images de Bibo Bourgi dans la salle d'audience sous perfusion...",
+            "snippet": "Images de Bibo Bourgi dans la salle d'audience sous perfusion Apres la T\u00e9l\u00e9-realite, Vivez la Web-R\u00e9alit\u00e9. PiccMi WEBTV, Le Meilleur pour vous. Retrouvez-nous sur From: PiccMi WEBTV Views: 3399 1 ratings Time: 00:31 More in News & Politics...",
+            "date": "2014-07-31",
+            "author_name": "PiccMi WEBTV",
+            "tags": "piccmi,piccmi_webtv,webtv,audience,salle,images,apres,t\u00e9l\u00e9,r\u00e9alit\u00e9,vivez,web,meilleur,retrouvez,politics",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/07/images-de-bibo-bourgi-dans-la-salle-d-audience-sous-perfusion",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=qqNdXDI8QjE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/qqNdXDI8QjE/0.jpg"
         },
         "youtube.com/2014/02/oncle-web-tutoriel-google-analytics-un-calcul-de-l-audience-reelle": {
             "title": "Oncle Web Tutoriel Google Analytics Un Calcul de l'Audience Reelle...",
@@ -113,18 +125,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bweb%2Baudience%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=cuqwp6drPkg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/cuqwp6drPkg/0.jpg"
-        },
-        "youtube.com/2013/02/comment-g%C3%A9n%C3%A9rer-du-trafic-sur-le-web-en-7-%C3%A9tapes": {
-            "title": "Comment g\u00e9n\u00e9rer du trafic sur le web en 7 \u00e9tapes...",
-            "snippet": "Comment g\u00e9n\u00e9rer du trafic sur le web en 7 \u00e9tapes Comment avoir plus de trafic? Voici 7 \u00e9tapes pour attirer des visiteurs, g\u00e9n\u00e9rer du trafic et d\u00e9velopper votre audience sur le web avec Google. Indispensable... From: StrategeMarketing Views:...",
-            "date": "2013-02-06",
-            "author_name": "StrategeMarketing",
-            "categories": "google",
-            "tags": "d\u00e9velopper,audience,web,visiteurs,google",
-            "recuweb_url": "http://fr.recuweb.com/google/youtube.com/2013/02/comment-g%C3%A9n%C3%A9rer-du-trafic-sur-le-web-en-7-%C3%A9tapes",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bweb%2Baudience%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Lkg3qO92knA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Lkg3qO92knA/0.jpg"
         }
     }
 }
