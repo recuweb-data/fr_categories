@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "superbike",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/superbike/",
@@ -10,37 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/superbike/superbike/blogs.json"
     },
     "items": {
-        "youtube.com/2014/10/championnat-de-france-superbike-2014-nogaro-2": {
-            "title": "Championnat de France de Superbike 2014 - Nogaro (2/2)...",
-            "snippet": "Championnat de France de Superbike 2014 - Nogaro (2/2) R\u00e9sum\u00e9 de la manche de Nogaro du championnat de France de Superbike. From: Motors TV France Views: 617 5 ratings Time: 13:37 More in Autos & Vehicles...",
-            "date": "2014-10-01",
+        "youtube.com/2015/04/wheelies-superbike-france-2015-le-mans": {
+            "title": "Wheelies - Superbike France 2015 - Le Mans...",
+            "snippet": "Wheelies - Superbike France 2015 - Le Mans Abonnez-vous \u00e0 Motors TV, la T\u00e9l\u00e9vision Grande Vitesse: R\u00e9sum\u00e9 de la premi\u00e8re manche du championnat de France de Superbike, qui s'est tenu au Mans. Motors... From: Motors TV France Views: 970 12...",
+            "date": "2015-04-02",
             "author_name": "Motors TV France",
-            "categories": "superbike",
-            "tags": "championnat,manche,france,superbike,nogaro,r\u00e9sum\u00e9,autos,vehicles",
-            "recuweb_url": "http://fr.recuweb.com/superbike/youtube.com/2014/10/championnat-de-france-superbike-2014-nogaro-2",
+            "categories": "television,superbike",
+            "tags": "premi\u00e8re,manche,manche-du-championnat,championnat,t\u00e9l\u00e9vision,t\u00e9l\u00e9vision_grande,t\u00e9l\u00e9vision_grande_vitesse,grande,grande_vitesse,vitesse,superbike,superbike_france,france,wheelies,mans,abonnez,motors,r\u00e9sum\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/superbike/youtube.com/2015/04/wheelies-superbike-france-2015-le-mans",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=aX6OKY1PNFE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/aX6OKY1PNFE/0.jpg"
+            "source_url": "http://youtube.com/watch?v=5hLGoI15Hq8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5hLGoI15Hq8/0.jpg"
         },
-        "dailymotion.com/2014/06/record-de-vitesse-en-superbike-212-9-km-h-moyenne": {
-            "title": "Record de vitesse en superbike: 212,9 km/h de moyenne...",
-            "snippet": "Bruce Anstey a atteint la vitesse moyenne de 212,91 km/h lors de la Tourist Trophy sur le circuit de l'Ile de Man, un record!Author: mensquareTags: Bruce Anstey 21291 kmh Tourist Trophy Record Superbike Mensquare Vitesse Posted: 25 June 2014Rating::...",
-            "date": "2014-06-25",
-            "author_name": "mensquare",
-            "categories": "superbike",
-            "tags": "superbike",
-            "recuweb_url": "http://fr.recuweb.com/superbike/dailymotion.com/2014/06/record-de-vitesse-en-superbike-212-9-km-h-moyenne",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/superbike/0?af=1",
-            "source_url": "http://dailymotion.com/video/x208kci_record-de-vitesse-en-superbike-212-9-km-h-de-moyenne_auto",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x208kci_record-de-vitesse-en-superbike-212-9-km-h-de-moyenne_auto"
+        "youtube.com/2015/03/wheelies-superbike-france-le-mans-2015-les-courses": {
+            "title": "Wheelies - Superbike France - Le Mans 2015 - Les courses...",
+            "snippet": "Wheelies - Superbike France - Le Mans 2015 - Les courses Abonnez-vous \u00e0 Motors TV, la T\u00e9l\u00e9vision Grande Vitesse: R\u00e9sum\u00e9 de la journ\u00e9e de course de la premi\u00e8re \u00e9preuve du championnat de France de Superbike, qui... From: Motors TV France...",
+            "date": "2015-03-30",
+            "author_name": "Motors TV France",
+            "categories": "television,superbike",
+            "tags": "courses,premi\u00e8re,championnat,t\u00e9l\u00e9vision,t\u00e9l\u00e9vision_grande,t\u00e9l\u00e9vision_grande_vitesse,grande,grande_vitesse,vitesse,superbike,superbike_france,france,wheelies,mans,abonnez,motors,r\u00e9sum\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/superbike/youtube.com/2015/03/wheelies-superbike-france-le-mans-2015-les-courses",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=JYPDUlr6N1g&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/JYPDUlr6N1g/0.jpg"
+        },
+        "youtube.com/2014/09/fsbk-nogaro-clip-dimanche": {
+            "title": "FSBK - Nogaro: Clip dimanche...",
+            "snippet": "FSBK - Nogaro: Clip dimanche Retrouvez les plus belles images Superbike et Supersport du Championnat de France FSBK sur le circuit de Nogaro. Suivez le Championnat de France Superbike sur les r\u00e9seaux sociaux: Facebook... From: ffmfsbk Views: 4062 6...",
+            "date": "2014-09-14",
+            "author_name": "ffmfsbk",
+            "categories": "clip,superbike,facebook",
+            "tags": "circuit,france,nogaro,superbike,championnat",
+            "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2014/09/fsbk-nogaro-clip-dimanche",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=dwmJBbt1GVs&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/dwmJBbt1GVs/0.jpg"
         },
         "youtube.com/2014/06/race-exp%C3%A9rience-s%C3%A9batien-gimbert-superbike-junior-nogaro-2014": {
             "title": "Race Exp\u00e9rience-S\u00e9batien Gimbert-Superbike Junior Nogaro 2014...",
-            "snippet": "Race Exp\u00e9rience-S\u00e9batien Gimbert-Superbike Junior Nogaro 2014 La cam\u00e9ra GPS par GARMIN - Life. Camera. Action Principales caract\u00e9ristiques: - Cam\u00e9r... From: Tecno Globe Views: 271 1 ratings Time: 01:49 More in Autos & Vehicles...",
+            "snippet": "Race Exp\u00e9rience-S\u00e9batien Gimbert-Superbike Junior Nogaro 2014 La cam\u00e9ra GPS par GARMIN - Life. Camera. Action Principales caract\u00e9ristiques: - Cam\u00e9ra vid\u00e9o HD avec stabilisateu... From: Tecno Globe Views: 280 1 ratings Time: 01:49 More in Autos...",
             "date": "2014-06-23",
             "author_name": "Tecno Globe",
             "categories": "superbike",
-            "tags": "superbike,nogaro,gimbert,race,autos,vehicles",
+            "tags": "superbike,nogaro",
             "recuweb_url": "http://fr.recuweb.com/superbike/youtube.com/2014/06/race-exp%C3%A9rience-s%C3%A9batien-gimbert-superbike-junior-nogaro-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=zz2jlSLQocI&feature=youtube_gdata",
@@ -57,30 +70,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/superbike+superbike/0?af=1",
             "source_url": "http://dailymotion.com/video/x2036ki_superbikes-italie-troisieme-double-pour-sykes_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2036ki_superbikes-italie-troisieme-double-pour-sykes_sport"
-        },
-        "youtube.com/2014/06/clip-s%C3%A9bastien-gimbert-superbike-nogaro-2014-race-experience-honda": {
-            "title": "Clip S\u00e9bastien Gimbert - Superbike Nogaro 2014 - Race Experience Superbike - HONDA...",
-            "snippet": "Clip S\u00e9bastien Gimbert - Superbike Nogaro 2014 - Race Experience Superbike - HONDA Une \u00e9preuve o\u00f9 le podium s'est refus\u00e9 \u00e0 S\u00e9bastien pour quelques dixi\u00e8me de seconde en premi\u00e8re manche \u00e0 cause d'un amortisseur de direction cass\u00e9. Le...",
-            "date": "2014-06-04",
-            "author_name": "Team Race Experience",
-            "categories": "superbike,clip",
-            "tags": "premi\u00e8re,manche,\u00e9preuve,race,race_experience,experience,superbike,nogaro,s\u00e9bastien,s\u00e9bastien_gimbert,gimbert",
-            "recuweb_url": "http://fr.recuweb.com/clip/youtube.com/2014/06/clip-s%C3%A9bastien-gimbert-superbike-nogaro-2014-race-experience-honda",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=R32_K2dLSxw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/R32_K2dLSxw/0.jpg"
-        },
-        "youtube.com/2014/04/s%C3%A9bastien-gimbert-le-mans-championnat-de-france-superbike-2014": {
-            "title": "S\u00e9bastien Gimbert - Le Mans - Championnat de France Superbike 2014...",
-            "snippet": "S\u00e9bastien Gimbert - Le Mans - Championnat de France Superbike 2014 En exclusivit\u00e9, les impressions de S\u00e9bastien Gimbert, tout au long du week-end de la premi\u00e8re \u00e9preuve du championnat de France Superbike. From: Team Race Experience Views: 996 7...",
-            "date": "2014-04-09",
-            "author_name": "Team Race Experience",
-            "categories": "superbike",
-            "tags": "race,race_experience,experience,premi\u00e8re,\u00e9preuve,championnat,france,superbike,s\u00e9bastien,s\u00e9bastien_gimbert,gimbert",
-            "recuweb_url": "http://fr.recuweb.com/superbike/youtube.com/2014/04/s%C3%A9bastien-gimbert-le-mans-championnat-de-france-superbike-2014",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Y9ZCODh9C54&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Y9ZCODh9C54/0.jpg"
         },
         "dailymotion.com/2014/01/alfa-rome-mito-quadrifoglio-verde-vs-superbike": {
             "title": "Alfa Rome MiTo Quadrifoglio Verde VS Superbike...",
@@ -100,7 +89,7 @@
             "date": "2013-10-07",
             "author_name": "Omnisport-fr",
             "categories": "superbike,sport",
-            "tags": "superbikes,avance,classement,deux,deux-courses,courses,sykes,tom,omnisport,frtags",
+            "tags": "superbikes,avance,classement,deux,deux-courses,courses,magny,cours,sykes,tom,omnisport,frtags",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2013/10/superbikes-magny-cours-sykes-tout-proche-du-titre",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/superbike+superbike/0?af=1",
             "source_url": "http://dailymotion.com/video/x15mxyh_superbikes-magny-cours-sykes-tout-proche-du-titre_sport",
@@ -129,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/superbike/0?af=1",
             "source_url": "http://dailymotion.com/video/x14m8fd_moto-superbike-dijon_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x14m8fd_moto-superbike-dijon_auto"
+        },
+        "youtube.com/2012/07/superbike-france-2012-magny-cours-replay": {
+            "title": "Superbike France 2012 Magny-Cours REPLAY...",
+            "snippet": "Superbike France 2012 Magny-Cours REPLAY Cinqui\u00e8me manche du championnat de France de Superbike, sur le circuit de Magny-Cours: dans la premi\u00e8re course de Superbike, Julien Da Costa s'impose devant Guillaume Dietrich et Vincent... From: Motors TV...",
+            "date": "2012-07-26",
+            "author_name": "Motors TV France",
+            "categories": "superbike",
+            "tags": "premi\u00e8re,circuit,manche,manche-du-championnat,championnat,cours,superbike,superbike_france,france,magny,motors",
+            "recuweb_url": "http://fr.recuweb.com/superbike/youtube.com/2012/07/superbike-france-2012-magny-cours-replay",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=superbike%2Bsuperbike&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=_UrUhF-W6aU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/_UrUhF-W6aU/0.jpg"
         }
     }
 }
