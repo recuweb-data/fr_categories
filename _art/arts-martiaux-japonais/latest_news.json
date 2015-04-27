@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "arts-martiaux-japonais",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/arts-martiaux-japonais/",
@@ -10,25 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/arts-martiaux-japonais/arts-martiaux-japonais/blogs.json"
     },
     "items": {
-        "elmoudjahid.com/2015/02/le-palais-des-ra%C3%AFs-abrite-vernissage-de-l-exposition-esprit": {
-            "title": "Le palais des ra\u00efs abrite le vernissage de l'exposition l'esprit du... - El Moudjahid...",
-            "snippet": "El MoudjahidLe palais des ra\u00efs abrite le vernissage de l'exposition l'esprit du...El MoudjahidC'est en d'autres termes tout un pan de l'histoire des arts martiaux du Japon qui a travers\u00e9 les ges et les g\u00e9n\u00e9rations, depuis mille ans. En exposant...",
-            "date": "2015-02-21",
+        "sudouest.fr/2015/04/du-jiu-jitsu-mais-br%C3%A9silien-sud-ouest": {
+            "title": "Du jiu-jitsu, mais br\u00e9silien! - Sud Ouest...",
+            "snippet": "Du jiu-jitsu, mais br\u00e9silien!Sud OuestComprenez les Mixed Martial Arts parmi lesquels, hasard des rencontres et des migrations, on trouve le jiu-jitsu br\u00e9silien. Dans le vaste pays lusophone, il y eut en effet une petite immigration japonaise au...",
+            "date": "2015-04-21",
+            "categories": "mixed-martial-arts,arts",
+            "tags": "martial,arts",
+            "recuweb_url": "http://fr.recuweb.com/arts/sudouest.fr/2015/04/du-jiu-jitsu-mais-br%C3%A9silien-sud-ouest",
+            "resource_url": "http://news.google.fr/?hl=fr&q=arts%2Bmartiaux%2Bjaponais&output=atom&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/21/du-jiu-jitsu-mais-bresilien-1898596-3318.php"
+        },
+        "fr.sputniknews.com/2015/04/ces-femmes-ninjas-qui-veillent-sur-l-iran-sputnik-france": {
+            "title": "Ces femmes ninjas qui veillent sur l'Iran - Sputnik France...",
+            "snippet": "Ces femmes ninjas qui veillent sur l'IranSputnik FranceL'article parlait de femmes iraniennes pratiquant des arts martiaux \"Des milliers de femmes ninjas s'entra\u00eenent pour devenir des tueuses iraniennes\", titrait le journal. L'entra\u00eeneur et...",
+            "date": "2015-04-20",
             "categories": "arts",
             "tags": "arts,martiaux",
-            "recuweb_url": "http://fr.recuweb.com/arts/elmoudjahid.com/2015/02/le-palais-des-ra%C3%AFs-abrite-vernissage-de-l-exposition-esprit",
+            "recuweb_url": "http://fr.recuweb.com/arts/fr.sputniknews.com/2015/04/ces-femmes-ninjas-qui-veillent-sur-l-iran-sputnik-france",
             "resource_url": "http://news.google.fr/?hl=fr&q=arts%2Bmartiaux%2Bjaponais&output=atom&nord=1",
-            "source_url": "http://elmoudjahid.com/fr/actualites/73741"
-        },
-        "france3-regions.francetvinfo.fr/2015/02/un-grand-ma%C3%AEtre-des-arts-martiaux-en-visite-au-dojo": {
-            "title": "Un grand ma\u00eetre des arts martiaux en visite au dojo de Ceyrat (63) - Francetv info...",
-            "snippet": "Francetv infoUn grand ma\u00eetre des arts martiaux en visite au dojo de Ceyrat (63)Francetv infoAndr\u00e9 Cognard est membre de la Dai Nippon Butoku Kai, prestigieuse organisation gouvernementale japonaise des arts martiaux. Il a re\u00e7u de celle-ci le...",
-            "date": "2015-02-15",
-            "categories": "arts",
-            "tags": "re\u00e7u,arts,martiaux",
-            "recuweb_url": "http://fr.recuweb.com/arts/france3-regions.francetvinfo.fr/2015/02/un-grand-ma%C3%AEtre-des-arts-martiaux-en-visite-au-dojo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=arts%2Bmartiaux%2Bjaponais&output=atom&nord=1",
-            "source_url": "http://france3-regions.francetvinfo.fr/auvergne/2015/02/15/un-grand-maitre-des-arts-martiaux-en-visite-au-dojo-de-ceyrat-63-656009.html"
+            "source_url": "http://fr.sputniknews.com/presse/20150420/1015741074.html"
         }
     }
 }
