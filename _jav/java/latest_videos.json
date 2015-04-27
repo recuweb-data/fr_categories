@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "java",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -22,13 +23,25 @@
             "source_url": "http://dailymotion.com/video/x2lykc3_introduction-to-java-programming-learn-java-1_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lykc3_introduction-to-java-programming-learn-java-1_fun"
         },
+        "dailymotion.com/2015/02/karaoke-claude-nougaro-le-jazz-et-la-java": {
+            "title": "KARAOKE CLAUDE NOUGARO - Le jazz et la java...",
+            "snippet": "CLAUDE NOUGARO \"Le jazz et la java\" [Version KARAOK\u00c9]Author: KaRaoKeWoRLDTags: Karaoke Karaok\u00e9 Claude Nougaro Le Jazz et la Java Musique instrumentale lyrics toulouse Posted: 27 February 2015Rating:: 0...",
+            "date": "2015-02-27",
+            "author_name": "KaRaoKeWoRLD",
+            "categories": "java,musique",
+            "tags": "java",
+            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2015/02/karaoke-claude-nougaro-le-jazz-et-la-java",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i8c4w_karaoke-claude-nougaro-le-jazz-et-la-java_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i8c4w_karaoke-claude-nougaro-le-jazz-et-la-java_music"
+        },
         "dailymotion.com/2015/02/la-java-de-broadway-michel-sardou": {
             "title": "La java de broadway Michel Sardou...",
             "snippet": "interpreter par daniel jeanAuthor: daniel-jean-13210Tags: La Java de Broadway Posted: 16 February 2015Rating:: 0...",
             "date": "2015-02-16",
             "author_name": "daniel-jean-13210",
             "categories": "java",
-            "tags": "java,michel,michel_sardou,sardou,broadway,jean",
+            "tags": "java,michel,michel_sardou,sardou,broadway",
             "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/02/la-java-de-broadway-michel-sardou",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hantq_la-java-de-broadway-michel-sardou_music",
@@ -40,7 +53,7 @@
             "date": "2015-01-30",
             "author_name": "vsn",
             "categories": "java",
-            "tags": "michel,michel_sardou,sardou,sardou_la_java,java,broadway",
+            "tags": "michel,michel_sardou,sardou,java,broadway",
             "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/01/michel-sardou-et-patrick-bruel-la-java-de-broadway-duo",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fzwj2_michel-sardou-et-patrick-bruel-la-java-de-broadway-duo_music",
@@ -52,7 +65,7 @@
             "date": "2015-01-19",
             "author_name": "mohamedYoussfi",
             "categories": "java,collection",
-            "tags": "java,gestion",
+            "tags": "java,gestion,exceptions",
             "recuweb_url": "http://fr.recuweb.com/collection/youtube.com/2015/01/mohamed-youssfi-td-poo-java-gestion-des-appels",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0wJXXHDecr0&feature=youtube_gdata",
@@ -94,41 +107,29 @@
             "source_url": "http://youtube.com/watch?v=XFK1fLxVgxU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XFK1fLxVgxU/0.jpg"
         },
+        "youtube.com/2014/12/java-interm%C3%A9diaire-19-les-exceptions": {
+            "title": "JAVA (Interm\u00e9diaire) - 19 - Les exceptions en Java...",
+            "snippet": "JAVA (Interm\u00e9diaire) - 19 - Les exceptions en Java D\u00e9couvrons la gestion d'exceptions en Java! From: LES TEACHERS DU NET Views: 670 8 ratings Time: 07:38 More in Education...",
+            "date": "2014-12-23",
+            "author_name": "LES TEACHERS DU NET",
+            "categories": "java",
+            "tags": "teachers,teachers_du_net,net,gestion,exceptions,java,interm\u00e9diaire,education",
+            "recuweb_url": "http://fr.recuweb.com/java/youtube.com/2014/12/java-interm%C3%A9diaire-19-les-exceptions",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=fQbm0AlpX54&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/fQbm0AlpX54/0.jpg"
+        },
         "youtube.com/2014/11/java-interm%C3%A9diaire-8-le-constructeur": {
             "title": "JAVA (Interm\u00e9diaire) - 8 - Le constructeur...",
             "snippet": "JAVA (Interm\u00e9diaire) - 8 - Le constructeur Qu'est-ce qu'un constructeur? La r\u00e9ponse dans cette vid\u00e9o... From: LES TEACHERS DU NET Views: 1953 21 ratings Time: 14:47 More in Education...",
             "date": "2014-11-23",
             "author_name": "LES TEACHERS DU NET",
             "categories": "java",
-            "tags": "java",
+            "tags": "teachers,teachers_du_net,net,java,interm\u00e9diaire,education",
             "recuweb_url": "http://fr.recuweb.com/java/youtube.com/2014/11/java-interm%C3%A9diaire-8-le-constructeur",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=cGpJ0o9z5GQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/cGpJ0o9z5GQ/0.jpg"
-        },
-        "dailymotion.com/2014/04/michel-sardou-la-java-de-broadway-live-officiel-archive-ina": {
-            "title": "Michel Sardou La Java de Broadway (live officiel) - Archive INA...",
-            "snippet": "Michel Sardou chante \" La java de Broadway \"Author: inaTags: Archive Michel Sardou Institut national de laudiovisuel La Java de Broadway Interpr\u00e9tation Vari\u00e9t\u00e9s Posted: 24 April 2014Rating:: 0...",
-            "date": "2014-04-24",
-            "author_name": "ina",
-            "categories": "java",
-            "tags": "interpr\u00e9tation,vari\u00e9t\u00e9s,java,chante,michel,michel_sardou,sardou,sardou_la_java,broadway,inatags",
-            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2014/04/michel-sardou-la-java-de-broadway-live-officiel-archive-ina",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1qwpoq_michel-sardou-la-java-de-broadway-live-officiel-archive-ina_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1qwpoq_michel-sardou-la-java-de-broadway-live-officiel-archive-ina_music"
-        },
-        "dailymotion.com/2014/04/serge-reggiani-la-java-des-bombes-atomiques": {
-            "title": "Serge Reggiani La java des bombes atomiques...",
-            "snippet": "Devant le public de l'\u00e9mission, Serge REGGIANI chante en direct La java des bombes atomiques accompagn\u00e9 par l'orchestre de Jean: inaTags: Interpr\u00e9tation Vari\u00e9t\u00e9s Posted: 24 April 2014Rating:: 0...",
-            "date": "2014-04-24",
-            "author_name": "ina",
-            "categories": "java",
-            "tags": "interpr\u00e9tation,vari\u00e9t\u00e9s,java,chante,jean,inatags",
-            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2014/04/serge-reggiani-la-java-des-bombes-atomiques",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1qwr6t_serge-reggiani-la-java-des-bombes-atomiques_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1qwr6t_serge-reggiani-la-java-des-bombes-atomiques_music"
         }
     }
 }
