@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rallye-automobile",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rallye-automobile/",
@@ -10,29 +11,64 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/03/sujet-mars-rallye-automobile-2015": {
+            "title": "Sujet Mars: Rallye Automobile 2015...",
+            "snippet": "Author: TouquetVideoTags: Le Touquet-Paris-Plage Comp\u00e9tition automobile Rallye automobile le touquet Posted: 18 March 2015Rating:: 0...",
+            "date": "2015-03-18",
+            "author_name": "TouquetVideo",
+            "categories": "rallye-automobile",
+            "tags": "automobile,comp\u00e9tition,rallye,rallye_automobile,paris",
+            "recuweb_url": "http://fr.recuweb.com/rallye-automobile/dailymotion.com/2015/03/sujet-mars-rallye-automobile-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rallye+automobile+rallye+automobile/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2junf5_sujet-mars-rallye-automobile-2015_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2junf5_sujet-mars-rallye-automobile-2015_auto"
+        },
+        "youtube.com/2015/01/la-gendarmerie-au-rallye-monte-carlo-2015": {
+            "title": "La gendarmerie au Rallye Monte Carlo 2015...",
+            "snippet": "La gendarmerie au Rallye Monte Carlo 2015 Du 21 au 25 janvier 2015, le d\u00e9partement des Alpes-maritimes a accueilli le 83e Rallye automobile de Monte-Carlo, organis\u00e9 par l'automobile Club de Monaco. Gendarmes d\u00e9partementaux, mobiles,... From:...",
+            "date": "2015-01-28",
+            "author_name": "Gendarmerie nationale",
+            "tags": "organis\u00e9,automobile,rallye",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/01/la-gendarmerie-au-rallye-monte-carlo-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=75lx6S2AHJY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/75lx6S2AHJY/0.jpg"
+        },
         "youtube.com/2014/11/2%C3%A8me-%C3%A9dition-du-rallye-automobile-de-ngozi": {
             "title": "2\u00e8me \u00e9dition du Rallye Automobile de NGOZI...",
-            "snippet": "2\u00e8me \u00e9dition du Rallye Automobile de NGOZI Le week-end du 15 et 16 Novembre, la ville de NGOZI a abrit\u00e9 la 2\u00e8me \u00e9dition de la comp\u00e9tition automobile remport\u00e9e par le duo burundais Rudi Cantanhede et T... From: Iwacu Web TV Views: 1484 4...",
+            "snippet": "2\u00e8me \u00e9dition du Rallye Automobile de NGOZI Le week-end du 15 et 16 Novembre, la ville de NGOZI a abrit\u00e9 la 2\u00e8me \u00e9dition de la comp\u00e9tition automobile remport\u00e9e par le duo burundais Rudi Cantanhede et Tissarchontos Petros. From: Iwacu Web TV...",
             "date": "2014-11-17",
             "author_name": "Iwacu Web TV",
             "categories": "competition-automobile,rallye-automobile",
-            "tags": "web,\u00e8me,\u00e9dition,automobile,rallye",
+            "tags": "web,\u00e8me,comp\u00e9tition,automobile,rallye,rallye_automobile",
             "recuweb_url": "http://fr.recuweb.com/rallye-automobile/youtube.com/2014/11/2%C3%A8me-%C3%A9dition-du-rallye-automobile-de-ngozi",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile%2Brallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=T7Uh4Fy9ycE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/T7Uh4Fy9ycE/0.jpg"
         },
-        "youtube.com/2014/06/rallye-de-la-luronne-2014-by-vive-le-sport-automobile-juliette": {
-            "title": "Rallye de la Luronne 2014 by Vive le Sport Automobile - Juliette Hamel.",
-            "snippet": "Rallye de la Luronne 2014 by Vive le Sport Automobile - Juliette Hamel. Pour toutes demandes de vid\u00e9os, rendez-vous sur ma page youtube: Vive le Sport Automobile; Ou sur mon site web:.... From: Vive le Sport Automobile Views: 616 2 ratings Time:...",
-            "date": "2014-06-10",
+        "youtube.com/2014/10/rallye-muller-et-loeb-%C3%A9voquent-les-risques-des-sports-automobiles-17": {
+            "title": "Rallye/Muller et Loeb: \u00c9voquent les risques des sports automobiles - 17/10...",
+            "snippet": "Rallye/Muller et Loeb: \u00c9voquent les risques des sports automobiles - 17/10 Pr\u00e9sents au Mondial de l'Automobile Yvan Muller et S\u00e9bastien Loeb sont revenus sur l'accident de Jules Bianchi. D\u00e9couvrez toute l'actualit\u00e9 et les derni\u00e8res infos du...",
+            "date": "2014-10-17",
+            "author_name": "RMC Sport",
+            "categories": "sport",
+            "tags": "sports,rallye",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/rallye-muller-et-loeb-%C3%A9voquent-les-risques-des-sports-automobiles-17",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=20eljUIlH5o&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/20eljUIlH5o/0.jpg"
+        },
+        "youtube.com/2014/05/rallye-du-cristal-2014-by-vive-le-sport-automobile-juliette-hamel": {
+            "title": "Rallye du Cristal 2014 by Vive le Sport Automobile - Juliette Hamel...",
+            "snippet": "Rallye du Cristal 2014 by Vive le Sport Automobile - Juliette Hamel Pour toutes demandes de vid\u00e9os, rendez-vous sur ma page youtube: Vive le Sport Automobile; Ou sur mon site web:; Ou en tapant Vive le Sport... From: Vive le Sport Automobile Views:...",
+            "date": "2014-05-04",
             "author_name": "Vive le Sport Automobile",
             "categories": "sport",
             "tags": "site,site-web,web,page,juliette,juliette_hamel,hamel,sport,sport_automobile,automobile,rallye,vive",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/06/rallye-de-la-luronne-2014-by-vive-le-sport-automobile-juliette",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/05/rallye-du-cristal-2014-by-vive-le-sport-automobile-juliette-hamel",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile%2Brallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=_0L8rUP-Ivk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/_0L8rUP-Ivk/0.jpg"
+            "source_url": "http://youtube.com/watch?v=HvftMFiZGR4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/HvftMFiZGR4/0.jpg"
         },
         "dailymotion.com/2014/01/rallye-automobile-var-tour-auto-trophee-salinas": {
             "title": "Rallye automobile VAR TOUR AUTO-TROPHEE SALINAS...",
@@ -40,26 +76,15 @@
             "date": "2014-01-07",
             "author_name": "pilotageporschecup",
             "categories": "marathon",
-            "tags": "participants,tour,var,rallye,automobile",
+            "tags": "rallye,automobile",
             "recuweb_url": "http://fr.recuweb.com/marathon/dailymotion.com/2014/01/rallye-automobile-var-tour-auto-trophee-salinas",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rallye+automobile+rallye+automobile/0?af=1",
             "source_url": "http://dailymotion.com/video/x19bpui_rallye-automobile-var-tour-auto-trophee-salinas_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x19bpui_rallye-automobile-var-tour-auto-trophee-salinas_auto"
         },
-        "youtube.com/2013/11/niagara-falls-rallye-automobile-du-club-richelieu-tfo-24-7": {
-            "title": "Niagara Falls: Rallye automobile du Club Richelieu - TFO 24.7...",
-            "snippet": "Niagara Falls: Rallye automobile du Club Richelieu - TFO 24.7 La 14e \u00e9dition du Rallye automobile du Club Richelieu Niagara Falls a rassembl\u00e9 une cinquantaine de participants. L'\u00e9v\u00e9nement mettait en vedette la Heartland... From: TFO 24.7 Views:...",
-            "date": "2013-11-01",
-            "author_name": "TFO 24.7",
-            "tags": "participants,\u00e9dition,automobile,rallye",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2013/11/niagara-falls-rallye-automobile-du-club-richelieu-tfo-24-7",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=H_Q-zG4ZVbY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/H_Q-zG4ZVbY/0.jpg"
-        },
         "youtube.com/2013/10/rallye-du-stanislas-l%C3%A9opold-2013-by-vive-le-sport-automobile-juliette": {
             "title": "Rallye du Stanislas L\u00e9opold 2013 by Vive le Sport Automobile - Juliette Hamel...",
-            "snippet": "Rallye du Stanislas L\u00e9opold 2013 by Vive le Sport Automobile - Juliette Hamel Vous pouvez me suivre sur ma page facebook: Ou sur mon site web:... From: Vive le Sport Automobile Views: 280 0 ratings Time: 25:00 More in People & Blogs...",
+            "snippet": "Rallye du Stanislas L\u00e9opold 2013 by Vive le Sport Automobile - Juliette Hamel Vous pouvez me suivre sur ma page facebook: Ou sur mon site web: From: Vive le Sport Automobile Views: 289 0 ratings Time: 25:00 More in People & Blogs...",
             "date": "2013-10-31",
             "author_name": "Vive le Sport Automobile",
             "categories": "facebook,sport",
@@ -83,51 +108,27 @@
         },
         "youtube.com/2013/10/course-automobile-toutes-les-%C3%A9tapes-du-10%C3%A8me-rallye-de-bouak%C3%A9": {
             "title": "Course automobile: toutes les \u00e9tapes du 10\u00e8me Rallye de Bouak\u00e9...",
-            "snippet": "Course automobile: toutes les \u00e9tapes du 10\u00e8me Rallye de Bouak\u00e9 Course automobile: toutes les \u00e9tapes du 10\u00e8me Rallye de Bouak\u00e9. From: Views: 1714 1 ratings Time: 04:01 More in Sports...",
+            "snippet": "Course automobile: toutes les \u00e9tapes du 10\u00e8me Rallye de Bouak\u00e9 Course automobile: toutes les \u00e9tapes du 10\u00e8me Rallye de Bouak\u00e9. From: Views: 1725 1 ratings Time: 04:01 More in Sports...",
             "date": "2013-10-07",
             "author_name": "Abidjan.netTV",
             "categories": "sport",
-            "tags": "automobile,\u00e8me,rallye",
+            "tags": "automobile,\u00e8me,rallye,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2013/10/course-automobile-toutes-les-%C3%A9tapes-du-10%C3%A8me-rallye-de-bouak%C3%A9",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=5bajfW48GyY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/5bajfW48GyY/0.jpg"
         },
-        "youtube.com/2013/09/defi-turbo-2013-m6-concours-automobile-et-rallye-raid": {
-            "title": "DEFI TURBO 2013 M6 (Concours automobile et rallye raid)...",
-            "snippet": "DEFI TURBO 2013 M6 (Concours automobile et rallye raid) Vid\u00e9o de candidature au D\u00e9fi Turbo 2013. Cette ann\u00e9e le Rallye Raid est \u00e0 l'honneur, franchissement et orientation sont au programme. Mais avant une s\u00e9lectio... From: Bateautv Views: 280 0...",
-            "date": "2013-09-11",
-            "author_name": "Bateautv",
-            "categories": "rallye-raid",
-            "tags": "rallye,automobile",
-            "recuweb_url": "http://fr.recuweb.com/rallye-raid/youtube.com/2013/09/defi-turbo-2013-m6-concours-automobile-et-rallye-raid",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=FqqLu8aMNXw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/FqqLu8aMNXw/0.jpg"
-        },
         "youtube.com/2013/07/rallye-automobile-manif-pour-tous-en-plein-paris": {
             "title": "Rallye automobile Manif Pour Tous en plein Paris...",
-            "snippet": "Rallye automobile \"Manif Pour Tous\" en plein Paris Media Investigation Twitter: fxenquete \"La Manif Pour Tous\" a organis\u00e9 une grande travers\u00e9e de Paris pour la d\u00e9fense d... From: fxdubc Views: 436 12 ratings Time: 25:59 More in News & Politics...",
+            "snippet": "Rallye automobile \"Manif Pour Tous\" en plein Paris Media Investigation Twitter: fxenquete \"La Manif Pour Tous\" a organis\u00e9 une grande travers\u00e9e de Paris pour la d\u00e9fense des libert\u00e9s le dimanche 30... From: fxdubc Views: 452 12 ratings Time: 25:59...",
             "date": "2013-07-03",
             "author_name": "fxdubc",
             "categories": "twitter",
-            "tags": "automobile,rallye",
+            "tags": "organis\u00e9,automobile,rallye,paris",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2013/07/rallye-automobile-manif-pour-tous-en-plein-paris",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile%2Brallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=zNXgZPu1PXQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/zNXgZPu1PXQ/0.jpg"
-        },
-        "youtube.com/2012/05/var-vive-%C3%A9motion-au-lendemain-de-l-accident-rallye": {
-            "title": "Var: vive \u00e9motion au lendemain de l'accident de rallye qui a fait 2 morts...",
-            "snippet": "Var: vive \u00e9motion au lendemain de l'accident de rallye qui a fait 2 morts Toute l'actualit\u00e9 sur Au lendemain de l'accident qui a endeuill\u00e9 samedi un rallye automobile \u00e0 Plan-de-la-Tour et alors que les circons... From: BFMTV Views: 18370 13...",
-            "date": "2012-05-20",
-            "author_name": "BFMTV",
-            "categories": "rallye-automobile,mort",
-            "tags": "rallye,automobile,vive,var,tour",
-            "recuweb_url": "http://fr.recuweb.com/mort/youtube.com/2012/05/var-vive-%C3%A9motion-au-lendemain-de-l-accident-rallye",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rallye%2Bautomobile&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=dOfilEhJLKY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/dOfilEhJLKY/0.jpg"
         }
     }
 }
