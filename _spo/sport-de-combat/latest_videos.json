@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-de-combat",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-de-combat/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/un-combat-m%C3%A9di%C3%A9val-sur-ring-le-nouveau-sport-qui-fait-fureur": {
+            "title": "Un combat m\u00e9di\u00e9val sur un ring: le nouveau sport qui fait fureur...",
+            "snippet": "Un nouveau sport disponible sur vos \u00e9crans: le combat m\u00e9di\u00e9valAuthor: mineyannTags: combat m\u00e9di\u00e9val t\u00e9l\u00e9vision sport ring fight armure \u00e9p\u00e9e bouclier wtf Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "mineyann",
+            "categories": "television,sport",
+            "tags": "combat,sport,nouveau,nouveau-sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/04/un-combat-m%C3%A9di%C3%A9val-sur-ring-le-nouveau-sport-qui-fait-fureur",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sport+de+combat/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nns87_un-combat-medieval-sur-un-ring-le-nouveau-sport-qui-fait-fureur_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nns87_un-combat-medieval-sur-un-ring-le-nouveau-sport-qui-fait-fureur_sport"
+        },
         "dailymotion.com/2015/03/il-ne-faut-jamais-critiquer-un-sport-de-combat-devant-pratiquant": {
             "title": "Il ne faut jamais critiquer un sport de combat devant un pratiquant!",
             "snippet": "Author: funlolmdrTags: humour fun lol mdr video blague image videos blagues images Posted: 10 March 2015Rating:: 0...",
@@ -36,7 +49,7 @@
         },
         "youtube.com/2014/12/la-sociologie-est-un-sport-de-combat-pierre-carles": {
             "title": "La sociologie est un sport de combat Pierre Carles...",
-            "snippet": "La sociologie est un sport de combat Pierre Carles From: Monsieur Propre Views: 45 0 ratings Time: 01:22:25 More in People & Blogs...",
+            "snippet": "La sociologie est un sport de combat Pierre Carles From: Monsieur Propre Views: 52 0 ratings Time: 01:22:25 More in People & Blogs...",
             "date": "2014-12-23",
             "author_name": "Monsieur Propre",
             "categories": "sociologie,sport,sport-de-combat",
@@ -52,23 +65,11 @@
             "date": "2014-12-09",
             "author_name": "USCreteilKarate",
             "categories": "sport",
-            "tags": "combat,karat\u00e9,sport",
+            "tags": "combat,sport",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2014/12/us-creteil-karate-open-de-l-essonne-amine-en-bleu",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sport+de+combat+sport+de+combat/0?af=1",
             "source_url": "http://dailymotion.com/video/x2c6wjc_us-creteil-karate-open-de-l-essonne-amine-en-bleu_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2c6wjc_us-creteil-karate-open-de-l-essonne-amine-en-bleu_sport"
-        },
-        "youtube.com/2014/12/d%C3%A9fi-groupe-muscu-sport-de-combat-le-des-guerriers": {
-            "title": "D\u00e9fi. Groupe. Muscu Sport de combat, le groupe des guerriers...",
-            "snippet": "D\u00e9fi. Groupe. Muscu Sport de combat, le groupe des guerriers 10min planche 2min planche sur bras droit 2min planche sur bras gauche 50pompes sur\u00e9lev\u00e9es 200 crunchs. Le tout sans pause. From: Yves.b Views: 92 3 ratings Time: 23:04 More in Sports...",
-            "date": "2014-12-03",
-            "author_name": "Yves .b",
-            "categories": "sport",
-            "tags": "gauche,combat,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/12/d%C3%A9fi-groupe-muscu-sport-de-combat-le-des-guerriers",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=GzJ7KkoWNvg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/GzJ7KkoWNvg/0.jpg"
         },
         "dailymotion.com/2014/10/texto-sport-de-combat": {
             "title": "TEXTO () Sport de combat...",
@@ -94,17 +95,17 @@
             "source_url": "http://youtube.com/watch?v=I1CfEaqgYkQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/I1CfEaqgYkQ/0.jpg"
         },
-        "youtube.com/2014/09/journ%C3%A9e-des-sports-de-combat-d%C3%A9cathlon-rive-gauche": {
-            "title": "Journ\u00e9e des Sports de Combat - D\u00e9cathlon Rive Gauche...",
-            "snippet": "Journ\u00e9e des Sports de Combat - D\u00e9cathlon Rive Gauche Envie de d\u00e9couvrir les sports de combat? Votre enfant d\u00e9bute le judo ou le karat\u00e9 et vous ne savez pas comment choisir sa tenue? Nos vendeurs sp\u00e9cialistes sont l\u00e0 pour vous! Ils vous...",
-            "date": "2014-09-09",
-            "author_name": "decathlonrivegauche",
-            "categories": "judo,sport",
-            "tags": "karat\u00e9,sports,sports-de-combat,combat,gauche",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/09/journ%C3%A9e-des-sports-de-combat-d%C3%A9cathlon-rive-gauche",
+        "youtube.com/2014/08/mohamed-bajrafil-les-sports-de-combat-en-islam": {
+            "title": "Mohamed Bajrafil - Les sports de combat en Islam...",
+            "snippet": "Mohamed Bajrafil - Les sports de combat en Islam Mohamed Bajrafil \u00e0 la mosqu\u00e9e d'Ivry sur seine le jeudi 04 Juillet 2013. Retrouvez toutes les vid\u00e9os de Mohamed Bajrafil sur Retrouvez toutes les vid\u00e9os... From: Mohamed Bajrafil Views: 836 1...",
+            "date": "2014-08-22",
+            "author_name": "Mohamed Bajrafil",
+            "categories": "sport,islam",
+            "tags": "sports,sports-de-combat,combat",
+            "recuweb_url": "http://fr.recuweb.com/islam/youtube.com/2014/08/mohamed-bajrafil-les-sports-de-combat-en-islam",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=llh5UoOmyd8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/llh5UoOmyd8/0.jpg"
+            "source_url": "http://youtube.com/watch?v=UHWZny_02x8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/UHWZny_02x8/0.jpg"
         },
         "dailymotion.com/2014/08/un-nouveau-sport-de-combat-full-contact-skydiving": {
             "title": "Un nouveau sport de combat: Full Contact Skydiving...",
@@ -112,7 +113,7 @@
             "date": "2014-08-22",
             "author_name": "Breakforbuzz",
             "categories": "sport,sport-de-combat",
-            "tags": "sport,combat,mma,contact,sport-de-combat,fun",
+            "tags": "sport,combat,nouveau,nouveau-sport,mma,contact,sport-de-combat,fun",
             "recuweb_url": "http://fr.recuweb.com/sport-de-combat/dailymotion.com/2014/08/un-nouveau-sport-de-combat-full-contact-skydiving",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sport+de+combat/0?af=1",
             "source_url": "http://dailymotion.com/video/x24997c_un-nouveau-sport-de-combat-full-contact-skydiving_sport",
