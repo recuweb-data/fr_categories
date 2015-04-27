@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "internet",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -10,93 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "journaldugeek.com/2015/03/la-marque-internet-explorer-va-bien-dispara%C3%AEtre-avec-windows-10": {
-            "title": "La marque Internet Explorer va bien dispara\u00eetre avec Windows 10...",
-            "snippet": "Avec Windows 10, Microsoft va d\u00e9finitivement enterrer la marque Internet Explorer, ce qui n'est pas forc\u00e9ment une mauvaise chose! En effet depuis plusieurs ann\u00e9es, la r\u00e9putation d'Internet Explorer est plut\u00f4t mauvaise...",
-            "date": "2015-03-17",
-            "author_name": "Greg",
+        "chatonsky.net/2015/04/post-internet-%C3%A9poque-ontologie-et-stylistique-flux": {
+            "title": "Post-Internet: \u00e9poque, ontologie et stylistique Flux...",
+            "snippet": "Le post-Internet c'est une fois que la domination d'Internet a \u00e9t\u00e9 act\u00e9e, une fois que le r\u00e9seau est devenu commun et constitue le flux de nos existences. Le paradoxe de cettevictoire c'est qu'en infiltrant sur plusieurs niveaux...",
+            "date": "2015-04-23",
+            "author_name": "Gregory Chatonsky",
             "categories": "internet",
-            "tags": "marque,internet,internet_explorer,explorer,windows,microsoft",
-            "recuweb_url": "http://fr.recuweb.com/internet/journaldugeek.com/2015/03/la-marque-internet-explorer-va-bien-dispara%C3%AEtre-avec-windows-10",
+            "tags": "r\u00e9seau,internet,\u00e9t\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/internet/chatonsky.net/2015/04/post-internet-%C3%A9poque-ontologie-et-stylistique-flux",
             "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldugeek.com/2015/03/17/la-marque-internet-explorer-va-bien-disparaitre-avec-windows-10/"
+            "source_url": "http://chatonsky.net/flux/post-internet-definition/"
         },
-        "generation-nt.com/2015/03/microsoft-va-tuer-la-marque-internet-explorer": {
-            "title": "Microsoft va tuer la marque Internet Explorer...",
-            "snippet": "La firme de Redmond confirme la fin de la marque Internet Explorer avec l'av\u00e8nement du syst\u00e8me d'exploitation Windows 10.",
-            "date": "2015-03-17",
+        "lesmobiles.com/2015/04/pr%C3%A8s-de-9-fran%C3%A7ais-sur-10-ne-savent-pas-%C3%A9valuer": {
+            "title": "Pr\u00e8s de 9 fran\u00e7ais sur 10 ne savent pas \u00e9valuer leur consommation...",
+            "snippet": "Si l'am\u00e9lioration conjugu\u00e9e des smartphones et du r\u00e9seau permet au consommateur fran\u00e7ais une meilleure utilisation d'Internet, ce dernier ne semble toujours pas en ma\u00eetriser sa consommation. Les fran\u00e7ais sont en effet...",
+            "date": "2015-04-23",
             "author_name": "inconnu",
             "categories": "internet",
-            "tags": "fin,marque,internet,internet_explorer,explorer,microsoft,windows",
-            "recuweb_url": "http://fr.recuweb.com/internet/generation-nt.com/2015/03/microsoft-va-tuer-la-marque-internet-explorer",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/microsoft-internet-explorer-project-spartan-actualite-1913207.html"
-        },
-        "lci.tf1.fr/2015/03/vous-d%C3%A9clarez-vos-imp%C3%B4ts-sur-internet-voici-les-dates-cl%C3%A9s-lci": {
-            "title": "Vous d\u00e9clarez vos imp\u00f4ts sur Internet: voici les dates cl\u00e9s... - LCI - Tf1...",
-            "snippet": "INFO PRATIQUE. Le service de d\u00e9claration en ligne des imp\u00f4ts ouvrira le 15 avril. Le minist\u00e8re des Finances et des Comptes publics a annonc\u00e9 que les Fran\u00e7ais pourraient faire leur d\u00e9claration d\u00e8s cette date.",
-            "date": "2015-03-17",
-            "author_name": "inconnu",
-            "categories": "internet",
-            "tags": "pourraient,annonc\u00e9,minist\u00e8re,voici,internet,ligne,avril",
-            "recuweb_url": "http://fr.recuweb.com/internet/lci.tf1.fr/2015/03/vous-d%C3%A9clarez-vos-imp%C3%B4ts-sur-internet-voici-les-dates-cl%C3%A9s-lci",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lci.tf1.fr/economie/vous-declarez-vos-impots-sur-internet-voici-les-dates-cles-8580100.html"
-        },
-        "rslnmag.fr/2015/03/rsln-les-cbles-sous-marins-la-partie-immerg%C3%A9e-d-internet": {
-            "title": "RSLN Les cbles sous-marins: la partie immerg\u00e9e d'Internet...",
-            "snippet": "Afin de rappeler le c\u00f4t\u00e9 \u00e9minemment mat\u00e9riel du r\u00e9seau des r\u00e9seaux, Telegeography a r\u00e9alis\u00e9 une cartographie de ces 299 cbles sous-marins qui assurent quotidiennement notre connexion Internet. Une initiative relay\u00e9e...",
-            "date": "2015-03-16",
-            "author_name": "Elsa Trujillo",
-            "categories": "internet",
-            "tags": "r\u00e9seaux,internet,afin",
-            "recuweb_url": "http://fr.recuweb.com/internet/rslnmag.fr/2015/03/rsln-les-cbles-sous-marins-la-partie-immerg%C3%A9e-d-internet",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://rslnmag.fr/post/2015/03/16/Les-cables-sous-marins-la-partie-immergee-dInternet.aspx"
-        },
-        "lemondeinformatique.fr/2015/03/amazon-rach%C3%A8te-la-start-up-2lemetry-sp%C3%A9cialis%C3%A9e-dans-l-internet": {
-            "title": "Amazon rach\u00e8te la start-up 2lemetry, sp\u00e9cialis\u00e9e dans l'Internet des...",
-            "snippet": "Amazon rach\u00e8te la start-up 2lemetry, sp\u00e9cialis\u00e9e dans l'Internet des objets. La plate-forme ThingFabric d\u00e9velopp\u00e9e par 2lemetry analyse les donn\u00e9es sur tous les syst\u00e8mes existants. Cr\u00e9dit: D.R. En s'offrant la jeune pousse...",
-            "date": "2015-03-13",
-            "author_name": "V\u00e9ronique Ar\u00e8ne avec IDG NS",
-            "categories": "internet",
-            "tags": "internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/lemondeinformatique.fr/2015/03/amazon-rach%C3%A8te-la-start-up-2lemetry-sp%C3%A9cialis%C3%A9e-dans-l-internet",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lemondeinformatique.fr/actualites/lire-amazon-rachete-la-start-up-2lemetry-specialisee-dans-l-internet-des-objets-60528.html"
-        },
-        "bigbrowser.blog.lemonde.fr/2015/03/selon-internet-soit-poutine-est-mort-son-amante-a-accouch%C3%A9": {
-            "title": "Selon Internet, soit Poutine est mort, soit son amante a accouch\u00e9 en...",
-            "snippet": "Des images qui sont arriv\u00e9es un peu tard pour \u00e9viter que l'Internet russe ne s'emballe. Apr\u00e8s l'interview du porte-parole aux Echos de Moscou, les r\u00e9seaux ont rapidement conclu que le pr\u00e9sident... \u00e9tait mort. Mais c'\u00e9tait pour...",
-            "date": "2015-03-13",
-            "author_name": "faq",
-            "categories": "mort,internet",
-            "tags": "r\u00e9seaux,images,\u00e9viter,internet,inter,\u00e9tait",
-            "recuweb_url": "http://fr.recuweb.com/internet/bigbrowser.blog.lemonde.fr/2015/03/selon-internet-soit-poutine-est-mort-son-amante-a-accouch%C3%A9",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bigbrowser.blog.lemonde.fr/2015/03/13/selon-internet-soit-poutine-est-mort-soit-son-amante-a-accouche-en-suisse-selon-internet/"
-        },
-        "slate.fr/2015/03/tumblr-a-t-il-d%C3%A9tr%C3%B4n%C3%A9-reddit-dans-le-monde-de-l": {
-            "title": "Tumblr a-t-il d\u00e9tr\u00f4n\u00e9 Reddit dans le monde de l'Internet viral?",
-            "snippet": "Dans un article publi\u00e9 sur le Washington Post, Caitlin Dewey estime que le site rachet\u00e9 par Yahoo! pour 1,1 milliard de dollars en 2013 pourrait bien \u00eatre le nouvel \u00e9picentre de l'Internet viral. Pour cela le site se base entre...",
-            "date": "2015-03-12",
-            "author_name": "Gr\u00e9gor Brandy",
-            "categories": "tumblr,internet,yahoo",
-            "tags": "site,nouvel,monde,internet",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/slate.fr/2015/03/tumblr-a-t-il-d%C3%A9tr%C3%B4n%C3%A9-reddit-dans-le-monde-de-l",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/98981/tumblr-nouveau-reddit"
-        },
-        "legorafi.fr/2015/02/windows-10-internet-explorer-change-de-nom-pour-devenir": {
-            "title": "Windows 10 Internet Explorer change de nom pour devenir...",
-            "snippet": "Los Angeles Microsoft a annonc\u00e9 des nouveaut\u00e9s pour son Windows 10 qui sort bient\u00f4t. L'une d'entre elles est le nouveau nom de Internet Explorer qui deviendra Google Chrome Installator. Les dirigeants de Windows...",
-            "date": "2015-02-24",
-            "author_name": "legorafi",
-            "categories": "google,internet",
-            "tags": "google,chrome,annonc\u00e9,microsoft,change,internet,internet_explorer,explorer,windows",
-            "recuweb_url": "http://fr.recuweb.com/internet/legorafi.fr/2015/02/windows-10-internet-explorer-change-de-nom-pour-devenir",
+            "tags": "fran\u00e7ais,toujours,r\u00e9seau,utilisation,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/lesmobiles.com/2015/04/pr%C3%A8s-de-9-fran%C3%A7ais-sur-10-ne-savent-pas-%C3%A9valuer",
             "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://legorafi.fr/2015/02/24/windows-10-internet-explorer-change-de-nom-pour-devenir-google-chrome-installator/"
+            "source_url": "http://lesmobiles.com/actualite/17668-pres-de-9-francais-sur-10-ne-savent-pas-evaluer-leur-consommation-d-internet-mobile.html"
+        },
+        "tuxboard.com/2015/04/la-main-volontaire-de-giorgio-chiellini-d%C3%A9tourn%C3%A9e-sur-internet": {
+            "title": "La main volontaire de Giorgio Chiellini d\u00e9tourn\u00e9e sur Internet...",
+            "snippet": "La main volontaire de Giorgio Chiellini d\u00e9tourn\u00e9e sur Internet (Monaco-Juventus). Moins d'une minute apr\u00e8s le coup d'envoi de la rencontre entre Monaco et la Juventus de Turin (quart de finale retour de la Ligue des...",
+            "date": "2015-04-22",
+            "author_name": "Polo",
+            "categories": "internet",
+            "tags": "internet,moins",
+            "recuweb_url": "http://fr.recuweb.com/internet/tuxboard.com/2015/04/la-main-volontaire-de-giorgio-chiellini-d%C3%A9tourn%C3%A9e-sur-internet",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tuxboard.com/main-volontaire-chiellini-monaco-juventus/"
+        },
+        "begeek.fr/2015/04/google-va-en-finir-avec-les-pr%C3%A9liminaires-pour-un-internet": {
+            "title": "Google va en finir avec les pr\u00e9liminaires pour un Internet plus rapide...",
+            "snippet": "Le moteur de recherche Google souhaite un Internet toujours plus rapide. Il va proposer un nouveau protocole qui permettrait de r\u00e9duire le temps de chargement des pages web et des vid\u00e9os en r\u00e9duisant au minimum...",
+            "date": "2015-04-21",
+            "author_name": "Pierrick Labbe",
+            "categories": "moteur-de-recherche,google,internet",
+            "tags": "pages,toujours,moteur,moteur-de-recherche,recherche,google,internet,web",
+            "recuweb_url": "http://fr.recuweb.com/internet/begeek.fr/2015/04/google-va-en-finir-avec-les-pr%C3%A9liminaires-pour-un-internet",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://begeek.fr/google-va-en-finir-avec-les-preliminaires-pour-un-internet-plus-rapide-167325"
+        },
+        "bfmbusiness.bfmtv.com/2015/04/ikea-invente-le-mariage-sur-internet-bfmtv": {
+            "title": "Ikea invente le mariage sur internet - BFMTV...",
+            "snippet": "Le g\u00e9ant du meuble en kit organise, en Su\u00e8de, votre c\u00e9r\u00e9monie de mariage diffus\u00e9e sur Internet. Pour dire oui le jour J ou assurer une ultime r\u00e9p\u00e9tition avant la vraie c\u00e9r\u00e9monie?",
+            "date": "2015-04-18",
+            "author_name": "inconnu",
+            "categories": "internet",
+            "tags": "internet,bfmtv",
+            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/04/ikea-invente-le-mariage-sur-internet-bfmtv",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/mariez-vous-sur-internet-grace-a-ikea-878490.html"
+        },
+        "bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfmtv": {
+            "title": "Leclerc: \"nous allons investir des milliards sur Internet\" - BFMTV...",
+            "snippet": "\"Demain nos enfants iront d'abord chercher les marques sur internet et une fois la marque trouv\u00e9e, ils regarderont o\u00f9 elle est. Donc, il faut construire un grand portail internet\", a expliqu\u00e9 Michel-Edouard Leclerc.",
+            "date": "2015-04-15",
+            "author_name": "inconnu",
+            "categories": "internet",
+            "tags": "internet,bfmtv,enfants,o\u00f9,grand",
+            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfmtv",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/leclerc-nous-allons-investir-des-milliards-sur-internet-877653.html"
         },
         "witroubtfransen.wordpress.com/2014/10/m%C3%AAme-sans-internet": {
             "title": "M\u00eame sans internet...",
@@ -104,9 +83,9 @@
             "date": "2014-10-12",
             "author_name": "witroubtfransen",
             "categories": "ordinateur,radio,internet",
-            "tags": "nationale,peut,non,m\u00eame,sans,internet",
+            "tags": "s\u00e9curit\u00e9,sans,internet,peut",
             "recuweb_url": "http://fr.recuweb.com/internet/witroubtfransen.wordpress.com/2014/10/m%C3%AAme-sans-internet",
-            "resource_url": "http://fr.search.wordpress.com/?q=internet&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=internet%2Binternet&f=feed&page=1",
             "source_url": "http://witroubtfransen.wordpress.com/2014/10/12/meme-sans-internet/"
         }
     }
