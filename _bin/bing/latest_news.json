@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "bing",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/bing/",
@@ -10,105 +11,103 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
-        "lesnewseco.fr/2015/04/google-serait-passible-dune-amende-de-6-milliards-dollars": {
-            "title": "Google serait passible dune amende de 6 milliards de dollars!",
-            "snippet": "ou Bing). Plus pr\u00e9cis\u00e9ment, Google est accus\u00e9 d\u00e9craser la concurrence en alt\u00e9rant quelque peu certains r\u00e9sultats de recherche en vue de favoriser ses propres services. Cest sur la base de ce constat que lUnion Europ\u00e9enne a initi\u00e9 une...",
-            "date": "2015-04-05",
-            "categories": "google,bing",
-            "tags": "r\u00e9sultats,recherche,google,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/lesnewseco.fr/2015/04/google-serait-passible-dune-amende-de-6-milliards-dollars",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
-            "source_url": "http://lesnewseco.fr/actualites/google-serait-passible-dune-amende-de-6-milliards-de-dollars-013034.html"
-        },
-        "rollingstone.com/2015/04/bing-groundhog-day-musical-coming-to-broadway": {
-            "title": "BING! 'Groundhog Day'Musical Coming to Broadway -...",
-            "snippet": "! 'Groundhog Day'Musical Coming to musical adaptation of Groundhog Day the revered 1993 film dramedy starring Bill Murray and Andie MacDowell will begin its Broadway run in early 2017. Previews for the show will commence January 23rd of that year,...",
-            "date": "2015-04-03",
-            "categories": "bing",
-            "tags": "show,film,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/rollingstone.com/2015/04/bing-groundhog-day-musical-coming-to-broadway",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing&output=atom&nord=1",
-            "source_url": "http://rollingstone.com/culture/news/bing-groundhog-day-coming-to-broadway-20150403"
-        },
-        "lavoixdunord.fr/2015/04/basket-pro-b-denain-plus-r%C3%A9gulier-quaix-maurienne-repart-victorieux": {
-            "title": "Basket - Pro B: Denain, plus r\u00e9gulier quAix-Maurienne, repart victorieux...",
-            "snippet": "Apr\u00e8s trois minutes sans marquer, Pape Beye, dun deux points, stoppe lh\u00e9morragie. En fin de premier quart-temps, Bing cr\u00e9e un petit break (16 23). Aix fait le yo-yo Gillet, de loin, alourdit la marque au tableau daffichage (16 28...",
-            "date": "2015-04-03",
-            "categories": "bing",
-            "tags": "deux,sans,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/lavoixdunord.fr/2015/04/basket-pro-b-denain-plus-r%C3%A9gulier-quaix-maurienne-repart-victorieux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/basket-pro-b-denain-plus-regulier-qu-aix-maurienne-ia27b0n2752335"
-        },
-        "ginjfo.com/2015/03/ordinateur-portable-microsoft-va-casser-les-prix-d%C3%A8s-la-mi-2015": {
-            "title": "Ordinateur portable, Microsoft va casser les prix d\u00e8s la mi-2015 avec ses Bingbooks...",
-            "snippet": "Cette politique de Microsoft nest pas surprenante depuis son initiative de rendre son OS quasiment gratuit dans sa d\u00e9clinaison avec le moteur Bing par d\u00e9faut. Au final si Google se vante de ses Chromebooks, Microsoft arrive avec ses BingBooks.",
-            "date": "2015-03-30",
-            "categories": "politique,ordinateur,bing,google",
-            "tags": "moteur,politique,microsoft,bing,google",
-            "recuweb_url": "http://fr.recuweb.com/google/ginjfo.com/2015/03/ordinateur-portable-microsoft-va-casser-les-prix-d%C3%A8s-la-mi-2015",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
-            "source_url": "http://ginjfo.com/actualites/multimedia/ordinateurs-portables/ordinateur-portable-microsoft-va-casser-les-prix-des-la-mi-2015-avec-ses-bingbooks-20150331"
-        },
-        "begeek.fr/2015/03/yahoo-et-microsoft-pourraient-rompre-leur-partenariat": {
-            "title": "Yahoo et Microsoft pourraient rompre leur partenariat...",
-            "snippet": "Pour cela, Microsoft sabrogeait le droit de puiser dans la technologie de Yahoo afin dam\u00e9liorer Bing. Yahoo de son c\u00f4t\u00e9 utilise lalgorithme de Bing pour son moteur de recherche maison. Mais ce partenariat ne semble pas avoir port\u00e9 ses fruits...",
-            "date": "2015-03-30",
-            "categories": "moteur-de-recherche,technologie,yahoo,bing",
-            "tags": "partenariat,moteur,recherche,microsoft,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/begeek.fr/2015/03/yahoo-et-microsoft-pourraient-rompre-leur-partenariat",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
-            "source_url": "http://begeek.fr/yahoo-et-microsoft-pourraient-rompre-leur-partenariat-165754"
-        },
-        "abondance.com/2015/03/bing-pourrait-ne-garder-que-la-premi%C3%A8re-page-de-r%C3%A9sultats": {
-            "title": "Bing pourrait ne garder que la premi\u00e8re page de r\u00e9sultats sur... - Abondance...",
-            "snippet": "Bing pourrait ne garder que la premi\u00e8re page de r\u00e9sultats sur...AbondanceLe site Search Engine Roundtable a eu derni\u00e8rement une surprise en s'apercevant que sur certaines requ\u00eates de longue tra\u00eene comme specifications for black iphone 6 64GB ou...",
-            "date": "2015-03-25",
-            "categories": "iphone,bing",
-            "tags": "search,r\u00e9sultats,bing,abondance",
-            "recuweb_url": "http://fr.recuweb.com/bing/abondance.com/2015/03/bing-pourrait-ne-garder-que-la-premi%C3%A8re-page-de-r%C3%A9sultats",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing&output=atom&nord=1",
-            "source_url": "http://abondance.com/actualites/20150325-14915-bing-pourrait-ne-garder-que-la-premiere-page-de-resultats-sur-certaines-requetes.html"
-        },
-        "objectifgard.com/2015/03/%C3+-vos-agendas-les-veilleurs-au-bada-bing-ce-vendredi-26": {
-            "title": "\u00c0 VOS AGENDAS Les Veilleurs au Bada Bing ce vendredi 26 et samedi 27 mars...",
-            "snippet": "Le collectif des Veilleurs prend r\u00e9sidence au Bada Bing les vendredi 26 et samedi 27 mars d\u00e8s 20h. Ils ont carte blanche durant deux jours pour vous faire transpirer sur la piste de danse. Des Guests sont attendus. L'objectif du Collectif...",
-            "date": "2015-03-25",
-            "categories": "bing",
-            "tags": "deux,mars,bada,bada_bing,bing",
-            "recuweb_url": "http://",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
-            "source_url": "http://objectifgard.com/2015/03/25/a-vos-agendas-les-veilleurs-au-bada-bing-ce-vendredi-26-et-samedi-27-mars/"
-        },
-        "abondance.com/2015/03/21-avril-2015-bing-bang-ou-pschittt-la-communication-de-abondance": {
-            "title": "21 avril 2015: Bing Bang ou Pschittt? Ou la communication de... - Abondance...",
-            "snippet": "Abondance21 avril 2015: Bing Bang ou Pschittt? Ou la communication de...AbondanceAbondance Actualit\u00e9s 21 avril 2015: Bing Bang ou Pschittt? Ou la communication de Google envers les webmasters (SEO Campus). 21 avril 2015: Bing Bang ou Pschittt? Ou...",
-            "date": "2015-03-23",
-            "categories": "bing,google",
-            "tags": "bing,bang,avril,abondance,google",
-            "recuweb_url": "http://fr.recuweb.com/google/abondance.com/2015/03/21-avril-2015-bing-bang-ou-pschittt-la-communication-de-abondance",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing&output=atom&nord=1",
-            "source_url": "http://abondance.com/actualites/20150323-14903-21-avril-2015-bing-bang-ou-pschittt-ou-la-communication-de-google-envers-les-webmasters-seo-campus.html"
-        },
-        "southphillyreview.com/2015/03/bing-dim-sum-south-philly-review": {
-            "title": "Bing Bing Dim Sum - South Philly Review...",
-            "snippet": "Bing Bing Dim SumSouth Philly ReviewLast month, Ben Puchowitz and Shawn Darragh opened Bing Bing Dim Sum, their much-anticipated dumpling house on East Passyunk Avenue. The two friends made their culinary mark with Cheu Noodle Bar in Center City, a...",
-            "date": "2015-03-19",
-            "categories": "bing",
-            "tags": "bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/southphillyreview.com/2015/03/bing-dim-sum-south-philly-review",
+        "filmdeculte.com/2015/04/ever-since-we-love-premi%C3%A8res-images-du-nouveau-carton": {
+            "title": "EVER SINCE WE LOVE: premi\u00e8res images du nouveau carton... -...",
+            "snippet": "EVER SINCE WE LOVE: premi\u00e8res images du nouveau carton... Since We Love est sa nouvelle collaboration avec son actrice f\u00e9tiche Fan Bingbing (qui, ces derni\u00e8res ann\u00e9es, s'est aventur\u00e9e sur quelques blockbusters am\u00e9ricains comme X-Men: Days of...",
+            "date": "2015-04-22",
+            "tags": "fan,fan_bingbing,bingbing,men",
+            "recuweb_url": "http://fr.recuweb.com/filmdeculte.com/2015/04/ever-since-we-love-premi%C3%A8res-images-du-nouveau-carton",
             "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://southphillyreview.com/food-and-drink/reviews/Bing_Bing_Dim_Sum-296873591.html"
+            "source_url": "http://filmdeculte.com/cinema/actualite/EVER-SINCE-WE-LOVE-premieres-images-du-nouveau-carton-chinois-de-Fan-Bingbing-21272.html"
+        },
+        "numerama.com/2015/04/bing-g%C3%A8re-une-recherche-sur-cinq-aux-usa": {
+            "title": "Bing g\u00e8re une recherche sur cinq aux USA...",
+            "snippet": "Alors que Google domine outrageusement le secteur de la recherche en Europe, avec une part de march\u00e9 qui d\u00e9passe les 90% dans les cinq principaux pays du Vieux Continent (Allemagne, Espagne, France, Italie et Royaume-Uni), le march\u00e9 est beaucoup...",
+            "date": "2015-04-20",
+            "categories": "bing,google",
+            "tags": "march\u00e9,cinq,principaux,part,part-de-march\u00e9,recherche,recherche-sur-cinq,bing,google,europe,france",
+            "recuweb_url": "http://fr.recuweb.com/google/numerama.com/2015/04/bing-g%C3%A8re-une-recherche-sur-cinq-aux-usa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
+            "source_url": "http://numerama.com/magazine/32845-bing-gere-une-recherche-sur-cinq-aux-usa.html"
+        },
+        "bustle.com/2015/04/shailene-woodley-fan-bingbing-&-olivia-palermo-all-wore-bustle": {
+            "title": "Shailene Woodley, Fan Bingbing, & Olivia Palermo All Wore... - Bustle...",
+            "snippet": "BustleShailene Woodley, Fan Bingbing, & Olivia Palermo All Wore...BustleThe dress itself is pretty much perfection itself so it's not exactly hard to see why so many stars have worn it to such an array of events. Valentino knows their way around a...",
+            "date": "2015-04-20",
+            "tags": "way,fan,fan_bingbing,bingbing",
+            "recuweb_url": "http://fr.recuweb.com/bustle.com/2015/04/shailene-woodley-fan-bingbing-&-olivia-palermo-all-wore-bustle",
+            "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
+            "source_url": "http://bustle.com/articles/77502-shailene-woodley-fan-bingbing-olivia-palermo-all-wore-valentino-but-who-donned-the-star-spangled-gown"
+        },
+        "generation-nt.com/2015/04/bing-de-microsoft-au-plus-haut-outre-atlantique": {
+            "title": "Bing de Microsoft au plus haut outre-Atlantique...",
+            "snippet": "Le cabinet comScore publie les chiffres du mois de mars pour les moteurs de recherche sur le march\u00e9 am\u00e9ricain. Ces indicateurs se concentrent sur le trafic depuis l'ordinateur de bureau et donc non mobile. Bing atteint une part de march\u00e9...",
+            "date": "2015-04-19",
+            "categories": "ordinateur,bing",
+            "tags": "part,part-de-march\u00e9,march\u00e9,non,non-mobile,mobile,trafic,mars,moteurs,moteurs-de-recherche,recherche,bing,microsoft",
+            "recuweb_url": "http://fr.recuweb.com/bing/generation-nt.com/2015/04/bing-de-microsoft-au-plus-haut-outre-atlantique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
+            "source_url": "http://generation-nt.com/bing-moteur-recherche-microsoft-google-yahoo-usa-actualite-1914208.html"
+        },
+        "infos-mobiles.com/2015/04/microsoft-bing-voit-son-succ%C3%A8s-monter-aux-etats-unis": {
+            "title": "Microsoft Bing voit son succ\u00e8s monter aux Etats-Unis...",
+            "snippet": "Aux Etats-Unis, le trafic non mobile rel\u00e8ve quune recherche sur cinq se fait via Bing. Le succ\u00e8s semble au rendez-vous pour ce dernier m\u00eame si Google saffiche largement. En \u00e9tudiant le march\u00e9 des moteurs de recherche aux Etats-Unis, le...",
+            "date": "2015-04-19",
+            "categories": "bing,google",
+            "tags": "march\u00e9,moteurs,moteurs-de-recherche,recherche,dernier,trafic,non,non-mobile,mobile,recherche-sur-cinq,cinq,microsoft,bing,google",
+            "recuweb_url": "http://fr.recuweb.com/google/infos-mobiles.com/2015/04/microsoft-bing-voit-son-succ%C3%A8s-monter-aux-etats-unis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
+            "source_url": "http://infos-mobiles.com/bing/microsoft-bing-voit-son-succes-monter-aux-etats-unis/94368"
+        },
+        "ginjfo.com/2015/04/bing-l-impossible-se-r%C3%A9alise-le-moteur-devient-percutant-ginjfo": {
+            "title": "Bing, l'impossible se r\u00e9alise? le moteur devient percutant - GinjFo...",
+            "snippet": "GinjFoBing, l'impossible se r\u00e9alise? le moteur devient percutantGinjFoEn mati\u00e8re de recherche sur Internet, le moteur de Google est une r\u00e9f\u00e9rence surtout en Europe o\u00f9 son taux d'utilisation bat des records absolus. Il y a pourtant de la...",
+            "date": "2015-04-17",
+            "categories": "bing,internet,google",
+            "tags": "moteur,recherche,bing,google,europe",
+            "recuweb_url": "http://fr.recuweb.com/google/ginjfo.com/2015/04/bing-l-impossible-se-r%C3%A9alise-le-moteur-devient-percutant-ginjfo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=bing&output=atom&nord=1",
+            "source_url": "http://ginjfo.com/actualites/politique-et-economie/bing-limpossible-se-realise-le-moteur-devient-percutant-20150417"
+        },
+        "abondance.com/2015/04/yahoo-et-bing-modifient-leur-accord-sur-le-search": {
+            "title": "Yahoo! et Bing modifient leur accord sur le Search...",
+            "snippet": "Yaho! et Bing ont annonc\u00e9 hier un am\u00e9nagement de l'accord en cours entre les deux soci\u00e9t\u00e9s au niveau du moteur de recherche et de la diffusion de publicit\u00e9s dans les r\u00e9sultats... Deux points principaux compl\u00e8tent le pr\u00e9c\u00e9dent accord: si on...",
+            "date": "2015-04-16",
+            "categories": "moteur-de-recherche,yahoo,bing",
+            "tags": "principaux,moteur,recherche,bing,search",
+            "recuweb_url": "http://fr.recuweb.com/bing/abondance.com/2015/04/yahoo-et-bing-modifient-leur-accord-sur-le-search",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
+            "source_url": "http://abondance.com/actualites/20150417-15029-yahoo-et-bing-modifient-leur-accord-sur-le-search.html"
         },
         "fr.news.yahoo.com/2015/03/wang-bing-cin%C3%A9aste-intime-et-hors-norme-de-la-condition-chinoise": {
             "title": "Wang Bing, cin\u00e9aste intime et hors norme de la condition chinoise...",
             "snippet": "\u00c0 l'occasion de la sortie en salles de son dernier documentaire, A la folie, ce mercredi 11 mars 2015, retour sur l'oeuvre de Wang Bing, cin\u00e9aste majeur de notre \u00e9poque et observateur assidu de la Chine contemporaine. Alors, la Chine de Wang...",
             "date": "2015-03-17",
             "categories": "bing",
-            "tags": "folie,wang,wang_bing,bing,mars",
+            "tags": "cin\u00e9aste,folie,dernier,documentaire,wang,wang_bing,bing,mars,chine",
             "recuweb_url": "http://fr.recuweb.com/bing/fr.news.yahoo.com/2015/03/wang-bing-cin%C3%A9aste-intime-et-hors-norme-de-la-condition-chinoise",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=bing",
             "source_url": "http://fr.news.yahoo.com/wang-bing-cin\u00e9aste-intime-hors-norme-condition-chinoise-171901481.html"
+        },
+        "fr.news.yahoo.com/2015/03/les-sorties-cin%C3%A9-de-la-semaine-du-11-mars-a-folie": {
+            "title": "Les sorties cin\u00e9 de la semaine du 11 mars: A la Folie, Selma et The Voices...",
+            "snippet": "Cette semaine au cin\u00e9ma, Wang Bing vous enferme 4 heures dans un asile psychiatrique chinois, Ava DuVernay vote Martin Luther King et Marjane Satrapi entend des voix.",
+            "date": "2015-03-11",
+            "categories": "bing",
+            "tags": "psychiatrique,psychiatrique-chinois,chinois,wang,wang_bing,bing,mars,folie",
+            "recuweb_url": "http://fr.recuweb.com/bing/fr.news.yahoo.com/2015/03/les-sorties-cin%C3%A9-de-la-semaine-du-11-mars-a-folie",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=bing",
+            "source_url": "http://fr.news.yahoo.com/sorties-cin\u00e9-semaine-11-mars-folie-selma-the-080200973.html"
+        },
+        "fr.news.yahoo.com/2015/03/a-la-folie-derri%C3%A8re-les-grilles-d-un-h%C3%B4pital-psychiatrique-chinois": {
+            "title": "\"A la folie\", derri\u00e8re les grilles d'un h\u00f4pital psychiatrique chinois...",
+            "snippet": "Wang Bing, cin\u00e9aste des laiss\u00e9s-pour-compte, nous entra\u00eene le temps d'un documentaire dans les cellules et les couloirs d'un centre psychiatrique municipal du sud-ouest de la Chine.",
+            "date": "2015-03-10",
+            "categories": "bing",
+            "tags": "psychiatrique,documentaire,cin\u00e9aste,wang,wang_bing,bing,h\u00f4pital,h\u00f4pital-psychiatrique,psychiatrique-chinois,chinois,folie,chine",
+            "recuweb_url": "http://fr.recuweb.com/bing/fr.news.yahoo.com/2015/03/a-la-folie-derri%C3%A8re-les-grilles-d-un-h%C3%B4pital-psychiatrique-chinois",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=bing",
+            "source_url": "http://fr.news.yahoo.com/folie-derri\u00e8re-grilles-dun-h\u00f4pital-psychiatrique-chinois-085102538.html"
         }
     }
 }
