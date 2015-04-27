@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "circuit-int\u00e9gr\u00e9",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/circuit-int\u00e9gr\u00e9/",
@@ -10,67 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/circuit-int%C3%A9gr%C3%A9/circuit-int%C3%A9gr%C3%A9/blogs.json"
     },
     "items": {
+        "electronique-mag.com/2015/04/elster-s%C3%A9lectionne-un-circuit-int%C3%A9gr%C3%A9-intelligent-d-analog-devices": {
+            "title": "Elster s\u00e9lectionne un circuit int\u00e9gr\u00e9 intelligent d'Analog Devices...",
+            "snippet": "Analog Devices, Inc. annonce que la soci\u00e9t\u00e9 Elster a choisi son circuit int\u00e9gr\u00e9 intelligent ADF7241... Pour \u00e9quiper les compteurs de gaz et (...)...",
+            "date": "2015-04-02",
+            "author_name": "inconnu",
+            "tags": "choisi,soci\u00e9t\u00e9,circuit,int\u00e9gr\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/electronique-mag.com/2015/04/elster-s%C3%A9lectionne-un-circuit-int%C3%A9gr%C3%A9-intelligent-d-analog-devices",
+            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://electronique-mag.com/article9739.html"
+        },
         "electronique-mag.com/2015/03/cissoid-un-circuit-int%C3%A9gr%C3%A9-contenant-4-diodes-80v-haute-temp%C3%A9rature": {
             "title": "CISSOID, un circuit int\u00e9gr\u00e9 contenant 4 diodes 80V haute temp\u00e9rature...",
             "snippet": "CISSOID met aujourd'hui sur le march\u00e9 son nouveau produit CHT-ELARA, un circuit int\u00e9gr\u00e9 contenant 4 diodes 80V haute temp\u00e9rature. Ces quatre diodes ind\u00e9pendantes et di\u00e9lectriquement isol\u00e9es peuvent \u00eatre utilis\u00e9es...",
             "date": "2015-03-10",
             "author_name": "inconnu",
-            "tags": "peuvent,utilis\u00e9es,hui,nouveau,aujourd,circuit,int\u00e9gr\u00e9",
+            "tags": "nouveau,circuit,int\u00e9gr\u00e9",
             "recuweb_url": "http://fr.recuweb.com/electronique-mag.com/2015/03/cissoid-un-circuit-int%C3%A9gr%C3%A9-contenant-4-diodes-80v-haute-temp%C3%A9rature",
             "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://electronique-mag.com/article9628.html"
         },
-        "electronique-mag.com/2015/03/analog-devices-le-combo-de-conversion-donn%C3%A9es-8-voies-propos%C3%A9": {
-            "title": "Analog Devices, le combo de conversion de donn\u00e9es 8 voies propos\u00e9...",
-            "snippet": "Configurable sous la forme de multiples combinaisons de convertisseurs A/N 12 bits, N/A 12 bits et ports d'E/S polyvalents (GPIO), le nouveau circuit int\u00e9gr\u00e9 ADC/DAC/GPIO... Configurable sous la forme de multiples...",
-            "date": "2015-03-05",
-            "author_name": "inconnu",
-            "tags": "forme,nouveau,circuit,int\u00e9gr\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/electronique-mag.com/2015/03/analog-devices-le-combo-de-conversion-donn%C3%A9es-8-voies-propos%C3%A9",
-            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://electronique-mag.com/article9598.html"
+        "blog.pepita.org/2015/01/le-circuit-int%C3%A9gr%C3%A9-uln2803-tuxxx-blog": {
+            "title": "Le circuit int\u00e9gr\u00e9 ULN2803 TuXxX Blog...",
+            "snippet": "N'ayons pas peur des mots, le circuit int\u00e9gr\u00e9 ULN2803 est g\u00e9nial! En fait, le ULN2803 est tout simplement un r\u00e9seau de 8 transistors NPN darlington int\u00e9gr\u00e9s dans un boitier de 18 broches. Et ce petit boitier tout int\u00e9gr\u00e9 va...",
+            "date": "2015-01-30",
+            "author_name": "stratus",
+            "tags": "boitier,circuit,int\u00e9gr\u00e9s,transistors",
+            "recuweb_url": "http://fr.recuweb.com/blog.pepita.org/2015/01/le-circuit-int%C3%A9gr%C3%A9-uln2803-tuxxx-blog",
+            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.pepita.org/?p=458"
         },
         "semageek.com/2015/01/diy-une-table-basse-en-forme-de-circuit-int%C3%A9gr%C3%A9-semageek": {
             "title": "DIY: Une table basse en forme de circuit int\u00e9gr\u00e9 Semageek...",
             "snippet": "Daren a une id\u00e9e assez particuli\u00e8re pour r\u00e9aliser la table basse de son salon. Elle a \u00e9t\u00e9 con\u00e7ue sur le mod\u00e8le d'un circuit int\u00e9gr\u00e9 en socket DIP 16 ce qui.",
             "date": "2015-01-13",
             "author_name": "admin@semageek.com",
-            "tags": "basse,forme,diy,circuit,int\u00e9gr\u00e9",
+            "tags": "diy,circuit,int\u00e9gr\u00e9",
             "recuweb_url": "http://fr.recuweb.com/semageek.com/2015/01/diy-une-table-basse-en-forme-de-circuit-int%C3%A9gr%C3%A9-semageek",
             "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://semageek.com/diy-une-table-basse-en-forme-de-circuit-integre/"
-        },
-        "megavideoswitcher.wordpress.com/2014/12/solution-100%-electronique-beaucoup-moins-cher": {
-            "title": "Solution 100% Electronique beaucoup moins cher!",
-            "snippet": "Salut a tous j'ai d\u00e9couvert un circuit int\u00e9gr\u00e9 qui pourrait bien r\u00e9duire les co\u00fbts de fabrication du switch vid\u00e9o (surtout si je veut le commercialiser) Ce circuit est...",
-            "date": "2014-12-23",
-            "author_name": "jerllinares",
-            "categories": "electronique",
-            "tags": "r\u00e9duire,moins,electronique,circuit,int\u00e9gr\u00e9,fabrication",
-            "recuweb_url": "http://fr.recuweb.com/electronique/megavideoswitcher.wordpress.com/2014/12/solution-100%-electronique-beaucoup-moins-cher",
-            "resource_url": "http://fr.search.wordpress.com/?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&f=feed&page=1",
-            "source_url": "http://megavideoswitcher.wordpress.com/2014/12/23/solution-100-electronique-beaucoup-moins-cher/"
-        },
-        "usinages.com/2014/10/support-femelle-circuit-int%C3%A9gr%C3%A9-probl%C3%A8me-electronique-usinages": {
-            "title": "Support Femelle Circuit Int\u00e9gr\u00e9 probl\u00e8me: Electronique - Usinages...",
-            "snippet": "Sinon, embrocher le support tulipe dans le support existant peut marcher, un temps, car les broches rondes du support tulipe sont plus grosses (en \u00e9paisseur) que celles du circuit int\u00e9gr\u00e9.:???: osiver: pilier pilier: Messages:...",
-            "date": "2014-10-29",
-            "author_name": "dmf",
-            "categories": "electronique",
-            "tags": "temps,peut,circuit,int\u00e9gr\u00e9,electronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/usinages.com/2014/10/support-femelle-circuit-int%C3%A9gr%C3%A9-probl%C3%A8me-electronique-usinages",
-            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://usinages.com/electronique/support-femelle-eprom-ic10-probleme-t71196.html"
-        },
-        "electronique-mag.com/2014/09/grce-aux-capteurs-et-circuits-int%C3%A9gr%C3%A9s-miniatures-basse": {
-            "title": "Grce aux capteurs et circuits int\u00e9gr\u00e9s miniatures et basse...",
-            "snippet": "Ce nouvel accessoire connect\u00e9 int\u00e8gre des circuits int\u00e9gr\u00e9s avanc\u00e9s de d\u00e9tection, de contr\u00f4le et de communications sans fil d\u00e9velopp\u00e9s par STMicroelectronics (NYSE: STM), un leader mondial dont les clients couvrent toute la gamme des...",
-            "date": "2014-09-19",
-            "author_name": "inconnu",
-            "tags": "sans,nouvel,int\u00e9gr\u00e9s,basse,circuits",
-            "recuweb_url": "http://fr.recuweb.com/electronique-mag.com/2014/09/grce-aux-capteurs-et-circuits-int%C3%A9gr%C3%A9s-miniatures-basse",
-            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://electronique-mag.com/article8855.html"
         },
         "charlesgros.wordpress.com/2014/07/ibm-cest-buzz-leclair-au-pays-des-puces": {
             "title": "IBM, cest Buzz lEclair au pays des puces...",
@@ -78,7 +57,7 @@
             "date": "2014-07-10",
             "author_name": "charlesgros",
             "categories": "ordinateur",
-            "tags": "r\u00e9duire,puces,circuits,int\u00e9gr\u00e9s",
+            "tags": "informatique,puces,circuits,int\u00e9gr\u00e9s",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/charlesgros.wordpress.com/2014/07/ibm-cest-buzz-leclair-au-pays-des-puces",
             "resource_url": "http://fr.search.wordpress.com/?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&f=feed&page=1",
             "source_url": "http://charlesgros.wordpress.com/2014/07/10/ibm-cest-buzz-leclair-au-pays-des-puces/"
@@ -99,21 +78,10 @@
             "snippet": "Ce tuto nous montre dessouder facilement un circuit int\u00e9gr\u00e9 mont\u00e9 en surface. Simple et efficace, cette technique permet de pas ab\u00eemer ni le composant, ni le.",
             "date": "2011-11-15",
             "author_name": "admin@semageek.com",
-            "tags": "technique,montre,surface,diy,circuit,int\u00e9gr\u00e9,simple,composant",
+            "tags": "composant,montre,surface,diy,circuit,int\u00e9gr\u00e9,simple",
             "recuweb_url": "http://fr.recuweb.com/semageek.com/2011/11/diy-comment-dessouder-un-circuit-int%C3%A9gr%C3%A9-mont%C3%A9-en-surface",
-            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://semageek.com/diy-comment-dessouder-un-circuit-integre-monte-en-surface/"
-        },
-        "sente.ch/2009/07/fabrication-de-circuits-int%C3%A9gr%C3%A9s-sen-te": {
-            "title": "Fabrication de circuits int\u00e9gr\u00e9s Sen:te...",
-            "snippet": "Nous avons interfac\u00e9 diff\u00e9rents syst\u00e8mes d'information pour les rendre capables de fonctionner dans des cha\u00eenes industrielles de production de circuit int\u00e9gr\u00e9s. Dans un tel environnement, la robustesse de la communication est primordiale.",
-            "date": "2009-07-29",
-            "author_name": "admin",
-            "categories": "environnement",
-            "tags": "fabrication,circuits,circuit,int\u00e9gr\u00e9s",
-            "recuweb_url": "http://fr.recuweb.com/environnement/sente.ch/2009/07/fabrication-de-circuits-int%C3%A9gr%C3%A9s-sen-te",
-            "resource_url": "http://www.google.com/search?q=circuit%2Bint%C3%A9gr%C3%A9%2Bcircuit%2Bint%C3%A9gr%C3%A9&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sente.ch/?p=467"
         }
     }
 }
