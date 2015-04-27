@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "escrime",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/escrime/",
@@ -90,7 +91,7 @@
             "categories": "escrime,rock,facebook",
             "tags": "fencing,escrime,fencing-cercle,fencing-cercle-descrime,cercle,cercle-descrime,cercle-descrime-seynois,descrime,descrime-seynois,seynois,escrime_la_seyne,seyne,kedri,tags,mer",
             "recuweb_url": "http://fr.recuweb.com/facebook/dailymotion.com/2015/03/linkin-park-one-step-closer-fitness-rock-escrime-fencing",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/escrime+escrime/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/escrime/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ji9k3_linkin-park-one-step-closer-fitness-rock-escrime-fencing_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ji9k3_linkin-park-one-step-closer-fitness-rock-escrime-fencing_sport"
         },
@@ -106,29 +107,29 @@
             "source_url": "http://dailymotion.com/video/x2ina4k_tournoi-d-escrime-des-jeunes-de-la-ville-de-clermont-ferrand-2015_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ina4k_tournoi-d-escrime-des-jeunes-de-la-ville-de-clermont-ferrand-2015_sport"
         },
-        "dailymotion.com/2015/02/stage-escrime-et-cancer-du-sein": {
-            "title": "Stage escrime et cancer du sein...",
-            "snippet": "La F\u00e9d\u00e9ration fran\u00e7aise d'escrime met en place chaque ann\u00e9e un stage \"escrime et cancer du sein\"Author: ffescrimeTags: Posted: 24 February 2015Rating:: 0...",
-            "date": "2015-02-24",
-            "author_name": "ffescrime",
-            "categories": "escrime,place",
-            "tags": "escrime,sein,fran\u00e7aise,f\u00e9d\u00e9ration,ffescrimetags",
-            "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/02/stage-escrime-et-cancer-du-sein",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/escrime/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2i02h6_stage-escrime-et-cancer-du-sein_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i02h6_stage-escrime-et-cancer-du-sein_sport"
-        },
         "youtube.com/2014/10/danse-baroque-et-escrime": {
             "title": "Danse baroque et escrime...",
-            "snippet": "Danse baroque et escrime Colloque-Festival \"Sc\u00e8nes de dispute\"/\"Quarrel scenes\" Paris - Jeudi 5 au samedi 7 juin 2014 Dispute et dramaturgie en France et en Grande-Bretagne (XVIe-XVIIIe si\u00e8cle) organis\u00e9 au sein... From: UMR5186IRCL Views: 529 4...",
+            "snippet": "Danse baroque et escrime Colloque-Festival \"Sc\u00e8nes de dispute\"/\"Quarrel scenes\" Paris - Jeudi 5 au samedi 7 juin 2014 Dispute et dramaturgie en France et en Grande-Bretagne (XVIe-XVIIIe si\u00e8cle) organis\u00e9 au sein... From: UMR5186IRCL Views: 573 4...",
             "date": "2014-10-07",
             "author_name": "UMR5186IRCL",
             "categories": "escrime",
-            "tags": "sein,escrime,paris",
+            "tags": "escrime,paris",
             "recuweb_url": "http://fr.recuweb.com/escrime/youtube.com/2014/10/danse-baroque-et-escrime",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=escrime%2Bescrime&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ISVTLl-hLsA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ISVTLl-hLsA/0.jpg"
+        },
+        "youtube.com/2014/09/escrime-video-duel-dans-la-for%C3%AAt": {
+            "title": "Escrime Video - Duel dans la for\u00eat...",
+            "snippet": "Escrime Video - Duel dans la for\u00eat Deuxi\u00e8me vid\u00e9o un peu plus pouss\u00e9e, toujours avec les moyens du bord. From: Escrime Video Views: 553 2 ratings Time: 01:32 More in Entertainment...",
+            "date": "2014-09-05",
+            "author_name": "Escrime Video",
+            "categories": "escrime",
+            "tags": "escrime",
+            "recuweb_url": "http://fr.recuweb.com/escrime/youtube.com/2014/09/escrime-video-duel-dans-la-for%C3%AAt",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=escrime%2Bescrime&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=a41YEOPYbtA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/a41YEOPYbtA/0.jpg"
         }
     }
 }
