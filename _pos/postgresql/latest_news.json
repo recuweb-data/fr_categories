@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "postgresql",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -10,89 +11,98 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "zdnet.fr/2015/03/applications-packag%C3%A9es-google-copie-ovh-en-mieux": {
-            "title": "Applications packag\u00e9es: Google copie OVH, en mieux...",
-            "snippet": "C\u00f4t\u00e9 base de donn\u00e9es, MongoDB, MySQL et PostgreSQL sont pr\u00e9sents. Enfin, la biblioth\u00e8que applicative recense Wordpress, Drupal, JasperReports, Joomla ou encore SugarCRM. Dans le d\u00e9tail, on note la pr\u00e9sence de 23 briques dinfrastructure...",
-            "date": "2015-03-27",
-            "categories": "google,mysql,wordpress,drupal,joomla",
-            "tags": "base,donn\u00e9es,mongodb,mysql,gresql",
-            "recuweb_url": "http://fr.recuweb.com/joomla/zdnet.fr/2015/03/applications-packag%C3%A9es-google-copie-ovh-en-mieux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://zdnet.fr/actualites/applications-packagees-google-copie-ovh-en-mieux-39817068.htm"
-        },
-        "linuxfr.org/2015/03/ouverture-des-inscriptions-au-pgday-paris-du-21-avril-2015-linuxfr": {
-            "title": "Ouverture des inscriptions au pgDay Paris du 21 avril 2015 - LinuxFr...",
-            "snippet": "Ouverture des inscriptions au pgDay Paris du 21 avril 2015LinuxFr... d'\u00e9changes organis\u00e9e par la communaut\u00e9 fran\u00e7aise de PostgreSQL. Un ensemble de pr\u00e9sentations en anglais et en fran\u00e7ais vous sera propos\u00e9, couvrant des sujets techniques...",
-            "date": "2015-03-25",
-            "tags": "techniques,gresql",
-            "recuweb_url": "http://fr.recuweb.com/linuxfr.org/2015/03/ouverture-des-inscriptions-au-pgday-paris-du-21-avril-2015-linuxfr",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
-            "source_url": "http://linuxfr.org/news/ouverture-des-inscriptions-au-pgday-paris-du-21-avril-2015"
-        },
-        "emploi.silicon.fr/2015/03/alternance-d%C3%A9veloppement-d-interfaces-avec-des-codes-de-calculs": {
-            "title": "Alternance - D\u00e9veloppement d'interfaces avec des codes de calculs dans le d - Stage conventionn\u00e9...",
-            "snippet": "Vous connaissez les techniques de programmation Objet (C/Qt), Web (PHP/Zend), les bases de donn\u00e9es (Oracle, SQL Server, PostgreSQL). Vous faites preuve d'autonomie, de curiosit\u00e9, de rigueur.",
-            "date": "2015-03-24",
-            "categories": "php",
-            "tags": "sql,sql_server,server,techniques,stage,objet,php,zend,bases,donn\u00e9es,gresql",
-            "recuweb_url": "http://fr.recuweb.com/php/emploi.silicon.fr/2015/03/alternance-d%C3%A9veloppement-d-interfaces-avec-des-codes-de-calculs",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/336685/alternance-developpement-dinterfaces-avec-des-codes-de-calculs-dans-le-d/"
-        },
-        "programmez.com/2015/03/offre-d-emploi": {
-            "title": "Offre d'emploi...",
-            "snippet": "D\u00e9finition de la configuration des services en ad\u00e9quation avec l'exploitation (Tomcat/Apache/Firebird/PostgreSQL etc...). Mise en place d'outils pour la s\u00e9curisation des serveurs (R\u00e9plications/Clustering...) Mise en place d'outils pour le...",
-            "date": "2015-03-24",
-            "categories": "place,emploi",
-            "tags": "apache,gresql,mise",
-            "recuweb_url": "http://fr.recuweb.com/emploi/programmez.com/2015/03/offre-d-emploi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://programmez.com/emploi-detail/JHR1XR5YMLPK2HZKNSZ"
-        },
-        "capcampus.com/2015/03/h-f-d%C3%A9veloppeur-python": {
-            "title": "H/F D\u00e9veloppeur python...",
-            "snippet": "Flask, Django, Gevent HTML5, CSS3, jQuery et autres librairies JS Processing asynchrones et message queuing nginx, Apache MongoDB, MySQL, PostgreSQL, MS SQL Server, memcached Gentoo Linux Git...",
-            "date": "2015-03-20",
-            "categories": "css,jquery,mysql",
-            "tags": "sql,sql_server,server,apache,mongodb,nginx,processing,mysql,gresql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/capcampus.com/2015/03/h-f-d%C3%A9veloppeur-python",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://capcampus.com/emploi-20/h-f-developpeur-python-e889580.htm"
-        },
-        "admin-magazin.de/2015/03/amazon-rds-bietet-postgresql-9-4-admin-magazin": {
-            "title": "Amazon RDS bietet PostgreSQL 9.4 - ADMIN-Magazin...",
-            "snippet": "Amazon RDS bietet PostgreSQL RDS, der Datenbankdienst der Amazon-Cloud, bietet ab sofort Support f\u00fcr PostgreSQL 9.4. Die aktuelle Version des freien relationalen Datenbanksystems wurde Ende letzten Jahres ver\u00f6ffentlicht. Ein herausragendes Feature...",
-            "date": "2015-03-19",
-            "tags": "gresql,admin,support",
-            "recuweb_url": "http://fr.recuweb.com/admin-magazin.de/2015/03/amazon-rds-bietet-postgresql-9-4-admin-magazin",
+        "developpez.com/2015/04/bluemix-permet-au-d%C3%A9veloppeur-d-exprimer-toute-sa-cr%C3%A9ativit%C3%A9": {
+            "title": "\"Bluemix permet au d\u00e9veloppeur d'exprimer toute sa cr\u00e9ativit\u00e9 et... -...",
+            "snippet": "\"Bluemix permet au d\u00e9veloppeur d'exprimer toute sa cr\u00e9ativit\u00e9 et... Services de donn\u00e9es: Bluemix propose une multitude de services de stockage de donn\u00e9es, comme SQL, MySQL, PostgreSQL, CloudantDB, DashDB, MongoDB, et aussi un service Hadoop...",
+            "date": "2015-04-22",
+            "categories": "mysql",
+            "tags": "aussi,services,permet,d\u00e9veloppeur,donn\u00e9es,sql,mysql,gresql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/developpez.com/2015/04/bluemix-permet-au-d%C3%A9veloppeur-d-exprimer-toute-sa-cr%C3%A9ativit%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://admin-magazin.de/News/Amazon-RDS-bietet-PostgreSQL-9.4"
+            "source_url": "http://developpez.com/actu/84212/-Bluemix-permet-au-developpeur-d-exprimer-toute-sa-creativite-et-construire-rapidement-une-application-entretien-avec-Vincent-Chartier-de-IBM-France/"
         },
-        "datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami": {
-            "title": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQL - Datanami...",
-            "snippet": "Fujitsu Adding Column-Oriented Processing Engine to PostgreSQLDatanamiFujitsu Laboratories last week announced that it's developed a column-oriented data storage and processing engine that can quickly analyze large amounts of data stored on a...",
-            "date": "2015-03-06",
-            "tags": "data,processing,gresql",
-            "recuweb_url": "http://fr.recuweb.com/datanami.com/2015/03/fujitsu-adding-column-oriented-processing-engine-to-postgresql-datanami",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
-            "source_url": "http://datanami.com/2015/03/04/fujitsu-adding-column-oriented-processing-engine-to-postgresql/"
+        "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release": {
+            "title": "Call for Papers, PostgreSQL Session 7, September, 24th - (press release)...",
+            "snippet": "Call for Papers, PostgreSQL Session 7, September, (press release)After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to...",
+            "date": "2015-04-22",
+            "tags": "features,gresql",
+            "recuweb_url": "http://fr.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
         },
-        "globalsecuritymag.fr/2015/03/vigilnce-zend-framework-injection-sql-de-postgresql-zenddb": {
-            "title": "Vigilnce - Zend Framework: injection SQL de PostgreSQL ZendDb...",
-            "snippet": "Ladaptateur PostgreSQL ZendDb peut \u00eatre install\u00e9 sur Zend Framework. Cependant, les donn\u00e9es provenant de lutilisateur sont directement ins\u00e9r\u00e9es dans une requ\u00eate SQL. Un attaquant peut donc provoquer une injection SQL dans PostgreSQL ZendDb...",
-            "date": "2015-03-06",
-            "tags": "gresql,zend,sql,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/03/vigilnce-zend-framework-injection-sql-de-postgresql-zenddb",
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f": {
+            "title": "D\u00e9veloppeur Symfony 2/PostgreSQL H/F...",
+            "snippet": "L'arriv\u00e9e de la g\u00e9n\u00e9ration Y dans les entreprises, les nouveaux outils de communication, le business qui s'acc\u00e9l\u00e8re et se complexifie... Tous ces changements importants transforment la mani\u00e8re dont les entreprises doivent motiver, engager,...",
+            "date": "2015-04-22",
+            "tags": "entreprises,d\u00e9veloppeur,gresql",
+            "recuweb_url": "http://fr.recuweb.com/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Zend-Framework-injection,20150306,51326.html"
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Symfony+2++PostgreSQL+HF/30065"
+        },
+        "it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders": {
+            "title": "DBAWSPostgreSQL - IT Leaders...",
+            "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...et plus encore...",
+            "date": "2015-04-21",
+            "tags": "services,gresql,gres",
+            "recuweb_url": "http://fr.recuweb.com/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://it.impressbm.co.jp/articles/-/12288"
+        },
+        "emploi.handicap.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-javaee-javafx-swing": {
+            "title": "Ing\u00c9nieur d\u00c9veloppement javaee javafx swing...",
+            "snippet": "Vous ma\u00eetrisez un syst\u00e8me de gestion de base de donn\u00e9es relationnel (PostgreSQL ou Oracle). Vous avez une exp\u00e9rience des m\u00e9thodes Agile et plus particuli\u00e8rement de Scrum. Dans un environnement convivial, dynamique, nous vous proposons de...",
+            "date": "2015-04-20",
+            "categories": "environnement",
+            "tags": "environnement,avez,ma\u00eetrisez,gestion,ing\u00e9nieur,base,donn\u00e9es,gresql",
+            "recuweb_url": "http://fr.recuweb.com/environnement/emploi.handicap.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-javaee-javafx-swing",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://emploi.handicap.fr/offre-emploi-ingenieur-developpement-javaee-javafx-swing-1723158.php"
+        },
+        "journaldunet.com/2015/04/base-de-donn%C3%A9es-les-tarifs-des-freelances": {
+            "title": "Base de donn\u00e9es: les tarifs des freelances...",
+            "snippet": "Hopwork Parmi les bases de donn\u00e9es, ce sont donc les profils sp\u00e9cialis\u00e9s dans PostgreSQL qui sont les plus recherch\u00e9s sur Hopwork avec 19,5% des recherches compt\u00e9es. Pour ces comp\u00e9tences, le tarif moyen est de 459 euros par jour. C'est...",
+            "date": "2015-04-15",
+            "tags": "bases,donn\u00e9es,gresql",
+            "recuweb_url": "http://fr.recuweb.com/journaldunet.com/2015/04/base-de-donn%C3%A9es-les-tarifs-des-freelances",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://journaldunet.com/solutions/emploi-rh/base-de-donnees-les-salaires-des-freelances.shtml"
+        },
+        "emploi.silicon.fr/2015/04/concepteur-d%C3%A9veloppeur-ing%C3%A9nieur-etude-java-h-f-cdi-orleans": {
+            "title": "Concepteur D\u00e9veloppeur/Ing\u00e9nieur Etude Java (H/F) - CDI - ORLEANS...",
+            "snippet": "Environnement technique: Java/J2EE, Eclipse, NetBeans, Visual Studio, Subversion, Tomcat, Struts2, Hybernate,PostgreSQL, HTML/CSS, Javascript, Jquery.",
+            "date": "2015-04-14",
+            "categories": "java,environnement,css,javascript,jquery",
+            "tags": "ing\u00e9nieur,d\u00e9veloppeur,environnement,eclipse,tomcat,struts,gresql",
+            "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/concepteur-d%C3%A9veloppeur-ing%C3%A9nieur-etude-java-h-f-cdi-orleans",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/447610/concepteur-developpeur-ingenieur-etude-java-hf/"
+        },
+        "programmez.com/2015/04/offre-d-emploi": {
+            "title": "Offre d'emploi...",
+            "snippet": "Vous ma\u00eetrisez parfaitement les environnements techniques suivants: tomcat, hibernate, spring, struts 2, IDE Eclipse, NetBean, Maven, jenkins, MySQL, PostgreSQL. De nature curieuse, vous fa\u00eetes preuve de rigueur et dautonomie dans la r\u00e9alisation...",
+            "date": "2015-04-13",
+            "categories": "nature,environnement,emploi,mysql",
+            "tags": "eclipse,ma\u00eetrisez,environnements,tomcat,struts,mysql,gresql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/programmez.com/2015/04/offre-d-emploi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://programmez.com/emploi-detail/JQH2ZH67L5J00S1CMWC"
+        },
+        "infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape": {
+            "title": "PostgreSQL advances in the JSON datastore landscape -...",
+            "snippet": "PostgreSQL advances in the JSON datastore the other hand, relational databases are also evolving, with PostgreSQL getting more and more features inspired but the non relational world. Since version 9.2 Postgres supports the new JSON datatype and...",
+            "date": "2015-04-02",
+            "tags": "gres,features,gresql",
+            "recuweb_url": "http://fr.recuweb.com/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"
         },
         "journaldunet.com/2014/12/postgresql-vers-une-admin-stack-compl%C3%A8te-jdn": {
             "title": "PostgreSQL: vers une admin stack compl\u00e8te - JDN...",
             "snippet": "PostgreSQL: vers une admin stack compl\u00e8teJDNS\u00e9duites par l'extensibilit\u00e9, la s\u00e9curit\u00e9 et la maturit\u00e9 de la solution, de plus en plus d'entreprises et d'administrations publiques migrent vers PostgreSQL et des organisations aussi vari\u00e9es que...",
             "date": "2014-12-15",
-            "tags": "admin,gresql",
+            "tags": "aussi,entreprises,compl\u00e8te,gresql",
             "recuweb_url": "http://fr.recuweb.com/journaldunet.com/2014/12/postgresql-vers-une-admin-stack-compl%C3%A8te-jdn",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
             "source_url": "http://journaldunet.com/developpeur/expert/59445/postgresql---vers-une-admin-stack-complete.shtml"
         }
     }
