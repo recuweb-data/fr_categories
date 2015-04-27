@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "centrale-nucl\u00e9aire",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/centrale-nucl\u00e9aire/",
@@ -11,25 +11,46 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/centrale-nucl%C3%A9aire/centrale-nucl%C3%A9aire/blogs.json"
     },
     "items": {
-        "infosen.net/2015/04/la-justice-japonaise-autorise-le-red%C3%A9marrage-de-centrale-infosen": {
-            "title": "La justice japonaise autorise le red\u00e9marrage de la centrale... - infosen...",
-            "snippet": "La justice japonaise a refus\u00e9 mercredi 22 avril de suspendre le red\u00e9marrage de la centrale nucl\u00e9aire de Sendai, dans le sud-ouest du Japon. Le red\u00e9marrage des deux r\u00e9acteurs sera une premi\u00e8re depuis Fukushima. infosen...",
-            "date": "2015-04-22",
-            "author_name": "ibooster",
-            "tags": "red\u00e9marrage,r\u00e9acteurs,ouest,sud,avril,justice,mercredi,autorise,centrale,nucl\u00e9aire,sendai,japon,premi\u00e8re,fukushima",
-            "recuweb_url": "http://fr.recuweb.com/infosen.net/2015/04/la-justice-japonaise-autorise-le-red%C3%A9marrage-de-centrale-infosen",
+        "reporterre.net/2015/04/grand-rassemblement-europ%C3%A9en-devant-la-centrale-nucl%C3%A9aire": {
+            "title": "Grand rassemblement europ\u00e9en devant la centrale nucl\u00e9aire de...",
+            "snippet": "Le dimanche 26 avril, un grand rassemblement europ\u00e9en aura lieu devant la centrale nucl\u00e9aire de Fessenheim pour exiger son arr\u00eat d\u00e9finitif, comme l'a promis Fran\u00e7ois Hollande. Cette mobilisation aura lieu le jour du 29e...",
+            "date": "2015-04-26",
+            "author_name": "inconnu",
+            "tags": "arr\u00eat,centrale,nucl\u00e9aire,avril,fessenheim",
+            "recuweb_url": "http://fr.recuweb.com/reporterre.net/2015/04/grand-rassemblement-europ%C3%A9en-devant-la-centrale-nucl%C3%A9aire",
             "resource_url": "http://www.google.com/search?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://infosen.net/?p=310281"
+            "source_url": "http://reporterre.net/Grand-rassemblement-europeen"
         },
         "saintongeais.wordpress.com/2015/04/l-apr%C3%A8s-tchernobyl": {
             "title": "L'apr\u00e8s Tchernobyl...",
             "snippet": "Les menaces pour les g\u00e9n\u00e9rations futures de toute lEurope sont bien r\u00e9elles et clairement illustr\u00e9es par le sort de la centrale nucl\u00e9aire de Tchernobyl. Celle-ci a cess\u00e9 []...",
             "date": "2015-04-21",
             "author_name": "saintongeais",
-            "tags": "apr\u00e8s,centrale,nucl\u00e9aire",
+            "tags": "centrale,nucl\u00e9aire",
             "recuweb_url": "http://fr.recuweb.com/saintongeais.wordpress.com/2015/04/l-apr%C3%A8s-tchernobyl",
             "resource_url": "http://fr.search.wordpress.com/?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&f=feed&page=1",
             "source_url": "http://saintongeais.wordpress.com/2015/04/21/lapres-tchernobyl/"
+        },
+        "kedistan.fr/2015/04/centrale-nucl%C3%A9aire-akkuyu-quand-la-catastrophe-arrive-en-criant": {
+            "title": "Centrale nucl\u00e9aire Akkuyu: Quand la catastrophe arrive en criant...",
+            "snippet": "La Turquie a d\u00e9marr\u00e9 ce mardi 14 avril dans le sud du pays la construction de sa premi\u00e8re centrale nucl\u00e9aire, un projet d'envergure de 19 milliards d'euros men\u00e9 par la Russie et qui devrait entrer en service en 2020 malgr\u00e9...",
+            "date": "2015-04-20",
+            "author_name": "Naz Oke",
+            "categories": "construction",
+            "tags": "projet,avril,sud,pays,construction,d\u00e9marr\u00e9,catastrophe,centrale,nucl\u00e9aire,akkuyu,turquie,mardi,premi\u00e8re,russie",
+            "recuweb_url": "http://fr.recuweb.com/construction/kedistan.fr/2015/04/centrale-nucl%C3%A9aire-akkuyu-quand-la-catastrophe-arrive-en-criant",
+            "resource_url": "http://www.google.com/search?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://kedistan.fr/2015/04/21/centrale-nucleaire-akkuyu-quand-la-catastrophe-arrive-en-criant-gare/"
+        },
+        "burkina24.com/2015/04/z%C3%A9phirin-diabr%C3%A9-le-burkina-peut-disposer-aussi-d-une-centrale": {
+            "title": "Z\u00e9phirin Diabr\u00e9: Le Burkina peut disposer aussi d'une centrale...",
+            "snippet": "J'ai fait ma carri\u00e8re dans le nucl\u00e9aire, dit-il. Je n'ai pas peur du nucl\u00e9aire. Je sais comment fonctionne le nucl\u00e9aire. Je pense que le moment venu, le Burkina peut disposer aussi d'une centrale nucl\u00e9aire. Une fois l'\u00e9nergie...",
+            "date": "2015-04-18",
+            "author_name": "Redaction B24",
+            "tags": "peut,centrale,nucl\u00e9aire",
+            "recuweb_url": "http://fr.recuweb.com/burkina24.com/2015/04/z%C3%A9phirin-diabr%C3%A9-le-burkina-peut-disposer-aussi-d-une-centrale",
+            "resource_url": "http://www.google.com/search?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://burkina24.com/2015/04/18/zephirin-diabre-le-burkina-peut-disposer-aussi-dune-centrale-nucleaire/"
         },
         "lenergeek.com/2015/04/un-robot-serpent-perdu-dans-les-entrailles-de-la-centrale-nucl%C3%A9aire": {
             "title": "Un \"robot-serpent\" perdu dans les entrailles de la centrale nucl\u00e9aire...",
@@ -47,7 +68,7 @@
             "date": "2015-04-14",
             "author_name": "Fr\u00e9d\u00e9ric Dubessy",
             "categories": "construction",
-            "tags": "sud,province,site,construction,premi\u00e8re,centrale,nucl\u00e9aire,turquie,mardi,avril",
+            "tags": "sud,province,site,d\u00e9marr\u00e9,construction,premi\u00e8re,centrale,nucl\u00e9aire,turquie,mardi,avril,akkuyu",
             "recuweb_url": "http://fr.recuweb.com/construction/econostrum.info/2015/04/pose-de-la-premi%C3%A8re-pierre-centrale-nucl%C3%A9aire-turque",
             "resource_url": "http://www.google.com/search?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://econostrum.info/Pose-de-la-premiere-pierre-de-la-premiere-centrale-nucleaire-turque_a20097.html"
@@ -58,20 +79,10 @@
             "date": "2015-04-03",
             "author_name": "Arthur Leroy",
             "categories": "construction",
-            "tags": "province,cadre,projet,construction,avril,approuve,turquie,centrale,nucl\u00e9aire,mercredi",
+            "tags": "pays,province,cadre,projet,construction,avril,approuve,turquie,centrale,nucl\u00e9aire",
             "recuweb_url": "http://fr.recuweb.com/construction/lenergeek.com/2015/04/la-turquie-approuve-construction-de-centrale-nucl%C3%A9aire-sinop",
             "resource_url": "http://www.google.com/search?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lenergeek.com/2015/04/03/la-turquie-approuve-la-construction-de-la-centrale-nucleaire-de-sinop/"
-        },
-        "usinenouvelle.com/2015/04/edf-interrompt-les-travaux-pour-la-centrale-nucl%C3%A9aire-hinkley-point": {
-            "title": "EDF interrompt les travaux pour la centrale nucl\u00e9aire Hinkley Point C...",
-            "snippet": "EDF Energy interrompt les travaux pr\u00e9paratoires du site de la centrale nucl\u00e9aire de Hinkley Point C, en Angleterre, ce qui se traduit par la suppression de 400 postes. La soci\u00e9t\u00e9 a pr\u00e9cis\u00e9 que les travaux pr\u00e9paratoires sur le...",
-            "date": "2015-04-02",
-            "author_name": "inconnu",
-            "tags": "site,edf,centrale,nucl\u00e9aire",
-            "recuweb_url": "http://fr.recuweb.com/usinenouvelle.com/2015/04/edf-interrompt-les-travaux-pour-la-centrale-nucl%C3%A9aire-hinkley-point",
-            "resource_url": "http://www.google.com/search?q=centrale%2Bnucl%C3%A9aire%2Bcentrale%2Bnucl%C3%A9aire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://usinenouvelle.com/article/edf-interrompt-les-travaux-pour-la-centrale-nucleaire-hinkley-point-c.N322811"
         },
         "revolutionetlibertes.wordpress.com/2014/03/action-de-greenpeace-pour-la-fermeture-des-centrales-nucl%C3%A9aires": {
             "title": "Action de Greenpeace pour la fermeture des centrales nucl\u00e9aires...",
