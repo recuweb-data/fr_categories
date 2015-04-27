@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "php",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -10,54 +11,74 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
+        "infoworld.com/2015/04/coming-soon-php-7-and-it-s-a-scorcher-infoworld": {
+            "title": "Coming soon: PHP 7 -- and it's a scorcher - InfoWorld...",
+            "snippet": "InfoWorldComing soon: PHP 7 -- and it's a scorcherInfoWorldIn fact, 100-percent-plus performance improvements have been seen in version 7, Rasmus Lerdorf, the founder of the scripting language, said at the O'Reilly Fluent conference in San...",
+            "date": "2015-04-22",
+            "categories": "php",
+            "tags": "php",
+            "recuweb_url": "http://fr.recuweb.com/php/infoworld.com/2015/04/coming-soon-php-7-and-it-s-a-scorcher-infoworld",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
+            "source_url": "http://infoworld.com/article/2912902/php/coming-soon-php-7-and-its-a-scorcher.html"
+        },
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-php-symfony-h-f-presse-citron-blog": {
+            "title": "D\u00e9veloppeur PHP/Symfony H/F - Presse-citron (Blog)...",
+            "snippet": "D\u00e9veloppeur PHP/Symfony H/FPresse-citron (Blog)Ziimo est une nouvelle plateforme immobili\u00e8re et communautaire enti\u00e8rement gratuite. Nous nous effor\u00e7ons constamment d'apporter des am\u00e9liorations afin de rendre l'exp\u00e9rience utilisateur la plus...",
+            "date": "2015-04-20",
+            "categories": "php",
+            "tags": "exp\u00e9rience,afin,php",
+            "recuweb_url": "http://fr.recuweb.com/php/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-php-symfony-h-f-presse-citron-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+PHP++Symfony+HF/30031"
+        },
+        "journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test": {
+            "title": "PHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloud - JDN...",
+            "snippet": "JDNPHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloudJDNL'enjeu pour Microsoft: offrir un outil qui permettent de tester en front office des applications PHP h\u00e9berg\u00e9es sur Azure. Via une barre de navigation greff\u00e9e dans le...",
+            "date": "2015-04-15",
+            "categories": "navigation,php",
+            "tags": "cloud,php,applications",
+            "recuweb_url": "http://fr.recuweb.com/php/journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "source_url": "http://journaldunet.com/developpeur/outils/zend-z-ray-pour-microsoft-azure-0415.shtml"
+        },
         "pro.clubic.com/2015/04/php-tour-luxembourg-2015": {
             "title": "PHP Tour Luxembourg 2015 -...",
-            "snippet": "PHP Tour Luxembourg \u00e9 par une antenne AFUP Luxembourg toute fra\u00eeche et extr\u00eamement motiv\u00e9e, ce PHP Tour s'annonce \u00e9galement plus international, notamment tourn\u00e9 vers le B\u00e9n\u00e9lux. De quoi faire la promotion des talents francophones vers les...",
+            "snippet": "PHP Tour Luxembourg PHP Tour, cycle de conf\u00e9rences itin\u00e9rant de l'Association Fran\u00e7aise des Utilisateurs de PHP, o\u00f9 les meilleurs experts du langage partagent leurs connaissances et leur exp\u00e9rience avec les d\u00e9veloppeurs et d\u00e9cideurs! L'AFUP,...",
             "date": "2015-04-14",
-            "categories": "php",
-            "tags": "international,php,php_tour,tour,afup,luxembourg,php_tour_luxembourg,tour_luxembourg",
-            "recuweb_url": "http://fr.recuweb.com/php/pro.clubic.com/2015/04/php-tour-luxembourg-2015",
+            "categories": "connaissance,php,langage",
+            "tags": "exp\u00e9rience,d\u00e9veloppeurs,association,association_fran\u00e7aise,fran\u00e7aise,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,php,php_tour,php_tour_luxembourg,tour,tour_luxembourg,luxembourg,utilisateurs,langage,afup",
+            "recuweb_url": "http://fr.recuweb.com/langage/pro.clubic.com/2015/04/php-tour-luxembourg-2015",
             "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
             "source_url": "http://pro.clubic.com/agenda/evenement-231-php-tour-luxembourg-2015.html"
-        },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-web-php-confirm%C3%A9-h-f-presse-citron-blog": {
-            "title": "D\u00e9veloppeur Web PHP confirm\u00e9 H/F - Presse-citron (Blog)...",
-            "snippet": "D\u00e9veloppeur Web PHP confirm\u00e9 H/FPresse-citron (Blog)Recisio, c'est une ambiance startUp, une \u00e9quipe d'une vingtaine de passionn\u00e9s (tous un peu geek!) qui bossent ensemble dans une ambiance d\u00e9tendue et un cadre flexible. Chez nous, c'est...",
-            "date": "2015-04-11",
-            "categories": "php",
-            "tags": "peu,web,php",
-            "recuweb_url": "http://fr.recuweb.com/php/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-web-php-confirm%C3%A9-h-f-presse-citron-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Web+PHP+confirm\u00e9+HF/29908"
-        },
-        "revue-webmaster.fr/2015/04/10-04-cloud-php-7-et-workshops-au-programme-du-tour": {
-            "title": "10/04 Cloud, PHP 7 et workshops au programme du PHP Tour Luxembourg 2015...",
-            "snippet": "Luxembourg-Ville aura le plaisir d'accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP (Association Fran\u00e7aise des Utilisateurs de PHP), les 12 et 13 mai, au sein de la prestigieuse abbaye de Neum\u00fcnster. Le programme de...",
-            "date": "2015-04-10",
-            "categories": "plaisir,php",
-            "tags": "programme,sein,prestigieuse,prestigieuse-abbaye,abbaye,association,association_fran\u00e7aise,fran\u00e7aise,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,workshops,workshops-au-programme,cloud,php,tour,luxembourg,ville,afup,utilisateurs,mai,neum\u00fcnster",
-            "recuweb_url": "http://fr.recuweb.com/php/revue-webmaster.fr/2015/04/10-04-cloud-php-7-et-workshops-au-programme-du-tour",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=php%2Bphp&format=RSS&cc=fr",
-            "source_url": "http://revue-webmaster.fr/cloud-php-php-tour-luxembourg-rp2317670.html"
         },
         "commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour": {
             "title": "Cloud, PHP 7 et workshops au programme du PHP Tour... -...",
             "snippet": "Cloud, PHP 7 et workshops au programme du PHP Tour... aura le plaisir d'accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP (Association Fran\u00e7aise des Utilisateurs de PHP), les 12 et 13 mai, au sein de la prestigieuse abbaye...",
             "date": "2015-04-10",
             "categories": "plaisir,php",
-            "tags": "sein,prestigieuse,prestigieuse-abbaye,abbaye,association,association_fran\u00e7aise,fran\u00e7aise,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,workshops,workshops-au-programme,programme,cloud,php,tour,afup,utilisateurs,mai",
+            "tags": "sein,prestigieuse,prestigieuse-abbaye,abbaye,association,association_fran\u00e7aise,fran\u00e7aise,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,programme,cloud,php,tour,afup,utilisateurs,mai",
             "recuweb_url": "http://fr.recuweb.com/php/commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
             "source_url": "http://commentcamarche.net/news/5866376-cloud-php-7-et-workshops-au-programme-du-php-tour-luxembourg-2015"
+        },
+        "globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security": {
+            "title": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de... - Global Security Mag...",
+            "snippet": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de...Global Security MagDESCRIPTION DE LA VULN\u00c9RABILIT\u00c9. La biblioth\u00e8que regexp de Henry Spencer impl\u00e9mente le support des expressions r\u00e9guli\u00e8res. Elle est utilis\u00e9e par PHP et MySQL.",
+            "date": "2015-04-02",
+            "categories": "php,mysql",
+            "tags": "php,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Henry-Spencer-regex-PHP,20150402,52027.html"
         },
         "programmez.com/2015/03/php-tour-luxembourg-2015-d%C3%A9voile-son-programme-programmez": {
             "title": "PHP Tour Luxembourg 2015 d\u00e9voile son programme - Programmez!",
             "snippet": "PHP Tour Luxembourg 2015 d\u00e9voile son programmeProgrammez!Luxembourg-Ville aura le plaisir d'accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP, les 12 et 13 mai, au sein de la prestigieuse abbaye de Neum\u00fcnster. Le programme...",
             "date": "2015-03-31",
             "categories": "plaisir,php",
-            "tags": "sein,prestigieuse,prestigieuse-abbaye,abbaye,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,programme,php,php_tour,php_tour_luxembourg,tour,tour_luxembourg,luxembourg,ville,afup,mai,neum\u00fcnster",
+            "tags": "sein,prestigieuse,prestigieuse-abbaye,abbaye,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,programme,php,php_tour,php_tour_luxembourg,tour,tour_luxembourg,luxembourg,afup,mai",
             "recuweb_url": "http://fr.recuweb.com/php/programmez.com/2015/03/php-tour-luxembourg-2015-d%C3%A9voile-son-programme-programmez",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
             "source_url": "http://programmez.com/actualites/php-tour-luxembourg-2015-devoile-son-programme-22443"
         },
         "php.developpez.com/2015/03/cakephp-3-0-stabilisation-pour-le-framework-php-qui-propose": {
@@ -65,9 +86,9 @@
             "snippet": "CakePHP 3.0: stabilisation pour le framework PHP qui propose une... est un framework PHP qui propose une architecture MVC et des outils essentiels afin de concevoir rapidement une petite application web ou un simple blog. Bas\u00e9 sur Ruby on Rails et...",
             "date": "2015-03-25",
             "categories": "application-web,php",
-            "tags": "web,simple,framework,php,propose",
+            "tags": "afin,web,php,propose",
             "recuweb_url": "http://fr.recuweb.com/php/php.developpez.com/2015/03/cakephp-3-0-stabilisation-pour-le-framework-php-qui-propose",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
             "source_url": "http://php.developpez.com/actu/83004/CakePHP-3-0-stabilisation-pour-le-framework-PHP-qui-propose-une-architecture-MVC-c-est-un-concurrent-de-Laravel-Symfony-ou-Zend/"
         },
         "fr.news.yahoo.com/2015/03/arc-international-le-tribunal-de-commerce-valide-la-reprise-du-groupe": {
@@ -75,7 +96,7 @@
             "snippet": "Le tribunal de commerce de Boulogne-sur-Mer (Pas-de-Calais) a valid\u00e9 lundi le projet de reprise par l'am\u00e9ricain PHP du groupe verrier Arc International, a-t-on appris lundi de sources concordantes.",
             "date": "2015-03-16",
             "categories": "php",
-            "tags": "international,php",
+            "tags": "php",
             "recuweb_url": "http://fr.recuweb.com/php/fr.news.yahoo.com/2015/03/arc-international-le-tribunal-de-commerce-valide-la-reprise-du-groupe",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=php",
             "source_url": "http://fr.news.yahoo.com/arc-international-tribunal-commerce-valide-reprise-groupe-verrier-200446122--finance.html"
