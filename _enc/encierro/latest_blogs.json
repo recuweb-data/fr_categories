@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "encierro",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/encierro/",
@@ -10,60 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/encierro/encierro/blogs.json"
     },
     "items": {
+        "camposyruedos.com/2015/02/campos-y-ruedos-encierro": {
+            "title": "Campos y Ruedos Encierro...",
+            "snippet": "C'est certainement l'instant le plus attendu des f\u00eates de Ciudad Rodrigo, le plus intense et le plus \u00e9mouvant sans doute. Le moment cent fois r\u00eav\u00e9, cent fois esp\u00e9r\u00e9 qui sera, plus tard, cent fois racont\u00e9. C'est le moment...",
+            "date": "2015-02-15",
+            "author_name": "Jos\u00e9 Angulo",
+            "categories": "encierro",
+            "tags": "f\u00eates,encierro",
+            "recuweb_url": "http://fr.recuweb.com/encierro/camposyruedos.com/2015/02/campos-y-ruedos-encierro",
+            "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://camposyruedos.com/?p=6705"
+        },
+        "jies-arles.com/2015/01/la-lidia-de-frejus-soiree-du-20-fevrier-2015-l": {
+            "title": "\"LA LIDIA\" DE FREJUS... SOIREE DU 20 FEVRIER 2015... L...",
+            "snippet": "28 janvier 2015 3 28/01/janvier/2015 20:15... \"LA LIDIA\" DE FREJUS... SOIREE DU 20 FEVRIER 2015... L'ENCIERRO DE TOROS, UNE TAUROMACHIE AUTHENTIQUE......",
+            "date": "2015-01-28",
+            "author_name": "inconnu",
+            "categories": "tauromachie,encierro",
+            "tags": "encierro,toros,janvier",
+            "recuweb_url": "http://fr.recuweb.com/encierro/jies-arles.com/2015/01/la-lidia-de-frejus-soiree-du-20-fevrier-2015-l",
+            "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jies-arles.com/article-la-lidia-de-frejus-soiree-du-20-fevrier-2015-l-encierro-de-toros-une-tauromachie-auth-125449037.html"
+        },
         "sudouest.fr/2014/07/vid%C3%A9os-sept-bless%C3%A9s-lors-du-huiti%C3%A8me-encierro-des-f%C3%AAtes": {
             "title": "Vid\u00e9os: sept bless\u00e9s lors du huiti\u00e8me encierro des F\u00eates de...",
             "snippet": "Trois personnes ont re\u00e7u des coups de corne. Ce fut la course la plus longue et la plus dangereuse de l'\u00e9dition 2014 C'\u00e9tait le huiti\u00e8me et dernier encierro des F\u00eates de Pampelune, version 2014....",
             "date": "2014-07-14",
             "author_name": "inconnu",
             "categories": "encierro",
-            "tags": "personnes,personnes-ont-re\u00e7u,re\u00e7u,re\u00e7u-des-coups,coups,coups-de-corne,corne,bless\u00e9s,lors,encierro,trois,pampelune",
+            "tags": "personnes,personnes-ont-re\u00e7u,re\u00e7u,re\u00e7u-des-coups,coups,coups-de-corne,corne,bless\u00e9s,lors,encierro,f\u00eates",
             "recuweb_url": "http://fr.recuweb.com/encierro/sudouest.fr/2014/07/vid%C3%A9os-sept-bless%C3%A9s-lors-du-huiti%C3%A8me-encierro-des-f%C3%AAtes",
             "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2014/07/14/videos-sept-blesses-lors-du-huitieme-encierro-des-fetes-de-pampelune-1614698-4018.php"
-        },
-        "torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/video-encierro-un-miura-s%C3%A8me-la-panique-dans-l-estafeta-toros": {
-            "title": "video Encierro: un Miura s\u00e8me la panique dans l'Estafeta: Toros...",
-            "snippet": "video Encierro: un Miura s\u00e8me la panique dans l'Estafeta. Un toro de Miura, isol\u00e9 du lot, a sem\u00e9 la panique dans la rue Estafeta. Trois bless\u00e9s: un australien de 26 ans a pris plusieurs coups de cornes dans le thorax,...",
-            "date": "2014-07-14",
-            "author_name": "david bessi\u00e8res",
-            "categories": "encierro",
-            "tags": "coups,toros,encierro,trois,bless\u00e9s",
-            "recuweb_url": "http://fr.recuweb.com/encierro/torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/video-encierro-un-miura-s%C3%A8me-la-panique-dans-l-estafeta-toros",
-            "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://torosyferias.blogs.larepubliquedespyrenees.fr/archive/2014/07/14/encierro-de-pamp-22175.html"
-        },
-        "torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/encierro-des-fuente-ymbro-toros-y-ferias": {
-            "title": "Encierro des Fuente Ymbro: Toros y ferias...",
-            "snippet": "Pampelune, samedi. Beaucoup de monde dans les rues et un encierro sans encombre ni bless\u00e9 des toros de Fuente Ymbro. 2'49 s pour rejoindre...",
-            "date": "2014-07-12",
-            "author_name": "david bessi\u00e8res",
-            "categories": "encierro",
-            "tags": "toros,rues,ferias,encierro,pampelune,samedi",
-            "recuweb_url": "http://fr.recuweb.com/encierro/torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/encierro-des-fuente-ymbro-toros-y-ferias",
-            "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://torosyferias.blogs.larepubliquedespyrenees.fr/archive/2014/07/12/encierro-des-fuente-ymbro-22163.html"
-        },
-        "torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/video-encierro-rapide-et-accident%C3%A9-des-garcigrande-toros-y-ferias": {
-            "title": "Video: encierro rapide et accident\u00e9 des Garcigrande: Toros y ferias...",
-            "snippet": "Les toros de Garcigrande couraient pour la premi\u00e8re fois dans les rues de Pampelune. Un encierro rapide de 2 mn 30 s, accident\u00e9, marqu\u00e9 par 2...",
-            "date": "2014-07-10",
-            "author_name": "david bessi\u00e8res",
-            "categories": "encierro",
-            "tags": "rues,toros,ferias,encierro,pampelune",
-            "recuweb_url": "http://fr.recuweb.com/encierro/torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/video-encierro-rapide-et-accident%C3%A9-des-garcigrande-toros-y-ferias",
-            "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://torosyferias.blogs.larepubliquedespyrenees.fr/archive/2014/07/10/encierro-rapide-et-accidente-des-garcigrande-22145.html"
-        },
-        "torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/video-san-fermin-chaotique-et-dangereux-encierro-toros-y-ferias": {
-            "title": "Video San Fermin: chaotique et dangereux encierro: Toros y ferias...",
-            "snippet": "Pampelune. Mercredi 8, 3\u00e8me encierro. Les toros de Victoriano del Rio ont \u00e9t\u00e9 les protagonistes d'un encierro dangereux et violent au cours duquel...",
-            "date": "2014-07-09",
-            "author_name": "david bessi\u00e8res",
-            "categories": "encierro",
-            "tags": "dangereux,cours,cours-duquel,duquel,toros,ferias,encierro,pampelune,victoriano,del,rio",
-            "recuweb_url": "http://fr.recuweb.com/encierro/torosyferias.blogs.larepubliquedespyrenees.fr/2014/07/video-san-fermin-chaotique-et-dangereux-encierro-toros-y-ferias",
-            "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://torosyferias.blogs.larepubliquedespyrenees.fr/archive/2014/07/09/san-fermin-chaotique-et-dangereux-encierro-22128.html"
         },
         "sudouest.fr/2014/07/deux-personnes-gri%C3%A8vement-bless%C3%A9es-lors-du-troisi%C3%A8me-encierro": {
             "title": "deux personnes gri\u00e8vement bless\u00e9es lors du troisi\u00e8me encierro de...",
@@ -71,7 +50,7 @@
             "date": "2014-07-09",
             "author_name": "inconnu",
             "categories": "encierro",
-            "tags": "bless\u00e9s,personnes,personnes-ont-re\u00e7u,re\u00e7u,re\u00e7u-des-coups,coups,coups-de-corne,corne,dangereux,toros,lors,encierro,victoriano,del,rio",
+            "tags": "bless\u00e9s,personnes,personnes-ont-re\u00e7u,re\u00e7u,re\u00e7u-des-coups,coups,coups-de-corne,corne,toros,lors,encierro,del",
             "recuweb_url": "http://fr.recuweb.com/encierro/sudouest.fr/2014/07/deux-personnes-gri%C3%A8vement-bless%C3%A9es-lors-du-troisi%C3%A8me-encierro",
             "resource_url": "http://www.google.com/search?q=encierro%2Bencierro&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2014/07/09/video-deux-coureurs-grievement-blesses-lors-du-troisieme-encierro-de-pampelune-1610346-6070.php"
