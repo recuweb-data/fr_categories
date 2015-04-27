@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "course-sur-route",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/course-sur-route/",
@@ -10,24 +11,69 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
     },
     "items": {
-        "letelegramme.fr/2015/04/course-sur-route-186-coureurs-aux-foul%C3%A9es-qu%C3%A9vertoises-le-t%C3%A9l%C3%A9gramme": {
-            "title": "Course sur route. 186 coureurs aux Foul\u00e9es qu\u00e9vertoises - Le T\u00e9l\u00e9gramme...",
-            "snippet": "Le T\u00e9l\u00e9grammeCourse sur route. 186 coureurs aux Foul\u00e9es qu\u00e9vertoisesLe T\u00e9l\u00e9grammeCourse sur route. 186 coureurs aux Foul\u00e9es qu\u00e9vertoises 186 coureurs \u00e9taient au d\u00e9part de la onzi\u00e8me \u00e9dition des Foul\u00e9es qu\u00e9vertoises. Le Plumaugatais...",
-            "date": "2015-04-14",
-            "tags": "\u00e9dition,course,route,foul\u00e9es,d\u00e9part",
-            "recuweb_url": "http://fr.recuweb.com/letelegramme.fr/2015/04/course-sur-route-186-coureurs-aux-foul%C3%A9es-qu%C3%A9vertoises-le-t%C3%A9l%C3%A9gramme",
-            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
-            "source_url": "http://letelegramme.fr/cotes-darmor/dinan/course-sur-route-186-coureurs-aux-foulees-quevertoises-14-04-2015-10594252.php"
-        },
-        "lavoixdunord.fr/2015/04/course-sur-route-florian-idziak-bon-sang-ne-saurait-mentir": {
-            "title": "Course sur route: Florian Idziak, bon sang ne saurait mentir...",
-            "snippet": "Aujourdhui, Florian, le rejeton, marche sur les traces de Didier. Pas dobjectif particulier mais lenvie de se faire plaisir. Ce qui nemp\u00eache pas la performance d\u00eatre souvent au rendez-vous: une victoire sur le cinq aux foul\u00e9es du...",
-            "date": "2015-04-11",
-            "categories": "plaisir",
-            "tags": "victoire,foul\u00e9es,rendez,course,route",
-            "recuweb_url": "http://fr.recuweb.com/plaisir/lavoixdunord.fr/2015/04/course-sur-route-florian-idziak-bon-sang-ne-saurait-mentir",
+        "lalsace.fr/2015/04/athl%C3%A9tisme-trails-la-montagne-fr%C3%B4le-lindigestion": {
+            "title": "ATHL\u00c9TISME Trails: la montagne fr\u00f4le lindigestion...",
+            "snippet": "Dans un pass\u00e9 nettement plus ancien, il y avait eu Masevaux-Thann, une course sur route qui posait de plus en plus de probl\u00e8mes de s\u00e9curit\u00e9 et que lUS Thann athl\u00e9tisme a \u00e9t\u00e9 contrainte de supprimer. Partout, le constat est le m\u00eame: les...",
+            "date": "2015-04-23",
+            "categories": "athletisme",
+            "tags": "m\u00eame,course,route",
+            "recuweb_url": "http://fr.recuweb.com/athletisme/lalsace.fr/2015/04/athl%C3%A9tisme-trails-la-montagne-fr%C3%B4le-lindigestion",
             "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/course-sur-route-florian-idziak-bon-sang-ne-saurait-mentir-ia19b0n2766249"
+            "source_url": "http://lalsace.fr/sport/2015/04/22/la-montagne-frole-l-indigestion"
+        },
+        "lapresse.ca/2015/04/une-trentaine-d-ann%C3%A9es-plus-tard": {
+            "title": "Une trentaine d'ann\u00e9es plus tard...",
+            "snippet": "Un crit\u00e9rium dans le Vieux-Aylmer suivi d'un contre-la-montre dans le parc de la Gatineau et d'une course sur route au centre-ville d'Ottawa. Les championnats canadiens de cyclisme sur route reviennent dans la r\u00e9gion de la capitale nationale...",
+            "date": "2015-04-23",
+            "tags": "nationale,cyclisme,ann\u00e9es,course,route",
+            "recuweb_url": "http://fr.recuweb.com/lapresse.ca/2015/04/une-trentaine-d-ann%C3%A9es-plus-tard",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://lapresse.ca/le-droit/sports/autres-sports/201504/23/01-4863697-une-trentaine-dannees-plus-tard.php"
+        },
+        "letelegramme.fr/2015/04/course-sur-route-les-foul%C3%A9es-d-evran-ont-fait-le-plein": {
+            "title": "Course sur route. Les foul\u00e9es d'Evran ont fait le plein - Le T\u00e9l\u00e9gramme...",
+            "snippet": "Le T\u00e9l\u00e9grammeCourse sur route. Les foul\u00e9es d'Evran ont fait le pleinLe T\u00e9l\u00e9grammeCourse sur route. Les foul\u00e9es d'Evran ont fait le plein Les foul\u00e9es \u00e9vrannaises, un beau 10 km comptant pour la cinqui\u00e8me \u00e9preuve du challenge Cr\u00e9dit...",
+            "date": "2015-04-21",
+            "tags": "\u00e9preuve,foul\u00e9es,course,route",
+            "recuweb_url": "http://fr.recuweb.com/letelegramme.fr/2015/04/course-sur-route-les-foul%C3%A9es-d-evran-ont-fait-le-plein",
+            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&output=atom&nord=1",
+            "source_url": "http://letelegramme.fr/cotes-darmor/dinan/course-sur-route-les-foulees-d-evran-ont-fait-le-plein-21-04-2015-10602347.php"
+        },
+        "moto-net.com/2015/04/r%C3%A9cit-de-la-spring-cup-2015-nicolas-pautet-pr%C3%A9pare-le-manx": {
+            "title": "R\u00e9cit de la Spring Cup 2015: Nicolas Pautet pr\u00e9pare le Manx GP...",
+            "snippet": "La recette du jump... Ce sont les deux trucs que j'aime en course sur route: les cassures (o\u00f9 la moto d\u00e9leste de l'avant en virage) et les jumps! Les premiers passages permettent de valider la trajectoire, la vitesse d'approche et le ressenti...",
+            "date": "2015-04-21",
+            "tags": "avant,deux,r\u00e9cit,course,route",
+            "recuweb_url": "http://fr.recuweb.com/moto-net.com/2015/04/r%C3%A9cit-de-la-spring-cup-2015-nicolas-pautet-pr%C3%A9pare-le-manx",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://moto-net.com/actualites-motos-6309-SPORT-COURSES-SUR-ROUTE-Recit-de-la-Spring-Cup-2015-:-Nicolas-Pautet-prepare-le-Manx-GP.html"
+        },
+        "vosgesmatin.fr/2015/04/course-sur-route-picoche-va-piano-mais-sano": {
+            "title": "Course sur route Picoche va piano mais sano...",
+            "snippet": "Pour Laurane Picoche, les sensations, \u00e7a va, \u00e7a vient. Comme son \u00e9tat de sant\u00e9. La Vosgienne est en effet rentr\u00e9e dAix-les-Bains ce week-end avec un sentiment mitig\u00e9. Franchement, je me sentais bien depuis 15 jours et \u00e9tant donn\u00e9 le...",
+            "date": "2015-04-20",
+            "tags": "jours,effet,course,route,comme",
+            "recuweb_url": "http://fr.recuweb.com/vosgesmatin.fr/2015/04/course-sur-route-picoche-va-piano-mais-sano",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://vosgesmatin.fr/sport/2015/04/21/picoche-va-piano-mais-sano"
+        },
+        "lequipe.fr/2015/04/tro-bro-leon-les-ribinou-en-cam%C3%A9ra-embarqu%C3%A9e-avec-j%C3%A9r%C3%A9my-roy": {
+            "title": "Tro Bro Leon Les ribinou en cam\u00e9ra embarqu\u00e9e avec J\u00e9r\u00e9my Roy...",
+            "snippet": "L'occasion de voir de plus pr\u00e8s les c\u00e9l\u00e8bres ribinou, ces chemins empierr\u00e9s qui, comme le dit son co\u00e9quipier Alexandre Geniez, vainqueur cette ann\u00e9e, donnent l'impression d'une belle sortie de VTT plus que d'une course sur route. De quoi...",
+            "date": "2015-04-20",
+            "tags": "comme,pr\u00e8s,course,route",
+            "recuweb_url": "http://fr.recuweb.com/lequipe.fr/2015/04/tro-bro-leon-les-ribinou-en-cam%C3%A9ra-embarqu%C3%A9e-avec-j%C3%A9r%C3%A9my-roy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://lequipe.fr/Cyclisme-sur-route/Actualites/Les-ribinou-en-camera-embarquee/552672"
+        },
+        "estrepublicain.fr/2015/04/course-sur-route-vesoul-en-pour-les-foul%C3%A9es-de-la-motte": {
+            "title": "Course sur route Vesoul: en route pour les Foul\u00e9es de la Motte...",
+            "snippet": "Le chemin est sinueux, escarp\u00e9, rempli dobstacles. Depuis plusieurs ann\u00e9es, lhistoire des Foul\u00e9es de la Motte est en effet frapp\u00e9e du sceau de lincertitude. N\u00e9e en 1994, l\u00e9preuve a trouv\u00e9 son rythme de croisi\u00e8re avant de dispara\u00eetre du...",
+            "date": "2015-04-16",
+            "tags": "avant,effet,ann\u00e9es,course,route,foul\u00e9es",
+            "recuweb_url": "http://fr.recuweb.com/estrepublicain.fr/2015/04/course-sur-route-vesoul-en-pour-les-foul%C3%A9es-de-la-motte",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://estrepublicain.fr/edition-de-vesoul-haute-saone/2015/04/15/vesoul-en-route-pour-les-foulees-de-la-motte"
         },
         "turbo.fr/2015/04/vid%C3%A9o-une-ferrari-550-gts-de-course-sur-la-route": {
             "title": "Vid\u00e9o: une Ferrari 550 GTS de course sur la route! -...",
@@ -35,45 +81,17 @@
             "date": "2015-04-11",
             "tags": "course,route",
             "recuweb_url": "http://fr.recuweb.com/turbo.fr/2015/04/vid%C3%A9o-une-ferrari-550-gts-de-course-sur-la-route",
-            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&output=atom&nord=1",
             "source_url": "http://turbo.fr/actualite-automobile/762662-video-ferrari-550-gts-course-route/"
-        },
-        "quimper.maville.com/2015/04/course-sur-route-premi%C3%A8re-ensoleill%C3%A9e-pour-le-touloki-court": {
-            "title": "Course sur route: Premi\u00e8re ensoleill\u00e9e pour le Touloki court...",
-            "snippet": "Cette premi\u00e8re \u00e9dition du Touloki court voyait deux courses partir en m\u00eame temps, lune pour une boucle de 5 km, lautre pour deux boucles avec une arriv\u00e9e sur le port. Cest Adrien Gu\u00e9vel qui arrivait le premier, bouclant les 5 km en un peu...",
-            "date": "2015-04-05",
-            "tags": "cest,deux,deux-boucles,boucles,boucle,arriv\u00e9e,court,court-voyait,court-voyait-deux,voyait,voyait-deux,voyait-deux-courses,deux-courses,deux-courses-partir,courses,course,courses-partir,partir,partir-en-m\u00eame,m\u00eame,m\u00eame-temps,temps,premi\u00e8re,premi\u00e8re-\u00e9dition,\u00e9dition,ensoleill\u00e9e,route,touloki",
-            "recuweb_url": "http://fr.recuweb.com/quimper.maville.com/2015/04/course-sur-route-premi%C3%A8re-ensoleill%C3%A9e-pour-le-touloki-court",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
-            "source_url": "http://quimper.maville.com/actu/actudet_-course-sur-route-premiere-ensoleillee-pour-le-touloki-court_fil-2747408_actu.Htm"
         },
         "ouest-france.fr/2015/04/course-sur-route-premi%C3%A8re-ensoleill%C3%A9e-pour-le-touloki-court-ouest-france": {
             "title": "Course sur route. Premi\u00e8re ensoleill\u00e9e pour le Touloki court - Ouest-France...",
             "snippet": "Ouest-FranceCourse sur route. Premi\u00e8re ensoleill\u00e9e pour le Touloki courtOuest-FranceCette premi\u00e8re \u00e9dition du Touloki court voyait deux courses partir en m\u00eame temps, l'une pour une boucle de 5 km, l'autre pour deux boucles avec une arriv\u00e9e sur...",
             "date": "2015-04-05",
-            "tags": "deux,deux-boucles,boucles,boucle,arriv\u00e9e,court,court-voyait,court-voyait-deux,voyait,voyait-deux,voyait-deux-courses,deux-courses,deux-courses-partir,courses,course,courses-partir,partir,partir-en-m\u00eame,m\u00eame,m\u00eame-temps,temps,premi\u00e8re,premi\u00e8re-\u00e9dition,\u00e9dition,ensoleill\u00e9e,route,touloki",
+            "tags": "deux,arriv\u00e9e,course,m\u00eame,\u00e9dition,route",
             "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/04/course-sur-route-premi%C3%A8re-ensoleill%C3%A9e-pour-le-touloki-court-ouest-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&output=atom&nord=1",
             "source_url": "http://ouest-france.fr/course-sur-route-premiere-ensoleillee-pour-le-touloki-court-3310967"
-        },
-        "lavoixdunord.fr/2015/04/f%C3%A9rin-g%C5%93ulzin-demain-le-rendez-vous-habituel-des-amateurs-de-course": {
-            "title": "F\u00e9rin-G\u0153ulzin: demain, le rendez-vous habituel des amateurs de course sur route...",
-            "snippet": "F\u00e9rin-G\u0153ulzin. La 19e course p\u00e9destre F\u00e9rin-G\u0153ulzin, cest lundi. Lan pass\u00e9, cest St\u00e9phane Picard et Oph\u00e9lie Helin qui s\u00e9taient impos\u00e9s sur le 10 km, Alexandre Schmitt et Sylvianne Delvoet lemportant sur le 5 km. Cette \u00e9preuve qui...",
-            "date": "2015-04-04",
-            "tags": "cest,amateurs,rendez,course,route",
-            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/04/f%C3%A9rin-g%C5%93ulzin-demain-le-rendez-vous-habituel-des-amateurs-de-course",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/ferin-goeulzin-demain-le-rendez-vous-habituel-des-ia16b12109n2752859"
-        },
-        "saint-brieuc.maville.com/2015/03/running-la-course-sur-route-bient%C3%B4t-tax%C3%A9e": {
-            "title": "Running: La course sur route bient\u00f4t tax\u00e9e? -...",
-            "snippet": ": La course sur route bient\u00f4t tax\u00e9e? Amsalen souhaiterait ainsi qu'aucune course hors stade ne puisse \u00eatre organis\u00e9e sans l'accord de la f\u00e9d\u00e9ration. Une r\u00e9flexion qu'il m\u00e8nerait en collaboration avec le minist\u00e8re du sport. Une nouvelle...",
-            "date": "2015-03-22",
-            "categories": "sport",
-            "tags": "sport,course,route,nouvelle",
-            "recuweb_url": "http://fr.recuweb.com/sport/saint-brieuc.maville.com/2015/03/running-la-course-sur-route-bient%C3%B4t-tax%C3%A9e",
-            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
-            "source_url": "http://saint-brieuc.maville.com/actu/actudet_-running-la-course-sur-route-bientot-taxee-_5-2739043_actu.Htm"
         }
     }
 }
