@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mystique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mystique/",
@@ -16,11 +17,23 @@
             "date": "2015-02-10",
             "author_name": "OummaTV .tv",
             "categories": "mystique,science,islam",
-            "tags": "spirituelle,mystique",
+            "tags": "spirituelle,mystique,islam",
             "recuweb_url": "http://fr.recuweb.com/islam/youtube.com/2015/02/la-mystique-d-al-ghazl%C3%AE",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mystique%2Bmystique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=hnzwdBcTEjw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/hnzwdBcTEjw/0.jpg"
+        },
+        "dailymotion.com/2014/11/le-soufisme-fausse-mystique": {
+            "title": "Le soufisme, fausse mystique...",
+            "snippet": "Le soufisme, fausse mystiqueAuthor: abbepagesTags: Halal islam musulman allah mahomet coran sunna chiite sunniet Egypte Posted: 23 November 2014Rating:: 0...",
+            "date": "2014-11-23",
+            "author_name": "abbepages",
+            "categories": "islam,mystique,soufisme",
+            "tags": "islam,mystique",
+            "recuweb_url": "http://fr.recuweb.com/soufisme/dailymotion.com/2014/11/le-soufisme-fausse-mystique",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mystique/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2avsg8_le-soufisme-fausse-mystique_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2avsg8_le-soufisme-fausse-mystique_news"
         },
         "youtube.com/2014/10/le-mystique-kone-gnegneri-on-peut-devenir-riche-sans-signer": {
             "title": "LE MYSTIQUE KONE GNEGNERI on peut devenir riche sans signer un pacte...",
@@ -78,7 +91,7 @@
             "categories": "mystique",
             "tags": "mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/dailymotion.com/2014/05/x-men-days-of-future-past-profil-mystique",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mystique/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mystique+mystique/0?af=1",
             "source_url": "http://dailymotion.com/video/x1u8ulr_x-men-days-of-future-past-profil-mystique_shortfilms",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1u8ulr_x-men-days-of-future-past-profil-mystique_shortfilms"
         },
@@ -117,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mystique+mystique/0?af=1",
             "source_url": "http://dailymotion.com/video/x1o4vaq_mystique-drum-solo-par-cisco_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1o4vaq_mystique-drum-solo-par-cisco_music"
-        },
-        "youtube.com/2014/04/th%C3%A9ologie-mystique-16-la-lectio-divina": {
-            "title": "Th\u00e9ologie mystique 16 La lectio divina...",
-            "snippet": "Th\u00e9ologie mystique 16 La lectio divina Th\u00e9ologie mystique 16 La lectio divina (22 mn). La lectio divina est une lecture de l'Ecriture au service directe de la connaissance amoureuse de Dieu et de la croissance de la charit\u00e9.... From: Arnaud...",
-            "date": "2014-04-11",
-            "author_name": "Arnaud Dumouch",
-            "categories": "connaissance,mystique",
-            "tags": "mystique",
-            "recuweb_url": "http://fr.recuweb.com/mystique/youtube.com/2014/04/th%C3%A9ologie-mystique-16-la-lectio-divina",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mystique%2Bmystique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=txrtFCYhhSQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/txrtFCYhhSQ/0.jpg"
         }
     }
 }
