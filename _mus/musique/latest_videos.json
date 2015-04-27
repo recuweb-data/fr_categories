@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "musique",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/musique/",
@@ -11,14 +11,14 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/musique/musique/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/2hmusique-relaxante-pour-etudier-travailler-concentration-zen-music-stop-stress-focus": {
-            "title": "2HMusique Relaxante pour Etudier Travailler Concentration. Zen Music Stop Stress Focus Study Work...",
-            "snippet": "2HMusique Relaxante pour Etudier Travailler Concentration. Zen Music Stop Stress Focus Study Work Musique Zen relaxante pour travailler se concentrer \u00e9tudier calmement anti-stress. Musique d'ambiance pour l'\u00e9tude, travailler efficacement Le fond...",
+        "youtube.com/2015/03/2hmusique-relaxante-pour-etudier-&-travailler-concentration-zen-music-stop-stress": {
+            "title": "2HMusique Relaxante pour Etudier & Travailler-Concentration. Zen Music Stop Stress Focus Study Work...",
+            "snippet": "2HMusique Relaxante pour Etudier & Travailler-Concentration. Zen Music Stop Stress Focus Study Work Musique Zen relaxante pour travailler se concentrer \u00e9tudier calmement anti-stress. Musique d'ambiance pour l'\u00e9tude, travailler efficacement Le fond...",
             "date": "2015-03-25",
-            "author_name": "Magdalena Musique & Bien-Etre",
+            "author_name": "Magdalena Berceuse & Bien-Etre",
             "categories": "zen,musique",
             "tags": "musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/youtube.com/2015/03/2hmusique-relaxante-pour-etudier-travailler-concentration-zen-music-stop-stress-focus",
+            "recuweb_url": "http://fr.recuweb.com/musique/youtube.com/2015/03/2hmusique-relaxante-pour-etudier-&-travailler-concentration-zen-music-stop-stress",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=musique%2Bmusique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=sv1WagGcXok&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/sv1WagGcXok/0.jpg"
@@ -58,18 +58,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/musique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2igec7_musique-de-la-comte-dans-le-seigneur-des-anneaux-howard-shore_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2igec7_musique-de-la-comte-dans-le-seigneur-des-anneaux-howard-shore_music"
-        },
-        "dailymotion.com/2015/02/benjamin-cl%C3%A9mentine-nemesis-victoires-de-la-musique-2015": {
-            "title": "Benjamin Cl\u00e9mentine Nemesis Victoires de la Musique 2015...",
-            "snippet": "D\u00e9couvrez toutes les photos, vid\u00e9os, contenus exclusifs et le palmar\u00e8s sur le site des Victoires 2015: Benjamin Cl\u00e9mentine interpr\u00e8te Nemesis sur la sc\u00e8ne des Victoires de la Musique 2015. Retrouvez-nous sur les r\u00e9seaux sociaux et r\u00e9agissez...",
-            "date": "2015-02-13",
-            "author_name": "france2",
-            "categories": "musique",
-            "tags": "r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,sociaux-et-r\u00e9agissez,r\u00e9agissez,sc\u00e8ne,contenus,contenus-exclusifs,exclusifs,palmar\u00e8s,site,photos,victoires,musique,d\u00e9couvrez,interpr\u00e8te,retrouvez",
-            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2015/02/benjamin-cl%C3%A9mentine-nemesis-victoires-de-la-musique-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/musique/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2h5eq4_benjamin-clementine-nemesis-victoires-de-la-musique-2015_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2h5eq4_benjamin-clementine-nemesis-victoires-de-la-musique-2015_music"
         },
         "youtube.com/2015/02/black-m-sur-ma-route-victoires-de-la-musique-2015": {
             "title": "Black M Sur ma route Victoires de la Musique 2015...",
@@ -130,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/musique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2h55y4_indila-derniere-danse-victoires-de-la-musique-2015_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2h55y4_indila-derniere-danse-victoires-de-la-musique-2015_music"
+        },
+        "dailymotion.com/2015/02/julien-dor%C3%A9-chou-wasabi-victoires-de-la-musique-2015": {
+            "title": "Julien Dor\u00e9 Chou Wasabi Victoires de la Musique 2015...",
+            "snippet": "D\u00e9couvrez toutes les photos, vid\u00e9os, contenus exclusifs et le palmar\u00e8s sur le site des Victoires 2015: Julien Dor\u00e9 interpr\u00e8te Chou Wasabi sur la sc\u00e8ne des Victoires de la Musique 2015. Retrouvez-nous sur les r\u00e9seaux sociaux et r\u00e9agissez en...",
+            "date": "2015-02-13",
+            "author_name": "france2",
+            "categories": "musique",
+            "tags": "r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,sociaux-et-r\u00e9agissez,r\u00e9agissez,sc\u00e8ne,contenus,contenus-exclusifs,exclusifs,palmar\u00e8s,site,photos,victoires,musique,d\u00e9couvrez,interpr\u00e8te,retrouvez",
+            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2015/02/julien-dor%C3%A9-chou-wasabi-victoires-de-la-musique-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/musique/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2h59l3_julien-dore-chou-wasabi-victoires-de-la-musique-2015_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2h59l3_julien-dore-chou-wasabi-victoires-de-la-musique-2015_music"
         }
     }
 }
