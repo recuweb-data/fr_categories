@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "marathon",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/marathon/",
@@ -10,13 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/marathon/marathon/blogs.json"
     },
     "items": {
+        "houselondontrip.wordpress.com/2015/04/london-marathon-de-londres": {
+            "title": "LONDON MARATHON MARATHON DE LONDRES...",
+            "snippet": "Every year, approximately 30,000 people run the marathon through the streets of London. Some run for personal achievement, some to raise money for their favourite charity, and many run in outrageous fancy-dress. Previous years costumes have included...",
+            "date": "2015-04-22",
+            "author_name": "houselondontrip",
+            "categories": "marathon",
+            "tags": "run,charity,marathon,londres",
+            "recuweb_url": "http://fr.recuweb.com/marathon/houselondontrip.wordpress.com/2015/04/london-marathon-de-londres",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=marathon%2Bmarathon&rss=1&lng=fr",
+            "source_url": "http://houselondontrip.wordpress.com/2015/04/22/a-checker-london-marathon-marathon-de-londres/"
+        },
+        "u-run.fr/2015/04/premi%C3%A8re-%C3%A9dition-r%C3%A9ussie-pour-le-marathon-de-bordeaux": {
+            "title": "Premi\u00e8re \u00e9dition r\u00e9ussie pour le Marathon de Bordeaux...",
+            "snippet": "Premiere edition reussie pour le Marathon de la Lune avec une ambiance de folie pour ce Nissan Electrique Marathon de Bordeaux Metropolen dont i-Run \u00e9tait partenaire. Samedi 18 avril a 20h, Bordeaux et sa Metropole ont ete le theatre dune epreuve...",
+            "date": "2015-04-22",
+            "author_name": "sylvaine",
+            "categories": "marathon",
+            "tags": "avril,\u00e9dition,premi\u00e8re,marathon,bordeaux,run,samedi",
+            "recuweb_url": "http://fr.recuweb.com/marathon/u-run.fr/2015/04/premi%C3%A8re-%C3%A9dition-r%C3%A9ussie-pour-le-marathon-de-bordeaux",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=marathon%2Bmarathon&rss=1&lng=fr",
+            "source_url": "http://u-run.fr/50067-premiere-edition-reussie-pour-le-marathon-de-bordeaux"
+        },
         "tuxboard.com/2015/04/un-homme-gravement-malade-ach%C3%A8ve-le-marathon-de-boston-apr%C3%A8s": {
             "title": "Un homme gravement malade ach\u00e8ve le Marathon de Boston apr\u00e8s...",
             "snippet": "C'est la belle histoire du jour, et surtout une le\u00e7on de courage et de pers\u00e9v\u00e9rance. Si le marathon de Boston a \u00e9t\u00e9 boucl\u00e9 en 2 heures et 9 minutes par Lelisa Desisa originaire d'\u00c9thiopie, c'est un tout autre combat qui a retenu...",
             "date": "2015-04-22",
             "author_name": "Vic Rattlehead",
             "categories": "marathon",
-            "tags": "heures,\u00e9t\u00e9,jour,marathon,boston,apr\u00e8s,minutes",
+            "tags": "lelisa,lelisa_desisa,desisa,homme,marathon,boston,apr\u00e8s,histoire",
             "recuweb_url": "http://fr.recuweb.com/marathon/tuxboard.com/2015/04/un-homme-gravement-malade-ach%C3%A8ve-le-marathon-de-boston-apr%C3%A8s",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://tuxboard.com/homme-gravement-malade-acheve-marathon-boston/"
@@ -27,21 +50,10 @@
             "date": "2015-04-20",
             "author_name": "inconnu",
             "categories": "marathon",
-            "tags": "d\u00fb,marathon,bordeaux,pluie",
+            "tags": "\u00e9preuves,marathon,bordeaux,temps",
             "recuweb_url": "http://fr.recuweb.com/marathon/sudouest.fr/2015/04/marathon-de-bordeaux-2015-pluie-pannes-cyberattaque-sud-ouest",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2015/04/20/marathon-de-bordeaux-2015-pluie-pannes-cyberattaque-et-les-classements-enfin-1898016-6102.php"
-        },
-        "sudouest.fr/2015/04/marathon-de-bordeaux-une-bonne-ambiance-mais-nombreux": {
-            "title": "Marathon de Bordeaux: une bonne ambiance mais de nombreux...",
-            "snippet": "Coureurs, b\u00e9n\u00e9voles et supporters ont massivement brav\u00e9 la pluie pour le premier marathon de Bordeaux samedi. L'ambiance \u00e9tait bonne mais les couacs nombreux Nombreux sont les coureurs du premier...",
-            "date": "2015-04-20",
-            "author_name": "inconnu",
-            "categories": "marathon",
-            "tags": "premier,\u00e9tait,pluie,marathon,bordeaux,coureurs,samedi",
-            "recuweb_url": "http://fr.recuweb.com/marathon/sudouest.fr/2015/04/marathon-de-bordeaux-une-bonne-ambiance-mais-nombreux",
-            "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/20/marathon-de-bordeaux-une-bonne-ambiance-mais-de-nombreux-couacs-1897889-2780.php"
         },
         "sudouest.fr/2015/04/revivez-en-images-le-marathon-de-bordeaux": {
             "title": "Revivez en images le marathon de Bordeaux -...",
@@ -49,10 +61,32 @@
             "date": "2015-04-19",
             "author_name": "inconnu",
             "categories": "marathon",
-            "tags": "samedi,premier,images,revivez,marathon,bordeaux,coureurs,d\u00e9part,premi\u00e8re,\u00e9dition,r\u00e9sultats",
+            "tags": "premi\u00e8re,nocturne,samedi,soir,marathon,bordeaux,coureurs,d\u00e9part,m\u00e9tropole,photos,\u00e9dition,ici",
             "recuweb_url": "http://fr.recuweb.com/marathon/sudouest.fr/2015/04/revivez-en-images-le-marathon-de-bordeaux",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2015/04/19/retour-en-images-sur-le-marathon-de-bordeaux-1896640-2780.php"
+        },
+        "sudouest.fr/2015/04/marathon-de-bordeaux-les-organisateurs-sont-sereins-malgr%C3%A9": {
+            "title": "Marathon de Bordeaux: les organisateurs sont sereins malgr\u00e9 la...",
+            "snippet": "\"Nous n'avons aucune raison d'inqui\u00e9tude pour ce soir\", a indiqu\u00e9 samedi midi, lors d'une conf\u00e9rence de presse, Laurent Moretti, directeur g\u00e9n\u00e9ral de Lagard\u00e8re Unlimited Events qui organise le Marathon de Bordeaux...",
+            "date": "2015-04-18",
+            "author_name": "inconnu",
+            "categories": "marathon",
+            "tags": "lors,samedi,soir,avons,marathon,bordeaux",
+            "recuweb_url": "http://fr.recuweb.com/marathon/sudouest.fr/2015/04/marathon-de-bordeaux-les-organisateurs-sont-sereins-malgr%C3%A9",
+            "resource_url": "http://www.google.com/search?q=marathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/18/marathon-de-bordeaux-les-organisateurs-sont-sereins-malgre-la-meteo-1896469-6102.php"
+        },
+        "exworld.fr/2015/04/marathon-de-paris-2015": {
+            "title": "Marathon de Paris 2015...",
+            "snippet": "N E sebasuchan sur Exworld, 2015. Permalink No comment Tags du message: 2015, athl\u00e9tisme, coureur, course, France, marathon, marathon de Paris, paris, Sport small...",
+            "date": "2015-04-13",
+            "author_name": "sebasuchan",
+            "categories": "marathon,athletisme,sport",
+            "tags": "marathon,athl\u00e9tisme,coureur,course,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/exworld.fr/2015/04/marathon-de-paris-2015",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=marathon%2Bmarathon&rss=1&lng=fr",
+            "source_url": "http://exworld.fr/?p=7208"
         },
         "vazel.blog.lemonde.fr/2015/04/comment-abattre-le-fameux-mur-du-marathon-vite-plus-haut-fort": {
             "title": "Comment abattre le fameux mur du marathon - vite, plus haut, plus fort...",
@@ -60,53 +94,10 @@
             "date": "2015-04-11",
             "author_name": "Pierre-Jean Vazel",
             "categories": "litterature,marathon",
-            "tags": "marathon",
+            "tags": "appelle,marathon",
             "recuweb_url": "http://fr.recuweb.com/marathon/vazel.blog.lemonde.fr/2015/04/comment-abattre-le-fameux-mur-du-marathon-vite-plus-haut-fort",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://vazel.blog.lemonde.fr/2015/04/11/comment-abattre-le-fameux-mur-du-marathon/"
-        },
-        "epycrazie.tumblr.com/2014/11/hill-conquered-sunday-mornin-bukit-putus-n9-endurance-trail": {
-            "title": "Hill conquered Sunday mornin.bukit Putus n9 endurance trail...",
-            "snippet": "Hill conquered Sunday mornin.bukit Putus n9 endurance trail marathon marathon MachoRoadRunners fitness stayfit (at Bukit Putus)...",
-            "date": "2014-11-09",
-            "categories": "marathon",
-            "tags": "marathon",
-            "recuweb_url": "http://fr.recuweb.com/marathon/epycrazie.tumblr.com/2014/11/hill-conquered-sunday-mornin-bukit-putus-n9-endurance-trail",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=marathon%2Bmarathon&rss=1&lng=fr",
-            "source_url": "http://epycrazie.tumblr.com/post/102137820968"
-        },
-        "sudouest.fr/2014/09/marathon-du-m%C3%A9doc-revivez-la-30e-%C3%A9dition-en-images": {
-            "title": "Marathon du M\u00e9doc: revivez la 30e \u00e9dition en images -...",
-            "snippet": "10 000 participants se sont \u00e9lanc\u00e9s ce samedi matin depuis Pauillac pour les 42195 km qui les faisaient passer dans 60 propri\u00e9t\u00e9s de prestige. Notre reporter photographe \u00e9tait pr\u00e9sent sur place.",
-            "date": "2014-09-13",
-            "author_name": "inconnu",
-            "categories": "place,marathon",
-            "tags": "\u00e9tait,place,participants,samedi,images,revivez,marathon,\u00e9dition",
-            "recuweb_url": "http://fr.recuweb.com/marathon/sudouest.fr/2014/09/marathon-du-m%C3%A9doc-revivez-la-30e-%C3%A9dition-en-images",
-            "resource_url": "http://www.google.com/search?q=marathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2014/09/13/marathon-du-medoc-revivez-la-30e-edition-en-images-1670739-4577.php"
-        },
-        "blog.diana-hr.com/2014/09/marathon-de-ble-2014-blog-officiel-groupe-diana": {
-            "title": "Marathon de Ble 2014 - Blog Officiel Groupe DIANA...",
-            "snippet": "Cette ann\u00e9e se d\u00e9roule la 5\u00e8me \u00e9dition du marathon de Ble. Que vous soyez grands sportifs ou juste coureurs du dimanche, le 28 septembre Ble attend tous les.",
-            "date": "2014-09-12",
-            "author_name": "L'\u00e9quipe du blog Diana-HR",
-            "categories": "marathon",
-            "tags": "dimanche,sportifs,groupe,marathon,\u00e8me,\u00e9dition,coureurs,septembre",
-            "recuweb_url": "http://fr.recuweb.com/marathon/blog.diana-hr.com/2014/09/marathon-de-ble-2014-blog-officiel-groupe-diana",
-            "resource_url": "http://www.google.com/search?q=marathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.diana-hr.com/marathon-de-bale-2014/"
-        },
-        "conseils-courseapied.com/2014/09/r%C3%A9sultats-semi-marathon-gien-briare-2014": {
-            "title": "R\u00e9sultats semi marathon Gien-Briare-Gien 2014 R\u00e9sultats...",
-            "snippet": "R\u00e9sultats semi marathon Gien-Briare-Gien 2014. 6, 12 km et semi marathon Gien-Briare-Gien (37) - Dimanche 07 septembre 2014 - Label FFA r\u00e9gional - 599 coureurs participants. Tous les r\u00e9sultats du semi marathon Gien-Briare-Gien 2014.",
-            "date": "2014-09-07",
-            "author_name": "inconnu",
-            "categories": "marathon",
-            "tags": "r\u00e9sultats,semi,marathon,dimanche,septembre,coureurs,participants",
-            "recuweb_url": "http://fr.recuweb.com/marathon/conseils-courseapied.com/2014/09/r%C3%A9sultats-semi-marathon-gien-briare-2014",
-            "resource_url": "http://www.google.com/search?q=marathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://conseils-courseapied.com/201409077419/resultats/resultats-semi-marathon-gien-briare-gien-2014.html"
         }
     }
 }
