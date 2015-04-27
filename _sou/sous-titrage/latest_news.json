@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sous-titrage",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sous-titrage/",
@@ -10,14 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
     },
     "items": {
-        "lavoixdunord.fr/2015/04/merville-le-cin%C3%A9ma-sadapte-aux-malentendants-et-malvoyants": {
-            "title": "Merville: le cin\u00e9ma sadapte aux malentendants et malvoyants...",
-            "snippet": "Bient\u00f4t une nouvelle signal\u00e9tique Certaines s\u00e9ances seront \u00e9galement programm\u00e9es pour les personnes sourdes avec un syst\u00e8me de sous-titrage de couleur diff\u00e9rente qui se d\u00e9placera sur l\u00e9cran. Lobjectif sera de sensibiliser le public...",
-            "date": "2015-04-04",
+        "hu-lala.org/2015/04/iv%C3%A1n-fischer-ou-lamour-de-lhomme-par-la-musique": {
+            "title": "Iv\u00e1n Fischer ou lamour de lHomme par la musique...",
+            "snippet": "Un regret: que le texte ne soit pas sous-titr\u00e9 pour que les non-magyarophones puissent aussi en profiter (mais pourquoi pas, un jour, en faire un sous-titrage anglais, qui sait?) (2): lorchestre du Festival de Budapest Budapesti...",
+            "date": "2015-04-20",
+            "categories": "musique",
             "tags": "titrage",
-            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/04/merville-le-cin%C3%A9ma-sadapte-aux-malentendants-et-malvoyants",
+            "recuweb_url": "http://fr.recuweb.com/musique/hu-lala.org/2015/04/iv%C3%A1n-fischer-ou-lamour-de-lhomme-par-la-musique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/merville-le-cinema-s-adapte-aux-malentendants-et-malvoyants-ia18b47658n2754583"
+            "source_url": "http://hu-lala.org/ivan-fischer-ou...-l\u2019amour-de-l\u2019homme-par-la-musique/"
+        },
+        "kulturegeek.fr/2015/04/batman-v-superman-la-bande-annonce-d%C3%A9voil%C3%A9e-avant-lheure-screener": {
+            "title": "Batman v Superman: la bande-annonce d\u00e9voil\u00e9e avant lheure (screener)...",
+            "snippet": "La premi\u00e8re bande annonce de Batman v Superman: Dawn of Justice devait \u00eatre diffus\u00e9e ce lundi 20 avril mais un petit malin (sans doute br\u00e9silien au vu du sous-titrage) a lch\u00e9 dans la nature un screener de ces quelques minutes de pr\u00e9sentation...",
+            "date": "2015-04-19",
+            "categories": "nature",
+            "tags": "titrage",
+            "recuweb_url": "http://fr.recuweb.com/nature/kulturegeek.fr/2015/04/batman-v-superman-la-bande-annonce-d%C3%A9voil%C3%A9e-avant-lheure-screener",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
+            "source_url": "http://kulturegeek.fr/news-56728/batman-v-superman-bande-annonce-devoilee-lheure-screener"
         }
     }
 }
