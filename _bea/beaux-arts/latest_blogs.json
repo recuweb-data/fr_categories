@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "beaux-arts",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/beaux-arts/",
@@ -10,60 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/beaux-arts/beaux-arts/blogs.json"
     },
     "items": {
-        "chouf-chouf.com/2015/03/les-%C3%A9tudiants-des-beaux-arts-d-alger-sont-en-gr%C3%A8ve-choufchouf": {
-            "title": "Les \u00e9tudiants des Beaux-Arts d'Alger sont en gr\u00e8ve ChoufChouf...",
-            "snippet": "Les \u00e9tudiants de l'Ecole sup\u00e9rieure des Beaux Arts d'Alger sont en gr\u00e8ve depuis hier. En cause? La gestion de l'\u00e9tablissement dirig\u00e9 p...",
-            "date": "2015-03-16",
-            "author_name": "R\u00e9daction Chouf-Chouf",
-            "categories": "arts",
-            "tags": "beaux,arts,alger,ecole,sup\u00e9rieure",
-            "recuweb_url": "http://fr.recuweb.com/arts/chouf-chouf.com/2015/03/les-%C3%A9tudiants-des-beaux-arts-d-alger-sont-en-gr%C3%A8ve-choufchouf",
-            "resource_url": "http://www.google.com/search?q=beaux%2Barts%2Bbeaux%2Barts&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://chouf-chouf.com/actualites/les-etudiants-des-beaux-arts-dalger-sont-en-greve/"
-        },
-        "noblesseetroyautes.com/2015/03/exposition-au-mus%C3%A9e-des-beaux-art-d-angers-noblesse-&-royaut%C3%A9s": {
-            "title": "Exposition au mus\u00e9e des Beaux-Art d'Angers - Noblesse & Royaut\u00e9s...",
-            "snippet": "Le mus\u00e9e des Beaux-Arts d'Angers accueillera du 14 mars au 19 juillet 2015 l'exposition Curiosit\u00e9(s) un certain go\u00fbt d'ailleurs. Par le biais de ses collectionneurs, Angers a constitu\u00e9 une riche collection de de dessins,...",
-            "date": "2015-03-14",
-            "author_name": "R\u00e9gine",
+        "liege.be/2015/04/boverie-beaux-arts-expos-li%C3%A8ge-site-de-la-ville": {
+            "title": "BOVERIE - Beaux-Arts, Expos, Li\u00e8ge Site de la Ville de Li\u00e8ge...",
+            "snippet": "Dans le cadre de l'ouverture prochaine du CIAC, d\u00e9sormais d\u00e9nomm\u00e9 BOVERIE, la Ville de Li\u00e8ge et le mus\u00e9e du Louvre ont d\u00e9cid\u00e9 d'unir leurs efforts en mati\u00e8re de programmation artistique et de pr\u00e9sentation des collections. Le Louvre, afin...",
+            "date": "2015-04-17",
+            "author_name": "loriauxs",
             "categories": "collection,arts",
-            "tags": "collection,exposition,mus\u00e9e,beaux,art,angers,arts",
-            "recuweb_url": "http://fr.recuweb.com/arts/noblesseetroyautes.com/2015/03/exposition-au-mus%C3%A9e-des-beaux-art-d-angers-noblesse-&-royaut%C3%A9s",
+            "tags": "collections,cadre,beaux,arts,mus\u00e9e,afin",
+            "recuweb_url": "http://fr.recuweb.com/arts/liege.be/2015/04/boverie-beaux-arts-expos-li%C3%A8ge-site-de-la-ville",
             "resource_url": "http://www.google.com/search?q=beaux%2Barts%2Bbeaux%2Barts&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://noblesseetroyautes.com/2015/03/exposition-au-musee-des-beaux-art-dangers/"
+            "source_url": "http://liege.be/nouveautes/boverie-beaux-arts-expos-liege"
         },
-        "hallesaintpierre.org/2015/03/de-l-art-brut-aux-beaux-arts-convulsifs-halle-saint-pierre": {
-            "title": "De l'Art Brut aux Beaux-Arts Convulsifs Halle Saint Pierre...",
-            "snippet": "Jean DUBUFFET & Marcel MOREAU De l'Art Brut aux Beaux-Arts Convulsifs Editions L'Atelier Contemporain (nov. 2014) \u00c9dition compl\u00e8te de la.",
-            "date": "2015-03-10",
-            "author_name": "olga",
+        "groupelavenir.org/2015/04/mus%C3%A9e-national-de-l-acad%C3%A9mie-des-beaux-arts-vernissage": {
+            "title": "Mus\u00e9e national de l'Acad\u00e9mie des Beaux-arts: Vernissage de l...",
+            "snippet": "Une exposition du peintre Mambengi Tondo s'est ouverte le vendredi 10 avril 2015 au Mus\u00e9e National du Congo, situ\u00e9 dans l'enceinte de l'Acad\u00e9mie des Beaux-arts (ABA). Nous avons reconnu entre autres la pr\u00e9sence du...",
+            "date": "2015-04-12",
+            "author_name": "PMMM OPBK",
             "categories": "arts",
-            "tags": "arts,jean,art,beaux",
-            "recuweb_url": "http://fr.recuweb.com/arts/hallesaintpierre.org/2015/03/de-l-art-brut-aux-beaux-arts-convulsifs-halle-saint-pierre",
+            "tags": "national,ouverte,peintre,mus\u00e9e,beaux,arts,exposition,avril",
+            "recuweb_url": "http://fr.recuweb.com/arts/groupelavenir.org/2015/04/mus%C3%A9e-national-de-l-acad%C3%A9mie-des-beaux-arts-vernissage",
             "resource_url": "http://www.google.com/search?q=beaux%2Barts&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://hallesaintpierre.org/2015/03/de-lart-brut-aux-beaux-arts-convulsifs/"
+            "source_url": "http://groupelavenir.org/musee-national-de-lacademie-des-beaux-arts-vernissage-de-lexposition-du-peintre-mambengi-tondo/"
         },
-        "club-innovation-culture.fr/2015/03/le-ticket-m%C3%A9c%C3%A8ne-de-bordeaux-essaime-au-mus%C3%A9e-des-beaux": {
-            "title": "Le Ticket M\u00e9c\u00e8ne de Bordeaux essaime au mus\u00e9e des Beaux...",
-            "snippet": "Par d\u00e9lib\u00e9ration unanime du Conseil Municipal de la Ville de Bordeaux, la ville de Chartres a donc obtenu la concession du droit d'usage de la marque Ticket m\u00e9c\u00e8ne pour son mus\u00e9e des Beaux-Arts. Le contrat est sign\u00e9...",
-            "date": "2015-03-09",
-            "author_name": "admin",
+        "leolagrange.org/2015/03/les-beaux-arts-comme-terrain-de-jeu-f%C3%A9d%C3%A9ration-l%C3%A9o-lagrange": {
+            "title": "Les Beaux-Arts comme terrain de jeu F\u00e9d\u00e9ration L\u00e9o Lagrange...",
+            "snippet": "Portfolio Les Beaux-Arts comme terrain de jeu. 27/03/2015 BOURGOGNE/FRANCHE-COMTE. La jeunesse recouvre des r\u00e9alit\u00e9s bien diff\u00e9rentes. Afin de r\u00e9pondre aux besoins de chaque tranche d'ge, la F\u00e9d\u00e9ration L\u00e9o...",
+            "date": "2015-03-27",
+            "author_name": "F\u00e9d\u00e9ration L\u00e9o Lagrange !",
             "categories": "arts",
-            "tags": "bordeaux,mus\u00e9e,beaux,arts",
-            "recuweb_url": "http://fr.recuweb.com/arts/club-innovation-culture.fr/2015/03/le-ticket-m%C3%A9c%C3%A8ne-de-bordeaux-essaime-au-mus%C3%A9e-des-beaux",
+            "tags": "beaux,arts,afin,tranche",
+            "recuweb_url": "http://fr.recuweb.com/arts/leolagrange.org/2015/03/les-beaux-arts-comme-terrain-de-jeu-f%C3%A9d%C3%A9ration-l%C3%A9o-lagrange",
             "resource_url": "http://www.google.com/search?q=beaux%2Barts%2Bbeaux%2Barts&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://club-innovation-culture.fr/le-ticket-mecene-de-bordeaux-essaime-au-musee-des-beaux-arts-de-chartres/"
+            "source_url": "http://leolagrange.org/les-beaux-arts-comme-terrain-de-jeu/"
         },
-        "en.blogotheque.net/2015/02/alt-j-live-at-la-chapelle-des-beaux-arts-paris-blogoth%C3%A8que": {
-            "title": "Alt-J live at La Chapelle des Beaux-Arts, Paris - La Blogoth\u00e8que...",
-            "snippet": "But when Gus, Joe and Thom walked through the door of the Chapelle des Beaux-Arts de Paris, where we were going to film them one more time on that cold day in January, the expressions on their faces were exactly the...",
-            "date": "2015-02-04",
-            "author_name": "Ondine",
-            "categories": "arts",
-            "tags": "film,beaux,arts,paris",
-            "recuweb_url": "http://fr.recuweb.com/arts/en.blogotheque.net/2015/02/alt-j-live-at-la-chapelle-des-beaux-arts-paris-blogoth%C3%A8que",
+        "canada-suisse.ch/2015/03/le-mus%C3%A9e-des-beaux-arts-de-ble-canada-suisse": {
+            "title": "Le Mus\u00e9e des Beaux-Arts de Ble Canada-Suisse...",
+            "snippet": "Le Kunstmuseum de Ble est la plus ancienne collection d'art publique au monde. Le mus\u00e9e poss\u00e8de la plus grande collection au monde de travaux de la famille Holbein. Les peintures de van Gogh, Gauguin et C\u00e9zanne...",
+            "date": "2015-03-08",
+            "author_name": "Canada-Suisse",
+            "categories": "peinture,collection,arts",
+            "tags": "peintures,collection,travaux,art,canada,mus\u00e9e,beaux,arts,grande",
+            "recuweb_url": "http://fr.recuweb.com/arts/canada-suisse.ch/2015/03/le-mus%C3%A9e-des-beaux-arts-de-ble-canada-suisse",
             "resource_url": "http://www.google.com/search?q=beaux%2Barts%2Bbeaux%2Barts&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://en.blogotheque.net/2015/02/04/alt-j-paris-chapelle-des-beaux-arts/"
+            "source_url": "http://canada-suisse.ch/le-musee-des-beaux-arts-de-bale/"
         },
         "pimpnalkafermchilicihydthern.wordpress.com/2014/09/memoires-pour-l-histoire-des-sciences-et-beaux-arts-depuis-janvier": {
             "title": "Memoires Pour L'Histoire Des Sciences Et Des Beaux-Arts Depuis Janvier 1701 Jusqu'D Cembre 1767....",
@@ -82,7 +72,7 @@
             "date": "2014-07-03",
             "author_name": "vicmitorenogseirilinpers",
             "categories": "arts",
-            "tags": "ecole,beaux,exposition,arts",
+            "tags": "beaux,exposition,oeuvres,arts",
             "recuweb_url": "http://fr.recuweb.com/arts/vicmitorenogseirilinpers.wordpress.com/2014/07/exposition-des-oeuvres-de-gustave-courbet-a-l-ecole-beaux-arts",
             "resource_url": "http://fr.search.wordpress.com/?q=beaux%2Barts%2Bbeaux%2Barts&f=feed&page=1",
             "source_url": "http://vicmitorenogseirilinpers.wordpress.com/2014/07/03/exposition-des-oeuvres-de-gustave-courbet-a-lecole-des-beaux-arts-mai-1882-ed-1882/"
@@ -119,6 +109,17 @@
             "recuweb_url": "http://fr.recuweb.com/arts/pterterscolilorwildlengebel.wordpress.com/2014/04/histoire-de-la-peinture-en-italie-depuis-renaissance-des-beaux-arts",
             "resource_url": "http://fr.search.wordpress.com/?q=beaux%2Barts%2Bbeaux%2Barts&f=feed&page=1",
             "source_url": "http://pterterscolilorwildlengebel.wordpress.com/2014/04/14/histoire-de-la-peinture-en-italie-depuis-la-renaissance-des-beaux-arts-t-iii/"
+        },
+        "danttsanomcarchatiperlagof.wordpress.com/2014/03/eug%C3%A8ne-fromentin-au-mus%C3%A9e-des-beaux-arts-de-la-rochelle-suivi": {
+            "title": "Eug\u00e8ne Fromentin au Mus\u00e9e des beaux-arts de La Rochelle: suivi d'une \u00e9vocation sommaire des...",
+            "snippet": "Eug\u00e8ne Fromentin au Mus\u00e9e des beaux-arts de La Rochelle: suivi d'une \u00e9vocation sommaire des \u0153uvres de son p\u00e8re Eug\u00e8ne Fromentin au Mus\u00e9e des beaux-arts de La Rochelle: suivi d'une...",
+            "date": "2014-03-16",
+            "author_name": "danttsanomcarchatiperlagof",
+            "categories": "arts",
+            "tags": "\u0153uvres,mus\u00e9e,beaux,arts",
+            "recuweb_url": "http://fr.recuweb.com/arts/danttsanomcarchatiperlagof.wordpress.com/2014/03/eug%C3%A8ne-fromentin-au-mus%C3%A9e-des-beaux-arts-de-la-rochelle-suivi",
+            "resource_url": "http://fr.search.wordpress.com/?q=beaux%2Barts%2Bbeaux%2Barts&f=feed&page=1",
+            "source_url": "http://danttsanomcarchatiperlagof.wordpress.com/2014/03/16/eugene-fromentin-au-musee-des-beaux-arts-de-la-rochelle-suivi-dune-evocation-sommaire-des-oeuvres-de-son-pere/"
         }
     }
 }
