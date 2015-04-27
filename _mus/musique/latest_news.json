@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "musique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/musique/",
@@ -10,92 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/musique/musique/blogs.json"
     },
     "items": {
-        "larepubliquedespyrenees.fr/2015/04/a-pau-des-jeunes-pr%C3%A9parent-leur-future-%C3%A9cole-de-musique": {
-            "title": "A Pau, des jeunes pr\u00e9parent leur future \u00e9cole de musique - La R\u00e9publique des Pyr\u00e9n\u00e9es...",
-            "snippet": "La R\u00e9publique des Pyr\u00e9n\u00e9esA Pau, des jeunes pr\u00e9parent leur future \u00e9cole de musiqueLa R\u00e9publique des Pyr\u00e9n\u00e9esL'Orchestre Pau Pays de B\u00e9arn envisage d'y cr\u00e9er sur le mod\u00e8le v\u00e9nezuelien une \u00e9cole de musique pour les enfants des quartiers...",
-            "date": "2015-04-22",
+        "lequipe.fr/2015/04/m%C3%BClheim-2%C3%A8-jazz-bay-connait-la-musique": {
+            "title": "M\u00fclheim 2\u00e8 Jazz Bay connait la musique...",
+            "snippet": "Santiago 8\u00e8 Mi Consentida l'emporte... Vincennes 6\u00e8 Cosmos de Villabon (2),... Santiago 7\u00e8 Senor Jose Miguel,... Vincennes 5\u00e8 And de Saint Prest (5), sur... Santiago 6\u00e8 Herrick avec autorit\u00e9 Vincennes 4\u00e8 Surlando de Viette (1), au... Santiago...",
+            "date": "2015-04-25",
             "categories": "musique",
-            "tags": "enfants,pays,jeunes,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/larepubliquedespyrenees.fr/2015/04/a-pau-des-jeunes-pr%C3%A9parent-leur-future-%C3%A9cole-de-musique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=musique&output=atom&nord=1",
-            "source_url": "http://larepubliquedespyrenees.fr/2015/04/22/a-pau-des-jeunes-preparent-leur-future-ecole-de-musique,1246951.php"
-        },
-        "tempsreel.nouvelobs.com/2015/04/d%C3%A9buts-difficiles-pour-le-site-de-musique-en-streaming-jay-z": {
-            "title": "D\u00e9buts difficiles pour le site de musique en streaming de Jay Z...",
-            "snippet": "New York (AFP) - Tidal Hifi, le service de musique en streaming enti\u00e8rement payant lanc\u00e9 par le rappeur am\u00e9ricain Jay Z, conna\u00eet des d\u00e9buts difficiles. Apr\u00e8s un bref pic d'int\u00e9r\u00eat suivant son lancement le 30 mars, Tidal n'\u00e9tait mardi que la...",
-            "date": "2015-04-22",
-            "categories": "musique",
-            "tags": "bref,bref-pic,pic,conna\u00eet,conna\u00eet-des-d\u00e9buts,d\u00e9buts,d\u00e9buts-difficiles,difficiles,streaming,streaming-enti\u00e8rement,streaming-enti\u00e8rement-payant,enti\u00e8rement,enti\u00e8rement-payant,enti\u00e8rement-payant-lanc\u00e9,payant,payant-lanc\u00e9,lanc\u00e9,rappeur,rappeur-am\u00e9ricain,am\u00e9ricain,service,hifi,site,musique,jay,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/musique/tempsreel.nouvelobs.com/2015/04/d%C3%A9buts-difficiles-pour-le-site-de-musique-en-streaming-jay-z",
+            "tags": "saint,jazz,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/lequipe.fr/2015/04/m%C3%BClheim-2%C3%A8-jazz-bay-connait-la-musique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://tempsreel.nouvelobs.com/culture/20150422.AFP5672/debuts-difficiles-pour-le-site-de-musique-en-streaming-de-jay-z.html"
+            "source_url": "http://lequipe.fr/Hippisme/Actualites/-/553820"
         },
-        "lepoint.fr/2015/04/d%C3%A9buts-difficiles-pour-le-site-de-musique-en-streaming-jay-z": {
-            "title": "D\u00e9buts difficiles pour le site de musique en streaming de Jay Z - Le Point...",
-            "snippet": "Le PointD\u00e9buts difficiles pour le site de musique en streaming de Jay ZLe PointTidal Hifi, le service de musique en streaming enti\u00e8rement payant lanc\u00e9 par le rappeur am\u00e9ricain Jay Z, conna\u00eet des d\u00e9buts difficiles. Apr\u00e8s un bref pic...",
-            "date": "2015-04-22",
-            "categories": "musique",
-            "tags": "bref,bref-pic,pic,conna\u00eet,conna\u00eet-des-d\u00e9buts,d\u00e9buts,d\u00e9buts-difficiles,difficiles,streaming,streaming-enti\u00e8rement,streaming-enti\u00e8rement-payant,enti\u00e8rement,enti\u00e8rement-payant,enti\u00e8rement-payant-lanc\u00e9,payant,payant-lanc\u00e9,lanc\u00e9,rappeur,rappeur-am\u00e9ricain,am\u00e9ricain,service,jay,hifi,site,musique,point,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/musique/lepoint.fr/2015/04/d%C3%A9buts-difficiles-pour-le-site-de-musique-en-streaming-jay-z",
+        "virginradio.fr/2015/04/sia-green-day-les-vid%C3%A9os-musique-de-la-semaine-virgin-radio": {
+            "title": "Sia, Green Day... les vid\u00e9os musique de la semaine - Virgin Radio...",
+            "snippet": "Virgin RadioSia, Green Day... les vid\u00e9os musique de la semaineVirgin RadioComme chaque samedi, vous offre un condens\u00e9 des meilleures vid\u00e9os musicales sorties cette semaine. Tenez-vous pr\u00eats, c'est parti! Les clips de la semaine! Elle vous...",
+            "date": "2015-04-25",
+            "categories": "clip,radio,musique",
+            "tags": "samedi,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/virginradio.fr/2015/04/sia-green-day-les-vid%C3%A9os-musique-de-la-semaine-virgin-radio",
             "resource_url": "http://news.google.fr/?hl=fr&q=musique&output=atom&nord=1",
-            "source_url": "http://lepoint.fr/culture/debuts-difficiles-pour-le-site-de-musique-en-streaming-de-jay-z-22-04-2015-1923533_3.php"
+            "source_url": "http://virginradio.fr/sia-green-day-les-videos-musique-de-la-semaine-a404462.html"
         },
-        "francemusique.fr/2015/04/les-vinyles-de-musique-classique-tournent": {
-            "title": "Les vinyles de musique classique tournent-ils encore?",
-            "snippet": "Alors que samedi 18 avril se tenait en France le Disquaire Day, journ\u00e9e des disquaires ind\u00e9pendants, de jeunes et moins jeunes audiophiles redonnent au vinyle une seconde vie. Retour sur la place quil occupe aujourdhui dans lunivers de la...",
-            "date": "2015-04-22",
-            "categories": "place,musique",
-            "tags": "jeunes,classique,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/francemusique.fr/2015/04/les-vinyles-de-musique-classique-tournent",
+        "francemusique.fr/2015/04/aude-hauser-mottier-auteur-de-la-musique-douleur-france": {
+            "title": "Aude Hauser-Mottier, auteur de La musique de la douleur... - France Musique...",
+            "snippet": "Aude Hauser-Mottier, auteur de \"La musique de la douleur...France MusiqueAuder Hauser-Mottier, physioth\u00e9rapeute, est l'auteur de \"La Musique de la douleur\" paru au Mercure de France. Elle est l'invit\u00e9e de Jean-Baptiste Urbain. Pr\u00e9sentation du...",
+            "date": "2015-04-24",
+            "categories": "musique",
+            "tags": "musique,france,france_musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/francemusique.fr/2015/04/aude-hauser-mottier-auteur-de-la-musique-douleur-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=musique&output=atom&nord=1",
+            "source_url": "http://francemusique.fr/emission/l-invite-du-jour/2014-2015/aude-hauser-mottier-auteur-de-la-musique-de-la-douleur-mercure-de-france-04-24-2015-09-05"
+        },
+        "jeanmarcmorandini.com/2015/04/d%C3%A9buts-tr%C3%A8s-difficiles-pour-le-site-de-musique-en-streaming-jay": {
+            "title": "D\u00e9buts tr\u00e8s difficiles pour le site de musique en streaming de Jay Z...",
+            "snippet": "Tidal Hifi, le service de musique en streaming enti\u00e8rement payant lanc\u00e9 par le rappeur am\u00e9ricain Jay Z, conna\u00eet des d\u00e9buts difficiles. Apr\u00e8s un bref pic d'int\u00e9r\u00eat suivant son lancement le 30 mars, Tidal n'\u00e9tait mardi que la 872e application...",
+            "date": "2015-04-24",
+            "categories": "musique",
+            "tags": "streaming,site,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/jeanmarcmorandini.com/2015/04/d%C3%A9buts-tr%C3%A8s-difficiles-pour-le-site-de-musique-en-streaming-jay",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://francemusique.fr/actu-musicale/les-vinyles-de-musique-classique-tournent-ils-encore-92113"
+            "source_url": "http://jeanmarcmorandini.com/article-336243-debuts-tres-difficiles-pour-le-site-de-musique-en-streaming-de-jay-z.html"
         },
-        "jactiv.ouest-france.fr/2015/04/musiques-actuelles-un-concert-pour-les-%C3%A9tudiants-vannetais": {
-            "title": "Musiques actuelles. Un concert pour les \u00e9tudiants vannetais...",
-            "snippet": "Un \u00e9tudiant organise un concert, en collaboration avec l'Echonova, la salle de musiques actuelles de Saint-Av\u00e9 (Morbihan). La programmation sera pop et new wave. Apr\u00e8s de nombreuses recherches, le futur ing\u00e9nieur et le directeur de l'Echonova se...",
-            "date": "2015-04-22",
-            "categories": "pop,musique",
-            "tags": "musiques,concert,saint,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/musique/jactiv.ouest-france.fr/2015/04/musiques-actuelles-un-concert-pour-les-%C3%A9tudiants-vannetais",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://jactiv.ouest-france.fr/sortir/musique/musiques-actuelles-concert-pour-etudiants-vannetais-46812"
-        },
-        "quai-baco.com/2015/04/quelle-est-la-musique-de-pub-lumia-640-microsoft-2015-quai": {
-            "title": "Quelle est la musique de la pub Lumia 640 de Microsoft 2015? - Quai Baco...",
-            "snippet": "Quai BacoQuelle est la musique de la pub Lumia 640 de Microsoft 2015?Quai BacoHayden James est la nouvelle sensation \u00e9lectro venue tout droit d'Australie. Preuve en est, son tube Something About You vient d'\u00eatre choisi par Microsoft pour illustrer...",
-            "date": "2015-04-22",
+        "bienpublic.com/2015/04/meursault-l-harmonie-fait-le-printemps-en-musique-bien-public": {
+            "title": "Meursault L'harmonie fait le Printemps en musique - Bien Public...",
+            "snippet": "Meursault L'harmonie fait le Printemps en musiqueBien PublicPour ce grand rendez-vous musical annuel, cet ensemble compos\u00e9 d'une trentaine de musiciens amateurs, souvent issus de l'\u00e9cole de musique de Meursault, dirig\u00e9s par H\u00e9l\u00e8ne Leriche a...",
+            "date": "2015-04-24",
             "categories": "musique",
-            "tags": "musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/quai-baco.com/2015/04/quelle-est-la-musique-de-pub-lumia-640-microsoft-2015-quai",
-            "resource_url": "http://news.google.fr/?hl=fr&q=musique&output=atom&nord=1",
-            "source_url": "http://quai-baco.com/quelle-est-la-musique-de-la-pub-lumia-640-de-microsoft-2015/"
+            "tags": "\u00e9cole,musiciens,ensemble,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/bienpublic.com/2015/04/meursault-l-harmonie-fait-le-printemps-en-musique-bien-public",
+            "resource_url": "http://news.google.fr/?hl=fr&q=musique%2Bmusique&output=atom&nord=1",
+            "source_url": "http://bienpublic.com/edition-cote-de-beaune/2015/04/24/l-harmonie-fait-le-printemps-en-musique"
         },
-        "20minutes.fr/2015/04/zelda-au-palais-des-congr%C3%A8s-la-musique-de-jeu-vid%C3%A9o-se": {
-            "title": "Zelda au Palais des Congr\u00e8s: La musique de jeu vid\u00e9o se vit... -...",
-            "snippet": "au Palais des Congr\u00e8s: La musique de jeu vid\u00e9o se vit... n'a pas fredonn\u00e9 la musique ent\u00eatante du jeu Tetris ou de Mario Bros? Depuis quelques ann\u00e9es, les aficionados des jeux vid\u00e9o peuvent \u00e9couter les th\u00e8mes de leurs jeux pr\u00e9f\u00e9r\u00e9s sur...",
-            "date": "2015-04-22",
-            "categories": "musique",
-            "tags": "jeu,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/20minutes.fr/2015/04/zelda-au-palais-des-congr%C3%A8s-la-musique-de-jeu-vid%C3%A9o-se",
-            "resource_url": "http://news.google.fr/?hl=fr&q=musique&output=atom&nord=1",
-            "source_url": "http://20minutes.fr/culture/1593363-20150422-zelda-palais-congres-musique-jeu-video-vit-aussi-live"
-        },
-        "ladepeche.fr/2015/04/musiques-pour-les-jeunes-et-reggae": {
-            "title": "Musiques pour les jeunes, et reggae pour tous...",
-            "snippet": "Semaine anim\u00e9e, comme toujours au Florida, avec en point d'orgue le concert Egyptian project Grand Ensemble. Et puis du reggae et de la musique assist\u00e9e par ordinateur (MAO) pour les 6-12ans. Hollie Cook and the Lockless papa batteur des...",
-            "date": "2015-04-21",
+        "lexpress.fr/2015/04/en-images-dix-logiciels-pour-apprendre-la-musique-l-express": {
+            "title": "EN IMAGES. Dix logiciels pour apprendre la musique - L'Express...",
+            "snippet": "L'ExpressEN IMAGES. Dix logiciels pour apprendre la musiqueL'ExpressVous n'avez pas le temps d'aller prendre des cours de musique dans une \u00e9cole? Avec un peu de volont\u00e9, il est possible d'apprendre via un logiciel sur votre ordinateur. Solf\u00e8ge,...",
+            "date": "2015-04-23",
             "categories": "ordinateur,musique",
-            "tags": "ensemble,concert,point,jeunes,musiques,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/ladepeche.fr/2015/04/musiques-pour-les-jeunes-et-reggae",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/22/2091848-musiques-pour-les-jeunes-et-reggae-pour-tous.html"
+            "tags": "possible,\u00e9cole,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/lexpress.fr/2015/04/en-images-dix-logiciels-pour-apprendre-la-musique-l-express",
+            "resource_url": "http://news.google.fr/?hl=fr&q=musique%2Bmusique&output=atom&nord=1",
+            "source_url": "http://lexpress.fr/diaporama/diapo-photo/tendances/produit-high-tech/logiciel-pour-apprendre-la-musique-notre-selection_1673971.html"
+        },
+        "francemusique.fr/2015/04/les-vinyles-de-musique-classique-tournent-ils-encore-france": {
+            "title": "Les vinyles de musique classique tournent-ils encore? - France Musique...",
+            "snippet": "France MusiqueLes vinyles de musique classique tournent-ils encore?France MusiqueAlors que samedi 18 avril se tenait en France le Disquaire Day, journ\u00e9e des disquaires ind\u00e9pendants, de jeunes et moins jeunes audiophiles redonnent au vinyle une...",
+            "date": "2015-04-23",
+            "categories": "musique",
+            "tags": "samedi,france,france_musique,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/francemusique.fr/2015/04/les-vinyles-de-musique-classique-tournent-ils-encore-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=musique%2Bmusique&output=atom&nord=1",
+            "source_url": "http://francemusique.fr/actu-musicale/les-vinyles-de-musique-classique-tournent-ils-encore-92113"
         },
         "rfimusique.com/2015/04/tal-national-un-niger-en-miniature": {
             "title": "Tal National, un Niger en miniature!",
             "snippet": "Privil\u00e8ge r\u00e9serv\u00e9 jusquil y a peu aux seules superstars des musiques africaines, les musiciens de Tal National remplissent des stades entiers au Niger, leur pays. Un succ\u00e8s qui ne leur \u00e9pargne pas le courroux de certains religieux irrit\u00e9s par...",
             "date": "2015-04-21",
             "categories": "musique",
-            "tags": "pays,musiques",
+            "tags": "musiciens,musiques",
             "recuweb_url": "http://fr.recuweb.com/musique/rfimusique.com/2015/04/tal-national-un-niger-en-miniature",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique%2Bmusique&format=RSS&cc=fr",
             "source_url": "http://rfimusique.com/actu-musique/musique-africaine/album/20150420-tal-national-zoy-zoy"
@@ -105,10 +96,20 @@
             "snippet": "(Relaxnews) - Le Digital Music Report IFPI (Federation of the Phonographic Industry), un rapport sur les tendances et r\u00e9sultats mondiaux de la musique enregistr\u00e9e, fait \u00e9tat d'un jeu \u00e9gal entre les revenus de la musique num\u00e9rique et physique.",
             "date": "2015-04-15",
             "categories": "musique",
-            "tags": "jeu,music,streaming,musique",
+            "tags": "music,streaming,musique",
             "recuweb_url": "http://fr.recuweb.com/musique/lamontagne.fr/2015/04/musique-le-streaming-augmente-la-part-du-num%C3%A9rique-face-au-physique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique%2Bmusique&format=RSS&cc=fr",
             "source_url": "http://lamontagne.fr/auvergne/mag/culture/musique/2015/04/14/musique-le-streaming-augmente-la-part-du-numerique-face-au-physique_11404234.html"
+        },
+        "fr-ca.actualites.yahoo.com/2015/04/festival-de-musique-baroque-lam%C3%A8que-la-programmation-est-d%C3%A9voil%C3%A9e": {
+            "title": "Festival de Musique Baroque de Lam\u00e8que: la programmation est d\u00e9voil\u00e9e...",
+            "snippet": "La programmation du 40e Festival International de musique Baroque de Lam\u00e8que, au Nouveau-Brunswick a \u00e9t\u00e9 d\u00e9voil\u00e9e ce lundi matin, dans la p\u00e9ninsule acadienne.",
+            "date": "2015-04-14",
+            "categories": "musique",
+            "tags": "musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/fr-ca.actualites.yahoo.com/2015/04/festival-de-musique-baroque-lam%C3%A8que-la-programmation-est-d%C3%A9voil%C3%A9e",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=musique",
+            "source_url": "http://fr-ca.actualites.yahoo.com/festival-musique-baroque-lam\u00e8que-la-programmation-est-d\u00e9voil\u00e9e-003730601.html"
         }
     }
 }
