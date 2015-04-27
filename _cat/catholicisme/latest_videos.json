@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "catholicisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/catholicisme/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/catholicisme/catholicisme/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/conversion-du-juda%C3%AFsme-au-catholicisme-de-v%C3%A9ronique-levy-soeur-bhl": {
+            "title": "Conversion du juda\u00efsme au catholicisme de V\u00e9ronique Levy (Soeur de BHL) avec Elkabbach...",
+            "snippet": "Conversion du juda\u00efsme au catholicisme de V\u00e9ronique Levy (Soeur de BHL) avec Elkabbach Conversion, du juda\u00efsme, au catholicisme, de V\u00e9ronique Levy (Soeur de BHL) avec Elkabbach. La vid\u00e9o de l'\u00e9mission avait disparu du site le 15 avril, puis...",
+            "date": "2015-04-15",
+            "author_name": "gyomg",
+            "categories": "catholicisme",
+            "tags": "\u00e9mission,site,catholicisme,levy,soeur,bhl",
+            "recuweb_url": "http://fr.recuweb.com/catholicisme/youtube.com/2015/04/conversion-du-juda%C3%AFsme-au-catholicisme-de-v%C3%A9ronique-levy-soeur-bhl",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=catholicisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=NQWmYDi88hA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NQWmYDi88hA/0.jpg"
+        },
         "youtube.com/2015/01/rabbin-juif-ultra-orthodoxe-converti-au-catholicisme-jean-marie-%C3%A9lie-setbon": {
             "title": "Rabbin juif ultra-orthodoxe converti au catholicisme/Jean-Marie \u00c9lie Setbon...",
             "snippet": "Rabbin juif ultra-orthodoxe converti au catholicisme/Jean-Marie \u00c9lie Setbon \u00c9mission r\u00e9alis\u00e9e par: VISITEZ:. From: Un feu sur la terre Views: 1068 10 ratings Time: 26:14 More in People & Blogs...",
@@ -84,11 +97,11 @@
         },
         "youtube.com/2014/09/t%C3%A9moignage-d-un-ancien-pasteur-converti-au-catholicisme-exp%C3%A9rience-mystique": {
             "title": "T\u00e9moignage d'un ancien pasteur converti au catholicisme: exp\u00e9rience mystique de gu\u00e9rison...",
-            "snippet": "T\u00e9moignage d'un ancien pasteur converti au catholicisme: exp\u00e9rience mystique de gu\u00e9rison int\u00e9rieure \u00c9mission r\u00e9alis\u00e9e par la cha\u00eene: VISITEZ:; site de l'organisme Q\u00e9h\u00e9lata (Qu\u00e9bec) From: Un feu sur la terre Views: 1460 11 ratings Time:...",
+            "snippet": "T\u00e9moignage d'un ancien pasteur converti au catholicisme: exp\u00e9rience mystique de gu\u00e9rison int\u00e9rieure \u00c9mission r\u00e9alis\u00e9e par la cha\u00eene: VISITEZ:; site de l'organisme Q\u00e9h\u00e9lata (Qu\u00e9bec) From: Un feu sur la terre Views: 1537 11 ratings Time:...",
             "date": "2014-09-16",
             "author_name": "Un feu sur la terre",
             "categories": "mystique,catholicisme",
-            "tags": "feu,terre,r\u00e9alis\u00e9e,converti,converti-au-catholicisme,catholicisme,t\u00e9moignage,\u00e9mission,visitez",
+            "tags": "feu,terre,site,r\u00e9alis\u00e9e,converti,converti-au-catholicisme,catholicisme,\u00e9mission,visitez",
             "recuweb_url": "http://fr.recuweb.com/catholicisme/youtube.com/2014/09/t%C3%A9moignage-d-un-ancien-pasteur-converti-au-catholicisme-exp%C3%A9rience-mystique",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=catholicisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=BgfjN_q9PQA&feature=youtube_gdata",
@@ -100,7 +113,7 @@
             "date": "2014-09-08",
             "author_name": "jozecat",
             "categories": "catholicisme",
-            "tags": "convertit,catholicisme",
+            "tags": "levy,bhl,soeur,convertit,catholicisme",
             "recuweb_url": "http://fr.recuweb.com/catholicisme/dailymotion.com/2014/09/bhl-sa-soeur-cadette-veronique-se-convertit-au-catholicisme-et-devient",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/catholicisme+catholicisme/0?af=1",
             "source_url": "http://dailymotion.com/video/x25hlqj_bhl-sa-soeur-cadette-veronique-se-convertit-au-catholicisme-et-devient-religieuse_news",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=catholicisme%2Bcatholicisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=p_BbC2yPVMo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/p_BbC2yPVMo/0.jpg"
-        },
-        "youtube.com/2013/06/du-juda%C3%AFsme-au-catholicisme-protestantisme-et-finalement": {
-            "title": "Du juda\u00efsme, au catholicisme, au protestantisme et finalement au catholicisme...",
-            "snippet": "Du juda\u00efsme, au catholicisme, au protestantisme et finalement au catholicisme Tr\u00e8s beau t\u00e9moignage de conversion de Mili: Je r\u00eavais de J\u00e9sus alors que je ne le connaissais pas. R\u00c9ALISATION: Fran\u00e7ois Lespes pour: From: Un feu sur la terre...",
-            "date": "2013-06-24",
-            "author_name": "Un feu sur la terre",
-            "categories": "protestantisme,catholicisme",
-            "tags": "feu,terre,t\u00e9moignage,catholicisme",
-            "recuweb_url": "http://fr.recuweb.com/catholicisme/youtube.com/2013/06/du-juda%C3%AFsme-au-catholicisme-protestantisme-et-finalement",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=catholicisme%2Bcatholicisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=8OVZqBNnC2o&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/8OVZqBNnC2o/0.jpg"
         }
     }
 }
