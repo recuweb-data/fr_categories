@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "domotique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/domotique/",
@@ -10,55 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
     },
     "items": {
+        "maison-et-domotique.com/2015/04/sigfox-veut-connecter-les-bouches-d-incendie-maison-et-domotique": {
+            "title": "Sigfox veut connecter les bouches d'incendie - Maison et Domotique...",
+            "snippet": "Maison et DomotiqueSigfox veut connecter les bouches d'incendieMaison et DomotiqueSigfox veut connecter les bouches d'incendie des villes! La soci\u00e9t\u00e9 a en effet sign\u00e9 un contrat avec le groupe Talis, un des leaders mondiaux des \u00e9quipements...",
+            "date": "2015-04-23",
+            "categories": "domotique",
+            "tags": "maison,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2015/04/sigfox-veut-connecter-les-bouches-d-incendie-maison-et-domotique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
+            "source_url": "http://maison-et-domotique.com/54834-sigfox-veut-connecter-les-bouches-dincendie/"
+        },
+        "maison-et-domotique.com/2015/04/test-des-portiers-vid%C3%A9o-wifi-601-et-602-maison-domotique": {
+            "title": "Test des portiers vid\u00e9o WiFi 601 et 602 - Maison et Domotique...",
+            "snippet": "Maison et DomotiqueTest des portiers vid\u00e9o WiFi 601 et 602Maison et DomotiqueIl y a trois ans quand je me suis install\u00e9 dans ma maison neuve, comme tout geek qui se respecte j'ai souhait\u00e9 installer un portier que je pourrais administrer,...",
+            "date": "2015-04-23",
+            "categories": "domotique",
+            "tags": "maison,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2015/04/test-des-portiers-vid%C3%A9o-wifi-601-et-602-maison-domotique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
+            "source_url": "http://maison-et-domotique.com/54867-test-des-portiers-video-wifi-601-et-602/"
+        },
+        "actus-telephonie.com/2015/04/21-04-beewi-d%C3%A9mocratise-la-domotique": {
+            "title": "21/04 BeeWi d\u00e9mocratise la domotique...",
+            "snippet": "BeeWi est une marque domotique fran\u00e7aise qui a fait le choix de la simplicit\u00e9. Cette marque propose de nombreux objets connect\u00e9s (ampoules, capteur de temp\u00e9rature, d\u00e9tecteur de pr\u00e9sence) communicants en Bluetooth low energy. Nous avons eu la...",
+            "date": "2015-04-21",
+            "categories": "domotique",
+            "tags": "avons,d\u00e9tecteur,d\u00e9tecteur-de-pr\u00e9sence,pr\u00e9sence,capteur,capteur-de-temp\u00e9rature,temp\u00e9rature,marque,marque-propose,propose,propose-de-nombreux,nombreux,fran\u00e7aise,choix,simplicit\u00e9,d\u00e9mocratise,beewi,domotique,objets,connect\u00e9s,ampoules",
+            "recuweb_url": "http://fr.recuweb.com/domotique/actus-telephonie.com/2015/04/21-04-beewi-d%C3%A9mocratise-la-domotique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
+            "source_url": "http://actus-telephonie.com/beewi-democratise-la-domotique-rp2328310.html"
+        },
+        "degroupnews.com/2015/04/beewi-d%C3%A9mocratise-la-domotique-degroupnews": {
+            "title": "BeeWi d\u00e9mocratise la domotique - DegroupNews...",
+            "snippet": "DegroupNewsBeeWi d\u00e9mocratise la domotiqueDegroupNewsBeeWi est une marque domotique fran\u00e7aise qui a fait le choix de la simplicit\u00e9. Cette marque propose de nombreux objets connect\u00e9s (ampoules, capteur de temp\u00e9rature, d\u00e9tecteur de pr\u00e9sence)...",
+            "date": "2015-04-20",
+            "categories": "domotique",
+            "tags": "d\u00e9tecteur,d\u00e9tecteur-de-pr\u00e9sence,pr\u00e9sence,capteur,capteur-de-temp\u00e9rature,temp\u00e9rature,marque,marque-propose,propose,propose-de-nombreux,nombreux,fran\u00e7aise,choix,simplicit\u00e9,d\u00e9mocratise,beewi,domotique,objets,connect\u00e9s,ampoules",
+            "recuweb_url": "http://fr.recuweb.com/domotique/degroupnews.com/2015/04/beewi-d%C3%A9mocratise-la-domotique-degroupnews",
+            "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
+            "source_url": "http://degroupnews.com/dossier/beewi-democratise-la-domotique"
+        },
+        "techno.lapresse.ca/2015/04/domotique-surveillance-parentale-2-0": {
+            "title": "Domotique: surveillance parentale 2.0...",
+            "snippet": "La technologie a fait \u00e9voluer le r\u00f4le des parents, souvent en le rendant plus compliqu\u00e9. Surveiller les activit\u00e9s de sa prog\u00e9niture sur l'internet ou g\u00e9rer le temps qu'elle peut y consacrer, par exemple, sont quelques-uns des nouveaux...",
+            "date": "2015-04-18",
+            "categories": "internet,technologie,domotique",
+            "tags": "peut,technologie,domotique,surveiller",
+            "recuweb_url": "http://fr.recuweb.com/domotique/techno.lapresse.ca/2015/04/domotique-surveillance-parentale-2-0",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
+            "source_url": "http://techno.lapresse.ca/nouvelles/produits-electroniques/201504/17/01-4861991-domotique-surveillance-parentale-20.php"
+        },
         "linformatique.org/2015/04/il-ne-faut-pas-confondre-la-domotique-et-les-objets-connect%C3%A9s": {
             "title": "Il ne faut pas confondre la domotique et les objets connect\u00e9s...",
             "snippet": "Si la domotique peut utiliser des objets connect\u00e9s, les objets connect\u00e9s ne sont pas pour autant de la domotique. Alors que les objets connect\u00e9s sont en passe denvahir nos habitations, cela ne signifie pas pour autant quil sagisse de domotique.",
             "date": "2015-04-14",
             "categories": "domotique",
-            "tags": "domotique",
+            "tags": "peut,domotique,objets,connect\u00e9s",
             "recuweb_url": "http://fr.recuweb.com/domotique/linformatique.org/2015/04/il-ne-faut-pas-confondre-la-domotique-et-les-objets-connect%C3%A9s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
             "source_url": "http://linformatique.org/il-ne-faut-pas-confondre-la-domotique-et-les-objets-connectes/"
-        },
-        "batirama.com/2015/04/l-avenir-de-la-domotique-c-est-commande-vocale": {
-            "title": "L'avenir de la domotique, c'est la commande vocale! -...",
-            "snippet": "'avenir de la domotique, c'est la commande vocale! un syst\u00e8me domotique, on trouve plusieurs parties. Celle que l'on voit tout de suite est le contr\u00f4le-commande, le moyen par lequel on donne des ordres au syst\u00e8me et on v\u00e9rifie son...",
-            "date": "2015-04-14",
-            "categories": "domotique",
-            "tags": "contr\u00f4le,vocale,domotique,syst\u00e8me",
-            "recuweb_url": "http://fr.recuweb.com/domotique/batirama.com/2015/04/l-avenir-de-la-domotique-c-est-commande-vocale",
-            "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
-            "source_url": "http://batirama.com/article/10840-l-avenir-de-la-domotique-c-est-la-commande-vocale.html"
         },
         "lapresse.ca/2015/04/domotique-r%C3%A9sidentielle-comment-s-y-retrouver": {
             "title": "Domotique r\u00e9sidentielle: comment s'y retrouver?",
             "snippet": "(Qu\u00e9bec) On n'offre pas au Qu\u00e9bec de formation sp\u00e9cialis\u00e9e en domotique g\u00e9n\u00e9rale. La majorit\u00e9 des professionnels qui travaillent dans le domaine se forment eux-m\u00eames en compl\u00e9tant les cours mis sur pied par les fabricants de syst\u00e8mes...",
             "date": "2015-04-12",
             "categories": "domotique",
-            "tags": "sp\u00e9cialis\u00e9e,domotique",
+            "tags": "offre,domotique,sp\u00e9cialis\u00e9e",
             "recuweb_url": "http://fr.recuweb.com/domotique/lapresse.ca/2015/04/domotique-r%C3%A9sidentielle-comment-s-y-retrouver",
             "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
             "source_url": "http://lapresse.ca/le-soleil/affaires/techno/201504/11/01-4860251-domotique-residentielle-comment-sy-retrouver.php"
-        },
-        "maison-et-domotique.com/2015/04/une-solution-domotique-sorti-tout-droit-de-tron-legacy-voici-asus": {
-            "title": "Une solution domotique sorti tout droit de Tron Legacy? Voici Asus... - Maison et Domotique...",
-            "snippet": "Maison et DomotiqueUne solution domotique sorti tout droit de Tron Legacy? Voici Asus...Maison et DomotiqueAsus a annonc\u00e9 il y a quelques jours son intention de d\u00e9barquer dans le petit monde de la domotique, en lancant sa solution Asus Smart Home...",
-            "date": "2015-04-08",
-            "categories": "domotique",
-            "tags": "home,solution,quelques,domotique,maison",
-            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2015/04/une-solution-domotique-sorti-tout-droit-de-tron-legacy-voici-asus",
-            "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
-            "source_url": "http://maison-et-domotique.com/54230-une-solution-domotique-sorti-tout-droit-de-tron-legacy-voici-asus-smart-home-system/"
-        },
-        "republicain-lorrain.fr/2015/04/valeur-ajout%C3%A9e-la-rubrique-de-l%C3%A9conomie-qui-innove-a-maison": {
-            "title": "valeur ajout\u00e9e la rubrique de l\u00e9conomie qui innove A la maison et en bateau la domotique devient...",
-            "snippet": "valeur ajout\u00e9e la rubrique de l\u00e9conomie qui innove A la maison et en bateau la domotique devient...",
-            "date": "2015-04-08",
-            "categories": "domotique",
-            "tags": "maison,domotique",
-            "recuweb_url": "http://fr.recuweb.com/domotique/republicain-lorrain.fr/2015/04/valeur-ajout%C3%A9e-la-rubrique-de-l%C3%A9conomie-qui-innove-a-maison",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
-            "source_url": "http://republicain-lorrain.fr/moselle/2015/04/09/a-la-maison-et-en-bateau-la-domotique-devient-bio"
         }
     }
 }
