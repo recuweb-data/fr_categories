@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "programmation-web",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/programmation-web/",
@@ -10,14 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/blogs.json"
     },
     "items": {
-        "globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global": {
-            "title": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web... - Global Security Mag...",
-            "snippet": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web...Global Security MagQualys WAF bloque en temps r\u00e9el les attaques contre les sites Web. Ce service d\u00e9ploie un bouclier contre les d\u00e9fauts de programmation, les failles au sein de...",
-            "date": "2015-04-22",
-            "tags": "applications,web,programmation",
-            "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global",
+        "ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation-radio": {
+            "title": "Un salon du livre 2.0: d\u00e9voilement de la programmation - Radio-Canada...",
+            "snippet": "Radio-CanadaUn salon du livre 2.0: d\u00e9voilement de la programmationRadio-CanadaObjectif de 5000 selfies, conf\u00e9rences-web, SLATCaching, cr\u00e9ation d'un livre num\u00e9rique... le comit\u00e9 du 39e Salon du livre de l'Abitibi-T\u00e9miscamingue ne manque pas...",
+            "date": "2015-04-23",
+            "categories": "radio",
+            "tags": "cr\u00e9ation,programmation,web",
+            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation-radio",
             "resource_url": "http://news.google.fr/?hl=fr&q=programmation%2Bweb%2Bprogrammation%2Bweb&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451.html"
+            "source_url": "http://ici.radio-canada.ca/regions/abitibi/2015/04/23/005-salon-du-livre-abitibi-temiscamingue-programmation.shtml"
         },
         "macplus.net/2015/04/sparkle-corrige-ses-bogues-et-sam%C3%A9liore": {
             "title": "Sparkle corrige ses bogues et sam\u00e9liore...",
