@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "radar",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radar/",
@@ -10,34 +11,54 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radar/radar/blogs.json"
     },
     "items": {
-        "lindependant.fr/2015/04/carcassonne-le-radar-rendu-aveugle-l-ind%C3%A9": {
-            "title": "Carcassonne: le radar rendu aveugle - L'ind\u00e9...",
-            "snippet": "L'ind\u00e9: le radar rendu aveugleL'ind\u00e9 vitre du radar a \u00e9t\u00e9 macul\u00e9e de peinture. PHOTO/Carcassonne Nathalie Amen-Vals Contrevenant flash\u00e9 et adepte de la vengeance? Ou artiste d\u00e9s\u0153uvr\u00e9 convaincu de la richesse de sa performance urbaine?",
-            "date": "2015-04-07",
-            "categories": "peinture,radar",
-            "tags": "flash\u00e9,\u00e9t\u00e9,radar",
-            "recuweb_url": "http://fr.recuweb.com/radar/lindependant.fr/2015/04/carcassonne-le-radar-rendu-aveugle-l-ind%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radar%2Bradar&output=atom&nord=1",
-            "source_url": "http://lindependant.fr/2015/04/07/carcassonne-le-radar-rendu-aveugle,2014375.php"
-        },
-        "metronews.fr/2015/04/les-radars-des-alpes-maritimes-n-ont-jamais-autant-flash%C3%A9": {
-            "title": "Les radars des Alpes-Maritimes n'ont jamais autant flash\u00e9...",
-            "snippet": "Les flashes des radars fixes ont cr\u00e9pit\u00e9 comme jamais, l'an dernier dans les Alpes-Maritimes. Au total, infractions routi\u00e8res ont \u00e9t\u00e9 relev\u00e9es dans l'ensemble du d\u00e9partement, soit de plus que l'ann\u00e9e pr\u00e9c\u00e9dente! La majorit\u00e9 des...",
-            "date": "2015-04-07",
+        "kapitalis.com/2015/04/absent%C3%A9isme-les-d%C3%A9put%C3%A9s-expats-pris-par-le-radar-d-al-bawsala": {
+            "title": "Absent\u00e9isme: Les d\u00e9put\u00e9s expats pris par le radar d'Al-Bawsala - (Communiqu\u00e9 de presse) (Blog)...",
+            "snippet": "(Communiqu\u00e9 de presse) (Blog)Absent\u00e9isme: Les d\u00e9put\u00e9s expats pris par le radar d'Al-Bawsala (Communiqu\u00e9 de presse) (Blog)L'absent\u00e9isme chronique des d\u00e9put\u00e9s expatri\u00e9s relev\u00e9 par l'association Al-Bawsala pose probl\u00e8me. Faut-il...",
+            "date": "2015-04-23",
             "categories": "radar",
-            "tags": "ensemble,\u00e9t\u00e9,comme,jamais,flash\u00e9,radars",
-            "recuweb_url": "http://fr.recuweb.com/radar/metronews.fr/2015/04/les-radars-des-alpes-maritimes-n-ont-jamais-autant-flash%C3%A9",
+            "tags": "radar",
+            "recuweb_url": "http://fr.recuweb.com/radar/kapitalis.com/2015/04/absent%C3%A9isme-les-d%C3%A9put%C3%A9s-expats-pris-par-le-radar-d-al-bawsala",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radar%2Bradar&output=atom&nord=1",
+            "source_url": "http://kapitalis.com/politique/28990-absenteisme-les-deputes-expats-pris-par-le-radar-d-al-bawsala.html"
+        },
+        "air-cosmos.com/2015/04/le-mq-4c-triton-a-vol%C3%A9-avec-son-radar-mfas": {
+            "title": "Le MQ-4C Triton a vol\u00e9 avec son radar MFAS...",
+            "snippet": "Le 18 avril, le drone MQ-4C Triton a d\u00e9coll\u00e9 de la base a\u00e9ronavale de Patuxent River pour tester en vol son nouvel \u00e9quipement, le radar MFAS (Multi-Fonction Active Sensor). Ce dernier devrait permettre au Triton une couverture sur 360 de son...",
+            "date": "2015-04-22",
+            "categories": "radar",
+            "tags": "nouvel,radar,avril",
+            "recuweb_url": "http://fr.recuweb.com/radar/air-cosmos.com/2015/04/le-mq-4c-triton-a-vol%C3%A9-avec-son-radar-mfas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
-            "source_url": "http://metronews.fr/nice-cannes/les-radars-des-alpes-maritimes-n-ont-jamais-autant-flashe/mocv!2TvkjfvrpM1c/"
+            "source_url": "http://air-cosmos.com/2015/04/22/32820-le-mq-4c-triton-a-vole-avec-son-radar-mfas"
+        },
+        "lessentiel.lu/2015/04/les-radars-aux-feux-rouges-d%C3%A9barquent-en-wallonie": {
+            "title": "Les radars aux feux rouges d\u00e9barquent en Wallonie...",
+            "snippet": "Apr\u00e8s la Flandre et Bruxelles, la Wallonie a d\u00e9cid\u00e9 dinstaller des radars pour flasher au feu rouge, indiquent nos confr\u00e8res de Sudpresse mercredi. Avec les nouveaux radars-tron\u00e7ons, les radars de franchissement de feu feront lobjet dun...",
+            "date": "2015-04-22",
+            "categories": "radar",
+            "tags": "feu,nouveaux,feu-rouge,radars,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/radar/lessentiel.lu/2015/04/les-radars-aux-feux-rouges-d%C3%A9barquent-en-wallonie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
+            "source_url": "http://lessentiel.lu/fr/news/grande_region/story/Les-radars-aux-feux-rouges-debarquent-en-Wallonie-17854128"
+        },
+        "news.autoplus.fr/2015/04/un-nouveau-radar-transformers-pour-la-police": {
+            "title": "Un nouveau radar Transformers pour la police!",
+            "snippet": "La police municipale dEvry (91) a test\u00e9 un \u00e9tonnant v\u00e9hicule muni dun poste de pilotage t\u00e9lescopique. Id\u00e9al pour la surveillance... et les contr\u00f4les routiers. Non, ceci nest pas lun des v\u00e9hicules qui prendront part au prochain...",
+            "date": "2015-04-22",
+            "categories": "radar",
+            "tags": "contr\u00f4les,police,radar",
+            "recuweb_url": "http://fr.recuweb.com/radar/news.autoplus.fr/2015/04/un-nouveau-radar-transformers-pour-la-police",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
+            "source_url": "http://news.autoplus.fr/news/1493150/Police-Evry-Voiture-Radar-Vitesse"
         },
         "ladepeche.fr/2015/04/matabiau-le-jackpot-du-radar-feu-rouge": {
-            "title": "Matabiau: le jackpot du radar feu rouge...",
-            "snippet": "Toulouse est la ville fran\u00e7aise poss\u00e9dant le plus grand nombre de radars feu rouge, avec 15 installations. Si aucune nouvelle implantation de ces radars dans la Ville rose n'est pr\u00e9vue en 2015, c'est sans doute parce que l'un d'entre eux se...",
+            "title": "Matabiau: le jackpot du radar feu rouge -...",
+            "snippet": ": le jackpot du radar feu est la ville fran\u00e7aise poss\u00e9dant le plus grand nombre de radars feu rouge, avec 15 installations. Si aucune nouvelle implantation de ces radars dans la Ville rose n'est pr\u00e9vue en 2015, c'est sans doute parce que l'un...",
             "date": "2015-04-06",
             "categories": "radar",
-            "tags": "nouvelle,nombre,feu,feu-rouge,rouge,radars",
+            "tags": "feu,feu-rouge,rouge,radars",
             "recuweb_url": "http://fr.recuweb.com/radar/ladepeche.fr/2015/04/matabiau-le-jackpot-du-radar-feu-rouge",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radar&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/06/2081701-matabiau-le-radar-feu-jackpot.html"
         },
         "fr.news.yahoo.com/2015/01/l-ast%C3%A9ro%C3%AFde-qui-a-fr%C3%B4l%C3%A9-la-terre-sa-propre-lune": {
@@ -65,7 +86,7 @@
             "snippet": "Robbie Williams assure la promotion de son nouvel album \"Under the Radar - Volume 1\", une collection de faces B et de titres jamais publi\u00e9s. Apr\u00e8s \". (Heavy Entertainment Show)\", d\u00e9couvrez la ballade \"Love Is You\" sur Pure Charts!",
             "date": "2015-01-15",
             "categories": "collection,radar",
-            "tags": "d\u00e9couvrez,jamais,radar",
+            "tags": "d\u00e9couvrez,nouvel,radar,apr\u00e8s",
             "recuweb_url": "http://fr.recuweb.com/radar/fr.news.yahoo.com/2015/01/love-is-you-robbie-williams-touche-la-corde-sensible",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=radar",
             "source_url": "http://fr.news.yahoo.com/love-is-you-robbie-williams-touche-corde-sensible-191000479.html"
