@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lifestyle",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lifestyle/",
@@ -10,65 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
     },
     "items": {
-        "nzherald.co.nz/2015/04/aucklanders-eye-bay-lifestyle-hawke-s-today": {
-            "title": "Aucklanders eye Bay lifestyle - Hawke's Bay Today...",
-            "snippet": "Aucklanders eye Bay lifestyleHawke's Bay TodayThe region's lifestyle was a big drawcard, he said. \"We've got good schools, we're five minutes to the airport and 20 minutes between the cities. There are no drive times.\" With a median Hawke's Bay...",
-            "date": "2015-04-20",
-            "categories": "lifestyle",
-            "tags": "are,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/nzherald.co.nz/2015/04/aucklanders-eye-bay-lifestyle-hawke-s-today",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://nzherald.co.nz/hawkes-bay-today/news/article.cfm?c_id=1503462&objectid=11435456"
+        "thedailybeast.com/2015/04/blake-lively-actress-lifestyle-guru-or-daily-beast": {
+            "title": "Blake Lively: Actress, Lifestyle Guru, or... - Daily Beast...",
+            "snippet": "Daily BeastBlake Lively: Actress, Lifestyle Guru, BeastShe's spent three quiet years molding herself into a celebrity homemaker in the grand tradition of Gwyneth Paltrow, also boasting an irreverently-named baby and the slightly less pretentious but...",
+            "date": "2015-04-23",
+            "categories": "tradition,lifestyle",
+            "tags": "lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/thedailybeast.com/2015/04/blake-lively-actress-lifestyle-guru-or-daily-beast",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle%2Blifestyle&output=atom&nord=1",
+            "source_url": "http://thedailybeast.com/articles/2015/04/23/blake-lively-actress-lifestyle-guru-or.html"
         },
-        "centralctcommunications.com/2015/04/holistic-lifestyle-fair-held-in-plainville-bristol-press": {
-            "title": "Holistic lifestyle fair held in Plainville - Bristol Press...",
-            "snippet": "Bristol PressHolistic lifestyle fair held in PlainvilleBristol PressPLAINVILLE People aligned in their lifestyle practices joined forces Sunday at The Loop on Woodford Avenue. Shirley Bloethe, who owns the venue, hosts a holistic fair five times a...",
-            "date": "2015-04-20",
-            "categories": "lifestyle",
-            "tags": "people,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/centralctcommunications.com/2015/04/holistic-lifestyle-fair-held-in-plainville-bristol-press",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://centralctcommunications.com/bristolpress/article_379dbb08-e6f9-11e4-947e-97062eeaa907.html"
-        },
-        "heraldbulletin.com/2015/04/cotillion-beautillion-reinforces-positive-lifestyle-decisions-the-herald-bulletin": {
-            "title": "Cotillion/Beautillion reinforces positive lifestyle decisions - The Herald Bulletin...",
-            "snippet": "The Herald BulletinCotillion/Beautillion reinforces positive lifestyle decisionsThe Herald BulletinIn its ninth year, the program teaches youth lifestyle enhancements, such as self-confidence, drug and health awareness and spiritual development.",
-            "date": "2015-04-19",
-            "categories": "lifestyle",
-            "tags": "health,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/heraldbulletin.com/2015/04/cotillion-beautillion-reinforces-positive-lifestyle-decisions-the-herald-bulletin",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://heraldbulletin.com/news/local_news/cotillion-beautillion-reinforces-positive-lifestyle-decisions/article_7bb2628b-b6e7-5ed0-aaa8-34ea1cb4061f.html"
-        },
-        "emaxhealth.com/2015/04/western-lifestyle-could-be-culprit-for-our-disappearing-healthy-gut-emaxhealth": {
-            "title": "Western lifestyle could be culprit for our disappearing healthy gut... - eMaxHealth...",
-            "snippet": "eMaxHealthWestern lifestyle could be culprit for our disappearing healthy gut...eMaxHealthResearchers are trying to understand more about bacteria in the gut and how diversity of microbes promote or adversely affect our health. A new study suggests...",
-            "date": "2015-04-19",
-            "categories": "lifestyle",
-            "tags": "are,health,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/emaxhealth.com/2015/04/western-lifestyle-could-be-culprit-for-our-disappearing-healthy-gut-emaxhealth",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://emaxhealth.com/1020/western-lifestyle-could-be-culprit-our-disappearing-healthy-gut-bacteria"
-        },
-        "hospitality-on.com/2015/04/radisson-red-s-installera-d%C3%A8s-l-an-prochain-en-afrique": {
-            "title": "Radisson Red s'installera d\u00e8s l'an prochain en Afrique...",
-            "snippet": "Ce sera le cinqui\u00e8me \u00e9tablissement de Carlson Rezidor situ\u00e9 au Cap en Afrique du Sud. Radisson Red, une marque lifestyle haut de gamme Chez Carlson Rezidor, ce mois d'avril est marqu\u00e9 par le d\u00e9veloppement des premiers h\u00f4tels de sa nouvelle...",
-            "date": "2015-04-16",
+        "meltyfashion.fr/2015/04/michelle-phan-youtubeuse-beaut%C3%A9-pr%C3%A9pare-sa-cha%C3%AEne-lifestyle-icon-meltyfashion": {
+            "title": "Michelle Phan, Youtubeuse beaut\u00e9, pr\u00e9pare sa cha\u00eene lifestyle Icon... - meltyFashion...",
+            "snippet": "meltyFashionMichelle Phan, Youtubeuse beaut\u00e9, pr\u00e9pare sa cha\u00eene lifestyle \"Icon...meltyFashionCette ann\u00e9e, l'experte beaut\u00e9 s'associe au groupe t\u00e9l\u00e9visuel Endemol pour cr\u00e9er sa cha\u00eene lifestyle \"Icon\". Diff\u00e9rents th\u00e8mes seront abord\u00e9s...",
+            "date": "2015-04-21",
             "categories": "lifestyle",
             "tags": "lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/hospitality-on.com/2015/04/radisson-red-s-installera-d%C3%A8s-l-an-prochain-en-afrique",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/meltyfashion.fr/2015/04/michelle-phan-youtubeuse-beaut%C3%A9-pr%C3%A9pare-sa-cha%C3%AEne-lifestyle-icon-meltyfashion",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle%2Blifestyle&output=atom&nord=1",
+            "source_url": "http://meltyfashion.fr/michelle-phan-youtubeuse-beaute-prepare-sa-chaine-lifestyle-icon-avec-endemol-a402763.html"
+        },
+        "ladn.eu/2015/04/pagesjaunes-lance-un-magazine-gratuit-lifestyle": {
+            "title": "PagesJaunes lance un magazine gratuit lifestyle...",
+            "snippet": "Tous les jours, faire passer l'actualit\u00e9 de la com'Rep\u00e9rer ce qui change, souffler sur ce qui bouge, souligner les tendances, faire le plein de contacts. Pour avoir de l'esprit, il faut de la matiere Tous les jours, l'essentiel de la com', les...",
+            "date": "2015-04-21",
+            "categories": "lifestyle",
+            "tags": "passer,lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/ladn.eu/2015/04/pagesjaunes-lance-un-magazine-gratuit-lifestyle",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=fr",
-            "source_url": "http://hospitality-on.com/actualites/2015/04/16/radisson-red-sinstallera-des-lan-prochain-en-afrique/"
-        },
-        "blog.fotolia.com/2015/04/goodluz-une-valeur-s%C3%BBre-du-lifestyle-fotolia-blog-france": {
-            "title": "Goodluz, une valeur s\u00fbre du lifestyle - Fotolia Blog France (Blog)...",
-            "snippet": "Fotolia Blog France (Blog)Goodluz, une valeur s\u00fbre du lifestyleFotolia Blog France (Blog)Sur le march\u00e9 des microstocks, Goodluz Productions est l'un des studios photo les plus embl\u00e9matiques. Et assur\u00e9ment l'un des plus populaires. Pour preuve,...",
-            "date": "2015-04-09",
-            "categories": "lifestyle",
-            "tags": "lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/blog.fotolia.com/2015/04/goodluz-une-valeur-s%C3%BBre-du-lifestyle-fotolia-blog-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://blog.fotolia.com/fr/2015/04/09/goodluz-une-valeur-sure-du-lifestyle/"
+            "source_url": "http://ladn.eu/actualites/media,pagesjaunes-lance-magazine-gratuit-lifestyle,31,26024.html"
         }
     }
 }
