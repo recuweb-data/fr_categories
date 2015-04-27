@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport/",
@@ -10,115 +11,115 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport/sport/blogs.json"
     },
     "items": {
+        "lesnumeriques.com/2015/04/a300-de-polar-entre-montre-sport-et-capteur-d-activit%C3%A9": {
+            "title": "A300 de Polar: entre montre de sport et capteur d'activit\u00e9...",
+            "snippet": "Tr\u00e8s dynamique dans l'univers des montres de sport, la marque Polar tente de s\u00e9duire un public plut\u00f4t f\u00e9minin avec sa nouvelle A300. Annonc\u00e9e comme un moniteur de condition physique et d'activit\u00e9, la nouvelle venue...",
+            "date": "2015-04-24",
+            "author_name": "Christophe S\u00e9frin",
+            "categories": "sport",
+            "tags": "plut\u00f4t,f\u00e9minin,montre,sport,activit\u00e9,comme,physique",
+            "recuweb_url": "http://fr.recuweb.com/sport/lesnumeriques.com/2015/04/a300-de-polar-entre-montre-sport-et-capteur-d-activit%C3%A9",
+            "resource_url": "http://www.google.com/search?q=sport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lesnumeriques.com/montre-sport/polar-a300-p26015/a300-polar-entre-montre-sport-capteur-d-activite-n41565.html"
+        },
+        "iphoneaddict.fr/2015/04/les-entrailles-de-l-apple-watch-sport-38mm-vues-par-ifixit": {
+            "title": "Les entrailles de l'Apple Watch Sport 38mm vues par iFixit...",
+            "snippet": "iFixit est actuellement entr\u00e9 en phase de d\u00e9montage d'une Apple Watch Sport 38mm apr\u00e8s que le lancement de la derni\u00e8re n\u00e9e de la firme californienne aujourd'hui. M\u00eame s'il est encore t\u00f4t dans ce processus de d\u00e9montage...",
+            "date": "2015-04-24",
+            "author_name": "Guillaume",
+            "categories": "sport",
+            "tags": "apr\u00e8s,derni\u00e8re,apple,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/iphoneaddict.fr/2015/04/les-entrailles-de-l-apple-watch-sport-38mm-vues-par-ifixit",
+            "resource_url": "http://www.google.com/search?q=sport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://iphoneaddict.fr/post/news-150059-entrailles-lapple-watch-sport-38mm-vues-ifixit"
+        },
+        "radiookapi.net/2015/04/pourquoi-il-est-important-d-observer-30-minutes-de-sport": {
+            "title": "Pourquoi il est important d'observer 30 minutes de sport au quotidien...",
+            "snippet": "D'apr\u00e8s sp\u00e9cialistes en sant\u00e9 publique, il est recommand\u00e9 d'observer au moins 30 minutes de sport au quotidien, car notre bien-\u00eatre en d\u00e9pend. Mais pour les personnes qui travaillent, il est difficile de faire les 30 minutes...",
+            "date": "2015-04-24",
+            "author_name": "Radio Okapi (Radio Okapi)",
+            "categories": "sport",
+            "tags": "difficile,moins,sant\u00e9,sant\u00e9-publique,publique,apr\u00e8s,sport,\u00eatre",
+            "recuweb_url": "http://fr.recuweb.com/sport/radiookapi.net/2015/04/pourquoi-il-est-important-d-observer-30-minutes-de-sport",
+            "resource_url": "http://www.google.com/search?q=sport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://radiookapi.net/regions/national/2015/04/24/pourquoi-il-est-important-dobserver-30-minutes-de-sport-au-quotidien/"
+        },
+        "slate.fr/2015/04/periscope-et-meerkat-interdits-en-nhl-le-sport-professionnel": {
+            "title": "Periscope et Meerkat interdits en NHL: le sport professionnel...",
+            "snippet": "La Ligue de hockey am\u00e9ricaine a dit stop. Plus de Periscope, plus de Meerkat pour les journalistes accr\u00e9dit\u00e9s. C'est le chef de la Ligue qui l'a fait savoir dans un memo le 21 avril. Pour rappel, le r\u00e8glement m\u00e9dia de la NHL...",
+            "date": "2015-04-23",
+            "author_name": "Gr\u00e9gor Brandy",
+            "categories": "hockey,sport",
+            "tags": "chef,dit,sport,avril",
+            "recuweb_url": "http://fr.recuweb.com/sport/slate.fr/2015/04/periscope-et-meerkat-interdits-en-nhl-le-sport-professionnel",
+            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://slate.fr/story/100739/nhl-periscope-meerkat-streaming"
+        },
+        "fredzone.org/2015/04/la-watch-sport-est-elle-r%C3%A9sistante-aux-chocs-et-rayures": {
+            "title": "La Watch Sport est-elle r\u00e9sistante aux chocs et aux rayures?",
+            "snippet": "L'Apple Watch a l'air de bien se vendre, du moins si l'on en croit les premi\u00e8res estimations. Sans surprise, la plupart des gens se sont dirig\u00e9s vers le mod\u00e8le Sport et c'est peut-\u00eatre votre cas. Fort bien, alors la derni\u00e8re vid\u00e9o...",
+            "date": "2015-04-22",
+            "author_name": "Fr\u00e9d\u00e9ric Pereira",
+            "categories": "sport",
+            "tags": "derni\u00e8re,mod\u00e8le,moins,sport,apple,\u00eatre",
+            "recuweb_url": "http://fr.recuweb.com/sport/fredzone.org/2015/04/la-watch-sport-est-elle-r%C3%A9sistante-aux-chocs-et-rayures",
+            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://fredzone.org/la-watch-sport-est-elle-resistante-aux-chocs-et-aux-rayures-493"
+        },
+        "macplus.net/2015/04/le-verre-ion-x-de-la-watch-sport-ray%C3%A9": {
+            "title": "Le verre Ion-X de la Watch Sport ray\u00e9, mais c'est dur - MacPlus...",
+            "snippet": "Mais, la version la plus abordable de la montre, l'Apple Watch Sport embarque, elle, un verre plus classique, quoique rendu plus r\u00e9sistant par un traitement au niveau mol\u00e9culaire, nomm\u00e9 Ion-X. C'est cette pi\u00e8ce, obtenue par...",
+            "date": "2015-04-22",
+            "author_name": "Arnaud",
+            "categories": "traitement,sport",
+            "tags": "r\u00e9sistant,niveau,verre,montre,ion,sport,apple",
+            "recuweb_url": "http://fr.recuweb.com/sport/macplus.net/2015/04/le-verre-ion-x-de-la-watch-sport-ray%C3%A9",
+            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://macplus.net/depeche-83550-le-verre-ion-x-de-la-watch-sport-raye-mais-c-est-dur"
+        },
+        "iphoneaddict.fr/2015/04/test-de-r%C3%A9sistance-pour-la-vitre-l-apple-watch-sport": {
+            "title": "Test de r\u00e9sistance pour la vitre de l'Apple Watch Sport...",
+            "snippet": "C'est maintenant au tour du test de r\u00e9sistance de la vitre de l'Apple Watch Sport. Pour \u00eatre exact, Apple parle d'une couche de verre Ion-X. La chaine YouTube Unbox Therapy a pu avoir deux exemplaires, un de 38 mm et...",
+            "date": "2015-04-22",
+            "author_name": "Jean-Baptiste A.",
+            "categories": "sport",
+            "tags": "verre,maintenant,test,apple,sport,\u00eatre,ion",
+            "recuweb_url": "http://fr.recuweb.com/sport/iphoneaddict.fr/2015/04/test-de-r%C3%A9sistance-pour-la-vitre-l-apple-watch-sport",
+            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://iphoneaddict.fr/post/news-149767-test-resistance-vitre-lapple-watch-sport"
+        },
+        "cnetfrance.fr/2015/04/l-iphone-6s-h%C3%A9riterait-de-aluminium-apple-watch-sport-cnet": {
+            "title": "L'iPhone 6S h\u00e9riterait de l'aluminium de l'Apple Watch Sport - CNET...",
+            "snippet": "Au moment de la pr\u00e9sentation de l'Apple Watch, Jonathan Ive a fait l'article du nouvel aluminium dit de \"s\u00e9rie 7000\" utilis\u00e9 pour concevoir le chssis du mod\u00e8le \"Sport\". Ce nouvel alliage est cens\u00e9 \u00eatre plus r\u00e9sistant et plus...",
+            "date": "2015-04-17",
+            "author_name": "J\u00e9r\u00f4me Durel",
+            "categories": "sport,iphone",
+            "tags": "r\u00e9sistant,mod\u00e8le,sport,article,dit,apple,\u00eatre",
+            "recuweb_url": "http://fr.recuweb.com/iphone/cnetfrance.fr/2015/04/l-iphone-6s-h%C3%A9riterait-de-aluminium-apple-watch-sport-cnet",
+            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cnetfrance.fr/news/l-iphone-6s-heriterait-de-l-aluminium-de-l-apple-watch-sport-39818124.htm"
+        },
         "befitjustine.wordpress.com/2015/04/sport-semaine-du-5-au-11-avril": {
             "title": "SPORT SEMAINE DU 5 AU 11 AVRIL...",
             "snippet": "SEMAINE DU 5 AU 11 AVRIL: Maintenant que le BBG est finis, je me suis demand\u00e9e ce que jallais faire: le BBG 2.0, Insanity, le Top Body Challenge? finalement, je pense plus faire une pr\u00e9pa marathon, et faire des s\u00e9ances de renforcement musculaire...",
             "date": "2015-04-13",
             "author_name": "befitjustine",
             "categories": "marathon,sport",
-            "tags": "sport,avril",
+            "tags": "top,sport,semaine,avril,maintenant",
             "recuweb_url": "http://fr.recuweb.com/sport/befitjustine.wordpress.com/2015/04/sport-semaine-du-5-au-11-avril",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=sport%2Bsport&rss=1&lng=fr",
             "source_url": "http://befitjustine.wordpress.com/2015/04/13/sport-semaine-du-5-au-11-avril/"
         },
-        "surfacemagazine.fr/2015/04/les-supporters-du-bar%C3%A7a-veulent-pogba": {
-            "title": "Les supporters du Bar\u00e7a veulent Pogba...",
-            "snippet": "Dans un sondage r\u00e9alis\u00e9 par le journal Sport, les supporters de Barcelone aimeraient voir Paul Pogba dans leur \u00e9quipe. Malgr\u00e9 le tr\u00e8s probable d\u00e9part de Xavi en fin de saison et une interdiction de recrutement courant jusquen 2016, le FC...",
-            "date": "2015-04-07",
-            "author_name": "R\u00e9mi D.",
-            "categories": "recrutement,sport",
-            "tags": "sport,barcelone,saison",
-            "recuweb_url": "http://fr.recuweb.com/sport/surfacemagazine.fr/2015/04/les-supporters-du-bar%C3%A7a-veulent-pogba",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=sport%2Bsport&rss=1&lng=fr",
-            "source_url": "http://surfacemagazine.fr/22420-les-supporters-du-barca-veulent-pogba/"
-        },
-        "metronews.fr/2015/03/p%C3%A9dophilie-le-rectorat-de-rennes-suspend-un-professeur-sport": {
-            "title": "P\u00e9dophilie: le rectorat de Rennes suspend un professeur de sport...",
-            "snippet": "SUSPENSION IMM\u00c9DIATE - Mardi, un professeur de sport a \u00e9t\u00e9 imm\u00e9diatement suspendu, pour avoir poss\u00e9d\u00e9 une image p\u00e9dopornographique en 2006. Il est aussi actuellement mis en examen pour viol sur mineur. 0.",
-            "date": "2015-03-31",
+        "bfmbusiness.bfmtv.com/2015/04/comment-le-sport-enrichit-la-suisse-bfmtv": {
+            "title": "Comment le sport enrichit la Suisse - BFMTV...",
+            "snippet": "L'impact des institutions sportives internationales sur l'\u00e9conomie suisse, repr\u00e9sente pr\u00e8s d'un milliard d'euros par an.",
+            "date": "2015-04-11",
             "author_name": "inconnu",
             "categories": "sport",
-            "tags": "aussi,avoir,image,\u00e9t\u00e9,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/metronews.fr/2015/03/p%C3%A9dophilie-le-rectorat-de-rennes-suspend-un-professeur-sport",
-            "resource_url": "http://www.google.com/search?q=sport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://metronews.fr/info/pedophilie-le-rectorat-de-rennes-suspend-un-professeur-de-sport/mocE!IPQ5mCWCocsyQ/"
-        },
-        "perfectlightphotography.wordpress.com/2015/03/rbs-6-nations-champions": {
-            "title": "rbs 6 nations champions...",
-            "snippet": "Filed under: sport Tagged: 2015, champions, england, ireland, ladies, rbs 6 nations, rugby, sport, sport photography, tackle...",
-            "date": "2015-03-23",
-            "author_name": "perfectlight",
-            "categories": "sport,rugby",
-            "tags": "champions,sport,rugby",
-            "recuweb_url": "http://fr.recuweb.com/rugby/perfectlightphotography.wordpress.com/2015/03/rbs-6-nations-champions",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=sport%2Bsport&rss=1&lng=fr",
-            "source_url": "http://perfectlightphotography.wordpress.com/2015/03/23/rbs-6-nations-champions/"
-        },
-        "generation-nt.com/2015/03/nouvelles-technologies-les-sports-professionnels-en-profitent-aussi": {
-            "title": "Nouvelles technologies: les sports professionnels en profitent aussi...",
-            "snippet": "Les nouvelles technologies font la part belle au divertissement, et dans le secteur, le sport est souvent un vecteur tr\u00e8s fort pour les marques. Le sport professionnel devrait ainsi prochainement v\u00e9ritablement profiter de ces...",
-            "date": "2015-03-14",
-            "author_name": "inconnu",
-            "categories": "technologie,divertissement,sport",
-            "tags": "aussi,sports,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/generation-nt.com/2015/03/nouvelles-technologies-les-sports-professionnels-en-profitent-aussi",
+            "tags": "internationales,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/bfmbusiness.bfmtv.com/2015/04/comment-le-sport-enrichit-la-suisse-bfmtv",
             "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/nouvelles-technologies-sports-professionnels-actualite-1912863.html"
-        },
-        "mac4ever.com/2015/03/l-apple-watch-sport-sera-bien-livr%C3%A9e-avec-2-bracelets-complets": {
-            "title": "L'Apple Watch Sport sera bien livr\u00e9e avec 2 bracelets \"complets\"...",
-            "snippet": "Si l'on savait que l'Apple Watch Sport serait livr\u00e9e avec deux bracelets, le doute planait encore sur la nature exacte du second exemplaire. Pour fournir deux tailles, la Pomme aurait en effet pu se contenter de ne fournir que la...",
-            "date": "2015-03-13",
-            "author_name": "inconnu",
-            "categories": "nature,sport",
-            "tags": "sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/mac4ever.com/2015/03/l-apple-watch-sport-sera-bien-livr%C3%A9e-avec-2-bracelets-complets",
-            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://mac4ever.com/actu/99290_l-apple-watch-sport-sera-bien-livree-avec-2-bracelets-complets"
-        },
-        "cominmag.ch/2015/03/tamedia-cr%C3%A9e-une-agence-de-presse-sport-center-cominmag": {
-            "title": "Tamedia cr\u00e9e une agence de presse: Sport-Center - Cominmag...",
-            "snippet": "Sport-Center est une nouvelle agence de presse ind\u00e9pendante, appartenant au groupe Tamedia. Elle est compos\u00e9e d'une vingtaine de journalistes, issus des r\u00e9dactions sportives du Matin, Matin Dimanche, et de...",
-            "date": "2015-03-13",
-            "author_name": "admin",
-            "categories": "sport",
-            "tags": "agence,sport,dimanche",
-            "recuweb_url": "http://fr.recuweb.com/sport/cominmag.ch/2015/03/tamedia-cr%C3%A9e-une-agence-de-presse-sport-center-cominmag",
-            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cominmag.ch/tamedia-cree-une-agence-de-presse-sport-center/"
-        },
-        "happy2cats.wordpress.com/2015/03/ma-vision-sur-e-sport-de-pacotille": {
-            "title": "Ma vision sur: E-sport, sport de pacotille?",
-            "snippet": "Cest un d\u00e9bat qui fait rage sur internet comme irl. Nous ne sommes d\u00e9finitivement pas tous daccord sur le sujet. Est-il possible de comparer des activit\u00e9s apparemment diff\u00e9rentes? Quelle est la vraie d\u00e9finition du sport? Quelle est la place des...",
-            "date": "2015-03-11",
-            "author_name": "happy Cat",
-            "categories": "place,internet,sport",
-            "tags": "comme,sport,d\u00e9bat",
-            "recuweb_url": "http://fr.recuweb.com/sport/happy2cats.wordpress.com/2015/03/ma-vision-sur-e-sport-de-pacotille",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=sport%2Bsport&rss=1&lng=fr",
-            "source_url": "http://happy2cats.wordpress.com/2015/03/11/ma-vision-sur-e-sport-sport-de-pacotille/"
-        },
-        "ffgym.com/2015/03/le-sport-fran%C3%A7ais-en-deuil-ffgym": {
-            "title": "Le sport fran\u00e7ais en deuil - FFGym...",
-            "snippet": "Le sport fran\u00e7ais en deuil par FFG (10/03/2015). Lundi 9 mars, le sport fran\u00e7ais a \u00e9t\u00e9 frapp\u00e9 tragiquement par la mort de trois de ses champions: Florence Arthaud, navigatrice (1\u00e8re de la Route du Rhum en 1990), Camille Muffat, nageuse...",
-            "date": "2015-03-10",
-            "author_name": "admininfo@ffgym.fr ( CLEMENCEAU KOENIG Emilie)",
-            "categories": "mort,sport",
-            "tags": "camille,fran\u00e7ais,\u00e9t\u00e9,sport,champions,route",
-            "recuweb_url": "http://fr.recuweb.com/sport/ffgym.com/2015/03/le-sport-fran%C3%A7ais-en-deuil-ffgym",
-            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ffgym.com/ffgym/actualites/flash/le_sport_francais_en_deuil"
-        },
-        "parismatch.com/2015/03/rechute-de-cancer-le-sport-r%C3%A9duirait-les-risques-paris-match": {
-            "title": "Rechute de cancer - Le sport r\u00e9duirait les risques - Paris Match...",
-            "snippet": "Le Dr Thierry Bouillet, canc\u00e9rologue au CHU d'Avicenne, pr\u00e9sident de la F\u00e9d\u00e9ration nationale Cami Sport & Cancer, expose les b\u00e9n\u00e9fices de l'activit\u00e9 physique pour certains cancers.",
-            "date": "2015-03-10",
-            "author_name": "Paris Match",
-            "categories": "sport",
-            "tags": "physique,sport,paris,paris_match,match",
-            "recuweb_url": "http://fr.recuweb.com/sport/parismatch.com/2015/03/rechute-de-cancer-le-sport-r%C3%A9duirait-les-risques-paris-match",
-            "resource_url": "http://www.google.com/search?q=sport%2Bsport&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://parismatch.com/Actu/Sante/Le-sport-reduirait-les-risques-Rechute-de-cancer-722090"
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/comment-le-sport-enrichit-la-suisse-876132.html"
         }
     }
 }
