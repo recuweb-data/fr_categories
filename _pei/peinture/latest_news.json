@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "peinture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/peinture/",
@@ -10,35 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/peinture/peinture/blogs.json"
     },
     "items": {
-        "guideautoweb.com/2015/04/donkervoort-d8-gto-bare-naked-carbon-edition-moins-lourde-et-sans": {
-            "title": "Donkervoort D8 GTO Bare Naked Carbon Edition: moins lourde et sans peinture...",
-            "snippet": "Le nom Donkervoort ne vous est peut-\u00eatre pas familier. Ce petit manufacturier n\u00e9erlandais construit des v\u00e9hicules ultral\u00e9gers bas\u00e9s sur la philosophie instaur\u00e9e par Colin Chapman: baisser le poids total au maximum pour des performances...",
-            "date": "2015-04-21",
-            "categories": "peinture",
-            "tags": "moins,sans,peinture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/guideautoweb.com/2015/04/donkervoort-d8-gto-bare-naked-carbon-edition-moins-lourde-et-sans",
+        "marieclairemaison.com/2015/04/caravane-lance-sa-premi%C3%A8re-gamme-de-peinture-%C3%A9co-responsable": {
+            "title": "Caravane lance sa premi\u00e8re gamme de peinture \u00e9co-responsable...",
+            "snippet": "Fond\u00e9e en 1995, la marque Caravane est un concept de d\u00e9coration cosmopolite, intemporel et \u00e9l\u00e9gant. Ses collections concilient savoir-faire artisanal, audace et modernit\u00e9 pour nous offrir le plus beau de la d\u00e9coration tout en respectant sa...",
+            "date": "2015-04-24",
+            "categories": "collection,peinture",
+            "tags": "peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/marieclairemaison.com/2015/04/caravane-lance-sa-premi%C3%A8re-gamme-de-peinture-%C3%A9co-responsable",
             "resource_url": "http://www.bing.com/news/search?first=1&q=peinture&format=RSS&cc=fr",
-            "source_url": "http://guideautoweb.com/articles/28979/donkervoort_d8_gto_bare_naked_carbon_edition_moins_lourde_et_sans_peinture/"
+            "source_url": "http://marieclairemaison.com/,caravane-lance-sa-premiere-gamme-de-peinture-eco-responsable,523661.asp"
         },
-        "lachroniquerepublicaine.fr/2015/04/la-chapelle-janson-exposition-de-peinture-sur-soie": {
-            "title": "La Chapelle-Janson Exposition de peinture sur soie...",
-            "snippet": "La Chapelle-Janson accueillera une exposition de peinture sur soie le wwek-end prochain. Lassociation Les f\u00e9es chrysalides y pr\u00e9sentera les r\u00e9alisations de ses adh\u00e9rentes sur des th\u00e8mes aussi vari\u00e9s que la publicit\u00e9, les vacances, les...",
-            "date": "2015-04-21",
-            "categories": "peinture",
-            "tags": "exposition,peinture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/lachroniquerepublicaine.fr/2015/04/la-chapelle-janson-exposition-de-peinture-sur-soie",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=peinture&format=RSS&cc=fr",
-            "source_url": "http://lachroniquerepublicaine.fr/breves/exposition-de-peinture-sur-soie_8245/"
+        "ladepeche.fr/2015/04/la-peinture-sur-soie-se-montre": {
+            "title": "La peinture sur soie se montre -...",
+            "snippet": "peinture sur soie se Club de peinture sur soie, pr\u00e9sid\u00e9 par Pierrette Bordarios, pr\u00e9sente le fruit de son travail dans une exposition mise en place jusqu'au vendredi 24 avril, dans la salle Maurice-Chevalier, aux R\u00e9collets (rez-de-chauss\u00e9e).",
+            "date": "2015-04-24",
+            "categories": "place,peinture",
+            "tags": "exposition,jusqu,montre,peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/ladepeche.fr/2015/04/la-peinture-sur-soie-se-montre",
+            "resource_url": "http://news.google.fr/?hl=fr&q=peinture%2Bpeinture&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/24/2092951-la-peinture-sur-soie-se-montre.html"
         },
-        "lejdc.fr/2015/04/les-fables-de-la-fontaine-en-peinture": {
-            "title": "Les fables de La Fontaine en peinture...",
-            "snippet": "Une heure en compagnie dun peintre, et tout savoir de ses toiles: sa technique, sa compr\u00e9hension, ses d\u00e9tails. Cest ce qua propos\u00e9 Francis Hitier aux \u00e9coliers de peintre, et tout savoir de ses toiles: sa technique, sa...",
-            "date": "2015-04-21",
+        "ladepeche.fr/2015/04/peinture-enfants-la-biennale-internationale-a-sa-mascotte": {
+            "title": "Peinture enfants: la Biennale Internationale a sa mascotte -...",
+            "snippet": "enfants: la Biennale Internationale a sa la troisi\u00e8me ann\u00e9e, le Mus\u00e9e de peinture a lanc\u00e9 un appel aux enfants du monde entier pour repr\u00e9senter la mascotte de la Biennale Internationale de peinture d'enfants. Ici, Gamze Tun\u00e7er de Turquie, 13...",
+            "date": "2015-04-24",
             "categories": "peinture",
-            "tags": "peintre,peinture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/lejdc.fr/2015/04/les-fables-de-la-fontaine-en-peinture",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=peinture&format=RSS&cc=fr",
-            "source_url": "http://lejdc.fr/nievre/actualite/pays/haut-nivernais/2015/04/21/les-fables-de-la-fontaine-en-peinture_11413178.html"
+            "tags": "enfants,monde,peinture,ici",
+            "recuweb_url": "http://fr.recuweb.com/peinture/ladepeche.fr/2015/04/peinture-enfants-la-biennale-internationale-a-sa-mascotte",
+            "resource_url": "http://news.google.fr/?hl=fr&q=peinture&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/24/2093068-peinture-enfants-la-biennale-internationale-a-sa-mascotte.html"
+        },
+        "sudouest.fr/2015/04/motiv%C3%A9s-pour-parler-un-langage-de-sourd": {
+            "title": "Motiv\u00e9s pour parler un langage de sourd...",
+            "snippet": "Les adh\u00e9rents sont au nombre de 137 dans l'association et les ateliers sont tr\u00e8s nombreux: scrapbooking, cartonnage, espagnol, couture, encadrement, peinture, peinture sur porcelaine, anglais, mosa\u00efque, salsa, cannage, g\u00e9n\u00e9alogie, patchwork...",
+            "date": "2015-04-23",
+            "categories": "langage,peinture",
+            "tags": "peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/sudouest.fr/2015/04/motiv%C3%A9s-pour-parler-un-langage-de-sourd",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=peinture%2Bpeinture&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/04/24/motives-pour-parler-un-langage-de-sourd-1901917-2812.php"
+        },
+        "20minutes.fr/2015/04/une-peinture-retrouv%C3%A9e-dans-les-greniers-d-un-ancien-h%C3%B4pital": {
+            "title": "Une peinture retrouv\u00e9e dans les greniers d'un ancien h\u00f4pital... -...",
+            "snippet": "peinture retrouv\u00e9e dans les greniers d'un ancien h\u00f4pital... toile qui pourrait \u00eatre l'\u0153uvre du peintre Jean-Auguste-Dominique Ingres et de ses \u00e9l\u00e8ves a \u00e9t\u00e9 d\u00e9couverte dans l'ancien h\u00f4pital de Lons-le-Saunier, a-t-on appris jeudi aupr\u00e8s...",
+            "date": "2015-04-23",
+            "categories": "peinture",
+            "tags": "ancien,\u0153uvre,peintre,peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/20minutes.fr/2015/04/une-peinture-retrouv%C3%A9e-dans-les-greniers-d-un-ancien-h%C3%B4pital",
+            "resource_url": "http://news.google.fr/?hl=fr&q=peinture%2Bpeinture&output=atom&nord=1",
+            "source_url": "http://20minutes.fr/culture/1594219-20150423-peinture-retrouvee-greniers-ancien-hopital-pourrait-etre-uvre-ingres"
         },
         "lefigaro.fr/2015/04/markus-l%C3%BCpertz-peintre-sculpteur-en-mouvement-le-figaro": {
             "title": "Markus L\u00fcpertz, peintre-sculpteur en mouvement - Le Figaro...",
@@ -47,38 +68,18 @@
             "categories": "peinture",
             "tags": "trop,sans,peintre,peinture",
             "recuweb_url": "http://fr.recuweb.com/peinture/lefigaro.fr/2015/04/markus-l%C3%BCpertz-peintre-sculpteur-en-mouvement-le-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=peinture&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=peinture%2Bpeinture&output=atom&nord=1",
             "source_url": "http://lefigaro.fr/arts-expositions/2015/04/20/03015-20150420ARTFIG00286-markus-lpertz-peintre-sculpteur-en-mouvement.php"
         },
-        "journalauto.com/2015/04/peinture-un-fid%C3%A8le-reflet-de-l-activit%C3%A9-carrosserie-journal-automobile": {
-            "title": "Peinture - Un fid\u00e8le reflet de l'activit\u00e9 carrosserie - Journal de l'Automobile...",
-            "snippet": "Peinture - Un fid\u00e8le reflet de l'activit\u00e9 carrosserieJournal de l'AutomobilePeinture - Un fid\u00e8le reflet de l'activit\u00e9 carrosserie. Les concessionnaires ont toutes les cartes en main. Dans un march\u00e9 en constant recul, ils sont les mieux plac\u00e9s...",
+        "marieclairemaison.com/2015/04/peinture-mate-brillante-satin%C3%A9e-explications-sur-les-diff%C3%A9rentes-finitions": {
+            "title": "Peinture mate, brillante, satin\u00e9e: explications sur les diff\u00e9rentes finitions de peinture et leur...",
+            "snippet": "Peinture mate, brillante, satin\u00e9e: explications sur les diff\u00e9rentes finitions de peinture et leur...",
             "date": "2015-04-21",
-            "categories": "place,peinture",
-            "tags": "main,carrosserie,peinture,automobile",
-            "recuweb_url": "http://fr.recuweb.com/peinture/journalauto.com/2015/04/peinture-un-fid%C3%A8le-reflet-de-l-activit%C3%A9-carrosserie-journal-automobile",
-            "resource_url": "http://news.google.fr/?hl=fr&q=peinture&output=atom&nord=1",
-            "source_url": "http://journalauto.com/lja/article.view/22436/peinture-un-fidele-reflet-de-l-activite-carrosserie/2/equipementiers"
-        },
-        "midilibre.fr/2015/04/saint-privat-des-vieux-une-excellente-26%C3%A8me-exposition-peinture-midi-libre": {
-            "title": "Saint-Privat-des-Vieux: Une excellente 26\u00e8me exposition Peinture... - Midi Libre...",
-            "snippet": "Midi LibreSaint-Privat-des-Vieux: Une excellente 26\u00e8me exposition Peinture...Midi LibreQuelques 80 artistes locaux et r\u00e9gionaux, peintres et sculpteurs, en ont r\u00e9alis\u00e9 sa r\u00e9ussite, toujours dans un esprit de saines retrouvailles, pour ce grand...",
-            "date": "2015-04-20",
             "categories": "peinture",
-            "tags": "r\u00e9alis\u00e9,peintres,exposition,peinture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/midilibre.fr/2015/04/saint-privat-des-vieux-une-excellente-26%C3%A8me-exposition-peinture-midi-libre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=peinture&output=atom&nord=1",
-            "source_url": "http://midilibre.fr/2015/04/18/saint-privat-des-vieux-une-excellente-26eme-exposition-peinture-sculpture,1151785.php"
-        },
-        "lci.tf1.fr/2015/04/les-minions-d%C3%A9sormais-disponibles-en-pot-de-peinture-tf1": {
-            "title": "Les Minions d\u00e9sormais disponibles en pot de peinture - TF1...",
-            "snippet": "TF1Les Minions d\u00e9sormais disponibles en pot de peintureTF1La marque de peinture Pantone, dont les codes couleur sont bien connus des graphistes et des peintres, a travaill\u00e9 avec le studio Illumination Entertainment et la maison de production...",
-            "date": "2015-04-17",
-            "categories": "peinture",
-            "tags": "couleur,peintres,peinture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/lci.tf1.fr/2015/04/les-minions-d%C3%A9sormais-disponibles-en-pot-de-peinture-tf1",
-            "resource_url": "http://news.google.fr/?hl=fr&q=peinture%2Bpeinture&output=atom&nord=1",
-            "source_url": "http://lci.tf1.fr/insolite/les-minions-desormais-disponibles-en-pot-de-peinture-8595578.html"
+            "tags": "diff\u00e9rentes,peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/marieclairemaison.com/2015/04/peinture-mate-brillante-satin%C3%A9e-explications-sur-les-diff%C3%A9rentes-finitions",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=peinture&format=RSS&cc=fr",
+            "source_url": "http://marieclairemaison.com/,peinture-mate-brillante-satinee-explications-sur-les-differentes-finitions-de-peinture-et-leur-rendu,523623.asp"
         },
         "fr.news.yahoo.com/2015/03/gallet-lepaon-sarkozy-ces-tr%C3%A8s-chers-bureaux": {
             "title": "Gallet, Lepaon, Sarkozy: ces tr\u00e8s chers bureaux...",
