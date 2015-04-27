@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "playstation",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/playstation/",
@@ -10,37 +11,73 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/playstation/playstation/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/evolution-of-playstation-2": {
+            "title": "Evolution of PlayStation PlayStation 2...",
+            "snippet": "Evolution of PlayStation PlayStation 2Author: Millenium_TVTags: Evolution of PlayStation 2 Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "Millenium_TV",
+            "categories": "playstation",
+            "tags": "playstation",
+            "recuweb_url": "http://fr.recuweb.com/playstation/dailymotion.com/2015/04/evolution-of-playstation-2",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation+playstation/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nrp7a_evolution-of-playstation-playstation-2_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nrp7a_evolution-of-playstation-playstation-2_videogames"
+        },
+        "youtube.com/2015/04/playstation-5-&-gta-6-concept-online": {
+            "title": "PLAYSTATION 5 & GTA 6 CONCEPT - GTA 5 ONLINE...",
+            "snippet": "PLAYSTATION 5 & GTA 6 CONCEPT - GTA 5 ONLINE Lien de la Cha\u00eene Communautaire LaSalle: Braquages GTA 5 Online: T'es un vrai joueur de GTA 5... From: LaSalle Views: 101182 3739 ratings Time: 10:29 More in Gaming...",
+            "date": "2015-04-14",
+            "author_name": "LaSalle",
+            "categories": "playstation",
+            "tags": "playstation,gaming",
+            "recuweb_url": "http://fr.recuweb.com/playstation/youtube.com/2015/04/playstation-5-&-gta-6-concept-online",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=playstation%2Bplaystation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=7Tpw-gEjP3E&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/7Tpw-gEjP3E/0.jpg"
+        },
+        "dailymotion.com/2015/04/playstation-flow-le-poisson-d-avril": {
+            "title": "PlayStation Flow - Le poisson d'avril de Playstation!",
+            "snippet": "Voici le tout nouveau produit de Sony, le Playstation Flow, il vous permet de vous immerger compl\u00e8tement dans le jeu, vos mouvements dans l'eau sont reproduits directement dans le jeu, un petit exemple ici avec The Last of Us:: NewsDuNetTags:...",
+            "date": "2015-04-06",
+            "author_name": "NewsDuNet",
+            "categories": "playstation",
+            "tags": "jeu,avril,playstation",
+            "recuweb_url": "http://fr.recuweb.com/playstation/dailymotion.com/2015/04/playstation-flow-le-poisson-d-avril",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation+playstation/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lv91f_playstation-flow-le-poisson-d-avril-de-playstation_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lv91f_playstation-flow-le-poisson-d-avril-de-playstation_videogames"
+        },
         "youtube.com/2015/03/playstation-plus-les-jeux-gratuits-d-avril-2015": {
             "title": "PlayStation Plus: Les Jeux Gratuits d'Avril 2015...",
-            "snippet": "PlayStation Plus: Les Jeux Gratuits d'Avril 2015 D\u00e9couvrez tous les nouveaux jeux gratuits PS4, PS3 et PS Vita du PS Plus du mois d'Avril 2015! Abonne-toi Rejoins-nous sur Facebook From: JeuxActu Views: 11862 271 ratings Time: 02:32 More in Gaming...",
+            "snippet": "PlayStation Plus: Les Jeux Gratuits d'Avril 2015 D\u00e9couvrez tous les nouveaux jeux gratuits PS4, PS3 et PS Vita du PS Plus du mois d'Avril 2015! Abonne-toi Rejoins-nous sur Facebook From: JeuxActu Views: 13387 284 ratings Time: 02:29 More in Gaming...",
             "date": "2015-03-31",
             "author_name": "JeuxActu",
             "categories": "playstation,facebook",
-            "tags": "jeux,playstation,facebook,gaming",
+            "tags": "vita,jeux,playstation,avril,facebook,gaming",
             "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2015/03/playstation-plus-les-jeux-gratuits-d-avril-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=playstation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=playstation%2Bplaystation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=-vN1HRiaJx8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/-vN1HRiaJx8/0.jpg"
         },
-        "youtube.com/2015/03/20-ans-de-playstation-en-anecdotes": {
-            "title": "20 ans de Playstation en 20 anecdotes...",
-            "snippet": "20 ans de Playstation en 20 anecdotes Partagez nos vid\u00e9os et rejoignez nous sur: Notre site: Facebook: On se retrouve aujourd'hui pour f\u00eater les... From: WizGamerz Views: 67590 2648 ratings Time: 12:01 More in Gaming...",
-            "date": "2015-03-18",
-            "author_name": "WizGamerz",
-            "categories": "playstation,facebook",
-            "tags": "hui,aujourd,playstation,facebook,gaming",
-            "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2015/03/20-ans-de-playstation-en-anecdotes",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=playstation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=2hbL0eaXfHQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2hbL0eaXfHQ/0.jpg"
+        "dailymotion.com/2015/03/playstation-plus-bande-annonce-des-jeux-d-avril-2015": {
+            "title": "PlayStation Plus: bande annonce des jeux d'avril 2015...",
+            "snippet": "Lire la suite sur Follow us: gameblog on Twitter on Facebook Author: GameblogTags: ps3 ps-vita ps4 playstation-plus Posted: 31 March 2015Rating:: 0...",
+            "date": "2015-03-31",
+            "author_name": "Gameblog",
+            "categories": "facebook,playstation,twitter",
+            "tags": "vita,facebook,bande,annonce,jeux,playstation,avril,twitter",
+            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2015/03/playstation-plus-bande-annonce-des-jeux-d-avril-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lafam_playstation-plus-bande-annonce-des-jeux-d-avril-2015_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lafam_playstation-plus-bande-annonce-des-jeux-d-avril-2015_videogames"
         },
         "youtube.com/2015/01/ps3-ps4-astuce-avoir-14-jours-de-playstation-plus-gratuitement-nouvelle": {
             "title": "(PS3/PS4) ASTUCE - Avoir 14 jours de PlayStation Plus gratuitement! (nouvelle m\u00e9thode)...",
-            "snippet": "(PS3/PS4) ASTUCE - Avoir 14 jours de PlayStation Plus gratuitement! (nouvelle m\u00e9thode) Salut tout le monde c'est Sousou! Bienvenue aujourd'hui pour une nouvelle vid\u00e9o qui est une petite astuce vous permettant d'avoir 14 jours de PlayStation Pl...",
+            "snippet": "(PS3/PS4) ASTUCE - Avoir 14 jours de PlayStation Plus gratuitement! (nouvelle m\u00e9thode) Salut tout le monde c'est Sousou! Bienvenue aujourd'hui pour une nouvelle vid\u00e9o qui est une petite astuce vous permettant d'avoir 14 jours de PlayStation Plus...",
             "date": "2015-01-09",
             "author_name": "sousou95YT",
             "categories": "playstation",
-            "tags": "hui,playstation,aujourd",
+            "tags": "playstation",
             "recuweb_url": "http://fr.recuweb.com/playstation/youtube.com/2015/01/ps3-ps4-astuce-avoir-14-jours-de-playstation-plus-gratuitement-nouvelle",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=playstation%2Bplaystation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=BdGpjyLlx9c&feature=youtube_gdata",
@@ -60,11 +97,11 @@
         },
         "youtube.com/2014/12/playstation-experience-la-conf%C3%A9rence-comment%C3%A9e-jeux-vid%C3%A9o-par-gamekult": {
             "title": "PlayStation Experience: la conf\u00e9rence comment\u00e9e Jeux vid\u00e9o par Gamekult...",
-            "snippet": "PlayStation Experience: la conf\u00e9rence comment\u00e9e Jeux vid\u00e9o par Gamekult Tests, news, astuces, soluces, forum: toute l'actu des jeux vid\u00e9o sur Suivez l'actualit\u00e9 du jeu vid\u00e9o avec Gamekult: Twitter: http... From: Gamekult Views: 3696 61 ratings...",
+            "snippet": "PlayStation Experience: la conf\u00e9rence comment\u00e9e Jeux vid\u00e9o par Gamekult Tests, news, astuces, soluces, forum: toute l'actu des jeux vid\u00e9o sur Suivez l'actualit\u00e9 du jeu vid\u00e9o avec Gamekult: Twitter: From: Gamekult Views: 3962 62 ratings Time:...",
             "date": "2014-12-08",
             "author_name": "Gamekult",
             "categories": "playstation,twitter",
-            "tags": "jeux,conf\u00e9rence,playstation,playstation_experience,experience,\u00e9e,gamekult",
+            "tags": "jeu,jeux,conf\u00e9rence,playstation,playstation_experience,experience,\u00e9e,gamekult,twitter",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2014/12/playstation-experience-la-conf%C3%A9rence-comment%C3%A9e-jeux-vid%C3%A9o-par-gamekult",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=playstation%2Bplaystation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Hu5XwniiJtA&feature=youtube_gdata",
@@ -76,7 +113,7 @@
             "date": "2014-12-06",
             "author_name": "Gamekult",
             "categories": "playstation",
-            "tags": "bande,bande_annonce,annonce,trailer,playstation,playstation_experience,experience,gamekulttags",
+            "tags": "bande,annonce,trailer,playstation,playstation_experience,experience,gamekulttags",
             "recuweb_url": "http://fr.recuweb.com/playstation/dailymotion.com/2014/12/final-fantasy-vii-trailer-playstation-experience",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation/0?af=1",
             "source_url": "http://dailymotion.com/video/x2bxitm_final-fantasy-vii-trailer-playstation-experience_videogames",
@@ -93,42 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation/0?af=1",
             "source_url": "http://dailymotion.com/video/x2bxig1_playstation-experience-la-conference-commentee_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2bxig1_playstation-experience-la-conference-commentee_videogames"
-        },
-        "dailymotion.com/2014/12/playstation-experience-nos-impressions": {
-            "title": "Playstation Experience: nos impressions...",
-            "snippet": "Playstation Experience: nos impressionsAuthor: GamekultTags: Reportage Posted: 06 December 2014Rating:: 0...",
-            "date": "2014-12-06",
-            "author_name": "Gamekult",
-            "categories": "playstation",
-            "tags": "playstation,playstation_experience,experience,gamekulttags",
-            "recuweb_url": "http://fr.recuweb.com/playstation/dailymotion.com/2014/12/playstation-experience-nos-impressions",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2bujyb_playstation-experience-nos-impressions_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bujyb_playstation-experience-nos-impressions_videogames"
-        },
-        "dailymotion.com/2014/12/street-fighter-v-playstation-experience-gameplay-trailer": {
-            "title": "Street Fighter V - PlayStation Experience Gameplay Trailer...",
-            "snippet": "Street Fighter V (PlayStation 4) - PlayStation Experience Gameplay TrailerAuthor: GamekultTags: Bande Annonce Posted: 06 December 2014Rating:: 0...",
-            "date": "2014-12-06",
-            "author_name": "Gamekult",
-            "categories": "playstation",
-            "tags": "bande,bande_annonce,annonce,experience,experience_gameplay,gameplay,playstation,playstation_experience,playstation_experience_gameplay,trailer,gamekulttags",
-            "recuweb_url": "http://fr.recuweb.com/playstation/dailymotion.com/2014/12/street-fighter-v-playstation-experience-gameplay-trailer",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2bxbtb_street-fighter-v-playstation-experience-gameplay-trailer_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bxbtb_street-fighter-v-playstation-experience-gameplay-trailer_videogames"
-        },
-        "dailymotion.com/2014/12/uncharted-4-a-thief-s-end-playstation-experience-gameplay-video": {
-            "title": "Uncharted 4: A Thief's End - PlayStation Experience Gameplay Video...",
-            "snippet": "Uncharted 4: A Thief's End (PlayStation 4) - PlayStation Experience Gameplay VideoAuthor: GamekultTags: Bande Annonce Posted: 06 December 2014Rating:: 0...",
-            "date": "2014-12-06",
-            "author_name": "Gamekult",
-            "categories": "playstation",
-            "tags": "bande,bande_annonce,annonce,experience,experience_gameplay,gameplay,playstation,playstation_experience,playstation_experience_gameplay,gamekulttags",
-            "recuweb_url": "http://fr.recuweb.com/playstation/dailymotion.com/2014/12/uncharted-4-a-thief-s-end-playstation-experience-gameplay-video",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/playstation/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2bx8l5_uncharted-4-a-thief-s-end-playstation-experience-gameplay-video_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bx8l5_uncharted-4-a-thief-s-end-playstation-experience-gameplay-video_videogames"
         }
     }
 }
