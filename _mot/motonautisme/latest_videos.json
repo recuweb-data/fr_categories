@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "motonautisme",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/motonautisme/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/motonautisme/motonautisme/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/03/motonautisme-p1-superstock-2010": {
+            "title": "Motonautisme - P1 Superstock 2010...",
+            "snippet": "Motonautisme - P1 Superstock 2010, Emission...: bande-annonce-filmTags: Posted: 20 March 2015Rating:: 0...",
+            "date": "2015-03-20",
+            "author_name": "bande-annonce-film",
+            "categories": "motonautisme",
+            "tags": "motonautisme",
+            "recuweb_url": "http://fr.recuweb.com/motonautisme/dailymotion.com/2015/03/motonautisme-p1-superstock-2010",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/motonautisme+motonautisme/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2k4k0z_motonautisme-p1-superstock-2010_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2k4k0z_motonautisme-p1-superstock-2010_shortfilms"
+        },
         "youtube.com/2014/09/motonautisme-sous-chutes-d-iguazu-awesome-incroyable-boat-ride": {
             "title": "Motonautisme Sous Chutes d'Iguazu (Awesome!!) Chutes d'Iguazu incroyable Boat Ride...",
             "snippet": "Motonautisme Sous Chutes d'Iguazu (Awesome!!) Chutes d'Iguazu incroyable Boat Ride Cascade (g\u00e9ographique Feature Cat\u00e9gorie) parc national d'Iguaz\u00fa (site prot\u00e9g\u00e9) Iguazu Falls (cascade) River Falls Iguazu du patrimoine mondial (rivi\u00e8re)...",
             "date": "2014-09-23",
             "author_name": "J Hawk Daily HD",
             "categories": "motonautisme",
-            "tags": "cat\u00e9gorie,motonautisme",
+            "tags": "motonautisme",
             "recuweb_url": "http://fr.recuweb.com/motonautisme/youtube.com/2014/09/motonautisme-sous-chutes-d-iguazu-awesome-incroyable-boat-ride",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=motonautisme%2Bmotonautisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=uv8gtAxh6ns&feature=youtube_gdata",
@@ -25,7 +37,7 @@
         },
         "youtube.com/2014/09/championnat-de-france-motonautisme-a-seurre-2014": {
             "title": "Championnat de france de motonautisme a Seurre 2014...",
-            "snippet": "Championnat de france de motonautisme a Seurre 2014 video des essais libre et chrono du championnat ui c'est deroule a Seurre dans le 21 le 20 et 31 Aout 2014 retrouver les photo sur le forum. From: david herchuel Views: 231 1 ratings Time: 02:36...",
+            "snippet": "Championnat de france de motonautisme a Seurre 2014 video des essais libre et chrono du championnat ui c'est deroule a Seurre dans le 21 le 20 et 31 Aout 2014 retrouver les photo sur le forum. From: david herchuel Views: 246 2 ratings Time: 02:36...",
             "date": "2014-09-02",
             "author_name": "david herchuel",
             "categories": "motonautisme",
@@ -77,7 +89,7 @@
             "date": "2012-10-27",
             "author_name": "Voilesnews",
             "categories": "motonautisme",
-            "tags": "lors,motonautisme",
+            "tags": "motonautisme",
             "recuweb_url": "http://fr.recuweb.com/motonautisme/dailymotion.com/2012/10/12-2008-nouveaut%C3%A9s-en-motonautisme-au-nautic-de-paris",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/motonautisme+motonautisme/0?af=1",
             "source_url": "http://dailymotion.com/video/xuncp7_12-12-2008-nouveautes-en-motonautisme-au-nautic-de-paris-2008_sport",
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=motonautisme%2Bmotonautisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=tyaKwyoGB_0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/tyaKwyoGB_0/0.jpg"
-        },
-        "dailymotion.com/2011/02/motonautisme-caen-2010": {
-            "title": "Motonautisme Caen 2010...",
-            "snippet": "Finale de la cat\u00e9gorie reine (S3000) lors du motonautisme de Caen: SimcamanTags: Motonautisme Caen 2010 Posted: 20 February 2011Rating:: 0...",
-            "date": "2011-02-20",
-            "author_name": "Simcaman",
-            "categories": "motonautisme",
-            "tags": "lors,motonautisme,cat\u00e9gorie",
-            "recuweb_url": "http://fr.recuweb.com/motonautisme/dailymotion.com/2011/02/motonautisme-caen-2010",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/motonautisme+motonautisme/0?af=1",
-            "source_url": "http://dailymotion.com/video/xh4db2_motonautisme-caen-2010_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xh4db2_motonautisme-caen-2010_sport"
         }
     }
 }
