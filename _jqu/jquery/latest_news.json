@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "jquery",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jquery/",
@@ -10,72 +11,92 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
+        "hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release": {
+            "title": "JQuery Foundation Launches Globalize V 1.0 - (press release)...",
+            "snippet": "JQuery Foundation Launches Globalize V (press release)Walnut, CA. (PRWEB) April 23, 2015 - The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers...",
+            "date": "2015-04-23",
+            "categories": "jquery",
+            "tags": "jquery,jquery_foundation,foundation",
+            "recuweb_url": "http://fr.recuweb.com/jquery/hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jquery&output=atom&nord=1",
+            "source_url": "http://hostreview.com/news/150423-jquery-foundation-launches-globalize-v-10"
+        },
         "programmez.com/2015/04/offre-d-emploi": {
             "title": "Offre d'emploi...",
-            "snippet": "Vous connaissez \u00e9galement les technologies telles (Framework 3.5), jQuery, JS, CSS, DOM et XML. Rigoureux (se) et organis\u00e9 (e), vous avez lesprit danalyse et de synth\u00e8se ainsi que le go\u00fbt du travail en \u00e9quipe. Force de proposition...",
-            "date": "2015-04-13",
-            "categories": "technologie,emploi,jquery,css",
-            "tags": "technologies,framework,jquery,css",
-            "recuweb_url": "http://fr.recuweb.com/css/programmez.com/2015/04/offre-d-emploi",
+            "snippet": "Vous avez de tr\u00e8s bonnes comp\u00e9tences en PHP5, MySQL, HTML, CSS3, Javascript et Jquery. Vous avez de bonnes connaissances d'un framework MVC. Vous parlez anglais couramment. Vous \u00eates reconnu(e) pour votre rigueur et votre autonomie. Vous \u00eates...",
+            "date": "2015-04-23",
+            "categories": "connaissance,emploi,php,mysql,css,javascript,jquery",
+            "tags": "\u00eates,comp\u00e9tences,php,html,javascript,jquery,framework",
+            "recuweb_url": "http://fr.recuweb.com/jquery/programmez.com/2015/04/offre-d-emploi",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
-            "source_url": "http://programmez.com/emploi-detail/JHR83X6MX40C876NRCT"
+            "source_url": "http://programmez.com/emploi-detail/J3J0HX6N4XS8DBMH7TB"
         },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-web-h-f": {
-            "title": "D\u00e9veloppeur Web H/F...",
-            "snippet": "D\u00e9veloppement web obligatoire (Ruby On Rails,PHP, HTML, CSS), Bon niveau en Bootstrap,/Javascript (jQuery). Connaissance des bases de donn\u00e9es relationnelles MySQL et NoSQL, Connaissances UML et/ou bonne sensibilisation aux m\u00e9thodes de...",
-            "date": "2015-04-10",
-            "categories": "connaissance,php,css,javascript,jquery,mysql",
-            "tags": "bonne,niveau,d\u00e9veloppement,php,html,css,bootstrap,javascript,jquery,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-web-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Web++HF/29897"
-        },
-        "phpmagazin.de/2015/04/insights-kommentierte-version-des-ersten-jquery-releases-php-magazin": {
-            "title": "Insights: Kommentierte Version des ersten jQuery-Releases - php magazin...",
-            "snippet": "Insights: Kommentierte Version des ersten jQuery-Releasesphp magazinIm Annotated jQuery Release bietet John Resig, der Initiator der JavaScript-Bibliothek, Einblicke in die Entstehung von jQuery. Zum Einsatz kommt dabei Genius, ein Dienst, mit dem...",
-            "date": "2015-04-08",
-            "categories": "php,jquery,javascript",
-            "tags": "php,jquery,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/phpmagazin.de/2015/04/insights-kommentierte-version-des-ersten-jquery-releases-php-magazin",
+        "linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres": {
+            "title": "jQuery (9) funkce jako parametr - LinuxEXPRES...",
+            "snippet": "jQuery (9) funkce jako parametrLinuxEXPRESP\u00edklad piad\u00ed k dal\u00edmu pouit\u00ed do promnn\u00e9 a instanci jQuery s vyfiltrovan\u00fdmi objekty odkaz. Nejprve si definujeme funkci myFilter(), kter\u00e1 bude zajiovat filtraci. V tomto p\u00edpad funguje tak, e prvn\u00ed...",
+            "date": "2015-04-21",
+            "categories": "jquery",
+            "tags": "jquery",
+            "recuweb_url": "http://fr.recuweb.com/jquery/linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres",
             "resource_url": "http://news.google.fr/?hl=fr&q=jquery&output=atom&nord=1",
-            "source_url": "http://phpmagazin.de/news/annotated-jquery-release-179342"
+            "source_url": "http://linuxexpres.cz/software/jquery-9-funkce-jako-parametr"
         },
-        "emploi.silicon.fr/2015/04/ing%C3%A9nieur-etudes-et-d%C3%A9veloppement-php-zend-h-f-cdi-ile": {
-            "title": "Ing\u00e9nieur Etudes et D\u00e9veloppement PHP Zend H/F - CDI - Ile de France...",
-            "snippet": "Dipl\u00f4m\u00e9 d'une Ecole d'ing\u00e9nieur ou d'un Master 2, vous justifiez d'une exp\u00e9rience significative d'au moins cinq ans en d\u00e9veloppement sur ce type de technologies: PHP Zend 1 et 2 Jquery, javascript, bootstrap Une bonne maitrise de sql, mysql...",
-            "date": "2015-04-07",
-            "categories": "php,technologie,jquery,javascript,mysql",
-            "tags": "bonne,php,technologies,d\u00e9veloppement,jquery,javascript,bootstrap,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/emploi.silicon.fr/2015/04/ing%C3%A9nieur-etudes-et-d%C3%A9veloppement-php-zend-h-f-cdi-ile",
+        "emploi.silicon.fr/2015/04/consultant-nouvelles-technologies-en-alternance-h-f-cdi-brest": {
+            "title": "CONSULTANT NOUVELLES TECHNOLOGIES EN ALTERNANCE (H/F) - CDI - Brest...",
+            "snippet": "Vous pr\u00e9parez un dipl\u00f4me Bac 5 en Informatique et vous: - \u00eates passionn\u00e9(e) par les Nouvelles technologies et souhaitez d\u00e9velopper vos comp\u00e9tences en d\u00e9veloppement J2EE, JQuery, REST, JSON, HTML5, PHP, LAMP, Play, applications mobile, iOS...",
+            "date": "2015-04-20",
+            "categories": "technologie,jquery,php,play",
+            "tags": "comp\u00e9tences,\u00eates,d\u00e9veloppement,jquery,html,php,applications,mobile",
+            "recuweb_url": "http://fr.recuweb.com/play/emploi.silicon.fr/2015/04/consultant-nouvelles-technologies-en-alternance-h-f-cdi-brest",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/414175/ingenieur-etudes-et-developpement-php-zend-hf/"
+            "source_url": "http://emploi.silicon.fr/449609/consultant-nouvelles-technologies-en-alternance-hf/"
+        },
+        "imasters.com.br/2015/04/entendendo-o-event-delegation-da-fun%C3%A7%C3%A3o-on-no-jquery-imasters": {
+            "title": "Entendendo o Event Delegation da fun\u00e7\u00e3o on() no jQuery - iMasters...",
+            "snippet": "iMastersEntendendo o Event Delegation da fun\u00e7\u00e3o on() no jQueryiMastersGeralmente uma delega\u00e7\u00e3o, que seria a uma tradu\u00e7\u00e3o livre para delegation, significa definir um evento para um elemento pai, que ser\u00e1 disparado para todos os seus filhos. O...",
+            "date": "2015-04-16",
+            "categories": "jquery",
+            "tags": "jquery",
+            "recuweb_url": "http://fr.recuweb.com/jquery/imasters.com.br/2015/04/entendendo-o-event-delegation-da-fun%C3%A7%C3%A3o-on-no-jquery-imasters",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jquery&output=atom&nord=1",
+            "source_url": "http://imasters.com.br/front-end/jquery/entendendo-o-event-delegation-da-funcao-on-no-jquery/?trace=1519021197&source=home"
+        },
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-front-h-f": {
+            "title": "D\u00e9veloppeur Front H/F...",
+            "snippet": "Tu es un ninja du javascript, JQuery na plus de secret pour toi et tu nh\u00e9sites pas a envoyer des gamelles au babyfoot? Les missions que te proposes le p\u00f4le CRO sont faites pour toi! Sous la direction du Directeur Technique, tu auras la...",
+            "date": "2015-04-15",
+            "categories": "javascript,jquery",
+            "tags": "javascript,jquery",
+            "recuweb_url": "http://fr.recuweb.com/jquery/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-front-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Front+HF/29961"
+        },
+        "jobs.electronicsweekly.com/2015/04/full-stack-web-developer-javascript-angularjs-jquery-html5": {
+            "title": "Full-stack Web Developer (JavaScript, AngularJS, jQuery, HTML5) -...",
+            "snippet": "Full-stack Web Developer (JavaScript, AngularJS, jQuery, HTML5) have an amazing opportunity for an experienced full-stack web developer to join my client in Berlin, Germany. The company's main product is an innovative software solution that allows...",
+            "date": "2015-04-14",
+            "categories": "javascript,jquery",
+            "tags": "that,developer,javascript,jquery,html",
+            "recuweb_url": "http://fr.recuweb.com/jquery/jobs.electronicsweekly.com/2015/04/full-stack-web-developer-javascript-angularjs-jquery-html5",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jquery&output=atom&nord=1",
+            "source_url": "http://jobs.electronicsweekly.com/job/1401419104/full-stack-web-developer-javascript-angularjs-jquery-html5-/"
         },
         "programmableweb.com/2015/04/how-to-configure-and-interrogate-the-pixlr-api-with-jquery-programmableweb": {
             "title": "How To Configure And Interrogate The Pixlr API With jQuery - ProgrammableWeb...",
             "snippet": "How To Configure And Interrogate The Pixlr API With jQueryProgrammableWebWhile the article is relatively light and primarily focuses on a snippet-like offering, it does have a jQuery example at the end that calls the API directly, demonstrating how...",
             "date": "2015-04-06",
             "categories": "jquery",
-            "tags": "jquery",
+            "tags": "that,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/programmableweb.com/2015/04/how-to-configure-and-interrogate-the-pixlr-api-with-jquery-programmableweb",
             "resource_url": "http://news.google.fr/?hl=fr&q=jquery&output=atom&nord=1",
             "source_url": "http://programmableweb.com/news/how-to-configure-and-interrogate-pixlr-api-jquery/how-to/2015/04/06"
-        },
-        "commentcamarche.net/2015/04/je-veux-afficher-select-quand-clique-sur-une-div": {
-            "title": "Je veux afficher 'select'quand je clique sur une div!",
-            "snippet": "J'ai trouv\u00e9 \u00e7a: Mais \u00e7a ne fonctionne pas chez moi. Enfin oui, sur jsfiddle \u00e7a fonctionne, mais quand je le retranscris sur notepad (jQuery), \u00e7a ne fonctionne pas!",
-            "date": "2015-04-03",
-            "categories": "jquery",
-            "tags": "jquery",
-            "recuweb_url": "http://fr.recuweb.com/jquery/commentcamarche.net/2015/04/je-veux-afficher-select-quand-clique-sur-une-div",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31787754-je-veux-afficher-select-quand-je-clique-sur-une-div"
         },
         "appdevelopermagazine.com/2015/03/and-jquery-foundation-to-host-sf-2015-conference-app-developer-magazine": {
             "title": "and jQuery Foundation to host jQuery SF 2015 Conference... - App Developer Magazine...",
             "snippet": "App Developer and jQuery Foundation to host jQuery SF 2015 Conference...App Developer and jQuery Foundation the will host the jQuery SF 2015 conference in San Francisco, California on June 22nd and 23rd at the Regency Ballroom in San Francisco. The...",
             "date": "2015-03-28",
             "categories": "jquery",
-            "tags": "jquery",
+            "tags": "developer,jquery,jquery_foundation,foundation",
             "recuweb_url": "http://fr.recuweb.com/jquery/appdevelopermagazine.com/2015/03/and-jquery-foundation-to-host-sf-2015-conference-app-developer-magazine",
             "resource_url": "http://news.google.fr/?hl=fr&q=jquery&output=atom&nord=1",
             "source_url": "http://appdevelopermagazine.com/2585/2015/3/28/Famo.us-and-jQuery-Foundation-to-host-jQuery-SF-2015-Conference-June-22-and-23/"
