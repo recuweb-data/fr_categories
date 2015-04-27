@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "apple-hardware",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/apple-hardware/",
@@ -10,32 +11,43 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
     },
     "items": {
-        "zdnet.fr/2015/02/samsung-galaxy-s6-l-innovation-hardware-ne-suffira-pas-zdnet-france": {
-            "title": "Samsung Galaxy S6: ''l'innovation hardware ne suffira pas - ZDNet France...",
-            "snippet": "Samsung Galaxy S6: ''l'innovation hardware ne suffira pas\"ZDNet FranceOn le sait, Samsung joue gros avec la pr\u00e9sentation de son nouveau terminal haut de gamme, le Galaxy S6. Pris en tenaille entre Apple dans le haut de gamme et les fabricants...",
-            "date": "2015-02-24",
-            "tags": "hardware,apple",
-            "recuweb_url": "http://fr.recuweb.com/zdnet.fr/2015/02/samsung-galaxy-s6-l-innovation-hardware-ne-suffira-pas-zdnet-france",
+        "seekingalpha.com/2015/04/apple-ibm-an-engagement-focused-on-healthcare-analytics-seeking-alpha": {
+            "title": "Apple, IBM: An Engagement Focused On Healthcare Analytics - Seeking Alpha...",
+            "snippet": "Apple, IBM: An Engagement Focused On Healthcare AnalyticsSeeking AlphaWhen Apple and IBM announced a partnership last summer to transform enterprise mobility, my first impression was that the deal would be primarily focused on pushing Apple hardware...",
+            "date": "2015-04-24",
+            "tags": "enterprise,apple,ibm,hardware",
+            "recuweb_url": "http://fr.recuweb.com/seekingalpha.com/2015/04/apple-ibm-an-engagement-focused-on-healthcare-analytics-seeking-alpha",
             "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://zdnet.fr/actualites/samsung-galaxy-s6-l-innovation-hardware-ne-suffira-pas-39815182.htm"
+            "source_url": "http://seekingalpha.com/article/3098896-apple-ibm-an-engagement-focused-on-healthcare-analytics"
         },
-        "automatiseringgids.nl/2015/02/apple-maakt-iwork-beschikbaar-op-non-hardware-automatisering-gids": {
-            "title": "Apple maakt iWork beschikbaar op non-Apple hardware - Automatisering Gids...",
-            "snippet": "Apple maakt iWork beschikbaar op non-Apple hardwareAutomatisering GidsApple had zijn programma's voor tekstverwerking (Pages), presentaties (Keynote) en spreadsheets (Numbers) tot nog toe alleen bereikbaar voor bezitters van een Mac of...",
-            "date": "2015-02-17",
-            "tags": "apple,iwork,hardware,mac",
-            "recuweb_url": "http://fr.recuweb.com/automatiseringgids.nl/2015/02/apple-maakt-iwork-beschikbaar-op-non-hardware-automatisering-gids",
+        "cnet.com/2015/04/cnet-s-on-the-apple-watch": {
+            "title": "CNET's on the Apple Watch - CNET...",
+            "snippet": "CNETCNET's on the Apple WatchCNETIf you're one of the more than one million customers who preordered an Apple Watch and your hardware shows up today, you're in luck: if you've updated the CNET app on your iPhone, you already have access to the CNET...",
+            "date": "2015-04-24",
+            "categories": "iphone",
+            "tags": "apple,hardware",
+            "recuweb_url": "http://fr.recuweb.com/iphone/cnet.com/2015/04/cnet-s-on-the-apple-watch",
             "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://automatiseringgids.nl/nieuws/2015/08/apple-maakt-iworks-beschikbaar-op-non-apple-os"
+            "source_url": "http://cnet.com/news/cnet-apple-watch-app/"
         },
-        "computerbild.de/2015/02/iwork-f%C3%BCr-icloud-ab-sofort-auch-nutzer-ohne-apple-hardware-computer": {
-            "title": "iWork f\u00fcr iCloud: Ab sofort auch f\u00fcr Nutzer ohne Apple-Hardware - COMPUTER BILD...",
-            "snippet": "COMPUTER BILDiWork f\u00fcr iCloud: Ab sofort auch f\u00fcr Nutzer ohne Apple-HardwareCOMPUTER BILDiWork f\u00fcr iCloud: Ab sofort auch f\u00fcr Nutzer ohne Apple-Hardware. von Christian Blum., 15:02 Uhr Apple \u00f6ffnet die iCloud und erlaubt die Registrierung neuer...",
-            "date": "2015-02-16",
-            "tags": "iwork,apple,hardware",
-            "recuweb_url": "http://fr.recuweb.com/computerbild.de/2015/02/iwork-f%C3%BCr-icloud-ab-sofort-auch-nutzer-ohne-apple-hardware-computer",
-            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://computerbild.de/artikel/cb-News-Internet-iWork-fuer-iCloud-gratis-ohne-Apple-ID-11433004.html"
+        "military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies": {
+            "title": "Technology Hardware, Storage and Peripherals Stocks Review... - Military Technologies...",
+            "snippet": "Technology Hardware, Storage and Peripherals Stocks Review...Military TechnologiesInvestor-Edge has initiated coverage on the following equities: Apple Inc. (NASDAQ: AAPL), Hewlett-Packard Company (NYSE: HPQ), SanDisk Corporation (NASDAQ: SNDK),...",
+            "date": "2015-04-24",
+            "categories": "technologie",
+            "tags": "apple,technology,hardware",
+            "recuweb_url": "http://fr.recuweb.com/technologie/military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies",
+            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://military-technologies.net/2015/04/24/technology-hardware-storage-and-peripherals-stocks-review-apple-hewlett-packard-sandisk-seagate-technology-and-qlogic/"
+        },
+        "hardwareluxx.de/2015/04/ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus-hardwareluxx": {
+            "title": "IBM wertet mit Apple-Hardware gesammelte Gesundheitsdaten aus - HardwareLuxx...",
+            "snippet": "IBM wertet mit Apple-Hardware gesammelte Gesundheitsdaten ausHardwareLuxxibm 2014 Die Zusammenarbeit zwischen Apple und IBM wird weiter ausgebaut. Nachdem die beiden Unternehmen bereits im Bereich Enterprise-L\u00f6sungen kooperieren, soll nun der...",
+            "date": "2015-04-14",
+            "tags": "enterprise,ibm,apple,hardware",
+            "recuweb_url": "http://fr.recuweb.com/hardwareluxx.de/2015/04/ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus-hardwareluxx",
+            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://hardwareluxx.de/index.php/news/allgemein/wirtschaft/34935-ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus.html"
         }
     }
 }
