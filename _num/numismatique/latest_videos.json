@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "numismatique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/numismatique/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/numismatique/numismatique/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/03/tr%C3%A9sor-s-de-f%C3%A9camp": {
+            "title": "Tr\u00e9sor(s) de F\u00e9camp...",
+            "snippet": "Le r\u00e9colement des milliers de monnaies et m\u00e9dailles que compte notre collection par un sp\u00e9cialiste, est l'occasion pour le Mus\u00e9e de F\u00e9camp de pr\u00e9senter au public sa riche collection numismatique. Cette exposition comportera notamment la...",
+            "date": "2015-03-30",
+            "author_name": "VilledeFecamp",
+            "categories": "collection,numismatique",
+            "tags": "pr\u00e9senter,collection,numismatique,occasion",
+            "recuweb_url": "http://fr.recuweb.com/numismatique/dailymotion.com/2015/03/tr%C3%A9sor-s-de-f%C3%A9camp",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/numismatique+numismatique/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2l5arc_tresor-s-de-fecamp_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2l5arc_tresor-s-de-fecamp_news"
+        },
         "dailymotion.com/2015/02/la-nouvelle-pi%C3%A8ce-de-15": {
             "title": "La nouvelle pi\u00e8ce de 15...",
             "snippet": "Apparition de la nouvelle pi\u00e8ce de 15 en France. Un joyeux numismate est fier de nous pr\u00e9senter sa pi\u00e8ce nouvellement acquise. Author: ipecaTags: pi\u00e8ce euro euros quinze nouvelle poste collectionneur numismatique Posted: 20 February 2015Rating::...",
             "date": "2015-02-20",
             "author_name": "ipeca",
             "categories": "numismatique",
-            "tags": "collectionneur,numismatique,pi\u00e8ce,france",
+            "tags": "collectionneur,numismatique,pi\u00e8ce,pr\u00e9senter,france",
             "recuweb_url": "http://fr.recuweb.com/numismatique/dailymotion.com/2015/02/la-nouvelle-pi%C3%A8ce-de-15",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/numismatique+numismatique/0?af=1",
             "source_url": "http://dailymotion.com/video/x6rkbj_la-nouvelle-piece-de-15e_news",
@@ -24,7 +37,7 @@
         },
         "youtube.com/2014/08/comment-faire-pour-imprimer-vos-propres-emballages-numismatique": {
             "title": "Comment faire pour imprimer vos propres emballages Numismatique...",
-            "snippet": "Comment faire pour imprimer vos propres emballages Numismatique From: les types de fichiers et extensions Views: 25 0 ratings Time: 03:19 More in Howto & Style...",
+            "snippet": "Comment faire pour imprimer vos propres emballages Numismatique From: les types de fichiers et extensions Views: 36 0 ratings Time: 03:19 More in Howto & Style...",
             "date": "2014-08-28",
             "author_name": "les types de fichiers et extensions",
             "categories": "numismatique",
@@ -46,21 +59,9 @@
             "source_url": "http://dailymotion.com/video/x21s62d_nouveau-logo-du-blog-la-soupe-d-infos_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x21s62d_nouveau-logo-du-blog-la-soupe-d-infos_tech"
         },
-        "youtube.com/2014/07/la-boutique-numismatique-de-rive-sud": {
-            "title": "la boutique numismatique de la rive sud...",
-            "snippet": "la boutique numismatique de la rive sud LA MONNAIE D ECHANGE DZHIER A AUJOURDHUI, 196 BOUL, CHURCHILL, GREENFIELD PARK J4V-2M4 438-792-8213 OU LE 514 773-7628. From: Jean Ledoux Views: 36 0 ratings Time: 01:09 More in Film & Animation...",
-            "date": "2014-07-20",
-            "author_name": "Jean Ledoux",
-            "categories": "numismatique",
-            "tags": "jean,monnaie,numismatique",
-            "recuweb_url": "http://fr.recuweb.com/numismatique/youtube.com/2014/07/la-boutique-numismatique-de-rive-sud",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=numismatique%2Bnumismatique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=IJ_9m_rcHnY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IJ_9m_rcHnY/0.jpg"
-        },
         "youtube.com/2014/06/cabinet-numismatique-france-collection": {
             "title": "Cabinet Numismatique France collection...",
-            "snippet": "Cabinet Numismatique France collection - Cabinet Numismatique France collection. From: PJDroitFinance Views: 76 0 ratings Time: 01:46 More in Howto & Style...",
+            "snippet": "Cabinet Numismatique France collection - Cabinet Numismatique France collection. From: PJDroitFinance Views: 89 0 ratings Time: 01:46 More in Howto & Style...",
             "date": "2014-06-03",
             "author_name": "PJDroitFinance",
             "categories": "numismatique,collection",
@@ -72,11 +73,11 @@
         },
         "youtube.com/2014/04/etudier-une-source-numismatique-un-stat%C3%A8re-grec-du-ive-si%C3%A8cle-av": {
             "title": "Etudier une source numismatique: un stat\u00e8re grec du IVe si\u00e8cle av..",
-            "snippet": "Etudier une source numismatique: un stat\u00e8re grec du IVe si\u00e8cle av.. Enseigner l'histoire 165. Le\u00e7on film\u00e9e (2014). D251 Titre original: \"Didactique de l'histoire: comp\u00e9tences. Etudier une source numismatique: un stat\u00e8re gr... From: Jean-Michel...",
+            "snippet": "Etudier une source numismatique: un stat\u00e8re grec du IVe si\u00e8cle av.. Enseigner l'histoire 165. Le\u00e7on film\u00e9e (2014). D251 Titre original: \"Didactique de l'histoire: comp\u00e9tences. Etudier une source numismatique: un stat\u00e8re grec du IVe si\u00e8cle...",
             "date": "2014-04-27",
             "author_name": "Jean-Michel Dufays",
             "categories": "numismatique",
-            "tags": "grec,numismatique,histoire,jean",
+            "tags": "numismatique,histoire",
             "recuweb_url": "http://fr.recuweb.com/numismatique/youtube.com/2014/04/etudier-une-source-numismatique-un-stat%C3%A8re-grec-du-ive-si%C3%A8cle-av",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=numismatique%2Bnumismatique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=mx8VWtV4Dvc&feature=youtube_gdata",
@@ -84,11 +85,11 @@
         },
         "youtube.com/2014/01/conf%C3%A9rence-sur-la-numismatique-de-m-larbaoui-l-histoire-monnaie-1": {
             "title": "Conf\u00e9rence sur la Numismatique de M. Larbaoui: l'Histoire de la Monnaie 1...",
-            "snippet": "Conf\u00e9rence sur la Numismatique de M. Larbaoui: l'Histoire de la Monnaie 1 Conf\u00e9rence du 28/12/2013 (10h30) du 2\u00e8me Salon du Collectionneur qui a pu \u00eatre organis\u00e9 grce au collectif des collectionneurs \"TAGRART\" de Tlemcen, La Dire... From: Omar...",
+            "snippet": "Conf\u00e9rence sur la Numismatique de M. Larbaoui: l'Histoire de la Monnaie 1 Conf\u00e9rence du 28/12/2013 (10h30) du 2\u00e8me Salon du Collectionneur qui a pu \u00eatre organis\u00e9 grce au collectif des collectionneurs \"TAGRART\" de Tlemcen, La Direction du Palais...",
             "date": "2014-01-06",
             "author_name": "Omar Benachenhou",
             "categories": "numismatique",
-            "tags": "\u00eatre,\u00eatre-organis\u00e9,\u00eatre-organis\u00e9-grce,organis\u00e9,organis\u00e9-grce,grce,grce-au-collectif,collectif,collectif-des-collectionneurs,collectionneurs,collectionneur,collectionneurs-tagrart,tagrart,conf\u00e9rence,numismatique,larbaoui,histoire,monnaie,\u00e8me,salon,tlemcen,dire,omar",
+            "tags": "\u00eatre,\u00eatre-organis\u00e9,\u00eatre-organis\u00e9-grce,organis\u00e9,organis\u00e9-grce,grce,grce-au-collectif,collectif,collectif-des-collectionneurs,collectionneurs,collectionneur,collectionneurs-tagrart,tagrart,conf\u00e9rence,numismatique,larbaoui,histoire,monnaie,\u00e8me,salon,tlemcen,direction,palais",
             "recuweb_url": "http://fr.recuweb.com/numismatique/youtube.com/2014/01/conf%C3%A9rence-sur-la-numismatique-de-m-larbaoui-l-histoire-monnaie-1",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=numismatique%2Bnumismatique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=fQ1fLBtiTAU&feature=youtube_gdata",
@@ -96,11 +97,11 @@
         },
         "youtube.com/2014/01/conf%C3%A9rence-sur-la-numismatique-de-m-larbaoui-l-histoire-monnaie-2": {
             "title": "Conf\u00e9rence sur la Numismatique de M. Larbaoui: l'Histoire de la Monnaie 2...",
-            "snippet": "Conf\u00e9rence sur la Numismatique de M. Larbaoui: l'Histoire de la Monnaie 2 Conf\u00e9rence du 28/12/2013 (10h30) du 2\u00e8me Salon du Collectionneur qui a pu \u00eatre organis\u00e9 grce au collectif des collectionneurs \"TAGRART\" de Tlemcen, La Dire... From: Omar...",
+            "snippet": "Conf\u00e9rence sur la Numismatique de M. Larbaoui: l'Histoire de la Monnaie 2 Conf\u00e9rence du 28/12/2013 (10h30) du 2\u00e8me Salon du Collectionneur qui a pu \u00eatre organis\u00e9 grce au collectif des collectionneurs \"TAGRART\" de Tlemcen, La Direction du Palais...",
             "date": "2014-01-06",
             "author_name": "Omar Benachenhou",
             "categories": "numismatique",
-            "tags": "\u00eatre,\u00eatre-organis\u00e9,\u00eatre-organis\u00e9-grce,organis\u00e9,organis\u00e9-grce,grce,grce-au-collectif,collectif,collectif-des-collectionneurs,collectionneurs,collectionneur,collectionneurs-tagrart,tagrart,conf\u00e9rence,numismatique,larbaoui,histoire,monnaie,\u00e8me,salon,tlemcen,dire,omar",
+            "tags": "\u00eatre,\u00eatre-organis\u00e9,\u00eatre-organis\u00e9-grce,organis\u00e9,organis\u00e9-grce,grce,grce-au-collectif,collectif,collectif-des-collectionneurs,collectionneurs,collectionneur,collectionneurs-tagrart,tagrart,conf\u00e9rence,numismatique,larbaoui,histoire,monnaie,\u00e8me,salon,tlemcen,direction,palais",
             "recuweb_url": "http://fr.recuweb.com/numismatique/youtube.com/2014/01/conf%C3%A9rence-sur-la-numismatique-de-m-larbaoui-l-histoire-monnaie-2",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=numismatique%2Bnumismatique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=e7pCJVT6FeA&feature=youtube_gdata",
@@ -118,17 +119,17 @@
             "source_url": "http://dailymotion.com/video/x16sftp_4eme-salon-arabe-de-la-philatelie-et-de-la-numismatique-de-setif-2013_creation",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x16sftp_4eme-salon-arabe-de-la-philatelie-et-de-la-numismatique-de-setif-2013_creation"
         },
-        "youtube.com/2013/09/porto-mus%C3%A9e-numismatique": {
-            "title": "PORTO Mus\u00e9e numismatique...",
-            "snippet": "PORTO Mus\u00e9e numismatique install\u00e9 dans un h\u00f4tel particulier XVIII\u00e8me ce mus\u00e9e numismatique pr\u00e9sente une jolie collection de monnaies d'or et d'argent d'origine grec latine, hispaniqu... From: doctorphicornet Views: 77 0 ratings Time: 05:33...",
-            "date": "2013-09-26",
-            "author_name": "doctorphicornet",
-            "categories": "numismatique,collection",
-            "tags": "grec,numismatique,collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/youtube.com/2013/09/porto-mus%C3%A9e-numismatique",
+        "youtube.com/2013/09/comptoir-numismatique-serge-guelle-bijoux-anciens-d-occasi": {
+            "title": "Comptoir Numismatique Serge Guelle -Bijoux anciens, d'occasi...",
+            "snippet": "Comptoir Numismatique Serge Guelle -Bijoux anciens, d'occasi Comptoir Numismatique Serge Guelle -Bijoux anciens, d'occasion Moulins 03000 Allier Depuis 1997, au travers de nos 6 boutiques, nous sommes \u00e0 votre disposition pour r\u00e9aliser toutes vos...",
+            "date": "2013-09-16",
+            "author_name": "PJDroitFinance",
+            "categories": "numismatique",
+            "tags": "numismatique,occasion",
+            "recuweb_url": "http://fr.recuweb.com/numismatique/youtube.com/2013/09/comptoir-numismatique-serge-guelle-bijoux-anciens-d-occasi",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=numismatique%2Bnumismatique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=AMM9efNXQKw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/AMM9efNXQKw/0.jpg"
+            "source_url": "http://youtube.com/watch?v=H79BMMPKuZQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/H79BMMPKuZQ/0.jpg"
         }
     }
 }
