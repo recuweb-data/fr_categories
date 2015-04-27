@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "chiisme",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/chiisme/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/chiisme/chiisme/blogs.json"
     },
     "items": {
+        "hebdo.ahram.org.eg/2015/04/g%C3%A9opolitique-du-chiisme-al-ahram-hebdo": {
+            "title": "G\u00e9opolitique du chiisme - Al-Ahram Hebdo...",
+            "snippet": "G\u00e9opolitique du chiismeAl-Ahram HebdoCette pr\u00e9sence chiite est omnipr\u00e9sente dans les rapports entre l'Iran et les communaut\u00e9s chiites existant dans ces pays. L'Iran aide g\u00e9n\u00e9reusement les chiites de tous les pays, surtout ceux du Moyen-Orient...",
+            "date": "2015-04-24",
+            "categories": "chiisme",
+            "tags": "chiisme,chiites,iran",
+            "recuweb_url": "http://fr.recuweb.com/chiisme/hebdo.ahram.org.eg/2015/04/g%C3%A9opolitique-du-chiisme-al-ahram-hebdo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=chiisme%2Bchiisme&output=atom&nord=1",
+            "source_url": "http://hebdo.ahram.org.eg/NewsContent/0/10/124/10209/G\u00e9opolitique-du-chiisme.aspx"
+        },
         "zamanfrance.fr/2015/04/hurufisme-32-lettres-pour-d%C3%A9chiffrer-le-coran": {
             "title": "Hurufisme: 32 lettres pour d\u00e9chiffrer le Coran?",
             "snippet": "Les \u00e9ditions I.B. Tauris ont publi\u00e9 r\u00e9cemment un essai dOrkhan Mir-Kasimov intitul\u00e9 Mots de pouvoir. Les enseignements hurufi entre chiisme et soufisme dans lIslam m\u00e9di\u00e9val. Par commodit\u00e9, on qualifie souvent le hurufisme de cabbale...",
@@ -21,25 +31,35 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=chiisme&format=RSS&cc=fr",
             "source_url": "http://zamanfrance.fr/article/hurufisme-32-lettres-dechiffrer-coran-15525.html"
         },
-        "lopinion.fr/2015/04/y%C3%A9men-la-tentation-fran%C3%A7aise-d-intervenir-en-soutien-de-l-arabie": {
-            "title": "Y\u00e9men: la tentation fran\u00e7aise d'intervenir en soutien de l'Arabie... - L'Opinion...",
-            "snippet": "L'OpinionY\u00e9men: la tentation fran\u00e7aise d'intervenir en soutien de l'Arabie...L'OpinionCelles-ci recrutent parmi les za\u00efdites, des montagnards du nord du Y\u00e9men adeptes du chiisme za\u00efdite. Un mot revient avec insistance dans les conversations sur...",
-            "date": "2015-04-21",
-            "categories": "chiisme",
-            "tags": "za\u00efdites,y\u00e9men,arabie,chiisme",
-            "recuweb_url": "http://fr.recuweb.com/chiisme/lopinion.fr/2015/04/y%C3%A9men-la-tentation-fran%C3%A7aise-d-intervenir-en-soutien-de-l-arabie",
-            "resource_url": "http://news.google.fr/?hl=fr&q=chiisme&output=atom&nord=1",
-            "source_url": "http://lopinion.fr/blog/secret-defense/yemen-tentation-francaise-d-intervenir-en-soutien-l-arabie-saoudite-23520"
-        },
         "actu.orange.fr/2015/04/comment-l-arabie-saoudite-renforce-al-qa%C3%AFda-au-y%C3%A9men": {
             "title": "Comment l'Arabie saoudite renforce Al-Qa\u00efda au Y\u00e9men...",
             "snippet": "n'a pour l'heure pas permis de faire reculer ces miliciens chiites za\u00efdites (une branche dissidente du chiisme qui ne reconna\u00eet que cinq imams), soutenus par l'Iran. Mais en s'attaquant aux houthis, principaux adversaires d'Al-Qa\u00efda sur...",
             "date": "2015-04-20",
             "categories": "chiisme",
-            "tags": "chiites,za\u00efdites,arabie,y\u00e9men,chiisme,iran",
+            "tags": "chiites,chiisme,iran",
             "recuweb_url": "http://fr.recuweb.com/chiisme/actu.orange.fr/2015/04/comment-l-arabie-saoudite-renforce-al-qa%C3%AFda-au-y%C3%A9men",
             "resource_url": "http://www.bing.com/news/search?first=1&q=chiisme&format=RSS&cc=fr",
             "source_url": "http://actu.orange.fr/monde/comment-l-arabie-saoudite-renforce-al-qaida-au-yemen-lepoint_CNT0000009evpG.html"
+        },
+        "lefigaro.fr/2015/04/en-irak-un-homme-cr%C3%A9e-des-djihadistes-sur-de-vieilles-chaussures": {
+            "title": "En Irak, un homme cr\u00e9e des djihadistes sur de vieilles chaussures...",
+            "snippet": "le sunnisme et le chiisme. Si vous portez une chaussure longtemps, vous finissez par l'user, par d\u00e9former la semelle. Ce conflit fratricide et mill\u00e9naire a compl\u00e8tement d\u00e9form\u00e9 l'islam aujourd'hui. Non seulement \u00e9cologique, le geste...",
+            "date": "2015-04-17",
+            "categories": "islam,sunnisme,chiisme",
+            "tags": "irak,sunnisme,chiisme",
+            "recuweb_url": "http://fr.recuweb.com/chiisme/lefigaro.fr/2015/04/en-irak-un-homme-cr%C3%A9e-des-djihadistes-sur-de-vieilles-chaussures",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=chiisme&format=RSS&cc=fr",
+            "source_url": "http://lefigaro.fr/arts-expositions/2015/04/17/03015-20150417ARTFIG00076-en-irak-un-homme-cree-des-djihadistes-sur-de-vieilles-chaussures.php"
+        },
+        "courrierinternational.com/2014/10/irak-nadjaf-le-vatican-du-chiisme-courrier-international": {
+            "title": "IRAK Nadjaf, le Vatican du chiisme - Courrier International...",
+            "snippet": "IRAK Nadjaf, le Vatican du chiismeCourrier InternationalIl faut avoir ressenti cette omnipr\u00e9sence de la mort pour comprendre la fa\u00e7on dont le chiisme se repr\u00e9sente le monde. Le parti d'Ali traduction litt\u00e9rale du mot shi'a est une religion de...",
+            "date": "2014-10-15",
+            "categories": "religion,traduction,mort,chiisme",
+            "tags": "mort,irak,chiisme",
+            "recuweb_url": "http://fr.recuweb.com/chiisme/courrierinternational.com/2014/10/irak-nadjaf-le-vatican-du-chiisme-courrier-international",
+            "resource_url": "http://news.google.fr/?hl=fr&q=chiisme&output=atom&nord=1",
+            "source_url": "http://courrierinternational.com/article/2014/10/16/nadjaf-le-vatican-du-chiisme"
         }
     }
 }
