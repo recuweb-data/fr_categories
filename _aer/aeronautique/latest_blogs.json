@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "aeronautique",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/aeronautique/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/aeronautique/aeronautique/blogs.json"
     },
     "items": {
-        "aerobuzz.fr/2015/04/h225m-caracal-la-pologne-penche-du-c%C3%B4t%C3%A9-de-l-europe-aerobuzz": {
-            "title": "H225M Caracal: La Pologne penche du c\u00f4t\u00e9 de l'Europe - Aerobuzz...",
-            "snippet": "Le Seahawk (Sikorsky) et l'Apache (Boeing BOEING Premier groupe industriel a\u00e9ronautique et spatial au monde..... 1999-2015 A\u00e9roBuzz: Actualit\u00e9 et Information A\u00e9ronautique Mentions L\u00e9gales Nous contacter.",
-            "date": "2015-04-22",
-            "author_name": "Gil Roy",
+        "aerobuzz.fr/2015/04/eclipse-et-kestrel-ne-font-plus-qu-un-a%C3%A9robuzz-actualit%C3%A9": {
+            "title": "Eclipse et Kestrel ne font plus qu'un - A\u00e9roBuzz: Actualit\u00e9 et...",
+            "snippet": "... on google_followGoogle Share on rssRSS. Connexion. Se connecter S'inscrire. Suivre la vie du site. Plan du site Haut. 1999-2015 A\u00e9roBuzz: Actualit\u00e9 et Information A\u00e9ronautique Mentions L\u00e9gales Nous contacter.",
+            "date": "2015-04-26",
+            "author_name": "Fabrice Morlon",
+            "categories": "aeronautique,google",
+            "tags": "a\u00e9ronautique,font,a\u00e9robuzz",
+            "recuweb_url": "http://fr.recuweb.com/google/aerobuzz.fr/2015/04/eclipse-et-kestrel-ne-font-plus-qu-un-a%C3%A9robuzz-actualit%C3%A9",
+            "resource_url": "http://www.google.com/search?q=aeronautique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://aerobuzz.fr/aviation-generale/article/eclipse-et-kestrel-ne-font-plus-qu"
+        },
+        "blogs.ipsa.fr/2015/04/le-blog-de-l-ipsa-ecole-d-a%C3%A9ronautique-escales-ipsaliens": {
+            "title": "Le blog de l'IPSA - Ecole d'a\u00e9ronautique - Escales d'IPSAliens: les...",
+            "snippet": "Ceux qui d\u00e9cident de rejoindre l'IPSA le font bien souvent par attrait pour le monde de l'a\u00e9ronautique et du spatial. Pour attiser encore plus leur passion, l'\u00e9cole a organis\u00e9 en f\u00e9vrier dernier une dizaine de visites du Bourget...",
+            "date": "2015-04-23",
+            "author_name": "Arnaud Rollet",
             "categories": "aeronautique",
-            "tags": "a\u00e9ronautique,spatial,groupe,boeing,premier,europe,a\u00e9robuzz,monde",
-            "recuweb_url": "http://fr.recuweb.com/aeronautique/aerobuzz.fr/2015/04/h225m-caracal-la-pologne-penche-du-c%C3%B4t%C3%A9-de-l-europe-aerobuzz",
+            "tags": "\u00e9cole,spatial,font,a\u00e9ronautique,monde",
+            "recuweb_url": "http://fr.recuweb.com/aeronautique/blogs.ipsa.fr/2015/04/le-blog-de-l-ipsa-ecole-d-a%C3%A9ronautique-escales-ipsaliens",
             "resource_url": "http://www.google.com/search?q=aeronautique%2Baeronautique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://aerobuzz.fr/defense/article/h225m-caracal-la-pologne-penche-du"
+            "source_url": "http://blogs.ipsa.fr/2015/04/visite-bourget-musee-air-espace-passion-aeronautique-etudiants-1re-annee-2015.html"
         },
         "lemoci.com/2015/04/br%C3%A9sil-a%C3%A9ronautique-atr-d%C3%A9veloppe-son-r%C3%A9seau-de-station": {
             "title": "Br\u00e9sil/A\u00e9ronautique: ATR d\u00e9veloppe son r\u00e9seau de station de...",
@@ -32,17 +43,6 @@
             "recuweb_url": "http://fr.recuweb.com/aeronautique/lemoci.com/2015/04/br%C3%A9sil-a%C3%A9ronautique-atr-d%C3%A9veloppe-son-r%C3%A9seau-de-station",
             "resource_url": "http://www.google.com/search?q=aeronautique%2Baeronautique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemoci.com/bresil-aeronautique-atr-developpe-son-reseau-de-station-de-reparation-au-bresil/"
-        },
-        "aerobuzz.fr/2015/04/l-industrie-a%C3%A9ronautique-et-spatiale-fran%C3%A7aise-pr%C3%A9voit": {
-            "title": "L'industrie a\u00e9ronautique et spatiale fran\u00e7aise pr\u00e9voit...",
-            "snippet": "L'industrie a\u00e9ronautique et spatiale fran\u00e7aise pr\u00e9voit recrutements en 2015. 15 avril 2015 Jobs Commenter. En 2014, la fili\u00e8re a\u00e9rospatiale fran\u00e7aise a recrut\u00e9 personnes et cr\u00e9\u00e9 emplois nets. La formation en alternance...",
-            "date": "2015-04-15",
-            "author_name": "Aerobuzz.fr",
-            "categories": "emploi,recrutement,aeronautique",
-            "tags": "formation,fili\u00e8re,spatiale,industrie,a\u00e9ronautique,fran\u00e7aise,avril",
-            "recuweb_url": "http://fr.recuweb.com/aeronautique/aerobuzz.fr/2015/04/l-industrie-a%C3%A9ronautique-et-spatiale-fran%C3%A7aise-pr%C3%A9voit",
-            "resource_url": "http://www.google.com/search?q=aeronautique%2Baeronautique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://aerobuzz.fr/jobs/article/l-industrie-aeronautique-et"
         },
         "lemoci.com/2015/04/france-inde-tout-sur-la-rafale-d-accords-dans-l-a%C3%A9ronautique": {
             "title": "France-Inde: tout sur la rafale d'accords dans l'a\u00e9ronautique, l...",
@@ -88,13 +88,24 @@
             "resource_url": "http://www.google.com/search?q=aeronautique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://aerobuzz.fr/culture-aero/article/les-rencontres-aeronautiques-de"
         },
+        "dakaractu.com/2015/02/a%C3%A9ronautique-dakar-l-a%C3%A9roport-le-plus-cher-au-monde-dakaractu": {
+            "title": "A\u00e9ronautique: Dakar, l'A\u00e9roport le plus cher au monde - Dakaractu...",
+            "snippet": "Le Tourisme dans ce pays ne pourra jamais se d\u00e9velopper dans notre pays tant que les taxes a\u00e9roportuaires feront de Dakar-Yoff, l'a\u00e9roport le plus cher au monde; je dis bien du monde. Et cela es...",
+            "date": "2015-02-13",
+            "author_name": "Dakar actu",
+            "categories": "aeronautique",
+            "tags": "a\u00e9ronautique,monde",
+            "recuweb_url": "http://fr.recuweb.com/aeronautique/dakaractu.com/2015/02/a%C3%A9ronautique-dakar-l-a%C3%A9roport-le-plus-cher-au-monde-dakaractu",
+            "resource_url": "http://www.google.com/search?q=aeronautique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dakaractu.com/Aeronautique-Dakar-l-Aeroport-le-plus-cher-au-monde_a84248.html"
+        },
         "affretementavion.wordpress.com/2014/10/boeing-augmente-la-cadence-de-production-ses-737-a%C3%A9ronautique": {
             "title": "Boeing augmente la cadence de production de ses 737 - A\u00e9ronautique...",
             "snippet": "Boeing augmente la cadence de production de ses 737 - A\u00e9ronautique via Boeing augmente la cadence de production de ses 737 - A\u00e9ronautique.",
             "date": "2014-10-03",
             "author_name": "KEVELAIR AFFRETEMENT AERIEN",
             "categories": "aeronautique",
-            "tags": "boeing,a\u00e9ronautique,via",
+            "tags": "a\u00e9ronautique,via",
             "recuweb_url": "http://fr.recuweb.com/aeronautique/affretementavion.wordpress.com/2014/10/boeing-augmente-la-cadence-de-production-ses-737-a%C3%A9ronautique",
             "resource_url": "http://fr.search.wordpress.com/?q=aeronautique%2Baeronautique&f=feed&page=1",
             "source_url": "http://affretementavion.wordpress.com/2014/10/03/boeing-augmente-la-cadence-de-production-de-ses-737-aeronautique/"
@@ -109,17 +120,6 @@
             "recuweb_url": "http://fr.recuweb.com/aeronautique/affretementavion.wordpress.com/2014/08/l-islande-interdit-le-trafic-a%C3%A9rien-au-dessus-du-volcan-bardarbunga",
             "resource_url": "http://fr.search.wordpress.com/?q=aeronautique%2Baeronautique&f=feed&page=1",
             "source_url": "http://affretementavion.wordpress.com/2014/08/29/lislande-interdit-le-trafic-aerien-au-dessus-du-volcan-bardarbunga-aeronautique-defense/"
-        },
-        "affretementavion.wordpress.com/2014/08/boeing-et-utc-craignent-une-p%C3%A9nurie-de-titane-russe-a%C3%A9ronautique-d%C3%A9fense": {
-            "title": "Boeing et UTC craignent une p\u00e9nurie de titane russe, A\u00e9ronautique - D\u00e9fense...",
-            "snippet": "Boeing et UTC craignent une p\u00e9nurie de titane russe, A\u00e9ronautique - D\u00e9fensevia Boeing et UTC craignent une p\u00e9nurie de titane russe, A\u00e9ronautique - D\u00e9fense.",
-            "date": "2014-08-11",
-            "author_name": "KEVELAIR AFFRETEMENT AERIEN",
-            "categories": "aeronautique",
-            "tags": "titane,boeing,a\u00e9ronautique,d\u00e9fense",
-            "recuweb_url": "http://fr.recuweb.com/aeronautique/affretementavion.wordpress.com/2014/08/boeing-et-utc-craignent-une-p%C3%A9nurie-de-titane-russe-a%C3%A9ronautique-d%C3%A9fense",
-            "resource_url": "http://fr.search.wordpress.com/?q=aeronautique%2Baeronautique&f=feed&page=1",
-            "source_url": "http://affretementavion.wordpress.com/2014/08/11/boeing-et-utc-craignent-une-penurie-de-titane-russe-aeronautique-defense/"
         }
     }
 }
