@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pacifisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pacifisme/",
@@ -10,55 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pacifisme/pacifisme/blogs.json"
     },
     "items": {
-        "quebec.huffingtonpost.ca/2015/04/policiers-doorman-des-rues-ou-poker-mal-jou%C3%A9": {
-            "title": "Policiers: doorman des rues ou poker mal jou\u00e9?",
-            "snippet": "Quand on fait des affaires croches, c'est normal de les craindre. Pourtant, en 2012, malgr\u00e9 mon Full pacifisme, mes shorts courtes, mes sandales aux pieds, mon manque de masque ne cachant pas mon visage pas tr\u00e8s intimidant de bon citoyen...",
-            "date": "2015-04-14",
-            "categories": "poker,pacifisme",
-            "tags": "pacifisme",
-            "recuweb_url": "http://fr.recuweb.com/pacifisme/quebec.huffingtonpost.ca/2015/04/policiers-doorman-des-rues-ou-poker-mal-jou%C3%A9",
+        "slate.fr/2015/04/23-25-avril-1905-les-socialistes-fran%C3%A7ais-s-unissent": {
+            "title": "23-25 avril 1905: les socialistes fran\u00e7ais s'unissent -...",
+            "snippet": "avril 1905: les socialistes fran\u00e7ais s'pacifisme et la pr\u00e9dilection pour l'apaisement en politique internationale du secr\u00e9taire g\u00e9n\u00e9ral Paul Faure proviennent bien de son exp\u00e9rience et de ses choix profond\u00e9ment enracin\u00e9s face aux...",
+            "date": "2015-04-22",
+            "categories": "politique,pacifisme",
+            "tags": "face,politique,pacifisme",
+            "recuweb_url": "http://fr.recuweb.com/pacifisme/slate.fr/2015/04/23-25-avril-1905-les-socialistes-fran%C3%A7ais-s-unissent",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pacifisme%2Bpacifisme&output=atom&nord=1",
+            "source_url": "http://slate.fr/story/100633/1905-unite-socialistes"
+        },
+        "arretsurimages.net/2015/04/les-naufrag%C3%A9s-et-interpr%C3%A8tes": {
+            "title": "Les naufrag\u00e9s et les interpr\u00e8tes...",
+            "snippet": "On va \u00eatre humains, tout en restant implacables. On va recueillir les malheureux..... Lire l'int\u00e9gralit\u00e9 du texte Je profite de ce forum qui fleure bon lamour et le pacifisme, pour vous signaler linterview de Bachar Al-Assad par David Pujadas.",
+            "date": "2015-04-19",
+            "categories": "pacifisme",
+            "tags": "david,forum,pacifisme",
+            "recuweb_url": "http://fr.recuweb.com/pacifisme/arretsurimages.net/2015/04/les-naufrag%C3%A9s-et-interpr%C3%A8tes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pacifisme&format=RSS&cc=fr",
-            "source_url": "http://quebec.huffingtonpost.ca/remi-quinn/policiers-doorman-des-rues-ou-poker-mal-joue_b_7015446.html"
+            "source_url": "http://arretsurimages.net/forum/read.php?4,1439245,1439500"
+        },
+        "dreuz.info/2015/04/que-va-devenir-le-nigeria": {
+            "title": "Que va devenir le Nigeria?",
+            "snippet": "Lucide, il rappelle que les communaut\u00e9s chr\u00e9tiennes qui professaient un pacifisme absolu ont toutes cess\u00e9 dexister. Mgr Bagobiri cite m\u00eame le cat\u00e9chisme de lEglise catholique en ces termes: La l\u00e9gitime d\u00e9fense est un acte damour de...",
+            "date": "2015-04-18",
+            "categories": "pacifisme",
+            "tags": "pacifisme",
+            "recuweb_url": "http://fr.recuweb.com/pacifisme/dreuz.info/2015/04/que-va-devenir-le-nigeria",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pacifisme&format=RSS&cc=fr",
+            "source_url": "http://dreuz.info/2015/04/que-va-devenir-le-nigeria/"
+        },
+        "agoravox.fr/2015/04/albert-einstein-le-savant-pas-fou-mais-anticonformiste": {
+            "title": "Albert Einstein, le savant pas fou mais anticonformiste!",
+            "snippet": "connu internationalement, devenu ainsi une conscience mondiale de la science mais aussi de la politique, des droits de lhomme, du pacifisme. Cette c\u00e9l\u00e9brit\u00e9 universelle, Einstein sen amusait r\u00e9guli\u00e8rement: Cela pourrait bien provenir du...",
+            "date": "2015-04-17",
+            "categories": "science,politique,pacifisme",
+            "tags": "politique,connu,pacifisme",
+            "recuweb_url": "http://fr.recuweb.com/pacifisme/agoravox.fr/2015/04/albert-einstein-le-savant-pas-fou-mais-anticonformiste",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pacifisme&format=RSS&cc=fr",
+            "source_url": "http://agoravox.fr/actualites/technologies/article/albert-einstein-le-savant-pas-fou-166252"
         },
         "lavie.fr/2015/04/qu-est-ce-une-guerre-juste": {
             "title": "Qu'est-ce qu'une guerre juste?",
             "snippet": "Il pensait quon pouvait, dans certains cas, accepter une violence d\u00e9fensive, mais quil nen fallait pas moins continuer daffirmer la f\u00e9condit\u00e9 de la non-violence. Elle ne se confond dailleurs pas avec le pacifisme int\u00e9gral.",
-            "date": "2015-04-14",
+            "date": "2015-04-17",
             "categories": "pacifisme",
             "tags": "violence,guerre,non,pacifisme",
             "recuweb_url": "http://fr.recuweb.com/pacifisme/lavie.fr/2015/04/qu-est-ce-une-guerre-juste",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pacifisme&format=RSS&cc=fr",
             "source_url": "http://lavie.fr/debats/bloc-notes/qu-est-ce-qu-une-guerre-juste-14-04-2015-62129_442.php"
         },
-        "leconomiste.com/2015/04/une-autre-id%C3%A9e-de-l-%C3%A9conomie-mondiale-demain-%C3%A9conomiste": {
-            "title": "Une autre id\u00e9e de l'\u00e9conomie mondiale de demain - L'\u00c9conomiste...",
-            "snippet": "L'\u00c9conomisteUne autre id\u00e9e de l'\u00e9conomie mondiale de demainL'\u00c9conomisteNon-ing\u00e9rence, anti-imp\u00e9rialisme, coop\u00e9ration Sud-Sud, pacifisme, co-\u00e9mergence, solidarit\u00e9, sont justement les piliers de la rh\u00e9torique officielle chinoise en Afrique.",
-            "date": "2015-04-14",
-            "categories": "pacifisme",
-            "tags": "justement,justement-les-piliers,piliers,rh\u00e9torique,rh\u00e9torique-officielle,rh\u00e9torique-officielle-chinoise,officielle,officielle-chinoise,chinoise,mondiale,mondiale-de-demain,demain,id\u00e9e,ing\u00e9rence,anti,imp\u00e9rialisme,coop\u00e9ration,sud,pacifisme,\u00e9mergence,solidarit\u00e9,afrique",
-            "recuweb_url": "http://fr.recuweb.com/pacifisme/leconomiste.com/2015/04/une-autre-id%C3%A9e-de-l-%C3%A9conomie-mondiale-demain-%C3%A9conomiste",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pacifisme&output=atom&nord=1",
-            "source_url": "http://leconomiste.com/article/969969-chine-afriqueune-autre-idee-de-l-economie-mondiale-de-demain-par-talal-salahdine"
-        },
-        "leconomiste.com/2015/04/une-autre-id%C3%A9e-de-l%C3%A9conomie-mondiale-demain": {
-            "title": "Une autre id\u00e9e de l\u00e9conomie mondiale de demain...",
-            "snippet": "Non-ing\u00e9rence, anti-imp\u00e9rialisme, coop\u00e9ration Sud-Sud, pacifisme, co-\u00e9mergence, solidarit\u00e9, sont justement les piliers de la rh\u00e9torique officielle chinoise en Afrique. A cela lon serait tent\u00e9 de rajouter loyaut\u00e9 et fid\u00e9lit\u00e9. Les Chinois...",
-            "date": "2015-04-14",
-            "categories": "pacifisme",
-            "tags": "justement,justement-les-piliers,piliers,rh\u00e9torique,rh\u00e9torique-officielle,rh\u00e9torique-officielle-chinoise,officielle,officielle-chinoise,chinoise,id\u00e9e,mondiale,mondiale-de-demain,demain,non,ing\u00e9rence,anti,imp\u00e9rialisme,coop\u00e9ration,sud,pacifisme,\u00e9mergence,solidarit\u00e9,afrique",
-            "recuweb_url": "http://fr.recuweb.com/pacifisme/leconomiste.com/2015/04/une-autre-id%C3%A9e-de-l%C3%A9conomie-mondiale-demain",
+        "fr.starafrica.com/2015/04/deux-%C3%A9tudiants-de-la-facult%C3%A9-guerre-en-egypte-tu%C3%A9s": {
+            "title": "Deux \u00e9tudiants de la Facult\u00e9 de guerre en Egypte tu\u00e9s dans une explosion...",
+            "snippet": "Cette confr\u00e9rie qui a \u00e9t\u00e9 interdite et class\u00e9e organisation terroriste par le Gouvernement \u00e9gyptien nie tout lien avec la violence et dit pr\u00f4ner le pacifisme dans ses activit\u00e9s politiques. La plupart des attaques ont eu lieu dans la...",
+            "date": "2015-04-15",
+            "categories": "politique,pacifisme",
+            "tags": "violence,dit,guerre,pacifisme",
+            "recuweb_url": "http://fr.recuweb.com/pacifisme/fr.starafrica.com/2015/04/deux-%C3%A9tudiants-de-la-facult%C3%A9-guerre-en-egypte-tu%C3%A9s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pacifisme&format=RSS&cc=fr",
-            "source_url": "http://leconomiste.com/print/969969"
-        },
-        "lesechos.fr/2015/04/pierre-rabhi-ecrivain-et-agriculteur": {
-            "title": "Pierre Rabhi Ecrivain et agriculteur...",
-            "snippet": "La logique actuelle a mis le profit ind\u00e9fini et la croissance illimit\u00e9e en son coeur, ce qui a mis en route la pr\u00e9dation, l'accaparement, la destruction Le pacifisme: Je ne peux souscrire au fait que les \u00eatres humains s'\u00e9quipent le mieux...",
-            "date": "2015-04-12",
-            "categories": "pacifisme",
-            "tags": "pacifisme",
-            "recuweb_url": "http://fr.recuweb.com/pacifisme/lesechos.fr/2015/04/pierre-rabhi-ecrivain-et-agriculteur",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pacifisme&format=RSS&cc=fr",
-            "source_url": "http://lesechos.fr/journal20150413/lec2_crible/0204293262251-pierre-rabhi-ecrivain-et-agriculteur-1110535.php"
+            "source_url": "http://fr.starafrica.com/actualites/deux-etudiants-de-la-faculte-de-guerre-en-egypte-tues-dans-une-explosion.html"
         },
         "atlantico.fr/2015/03/pacifisme-ou-lchet%C3%A9-et-la-mairie-du-2%C3%A8me-arrondissement-inventa": {
             "title": "Pacifisme ou lchet\u00e9? Et la mairie du 2\u00e8me arrondissement inventa... -...",
@@ -67,7 +78,7 @@
             "categories": "culture,pacifisme",
             "tags": "pacifisme",
             "recuweb_url": "http://fr.recuweb.com/pacifisme/atlantico.fr/2015/03/pacifisme-ou-lchet%C3%A9-et-la-mairie-du-2%C3%A8me-arrondissement-inventa",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pacifisme&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pacifisme%2Bpacifisme&output=atom&nord=1",
             "source_url": "http://atlantico.fr/decryptage/pacifisme-ou-lachete-et-mairie-2eme-arrondissement-inventa-menu-delicieux-sans-aucun-produit-origine-animale-laic-et-ethique-2061987.html"
         }
     }
