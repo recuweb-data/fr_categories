@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "natation-sportive",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/natation-sportive/",
@@ -10,25 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/natation-sportive/natation-sportive/blogs.json"
     },
     "items": {
-        "swimmingworldmagazine.com/2015/04/2015-french-long-course-nationals-day-six-meet-results": {
-            "title": "2015 French Long Course Nationals, Day Six - Meet Results...",
-            "snippet": "CORNEC Benjamin 2000 FRA NAUTIQUE ENTENTE CH\u00c2LONS 17: 1097 pts 58. GIBOT Florian 2000 FRA SOISSONS NATATION SPORTIVE 17: 1093 pts 59. AUNE Romain 2000 FRA AAS SARCELLES NATATION 95 17: 1090 pts 60. RODRIGUES Adrien 2000...",
-            "date": "2015-04-05",
-            "categories": "natation-sportive",
-            "tags": "rodrigues,fra,natation,fra_soissons,fra_soissons_natation,soissons,soissons_natation,soissons_natation_sportive,natation_sportive,sportive,gibot,gibot_florian,florian,nautique,meet,meet_results,results,day,french,french_long,french_long_course,long,long_course,long_course_nationals,course,course_nationals,nationals,pts",
-            "recuweb_url": "http://fr.recuweb.com/natation-sportive/swimmingworldmagazine.com/2015/04/2015-french-long-course-nationals-day-six-meet-results",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=natation%2Bsportive&format=RSS&cc=fr",
-            "source_url": "http://swimmingworldmagazine.com/results/2015-french-long-course-nationals-day-six-day-6/international-elite/2015/April/5"
+        "lexpress.fr/2015/04/championnats-du-monde-de-natation-l-express": {
+            "title": "Championnats du monde de natation - L'Express...",
+            "snippet": "L'ExpressChampionnats du monde de natationL'ExpressTout comme les Championnats d'Europe, les Championnats du Monde de natation ont lieu tous les deux ans. 65 \u00e9preuves divis\u00e9es en cinq disciplines (Nage libre, Natation sportive, Natation...",
+            "date": "2015-04-24",
+            "categories": "discipline",
+            "tags": "\u00e9preuves,deux,monde,championnats,natation,europe,libre,sportive",
+            "recuweb_url": "http://fr.recuweb.com/discipline/lexpress.fr/2015/04/championnats-du-monde-de-natation-l-express",
+            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive&output=atom&nord=1",
+            "source_url": "http://lexpress.fr/actualite/sport/natation/natation-championnats-monde_1674595.html"
         },
-        "swimmingworldmagazine.com/2015/04/2015-french-long-course-nationals-day-five-meet-results": {
-            "title": "2015 French Long Course Nationals, Day Five - Meet Results...",
-            "snippet": "GINESTA Teo 2000 FRA CN ANTIBES 4: 1078 pts P\u00d4LE ESPOIRS NATATION COURSE - ANTIBES 10. GIBOT Florian 2000 FRA SOISSONS NATATION SPORTIVE 4: 1033 pts 200 Backstroke Women - Final A (Saturday 4 April 2015 - 18h50) 1. VERRASZTO Evelin...",
-            "date": "2015-04-04",
-            "categories": "natation-sportive",
-            "tags": "fra,fra_soissons,fra_soissons_natation,soissons,soissons_natation,soissons_natation_sportive,natation,natation_sportive,sportive,gibot,gibot_florian,florian,p\u00f4le,espoirs,course,meet,meet_results,results,day,french,french_long,french_long_course,long,long_course,long_course_nationals,course_nationals,nationals,pts",
-            "recuweb_url": "http://fr.recuweb.com/natation-sportive/swimmingworldmagazine.com/2015/04/2015-french-long-course-nationals-day-five-meet-results",
+        "ladepeche.fr/2015/04/une-grande-laurine-n-gbala": {
+            "title": "Une grande Laurine N'Gbala!",
+            "snippet": "Toulouse, samedi 11 avril, apr\u00e8s deux journ\u00e9es de qualifications regroupant tous les clubs de natation sportive de Midi-Pyr\u00e9n\u00e9es, le jour J est arriv\u00e9. 24 clubs pour 333 nageurs (172 dames et 161 messieurs) se sont donn\u00e9 rendez-vous pour les...",
+            "date": "2015-04-16",
+            "tags": "deux,natation,sportive",
+            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/une-grande-laurine-n-gbala",
             "resource_url": "http://www.bing.com/news/search?first=1&q=natation%2Bsportive&format=RSS&cc=fr",
-            "source_url": "http://swimmingworldmagazine.com/results/2015-french-long-course-nationals-day-five-day-5/international-elite/2015/April/4"
+            "source_url": "http://ladepeche.fr/article/2015/04/17/2088989-une-grande-laurine-n-gbala.html"
         },
         "masculin.com/2015/04/running-v%C3%A9lo-natation-quel-sport-choisir": {
             "title": "Running, v\u00e9lo, natation: quel sport choisir? -...",
@@ -37,17 +37,8 @@
             "categories": "sport",
             "tags": "natation,sports,sportive,trois",
             "recuweb_url": "http://fr.recuweb.com/sport/masculin.com/2015/04/running-v%C3%A9lo-natation-quel-sport-choisir",
-            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive%2Bnatation%2Bsportive&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive&output=atom&nord=1",
             "source_url": "http://masculin.com/forme/10922-running-velo-natation-quel-sport-choisir/"
-        },
-        "la-croix.com/2015/03/natation-hackett-de-retour-en-comp%C3%A9tition-la-croix": {
-            "title": "Natation: Hackett de retour en comp\u00e9tition - La Croix...",
-            "snippet": "La CroixNatation: Hackett de retour en comp\u00e9titionLa Croix... Cotterell, Hackett travaille \"comme il en avait l'habitude et cela signifie un entra\u00eenement aussi dur qu'on puisse endurer\". Apr\u00e8s avoir pris sa retraite sportive, Hackett a rencontr\u00e9...",
-            "date": "2015-03-31",
-            "tags": "natation,comp\u00e9tition,sportive",
-            "recuweb_url": "http://fr.recuweb.com/la-croix.com/2015/03/natation-hackett-de-retour-en-comp%C3%A9tition-la-croix",
-            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive%2Bnatation%2Bsportive&output=atom&nord=1",
-            "source_url": "http://la-croix.com/Actualite/Sport/Natation-Hackett-de-retour-en-competition-2015-03-31-1297268"
         }
     }
 }
