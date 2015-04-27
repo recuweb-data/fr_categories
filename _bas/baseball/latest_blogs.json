@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "baseball",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/baseball/",
@@ -10,38 +11,104 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
+        "tuxboard.com/2015/04/une-spectatrice-se-prend-balle-de-baseball-en-pleine-t%C3%AAte": {
+            "title": "Une spectatrice se prend une balle de baseball en pleine t\u00eate...",
+            "snippet": "Une spectatrice qui voulait reprendre sa place lors d'un match de baseball a \u00e9t\u00e9 frapp\u00e9e par une balle en pleine t\u00eate. Lors de la rencontre entre les.",
+            "date": "2015-04-22",
+            "author_name": "Polo",
+            "categories": "place,baseball",
+            "tags": "voulait,voulait-reprendre,reprendre,reprendre-sa-place,place,place-lors,lors,prend,spectatrice,balle,baseball,pleine,t\u00eate,match,\u00e9t\u00e9,frapp\u00e9e",
+            "recuweb_url": "http://fr.recuweb.com/baseball/tuxboard.com/2015/04/une-spectatrice-se-prend-balle-de-baseball-en-pleine-t%C3%AAte",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tuxboard.com/spectatrice-balle-baseball-headshot/"
+        },
+        "honus.fr/2015/04/honus-baseball-d-ailleurs-le-pes%C3%A4pallo": {
+            "title": "HONUS Baseball d'ailleurs: le Pes\u00e4pallo...",
+            "snippet": "Le Baseball, le Softball et le Cricket sont les jeux de batte et de balle les plus connus au monde. Mais ce ne sont pas les seuls. Th\u00e8que, Rounders, WiffleBall, StickBall anciens ou r\u00e9cents, ils peuplent notre histoire sportive...",
+            "date": "2015-04-21",
+            "author_name": "Ga\u00e9tan",
+            "categories": "baseball",
+            "tags": "histoire,jeux,baseball,balle",
+            "recuweb_url": "http://fr.recuweb.com/baseball/honus.fr/2015/04/honus-baseball-d-ailleurs-le-pes%C3%A4pallo",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://honus.fr/baseball-dailleurs-le-pesapallo"
+        },
+        "jeuxtan.com/2015/04/baseball-gros-frappeur-jeux-gratuits-jeu": {
+            "title": "Baseball Gros Frappeur Jeux, Jeux Gratuits, Jeu...",
+            "snippet": "Baseball Gros Frappeur, Baseball Gros Frappeur jeux, Jeux de Baseball Gros Frappeur en ligne, Jeux de Baseball Gros Frappeur gratuits en ligne. Rob, d\u00e9sol\u00e9e je suis occup\u00e9e. Dustin peut attendre un peu? \u00c0 lundi, d'accord? Aucune...",
+            "date": "2015-04-17",
+            "author_name": "admin",
+            "categories": "baseball",
+            "tags": "ligne,baseball,jeux,jeu",
+            "recuweb_url": "http://fr.recuweb.com/baseball/jeuxtan.com/2015/04/baseball-gros-frappeur-jeux-gratuits-jeu",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jeuxtan.com/baseball-gros-frappeur"
+        },
+        "stjeanwisps.wordpress.com/2015/04/weekend-baseball-stjeanwisps": {
+            "title": "Weekend baseball stjeanwisps...",
+            "snippet": "-ben.. du baseball, c'est quoi cette question? - OUAAAAAAIIIIIIS!!!!!! \" (Je sait pas vous, mais chez moi \u00e7a se passe comme \u00e7a.:)) Nous avons eu la chance d'avoir le photographe Lionel Valette pour chaque \u00e9quipe, du coup...",
+            "date": "2015-04-12",
+            "author_name": "stjeanwisps",
+            "categories": "baseball",
+            "tags": "\u00e9quipe,avoir,baseball,coup",
+            "recuweb_url": "http://fr.recuweb.com/baseball/stjeanwisps.wordpress.com/2015/04/weekend-baseball-stjeanwisps",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://stjeanwisps.wordpress.com/2015/04/13/weekend-baseball/"
+        },
+        "wegotthiscovered.com/2015/04/baseball-15-review-we-got-this-covered": {
+            "title": ". Baseball 15 Review - We Got This Covered...",
+            "snippet": "Despite being an improvement upon last year's release,. Baseball 15 is a glitchy and lacklustre effort that lacks any passion for the sport it is trying to replicate.",
+            "date": "2015-04-09",
+            "author_name": "Eric Hall",
+            "categories": "baseball,sport",
+            "tags": "baseball,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/wegotthiscovered.com/2015/04/baseball-15-review-we-got-this-covered",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://wegotthiscovered.com/gaming/rbi-baseball-15-review/"
+        },
+        "alterjournalisme.blogs.courrierinternational.com/2015/04/it-s-baseball-time-la-saison-2015-du-championnat-am%C3%A9ricain": {
+            "title": "It's Baseball Time!!! La saison 2015 du Championnat am\u00e9ricain de...",
+            "snippet": "Pr\u00e9sentation de la saison 2015 de Baseball MLB It's Opening Day! On parle de sport, on parle de baseball aux Etats-Unis. Et AmericaPolyphony...",
+            "date": "2015-04-07",
+            "author_name": "Jean-Fran\u00e7ois Schwab",
+            "categories": "baseball,sport",
+            "tags": "saison,baseball,mlb,sport,unis",
+            "recuweb_url": "http://fr.recuweb.com/sport/alterjournalisme.blogs.courrierinternational.com/2015/04/it-s-baseball-time-la-saison-2015-du-championnat-am%C3%A9ricain",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://alterjournalisme.blogs.courrierinternational.com/archive/2015/04/07/it-s-baseball-time-la-saison-2015-du-championnat-americain-d-50799.html"
+        },
+        "zebest-3000.com/2015/04/jeu-allstar-baseball-flash-en-ligne-zebest-3000": {
+            "title": "Jeu Allstar Baseball - Jeu Flash en ligne - ZeBest-3000...",
+            "snippet": "Allstar Baseball est un jeu gratuit. Jouez au baseball apr\u00e8s avoir s\u00e9lectionner une \u00e9quipe pour montrer vos talents de joueur!...",
+            "date": "2015-04-06",
+            "author_name": "inconnu",
+            "categories": "baseball",
+            "tags": "avoir,\u00e9quipe,jeu,baseball,ligne,joueur",
+            "recuweb_url": "http://fr.recuweb.com/baseball/zebest-3000.com/2015/04/jeu-allstar-baseball-flash-en-ligne-zebest-3000",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://zebest-3000.com/jeu/allstar-baseball.html"
+        },
         "jacqueslanciault.com/2015/04/dans-les-coulisses-de-baseball-crm": {
             "title": "Dans les coulisses de Baseball CRM...",
             "snippet": "Revue de presse Claude Loranger, Collaboration sp\u00e9cial, Le Nouvelliste, le 28 mars 2015 Cest quoi au juste, Baseball CRM? En raccourci, r\u00e9sumons le profil de cette appellation qui repr\u00e9sente le Centre r\u00e9gional dentra\u00eenement de baseball de la...",
             "date": "2015-04-03",
             "author_name": "Jacques",
             "categories": "baseball",
-            "tags": "baseball,mars",
+            "tags": "baseball",
             "recuweb_url": "http://fr.recuweb.com/baseball/jacqueslanciault.com/2015/04/dans-les-coulisses-de-baseball-crm",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=baseball%2Bbaseball&rss=1&lng=fr",
             "source_url": "http://jacqueslanciault.com/2015/04/03/les-coulisses-baseball-crm/"
         },
-        "gazettevaldoise.fr/2015/02/vaur%C3%A9al-baseball-les-squales-de-victimes-leur-ambition": {
-            "title": "Vaur\u00e9al. Baseball: Les Squales de Vaur\u00e9al victimes de leur ambition...",
-            "snippet": "R\u00e9mi Bigot, coordinateur du club de baseball des Squales de Vaur\u00e9al, \u00e9voque la situation de ce sport dans le Val-d'Oise.",
-            "date": "2015-02-09",
-            "author_name": "Romain Daveau",
-            "categories": "sport,baseball",
-            "tags": "club,baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/gazettevaldoise.fr/2015/02/vaur%C3%A9al-baseball-les-squales-de-victimes-leur-ambition",
+        "blog.fr.playstation.com/2015/03/super-mega-baseball-d%C3%A9barque-en-europe-le-1er-avril": {
+            "title": "Super Mega Baseball d\u00e9barque en Europe le 1er avril...",
+            "snippet": "Super Mega Baseball, notre premier jeu, est sorti en Am\u00e9rique en fin d'ann\u00e9e derni\u00e8re. Notre jeu a \u00e9t\u00e9 extr\u00eamement bien accueilli, a re\u00e7u des critiques g\u00e9niales, et a m\u00eame \u00e9t\u00e9 qualifi\u00e9 de jeu de sport de l'ann\u00e9e par Polygon.",
+            "date": "2015-03-30",
+            "author_name": "Scott Drader",
+            "categories": "baseball,sport",
+            "tags": "jeu,premier,baseball,am\u00e9rique,\u00e9t\u00e9,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/blog.fr.playstation.com/2015/03/super-mega-baseball-d%C3%A9barque-en-europe-le-1er-avril",
             "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gazettevaldoise.fr/2015/02/09/baseball-les-squales-de-vaureal-victimes-de-leur-ambition/"
-        },
-        "journaldemontreal.com/2015/01/vers-une-limite-de-temps-au-baseball-jdm-le-journal-montr%C3%A9al": {
-            "title": "Vers une limite de temps au baseball? JDM - Le Journal de Montr\u00e9al...",
-            "snippet": "Le commissaire sortant Bud Selig a indiqu\u00e9 que ce r\u00e8glement avait \u00e9t\u00e9 test\u00e9 avec succ\u00e8s dans la ligue d'automne de l'Arizona.",
-            "date": "2015-01-15",
-            "author_name": "inconnu",
-            "categories": "baseball",
-            "tags": "ligue,baseball,journal,montr\u00e9al",
-            "recuweb_url": "http://fr.recuweb.com/baseball/journaldemontreal.com/2015/01/vers-une-limite-de-temps-au-baseball-jdm-le-journal-montr%C3%A9al",
-            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldemontreal.com/2015/01/15/vers-une-limite-de-temps-au-baseball"
+            "source_url": "http://blog.fr.playstation.com/2015/03/30/super-mega-baseball-debarque-en-europe-le-1er-avril/"
         },
         "snapbackkepsar8.wordpress.com/2014/06/belles-casquettes-snapback-mlb": {
             "title": "Belles casquettes snapback MLB...",
@@ -49,32 +116,10 @@
             "date": "2014-06-24",
             "author_name": "snapbackkepsar8",
             "categories": "baseball",
-            "tags": "baseball,ball,base,mlb,ligue",
+            "tags": "baseball,professionnel,mlb,base,ball,am\u00e9rique",
             "recuweb_url": "http://fr.recuweb.com/baseball/snapbackkepsar8.wordpress.com/2014/06/belles-casquettes-snapback-mlb",
             "resource_url": "http://fr.search.wordpress.com/?q=baseball%2Bbaseball&f=feed&page=1",
             "source_url": "http://snapbackkepsar8.wordpress.com/2014/06/24/belles-casquettes-snapback-mlb/"
-        },
-        "buverurawidipdaparje.wordpress.com/2014/05/baseball-en-france-club-francais-de-competition-dirigeant": {
-            "title": "Baseball En France: Club Francais de Baseball, Competition de Baseball En France, Dirigeant...",
-            "snippet": "Baseball En France: Club Francais de Baseball, Competition de Baseball En France, Dirigeant Francais de Baseball, Joueur Francais de Baseball, Ligue Francaise de Baseball, Softball Et Cricket, Manager...",
-            "date": "2014-05-15",
-            "author_name": "buverurawidipdaparje",
-            "categories": "baseball",
-            "tags": "ligue,joueur,club,baseball,dirigeant",
-            "recuweb_url": "http://fr.recuweb.com/baseball/buverurawidipdaparje.wordpress.com/2014/05/baseball-en-france-club-francais-de-competition-dirigeant",
-            "resource_url": "http://fr.search.wordpress.com/?q=baseball%2Bbaseball&f=feed&page=1",
-            "source_url": "http://buverurawidipdaparje.wordpress.com/2014/05/15/baseball-en-france-club-francais-de-baseball-competition-de-baseball-en-france-dirigeant-francais-de-baseball-joueur-francais-de-baseball-ligue-francaise-de-baseball-softball-et-cricket-manager/"
-        },
-        "kanpai.fr/2014/04/batting-center-du-baseball-sur-les-toits-de-tokyo-kanpai": {
-            "title": "Batting Center - Du baseball sur les toits de Tokyo - Kanpai...",
-            "snippet": "Les Japonais ont beau \u00eatre particuli\u00e8rement friands de patinage artistique ou encore de football (notre soccer et non le foot US), celui qui remporte le plus de suffrages reste sans doute le baseball. Discipline import\u00e9e des...",
-            "date": "2014-04-22",
-            "author_name": "Gael",
-            "categories": "football,baseball,discipline",
-            "tags": "\u00eatre,baseball",
-            "recuweb_url": "http://fr.recuweb.com/discipline/kanpai.fr/2014/04/batting-center-du-baseball-sur-les-toits-de-tokyo-kanpai",
-            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://kanpai.fr/tokyo/batting-center"
         }
     }
 }
