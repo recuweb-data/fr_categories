@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sculpture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sculpture/",
@@ -10,93 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/blogs.json"
     },
     "items": {
+        "3dvf.com/2015/04/blenderlounge-podcast-sur-la-sculpture-3d-actualit%C3%A9": {
+            "title": "Blenderlounge: Podcast sur la sculpture 3D - Actualit\u00e9 sur.",
+            "snippet": "L'\u00e9quipe de Blenderlounge a mis en ligne son dernier podcast, focalis\u00e9 sur la sculpture 3D sous Blender.",
+            "date": "2015-04-22",
+            "author_name": "inconnu",
+            "categories": "sculpture",
+            "tags": "mis,sculpture",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/3dvf.com/2015/04/blenderlounge-podcast-sur-la-sculpture-3d-actualit%C3%A9",
+            "resource_url": "http://www.google.com/search?q=sculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://3dvf.com/actualite-12976-blenderlounge-podcast-sur-sculpture-3d.html"
+        },
+        "maxitendance.com/2015/04/incroyable-ces-sculptures-de-papillons-sont-des-composants": {
+            "title": "Incroyable, Ces Sculptures de Papillons sont des Composants...",
+            "snippet": "Si pour la majorit\u00e9 des techniciens, les diodes, condensateurs et autres circuits imprim\u00e9s ne sont que d'ordinaires composants \u00e9lectroniques, pour Julie Alice Chappell, ils constituent la base de toutes ses sculptures.",
+            "date": "2015-04-21",
+            "author_name": "Zack",
+            "categories": "electronique,sculpture",
+            "tags": "sculptures",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/maxitendance.com/2015/04/incroyable-ces-sculptures-de-papillons-sont-des-composants",
+            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://maxitendance.com/2015/04/julie-alice-chappell-sculpture-insectes.html"
+        },
+        "etvonweb.be/2015/04/art-sculpture-lumineuse-by-nanan-e-tv": {
+            "title": "ART: Sculpture lumineuse by Nanan E-TV...",
+            "snippet": "Nanan, l'artiste plasticien fran\u00e7ais, revient avec une nouvelle s\u00e9rie de sculptures lumineuses venant compl\u00e9ter le projet Urban Lights.",
+            "date": "2015-04-14",
+            "author_name": "beta",
+            "categories": "sculpture",
+            "tags": "artiste,art,sculptures,nouvelle",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/etvonweb.be/2015/04/art-sculpture-lumineuse-by-nanan-e-tv",
+            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://etvonweb.be/75507-art-sculpture-lumineuse-by-nanan"
+        },
+        "gizmodo.fr/2015/04/des-sculptures-sur-bois-absolument-bluffantes-gizmodo": {
+            "title": "Des sculptures sur bois absolument bluffantes - Gizmodo...",
+            "snippet": "Cet artiste utilise une technique de d\u00e9coupe au laser pour r\u00e9aliser des sculptures sur bois absolument somptueuses.",
+            "date": "2015-04-14",
+            "author_name": "Morgan",
+            "categories": "sculpture",
+            "tags": "artiste,sculptures,bois,r\u00e9aliser",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/gizmodo.fr/2015/04/des-sculptures-sur-bois-absolument-bluffantes-gizmodo",
+            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/14/sculptures-bois-decoupe-laser.html"
+        },
         "jfranrivero.blogspot.com/2015/04/dialogue-imagineire-sculpture-&": {
             "title": "Dialogue Imagineire Sculpture & Sculpture...",
             "snippet": "Adieu! quand la terre acagnard\u00e9e le soleil dans la mer violette vous trouverez mon \u0153il fumant comme un tison. Le grand midi (fragment) Aim\u00e9 C\u00e9saire Oeuvre de Manzano (Cuba) et Anonimo (Africa) Collection personnel de Francisco Rivero.",
             "date": "2015-04-13",
             "author_name": "jfranrivero.blogspot.com",
             "categories": "sculpture,collection",
-            "tags": "oeuvre,terre,comme,sculpture",
+            "tags": "oeuvre,comme,sculpture",
             "recuweb_url": "http://fr.recuweb.com/collection/jfranrivero.blogspot.com/2015/04/dialogue-imagineire-sculpture-&",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=sculpture%2Bsculpture&rss=1&lng=fr",
             "source_url": "http://jfranrivero.blogspot.com/2015/04/dialogue-imagineire-sculpture-sculpture.html"
         },
-        "senenews.com/2015/04/la-rochelle-pol%C3%A9mique-sur-une-sculpture-d-ousmane-sow": {
-            "title": "LA ROCHELLE- Pol\u00e9mique sur une sculpture d'Ousmane Sow en...",
-            "snippet": "- Memoria, association rochelaise conteste le choix du lieu d'installation de l'\u0153uvre r\u00e9alis\u00e9e par le sculpteur s\u00e9n\u00e9galais en hommage aux r\u00e9sistants.",
-            "date": "2015-04-07",
-            "author_name": "Yenn Gni",
-            "categories": "sculpture",
-            "tags": "sculpteur,pol\u00e9mique,sculpture",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/senenews.com/2015/04/la-rochelle-pol%C3%A9mique-sur-une-sculpture-d-ousmane-sow",
-            "resource_url": "http://www.google.com/search?q=sculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://senenews.com/2015/04/07/la-rochelle-polemique-sur-une-sculpture-dousmane-sow-en-hommage-a-toussaint-louverture_120971.html"
-        },
-        "art-spire.com/2015/03/les-splendides-sculptures-en-bois-de-peter-demetz-art-spire": {
-            "title": "Les splendides sculptures en bois de Peter Demetz - Art-Spire...",
-            "snippet": "Ses sculptures en bois particuli\u00e8rement d\u00e9taill\u00e9es et r\u00e9alistes l'ont rendu c\u00e9l\u00e8bre. Il a expos\u00e9 son art de nombreuses fois et a gagn\u00e9 de nombreuses r\u00e9compenses. Il a \u00e9galement enseign\u00e9 la sculpture plusieurs ann\u00e9es.",
-            "date": "2015-03-12",
-            "author_name": "Nicolas",
-            "categories": "sculpture",
-            "tags": "nombreuses,r\u00e9a,peter,demetz,sculptures,sculpture,bois,art",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/art-spire.com/2015/03/les-splendides-sculptures-en-bois-de-peter-demetz-art-spire",
-            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://art-spire.com/sculpture/impressive-word-sculptures-by-peter-demetz/"
-        },
-        "fr.artmediaagency.com/2015/03/henry-moore-au-yorkshire-sculpture-park-ama-art-media-agency": {
-            "title": "Henry Moore au Yorkshire Sculpture Park AMA Art Media Agency...",
-            "snippet": "Le Yorkshire Sculpture Park au Royaume-Uni pr\u00e9sente jusqu'au 6 septembre 2015, les cr\u00e9ations d'Henry Moore dans une exposition intitul\u00e9e Henry Moore: Back to a Land. Plus de 120 \u0153uvres formeront le parcours de...",
-            "date": "2015-03-10",
-            "author_name": "Marine Schoettel",
-            "categories": "sculpture",
-            "tags": "\u0153uvres,cr\u00e9ations,sculpture,art,exposition",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/fr.artmediaagency.com/2015/03/henry-moore-au-yorkshire-sculpture-park-ama-art-media-agency",
-            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://fr.artmediaagency.com/110033/henry-moore-au-yorkshire-sculpture-park/"
-        },
-        "ipnoze.com/2015/03/il-soude-du-vieux-mat%C3%A9riel-de-ferme-pour-cr%C3%A9er-d-incroyables": {
-            "title": "Il soude du vieux mat\u00e9riel de ferme pour cr\u00e9er d'incroyables... - ipnoze...",
-            "snippet": "Le sculpteur John Lopez utilise de la ferraille d'ancien mat\u00e9riel de ferme et la transforme en remarquables sculptures grandeur nature d'animaux.",
-            "date": "2015-03-10",
-            "author_name": "janvitos",
-            "categories": "nature,sculpture",
-            "tags": "ferme,utilise,ferraille,john,john_lopez,lopez,ferme-pour-cr\u00e9er,cr\u00e9er,sculpteur,ancien,sculptures",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/ipnoze.com/2015/03/il-soude-du-vieux-mat%C3%A9riel-de-ferme-pour-cr%C3%A9er-d-incroyables",
-            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ipnoze.com/2015/03/10/vieux-materiel-ferme-sculptures-animales/"
-        },
-        "aujardin.info/2015/03/la-sculpture-sur-fruits-et-l%C3%A9gumes-au-jardin-conseils-en-jardinage": {
-            "title": "La sculpture sur fruits et l\u00e9gumes - Au jardin, conseils en jardinage...",
-            "snippet": "Art oriental ancestral, la sculpture sur fruits et l\u00e9gumes arrive sur nos tables propuls\u00e9e par les grands chefs d\u00e9sireux de mettre un peu de po\u00e9sie et d'originalit\u00e9 dans leurs plats. R\u00e9agir. La sculpture sur fruits et l\u00e9gumes...",
-            "date": "2015-03-07",
-            "author_name": "inconnu",
-            "categories": "sculpture",
-            "tags": "fruits,fruits-et-l\u00e9gumes,l\u00e9gumes,mettre,sculpture,jardin,art",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/aujardin.info/2015/03/la-sculpture-sur-fruits-et-l%C3%A9gumes-au-jardin-conseils-en-jardinage",
-            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://aujardin.info/fiches/sculpture-fruits-legumes.php"
-        },
-        "ufunk.net/2015/03/wood-carving-les-impressionnantes-sculptures-r%C3%A9alistes-de-peter": {
-            "title": "Wood Carving Les impressionnantes sculptures r\u00e9alistes de Peter...",
-            "snippet": "Une s\u00e9lection des impressionnantes cr\u00e9ations en bois de l'artiste italien Peter Demetz, qui r\u00e9alise des sculptures r\u00e9alistes d'hommes, de femmes ou enfants,...",
-            "date": "2015-03-05",
-            "author_name": "ufunk",
-            "categories": "sculpture",
-            "tags": "cr\u00e9ations,sculptures,r\u00e9a,peter,bois,demetz",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/ufunk.net/2015/03/wood-carving-les-impressionnantes-sculptures-r%C3%A9alistes-de-peter",
-            "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ufunk.net/artistes/peter-demetz/"
-        },
-        "fubiz.net/2015/02/glowing-moon-sculpture-fubiz": {
-            "title": "Glowing Moon Sculpture Fubiz...",
-            "snippet": "New Moon est la quatri\u00e8me sculpture lumineuse con\u00e7ue par les artistes Caitlind R.C. Brown et Wayne Garrett, apr\u00e8s leurs projets Solar Flare et Cloud. Cette o.",
-            "date": "2015-02-10",
+        "fubiz.net/2015/03/hyperjump-kinetic-light-sculpture-fubiz": {
+            "title": "Hyperjump Kinetic Light Sculpture Fubiz...",
+            "snippet": "Hyperjump Kinetic Light Sculpture. Hyperjump est une installation cin\u00e9tique de lumi\u00e8res r\u00e9alis\u00e9e par le collectif russe Tundra et install\u00e9e dans des espaces d'\u00e9tudes am\u00e9nag\u00e9s dans un ancien terrain de basketball...",
+            "date": "2015-03-19",
             "author_name": "Donnia",
             "categories": "sculpture",
-            "tags": "apr\u00e8s,artistes,sculpture",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/fubiz.net/2015/02/glowing-moon-sculpture-fubiz",
+            "tags": "sculpture,ancien",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/fubiz.net/2015/03/hyperjump-kinetic-light-sculpture-fubiz",
             "resource_url": "http://www.google.com/search?q=sculpture%2Bsculpture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://fubiz.net/2015/02/10/glowing-moon-sculpture/"
+            "source_url": "http://fubiz.net/2015/03/19/hyperjump-kinetic-light-sculpture/"
         },
         "flatstanleyniergnies.blogspot.com/2014/12/ice-sculpture-sur-glace": {
             "title": "Ice sculpture - Sculpture sur glace...",
@@ -104,7 +83,7 @@
             "date": "2014-12-07",
             "author_name": "Classe de CE1-CE2 - Niergnies - France",
             "categories": "sculpture",
-            "tags": "glace,sculpture",
+            "tags": "sculpture,glace",
             "recuweb_url": "http://fr.recuweb.com/sculpture/flatstanleyniergnies.blogspot.com/2014/12/ice-sculpture-sur-glace",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=sculpture%2Bsculpture&rss=1&lng=fr",
             "source_url": "http://flatstanleyniergnies.blogspot.com/2014/12/ice-sculpture-sculpture-sur-glace.html"
@@ -115,10 +94,32 @@
             "date": "2014-11-27",
             "author_name": "Pythie",
             "categories": "sculpture",
-            "tags": "comme,cours,sculpture,si\u00e8cle",
+            "tags": "th\u00e8me,comme,sculpture,si\u00e8cle",
             "recuweb_url": "http://fr.recuweb.com/sculpture/artetfact.wordpress.com/2014/11/sculpture-du-xviii-si%C3%A8cle",
             "resource_url": "http://fr.search.wordpress.com/?q=sculpture%2Bsculpture&f=feed&page=1",
             "source_url": "http://artetfact.wordpress.com/2014/11/28/sculpture-du-xviii-siecle/"
+        },
+        "orliloglingchecktholpopega.wordpress.com/2014/06/revue-des-musees-d-italie-catalogue-raisonne-peintures-et-sculptures-exposees": {
+            "title": "Revue Des Musees D'Italie: Catalogue Raisonne Des Peintures Et Sculptures Exposees...",
+            "snippet": "Revue Des Musees D'Italie: Catalogue Raisonne Des Peintures Et Sculptures Exposees Revue Des Musees D'Italie: Catalogue Raisonne Des Peintures Et Sculptures Exposees by Lavice-A-A====FREE DOWNLOAD:====free Revue Des Musees D'Italie: []...",
+            "date": "2014-06-13",
+            "author_name": "orliloglingchecktholpopega",
+            "categories": "peinture,sculpture",
+            "tags": "sculptures,free",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/orliloglingchecktholpopega.wordpress.com/2014/06/revue-des-musees-d-italie-catalogue-raisonne-peintures-et-sculptures-exposees",
+            "resource_url": "http://fr.search.wordpress.com/?q=sculpture%2Bsculpture&f=feed&page=1",
+            "source_url": "http://orliloglingchecktholpopega.wordpress.com/2014/06/13/revue-des-musees-ditalie-catalogue-raisonne-des-peintures-et-sculptures-exposees/"
+        },
+        "wosappglentobigorningfeadupp.wordpress.com/2014/05/discours-prononcez-dans-les-conferences-de-l-academie-royale-peinture": {
+            "title": "Discours Prononcez Dans Les Conferences de L'Academie Royale de Peinture Et de Sculpture free djvu...",
+            "snippet": "Discours Prononcez Dans Les Conferences de L'Academie Royale de Peinture Et de Sculpture Discours Prononcez Dans Les Conferences de L'Academie Royale de Peinture Et de Sculpture by Antoine Coypel,...",
+            "date": "2014-05-16",
+            "author_name": "wosappglentobigorningfeadupp",
+            "categories": "peinture,sculpture",
+            "tags": "free,peinture,sculpture",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/wosappglentobigorningfeadupp.wordpress.com/2014/05/discours-prononcez-dans-les-conferences-de-l-academie-royale-peinture",
+            "resource_url": "http://fr.search.wordpress.com/?q=sculpture%2Bsculpture&f=feed&page=1",
+            "source_url": "http://wosappglentobigorningfeadupp.wordpress.com/2014/05/16/discours-prononcez-dans-les-conferences-de-lacademie-royale-de-peinture-et-de-sculpture-free-djvu-download/"
         }
     }
 }
