@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "audience-un-site-web",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/audience-un-site-web/",
@@ -10,29 +11,29 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-un-site-web/audience-un-site-web/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/vega-kali-linux-scannez-un-site-web-et-d%C3%A9celez-les-failles": {
+            "title": "VEGA/Kali Linux - Scannez un site web et d\u00e9celez les failles!",
+            "snippet": "AnyComputer BLOG: AnyComputer RSS BLOG: www./rss AnyComputer SHOP: AnyComputer FACEBOOK: AnyComputer TWITTER: AnyComputer (page): AnycomputerBebyNewEraser Parlon Linux (communaut\u00e9): u/0/b/117730003546601099761/communities/105078205854301059366...",
+            "date": "2015-04-18",
+            "author_name": "AnyComputer",
+            "categories": "twitter,facebook",
+            "tags": "linux,site,site-web,web,failles,kali,kali_linux",
+            "recuweb_url": "http://fr.recuweb.com/facebook/dailymotion.com/2015/04/vega-kali-linux-scannez-un-site-web-et-d%C3%A9celez-les-failles",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web+audience+un+site+web/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n4cpp_vega-kali-linux-scannez-un-site-web-et-decelez-les-failles_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n4cpp_vega-kali-linux-scannez-un-site-web-et-decelez-les-failles_tech"
+        },
         "dailymotion.com/2015/03/cr%C3%A9er-un-site-web-avec-wisibilis": {
             "title": "Cr\u00e9er un site web avec Wisibilis...",
             "snippet": "Wisibilis est une solution en ligne compl\u00e8te de cr\u00e9ation de sites Internet destin\u00e9e aux entrepreneurs, auto-entrepreneurs, TPE, PME, professions lib\u00e9rales et aux associations. Pour un co\u00fbt mensuel raisonnable, la solution comprend votre site...",
             "date": "2015-03-19",
             "author_name": "wisibilis",
             "categories": "internet",
-            "tags": "sites,cr\u00e9ation,site-web,web,internet,pme",
+            "tags": "sites,cr\u00e9ation,site-web,web,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2015/03/cr%C3%A9er-un-site-web-avec-wisibilis",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web+audience+un+site+web/0?af=1",
             "source_url": "http://dailymotion.com/video/xuu1vr_creer-un-site-web-avec-wisibilis_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xuu1vr_creer-un-site-web-avec-wisibilis_tech"
-        },
-        "youtube.com/2015/03/3-etapes-exemple-de-site-web-rentable-concret-pme-vitrerie": {
-            "title": "3 etapes=Exemple de site web rentable Concret (PME vitrerie)...",
-            "snippet": "3 etapes=Exemple de site web rentable Concret (PME vitrerie) Les 3 \u00e9tapes pour un site Web rentable rapidement! Apprenez d'un exemple concret d'un client, ce que nous mettons en pratique de A \u00e0 Z sur la chaine Web Marketing Tuto! PLAN 1.",
-            "date": "2015-03-08",
-            "author_name": "Web Marketing Tuto",
-            "categories": "marketing",
-            "tags": "marketing,tuto,site,site-web,web,pme,apprenez",
-            "recuweb_url": "http://fr.recuweb.com/marketing/youtube.com/2015/03/3-etapes-exemple-de-site-web-rentable-concret-pme-vitrerie",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bun%2Bsite%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=eFl7lfN8hP8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/eFl7lfN8hP8/0.jpg"
         },
         "dailymotion.com/2015/01/un-site-web-lanc%C3%A9-par-le-gouvernement-contre-jihadisme": {
             "title": "Un site web lanc\u00e9 par le gouvernement contre le jihadisme...",
@@ -40,7 +41,7 @@
             "date": "2015-01-28",
             "author_name": "francetvinfo",
             "categories": "politique,internet,place",
-            "tags": "site,site-internet,internet,site-web,web",
+            "tags": "contre,site,internet,site-web,web",
             "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/01/un-site-web-lanc%C3%A9-par-le-gouvernement-contre-jihadisme",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web+audience+un+site+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fupbx_un-site-web-lance-par-le-gouvernement-contre-le-jihadisme_news",
@@ -51,9 +52,9 @@
             "snippet": "Ceci est un TUTO pour pirater des sites qui ont des failles SQLAuthor: simobouggar50Tags: Posted: 27 January 2015Rating:: 0...",
             "date": "2015-01-27",
             "author_name": "simobouggar50",
-            "tags": "sites,site,web,tuto,tags",
+            "tags": "sites,site,failles,web,kali,kali_linux,linux,tuto,tags",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/01/tutopirater-un-site-web-avec-kali-linux",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web+audience+un+site+web/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x2frwdt_tuto-pirater-un-site-web-avec-kali-linux_school",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2frwdt_tuto-pirater-un-site-web-avec-kali-linux_school"
         },
@@ -81,18 +82,6 @@
             "source_url": "http://dailymotion.com/video/x26yl5u_nigeria-nigeria-creation-d-un-site-web-specialise-dans-le-recrutement_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x26yl5u_nigeria-nigeria-creation-d-un-site-web-specialise-dans-le-recrutement_news"
         },
-        "dailymotion.com/2014/08/hacker-un-site-web-devient-jeu-d-enfant": {
-            "title": "hacker un site web devient un jeu d'enfant...",
-            "snippet": "Download link: Detailed instruction included inside the archive. Use link above to download. Leave a comment or send me a message if you have any problems. Have fun. Extra tags: WORKING Restaurant City LEVELMONEY HACK 2014 WORKING, Zynga Poker Chips...",
-            "date": "2014-08-21",
-            "author_name": "ascuskber",
-            "categories": "poker",
-            "tags": "site,site-web,web,tags",
-            "recuweb_url": "http://fr.recuweb.com/poker/dailymotion.com/2014/08/hacker-un-site-web-devient-jeu-d-enfant",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web+audience+un+site+web/0?af=1",
-            "source_url": "http://dailymotion.com/video/x246mmg_hacker-un-site-web-devient-un-jeu-d-enfant_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x246mmg_hacker-un-site-web-devient-un-jeu-d-enfant_videogames"
-        },
         "youtube.com/2014/02/oncle-web-tutoriel-google-analytics-un-calcul-de-l-audience-reelle": {
             "title": "Oncle Web Tutoriel Google Analytics Un Calcul de l'Audience Reelle...",
             "snippet": "Oncle Web Tutoriel Google Analytics Un Calcul de l'Audience Reelle Ce tutoriel vous montre l'importance de Google Analytics dans le calcul de l'audience de vos op\u00e9rations de communication, \u00e0 la diff\u00e9rence des M\u00e9dias... From: Guillaume Eouzan...",
@@ -105,17 +94,17 @@
             "source_url": "http://youtube.com/watch?v=l0B1zy51aFw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/l0B1zy51aFw/0.jpg"
         },
-        "youtube.com/2013/10/tutocomment-connaitre-calculer-l-audience-d-un-site-internet": {
-            "title": "TUTOComment connaitre/calculer l'audience d'un site internet...",
-            "snippet": "TUTOComment connaitre/calculer l'audience d'un site internet Comment connaitre l'audience d'un site internet Comment calculer l'audience d'un site internet ABONNE-TOI: Twitter: 7shop(par... From: PC tutoriels Views: 525 4 ratings Time: 04:33 More in...",
-            "date": "2013-10-16",
-            "author_name": "PC tutoriels",
-            "categories": "internet,twitter",
-            "tags": "site,site-internet,internet,audience,tuto",
-            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2013/10/tutocomment-connaitre-calculer-l-audience-d-un-site-internet",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=vKcQ21lxBQg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/vKcQ21lxBQg/0.jpg"
+        "youtube.com/2013/12/proc%C3%A8s-gbagbo-l-appel-du-procureur-contre-ajournement-de-audience-confirmation": {
+            "title": "Proc\u00e8s Gbagbo: L'appel du procureur contre l'ajournement de l'audience de confirmation des...",
+            "snippet": "Proc\u00e8s Gbagbo: L'appel du procureur contre l'ajournement de l'audience de confirmation des... Premier site web de transcription de l'information \u00e9crite en audio 24h/24h. Cote D'ivoire. From: ZoomVocal82 Views: 42 0 ratings Time: 01:52 More in News...",
+            "date": "2013-12-17",
+            "author_name": "ZoomVocal82",
+            "categories": "transcription",
+            "tags": "site,site-web,web,audience,contre",
+            "recuweb_url": "http://fr.recuweb.com/transcription/youtube.com/2013/12/proc%C3%A8s-gbagbo-l-appel-du-procureur-contre-ajournement-de-audience-confirmation",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bun%2Bsite%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=QsRvxEDFqgQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/QsRvxEDFqgQ/0.jpg"
         },
         "youtube.com/2013/06/1-formation-google-analytics-audience-tuto-d%C3%A9butant": {
             "title": "1. Formation Google Analytics - Audience (tuto d\u00e9butant)...",
@@ -123,11 +112,22 @@
             "date": "2013-06-27",
             "author_name": "Web Marketing Tuto",
             "categories": "marketing,google",
-            "tags": "web,marketing,tuto,analytics,google,google_analytics,audience,apprenez,site",
+            "tags": "web,tuto,analytics,google,google_analytics,audience,site",
             "recuweb_url": "http://fr.recuweb.com/google/youtube.com/2013/06/1-formation-google-analytics-audience-tuto-d%C3%A9butant",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=b4gEFcI8Uj4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/b4gEFcI8Uj4/0.jpg"
+        },
+        "dailymotion.com/2013/06/un-site-web-pour-troquer-ses-l%C3%A9gumes-toulouse": {
+            "title": "Un site web pour troquer ses l\u00e9gumes (Toulouse)...",
+            "snippet": "Sites webs/blogs, copiez cette vid\u00e9o avec le bouton code embed! Si vous voulez t\u00e9l\u00e9charger, allez sur. Nicolas Heraud, restaurateur et troqueur, fait profiter de ses l\u00e9gumes cultiv\u00e9s dans son potager sur le site. Plus sur Pour exploitation TV,...",
+            "date": "2013-06-18",
+            "author_name": "teletoulouse-wizdeo",
+            "tags": "sites,site-web,web",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2013/06/un-site-web-pour-troquer-ses-l%C3%A9gumes-toulouse",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/audience+un+site+web/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1116az_un-site-web-pour-troquer-ses-legumes-toulouse_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1116az_un-site-web-pour-troquer-ses-legumes-toulouse_news"
         }
     }
 }
