@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "escalade",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/escalade/",
@@ -11,35 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/blogs.json"
     },
     "items": {
+        "lemonde.fr/2015/04/lirr%C3%A9sistible-escalade-de-la-dette-%C3%A9tudiante-aux-etats-unis": {
+            "title": "Lirr\u00e9sistible escalade de la dette \u00e9tudiante aux Etats-Unis...",
+            "snippet": "Trente ans. Cest lge de Flynn Barclay, qui vient de terminer son \u00e9cole de droit au Boston College. Cest aussi la dur\u00e9e du pr\u00eat quil a d\u00fb souscrire pour payer ses trois ans d\u00e9tudes. Rien que pour les droits dinscription, la facture...",
+            "date": "2015-04-27",
+            "categories": "escalade",
+            "tags": "escalade",
+            "recuweb_url": "http://fr.recuweb.com/escalade/lemonde.fr/2015/04/lirr%C3%A9sistible-escalade-de-la-dette-%C3%A9tudiante-aux-etats-unis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=escalade&format=RSS&cc=fr",
+            "source_url": "http://lemonde.fr/economie/article/2015/04/26/l-irresistible-escalade-de-la-dette-etudiante-aux-etats-unis_4622961_3234.html"
+        },
+        "lavenir.net/2015/04/une-nouvelle-comp%C3%A9tition-d-escalade-de-bloc": {
+            "title": "Une nouvelle comp\u00e9tition d'escalade de bloc -...",
+            "snippet": "nouvelle comp\u00e9tition d'escalade de visiteurs ont d'ailleurs pu constater par eux-m\u00eames qu'une bonne dose d'agilit\u00e9 est n\u00e9cessaire. Proposer un open dans un rendez-vous comme celui-ci est un moyen de faire d\u00e9couvrir l'escalade de bloc au grand...",
+            "date": "2015-04-27",
+            "categories": "escalade",
+            "tags": "comme,nouvelle,comp\u00e9tition,escalade,bloc",
+            "recuweb_url": "http://fr.recuweb.com/escalade/lavenir.net/2015/04/une-nouvelle-comp%C3%A9tition-d-escalade-de-bloc",
+            "resource_url": "http://news.google.fr/?hl=fr&q=escalade&output=atom&nord=1",
+            "source_url": "http://lavenir.net/cnt/dmf20150426_00638859"
+        },
+        "zoomdici.fr/2015/04/escalade-de-vitesse-nouveau-record-du-monde-pour-anouck-jaubert": {
+            "title": "Escalade de vitesse: nouveau record du monde pour Anouck Jaubert -...",
+            "snippet": "de vitesse: nouveau record du monde pour Anouck \u00e9tablissant, lors de l'ultime duel de la finale, un nouveau record du Monde en 7'62 (contre 7'95 pour son pr\u00e9c\u00e9dent record personnel et 3e temps mondial) pour sa premi\u00e8re comp\u00e9tition de la...",
+            "date": "2015-04-26",
+            "categories": "escalade",
+            "tags": "premi\u00e8re,comp\u00e9tition,monde,escalade,contre",
+            "recuweb_url": "http://fr.recuweb.com/escalade/zoomdici.fr/2015/04/escalade-de-vitesse-nouveau-record-du-monde-pour-anouck-jaubert",
+            "resource_url": "http://news.google.fr/?hl=fr&q=escalade%2Bescalade&output=atom&nord=1",
+            "source_url": "http://zoomdici.fr/actualite/Escalade-de-vitesse-nouveau-record-du-monde-pour-Anouck-Jaubert-id143548.html"
+        },
         "sudouest.fr/2015/04/la-rochelle-le-mur-d-escalade-se-construit-au-dessus": {
             "title": "La Rochelle: le mur d'escalade se construit au-dessus du bassin... - Sud Ouest...",
-            "snippet": "Sud OuestLa Rochelle: le mur d'escalade se construit au-dessus du bassin...Sud Oueste mur de 9 m\u00e8tres, star de la premi\u00e8re \u00e9dition du Vertical Ocean Camp qui d\u00e9butera ce vendredi, est en cours de construction au bord du bassin des Chalutiers de...",
+            "snippet": "Sud OuestLa Rochelle: le mur d'escalade se construit au-dessus du bassin...Sud OuestLe succ\u00e8s de la premi\u00e8re \u00e9dition d'une comp\u00e9tition d'escalade organis\u00e9e au-dessus du bassin des Chalutiers est de bon augure pour les organisateurs rochelais.",
             "date": "2015-04-22",
-            "categories": "construction,escalade",
-            "tags": "mur,escalade",
-            "recuweb_url": "http://fr.recuweb.com/escalade/sudouest.fr/2015/04/la-rochelle-le-mur-d-escalade-se-construit-au-dessus",
-            "resource_url": "http://news.google.fr/?hl=fr&q=escalade%2Bescalade&output=atom&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/22/la-rochelle-le-mur-d-escalade-se-construit-au-dessus-du-bassin-des-chalutiers-1900090-1391.php"
-        },
-        "metro-sports.fr/2015/04/cfu-escalade-7-m%C3%A9dailles-pour-les-grenoblois-m%C3%A9tro-sports": {
-            "title": "CFU Escalade: 7 m\u00e9dailles pour les Grenoblois - M\u00e9tro-Sports...",
-            "snippet": "CFU Escalade: 7 m\u00e9dailles pour les GrenobloisM\u00e9tro-SportsMassy accueillait les championnats de France d'escalade. Belle moisson pour les \u00e9tudiants de l'acad\u00e9mie de Grenoble qui y ont obtenu 7 m\u00e9dailles. Tanguy Topin (ASU Grenoble UJF) remporte...",
-            "date": "2015-04-21",
-            "categories": "escalade,sport",
-            "tags": "escalade,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/metro-sports.fr/2015/04/cfu-escalade-7-m%C3%A9dailles-pour-les-grenoblois-m%C3%A9tro-sports",
-            "resource_url": "http://news.google.fr/?hl=fr&q=escalade%2Bescalade&output=atom&nord=1",
-            "source_url": "http://metro-sports.fr/montagne/sport-u-grenoble/8467-cfu-escalade--7-medailles-pour-les-grenoblois.html"
-        },
-        "lalsace.fr/2015/04/un-mur-d-escalade-vers-la-r%C3%A9ussite-l": {
-            "title": "Un mur d'escalade vers la r\u00e9ussite - L'...",
-            "snippet": "L'mur d'escalade vers la r\u00e9ussiteL'centre de r\u00e9adaptation de Mulhouse (CRM) vient de se doter d'un mur d'escalade. Ce nouvel \u00e9quipement sportif, dont le projet date des ann\u00e9es 1990, pr\u00e9sente de multiples bienfaits th\u00e9rapeutiques pour les...",
-            "date": "2015-04-21",
             "categories": "escalade",
-            "tags": "mur,escalade",
-            "recuweb_url": "http://fr.recuweb.com/escalade/lalsace.fr/2015/04/un-mur-d-escalade-vers-la-r%C3%A9ussite-l",
-            "resource_url": "http://news.google.fr/?hl=fr&q=escalade%2Bescalade&output=atom&nord=1",
-            "source_url": "http://lalsace.fr/haut-rhin/2015/04/21/un-mur-d-escalade-vers-la-reussite"
+            "tags": "comp\u00e9tition,premi\u00e8re,mur,escalade",
+            "recuweb_url": "http://fr.recuweb.com/escalade/sudouest.fr/2015/04/la-rochelle-le-mur-d-escalade-se-construit-au-dessus",
+            "resource_url": "http://news.google.fr/?hl=fr&q=escalade&output=atom&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/22/la-rochelle-le-mur-d-escalade-se-construit-au-dessus-du-bassin-des-chalutiers-1900090-1391.php"
         },
         "fr.news.yahoo.com/2015/03/30-ans-l-ge-de-la-pierra-menta": {
             "title": "30 ans, l'ge de la Pierra Menta...",
@@ -56,7 +66,7 @@
             "snippet": "Un photographe et un volontaire ukrainiens ont \u00e9t\u00e9 tu\u00e9s samedi dans l'Est s\u00e9paratiste prorusse en d\u00e9pit d'un cessez-le-feu fragile qui ne cesse de nourrir les craintes d'une nouvelle escalade.",
             "date": "2015-02-28",
             "categories": "escalade",
-            "tags": "escalade",
+            "tags": "nouvelle,escalade",
             "recuweb_url": "http://fr.recuweb.com/escalade/fr.news.yahoo.com/2015/02/ukraine-un-photographe-et-volontaire-tu%C3%A9s-dans-l-est-malgr%C3%A9",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=escalade",
             "source_url": "http://fr.news.yahoo.com/calme-relatif-lest-lukraine-craintes-dune-escalade-150418765.html"
