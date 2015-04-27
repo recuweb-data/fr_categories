@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "culture-populaire",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture-populaire/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/entretien-groupe-d-%C3%A9tudes-%C3%A9ducation-populaire-et-culture": {
+            "title": "Entretien Groupe d'\u00e9tudes \u00c9ducation populaire et culture...",
+            "snippet": "Mercredi 15 avril 2015, le groupe d'\u00e9tudes \u00c9ducation populaire et culture a organis\u00e9 une table ronde consacr\u00e9e au r\u00f4le de l'\u00e9ducation populaire dans le renforcement du vivre ensemble. Plus d'informations sur le groupe d'\u00e9tudes: Pour en savoir...",
+            "date": "2015-04-22",
+            "author_name": "Senat",
+            "categories": "culture",
+            "tags": "populaire,culture,mercredi",
+            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/entretien-groupe-d-%C3%A9tudes-%C3%A9ducation-populaire-et-culture",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture+populaire+culture+populaire/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nk51f_entretien-groupe-d-etudes-education-populaire-et-culture_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nk51f_entretien-groupe-d-etudes-education-populaire-et-culture_news"
+        },
         "youtube.com/2015/02/relche-2015-au-mus%C3%A9e-qu%C3%A9b%C3%A9cois-de-culture-populaire-toute-une-histoire": {
             "title": "Relche 2015 au Mus\u00e9e qu\u00e9b\u00e9cois de culture populaire: Toute une histoire de p\u00eache!",
             "snippet": "Relche 2015 au Mus\u00e9e qu\u00e9b\u00e9cois de culture populaire: Toute une histoire de p\u00eache! Durant la relche, on s'inspire de l'exposition Histoires de p\u00eache pour vous proposer des activit\u00e9s ludiques pour toute la famille. Inspirez-vous de l'\u0153uvre de...",
@@ -28,7 +41,7 @@
             "date": "2015-02-11",
             "author_name": "BFMTV",
             "categories": "mort,culture,culture-populaire",
-            "tags": "culture,culture-populaire,populaire",
+            "tags": "culture,culture-populaire,populaire,mercredi",
             "recuweb_url": "http://fr.recuweb.com/culture-populaire/youtube.com/2015/02/hanin-%C3%A9tait-l-incarnation-d-une-culture-populaire-exigeante-selon-pellerin",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=VtWk_YR00CE&feature=youtube_gdata",
@@ -36,7 +49,7 @@
         },
         "youtube.com/2014/12/les-aliens-dans-la-culture-populaire": {
             "title": "Les aliens dans la culture populaire...",
-            "snippet": "Les aliens dans la culture populaire \u00c9teins ton ordi, le podcast audio sur la culture populaire. Cette fois-ci nous parlons des extraterrestres dans notre culture populaire. Enjoy! From: Eteins ton ordi Views: 141 3 ratings Time: 01:52:01 More in...",
+            "snippet": "Les aliens dans la culture populaire \u00c9teins ton ordi, le podcast audio sur la culture populaire. Cette fois-ci nous parlons des extraterrestres dans notre culture populaire. Enjoy! From: Eteins ton ordi Views: 143 3 ratings Time: 01:52:01 More in...",
             "date": "2014-12-09",
             "author_name": "Eteins ton ordi",
             "categories": "culture,culture-populaire",
@@ -46,49 +59,25 @@
             "source_url": "http://youtube.com/watch?v=6beKQuHEJlM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/6beKQuHEJlM/0.jpg"
         },
-        "youtube.com/2014/12/culture-populaire-aller-au-cin%C3%A9": {
-            "title": "Culture populaire, aller au cin\u00e9...",
-            "snippet": "Culture populaire, aller au cin\u00e9 From: Madame Deer Views: 9 0 ratings Time: 07:11 More in Education...",
-            "date": "2014-12-08",
-            "author_name": "Madame Deer",
-            "categories": "culture",
-            "tags": "culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2014/12/culture-populaire-aller-au-cin%C3%A9",
+        "youtube.com/2014/11/creation-sonore-experience-scientifique-dans-la-culture-populaire": {
+            "title": "Creation Sonore Experience Scientifique dans la culture Populaire...",
+            "snippet": "Creation Sonore Experience Scientifique dans la culture Populaire Montage sonore diffuser \u00e0 l'occasion de \"La nuit europ\u00e9enne des chercheurs\" sur Radio U Brest. Liste films et \u00e9mission: - \"Iron man\" - \"Retour vers le futur\" - \"C'est pas Sorcier\"...",
+            "date": "2014-11-11",
+            "author_name": "Termoklyn",
+            "categories": "radio,culture",
+            "tags": "\u00e9mission,radio,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2014/11/creation-sonore-experience-scientifique-dans-la-culture-populaire",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=aJ0a9XoDU4Y&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/aJ0a9XoDU4Y/0.jpg"
-        },
-        "youtube.com/2014/11/cuisiner-avec-le-soleil": {
-            "title": "Cuisiner avec le soleil...",
-            "snippet": "Cuisiner avec le soleil Le Centre de Culture Populaire offre diff\u00e9rentes formations aux femmes pour leur permettre d'obtenir une plus grande autonomie financi\u00e8re. Dans cette capsule, on vous pr\u00e9sente les ing\u00e9nieuses... From: L'OEUVRE L\u00c9GER...",
-            "date": "2014-11-19",
-            "author_name": "L'OEUVRE L\u00c9GER",
-            "categories": "culture,culture-populaire",
-            "tags": "oeuvre,offre,diff\u00e9rentes,diff\u00e9rentes-formations,formations,femmes,culture,culture_populaire,populaire,centre",
-            "recuweb_url": "http://fr.recuweb.com/culture-populaire/youtube.com/2014/11/cuisiner-avec-le-soleil",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Y6te3baDWZI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Y6te3baDWZI/0.jpg"
-        },
-        "youtube.com/2014/11/ateliers-de-production-artisanale": {
-            "title": "Ateliers de production artisanale...",
-            "snippet": "Ateliers de production artisanale Le Centre de Culture populaire existe depuis 1979. Il offre aux femmes boliviennes diff\u00e9rentes formations techniques en joallerie ou en artisanat pour les aider \u00e0 devenir autonomes financi\u00e8rement. From: L'OEUVRE...",
-            "date": "2014-11-18",
-            "author_name": "L'OEUVRE L\u00c9GER",
-            "categories": "culture",
-            "tags": "offre,femmes,diff\u00e9rentes,diff\u00e9rentes-formations,formations,populaire,centre,culture,oeuvre",
-            "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2014/11/ateliers-de-production-artisanale",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=sVn37W2XKQQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/sVn37W2XKQQ/0.jpg"
+            "source_url": "http://youtube.com/watch?v=Q10dMPANOyU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Q10dMPANOyU/0.jpg"
         },
         "youtube.com/2013/11/nabilla-un-envol-au-dessus-de-la-culture-populaire": {
             "title": "Nabilla, un envol au dessus de la culture populaire.",
-            "snippet": "Nabilla, un envol au dessus de la culture populaire. San Juan nous raconte l'histoire de Nabilla. D'apr\u00e8s son livre \"L'apocalypse\". From: labcdr Views: 2851 20 ratings Time: 09:44 More in People & Blogs...",
+            "snippet": "Nabilla, un envol au dessus de la culture populaire. San Juan nous raconte l'histoire de Nabilla. D'apr\u00e8s son livre \"L'apocalypse\". From: labcdr Views: 2859 20 ratings Time: 09:44 More in People & Blogs...",
             "date": "2013-11-24",
             "author_name": "labcdr",
             "categories": "culture,culture-populaire",
-            "tags": "culture,culture-populaire,populaire",
+            "tags": "histoire,culture,culture-populaire,populaire",
             "recuweb_url": "http://fr.recuweb.com/culture-populaire/youtube.com/2013/11/nabilla-un-envol-au-dessus-de-la-culture-populaire",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=N-_J2kvdKKc&feature=youtube_gdata",
@@ -100,7 +89,7 @@
             "date": "2013-10-31",
             "author_name": "ABDHamzah",
             "categories": "culture,culture-populaire,radio",
-            "tags": "culture,culture-populaire,populaire",
+            "tags": "\u00e9mission,culture,culture-populaire,populaire,radio",
             "recuweb_url": "http://fr.recuweb.com/radio/youtube.com/2013/10/madj-et-ch%C3%A9ribibi-dialoguent-de-culture-populaire",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=jPf0Fu9MSZE&feature=youtube_gdata",
@@ -120,15 +109,27 @@
         },
         "youtube.com/2013/06/centre-de-culture-populaire-ypiranga-pastinha-01-dans-les-favelas": {
             "title": "Centre de Culture Populaire Ypiranga de Pastinha 01 - culture dans les favelas...",
-            "snippet": "Centre de Culture Populaire Ypiranga de Pastinha 01 - culture dans les favelas Les actions du CYP a pour objectif principal de contribuer au d\u00e9veloppement de l'estime de soi, de la responsabilit\u00e9... From: Teo Angoleiro Views: 105 1 ratings Time:...",
+            "snippet": "Centre de Culture Populaire Ypiranga de Pastinha 01 - culture dans les favelas Les actions du CYP a pour objectif principal de contribuer au d\u00e9veloppement de l'estime de soi, de la responsabilit\u00e9... From: Teo Angoleiro Views: 107 1 ratings Time:...",
             "date": "2013-06-12",
             "author_name": "Teo Angoleiro",
             "categories": "culture,culture-populaire",
-            "tags": "culture,culture_populaire,populaire,centre",
+            "tags": "culture,populaire",
             "recuweb_url": "http://fr.recuweb.com/culture-populaire/youtube.com/2013/06/centre-de-culture-populaire-ypiranga-pastinha-01-dans-les-favelas",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=KTWC8F71B7o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/KTWC8F71B7o/0.jpg"
+        },
+        "youtube.com/2013/02/gerard-noiriel-n-enterrons-pas-la-culture-populaire": {
+            "title": "Gerard Noiriel - N'enterrons pas la culture populaire...",
+            "snippet": "Gerard Noiriel - \"N'enterrons pas la \"culture populaire\" \" Extrait de Notre Monde, de Thomas Lacoste (). G\u00e9rard Noiriel est historien, sp\u00e9cialiste de l'histoire de l'immigration, de la classe ouvri\u00e8re, des questions interdiscip... From:...",
+            "date": "2013-02-16",
+            "author_name": "NotreMondeLeFilm",
+            "categories": "culture,culture-populaire",
+            "tags": "histoire,culture,culture-populaire,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture-populaire/youtube.com/2013/02/gerard-noiriel-n-enterrons-pas-la-culture-populaire",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=K5R6hfySSs4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/K5R6hfySSs4/0.jpg"
         }
     }
 }
