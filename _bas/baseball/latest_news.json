@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baseball",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/baseball/",
@@ -11,62 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
-        "welikeit.fr/2015/04/un-pro-du-baseball-qui-vit-dans-van": {
-            "title": "Un pro du baseball qui vit dans un van...",
-            "snippet": "Malgr\u00e9 quil soit millionnaire, Daniel Norris, joueur de baseball professionnel, a laiss\u00e9 parler son naturel et a pris la d\u00e9cision de vivre simplement, dans un van, loin des h\u00f4tels et des voitures de luxe. Un choix de vie.",
-            "date": "2015-04-22",
+        "intensite.net/2015/04/baseball-deux-nouvelles-d%C3%A9faites-pour-chartres-radio-intensit%C3%A9": {
+            "title": "BASEBALL - Deux nouvelles d\u00e9faites pour Chartres - Radio Intensit\u00e9...",
+            "snippet": "BASEBALL - Deux nouvelles d\u00e9faites pour ChartresRadio Intensit\u00e9BASEBALL - Deux nouvelles d\u00e9faites pour Chartres. De Radio Intensit\u00e9 - lun, 27/04/2015 - 18:52. Chartres Actualit\u00e9 Baseball Sports 0Baseball. En base-ball, les French Cubs n'y...",
+            "date": "2015-04-27",
+            "categories": "radio,baseball,sport",
+            "tags": "nouvelles,baseball,deux,sports,base,ball",
+            "recuweb_url": "http://fr.recuweb.com/sport/intensite.net/2015/04/baseball-deux-nouvelles-d%C3%A9faites-pour-chartres-radio-intensit%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=baseball%2Bbaseball&output=atom&nord=1",
+            "source_url": "http://intensite.net/2009/201504actu/baseball-deux-nouvelles-d\u00e9faites-pour-chartres-101846"
+        },
+        "saint-lo.maville.com/2015/04/baseball-les-jimmer-s-de-saint-l%C3%B4-remportent-deux-nouvelles-victoires": {
+            "title": "Baseball: Les Jimmer's de Saint-L\u00f4 remportent deux nouvelles victoires.",
+            "snippet": "Freddy Lange plonge pour attraper un roulant et effectuer un retrait. Apr\u00e8s avoir pris la t\u00eate de la poule C face aux Huskies de Rouen, les Jimmers effectuaient ce dimanche leur premier d\u00e9placement de la saison pour le compte de la 3eme journ\u00e9e...",
+            "date": "2015-04-25",
             "categories": "baseball",
-            "tags": "joueur,baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/welikeit.fr/2015/04/un-pro-du-baseball-qui-vit-dans-van",
+            "tags": "premier,saison,avoir,deux,nouvelles,baseball,saint,t\u00eate",
+            "recuweb_url": "http://fr.recuweb.com/baseball/saint-lo.maville.com/2015/04/baseball-les-jimmer-s-de-saint-l%C3%B4-remportent-deux-nouvelles-victoires",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
-            "source_url": "http://welikeit.fr/85225/pro-baseball-vit-van"
+            "source_url": "http://saint-lo.maville.com/actu/actudet_-baseball-les-jimmer-s-de-saint-lo-remportent-deux-nouvelles-victoires._47335-2758034_actu.Htm"
         },
-        "lapresse.ca/2015/04/suspendu-pour-un-match-david-ortiz-loge-appel": {
-            "title": "Suspendu pour un match, David Ortiz loge appel -...",
-            "snippet": "pour un match, David Ortiz loge les autorit\u00e9s du Baseball majeur, Ortiz a \u00e9t\u00e9 sanctionn\u00e9 par le vice-pr\u00e9sident senior Joe Garagiola fils pour avoir fait contact avec l'arbitre John Tumpane en cinqui\u00e8me manche du match de dimanche contre les...",
-            "date": "2015-04-21",
+        "journaldemontreal.com/2015/04/plusieurs-suspensions-dans-le-baseball-majeur": {
+            "title": "Plusieurs suspensions dans le baseball majeur...",
+            "snippet": "NEW YORK Six joueurs ont \u00e9t\u00e9 suspendus pour leur implication dans la bagarre g\u00e9n\u00e9rale qui a \u00e9clat\u00e9 durant le match de jeudi dernier entre les White Sox de Chicago et les Royals de Kansas City. Le lanceur des Royals Yordano Ventura a \u00e9cop\u00e9 de...",
+            "date": "2015-04-25",
             "categories": "baseball",
-            "tags": "pr\u00e9sident,match,baseball,majeur,\u00e9t\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/baseball/lapresse.ca/2015/04/suspendu-pour-un-match-david-ortiz-loge-appel",
-            "resource_url": "http://news.google.fr/?hl=fr&q=baseball&output=atom&nord=1",
-            "source_url": "http://lapresse.ca/sports/baseball/201504/21/01-4863168-suspendu-pour-un-match-david-ortiz-loge-appel.php"
+            "tags": "lanceur,bagarre,joueurs,baseball,majeur,\u00e9t\u00e9,match",
+            "recuweb_url": "http://fr.recuweb.com/baseball/journaldemontreal.com/2015/04/plusieurs-suspensions-dans-le-baseball-majeur",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
+            "source_url": "http://journaldemontreal.com/2015/04/25/plusieurs-suspensions-dans-le-baseball-majeur"
         },
-        "intensite.net/2015/04/baseball-d%C3%A9faite-des-french-cubs": {
-            "title": "BASEBALL - D\u00e9faite des French Cubs...",
-            "snippet": "Le mauvais d\u00e9but de saison continue pour les Frenchs Cubs de Chartres. Oppos\u00e9s au Paris UC, ils repartent avec une victoire et une d\u00e9faite. Derniers du classement, les Chartrains re\u00e7oivent le week-end prochain le leader invaincu, Rouen.",
-            "date": "2015-04-20",
+        "infodimanche.com/2015/04/baseball-senior-puribec-22-matchs-pour-chaque-%C3%A9quipe": {
+            "title": "Baseball senior Puribec: 22 matchs pour chaque \u00e9quipe...",
+            "snippet": "Rivi\u00e8re-du-Loup - Le calendrier de la 37e saison de la Ligue de baseball senior Puribec est officiel, comptant 77 matchs entre le 16 mai et le 31 juillet. Chacune des 7 \u00e9quipes disputera 22 matchs dans un calendrier non \u00e9quilibr\u00e9, chose rare...",
+            "date": "2015-04-24",
+            "categories": "baseball",
+            "tags": "saison,baseball",
+            "recuweb_url": "http://fr.recuweb.com/baseball/infodimanche.com/2015/04/baseball-senior-puribec-22-matchs-pour-chaque-%C3%A9quipe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
+            "source_url": "http://infodimanche.com/actualites/sports/218456/baseball-senior-puribec-22-matchs-pour-chaque-equipe"
+        },
+        "journalexpress.ca/2015/04/l-int%C3%A9r%C3%AAt-des-filles-pour-le-baseball-en-hausse": {
+            "title": "L'int\u00e9r\u00eat des filles pour le baseball en hausse...",
+            "snippet": "Directeur de la division f\u00e9minine de Baseball Drummond, Patrick Matte remarque une \u00e9volution constante au cours des quatre derni\u00e8res ann\u00e9es dans les inscriptions du baseball f\u00e9minin. (Photo TC Media Alexandre Faucher) Publi\u00e9 le 25 avril 2015...",
+            "date": "2015-04-24",
             "categories": "baseball",
             "tags": "baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/intensite.net/2015/04/baseball-d%C3%A9faite-des-french-cubs",
+            "recuweb_url": "http://fr.recuweb.com/baseball/journalexpress.ca/2015/04/l-int%C3%A9r%C3%AAt-des-filles-pour-le-baseball-en-hausse",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
-            "source_url": "http://intensite.net/2009/201504actu/baseball-d\u00e9faite-des-french-cubs-101025"
+            "source_url": "http://journalexpress.ca/Sports/Baseball/2015-04-25/article-4125164/Linteret-des-filles-pour-le-baseball-en-hausse/1"
         },
-        "tvasports.ca/2015/04/le-jeu-plus-intelligent-de-l-histoire-du-baseball-tva-sports": {
-            "title": "Le jeu le plus intelligent de l'histoire du baseball - TVA Sports...",
-            "snippet": "TVA SportsLe jeu le plus intelligent de l'histoire du baseballTVA SportsCe n'est pas la premi\u00e8re fois que l'on voit une telle technique, mais c'est toujours impressionnant. C'est le jeu le plus intelligent de l'histoire du baseball, a lanc\u00e9 avec...",
-            "date": "2015-04-20",
+        "journallenord.com/2015/04/terrain-de-baseball-une-autre-%C3%A9tape-franchie": {
+            "title": "Terrain de baseball: une autre \u00e9tape de franchie...",
+            "snippet": "CONSTRUCTION. Une nouvelle \u00e9tape a \u00e9t\u00e9 franchie en vue de la construction du terrain de baseball qui devrait voir le jour en 2016. La Ville de Saint-J\u00e9r\u00f4me a mandat\u00e9 au co\u00fbt de 201 608 la firme Les Consultants S.M pour pr\u00e9parer les plans et...",
+            "date": "2015-04-23",
+            "categories": "construction,baseball",
+            "tags": "voir,baseball,\u00e9t\u00e9,saint",
+            "recuweb_url": "http://fr.recuweb.com/baseball/journallenord.com/2015/04/terrain-de-baseball-une-autre-%C3%A9tape-franchie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
+            "source_url": "http://journallenord.com/Sports/Baseball/2015-04-24/article-4123880/Terrain-de-baseball:-une-autre-etape-de-franchie/1"
+        },
+        "lequipe.fr/2015/04/baseball-mlb-bein-sports-s-offre-le-l-%C3%A9": {
+            "title": "Baseball - MLB - BeIN Sports s'offre le baseball - L'\u00c9...",
+            "snippet": "L'\u00c9 - MLB - BeIN Sports s'offre le baseballL'\u00c9 \u00e8s avoir diffus\u00e9 les derniers World Series en octobre, beIN Sports a d\u00e9cid\u00e9 d'acqu\u00e9rir les droits de diffusion de l'int\u00e9gralit\u00e9 du prochain championnat de baseball am\u00e9ricain. Partager sur...",
+            "date": "2015-04-03",
             "categories": "sport,baseball",
-            "tags": "baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/tvasports.ca/2015/04/le-jeu-plus-intelligent-de-l-histoire-du-baseball-tva-sports",
+            "tags": "world,avoir,sports,baseball",
+            "recuweb_url": "http://fr.recuweb.com/baseball/lequipe.fr/2015/04/baseball-mlb-bein-sports-s-offre-le-l-%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=baseball%2Bbaseball&output=atom&nord=1",
-            "source_url": "http://tvasports.ca/2015/04/20/le-jeu-le-plus-intelligent-de-lhistoire-du-baseball"
-        },
-        "ici.radio-canada.ca/2015/04/baseball-cuba-nous-offre-des-joyaux-dit-patrick-scalabrini-radio-canada": {
-            "title": "Baseball: Cuba nous offre des joyaux, dit Patrick Scalabrini - Radio-Canada...",
-            "snippet": "Radio-CanadaBaseball: Cuba nous offre des joyaux, dit Patrick ScalabriniRadio-CanadaLes dirigeants des Capitales de Qu\u00e9bec ont fait le point ce matin sur l'arriv\u00e9e prochaine de quatre joueurs cubains au sein de la formation. Le pr\u00e9sident, Michel...",
-            "date": "2015-04-17",
-            "categories": "baseball,radio",
-            "tags": "joueurs,baseball,pr\u00e9sident",
-            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/baseball-cuba-nous-offre-des-joyaux-dit-patrick-scalabrini-radio-canada",
-            "resource_url": "http://news.google.fr/?hl=fr&q=baseball%2Bbaseball&output=atom&nord=1",
-            "source_url": "http://ici.radio-canada.ca/regions/quebec/2015/04/17/008-capitales-baseball-cubains.shtml"
+            "source_url": "http://lequipe.fr/Medias/Actualites/Bein-sports-s-offre-le-baseball/548074"
         },
         "fr-ca.actualites.yahoo.com/2015/03/tony-clark-aimerait-voir-rose-r%C3%A9int%C3%A9gr%C3%A9": {
             "title": "Tony Clark aimerait voir Rose r\u00e9int\u00e9gr\u00e9...",
             "snippet": "LAKELAND, \u00c9tats-Unis - Le dirigeant de l'Association des joueurs du baseball majeur, Tony Clark, aimerait bien voir Pete Rose \u00eatre r\u00e9int\u00e9gr\u00e9 par le baseball.",
             "date": "2015-03-17",
             "categories": "baseball",
-            "tags": "joueurs,baseball,majeur",
+            "tags": "voir,joueurs,baseball,majeur",
             "recuweb_url": "http://fr.recuweb.com/baseball/fr-ca.actualites.yahoo.com/2015/03/tony-clark-aimerait-voir-rose-r%C3%A9int%C3%A9gr%C3%A9",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=baseball",
             "source_url": "http://fr-ca.actualites.yahoo.com/tony-clark-aimerait-voir-rose-r\u00e9int\u00e9gr\u00e9-225523267--spt.html"
