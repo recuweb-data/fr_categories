@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-de-ballon",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-de-ballon/",
@@ -10,31 +11,11 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-ballon/sport-de-ballon/blogs.json"
     },
     "items": {
-        "cotebrest.fr/2015/04/l-agenda-sportif-du-week-end": {
-            "title": "L'agenda sportif du week-end...",
-            "snippet": "Tournoi organis\u00e9 par Handibrest, samedi 18 avril. Le torball (prononcez torballe comme pour le handball) est un sport de ballon pratiqu\u00e9 par les handicap\u00e9s visuels hommes, femmes ou enfants. Il se joue par \u00e9quipe de trois joueurs dont lobjectif...",
-            "date": "2015-04-18",
-            "categories": "handball,sport",
-            "tags": "trois,joueurs,sportif,sport,ballon",
-            "recuweb_url": "http://fr.recuweb.com/sport/cotebrest.fr/2015/04/l-agenda-sportif-du-week-end",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bde%2Bballon&format=RSS&cc=fr",
-            "source_url": "http://cotebrest.fr/2015/04/18/lagenda-sportif-du-week-end-5/"
-        },
-        "fr.sports.yahoo.com/2015/04/chelsea-un-ballon-une-audi-boulette-regardez-yahoo-sport": {
-            "title": "Chelsea: Un ballon, une Audi une boulette! Regardez - Yahoo Sport...",
-            "snippet": "Yahoo SportChelsea: Un ballon, une Audi une boulette! RegardezYahoo SportSur le tournage d'un spot d'annonce pour un constructeur automobile, Willian a un peu d\u00e9viss\u00e9. Dans le jargon on dit de cela que cela fait partie des risques du m\u00e9tier.",
-            "date": "2015-04-14",
-            "categories": "yahoo,sport",
-            "tags": "sport,ballon",
-            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/chelsea-un-ballon-une-audi-boulette-regardez-yahoo-sport",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bde%2Bballon%2Bsport%2Bde%2Bballon&output=atom&nord=1",
-            "source_url": "http://fr.sports.yahoo.com/news/chelsea-ballon-audi-boulette-regardez-232045263--spt.html"
-        },
         "sports.orange.fr/2015/04/arsenal-un-ballon-pour-gauchers-toute-l-actualit%C3%A9-sportive-sur-orange": {
             "title": "Arsenal: Un ballon pour gauchers! - Toute l'actualit\u00e9 sportive sur Orange...",
             "snippet": "Toute l'actualit\u00e9 sportive sur OrangeArsenal: Un ballon pour gauchers!Toute l'actualit\u00e9 sportive sur OrangeLes joueurs d'Arsenal ont test\u00e9 une invention r\u00e9volutionnaire: un ballon sp\u00e9cialement con\u00e7u par Puma pour les gauchers! \"C'est...",
             "date": "2015-04-01",
-            "tags": "joueurs,sportive,ballon",
+            "tags": "ballon",
             "recuweb_url": "http://fr.recuweb.com/sports.orange.fr/2015/04/arsenal-un-ballon-pour-gauchers-toute-l-actualit%C3%A9-sportive-sur-orange",
             "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bde%2Bballon%2Bsport%2Bde%2Bballon&output=atom&nord=1",
             "source_url": "http://sports.orange.fr/football/angleterre/arsenal-un-ballon-pour-gauchers-newsweb-sports_CNT0000008LlWL.html"
@@ -44,7 +25,7 @@
             "snippet": "FRANCE 24Chypre: un pas vers la r\u00e9unification grce au ballon rond?FRANCE 24Le rapprochement entre la R\u00e9publique de Chypre au sud et la r\u00e9publique turque de Chypre nord pourrait se faire grce au football. Apr\u00e8s soixante ans d'isolement sportif,...",
             "date": "2015-03-30",
             "categories": "football",
-            "tags": "sportif,sud,ballon,france,football,apr\u00e8s",
+            "tags": "sportif,football,sud,ballon,apr\u00e8s",
             "recuweb_url": "http://fr.recuweb.com/football/france24.com/2015/03/chypre-un-pas-vers-la-r%C3%A9unification-grce-au-ballon-rond-france",
             "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bde%2Bballon%2Bsport%2Bde%2Bballon&output=atom&nord=1",
             "source_url": "http://france24.com/fr/20150330-football-rapprochement-chypre-divisee-federation-turc-grec-politique-diplomatie-reunification-uefa-fifa/"
