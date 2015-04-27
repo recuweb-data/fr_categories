@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ju-jitsu",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ju-jitsu/",
@@ -10,24 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ju-jitsu/ju-jitsu/blogs.json"
     },
     "items": {
-        "bibamagazine.fr/2015/02/le-jujitsu-pour-bien-se-d%C3%A9fendre": {
-            "title": "Le jujitsu pour bien se d\u00e9fendre...",
-            "snippet": "Le jujitsu, quest-ce que cest? Le jujitsu fait partie des arts martiaux. Il est \u00e9galement qualifi\u00e9 de sport de combat, m\u00eame si la d\u00e9fense est plus importante que lattaque. Lessentiel, cest la ma\u00eetrise de son adversaire. On peut...",
-            "date": "2015-02-22",
-            "categories": "arts,sport",
-            "tags": "m\u00eame,d\u00e9fense,jujitsu,arts,martiaux,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/bibamagazine.fr/2015/02/le-jujitsu-pour-bien-se-d%C3%A9fendre",
+        "gazettevaldoise.fr/2015/04/ju-jitsu-pape-des-arts-martiaux": {
+            "title": "Ju-Jitsu, pape des arts martiaux...",
+            "snippet": "Plusieurs clubs dispensent lenseignement du ju-jitsu br\u00e9silien, une des variantes du ju-jitsu. David en aurait bien eu besoin contre Goliath. Le ju-jitsu ou jujutsu (litt\u00e9ralement art de la souplesse) regroupe des techniques de combat tr\u00e8s...",
+            "date": "2015-04-22",
+            "categories": "arts",
+            "tags": "contre,arts,arts-martiaux,martiaux,jitsu,br\u00e9silien,art,techniques",
+            "recuweb_url": "http://fr.recuweb.com/arts/gazettevaldoise.fr/2015/04/ju-jitsu-pape-des-arts-martiaux",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ju%2Bjitsu&format=RSS&cc=fr",
-            "source_url": "http://bibamagazine.fr/style-de-vie/le-jujitsu-pour-bien-se-defendre-24709"
+            "source_url": "http://gazettevaldoise.fr/2015/04/22/ju-jitsu-\u201cpape\u201d-des-arts-martiaux/"
         },
-        "lerepublicain.net/2015/02/testez-gratuitement-le-jujitsu-r%C3%A9publicain": {
-            "title": "Testez gratuitement le jujitsu - Le R\u00e9publicain...",
-            "snippet": "Le R\u00e9publicainTestez gratuitement le jujitsuLe R\u00e9publicainDiscipline d'attaque et de d\u00e9fense, le jujitsu permet, tout en respectant des r\u00e8gles de s\u00e9curit\u00e9 incontournables, d'apprendre des techniques ancestrales. Les cours, v\u00e9ritablement...",
-            "date": "2015-02-07",
-            "tags": "d\u00e9fense,jujitsu,techniques",
-            "recuweb_url": "http://fr.recuweb.com/lerepublicain.net/2015/02/testez-gratuitement-le-jujitsu-r%C3%A9publicain",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ju%2Bjitsu&output=atom&nord=1",
-            "source_url": "http://lerepublicain.net/testez-gratuitement-le-jujitsu_24734/"
+        "sudouest.fr/2015/04/du-jiu-jitsu-mais-br%C3%A9silien-sud-ouest": {
+            "title": "Du jiu-jitsu, mais br\u00e9silien! - Sud Ouest...",
+            "snippet": "Du jiu-jitsu, mais br\u00e9silien!Sud OuestInd\u00e9niablement, les Nippons dominent de la t\u00eate et des \u00e9paules: les g\u00e9ants du sumo, les classiques judokas et karatekas, les adeptes de l'a\u00efkido, ceux qui, moins nombreux, pratiquent le kendo et aussi la...",
+            "date": "2015-04-21",
+            "tags": "judokas,br\u00e9silien,jitsu,a\u00efkido",
+            "recuweb_url": "http://fr.recuweb.com/sudouest.fr/2015/04/du-jiu-jitsu-mais-br%C3%A9silien-sud-ouest",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ju%2Bjitsu%2Bju%2Bjitsu&output=atom&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/21/du-jiu-jitsu-mais-bresilien-1898596-3318.php"
+        },
+        "ladepeche.fr/2015/04/un-expert-en-jujitsu-pour-les-judokas": {
+            "title": "Un expert en jujitsu pour les judokas -...",
+            "snippet": "expert en jujitsu pour les Judo-Club espalionnais \u00e9tait en stage avec un expert en judo jujitsu. Ce fut une belle journ\u00e9e ce samedi 11 avril pour le Judo-Club espalionnais qui recevait Ahmed Chabi pour un stage sur les tatamis du dojo de...",
+            "date": "2015-04-17",
+            "categories": "judo",
+            "tags": "jujitsu,judokas,judo,club",
+            "recuweb_url": "http://fr.recuweb.com/judo/ladepeche.fr/2015/04/un-expert-en-jujitsu-pour-les-judokas",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ju%2Bjitsu%2Bju%2Bjitsu&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/17/2088966-un-expert-en-jujitsu-pour-les-judokas.html"
         }
     }
 }
