@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pop/",
@@ -11,62 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
-        "msn.com/2015/04/douze-ans-apr%C3%A8s-blur-reprend-son-exploration-de-la-pop": {
-            "title": "Douze ans apr\u00e8s, Blur reprend son exploration de la pop...",
-            "snippet": "Le groupe britannique Blur, porte-drapeau de la Britpop des ann\u00e9es 90 avec son meilleur ennemi Oasis, reprend son inventive exploration de la pop avec un nouvel album que les fans n'osaient plus esp\u00e9rer, douze ans apr\u00e8s le dernier. Pendant que...",
-            "date": "2015-04-25",
+        "liberation.fr/2015/04/au-caf%C3%A9-de-la-danse-clap-pop-lib%C3%A9ration": {
+            "title": "Au Caf\u00e9 de la danse, clap de pop - Lib\u00e9ration...",
+            "snippet": "Au Caf\u00e9 de la danse, clap de popLib\u00e9rationClap Your Hands, avec un leitmotiv qu'on pourrait difficilement imaginer plus flou, mosa\u00efque musicale aux accents pop, repose sur une s\u00e9lection r\u00e9guli\u00e8rement fiable, ainsi que le confirme la grille de...",
+            "date": "2015-04-27",
             "categories": "pop",
-            "tags": "apr\u00e8s,pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/msn.com/2015/04/douze-ans-apr%C3%A8s-blur-reprend-son-exploration-de-la-pop",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
-            "source_url": "http://msn.com/fr-fr/musique/actualite/douze-ans-apr\u00e8s-blur-reprend-son-exploration-de-la-pop/ar-AAbC19D"
+            "tags": "musicale,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/liberation.fr/2015/04/au-caf%C3%A9-de-la-danse-clap-pop-lib%C3%A9ration",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "source_url": "http://liberation.fr/culture/2015/04/26/au-cafe-de-la-danse-clap-de-pop_1269671"
         },
-        "fan2.fr/2015/04/justin-bieber-prince-of-pop-sexy-en-couverture-de-hero": {
-            "title": "Justin Bieber, \"Prince of Pop\", sexy en couverture de HERO... -...",
-            "snippet": "Bieber, \"Prince of Pop\", sexy en couverture de HERO... 'est un privil\u00e8ge exceptionnel d'appara\u00eetre en couverture de HERO Magazine, publi\u00e9 seulement deux fois dans l'ann\u00e9e. Dans son prochain num\u00e9ro, Justin Bieber, sous les traits du \"Prince of...",
+        "etudiant.aujourdhui.fr/2015/04/les-inouis-pop-rock": {
+            "title": "LES INOUIS POP ROCK...",
+            "snippet": "LE PRINTEMPS DE BOURGES (2-1059928) presente ce concert. Le Printemps de Bourges Cr\u00e9dit Mutuel - 39\u00e8me \u00e9dition Du 24 au 29 avril 2015 Ev\u00e8nement musical incontournable, Le Printemps de Bourges Cr\u00e9dit Mutuel donne le ton en ouvrant chaque ann\u00e9e...",
+            "date": "2015-04-27",
+            "categories": "pop,rock",
+            "tags": "donne,ann\u00e9e,concert,printemps,pop,avril",
+            "recuweb_url": "http://fr.recuweb.com/rock/etudiant.aujourdhui.fr/2015/04/les-inouis-pop-rock",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
+            "source_url": "http://etudiant.aujourdhui.fr/etudiant/sortie/les-inouis-pop-rock-bourges.html"
+        },
+        "vogue.fr/2015/04/la-collection-pop-de-lancel": {
+            "title": "La collection Pop de Lancel -...",
+            "snippet": "La collection Pop de \u00e8s le mod\u00e8le Charlie en 2014, la maison de maroquinerie fran\u00e7aise signe, pour le printemps-\u00e9t\u00e9 2015, une toute nouvelle ligne de sacs mixtes baptis\u00e9e Pop qui a \u00e9t\u00e9 d\u00e9voil\u00e9e le 23 avril au Palais de Tokyo. Poches...",
+            "date": "2015-04-27",
+            "categories": "collection,pop",
+            "tags": "avril,\u00e9t\u00e9,nouvelle,printemps,fran\u00e7aise,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/vogue.fr/2015/04/la-collection-pop-de-lancel",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "source_url": "http://vogue.fr/mode/news-mode/diaporama/la-collection-pop-de-lancel/20232"
+        },
+        "fr.euronews.com/2015/04/love-is-a-drug-le-virage-pop-de-markus-feehily": {
+            "title": "Love is a drug, le virage pop de Markus Feehily...",
+            "snippet": "Pr\u00e8s de trois ans apr\u00e8s que le groupe irlandais Westlife sest s\u00e9par\u00e9, voici que lun de ses anciens membres Mark Feehily, qui sappelle d\u00e9sormais Markus Feehily, revient avec un album solo intitul\u00e9 Love is a drug. Cette nouvelle chanson...",
+            "date": "2015-04-27",
+            "categories": "pop",
+            "tags": "nouvelle,album,voici,apr\u00e8s,love,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/fr.euronews.com/2015/04/love-is-a-drug-le-virage-pop-de-markus-feehily",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
+            "source_url": "http://fr.euronews.com/2015/04/27/love-is-a-drug-le-virage-pop-de-markus-feehily/"
+        },
+        "chartsinfrance.net/2015/04/jolin-tsai-queen-of-c-pop": {
+            "title": "Jolin Tsai - Queen Of C-Pop...",
+            "snippet": "Malgr\u00e9 la pol\u00e9mique a sa sortie dont une d\u00e9nonciation de copyonc\u00e9 un girlsband K-pop (dont je ne connais pas) cela n'a pas entrav\u00e9 le succ\u00e8s du morceau et de l'album qui se classe parfaitement bien dans les charts Taiwanais. D'ailleurs...",
+            "date": "2015-04-26",
+            "categories": "pop",
+            "tags": "album,cela,connais,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/chartsinfrance.net/2015/04/jolin-tsai-queen-of-c-pop",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
+            "source_url": "http://chartsinfrance.net/communaute/index.php?/topic/55313-jolin-tsai-queen-of-c-pop/"
+        },
+        "fan2.fr/2015/04/justin-bieber-prince-of-pop-sexy-en-couverture-de-hero-magazine": {
+            "title": "Justin Bieber, Prince of Pop, sexy en couverture de HERO Magazine!",
+            "snippet": "C'est un privil\u00e8ge exceptionnel d'appara\u00eetre en couverture de HERO Magazine, publi\u00e9 seulement deux fois dans l'ann\u00e9e. Dans son prochain num\u00e9ro, Justin Bieber, sous les traits du Prince of Pop, est sexy sur le prochain num\u00e9ro. La r\u00e9dac de...",
             "date": "2015-04-25",
             "categories": "pop",
             "tags": "pop,ann\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/pop/fan2.fr/2015/04/justin-bieber-prince-of-pop-sexy-en-couverture-de-hero",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "recuweb_url": "http://fr.recuweb.com/pop/fan2.fr/2015/04/justin-bieber-prince-of-pop-sexy-en-couverture-de-hero-magazine",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
             "source_url": "http://fan2.fr/justin-bieber-prince-of-pop-sexy-en-couverture-de-hero-magazine-a404475.html"
-        },
-        "pc-infopratique.com/2015/04/pop-up-intempestif": {
-            "title": "Pop up intempestif...",
-            "snippet": "Depuis quelques temps, j'ai un petit souci: un pop up... qui appara\u00eet plusieurs fois dans la journ\u00e9e. Etrangement, ce pop up est encadr\u00e9 de vert (signe que Kasperky prot\u00e8ge ma navigation dans ce pop up) Bref, j'ai justement...",
-            "date": "2015-04-25",
-            "categories": "navigation,pop",
-            "tags": "appara\u00eet,petit,pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/pc-infopratique.com/2015/04/pop-up-intempestif",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
-            "source_url": "http://pc-infopratique.com/forum-informatique/pop-up-intempestif-vt-77267.html"
-        },
-        "alter1fo.com/2015/04/deuxi%C3%A8me-set-gagnant-pour-pop-is-on-fire": {
-            "title": "Deuxi\u00e8me set gagnant pour Pop is on Fire!",
-            "snippet": "Ok, ok on ne saventurera pas plus dans les jeux de mots tennistiques mais sachez que les Pop is on Fire! (webzine rennais) organisent leur deuxi\u00e8me concert ce samedi 25 Avril au BarHic avec une belle affiche indie-pop des plus classieuses...",
-            "date": "2015-04-24",
-            "categories": "pop",
-            "tags": "concert,pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/alter1fo.com/2015/04/deuxi%C3%A8me-set-gagnant-pour-pop-is-on-fire",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
-            "source_url": "http://alter1fo.com/deuxieme-set-gagnant-pour-pop-is-on-fire-95247"
-        },
-        "puretrend.com/2015/04/iggy-pop-f%C3%AAte-ses-68-ans-10-anecdotes-sur-le-parrain": {
-            "title": "Iggy Pop f\u00eate ses 68 ans: 10 anecdotes sur le parrain du punk...",
-            "snippet": "Consid\u00e9r\u00e9 comme le parrain du mouvement punk, Iggy Pop, de son vrai nom James Newel \u00d6sterberg Jr, a beau avoir plus de cinquante ans de carri\u00e8re derri\u00e8re lui, il reste une v\u00e9ritable l\u00e9gende comme on en fait peu. Il faut dire qu'en plus...",
-            "date": "2015-04-21",
-            "categories": "pop",
-            "tags": "comme,peu,nom,pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/puretrend.com/2015/04/iggy-pop-f%C3%AAte-ses-68-ans-10-anecdotes-sur-le-parrain",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
-            "source_url": "http://puretrend.com/article/iggy-pop-fete-ses-68-ans-10-anecdotes-sur-le-parrain-du-punk_a112289/1"
         },
         "ladepeche.fr/2015/04/les-bateaux-pop-en-comp%C3%A9tition": {
             "title": "Les bateaux pop-pop en comp\u00e9tition...",
             "snippet": "Quand passion, patience, habilet\u00e9 et talent se conjuguent avec une bonne dose d'humour et de l\u00e9g\u00e8ret\u00e9, le r\u00e9sultat ne peut qu'\u00eatre qu'original avec un petit brin de folie. Cela donne des bateaux pop-pop (du nom du bruit qu'ils font en...",
             "date": "2015-04-18",
             "categories": "humour,pop",
-            "tags": "nom,petit,peut,pop",
+            "tags": "donne,peut,pop,cela",
             "recuweb_url": "http://fr.recuweb.com/pop/ladepeche.fr/2015/04/les-bateaux-pop-en-comp%C3%A9tition",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pop%2Bpop&format=RSS&cc=fr",
             "source_url": "http://ladepeche.fr/article/2015/04/18/2089540-les-bateaux-pop-pop-en-competition.html"
@@ -76,27 +86,17 @@
             "snippet": "Parisa a m\u00eame fait un clip pour son titre entra\u00eenant Pop Pop Kudu. Et on peut aussi la voir dans un clip d'une star fran\u00e7aise: Lacrim! Eh oui, Parisa appara\u00eet aux bras du rappeur au d\u00e9but du clip vid\u00e9o de D'o\u00f9 je viens tu connais.",
             "date": "2015-04-18",
             "categories": "clip,pop",
-            "tags": "appara\u00eet,star,peut,aussi,pop",
+            "tags": "connais,star,fran\u00e7aise,peut,aussi,pop",
             "recuweb_url": "http://fr.recuweb.com/pop/staragora.com/2015/04/parisa-la-bookeuse-des-marseillais-en-tha%C3%AFlande-met-le-feu",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pop%2Bpop&format=RSS&cc=fr",
             "source_url": "http://staragora.com/news/parisa-la-bookeuse-des-marseillais-en-thailande-met-le-feu-au-clip-de-lacrim/510671"
-        },
-        "lesinrocks.com/2015/04/pop-th%C3%A9ologie-tous-artistes-protestants-les-inrocks": {
-            "title": "Pop th\u00e9ologie: tous artistes, tous protestants? - Les Inrocks...",
-            "snippet": "Pop th\u00e9ologie: tous artistes, tous protestants?Les InrocksDans un essai singulier, Pop th\u00e9ologie, Mark Alizart per\u00e7oit une affinit\u00e9 \u00e9lective entre l'esprit du protestantisme et la postmodernit\u00e9. En mobilisant de multiples sources et en...",
-            "date": "2015-04-15",
-            "categories": "protestantisme,pop",
-            "tags": "pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/lesinrocks.com/2015/04/pop-th%C3%A9ologie-tous-artistes-protestants-les-inrocks",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pop%2Bpop&output=atom&nord=1",
-            "source_url": "http://lesinrocks.com/2015/04/15/livres/pop-theologie-tous-artistes-tous-protestants-11646020/"
         },
         "fr.news.yahoo.com/2015/04/paris-jackson-la-fille-du-king-of-pop-a-trouve-l": {
             "title": "Paris Jackson: la fille du King of Pop a trouve l'amour...",
             "snippet": "Enfin de bonnes nouvelles! Paris Jackson a trouv\u00e9 l'amour et n'a jamais \u00e9t\u00e9 aussi heureuse. Une love story qui sonne comme une revanche sur la vie pour l'adolescente de 17 ans. Puretrend vous...",
             "date": "2015-04-08",
             "categories": "pop",
-            "tags": "comme,aussi,pop",
+            "tags": "comme,\u00e9t\u00e9,aussi,pop,love",
             "recuweb_url": "http://fr.recuweb.com/pop/fr.news.yahoo.com/2015/04/paris-jackson-la-fille-du-king-of-pop-a-trouve-l",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=pop",
             "source_url": "http://fr.news.yahoo.com/paris-jackson-fille-king-of-pop-trouve-lamour-133000496.html"
