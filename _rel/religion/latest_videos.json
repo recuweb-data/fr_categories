@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "religion",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/religion/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion/religion/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/frank-ocean-bad-religion-center-stage-evergig": {
-            "title": "Frank Ocean Bad Religion - Center Stage - Evergig...",
-            "snippet": "Frank Ocean live (Center Stage) Bad ReligionWatch the full concert on our website: concerts from Frank Ocean: on: www./videos/5MwvlQ05ROWant to watch a specific concert? Go to www., create your own!Like us on Facebook: us on Twitter::...",
-            "date": "2015-04-24",
-            "author_name": "evergig-rnb",
-            "categories": "religion,facebook,twitter",
-            "tags": "create,create-your,create-your-own,your,your-own,own,www,specific,specific-concert,concerts,concert-on-our,our,our-website,website,bad,bad_religion,religion,frank,frank_ocean,ocean,frank_ocean_bad,ocean_bad,ocean_bad_religion,evergig,live,facebook,twitter",
-            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2015/04/frank-ocean-bad-religion-center-stage-evergig",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/religion/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nss9x_frank-ocean-bad-religion-center-stage-evergig_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nss9x_frank-ocean-bad-religion-center-stage-evergig_music"
-        },
         "dailymotion.com/2015/04/frank-ocean-bad-religion-club-soda-evergig": {
             "title": "Frank Ocean Bad Religion - Club Soda - Evergig...",
             "snippet": "Frank Ocean live (Club Soda) Bad ReligionWatch the full concert on our website: concerts from Frank Ocean: on: www./videos/tAaluNxou1Want to watch a specific concert? Go to www., create your own!Like us on Facebook: us on Twitter:: evergig-rnbTags:...",
@@ -125,11 +113,23 @@
             "date": "2015-04-15",
             "author_name": "Europe1fr",
             "categories": "religion,facebook",
-            "tags": "thomas,religion,retrouvez,facebook",
+            "tags": "v\u00e9rit\u00e9,thomas,religion,retrouvez,facebook",
             "recuweb_url": "http://fr.recuweb.com/facebook/dailymotion.com/2015/04/meriam-rhaeim-ce-n-est-pas-une-religion-c-secte",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/religion/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mpv71_meriam-rhaeim-ce-n-est-pas-une-religion-c-est-une-secte_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mpv71_meriam-rhaeim-ce-n-est-pas-une-religion-c-est-une-secte_news"
+        },
+        "youtube.com/2015/03/la-guerre-contre-religion-d-allah": {
+            "title": "La guerre contre la religion d'Allah...",
+            "snippet": "La guerre contre la religion d'Allah From: La V\u00e9rit\u00e9 D\u00e9range 3 Views: 2658 31 ratings Time: 58:48 More in People & Blogs...",
+            "date": "2015-03-14",
+            "author_name": "La V\u00e9rit\u00e9 D\u00e9range 3",
+            "categories": "religion",
+            "tags": "v\u00e9rit\u00e9,guerre,religion",
+            "recuweb_url": "http://fr.recuweb.com/religion/youtube.com/2015/03/la-guerre-contre-religion-d-allah",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=religion%2Breligion&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=b3oAevcJXOk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/b3oAevcJXOk/0.jpg"
         }
     }
 }
