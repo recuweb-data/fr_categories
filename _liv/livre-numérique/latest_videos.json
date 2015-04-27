@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "livre-num\u00e9rique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/livre-num\u00e9rique/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/les-usages-du-livre-num%C3%A9rique": {
+            "title": "Les usages du livre num\u00e9rique...",
+            "snippet": "Videomotion sur le barom\u00e8tre des usages du livre num\u00e9rique, r\u00e9alis\u00e9 pour Sofia/SNE/SGDL, pr\u00e9sent\u00e9 lors du Salon du livre de Paris: opinionwayTags: Design Infographie Opinionway motion \u00e9tudes barom\u00e8tre SNE SGDL Paris num\u00e9rique Posted: 13...",
+            "date": "2015-04-13",
+            "author_name": "opinionway",
+            "tags": "barom\u00e8tre,livre,lors,usages,usages-du-livre,livre-num\u00e9rique,num\u00e9rique,sofia,sne,sgdl,salon,paris",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/les-usages-du-livre-num%C3%A9rique",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/livre+num%C3%A9rique+livre+num%C3%A9rique/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mjjyu_les-usages-du-livre-nume-rique_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mjjyu_les-usages-du-livre-nume-rique_news"
+        },
         "dailymotion.com/2015/04/merci-coach-33-le-succ%C3%A8s-du-livre-num%C3%A9rique": {
             "title": "merci coach 33: le succ\u00e8s du livre num\u00e9rique...",
             "snippet": "Et si votre biblioth\u00e8que enti\u00e8re ne tenait plus que dans votre poche? C'est le principe du livre num\u00e9rique. Charlie vous dit tout sur cette nouvelle mani\u00e8re d'appr\u00e9hender la lecture. mercicoach \u00c9dito-conception: Karine Georges et Thomas...",
@@ -17,7 +29,7 @@
             "author_name": "live-orange-tv-fr",
             "tags": "livre,livre-num\u00e9rique,num\u00e9rique",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/merci-coach-33-le-succ%C3%A8s-du-livre-num%C3%A9rique",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/livre+num%C3%A9rique+livre+num%C3%A9rique/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/livre+num%C3%A9rique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ldpk7_merci-coach-33-le-succes-du-livre-numerique_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ldpk7_merci-coach-33-le-succes-du-livre-numerique_tech"
         },
@@ -27,20 +39,31 @@
             "date": "2015-03-23",
             "author_name": "francetvinfo",
             "categories": "science,culture",
-            "tags": "livres,livre,france,liseuse,livre-num\u00e9rique,num\u00e9rique,fran\u00e7ais",
+            "tags": "livres,livre,france,livre-num\u00e9rique,num\u00e9rique,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/03/faut-il-se-laisser-tenter-par-le-livre-num%C3%A9rique",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/livre+num%C3%A9rique+livre+num%C3%A9rique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2kcx5k_faut-il-se-laisser-tenter-par-le-livre-numerique_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2kcx5k_faut-il-se-laisser-tenter-par-le-livre-numerique_news"
+        },
+        "youtube.com/2015/03/salon-du-livre-2015-le-num%C3%A9rique-congolais-est-d%C3%A9sormais-disponible": {
+            "title": "SALON DU LIVRE 2015. Le livre num\u00e9rique congolais est d\u00e9sormais disponible, avec Christian...",
+            "snippet": "SALON DU LIVRE 2015. Le livre num\u00e9rique congolais est d\u00e9sormais disponible, avec Christian Kibamba Les Editions ont pour ambition de r\u00e9volutionner le monde de l'\u00e9dition congolais en proposant d\u00e9sormais des \u00e9ditions de livres num\u00e9riques et des...",
+            "date": "2015-03-22",
+            "author_name": "ZIANA TV",
+            "tags": "\u00e9ditions,livres,livre,livres-num\u00e9riques,num\u00e9riques,num\u00e9rique,livre-num\u00e9rique,salon",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/03/salon-du-livre-2015-le-num%C3%A9rique-congolais-est-d%C3%A9sormais-disponible",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=livre%2Bnum%C3%A9rique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=-5VmthsheD4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/-5VmthsheD4/0.jpg"
         },
         "youtube.com/2015/03/barom%C3%A8tre-sofia-sne-sgdl-du-livre-num%C3%A9rique-mars-2015": {
             "title": "Barom\u00e8tre SOFIA/SNE/SGDL du livre num\u00e9rique, mars 2015...",
             "snippet": "Barom\u00e8tre SOFIA/SNE/SGDL du livre num\u00e9rique, mars 2015 Les r\u00e9sultats du 5eme Barom\u00e8tre SOFIA/SNE/SGDL sur les usages du livre num\u00e9rique en France ont \u00e9t\u00e9 publi\u00e9s lors des Assises du livre num\u00e9rique du SNE, au dernier Salon du livre de...",
             "date": "2015-03-19",
             "author_name": "La Sofia",
-            "tags": "livre,livre-num\u00e9rique,num\u00e9rique,\u00e9t\u00e9,usages,mars,france",
+            "tags": "livre,livre-num\u00e9rique,num\u00e9rique,\u00e9t\u00e9,lors,usages,usages-du-livre,barom\u00e8tre,sofia,sne,sgdl,mars,france,salon",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/03/barom%C3%A8tre-sofia-sne-sgdl-du-livre-num%C3%A9rique-mars-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=livre%2Bnum%C3%A9rique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=NWGrTTSP8hI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/NWGrTTSP8hI/0.jpg"
         },
@@ -83,40 +106,18 @@
             "snippet": "Conf\u00e9rence: \"Livre objet, livre num\u00e9rique\". Journ\u00e9es Crossmedias 2015. Conf\u00e9rence de \u00c9tienne Mineur, cofondateur des \"\u00c9ditions Volumiques\" et professeur \u00e0 l'ENSAD de Paris et \u00e0 la HEAD de Gen\u00e8ve. Cette conf\u00e9rence fait partie des activit\u00e9s...",
             "date": "2015-02-05",
             "author_name": "Cr\u00e9aTIC Idefi",
-            "tags": "livre,livre-num\u00e9rique,num\u00e9rique",
+            "tags": "\u00e9ditions,livre,livre-num\u00e9rique,num\u00e9rique,paris",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/02/conf%C3%A9rence-livre-objet-num%C3%A9rique-journ%C3%A9es-crossmedias-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=livre%2Bnum%C3%A9rique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=eOYrWMDajGI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/eOYrWMDajGI/0.jpg"
-        },
-        "dailymotion.com/2015/01/comment-transf%C3%A9rer-votre-livre-num%C3%A9rique-sur-liseuse": {
-            "title": "Comment transf\u00e9rer votre livre num\u00e9rique sur votre liseuse...",
-            "snippet": "Author: epagineTags: livre num\u00e9rique Adobe Digital Editions PocketBook Bookeen Liseuse Posted: 14 January 2015Rating:: 0...",
-            "date": "2015-01-14",
-            "author_name": "epagine",
-            "tags": "liseuse,livre,livre-num\u00e9rique,num\u00e9rique",
-            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/01/comment-transf%C3%A9rer-votre-livre-num%C3%A9rique-sur-liseuse",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/livre+num%C3%A9rique/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2eqh8f_comment-transferer-votre-livre-numerique-sur-votre-liseuse_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2eqh8f_comment-transferer-votre-livre-numerique-sur-votre-liseuse_tech"
-        },
-        "youtube.com/2015/01/le-livre-num%C3%A9rique-voolume": {
-            "title": "Le livre num\u00e9rique - VOolume...",
-            "snippet": "Le livre num\u00e9rique - VOolume Le livre classique s'enrichit aujourd'hui de diff\u00e9rentes mani\u00e8res: le livre lu (qui existait 60 ans auparavant pour la Jeunesse), mais aussi par des apports technologiques r\u00e9cents comme... From: PointCulture TV...",
-            "date": "2015-01-06",
-            "author_name": "PointCulture TV",
-            "tags": "livre,livre-num\u00e9rique,num\u00e9rique",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/01/le-livre-num%C3%A9rique-voolume",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=livre%2Bnum%C3%A9rique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Q9gEZLFLhL4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Q9gEZLFLhL4/0.jpg"
         },
         "dailymotion.com/2014/12/comment-hachette-livre-a-t-il-affront%C3%A9-amazon-sur-le-prix": {
             "title": "Comment Hachette Livre a-t-il affront\u00e9 Amazon sur le prix des livres num\u00e9riques?: Arnaud...",
             "snippet": "L'accord entre Amazon et Hachette concernant les conditions de vente des livres de l'\u00e9diteur fran\u00e7ais sur le site am\u00e9ricain de la distribution en ligne a \u00e9t\u00e9 le th\u00e8me abord\u00e9 par Arnaud Nourry, pr\u00e9sident directeur g\u00e9n\u00e9ral du groupe. Au...",
             "date": "2014-12-17",
             "author_name": "BFMBUSINESS",
-            "tags": "pr\u00e9sident,pr\u00e9sident-directeur,pr\u00e9sident-directeur-g\u00e9n\u00e9ral,directeur,directeur-g\u00e9n\u00e9ral,g\u00e9n\u00e9ral,g\u00e9n\u00e9ral-du-groupe,groupe,fran\u00e7ais,\u00e9t\u00e9,livres,livre,prix,hachette,arnaud",
+            "tags": "pr\u00e9sident,pr\u00e9sident-directeur,pr\u00e9sident-directeur-g\u00e9n\u00e9ral,directeur,directeur-g\u00e9n\u00e9ral,g\u00e9n\u00e9ral,g\u00e9n\u00e9ral-du-groupe,groupe,fran\u00e7ais,\u00e9t\u00e9,livres,livre,prix,livres-num\u00e9riques,num\u00e9riques,hachette,arnaud",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2014/12/comment-hachette-livre-a-t-il-affront%C3%A9-amazon-sur-le-prix",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/livre+num%C3%A9rique+livre+num%C3%A9rique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cqlwc_comment-hachette-livre-a-t-il-affronte-amazon-sur-le-prix-des-livres-numeriques-arnaud-nourry-17-12_news",
