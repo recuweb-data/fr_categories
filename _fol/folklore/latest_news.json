@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "folklore",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/folklore/",
@@ -10,44 +11,74 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/blogs.json"
     },
     "items": {
+        "lefaso.net/2015/04/la-journ%C3%A9e-nationale-au-paysan-un-folklore": {
+            "title": "La journ\u00e9e Nationale au Paysan, un folklore?",
+            "snippet": "Cette journ\u00e9e institu\u00e9e depuis dix-huit ans est une occasion de rencontre entre les acteurs de lagriculture et les d\u00e9cideurs politiques de notre pays au plus haut sommet dont le Pr\u00e9sident du Faso. Cest loccasion pour les paysans d\u00e9grener...",
+            "date": "2015-04-23",
+            "categories": "politique,folklore",
+            "tags": "dix,folklore",
+            "recuweb_url": "http://fr.recuweb.com/folklore/lefaso.net/2015/04/la-journ%C3%A9e-nationale-au-paysan-un-folklore",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=folklore&format=RSS&cc=fr",
+            "source_url": "http://lefaso.net/spip.php?article64365"
+        },
+        "rmc.bfmtv.com/2015/04/num%C3%A9ro-42-interdit-lol-a-t-il-bien-fait-de-revenir": {
+            "title": "Num\u00e9ro 42 interdit, lOL a-t-il bien fait de revenir en arri\u00e8re?",
+            "snippet": "la direction g\u00e9n\u00e9rale a pris cette d\u00e9cision car le derby doit demeurer un \u00e9v\u00e9nement (...) empreint de folklore et de l\u00e9gende mais aussi de sinc\u00e8re amiti\u00e9, excluant aversion et d\u00e9bordement.",
+            "date": "2015-04-23",
+            "categories": "folklore",
+            "tags": "folklore",
+            "recuweb_url": "http://fr.recuweb.com/folklore/rmc.bfmtv.com/2015/04/num%C3%A9ro-42-interdit-lol-a-t-il-bien-fait-de-revenir",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=folklore&format=RSS&cc=fr",
+            "source_url": "http://rmc.bfmtv.com/point-de-vue/numero-42-interdit-l-ol-a-t-il-bien-fait-de-revenir-en-arriere-642874.html"
+        },
+        "ladepeche.fr/2015/04/si-le-papogay-m-%C3%A9tait-cont%C3%A9-folklore": {
+            "title": "Si le papogay m'\u00e9tait cont\u00e9 Le Folklore: -...",
+            "snippet": "le papogay m'\u00e9tait cont\u00e9 Le Folklore: Papogay de l'an 2015 va rev\u00eatir un \u00e9clat tout particulier, le groupe folklorique des Arqui\u00e8rots del Papogay f\u00eate cette ann\u00e9e leur 50e anniversaire. Le groupe voit le jour sous l'impulsion de Jules...",
+            "date": "2015-04-22",
+            "categories": "folklore",
+            "tags": "ann\u00e9e,folklore,groupe",
+            "recuweb_url": "http://fr.recuweb.com/folklore/ladepeche.fr/2015/04/si-le-papogay-m-%C3%A9tait-cont%C3%A9-folklore",
+            "resource_url": "http://news.google.fr/?hl=fr&q=folklore%2Bfolklore&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/22/2091893-si-le-papogay-m-etait-conte-le-folklore.html"
+        },
+        "lemonde.fr/2015/04/le-folklore-pudique-et-dynamique-de-christian-rizzo": {
+            "title": "Le folklore pudique et dynamique de Christian Rizzo...",
+            "snippet": "Le chor\u00e9graphe Christian Rizzo est d\u00e9bord\u00e9!. Par le succ\u00e8s, le boulot, le bonheur Depuis l'\u00e9norme succ\u00e8s de son spectacle D'apr\u00e8s une histoire vraie, au Festival d'Avignon 2013, Rizzo encha\u00eene les tourn\u00e9es non-stop avec sa bande de dix...",
+            "date": "2015-04-21",
+            "categories": "bonheur,folklore",
+            "tags": "dix,spectacle,folklore",
+            "recuweb_url": "http://fr.recuweb.com/folklore/lemonde.fr/2015/04/le-folklore-pudique-et-dynamique-de-christian-rizzo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=folklore&format=RSS&cc=fr",
+            "source_url": "http://lemonde.fr/culture/article/2015/04/21/reprise-christian-rizzo-au-centquatre_4617034_3246.html"
+        },
+        "lavenir.net/2015/04/anne-visage-du-folklore-jambois": {
+            "title": "Anne, visage du folklore jambois -...",
+            "snippet": ", visage du folklore folklore est une v\u00e9ritable d\u00e9marche interg\u00e9n\u00e9rationnelle. Anne raconte comment il est facile d'embrasser le folklore namurois. Dans la frairie jamboise, il suffit de prendre le temps, le vendredi, d'aller aux r\u00e9p\u00e9titions.",
+            "date": "2015-04-20",
+            "categories": "folklore",
+            "tags": "folklore",
+            "recuweb_url": "http://fr.recuweb.com/folklore/lavenir.net/2015/04/anne-visage-du-folklore-jambois",
+            "resource_url": "http://news.google.fr/?hl=fr&q=folklore%2Bfolklore&output=atom&nord=1",
+            "source_url": "http://lavenir.net/cnt/DMF20150419_00635226"
+        },
         "lanouvellerepublique.fr/2015/04/folklore-danses-et-chants-de-normandie-la-nouvelle-r%C3%A9publique": {
             "title": "FOLKLORE Danses et chants de Normandie - la Nouvelle R\u00e9publique...",
             "snippet": "FOLKLORE Danses et chants de Normandiela Nouvelle R\u00e9publiqueA l'initiative de La Gouline vend\u00f4moise, le groupe normand Les Triolettes de Villedieu-les-Po\u00eales pr\u00e9sente un spectacle de danses et de chants folkloriques de Normandie avec les...",
             "date": "2015-04-17",
             "categories": "folklore",
-            "tags": "danses,folklore,groupe",
+            "tags": "spectacle,folklore,groupe",
             "recuweb_url": "http://fr.recuweb.com/folklore/lanouvellerepublique.fr/2015/04/folklore-danses-et-chants-de-normandie-la-nouvelle-r%C3%A9publique",
             "resource_url": "http://news.google.fr/?hl=fr&q=folklore%2Bfolklore&output=atom&nord=1",
             "source_url": "http://lanouvellerepublique.fr/Loir-et-Cher/Actualite/24-Heures/n/Contenus/Articles/2015/04/16/FOLKLORE-Danses-et-chants-de-Normandie-2296183"
-        },
-        "digitalcongo.net/2015/04/rdc-vers-linstitution-de-la-journ%C3%A9e-nationale-du-folklore": {
-            "title": "RDC: Vers linstitution de la journ\u00e9e nationale du Folklore...",
-            "snippet": "Des experts du minist\u00e8re de la Culture et des arts, en collaboration avec lUNAFOCO, sollicitent de ce minist\u00e8re la prise dun arr\u00eat\u00e9 devant instituer RDC une journ\u00e9e nationale du folklore. La commission mixte comprenant des experts du...",
-            "date": "2015-04-15",
-            "categories": "arts,folklore,culture",
-            "tags": "folklore,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/digitalcongo.net/2015/04/rdc-vers-linstitution-de-la-journ%C3%A9e-nationale-du-folklore",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=folklore&format=RSS&cc=fr",
-            "source_url": "http://digitalcongo.net/article/106602"
-        },
-        "ladepeche.fr/2015/03/folklore-le-56-e-festival-est-lanc%C3%A9": {
-            "title": "Folklore: le 56 e festival est lanc\u00e9 -...",
-            "snippet": ": le 56 e festival est lanc\u00e9, Philippe Mourembles le directeur du festival mondial de folklore de Montr\u00e9jeau Folkolor a r\u00e9uni ses b\u00e9n\u00e9voles pour pr\u00e9senter le 56 e Festival Folkolor danses et traditions d'un monde color\u00e9. Cette manifestation...",
-            "date": "2015-03-31",
-            "categories": "tradition,folklore",
-            "tags": "danses,traditions,folklore",
-            "recuweb_url": "http://fr.recuweb.com/folklore/ladepeche.fr/2015/03/folklore-le-56-e-festival-est-lanc%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=folklore%2Bfolklore&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/03/31/2077483-folklore-le-56-e-festival-est-lance.html"
         },
         "fabula.org/2015/03/folklore-et-francophonie-fabula": {
             "title": "Folklore et francophonie - Fabula...",
             "snippet": "Folklore et francophonieFabulaLe folklore est un processus universel qui regroupe l'ensemble des productions orales (contes, l\u00e9gendes, croyances populaires) transmises de g\u00e9n\u00e9ration en g\u00e9n\u00e9ration. Objet de tradition, nourri par la culture...",
             "date": "2015-03-25",
             "categories": "culture,tradition,folklore",
-            "tags": "culture,folklore",
+            "tags": "folklore",
             "recuweb_url": "http://fr.recuweb.com/folklore/fabula.org/2015/03/folklore-et-francophonie-fabula",
-            "resource_url": "http://news.google.fr/?hl=fr&q=folklore%2Bfolklore&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=folklore&output=atom&nord=1",
             "source_url": "http://fabula.org/actualites/journee-d-etudes-sur-le-folklore-et-la-francophonie_67793.php"
         }
     }
