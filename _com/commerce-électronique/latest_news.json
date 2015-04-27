@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "commerce-\u00e9lectronique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/commerce-\u00e9lectronique/",
@@ -10,72 +11,52 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/commerce-%C3%A9lectronique/commerce-%C3%A9lectronique/blogs.json"
     },
     "items": {
-        "chine-informations.com/2015/04/chine-croissance-de-31%-du-march%C3%A9-l-e-commerce-en-2014": {
-            "title": "Chine: croissance de 31% du march\u00e9 de l'e-commerce en 2014...",
-            "snippet": "Le march\u00e9 chinois du commerce \u00e9lectronique a atteint milliards de yuans (milliards de dollars) en 2014, soit une hausse annuelle de 31,4%, selon un rapport rendu public mercredi. Le volume du march\u00e9 business-to-business (B2B) s'est \u00e9lev\u00e9...",
-            "date": "2015-04-08",
+        "cerclefinance.com/2015/04/cnova-cdiscount-lance-une-boutique-d-objects-connect%C3%A9s": {
+            "title": "Cnova: Cdiscount lance une boutique d'objects connect\u00e9s.",
+            "snippet": "() - Cdiscount, la filiale de commerce \u00e9lectronique de Cnova, a annonc\u00e9 lundi le lancement d'une boutique consacr\u00e9e aux objets connect\u00e9s. Le site compte proposer des objets permettant de s\u00e9curiser sa maison, de ma\u00eetriser sa...",
+            "date": "2015-04-20",
             "categories": "electronique",
-            "tags": "business,selon,mercredi,milliards,milliards-de-dollars,dollars,chinois,chine,commerce,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/chine-informations.com/2015/04/chine-croissance-de-31%-du-march%C3%A9-l-e-commerce-en-2014",
+            "tags": "lancement,commerce,\u00e9lectronique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/cerclefinance.com/2015/04/cnova-cdiscount-lance-une-boutique-d-objects-connect%C3%A9s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=commerce%2B%C3%A9lectronique&format=RSS&cc=fr",
-            "source_url": "http://chine-informations.com/actualite/cn/chine-croissance-de-du-marche-de-e-commerce-en_75488.html"
+            "source_url": "http://cerclefinance.com/default.asp?pub=valactu&isin=NL0010949392&art=414579"
         },
-        "french.china.org.cn/2015/04/l-internet-le-futur-de-%C3%A9conomie-en-ligne-chine": {
-            "title": "L'Internet, le futur de l'\u00e9conomie en ligne en Chine...",
-            "snippet": "Le premier ministre Li Keqiang a d\u00e9clar\u00e9, lors de la r\u00e9union ex\u00e9cutive du Conseil des affaires d'Etat convoqu\u00e9e le 1er avril, que le commerce \u00e9lectronique a permis de r\u00e9duire dans de fortes proportions les prix de circulation, d'entra\u00eener...",
-            "date": "2015-04-07",
-            "categories": "internet,electronique",
-            "tags": "r\u00e9duire,prix,ligne,chine,commerce,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/french.china.org.cn/2015/04/l-internet-le-futur-de-%C3%A9conomie-en-ligne-chine",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=commerce%2B%C3%A9lectronique&format=RSS&cc=fr",
-            "source_url": "http://french.china.org.cn/business/txt/2015-04/07/content_35256845.htm"
+        "directioninformatique.com/2015/04/confection-d-une-place-de-march%C3%A9-commerce-%C3%A9lectronique-ici-direction-informatique": {
+            "title": "Confection d'une place de march\u00e9 de commerce \u00e9lectronique d'ici - Direction Informatique...",
+            "snippet": "Direction InformatiqueConfection d'une place de march\u00e9 de commerce \u00e9lectronique d'iciDirection InformatiqueLe Regroupement des commer\u00e7ants \u00e9lectroniques du Qu\u00e9bec pr\u00e9pare le lancement d'une place de march\u00e9 qu\u00e9b\u00e9coise qui doit regrouper des...",
+            "date": "2015-04-20",
+            "categories": "place,electronique",
+            "tags": "lancement,\u00e9lectronique,commerce,ici",
+            "recuweb_url": "http://fr.recuweb.com/electronique/directioninformatique.com/2015/04/confection-d-une-place-de-march%C3%A9-commerce-%C3%A9lectronique-ici-direction-informatique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=commerce%2B%C3%A9lectronique%2Bcommerce%2B%C3%A9lectronique&output=atom&nord=1",
+            "source_url": "http://directioninformatique.com/confection-dune-place-de-marche-de-commerce-electronique-dici/35321"
         },
         "elmoudjahid.com/2015/04/registre-du-commerce-%C3%A9lectronique-extraits-d%C3%A9livr%C3%A9s-par-el-moudjahid": {
             "title": "Registre du Commerce \u00c9lectronique: extraits d\u00e9livr\u00e9s par... - El Moudjahid...",
             "snippet": "El MoudjahidRegistre du Commerce \u00c9lectronique: extraits d\u00e9livr\u00e9s par...El MoudjahidLe registre du commerce \u00e9lectronique donnera, ainsi, la possibilit\u00e9 aux diff\u00e9rentes institutions charg\u00e9es du contr\u00f4le, de consulter et de v\u00e9rifier, en temps...",
             "date": "2015-04-01",
             "categories": "electronique",
-            "tags": "temps,commerce,commerce_\u00e9lectronique,\u00e9lectronique",
+            "tags": "commerce,commerce_\u00e9lectronique,\u00e9lectronique",
             "recuweb_url": "http://fr.recuweb.com/electronique/elmoudjahid.com/2015/04/registre-du-commerce-%C3%A9lectronique-extraits-d%C3%A9livr%C3%A9s-par-el-moudjahid",
             "resource_url": "http://news.google.fr/?hl=fr&q=commerce%2B%C3%A9lectronique%2Bcommerce%2B%C3%A9lectronique&output=atom&nord=1",
             "source_url": "http://elmoudjahid.com/fr/actualites/75468"
-        },
-        "finances.orange.fr/2015/03/e-commerce-bruxelles-veut-en-finir-avec-les-barri%C3%A8res-transfrontali%C3%A8res": {
-            "title": "E-commerce: Bruxelles veut en finir avec les barri\u00e8res transfrontali\u00e8res...",
-            "snippet": "La Commission europ\u00e9enne a annonc\u00e9 jeudi son intention de lancer prochainement une enqu\u00eate sur le secteur du commerce \u00e9lectronique en Europe, estimant qu'il \u00e9tait grand temps de supprimer les derniers obstacles et de combattre les...",
-            "date": "2015-03-27",
-            "categories": "electronique",
-            "tags": "temps,intention,secteur,commerce,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/finances.orange.fr/2015/03/e-commerce-bruxelles-veut-en-finir-avec-les-barri%C3%A8res-transfrontali%C3%A8res",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=commerce%2B%C3%A9lectronique&format=RSS&cc=fr",
-            "source_url": "http://finances.orange.fr/actualites/infos-economiques/e-commerce-bruxelles-veut-en-finir-avec-les-barrieres-transfrontalieres-afp_CNT0000008Cypa.html"
         },
         "zonebourse.com/2015/03/transformation-du-commerce-%C3%A9lectronique-comment-osf-global": {
             "title": "Transformation du commerce \u00e9lectronique: comment OSF Global... -...",
             "snippet": "Transformation du commerce \u00e9lectronique: comment OSF Global... comportement d'achat en ligne des clients \u00e9volue constamment, affirme Martin Aubut, Directeur du marketing interactif et de la strat\u00e9gie du commerce \u00e9lectronique chez L'Or\u00e9al...",
             "date": "2015-03-24",
             "categories": "marketing,electronique",
-            "tags": "marketing,achat,commerce,\u00e9lectronique,ligne",
+            "tags": "marketing,achat,commerce,\u00e9lectronique,ligne,chez",
             "recuweb_url": "http://fr.recuweb.com/electronique/zonebourse.com/2015/03/transformation-du-commerce-%C3%A9lectronique-comment-osf-global",
             "resource_url": "http://news.google.fr/?hl=fr&q=commerce%2B%C3%A9lectronique%2Bcommerce%2B%C3%A9lectronique&output=atom&nord=1",
             "source_url": "http://zonebourse.com/actualite-bourse/Transformation-du-commerce-electronique--comment-OSF-Global-Services-a-permis-a-LOreal-Canada-dat--20079481/"
-        },
-        "techno.lapresse.ca/2015/03/pakistan-le-commerce-%C3%A9lectronique-fleurit-malgr%C3%A9-l-absence-d-amazon": {
-            "title": "Pakistan: le commerce \u00e9lectronique fleurit malgr\u00e9 l'absence d'Amazon -...",
-            "snippet": ": le commerce \u00e9lectronique fleurit malgr\u00e9 l'absence d'\u00e9 de voir le g\u00e9ant am\u00e9ricain du commerce en ligne lui refuser la livraison d'un iPod au Pakistan, le jeune homme a fond\u00e9 son propre site pour devenir l'un des pionniers du commerce...",
-            "date": "2015-03-22",
-            "categories": "electronique,ipod",
-            "tags": "homme,g\u00e9ant,malgr\u00e9,commerce,\u00e9lectronique,ligne",
-            "recuweb_url": "http://fr.recuweb.com/ipod/techno.lapresse.ca/2015/03/pakistan-le-commerce-%C3%A9lectronique-fleurit-malgr%C3%A9-l-absence-d-amazon",
-            "resource_url": "http://news.google.fr/?hl=fr&q=commerce%2B%C3%A9lectronique%2Bcommerce%2B%C3%A9lectronique&output=atom&nord=1",
-            "source_url": "http://techno.lapresse.ca/nouvelles/internet/201503/22/01-4854453-pakistan-le-commerce-electronique-fleurit-malgre-labsence-damazon.php"
         },
         "fr-ca.actualites.yahoo.com/2015/02/walmart-canada-a-des-plans-d-expansion": {
             "title": "Walmart Canada a des plans d'expansion...",
             "snippet": "MISSISSAUGA, Ont. - Walmart Canada annonce mercredi son intention de r\u00e9aliser 29 projets de Supercentre et d'agrandir son r\u00e9seau de distribution au pays d'ici janvier prochain. Des investissements sont aussi pr\u00e9vus pour le commerce \u00e9lectronique.",
             "date": "2015-02-11",
             "categories": "electronique",
-            "tags": "ici,pays,mercredi,intention,commerce,\u00e9lectronique",
+            "tags": "ici,pays,commerce,\u00e9lectronique",
             "recuweb_url": "http://fr.recuweb.com/electronique/fr-ca.actualites.yahoo.com/2015/02/walmart-canada-a-des-plans-d-expansion",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=commerce%2B%C3%A9lectronique",
             "source_url": "http://fr-ca.actualites.yahoo.com/walmart-canada-des-plans-dexpansion-112012948.html"
@@ -85,7 +66,7 @@
             "snippet": "Un magnat chinois de l'\u00e9nergie solaire a supplant\u00e9 le fondateur du g\u00e9ant du commerce \u00e9lectronique Alibaba, Jack Ma, comme homme le plus riche du pays avec une fortune de 26 milliards de dollars, selon une \u00e9tude publi\u00e9e mardi.",
             "date": "2015-02-03",
             "categories": "electronique",
-            "tags": "selon,milliards,milliards-de-dollars,dollars,homme,pays,g\u00e9ant,chinois,chine,commerce,\u00e9lectronique",
+            "tags": "pays,commerce,\u00e9lectronique",
             "recuweb_url": "http://fr.recuweb.com/electronique/fr.news.yahoo.com/2015/02/un-magnat-de-l-%C3%A9nergie-solaire-devient-homme-le-plus-riche",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=commerce%2B%C3%A9lectronique",
             "source_url": "http://fr.news.yahoo.com/magnat-l\u00e9nergie-solaire-devient-lhomme-riche-chine-101641555--finance.html"
