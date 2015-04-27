@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sport-prototypes",
+        "language": "fr",
+        "updated": "20150428"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-prototypes/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/blogs.json"
+    },
+    "items": {
+        "dailymotion.com/2012/03/sebring-2012-les-forces-prototypes-en-pr%C3%A9sence": {
+            "title": "Sebring 2012: les forces Prototypes en pr\u00e9sence...",
+            "snippet": "Sebring 2012: les forces Prototypes en pr\u00e9senceAuthor: fiawecTags: FIAWEC 12 hours of sebring 2012 Sebring race endurance autosport world endurance championship Posted: 19 March 2012Rating:: 0...",
+            "date": "2012-03-19",
+            "author_name": "fiawec",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2012/03/sebring-2012-les-forces-prototypes-en-pr%C3%A9sence",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sport+prototypes/0?af=1",
+            "source_url": "http://dailymotion.com/video/xpjgzc_sebring-2012-les-forces-prototypes-en-presence_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xpjgzc_sebring-2012-les-forces-prototypes-en-presence_auto"
+        }
+    }
+}
