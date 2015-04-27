@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "lib\u00e9ralisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lib\u00e9ralisme/",
@@ -10,103 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lib%C3%A9ralisme/lib%C3%A9ralisme/blogs.json"
     },
     "items": {
-        "lorientlejour.com/2015/02/bachir-hilal-un-combattant-de-la-libert%C3%A9": {
-            "title": "Bachir Hilal, un combattant de la libert\u00e9...",
-            "snippet": "Bachir Hilal illustrait la culture de la citoyennet\u00e9 et de la la\u00efcit\u00e9 libanaise. Son lib\u00e9ralisme politique n'\u00e9tait pas incompatible avec son background gauchiste. La justice sociale et les droits de l'homme \u00e9taient au centre de son combat et...",
-            "date": "2015-02-24",
-            "categories": "politique,culture",
-            "tags": "homme,\u00e9tait,politique,culture,lib\u00e9ralisme",
-            "recuweb_url": "http://fr.recuweb.com/culture/lorientlejour.com/2015/02/bachir-hilal-un-combattant-de-la-libert%C3%A9",
+        "lapresse.ca/2015/04/vive-le-n%C3%A9o-lib%C3%A9ralisme": {
+            "title": "Vive le n\u00e9o-lib\u00e9ralisme!",
+            "snippet": "Il fut un temps o\u00f9 les pauvres sujets du Roy devaient annuellement lui verser une partie de leur r\u00e9colte, pour que lui, le Roy, puisse r\u00e9sider dans un luxueux chteau, entour\u00e9 de plusieurs serviteurs. Il organisait des festins, des banquets...",
+            "date": "2015-04-23",
+            "tags": "n\u00e9o,lib\u00e9ralisme",
+            "recuweb_url": "http://fr.recuweb.com/lapresse.ca/2015/04/vive-le-n%C3%A9o-lib%C3%A9ralisme",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lib%C3%A9ralisme&format=RSS&cc=fr",
-            "source_url": "http://lorientlejour.com/article/912882/bachir-hilal-un-combattant-de-la-liberte.html"
+            "source_url": "http://lapresse.ca/le-soleil/opinions/carrefour/201504/21/01-4863108-vive-le-neo-liberalisme.php"
         },
-        "dhnet.be/2015/02/serge-kubla-figure-du-lib%C3%A9ralisme-wallon-et-amateur-de-golf-portrait": {
-            "title": "Serge Kubla, figure du lib\u00e9ralisme wallon et amateur de golf (Portrait) -...",
-            "snippet": "Kubla, figure du lib\u00e9ralisme wallon et amateur de golf (Portrait) bourgmestre de Waterloo Serge Kubla, inculp\u00e9 et plac\u00e9 sous mandat d'arr\u00eat mardi pour des faits pr\u00e9sum\u00e9s de corruption au Congo, fut une figure centrale de la politique wallonne...",
-            "date": "2015-02-24",
-            "categories": "politique,place,golf",
-            "tags": "fut,fut-une-figure,figure,figure-centrale,centrale,politique,politique-wallonne,wallonne,arr\u00eat,arr\u00eat-mardi,mardi,faits,faits-pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s-de-corruption,corruption,inculp\u00e9,inculp\u00e9-et-plac\u00e9,plac\u00e9,plac\u00e9-sous,plac\u00e9-sous-mandat,mandat,bourgmestre,bourgmestre-de-waterloo,waterloo,wallon,wallon-et-amateur,amateur,amateur-de-golf,golf,serge,serge_kubla,kubla,lib\u00e9ralisme,portrait,congo",
-            "recuweb_url": "http://fr.recuweb.com/golf/dhnet.be/2015/02/serge-kubla-figure-du-lib%C3%A9ralisme-wallon-et-amateur-de-golf-portrait",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme&output=atom&nord=1",
-            "source_url": "http://dhnet.be/actu/belgique/serge-kubla-figure-du-liberalisme-wallon-et-amateur-de-golf-portrait-54ecb7ac35701001a1ea82e3"
-        },
-        "dhnet.be/2015/02/serge-kubla-figure-marquant-du-lib%C3%A9ralisme-wallon-et-amateur": {
-            "title": "Serge Kubla, figure marquant du lib\u00e9ralisme wallon et amateur de... -...",
-            "snippet": "Kubla, figure marquant du lib\u00e9ralisme wallon et amateur de... Kubla, figurante du lib\u00e9ralisme wallon et amateur de golf (Portrait). Le bourgmestre de Waterloo Serge Kubla, inculp\u00e9 et plac\u00e9 sous mandat d'arr\u00eat mardi pour des faits pr\u00e9sum\u00e9s de...",
-            "date": "2015-02-24",
-            "categories": "place,golf",
-            "tags": "arr\u00eat,arr\u00eat-mardi,mardi,faits,faits-pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s,inculp\u00e9,inculp\u00e9-et-plac\u00e9,plac\u00e9,plac\u00e9-sous,plac\u00e9-sous-mandat,mandat,bourgmestre,bourgmestre-de-waterloo,waterloo,wallon,wallon-et-amateur,amateur,amateur-de-golf,golf,figure,serge,serge_kubla,kubla,lib\u00e9ralisme,portrait",
-            "recuweb_url": "http://fr.recuweb.com/golf/dhnet.be/2015/02/serge-kubla-figure-marquant-du-lib%C3%A9ralisme-wallon-et-amateur",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme&output=atom&nord=1",
-            "source_url": "http://dhnet.be/actu/belgique/serge-kubla-figure-marquant-du-liberalisme-wallon-et-amateur-de-golf-portrait-54ecb7ac35701001a1ea82e3"
-        },
-        "lavenir.net/2015/02/serge-kubla-figure-marquante-du-lib%C3%A9ralisme-wallon": {
-            "title": "Serge Kubla, figure marquante du lib\u00e9ralisme wallon...",
-            "snippet": "Le bourgmestre de Waterloo Serge Kubla, inculp\u00e9 et plac\u00e9 sous mandat darr\u00eat mardi pour des faits pr\u00e9sum\u00e9s de corruption au Congo, fut une figure centrale de la politique wallonne au tournant du mill\u00e9naire, lorsquil occupa le poste de vice...",
-            "date": "2015-02-24",
-            "categories": "politique,place",
-            "tags": "fut,fut-une-figure,figure,figure-centrale,centrale,politique,politique-wallonne,wallonne,inculp\u00e9,inculp\u00e9-et-plac\u00e9,plac\u00e9,plac\u00e9-sous,plac\u00e9-sous-mandat,mandat,mardi,faits,faits-pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s-de-corruption,corruption,bourgmestre,bourgmestre-de-waterloo,waterloo,figure-marquante,marquante,serge,serge_kubla,kubla,lib\u00e9ralisme,wallon,congo",
-            "recuweb_url": "http://fr.recuweb.com/place/lavenir.net/2015/02/serge-kubla-figure-marquante-du-lib%C3%A9ralisme-wallon",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lib%C3%A9ralisme&format=RSS&cc=fr",
-            "source_url": "http://lavenir.net/article/detail.aspx?articleid=dmf20150224_00606794"
-        },
-        "lalibre.be/2015/02/serge-kubla-figure-marquante-du-lib%C3%A9ralisme-wallon-portrait": {
-            "title": "Serge Kubla, figure marquante du lib\u00e9ralisme wallon (PORTRAIT) -...",
-            "snippet": "Kubla, figure marquante du lib\u00e9ralisme wallon (PORTRAIT) bourgmestre de Waterloo Serge Kubla, inculp\u00e9 et plac\u00e9 sous mandat d'arr\u00eat mardi pour des faits pr\u00e9sum\u00e9s de corruption au Congo, fut une figure centrale de la politique wallonne au...",
-            "date": "2015-02-24",
-            "categories": "politique,place",
-            "tags": "fut,fut-une-figure,figure,figure-centrale,centrale,politique,politique-wallonne,wallonne,arr\u00eat,arr\u00eat-mardi,mardi,faits,faits-pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s-de-corruption,corruption,inculp\u00e9,inculp\u00e9-et-plac\u00e9,plac\u00e9,plac\u00e9-sous,plac\u00e9-sous-mandat,mandat,bourgmestre,bourgmestre-de-waterloo,waterloo,figure-marquante,marquante,serge,serge_kubla,kubla,lib\u00e9ralisme,wallon,portrait,congo",
-            "recuweb_url": "http://fr.recuweb.com/place/lalibre.be/2015/02/serge-kubla-figure-marquante-du-lib%C3%A9ralisme-wallon-portrait",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme&output=atom&nord=1",
-            "source_url": "http://lalibre.be/actu/belgique/serge-kubla-figure-marquante-du-liberalisme-wallon-portrait-54ecb71135701001a1ea82d6"
-        },
-        "dhnet.be/2015/02/serge-kubla-figure-marquante-du-lib%C3%A9ralisme-wallon-et-amateur": {
-            "title": "Serge Kubla, figure marquante du lib\u00e9ralisme wallon et amateur de... -...",
-            "snippet": "Serge Kubla, figure marquante du lib\u00e9ralisme wallon et amateur de... bourgmestre de Waterloo Serge Kubla, inculp\u00e9 et plac\u00e9 sous mandat d'arr\u00eat mardi pour des faits pr\u00e9sum\u00e9s de corruption au Congo, fut une figure centrale de la politique...",
-            "date": "2015-02-24",
-            "categories": "politique,place",
-            "tags": "fut,fut-une-figure,figure,figure-centrale,centrale,politique,arr\u00eat,arr\u00eat-mardi,mardi,faits,faits-pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s,pr\u00e9sum\u00e9s-de-corruption,corruption,inculp\u00e9,inculp\u00e9-et-plac\u00e9,plac\u00e9,plac\u00e9-sous,plac\u00e9-sous-mandat,mandat,bourgmestre,bourgmestre-de-waterloo,waterloo,wallon,wallon-et-amateur,amateur,figure-marquante,marquante,serge,serge_kubla,kubla,lib\u00e9ralisme,congo",
-            "recuweb_url": "http://fr.recuweb.com/place/dhnet.be/2015/02/serge-kubla-figure-marquante-du-lib%C3%A9ralisme-wallon-et-amateur",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme%2Blib%C3%A9ralisme&output=atom&nord=1",
-            "source_url": "http://dhnet.be/actu/belgique/serge-kubla-figure-marquante-du-liberalisme-wallon-et-amateur-de-golf-54ecb7ac35701001a1ea82e3"
-        },
-        "lesobservateurs.ch/2015/02/lib%C3%A9ralisme-un-%C3%A9pouvantail-construit-de-toutes-pi%C3%A8ces": {
-            "title": "Lib\u00e9ralisme, un \u00e9pouvantail construit de toutes pi\u00e8ces...",
-            "snippet": "La crise, les crises sont produites par le dirigisme, l'\u00e9tatisme et le constructivisme, pas par le lib\u00e9ralisme. Le lib\u00e9ralisme est auto-r\u00e9gul\u00e9, auto-correcteur par le jeu des prix et des destructions cr\u00e9atrices. Les gens de gauche imputent la...",
-            "date": "2015-02-18",
-            "tags": "gauche,lib\u00e9ralisme",
-            "recuweb_url": "http://fr.recuweb.com/lesobservateurs.ch/2015/02/lib%C3%A9ralisme-un-%C3%A9pouvantail-construit-de-toutes-pi%C3%A8ces",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lib%C3%A9ralisme&format=RSS&cc=fr",
-            "source_url": "http://lesobservateurs.ch/2015/02/18/liberalisme-un-epouvantail-construit-de-toutes-pieces/"
-        },
-        "blogs.mediapart.fr/2015/02/l-enrage-du-liberalisme-est-revenu-le-club-de-mediapart": {
-            "title": "L'ENRAGE DU LIBERALISME EST REVENU - Le Club de Mediapart...",
-            "snippet": "L'ENRAGE DU LIBERALISME EST REVENULe Club de MediapartIl \u00e9tait ce matin sur les ondes de France Culture. Il avait sign\u00e9 dans le best sellerToujours plus,(1982) cette \u00e9norme perle: Nous pouvons nous passer de journalistes, de m\u00e9decins, de...",
-            "date": "2015-02-17",
-            "categories": "culture",
-            "tags": "culture,\u00e9tait,liberalisme",
-            "recuweb_url": "http://fr.recuweb.com/culture/blogs.mediapart.fr/2015/02/l-enrage-du-liberalisme-est-revenu-le-club-de-mediapart",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme%2Blib%C3%A9ralisme&output=atom&nord=1",
-            "source_url": "http://blogs.mediapart.fr/blog/guydufau/170215/l-enrage-du-liberalisme-est-revenu"
-        },
-        "liberation.fr/2015/02/loi-macron-la-cons%C3%A9cration-d-un-arch%C3%A9o-lib%C3%A9ralisme-lib%C3%A9ration": {
-            "title": "Loi Macron: la cons\u00e9cration d'un arch\u00e9o-lib\u00e9ralisme - Lib\u00e9ration...",
-            "snippet": "Lib\u00e9rationLoi Macron: la cons\u00e9cration d'un arch\u00e9o-lib\u00e9ralismeLib\u00e9rationPourtant, dans le logiciel id\u00e9ologique et la trame rh\u00e9torique du ministre de l'Economie, celui qui n'est pas lib\u00e9ral est forc\u00e9ment ringard ou d\u00e9magogue. Une logique...",
-            "date": "2015-02-17",
-            "tags": "lib\u00e9ralisme",
-            "recuweb_url": "http://fr.recuweb.com/liberation.fr/2015/02/loi-macron-la-cons%C3%A9cration-d-un-arch%C3%A9o-lib%C3%A9ralisme-lib%C3%A9ration",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme%2Blib%C3%A9ralisme&output=atom&nord=1",
-            "source_url": "http://liberation.fr/debats/2015/02/17/loi-macron-la-consecration-d-un-archeo-liberalisme_1203923"
-        },
-        "contrepoints.org/2015/02/un-ou-des-lib%C3%A9ralisme": {
-            "title": "Un ou des lib\u00e9ralisme(s)?",
-            "snippet": "\u00c0 en croire le discours m\u00e9diatique dominant, il y aurait plusieurs lib\u00e9ralismes ind\u00e9pendants les uns des autres. Tout dabord le lib\u00e9ralisme politique. Il pr\u00f4nerait loptimisation des relations entre lautorit\u00e9 politique et l...",
-            "date": "2015-02-12",
+        "lectures.revues.org/2015/04/les-valeurs-%C3%A9ducatives-au-risque-du-n%C3%A9o-lib%C3%A9ralisme": {
+            "title": "Les valeurs \u00e9ducatives au risque du n\u00e9o-lib\u00e9ralisme...",
+            "snippet": "Les politiques \u00e9ducatives (les r\u00e9formes des dispositifs et des curricula, les propositions m\u00e9thodologiques) ne cachent pas leur inspiration n\u00e9o-lib\u00e9rale. L'\u00e9cole et l'universit\u00e9 sont d\u00e9sormais somm\u00e9es dint\u00e9rioriser les valeurs du march\u00e9,...",
+            "date": "2015-04-20",
             "categories": "politique",
-            "tags": "politique,plusieurs,lib\u00e9ralisme",
-            "recuweb_url": "http://fr.recuweb.com/politique/contrepoints.org/2015/02/un-ou-des-lib%C3%A9ralisme",
+            "tags": "\u00e9cole,n\u00e9o,lib\u00e9ralisme,lib\u00e9rale",
+            "recuweb_url": "http://fr.recuweb.com/politique/lectures.revues.org/2015/04/les-valeurs-%C3%A9ducatives-au-risque-du-n%C3%A9o-lib%C3%A9ralisme",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lib%C3%A9ralisme&format=RSS&cc=fr",
-            "source_url": "http://contrepoints.org/2015/02/13/197699-un-ou-des-liberalismes"
+            "source_url": "http://lectures.revues.org/17768"
+        },
+        "lesechos.fr/2015/04/du-lib%C3%A9ralisme-en-pays-socialiste": {
+            "title": "Du lib\u00e9ralisme en pays socialiste...",
+            "snippet": "Le lib\u00e9ralisme na jamais eu tr\u00e8s bonne presse dans lHexagone. D\u00e9laiss\u00e9es par une droite qui na jamais su trop quoi en faire, pr\u00e9f\u00e9rant le confort \u00e9lectoral du conservatisme et de l\u00e9tatisme, les id\u00e9es lib\u00e9rales semblent...",
+            "date": "2015-04-13",
+            "tags": "trop,lib\u00e9ralisme",
+            "recuweb_url": "http://fr.recuweb.com/lesechos.fr/2015/04/du-lib%C3%A9ralisme-en-pays-socialiste",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lib%C3%A9ralisme&format=RSS&cc=fr",
+            "source_url": "http://lesechos.fr/idees-debats/cercle/cercle-131764-du-liberalisme-en-pays-socialiste-1110773.php"
+        },
+        "lenouveleconomiste.fr/2015/04/turgot-le-lib%C3%A9ralisme-qui-vint-trop-t%C3%B4t-nouvel-economiste": {
+            "title": "Turgot, le lib\u00e9ralisme qui vint trop t\u00f4t - Le nouvel Economiste...",
+            "snippet": "Le nouvel EconomisteTurgot, le lib\u00e9ralisme qui vint trop t\u00f4tLe nouvel EconomisteAutre paradoxe, les contradictions d'un ministre qui se fait l'ap\u00f4tre du lib\u00e9ralisme libert\u00e9 de circulation des denr\u00e9es alimentaires, libert\u00e9 des travailleurs...",
+            "date": "2015-04-03",
+            "tags": "trop,lib\u00e9ralisme",
+            "recuweb_url": "http://fr.recuweb.com/lenouveleconomiste.fr/2015/04/turgot-le-lib%C3%A9ralisme-qui-vint-trop-t%C3%B4t-nouvel-economiste",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lib%C3%A9ralisme&output=atom&nord=1",
+            "source_url": "http://lenouveleconomiste.fr/a-la-une/turgot-le-liberalisme-qui-vint-trop-tot-26690/"
         }
     }
 }
