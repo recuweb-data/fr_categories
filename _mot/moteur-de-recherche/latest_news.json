@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moteur-de-recherche",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -11,60 +11,51 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
+        "jactiv.ouest-france.fr/2015/04/il-y-a-d-autres-moteurs-de-recherche-que-google": {
+            "title": "Il y a d'autres moteurs de recherche que Google ou Yahoo!",
+            "snippet": "Pour se d\u00e9marquer, certains concurrents jouent la carte de la confidentialit\u00e9. DuckDuckGo se pr\u00e9sente comme le moteur de recherche qui ne vous espionne pas. Il agr\u00e8ge les r\u00e9sultats d'une cinquantaine de moteurs comme Yahoo! et Bing, pour une...",
+            "date": "2015-04-27",
+            "categories": "google,yahoo,bing",
+            "tags": "r\u00e9sultats,pr\u00e9sente,comme,moteurs,moteur,recherche,google,yahoo,bing",
+            "recuweb_url": "http://fr.recuweb.com/bing/jactiv.ouest-france.fr/2015/04/il-y-a-d-autres-moteurs-de-recherche-que-google",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
+            "source_url": "http://jactiv.ouest-france.fr/actualites/multimedia/il-y-dautres-moteurs-recherche-que-google-yahoo-46957"
+        },
+        "quimper.maville.com/2015/04/bretagne-gwenood-le-moteur-de-recherche-100%-breton": {
+            "title": "Bretagne: Gwenood, le moteur de recherche 100% breton...",
+            "snippet": "Quest-ce que Gwenood? Cest un moteur de recherche sur Internet. Il a \u00e9t\u00e9 lanc\u00e9 en janvier, depuis B\u00e9nodet (Sud-Finist\u00e8re). Sa particularit\u00e9? Ses r\u00e9sultats de recherche privil\u00e9gient les sites web bretons, Loire-Atlantique incluse.",
+            "date": "2015-04-24",
+            "categories": "internet",
+            "tags": "sites,r\u00e9sultats,moteur,recherche,internet,web",
+            "recuweb_url": "http://fr.recuweb.com/internet/quimper.maville.com/2015/04/bretagne-gwenood-le-moteur-de-recherche-100%-breton",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
+            "source_url": "http://quimper.maville.com/actu/actudet_-bretagne-gwenood-le-moteur-de-recherche-100-breton_52689-2757398_actu.Htm"
+        },
         "franceinfo.fr/2015/04/comment-effacer-des-informations-nous-concernant-sur-un-moteur-france-info": {
             "title": "Comment effacer des informations nous concernant sur un moteur... - France Info...",
             "snippet": "France InfoComment effacer des informations nous concernant sur un moteur...France InfoIl permet la suppression d'un ou de plusieurs r\u00e9sultats de recherche quand votre nom est tap\u00e9 dans le moteur. Donc les informations restent accessibles sur le...",
             "date": "2015-04-23",
-            "tags": "r\u00e9sultats,permet,france,moteur,recherche",
+            "tags": "r\u00e9sultats,permet,moteur,recherche",
             "recuweb_url": "http://fr.recuweb.com/franceinfo.fr/2015/04/comment-effacer-des-informations-nous-concernant-sur-un-moteur-france-info",
             "resource_url": "http://news.google.fr/?hl=fr&q=moteur%2Bde%2Brecherche&output=atom&nord=1",
             "source_url": "http://franceinfo.fr/emission/le-droit-d-info/2014-2015/comment-effacer-des-informations-nous-concernant-sur-un-moteur-de-recherche-23-04-2015-12-25"
-        },
-        "lepoint.fr/2015/04/google-fait-trembler-le-net-avec-un-nouvel-algorithme": {
-            "title": "Google fait trembler le Net avec un nouvel algorithme...",
-            "snippet": "Google a pr\u00e9venu il y a deux mois qu'il changerait son moteur de recherche mobile le mardi 21 avril pour privil\u00e9gier les sites compatibles avec les smartphones. Qian xiaodun/Imaginechina Google fait trembler le monde de l'internet en modifiant...",
-            "date": "2015-04-23",
-            "categories": "google,internet",
-            "tags": "trembler,monde,avril,avril-pour-privil\u00e9gier,privil\u00e9gier,privil\u00e9gier-les-sites,sites,sites-compatibles,compatibles,smartphones,mobile,mobile-le-mardi,mardi,changerait,mois,pr\u00e9venu,nouvel,google,net,deux,moteur,recherche,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/lepoint.fr/2015/04/google-fait-trembler-le-net-avec-un-nouvel-algorithme",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
-            "source_url": "http://lepoint.fr/high-tech-internet/google-fait-trembler-le-net-avec-un-nouvel-algorithme-22-04-2015-1923513_47.php"
-        },
-        "ledevoir.com/2015/04/google-fait-trembler-linternet-et-les-%C3%A9diteurs": {
-            "title": "Google fait trembler lInternet et les \u00e9diteurs...",
-            "snippet": "Le groupe de Mountain View avait pr\u00e9venu il y a deux mois quil changerait son moteur de recherche mobile le mardi 21 avril pour privil\u00e9gier les sites compatibles avec les t\u00e9l\u00e9phones multifonctions, au d\u00e9triment des sites non adapt\u00e9s, qui...",
-            "date": "2015-04-23",
-            "categories": "google",
-            "tags": "sites,avril,avril-pour-privil\u00e9gier,privil\u00e9gier,privil\u00e9gier-les-sites,sites-compatibles,compatibles,mobile,mobile-le-mardi,mardi,mois,changerait,pr\u00e9venu,trembler,google,deux,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/google/ledevoir.com/2015/04/google-fait-trembler-linternet-et-les-%C3%A9diteurs",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
-            "source_url": "http://ledevoir.com/societe/medias/438104/nouvel-algorithme-google-fait-trembler-l-internet-et-les-editeurs"
         },
         "nextinpact.com/2015/04/moteur-de-recherche-et-publicit%C3%A9s-moins-d-exclusivit%C3%A9-entre-microsoft-yahoo": {
             "title": "Moteur de recherche et publicit\u00e9s: moins d'exclusivit\u00e9 entre Microsoft et Yahoo...",
             "snippet": "Microsoft et Yahoo ont officiellement modifi\u00e9 leur partenariat sur la recherche en ligne qui date de 2009. Les deux principaux volets de cet accord sont modifi\u00e9s: l'utilisation exclusive du moteur de recherche Bing et la gestion de la...",
             "date": "2015-04-22",
             "categories": "yahoo,bing",
-            "tags": "gestion,ligne,moteur,recherche,yahoo,deux",
+            "tags": "ligne,moteur,recherche,yahoo,deux,bing",
             "recuweb_url": "http://fr.recuweb.com/bing/nextinpact.com/2015/04/moteur-de-recherche-et-publicit%C3%A9s-moins-d-exclusivit%C3%A9-entre-microsoft-yahoo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
             "source_url": "http://nextinpact.com/news/93878-moteur-recherche-et-publicites-moins-dexclusivite-entre-microsoft-et-yahoo.htm"
-        },
-        "lesechos.fr/2015/04/pourquoi-les-moteurs-de-recherche-doivent-%C3%AAtre-r%C3%A9gul%C3%A9s-%C3%A9chos": {
-            "title": "Pourquoi les moteurs de recherche doivent \u00eatre r\u00e9gul\u00e9s - Les \u00c9chos...",
-            "snippet": "Pourquoi les moteurs de recherche doivent \u00eatre r\u00e9gul\u00e9sLes \u00c9chosEn France, ce sont des centaines d'entreprises qui voient aujourd'hui leur d\u00e9veloppement brid\u00e9 par les pratiques de ce moteur de recherche, qui favorisent r\u00e9guli\u00e8rement ses...",
-            "date": "2015-04-17",
-            "tags": "d\u00e9veloppement,voient,france,pourquoi,moteurs,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/lesechos.fr/2015/04/pourquoi-les-moteurs-de-recherche-doivent-%C3%AAtre-r%C3%A9gul%C3%A9s-%C3%A9chos",
-            "resource_url": "http://news.google.fr/?hl=fr&q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&output=atom&nord=1",
-            "source_url": "http://lesechos.fr/idees-debats/editos-analyses/02111805758-pourquoi-les-moteurs-de-recherche-doivent-etre-regules-1112111.php"
         },
         "fr.news.yahoo.com/2015/03/bienvenue-au-google-store-pourquoi-le-g%C3%A9ant-du-net-se-lance": {
             "title": "Bienvenue au Google Store: pourquoi le g\u00e9ant du net se lance dans louverture de boutiques...",
             "snippet": "Google a r\u00e9cemment ouvert sa premi\u00e8re boutique en plein c\u0153ur de Londres. Une v\u00e9ritable \u00e9volution pour la firme de Montain view, qui compte bien faire comprendre qu'elle n'est pas qu'un moteur de recherche, et qu'elle est aussi pr\u00e9sente sur le...",
             "date": "2015-03-16",
             "categories": "google",
-            "tags": "pr\u00e9sente,v\u00e9ritable,net,lance,pourquoi,google,g\u00e9ant,moteur,recherche",
+            "tags": "pr\u00e9sente,v\u00e9ritable,net,lance,google,g\u00e9ant,moteur,recherche",
             "recuweb_url": "http://fr.recuweb.com/google/fr.news.yahoo.com/2015/03/bienvenue-au-google-store-pourquoi-le-g%C3%A9ant-du-net-se-lance",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=moteur%2Bde%2Brecherche",
             "source_url": "http://fr.news.yahoo.com/bienvenue-au-google-store-pourquoi-g\u00e9ant-net-lance-075622726.html"
@@ -93,7 +84,7 @@
             "title": "Pinterest, un nouvel acteur en train de s'imposer dans le monde du web...",
             "snippet": "A la crois\u00e9e du r\u00e9seau social et du moteur de recherche, Pinterest, l'application qui permet d'\"\u00e9pingler\" des photos sur ses centres d'int\u00e9r\u00eat, est en train de s'imposer comme un des poids-lourds du web, selon les sp\u00e9cialistes qui voient en...",
             "date": "2015-02-26",
-            "tags": "voient,application,permet,monde,nouvel,web,moteur,recherche",
+            "tags": "comme,application,permet,r\u00e9seau,web,moteur,recherche",
             "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/02/pinterest-un-nouvel-acteur-en-train-de-s-imposer",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=moteur%2Bde%2Brecherche",
             "source_url": "http://fr.news.yahoo.com/pinterest-nouvel-acteur-train-simposer-monde-web-085026611--finance.html"
