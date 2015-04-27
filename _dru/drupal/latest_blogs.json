@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "drupal",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -16,7 +17,7 @@
             "date": "2015-04-15",
             "author_name": "admin",
             "categories": "php,drupal",
-            "tags": "cr\u00e9er,drupal,module",
+            "tags": "cr\u00e9er,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/ews-techs.com/2015/04/utiliser-le-drupal-hook-permission-ews-techs",
             "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://ews-techs.com/utilisation-des-permissions-dans-drupal/"
@@ -27,7 +28,7 @@
             "date": "2015-03-27",
             "author_name": "Julien Fabre",
             "categories": "drupal",
-            "tags": "drupal,cms",
+            "tags": "publish,drupal,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/blog.kaliop.com/2015/03/ez-publish-vs-drupal-petit-guide-entre-2-mondes",
             "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.kaliop.com/blog/2015/03/27/ez-publish-vs-drupal-guide/"
@@ -38,7 +39,7 @@
             "date": "2015-03-23",
             "author_name": "inconnu",
             "categories": "drupal",
-            "tags": "notamment,modules,drupal",
+            "tags": "notamment,modules,drupal,syst\u00e8mes",
             "recuweb_url": "http://fr.recuweb.com/drupal/webmaster-hub.com/2015/03/drupal-multilinguisme-et-wamp-syst%C3%A8mes-de-publication",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://webmaster-hub.com/topic/55697-drupal-multilinguisme-et-wamp/"
@@ -60,7 +61,7 @@
             "date": "2014-11-24",
             "author_name": "la r\u00e9daction",
             "categories": "drupal",
-            "tags": "modules,open,open-source,source,extensions,drupal,incontournables,cms",
+            "tags": "modules,communaut\u00e9,open,open-source,source,extensions,drupal,incontournables,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/wmn24.wordpress.com/2014/11/les-8-extensions-drupal-incontournables",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://wmn24.wordpress.com/2014/11/24/les-8-extensions-drupal-incontournables/"
@@ -82,7 +83,7 @@
             "date": "2014-09-25",
             "author_name": "sbordage",
             "categories": "drupal",
-            "tags": "\u00eatre,projets,drupal",
+            "tags": "clients,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/breek.fr/2014/09/qu-est-ce-un-expert-drupal-blog-breek",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://breek.fr/blog/quest-ce-quun-expert-drupal.html"
@@ -93,10 +94,21 @@
             "date": "2014-03-30",
             "author_name": "weickmann",
             "categories": "drupal",
-            "tags": "version,drupal,cms",
+            "tags": "drupal,version,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/weickmann.wordpress.com/2014/03/mars-2014-meetup-drupal",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://weickmann.wordpress.com/2014/03/30/mars-2014-meetup-drupal/"
+        },
+        "weickmann.wordpress.com/2014/01/rt-drupal-bordeaux-rendez-vous-ce-soir": {
+            "title": "RT drupal_bordeaux: Rendez-vous ce soir...",
+            "snippet": "RT drupal_bordeaux: Rendez-vous ce soir 19h, au Node, pour d\u00e9couvrir les Hooks Drupal, et \u00e9changer avec la communaut\u00e9 Drupal Bordealaise...",
+            "date": "2014-01-09",
+            "author_name": "weickmann",
+            "categories": "drupal",
+            "tags": "drupal,communaut\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/drupal/weickmann.wordpress.com/2014/01/rt-drupal-bordeaux-rendez-vous-ce-soir",
+            "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
+            "source_url": "http://weickmann.wordpress.com/2014/01/09/rt-drupal_bordeaux-rendez-vous-ce-soir/"
         }
     }
 }
