@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "application-web",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/application-web/",
@@ -10,41 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
     },
     "items": {
-        "programmez.com/2015/04/offre-d-emploi": {
-            "title": "Offre d'emploi...",
-            "snippet": "De formation sup\u00e9rieur en Informatique (Bac 4/5, \u00e9cole ding\u00e9nieur ou formation universitaire), vous b\u00e9n\u00e9ficiez dau moins 6 ans dexpertise sur les langages de d\u00e9veloppement.Net et Java et en application web trois-tiers. Vous avez une tr\u00e8s...",
-            "date": "2015-04-13",
-            "categories": "langage,emploi,java",
-            "tags": "application,web",
-            "recuweb_url": "http://fr.recuweb.com/java/programmez.com/2015/04/offre-d-emploi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://programmez.com/emploi-detail/JHR83X6MX40C876NRCT"
+        "elle.fr/2015/04/la-p%C3%A9pite-du-web-l-appli-myidol-pour-se-cr%C3%A9er": {
+            "title": "La p\u00e9pite du Web: l'appli MyIdol pour se cr\u00e9er le plus funky des... - Elle...",
+            "snippet": "ElleLa p\u00e9pite du Web: l'appli MyIdol pour se cr\u00e9er le plus funky des...ElleMyIdol est une application addictive, chronophage... mais qui va tr\u00e8s probablement conna\u00eetre un succ\u00e8s \u00e9ph\u00e9m\u00e8re il faut l'avouer. L'id\u00e9e est simple: cr\u00e9er son...",
+            "date": "2015-04-24",
+            "tags": "web,cr\u00e9er,application",
+            "recuweb_url": "http://fr.recuweb.com/elle.fr/2015/04/la-p%C3%A9pite-du-web-l-appli-myidol-pour-se-cr%C3%A9er",
+            "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
+            "source_url": "http://elle.fr/Loisirs/High-tech/News/La-pepite-du-Web-l-appli-MyIdol-pour-se-creer-le-plus-funky-des-avatars-2944514"
         },
-        "weblife.fr/2015/04/facebook-messenger-version-de-bureau-la-messagerie": {
-            "title": "Facebook Messenger: Version de bureau de la messagerie...",
-            "snippet": "Des fonctionnalit\u00e9s bien connues des utilisateurs de Google Hangouts. Sans surprise, cette application web dispose dun certain nombre de pr\u00e9f\u00e9rences utilisateur, avec notamment la possibilit\u00e9 de g\u00e9rer les notifications ou ajuster le volume du...",
-            "date": "2015-04-09",
-            "categories": "google,facebook",
-            "tags": "utilisateurs,facebook,messenger,version,application,web",
-            "recuweb_url": "http://fr.recuweb.com/facebook/weblife.fr/2015/04/facebook-messenger-version-de-bureau-la-messagerie",
+        "itrnews.com/2015/04/limpact-du-responsive-web-design-dans-votre-entreprise": {
+            "title": "Limpact du Responsive Web Design dans votre entreprise,...",
+            "snippet": "Les supports sur lesquels votre site, ou application web, doit fonctionner sont de plus en plus nombreux et pr\u00e9sentent tous des caract\u00e9ristiques diverses. Les smartphones ou tablettes par exemple sont devenus des extensions naturelles du syst\u00e8me...",
+            "date": "2015-04-23",
+            "tags": "site,web,application",
+            "recuweb_url": "http://fr.recuweb.com/itrnews.com/2015/04/limpact-du-responsive-web-design-dans-votre-entreprise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://weblife.fr/actus/facebook-messenger-version-de-bureau-de-la-messagerie"
+            "source_url": "http://itrnews.com/articles-top10-jour/155504/impact-responsive-web-design-entreprise-mathieu-parisot-expert-independant-formateur-soat.html"
         },
-        "generation-nt.com/2015/04/messenger-en-version-web-autonome": {
-            "title": "Messenger en version Web autonome...",
-            "snippet": "Aujourd'hui, Facebook Messenger n'est plus seulement une application mobile adopt\u00e9e par plus de 600 millions d'utilisateurs mais \u00e9galement une application Web. Cette adaptation au Web se fait de mani\u00e8re ind\u00e9pendante du r\u00e9seau social lui-m\u00eame.",
-            "date": "2015-04-09",
-            "categories": "facebook",
-            "tags": "mani\u00e8re,millions,version,messenger,web,aujourd,hui,facebook,application,mobile,utilisateurs,m\u00eame",
-            "recuweb_url": "http://fr.recuweb.com/facebook/generation-nt.com/2015/04/messenger-en-version-web-autonome",
+        "itrnews.com/2015/04/d%C3%A9veloppez-aujourd-hui-les-applications-web-de-demain": {
+            "title": "D\u00e9veloppez aujourd'hui les applications web de demain...",
+            "snippet": "Dans un premier temps, le lecteur d\u00e9couvrira les bases permettant de cr\u00e9er une application web monopage, ou SPA, ainsi que les m\u00e9canismes fondamentaux d'AngularJS. Il apprendra ensuite comment structurer son application et comment impl\u00e9menter...",
+            "date": "2015-04-22",
+            "tags": "permettant,temps,hui,applications,application,aujourd,web,cr\u00e9er",
+            "recuweb_url": "http://fr.recuweb.com/itrnews.com/2015/04/d%C3%A9veloppez-aujourd-hui-les-applications-web-de-demain",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://generation-nt.com/facebook-messenger-application-web-messagerie-actualite-1913984.html"
+            "source_url": "http://itrnews.com/articles/155496/angularjs-developpez-aujourd-hui-applications-web-demain.html"
+        },
+        "globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global": {
+            "title": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web... - Global Security Mag...",
+            "snippet": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web...Global Security MagQualys WAF est d\u00e9ploy\u00e9 en tant qu'image virtuelle devant les applications Web. Ce service s'installe et se configure en quelques minutes seulement, sans...",
+            "date": "2015-04-22",
+            "tags": "service,applications,cloud,web",
+            "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global",
+            "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb%2Bapplication%2Bweb&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451.html"
+        },
+        "javascript.developpez.com/2015/04/highcharts-de-multiples-corrections": {
+            "title": "Highcharts: de multiples corrections...",
+            "snippet": "Highcharts est une biblioth\u00e8que graphique \u00e9crite en HTML5 et JavaScript, offrant des graphiques complets et complexes, mais intuitifs et interactifs pour votre site ou votre application Web. Elle impl\u00e9mente diff\u00e9rents types de graphiques...",
+            "date": "2015-04-21",
+            "categories": "javascript",
+            "tags": "site,biblioth\u00e8que,application,web",
+            "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/highcharts-de-multiples-corrections",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://javascript.developpez.com/actu/84152/Highcharts-4-1-5-de-multiples-corrections-pour-la-bibliotheque-graphique-ecrite-en-HTML5-et-JavaScript/"
+        },
+        "ladn.eu/2015/04/campagne-fontyou-start-up-sp%C3%A9cialis%C3%A9e-en-typographie": {
+            "title": "Campagne Fontyou, start-up sp\u00e9cialis\u00e9e en typographie...",
+            "snippet": "Cr\u00e9\u00e9e en janvier 2013, Fontyou est une application web qui permet aux cr\u00e9atifs et aux agences de g\u00e9rer toutes leurs polices de caract\u00e8res en cloud, de d\u00e9couvrir et tester fontes du monde et les derni\u00e8res tendances typographiques. TBWAPARIS et...",
+            "date": "2015-04-19",
+            "tags": "d\u00e9couvrir,monde,permet,cloud,application,web",
+            "recuweb_url": "http://fr.recuweb.com/ladn.eu/2015/04/campagne-fontyou-start-up-sp%C3%A9cialis%C3%A9e-en-typographie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://ladn.eu/actualites/marque,campagne-fontyou-start-up-specialisee-typographie,30,25998.html"
+        },
+        "france3-regions.francetvinfo.fr/2015/04/application-web-un-annuaire-de-plats-normands": {
+            "title": "Application web: un annuaire de plats normands...",
+            "snippet": "A croire cette nouvelle application, lapp\u00e9tit vient en regardant. RestoFolio est un nouveau service internet permettant aux consommateurs de partager et d\u00e9couvrir les plats et cartes des restaurants normands.",
+            "date": "2015-04-18",
+            "categories": "internet",
+            "tags": "service,internet,permettant,d\u00e9couvrir,plats,cartes,cartes-des-restaurants,restaurants,nouvelle,annuaire,application,web,restofolio",
+            "recuweb_url": "http://fr.recuweb.com/internet/france3-regions.francetvinfo.fr/2015/04/application-web-un-annuaire-de-plats-normands",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://france3-regions.francetvinfo.fr/basse-normandie/2015/04/18/application-web-un-annuaire-de-plats-normands-707401.html"
+        },
+        "cotecaen.fr/2015/04/caen-restofolio-l-annuaire-des-plats-cr%C3%A9%C3%A9-par-un-caennais": {
+            "title": "Caen RestoFolio: l'annuaire des plats cr\u00e9\u00e9 par un Caennais...",
+            "snippet": "Pas besoin de faire la tourn\u00e9e des cartes des restaurants pour savoir o\u00f9 vous allez pouvoir assouvir votre envie. Marc Houssaye a cr\u00e9\u00e9 une application web, RestoFolio, qui r\u00e9pertorie des plats de restaurants.",
+            "date": "2015-04-17",
+            "tags": "plats,restaurants,cartes,cartes-des-restaurants,annuaire,restofolio,application,web",
+            "recuweb_url": "http://fr.recuweb.com/cotecaen.fr/2015/04/caen-restofolio-l-annuaire-des-plats-cr%C3%A9%C3%A9-par-un-caennais",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://cotecaen.fr/33569/restofolio-lannuaire-des-plats-cree-par-un-caennais/"
         },
         "bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news": {
             "title": "Collibris: l'application qui propage la lecture - BSC News...",
             "snippet": "Collibris: l'application qui propage la lectureBSC NewsCollibris est une application Web et Mobile gratuite destin\u00e9e aux lecteurs qui propose d'enregistrer ses lectures et sa biblioth\u00e8que, de garder une trace de son \u00e9motion en notant et...",
             "date": "2015-04-07",
-            "tags": "lecture,application,web,mobile",
+            "tags": "biblioth\u00e8que,application,web,mobile",
             "recuweb_url": "http://fr.recuweb.com/bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news",
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
             "source_url": "http://bscnews.fr/201504074636/TECH-WEB/collibris-l-application-qui-propage-la-lecture.html"
@@ -53,19 +98,10 @@
             "title": "Montpellier: Montpellier: Une application web pour traduire les menus des restaurants aux touristes...",
             "snippet": "TOURISME - Chaque ann\u00e9e, cinq millions de touristes \u00e9trangers viennent d\u00e9couvrir les joyaux du Languedoc-Roussillon. Et beaucoup ne parlent pas un mot de fran\u00e7ais...",
             "date": "2015-04-07",
-            "tags": "fran\u00e7ais,millions,application,web",
+            "tags": "d\u00e9couvrir,restaurants,application,web",
             "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/04/montpellier-une-application-web-pour-traduire-les-menus-des-restaurants",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=application%2Bweb",
             "source_url": "http://fr.news.yahoo.com/montpellier-montpellier-application-web-traduire-menus-restaurants-touristes-173224633.html"
-        },
-        "metronews.fr/2015/04/dyslexie-une-application-qui-facilite-la-lecture": {
-            "title": "Dyslexie: une application qui facilite la lecture...",
-            "snippet": "Il fallait y penser. A Lyon, la start-up sociale Aidodys a cr\u00e9\u00e9 l'application Web collaborative du m\u00eame nom, permettant dadapter de fa\u00e7on sp\u00e9cifique la mise en page de textes le\u00e7ons, exercices ou pages de livres et donc de faciliter la...",
-            "date": "2015-04-06",
-            "tags": "faciliter,m\u00eame,lecture,application,web",
-            "recuweb_url": "http://fr.recuweb.com/metronews.fr/2015/04/dyslexie-une-application-qui-facilite-la-lecture",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://metronews.fr/lyon/une-application-web-pour-aider-les-enfants-dyslexiques/modf!NF7Vo0WFNweuw/"
         }
     }
 }
