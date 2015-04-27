@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "culture",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture/",
@@ -11,6 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/f%C3%AAte-de-la-culture-2015": {
+            "title": "F\u00eate de la culture 2015...",
+            "snippet": "f\u00eate de la culture 2015 san du val d'europe chteau de chessyAuthor: SAN_DU_VAL_EUROPETags: Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "SAN_DU_VAL_EUROPE",
+            "categories": "culture",
+            "tags": "f\u00eate,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/f%C3%AAte-de-la-culture-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o4l34_fete-de-la-culture-2015_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o4l34_fete-de-la-culture-2015_news"
+        },
+        "dailymotion.com/2015/04/soir%C3%A9e-de-cl%C3%B4ture-du-festival-culture-s-urbaines": {
+            "title": "Soir\u00e9e de cl\u00f4ture du festival Culture(s) Urbaines...",
+            "snippet": "SunrunAuthor: OuestFranceFRTags: Orne Soir\u00e9e de cl\u00f4ture du festival Cultures Urbaines Sunrun Halle aux Toiles dAlen\u00e7on Houdayer Nathalie Posted: 26 April 2015Rating:: 0...",
+            "date": "2015-04-26",
+            "author_name": "OuestFranceFR",
+            "categories": "culture",
+            "tags": "cultures,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/soir%C3%A9e-de-cl%C3%B4ture-du-festival-culture-s-urbaines",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o295g_soiree-de-cloture-du-festival-culture-s-urbaines_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o295g_soiree-de-cloture-du-festival-culture-s-urbaines_news"
+        },
         "dailymotion.com/2015/04/africa-news-room-afrique-culture-les-handicap%C3%A9s-ont-du-talent": {
             "title": "AFRICA NEWS ROOM - Afrique, Culture: Les handicap\u00e9s ont du talent!",
             "snippet": "Culture, Les handicap\u00e9s ont du talent!, avec Andr\u00e9 Marie Tala Chanteur CMRLa premi\u00e8re cha\u00eene mondiale d'information pour l'Afrique. Les infos d'Afrique pour le monde, les infos du monde pour l': AFRICA24Tags: africa 24 Culture AFRICA24 Africa24...",
@@ -29,22 +53,11 @@
             "date": "2015-04-24",
             "author_name": "TNTWeo",
             "categories": "culture",
+            "tags": "cultures",
             "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/des-cultures-rentables-et-eco-responsables",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nt8db_des-cultures-rentables-et-eco-responsables_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nt8db_des-cultures-rentables-et-eco-responsables_news"
-        },
-        "youtube.com/2015/04/france-terrorisme-et-culture-de-mort": {
-            "title": "France: Terrorisme et Culture de Mort...",
-            "snippet": "France: Terrorisme et Culture de Mort Avant d'avoir \u00e9t\u00e9 des terroristes, ces gens \u00e9taient des enfants expos\u00e9s de mani\u00e8re massive \u00e0 un discours apocalyptique les obligeant \u00e0 r\u00e9fl\u00e9chir en morts vivants. Ceci est entr\u00e9... From: Aldo Sterone...",
-            "date": "2015-04-24",
-            "author_name": "Aldo Sterone",
-            "categories": "mort,culture",
-            "tags": "avant,france,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2015/04/france-terrorisme-et-culture-de-mort",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=RESEy1MmURk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/RESEy1MmURk/0.jpg"
         },
         "dailymotion.com/2015/04/le-clash-culture-figaro-l-obs-que-vaut-somnambules-dernier-album": {
             "title": "Le Clash culture Figaro-l'Obs: Que vaut Somnambules, le dernier album de Raphael?",
@@ -64,7 +77,7 @@
             "date": "2015-04-23",
             "author_name": "LCP",
             "categories": "culture,radio",
-            "tags": "culture,france",
+            "tags": "culture",
             "recuweb_url": "http://fr.recuweb.com/radio/dailymotion.com/2015/04/bondy-blog-caf%C3%A9-fleur-pellerin-ministre-de-la-culture-et-communication",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2np59d_bondy-blog-cafe-fleur-pellerin-ministre-de-la-culture-et-de-la-communication_news",
@@ -94,18 +107,6 @@
             "source_url": "http://dailymotion.com/video/x2nfp73_culture-les-confidences-de-sandrine-bonnaire_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nfp73_culture-les-confidences-de-sandrine-bonnaire_news"
         },
-        "youtube.com/2015/04/point-culture-les-cryptides-yeti-monstre-du-loch-ness-big-foot": {
-            "title": "Point Culture: les cryptides (yeti, monstre du Loch Ness, Big foot,...)...",
-            "snippet": "Point Culture: les cryptides (yeti, monstre du Loch Ness, Big foot,...) Certains animaux existent et d'autres n'existent pas. Ceux qui restent, ce sont les cryptides. Si cette vid\u00e9o vous a plu et que vous souhaitez suivre mes cr\u00e9ations: Facebook:...",
-            "date": "2015-04-21",
-            "author_name": "LinksTheSun",
-            "categories": "culture,facebook",
-            "tags": "culture",
-            "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2015/04/point-culture-les-cryptides-yeti-monstre-du-loch-ness-big-foot",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bculture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=TAGNX07GSbU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/TAGNX07GSbU/0.jpg"
-        },
         "dailymotion.com/2015/04/r%C3%A9action-de-marc-joulaud-suite-au-rejet-l-avis-la-commission": {
             "title": "R\u00e9action de Marc Joulaud suite au rejet de l'avis de la commission Culture...",
             "snippet": "Author: marc-joulaudTags: Marc Joulaud Parlement europ\u00e9en R\u00e9gion de Bruxelles-Capitale Culture Commission Culture Posted: 17 April 2015Rating:: 0...",
@@ -124,7 +125,7 @@
             "date": "2015-04-16",
             "author_name": "Aps AlgeriePresseService",
             "categories": "culture",
-            "tags": "avant,premi\u00e8re,sc\u00e8ne,culture,capitale,populaire",
+            "tags": "premi\u00e8re,sc\u00e8ne,culture,capitale,populaire,f\u00eate",
             "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2015/04/constantine-capitale-de-la-culture-arabe-en-f%C3%AAte",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Tw7eRrL_w10&feature=youtube_gdata",
