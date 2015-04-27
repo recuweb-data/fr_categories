@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "graffiti",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/graffiti/",
@@ -11,55 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/blogs.json"
     },
     "items": {
-        "francebleu.fr/2015/04/pour-lutter-contre-les-graffitis-le-vatican-choisit-une-entreprise": {
-            "title": "Pour lutter contre les graffitis, le Vatican choisit une entreprise de Montreuil...",
-            "snippet": "Apr\u00e8s cinq ans de gros travaux sur la place Saint-Pierre, le Vatican voulait que les 284 colonnes qui entourent la place ne soient pas d\u00e9figur\u00e9es par des graffitis. Il fallait donc trouver un moyen pour les prot\u00e9ger. Pour ne pas se tromper,...",
-            "date": "2015-04-23",
-            "categories": "place,graffiti",
-            "tags": "graffitis,saint,pierre,donc",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/francebleu.fr/2015/04/pour-lutter-contre-les-graffitis-le-vatican-choisit-une-entreprise",
+        "lapresse.ca/2015/04/l-%C3%A9t%C3%A9-vitamin%C3%A9-de-lili-graffiti": {
+            "title": "L'\u00e9t\u00e9 vitamin\u00e9 de Lili graffiti...",
+            "snippet": "Qu'ont en commun les ananas, la ville de Montr\u00e9al et une chouette avec des lunettes? Ils se retrouvent tous les trois au coeur de la collection printemps-\u00e9t\u00e9 de Marie-Laure Plano, qui offre ses cr\u00e9ations sous le nom de Lili graffiti. Le jaune de...",
+            "date": "2015-04-27",
+            "categories": "collection,graffiti",
+            "tags": "\u00e9t\u00e9,printemps,graffiti,montr\u00e9al",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/lapresse.ca/2015/04/l-%C3%A9t%C3%A9-vitamin%C3%A9-de-lili-graffiti",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://francebleu.fr/infos/tag/pour-lutter-contre-les-graffitis-le-vatican-choisit-une-entreprise-de-montreuil-2302153"
+            "source_url": "http://lapresse.ca/maison/decoration/design/201504/24/01-4864198-lete-vitamine-de-lili-graffiti.php"
+        },
+        "fr.allafrica.com/2015/04/docta-de-%C3%A2-doxandem-squad-le-graffiti-africain-a-soleil": {
+            "title": "Docta de \u00c2 Doxandem squad \u00c2 - \u00c2 Le graffiti africain a... - Le Soleil...",
+            "snippet": "Docta de \u00c2 Doxandem squad \u00c2 - \u00c2 Le graffiti africain a...Le SoleilLa 6\u00e8me \u00e9dition du Festival international de graffiti (Festigraff) a vu la participation de pr\u00e8s de 50 artistes venus de plus de 23 pays. Selon Docta de la structure Doxandem...",
+            "date": "2015-04-26",
+            "categories": "graffiti",
+            "tags": "graffiti,soleil",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/fr.allafrica.com/2015/04/docta-de-%C3%A2-doxandem-squad-le-graffiti-africain-a-soleil",
+            "resource_url": "http://news.google.fr/?hl=fr&q=graffiti%2Bgraffiti&output=atom&nord=1",
+            "source_url": "http://fr.allafrica.com/stories/201504260086.html"
+        },
+        "quebec.huffingtonpost.ca/2015/04/l-art-au-m%C3%A9fait-1-5": {
+            "title": "l'art au m\u00e9fait (1/5)...",
+            "snippet": "Avec le printemps, les annonces d'op\u00e9ration de nettoyage de graffitis sont monnaie courante dans les diff\u00e9rents m\u00e9dias montr\u00e9alais. On parle beaucoup des co\u00fbts de ces op\u00e9rations et des sanctions qui s'y rapportent. Mais il est parfois bien...",
+            "date": "2015-04-26",
+            "categories": "graffiti",
+            "tags": "graffitis,printemps,art",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/quebec.huffingtonpost.ca/2015/04/l-art-au-m%C3%A9fait-1-5",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://quebec.huffingtonpost.ca/nicole-robuchon/graffitide-lart-au-mefait_b_7120182.html"
+        },
+        "journalmetro.com/2015/04/des-graffitis-%C3%A9clairent-la-grande-guerre": {
+            "title": "Des graffitis \u00e9clairent la Grande Guerre...",
+            "snippet": "NAOURS, France Un long tunnel de 100 pieds, quelque part dans le nord-est de la France. Sur une des parois, une inscription parmi tant dautres: James Cockburn 8th Durham L.I.. Elle est si bien conserv\u00e9e quelle aurait pu \u00eatre grav\u00e9e hier.",
+            "date": "2015-04-25",
+            "categories": "graffiti",
+            "tags": "graffitis,france",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/journalmetro.com/2015/04/des-graffitis-%C3%A9clairent-la-grande-guerre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://journalmetro.com/actualites/national/763978/des-graffitis-eclairent-la-grande-guerre/"
+        },
+        "leplacoteux.com/2015/04/les-fermi%C3%A8res-installent-leur-tricot-graffiti": {
+            "title": "Les Fermi\u00e8res installent leur tricot graffiti...",
+            "snippet": "MONTMAGNY - Profitant mercredi dernier du seul avant-midi ensoleill\u00e9 de la semaine, les Fermi\u00e8res de Montmagny ont install\u00e9 leur \u0153uvre artisanale tricot graffiti dans le parc de la Mairie, soulignant ainsi le 100e anniversaire de fondation...",
+            "date": "2015-04-24",
+            "categories": "graffiti",
+            "tags": "install\u00e9,tricot,graffiti",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/leplacoteux.com/2015/04/les-fermi%C3%A8res-installent-leur-tricot-graffiti",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://leplacoteux.com/actualites/culturel/218381/les-fermieres-installent-leur-tricot-graffiti"
+        },
+        "ici.radio-canada.ca/2015/04/photo-du-graffiti-d-un-policier-avec-une-balle": {
+            "title": "Photo du graffiti d'un policier avec une balle dans la t\u00eate: Pawluck coupable...",
+            "snippet": "Jennifer Pawluck, cette femme qui avait diffus\u00e9 sur Internet un graffiti montrant le commandant Ian Lafreni\u00e8re du SPVM avec un trou de balle dans la t\u00eate, a \u00e9t\u00e9 reconnue coupable de harc\u00e8lement criminel, jeudi. Elle avait pris une photo du...",
+            "date": "2015-04-23",
+            "categories": "graffiti,internet",
+            "tags": "pris,pris-une-photo,photo,\u00e9t\u00e9,\u00e9t\u00e9-reconnue,\u00e9t\u00e9-reconnue-coupable,reconnue,reconnue-coupable,coupable,coupable-de-harc\u00e8lement,harc\u00e8lement,harc\u00e8lement-criminel,criminel,trou,trou-de-balle,balle,t\u00eate,ian,ian_lafreni\u00e8re,lafreni\u00e8re,montrant,montrant-le-commandant,commandant,femme,diffus\u00e9,graffiti,pawluck,jennifer,internet,spvm,jeudi",
+            "recuweb_url": "http://fr.recuweb.com/internet/ici.radio-canada.ca/2015/04/photo-du-graffiti-d-un-policier-avec-une-balle",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://ici.radio-canada.ca/regions/Montreal/2015/04/23/004-jennifer-pawluck-coupable-harcelement-criminel.shtml"
+        },
+        "ledevoir.com/2015/04/photo-du-graffiti-de-ian-lafreni%C3%A8re-pawluck-coupable": {
+            "title": "Photo du graffiti de Ian Lafreni\u00e8re: Pawluck coupable...",
+            "snippet": "Jennifer Pawluck, qui avait diffus\u00e9 sur Internet un graffiti montrant le commandant Ian Lafreni\u00e8re du SPVM avec un trou de balle dans la t\u00eate, a \u00e9t\u00e9 reconnue coupable de harc\u00e8lement criminel, jeudi. Elle avait pris une photo du graffiti et...",
+            "date": "2015-04-23",
+            "categories": "graffiti,internet",
+            "tags": "pris,pris-une-photo,photo,\u00e9t\u00e9,\u00e9t\u00e9-reconnue,\u00e9t\u00e9-reconnue-coupable,reconnue,reconnue-coupable,coupable,coupable-de-harc\u00e8lement,harc\u00e8lement,harc\u00e8lement-criminel,criminel,trou,trou-de-balle,balle,t\u00eate,montrant,montrant-le-commandant,commandant,diffus\u00e9,ian,ian_lafreni\u00e8re,lafreni\u00e8re,graffiti,pawluck,jennifer,internet,spvm,jeudi",
+            "recuweb_url": "http://fr.recuweb.com/internet/ledevoir.com/2015/04/photo-du-graffiti-de-ian-lafreni%C3%A8re-pawluck-coupable",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://ledevoir.com/societe/justice/438202/photo-du-graffiti-d-un-policier-avec-une-balle-dans-la-tete-pawluck-coupable"
         },
         "leplacoteux.com/2015/04/un-tricot-graffiti-sur-deux-arbres": {
             "title": "Un tricot graffiti sur deux arbres...",
             "snippet": "SAINT-ROCH-DES-AULNAIES Depuis le vendredi 10 avril, on peut admirer ce tricot graffiti install\u00e9 sur deux arbres devant le presbyt\u00e8re de Saint-Roch-des-Aulnaies. Le tricot graffiti est lart du tricot pour red\u00e9couvrir le mobilier urbain.",
             "date": "2015-04-23",
             "categories": "graffiti",
-            "tags": "graffiti,saint",
+            "tags": "tricot,install\u00e9,graffiti",
             "recuweb_url": "http://fr.recuweb.com/graffiti/leplacoteux.com/2015/04/un-tricot-graffiti-sur-deux-arbres",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
             "source_url": "http://leplacoteux.com/actualites/actualites-et-faits-divers/218294/un-tricot-graffiti-sur-deux-arbres"
-        },
-        "leparisien.fr/2015/04/pierre-frey-s-offre-un-grand-nom-du-graffiti-am%C3%A9ricain": {
-            "title": "Pierre Frey s'offre un grand nom du graffiti am\u00e9ricain...",
-            "snippet": "La v\u00e9n\u00e9rable maison de papier peint et de tissus parisienne s'associe, le temps d'une collaboration, avec l'artiste graffeur am\u00e9ricain Toxic. De cette collaboration est n\u00e9 un tissu (170 le m\u00e8tre), un papier peint (160 euros le m\u00e8tre) et un...",
-            "date": "2015-04-21",
-            "categories": "graffiti",
-            "tags": "papier,artiste,pierre,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/leparisien.fr/2015/04/pierre-frey-s-offre-un-grand-nom-du-graffiti-am%C3%A9ricain",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/laparisienne/deco/pierre-frey-s-offre-un-grand-nom-du-graffiti-americain-20-04-2015-4711695.php"
-        },
-        "nordinfo.com/2015/04/avec-les-fermi%C3%A8res-de-lorraine-et-dailleurs-sur-la-route": {
-            "title": "Avec les Fermi\u00e8res de Lorraine et dailleurs: sur la route des tricots-graffiti...",
-            "snippet": "\u00c9v\u00e9nement-phare de la programmation soulignant le 100e anniversaire des Cercles de fermi\u00e8res du Qu\u00e9bec, les tricots-graffitis se multiplient et cest dans la bonne humeur que lon inaugurait, ce mardi, ceux qui sont d\u00e9sormais install\u00e9s au...",
-            "date": "2015-04-20",
-            "categories": "graffiti",
-            "tags": "graffitis,graffiti,phare",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/nordinfo.com/2015/04/avec-les-fermi%C3%A8res-de-lorraine-et-dailleurs-sur-la-route",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://nordinfo.com/Actualites/2015-04-21/article-4119563/Avec-les-Fermieres-de-Lorraine-et-d&rsquo;ailleurs:-sur-la-route-des-tricots-graffiti/1"
-        },
-        "nordlittoral.fr/2015/04/le-graffiti-transporte-lhistoire": {
-            "title": "Le graffiti transporte lhistoire...",
-            "snippet": "Le Jardin des Arts continue d\u00e9gayer les visages de Calais. Cette semaine, une trentaine d\u00e9l\u00e8ves de l\u00e9cole du Phare ont b\u00e9n\u00e9fici\u00e9 de lintervention conjointe de Jank et dAgathe Verschaffel autour de la pratique du street-art. En classe...",
-            "date": "2015-04-17",
-            "categories": "graffiti,arts",
-            "tags": "street,visages,graffiti,phare,art",
-            "recuweb_url": "http://fr.recuweb.com/arts/nordlittoral.fr/2015/04/le-graffiti-transporte-lhistoire",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://nordlittoral.fr/calais/le-graffiti-transporte-l-histoire-ia0b0n200889"
         },
         "leparisien.fr/2015/04/en-images-paris-derni%C3%A8re-plong%C3%A9e-dans-la-rue-du-graffiti": {
             "title": "EN IMAGES. Paris: derni\u00e8re plong\u00e9e dans la rue du graffiti - Le Parisien...",
@@ -76,7 +106,7 @@
             "snippet": "MONTR\u00c9AL Les policiers nauraient jamais d\u00fb accuser de harc\u00e8lement la jeune femme ayant publi\u00e9 un graffiti dun des visages de la police de Montr\u00e9al avec une balle dans la t\u00eate, croit la d\u00e9fense.",
             "date": "2015-02-24",
             "categories": "graffiti",
-            "tags": "visages,graffiti",
+            "tags": "balle,t\u00eate,harc\u00e8lement,femme,jennifer,pawluck,montr\u00e9al,graffiti",
             "recuweb_url": "http://fr.recuweb.com/graffiti/fr-ca.actualites.yahoo.com/2015/02/proc%C3%A8s-pour-de-jennifer-pawluck-pr%C3%A9venir-plut%C3%B4t-que-daccuser-plaide",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=graffiti",
             "source_url": "http://fr-ca.actualites.yahoo.com/proc\u00e8s-jennifer-pawluck-pr\u00e9venir-plut\u00f4t-accuser-plaide-d\u00e9fense-184330014.html"
