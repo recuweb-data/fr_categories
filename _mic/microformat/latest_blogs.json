@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microformat",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microformat/",
@@ -27,7 +28,7 @@
             "date": "2014-08-12",
             "author_name": "Ma veille",
             "categories": "microformat",
-            "tags": "seo,tools,rdfa,microformats,r\u00e9f\u00e9rencement,web",
+            "tags": "seo,tools,rdfa,microdata,microformats,r\u00e9f\u00e9rencement,web",
             "recuweb_url": "http://fr.recuweb.com/microformat/veilleseo.wordpress.com/2014/08/structured-data-markup-visualization-validation-and-testing-tools",
             "resource_url": "http://fr.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
             "source_url": "http://veilleseo.wordpress.com/2014/08/12/structured-data-markup-visualization-validation-and-testing-tools/"
@@ -38,7 +39,7 @@
             "date": "2014-08-04",
             "author_name": "Alexis Ravel",
             "categories": "microformat",
-            "tags": "microdatas,xhtml,network,microdonn\u00e9es,microformats,comme,html",
+            "tags": "xhtml,microdonn\u00e9es,microformats,comme,html",
             "recuweb_url": "http://fr.recuweb.com/microformat/blog.netapsys.fr/2014/08/microdonn%C3%A9es-versus-microformats-le-blog-netapsys",
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.netapsys.fr/microdonnees-versus-microformats/"
@@ -49,21 +50,10 @@
             "date": "2014-05-11",
             "author_name": "J\u00e9r\u00f4me Chambard",
             "categories": "microformat,langage,nature",
-            "tags": "microformat,permettant,web",
+            "tags": "page,microformat,permettant,donn\u00e9es,web",
             "recuweb_url": "http://fr.recuweb.com/nature/dictionnaireduweb.com/2014/05/microformat-dictionnaire-du-web",
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://dictionnaireduweb.com/microformat/"
-        },
-        "softiblog.com/2014/01/introduction-aux-microdatas-et-microformats-softiblog": {
-            "title": "Introduction aux microdatas et microformats Softiblog...",
-            "snippet": "Auparavant, ce d\u00e9sir se r\u00e9alisait par l'interm\u00e9diaire de classes qui \u00e9taient rassembl\u00e9es en fonction de leur utilit\u00e9 dans une sp\u00e9cification de microformat. La sp\u00e9cification geo par exemple, rassemble les classes permettant...",
-            "date": "2014-01-15",
-            "author_name": "Anja",
-            "categories": "microformat",
-            "tags": "permettant,microformats,microdatas,introduction",
-            "recuweb_url": "http://fr.recuweb.com/microformat/softiblog.com/2014/01/introduction-aux-microdatas-et-microformats-softiblog",
-            "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://softiblog.com/post/2014/01/15/introduction-aux-microdatas-et-microformats/"
         },
         "forum.webrankinfo.com/2013/06/gwt-microformat-et-cannabis-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement": {
             "title": "GWT, microformat et cannabis: D\u00e9buter en r\u00e9f\u00e9rencement...",
@@ -71,21 +61,10 @@
             "date": "2013-06-20",
             "author_name": "inconnu",
             "categories": "microformat",
-            "tags": "code,suis,site,r\u00e9f\u00e9rencement,microformats,d\u00e9buter",
+            "tags": "code,site,r\u00e9f\u00e9rencement,microformats",
             "recuweb_url": "http://fr.recuweb.com/microformat/forum.webrankinfo.com/2013/06/gwt-microformat-et-cannabis-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement",
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.webrankinfo.com/gwt-microformat-cannabis-t165804.html"
-        },
-        "forum.webrankinfo.com/2013/06/microformat-et-perte-de-visites-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement": {
-            "title": "Microformat et perte de visites: D\u00e9buter en r\u00e9f\u00e9rencement...",
-            "snippet": "J'ai fait un refonte et je suis passer a presque 1000 produits. dans la refonte j'ai essayer d'ins\u00e9rer des microformat sans abuser. Fiche produit succincte dans les listes (nom, description, url, photo) liste des fabricant sur l'index,...",
-            "date": "2013-06-15",
-            "author_name": "inconnu",
-            "categories": "microformat",
-            "tags": "microformat,suis,r\u00e9f\u00e9rencement,d\u00e9buter",
-            "recuweb_url": "http://fr.recuweb.com/microformat/forum.webrankinfo.com/2013/06/microformat-et-perte-de-visites-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement",
-            "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/microformat-perte-visites-t165662.html"
         },
         "alsacreations.com/2012/08/microformats-2-alsacreations": {
             "title": "Microformats 2 - Alsacreations...",
@@ -119,6 +98,28 @@
             "recuweb_url": "http://fr.recuweb.com/microformat/web-semantique.developpez.com/2011/07/le-guide-ultime-des-microformats-r%C3%A9f%C3%A9rences-et-exemples",
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://web-semantique.developpez.com/tutoriels/microformats/guide/"
+        },
+        "microformats.org/2007/08/portabilit%C3%A9-de-r%C3%A9seau-social-microformats-wiki": {
+            "title": "Portabilit\u00e9 de R\u00e9seau Social Microformats Wiki...",
+            "snippet": "... de R\u00e9seau Social. Jump to: navigation, search. La portabilit\u00e9 du r\u00e9seau social est l'une des nombreuses id\u00e9es d'interface utilisateur et de suggestions pour travailler avec les microformats dans le domaine de la portabilit\u00e9 des donn\u00e9es.",
+            "date": "2007-08-07",
+            "author_name": "ChristopheDucamp",
+            "categories": "microformat,wiki,navigation",
+            "tags": "donn\u00e9es,microformats,search",
+            "recuweb_url": "http://fr.recuweb.com/navigation/microformats.org/2007/08/portabilit%C3%A9-de-r%C3%A9seau-social-microformats-wiki",
+            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://microformats.org/wiki/social-network-portability-fr"
+        },
+        "contrib.spip.net/2005/08/utilisation-du-microformat-hcard-pour-cr%C3%A9er-une-vcard-avec-spip": {
+            "title": "Utilisation du microformat hCard pour cr\u00e9er une vcard avec SPIP...",
+            "snippet": "Les Microformats sont con\u00e7u pour \u00eatre compris par les humains et ensuite par les machines. Ce sont des ensembles de donn\u00e9es bas\u00e9s sur des standards permettant de r\u00e9soudre simplement certains probl\u00e8mes en...",
+            "date": "2005-08-28",
+            "author_name": "IZO",
+            "categories": "microformat",
+            "tags": "donn\u00e9es,standards,permettant,vcard,microformats,hcard",
+            "recuweb_url": "http://fr.recuweb.com/microformat/contrib.spip.net/2005/08/utilisation-du-microformat-hcard-pour-cr%C3%A9er-une-vcard-avec-spip",
+            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://contrib.spip.net/Utilisation-du-microformat-hCard"
         }
     }
 }
