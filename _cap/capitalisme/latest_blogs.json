@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "capitalisme",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/capitalisme/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/capitalisme/capitalisme/blogs.json"
     },
     "items": {
-        "les7duquebec.com/2015/04/le-salariat-la-belle-arnaque-du-capitalisme-les-7-qu%C3%A9bec": {
-            "title": "Le salariat, la belle arnaque du capitalisme! Les 7 du Qu\u00e9bec...",
-            "snippet": "MICHEL PEYRET avril 2015. Le salariat, la belle arnaque du capitalisme! Les trade-unions, conclut Marx, agissent utilement en tant que centres de r\u00e9sistance aux empi\u00e8tement du capital. Elles manquent en partie leur but...",
-            "date": "2015-04-18",
-            "author_name": "Michel Peyret",
+        "intellection.over-blog.com/2015/04/capitalisme-immanence-toujours-actuelle-d-un-colonialisme": {
+            "title": "Capitalisme: immanence toujours actuelle d'un colonialisme...",
+            "snippet": "Capitalisme: immanence toujours actuelle d'un colonialisme exterminateur. 22 Avril 2015. Par Camille Loty Malebranche. La seule morale des puissances occidentales, est leur pr\u00e9pond\u00e9rance, et au nom de celle-ci tout, m\u00eame l'argument du...",
+            "date": "2015-04-22",
+            "author_name": "CLM.",
+            "categories": "capitalisme",
+            "tags": "morale,toujours,capitalisme,avril",
+            "recuweb_url": "http://fr.recuweb.com/capitalisme/intellection.over-blog.com/2015/04/capitalisme-immanence-toujours-actuelle-d-un-colonialisme",
+            "resource_url": "http://www.google.com/search?q=capitalisme%2Bcapitalisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://intellection.over-blog.com/2015/04/capitalisme-immanence-actuelle-d-une-hegemonie-colonialiste-exterminatrice.html"
+        },
+        "lesakerfrancophone.net/2015/04/comprendre-le-capitalisme-2-4-saker-francophone": {
+            "title": "Comprendre le capitalisme 2/4 LE SAKER FRANCOPHONE...",
+            "snippet": "Parall\u00e8lement, la politique se vide de son contenu, les institutions perdent de leur sens et la sph\u00e8re financi\u00e8re s'hypertrophie pendant que la dynamique du capitalisme s'\u00e9touffe. Une satrapie oligarchique pire que le...",
+            "date": "2015-04-21",
+            "author_name": "saker",
+            "categories": "politique,capitalisme",
+            "tags": "satrapie,satrapie-oligarchique,satrapie-oligarchique-pire,oligarchique,oligarchique-pire,pire,hypertrophie,hypertrophie-pendant,pendant,dynamique,institutions,institutions-perdent,perdent,sens,sph\u00e8re,sph\u00e8re-financi\u00e8re,financi\u00e8re,politique,politique-se-vide,vide,contenu,saker,saker_francophone,francophone,comprendre,capitalisme,parall\u00e8lement,\u00e9touffe",
+            "recuweb_url": "http://fr.recuweb.com/capitalisme/lesakerfrancophone.net/2015/04/comprendre-le-capitalisme-2-4-saker-francophone",
+            "resource_url": "http://www.google.com/search?q=capitalisme%2Bcapitalisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lesakerfrancophone.net/comprendre-le-capitalisme-24/"
+        },
+        "biosphere.blog.lemonde.fr/2015/04/tout-peut-changer-capitalisme-&-changement-climatique-biosph%C3%A8re": {
+            "title": "Tout peut changer. Capitalisme & changement climatique Biosph\u00e8re...",
+            "snippet": "Naomi Klein vient d'\u00e9crire Tout peut changer. Capitalisme & changement climatique St\u00e9phane Foucart s'\u00e9tonne des compliments de la presse conservatrice anglo-saxonne alors que Naomi n'a rien abandonn\u00e9 de son...",
+            "date": "2015-04-21",
+            "author_name": "biosphere",
             "categories": "capitalisme",
             "tags": "capitalisme",
-            "recuweb_url": "http://fr.recuweb.com/capitalisme/les7duquebec.com/2015/04/le-salariat-la-belle-arnaque-du-capitalisme-les-7-qu%C3%A9bec",
+            "recuweb_url": "http://fr.recuweb.com/capitalisme/biosphere.blog.lemonde.fr/2015/04/tout-peut-changer-capitalisme-&-changement-climatique-biosph%C3%A8re",
             "resource_url": "http://www.google.com/search?q=capitalisme%2Bcapitalisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://les7duquebec.com/7-dailleurs-invites/le-salariat-la-belle-arnaque-du-capitalisme-2/"
+            "source_url": "http://biosphere.blog.lemonde.fr/2015/04/21/tout-peut-changer-capitalisme-changement-climatique/"
         },
         "lesakerfrancophone.net/2015/04/comprendre-le-capitalisme-1-4-saker-francophone": {
             "title": "Comprendre le capitalisme 1/4 LE SAKER FRANCOPHONE...",
@@ -28,32 +50,10 @@
             "date": "2015-04-14",
             "author_name": "saker",
             "categories": "politique,capitalisme",
-            "tags": "comprendre,capitalisme",
+            "tags": "satrapie,satrapie-oligarchique,satrapie-oligarchique-pire,oligarchique,oligarchique-pire,pire,hypertrophie,hypertrophie-pendant,pendant,dynamique,institutions,institutions-perdent,perdent,sens,sph\u00e8re,sph\u00e8re-financi\u00e8re,financi\u00e8re,politique,politique-se-vide,vide,contenu,saker,saker_francophone,francophone,comprendre,capitalisme,parall\u00e8lement,\u00e9touffe",
             "recuweb_url": "http://fr.recuweb.com/capitalisme/lesakerfrancophone.net/2015/04/comprendre-le-capitalisme-1-4-saker-francophone",
             "resource_url": "http://www.google.com/search?q=capitalisme%2Bcapitalisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesakerfrancophone.net/comprendre-le-capitalisme-14/"
-        },
-        "legrandsoir.info/2015/04/r%C3%A9guler-les-banquiers-r%C3%A9former-le-capitalisme-une-impossibilit%C3%A9": {
-            "title": "R\u00e9guler les banquiers r\u00e9former le capitalisme une impossibilit\u00e9...",
-            "snippet": "R\u00e9guler les banquiers r\u00e9former le capitalisme une impossibilit\u00e9. Robert BIBEAU. Apr\u00e8s le 15 septembre 2008, date de la faillite de la banque L\u00e9man Brothers marquant le d\u00e9but de la reprise de la crise syst\u00e9mique...",
-            "date": "2015-04-07",
-            "author_name": "Robert BIBEAU",
-            "categories": "capitalisme",
-            "tags": "capitalisme,crise",
-            "recuweb_url": "http://fr.recuweb.com/capitalisme/legrandsoir.info/2015/04/r%C3%A9guler-les-banquiers-r%C3%A9former-le-capitalisme-une-impossibilit%C3%A9",
-            "resource_url": "http://www.google.com/search?q=capitalisme%2Bcapitalisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://legrandsoir.info/reguler-les-banquiers-reformer-le-capitalisme-une-impossibilite.html"
-        },
-        "dedefensa.org/2015/04/schumpeter-le-capitalisme-mondialis%C3%A9": {
-            "title": ": Schumpeter, le capitalisme mondialis\u00e9 et la...",
-            "snippet": "Dans son ma\u00eetre-ouvrage Capitalisme, socialisme et d\u00e9mocratie (1942), l'\u00e9conomiste Joseph Schumpeter nous donne la meilleure clef de lecture de la construction euro-atlantiste: L'impulsion fondamentale qui met et...",
-            "date": "2015-04-01",
-            "author_name": "Philippe Grasset",
-            "categories": "construction,socialisme,capitalisme",
-            "tags": "capitalisme",
-            "recuweb_url": "http://fr.recuweb.com/capitalisme/dedefensa.org/2015/04/schumpeter-le-capitalisme-mondialis%C3%A9",
-            "resource_url": "http://www.google.com/search?q=capitalisme%2Bcapitalisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://dedefensa.org/article-schumpeter_le_capitalisme_mondialis_et_la_d_mocratie_01_04_2015.html"
         },
         "dreamopabenreamesomorrthyl.wordpress.com/2014/02/le-capitalisme-id%C3%A9al": {
             "title": "Le Capitalisme id\u00e9al...",
