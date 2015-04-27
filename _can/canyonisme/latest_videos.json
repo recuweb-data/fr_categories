@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "canyonisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/canyonisme/",
@@ -10,18 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/blogs.json"
     },
     "items": {
-        "youtube.com/2014/12/canyonisme-initiation-coll%C3%A8ge": {
-            "title": "Canyonisme - Initiation canyonisme coll\u00e8ge...",
-            "snippet": "Canyonisme - Initiation canyonisme coll\u00e8ge Pour retrouver les autres vid\u00e9os li\u00e9es au canyonisme, c'est ici: From: FFME Views: 679 7 ratings Time: 07:42 More in Sports...",
-            "date": "2014-12-24",
-            "author_name": "FFME",
-            "categories": "canyonisme,sport",
-            "tags": "canyonisme,ffme,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/12/canyonisme-initiation-coll%C3%A8ge",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=canyonisme%2Bcanyonisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=ouM_dqc8mZE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ouM_dqc8mZE/0.jpg"
-        },
         "dailymotion.com/2014/10/canyonlands-backcountry-usa-2014": {
             "title": "Canyonlands Backcountry, USA 2014...",
             "snippet": "Author: yoopxxTags: Canyonisme Trekking Cano\u00eb-kayak Canyonland Posted: 16 October 2014Rating:: 0...",
@@ -70,6 +59,18 @@
             "source_url": "http://dailymotion.com/video/x23i5y7_video-canyon-aiglun-avec-phillip-dit-la-chiniole-et-skyfast_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x23i5y7_video-canyon-aiglun-avec-phillip-dit-la-chiniole-et-skyfast_sport"
         },
+        "youtube.com/2014/05/canyonisme-au-rio-sourd": {
+            "title": "Canyonisme au Rio Sourd...",
+            "snippet": "Canyonisme au Rio Sourd Canyonisme au Rio Sourd dans le Diois Sortie initiation du 24 et 25 mai 2014. From: 84roland1 Views: 277 2 ratings Time: 08:42 More in Sports...",
+            "date": "2014-05-26",
+            "author_name": "84roland1",
+            "categories": "canyonisme,sport",
+            "tags": "canyonisme,roland,sports",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/05/canyonisme-au-rio-sourd",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=canyonisme%2Bcanyonisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=bLkOqYjybAc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/bLkOqYjybAc/0.jpg"
+        },
         "dailymotion.com/2014/05/oman-trip-2014": {
             "title": "oman trip 2014...",
             "snippet": "10 days in OmanAuthor: yoopxxTags: Oman Canyonisme Trekking Escalade Posted: 13 May 2014Rating:: 0...",
@@ -84,11 +85,11 @@
         },
         "youtube.com/2013/11/canyonisme-autour-d-annecy-hd": {
             "title": "canyonisme autour d'Annecy hd...",
-            "snippet": "canyonisme autour d'Annecy hd canyonisme autour d'Annecy du 14 au 17/07/2013. From: 84roland1 Views: 129 0 ratings Time: 09:05 More in Sports...",
+            "snippet": "canyonisme autour d'Annecy hd canyonisme autour d'Annecy du 14 au 17/07/2013. From: 84roland1 Views: 137 0 ratings Time: 09:05 More in Sports...",
             "date": "2013-11-19",
             "author_name": "84roland1",
             "categories": "canyonisme,sport",
-            "tags": "canyonisme,sports",
+            "tags": "canyonisme,roland,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2013/11/canyonisme-autour-d-annecy-hd",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=canyonisme%2Bcanyonisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=2jR5s15TCb0&feature=youtube_gdata",
@@ -96,11 +97,11 @@
         },
         "youtube.com/2013/06/rif-2013-lescheraines-fete-de-la-musique": {
             "title": "RIF 2013 Lescheraines FETE DE LA MUSIQUE...",
-            "snippet": "RIF 2013 Lescheraines FETE DE LA MUSIQUE EFC,FFME,FFCAM,RIF,LESCHERAINES,BAUGES,canyonisme, canyon, canyoning. From: CanyonTube.tv Views: 836 2 ratings Time: 02:36 More in Sports...",
+            "snippet": "RIF 2013 Lescheraines FETE DE LA MUSIQUE EFC,FFME,FFCAM,RIF,LESCHERAINES,BAUGES,canyonisme, canyon, canyoning. From: CanyonTube.tv Views: 840 2 ratings Time: 02:36 More in Sports...",
             "date": "2013-06-24",
             "author_name": "CanyonTube .tv",
             "categories": "musique,canyonisme,sport",
-            "tags": "ffme,canyonisme,canyon,canyoning,sports",
+            "tags": "canyonisme,canyon,canyoning,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2013/06/rif-2013-lescheraines-fete-de-la-musique",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=canyonisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=AMMX_R6p0RI&feature=youtube_gdata",
