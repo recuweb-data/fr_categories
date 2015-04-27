@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rugby",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rugby/",
@@ -10,17 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/rugby-juillan-xv-obrc": {
-            "title": "Rugby: Juillan XV- OBRC...",
-            "snippet": "Dimanche 12 avril, Juillan recevait Oursbelille-Bord\u00e8res pour le compte de la derni\u00e8re journ\u00e9e de championnat Promotion Honneur. L'enjeu: une place en finale Armagnac-Bigorre pour le: LasemainerugbyTags: Roller derby rugby armagnac bigorre...",
-            "date": "2015-04-13",
-            "author_name": "Lasemainerugby",
-            "categories": "rugby,place",
-            "tags": "rugby,finale,derni\u00e8re,journ\u00e9e,championnat",
-            "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/04/rugby-juillan-xv-obrc",
+        "dailymotion.com/2015/04/tyrese-johnson-fisher-le-nouveau-ph%C3%A9nom%C3%A8ne-du-rugby": {
+            "title": "Tyrese Johnson-Fisher, le nouveau ph\u00e9nom\u00e8ne du rugby...",
+            "snippet": "Tyrese Johnson-Fisher, le nouveau ph\u00e9nom\u00e8ne du rugbyAuthor: cynops-newsTags: Tyrese Johnson-Fisher rugby Tyrese Johnson-Fisher rugby Posted: 26 April 2015Rating:: 0...",
+            "date": "2015-04-26",
+            "author_name": "cynops-news",
+            "categories": "rugby",
+            "tags": "rugby",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/tyrese-johnson-fisher-le-nouveau-ph%C3%A9nom%C3%A8ne-du-rugby",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mipa1_rugby-juillan-xv-obrc_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mipa1_rugby-juillan-xv-obrc_sport"
+            "source_url": "http://dailymotion.com/video/x2o1w0j_tyrese-johnson-fisher-le-nouveau-phenomene-du-rugby_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o1w0j_tyrese-johnson-fisher-le-nouveau-phenomene-du-rugby_sport"
+        },
+        "dailymotion.com/2015/04/rugby-st-toulouse-enterr%C3%A9-un-peu-trop-vite": {
+            "title": "Rugby - ST: Toulouse, enterr\u00e9 un peu trop vite?",
+            "snippet": "VIDEO TOP 14 - Apr\u00e8s s'etre fait quelques frayeurs en d\u00e9but de saison, les Rouge et Noir sont revenus progressivement dans la courses aux premi\u00e8res place. Une victoire ce soir face au Stade Fran\u00e7ais leur assurerait quasiment une place en phase:...",
+            "date": "2015-04-24",
+            "author_name": "lequipe",
+            "categories": "place,rugby",
+            "tags": "stade,victoire,face,saison,top,rugby,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-st-toulouse-enterr%C3%A9-un-peu-trop-vite",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nth73_rugby-st-toulouse-enterre-un-peu-trop-vite_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nth73_rugby-st-toulouse-enterre-un-peu-trop-vite_sport"
+        },
+        "dailymotion.com/2015/04/rugby-ce-toulon-laporte-une-v%C3%A9ritable-d%C3%A9livrance": {
+            "title": "Rugby - CE - Toulon: Laporte Une v\u00e9ritable d\u00e9livrance...",
+            "snippet": "Qualifi\u00e9 pour la finale de la Coupe d'Europe au bout du suspense, apr\u00e8s la victoire du RCT sur le Leinster (25-20, a.p.), Bernard Laporte a appr\u00e9ci\u00e9 l'\u00e9tat d'esprit de ses: lequipeTags: Rugby Coupe dEurope Saison 2014-2015 Demi-finales Toulon -...",
+            "date": "2015-04-19",
+            "author_name": "lequipe",
+            "categories": "rugby",
+            "tags": "deurope,deurope_saison,saison,apr\u00e8s,victoire,suspense,finales,rugby,toulon,coupe,europe,lequipetags,demi",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-toulon-laporte-une-v%C3%A9ritable-d%C3%A9livrance",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n7qoj_rugby-ce-toulon-laporte-une-veritable-delivrance_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n7qoj_rugby-ce-toulon-laporte-une-veritable-delivrance_sport"
+        },
+        "dailymotion.com/2015/04/rugby-ce-escot-une-finale-franco-fran%C3%A7aise-va-d%C3%A9naturer-la-coupe": {
+            "title": "Rugby - CE: Escot Une finale franco-fran\u00e7aise va d\u00e9naturer la Coupe d'Europe...",
+            "snippet": "Pour Richard Escot, journaliste sp\u00e9cialiste du Rugby, la finale entre Clermont et Toulon n'est pas forc\u00e9ment une bonne chose pour la coupe d'Europe, mais pouvons nous nous en plaindre?Author: lequipeTags: Rugby Coupe dEurope Saison 2014-2015...",
+            "date": "2015-04-19",
+            "author_name": "lequipe",
+            "categories": "rugby",
+            "tags": "deurope,deurope_saison,saison,coupe,richard,richard_escot,escot,rugby,europe,journa,clermont,toulon,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-escot-une-finale-franco-fran%C3%A7aise-va-d%C3%A9naturer-la-coupe",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n7slc_rugby-ce-escot-une-finale-franco-francaise-va-denaturer-la-coupe-d-europe_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n7slc_rugby-ce-escot-une-finale-franco-francaise-va-denaturer-la-coupe-d-europe_sport"
+        },
+        "dailymotion.com/2015/04/rugby-ce-clermont-comme-on-se-retrouve": {
+            "title": "Rugby - CE - Clermont: Comme on se retrouve!",
+            "snippet": "\u00c9limin\u00e9 (46-6) au m\u00eame stade l'ann\u00e9e derni\u00e8re face au m\u00eame adversaire, Clermont retrouve les Saracens en demi-finale de coupe d'Europe, mais le contexte n'est plus le m\u00ea: lequipeTags: Rugby Coupe dEurope Saison 2014-2015 Demi-finales Clermont...",
+            "date": "2015-04-18",
+            "author_name": "lequipe",
+            "categories": "rugby",
+            "tags": "deurope,deurope_saison,saison,finales,coupe,demi,retrouve,face,stade,rugby,clermont,comme,europe,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-clermont-comme-on-se-retrouve",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n2gzc_rugby-ce-clermont-comme-on-se-retrouve_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n2gzc_rugby-ce-clermont-comme-on-se-retrouve_sport"
         },
         "dailymotion.com/2015/04/rugby-top-14-l-appel-d-offres-de-la-ffr": {
             "title": "RUGBY - TOP 14: L'appel d'offres de la FFR a-t-il perturb\u00e9 le Top 14?",
@@ -28,95 +77,11 @@
             "date": "2015-04-12",
             "author_name": "lequipe",
             "categories": "rugby",
-            "tags": "journ\u00e9e,rugby,top,lequipetags,saison,retour",
+            "tags": "rugby,r\u00e9sultat,richard,richard_escot,escot,journa,top,lequipetags,saison,retour",
             "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-top-14-l-appel-d-offres-de-la-ffr",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mhekx_rugby-top-14-l-appel-d-offres-de-la-ffr-a-t-il-perturbe-le-top-14_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mhekx_rugby-top-14-l-appel-d-offres-de-la-ffr-a-t-il-perturbe-le-top-14_sport"
-        },
-        "dailymotion.com/2015/04/rugby-top-14-grosso-rien-n-est-gagn%C3%A9-11-04": {
-            "title": "Rugby/Top 14/Grosso: Rien n'est gagn\u00e9 - 11/04...",
-            "snippet": "Vainqueur de l'Union Bordeaux-B\u00e8gles en cl\u00f4ture de la 22\u00e8me journ\u00e9e de Top 14, Castres sort enfin de la zone rouge. Les Castrais sont en train de r\u00e9ussir leur op\u00e9ration maintien. D\u00e9couvrez toute lactualit\u00e9 et les derni\u00e8res infos du Rugby...",
-            "date": "2015-04-11",
-            "author_name": "rmcsport",
-            "categories": "rugby",
-            "tags": "lactualit\u00e9,derni\u00e8res,op\u00e9ration,\u00e8me,\u00e8me-journ\u00e9e,journ\u00e9e,rugby,top,vainqueur,d\u00e9couvrez",
-            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-top-14-grosso-rien-n-est-gagn%C3%A9-11-04",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mekxo_rugby-top-14-grosso-rien-n-est-gagne-11-04_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mekxo_rugby-top-14-grosso-rien-n-est-gagne-11-04_sport"
-        },
-        "dailymotion.com/2015/04/rugby-top-14-toulon-fait-la-bonne-op%C3%A9ration-11-04": {
-            "title": "Rugby/Top 14/Toulon fait la bonne op\u00e9ration - 11/04...",
-            "snippet": "Vainqueur sur la pelouse de Grenoble, le RC Toulonnais a profit\u00e9 de la d\u00e9faite de Clermont sur sa pelouse pour s'emparer seul des commandes du Top 14. De bon augure avant la demi de Champions Cup D\u00e9couvrez toute lactualit\u00e9 et les derni\u00e8res...",
-            "date": "2015-04-11",
-            "author_name": "rmcsport",
-            "categories": "rugby",
-            "tags": "lactualit\u00e9,derni\u00e8res,champions,champions_cup,cup,d\u00e9couvrez,d\u00e9faite,op\u00e9ration,rugby,top,toulon,vainqueur,toulonnais,clermont",
-            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-top-14-toulon-fait-la-bonne-op%C3%A9ration-11-04",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2med46_rugby-top-14-toulon-fait-la-bonne-operation-11-04_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2med46_rugby-top-14-toulon-fait-la-bonne-operation-11-04_sport"
-        },
-        "dailymotion.com/2015/04/rugby-ce-rm92-labit-le-ticket-on-leur-a-donn%C3%A9": {
-            "title": "Rugby - CE - RM92: Labit Le ticket, on leur a donn\u00e9...",
-            "snippet": "VIDEO COUPE D'EUROPE - S'il regrette que son \u00e9quipe ait \u00e9t\u00e9 trop p\u00e9nalis\u00e9e, Laurent Labit, l'un des deux entra\u00eeneurs du Racing, conc\u00e8de que les Saracens ont mieux jou\u00e9 le: lequipeTags: Rugby Coupe dEurope Saison 2014-2015 Quarts de finale...",
-            "date": "2015-04-05",
-            "author_name": "lequipe",
-            "categories": "rugby",
-            "tags": "finale,deurope,saison,mieux,coupe,rugby,europe,lequipetags,quarts",
-            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-rm92-labit-le-ticket-on-leur-a-donn%C3%A9",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lsxlp_rugby-ce-rm92-labit-le-ticket-on-leur-a-donne_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lsxlp_rugby-ce-rm92-labit-le-ticket-on-leur-a-donne_sport"
-        },
-        "dailymotion.com/2015/04/rugby-ce-asm-fofana-on-a-tout-lch%C3%A9": {
-            "title": "Rugby - CE - ASM: Fofana On a tout lch\u00e9...",
-            "snippet": "VIDEO CHAMPIONS CUP - Port\u00e9s par des avants conqu\u00e9rants et des trois-quarts \u00e9tincelants, Clermont n'a fait qu'une bouch\u00e9e des Anglais de Northampton (37-5). Wesley Fofana ne pouvait pas esp\u00e9rer mieux pour son retour de: lequipeTags: Rugby Coupe...",
-            "date": "2015-04-04",
-            "author_name": "lequipe",
-            "categories": "rugby",
-            "tags": "mieux,retour,quarts,champions,champions_cup,cup,rugby,asm,clermont,northampton,lequipetags,coupe",
-            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-asm-fofana-on-a-tout-lch%C3%A9",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lra4b_rugby-ce-asm-fofana-on-a-tout-lache_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lra4b_rugby-ce-asm-fofana-on-a-tout-lache_sport"
-        },
-        "dailymotion.com/2015/04/rugby-ce-asm-chouly-c-est-la-derni%C3%A8re-ligne-droite": {
-            "title": "Rugby - CE - ASM: Chouly C'est la derni\u00e8re ligne droite...",
-            "snippet": "VIDEO CHAMPIONS CUP - Clermont, qui re\u00e7oit Northampton ce samedi, veut s'installer parmi les grands de la Coupe d'Europe et marquer l'\u00e9preuve. Les quarts de finale ne sont que le d\u00e9but de l'aventure pour Damien: lequipeTags: Rugby Coupe dEurope...",
-            "date": "2015-04-02",
-            "author_name": "lequipe",
-            "categories": "rugby",
-            "tags": "quarts,finale,samedi,champions,champions_cup,cup,derni\u00e8re,rugby,asm,clermont,northampton,coupe,europe,lequipetags,deurope",
-            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-asm-chouly-c-est-la-derni%C3%A8re-ligne-droite",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lky6m_rugby-ce-asm-chouly-c-est-la-derniere-ligne-droite_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lky6m_rugby-ce-asm-chouly-c-est-la-derniere-ligne-droite_sport"
-        },
-        "dailymotion.com/2015/03/rugby-top-14-rct-boudjellal-on-va-rendre-le-bouclier": {
-            "title": "Rugby - Top 14 - RCT: Boudjellal On va rendre le Bouclier...",
-            "snippet": "VIDEO TOP 14 - Mourad Boudjellal n'a pas appr\u00e9ci\u00e9 la d\u00e9faite de Toulon, samedi au V\u00e9lodrome contre le Stade Toulousain (34-24). \u00c0 chaud, le Pr\u00e9sident du RCT a annonc\u00e9 qu'il rendrait le Bouclier de Brennus, acquis l'an pass\u00e9, car ses joueurs...",
-            "date": "2015-03-29",
-            "author_name": "lequipe",
-            "categories": "rugby",
-            "tags": "stade,stade_toulousain,toulousain,samedi,d\u00e9faite,top,rugby,toulon",
-            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/03/rugby-top-14-rct-boudjellal-on-va-rendre-le-bouclier",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2kzmfc_rugby-top-14-rct-boudjellal-on-va-rendre-le-bouclier_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2kzmfc_rugby-top-14-rct-boudjellal-on-va-rendre-le-bouclier_sport"
-        },
-        "youtube.com/2015/03/rugby-club-toulonnais-v-stade-toulousain-top14-j21": {
-            "title": "Rugby Club Toulonnais v Stade Toulousain/Top14, J21 ()...",
-            "snippet": "Rugby Club Toulonnais v Stade Toulousain/Top14, J21 () MATCH EN INT\u00c9GRALIT\u00c9 Top14 2014-15 21\u00e8me journ\u00e9e du Championnat ()... From: Stade Toulousain, \u00f4 fil des essais Views: 4086 42 ratings Time: 01:38:02 More in Sports...",
-            "date": "2015-03-29",
-            "author_name": "Stade Toulousain, \u00f4 fil des essais",
-            "categories": "rugby,sport",
-            "tags": "\u00e8me,\u00e8me-journ\u00e9e,journ\u00e9e,match,stade,stade_toulousain,toulousain,rugby,toulonnais,top,championnat",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/03/rugby-club-toulonnais-v-stade-toulousain-top14-j21",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rugby%2Brugby&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=9q7eiwTL_WQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/9q7eiwTL_WQ/0.jpg"
         },
         "dailymotion.com/2015/03/regarder-angleterre-vs-france-match-rugby-direct-live-streaming-sur-bein": {
             "title": "Regarder Angleterre vs France Match Rugby Direct Live Streaming sur bein sport le 21-03-2015...",
@@ -124,11 +89,47 @@
             "date": "2015-03-21",
             "author_name": "badri110",
             "categories": "rugby,sport",
-            "tags": "rugby,match",
+            "tags": "rugby",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/03/regarder-angleterre-vs-france-match-rugby-direct-live-streaming-sur-bein",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby+rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k5ya0_regarder-angleterre-vs-france-match-rugby-direct-live-streaming-sur-bein-sport-le-21-03-2015-rugby-6_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2k5ya0_regarder-angleterre-vs-france-match-rugby-direct-live-streaming-sur-bein-sport-le-21-03-2015-rugby-6_sport"
+        },
+        "dailymotion.com/2015/02/rugby-top-14-fall-l-homme-qui-transpire": {
+            "title": "Rugby - Top 14: Fall, l'homme qui transpire le rugby...",
+            "snippet": "Le Racing M\u00e9tro 92 retrouve ses cadres pour accueillir Montpellier et Gonzalo Quesada pourra compter sur le retour de Benjamin: lequipeTags: quesada pbase rm92 top 14 fall racing metro Posted: 27 February 2015Rating:: 0...",
+            "date": "2015-02-27",
+            "author_name": "lequipe",
+            "categories": "rugby",
+            "tags": "pbase,retour,retrouve,rugby,top,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/02/rugby-top-14-fall-l-homme-qui-transpire",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby+rugby/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ia46a_rugby-top-14-fall-l-homme-qui-transpire-le-rugby_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ia46a_rugby-top-14-fall-l-homme-qui-transpire-le-rugby_sport"
+        },
+        "dailymotion.com/2015/02/rugby-top-le-une-passion": {
+            "title": "Rugby - Top: Le rugby, une passion!",
+            "snippet": "Critiqu\u00e9 depuis quelque temps, le Top 14 est accus\u00e9 de ne pas \u00eatre assez attractif. Pierre-Yves Revol, le pr\u00e9sident de la LNR, r\u00e9agit sur ce: lequipeTags: regles pbase critiques pierre-yves revol lnr top 14 ligue national de rugby president...",
+            "date": "2015-02-27",
+            "author_name": "lequipe",
+            "categories": "rugby",
+            "tags": "rugby,top,pbase,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/02/rugby-top-le-une-passion",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby+rugby/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i9ivw_rugby-top-le-rugby-une-passion_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i9ivw_rugby-top-le-rugby-une-passion_sport"
+        },
+        "youtube.com/2014/12/rugby-le-derby-oloron-maul%C3%A9on": {
+            "title": "Rugby, le derby Oloron - Maul\u00e9on...",
+            "snippet": "Rugby, le derby Oloron - Maul\u00e9on Comme la plupart des derbys, celui-ci a tenu ses promesses au niveau de l'engagement physique et du suspense quant au r\u00e9sultat. Pour le beau jeu, pri\u00e8re de repasser plus tard! From: Web TV Ville d'Oloron...",
+            "date": "2014-12-15",
+            "author_name": "Web TV Ville d'Oloron Sainte-Marie",
+            "categories": "rugby",
+            "tags": "suspense,r\u00e9sultat,comme,rugby",
+            "recuweb_url": "http://fr.recuweb.com/rugby/youtube.com/2014/12/rugby-le-derby-oloron-maul%C3%A9on",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rugby%2Brugby&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=xCSSbWkw8Ws&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/xCSSbWkw8Ws/0.jpg"
         }
     }
 }
