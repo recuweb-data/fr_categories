@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "constructeur-informatique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/constructeur-informatique/",
@@ -10,15 +11,14 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/constructeur-informatique/constructeur-informatique/blogs.json"
     },
     "items": {
-        "lemondeinformatique.fr/2015/04/bmw-lance-des-lunettes-connect%C3%A9es-pour-ses-mini-lemondeinformatique": {
-            "title": "BMW lance des lunettes connect\u00e9es pour ses Mini - LeMondeInformatique...",
-            "snippet": "LeMondeInformatiqueBMW lance des lunettes connect\u00e9es pour ses MiniLeMondeInformatiqueLe constructeur automobile allemand BMW a d\u00e9voil\u00e9 des lunettes connect\u00e9es avec r\u00e9alit\u00e9 augment\u00e9e, concurrentes des Google Glass, qui permettent aux...",
-            "date": "2015-04-15",
-            "categories": "google",
-            "tags": "constructeur",
-            "recuweb_url": "http://fr.recuweb.com/google/lemondeinformatique.fr/2015/04/bmw-lance-des-lunettes-connect%C3%A9es-pour-ses-mini-lemondeinformatique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=constructeur%2Binformatique&output=atom&nord=1",
-            "source_url": "http://lemondeinformatique.fr/actualites/lire-bmw-lance-des-lunettes-connectees-pour-ses-mini-60853.html"
+        "lemondeinformatique.fr/2015/04/avec-activepivot-quartet-fs-traque-l-exception-sur-les-donn%C3%A9es": {
+            "title": "Avec ActivePivot, Quartet FS traque l'exception sur les donn\u00e9es en... - LeMondeInformatique...",
+            "snippet": "LeMondeInformatiqueAvec ActivePivot, Quartet FS traque l'exception sur les donn\u00e9es en...LeMondeInformatiqueLe logiciel de Quartet FS est install\u00e9 dans la division de Gefco qui distribue les v\u00e9hicules des constructeurs vers les concessionnaires en...",
+            "date": "2015-04-27",
+            "tags": "constructeurs",
+            "recuweb_url": "http://fr.recuweb.com/lemondeinformatique.fr/2015/04/avec-activepivot-quartet-fs-traque-l-exception-sur-les-donn%C3%A9es",
+            "resource_url": "http://news.google.fr/?hl=fr&q=constructeur%2Binformatique%2Bconstructeur%2Binformatique&output=atom&nord=1",
+            "source_url": "http://lemondeinformatique.fr/actualites/lire-avec-activepivot-quartet-fs-traque-l-exception-sur-les-donnees-en-temps-reel-60977.html"
         }
     }
 }
