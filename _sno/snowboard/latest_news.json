@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "snowboard",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/snowboard/",
@@ -10,53 +11,61 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
     },
     "items": {
-        "beachbrother.com/2015/03/red-bull-the-station-into-night-beach-brother": {
-            "title": "RED BULL THE STATION: INTO THE NIGHT - Beach Brother...",
-            "snippet": "Beach BrotherRED BULL THE STATION: INTO THE NIGHTBeach BrotherSURF; SKATE; SNOWBOARD; LIFESTYLE; SHOPPING; JEU. Facebook Twitter RSS Instagram. Beachbrother - Magazine Surf, skate & snowboard./JEU CONCOURS FREE SURF MAROC x BEACHBROTHER. RED BULL...",
-            "date": "2015-03-28",
-            "categories": "surf,facebook,twitter,lifestyle",
-            "tags": "surf,into,beach,beach_brother,brother,board",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/beachbrother.com/2015/03/red-bull-the-station-into-night-beach-brother",
-            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
-            "source_url": "http://beachbrother.com/2015/03/red-bull-the-station-into-the-night/"
-        },
-        "e-adrenaline.fr/2015/03/un-jeune-prodige-en-snowboard-e-adrenaline": {
-            "title": "Un jeune prodige en snowboard - e-adrenaline...",
-            "snippet": "e-adrenalineUn jeune prodige en snowboarde-adrenalineCe petit surdou\u00e9 du snow \u00e9tait au snowpark de Vars en compagnie d'Alex Stewart. Les deux membres du Rusty Toothbrush crew sont visiblement proches et ne manquent pas d'imagination quand il...",
-            "date": "2015-03-28",
-            "tags": "deux,jeune,board",
-            "recuweb_url": "http://fr.recuweb.com/e-adrenaline.fr/2015/03/un-jeune-prodige-en-snowboard-e-adrenaline",
-            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
-            "source_url": "http://e-adrenaline.fr/neige/actualites/un-jeune-prodige-en-snowboard/6080"
-        },
-        "beachbrother.com/2015/03/marcus-kleveland-au-japon-beach-brother": {
-            "title": "MARCUS KLEVELAND AU JAPON - Beach Brother...",
-            "snippet": "Beach BrotherMARCUS KLEVELAND AU JAPONBeach BrotherMarcus Kleveland est un jeune snowboarder norv\u00e9gien (si si 15 ans c'est jeune!) qui a certainement un avenir dans le milieu du snowboard. On ne s'avance pas trop mais bon quand il part au Japon...",
-            "date": "2015-03-27",
-            "tags": "part,jeune,boarder,beach,beach_brother,brother,board",
-            "recuweb_url": "http://fr.recuweb.com/beachbrother.com/2015/03/marcus-kleveland-au-japon-beach-brother",
-            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
-            "source_url": "http://beachbrother.com/2015/03/marcus-kleveland-au-japon/"
-        },
-        "sportquick.com/2015/03/les-r%C3%A9sultats-snowboard-coupe-du-monde": {
-            "title": "Les r\u00e9sultats Snowboard Coupe du Monde...",
-            "snippet": "Cr\u00e9\u00e9e en 1994 par la F\u00e9d\u00e9ration Internationale de Ski (FIS), elle se d\u00e9roule chaque hiver en plusieurs \u00e9tapes (16 en 2015 avec 28 \u00e9v\u00e8nements pour les femmes et les hommes). A la fin de la saison auront lieu les finales qui regroupent les...",
-            "date": "2015-03-24",
-            "categories": "ski",
-            "tags": "plusieurs,f\u00e9d\u00e9ration,internationale,board,coupe,monde,ski",
-            "recuweb_url": "http://fr.recuweb.com/ski/sportquick.com/2015/03/les-r%C3%A9sultats-snowboard-coupe-du-monde",
+        "e-adrenaline.fr/2015/04/yiwei-zhang-pose-le-premier-cab-triple-cork-en-halfpipe": {
+            "title": "Yiwei Zhang pose le premier Cab Triple Cork en Halfpipe!",
+            "snippet": "Zhang Yiwei est l'un des meilleurs snowboardeurs en half-pipe de la plan\u00e8te, 6\u00e8me aux Jeux olympiques de Sochi et quelques podiums en coupe du monde ces derni\u00e8res ann\u00e9es, il est actuellement vice-champion du monde!",
+            "date": "2015-04-23",
+            "tags": "meilleurs,cork,premier,monde",
+            "recuweb_url": "http://fr.recuweb.com/e-adrenaline.fr/2015/04/yiwei-zhang-pose-le-premier-cab-triple-cork-en-halfpipe",
             "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
-            "source_url": "http://sportquick.com/snowboard-000064/resultats-sports/coupe-du-monde-001019/big-air-005107/annee-2015/Hommes-0/"
+            "source_url": "http://e-adrenaline.fr/neige/actualites/yiwei-zhang-pose-le-premier-cab-triple-cork-en-halfpipe/6234"
         },
-        "ici.radio-canada.ca/2015/03/snowboard-cross-la-coupe-du-monde-au-massif-de-charlevoix": {
-            "title": "Snowboard cross: la Coupe du monde au Massif de Charlevoix?",
-            "snippet": "La Coupe du monde de snowboard cross pourrait se tenir d'ici deux ans au Massif de Charlevoix. Des discussions sont en cours entre Gestev et la F\u00e9d\u00e9ration internationale de ski. L'\u00e9v\u00e9nement serait organis\u00e9 s\u00e9par\u00e9ment du Snowboard Jamboree,...",
-            "date": "2015-03-23",
+        "aisnenouvelle.fr/2015/04/le-premier-quadruple-cork-du-monde-en-snowboard-l-aisne-nouvelle": {
+            "title": "Le premier quadruple cork du monde en snowboard - L'Aisne Nouvelle...",
+            "snippet": "L'Aisne NouvelleLe premier quadruple cork du monde en snowboardL'Aisne NouvelleBilly Morgan, un snowboarder anglais g\u00e9 de 26 ans a \u00e9tabli un nouveau record du monde en r\u00e9alisant une figure incroyable, un quadruple cork 1800. C'est en Italie, sur...",
+            "date": "2015-04-22",
+            "tags": "quadruple,quadruple-cork,cork,r\u00e9alisant,r\u00e9alisant-une-figure,figure,figure-incroyable,incroyable,\u00e9tabli,anglais,anglais-g\u00e9,g\u00e9,morgan,nouvelle,premier,premier-quadruple,premier-quadruple-cork,monde,board,boarder,nouveau,record,italie",
+            "recuweb_url": "http://fr.recuweb.com/aisnenouvelle.fr/2015/04/le-premier-quadruple-cork-du-monde-en-snowboard-l-aisne-nouvelle",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "source_url": "http://aisnenouvelle.fr/france-monde/le-premier-quadruple-cork-du-monde-en-snowboard-ia12499b0n206646"
+        },
+        "meltyxtrem.fr/2015/04/record-max-parrot-r%C3%A9alise-le-premier-quadruple-underflip-1620-en-meltyxtrem": {
+            "title": "Record: Max Parrot r\u00e9alise le premier quadruple underflip 1620 en... - meltyXtrem...",
+            "snippet": "meltyXtremRecord: Max Parrot r\u00e9alise le premier quadruple underflip 1620 en...meltyXtremLa preuve avec cette p\u00e9riode propice aux records du monde en snowboard. Apr\u00e8s le premier quadruple cork 1800 en snowboard freestyle r\u00e9alis\u00e9 par Billy...",
+            "date": "2015-04-21",
+            "tags": "freestyle,premier,premier-quadruple,premier-quadruple-cork,quadruple,quadruple-cork,cork,record,monde,board,billy",
+            "recuweb_url": "http://fr.recuweb.com/meltyxtrem.fr/2015/04/record-max-parrot-r%C3%A9alise-le-premier-quadruple-underflip-1620-en-meltyxtrem",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "source_url": "http://meltyxtrem.fr/record-max-parrot-realise-le-premier-quadruple-underflip-1620-en-snowboard-video-monster-a403193.html"
+        },
+        "e-adrenaline.fr/2015/04/concours-make-it-happen-le-gagnant-julien-nous-raconte-son-trip": {
+            "title": "Concours Make it Happen: le gagnant Julien nous raconte son trip... - e-adrenaline...",
+            "snippet": "Concours Make it Happen: le gagnant Julien nous raconte son trip...e-adrenalineSurtout pour aller faire une activit\u00e9 qui demande un peu de logistique comme du snowboard. Et encore plus quand on choisi de partir en Californie au printemps alors que...",
+            "date": "2015-04-17",
+            "tags": "peu,make,happen,board",
+            "recuweb_url": "http://fr.recuweb.com/e-adrenaline.fr/2015/04/concours-make-it-happen-le-gagnant-julien-nous-raconte-son-trip",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "source_url": "http://e-adrenaline.fr/neige/actualites/concours-make-it-happen-le-gagnant-julien-nous-raconte-son-trip-snowboard/6204"
+        },
+        "meltyxtrem.fr/2015/04/nine-knights-2015-vid%C3%A9o-big-air-ski-et-snowboard-freestyle": {
+            "title": "Nine Knights 2015: Vid\u00e9o big air ski et snowboard freestyle...",
+            "snippet": "Publi\u00e9 il y a 1 minute par Louis R. Publi\u00e9 le 13 avr. 2015 18:19:29 Les meilleurs snowboarders et skieurs du monde se sont rejoints sur le big air du Suzuki Nine Knights 2015. Loccasion pour eux denvoyer les plus gros tricks avant la fonte des...",
+            "date": "2015-04-13",
             "categories": "ski",
-            "tags": "internationale,ski,deux,monde,board,coupe,f\u00e9d\u00e9ration",
-            "recuweb_url": "http://fr.recuweb.com/ski/ici.radio-canada.ca/2015/03/snowboard-cross-la-coupe-du-monde-au-massif-de-charlevoix",
+            "tags": "boarders,meilleurs,board,freestyle,monde",
+            "recuweb_url": "http://fr.recuweb.com/ski/meltyxtrem.fr/2015/04/nine-knights-2015-vid%C3%A9o-big-air-ski-et-snowboard-freestyle",
             "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
-            "source_url": "http://ici.radio-canada.ca/regions/quebec/2015/03/23/009-coupe-du-monde-snowboard-cross.shtml"
+            "source_url": "http://meltyxtrem.fr/suzuki-nine-knights-video-du-big-air-ski-et-snowboard-freestyle-a400406.html"
+        },
+        "france3-regions.francetvinfo.fr/2015/04/video-record-du-monde-de-vitesse-en-snowboard-203275-km-h": {
+            "title": "VIDEO: record du Monde de Vitesse en Snowboard: 203275 km/h - Francetv info...",
+            "snippet": "Francetv infoVIDEO: record du Monde de Vitesse en Snowboard: 203275 km/hFrancetv infoEdmond Plawczyk, ancien recordman du monde de vitesse en Snowboard reprend sa place d'homme le plus rapide dans cette cat\u00e9gorie. Bien que les conditions m\u00e9t\u00e9o...",
+            "date": "2015-04-04",
+            "categories": "place",
+            "tags": "vitesse,plawczyk,record,monde,board",
+            "recuweb_url": "http://fr.recuweb.com/place/france3-regions.francetvinfo.fr/2015/04/video-record-du-monde-de-vitesse-en-snowboard-203275-km-h",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard&output=atom&nord=1",
+            "source_url": "http://france3-regions.francetvinfo.fr/provence-alpes/2015/04/04/video-record-du-monde-de-vitesse-en-snowboard-203275-kmh-698073.html"
         }
     }
 }
