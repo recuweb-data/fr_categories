@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-c\u00e9r\u00e9bral",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-c\u00e9r\u00e9bral/",
@@ -10,18 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/blogs.json"
     },
     "items": {
-        "youtube.com/2015/03/d%C3%A9p%C3%B4t-de-mon-projet-loi-pour-contrer-les-commotions-c%C3%A9r%C3%A9brales": {
-            "title": "D\u00e9p\u00f4t de mon projet de loi pour contrer les commotions c\u00e9r\u00e9brales dans le Sport amateur...",
-            "snippet": "D\u00e9p\u00f4t de mon projet de loi pour contrer les commotions c\u00e9r\u00e9brales dans le Sport amateur From: Matthew Dub\u00e9, d\u00e9put\u00e9 de Chambly-Borduas Views: 5 1 ratings Time: 01:00 More in News & Politics...",
-            "date": "2015-03-23",
-            "author_name": "Matthew Dub\u00e9, d\u00e9put\u00e9 de Chambly-Borduas",
-            "categories": "sport",
-            "tags": "commotions,commotions-c\u00e9r\u00e9brales,c\u00e9r\u00e9brales,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/03/d%C3%A9p%C3%B4t-de-mon-projet-loi-pour-contrer-les-commotions-c%C3%A9r%C3%A9brales",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bc%C3%A9r%C3%A9bral%2Bsport%2Bc%C3%A9r%C3%A9bral&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=XaXJzNWWK_A&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/XaXJzNWWK_A/0.jpg"
-        },
         "youtube.com/2014/10/des-gens-intelligents-la-vie-de-couple-est-un-sport-c%C3%A9r%C3%A9bral": {
             "title": "Des Gens Intelligents - La vie de couple est un sport c\u00e9r\u00e9bral (Bande-Annonce)...",
             "snippet": "Des Gens Intelligents - La vie de couple est un sport c\u00e9r\u00e9bral (Bande-Annonce) Actuellement au Th\u00e9tre de Paris/Salle R\u00e9jane R\u00e9servation:. From: Th\u00e9treDeParisOfficiel Views: 8837 9 ratings Time: 01:07 More in People & Blogs...",
@@ -40,7 +29,7 @@
             "date": "2014-08-26",
             "author_name": "BANDARLOG Marseille",
             "categories": "sport",
-            "tags": "sport-c\u00e9r\u00e9bral,c\u00e9r\u00e9bral",
+            "tags": "sports,sport-c\u00e9r\u00e9bral,c\u00e9r\u00e9bral",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/08/l-aviron-est-un-sport-c%C3%A9r%C3%A9bral",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bc%C3%A9r%C3%A9bral%2Bsport%2Bc%C3%A9r%C3%A9bral&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=T8pl06UHnDY&feature=youtube_gdata",
@@ -52,7 +41,7 @@
             "date": "2014-03-10",
             "author_name": "sirius moby",
             "categories": "sport",
-            "tags": "commotions,commotions-c\u00e9r\u00e9brales,c\u00e9r\u00e9brales,monde,sport",
+            "tags": "sport",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/03/gabriel-gr%C3%A9goire-%C3%A9tienne-boulay-et-dave-ellemberg-les-commotions-c%C3%A9r%C3%A9brales-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bc%C3%A9r%C3%A9bral%2Bsport%2Bc%C3%A9r%C3%A9bral&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0tDdeQzp0Tw&feature=youtube_gdata",
@@ -82,17 +71,17 @@
             "source_url": "http://youtube.com/watch?v=F-dVbBAGcWQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/F-dVbBAGcWQ/0.jpg"
         },
-        "youtube.com/2012/01/les-commotions-c%C3%A9r%C3%A9brales-%C3%A7a-touche-tout-le-monde": {
-            "title": "Les commotions c\u00e9r\u00e9brales, \u00e7a touche tout le monde...",
-            "snippet": "Les commotions c\u00e9r\u00e9brales, \u00e7a touche tout le monde Lorsque l'on parle de commotions c\u00e9r\u00e9brales, on pense in\u00e9vitablement aux grandes vedettes sportives comme Sidney Crosby. Pourtant, l'incidence des commotions c\u00e9r\u00e9brales li\u00e9es au sport...",
-            "date": "2012-01-16",
-            "author_name": "Forum en clips",
+        "youtube.com/2012/04/decathlon-vendeurs-passionn%C3%A9s-de-colomiers-frontal-c%C3%A9r%C3%A9bral": {
+            "title": "Decathlon vendeurs passionn\u00e9s de Colomiers frontal c\u00e9r\u00e9bral...",
+            "snippet": "Decathlon vendeurs passionn\u00e9s de Colomiers frontal c\u00e9r\u00e9bral On est jamais mieux conseill\u00e9 que par un passionn\u00e9 \u00e0 Decathlon Colomiers frontal c\u00e9r\u00e9bral. From: Decathlon France Views: 1814 6 ratings Time: 01:01 More in Sports...",
+            "date": "2012-04-03",
+            "author_name": "Decathlon France",
             "categories": "sport",
-            "tags": "commotions,commotions-c\u00e9r\u00e9brales,c\u00e9r\u00e9brales,sport,monde",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2012/01/les-commotions-c%C3%A9r%C3%A9brales-%C3%A7a-touche-tout-le-monde",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bc%C3%A9r%C3%A9bral%2Bsport%2Bc%C3%A9r%C3%A9bral&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=5-qFwt0EXio&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/5-qFwt0EXio/0.jpg"
+            "tags": "c\u00e9r\u00e9bral,sports",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2012/04/decathlon-vendeurs-passionn%C3%A9s-de-colomiers-frontal-c%C3%A9r%C3%A9bral",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sport%2Bc%C3%A9r%C3%A9bral&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=QReQeEnPseA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/QReQeEnPseA/0.jpg"
         },
         "youtube.com/2008/10/trailer-jeux-entrainement-c%C3%A9r%C3%A9bral": {
             "title": "Trailer jeux entrainement c\u00e9r\u00e9bral...",
