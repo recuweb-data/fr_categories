@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport/",
@@ -10,102 +11,102 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport/sport/blogs.json"
     },
     "items": {
-        "metropolevar.fr/2015/04/sport-d%C3%A9but-des-play-downs-pour-toulon-saint-cyr": {
-            "title": "Sport: d\u00e9but des play-downs pour Toulon Saint-Cyr...",
-            "snippet": "Les filles du Club de Handball Toulon Saint-Cyr vous donnent rendez-vous mercredi 22 avril au Palais des Sports de Toulon! Au programme un match capital entre le TSCVHB et lUMBB. Match important pour les filles du Toulon Saint-Cyr ce mercredi 22...",
-            "date": "2015-04-21",
-            "categories": "handball,play,sport",
-            "tags": "match,saint,sports,club,avril",
-            "recuweb_url": "http://fr.recuweb.com/sport/metropolevar.fr/2015/04/sport-d%C3%A9but-des-play-downs-pour-toulon-saint-cyr",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport&format=RSS&cc=fr",
-            "source_url": "http://metropolevar.fr/breves/sport-debut-des-play-downs-pour-toulon-saint-cyr/2015/04/21/"
-        },
-        "francetvsport.fr/2015/04/sur-la-route-de-roland-garros-serena-williams-francetv-sport": {
-            "title": "Sur la route de Roland-Garros: Serena Williams - francetv sport...",
-            "snippet": "francetv sportSur la route de Roland-Garros: Serena Williamsfrancetv sportDisparu le 12 avril dernier, Patrice Dominguez \u00e9tait consultant pour France T\u00e9l\u00e9visions depuis de longues ann\u00e9es. Nous lui rendons hommage au travers d'une s\u00e9rie...",
-            "date": "2015-04-21",
-            "categories": "television,sport",
-            "tags": "france,route,francetv,sport,avril,dernier",
-            "recuweb_url": "http://fr.recuweb.com/sport/francetvsport.fr/2015/04/sur-la-route-de-roland-garros-serena-williams-francetv-sport",
+        "slate.fr/2015/04/faire-du-sport-ne-va-pas-r%C3%A9gler-les-probl%C3%A8mes-d-ob%C3%A9sit%C3%A9": {
+            "title": "Faire du sport ne va pas r\u00e9gler les probl\u00e8mes d'ob\u00e9sit\u00e9 -...",
+            "snippet": "du sport ne va pas r\u00e9gler les probl\u00e8mes d'ob\u00e9sit\u00e9 de l'exercice ne r\u00e8gle pas les probl\u00e8mes de poids. Dans un \u00e9ditorial pour le British Journal of Sports Medicine paru le 22 avril, trois chercheurs en cardiologie, m\u00e9decine et biologie,...",
+            "date": "2015-04-24",
+            "categories": "biologie,sport",
+            "tags": "trois,sports,sport,avril",
+            "recuweb_url": "http://fr.recuweb.com/sport/slate.fr/2015/04/faire-du-sport-ne-va-pas-r%C3%A9gler-les-probl%C3%A8mes-d-ob%C3%A9sit%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=sport&output=atom&nord=1",
-            "source_url": "http://francetvsport.fr/tennis/roland-garros/sur-la-route-de-roland-garros-serena-williams-273405"
+            "source_url": "http://slate.fr/story/100793/faire-du-sport-pas-solution-obesite"
         },
-        "bfmtv.com/2015/04/amaury-leveaux-d%C3%A9nonce-la-coca%C3%AFne-dans-le-sport-pour-se-transformer": {
-            "title": "Amaury Leveaux d\u00e9nonce la coca\u00efne dans le sport, pour se transformer en guerrier...",
-            "snippet": "Dans un livre autobiographique, l'ancien nageur Amaury Leveaux d\u00e9voile les coulisses de son sport et affirme que des sportifs prennent de la coca\u00efne pour augmenter leurs performances. Pour le docteur Jean-Pierre de Mondenard, m\u00e9decin du sport,...",
-            "date": "2015-04-20",
+        "itrnews.com/2015/04/les-objets-connect%C3%A9s-pour-le-bien-%C3%AAtre-et-sport-cantonn%C3%A9s": {
+            "title": "Les objets connect\u00e9s pour le bien-\u00eatre et le sport, cantonn\u00e9s au r\u00f4le de gadgets?",
+            "snippet": "Lint\u00e9r\u00eat des consommateurs pour les objets connect\u00e9s dans le bien-\u00eatre et le sport se confirme. Les ventes devraient plus que tripler entre 2014 et 2016 pour atteindre 290 millions deuros, selon les experts de Xerfi qui viennent de publier...",
+            "date": "2015-04-24",
             "categories": "sport",
-            "tags": "sportifs,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/bfmtv.com/2015/04/amaury-leveaux-d%C3%A9nonce-la-coca%C3%AFne-dans-le-sport-pour-se-transformer",
+            "tags": "viennent,atteindre,\u00eatre,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/itrnews.com/2015/04/les-objets-connect%C3%A9s-pour-le-bien-%C3%AAtre-et-sport-cantonn%C3%A9s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sport&format=RSS&cc=fr",
-            "source_url": "http://bfmtv.com/societe/la-cocaine-dans-le-sport-pour-se-sentir-superman-879346.html"
+            "source_url": "http://itrnews.com/articles/155535/objets-connectes-bien-etre-sport-cantonnes-role-gadgets.html"
         },
-        "france3-regions.francetvinfo.fr/2015/04/chevigny-saint-sauveur-une-classe-de-coll%C3%A8ge-exp%C3%A9rimente-sport-et-handicap": {
-            "title": "Chevigny-Saint-Sauveur: une classe de coll\u00e8ge exp\u00e9rimente sport et handicap...",
-            "snippet": "FRANCE 3 BOURGOGNE A Chevigny-Saint-Sauveur, une classe de 3\u00e8me exp\u00e9rimente sport et handicap au coll\u00e8ge Camille Claudel. La classe regroupe des sportifs de haut niveau, des \u00e9l\u00e8ves en grande difficult\u00e9 scolaire et des \u00e9l\u00e8ves en situation de...",
-            "date": "2015-04-20",
-            "categories": "handicap,sport",
-            "tags": "sportifs,saint,sport,france",
-            "recuweb_url": "http://fr.recuweb.com/sport/france3-regions.francetvinfo.fr/2015/04/chevigny-saint-sauveur-une-classe-de-coll%C3%A8ge-exp%C3%A9rimente-sport-et-handicap",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport&format=RSS&cc=fr",
-            "source_url": "http://france3-regions.francetvinfo.fr/bourgogne/2015/04/20/chevigny-saint-sauveur-une-classe-de-college-experimente-sport-et-handicap-708705.html"
-        },
-        "sport.fr/2015/04/tout-sur-le-sport-21h45-hamilton-reste-devant-ferrari": {
-            "title": "Tout sur le sport 21h45/Hamilton reste devant Ferrari...",
-            "snippet": "Lewis Hamilton a remport\u00e9 dimanche le Grand Prix de Bahre\u00efn, confortant son statut de leader du championnat du monde de Formule 1. Le Britannique a plac\u00e9 sa Mercedes devant la Ferrari de Kimi R\u00e4ikk\u00f6nen. Son co\u00e9quipier Nico Rosberg compl\u00e8te le...",
-            "date": "2015-04-20",
-            "categories": "place,sport,formule",
-            "tags": "championnat,monde,sport,britannique",
-            "recuweb_url": "http://fr.recuweb.com/formule/sport.fr/2015/04/tout-sur-le-sport-21h45-hamilton-reste-devant-ferrari",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport&format=RSS&cc=fr",
-            "source_url": "http://sport.fr/formule-1/tout-sur-le-sport-21h45-hamilton-reste-devant-ferrari-374223.shtm"
-        },
-        "lesechos.fr/2015/04/voiture-de-sport-la-peugeot-rcz-ne-sera-pas-remplac%C3%A9e": {
-            "title": "Voiture de sport: la Peugeot RCZ ne sera pas remplac\u00e9e - Les \u00c9chos...",
-            "snippet": "Les \u00c9chosVoiture de sport: la Peugeot RCZ ne sera pas remplac\u00e9eLes \u00c9chosPas suffisant pour rentabiliser l'aventure, m\u00eame si la voiture a servi l'image de Peugeot et sa volont\u00e9 de mont\u00e9e en gamme. Dot\u00e9 de moteurs pouvant d\u00e9velopper plus de...",
-            "date": "2015-04-20",
+        "metronews.fr/2015/04/test-apple-watch-les-fonctions-de-sport-au-banc-d-essai": {
+            "title": "TEST - Apple Watch: les fonctions de sport au banc d'essai - metronews...",
+            "snippet": "metronewsTEST - Apple Watch: les fonctions de sport au banc d'essaimetronewsIl suffit de la lancer et de choisir son sport. Apple a cr\u00e9\u00e9 dix options: course, marche, v\u00e9lo, marche sur tapis, course sur tapis, v\u00e9lo d'int\u00e9rieur, v\u00e9lo elliptique,...",
+            "date": "2015-04-24",
             "categories": "sport",
             "tags": "sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/lesechos.fr/2015/04/voiture-de-sport-la-peugeot-rcz-ne-sera-pas-remplac%C3%A9e",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bsport&output=atom&nord=1",
-            "source_url": "http://lesechos.fr/journal20150421/lec2_industrie_et_services/02119385177-voiture-de-sport-la-peugeot-rcz-ne-sera-pas-remplacee-1113140.php"
-        },
-        "francetvsport.fr/2015/04/zidane-satisfait-de-sa-premi%C3%A8re-saison-d-entra%C3%AEneur-francetv-sport": {
-            "title": "Zidane satisfait de sa premi\u00e8re saison d'entra\u00eeneur - francetv sport...",
-            "snippet": "francetv sportZidane satisfait de sa premi\u00e8re saison d'entra\u00eeneurfrancetv sportZinedine Zidane, l'ancienne star mondiale du football fran\u00e7ais, actuel entra\u00eeneur du Castilla (3e div. espagnole), la r\u00e9serve du Real Madrid, son dernier club en...",
-            "date": "2015-04-20",
-            "categories": "realmadrid,football,sport",
-            "tags": "dernier,football,saison,francetv,sport,club",
-            "recuweb_url": "http://fr.recuweb.com/sport/francetvsport.fr/2015/04/zidane-satisfait-de-sa-premi%C3%A8re-saison-d-entra%C3%AEneur-francetv-sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/metronews.fr/2015/04/test-apple-watch-les-fonctions-de-sport-au-banc-d-essai",
             "resource_url": "http://news.google.fr/?hl=fr&q=sport&output=atom&nord=1",
-            "source_url": "http://francetvsport.fr/football/espagne/zidane-satisfait-de-sa-premiere-saison-d-entraineur-275261"
+            "source_url": "http://metronews.fr/high-tech/test-apple-watch-les-fonctions-de-sport-au-banc-d-essai/modu!dLIvnF4mfqPs/"
         },
-        "leprogres.fr/2015/04/high-tech-il-va-y-avoir-du-e-sport": {
-            "title": "High-tech. Il va y avoir du e-sport!",
-            "snippet": "En France, ils sont encore regard\u00e9s un peu comme des b\u00eates curieuses. En Cor\u00e9e, ce sont des stars qui d\u00e9placent des dizaines de milliers de fans et qui gagnent plusieurs millions. Eux, ce ne sont pas des footballeurs, mais des champions de...",
-            "date": "2015-04-19",
+        "ouest-france.fr/2015/04/auray-trois-nouveaux-prix-aux-troph%C3%A9es-du-sport-ouest-france": {
+            "title": "Auray. Trois nouveaux prix aux Troph\u00e9es du sport - Ouest-France...",
+            "snippet": "Ouest-FranceAuray. Trois nouveaux prix aux Troph\u00e9es du sportOuest-FranceOn a voulu r\u00e9server un troph\u00e9e au handisport, explique Aur\u00e9lie Queijo, adjointe en charge du sport. On souhaitait \u00e9galement s\u00e9parer les jeunes des seniors pour les mettre...",
+            "date": "2015-04-23",
             "categories": "sport",
-            "tags": "champions,sport,france",
-            "recuweb_url": "http://fr.recuweb.com/sport/leprogres.fr/2015/04/high-tech-il-va-y-avoir-du-e-sport",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport&format=RSS&cc=fr",
-            "source_url": "http://leprogres.fr/france-monde/2015/04/20/il-va-y-avoir-du-e-sport"
+            "tags": "jeunes,trois,sport,france",
+            "recuweb_url": "http://fr.recuweb.com/sport/ouest-france.fr/2015/04/auray-trois-nouveaux-prix-aux-troph%C3%A9es-du-sport-ouest-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bsport&output=atom&nord=1",
+            "source_url": "http://ouest-france.fr/auray-trois-nouveaux-prix-aux-trophees-du-sport-3353657"
         },
-        "parismatch.com/2015/04/victoires-fran%C3%A7aises-et-sport-amateur": {
-            "title": "Victoires fran\u00e7aises et sport amateur...",
-            "snippet": "Patrick Mignon, responsable du laboratoire de sociologie du sport de l'Institut national du sport et de l'\u00e9ducation physique (Insep), explique pour Paris Match les ph\u00e9nom\u00e8nes qui jouent sur la popularit\u00e9 des diff\u00e9rents sports amateurs et...",
-            "date": "2015-04-10",
-            "categories": "sport,sociologie",
-            "tags": "sports,sport,paris,match",
-            "recuweb_url": "http://fr.recuweb.com/sociologie/parismatch.com/2015/04/victoires-fran%C3%A7aises-et-sport-amateur",
+        "lequipe.fr/2015/04/e21-sport-confidentiel-le-programme-du-vingt-cinqui%C3%A8me-num%C3%A9ro-l-%C3%A9": {
+            "title": "E21 - Sport Confidentiel: Le programme du vingt-cinqui\u00e8me num\u00e9ro - L'\u00c9...",
+            "snippet": "L'\u00c9 - Sport Confidentiel: Le programme du vingt-cinqui\u00e8me num\u00e9roL'\u00c9 programme cette semaine de Sport Confidentiel, un portrait de Jos\u00e9 Mourinho, un reportage sur Aravane Reza\u00ef, une enqu\u00eate sur les footballeurs prometteurs qui ont d\u00e9\u00e7u et un...",
+            "date": "2015-04-23",
+            "categories": "sport",
+            "tags": "programme,sport,sport_confidentiel,confidentiel,semaine",
+            "recuweb_url": "http://fr.recuweb.com/sport/lequipe.fr/2015/04/e21-sport-confidentiel-le-programme-du-vingt-cinqui%C3%A8me-num%C3%A9ro-l-%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bsport&output=atom&nord=1",
+            "source_url": "http://lequipe.fr/Medias/Actualites/Sport-confidentiel-le-programme-du-vingt-cinquieme-numero/553418"
+        },
+        "lefigaro.fr/2015/04/vex%C3%A9s-des-profs-de-sport-d%C3%A9fendent-leur-novlangue-le-figaro": {
+            "title": "Vex\u00e9s, des profs de sport d\u00e9fendent leur novlangue - Le Figaro...",
+            "snippet": "Le FigaroVex\u00e9s, des profs de sport d\u00e9fendent leur novlangueLe FigaroLes professeurs de sport - ou plut\u00f4t d'\u00e9ducation physique et sportive (EPS) - se rebellent. Ils en ont assez d'\u00eatre caricatur\u00e9s par les m\u00e9dias. En cause, un article, publi\u00e9...",
+            "date": "2015-04-23",
+            "categories": "sport",
+            "tags": "\u00eatre,physique,sportive,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/lefigaro.fr/2015/04/vex%C3%A9s-des-profs-de-sport-d%C3%A9fendent-leur-novlangue-le-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bsport&output=atom&nord=1",
+            "source_url": "http://lefigaro.fr/actualite-france/2015/04/23/01016-20150423ARTFIG00308-vexes-des-profs-de-sport-defendent-leur-novlangue.php"
+        },
+        "lemonde.fr/2015/04/le-sport-champion-des-traitements-monde": {
+            "title": "Le sport, champion des traitements - Le Monde...",
+            "snippet": "Le MondeLe sport, champion des traitementsLe MondeMais pour la premi\u00e8re fois, l'activit\u00e9 physique et le sport viennent d'\u00eatre reconnus comme outil de sant\u00e9 publique dans une loi de sant\u00e9. L'amendement de l'ancienne ministre des sports Val\u00e9rie...",
+            "date": "2015-04-22",
+            "categories": "traitement,sport",
+            "tags": "\u00eatre,comme,viennent,physique,premi\u00e8re,sports,monde",
+            "recuweb_url": "http://fr.recuweb.com/sport/lemonde.fr/2015/04/le-sport-champion-des-traitements-monde",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bsport&output=atom&nord=1",
+            "source_url": "http://lemonde.fr/sciences/article/2015/04/20/le-sport-champion-des-traitements_4619478_1650684.html"
+        },
+        "terrafemina.com/2015/04/sport-f%C3%A9minin-qu-est-ce-qui-emp%C3%AAche-les-femmes-de-crever": {
+            "title": "Sport f\u00e9minin: qu'est-ce qui emp\u00eache les femmes de crever le plafond?",
+            "snippet": "Dans le sport, comme dans d'autres pans de la soci\u00e9t\u00e9 fran\u00e7aise, les in\u00e9galit\u00e9s entre hommes et femmes persistent. Acc\u00e8s aux formations, carri\u00e8re, salaires... Difficile d'atteindre le top niveau et d'y rester lorsque l'on est une femme. On...",
+            "date": "2015-04-22",
+            "categories": "sport",
+            "tags": "atteindre,comme,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/terrafemina.com/2015/04/sport-f%C3%A9minin-qu-est-ce-qui-emp%C3%AAche-les-femmes-de-crever",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport&format=RSS&cc=fr",
+            "source_url": "http://terrafemina.com/article/sport-meme-au-top-niveau-les-femmes-se-heurtent-au-plafond_a268505/1"
+        },
+        "lesechos.fr/2015/04/twitter-teste-la-vente-de-billets-pour-des-%C3%A9v%C3%A8nements-sportifs": {
+            "title": "Twitter teste la vente de billets pour des \u00e9v\u00e8nements sportifs...",
+            "snippet": "Le site de micro-blogging veut se renforcer dans le e-commerce. Dimanche, Twitter a test\u00e9 pour la premi\u00e8re fois la vente de billets pour des \u00e9v\u00e8nements sportifs. L\u00e9quipe de basket Atlanta Hawks a annonc\u00e9 dans un tweet la mise en vente dun...",
+            "date": "2015-04-22",
+            "categories": "twitter",
+            "tags": "basket,premi\u00e8re,sportifs,dimanche",
+            "recuweb_url": "http://fr.recuweb.com/twitter/lesechos.fr/2015/04/twitter-teste-la-vente-de-billets-pour-des-%C3%A9v%C3%A8nements-sportifs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bsport&format=RSS&cc=fr",
-            "source_url": "http://parismatch.com/Actu/Sport/Sport-amateur-et-victoires-francaises-interview-de-Patrick-Mignon-742522"
+            "source_url": "http://lesechos.fr/sport/sport-business/02124369851-twitter-teste-la-vente-de-billets-pour-des-evenements-sportifs-1113603.php"
         },
         "fr.news.yahoo.com/2015/03/dopage-secousse-sur-le-rugby-anglais-avant-crunch": {
             "title": "Dopage: secousse sur le rugby anglais avant le Crunch...",
             "snippet": "LE SCAN SPORT - L'agence antidopage britannique craint que le Coupe du monde de rugby en Angleterre n'amplifie le recours aux st\u00e9ro\u00efdes chez les jeunes sportifs.",
             "date": "2015-03-18",
             "categories": "rugby,sport",
-            "tags": "sportifs,monde,britannique,sport,coupe",
+            "tags": "jeunes,sportifs,monde,sport,coupe",
             "recuweb_url": "http://fr.recuweb.com/sport/fr.news.yahoo.com/2015/03/dopage-secousse-sur-le-rugby-anglais-avant-crunch",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sport",
             "source_url": "http://fr.news.yahoo.com/dopage-secousse-rugby-anglais-avant-crunch-144457908--spt.html"
