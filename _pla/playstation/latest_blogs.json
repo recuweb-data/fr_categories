@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "playstation",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/playstation/",
@@ -10,49 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/playstation/playstation/blogs.json"
     },
     "items": {
-        "rouroune.com/2015/04/news-playstation-home-d%C3%A9finitivement-ferm%C3%A9": {
-            "title": "News: Playstation Home d\u00e9finitivement ferm\u00e9...",
-            "snippet": "Le Playstation quoi? Mais si le truc en dessous du Playstation Plus. Perso, j'avais lanc\u00e9 le Home en me plantant, en voulant aller sur le Playstation Plus []...",
-            "date": "2015-04-03",
-            "author_name": "rouroune",
+        "blog.fr.playstation.com/2015/04/de-nouvelles-r%C3%A9ductions-sur-le-playstation-store-jeux-d-arcade": {
+            "title": "De nouvelles r\u00e9ductions sur le PlayStation Store: Jeux d'Arcade...",
+            "snippet": "Certains de ces jeux classiques sont aujourd'hui en soldes, donc si vous voulez prendre un petit coup de vieux ou battre enfin votre meilleur score d'antan, \u00e7a se passe sur le!;). L'offre de la semaine,...",
+            "date": "2015-04-22",
+            "author_name": "Clara Hertzog",
             "categories": "playstation",
-            "tags": "playstation",
-            "recuweb_url": "http://fr.recuweb.com/playstation/rouroune.com/2015/04/news-playstation-home-d%C3%A9finitivement-ferm%C3%A9",
-            "resource_url": "http://fr.search.wordpress.com/?q=playstation&f=feed&page=1",
-            "source_url": "http://rouroune.com/2015/04/03/news-playstation-home-definitivement-ferme/"
-        },
-        "blog.fr.playstation.com/2015/03/de-grosses-%C3%A9conomies-cette-semaine-sur-ps4": {
-            "title": "De grosses \u00e9conomies cette semaine sur PS4 et... -...",
-            "snippet": "Nous avons beaucoup de promotions int\u00e9ressantes pour vous cette semaine sur le PlayStation Store, incluant une grosse promotion pour la Bonne Affaire de la Semaine et de belles r\u00e9ductions de la part de nos talentueux...",
-            "date": "2015-03-11",
-            "author_name": "Vince_Tee",
-            "categories": "playstation",
-            "tags": "playstation,store",
-            "recuweb_url": "http://fr.recuweb.com/playstation/blog.fr.playstation.com/2015/03/de-grosses-%C3%A9conomies-cette-semaine-sur-ps4",
+            "tags": "offre,\u00e7a,petit,enfin,hui,aujourd,playstation,playstation_store,store,nouvelles,jeux",
+            "recuweb_url": "http://fr.recuweb.com/playstation/blog.fr.playstation.com/2015/04/de-nouvelles-r%C3%A9ductions-sur-le-playstation-store-jeux-d-arcade",
             "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.fr.playstation.com/2015/03/11/de-grosses-economies-cette-semaine-sur-ps4-et-les-titres-rockstar/"
+            "source_url": "http://blog.fr.playstation.com/2015/04/22/de-nouvelles-reductions-sur-le-playstation-store-jeux-darcade/"
         },
-        "blog.fr.playstation.com/2015/03/ride-le-jeu-de-course-motos-arrive-bient%C3%B4t": {
-            "title": "RIDE, le jeu de course de motos, arrive bient\u00f4t... -...",
-            "snippet": "Bonjour, joueurs de PlayStation, je m'appelle Irvin Zonca, et je suis le chef du design chez Milestone. Je suis ici aujourd'hui pour vous parler de RIDE, un titre que les motards exp\u00e9riment\u00e9s et les fans de simulation attendent...",
-            "date": "2015-03-05",
-            "author_name": "Vince_Tee",
+        "blog.fr.playstation.com/2015/04/la-b%C3%AAta-ps4-de-the-elder-scrolls-online-tamriel-playstation-blog": {
+            "title": "La b\u00eata PS4 de The Elder Scrolls Online: Tamriel... - PlayStation Blog...",
+            "snippet": "Salut aux joueurs de PS4! Alors que la sortie mondiale sur console de The Elder Scrolls Online: Tamriel Unlimited est pr\u00e9vue pour le 9 juin, soit dans un peu plus de six semaines, nous entamons demain les r\u00e9jouissances...",
+            "date": "2015-04-22",
+            "author_name": "Michael Servotte",
             "categories": "playstation",
-            "tags": "fans,ici,joueurs,jeu,playstation,aujourd,hui",
-            "recuweb_url": "http://fr.recuweb.com/playstation/blog.fr.playstation.com/2015/03/ride-le-jeu-de-course-motos-arrive-bient%C3%B4t",
-            "resource_url": "http://www.google.com/search?q=playstation%2Bplaystation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.fr.playstation.com/2015/03/05/ride-le-jeu-de-course-de-motos-arrive-ce-mois-ci-sur-ps4/"
-        },
-        "blog.fr.playstation.com/2015/01/playstation-plus-de-f%C3%A9vrier-transistor-thief-rogue-legacy": {
-            "title": "PlayStation Plus de f\u00e9vrier: Transistor, Thief, Rogue Legacy...",
-            "snippet": "En cette saison de nuits longues et de jours frisquets dans l'h\u00e9misph\u00e8re nord, l'une des meilleures fa\u00e7ons de se divertir s'ouvre avec l'arriv\u00e9e d'une fourn\u00e9e de jeux PlayStation Plus. Ce mois-ci, nous vous proposons encore...",
-            "date": "2015-01-29",
-            "author_name": "Cartews",
-            "categories": "playstation",
-            "tags": "nord,jours,f\u00e9vrier,playstation,thief,jeux,mois",
-            "recuweb_url": "http://fr.recuweb.com/playstation/blog.fr.playstation.com/2015/01/playstation-plus-de-f%C3%A9vrier-transistor-thief-rogue-legacy",
+            "tags": "demain,unlimited,sortie,joueurs,playstation,playstation_blog,peu",
+            "recuweb_url": "http://fr.recuweb.com/playstation/blog.fr.playstation.com/2015/04/la-b%C3%AAta-ps4-de-the-elder-scrolls-online-tamriel-playstation-blog",
             "resource_url": "http://www.google.com/search?q=playstation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.fr.playstation.com/2015/01/29/playstation-plus-de-fevrier-transistor-thief-rogue-legacy/"
+            "source_url": "http://blog.fr.playstation.com/2015/04/22/la-beta-ps4-de-the-elder-scrolls-online-tamriel-unlimited-commence-demain/"
         },
         "sebgob.com/2015/01/youtube-maps-near-music-unlimited-quand-sony-fait-le-m%C3%A9nage": {
             "title": "Youtube, Maps, Near, Music Unlimited Quand Sony fait le m\u00e9nage dans les applications PSVita.",
@@ -60,21 +39,10 @@
             "date": "2015-01-29",
             "author_name": "Sebgob",
             "categories": "playstation",
-            "tags": "joueurs,mercredi,playstation,playstation_vita,vita,ici,sony,janvier",
+            "tags": "joueurs,mercredi,playstation,playstation_vita,vita,ici,unlimited,sony,psvita",
             "recuweb_url": "http://fr.recuweb.com/playstation/sebgob.com/2015/01/youtube-maps-near-music-unlimited-quand-sony-fait-le-m%C3%A9nage",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=playstation%2Bplaystation&rss=1&lng=fr",
             "source_url": "http://sebgob.com/blog/2015/01/29/youtube-maps-near-music-unlimited-fin-psvita/"
-        },
-        "discrosslemich.wordpress.com/2015/01/telecharger-les-jeux-playstation-1": {
-            "title": "Telecharger les jeux playstation 1...",
-            "snippet": "T\u00e9l\u00e9charger Name: Les Jeux De Playstation 2 Sur Pc File size: 22 MB Date added: December 18, 2013 Price: Free Operating system: Windows XP/Vista/7/8 Total downloads: 1698mode for storing...",
-            "date": "2015-01-01",
-            "author_name": "discrosslemich",
-            "categories": "playstation",
-            "tags": "jeux,playstation,date",
-            "recuweb_url": "http://fr.recuweb.com/playstation/discrosslemich.wordpress.com/2015/01/telecharger-les-jeux-playstation-1",
-            "resource_url": "http://fr.search.wordpress.com/?q=playstation&f=feed&page=1",
-            "source_url": "http://discrosslemich.wordpress.com/2015/01/01/telecharger-les-jeux-playstation-1/"
         },
         "worldgameraddict.wordpress.com/2014/11/playstation-resogun-confirm%C3%A9-sur-vita": {
             "title": "Playstation Resogun confirm\u00e9 sur Playstation Vita...",
@@ -82,7 +50,7 @@
             "date": "2014-11-01",
             "author_name": "Alexis",
             "categories": "playstation",
-            "tags": "vita,studio,playstation,playstation_vita,jeu",
+            "tags": "annonc\u00e9,vita,\u00e7a,quelque,studio,playstation,playstation_vita,jeu",
             "recuweb_url": "http://fr.recuweb.com/playstation/worldgameraddict.wordpress.com/2014/11/playstation-resogun-confirm%C3%A9-sur-vita",
             "resource_url": "http://fr.search.wordpress.com/?q=playstation%2Bplaystation&f=feed&page=1",
             "source_url": "http://worldgameraddict.wordpress.com/2014/11/01/playstation-resogun-confirme-sur-playstation-vita/"
