@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "juda\u00efsme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/juda\u00efsme/",
@@ -15,7 +16,7 @@
             "snippet": "Dani\u00e8le Kriegel, auteure de La Moustache de Staline (Seuil), interrog\u00e9e pour Mediapart par Antoine: MediapartTags: Posted: 09 April 2015Rating:: 0...",
             "date": "2015-04-09",
             "author_name": "Mediapart",
-            "tags": "juda\u00efsme,libert\u00e9",
+            "tags": "juda\u00efsme",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/dani%C3%A8le-kriegel-juda%C3%AFsme-et-libert%C3%A9",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/juda%C3%AFsme+juda%C3%AFsme/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m54c5_daniele-kriegel-judaisme-et-liberte_news",
@@ -23,12 +24,12 @@
         },
         "youtube.com/2015/03/l-histoire-du-judaisme-israel-et-les-juifs-documentaire-en-fran%C3%A7ais": {
             "title": "L'histoire du judaisme, israel et les juifs, documentaire en fran\u00e7ais...",
-            "snippet": "L'histoire du judaisme, israel et les juifs, documentaire en fran\u00e7ais From: terry bogard Views: 64 0 ratings Time: 52:14 More in Education...",
+            "snippet": "L'histoire du judaisme, israel et les juifs, documentaire en fran\u00e7ais From: terry bogard Views: 213 0 ratings Time: 52:14 More in Education...",
             "date": "2015-03-31",
             "author_name": "terry bogard",
-            "tags": "documentaire,fran\u00e7ais,juifs,judaisme",
+            "tags": "documentaire,fran\u00e7ais,judaisme",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/03/l-histoire-du-judaisme-israel-et-les-juifs-documentaire-en-fran%C3%A7ais",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme%2Bjuda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=KxLIR_iivb0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/KxLIR_iivb0/0.jpg"
         },
@@ -43,23 +44,35 @@
             "source_url": "http://dailymotion.com/video/x2l4dr6_tefilines-les-boites-noires-du-judaisme_shortfilms",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2l4dr6_tefilines-les-boites-noires-du-judaisme_shortfilms"
         },
-        "youtube.com/2015/02/anthologie-des-propos-contre-les-juifs-le-juda%C3%AFsme-et-sionisme-disponible": {
-            "title": "Anthologie des propos contre les Juifs, le juda\u00efsme et le sionisme -Disponible chez Kontre Kulture...",
-            "snippet": "Anthologie des propos contre les Juifs, le juda\u00efsme et le sionisme -Disponible chez Kontre Kulture \u00efsme-et-le-sionisme From: KontreKulture Views: 22415 0 ratings Time: 03:08 More in News & Politics...",
-            "date": "2015-02-18",
-            "author_name": "KontreKulture",
-            "tags": "juda\u00efsme,juifs",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/02/anthologie-des-propos-contre-les-juifs-le-juda%C3%AFsme-et-sionisme-disponible",
+        "dailymotion.com/2015/03/apostrophes-islamisme-et-juda%C3%AFsme": {
+            "title": "Apostrophes - Islamisme et juda\u00efsme...",
+            "snippet": "Apostrophes - Islamisme et juda\u00efsme, Emission191 \u00e8me num\u00e9ro d'ne froisser personne, Bernard PIVOT souligne qu'il pr\u00e9sente ce nu...: bande-annonce-filmTags: Posted: 18 March 2015Rating:: 0...",
+            "date": "2015-03-18",
+            "author_name": "bande-annonce-film",
+            "tags": "juda\u00efsme",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/03/apostrophes-islamisme-et-juda%C3%AFsme",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/juda%C3%AFsme+juda%C3%AFsme/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2juofn_apostrophes-islamisme-et-judaisme_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2juofn_apostrophes-islamisme-et-judaisme_shortfilms"
+        },
+        "youtube.com/2015/03/l-origine-des-3-religions-islam-christianisme-&-judaisme": {
+            "title": "L'origine des 3 religions Islam, Christianisme & Judaisme...",
+            "snippet": "L'origine des 3 religions Islam, Christianisme & Judaisme les dieux du soleil: Horus, Mithra, Krishna, Dionysos, J\u00e9sus etc. HTTP://Une vid\u00e9o IMPRESSIONNANTE qui vous fera comprendre le secret et l'origine des religions, \u00e0 regarder jusqu'\u00e0...",
+            "date": "2015-03-17",
+            "author_name": "Kristen Martin",
+            "categories": "religion,islam,christianisme",
+            "tags": "judaisme,j\u00e9sus",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/youtube.com/2015/03/l-origine-des-3-religions-islam-christianisme-&-judaisme",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Q-io_Pn4e1Q&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Q-io_Pn4e1Q/0.jpg"
+            "source_url": "http://youtube.com/watch?v=kDJER_fJDyM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/kDJER_fJDyM/0.jpg"
         },
         "dailymotion.com/2015/02/lapolog%C3%A9tique-chr%C3%A9tienne-22-faqs-et-pourquoi-pas-le-juda%C3%AFsme": {
             "title": "Lapolog\u00e9tique chr\u00e9tienne 22: FAQs. Et pourquoi pas le Juda\u00efsme?",
             "snippet": "L'objection r\u00e9fut\u00e9e selon la m\u00e9thode pr\u00e9suppositionalisteAuthor: solagracia14Tags: Posted: 16 February 2015Rating:: 0...",
             "date": "2015-02-16",
             "author_name": "solagracia14",
-            "tags": "pourquoi,juda\u00efsme",
+            "tags": "juda\u00efsme",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/02/lapolog%C3%A9tique-chr%C3%A9tienne-22-faqs-et-pourquoi-pas-le-juda%C3%AFsme",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/juda%C3%AFsme+juda%C3%AFsme/0?af=1",
             "source_url": "http://dailymotion.com/video/x2haz08_l-apologetique-chretienne-22-faqs-et-pourquoi-pas-le-judaisme_school",
@@ -72,32 +85,9 @@
             "author_name": "streaming documentary",
             "tags": "documentaire,fran\u00e7ais,juda\u00efsme",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/01/les-d%C3%A9buts-du-juda%C3%AFsme-partie-1-documentaire-fran%C3%A7ais",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme%2Bjuda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=btwaOxS_MRs&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/btwaOxS_MRs/0.jpg"
-        },
-        "youtube.com/2014/11/conversion-au-juda%C3%AFsme-de-morgan-priest-par-son-avocat-maitre-judas": {
-            "title": "Conversion au Juda\u00efsme de Morgan Priest par son avocat Maitre Judas (novembre 2014)...",
-            "snippet": "Conversion au Juda\u00efsme de Morgan Priest par son avocat Maitre Judas (novembre 2014) Beaucoup de ne font pas la diff\u00e9rence entre la libert\u00e9 d'expression et la libert\u00e9 d'insulter et diffamer. C'est pourquoi les commentaires ne sont plus possible.",
-            "date": "2014-11-18",
-            "author_name": "Morgan Priest",
-            "tags": "pourquoi,libert\u00e9,juda\u00efsme,beaucoup",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/11/conversion-au-juda%C3%AFsme-de-morgan-priest-par-son-avocat-maitre-judas",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme%2Bjuda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=_qU6GFmX0LA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/_qU6GFmX0LA/0.jpg"
-        },
-        "youtube.com/2014/10/judaisme-vs-jesus-les-differences-clefs-a-savoir": {
-            "title": "Judaisme vs Jesus: Les Differences Clefs A Savoir...",
-            "snippet": "Judaisme vs Jesus: Les Differences Clefs A Savoir Beaucoup de Difference meconnues.... From: Jesus D'Abord Views: 197 10 ratings Time: 09:10 More in Science & Technology...",
-            "date": "2014-10-24",
-            "author_name": "Jesus D'Abord",
-            "categories": "science",
-            "tags": "beaucoup,judaisme",
-            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2014/10/judaisme-vs-jesus-les-differences-clefs-a-savoir",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=ueNHXm4ilQY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ueNHXm4ilQY/0.jpg"
         },
         "youtube.com/2014/10/juda%C3%AFsme-1-4-la-mission-disra%C3%ABl-avant-venue-du-christ": {
             "title": "Juda\u00efsme 1/4 La mission dIsra\u00ebl avant la venue du Christ...",
@@ -115,11 +105,22 @@
             "snippet": "Juda\u00efsme 2/4 Laccomplissement dIsra\u00ebl par J\u00e9sus Christ Juda\u00efsme 2/4 L'accomplissement d'Isra\u00ebl par J\u00e9sus Christ (2 h 01). La r\u00e9alisation des proph\u00e9ties par le Christ: Matthieu 5, 17 N'allez pas croire que je sois venu abolir la... From:...",
             "date": "2014-10-13",
             "author_name": "Arnaud Dumouch",
-            "tags": "christ,juda\u00efsme,disra\u00ebl,isra\u00ebl",
+            "tags": "j\u00e9sus,christ,juda\u00efsme,disra\u00ebl,isra\u00ebl",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/10/juda%C3%AFsme-2-4-laccomplissement-disra%C3%ABl-par-j%C3%A9sus-christ",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme%2Bjuda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=1vZ2vHMfRZE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/1vZ2vHMfRZE/0.jpg"
+        },
+        "youtube.com/2014/09/cours-de-raphael-les-id%C3%A9es-recues-sur-le-judaisme": {
+            "title": "cours de Raphael:les id\u00e9es recues sur le judaisme!",
+            "snippet": "cours de Raphael:\"les id\u00e9es recues sur le judaisme!\". From: Raphael de lev Views: 379 3 ratings Time: 01:05:43 More in People & Blogs...",
+            "date": "2014-09-24",
+            "author_name": "Raphael de lev",
+            "tags": "judaisme",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/09/cours-de-raphael-les-id%C3%A9es-recues-sur-le-judaisme",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=juda%C3%AFsme%2Bjuda%C3%AFsme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Xmpfn6mDAYQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Xmpfn6mDAYQ/0.jpg"
         }
     }
 }
