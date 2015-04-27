@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rallye-raid",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rallye-raid/",
@@ -10,33 +11,62 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-raid/rallye-raid/blogs.json"
     },
     "items": {
-        "turbo.fr/2015/02/essai-moto-aprilia-caponord-rally": {
-            "title": "Essai Moto: Aprilia Caponord Rally -...",
-            "snippet": "Moto: Aprilia Caponord aussi dispose de son trail routier 1200 avec la Caponord, une machine qui s'offre cette ann\u00e9e une version Rally. Nettement plus \u00e9quip\u00e9e, cette Aprilia n'est pas destin\u00e9e aux rallye-raid mais simplement aux grands voyages.",
-            "date": "2015-02-23",
-            "tags": "moto,rallye,raid",
-            "recuweb_url": "http://fr.recuweb.com/turbo.fr/2015/02/essai-moto-aprilia-caponord-rally",
+        "20minutes.fr/2015/04/d%C3%A9c%C3%A8s-d-un-concurrent-belge-du-rallye-raid-qatar": {
+            "title": "D\u00e9c\u00e8s d'un concurrent belge du rallye-raid du Qatar...",
+            "snippet": "Le Belge Jurgen Damen, copilote du N\u00e9erlandais Ren\u00e9 Kuipers dans une Ford, est d\u00e9c\u00e9d\u00e9 mercredi soir des suites de blessures apr\u00e8s un accident lundi lors du Sealine Cross Country Rally au Qatar, rapportait jeudi l'agence Belga. L'accident...",
+            "date": "2015-04-23",
+            "tags": "jeudi,sealine,sealine_cross,cross,d\u00e9c\u00e9d\u00e9,d\u00e9c\u00e9d\u00e9-mercredi,d\u00e9c\u00e9d\u00e9-mercredi-soir,mercredi,mercredi-soir,soir,soir-des-suites,suites,suites-de-blessures,blessures,blessures-apr\u00e8s,apr\u00e8s,apr\u00e8s-un-accident,accident,accident-lundi,accident-lundi-lors,lundi,lundi-lors,lors,n\u00e9erlandais,n\u00e9erlandais_ren\u00e9,n\u00e9erlandais_ren\u00e9_kuipers,ren\u00e9,ren\u00e9_kuipers,kuipers,copilote,belge,belge_jurgen,belge_jurgen_damen,jurgen,jurgen_damen,damen,concurrent,d\u00e9c\u00e8s,rallye,raid,qatar,ford,rally,agence,belga",
+            "recuweb_url": "http://fr.recuweb.com/20minutes.fr/2015/04/d%C3%A9c%C3%A8s-d-un-concurrent-belge-du-rallye-raid-qatar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
+            "source_url": "http://20minutes.fr/sport/1593555-20150423-deces-concurrent-belge-rallye-raid-qatar"
+        },
+        "20min.ch/2015/04/d%C3%A9c%C3%A8s-d-un-concurrent-du-rallye-raid-qatar": {
+            "title": "D\u00e9c\u00e8s d'un concurrent du rallye raid du Qatar...",
+            "snippet": "Le Belge Jurgen Damen, copilote du N\u00e9erlandais Ren\u00e9 Kuipers dans une Ford, est d\u00e9c\u00e9d\u00e9 mercredi soir des suites de blessures apr\u00e8s un accident lundi lors de la comp\u00e9tition. Real Madrid, Juventus, Barcelone, Bayern Munich, \u00e7a c'est ce qu'on...",
+            "date": "2015-04-23",
+            "categories": "realmadrid",
+            "tags": "d\u00e9c\u00e9d\u00e9,d\u00e9c\u00e9d\u00e9-mercredi,d\u00e9c\u00e9d\u00e9-mercredi-soir,mercredi,mercredi-soir,soir,soir-des-suites,suites,suites-de-blessures,blessures,blessures-apr\u00e8s,apr\u00e8s,apr\u00e8s-un-accident,accident,accident-lundi,accident-lundi-lors,lundi,lundi-lors,lors,comp\u00e9tition,n\u00e9erlandais,n\u00e9erlandais_ren\u00e9,n\u00e9erlandais_ren\u00e9_kuipers,ren\u00e9,ren\u00e9_kuipers,kuipers,copilote,belge,belge_jurgen,belge_jurgen_damen,jurgen,jurgen_damen,damen,concurrent,d\u00e9c\u00e8s,rallye,raid,qatar,ford",
+            "recuweb_url": "http://fr.recuweb.com/realmadrid/20min.ch/2015/04/d%C3%A9c%C3%A8s-d-un-concurrent-du-rallye-raid-qatar",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
+            "source_url": "http://20min.ch/ro/sports/automoto/story/Deces-d-un-concurrent-du-rallye-raid-du-Qatar-13507296"
+        },
+        "autohebdo.fr/2015/04/rallye-raid-d%C3%A9c%C3%A8s-de-jurgen-damen": {
+            "title": "Rallye Raid D\u00e9c\u00e8s de Jurgen Damen...",
+            "snippet": "Jurgen Damen, copilote du N\u00e9erlandais Ren\u00e9 Kuipers, est d\u00e9c\u00e9d\u00e9 ce mercredi 23 avril des suites de ses blessures apr\u00e8s avoir \u00e9t\u00e9 victime d'un accident au Sealine Cross Country Rally disput\u00e9 au Qatar. Le Belge de 42 ans avait subi de...",
+            "date": "2015-04-23",
+            "categories": "rallye-raid",
+            "tags": "sealine,sealine_cross,cross,accident,suites,blessures,blessures-apr\u00e8s,apr\u00e8s,d\u00e9c\u00e9d\u00e9,mercredi,n\u00e9erlandais,n\u00e9erlandais_ren\u00e9,n\u00e9erlandais_ren\u00e9_kuipers,ren\u00e9,ren\u00e9_kuipers,kuipers,copilote,jurgen,jurgen_damen,damen,rallye,rallye_raid,raid,d\u00e9c\u00e8s,rally,qatar,belge",
+            "recuweb_url": "http://fr.recuweb.com/rallye-raid/autohebdo.fr/2015/04/rallye-raid-d%C3%A9c%C3%A8s-de-jurgen-damen",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
+            "source_url": "http://autohebdo.fr/rallye/rallye-raid/breve-26-4-131577/230415-rallye-raid-\u2013-d\u00e9c\u00e8s-de-jurgen-damen"
+        },
+        "lequipe.fr/2015/04/rallye-raid-&un-copilote-belge-d%C3%A9c%C3%A8de": {
+            "title": "Rallye-Raid &Un copilote belge d\u00e9c\u00e8de...",
+            "snippet": "Le Belge Jurgen Damen, copilote du N\u00e9erlandais Ren\u00e9 Kuipers dans une Ford, est d\u00e9c\u00e9d\u00e9 mercredi soir des suites de blessures apr\u00e8s un accident lundi lors du Sealine Cross Country Rally au Qatar, rapporte ce jeudi l'agence Belga. L'accident...",
+            "date": "2015-04-23",
+            "tags": "jeudi,sealine,sealine_cross,cross,d\u00e9c\u00e9d\u00e9,d\u00e9c\u00e9d\u00e9-mercredi,d\u00e9c\u00e9d\u00e9-mercredi-soir,mercredi,mercredi-soir,soir,soir-des-suites,suites,suites-de-blessures,blessures,blessures-apr\u00e8s,apr\u00e8s,apr\u00e8s-un-accident,accident,accident-lundi,accident-lundi-lors,lundi,lundi-lors,lors,n\u00e9erlandais,n\u00e9erlandais_ren\u00e9,n\u00e9erlandais_ren\u00e9_kuipers,ren\u00e9,ren\u00e9_kuipers,kuipers,copilote,belge,belge_jurgen,belge_jurgen_damen,jurgen,jurgen_damen,damen,rallye,raid,ford,rally,qatar,agence,belga",
+            "recuweb_url": "http://fr.recuweb.com/lequipe.fr/2015/04/rallye-raid-&un-copilote-belge-d%C3%A9c%C3%A8de",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
+            "source_url": "http://lequipe.fr/Rallye-raid/Actualites/Un-copilote-belge-experimente-decede-suite-a-un-accident/553305"
+        },
+        "ariegenews.com/2015/04/dakar-2016-un-rallye-raid-sur-mesure-pour-l-ari%C3%A9geois-bernard": {
+            "title": "Dakar 2016: un rallye Raid sur mesure pour l'Ari\u00e9geois Bernard... -...",
+            "snippet": "Dakar 2016: un rallye Raid sur mesure pour l'Ari\u00e9geois Bernard... 'hui l'Ari\u00e9geois s'est fait un nom dans la m\u00e9canique auto, ses prouesses l'ont conduit sur de nombreux rallye-raids (deux fois sur le Dakar en Afrique en tant qu'assistant, la...",
+            "date": "2015-04-21",
+            "tags": "m\u00e9canique,dakar,rallye,raids",
+            "recuweb_url": "http://fr.recuweb.com/ariegenews.com/2015/04/dakar-2016-un-rallye-raid-sur-mesure-pour-l-ari%C3%A9geois-bernard",
             "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Braid&output=atom&nord=1",
-            "source_url": "http://turbo.fr/actualite-automobile/755447-essai-moto-aprilia-caponord-rally/"
+            "source_url": "http://ariegenews.com/ariege/sports/2015/89315/dakar-2016-un-rallye-raid-sur-mesure-pour-l-ariegeois-bernard-chaubet.html"
         },
-        "lamontagne.fr/2015/02/jean-pierre-roux-remporte-l-open-international-d-%C3%A9checs-de-clermont": {
-            "title": "Jean-Pierre Roux remporte l'Open international d'\u00e9checs de Clermont...",
-            "snippet": "Alors, aucun doute, l'action R\u00e9s'Auvergne 63 de la Jeune chambre... Depuis jeudi, jeunes conducteurs de 4L sont en route vers le Maroc pour un rallye-raid humanitaire. Les Clermontois partaient mardi depuis la place de Jaude. La LPO Auvergne et...",
-            "date": "2015-02-22",
-            "categories": "place",
-            "tags": "place,maroc,rallye,raid,humanitaire",
-            "recuweb_url": "http://fr.recuweb.com/place/lamontagne.fr/2015/02/jean-pierre-roux-remporte-l-open-international-d-%C3%A9checs-de-clermont",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
-            "source_url": "http://lamontagne.fr/auvergne/actualite/departement/puy-de-dome/clermont-ferrand/2015/02/22/jean-pierre-roux-remporte-l-open-international-d-echecs-de-clermont_11339237.html"
-        },
-        "leblogauto.com/2015/02/yutaka-katayama-1909-2015-le-p%C3%A8re-de-la-datsun-240-z": {
-            "title": "Yutaka Katayama 1909-2015: Le p\u00e8re de la Datsun 240 Z nest plus...",
-            "snippet": "Cest \u00e9galement lui qui lancera Nissan en comp\u00e9tition, pressentant limportance de cette activit\u00e9 pour la promotion de la marque, en conduisant l\u00e9quipe qui fit courir deux Datsun 210 dans le rallye-raid de 16000 km doutback australien Mobil...",
-            "date": "2015-02-21",
-            "tags": "comp\u00e9tition,rallye,raid",
-            "recuweb_url": "http://fr.recuweb.com/leblogauto.com/2015/02/yutaka-katayama-1909-2015-le-p%C3%A8re-de-la-datsun-240-z",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Braid&format=RSS&cc=fr",
-            "source_url": "http://leblogauto.com/2015/02/yutaka-katayama-1909-2015-le-pere-de-la-datsun-240-z-nest-plus.html"
+        "moto-station.com/2015/04/rallye-raid-laia-sanz-officielle-ktm-fairioli-moto-station": {
+            "title": "Rallye Raid: Laia Sanz, officielle KTM/Fairioli! - Moto-Station...",
+            "snippet": "Rallye Raid: Laia Sanz, officielle KTM/Fairioli!Moto-StationMais en plus de cela, la demoiselle dispose dans son contrat d'un statut de pilote KTM Factory Rally et sera donc au d\u00e9part de quelques manches du championnat du monde des Rallyes, dont le...",
+            "date": "2015-04-09",
+            "categories": "rallye-raid",
+            "tags": "rally,rallye_raid,raid,moto,d\u00e9part",
+            "recuweb_url": "http://fr.recuweb.com/rallye-raid/moto-station.com/2015/04/rallye-raid-laia-sanz-officielle-ktm-fairioli-moto-station",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Braid&output=atom&nord=1",
+            "source_url": "http://moto-station.com/article93515-rallye-raid-laia-sanz-officielle-ktm-fairioli.html"
         }
     }
 }
