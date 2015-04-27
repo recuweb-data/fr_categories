@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ordinateur",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ordinateur/",
@@ -10,71 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ordinateur/ordinateur/blogs.json"
     },
     "items": {
-        "materiel.net/2015/03/ordinateur-portable-b551lg-cn015g-i7-840m-full-hd": {
-            "title": "Ordinateur portable - B551LG-CN015G - i7 - 840M - Full HD...",
-            "snippet": "Ordinateur portable ASUSPRO B551LG-CN015G - i7 - 840M - Full HD Processeur Intel Core i7-4650U (1,7 GHz), 15,6\", 4096 Mo, NVIDIA GeForce 840M, 500 Go, Windows 7 Professionnel 64 bits, 2,5 Kg.",
-            "date": "2015-03-17",
+        "slate.fr/2015/04/fatigu%C3%A9-par-les-bugs-un-am%C3%A9ricain-tire-sur-son-ordinateur": {
+            "title": "Fatigu\u00e9 par les bugs, un Am\u00e9ricain tire sur son ordinateur...",
+            "snippet": "Heureusement, la victime de ce crime passionnel n'est que la tour de l'ordinateur Dell du bourreau, pourtant paisible commer\u00e7ant sp\u00e9cialis\u00e9 dans la m\u00e9decine par les plantes. La police, alert\u00e9e au sujet des coups de feu, lui a...",
+            "date": "2015-04-22",
+            "author_name": "rbnverner",
+            "categories": "plante,ordinateur",
+            "tags": "lui,coups,coups-de-feu,feu,tour,vic,tire,am\u00e9ricain,ordinateur,dell",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/slate.fr/2015/04/fatigu%C3%A9-par-les-bugs-un-am%C3%A9ricain-tire-sur-son-ordinateur",
+            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://slate.fr/story/100683/bugs-un-americain-tire-sur-son-ordinateur"
+        },
+        "bfmbusiness.bfmtv.com/2015/04/l-ordinateur-d-ibm-qui-r%C3%A9invente-les-recettes-de-cuisine-bfmtv": {
+            "title": "L'ordinateur d'IBM qui r\u00e9invente les recettes de cuisine - BFMTV...",
+            "snippet": "Cet ordinateur dop\u00e9 aux st\u00e9ro\u00efdes s'est vu cette fois confier une nouvelle mission: inventer de nouvelles recettes de cuisine. Le livre ainsi con\u00e7u s'appelle \"Cognitive Cooking whith Chef Watson\". En fran\u00e7ais: \"Cuisinez cognitif...",
+            "date": "2015-04-14",
             "author_name": "inconnu",
             "categories": "ordinateur",
-            "tags": "nvidia,nvidia_geforce,geforce,processeur,intel,core,ordinateur,portable,windows",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/materiel.net/2015/03/ordinateur-portable-b551lg-cn015g-i7-840m-full-hd",
+            "tags": "ainsi,nouvelle,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/bfmbusiness.bfmtv.com/2015/04/l-ordinateur-d-ibm-qui-r%C3%A9invente-les-recettes-de-cuisine-bfmtv",
+            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/cuisine-quand-un-ordinateur-ecrit-son-propre-livre-de-recettes-877291.html"
+        },
+        "futura-sciences.com/2015/04/actualit%C3%A9-chromebit-un-ordinateur-chrome-os-dans-une-cl%C3%A9-hdmi": {
+            "title": "Actualit\u00e9 Chromebit: un ordinateur Chrome OS dans une cl\u00e9 HDMI...",
+            "snippet": "Google vient de d\u00e9voiler toute une s\u00e9rie de nouveaux ordinateurs portables bas\u00e9s sur son syst\u00e8me d'exploitation Chrome OS. Parmi eux figure le Chromebit, une cl\u00e9 HDMI qui se branche sur n'importe...",
+            "date": "2015-04-02",
+            "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
+            "categories": "ordinateur,google",
+            "tags": "cl\u00e9,nouveaux,nouveaux-ordinateurs,ordinateurs,ordinateur,chromebit,google,parmi",
+            "recuweb_url": "http://fr.recuweb.com/google/futura-sciences.com/2015/04/actualit%C3%A9-chromebit-un-ordinateur-chrome-os-dans-une-cl%C3%A9-hdmi",
             "resource_url": "http://www.google.com/search?q=ordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://materiel.net/ordinateur-portable/asuspro-b551lg-cn015g-i7-840m-full-hd-114218.html"
+            "source_url": "http://futura-sciences.com/magazines/high-tech/infos/actu/d/pc-chromebit-ordinateur-chrome-os-cle-hdmi-57720/"
         },
-        "01net.com/2015/03/attention-ins%C3%A9rer-cette-cl%C3%A9-usb-dans-votre-pc-peut-le-d%C3%A9truire": {
-            "title": "Attention, ins\u00e9rer cette cl\u00e9 USB dans votre PC peut le d\u00e9truire! - 01Net...",
-            "snippet": "Un fac\u00e9tieux hacker a mis au point une fausse cl\u00e9 USB capable de griller une machine lorsqu'elle est ins\u00e9r\u00e9e dans une prise d'un ordinateur.",
-            "date": "2015-03-12",
+        "materiel.net/2015/04/m15-rider-pc-gamer-ordinateur-achat-vente": {
+            "title": "M15 Rider [PC Gamer] - Ordinateur - Achat/Vente sur...",
+            "snippet": "Ordinateur M15 Rider PC Gamer PC de jeu, 138 pts Matbench, Processeur Intel Core i5 4690, NVIDIA GeForce GTX 960, SSD 120 Go, 8 Go DDR3, Aucun OS. OFFRE SPECIALE. Ordinateur M15 Rider PC Gamer.",
+            "date": "2015-04-02",
             "author_name": "inconnu",
             "categories": "ordinateur",
-            "tags": "capable,machine,point,cl\u00e9,usb,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/01net.com/2015/03/attention-ins%C3%A9rer-cette-cl%C3%A9-usb-dans-votre-pc-peut-le-d%C3%A9truire",
+            "tags": "ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/materiel.net/2015/04/m15-rider-pc-gamer-ordinateur-achat-vente",
             "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://01net.com/editorial/648920/attention-inserer-cette-cle-usb-dans-votre-pc-peut-le-detruire/"
-        },
-        "slate.fr/2015/03/voyez-le-nouveau-macbook-comme-une-tablette-qui-aurait-l": {
-            "title": "Voyez le nouveau MacBook comme une tablette qui aurait l... -...",
-            "snippet": "En fait, le nouveau MacBook est une tablette mais en version ordinateur portable agr\u00e9able. Il est ultra l\u00e9ger, a un processeur de style tablette, une batterie qui dure longtemps et un port unique. Si vous aimez votre tablette,...",
-            "date": "2015-03-10",
-            "author_name": "Lily Hay Newman",
-            "categories": "macbook,ordinateur",
-            "tags": "longtemps,processeur,comme,nouveau,ordinateur,portable",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/slate.fr/2015/03/voyez-le-nouveau-macbook-comme-une-tablette-qui-aurait-l",
-            "resource_url": "http://www.google.com/search?q=ordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/98877/nouveau-macbook-tablette"
-        },
-        "parismatch.com/2015/03/michael-schumacher-son-m%C3%A9decin-se-fait-voler-ordinateur": {
-            "title": "Michael Schumacher - Son m\u00e9decin se fait voler son ordinateur...",
-            "snippet": "Le cabinet m\u00e9dical de Johannes Peil, m\u00e9decin de Michael Schumacher a \u00e9t\u00e9 cambriol\u00e9. Parmi les objets vol\u00e9s, un ordinateur dont on ne sait s'il contenait des informations sur l'\u00e9tat de sant\u00e9 du champion.",
-            "date": "2015-03-06",
-            "author_name": "Paris Match",
-            "categories": "ordinateur",
-            "tags": "sant\u00e9,objets,ordinateur,parmi",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/parismatch.com/2015/03/michael-schumacher-son-m%C3%A9decin-se-fait-voler-ordinateur",
-            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://parismatch.com/Actu/Sport/Michael-Schumacher-Son-medecin-se-fait-voler-son-ordinateur-721288"
-        },
-        "01net.com/2015/03/mwc-2015-hp-sprout-l-ordinateur-avec-projecteur-et-scanner-3d": {
-            "title": "MWC 2015: HP Sprout, l'ordinateur avec projecteur et scanner 3D...",
-            "snippet": "C'est un nouveau type d'interface. Le PC HP Sprout est dot\u00e9 d'un projecteur. L'image projet\u00e9e, par exemple les icones du bureau ou un piano, vont \u00eatre manipulables directement sur la table. Vous allez \u00e9galement pouvoir...",
-            "date": "2015-03-03",
-            "author_name": "inconnu",
-            "categories": "ordinateur",
-            "tags": "image,image-projet\u00e9e,projet\u00e9e,projecteur,nouveau,projecteur-et-scanner,scanner,mwc,sprout,ordinateur,interface,bureau",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/01net.com/2015/03/mwc-2015-hp-sprout-l-ordinateur-avec-projecteur-et-scanner-3d",
-            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://01net.com/editorial/647694/mwc-2015-hp-sprout-l-ordinateur-avec-projecteur-et-scanner-3d-video/"
-        },
-        "materiel.net/2015/01/beast-pc-gamer-ordinateur-achat-vente": {
-            "title": "Beast [PC Gamer] - Ordinateur - Achat/Vente sur...",
-            "snippet": "Ordinateur Beast PC Gamer PC de jeu, 131 pts Matbench, Processeur Intel Core i5 4590, NVIDIA GeForce GTX 960, 8 Go DDR3, Aucun OS. BEST SELLER. Ordinateur Beast PC Gamer. Prix.",
-            "date": "2015-01-22",
-            "author_name": "inconnu",
-            "categories": "ordinateur",
-            "tags": "nvidia,nvidia_geforce,geforce,processeur,intel,core,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/materiel.net/2015/01/beast-pc-gamer-ordinateur-achat-vente",
-            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://materiel.net/ordinateur/materiel-net-beast-pc-gamer-112731.html"
+            "source_url": "http://materiel.net/ordinateur/materiel-net-m15-rider-pc-gamer-114903.html"
         },
         "touscanci.com/2014/05/gallery-voici-la-salle-num%C3%A9rique-pour-les-%C3%A9tud": {
             "title": "gallery VOICI LA SALLE NUM\u00c9RIQUE POUR LES \u00c9TUD...",
@@ -93,7 +72,7 @@
             "date": "2014-02-02",
             "author_name": "orthoju",
             "categories": "ordinateur",
-            "tags": "longtemps,ordinateurs,bureau",
+            "tags": "temps,nouveaux,nouveaux-ordinateurs,ordinateurs,ordinateur,matin,bureau",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/orthofunny.wordpress.com/2014/02/dans-mon-ordinateur",
             "resource_url": "http://fr.search.wordpress.com/?q=ordinateur%2Bordinateur&f=feed&page=1",
             "source_url": "http://orthofunny.wordpress.com/2014/02/02/dans-mon-ordinateur/"
