@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-de-combat",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-de-combat/",
@@ -10,38 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-combat/sport-de-combat/blogs.json"
     },
     "items": {
-        "news-gate.org/2015/04/l%C3%A9nergie-renouvelable-un-sport-de-combat": {
-            "title": "L\u00e9nergie renouvelable, un sport de combat...",
-            "snippet": "Le 8 avril dernier Mediapart publiait le rapport de lAdeme, agence de lenvironnement et de la ma\u00eetrise de l\u00e9nergie, sur la transition \u00e9nerg\u00e9tique intitul\u00e9 Vers un mix...",
-            "date": "2015-04-15",
-            "author_name": "alexandreleno",
+        "adppc.fr/2015/04/sport-de-combat-assurance-pret-blog": {
+            "title": "Sport de combat assurance pret Blog...",
+            "snippet": "Tout savoir sur la pratique de sports de combat et l'assurance de pret. Comment trouver votre assurance?",
+            "date": "2015-04-18",
+            "author_name": "Florian",
+            "categories": "assurance,sport",
+            "tags": "savoir,pratique,sports,combat",
+            "recuweb_url": "http://fr.recuweb.com/sport/adppc.fr/2015/04/sport-de-combat-assurance-pret-blog",
+            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://adppc.fr/blog/risques/les-sports-de-combat-et-lassurance-de-pret.html"
+        },
+        "actunet.sn/2015/04/djibril-seck-sp%C3%A9cialiste-sports-de-combats-et-arts-martiaux-tyson": {
+            "title": "Djibril Seck, sp\u00e9cialiste sports de combats et arts martiaux: Tyson...",
+            "snippet": "Gris Bordeaux/Tyson est cal\u00e9 pour le 3 mai prochain au stade Demba Diop. Occasion pour le sp\u00e9cialiste des sports de combats, Djibril Seck de d\u00e9cortiquer les points forts et faibles des deux acteurs. Un choc de gladiateurs...",
+            "date": "2015-04-17",
+            "author_name": "actunet",
+            "categories": "sport,arts",
+            "tags": "sp\u00e9cia,djibril,djibril_seck,seck,sports,combats,arts,martiaux",
+            "recuweb_url": "http://fr.recuweb.com/arts/actunet.sn/2015/04/djibril-seck-sp%C3%A9cialiste-sports-de-combats-et-arts-martiaux-tyson",
+            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://actunet.sn/djibril-seck-specialiste-sports-de-combats-et-arts-martiaux-tyson-gris-bordeaux-sera-un-combat-tres-engage/"
+        },
+        "actinnovation.com/2015/04/unified-weapons-master-une-armure-high-tech-pour-les-sports": {
+            "title": "Unified Weapons Master: une armure high-tech pour les sports de...",
+            "snippet": "Le futur des sports de combat est peut-\u00eatre en train de se profiler. Imagin\u00e9e par une startup australienne, Unified Weapons Master (UWM) est une armure intelligente bourr\u00e9e de technologie, qui permet de pratiquer le...",
+            "date": "2015-04-14",
+            "author_name": "Florian LOPEZ",
+            "categories": "technologie,sport",
+            "tags": "\u00eatre,armure,sports,combat",
+            "recuweb_url": "http://fr.recuweb.com/sport/actinnovation.com/2015/04/unified-weapons-master-une-armure-high-tech-pour-les-sports",
+            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://actinnovation.com/innovation-technologie/unified-weapons-master-armure-high-tech-sports-combat-futur-7617.html"
+        },
+        "actusen.com/2015/04/djibril-seck-sp%C3%A9cialiste-des-sports-de-combat-sur-l-exil": {
+            "title": "Djibril Seck, sp\u00e9cialiste des Sports de combat sur l'exil du fils de...",
+            "snippet": "La d\u00e9cision prise par Balla Gaye 2 de s'exiler pour se remettre d'aplomb apr\u00e8s sa d\u00e9faite contre Eumeu S\u00e9ne traduit une certaine maturit\u00e9 de la part du lutteur si l'on se fie aux propos de Djibril Seck, Directeur de l'Inseps,...",
+            "date": "2015-04-09",
+            "author_name": "actusen.com",
             "categories": "sport",
-            "tags": "dernier,sport,combat,mediapart",
-            "recuweb_url": "http://fr.recuweb.com/sport/news-gate.org/2015/04/l%C3%A9nergie-renouvelable-un-sport-de-combat",
+            "tags": "eumeu,balla,djibril,djibril_seck,seck,sp\u00e9cia,sports,combat",
+            "recuweb_url": "http://fr.recuweb.com/sport/actusen.com/2015/04/djibril-seck-sp%C3%A9cialiste-des-sports-de-combat-sur-l-exil",
+            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://actusen.com/djibril-seck-specialiste-des-sport-de-combat-sur-lexile-du-fils-de-double-balla-gaye-2-vient-de-commencer-son-plan-de-carriere/"
+        },
+        "jiujitsubresilienisfun.wordpress.com/2015/03/la-nutrition-des-sports-de-combat": {
+            "title": "La nutrition des sports de combat...",
+            "snippet": "Lorsque l'on veut \u00eatre performant dans la pratique des arts martiaux, la nutrition est une \u00e9tape incontournable.",
+            "date": "2015-03-31",
+            "author_name": "Philippe",
+            "categories": "sport,arts",
+            "tags": "\u00eatre,pratique,sports,combat,arts,martiaux",
+            "recuweb_url": "http://fr.recuweb.com/arts/jiujitsubresilienisfun.wordpress.com/2015/03/la-nutrition-des-sports-de-combat",
             "resource_url": "http://fr.search.wordpress.com/?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&f=feed&page=1",
-            "source_url": "http://news-gate.org/2015/04/15/lenergie-renouvelable-un-sport-de-combat/"
+            "source_url": "http://jiujitsubresilienisfun.wordpress.com/2015/03/31/la-nutrition-des-sports-de-combat/"
         },
-        "toutelaculture.com/2015/03/la-sociologie-est-un-sport-de-combat-toutelaculture": {
-            "title": "La sociologie est un sport de combat Toutelaculture La sociologie...",
-            "snippet": "Michel Maffesoli, professeur \u00e9m\u00e9rite de l'universit\u00e9 Paris 5 Descartes et sociologue controvers\u00e9, a \u00e9t\u00e9 victime d'un canular. Jean Pierre Tremblay, sociologue imagin\u00e9 de l'universit\u00e9 de Laval (Qu\u00e9bec), a lanc\u00e9 un pav\u00e9 dans...",
-            "date": "2015-03-12",
-            "author_name": "Simon Th\u00e9odore",
-            "categories": "sociologie,sport",
-            "tags": "pierre,\u00e9t\u00e9,sociologie,sport,combat,paris",
-            "recuweb_url": "http://fr.recuweb.com/sport/toutelaculture.com/2015/03/la-sociologie-est-un-sport-de-combat-toutelaculture",
-            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://toutelaculture.com/actu/la-sociologie-est-un-sport-de-combat/"
-        },
-        "observatoire-des-sondages.org/2015/02/la-science-politique-est-un-sport-de-combat-le-jugement": {
-            "title": "La science politique est un sport de combat: le jugement...",
-            "snippet": "La science politique est un sport de combat: le jugement. lundi 16 f\u00e9vrier 2015. Le 6 f\u00e9vrier 2015, le Tribunal de Grande Instance de Paris a rejet\u00e9 toutes les demandes formul\u00e9es par Christian Latouche et la soci\u00e9t\u00e9 Fiducial, dont il est le...",
-            "date": "2015-02-16",
-            "author_name": "inconnu",
-            "categories": "science,politique,sport",
-            "tags": "science,science-politique,politique,sport,combat,tribunal,paris",
-            "recuweb_url": "http://fr.recuweb.com/sport/observatoire-des-sondages.org/2015/02/la-science-politique-est-un-sport-de-combat-le-jugement",
-            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://observatoire-des-sondages.org/la-science-politique-est-un-sport-de-combat-le-jugement"
+        "infosen.net/2015/03/samir-fawaz-sp%C3%A9cialiste-en-sport-de-combat-physiquement": {
+            "title": "Samir Fawaz, sp\u00e9cialiste en sport de combat: Physiquement...",
+            "snippet": "A la question de savoir qui aura l'avantage dans la bagarre, voici la r\u00e9ponse du sp\u00e9cialiste en sport de combat: Eumeu a quelque peu l'avantage de la bagarre tandis que Balla serait plus avantag\u00e9 par la lutte pure.",
+            "date": "2015-03-19",
+            "author_name": "Bamba DIOP",
+            "categories": "sport",
+            "tags": "sp\u00e9cia,savoir,sport,combat,voici,eumeu,balla",
+            "recuweb_url": "http://fr.recuweb.com/sport/infosen.net/2015/03/samir-fawaz-sp%C3%A9cialiste-en-sport-de-combat-physiquement",
+            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://infosen.net/?p=166754"
         },
         "legrigriinternational.com/2015/02/la-d%C3%A9fense-de-robert-gabriel-mugabe-est-un-sport-combat": {
             "title": "La d\u00e9fense de Robert Gabriel Mugabe est un sport de combat...",
@@ -54,38 +88,27 @@
             "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://legrigriinternational.com/2015/02/la-defense-de-robert-gabriel-mugabe-est-un-sport-de-combat-christian-d-alayer-condeblanc-2007.html"
         },
-        "recherche-action.fr/2015/01/recherche-action-un-sport-de-combat-lisra": {
-            "title": "Recherche-action, un sport de combat LISRA...",
-            "snippet": "En clin d'oeil au documentaire la sociologie est un sport de combat (Bourdieu, 2001, R\u00e9al Pierre Carles, 2h26), il s'agit plut\u00f4t ici d'introduire l'art du d\u00e9placement sur le ring de l'acteur-chercheur impliqu\u00e9 en situation, non...",
-            "date": "2015-01-16",
-            "author_name": "Hugues Bazin",
-            "categories": "sport,sociologie",
-            "tags": "art,pierre,pierre_carles,carles,sport,combat,sociologie,bourdieu",
-            "recuweb_url": "http://fr.recuweb.com/sociologie/recherche-action.fr/2015/01/recherche-action-un-sport-de-combat-lisra",
-            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://recherche-action.fr/labo-social/2015/01/16/recherche-action-un-sport-de-combat/"
-        },
-        "observatoire-des-sondages.org/2014/11/la-science-politique-est-un-sport-de-combat-observatoire": {
-            "title": "La science politique est un sport de combat - observatoire des...",
-            "snippet": "L'audience du proc\u00e8s qui m'est intent\u00e9 pour diffamation aura lieu le 18 d\u00e9cembre 2014 devant le tribunal correctionnel de Paris apr\u00e8s la plainte (...)...",
-            "date": "2014-11-24",
-            "author_name": "Alain Garrigou",
-            "categories": "science,politique,sport",
-            "tags": "tribunal,lieu,science,science-politique,politique,sport,combat,devant,paris",
-            "recuweb_url": "http://fr.recuweb.com/sport/observatoire-des-sondages.org/2014/11/la-science-politique-est-un-sport-de-combat-observatoire",
-            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://observatoire-des-sondages.org/la-science-politique-est-un-sport-de-combat"
-        },
         "innelidextbugportcakisca.wordpress.com/2014/04/le-grand-livre-des-arts-martiaux-et-sports-de-combat": {
             "title": "Le grand livre des arts martiaux et des sports de combat...",
             "snippet": "Le grand livre des arts martiaux et des sports de combat Le grand livre des arts martiaux et des sports de combat by Bruno Hoffer====Download:====download Le grand livre des []...",
             "date": "2014-04-09",
             "author_name": "innelidextbugportcakisca",
             "categories": "arts,sport",
-            "tags": "grand,sports,combat",
+            "tags": "martiaux,grand,arts,sports,combat",
             "recuweb_url": "http://fr.recuweb.com/sport/innelidextbugportcakisca.wordpress.com/2014/04/le-grand-livre-des-arts-martiaux-et-sports-de-combat",
             "resource_url": "http://fr.search.wordpress.com/?q=sport%2Bde%2Bcombat%2Bsport%2Bde%2Bcombat&f=feed&page=1",
             "source_url": "http://innelidextbugportcakisca.wordpress.com/2014/04/09/le-grand-livre-des-arts-martiaux-et-des-sports-de-combat/"
+        },
+        "topito.com/2014/03/top-10-des-sports-de-combat-les-plus-violents": {
+            "title": "Top 10 des sports de combat les plus violents, ceux dont les r\u00e8gles...",
+            "snippet": "Du sang, de la sueur et un bon paquet de testost\u00e9rone. \u00c2mes sensibles s'abstenir, les sports suivants feraient presque passer la boxe pour un jeu d'enfant en.",
+            "date": "2014-03-25",
+            "author_name": "Guilhem",
+            "categories": "sport",
+            "tags": "boxe,jeu,sports,combat",
+            "recuweb_url": "http://fr.recuweb.com/sport/topito.com/2014/03/top-10-des-sports-de-combat-les-plus-violents",
+            "resource_url": "http://www.google.com/search?q=sport%2Bde%2Bcombat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://topito.com/top-sports-combats-violents"
         }
     }
 }
