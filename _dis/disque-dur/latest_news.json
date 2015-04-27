@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "disque-dur",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/disque-dur/",
@@ -10,76 +11,68 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/blogs.json"
     },
     "items": {
-        "commentcamarche.net/2015/04/convertir-un-disque-dur-raw-fat32-en-ntfs": {
-            "title": "Convertir un disque dur RAW (FAT32) en NTFS...",
-            "snippet": "je souhaite convertir mon disque dur externe de 2 To en NTFS. Mais lorsque, dans la console de Windows 7, j'essaye la commande CONVERT (ou CHKDSK), j'ai un message d'erreur comme quoi Le type du syst\u00e8me de fichiers est RAW. CONVERT n'est pas...",
-            "date": "2015-04-01",
-            "tags": "type,fichiers,externe,disque,dur,windows",
-            "recuweb_url": "http://fr.recuweb.com/commentcamarche.net/2015/04/convertir-un-disque-dur-raw-fat32-en-ntfs",
+        "itrnews.com/2015/04/dell-vostro-s%C3%A9rie-3000-des-pc-portables-pour-les-entreprises": {
+            "title": "Dell Vostro S\u00e9rie 3000: des PC portables pour les entreprises au budget serr\u00e9...",
+            "snippet": "Plus fin que le mod\u00e8le de la g\u00e9n\u00e9ration pr\u00e9c\u00e9dente, le nouveau Vostro S\u00e9rie 3000 reste un PC portable d\u00e9di\u00e9 aux entreprises et s'appuient donc sur plusieurs \u00e9l\u00e9ments incontournable: Vostro 3549 (Intel Celeron 3205U, 4Go, disque dur 500...",
+            "date": "2015-04-23",
+            "tags": "intel,intel_celeron,celeron,plusieurs,nouveau,portable,disque,dur",
+            "recuweb_url": "http://fr.recuweb.com/itrnews.com/2015/04/dell-vostro-s%C3%A9rie-3000-des-pc-portables-pour-les-entreprises",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31779216-convertir-un-disque-dur-raw-fat32-en-ntfs"
+            "source_url": "http://itrnews.com/articles/155516/dell-vostro-serie-3000-pc-portables-entreprises-budget-serre.html"
         },
-        "commentcamarche.net/2015/04/disque-dur-non-reconnu": {
-            "title": "Disque dur non reconnu...",
-            "snippet": "j ai un disque externe Maxtor Diamond 22 r\u00e9f: STM 3500320AS que mon pc ne d\u00e9tecte plus malgr\u00e9 que celui-ci tourne. J'ai vu qu'il existe une possibilit\u00e9 de r\u00e9cup\u00e9ration des fichiers ou de red\u00e9marrage de ce disque.",
-            "date": "2015-04-01",
-            "tags": "fichiers,disque,dur,externe",
-            "recuweb_url": "http://fr.recuweb.com/commentcamarche.net/2015/04/disque-dur-non-reconnu",
+        "commentcamarche.net/2015/04/disque-dur-ne-fonctionne": {
+            "title": "Disque dur ne fonctionne pas...",
+            "snippet": "le dur interne disque dur ne fonctionne plus et je peut pas r\u00e9cup\u00e9rer mes dossier,mes donn\u00e9es merci de m'aider Est-ce qu'il s'agit du DD sur lequel est install\u00e9 le syst\u00e8me? Si oui, qu'est-ce qui se passe lorsque tu allumes l'ordinateur? Un...",
+            "date": "2015-04-23",
+            "categories": "ordinateur",
+            "tags": "donn\u00e9es,disque,dur,interne",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/disque-dur-ne-fonctionne",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31779813-disque-dur-non-reconnu"
+            "source_url": "http://commentcamarche.net/forum/affich-31873324-disque-dur-ne-fonctionne-pas"
         },
-        "cowcotland.com/2015/04/dock-station-usb-3-0-disque-dur-uasp-compatible": {
-            "title": "Dock station USB 3.0 disque dur UASP compatible...",
-            "snippet": "Un dock station USB 3.0 pour les disques dur de 2.5/3.5 pouces, connectique SATA, Compatible avec Windows 98/ME/2000/XP/Vista/7/8, Mac Aavec le code 6XE53WI3, vous pouvez le prendre seulemet par 28.5...",
-            "date": "2015-04-01",
-            "tags": "disques,disque,usb,dur,compatible,pouces,sata,windows",
-            "recuweb_url": "http://fr.recuweb.com/cowcotland.com/2015/04/dock-station-usb-3-0-disque-dur-uasp-compatible",
+        "nextinpact.com/2015/04/ministation-extreme-nfc-un-disque-dur-usb-3-0-avec-chiffrement": {
+            "title": "MiniStation Extreme NFC: un disque dur USB 3.0 avec chiffrement des donn\u00e9es...",
+            "snippet": "Chiffrer ses donn\u00e9es est un bon moyen de les prot\u00e9ger afin d'\u00e9viter qu'elles ne tombent entre de mauvaises mains. Buffalo propose une approche int\u00e9ressante avec sa MiniStation Extreme NFC puisque la cl\u00e9 de d\u00e9chiffrement n'est pas un mot de...",
+            "date": "2015-04-23",
+            "tags": "donn\u00e9es,afin,ministation,ministation_extreme,ministation_extreme_nfc,extreme,extreme_nfc,nfc,disque,dur,usb",
+            "recuweb_url": "http://fr.recuweb.com/nextinpact.com/2015/04/ministation-extreme-nfc-un-disque-dur-usb-3-0-avec-chiffrement",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://cowcotland.com/bons-plans-jibaka/1738/dock-station-usb-3-0-disque-dur-uasp-compatible-29-99.html"
+            "source_url": "http://nextinpact.com/news/93904-ministation-extreme-nfc-un-disque-dur-usb-3-0-avec-chiffrement-donnees.htm"
         },
-        "phonandroid.com/2015/03/lecture-disque-dur-externe-sur-tablette": {
-            "title": "Lecture disque dur externe sur tablette...",
-            "snippet": "J'avais lu quelque part qu'on pouvait lire un disque dur externe avec une tablette. J'ai le cable n\u00e9cessaire, la tablette lit super bien les cl\u00e9s usb mais pas les disques dur externe (qui sont trop puissants pour la tablette apparemment) Je parle...",
-            "date": "2015-03-28",
-            "tags": "disques,disque,externe,dur,usb",
-            "recuweb_url": "http://fr.recuweb.com/phonandroid.com/2015/03/lecture-disque-dur-externe-sur-tablette",
+        "commentcamarche.net/2015/04/disque-dur-non-reconnu-r%C3%A9cup-de-donn%C3%A9es": {
+            "title": "Disque Dur non reconnu (R\u00e9cup de donn\u00e9es)...",
+            "snippet": "Je poss\u00e8de un WD \u00c9l\u00e9ment SE Portable de 1To (P/N WDBABV0010BBK-00; S/N WX51AC078875) qui n'est plus reconnu par Windows. Je l'ai sorti correctement de son boitier afin de voir si le connecteur \u00e9tait HS mais visuellement rien n'indique qu'il est...",
+            "date": "2015-04-22",
+            "categories": "disque-dur",
+            "tags": "afin,voir,portable,donn\u00e9es,disque,disque_dur,dur,windows",
+            "recuweb_url": "http://fr.recuweb.com/disque-dur/commentcamarche.net/2015/04/disque-dur-non-reconnu-r%C3%A9cup-de-donn%C3%A9es",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://phonandroid.com/forum/lecture-disque-dur-externe-sur-tablette-t117969.html"
+            "source_url": "http://commentcamarche.net/forum/affich-31865491-disque-dur-non-reconnu-recup-de-donnees"
         },
-        "lelectronique.com/2015/03/disque-dur-ssd-sata-2-5-crucial-ct512m550ssd1-512-go": {
-            "title": "\"Disque dur SSD SATA 2.5\"\" Crucial CT512M550SSD1 512 Go\"...",
-            "snippet": "Le SSD M550 vous s\u00e9duira par une performance rapide, une dur\u00e9e de vie d'accu prolong\u00e9e et des capacit\u00e9s de stockage \u00e9lev\u00e9e avec des fonctionnalit\u00e9s avanc\u00e9es. Le SSD M550 a \u00e9t\u00e9 sp\u00e9cifiquement con\u00e7u pour les exigences de plus en plus...",
-            "date": "2015-03-27",
-            "tags": "avanc\u00e9es,ssd,sata,dur,stockage",
-            "recuweb_url": "http://fr.recuweb.com/lelectronique.com/2015/03/disque-dur-ssd-sata-2-5-crucial-ct512m550ssd1-512-go",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://lelectronique.com/shopping/produit-electronique/informatique_tablette_pc-5/composants_pc-25/disques_durs-148/disque_dur_ssd_sata_25-117008.html"
-        },
-        "courrierinternational.com/2015/03/technologie-l-adn-plus-fort-que-le-disque-dur-pour-stocker": {
-            "title": "TECHNOLOGIE L'ADN, plus fort que le disque dur pour stocker... - Courrier International...",
-            "snippet": "Courrier InternationalTECHNOLOGIE L'ADN, plus fort que le disque dur pour stocker...Courrier InternationalDe r\u00e9centes avanc\u00e9es de l'universit\u00e9 de Zurich laissent entrevoir un avenir radieux et une long\u00e9vit\u00e9 d'un million d'ann\u00e9es pour les...",
-            "date": "2015-03-12",
-            "categories": "technologie",
-            "tags": "avanc\u00e9es,disque,dur",
-            "recuweb_url": "http://fr.recuweb.com/technologie/courrierinternational.com/2015/03/technologie-l-adn-plus-fort-que-le-disque-dur-pour-stocker",
+        "fr.ubergizmo.com/2015/04/ministation-extreme-nfc-le-nouveau-disque-dur-portable-robuste-ubergizmo-fr": {
+            "title": "MiniStation Extreme NFC, le nouveau disque dur portable robuste... - Ubergizmo FR (Blog)...",
+            "snippet": "MiniStation Extreme NFC, le nouveau disque dur portable robuste...Ubergizmo FR (Blog)En ce qui concerne le stockage des donn\u00e9es, est-ce que vous consid\u00e9rez vos donn\u00e9es comme inestimables, au point que vous feriez tout ce qui est en votre pouvoir...",
+            "date": "2015-04-21",
+            "tags": "donn\u00e9es,nouveau,ministation,ministation_extreme,ministation_extreme_nfc,extreme,extreme_nfc,nfc,disque,dur,portable,stockage",
+            "recuweb_url": "http://fr.recuweb.com/fr.ubergizmo.com/2015/04/ministation-extreme-nfc-le-nouveau-disque-dur-portable-robuste-ubergizmo-fr",
             "resource_url": "http://news.google.fr/?hl=fr&q=disque%2Bdur&output=atom&nord=1",
-            "source_url": "http://courrierinternational.com/article/2015/03/12/l-adn-plus-fort-que-le-disque-dur-pour-stocker-des-donnees"
+            "source_url": "http://fr.ubergizmo.com/2015/04/ministation-extreme-nfc-le-nouveau-disque-dur-portable-robuste-de-buffalo/"
         },
-        "universfreebox.com/2015/03/pourquoi-free-n-a-pas-mis-de-disque-dur-dans-sa": {
-            "title": "Pourquoi Free n'a pas mis de disque dur dans sa Freebox mini 4K? - Univers Freebox (Communiqu\u00e9 de...",
-            "snippet": "Pourquoi Free n'a pas mis de disque dur dans sa Freebox mini 4K? - Univers Freebox (Communiqu\u00e9 de...",
-            "date": "2015-03-11",
-            "tags": "disque,dur",
-            "recuweb_url": "http://fr.recuweb.com/universfreebox.com/2015/03/pourquoi-free-n-a-pas-mis-de-disque-dur-dans-sa",
+        "p-nintendo.com/2015/04/wii-u-comment-d%C3%A9sactiver-la-mise-en-veille-du-disque-dur": {
+            "title": "Wii U: comment d\u00e9sactiver la mise en veille du disque dur externe? - Puissance Nintendo...",
+            "snippet": "Wii U: comment d\u00e9sactiver la mise en veille du disque dur externe?Puissance NintendoSi la mise en veille permet de faire des \u00e9conomies d'\u00e9nergie et de retarder un maximum l'usure du disque dur, certains joueurs ont aussi remarqu\u00e9 que la sortie...",
+            "date": "2015-04-20",
+            "tags": "sortie,disque,dur",
+            "recuweb_url": "http://fr.recuweb.com/p-nintendo.com/2015/04/wii-u-comment-d%C3%A9sactiver-la-mise-en-veille-du-disque-dur",
             "resource_url": "http://news.google.fr/?hl=fr&q=disque%2Bdur&output=atom&nord=1",
-            "source_url": "http://universfreebox.com/article/29420/Pourquoi-Free-n-a-pas-mis-de-disque-dur-dans-sa-Freebox-mini-4K"
+            "source_url": "http://p-nintendo.com/news/wii-u-comment-desactiver-la-mise-en-veille-du-disque-dur-externe-240553"
         },
         "fr.news.yahoo.com/2015/02/la-nouvelle-arme-de-nsa-s-appelle-fanny": {
             "title": "La nouvelle arme de la NSA s'appelle Fanny...",
             "snippet": "L'agence de s\u00e9curit\u00e9 am\u00e9ricaine aurait infect\u00e9 des milliers d'ordinateurs en passant par un ver dissimul\u00e9 dans les disques durs.",
             "date": "2015-02-17",
             "categories": "ordinateur",
-            "tags": "disques,disques-durs,durs",
+            "tags": "disques,durs",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/fr.news.yahoo.com/2015/02/la-nouvelle-arme-de-nsa-s-appelle-fanny",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=disque%2Bdur",
             "source_url": "http://fr.news.yahoo.com/nouvelle-arme-nsa-sappelle-fanny-093804084.html"
@@ -89,7 +82,7 @@
             "snippet": "Alors que plusieurs mois nous s\u00e9parent encore de la sortie de The Witcher III: Wild Hunt, voici que le titre de CD Projekt en d\u00e9voile un peu plus concernant la taille qu'il prendra sur notre disque dur PS4... Aurez-vous assez de place?\u00c0 voir...",
             "date": "2015-02-02",
             "categories": "place",
-            "tags": "disque,dur",
+            "tags": "plusieurs,sortie,disque,dur,voir",
             "recuweb_url": "http://fr.recuweb.com/place/fr.news.yahoo.com/2015/02/the-witcher-iii-la-taille-du-jeu-sur-votre-disque-dur",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=disque%2Bdur",
             "source_url": "http://fr.news.yahoo.com/the-witcher-iii-taille-jeu-disque-dur-ps4-081000977.html"
