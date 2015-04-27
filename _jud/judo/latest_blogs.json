@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "judo",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/judo/",
@@ -10,16 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/judo/judo/blogs.json"
     },
     "items": {
-        "davidplet.wordpress.com/2015/01/kagami-biraki-2015-c%C3%A9r%C3%A9monie-de-la-ligue-picardie-judo-groupe-club": {
-            "title": "KAGAMI BIRAKI 2015, c\u00e9r\u00e9monie de la ligue Picardie Judo (groupe judo club de Grandvilliers)...",
-            "snippet": "Photo reportage des judokas du judo club de Grandvilliers, le samedi 24 janvier 2015, lors de la c\u00e9r\u00e9monie des voeux de la ligue de Picardie judo...",
-            "date": "2015-01-26",
-            "author_name": "davidplet",
+        "infosen.net/2015/04/judo-championnat-d-afrique-le-drapeau-remis-aux-lions-infosen": {
+            "title": "Judo Championnat d'Afrique Le Drapeau Remis aux Lions infosen...",
+            "snippet": "Judo Championnat d'Afrique Le Drapeau Remis aux Lions. vid\u00e9os. 23 avril 2015. 0 7. Twitter Facebook Google Pinterest. Article Pr\u00e9c\u00e9dent. CESE - L'Institution Ouvre ses Portes Aux Citoyens. Article Suivant.",
+            "date": "2015-04-23",
+            "author_name": "ibooster",
+            "categories": "twitter,facebook,google,judo",
+            "tags": "afrique,judo",
+            "recuweb_url": "http://fr.recuweb.com/judo/infosen.net/2015/04/judo-championnat-d-afrique-le-drapeau-remis-aux-lions-infosen",
+            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://infosen.net/?p=314560"
+        },
+        "pressafrik.com/2015/04/judo-l%C3%A9a-buet-aux-couleurs-s%C3%A9n%C3%A9galaises-pressafrik": {
+            "title": "Judo: L\u00e9a Buet aux couleurs s\u00e9n\u00e9galaises - Pressafrik...",
+            "snippet": "La judokate fran\u00e7aise L\u00e9a Buet a obtenu sa nationalit\u00e9 s\u00e9n\u00e9galaise et pourrait prendre part aux prochains Championnats d'Afrique de Judo si elle obtient son passeport mardi au plus tard, a annonc...",
+            "date": "2015-04-18",
+            "author_name": "APS",
             "categories": "judo",
-            "tags": "ligue,samedi,judokas,judo,club,lors",
-            "recuweb_url": "http://fr.recuweb.com/judo/davidplet.wordpress.com/2015/01/kagami-biraki-2015-c%C3%A9r%C3%A9monie-de-la-ligue-picardie-judo-groupe-club",
-            "resource_url": "http://fr.search.wordpress.com/?q=judo&f=feed&page=1",
-            "source_url": "http://davidplet.wordpress.com/2015/01/26/kagami-biraki-2015-ceremonie-de-la-ligue-picardie-judo-groupe-judo-club-de-grandvilliers/"
+            "tags": "couleurs,judo,fran\u00e7aise,championnats,afrique",
+            "recuweb_url": "http://fr.recuweb.com/judo/pressafrik.com/2015/04/judo-l%C3%A9a-buet-aux-couleurs-s%C3%A9n%C3%A9galaises-pressafrik",
+            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://pressafrik.com/Judo-Lea-Buet-aux-couleurs-senegalaises_a135028.html"
+        },
+        "rmcsport.bfmtv.com/2015/04/judo-finalement-riner-zappe-zagreb-rmc-sport-bfmtv": {
+            "title": "Judo: finalement, Riner zappe Zagreb - RMC Sport - BFMTV...",
+            "snippet": "La F\u00e9d\u00e9ration fran\u00e7aise de judo officialisait hier la participation de Teddy Riner au tournoi de Croatie le 3 mai. Ce jeudi, changement de plan. En accord avec l'encadrement, le champion olympique de judo raye cette...",
+            "date": "2015-04-09",
+            "author_name": "inconnu",
+            "categories": "sport,judo",
+            "tags": "teddy,sport,judo,riner,f\u00e9d\u00e9ration,fran\u00e7aise",
+            "recuweb_url": "http://fr.recuweb.com/judo/rmcsport.bfmtv.com/2015/04/judo-finalement-riner-zappe-zagreb-rmc-sport-bfmtv",
+            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rmcsport.bfmtv.com/judo/judo-finalement-riner-zappe-zagreb-876115.html"
+        },
+        "huffingtonpost.fr/2015/03/le-judo-et-son-%C3%A9volution-g%C3%A9vrise-%C3%A9mane-huffington": {
+            "title": "Le judo et son \u00e9volution G\u00e9vrise \u00c9mane - Huffington Post...",
+            "snippet": "SPORT - La grande question qui se pose aujourd'hui au niveau des grandes instances c'est de savoir ce qu'on peut faire pour le judo sans comp\u00e9tition. Ne devrions-nous pas d\u00e9tecter les talents plus t\u00f4t?...",
+            "date": "2015-03-31",
+            "author_name": "G\u00e9vrise \u00c9mane",
+            "categories": "judo,sport",
+            "tags": "comp\u00e9tition,niveau,judo,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/huffingtonpost.fr/2015/03/le-judo-et-son-%C3%A9volution-g%C3%A9vrise-%C3%A9mane-huffington",
+            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://huffingtonpost.fr/gevrise-emane/regles-judo_b_6976816.html"
+        },
+        "africatopsports.com/2015/03/judo-8-m%C3%A9dailles-africaines-ce-week-end-africa-top-sports": {
+            "title": "Judo: 8 m\u00e9dailles africaines ce week-end - Africa Top Sports...",
+            "snippet": "La Gabonaise Myriam Sarah Mazouz a profit\u00e9 de l'Open Continental de Judo de Montevideo pour remporter l'argent chez les -78kg.",
+            "date": "2015-03-17",
+            "author_name": "Nicolas Kohlhuber",
+            "categories": "sport,judo",
+            "tags": "sports,judo",
+            "recuweb_url": "http://fr.recuweb.com/judo/africatopsports.com/2015/03/judo-8-m%C3%A9dailles-africaines-ce-week-end-africa-top-sports",
+            "resource_url": "http://www.google.com/search?q=judo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://africatopsports.com/2015/03/17/judo-8-medailles-africaines-ce-week-end/"
         },
         "dojoleonbressanalgrange.wordpress.com/2015/01/nouveau-comit%C3%A9-depuis-d%C3%A9cembre-2014": {
             "title": "Nouveau comit\u00e9 depuis d\u00e9cembre 2014...",
@@ -27,32 +72,10 @@
             "date": "2015-01-11",
             "author_name": "stephanemasson2015",
             "categories": "judo",
-            "tags": "judo,roger,jean,entra\u00eeneur",
+            "tags": "judo,pr\u00e9sident,entra\u00eeneur",
             "recuweb_url": "http://fr.recuweb.com/judo/dojoleonbressanalgrange.wordpress.com/2015/01/nouveau-comit%C3%A9-depuis-d%C3%A9cembre-2014",
             "resource_url": "http://fr.search.wordpress.com/?q=judo%2Bjudo&f=feed&page=1",
             "source_url": "http://dojoleonbressanalgrange.wordpress.com/2015/01/11/nouveau-comite-depuis-decembre-2014/"
-        },
-        "judoparis.com/2014/10/stage-de-rentr%C3%A9e-la-ligue-judo-paris": {
-            "title": "Stage de rentr\u00e9e de la Ligue de Judo de Paris:: Ligue de Judo de...",
-            "snippet": "Ce Samedi 10 Octobre se d\u00e9roulait le stage de rentr\u00e9e de la Ligue de Judo de Paris. Cette ann\u00e9e, c'est une trentaine de professeurs qui se sont retrouv\u00e9s au Gymnase de la Plaine pour partager un moment de judo et...",
-            "date": "2014-10-19",
-            "author_name": "President",
-            "categories": "judo",
-            "tags": "ligue,judo,samedi,octobre",
-            "recuweb_url": "http://fr.recuweb.com/judo/judoparis.com/2014/10/stage-de-rentr%C3%A9e-la-ligue-judo-paris",
-            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://judoparis.com/stage-de-rentree-de-la-ligue-de-judo-de-paris/"
-        },
-        "burundi-agnews.org/2014/10/burundi-judo-club-muzinga-remporte-19-m%C3%A9dailles-au-tournoi": {
-            "title": "Burundi/Judo: Club Muzinga remporte 19 m\u00e9dailles au tournoi de...",
-            "snippet": "A Ngozi, ce dimanche 5 octobre 2014, le club de judo Club Muzinga a remport\u00e9 un tournoi comptant pour le championnat en raflant 12 m\u00e9dailles du cot\u00e9 des hommes dont 4 en or, 3 d'argent et 5 de bronze; et 7 m\u00e9dailles...",
-            "date": "2014-10-07",
-            "author_name": "bdiagnews",
-            "categories": "judo",
-            "tags": "bronze,remport\u00e9,tournoi,dimanche,club,judo,octobre",
-            "recuweb_url": "http://fr.recuweb.com/judo/burundi-agnews.org/2014/10/burundi-judo-club-muzinga-remporte-19-m%C3%A9dailles-au-tournoi",
-            "resource_url": "http://www.google.com/search?q=judo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://burundi-agnews.org/sports-and-games/?p=14800"
         }
     }
 }
