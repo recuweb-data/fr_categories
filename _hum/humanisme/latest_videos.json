@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "humanisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/humanisme/",
@@ -28,7 +29,7 @@
             "date": "2014-08-26",
             "author_name": "Armand Colin",
             "categories": "humanisme",
-            "tags": "histoire,humanisme,homme",
+            "tags": "histoire,humanisme",
             "recuweb_url": "http://fr.recuweb.com/humanisme/youtube.com/2014/08/l-humanisme-comme-fil-d-ariane-de-2500-ans-histoire-culturelle",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=humanisme%2Bhumanisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ff64MG2Vhw0&feature=youtube_gdata",
@@ -40,11 +41,23 @@
             "date": "2014-05-26",
             "author_name": "S. Bruy\u00e8re",
             "categories": "science,humanisme",
-            "tags": "science,moderne,humanisme,histoire",
+            "tags": "moderne,humanisme,histoire",
             "recuweb_url": "http://fr.recuweb.com/humanisme/youtube.com/2014/05/vid%C3%A9o-5%C3%A8me-histoire-l-humanisme",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=humanisme%2Bhumanisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Abp5Z3_6tPo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Abp5Z3_6tPo/0.jpg"
+        },
+        "dailymotion.com/2014/04/pour-patrick-poivre-d-arvor-dominique-baudis-avait-des-valeurs-humanisme": {
+            "title": "Pour Patrick Poivre d'Arvor, Dominique Baudis avait des valeurs d'humanisme, de tol\u00e9rance - 10/04...",
+            "snippet": "Pour Patrick Poivre d'Arvor, Dominique Baudis avait des valeurs d'humanisme, de tol\u00e9rance - 10/04...",
+            "date": "2014-04-10",
+            "author_name": "BFMTV",
+            "categories": "humanisme",
+            "tags": "humanisme",
+            "recuweb_url": "http://fr.recuweb.com/humanisme/dailymotion.com/2014/04/pour-patrick-poivre-d-arvor-dominique-baudis-avait-des-valeurs-humanisme",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/humanisme+humanisme/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1nbnhx_pour-patrick-poivre-d-arvor-dominique-baudis-avait-des-valeurs-d-humanisme-de-tolerance-10-04_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1nbnhx_pour-patrick-poivre-d-arvor-dominique-baudis-avait-des-valeurs-d-humanisme-de-tolerance-10-04_news"
         },
         "youtube.com/2014/03/parenth%C3%A8se-culture-10-luc-ferry-la-r%C3%A9volution-de-l-humanisme-moderne": {
             "title": "Parenth\u00e8se Culture 10 - Luc Ferry - La r\u00e9volution de l'humanisme moderne II: Kant et les...",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=humanisme%2Bhumanisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=iOPrfC3sL9Q&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/iOPrfC3sL9Q/0.jpg"
-        },
-        "youtube.com/2013/07/paul-jorion-rencontres-science-et-humanisme-2013": {
-            "title": "PAUL JORION - RENCONTRES SCIENCE ET HUMANISME 2013...",
-            "snippet": "PAUL JORION - RENCONTRES SCIENCE ET HUMANISME 2013 Un homme pour demain: (le vrai) John Maynard Keynes. From: Laurence Honnorat Views: 5632 25 ratings Time: 02:11:09 More in Science & Technology...",
-            "date": "2013-07-26",
-            "author_name": "Laurence Honnorat",
-            "categories": "science,humanisme",
-            "tags": "homme,science,humanisme",
-            "recuweb_url": "http://fr.recuweb.com/humanisme/youtube.com/2013/07/paul-jorion-rencontres-science-et-humanisme-2013",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=humanisme%2Bhumanisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=DSy0uy1Jolc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/DSy0uy1Jolc/0.jpg"
         }
     }
 }
