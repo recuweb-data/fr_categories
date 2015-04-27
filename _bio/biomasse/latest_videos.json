@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "biomasse",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/biomasse/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/biomasse/biomasse/blogs.json"
     },
     "items": {
+        "youtube.com/2015/03/cr%C3%A9er-la-biomasse-du-futur": {
+            "title": "Cr\u00e9er la biomasse du futur...",
+            "snippet": "Cr\u00e9er la biomasse du futur Dans le contexte du r\u00e9chauffement climatique et de la diminution des r\u00e9serves de combustibles fossiles, la biomasse lignocellulosique repr\u00e9sente une source renouvelable d'\u00e9nergie, de mat\u00e9riaux... From: MINESParisTech...",
+            "date": "2015-03-27",
+            "author_name": "MINESParisTech",
+            "categories": "biomasse",
+            "tags": "biomasse,source,renouvelable,combustibles,\u00e9nergie",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2015/03/cr%C3%A9er-la-biomasse-du-futur",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=PeLtqB1LZMM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/PeLtqB1LZMM/0.jpg"
+        },
         "youtube.com/2015/01/%C3%A9nergies-renouvelables-le-retour-de-la-biomasse": {
             "title": "\u00c9nergies renouvelables: le retour de la biomasse...",
-            "snippet": "\u00c9nergies renouvelables: le retour de la biomasse La biomasse qui \u00e9tait la principale source d'\u00e9nergie avant l'\u00e8re du p\u00e9trole, est encore la premi\u00e8re source d'\u00e9nergie renouvelable au monde. Les enjeux \u00e9nerg\u00e9... From: mfyferling Views: 159 1...",
+            "snippet": "\u00c9nergies renouvelables: le retour de la biomasse La biomasse qui \u00e9tait la principale source d'\u00e9nergie avant l'\u00e8re du p\u00e9trole, est encore la premi\u00e8re source d'\u00e9nergie renouvelable au monde. Les enjeux \u00e9nerg\u00e9tiques, alimentaires,... From:...",
             "date": "2015-01-11",
             "author_name": "mfyferling",
             "categories": "biomasse",
-            "tags": "premi\u00e8re,biomasse",
+            "tags": "\u00e9nerg\u00e9tiques,\u00e9nergies,renouvelables,source,biomasse",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2015/01/%C3%A9nergies-renouvelables-le-retour-de-la-biomasse",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=OVnsofoyuB4&feature=youtube_gdata",
@@ -26,37 +39,25 @@
             "title": "Chaufferie biomasse: un projet dam\u00e9nagement urbain durable pour la ville de Saint-Dizier...",
             "snippet": "Chaufferie biomasse: un projet dam\u00e9nagement urbain durable pour la ville de Saint-Dizier Soucieuse d'int\u00e9grer le d\u00e9veloppement durable \u00e0 sa politique, la Ville de Saint-Dizier (Haute-Marne) a d\u00e9cid\u00e9 de remplacer ses deux r\u00e9seaux de chaleur...",
             "date": "2014-12-09",
-            "author_name": "Cofely Services",
+            "author_name": "Cofely GDF SUEZ",
             "categories": "politique,biomasse",
-            "tags": "r\u00e9seaux,r\u00e9seaux-de-chaleur,chaleur,durable,projet,urbain,urbain-durable,chaufferie,biomasse,saint",
+            "tags": "r\u00e9seaux,r\u00e9seaux-de-chaleur,chaleur,urbain,ville,chaufferie,biomasse,haute",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/12/chaufferie-biomasse-un-projet-dam%C3%A9nagement-urbain-durable-pour-la-ville",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=h_uVutx9NYg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/h_uVutx9NYg/0.jpg"
         },
         "youtube.com/2014/11/sita-robin-valoriser-l%C3%A9nergie-de-ressources-biomasse-jusqualors-inexploit%C3%A9es": {
             "title": "SITA - ROBIN, valoriser l\u00e9nergie de ressources biomasse jusqualors inexploit\u00e9es...",
-            "snippet": "SITA - ROBIN, valoriser l\u00e9nergie de ressources biomasse jusqualors inexploit\u00e9es L'usine Robin est une 1ere en France. SITA y produit \u00e0 partir de d\u00e9chets bois non-recyclables de l'\u00e9nergie verte et locale pour alimenter les 15 industriels...",
+            "snippet": "SITA - ROBIN, valoriser l\u00e9nergie de ressources biomasse jusqualors inexploit\u00e9es L'usine Robin est une 1ere en France. SITA y produit \u00e0 partir de d\u00e9chets bois non-recyclables de l'\u00e9nergie verte et locale pour alimenter les 15 industriels de la...",
             "date": "2014-11-06",
             "author_name": "SITA FRANCE",
             "categories": "biomasse",
-            "tags": "\u00e9nergie,alimenter,partir,d\u00e9chets,bois,non,l\u00e9nergie,biomasse,france",
+            "tags": "industriels,\u00e9nergie,\u00e9nergie-verte,verte,verte-et-locale,locale,alimenter,bois,l\u00e9nergie,biomasse",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/11/sita-robin-valoriser-l%C3%A9nergie-de-ressources-biomasse-jusqualors-inexploit%C3%A9es",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0mIvJ9EaRpg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/0mIvJ9EaRpg/0.jpg"
-        },
-        "youtube.com/2014/10/chaufferie-biomasse-saint-quentin": {
-            "title": "Chaufferie biomasse Saint-Quentin...",
-            "snippet": "Chaufferie biomasse Saint-Quentin Chaufferie biomasse de Saint-Quentin: un projet d'am\u00e9nagement urbain durable._A propos de Cofely Services Soci\u00e9t\u00e9 de services en efficacit\u00e9 \u00e9nerg\u00e9tique et... From: Cofely Services Views: 531 1 ratings Time:...",
-            "date": "2014-10-01",
-            "author_name": "Cofely Services",
-            "categories": "biomasse",
-            "tags": "cofely,urbain,urbain-durable,durable,projet,biomasse,chaufferie,saint",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/10/chaufferie-biomasse-saint-quentin",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=M83WTqNjQOk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/M83WTqNjQOk/0.jpg"
         },
         "dailymotion.com/2014/04/inauguration-de-la-chaufferie-biomasse-lens": {
             "title": "Inauguration de la chaufferie biomasse de Lens...",
@@ -64,71 +65,71 @@
             "date": "2014-04-17",
             "author_name": "lavoixdunord",
             "categories": "biomasse",
-            "tags": "r\u00e9seau,r\u00e9seau-de-chaleur,chaleur,l\u00e9nergie,bois,chaufferie,chaufferie-biomasse,biomasse",
+            "tags": "r\u00e9seau-de-chaleur,chaleur,l\u00e9nergie,bois,chaufferie,chaufferie-biomasse,biomasse",
             "recuweb_url": "http://fr.recuweb.com/biomasse/dailymotion.com/2014/04/inauguration-de-la-chaufferie-biomasse-lens",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/biomasse+biomasse/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/biomasse/0?af=1",
             "source_url": "http://dailymotion.com/video/x1p1hqh_inauguration-de-la-chaufferie-biomasse-de-lens_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1p1hqh_inauguration-de-la-chaufferie-biomasse-de-lens_news"
         },
         "youtube.com/2014/02/biomasse-et-r%C3%A9seaux-de-chaleur": {
             "title": "Biomasse et r\u00e9seaux de chaleur...",
-            "snippet": "Biomasse et r\u00e9seaux de chaleur Pour alimenter le r\u00e9seau de chaleur urbain, la chaufferie peut utiliser de la biomasse. Cette \u00e9nergie neutre en carbone est 100% renouvelable et surtout tr\u00e8s... From: Cofely R\u00e9seaux, diffuseur de chaleur...",
+            "snippet": "Biomasse et r\u00e9seaux de chaleur Pour alimenter le r\u00e9seau de chaleur urbain, la chaufferie peut utiliser de la biomasse. Cette \u00e9nergie neutre en carbone est 100% renouvelable et surtout tr\u00e8s \u00e9conomique. La biomasse utilis\u00e9e... From: Cofely...",
             "date": "2014-02-26",
             "author_name": "Cofely R\u00e9seaux, diffuseur de chaleur renouvelable",
             "categories": "biomasse",
-            "tags": "chaleur,cofely,r\u00e9seaux,r\u00e9seau,\u00e9nergie,chaufferie,biomasse,alimenter,r\u00e9seau-de-chaleur,urbain,r\u00e9seaux-de-chaleur",
+            "tags": "biomasse,renouvelable,\u00e9nergie,chaufferie,alimenter,r\u00e9seaux,r\u00e9seau-de-chaleur,chaleur,urbain,r\u00e9seaux-de-chaleur,cofely",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/02/biomasse-et-r%C3%A9seaux-de-chaleur",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=dKpm1T_CN2g&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/dKpm1T_CN2g/0.jpg"
         },
-        "youtube.com/2014/01/biomasse-pour-l-%C3%A9nergie-et-la-chimie-interview-de-pierre-porot": {
-            "title": "Biomasse pour l'\u00e9nergie et la chimie - Interview de Pierre Porot (IFP Energies nouvelles)...",
-            "snippet": "Biomasse pour l'\u00e9nergie et la chimie - Interview de Pierre Porot (IFP Energies nouvelles) Interview de Pierre Porot, Responsable programme Biocarburants (IFPEN) La biomasse non alimentaire de type lignocellulosique (bois, paille, d\u00e9chets...",
-            "date": "2014-01-31",
-            "author_name": "IFP Energies nouvelles",
-            "categories": "biomasse,chimie",
-            "tags": "biomasse,non,\u00e9nergie,bois,d\u00e9chets",
-            "recuweb_url": "http://fr.recuweb.com/chimie/youtube.com/2014/01/biomasse-pour-l-%C3%A9nergie-et-la-chimie-interview-de-pierre-porot",
+        "youtube.com/2014/02/installation-d-une-chaufferie-biomasse-pour-valab-par-cofely-services": {
+            "title": "Installation d'une chaufferie biomasse pour VALAB par Cofely Services...",
+            "snippet": "Installation d'une chaufferie biomasse pour VALAB par Cofely Services La soci\u00e9t\u00e9 VALAB a opt\u00e9 pour l'\u00e9nergie biomasse, une \u00e9nergie verte et locale, pour mieux ma\u00eetriser ses d\u00e9penses \u00e9nerg\u00e9tiques. La conception, le chantier et l'exploita...",
+            "date": "2014-02-19",
+            "author_name": "Cofely GDF SUEZ",
+            "categories": "biomasse",
+            "tags": "\u00e9nerg\u00e9tiques,\u00e9nergie,\u00e9nergie-verte,verte,verte-et-locale,locale,biomasse,cofely,services,chaufferie,chaufferie-biomasse",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/02/installation-d-une-chaufferie-biomasse-pour-valab-par-cofely-services",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=yzAd54yD0eI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/yzAd54yD0eI/0.jpg"
+            "source_url": "http://youtube.com/watch?v=ibtPEPaRoiY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ibtPEPaRoiY/0.jpg"
         },
-        "dailymotion.com/2013/10/la-sill-inaugure-sa-chaufferie-biomasse-plouvien": {
-            "title": "La Sill inaugure sa chaufferie biomasse (Plouvien)...",
-            "snippet": "Sites webs/blogs, copiez cette vid\u00e9o avec le bouton code embed! Si vous voulez t\u00e9l\u00e9charger, allez sur. Zoom sur la nouvelle chaufferie de la laiterie Sill de Plouvien qui a la particulier d\u00eatre une chaufferie biomasse.. Pour exploitation TV,...",
-            "date": "2013-10-07",
-            "author_name": "TeBeO",
+        "youtube.com/2014/02/la-biomasse-source-d-%C3%A9nergie": {
+            "title": "La biomasse, source d'\u00e9nergie...",
+            "snippet": "La biomasse, source d'\u00e9nergie La biomasse est bien pr\u00e9sente dans la palette des sources envisag\u00e9es par les Services industriels de la Ville de Lausanne pour augmenter la production des \u00e9nergies renouvelables. From: CommuneLausanne Views: 1884 5...",
+            "date": "2014-02-04",
+            "author_name": "CommuneLausanne",
             "categories": "biomasse",
-            "tags": "d\u00eatre,chaufferie,chaufferie-biomasse,biomasse,nouvelle",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/dailymotion.com/2013/10/la-sill-inaugure-sa-chaufferie-biomasse-plouvien",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/biomasse/0?af=1",
-            "source_url": "http://dailymotion.com/video/x15nnl7_la-sill-inaugure-sa-chaufferie-biomasse-plouvien_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x15nnl7_la-sill-inaugure-sa-chaufferie-biomasse-plouvien_news"
+            "tags": "\u00e9nergies,\u00e9nergie,renouvelables,industriels,biomasse,source,services,ville",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/02/la-biomasse-source-d-%C3%A9nergie",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=LitPimE-64Q&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LitPimE-64Q/0.jpg"
         },
-        "youtube.com/2013/04/la-biomasse-c-est-pas-sorcier": {
-            "title": "La biomasse - C'est pas sorcier...",
-            "snippet": "La biomasse - C'est pas sorcier Avec Tom, Marabou, Ju'et Cl\u00e9ment;) b\u00eatisier dans l'adresse ci desous: From: Cl\u00e9ment Lebrun Views: 2529 18 ratings Time: 04:49 More in People & Blogs...",
-            "date": "2013-04-18",
-            "author_name": "Cl\u00e9ment Lebrun",
-            "categories": "biomasse",
+        "youtube.com/2013/10/biomasse-financement-innovant-pour-une-nouvelle-centrale": {
+            "title": "Biomasse: financement innovant pour une nouvelle centrale...",
+            "snippet": "Biomasse: financement innovant pour une nouvelle centrale La construction de cette centrale de cog\u00e9n\u00e9ration biomasse fera date en Picardie. Mise au point par Akuo Energy et financ\u00e9e par un pool bancaire conduit par la Caisse d'Epargne Picardie...",
+            "date": "2013-10-04",
+            "author_name": "decideursregion",
+            "categories": "construction,biomasse",
             "tags": "biomasse",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2013/04/la-biomasse-c-est-pas-sorcier",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2013/10/biomasse-financement-innovant-pour-une-nouvelle-centrale",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=v5AB7DO4kgI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/v5AB7DO4kgI/0.jpg"
+            "source_url": "http://youtube.com/watch?v=SMMlPnuOqlY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/SMMlPnuOqlY/0.jpg"
         },
-        "dailymotion.com/2012/11/fort-rendement-de-la-nouvelle-centrale-biomasse-metz": {
-            "title": "Fort rendement de la nouvelle centrale biomasse de Metz...",
-            "snippet": "A Metz, une centrale biomasse vient d\u00eatre mise en route. Ce nest pas une premi\u00e8re en France mais la particularit\u00e9 de celle-ci est son rendement. A partir de bois et de produits m\u00e9nagers recycl\u00e9s, elle va fournir de l\u00e9lectricit\u00e9 plus du...",
-            "date": "2012-11-29",
-            "author_name": "BFMTV",
+        "youtube.com/2013/09/operation-et-fabrication-d-une-chaudi%C3%A8re-biomasse-passat-oonyx-renowood": {
+            "title": "Operation et fabrication d'une chaudi\u00e8re biomasse Passat - Oonyx - Renowood...",
+            "snippet": "Operation et fabrication d'une chaudi\u00e8re biomasse Passat - Oonyx - Renowood La chaudi\u00e8re Passat est de tr\u00e8s haute qualit\u00e9 (5 \u00e9toiles aux normes europ\u00e9ennes) et parfaite pour l'utilisation de combustibles comme les granul\u00e9s de bois, sarments...",
+            "date": "2013-09-09",
+            "author_name": "oonyxfr",
             "categories": "biomasse",
-            "tags": "partir,bois,premi\u00e8re,biomasse,d\u00eatre,nouvelle,france",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/dailymotion.com/2012/11/fort-rendement-de-la-nouvelle-centrale-biomasse-metz",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/biomasse+biomasse/0?af=1",
-            "source_url": "http://dailymotion.com/video/xvgx8t_fort-rendement-de-la-nouvelle-centrale-biomasse-de-metz_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xvgx8t_fort-rendement-de-la-nouvelle-centrale-biomasse-de-metz_news"
+            "tags": "combustibles,bois,haute,biomasse",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2013/09/operation-et-fabrication-d-une-chaudi%C3%A8re-biomasse-passat-oonyx-renowood",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=kNTRtE4w9xk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/kNTRtE4w9xk/0.jpg"
         }
     }
 }
