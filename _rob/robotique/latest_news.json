@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "robotique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/robotique/",
@@ -10,6 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/robotique/robotique/blogs.json"
     },
     "items": {
+        "electroniques.biz/2015/04/accord-entre-google-et-johnson-&-en-robotique-chirurgicale-electroniques-inscription": {
+            "title": "Accord entre Google et Johnson & Johnson en robotique chirurgicale - ElectroniqueS (Inscription)...",
+            "snippet": "Accord entre Google et Johnson & Johnson en robotique chirurgicaleElectroniqueS (Inscription)Les robots chirurgicaux sont constitu\u00e9s de dispositifs d'imagerie fine permettant une excellente visualisation des op\u00e9rations, et de bras robotis\u00e9s...",
+            "date": "2015-04-26",
+            "categories": "google,robotique,electronique",
+            "tags": "bras,robots,robotique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/electroniques.biz/2015/04/accord-entre-google-et-johnson-&-en-robotique-chirurgicale-electroniques-inscription",
+            "resource_url": "http://news.google.fr/?hl=fr&q=robotique&output=atom&nord=1",
+            "source_url": "http://electroniques.biz/component/k2/item/53976-accord-entre-google-et-johnson-johnson-en-robotique-chirurgicale"
+        },
+        "lanouvellerepublique.fr/2015/04/challenge-robotique-au-lyc%C3%A9e-rabelais-la-nouvelle-r%C3%A9publique": {
+            "title": "Challenge robotique au lyc\u00e9e Rabelais - la Nouvelle R\u00e9publique...",
+            "snippet": "la Nouvelle R\u00e9publiqueChallenge robotique au lyc\u00e9e Rabelaisla Nouvelle R\u00e9publiqueC'est par une victoire sans contestation que le groupe de sciences de l'ing\u00e9nieur issue des classes de seconde 3 et 2 a remport\u00e9 le cinqui\u00e8me challenge robotique...",
+            "date": "2015-04-26",
+            "categories": "robotique,science",
+            "tags": "nouvelle,robotique,sciences",
+            "recuweb_url": "http://fr.recuweb.com/science/lanouvellerepublique.fr/2015/04/challenge-robotique-au-lyc%C3%A9e-rabelais-la-nouvelle-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=robotique&output=atom&nord=1",
+            "source_url": "http://lanouvellerepublique.fr/Indre-et-Loire/Actualite/Education/n/Contenus/Articles/2015/04/26/Challenge-robotique-au-lycee-Rabelais-2308907"
+        },
         "europarl.europa.eu/2015/04/mady-delvaux-je-suis-persuad%C3%A9e-que-la-robotique-sera-une-parlement": {
             "title": "Mady Delvaux: je suis persuad\u00e9e que la robotique sera une... - Parlement Europ\u00e9en (Communiqu\u00e9 de...",
             "snippet": "Parlement Europ\u00e9en (Communiqu\u00e9 de presse)Mady Delvaux: je suis persuad\u00e9e que la robotique sera une...Parlement Europ\u00e9en (Communiqu\u00e9 de presse)Photo de Mady Delvaux dans son bureau lors de l'interview Mady Delvaux, d\u00e9put\u00e9e...",
@@ -18,27 +39,17 @@
             "tags": "robotique",
             "recuweb_url": "http://fr.recuweb.com/robotique/europarl.europa.eu/2015/04/mady-delvaux-je-suis-persuad%C3%A9e-que-la-robotique-sera-une-parlement",
             "resource_url": "http://news.google.fr/?hl=fr&q=robotique&output=atom&nord=1",
-            "source_url": "http://europarl.europa.eu/news/fr/news-room/content/20150422STO43701/html/Mady-Delvaux-\u00ab-je-suis-persuad\u00e9e-que-la-robotique-sera-une-r\u00e9volution-\u00bb"
+            "source_url": "http://europarl.europa.eu/news/fr/news-room/content/20150422STO43701"
         },
         "capcampus.com/2015/04/coupe-de-france-robotique": {
             "title": "Coupe de France de Robotique...",
             "snippet": "La soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans l'ing\u00e9nierie des syst\u00e8mes \u00e9lectroniques annonce la signature d'une convention de partenariat avec Plan\u00e8te Sciences, l'association organisatrice de la Coupe de France de Robotique. La prochaine \u00e9dition de cette...",
             "date": "2015-04-20",
             "categories": "science,ingenierie,electronique,robotique",
-            "tags": "prochaine,prochaine-\u00e9dition,\u00e9dition,association,association-organisatrice,organisatrice,plan\u00e8te,plan\u00e8te_sciences,sciences,convention,convention-de-partenariat,partenariat,ing\u00e9nierie,ing\u00e9nierie-des-syst\u00e8mes,syst\u00e8mes,syst\u00e8mes-\u00e9lectroniques,syst\u00e8mes-\u00e9lectroniques-annonce,\u00e9lectroniques,\u00e9lectroniques-annonce,annonce,annonce-la-signature,signature,soci\u00e9t\u00e9,soci\u00e9t\u00e9-sp\u00e9cialis\u00e9e,sp\u00e9cialis\u00e9e,coupe,france,robotique",
+            "tags": "plan\u00e8te,plan\u00e8te_sciences,sciences,syst\u00e8mes,coupe,france,robotique",
             "recuweb_url": "http://fr.recuweb.com/robotique/capcampus.com/2015/04/coupe-de-france-robotique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=robotique&format=RSS&cc=fr",
             "source_url": "http://capcampus.com/concours-etudiant-1488/coupe-de-france-de-robotique-a35034.htm"
-        },
-        "infodsi.com/2015/04/elsys-design-sera-partenaire-de-la-coupe-france-robotique": {
-            "title": "Elsys Design sera partenaire de la Coupe de France de Robotique...",
-            "snippet": "La soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans l'ing\u00e9nierie des syst\u00e8mes \u00e9lectroniques annonce la signature d'une convention de partenariat avec Plan\u00e8te Sciences, l'association organisatrice de la Coupe de France de Robotique. La prochaine \u00e9dition de cette...",
-            "date": "2015-04-20",
-            "categories": "science,ingenierie,electronique,robotique",
-            "tags": "prochaine,prochaine-\u00e9dition,\u00e9dition,association,association-organisatrice,organisatrice,plan\u00e8te,plan\u00e8te_sciences,sciences,convention,convention-de-partenariat,partenariat,ing\u00e9nierie,ing\u00e9nierie-des-syst\u00e8mes,syst\u00e8mes,syst\u00e8mes-\u00e9lectroniques,syst\u00e8mes-\u00e9lectroniques-annonce,\u00e9lectroniques,\u00e9lectroniques-annonce,annonce,annonce-la-signature,signature,soci\u00e9t\u00e9,soci\u00e9t\u00e9-sp\u00e9cialis\u00e9e,sp\u00e9cialis\u00e9e,coupe,france,robotique",
-            "recuweb_url": "http://fr.recuweb.com/robotique/infodsi.com/2015/04/elsys-design-sera-partenaire-de-la-coupe-france-robotique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=robotique&format=RSS&cc=fr",
-            "source_url": "http://infodsi.com/articles/155417/elsys-design-sera-partenaire-coupe-france-robotique.html"
         },
         "fr.news.yahoo.com/2015/03/coboteam-hub-de-la-robotique-en-rh%C3%B4ne-alpes": {
             "title": "Coboteam hub de la robotique en Rh\u00f4ne-Alpes...",
