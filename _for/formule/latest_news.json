@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "formule",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/formule/",
@@ -10,82 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/formule/formule/blogs.json"
     },
     "items": {
+        "auto123.com/2015/04/f1-le-co%C3%BBt-des-moteurs-grand-dilemme-de-la-formule-1": {
+            "title": "F1: Le co\u00fbt des moteurs, grand dilemme de la Formule 1...",
+            "snippet": "La Formule 1 tente de trouver la solution (plus ou moins) parfaite concernant les co\u00fbts astronomiques des groupes propulseurs. Entre l'abordable et le spectacle, il faut trouver le bon \u00e9quilibre. Et La F1 elle-m\u00eame ne facilite pas la tche...",
+            "date": "2015-04-23",
+            "categories": "formule",
+            "tags": "groupes,grand,formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/auto123.com/2015/04/f1-le-co%C3%BBt-des-moteurs-grand-dilemme-de-la-formule-1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
+            "source_url": "http://auto123.com/fr/course-automobile/f1-le-cout-des-moteurs-grand-dilemme-de-la-formule-1?artid=176431"
+        },
+        "lemagsportauto.com/2015/04/formule-1-jean-alesi-retour-sur-sa-carri%C3%A8re-f1-le-mag": {
+            "title": "Formule 1: Jean Alesi, retour sur sa carri\u00e8re F1 - Le Mag Sport Auto...",
+            "snippet": "Le Mag Sport AutoFormule 1: Jean Alesi, retour sur sa carri\u00e8re F1Le Mag Sport AutoPour ce nouveau num\u00e9ro de notre rubrique Flash R\u00e9tro, nous avons choisi de revenir sur le meilleur pilote Fran\u00e7ais de ces derni\u00e8res ann\u00e9es, engag\u00e9 en Formule 1...",
+            "date": "2015-04-23",
+            "categories": "sport,formule",
+            "tags": "derni\u00e8res,pilote,sport,jean,formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/lemagsportauto.com/2015/04/formule-1-jean-alesi-retour-sur-sa-carri%C3%A8re-f1-le-mag",
+            "resource_url": "http://news.google.fr/?hl=fr&q=formule%2Bformule&output=atom&nord=1",
+            "source_url": "http://lemagsportauto.com/formule-1-jean-alesi-retour-sur-sa-carriere/9193/"
+        },
+        "ladepeche.fr/2015/04/lo%C3%AFc-derrey-est-un-as-de-la-formule-3": {
+            "title": "Lo\u00efc Derrey est un as de la Formule 3...",
+            "snippet": "La grande majorit\u00e9 des Fleurantins sait que leur cit\u00e9 est repr\u00e9sent\u00e9e dans pratiquement tous les sports, sauf peut-\u00eatre le sport automobile. Et pourtant la ville rec\u00e8le un jeune et r\u00e9el talent dans ce domaine; il s'agit de Lo\u00efc Derrey. Ce...",
+            "date": "2015-04-23",
+            "categories": "sport,formule",
+            "tags": "sports,sport-automobile,automobile,formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/ladepeche.fr/2015/04/lo%C3%AFc-derrey-est-un-as-de-la-formule-3",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/04/23/2092301-loic-derrey-est-un-as-de-la-formule-3-3.html"
+        },
         "sudouest.fr/2015/04/en-images-il-y-a-60-ans-le-dernier-grand-prix": {
-            "title": "En images: il y a 60 ans, le dernier Grand Prix de Formule 1 de Bordeaux...",
-            "snippet": "Le vent du grand large soufflera bient\u00f4t dans les voiles de lHermione. Apr\u00e8s avoir connu un engouement unique en France, la r\u00e9plique de la fr\u00e9gate s\u00e9lancera vers les Etats-Unis le 18 avril... En lan\u00e7ant un blog en forme de journal...",
+            "title": "En images: il y a 60 ans, le dernier Grand Prix de Formule 1 de... - Sud Ouest...",
+            "snippet": "Sud OuestEn images: il y a 60 ans, le dernier Grand Prix de Formule 1 de...Sud OuestLe 24 avril 1955 avait lieu le cinqui\u00e8me et dernier Grand Prix de Formule 1 de Bordeaux. Le tragique accident des 24 heures du Mans, le 11 juin 1955 signa l'arr\u00eat...",
             "date": "2015-04-22",
             "categories": "formule",
-            "tags": "grand,grand_prix,prix,formule,apr\u00e8s",
+            "tags": "accident,dernier,grand,grand_prix,prix,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/sudouest.fr/2015/04/en-images-il-y-a-60-ans-le-dernier-grand-prix",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
+            "resource_url": "http://news.google.fr/?hl=fr&q=formule&output=atom&nord=1",
             "source_url": "http://sudouest.fr/2015/04/24/en-images-il-y-a-60-ans-le-dernier-grand-prix-de-formule-1-de-bordeaux-1900424-5138.php"
         },
-        "commentcamarche.net/2015/04/formule-trop-longue-r%C3%A9solu": {
-            "title": "Formule trop longue R\u00e9solu...",
-            "snippet": "J'ai une liste de numeros de telephones en colonne A et j'aimerais cr\u00e9er une formule qui renvoie, selon les 4 premiers chiffres (les identifiants donc), le departement correspondant en colonne B. Probl\u00e8me la formule que j'ai cr\u00e9\u00e9 est trop...",
+        "le10sport.com/2015/04/formule-1-le-patron-de-mercedes-%C3%A9voque-la-hi%C3%A9rarchie-entre-rosberg": {
+            "title": "Formule 1: Le patron de Mercedes \u00e9voque la hi\u00e9rarchie entre Rosberg et Hamilton!",
+            "snippet": "Toto Wolff, le patron de Mercedes, a \u00e9voqu\u00e9 la hi\u00e9rarchie au sein de l\u00e9curie allemande alors que Lewis Hamilton caracole en t\u00eate du championnat. Alors que Lewis Hamilton na toujours pas prolong\u00e9 son contrat, des rumeurs fleurissent depuis...",
             "date": "2015-04-22",
             "categories": "formule",
-            "tags": "formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/commentcamarche.net/2015/04/formule-trop-longue-r%C3%A9solu",
+            "tags": "lewis,\u00e9voqu\u00e9,patron,formule,hamilton",
+            "recuweb_url": "http://fr.recuweb.com/formule/le10sport.com/2015/04/formule-1-le-patron-de-mercedes-%C3%A9voque-la-hi%C3%A9rarchie-entre-rosberg",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31868355-formule-trop-longue"
+            "source_url": "http://le10sport.com/formule1/formule-1-le-patron-de-mercedes-evoque-la-hierarchie-entre-rosberg-et-hamilton-186926"
         },
         "canal-supporters.com/2015/04/ldc-nouvelle-formule-du-tirage-au-sort-quelles-cons%C3%A9quences-canal-supporters": {
             "title": "LdC Nouvelle formule du tirage au sort: Quelles cons\u00e9quences? - Canal Supporters...",
             "snippet": "Canal SupportersLdC Nouvelle formule du tirage au sort: Quelles cons\u00e9quences?Canal SupportersA partir de la saison prochaine, le r\u00e8glement du tirage au sort de la phase de groupes de la Ligue des Champions sera chang\u00e9. Les 32 participants ne...",
             "date": "2015-04-22",
             "categories": "formule",
-            "tags": "saison,nouvelle,formule",
+            "tags": "groupes,saison,nouvelle,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/canal-supporters.com/2015/04/ldc-nouvelle-formule-du-tirage-au-sort-quelles-cons%C3%A9quences-canal-supporters",
-            "resource_url": "http://news.google.fr/?hl=fr&q=formule&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=formule%2Bformule&output=atom&nord=1",
             "source_url": "http://canal-supporters.com/2015/04/ldc-nouvelle-formule-du-tirage-au-sort-quelles-consequences/"
-        },
-        "fanaticf1.com/2015/04/formule-1-2015-les-secrets-de-total": {
-            "title": "Formule 1 2015: Les secrets de Total...",
-            "snippet": "Lorsque le motoriste Renault Sport F1 choisit une formule de carburant, Total la produit et la conditionne dans des f\u00fbts de 50 et 200 litres num\u00e9rot\u00e9s et scell\u00e9s Ce site Internet n'a aucun lien avec Formula One Group, la FIA, le Championnat du...",
-            "date": "2015-04-21",
-            "categories": "sport,formule,internet",
-            "tags": "formula,renault,sport,formule,fia",
-            "recuweb_url": "http://fr.recuweb.com/internet/fanaticf1.com/2015/04/formule-1-2015-les-secrets-de-total",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
-            "source_url": "http://fanaticf1.com/formule-1-2015-les-secrets-de-total/"
         },
         "meltyxtrem.fr/2015/04/formule-1-classements-g%C3%A9n%C3%A9raux-apr%C3%A8s-le-grand-prix-de-bahre%C3%AFn": {
             "title": "Formule 1: Classements g\u00e9n\u00e9raux apr\u00e8s le Grand Prix de Bahre\u00efn...",
             "snippet": "Publi\u00e9 il y a 2 minutes par Julien D. Publi\u00e9 le 20 avr. 2015 17:32:44 Le quatri\u00e8me Grand Prix de la saison 2015 de Formule 1 a vu la victoire de Lewis Hamilton sur le circuit de Bahre\u00efn ce week-end. L'occasion pour meltyXtrem de faire le point...",
             "date": "2015-04-20",
             "categories": "formule",
-            "tags": "circuit,lewis,lewis_hamilton,hamilton,saison,grand,grand_prix,prix,apr\u00e8s,formule",
+            "tags": "circuit,lewis,hamilton,saison,grand,grand_prix,prix,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/meltyxtrem.fr/2015/04/formule-1-classements-g%C3%A9n%C3%A9raux-apr%C3%A8s-le-grand-prix-de-bahre%C3%AFn",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
             "source_url": "http://meltyxtrem.fr/formule-1-classements-generaux-apres-le-grand-prix-de-bahrein-a402904.html"
-        },
-        "lavoixdunord.fr/2015/04/formule-1-gp-de-b%C3%A4hrein-lewis-hamilton-comme-dhabitude": {
-            "title": "Formule 1 - GP de B\u00e4hrein: Lewis Hamilton comme dhabitude...",
-            "snippet": "Pour la 4e fois en quatre s\u00e9ances de qualifications cette saison, le double champion du monde (2008, 2014) a r\u00e9ussi le meilleur temps, samedi soir sur le circuit de Sakhir, pr\u00e8s de Manama. Il a devanc\u00e9 Vettel de quatre dixi\u00e8mes de seconde.",
-            "date": "2015-04-17",
-            "categories": "formule",
-            "tags": "circuit,monde,saison,lewis,lewis_hamilton,hamilton,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/lavoixdunord.fr/2015/04/formule-1-gp-de-b%C3%A4hrein-lewis-hamilton-comme-dhabitude",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/sports/formule-1-gp-de-baehrein-lewis-hamilton-comme-d-habitude-ia225b227n2780174"
-        },
-        "motorsport.nextgen-auto.com/2015/04/sainz-et-verstappen-vont-d%C3%A9couvrir-la-formule-1-de-nuit": {
-            "title": "Sainz et Verstappen vont d\u00e9couvrir la Formule 1 de nuit -...",
-            "snippet": "et Verstappen vont d\u00e9couvrir la Formule 1 de jeune duo de Toro Rosso continue d'\u00e9pater le petit monde de la Formule 1 et ce 4\u00e8me Grand Prix de la saison, le 4\u00e8me de leur carri\u00e8re \u00e9galement, pr\u00e9sente un nouveau d\u00e9fi pour eux: une course de...",
-            "date": "2015-04-15",
-            "categories": "formule",
-            "tags": "course,\u00e9galement,saison,grand,grand_prix,prix,monde,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/motorsport.nextgen-auto.com/2015/04/sainz-et-verstappen-vont-d%C3%A9couvrir-la-formule-1-de-nuit",
-            "resource_url": "http://news.google.fr/?hl=fr&q=formule%2Bformule&output=atom&nord=1",
-            "source_url": "http://motorsport.nextgen-auto.com/Sainz-et-Verstappen-vont-decouvrir-la-Formule-1-de-nuit,89154.html"
         },
         "fr.news.yahoo.com/2015/03/michael-schumacher-son-fils-fait-une-sortie-de-route-en-formule": {
             "title": "Michael Schumacher: Son fils fait une sortie de route en Formule 4...",
             "snippet": "FAITS DIVERS - La sortie de route de Mick Schumacher au volant de sa Formule 4 a \u00e9t\u00e9 tr\u00e8s m\u00e9diatis\u00e9e en Allemagne...",
             "date": "2015-03-18",
             "categories": "formule",
-            "tags": "mick,schumacher,sortie,fils,michael,michael_schumacher,formule",
+            "tags": "mick,schumacher,fils,michael,michael_schumacher,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/fr.news.yahoo.com/2015/03/michael-schumacher-son-fils-fait-une-sortie-de-route-en-formule",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=formule",
             "source_url": "http://fr.news.yahoo.com/michael-schumacher-fils-fait-sortie-route-formule-4-173722268.html"
@@ -95,7 +96,7 @@
             "snippet": "Jean Todt \u00e9tait linvit\u00e9 de Thomas Sotto, ce mardi matin sur Europe 1. Le patron de la f\u00e9d\u00e9ration internationale automobile est notamment revenu sur les conditions de s\u00e9curit\u00e9 lors des courses de Formule 1. Jean Todt a \u00e9galement \u00e9voqu\u00e9 le...",
             "date": "2015-03-17",
             "categories": "formule",
-            "tags": "\u00e9galement,automobile,lors,jean,jules,jules_bianchi,bianchi,formule",
+            "tags": "\u00e9voqu\u00e9,patron,automobile,lors,pilote,jean,jules,jules_bianchi,bianchi,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/fr.news.yahoo.com/2015/03/jules-bianchi-jean-todt-refuse-de-d%C3%A9voiler-l%C3%A9tat-sant%C3%A9-du-pilote",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=formule",
             "source_url": "http://fr.news.yahoo.com/jules-bianchi-jean-todt-refuse-d\u00e9voiler-l-\u00e9tat-104147384.html"
@@ -105,7 +106,7 @@
             "snippet": "Brillant lors de sa derni\u00e8re saison de Karting, Mick Schumacher, fils de la l\u00e9gende Michael Schumacher, franchit une nouvelle \u00e9tape et s'engage en Formule 4. Un pas de plus dans ceux de son...",
             "date": "2015-03-17",
             "categories": "karting,formule",
-            "tags": "nouvelle,fils,lors,saison,michael,michael_schumacher,schumacher,mick,formule",
+            "tags": "nouvelle,fils,lors,saison,accident,michael,michael_schumacher,schumacher,mick,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/fr.news.yahoo.com/2015/03/michael-schumacher-violent-accident-pour-son-fils-mick-lors",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=formule",
             "source_url": "http://fr.news.yahoo.com/michael-schumacher-violent-accident-fils-mick-lors-d\u00e9buts-175500934.html"
