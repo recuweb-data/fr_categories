@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "collection",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/collection/",
@@ -10,42 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
     },
     "items": {
-        "lsa-conso.fr/2015/04/couverture-de-table-desigual-living-collection-jungle-lsa": {
-            "title": "Couverture de table Desigual Living Collection Jungle - LSA...",
-            "snippet": "LSACouverture de table Desigual Living Collection JungleLSA... se distingue par ses designs Bonne humeur. A l'occasion du lancement de la Collection Printemps-Et\u00e9 2015, la marque d\u00e9voile plusieurs nouveaut\u00e9s dans la cat\u00e9gorie \"d\u00e9cor et...",
-            "date": "2015-04-07",
+        "gizmodo.fr/2015/04/adidas-sort-une-collection-avengers-gizmodo": {
+            "title": "Adidas sort une collection Avengers! - Gizmodo...",
+            "snippet": "GizmodoAdidas sort une collection Avengers!GizmodoLes Avengers ont le vent en poupe ces derniers temps et il serait regrettable que seul Disney et Marvel n'en tirent des b\u00e9n\u00e9fices. Si cette \u00e9quipe \u00e9tait un super-h\u00e9ros, on imagine que son super...",
+            "date": "2015-04-24",
+            "categories": "collection",
+            "tags": "temps,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/gizmodo.fr/2015/04/adidas-sort-une-collection-avengers-gizmodo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection%2Bcollection&output=atom&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/23/adidas-avengers.html"
+        },
+        "soonnight.com/2015/04/french-collection-6-club": {
+            "title": "French collection 6 club...",
+            "snippet": "Soir\u00e9e clubbing French collection 6 club Paris Discoth\u00e8que Divan Du Monde (Le) samedi 02 mai: Le site nest en aucun cas \u00e9diteur du contenu diffus\u00e9 sur cette page Soir\u00e9e clubbing French collection 6 club Paris Discoth\u00e8que Divan Du...",
+            "date": "2015-04-24",
             "categories": "collection",
             "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/lsa-conso.fr/2015/04/couverture-de-table-desigual-living-collection-jungle-lsa",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
-            "source_url": "http://lsa-conso.fr/produits/couverture-de-table-desigual-living-collection-jungle,206128"
-        },
-        "booska-p.com/2015/04/nikelab-x-jfs-collection-%C3%A9t%C3%A9-2015": {
-            "title": "NIKELAB x JFS collection \u00e9t\u00e9 2015...",
-            "snippet": "NIKELAB continue ses m\u00e9langes combinant pointe de l'esth\u00e9tisme et de la technologie. Avec cette nouvelle collection NIKELAB x JFS, l'\u00e9quipementier sportif revient avec toute une panoplie de produits destin\u00e9s aux femmes. Le d\u00e9bardeur...",
-            "date": "2015-04-07",
-            "categories": "technologie,collection",
-            "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/booska-p.com/2015/04/nikelab-x-jfs-collection-%C3%A9t%C3%A9-2015",
+            "recuweb_url": "http://fr.recuweb.com/collection/soonnight.com/2015/04/french-collection-6-club",
             "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://booska-p.com/lifestyle/new-nikelab-x-jfs-collection-a-ta-2015-n45289.html"
+            "source_url": "http://soonnight.com/paris/divan-du-monde/samedi-02-mai-french-collection-6-club,1,889950.html"
         },
-        "meltyfashion.fr/2015/04/projet-fashion-la-finale-joffrey-montre-sa-collection-d%C3%A9cryptage-du-d%C3%A9fil%C3%A9": {
-            "title": "Projet Fashion la finale: Joffrey montre sa collection, d\u00e9cryptage fashion du d\u00e9fil\u00e9...",
-            "snippet": "Jofrey Mongin s'est impos\u00e9 comme le favori du concours Projet Fashion. Pour cette finale il pr\u00e9sente sa collection de 9 mod\u00e8les exclusifs lors d'un d\u00e9fil\u00e9 pendant la Fashion Week, voici notre d\u00e9cryptage Apr\u00e8s la p\u00e9rilleuse \u00e9preuve de la...",
-            "date": "2015-04-07",
+        "lanouvellerepublique.fr/2015/04/jardins-de-chaumont-collection-la-nouvelle-r%C3%A9publique": {
+            "title": "Jardins de Chaumont, jardins de collection - la Nouvelle R\u00e9publique...",
+            "snippet": "la Nouvelle R\u00e9publiqueJardins de Chaumont, jardins de collectionla Nouvelle R\u00e9publiqueL'\u00e9dition 2015 annonce des moments d'\u00e9motion pour les visiteurs nombreux en ce premier jour. - (Photo NR, J\u00e9r\u00f4me Dutac). Le Festival des jardins de...",
+            "date": "2015-04-24",
             "categories": "collection",
-            "tags": "montre,collection,voici",
-            "recuweb_url": "http://fr.recuweb.com/collection/meltyfashion.fr/2015/04/projet-fashion-la-finale-joffrey-montre-sa-collection-d%C3%A9cryptage-du-d%C3%A9fil%C3%A9",
+            "tags": "collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/lanouvellerepublique.fr/2015/04/jardins-de-chaumont-collection-la-nouvelle-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection%2Bcollection&output=atom&nord=1",
+            "source_url": "http://lanouvellerepublique.fr/France-Monde/Loisirs/Fetes-festivals/n/Contenus/Articles/2015/04/24/Jardins-de-Chaumont-jardins-de-collection-2306114"
+        },
+        "ledevoir.com/2015/04/la-collection-musicale-2015-de-socalled": {
+            "title": "La collection musicale 2015 de Socalled...",
+            "snippet": "On dit parfois quun album, cest une collection de chansons. Pour le rappeur anglo-montr\u00e9alais Socalled, lexpression peut pratiquement \u00eatre prise au pied de la lettre quand vient le temps de discuter de Peoplewatching, son nouvel album \u00e9clat\u00e9...",
+            "date": "2015-04-24",
+            "categories": "collection",
+            "tags": "temps,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/ledevoir.com/2015/04/la-collection-musicale-2015-de-socalled",
             "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://meltyfashion.fr/projet-fashion-la-finale-joffrey-montre-sa-collection-decryptage-fashion-du-defile-a398589.html"
+            "source_url": "http://ledevoir.com/culture/musique/438205/la-collection-musicale-2015-de-socalled"
+        },
+        "jeuvideo.afjv.com/2015/04/star-wars-force-collection": {
+            "title": "Star Wars: Force Collection...",
+            "snippet": "Le jeu Star Wars: Force Collection de Konami arrive en France et c\u00e9l\u00e8bre le Star Wars Day avec un mini-jeu Contra aux couleurs de Chewbacca Konami Digital Entertainment B.V. lance aujourdhui une version enti\u00e8rement localis\u00e9e de son c\u00e9l\u00e8bre...",
+            "date": "2015-04-24",
+            "categories": "collection",
+            "tags": "c\u00e9l\u00e8bre,force,force_collection,collection,star,star_wars,wars,jeu,france",
+            "recuweb_url": "http://fr.recuweb.com/collection/jeuvideo.afjv.com/2015/04/star-wars-force-collection",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
+            "source_url": "http://jeuvideo.afjv.com/news/11544_star-wars-force-collection.htm"
+        },
+        "gamergen.com/2015/04/star-wars-force-collection-d%C3%A9barque-sur-mobiles-en-france": {
+            "title": "Star Wars: Force Collection d\u00e9barque sur mobiles en France...",
+            "snippet": "Le jeu de cartes pour smartphones du c\u00e9l\u00e8bre space opera d\u00e9barque en France, avec quelques ajouts sympathiques. La franchise Star Wars vient de se voir dot\u00e9e d'un tout nouveau titre pour mobile en France, avec le c\u00e9l\u00e8bre Star Wars: Force...",
+            "date": "2015-04-24",
+            "categories": "collection",
+            "tags": "c\u00e9l\u00e8bre,jeu,force,force_collection,collection,star,star_wars,wars,france,cartes",
+            "recuweb_url": "http://fr.recuweb.com/collection/gamergen.com/2015/04/star-wars-force-collection-d%C3%A9barque-sur-mobiles-en-france",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
+            "source_url": "http://gamergen.com/actualites/star-wars-force-collection-debarque-mobiles-france-261830-1"
         },
         "fr.news.yahoo.com/2015/03/une-collection-de-pi%C3%A8ces-et-d-accessoires-top-gear-france": {
             "title": "Une collection de pi\u00e8ces et d'accessoires \"Top Gear France\" en vente sur eBay...",
             "snippet": "(Relaxnews) - Une \"Collection officielle Top Gear France\" disponible sur eBay va permettre d'acqu\u00e9rir des pi\u00e8ces d\u00e9tach\u00e9es et des accessoires inspir\u00e9s de ou rep\u00e9r\u00e9s dans l'adaptation fran\u00e7ais de la c\u00e9l\u00e8bre \u00e9mission t\u00e9l\u00e9vis\u00e9e...",
             "date": "2015-03-18",
             "categories": "collection",
-            "tags": "collection",
+            "tags": "c\u00e9l\u00e8bre,collection,france",
             "recuweb_url": "http://fr.recuweb.com/collection/fr.news.yahoo.com/2015/03/une-collection-de-pi%C3%A8ces-et-d-accessoires-top-gear-france",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=collection",
             "source_url": "http://fr.news.yahoo.com/collection-pi\u00e8ces-daccessoires-top-gear-france-vente-ebay-173006817.html"
