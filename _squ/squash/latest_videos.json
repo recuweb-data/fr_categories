@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "squash",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/squash/",
@@ -21,6 +22,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/squash/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ly3oy_les-repriseurs-au-ty-squash-avril-2015_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ly3oy_les-repriseurs-au-ty-squash-avril-2015_music"
+        },
+        "dailymotion.com/2015/03/synopsis-et-squash": {
+            "title": "SYNOPSIS ET SQUASH...",
+            "snippet": "SYNOPSIS ET SQUASH, Th\u00e9treSynopsis: Alan et Brian sont sc\u00e9naristes et accumulent depuis des ann\u00e9es les \u00e9pisodes de s\u00e9ries t\u00e9l...: bande-annonce-filmTags: Posted: 19 March 2015Rating:: 0...",
+            "date": "2015-03-19",
+            "author_name": "bande-annonce-film",
+            "categories": "squash",
+            "tags": "squash",
+            "recuweb_url": "http://fr.recuweb.com/squash/dailymotion.com/2015/03/synopsis-et-squash",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/squash/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2k0ror_synopsis-et-squash_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2k0ror_synopsis-et-squash_shortfilms"
         },
         "dailymotion.com/2015/02/championnat-de-france-squash-citygreen-2015-finale-femmes": {
             "title": "Championnat de France Squash Citygreen 2015 - Finale Femmes...",
@@ -52,7 +65,7 @@
             "date": "2015-02-15",
             "author_name": "FFSquash",
             "categories": "squash",
-            "tags": "finale,france,france_squash,france_squash_citygreen,squash,squash_citygreen,citygreen,live,championnat,information,prochainement,pantherstv,visualpesauthor,ffsquashtags",
+            "tags": "finale,france,france_squash,france_squash_citygreen,squash,squash_citygreen,citygreen,championnat,information,prochainement,pantherstv,visualpesauthor,ffsquashtags",
             "recuweb_url": "http://fr.recuweb.com/squash/dailymotion.com/2015/02/live-championnat-de-france-squash-citygreen-2015-finale-hommes",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/squash/0?af=1",
             "source_url": "http://dailymotion.com/video/x2h972b_live-championnat-de-france-squash-citygreen-2015-finale-hommes_sport",
@@ -84,7 +97,7 @@
         },
         "youtube.com/2014/10/jeff-se-fait-defoncer-au-squash-c-cauet-sur-nrj": {
             "title": "Jeff se fait defoncer au squash - C'Cauet sur NRJ...",
-            "snippet": "Jeff se fait defoncer au squash - C'Cauet sur NRJ C'Cauet sur NRJ de 19h \u00e0 22h! Pour plus de kiff, abonne-toi! Retrouve des centaines de vid\u00e9os sur CauetOfficiel: www.... From: Cauet Views: 207056 2499 ratings Time: 04:34 More in Comedy...",
+            "snippet": "Jeff se fait defoncer au squash - C'Cauet sur NRJ C'Cauet sur NRJ de 19h \u00e0 22h! Pour plus de kiff, abonne-toi! Retrouve des centaines de vid\u00e9os sur CauetOfficiel: www.... From: Cauet Views: 207746 2501 ratings Time: 04:34 More in Comedy...",
             "date": "2014-10-27",
             "author_name": "Cauet",
             "categories": "squash",
@@ -117,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=squash%2Bsquash&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=e1s_3zXOvrs&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/e1s_3zXOvrs/0.jpg"
-        },
-        "dailymotion.com/2014/06/live-championnat-de-france-squash-citygreen-2015": {
-            "title": "LIVE - Championnat de France Squash Citygreen 2015...",
-            "snippet": "Plus d'information Prochainement. PanthersTV - VisuAlpesAuthor: blackpanthers-footballTags: France Posted: 07 June 2014Rating:: 0...",
-            "date": "2014-06-07",
-            "author_name": "blackpanthers-football",
-            "categories": "squash",
-            "tags": "france,france_squash,france_squash_citygreen,squash,squash_citygreen,citygreen,live,championnat,information,prochainement,pantherstv,visualpesauthor",
-            "recuweb_url": "http://fr.recuweb.com/squash/dailymotion.com/2014/06/live-championnat-de-france-squash-citygreen-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/squash/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1yu2vj_live-championnat-de-france-squash-citygreen-2015_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1yu2vj_live-championnat-de-france-squash-citygreen-2015_sport"
         }
     }
 }
