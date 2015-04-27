@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblog",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -22,6 +22,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x13h1q6_chine-debut-du-proces-de-bo-xilai-le-prince-rouge_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x13h1q6_chine-debut-du-proces-de-bo-xilai-le-prince-rouge_news"
+        },
+        "dailymotion.com/2013/05/bombasse-et-triple-a-les-nouveaux-mots-du-dico": {
+            "title": "Bombasse et Triple A, les nouveaux mots du dico...",
+            "snippet": "L'\u00e9dition 2014 du Petit Robert. a accueillit des mots comme chelou, k\u00e9k\u00e9, bombasse, galocher ou encore triple A, low cost, boson de Higgs et microblog. Ce sont des centaines de mots qui ont fait leur entr\u00e9e dans la derni\u00e8re \u00e9dition du...",
+            "date": "2013-05-28",
+            "author_name": "ITELE",
+            "categories": "microblog",
+            "tags": "microblog,comme,petit",
+            "recuweb_url": "http://fr.recuweb.com/microblog/dailymotion.com/2013/05/bombasse-et-triple-a-les-nouveaux-mots-du-dico",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x10a3c3_bombasse-et-triple-a-les-nouveaux-mots-du-dico_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x10a3c3_bombasse-et-triple-a-les-nouveaux-mots-du-dico_news"
         },
         "dailymotion.com/2013/05/yahoo-s-offre-tumblr": {
             "title": "Yahoo s'offre Tumblr...",
@@ -76,7 +88,7 @@
             "date": "2011-03-24",
             "author_name": "FRANCE 24",
             "categories": "microblog,twitter",
-            "tags": "micro,millions,twitter",
+            "tags": "micro,petit,millions,twitter",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2011/03/tech-24-twitter-5-ans-et-de-grandes-ambitions",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=yHnb88YWcew&feature=youtube_gdata",
@@ -117,18 +129,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x7kcqr_boire-une-biere-coup-sec_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcqr_boire-une-biere-coup-sec_fun"
-        },
-        "dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur": {
-            "title": "le cam\u00e9lion rappeur...",
-            "snippet": "merci pour vos commentaires sur mon microblogAuthor: B1ouB1Tags: cam\u00e9l\u00e9on rap humour dr\u00f4le Posted: 30 November 2008Rating:: 0...",
-            "date": "2008-11-30",
-            "author_name": "B1ouB1",
-            "categories": "humour",
-            "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
-            "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
-            "source_url": "http://dailymotion.com/video/x7kcq8_le-camelion-rappeur_animals",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcq8_le-camelion-rappeur_animals"
         }
     }
 }
