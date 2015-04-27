@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "graffiti",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/graffiti/",
@@ -16,7 +17,7 @@
             "date": "2015-04-19",
             "author_name": "All City",
             "categories": "facebook,graffiti",
-            "tags": "haut,publie,publie-une-s\u00e9lection,s\u00e9lection,s\u00e9lection-exclusive,exclusive,exclusive-de-photos,photos,tri\u00e9es,volet,page,page-facebook,facebook,city,city_blog,graffiti,graffiti_bbq,bbq,chaque,jour",
+            "tags": "city,city_blog,graffiti,jour",
             "recuweb_url": "http://fr.recuweb.com/graffiti/allcityblog.fr/2015/04/all-city-s-graffiti-bbq-117-blog",
             "resource_url": "http://www.google.com/search?q=graffiti%2Bgraffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://allcityblog.fr/74327-citys-graffiti-bbq-117/"
@@ -43,13 +44,24 @@
             "resource_url": "http://fr.search.wordpress.com/?q=graffiti%2Bgraffiti&f=feed&page=1",
             "source_url": "http://sakdniz5419.wordpress.com/2015/04/01/le-street-art/"
         },
+        "philomag.com/2015/03/l-auteur-du-graffiti-kant-est-une-andouille-d%C3%A9masqu%C3%A9-br%C3%A8ves": {
+            "title": "L'auteur du graffiti Kant est une andouille d\u00e9masqu\u00e9 Br\u00e8ves, Kant...",
+            "snippet": "L'auteur du graffiti Kant est une andouille sur les murs de la maison du philosophe, en Russie, a \u00e9t\u00e9 identifi\u00e9. L'affaire a d\u00e9fray\u00e9 la chronique la semaine, mettant le projecteur sur le d\u00e9labrement de ce monument historique.",
+            "date": "2015-03-27",
+            "author_name": "cenjalbert",
+            "categories": "graffiti",
+            "tags": "semaine,\u00e9t\u00e9,maison,graffiti",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/philomag.com/2015/03/l-auteur-du-graffiti-kant-est-une-andouille-d%C3%A9masqu%C3%A9-br%C3%A8ves",
+            "resource_url": "http://www.google.com/search?q=graffiti%2Bgraffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://philomag.com/lepoque/breves/lauteur-du-graffiti-kant-est-une-andouille-demasque-11357"
+        },
         "noyps.wordpress.com/2015/03/graffiti-marseille-france-fresque-toile-graphisme": {
             "title": "GRAFFITI MARSEILLE FRANCE FRESQUE TOILE GRAPHISME...",
             "snippet": "cliquez sur les images pour les agrandir toiles graphisme Tagged: art, artiste peintre, canvas, chambre d'enfant, charte graphique, d\u00e9coration, devanture, fresque, graff, graffeur, graffiti, graffiti artist, graffiti France, graffiti marseille,...",
             "date": "2015-03-05",
             "author_name": "noyps",
             "categories": "graffiti",
-            "tags": "charte,charte-graphique,graphique,chambre,artiste,artiste-peintre,peintre,cliquez,images,agrandir,agrandir-toiles,agrandir-toiles-graphisme,toiles,toile,toiles-graphisme,graphisme,graffiti,graffiti_marseille,marseille,france,fresque,fresque_toile,fresque_toile_graphisme,toile_graphisme,tagged,art,canvas,enfant,d\u00e9coration,devanture,graff,graffeur",
+            "tags": "charte,charte-graphique,graphique,cliquez,images,agrandir,agrandir-toiles,agrandir-toiles-graphisme,toiles,toile,toiles-graphisme,graphisme,graffiti,graffiti_marseille,marseille,france,fresque,fresque_toile,fresque_toile_graphisme,toile_graphisme,tagged,art,artiste,peintre,canvas,chambre,enfant,d\u00e9coration,devanture,graff,graffeur",
             "recuweb_url": "http://fr.recuweb.com/graffiti/noyps.wordpress.com/2015/03/graffiti-marseille-france-fresque-toile-graphisme",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=graffiti%2Bgraffiti&rss=1&lng=fr",
             "source_url": "http://noyps.wordpress.com/2015/03/05/548/"
@@ -60,43 +72,10 @@
             "date": "2015-03-04",
             "author_name": "Valerie",
             "categories": "graffiti",
-            "tags": "city,graffiti,art",
+            "tags": "continue,city,graffiti,art",
             "recuweb_url": "http://fr.recuweb.com/graffiti/thebluebanner.net/2015/03/asheville-graffiti-sparks-debate-art-or-vandalism-the-blue-banner",
             "resource_url": "http://www.google.com/search?q=graffiti%2Bgraffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://thebluebanner.net/asheville-graffiti-sparks-debate-art-or-vandalism/"
-        },
-        "rtu.fm/2015/02/led-zeppelin-physical-graffiti-a-40-ans-rtu-le-grand-mix": {
-            "title": "Led Zeppelin: Physical Graffiti a 40 ans! RTU Le grand mix...",
-            "snippet": "Le 24 f\u00e9vrier 2015 marque les 40 ans du mythique album des Led Zeppelin. C'est le 24 f\u00e9vrier 1975 que sort Physical Graffiti sur Swag Song Records, le label du groupe. Physical Graffiti se place en v\u00e9ritable monument de la...",
-            "date": "2015-02-24",
-            "author_name": "RTU",
-            "categories": "place,graffiti",
-            "tags": "grand,physical,physical_graffiti,graffiti,led,led_zeppelin,zeppelin",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/rtu.fm/2015/02/led-zeppelin-physical-graffiti-a-40-ans-rtu-le-grand-mix",
-            "resource_url": "http://www.google.com/search?q=graffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://rtu.fm/2015/02/led-zeppelin-physical-graffiti-a-40-ans/"
-        },
-        "allcityblog.fr/2015/02/all-city-s-graffiti-bbq-108-blog": {
-            "title": "All City's Graffiti BBQ 108 - All City Blog...",
-            "snippet": "Chaque jour, la page Facebook All City publie une s\u00e9lection exclusive de photos ou de vid\u00e9os tri\u00e9es sur le volet: du graffiti de tr\u00e8s haut.",
-            "date": "2015-02-22",
-            "author_name": "All City",
-            "categories": "facebook,graffiti",
-            "tags": "haut,publie,publie-une-s\u00e9lection,s\u00e9lection,s\u00e9lection-exclusive,exclusive,exclusive-de-photos,photos,tri\u00e9es,volet,page,page-facebook,facebook,graffiti,graffiti_bbq,bbq,city,chaque,jour",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/allcityblog.fr/2015/02/all-city-s-graffiti-bbq-108-blog",
-            "resource_url": "http://www.google.com/search?q=graffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://allcityblog.fr/71272-citys-graffiti-bbq-108/"
-        },
-        "zone-telechargement.com/2015/02/t%C3%A9l%C3%A9charger-led-zeppelin-physical-graffiti-deluxe-edition-2015": {
-            "title": "T\u00e9l\u00e9charger Led Zeppelin - Physical Graffiti (Deluxe Edition) (2015)...",
-            "snippet": "T\u00e9l\u00e9charger Led Zeppelin - Physical Graffiti (Deluxe Edition) (2015) Gratuitement Led ZeppelinPhysical Graffiti (Deluxe Edition) (2015) Rock MP3 190 Kbps VBR ou 320 Kbps 169 Mb ou 284 Mo.",
-            "date": "2015-02-22",
-            "author_name": "inconnu",
-            "categories": "graffiti,rock",
-            "tags": "led,graffiti,physical,physical_graffiti,led_zeppelin,zeppelin",
-            "recuweb_url": "http://fr.recuweb.com/rock/zone-telechargement.com/2015/02/t%C3%A9l%C3%A9charger-led-zeppelin-physical-graffiti-deluxe-edition-2015",
-            "resource_url": "http://www.google.com/search?q=graffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://zone-telechargement.com/musiques/rock-alternative-metal/75825-led-zeppelin-physical-graffiti-deluxe-edition-2015.html"
         },
         "noyps.wordpress.com/2015/02/graffiti-marseille-fresque-toile-graphisme": {
             "title": "GRAFFITI MARSEILLE FRESQUE TOILE GRAPHISME...",
@@ -104,21 +83,10 @@
             "date": "2015-02-14",
             "author_name": "noyps",
             "categories": "graffiti",
-            "tags": "charte,charte-graphique,graphique,chambre,artiste,artiste-peintre,peintre,cliquez,images,agrandir,agrandir-toiles,agrandir-toiles-graphisme,toiles,toile,toiles-graphisme,graphisme,graffiti,graffiti_marseille,marseille,fresque,fresque_toile,fresque_toile_graphisme,toile_graphisme,tagged,canvas,enfant,d\u00e9coration,devanture,graff,graffeur,france",
+            "tags": "charte,charte-graphique,graphique,cliquez,images,agrandir,agrandir-toiles,agrandir-toiles-graphisme,toiles,toile,toiles-graphisme,graphisme,graffiti,graffiti_marseille,marseille,fresque,fresque_toile,fresque_toile_graphisme,toile_graphisme,tagged,artiste,peintre,canvas,chambre,enfant,d\u00e9coration,devanture,graff,graffeur,france",
             "recuweb_url": "http://fr.recuweb.com/graffiti/noyps.wordpress.com/2015/02/graffiti-marseille-fresque-toile-graphisme",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=graffiti%2Bgraffiti&rss=1&lng=fr",
             "source_url": "http://noyps.wordpress.com/2015/02/14/548/"
-        },
-        "allcityblog.fr/2015/01/joyy-graffiti-girl-all-city-blog": {
-            "title": "Joyy Graffiti Girl - All City Blog...",
-            "snippet": "Nouvelle \u00e9tape dans le grand n'importe quoi de la r\u00e9cup\u00e9ration du graffiti. Apr\u00e8s l'\u00e9mission de t\u00e9l\u00e9r\u00e9alit\u00e9, la pornographie qui ne dit pas son nom et le street art chez Monoprix, l'ex star de la vari\u00e9t\u00e9 fran\u00e7aise pour ados...",
-            "date": "2015-01-30",
-            "author_name": "All City",
-            "categories": "graffiti",
-            "tags": "\u00e9mission,\u00e9tape,grand,city,city_blog,graffiti,street,art",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/allcityblog.fr/2015/01/joyy-graffiti-girl-all-city-blog",
-            "resource_url": "http://www.google.com/search?q=graffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://allcityblog.fr/70187-joyy-graffiti-girl/"
         }
     }
 }
