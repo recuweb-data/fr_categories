@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "moto-cross",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moto-cross/",
@@ -10,42 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/blogs.json"
     },
     "items": {
-        "motoverte.com/2015/04/chris-pourcel-le-retour-motocross-actuas-sur-moto-verte": {
-            "title": "Chris Pourcel, le retour? - motocross - Actuas sur Moto Verte...",
-            "snippet": "Des photos diffus\u00e9es par VitalMX de Christophe Pourcel en pleine s\u00e9ance de testing avec Husqvarna sur la FC 450 et en pr\u00e9sence d'un certain Roger De Coster a de quoi \u00e9veiller l'attention CP377 est de retour en...",
-            "date": "2015-04-22",
-            "author_name": "Julien Leroy",
-            "tags": "retour,pr\u00e9sence,moto,moto_verte,verte,motocross,actuas",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/chris-pourcel-le-retour-motocross-actuas-sur-moto-verte",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/chris-pourcel-le-retour--86209.html"
-        },
         "motoverte.com/2015/04/gopro-le-crash-de-villo-inside-motocross-actuas-sur-moto-verte": {
             "title": "GoPro: le crash de Villo \"inside\" - motocross - Actuas sur Moto Verte...",
             "snippet": "Retour en images sur une chute qui restera a coup sur dans l'histoire du MX Mondial: celle de Villopoto dans la ligne droite des pits a Arco Di Trento. Apres les images du direct, voici celles de la Gopro de Ryan...",
             "date": "2015-04-22",
             "author_name": "Julien Leroy",
-            "tags": "images,arco,arco_di_trento,trento,coup,moto,moto_verte,verte,crash,motocross,actuas,retour,mondial,villopoto,apres,ryan",
+            "tags": "images,arco,arco_di_trento,trento,moto,moto_verte,verte,gopro,motocross,actuas,retour,mondial,apres",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/gopro-le-crash-de-villo-inside-motocross-actuas-sur-moto-verte",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/gopro-le-crash-de-villo-inside--86219.html"
-        },
-        "motoverte.com/2015/04/ryan-villopoto-dans-l-incertitude-motocross-actuas-sur-moto-verte": {
-            "title": "Ryan Villopoto dans l'incertitude - motocross - Actuas sur Moto Verte...",
-            "snippet": "Est-ce que Ryan Villopoto \"va bien\" apres son crash spectaculaire lors du dernier GP en Italie? Non, coccyx fracture, il decidera plus tard dans la semaine, a l'issue de tests, de son eventuelle participation - ou non - ce...",
-            "date": "2015-04-22",
-            "author_name": "Pascal Haudiquert",
-            "tags": "apres,crash,dernier,moto,moto_verte,verte,ryan,villopoto,motocross,actuas,italie",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/ryan-villopoto-dans-l-incertitude-motocross-actuas-sur-moto-verte",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/ryan-villopoto-dans-l-incertitude-86231.html"
         },
         "motoverte.com/2015/04/vid%C3%A9o-la-piste-d-east-rutherford-motocross-br%C3%A8ves-sur-moto-verte": {
             "title": "Vid\u00e9o: la piste d'East Rutherford - motocross - Br\u00e8ves sur Moto Verte...",
             "snippet": "La fleche verte nous emmene a la rencontre du trace du SX d'East Rutherford, round 16 et avant-derniere epreuve de la saison. Ce sera egalement la derniere course pour Marvin Musquin en SX Lites avant la grande finale...",
             "date": "2015-04-22",
             "author_name": "Julien Leroy",
-            "tags": "avant,saison,verte,moto,moto_verte,piste,motocross,course",
+            "tags": "avant,saison,verte,moto,moto_verte,piste,motocross",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/vid%C3%A9o-la-piste-d-east-rutherford-motocross-br%C3%A8ves-sur-moto-verte",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/video-la-piste-d-east-rutherford-86221.html"
@@ -55,7 +36,7 @@
             "snippet": "De nouveau sur le podium en seconde manche a Arco, Romain Febvre est LA revelation de ce debut de saison en MXGP. Quatrieme du provisoire devant Gautier Paulin, Romain poursuit son ascension a pas de geant au...",
             "date": "2015-04-21",
             "author_name": "Julien Leroy",
-            "tags": "saison,nouveau,podium,motocross,inter,manche,arco,mxgp",
+            "tags": "provisoire,saison,nouveau,podium,manche,motocross,inter,arco,mxgp",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/febvre-la-vitesse-pour-%C3%AAtre-devant-motocross-interviews",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/febvre-la-vitesse-pour-etre-devant--86157.html"
@@ -75,7 +56,7 @@
             "snippet": "Vainqueur de l'ouverture italienne de l'Europe 125 en Italie, Maxime Renaux ne cesse de surprendre depuis sa victoire dans le sable du Touquet. Le protege de Sebastioen Sagot et de Yamaha France revient sur sa victoire...",
             "date": "2015-04-21",
             "author_name": "Julien Leroy",
-            "tags": "revient,victoire,france,ouverture,t\u00eate,motocross,inter,moto,italie",
+            "tags": "revient,victoire,france,t\u00eate,motocross,inter,moto,italie,maxime",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/renaux-je-dois-partir-en-t%C3%AAte-motocross-interviews-sur-moto",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/renaux-je-dois-partir-en-tete--86167.html"
@@ -85,7 +66,7 @@
             "snippet": "Valentin Teillet est l'un des plus beaux stylistes du mx actuel et sa r\u00e9putation dans le contr\u00f4le a\u00e9rien fait r\u00e9f\u00e9rence des deux c\u00f4t\u00e9s de l'Atlantique. VT737 s'est bien \u00e9clat\u00e9 au cours de sa derni\u00e8re vid\u00e9o tourn\u00e9e peu avant le mx...",
             "date": "2015-04-21",
             "author_name": "Julien Leroy",
-            "tags": "derni\u00e8re,avant,moto,moto_verte,verte,motocross,actuas",
+            "tags": "derni\u00e8re,avant,deux,moto,moto_verte,verte,motocross,actuas",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/vid%C3%A9o-whip-&-scrub-avec-teillet-motocross-actuas-sur-moto-verte",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/video-whip-scrub-avec-teillet-86169.html"
@@ -95,7 +76,7 @@
             "snippet": "De retour en Italie apres sa suspension d'un mois, Jordi Tixier a su faire face a a une situation difficile avant de revenir en piste et signer un beau podium. Jordi revient sur ces moments delicats, les personnes qui l'ont aide et...",
             "date": "2015-04-20",
             "author_name": "Julien Leroy",
-            "tags": "revient,avant,piste,beau,podium,apres,suspension,retour,moto,moto_verte,verte,motocross,inter,italie",
+            "tags": "revient,avant,piste,beau,podium,apres,retour,moto,moto_verte,verte,motocross,inter,italie",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/tixier-merci-micka%C3%ABl-pichon-motocross-interviews-sur-moto-verte",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/tixier-merci-mickael-pichon--86121.html"
@@ -105,10 +86,30 @@
             "snippet": "Retour en images sur le superbe GP d'Italie dispute a Arco Di Trento. Que ce soit en MX2 ou en MXGP, les bagarres et rebondissements n'ont pas manque! Du tres beau motocross...",
             "date": "2015-04-20",
             "author_name": "Julien Leroy",
-            "tags": "beau,soit,arco,arco_di_trento,trento,images,mxgp,italie,motocross,actuas,retour",
+            "tags": "beau,arco,arco_di_trento,trento,images,r\u00e9sum\u00e9,mxgp,italie,motocross,actuas,retour",
             "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/vid%C3%A9o-r%C3%A9sum%C3%A9-mx2-mxgp-du-gp-d-italie-motocross-actuas",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://motoverte.com/site/video-resume-mx2-mxgp-du-gp-d-italie-86109.html"
+        },
+        "phetholatnoe.wordpress.com/2014/12/telecharger-jeu-de-moto-cross-pc": {
+            "title": "Telecharger jeu de moto cross pc...",
+            "snippet": "T\u00e9l\u00e9charger Un jeu de moto - cross dans le d\u00e9sert. jeux de voiture et de moto sur pc gratuit; telecharger jeux de moto; jeux de moto 2012; jeux de []...",
+            "date": "2014-12-27",
+            "author_name": "phetholatnoe",
+            "tags": "jeux,t\u00e9l\u00e9charger,telecharger-jeux,gratuit,d\u00e9sert,jeu,moto,cross",
+            "recuweb_url": "http://fr.recuweb.com/phetholatnoe.wordpress.com/2014/12/telecharger-jeu-de-moto-cross-pc",
+            "resource_url": "http://fr.search.wordpress.com/?q=moto%2Bcross%2Bmoto%2Bcross&f=feed&page=1",
+            "source_url": "http://phetholatnoe.wordpress.com/2014/12/27/telecharger-jeu-de-moto-cross-pc/"
+        },
+        "agtoleatoma.wordpress.com/2014/12/t%C3%A9l%C3%A9charger-jeu-de-moto-cross-gratuit": {
+            "title": "T\u00e9l\u00e9charger jeu de moto cross gratuit...",
+            "snippet": "T\u00e9l\u00e9charger Un jeu de moto - cross dans le d\u00e9sert. telecharger jeux de moto gratuit; jeux de moto 2013 gratuit; telecharger jeux de moto gratuit; jeux de moto 3d []...",
+            "date": "2014-12-24",
+            "author_name": "agtoleatoma",
+            "tags": "jeux,t\u00e9l\u00e9charger,telecharger-jeux,d\u00e9sert,jeu,moto,cross,gratuit",
+            "recuweb_url": "http://fr.recuweb.com/agtoleatoma.wordpress.com/2014/12/t%C3%A9l%C3%A9charger-jeu-de-moto-cross-gratuit",
+            "resource_url": "http://fr.search.wordpress.com/?q=moto%2Bcross%2Bmoto%2Bcross&f=feed&page=1",
+            "source_url": "http://agtoleatoma.wordpress.com/2014/12/24/telecharger-jeu-de-moto-cross-gratuit/"
         }
     }
 }
