@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sculpture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sculpture/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/sculpture-or-not-that-is-the-question": {
+            "title": "sculpture or not sculpture that is the question?",
+            "snippet": "vid\u00e9o rapide tuto comment r\u00e9aliser une sculpture originaleAuthor: aymeric-bordoneTags: Peinture Sculpture Art d\u00e9co Art contemporain Art moderne original nouveaut\u00e9 couleurs cr\u00e9ation artiste Posted: 17 April 2015Rating:: 0...",
+            "date": "2015-04-17",
+            "author_name": "aymeric-bordone",
+            "categories": "peinture,sculpture",
+            "tags": "cr\u00e9ation,sculpture,art,r\u00e9aliser",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/dailymotion.com/2015/04/sculpture-or-not-that-is-the-question",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sculpture+sculpture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n0fid_sculpture-or-not-sculpture-that-is-the-question_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n0fid_sculpture-or-not-sculpture-that-is-the-question_creation"
+        },
         "dailymotion.com/2015/04/hugues-p%C3%A9not-art-advisor-monumental-sculptures": {
             "title": "Hugues P\u00e9not - Art Advisor. Monumental sculptures...",
             "snippet": "Great monumental sculptures by the best artists for luxury real estate, castles, manors, parks, gardens, buildings, squares, roundabouts... contact: Tr\u00e8s belles sculptures monumentales par les meilleurs artistes mondiaux pour embellir de luxueuses...",
@@ -22,13 +35,25 @@
             "source_url": "http://dailymotion.com/video/xzp86w_hugues-penot-art-advisor-monumental-sculptures_creation",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xzp86w_hugues-penot-art-advisor-monumental-sculptures_creation"
         },
+        "dailymotion.com/2015/04/sculpture-en-glace-magnifique-faite-avec-une-imprimante-3d": {
+            "title": "Sculpture en glace magnifique faite avec une imprimante 3D.",
+            "snippet": "Sculpture en glace magnifique d'un temple japonais antique... faite avec une imprimante 3D. Juste dingue!Author: MisterBuzzTags: Japon sculpute glace temple japonais imprimante 3D magique bloc de glace beau art Posted: 03 April 2015Rating:: 0...",
+            "date": "2015-04-03",
+            "author_name": "MisterBuzz",
+            "categories": "imprimante,sculpture",
+            "tags": "glace,art,magnifique,sculpture",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/dailymotion.com/2015/04/sculpture-en-glace-magnifique-faite-avec-une-imprimante-3d",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sculpture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2lmtik_sculpture-en-glace-magnifique-faite-avec-une-imprimante-3d_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lmtik_sculpture-en-glace-magnifique-faite-avec-une-imprimante-3d_creation"
+        },
         "dailymotion.com/2015/03/le-jongleur-sculpture-marc-georgeault": {
             "title": "le jongleur sculpture Marc Georgeault...",
             "snippet": "Sculpture en tilleul, \u00e9tain et acierHauteur 40 cm, largeur 11 cm, \u00e9paisseur 8 cm. Finition cire: GeorgeaultTags: sculpture art artisanat cr\u00e9ation georgeault marc bois pierre sculpture sur bois sculpturesur pierre Posted: 13 March 2015Rating:: 0...",
             "date": "2015-03-13",
             "author_name": "Georgeault",
             "categories": "sculpture",
-            "tags": "sculpture,art,marc,bois",
+            "tags": "sculpture,art,cr\u00e9ation,marc,bois",
             "recuweb_url": "http://fr.recuweb.com/sculpture/dailymotion.com/2015/03/le-jongleur-sculpture-marc-georgeault",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sculpture+sculpture/0?af=1",
             "source_url": "http://dailymotion.com/video/xgolm9_le-jongleur-sculpture-marc-georgeault_creation",
@@ -40,7 +65,7 @@
             "date": "2014-10-10",
             "author_name": "Marc DUQUESNOY",
             "categories": "sculpture",
-            "tags": "exemple,sculpture,marc",
+            "tags": "exemple,r\u00e9aliser,sculpture,marc",
             "recuweb_url": "http://fr.recuweb.com/sculpture/youtube.com/2014/10/comment-fabriquer-un-socle-de-sculpture",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sculpture%2Bsculpture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=KZL42FaTtRg&feature=youtube_gdata",
@@ -76,23 +101,11 @@
             "date": "2014-05-31",
             "author_name": "SINGER-POLIGNAC",
             "categories": "sculpture",
-            "tags": "concours,sculpture,jardin,france,si\u00e8cle",
+            "tags": "concours,sculpture,jardin,france",
             "recuweb_url": "http://fr.recuweb.com/sculpture/dailymotion.com/2014/05/la-statuaire-publique-de-p%C3%A9riode-1850-1880-dans-le-jardin-france",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sculpture+sculpture/0?af=1",
             "source_url": "http://dailymotion.com/video/x1xqtuw_la-statuaire-publique-de-la-periode-1850-1880-dans-le-jardin-de-la-france-un-age-d-or-des-concours-p_creation",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1xqtuw_la-statuaire-publique-de-la-periode-1850-1880-dans-le-jardin-de-la-france-un-age-d-or-des-concours-p_creation"
-        },
-        "youtube.com/2014/05/peinture-sur-sculpture": {
-            "title": "peinture sur sculpture...",
-            "snippet": "peinture sur sculpture Sculpture (suite) par S\u00e9bastien VANG: Mise en couleur des sculptures en argile. Technique pour peindre des sculptures ou modelages en terre \u00e0 ma mani\u00e8re. Apr\u00e8s se\u00e8chage, mise en coleur... From: txeuying S\u00e9bastien Vang...",
-            "date": "2014-05-13",
-            "author_name": "txeuying S\u00e9bastien Vang",
-            "categories": "sculpture,peinture",
-            "tags": "sculptures,sculpture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/youtube.com/2014/05/peinture-sur-sculpture",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sculpture%2Bsculpture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=WBB4dSa4iJo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/WBB4dSa4iJo/0.jpg"
         },
         "youtube.com/2014/02/la-sculpture-premier-pas-trucs-et-astuces-d-atelier": {
             "title": "La sculpture - premier pas Trucs et astuces d'atelier...",
@@ -112,23 +125,11 @@
             "date": "2014-02-01",
             "author_name": "valloire",
             "categories": "sculpture,magie,formule",
-            "tags": "concours,sculptures,jours",
+            "tags": "magnifique,concours,sculptures,glace",
             "recuweb_url": "http://fr.recuweb.com/formule/dailymotion.com/2014/02/sculptures-sur-glace-2014",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sculpture/0?af=1",
             "source_url": "http://dailymotion.com/video/x1as0v4_sculptures-sur-glace-2014_creation",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1as0v4_sculptures-sur-glace-2014_creation"
-        },
-        "youtube.com/2014/01/upt-sculpture-petite-histoire-de-la-1-2-gr%C3%A8ce-antique": {
-            "title": "UPT Sculpture: Petite histoire de la sculpture 1 (1/2): De la Gr\u00e8ce Antique au XIX\u00e8 si\u00e8cle...",
-            "snippet": "UPT Sculpture: Petite histoire de la sculpture 1 (1/2): De la Gr\u00e8ce Antique au XIX\u00e8 si\u00e8cle cours en 3 parties Partie 1 Vid\u00e9o en 2 parties Partie 1 Petite hsitoire de la sculpture de l'antiquit\u00e9 \u00e0 nos jours De la Gr\u00e8ce Antique au XIX\u00e8 si\u00e8cle...",
-            "date": "2014-01-15",
-            "author_name": "Mediath\u00e8que Louis-Aragon",
-            "categories": "sculpture",
-            "tags": "jours,sculpture,si\u00e8cle",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/youtube.com/2014/01/upt-sculpture-petite-histoire-de-la-1-2-gr%C3%A8ce-antique",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sculpture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=fJnyZvvXfu4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/fJnyZvvXfu4/0.jpg"
         }
     }
 }
