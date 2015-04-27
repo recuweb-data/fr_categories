@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "spiritualite",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/spiritualite/",
@@ -10,12 +11,32 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/spiritualite/spiritualite/blogs.json"
     },
     "items": {
+        "infirmiers.com/2015/04/conditions-de-travail": {
+            "title": "Conditions de travail...",
+            "snippet": "Nous r\u00e9alisons une Recherche Scientifique et Universitaire sur la Reconnaissance et la Spiritualit\u00e9 au travail des Infirmiers. Cette enqu\u00eate fait l'objet de la th\u00e8se de doctorat d'Amina Amri et est dirig\u00e9e par Audrey B\u00e9cuwe, Ma\u00eetre de...",
+            "date": "2015-04-24",
+            "categories": "spiritualite",
+            "tags": "spiritualit\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/spiritualite/infirmiers.com/2015/04/conditions-de-travail",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=spiritualite&format=RSS&cc=fr",
+            "source_url": "http://infirmiers.com/forum/conditions-travail-t147304.html"
+        },
+        "actu.orange.fr/2015/04/glcs-le-conseil-de-l-ordre-tacle-corbeau": {
+            "title": "GLCS: le Conseil de l'Ordre tacle le corbeau...",
+            "snippet": "Le Conseil de l'Ordre de la Grande Loge des Cultures et de la Spiritualit\u00e9 (GLCS) a diffus\u00e9 ce 21 avril 2015 un communiqu\u00e9 exceptionnel puisqu'il contre-attaque apr\u00e8s la diffusion de missives anonymes mettant en cause la gestion financi\u00e8re de...",
+            "date": "2015-04-21",
+            "categories": "culture,spiritualite",
+            "tags": "apr\u00e8s,spiritualit\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/spiritualite/actu.orange.fr/2015/04/glcs-le-conseil-de-l-ordre-tacle-corbeau",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=spiritualite&format=RSS&cc=fr",
+            "source_url": "http://actu.orange.fr/societe/glcs-le-conseil-de-l-ordre-tacle-le-corbeau-lexpress_CNT0000009f5KA.html"
+        },
         "radionotredame.net/2015/04/spiritualit%C3%A9-pour-les-enfants-indices-pensables-de-brunor": {
             "title": "Spiritualit\u00e9 pour les enfants: Les indices pensables de Brunor...",
             "snippet": "Deux nouvelles propositions, deux supports ludiques de spiritualit\u00e9 pour les enfants et adolescents. Illustrateur ind\u00e9pendant depuis 1988, Brunor travaille pour la presse, l'\u00e9dition et la communication. Il est l'auteur de la s\u00e9rie Les indices...",
             "date": "2015-04-15",
             "categories": "spiritualite",
-            "tags": "auteur,enfants,spiritualit\u00e9",
+            "tags": "enfants,spiritualit\u00e9",
             "recuweb_url": "http://fr.recuweb.com/spiritualite/radionotredame.net/2015/04/spiritualit%C3%A9-pour-les-enfants-indices-pensables-de-brunor",
             "resource_url": "http://www.bing.com/news/search?first=1&q=spiritualite&format=RSS&cc=fr",
             "source_url": "http://radionotredame.net/2015/culture/litterature/spiritualite-enfants-les-indices-pensables-de-brunor-35818/"
@@ -30,52 +51,12 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=spiritualite%2Bspiritualite&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/14/2086655-galerie-foch-sylvie-lucel-une-spiritualite-lumineuse.html"
         },
-        "lactuel.com/2015/04/centre-spiritualit%C3%A9sant%C3%A9-la-spiritualit%C3%A9-pour-d%C3%A9passer-souffrance": {
-            "title": "Centre Spiritualit\u00e9sant\u00e9: la spiritualit\u00e9 pour d\u00e9passer la souffrance...",
-            "snippet": "SPIRITUALIT\u00c9. Le Centre Spiritualit\u00e9sant\u00e9 de la Capitale-Nationale, situ\u00e9 rue d'Estimauville, est ouvert depuis 1998. Il regroupe des intervenants en soins spirituels qui travaillent dans les milieux hospitaliers et les centres d'h\u00e9bergement...",
-            "date": "2015-04-09",
-            "categories": "spiritualite",
-            "tags": "spiritualit\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/spiritualite/lactuel.com/2015/04/centre-spiritualit%C3%A9sant%C3%A9-la-spiritualit%C3%A9-pour-d%C3%A9passer-souffrance",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=spiritualite&format=RSS&cc=fr",
-            "source_url": "http://lactuel.com/Actualites/2015-04-09/article-4105876/Centre-Spiritualitesante:-la-spiritualite-pour-depasser-la-souffrance/1"
-        },
-        "religions.blogs.ouest-france.fr/2015/04/musulman-citoyen-la%C3%AFcit%C3%A9-fraternit%C3%A9-spiritualit%C3%A9": {
-            "title": "Musulman-citoyen: la\u00efcit\u00e9, fraternit\u00e9, spiritualit\u00e9...",
-            "snippet": "Pour poursuivre la r\u00e9flexion du billet pr\u00e9c\u00e9dent sur l'islam, un texte du philosophe et sociologue Paul Blanquart. Dense, mais stimulant. On sortirait de la confusion mentale actuelle, et donc on agirait plus juste, si on reprenait conscience...",
-            "date": "2015-04-07",
-            "categories": "spiritualite,islam",
-            "tags": "spiritualit\u00e9,islam,conscience",
-            "recuweb_url": "http://fr.recuweb.com/islam/religions.blogs.ouest-france.fr/2015/04/musulman-citoyen-la%C3%AFcit%C3%A9-fraternit%C3%A9-spiritualit%C3%A9",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=spiritualite&format=RSS&cc=fr",
-            "source_url": "http://religions.blogs.ouest-france.fr/archive/2015/04/08/l-islam-cet-homme-malade-13852.html"
-        },
-        "seneweb.com/2015/04/spiritualit%C3%A9-de-la-semaine-sainte-samedi-saint-le-silence-dieu": {
-            "title": "Spiritualit\u00e9 de la semaine sainte/Samedi Saint: Le silence de Dieu...",
-            "snippet": "L\u00e9glise se fait muette en ce jour du Samedi Saint, pas de liturgie, pas de c\u00e9r\u00e9monies, depuis la neuvi\u00e8me heure du vendredi, le moment de la mort du Seigneur, il faudra attendre le troisi\u00e8me jour pour retrouver un signe de vie et de lumi\u00e8re.",
-            "date": "2015-04-04",
-            "categories": "mort,spiritualite",
-            "tags": "vie,heure,saint,spiritualit\u00e9,dieu",
-            "recuweb_url": "http://fr.recuweb.com/spiritualite/seneweb.com/2015/04/spiritualit%C3%A9-de-la-semaine-sainte-samedi-saint-le-silence-dieu",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=spiritualite&format=RSS&cc=fr",
-            "source_url": "http://seneweb.com/news/Religion/spiritualite-de-la-semaine-sainte-samedi_n_151949.html"
-        },
-        "secours-catholique.org/2015/04/diaporama-sonore-la-spiritualit%C3%A9-en-commun-secours-catholique-caritas-france-association": {
-            "title": "Diaporama-sonore: la spiritualit\u00e9 en commun - Secours Catholique/Caritas France - Association...",
-            "snippet": "Diaporama-sonore: la spiritualit\u00e9 en communSecours Catholique/Caritas France - Association humanitaireDepuis 2010, le groupe spirituel Saint-Laurent du Secours Catholique de Cluny rassemble quatre fois par an des b\u00e9n\u00e9voles et des personnes...",
-            "date": "2015-04-03",
-            "categories": "spiritualite",
-            "tags": "spirituel,commun,spiritualit\u00e9,saint",
-            "recuweb_url": "http://fr.recuweb.com/spiritualite/secours-catholique.org/2015/04/diaporama-sonore-la-spiritualit%C3%A9-en-commun-secours-catholique-caritas-france-association",
-            "resource_url": "http://news.google.fr/?hl=fr&q=spiritualite%2Bspiritualite&output=atom&nord=1",
-            "source_url": "http://secours-catholique.org/actualite/diaporama-sonore-la-spiritualite-en-commun,13811.html"
-        },
         "livre-religion.blogs.la-croix.com/2015/04/spiritualite-la-th%C3%A9ologie-spirituelle-du-bienheureux-newman-croix": {
             "title": "SPIRITUALITE: La th\u00e9ologie spirituelle du bienheureux Newman - La Croix...",
             "snippet": "SPIRITUALITE: La th\u00e9ologie spirituelle du bienheureux NewmanLa CroixLa question est en fait assez simple, comme l'indique le sous-titre: quelle \u00e9tait la th\u00e9ologie spirituelle de Newman? Apr\u00e8s la lecture de cette \u00e9tude tr\u00e8s fouill\u00e9e, la...",
             "date": "2015-04-03",
             "categories": "spiritualite",
-            "tags": "assez,spiritualite",
+            "tags": "assez,spiritualite,apr\u00e8s",
             "recuweb_url": "http://fr.recuweb.com/spiritualite/livre-religion.blogs.la-croix.com/2015/04/spiritualite-la-th%C3%A9ologie-spirituelle-du-bienheureux-newman-croix",
             "resource_url": "http://news.google.fr/?hl=fr&q=spiritualite%2Bspiritualite&output=atom&nord=1",
             "source_url": "http://livre-religion.blogs.la-croix.com/spiritualite-la-theologie-spirituelle-du-bienheureux-newman/2015/04/04/"
