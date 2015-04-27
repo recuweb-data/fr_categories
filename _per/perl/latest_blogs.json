@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "perl",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/perl/",
@@ -21,6 +22,17 @@
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://freelance-info.fr/offre-de-mission_245975.html"
         },
+        "ruixublog.wordpress.com/2015/03/lession2-perl-arrays": {
+            "title": "Lession2: Perl Arrays...",
+            "snippet": "Link:!/usr/bin/perl (just used for note, actually we can ignore it with no side effects) ages=(25,30,40); names=(John Paul, Lisa, Kumar); print ages0=ages0; print ages1=ages1; print ages2=ages2; p...",
+            "date": "2015-03-29",
+            "author_name": "revo",
+            "categories": "perl",
+            "tags": "perl",
+            "recuweb_url": "http://fr.recuweb.com/perl/ruixublog.wordpress.com/2015/03/lession2-perl-arrays",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=perl%2Bperl&rss=1&lng=fr",
+            "source_url": "http://ruixublog.wordpress.com/2015/03/30/lession2-perl-arrays/"
+        },
         "glpi-project.org/2015/03/automatiser-perl-fusioninventory-agent-page-1-plugin-glpi": {
             "title": "Automatiser perl fusioninventory-agent (Page 1) Plugin... - GLPI...",
             "snippet": "Automatiser perl fusioninventory-agent (Page 1) Plugin FusionInventory Forum GLPI-Project Forum du projet GLPI - Glpi-project's Forum.",
@@ -32,13 +44,24 @@
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://glpi-project.org/forum/viewtopic.php?id=47251"
         },
+        "globalsecuritymag.fr/2015/03/vigilnce-perl-gtk2-corruption-de-m%C3%A9moire-via-list-devices": {
+            "title": "Vigilnce - Perl Gtk2: corruption de m\u00e9moire via list_devices...",
+            "snippet": "Un attaquant peut provoquer une corruption de m\u00e9moire dans list_devices() de Perl Gtk2, afin de mener un d\u00e9ni de service, et \u00e9ventuellement d'ex\u00e9cuter du code. Produits concern\u00e9s: Fedora, MBS, Perl Module. Gravit\u00e9: 2/4.",
+            "date": "2015-03-03",
+            "author_name": "Vigil@nce",
+            "categories": "perl",
+            "tags": "perl,code,service,via",
+            "recuweb_url": "http://fr.recuweb.com/perl/globalsecuritymag.fr/2015/03/vigilnce-perl-gtk2-corruption-de-m%C3%A9moire-via-list-devices",
+            "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Perl-Gtk2-corruption-de,20150303,51224.html"
+        },
         "emploi.alsacreations.com/2015/02/developpeur-php-perl-offres-d-emploi-alsacr%C3%A9ations": {
             "title": "Developpeur php/perl - Offres d'emploi - Alsacr\u00e9ations...",
             "snippet": "Annonce offre d'emploi de Nameshield SAS en CDI, ANGERS - Service Emploi Alsacr\u00e9ations, pour trouver un job dans le web.",
             "date": "2015-02-13",
             "author_name": "inconnu",
             "categories": "emploi,php,perl",
-            "tags": "php,perl",
+            "tags": "service,emploi,perl",
             "recuweb_url": "http://fr.recuweb.com/perl/emploi.alsacreations.com/2015/02/developpeur-php-perl-offres-d-emploi-alsacr%C3%A9ations",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.alsacreations.com/offre-558320-Developpeur-php--perl.html"
@@ -49,7 +72,7 @@
             "date": "2015-02-08",
             "author_name": "fluo",
             "categories": "perl",
-            "tags": "perl,programmation",
+            "tags": "perl",
             "recuweb_url": "http://fr.recuweb.com/perl/debian-fr.org/2015/02/qui-est-le-plus-rapide-bash-ou-perl-programmation",
             "resource_url": "http://www.google.com/search?q=perl%2Bperl&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://debian-fr.org/qui-est-le-plus-rapide-bash-ou-perl-t51235.html"
