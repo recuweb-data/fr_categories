@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "collection",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/collection/",
@@ -11,72 +11,62 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
     },
     "items": {
-        "gizmodo.fr/2015/04/adidas-sort-une-collection-avengers-gizmodo": {
-            "title": "Adidas sort une collection Avengers! - Gizmodo...",
-            "snippet": "GizmodoAdidas sort une collection Avengers!GizmodoLes Avengers ont le vent en poupe ces derniers temps et il serait regrettable que seul Disney et Marvel n'en tirent des b\u00e9n\u00e9fices. Si cette \u00e9quipe \u00e9tait un super-h\u00e9ros, on imagine que son super...",
-            "date": "2015-04-24",
+        "journaldesfemmes.com/2015/04/elsa-gary-d%C3%A9couvrez-la-collection-2016": {
+            "title": "Elsa Gary: d\u00e9couvrez la collection 2016...",
+            "snippet": "La cr\u00e9atrice Elsa Gary d\u00e9voile les mod\u00e8les de robes de mari\u00e9e de sa derni\u00e8re collection 2016. Fluides, chics et romantiques... A vous de choisir celle qui vous correspond. Elsa Gary pr\u00e9sente ses derniers mod\u00e8les de robes de mari\u00e9e, tous...",
+            "date": "2015-04-27",
             "categories": "collection",
-            "tags": "temps,collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/gizmodo.fr/2015/04/adidas-sort-une-collection-avengers-gizmodo",
+            "tags": "mod\u00e8les,d\u00e9voile,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/journaldesfemmes.com/2015/04/elsa-gary-d%C3%A9couvrez-la-collection-2016",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
+            "source_url": "http://journaldesfemmes.com/mariage/robe-mariee/1316672-elsa-gary-robes-de-mariee-collection-2016/"
+        },
+        "fr.fashionmag.com/2015/04/erotokritos-lance-sa-premi%C3%A8re-collection-de-lunettes": {
+            "title": "Erotokritos lance sa premi\u00e8re collection de lunettes...",
+            "snippet": "Format oversize et coloris d\u00e9t\u00e9 pour la premi\u00e8re collection de lunettes sign\u00e9e Erotokritos. Inspir\u00e9 par les ann\u00e9es 60 et ses ic\u00f4nes telles Jackie Onassis, le cr\u00e9ateur d\u00e9voile 13 mod\u00e8les in\u00e9dits, fabriqu\u00e9s en Italie. Des mod\u00e8les...",
+            "date": "2015-04-27",
+            "categories": "collection",
+            "tags": "mod\u00e8les,d\u00e9voile,premi\u00e8re,lance,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/fr.fashionmag.com/2015/04/erotokritos-lance-sa-premi%C3%A8re-collection-de-lunettes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
+            "source_url": "http://fr.fashionmag.com/news/Erotokritos-lance-sa-premiere-collection-de-lunettes-,481284.html"
+        },
+        "fr.canoe.ca/2015/04/eva-longoria-lance-une-collection-d-ameublement-cano%C3%AB": {
+            "title": "Eva Longoria lance une collection d'ameublement - Cano\u00eb...",
+            "snippet": "Cano\u00ebEva Longoria lance une collection d'ameublementCano\u00ebL'ex-star de la s\u00e9rie Beaut\u00e9s d\u00e9sesp\u00e9r\u00e9es s'est associ\u00e9e avec les directeurs du grand magasin JCPenney pour lancer Eva Longoria Home, une collection d'oreillers, de draps et de...",
+            "date": "2015-04-27",
+            "categories": "collection",
+            "tags": "s\u00e9rie,lance,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/fr.canoe.ca/2015/04/eva-longoria-lance-une-collection-d-ameublement-cano%C3%AB",
             "resource_url": "http://news.google.fr/?hl=fr&q=collection%2Bcollection&output=atom&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/23/adidas-avengers.html"
+            "source_url": "http://fr.canoe.ca/artdevivre/tendancesmaison/nouvelles/archives/2015/04/20150427-122818.html"
         },
-        "soonnight.com/2015/04/french-collection-6-club": {
-            "title": "French collection 6 club...",
-            "snippet": "Soir\u00e9e clubbing French collection 6 club Paris Discoth\u00e8que Divan Du Monde (Le) samedi 02 mai: Le site nest en aucun cas \u00e9diteur du contenu diffus\u00e9 sur cette page Soir\u00e9e clubbing French collection 6 club Paris Discoth\u00e8que Divan Du...",
-            "date": "2015-04-24",
+        "chartsinfrance.net/2015/04/jenifer-%C3%A9g%C3%A9rie-de-la-halle-fra%C3%AEche-et-sexy-pour-collection-charts": {
+            "title": "Jenifer \u00e9g\u00e9rie de La Halle: fra\u00eeche et sexy pour la collection... - Charts in France...",
+            "snippet": "Charts in FranceJenifer \u00e9g\u00e9rie de La Halle: fra\u00eeche et sexy pour la collection...Charts in FranceEn d\u00e9but de mois, le making-of d'un shooting a \u00e9t\u00e9 mis en ligne pour annoncer la reconduction du partenariat avec la coach de TF1 et pr\u00e9senter...",
+            "date": "2015-04-27",
             "categories": "collection",
-            "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/soonnight.com/2015/04/french-collection-6-club",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://soonnight.com/paris/divan-du-monde/samedi-02-mai-french-collection-6-club,1,889950.html"
+            "tags": "\u00e9t\u00e9,collection,france",
+            "recuweb_url": "http://fr.recuweb.com/collection/chartsinfrance.net/2015/04/jenifer-%C3%A9g%C3%A9rie-de-la-halle-fra%C3%AEche-et-sexy-pour-collection-charts",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
+            "source_url": "http://chartsinfrance.net/Jenifer/news-96953.html"
         },
-        "lanouvellerepublique.fr/2015/04/jardins-de-chaumont-collection-la-nouvelle-r%C3%A9publique": {
-            "title": "Jardins de Chaumont, jardins de collection - la Nouvelle R\u00e9publique...",
-            "snippet": "la Nouvelle R\u00e9publiqueJardins de Chaumont, jardins de collectionla Nouvelle R\u00e9publiqueL'\u00e9dition 2015 annonce des moments d'\u00e9motion pour les visiteurs nombreux en ce premier jour. - (Photo NR, J\u00e9r\u00f4me Dutac). Le Festival des jardins de...",
-            "date": "2015-04-24",
+        "meltyfashion.fr/2015/04/tendance-beaut%C3%A9-printemps-%C3%A9t%C3%A9-2015-modern-tribes-by-kiko-la-meltyfashion": {
+            "title": "Tendance beaut\u00e9 Printemps-\u00e9t\u00e9 2015: Modern Tribes by KIKO, la... - meltyFashion...",
+            "snippet": "meltyFashionTendance beaut\u00e9 Printemps-\u00e9t\u00e9 2015: Modern Tribes by KIKO, la...meltyFashionC'est une tr\u00e8s jolie collection que la marque de cosm\u00e9tiques milanaise KIKO vient de sortir pour les beaux jours. Au top de la tendance, elle s'inspire des...",
+            "date": "2015-04-27",
             "categories": "collection",
-            "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/lanouvellerepublique.fr/2015/04/jardins-de-chaumont-collection-la-nouvelle-r%C3%A9publique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection%2Bcollection&output=atom&nord=1",
-            "source_url": "http://lanouvellerepublique.fr/France-Monde/Loisirs/Fetes-festivals/n/Contenus/Articles/2015/04/24/Jardins-de-Chaumont-jardins-de-collection-2306114"
-        },
-        "ledevoir.com/2015/04/la-collection-musicale-2015-de-socalled": {
-            "title": "La collection musicale 2015 de Socalled...",
-            "snippet": "On dit parfois quun album, cest une collection de chansons. Pour le rappeur anglo-montr\u00e9alais Socalled, lexpression peut pratiquement \u00eatre prise au pied de la lettre quand vient le temps de discuter de Peoplewatching, son nouvel album \u00e9clat\u00e9...",
-            "date": "2015-04-24",
-            "categories": "collection",
-            "tags": "temps,collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/ledevoir.com/2015/04/la-collection-musicale-2015-de-socalled",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://ledevoir.com/culture/musique/438205/la-collection-musicale-2015-de-socalled"
-        },
-        "jeuvideo.afjv.com/2015/04/star-wars-force-collection": {
-            "title": "Star Wars: Force Collection...",
-            "snippet": "Le jeu Star Wars: Force Collection de Konami arrive en France et c\u00e9l\u00e8bre le Star Wars Day avec un mini-jeu Contra aux couleurs de Chewbacca Konami Digital Entertainment B.V. lance aujourdhui une version enti\u00e8rement localis\u00e9e de son c\u00e9l\u00e8bre...",
-            "date": "2015-04-24",
-            "categories": "collection",
-            "tags": "c\u00e9l\u00e8bre,force,force_collection,collection,star,star_wars,wars,jeu,france",
-            "recuweb_url": "http://fr.recuweb.com/collection/jeuvideo.afjv.com/2015/04/star-wars-force-collection",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://jeuvideo.afjv.com/news/11544_star-wars-force-collection.htm"
-        },
-        "gamergen.com/2015/04/star-wars-force-collection-d%C3%A9barque-sur-mobiles-en-france": {
-            "title": "Star Wars: Force Collection d\u00e9barque sur mobiles en France...",
-            "snippet": "Le jeu de cartes pour smartphones du c\u00e9l\u00e8bre space opera d\u00e9barque en France, avec quelques ajouts sympathiques. La franchise Star Wars vient de se voir dot\u00e9e d'un tout nouveau titre pour mobile en France, avec le c\u00e9l\u00e8bre Star Wars: Force...",
-            "date": "2015-04-24",
-            "categories": "collection",
-            "tags": "c\u00e9l\u00e8bre,jeu,force,force_collection,collection,star,star_wars,wars,france,cartes",
-            "recuweb_url": "http://fr.recuweb.com/collection/gamergen.com/2015/04/star-wars-force-collection-d%C3%A9barque-sur-mobiles-en-france",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://gamergen.com/actualites/star-wars-force-collection-debarque-mobiles-france-261830-1"
+            "tags": "top,\u00e9t\u00e9,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/meltyfashion.fr/2015/04/tendance-beaut%C3%A9-printemps-%C3%A9t%C3%A9-2015-modern-tribes-by-kiko-la-meltyfashion",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
+            "source_url": "http://meltyfashion.fr/tendance-beaute-printemps-ete-2015-modern-tribes-by-kiko-la-collection-multi-ethnique-a405142.html"
         },
         "fr.news.yahoo.com/2015/03/une-collection-de-pi%C3%A8ces-et-d-accessoires-top-gear-france": {
             "title": "Une collection de pi\u00e8ces et d'accessoires \"Top Gear France\" en vente sur eBay...",
             "snippet": "(Relaxnews) - Une \"Collection officielle Top Gear France\" disponible sur eBay va permettre d'acqu\u00e9rir des pi\u00e8ces d\u00e9tach\u00e9es et des accessoires inspir\u00e9s de ou rep\u00e9r\u00e9s dans l'adaptation fran\u00e7ais de la c\u00e9l\u00e8bre \u00e9mission t\u00e9l\u00e9vis\u00e9e...",
             "date": "2015-03-18",
             "categories": "collection",
-            "tags": "c\u00e9l\u00e8bre,collection,france",
+            "tags": "collection,top,france",
             "recuweb_url": "http://fr.recuweb.com/collection/fr.news.yahoo.com/2015/03/une-collection-de-pi%C3%A8ces-et-d-accessoires-top-gear-france",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=collection",
             "source_url": "http://fr.news.yahoo.com/collection-pi\u00e8ces-daccessoires-top-gear-france-vente-ebay-173006817.html"
