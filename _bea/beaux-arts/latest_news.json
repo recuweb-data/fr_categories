@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "beaux-arts",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/beaux-arts/",
@@ -10,52 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/beaux-arts/beaux-arts/blogs.json"
     },
     "items": {
-        "lavoixdunord.fr/2015/04/dunkerque-pill%C3%A9es-par-les-nazis-sept-%C5%93uvres-sont-h%C3%A9berg%C3%A9es-au-mus%C3%A9e": {
-            "title": "Dunkerque: pill\u00e9es par les nazis, sept \u0153uvres sont h\u00e9berg\u00e9es au Mus\u00e9e des beaux-arts...",
-            "snippet": "Il y a un an, avec la sortie de son film Monuments Men, George Clooney apportait un \u00e9clairage sur un pan m\u00e9connu de lhistoire: la spoliation d\u0153uvres dart par le r\u00e9gime nazi ou leur acquisition douteuse par quelques profiteurs. \u00c0 la fin du...",
-            "date": "2015-04-06",
+        "dakaractu.com/2015/04/beaux-arts-caroline-gu%C3%A8ye-expose-brillamment-ses-%C3%A9toiles-sur-terre-devant": {
+            "title": "Beaux Arts: Caroline Gu\u00e8ye expose brillamment ses \u00e9toiles sur terre devant un riche parterre...",
+            "snippet": "Cest dans l'ambiance conviviale de la galerie Kemboury que sest ouverte aujourdhui lexposition de magnifiques \u0153uvres dune jeune peintre au talent av\u00e9r\u00e9. Dorigine franco-togolo-s\u00e9n\u00e9galaise, Caroline Gu\u00e8ye, petite fille de Djim Momar...",
+            "date": "2015-04-24",
+            "categories": "beaux-arts,arts",
+            "tags": "beaux,beaux_arts,arts",
+            "recuweb_url": "http://fr.recuweb.com/arts/dakaractu.com/2015/04/beaux-arts-caroline-gu%C3%A8ye-expose-brillamment-ses-%C3%A9toiles-sur-terre-devant",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=beaux%2Barts&format=RSS&cc=fr",
+            "source_url": "http://dakaractu.com/Beaux-Arts-Caroline-Gueye-expose-brillamment-ses-etoiles-sur-terre-devant-un-riche-parterre-d-invites_a88626.html?com"
+        },
+        "lavoixdunord.fr/2015/04/la-pose-d-une-bche-publicitaire-g%C3%A9ante-sur-les-beaux-arts": {
+            "title": "La pose d'une bche publicitaire g\u00e9ante sur les Beaux-Arts divise la... - La Voix du Nord...",
+            "snippet": "La Voix du NordLa pose d'une bche publicitaire g\u00e9ante sur les Beaux-Arts divise la...La Voix du NordLa premi\u00e8re tranche du chantier de restauration des toitures du palais des Beaux-Arts doit commencer cet \u00e9t\u00e9. Co\u00fbt estim\u00e9: 8 millions d'euros.",
+            "date": "2015-04-24",
             "categories": "arts",
-            "tags": "mus\u00e9e,beaux,arts",
-            "recuweb_url": "http://fr.recuweb.com/arts/lavoixdunord.fr/2015/04/dunkerque-pill%C3%A9es-par-les-nazis-sept-%C5%93uvres-sont-h%C3%A9berg%C3%A9es-au-mus%C3%A9e",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=beaux%2Barts&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/dunkerque-pillees-par-les-nazis-sept-oeuvres-sont-ia17b47588n2756800"
+            "tags": "tranche,palais,beaux,arts,nord",
+            "recuweb_url": "http://fr.recuweb.com/arts/lavoixdunord.fr/2015/04/la-pose-d-une-bche-publicitaire-g%C3%A9ante-sur-les-beaux-arts",
+            "resource_url": "http://news.google.fr/?hl=fr&q=beaux%2Barts&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/la-pose-d-une-bache-publicitaire-geante-sur-les-ia19b0n2790061"
         },
-        "paris-normandie.fr/2015/04/go%C3%BBteux-go%C3%BBt%C3%A9-au-mus%C3%A9e-paris-normandie-inscription": {
-            "title": "Go\u00fbteux go\u00fbt\u00e9 au mus\u00e9e - Paris Normandie (Inscription)...",
-            "snippet": "Paris Normandie (Inscription)Go\u00fbteux go\u00fbt\u00e9 au mus\u00e9eParis Normandie (Inscription)Afin de c\u00e9l\u00e9brer Sienne et la Renaissance, Pques et le plaisir des sens, le mus\u00e9e des Beaux-Arts a organis\u00e9 samedi un go\u00fbter impromptu et culturel pour...",
-            "date": "2015-04-05",
-            "categories": "plaisir,arts",
-            "tags": "mus\u00e9e,beaux,arts",
-            "recuweb_url": "http://fr.recuweb.com/arts/paris-normandie.fr/2015/04/go%C3%BBteux-go%C3%BBt%C3%A9-au-mus%C3%A9e-paris-normandie-inscription",
-            "resource_url": "http://news.google.fr/?hl=fr&q=beaux%2Barts%2Bbeaux%2Barts&output=atom&nord=1",
-            "source_url": "http://paris-normandie.fr/detail_communes/articles/2902362/gouteux-goute-au-musee"
-        },
-        "courrierdelouest.fr/2015/04/angers-les-beaux-arts-en-mode-djeune-retour-images": {
-            "title": "Angers Les Beaux-Arts en mode djeune: retour en images sur la soir\u00e9e Chabada...",
-            "snippet": "Le Chabada sinvitait au Mus\u00e9e des Beaux-Arts d'Angers, mardi. Une foule importante d\u00e9tudiants a investi salles et couloirs pour du son, de limage et un peu de griserie artistique et de griserie tout court. Communes...",
-            "date": "2015-04-03",
+        "quebec.huffingtonpost.ca/2015/04/alex-colville-exposition-au-mus%C3%A9e-des-beaux-arts-du-canada": {
+            "title": "Alex Colville: exposition au Mus\u00e9e des beaux-arts du Canada...",
+            "snippet": "Alex Colville pr\u00e9sentera plusieurs de ses oeuvres au Mus\u00e9e des beaux-arts du Canada (MBAC) du 23 avril au 7 septembre 2015. En tout, c'est plus de 250 oeuvres qui seront mises de l'avant: tableaux, estampes, croquis et \u00e9tudes. Ce sera...",
+            "date": "2015-04-22",
             "categories": "arts",
-            "tags": "beaux,arts,mus\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/arts/courrierdelouest.fr/2015/04/angers-les-beaux-arts-en-mode-djeune-retour-images",
+            "tags": "oeuvres,exposition,mus\u00e9e,beaux,arts,tableaux",
+            "recuweb_url": "http://fr.recuweb.com/arts/quebec.huffingtonpost.ca/2015/04/alex-colville-exposition-au-mus%C3%A9e-des-beaux-arts-du-canada",
             "resource_url": "http://www.bing.com/news/search?first=1&q=beaux%2Barts&format=RSS&cc=fr",
-            "source_url": "http://courrierdelouest.fr/en-images/angers-les-beaux-arts-en-mode-djeune-retour-en-images-sur-la-soiree-chabada-02-04-2015-213"
+            "source_url": "http://quebec.huffingtonpost.ca/2015/04/22/alex-colville-exposition-alex-colville_n_7120764.html"
         },
-        "larep.fr/2015/04/des-tableaux-sonoresau-mus%C3%A9e-beaux-arts": {
-            "title": "Des tableaux sonoresau mus\u00e9e des Beaux-Arts...",
-            "snippet": "Localement, les h\u00e9ritiers dAngus Young, Phil Collins ou Jean-Louis Aubert surfent sur lengouement pour les groupes disparus ou trop rares. Tour dhorizon non exhaustif des tribute made in Orl\u00e9ans. Le stage Zen attitude pour ton bac...",
-            "date": "2015-04-03",
-            "categories": "arts,zen",
-            "tags": "mus\u00e9e,beaux,arts",
-            "recuweb_url": "http://fr.recuweb.com/zen/larep.fr/2015/04/des-tableaux-sonoresau-mus%C3%A9e-beaux-arts",
+        "estrepublicain.fr/2015/04/performance-besan%C3%A7on-le-mus%C3%A9e-des-beaux-arts-transform%C3%A9-en-th%C3%A9tre": {
+            "title": "Performance Besan\u00e7on: le mus\u00e9e des beaux-arts transform\u00e9 en th\u00e9tre de lhumain...",
+            "snippet": "Le mus\u00e9e vide de Besan\u00e7on, pour cause de travaux, a perdu ses tableaux. Cela tombe bien, le collectif GdRA accroche des vid\u00e9os o\u00f9 des hommes et des femmes t\u00e9moignent. Installations et performances sont \u00e9galement au programme dune plong\u00e9e dans...",
+            "date": "2015-04-21",
+            "categories": "arts",
+            "tags": "o\u00f9,collectif,tableaux,mus\u00e9e,beaux,arts",
+            "recuweb_url": "http://fr.recuweb.com/arts/estrepublicain.fr/2015/04/performance-besan%C3%A7on-le-mus%C3%A9e-des-beaux-arts-transform%C3%A9-en-th%C3%A9tre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=beaux%2Barts&format=RSS&cc=fr",
-            "source_url": "http://larep.fr/loiret/actualite/pays/orleans-metropole/2015/04/04/des-tableaux-sonoresau-musee-des-beaux-arts_11392211.html"
+            "source_url": "http://estrepublicain.fr/edition-de-besancon/2015/04/22/besancon-le-musee-des-beaux-arts-transforme-en-theatre-de-l-humain"
+        },
+        "france3-regions.francetvinfo.fr/2015/04/lille-donald-s-invite-au-mus%C3%A9e-des-beaux-arts-francetv-info": {
+            "title": "Lille: Donald s'invite au Mus\u00e9e des Beaux-Arts - Francetv info...",
+            "snippet": "Francetv infoLille: Donald s'invite au Mus\u00e9e des Beaux-ArtsFrancetv infoVoici le travail original d'un collectif d'artistes allemands: 80 tableaux diss\u00e9min\u00e9s, qui d\u00e9tournent les oeuvres. On sourit, on r\u00e9fl\u00e9chit... Une belle exposition a voir...",
+            "date": "2015-04-13",
+            "categories": "arts",
+            "tags": "exposition,oeuvres,tableaux,collectif,invite,lille,donald,mus\u00e9e,beaux,arts",
+            "recuweb_url": "http://fr.recuweb.com/arts/france3-regions.francetvinfo.fr/2015/04/lille-donald-s-invite-au-mus%C3%A9e-des-beaux-arts-francetv-info",
+            "resource_url": "http://news.google.fr/?hl=fr&q=beaux%2Barts&output=atom&nord=1",
+            "source_url": "http://france3-regions.francetvinfo.fr/nord-pas-de-calais/2015/04/13/lille-donald-s-invite-au-musee-des-beaux-arts-703719.html"
+        },
+        "nordeclair.fr/2015/04/donald-invit%C3%A9-d-honneur-au-palais-des-beaux-arts-de-lille": {
+            "title": "Donald, invit\u00e9 d'honneur au palais des Beaux-Arts de Lille - Nord...",
+            "snippet": "Nord, invit\u00e9 d'honneur au palais des Beaux-Arts de LilleNord le deuxi\u00e8me Open Museum, d\u00e9di\u00e9 cette fois au collectif berlinois interDuck, le canard de Walt Disney s'immisce dans les collections du mus\u00e9e. Un exercice in\u00e9dit en France entre...",
+            "date": "2015-04-10",
+            "categories": "collection,arts",
+            "tags": "collectif,museum,palais,donald,beaux,arts,lille,nord,mus\u00e9e,france",
+            "recuweb_url": "http://fr.recuweb.com/arts/nordeclair.fr/2015/04/donald-invit%C3%A9-d-honneur-au-palais-des-beaux-arts-de-lille",
+            "resource_url": "http://news.google.fr/?hl=fr&q=beaux%2Barts&output=atom&nord=1",
+            "source_url": "http://nordeclair.fr/info-locale/donald-invite-d-honneur-au-palais-des-beaux-arts-de-lille-jna49b0n698146"
         },
         "fr.news.yahoo.com/2015/02/meilleur-ouvrier-de-france-fromager-les-beaux-arts-sur-un-plateau": {
             "title": "Meilleur ouvrier de France fromager: les beaux-arts sur un plateau...",
             "snippet": "Marc brandit une roue de comt\u00e9 \u00e9vid\u00e9e en son coeur, une fen\u00eatre et ses volets ouverts au-dessus d'un camembert aux morilles. En face, Ludovic fait surgir un coucou de sa tranche de parmesan, en \u00e9quilibre sur des voies de chemin de fer.",
             "date": "2015-02-24",
             "categories": "arts",
-            "tags": "beaux,arts",
+            "tags": "tranche,france,beaux,arts",
             "recuweb_url": "http://fr.recuweb.com/arts/fr.news.yahoo.com/2015/02/meilleur-ouvrier-de-france-fromager-les-beaux-arts-sur-un-plateau",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=beaux%2Barts",
             "source_url": "http://fr.news.yahoo.com/meilleur-ouvrier-france-fromager-beaux-arts-plateau-162601223--finance.html"
