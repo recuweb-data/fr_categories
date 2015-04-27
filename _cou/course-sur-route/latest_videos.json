@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "course-sur-route",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/course-sur-route/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/course-sur-route-hem-marrakech-2015": {
+            "title": "Course sur Route- HEM Marrakech 2015...",
+            "snippet": "Course sur Route- HEM Marrakech 2015 D\u00e9couvrez en vid\u00e9o la Course sur route organis\u00e9e par HEM Marrakech, le dimanche 15 mars 2015. Une \u00e9preuve sportive sur une distance de 6 Km pleinement v\u00e9cue par des HEMistes et des lyc\u00e9ens. From: Groupe HEM...",
+            "date": "2015-04-16",
+            "author_name": "Groupe HEM",
+            "tags": "dimanche,route,course,mars",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/course-sur-route-hem-marrakech-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=3p_JZQZNXqI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3p_JZQZNXqI/0.jpg"
+        },
         "dailymotion.com/2015/03/course-sur-route-creusot-cat%C3%A9gorie-benjamins-22-03-2015": {
             "title": "Course sur route creusot cat\u00e9gorie benjamins 22/03/2015...",
             "snippet": "Course sur route creusot cat\u00e9gorie des benjamins 22/03/2015Author: cyclisme71Tags: Cyclisme velo creusot montceau course Posted: 26 March 2015Rating:: 0...",
@@ -38,7 +50,7 @@
             "snippet": "L'Enfer du Chablais course Nationale sur route le 22 mars 2015 Nouvelle course Nationale sur route dans la plaine du Rh\u00f4ne, parcours de 9km750 dont 1km800 de route non goudronn\u00e9e, pour les cat\u00e9gories cadets, juniors et amateurs/\u00e9lites. Plus...",
             "date": "2015-01-25",
             "author_name": "Forestier Claude-Alain",
-            "tags": "route,course",
+            "tags": "route,course,mars",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/01/l-enfer-du-chablais-course-nationale-sur-route-le-22-mars",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=HQtDCnaUaqs&feature=youtube_gdata",
@@ -51,7 +63,7 @@
             "author_name": "frederic-de-nime",
             "tags": "course,route",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/01/course-multi-gran-turismo-6-sur-special-stage-route-5",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/course+sur+route+course+sur+route/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/course+sur+route/0?af=1",
             "source_url": "http://dailymotion.com/video/x2e6pq6_course-multi-gran-turismo-6-sur-special-stage-route-5_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2e6pq6_course-multi-gran-turismo-6-sur-special-stage-route-5_videogames"
         },
@@ -62,7 +74,7 @@
             "author_name": "f100006975609242",
             "tags": "route,course,tags",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2014/11/imb%C3%A9ciles-sur-la-route-font-course",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/course+sur+route+course+sur+route/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/course+sur+route/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ai4s8_imbeciles-sur-la-route-font-la-course_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ai4s8_imbeciles-sur-la-route-font-la-course_auto"
         },
@@ -79,7 +91,7 @@
         },
         "youtube.com/2014/11/d%C3%A9part-de-la-course-route-du-rhum-2014": {
             "title": "D\u00e9part de la course - Route du Rhum 2014...",
-            "snippet": "D\u00e9part de la course - Route du Rhum 2014 Revivez le d\u00e9part de la Route du Rhum - Destination Guadeloupe 2014. Abonnez vous \u00e0 SailingNewsTV Site web Facebook. From: Sailing News TV Views: 2251 7 ratings Time: 04:05 More in Sports...",
+            "snippet": "D\u00e9part de la course - Route du Rhum 2014 Revivez le d\u00e9part de la Route du Rhum - Destination Guadeloupe 2014. Abonnez vous \u00e0 SailingNewsTV Site web Facebook. From: Sailing News TV Views: 2270 7 ratings Time: 04:05 More in Sports...",
             "date": "2014-11-03",
             "author_name": "Sailing News TV",
             "categories": "facebook,sport",
@@ -107,23 +119,11 @@
             "date": "2014-10-05",
             "author_name": "Club Cycliste du Valois",
             "categories": "sport",
-            "tags": "cat\u00e9gorie,route,course,sports",
+            "tags": "cat\u00e9gorie,route,course,dimanche,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/marines-course-ufolep-sur-route",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=j90t60sVTvo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/j90t60sVTvo/0.jpg"
-        },
-        "dailymotion.com/2014/07/course-de-chevaux-sur-route": {
-            "title": "Course de chevaux sur route...",
-            "snippet": "Deux cavaliers vont se lancer dans une course de chevaux sur route, suivis de motos et scooters. Il faut savoir que ce type de course sur route est tr\u00e8s dangereux pour ces animaux et traumatisants pour leurs: mineyannTags: cavaliers course chevaux...",
-            "date": "2014-07-22",
-            "author_name": "mineyann",
-            "categories": "course-sur-route",
-            "tags": "course,route",
-            "recuweb_url": "http://fr.recuweb.com/course-sur-route/dailymotion.com/2014/07/course-de-chevaux-sur-route",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/course+sur+route+course+sur+route/0?af=1",
-            "source_url": "http://dailymotion.com/video/x21wwfx_course-de-chevaux-sur-route_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x21wwfx_course-de-chevaux-sur-route_sport"
         }
     }
 }
