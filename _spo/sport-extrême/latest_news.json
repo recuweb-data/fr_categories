@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-extr\u00eame",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-extr\u00eame/",
@@ -10,35 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-extr%C3%AAme/sport-extr%C3%AAme/blogs.json"
     },
     "items": {
+        "sport24.lefigaro.fr/2015/04/quand-le-sport-se-cherche-une-c%C3%A9r%C3%A9monie-digne-des-oscars": {
+            "title": "Quand le sport se cherche une c\u00e9r\u00e9monie digne des Oscars du... - Le Figaro...",
+            "snippet": "Le FigaroQuand le sport se cherche une c\u00e9r\u00e9monie digne des Oscars du...Le FigaroRepartis en 7 cat\u00e9gories: Sportif masculin de l'ann\u00e9e, sportive f\u00e9minine de la saison, r\u00e9v\u00e9lation, come-back de l'ann\u00e9e, \u00e9quipe de l'ann\u00e9e, sportif extr\u00eame de...",
+            "date": "2015-04-24",
+            "categories": "sport",
+            "tags": "sportive,sport,extr\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/sport/sport24.lefigaro.fr/2015/04/quand-le-sport-se-cherche-une-c%C3%A9r%C3%A9monie-digne-des-oscars",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme&output=atom&nord=1",
+            "source_url": "http://sport24.lefigaro.fr/le-scan-sport/business/2015/04/24/27004-20150424ARTFIG00198-quand-le-sport-se-cherche-une-ceremonie-digne-des-oscars-du-cinema.php"
+        },
+        "fr.sports.yahoo.com/2015/04/top-10-base-jump-extr%C3%AAme-si-vous-avez-le-vertige": {
+            "title": "TOP 10: Base jump extr\u00eame, si vous avez le vertige, ne regardez... - Yahoo Sport...",
+            "snippet": "Yahoo SportTOP 10: Base jump extr\u00eame, si vous avez le vertige, ne regardez...Yahoo SportTim Howell, un amoureux de Base Jump s'est lanc\u00e9 le d\u00e9fi d'escalader le mur le plus haut du monde. Il s'est donc rendu au barrage d'Emosson en Suisse, et nous...",
+            "date": "2015-04-24",
+            "categories": "yahoo,sport",
+            "tags": "donc,monde,jump,sport,top,base,extr\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/top-10-base-jump-extr%C3%AAme-si-vous-avez-le-vertige",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme&output=atom&nord=1",
+            "source_url": "http://fr.sports.yahoo.com/blogs/harold-quinquis/top-10-base-jump-extreme-si-vous-avez-le-130716516.html"
+        },
+        "nypost.com/2015/04/the-new-extreme-sport-of-playing-russian-roulette-with-stun-guns": {
+            "title": "The new extreme sport of playing Russian roulette with stun guns - New York Post...",
+            "snippet": "New York PostThe new extreme sport of playing Russian roulette with stun gunsNew York PostHardcore masochists have been using stun guns to play Russian roulette as part of a new extreme sport in which people get rewarded for electrocuting...",
+            "date": "2015-04-24",
+            "categories": "play,sport",
+            "tags": "extreme,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/nypost.com/2015/04/the-new-extreme-sport-of-playing-russian-roulette-with-stun-guns",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme%2Bsport%2Bextr%C3%AAme&output=atom&nord=1",
+            "source_url": "http://nypost.com/2015/04/24/the-extreme-new-sport-of-playing-russian-roulette-with-tasers/"
+        },
+        "letelegramme.fr/2015/04/etats-unis-vapoter-est-un-sport-extr%C3%AAme": {
+            "title": "Etats-Unis. Vapoter est un sport extr\u00eame...",
+            "snippet": "1,2,3... Tirez. C'est le top d\u00e9part d'une nouvelle pratique en vogue aux Etats-Unis. Il n'a pas fallu longtemps aux Am\u00e9ricains pour trouver un nouvel amusement autour de la cigarette \u00e9lectronique. Apr\u00e8s le concours du plus gros hamburger du...",
+            "date": "2015-04-22",
+            "categories": "electronique,sport",
+            "tags": "nouvelle,top,sport,extr\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/sport/letelegramme.fr/2015/04/etats-unis-vapoter-est-un-sport-extr%C3%AAme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bextr%C3%AAme&format=RSS&cc=fr",
+            "source_url": "http://letelegramme.fr/monde/etats-unis-vapoter-est-un-sport-extreme-22-04-2015-10604384.php"
+        },
+        "essonneinfo.fr/2015/04/les-enfants-de-lisses-vont-apprendre-le-parkour": {
+            "title": "Les enfants de Lisses vont apprendre le Parkour...",
+            "snippet": "Lisses a une histoire avec le Parkour. Cest en effet la ville dans laquelle ce sport extr\u00eame, qui fait de plus en plus dadeptes en France et dans le monde, a \u00e9t\u00e9 invent\u00e9 par David Belle. Fi\u00e8re de cette histoire sportive, la ville a donc...",
+            "date": "2015-04-21",
+            "categories": "sport",
+            "tags": "donc,histoire,sportive,monde,sport,extr\u00eame,france",
+            "recuweb_url": "http://fr.recuweb.com/sport/essonneinfo.fr/2015/04/les-enfants-de-lisses-vont-apprendre-le-parkour",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bextr%C3%AAme&format=RSS&cc=fr",
+            "source_url": "http://essonneinfo.fr/91-essonne-info/78142/les-enfants-de-lisses-vont-apprendre-le-parkour/"
+        },
+        "corsematin.com/2015/04/d%C3%A9monstration-de-flyboard": {
+            "title": "D\u00e9monstration de flyboard...",
+            "snippet": "Le salon nautique de Porticcio se termine aujourd'hui. Hier, les amateurs de jeux aquatiques ont pu appr\u00e9cier la performance de Laurent Calliot, champion du monde de flyboard, qui s'est illustr\u00e9 lors d'une d\u00e9monstration de ce sport extr\u00eame.",
+            "date": "2015-04-19",
+            "categories": "sport",
+            "tags": "monde,sport,extr\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/sport/corsematin.com/2015/04/d%C3%A9monstration-de-flyboard",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bextr%C3%AAme&format=RSS&cc=fr",
+            "source_url": "http://corsematin.com/diaporama/demonstration-de-flyboard.1764444.html"
+        },
+        "linfo.re/2015/04/impressionnant-et-hilarant-d%C3%A9couvrez-un-nouveau-sport-extr%C3%AAme": {
+            "title": "Impressionnant et hilarant: d\u00e9couvrez un nouveau sport extr\u00eame... -...",
+            "snippet": "et hilarant: d\u00e9couvrez un nouveau sport extr\u00eame... \u00e8s le Hover Board inspir\u00e9 du \"Retour vers le futur\", voici la grosse boule d'Indiana Jones. A lire \u00e9galement. Nouvelle-Z\u00e9lande Nouvelle-Z\u00e9lande-R\u00e9galec. Nouvelle-Z\u00e9lande: un monstre marin...",
+            "date": "2015-04-16",
+            "categories": "sport",
+            "tags": "\u00e9galement,indiana,indiana_jones,jones,d\u00e9couvrez,d\u00e9couvrez-un-nouveau,nouveau,hilarant,impressionnant,sport,extr\u00eame,nouvelle",
+            "recuweb_url": "http://fr.recuweb.com/sport/linfo.re/2015/04/impressionnant-et-hilarant-d%C3%A9couvrez-un-nouveau-sport-extr%C3%AAme",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme&output=atom&nord=1",
+            "source_url": "http://linfo.re/magazine/insolite/667254-impressionnant-et-hilarant-decouvrez-un-nouveau-sport-extreme-inspire-d-indiana-jones"
+        },
         "rtl.be/2015/04/impressionnant-d%C3%A9couvrez-un-nouveau-sport-extr%C3%AAme-et-hilarant-rtl-info-inscription": {
             "title": "Impressionnant: d\u00e9couvrez un nouveau sport extr\u00eame et hilarant... - RTL info (Inscription)...",
             "snippet": "RTL info (Inscription)Impressionnant: d\u00e9couvrez un nouveau sport extr\u00eame et hilarant...RTL info (Inscription)Un Youtubeur a voulu recr\u00e9er Indiana Jones dans \"la vraie vie\"... Le r\u00e9sultat vaut le coup d'\u0153il! Certains se souviennent peut-\u00eatre de...",
             "date": "2015-04-13",
             "categories": "sport",
-            "tags": "vie,nouveau,sport,extr\u00eame",
+            "tags": "vie,indiana,indiana_jones,jones,hilarant,d\u00e9couvrez,d\u00e9couvrez-un-nouveau,nouveau,impressionnant,sport,extr\u00eame",
             "recuweb_url": "http://fr.recuweb.com/sport/rtl.be/2015/04/impressionnant-d%C3%A9couvrez-un-nouveau-sport-extr%C3%AAme-et-hilarant-rtl-info-inscription",
             "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme&output=atom&nord=1",
             "source_url": "http://rtl.be/people/buzz/impressionnant-decouvrez-un-nouveau-sport-extreme-et-hilarant-inspire-d-indiana-jones-video--715415.aspx"
-        },
-        "e-adrenaline.fr/2015/04/les-10-meilleures-vid%C3%A9os-de-sport-extr%C3%AAme-pour-ans-youtube-e": {
-            "title": "Les 10 meilleures vid\u00e9os de sport extr\u00eame pour les 10 ans de youtube - e-adrenaline...",
-            "snippet": "e-adrenalineLes 10 meilleures vid\u00e9os de sport extr\u00eame pour les 10 ans de youtubee-adrenalineCette ann\u00e9e, le c\u00e9l\u00e8bre site youtube f\u00eate ses 10 ans et pour l'occasion nous avons s\u00e9lectionn\u00e9 10 vid\u00e9os de sports extr\u00eames qui ont marqu\u00e9 les...",
-            "date": "2015-04-07",
-            "categories": "sport",
-            "tags": "occasion,avons,avons-s\u00e9lectionn\u00e9,s\u00e9lectionn\u00e9,c\u00e9l\u00e8bre,youtube,f\u00eate,meilleures,meilleures-vid\u00e9os,sports,extr\u00eames,adrenaline,adrenalineles,adrenalinecette,ann\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/sport/e-adrenaline.fr/2015/04/les-10-meilleures-vid%C3%A9os-de-sport-extr%C3%AAme-pour-ans-youtube-e",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme&output=atom&nord=1",
-            "source_url": "http://e-adrenaline.fr/air/actualites/-les-10-meilleures-videos-de-sport-extreme-pour-les-10-ans-de-youtube/6132"
-        },
-        "e-adrenaline.fr/2015/04/les-10-meilleures-vid%C3%A9os-de-sport-extr%C3%AAmes-pour-ans-e-adrenaline": {
-            "title": "Les 10 meilleures vid\u00e9os de sport extr\u00eames pour les 10 ans de... - e-adrenaline...",
-            "snippet": "e-adrenalineLes 10 meilleures vid\u00e9os de sport extr\u00eames pour les 10 ans de...e-adrenalineCette ann\u00e9e, la c\u00e9l\u00e8bre plateforme vid\u00e9os Youtube f\u00eate ses 10 ans. Pour l'occasion, nous avons s\u00e9lectionn\u00e9 10 vid\u00e9os de sports extr\u00eames qui ont...",
-            "date": "2015-04-07",
-            "categories": "sport",
-            "tags": "avons,avons-s\u00e9lectionn\u00e9,s\u00e9lectionn\u00e9,f\u00eate,c\u00e9l\u00e8bre,meilleures,meilleures-vid\u00e9os,sports,extr\u00eames,adrenaline,adrenalineles,adrenalinecette,ann\u00e9e,youtube,occasion",
-            "recuweb_url": "http://fr.recuweb.com/sport/e-adrenaline.fr/2015/04/les-10-meilleures-vid%C3%A9os-de-sport-extr%C3%AAmes-pour-ans-e-adrenaline",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bextr%C3%AAme%2Bsport%2Bextr%C3%AAme&output=atom&nord=1",
-            "source_url": "http://e-adrenaline.fr/air/actualites/-les-10-meilleures-videos-de-sport-extremes-pour-les-10-ans-de-youtube/6132"
         }
     }
 }
