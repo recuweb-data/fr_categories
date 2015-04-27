@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "competition-automobile",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/competition-automobile/",
@@ -10,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/competition-automobile/competition-automobile/blogs.json"
     },
     "items": {
+        "news.sportauto.fr/2015/04/f1-michel-vaillant-a-chang%C3%A9-la-vie-de-boullier-sport-auto": {
+            "title": "F1 - Michel Vaillant a chang\u00e9 la vie de Boullier - Sport Auto...",
+            "snippet": "Sport AutoF1 - Michel Vaillant a chang\u00e9 la vie de BoullierSport AutoEric Boullier est le responsable de la comp\u00e9tition de McLaren depuis la saison derni\u00e8re, mais il a d\u00e9but\u00e9 sa carri\u00e8re en sport automobile en tant qu'ing\u00e9nieur. Sa carri\u00e8re a...",
+            "date": "2015-04-23",
+            "categories": "sport",
+            "tags": "sport,auto,comp\u00e9tition,automobile",
+            "recuweb_url": "http://fr.recuweb.com/sport/news.sportauto.fr/2015/04/f1-michel-vaillant-a-chang%C3%A9-la-vie-de-boullier-sport-auto",
+            "resource_url": "http://news.google.fr/?hl=fr&q=competition%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://news.sportauto.fr/news/1493179/eric-boullier-luc-besson-michel-vaillant-McLaren-MP4-30"
+        },
         "lequipe.fr/2015/03/le-sport-auto-moteur-de-recherches-l-%C3%A9": {
             "title": "Le sport auto, moteur de recherches - L'\u00c9...",
             "snippet": "L'\u00c9 sport auto, moteur de recherchesL'\u00c9 comp\u00e9tition automobile a toujours constitu\u00e9 un formidable laboratoire technologique. Dans un contexte environnemental qui \u00e9volue, quelles sont les pistes d\u00e9velopp\u00e9es pour le futur? Des ing\u00e9nieurs...",
@@ -17,7 +28,7 @@
             "categories": "moteur-de-recherche,sport",
             "tags": "sport,auto,comp\u00e9tition,automobile",
             "recuweb_url": "http://fr.recuweb.com/sport/lequipe.fr/2015/03/le-sport-auto-moteur-de-recherches-l-%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=competition%2Bautomobile&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=competition%2Bautomobile%2Bcompetition%2Bautomobile&output=atom&nord=1",
             "source_url": "http://lequipe.fr/Tous-sports/Article/Le-sport-auto-moteur-de-recherches/44600"
         }
     }
