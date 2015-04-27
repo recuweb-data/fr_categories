@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "photographie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/photographie/",
@@ -10,71 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/blogs.json"
     },
     "items": {
-        "combatsdroitshomme.blog.lemonde.fr/2015/04/le-d%C3%A9fenseur-des-droits-prend-une-photographie-peu-r%C3%A9jouissante": {
-            "title": "Le D\u00e9fenseur des droits prend une photographie peu r\u00e9jouissante...",
-            "snippet": "Pour citer ce document: Patricia Rrapi, Le D\u00e9fenseur des droits prend une photographie peu r\u00e9jouissante de la soci\u00e9t\u00e9 fran\u00e7aise, in Revue des droits de l'homme, 7 avril 2015 (Lien:).",
-            "date": "2015-04-11",
-            "author_name": "CPDH",
+        "hollywoodpq.com/2015/04/bruce-jenner-photographi%C3%A9-en-robe-pour-la-premi%C3%A8re": {
+            "title": "Bruce Jenner photographi\u00e9 en robe pour la premi\u00e8re fois...",
+            "snippet": "Bruce Jenner photographi\u00e9 en robe pour la premi\u00e8re fois. Panique g\u00e9n\u00e9rale! Hier, Bruce Jenner contactait la police puisque des paparazzis prenaie.",
+            "date": "2015-04-22",
+            "author_name": "Karine P",
             "categories": "photographie",
-            "tags": "peu,photographie,avril",
-            "recuweb_url": "http://fr.recuweb.com/photographie/combatsdroitshomme.blog.lemonde.fr/2015/04/le-d%C3%A9fenseur-des-droits-prend-une-photographie-peu-r%C3%A9jouissante",
-            "resource_url": "http://www.google.com/search?q=photographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://combatsdroitshomme.blog.lemonde.fr/2015/04/11/le-defenseur-des-droits-prend-une-photographie-peu-rejouissante-de-la-societe-francaise/"
-        },
-        "ledecoublogue.com/2015/03/les-premi%C3%A8res-photographies-canadiennes-de-voyage": {
-            "title": "Les premi\u00e8res photographies canadiennes de voyage une...",
-            "snippet": "Ces photographies, tir\u00e9es des collections de Biblioth\u00e8que et Archives Canada, nous montrent comment les visiteurs voyaient le pays, souvent pour la premi\u00e8re fois. Elles nous font partager l'\u00e9merveillement des voyageurs...",
-            "date": "2015-03-06",
-            "author_name": "Le blogue de Biblioth\u00e8que et Archives Canada",
-            "categories": "collection,photographie",
-            "tags": "partager,voyage,photographies",
-            "recuweb_url": "http://fr.recuweb.com/photographie/ledecoublogue.com/2015/03/les-premi%C3%A8res-photographies-canadiennes-de-voyage",
+            "tags": "photographi\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/photographie/hollywoodpq.com/2015/04/bruce-jenner-photographi%C3%A9-en-robe-pour-la-premi%C3%A8re",
             "resource_url": "http://www.google.com/search?q=photographie%2Bphotographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ledecoublogue.com/2015/03/06/les-premieres-photographies-canadiennes-de-voyage-une-exposition-au-musee-des-beaux-arts-du-canada/"
+            "source_url": "http://hollywoodpq.com/2015/04/22/bruce-jenner-photographie-en-robe-pour-la-premiere-fois/"
         },
-        "piwee.net/2015/03/il-photographie-une-belette-en-train-de-chevaucher-un-pic-vert": {
-            "title": "Il photographie une belette en train de chevaucher un pic-vert en...",
-            "snippet": "Une belette sur le dos d'un pic-vert: une incroyable image captur\u00e9e par Martin Le-May, un photographe britannique amateur.",
-            "date": "2015-03-03",
-            "author_name": "Julien Fabro",
-            "categories": "photographie",
-            "tags": "photographe,amateur,image,photographie",
-            "recuweb_url": "http://fr.recuweb.com/photographie/piwee.net/2015/03/il-photographie-une-belette-en-train-de-chevaucher-un-pic-vert",
+        "lesnumeriques.com/2015/04/exposition-qu-est-ce-que-la-photographie-les-num%C3%A9riques": {
+            "title": "Exposition: Qu'est-ce que la photographie? - Les Num\u00e9riques...",
+            "snippet": "Depuis le 4 mars et jusqu'au 1er juin 2015, le Centre Pompidou soul\u00e8ve bien des questions quant au positionnement de la photographie au sein de notre soci\u00e9t\u00e9, que ce soit dans l'art, l'histoire, les m\u0153urs, la science,...",
+            "date": "2015-04-19",
+            "author_name": "C\u00e9line Nebor",
+            "categories": "science,photographie",
+            "tags": "mars,photographie,art",
+            "recuweb_url": "http://fr.recuweb.com/photographie/lesnumeriques.com/2015/04/exposition-qu-est-ce-que-la-photographie-les-num%C3%A9riques",
             "resource_url": "http://www.google.com/search?q=photographie%2Bphotographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://piwee.net/1-belette-pic-vert-plein-vol-030315/"
+            "source_url": "http://lesnumeriques.com/exposition-qu-est-que-photographie-n40811.html"
         },
-        "gizmodo.fr/2015/02/depuis-11-ans-il-photographie-tout-ce-que-sa-main-droite": {
-            "title": "Depuis 11 ans il photographie tout ce que sa main droite touche...",
-            "snippet": "Dans la s\u00e9rie des \u0153uvres d'art d\u00e9cal\u00e9es, certains artistes sont plus pers\u00e9v\u00e9rants que d'autres. Celui-ci photographie tout ce que sa main droite touche.",
-            "date": "2015-02-25",
-            "author_name": "Marie",
-            "categories": "photographie",
-            "tags": "s\u00e9rie,photographie,art",
-            "recuweb_url": "http://fr.recuweb.com/photographie/gizmodo.fr/2015/02/depuis-11-ans-il-photographie-tout-ce-que-sa-main-droite",
-            "resource_url": "http://www.google.com/search?q=photographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/02/25/photographie-main-droite-touche.html"
-        },
-        "focus-numerique.com/2015/02/venez-aux-jeep-les-journ%C3%A9es-europ%C3%A9ennes-des-%C3%A9coles": {
-            "title": "Venez aux JEEP, les Journ\u00e9es europ\u00e9ennes des \u00e9coles de...",
-            "snippet": "Les JEEP, Journ\u00e9es europ\u00e9ennes des \u00e9coles de photographie, se d\u00e9rouleront du 27 f\u00e9vrier au 1er mars au CentQuatre-Paris, 134 rue d'Aubervilliers (Paris 19e), dans le cadre du festival Circulation(s) 2015. Pour la premi\u00e8re...",
-            "date": "2015-02-25",
-            "author_name": "inconnu",
-            "categories": "photographie",
-            "tags": "premi\u00e8re,cadre,festival,f\u00e9vrier,photographie",
-            "recuweb_url": "http://fr.recuweb.com/photographie/focus-numerique.com/2015/02/venez-aux-jeep-les-journ%C3%A9es-europ%C3%A9ennes-des-%C3%A9coles",
+        "frenchweb.fr/2015/04/photo-sharing-la-start-up-allemande-eyeem-l%C3%A8ve-18-millions": {
+            "title": "Photo sharing: la start-up allemande EyeEm l\u00e8ve 18 millions de...",
+            "snippet": "Le pr\u00e9curseur Flickr, filiale de Yahoo!, qui n'a pas su anticiper le virage du mobile, cible les amateurs de photographies. Mais il y a aussi EyeEm, une start-up allemande, qui \u00e9dite un service de partage de photos retouch\u00e9es...",
+            "date": "2015-04-17",
+            "author_name": "La r\u00e9daction",
+            "categories": "photographie,flickr,yahoo",
+            "tags": "photos,photo,photographies",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/frenchweb.fr/2015/04/photo-sharing-la-start-up-allemande-eyeem-l%C3%A8ve-18-millions",
             "resource_url": "http://www.google.com/search?q=photographie%2Bphotographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://focus-numerique.com/venez-jeep-journees-europeennes-ecoles-photographie-news-6470.html"
-        },
-        "siliconvalley.blog.lemonde.fr/2015/02/planet-labs-la-start-up-qui-photographie-terre-depuis-l-espace": {
-            "title": "Planet Labs, la start-up qui photographie la Terre depuis l'espace...",
-            "snippet": "Photographier l'int\u00e9gralit\u00e9 de la plan\u00e8te chaque jour, c'est l'objectif que s'est fix\u00e9 Planet Labs, une start-up cr\u00e9\u00e9e par des anciens de la NASA, l'agence spatiale am\u00e9ricaine. En quatre ans, et malgr\u00e9 des ressources...",
-            "date": "2015-02-20",
-            "author_name": "J\u00e9r\u00f4me Marin",
-            "categories": "photographie",
-            "tags": "agence,agence-spatiale,agence-spatiale-am\u00e9ricaine,spatiale-am\u00e9ricaine,am\u00e9ricaine,plan\u00e8te,photographie,terre,photographier,nasa",
-            "recuweb_url": "http://fr.recuweb.com/photographie/siliconvalley.blog.lemonde.fr/2015/02/planet-labs-la-start-up-qui-photographie-terre-depuis-l-espace",
-            "resource_url": "http://www.google.com/search?q=photographie%2Bphotographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://siliconvalley.blog.lemonde.fr/2015/02/20/planet-labs-la-start-up-qui-photographie-la-terre-depuis-lespace/"
+            "source_url": "http://frenchweb.fr/photo-sharing-la-start-up-allemande-eyeem-leve-18-millions-de-dollars-pour-sortir-du-cadre/191254"
         },
         "beau-vois.blogspot.com/2015/02/air-du-temps-la-saint-valentin": {
             "title": "Air du temps: La Saint-Valentin...",
@@ -82,32 +50,10 @@
             "date": "2015-02-13",
             "author_name": "Beauvois Anne-Christelle",
             "categories": "plaisir,photographie",
-            "tags": "plaisir,sans,photos,f\u00eate,f\u00e9vrier,images,photographie",
+            "tags": "images,photos,temps,photographie",
             "recuweb_url": "http://fr.recuweb.com/photographie/beau-vois.blogspot.com/2015/02/air-du-temps-la-saint-valentin",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=photographie%2Bphotographie&rss=1&lng=fr",
             "source_url": "http://beau-vois.blogspot.com/2015/02/air-du-temps-la-saint-valentin.html"
-        },
-        "entrequatreyeux.com/2015/02/entrequatreyeux-musique-et-photographie": {
-            "title": "Entrequatreyeux Musique et photographie...",
-            "snippet": "Musique et photographie. Les musiciens sont une source d'inspiration et d'images infinies pour les photographes, mais qu'en est-il du contraire? Vous trouverez sur cette page quelques exemples et, pour notre simple plaisir, nous souhaitons...",
-            "date": "2015-02-12",
-            "author_name": "Eric Bergevin",
-            "categories": "plaisir,musique,photographie",
-            "tags": "plaisir,photographie,images",
-            "recuweb_url": "http://fr.recuweb.com/photographie/entrequatreyeux.com/2015/02/entrequatreyeux-musique-et-photographie",
-            "resource_url": "http://www.google.com/search?q=photographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://entrequatreyeux.com/musique-et-photographie/"
-        },
-        "futura-sciences.com/2015/02/actualit%C3%A9-un-transit-de-trois-lunes-jupiter-photographi%C3%A9": {
-            "title": "Actualit\u00e9 Un transit de trois lunes de Jupiter photographi\u00e9 par...",
-            "snippet": "Le passage, relativement rare, de trois satellites galil\u00e9ens devant le globe ray\u00e9 de Jupiter n'a pas \u00e9t\u00e9 observ\u00e9 que sur Terre. En orbite, le t\u00e9lescope spatial Hubble n'a pas manqu\u00e9 cet \u00e9v\u00e9nement...",
-            "date": "2015-02-08",
-            "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
-            "categories": "photographie",
-            "tags": "t\u00e9lescope,trois,globe,rare,photographi\u00e9,\u00e9t\u00e9,terre,hubble",
-            "recuweb_url": "http://fr.recuweb.com/photographie/futura-sciences.com/2015/02/actualit%C3%A9-un-transit-de-trois-lunes-jupiter-photographi%C3%A9",
-            "resource_url": "http://www.google.com/search?q=photographie%2Bphotographie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://futura-sciences.com/magazines/espace/infos/actu/d/hubble-transit-trois-lunes-jupiter-photographie-hubble-57055/"
         },
         "francesphotographers.blogspot.com/2015/01/mariage-photojournalisme-photographie-romanesque-dfinie": {
             "title": "Mariage photojournalisme Photographie - Photographie romanesque dfinie...",
@@ -115,7 +61,7 @@
             "date": "2015-01-30",
             "author_name": "(utama)",
             "categories": "facebook,photographie,google",
-            "tags": "photos,photographie,monde",
+            "tags": "photos,comme,photographie,monde",
             "recuweb_url": "http://fr.recuweb.com/google/francesphotographers.blogspot.com/2015/01/mariage-photojournalisme-photographie-romanesque-dfinie",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=photographie%2Bphotographie&rss=1&lng=fr",
             "source_url": "http://francesphotographers.blogspot.com/2015/01/photojournalisme-photographie.html"
