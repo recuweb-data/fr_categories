@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -11,16 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "theregister.co.uk/2015/04/ninety-per-cent-of-java-blackhats-migrate-to-footling-flash": {
-            "title": "NINETY PER CENT of Java blackhats migrate to footling Flash - The Register...",
-            "snippet": "The RegisterNINETY PER CENT of Java blackhats migrate to footling FlashThe RegisterRSA 2015 Almost every Java-hacking blackhat is now popping Adobe Flash, after Microsoft's hard-line patch policy made it harder to target techs such as Java. The...",
-            "date": "2015-04-27",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/theregister.co.uk/2015/04/ninety-per-cent-of-java-blackhats-migrate-to-footling-flash",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/04/27/ninety_percent_of_java_blackhats_now_finger_flash/"
-        },
         "emploi.silicon.fr/2015/04/d%C3%A9veloppeur-java-h-f-cdi-paris": {
             "title": "D\u00e9veloppeur Java H/F - CDI - Paris...",
             "snippet": "Mangoo games est une start-up \u00e9ditrice de jeux vid\u00e9o sur mobile situ\u00e9e en plein coeur de Paris. Notre \u00e9quipe grandit et nous recherchons un/une d\u00e9veloppeur(se) Javapour nous \u00e9pauler sur diff\u00e9rents projets en lien avec nos jeux sur mobile.",
@@ -46,7 +36,7 @@
             "snippet": "Brothers La de la fusion rap/jazz, le trio new yorkais (qui compte parmi ses potes de petits groupes sympa comme De La Soul et A Tribe Called Quest, rien que \u00e7a) a marqu\u00e9 l'histoire du hip-hop avec l'album Straight Out Of The Jungle, sorti en...",
             "date": "2015-04-10",
             "categories": "java",
-            "tags": "java,jazz",
+            "tags": "java",
             "recuweb_url": "http://fr.recuweb.com/java/streetpress.com/2015/04/jungle-brothers-la-java",
             "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
             "source_url": "http://streetpress.com/sujet/1428599797-jungle-brothers-la-java"
