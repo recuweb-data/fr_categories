@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ingenierie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ingenierie/",
@@ -18,7 +19,7 @@
             "categories": "ingenierie",
             "tags": "association,association_fran\u00e7aise,fran\u00e7aise,organis\u00e9,couverts,couverts-v\u00e9g\u00e9taux,v\u00e9g\u00e9taux,ing\u00e9nierie,ing\u00e9nierie-\u00e9cologique,\u00e9cologique,syst\u00e8mes,syst\u00e8mes-de-production,production,production-durables,durables,lucien,lucien_seguy,seguy,journ\u00e9e,auch,d\u00e9cembre,arbre,paysage,gabb,agroforesterie",
             "recuweb_url": "http://fr.recuweb.com/ingenierie/youtube.com/2015/03/lucien-seguy-l-ing%C3%A9nierie-%C3%A9cologique-pour-des-syst%C3%A8mes-de-production-durables",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ingenierie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ingenierie%2Bingenierie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JLqQUKABBvg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/JLqQUKABBvg/0.jpg"
         },
