@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "juda\u00efsme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/juda\u00efsme/",
@@ -10,23 +11,33 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/juda%C3%AFsme/juda%C3%AFsme/blogs.json"
     },
     "items": {
-        "jssnews.com/2015/04/yom-hashoah-en-isra%C3%ABl-les-3-principales-c%C3%A9r%C3%A9monies-francophones": {
-            "title": "Yom Hashoah en Isra\u00ebl: les 3 principales c\u00e9r\u00e9monies francophones...",
-            "snippet": "A Netanya (9h15 devant le m\u00e9morial de la d\u00e9portation au Centre Mondial du Juda\u00efsme Tunisien 29 rue McDonalds. Dans cette c\u00e9r\u00e9monie, lUnion des Fran\u00e7ais de lEtranger sera repr\u00e9sent\u00e9e par Nathalie Mimoun. A Roglit (dans la f\u00f4ret de...",
-            "date": "2015-04-14",
-            "tags": "juda\u00efsme,isra\u00ebl,fran\u00e7ais",
-            "recuweb_url": "http://fr.recuweb.com/jssnews.com/2015/04/yom-hashoah-en-isra%C3%ABl-les-3-principales-c%C3%A9r%C3%A9monies-francophones",
+        "dna.fr/2015/04/hindisheim-conf%C3%A9rence-le-juda%C3%AFsme-en-alsace": {
+            "title": "Hindisheim - Conf\u00e9rence Le juda\u00efsme en Alsace...",
+            "snippet": "Sur invitation de la section \u00e9changes-communications et id\u00e9es (ECI) du Cercle Saint-Etienne de Hindisheim, Jean-Pierre Lambert, \u00e9minent sp\u00e9cialistedu juda\u00efsme en Alsace, a anim\u00e9 une conf\u00e9rence sur le sujet.",
+            "date": "2015-04-17",
+            "tags": "id\u00e9es,juda\u00efsme",
+            "recuweb_url": "http://fr.recuweb.com/dna.fr/2015/04/hindisheim-conf%C3%A9rence-le-juda%C3%AFsme-en-alsace",
             "resource_url": "http://www.bing.com/news/search?first=1&q=juda%C3%AFsme&format=RSS&cc=fr",
-            "source_url": "http://jssnews.com/2015/04/15/yom-hashoah-en-israel-les-3-principales-ceremonies-francophones/"
+            "source_url": "http://dna.fr/edition-de-strasbourg-erstein/2015/04/17/le-judaisme-en-alsace"
         },
-        "fr.timesofisrael.com/2015/04/catholicisme-ou-juda%C3%AFsme-pourquoi-choisir": {
-            "title": "Catholicisme ou juda\u00efsme, pourquoi choisir?",
-            "snippet": "Un couple mixte, jud\u00e9o-catholique, a choisi d\u00e9lever leurs deux enfants en fonction de deux religions: lun de leurs enfants est catholique et lautre est juif, indique le site Today de la NBC. Plut\u00f4t que de choisir une croyance ou une autre ou d...",
-            "date": "2015-04-09",
+        "actuj.com/2015/04/parachat-chemini-nadav-et-abihou-ou-l-histoire-d-un-%C3%A9chec": {
+            "title": "Parachat Chemini: Nadav et Abihou ou l'histoire d'un \u00e9chec - Actualit\u00e9 Juive...",
+            "snippet": "Actualit\u00e9 JuiveParachat Chemini: Nadav et Abihou ou l'histoire d'un \u00e9checActualit\u00e9 JuiveIsra\u00ebl Moyen-Orient Monde juif France Juda\u00efsme Communaut\u00e9 R\u00e9gions Culture Sport Boutique. Dans l'actualit\u00e9: Ce que la Shoah nous a appris. Par Shmuel...",
+            "date": "2015-04-17",
+            "categories": "culture,sport",
+            "tags": "juda\u00efsme,histoire,juif",
+            "recuweb_url": "http://fr.recuweb.com/sport/actuj.com/2015/04/parachat-chemini-nadav-et-abihou-ou-l-histoire-d-un-%C3%A9chec",
+            "resource_url": "http://news.google.fr/?hl=fr&q=juda%C3%AFsme&output=atom&nord=1",
+            "source_url": "http://actuj.com/2015-04/judaisme/1700-parachat-chemini-nadav-et-abihou-ou-l-histoire-d-un-echec"
+        },
+        "fr.timesofisrael.com/2015/04/catholicisme-ou-juda%C3%AFsme-pourquoi-choisir-the-times-of-isra%C3%ABl": {
+            "title": "Catholicisme ou juda\u00efsme, pourquoi choisir? - The Times of Isra\u00ebl...",
+            "snippet": "The Times of Isra\u00eblCatholicisme ou juda\u00efsme, pourquoi choisir?The Times of Isra\u00eblUn couple mixte, jud\u00e9o-catholique, a choisi d'\u00e9lever leurs deux enfants en fonction de deux religions: l'un de leurs enfants est catholique et l'autre est juif,...",
+            "date": "2015-04-07",
             "categories": "religion,catholicisme",
-            "tags": "catholicisme,juda\u00efsme,pourquoi",
-            "recuweb_url": "http://fr.recuweb.com/catholicisme/fr.timesofisrael.com/2015/04/catholicisme-ou-juda%C3%AFsme-pourquoi-choisir",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=juda%C3%AFsme&format=RSS&cc=fr",
+            "tags": "juif,religions,pourquoi,catholicisme,juda\u00efsme,isra\u00ebl",
+            "recuweb_url": "http://fr.recuweb.com/catholicisme/fr.timesofisrael.com/2015/04/catholicisme-ou-juda%C3%AFsme-pourquoi-choisir-the-times-of-isra%C3%ABl",
+            "resource_url": "http://news.google.fr/?hl=fr&q=juda%C3%AFsme%2Bjuda%C3%AFsme&output=atom&nord=1",
             "source_url": "http://fr.timesofisrael.com/catholicisme-ou-judaisme-pourquoi-choisir/"
         },
         "fr.news.yahoo.com/2015/03/du-juda%C3%AFsme-au-catholicisme-v%C3%A9ronique-l%C3%A9vy-est-tomb%C3%A9e-amoureuse-christ": {
