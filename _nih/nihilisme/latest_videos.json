@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "nihilisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/nihilisme/",
@@ -16,11 +17,23 @@
             "date": "2015-03-11",
             "author_name": "ControlTV",
             "categories": "nihilisme",
-            "tags": "nihilisme",
+            "tags": "nihilisme,charlie,charlie_hebdo,charlie_hebdo_art,hebdo,hebdo_art,art",
             "recuweb_url": "http://fr.recuweb.com/nihilisme/dailymotion.com/2015/03/2015-03-11-charlie-hebdo-art-ou-nihilisme-klagemauer-tv",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/nihilisme/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/nihilisme+nihilisme/0?af=1",
             "source_url": "http://dailymotion.com/video/x2j87ye_2015-03-11-charlie-hebdo-art-ou-nihilisme-klagemauer-tv_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2j87ye_2015-03-11-charlie-hebdo-art-ou-nihilisme-klagemauer-tv_fun"
+        },
+        "youtube.com/2015/03/charlie-hebdo-art-ou-nihilisme": {
+            "title": "Charlie Hebdo Art ou nihilisme...",
+            "snippet": "Charlie Hebdo Art ou nihilisme Plusieurs semaines sont d\u00e9j\u00e0 pass\u00e9es depuis l'attaque contre la r\u00e9daction du magazine Charlie Hebdo le 7 janvier 2015, o\u00f9 17 personnes, dont 12 journalistes, ont \u00e9t\u00e9 tu\u00e9es.... From: Yacine Zitouni Views: 5458...",
+            "date": "2015-03-11",
+            "author_name": "Yacine Zitouni",
+            "categories": "nihilisme",
+            "tags": "charlie,charlie_hebdo,hebdo,nihilisme,charlie_hebdo_art,hebdo_art,art",
+            "recuweb_url": "http://fr.recuweb.com/nihilisme/youtube.com/2015/03/charlie-hebdo-art-ou-nihilisme",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme%2Bnihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=cFBWgLj4m9w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/cFBWgLj4m9w/0.jpg"
         },
         "youtube.com/2015/02/francesco-masci-la-mode-et-le-temps-du-nihilisme-semaine": {
             "title": "Francesco Masci - La mode et le temps du nihilisme - Semaine de la pop philosophie 2014 Bruxelles...",
@@ -46,45 +59,21 @@
             "source_url": "http://youtube.com/watch?v=bLfGKO5uhtI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/bLfGKO5uhtI/0.jpg"
         },
-        "youtube.com/2015/01/albert-camus-et-le-nihilisme": {
-            "title": "Albert Camus et le Nihilisme...",
-            "snippet": "Albert Camus et le Nihilisme Albert Camus et le Nihilisme. From: Nabil Esber Views: 14 1 ratings Time: 07:12 More in People & Blogs...",
-            "date": "2015-01-04",
-            "author_name": "Nabil Esber",
-            "categories": "nihilisme",
-            "tags": "nihilisme,people",
-            "recuweb_url": "http://fr.recuweb.com/nihilisme/youtube.com/2015/01/albert-camus-et-le-nihilisme",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=B5mhTnQdP88&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/B5mhTnQdP88/0.jpg"
-        },
         "youtube.com/2015/01/apprenons-en-1-minute-20-n1-le-nihilisme": {
             "title": "Apprenons en 1 minute 20 - n1 - Le Nihilisme...",
-            "snippet": "Apprenons en 1 minute 20 - n1 - Le Nihilisme 80 secondes pour rien, non rien de rien! From: apprenons en 1 minute 20 Views: 271 4 ratings Time: 01:22 More in People & Blogs...",
+            "snippet": "Apprenons en 1 minute 20 - n1 - Le Nihilisme 80 secondes pour rien, non rien de rien! From: apprenons en 1 minute 20 Views: 379 5 ratings Time: 01:22 More in People & Blogs...",
             "date": "2015-01-04",
             "author_name": "apprenons en 1 minute 20",
             "categories": "nihilisme",
-            "tags": "non,nihilisme,people",
+            "tags": "non,rien,nihilisme,people",
             "recuweb_url": "http://fr.recuweb.com/nihilisme/youtube.com/2015/01/apprenons-en-1-minute-20-n1-le-nihilisme",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme%2Bnihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=oFVSKiuKyq0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/oFVSKiuKyq0/0.jpg"
         },
-        "youtube.com/2015/01/le-pur-plaisir-d-exister-nihilisme": {
-            "title": "Le Pur Plaisir D'exister -Le nihilisme-...",
-            "snippet": "Le Pur Plaisir D'exister -Le nihilisme- Le Pur Plaisir D'exister -Le nihilisme- From: OUELDELAM MOHAMED Views: 16 0 ratings Time: 05:43 More in Education...",
-            "date": "2015-01-03",
-            "author_name": "OUELDELAM MOHAMED",
-            "categories": "plaisir,nihilisme",
-            "tags": "nihilisme",
-            "recuweb_url": "http://fr.recuweb.com/nihilisme/youtube.com/2015/01/le-pur-plaisir-d-exister-nihilisme",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme%2Bnihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=rboRyG_Izy0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/rboRyG_Izy0/0.jpg"
-        },
         "youtube.com/2014/10/le-choc-des-civilisations-selon-vladimir-poutine-nihilisme-vs-valeurs-traditionnelles": {
             "title": "Le choc des civilisations selon Vladimir Poutine: nihilisme vs. valeurs traditionnelles (VOSTFR)...",
-            "snippet": "Le choc des civilisations selon Vladimir Poutine: nihilisme vs. valeurs traditionnelles (VOSTFR) Adresse du Pr\u00e9disent Vladimir Poutine \u00e0 l'Assembl\u00e9e F\u00e9d\u00e9rale 12 D\u00e9cembre 2013 - Extrait Traduction fran\u00e7aise & vid\u00e9o: Re... From: Sayed Hasan...",
+            "snippet": "Le choc des civilisations selon Vladimir Poutine: nihilisme vs. valeurs traditionnelles (VOSTFR) Adresse du Pr\u00e9disent Vladimir Poutine \u00e0 l'Assembl\u00e9e F\u00e9d\u00e9rale 12 D\u00e9cembre 2013 - Extrait Traduction fran\u00e7aise & vid\u00e9o: Retranscription en...",
             "date": "2014-10-25",
             "author_name": "Sayed Hasan",
             "categories": "traduction,nihilisme",
@@ -96,7 +85,7 @@
         },
         "youtube.com/2014/10/prendre-ses-aises-dans-un-confortable-nihilisme": {
             "title": "Prendre ses aises dans un confortable nihilisme...",
-            "snippet": "Prendre ses aises dans un confortable nihilisme Kostas Axelos, citation. Christophe, Mitch et Pascale Saint-Laurent- les-Arbres, Lignes Ouvertes projet, France Boisvert et ma participation \u00e0 son \u00e9mission L... From: bruno lalonde Views: 301 2...",
+            "snippet": "Prendre ses aises dans un confortable nihilisme Kostas Axelos, citation. Christophe, Mitch et Pascale Saint-Laurent- les-Arbres, Lignes Ouvertes projet, France Boisvert et ma participation \u00e0 son \u00e9mission Le Pays des livres sur les ondes... From:...",
             "date": "2014-10-24",
             "author_name": "bruno lalonde",
             "categories": "nihilisme",
@@ -108,7 +97,7 @@
         },
         "youtube.com/2014/04/momentdegrace-nihilisme-nietzsche": {
             "title": "MomentDeGrace - Nihilisme (Nietzsche)...",
-            "snippet": "MomentDeGrace - Nihilisme (Nietzsche) Nihilisme en petit moment de grce sur France Culture. From: Laurent Cardon Views: 84 0 ratings Time: 01:29 More in News & Politics...",
+            "snippet": "MomentDeGrace - Nihilisme (Nietzsche) Nihilisme en petit moment de grce sur France Culture. From: Laurent Cardon Views: 102 0 ratings Time: 01:29 More in News & Politics...",
             "date": "2014-04-20",
             "author_name": "Laurent Cardon",
             "categories": "culture,nihilisme",
@@ -120,7 +109,7 @@
         },
         "youtube.com/2013/08/qu-est-ce-que-le-nihilisme": {
             "title": "Qu'est-ce que le nihilisme?",
-            "snippet": "Qu'est-ce que le nihilisme? via YouTube Capture. From: Roland Jaccard Views: 468 1 ratings Time: 01:11 More in People & Blogs...",
+            "snippet": "Qu'est-ce que le nihilisme? via YouTube Capture. From: Roland Jaccard Views: 542 1 ratings Time: 01:11 More in People & Blogs...",
             "date": "2013-08-30",
             "author_name": "Roland Jaccard",
             "categories": "nihilisme",
@@ -129,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme%2Bnihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=bb6nSDGWmz0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/bb6nSDGWmz0/0.jpg"
+        },
+        "youtube.com/2013/01/p-c-b-nihilisme-ou-v%C3%A9rit%C3%A9-absente": {
+            "title": "P C B Nihilisme ou v\u00e9rit\u00e9 absente...",
+            "snippet": "P C B Nihilisme ou v\u00e9rit\u00e9 absente Rien n'existe. Si quelque chose existe, ce quelque chose ne saurait \u00eatre appr\u00e9hend\u00e9 et encore moins connu par l'homme. M\u00eame s'il l'\u00e9tait, son appr\u00e9hension ne serait pas communicable... From: Pascal Biaudet...",
+            "date": "2013-01-31",
+            "author_name": "Pascal Biaudet",
+            "categories": "nihilisme",
+            "tags": "nihilisme,rien",
+            "recuweb_url": "http://fr.recuweb.com/nihilisme/youtube.com/2013/01/p-c-b-nihilisme-ou-v%C3%A9rit%C3%A9-absente",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=nihilisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=-i-nw1bi5vI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/-i-nw1bi5vI/0.jpg"
         }
     }
 }
