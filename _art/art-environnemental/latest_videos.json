@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "art-environnemental",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/art-environnemental/",
@@ -10,12 +11,23 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/mireille-fulpius-en-r%C3%A9sidence-au-coll%C3%A8ge-victor-hugo-de-caudebec-caux": {
+            "title": "Mireille Fulpius en r\u00e9sidence au coll\u00e8ge Victor Hugo de Caudebec en Caux. PROMENADE...",
+            "snippet": "Mireille Fulpius en r\u00e9sidence au coll\u00e8ge Victor Hugo de Caudebec en Caux. PROMENADE Au coll\u00e8ge Victor Hugo de Caudebec en Caux, en pr\u00e9figuration de la manifestation d'art contemporain environnemental A ciel ouvert qui aura lieu \u00e0 l'Abbaye de...",
+            "date": "2015-04-21",
+            "author_name": "D\u00e9partement de Seine-Maritime",
+            "tags": "lieu,art,environnemental",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/mireille-fulpius-en-r%C3%A9sidence-au-coll%C3%A8ge-victor-hugo-de-caudebec-caux",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=aDgOjAXFHJM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/aDgOjAXFHJM/0.jpg"
+        },
         "youtube.com/2014/03/la-question-environnementale-dans-cr%C3%A9ation-artistique-interview-de-lorenzo-fiaschi": {
             "title": "La question environnementale dans la cr\u00e9ation artistique//Interview de Lorenzo Fiaschi...",
             "snippet": "La question environnementale dans la cr\u00e9ation artistique//Interview de Lorenzo Fiaschi Le collectif Dans Quelle Vie Tu Monde(s) (DQVTM) vous pr\u00e9sente la 5\u00e8me des 6 parties de l'interview de Lorenzo Fiaschi, co-fondateur de la Galleria Continua,...",
             "date": "2014-03-30",
             "author_name": "Dans Quelle Vie Tu Monde(s) ?",
-            "tags": "pr\u00e9sente,environnementale,inter",
+            "tags": "pr\u00e9sente,environnementale",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/03/la-question-environnementale-dans-cr%C3%A9ation-artistique-interview-de-lorenzo-fiaschi",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=cyuZVj_y-kk&feature=youtube_gdata",
@@ -31,17 +43,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=f17JeJNF3Po&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/f17JeJNF3Po/0.jpg"
-        },
-        "youtube.com/2013/03/entretien-en-anglais-avec-l-artiste-chris-drury-sur-son-travail": {
-            "title": "Entretien en anglais avec l'artiste Chris Drury sur son travail pour Jumi\u00e8ges - A ciel ouvert...",
-            "snippet": "Entretien en anglais avec l'artiste Chris Drury sur son travail pour \"Jumi\u00e8ges - A ciel ouvert\" Interview r\u00e9alis\u00e9e le 25/09/2013 par Jean-Marc Barroso, commissaire de l'exposition d'art contemporain environnemental \"Jumi\u00e8ges - A ciel ouvert\" qui...",
-            "date": "2013-03-26",
-            "author_name": "Mus\u00e9es et Sites D\u00e9partementaux 76",
-            "tags": "art,environnemental,exposition,inter",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2013/03/entretien-en-anglais-avec-l-artiste-chris-drury-sur-son-travail",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=mUO22JnKvy4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/mUO22JnKvy4/0.jpg"
         },
         "youtube.com/2012/05/jardins-en-m%C3%A9tamorphose-%C3%A9tirements": {
             "title": "Jardins en m\u00e9tamorphose - \u00c9tirements...",
@@ -87,7 +88,7 @@
             "categories": "art-environnemental",
             "tags": "mai,art,art-environnemental,art-environnemental-jardins,environnemental,environnemental-jardins,jardins,jardins-en-m\u00e9tamorphose,m\u00e9tamorphose,exposition,cadre,thiais,juillet",
             "recuweb_url": "http://fr.recuweb.com/art-environnemental/youtube.com/2012/05/les-ch%C3%A9rubins-stars-d%C3%A9clament-des-po%C3%A8mes-dans-le-cadre-de-jardins",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Y-MSFj1Gxnw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Y-MSFj1Gxnw/0.jpg"
         },
@@ -108,7 +109,7 @@
             "snippet": "Rencontres de l'Affichage Environnemental - Nantes - Janvier 2012 Ev\u00e9nement organis\u00e9 par EVEA, Terra 21 et EVEA Tourisme au Lieu Unique. R\u00e9alisation vid\u00e9o: L'Art en bo\u00eete -. From: L'art en bo\u00eete Views: 95 2 ratings Time: 04:57 More in News &...",
             "date": "2012-02-11",
             "author_name": "L'art en bo\u00eete",
-            "tags": "art,environnemental",
+            "tags": "art,lieu,environnemental",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/02/rencontres-de-l-affichage-environnemental-nantes-janvier-2012",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JPt0phicu1o&feature=youtube_gdata",
