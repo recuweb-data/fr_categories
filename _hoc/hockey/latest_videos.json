@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hockey",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/tristan-scherwey-equipe-nationale-suisse": {
+            "title": "Tristan Scherwey - Equipe Nationale Suisse...",
+            "snippet": "Author: LHCleslionsTags: Hockey sur glace Lyon Hockey Club CP BERNE Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "LHCleslions",
+            "categories": "hockey",
+            "tags": "club,glace,lyon,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/04/tristan-scherwey-equipe-nationale-suisse",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2npebx_tristan-scherwey-equipe-nationale-suisse_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2npebx_tristan-scherwey-equipe-nationale-suisse_sport"
+        },
         "dailymotion.com/2015/04/les-10-buts-de-l-ann%C3%A9e-en-hockey-nhl": {
             "title": "Les 10 buts de l'ann\u00e9e en Hockey NHL...",
             "snippet": "Compilation des 10 buts de l'ann\u00e9e en Hockey NHL!Author: MisterBuzzTags: Compilation NHL top 10 but hockey hockey compilation hockey compilation NHL Posted: 14 April 2015Rating:: 0...",
@@ -34,53 +47,29 @@
             "source_url": "http://dailymotion.com/video/x2miunf_le-handi-hockey-outil-de-mixite_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2miunf_le-handi-hockey-outil-de-mixite_sport"
         },
-        "dailymotion.com/2015/04/ppg-rink-hockey-travail-en-collaboration": {
-            "title": "PPG Rink Hockey travail en collaboration...",
-            "snippet": "Pr\u00e9paration Physique de l'\u00e9quipe de Rink Hockey de Noisy le Grand (D1 Elite)Author: OPTIMISASPORTTags: Sport Rink hockey Entra\u00eenement sportif PMA Pr\u00e9paration Physique Posted: 10 April 2015Rating:: 0...",
-            "date": "2015-04-10",
-            "author_name": "OPTIMISASPORT",
-            "categories": "sport,rink-hockey,hockey",
-            "tags": "hockey,travail",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/04/ppg-rink-hockey-travail-en-collaboration",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/xzoy09_ppg-rink-hockey-travail-en-collaboration_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xzoy09_ppg-rink-hockey-travail-en-collaboration_sport"
-        },
-        "dailymotion.com/2015/04/enorme-bagarre-au-hockey-l-entraineur-se-fait-d%C3%A9chirer-sa-chemise": {
-            "title": "Enorme bagarre au Hockey, l'entraineur se fait d\u00e9chirer sa chemise...",
-            "snippet": "l'essentiel de l'actualit\u00e9 2.0! Des milliers de Vid\u00e9os, d'articles, de photos, le meilleur du web de demain aujourd'hui! Retrouvez nous sur: dosedeclicTags: Posted: 07 April 2015Rating:: 0...",
-            "date": "2015-04-07",
-            "author_name": "dosedeclic",
-            "categories": "hockey",
-            "tags": "meilleur,meilleur-du-web,web,web-de-demain,demain,demain-aujourd,aujourd,photos,milliers,essentiel,hockey,articles,hui,retrouvez,dosedeclictags",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/04/enorme-bagarre-au-hockey-l-entraineur-se-fait-d%C3%A9chirer-sa-chemise",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lym8h_enorme-bagarre-au-hockey-l-entraineur-se-fait-dechirer-sa-chemise_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lym8h_enorme-bagarre-au-hockey-l-entraineur-se-fait-dechirer-sa-chemise_sport"
-        },
-        "dailymotion.com/2015/04/il-s-arrache-sa-dent-apr%C3%A8s-un-match-de-hockey": {
-            "title": "Il s'arrache sa dent apr\u00e8s un match de hockey...",
-            "snippet": "l'essentiel de l'actualit\u00e9 2.0! Des milliers de Vid\u00e9os, d'articles, de photos, le meilleur du web de demain aujourd'hui! Retrouvez nous sur: dosedeclicTags: Posted: 07 April 2015Rating:: 0...",
-            "date": "2015-04-07",
-            "author_name": "dosedeclic",
-            "categories": "hockey",
-            "tags": "meilleur,meilleur-du-web,web,web-de-demain,demain,demain-aujourd,aujourd,photos,milliers,essentiel,hockey,articles,hui,retrouvez,dosedeclictags",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/04/il-s-arrache-sa-dent-apr%C3%A8s-un-match-de-hockey",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lymvq_il-s-arrache-sa-dent-apres-un-match-de-hockey_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lymvq_il-s-arrache-sa-dent-apres-un-match-de-hockey_sport"
-        },
         "youtube.com/2015/02/le-journul-finances-&-hockey-fran%C3%A7ois-p%C3%A9russe-qu%C3%A9bec": {
             "title": "Le JourNul - Finances & hockey -- Fran\u00e7ois P\u00e9russe (Qu\u00e9bec)...",
             "snippet": "Le JourNul - Finances & hockey -- Fran\u00e7ois P\u00e9russe (Qu\u00e9bec) Le JourNul de Fran\u00e7ois P\u00e9russe (1999) Les syndiqu\u00e9s d'Hydro-Qu\u00e9bec, on remplace Corey, les infirmi\u00e8res s'absentent au travail, Lucien Bouchard veut baisser les imp\u00f4ts...",
             "date": "2015-02-25",
             "author_name": "LeFrancoisPerusse",
             "categories": "hockey",
-            "tags": "travail,hockey",
+            "tags": "hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2015/02/le-journul-finances-&-hockey-fran%C3%A7ois-p%C3%A9russe-qu%C3%A9bec",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=QwTfUz-8pb8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/QwTfUz-8pb8/0.jpg"
+        },
+        "dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise": {
+            "title": "Hockey father breaking mirror Hockey sur glace - Un p\u00e8re \u00e9nerv\u00e9 brise une vitre lors du match...",
+            "snippet": "Hockey sur glace - Un p\u00e8re \u00e9nerv\u00e9 brise une vitre lors du match de son fils: channelsportTags: Hockey Buzz P\u00e8re \u00e9nerv\u00e9 brise glace Posted: 22 January 2015Rating:: 0...",
+            "date": "2015-01-22",
+            "author_name": "channelsport",
+            "categories": "hockey",
+            "tags": "glace,match,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport"
         },
         "dailymotion.com/2015/01/hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-club": {
             "title": "Hockey D3 - 2014-12-20 Interview Luc Tardif Jr Massilia Hockey Club...",
@@ -88,23 +77,11 @@
             "date": "2015-01-02",
             "author_name": "Hockeyhebdo",
             "categories": "hockey",
-            "tags": "hockey,hockey_club,club",
+            "tags": "hockey,hockey_club,club,glace",
             "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-club",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
             "source_url": "http://dailymotion.com/video/x2dwjlu_hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-hockey-club_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2dwjlu_hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-hockey-club_sport"
-        },
-        "youtube.com/2014/12/le-vent-du-nord-la-soir%C3%A9e-hockey": {
-            "title": "Le Vent du Nord - La soir\u00e9e du hockey...",
-            "snippet": "Le Vent du Nord - La soir\u00e9e du hockey Le Vent du Nord tient \u00e0 remercier les artisans du costumier de Radio-Canada. La soir\u00e9e du hockey, une pi\u00e8ce instrumentale festive qui figure sur Tromper le temps (2012). Le Vent du Nord:... From: ICI Musique...",
-            "date": "2014-12-15",
-            "author_name": "ICI Musique",
-            "categories": "musique,hockey,radio",
-            "tags": "hockey",
-            "recuweb_url": "http://fr.recuweb.com/radio/youtube.com/2014/12/le-vent-du-nord-la-soir%C3%A9e-hockey",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=7CbnmcuROKI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/7CbnmcuROKI/0.jpg"
         },
         "youtube.com/2014/10/entr%C3%A9e-des-albatros-de-brest-&-lyon-hockey-club": {
             "title": "Entr\u00e9e des Albatros de Brest & de Lyon Hockey Club...",
@@ -112,23 +89,47 @@
             "date": "2014-10-27",
             "author_name": "Michel breizh",
             "categories": "hockey,sport",
-            "tags": "hockey,hockey_club,club,sports",
+            "tags": "lyon,hockey,hockey_club,club",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/entr%C3%A9e-des-albatros-de-brest-&-lyon-hockey-club",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JmbhRg3Z9hM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/JmbhRg3Z9hM/0.jpg"
         },
-        "youtube.com/2014/10/lausanne-hockey-club-hc-davos-3-2": {
-            "title": "Lausanne Hockey Club HC Davos 3-2...",
-            "snippet": "Lausanne Hockey Club HC Davos 3-2 From: LHCCHANNEL Views: 3554 14 ratings Time: 02:57 More in Sports...",
-            "date": "2014-10-25",
-            "author_name": "LHCCHANNEL",
-            "categories": "hockey,sport",
-            "tags": "hockey,hockey_club,club,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/lausanne-hockey-club-hc-davos-3-2",
+        "youtube.com/2014/10/rencontre-montpellier-montchavin-roller-hockey-18-10-14": {
+            "title": "Rencontre Montpellier Montchavin ROLLER HOCKEY 18/10/14...",
+            "snippet": "Rencontre Montpellier Montchavin ROLLER HOCKEY 18/10/14 From: MRHC MANTAS Views: 819 1 ratings Time: 03:50 More in People & Blogs...",
+            "date": "2014-10-21",
+            "author_name": "MRHC MANTAS",
+            "categories": "hockey",
+            "tags": "hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/10/rencontre-montpellier-montchavin-roller-hockey-18-10-14",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=A3D7fMNX0GQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/A3D7fMNX0GQ/0.jpg"
+        },
+        "youtube.com/2014/09/ecole-d-hockey-sur-glace-les-aiglons-du-hogly-vend%C3%A9e": {
+            "title": "Ecole d'Hockey sur glace: Les Aiglons du HOGLY (Vend\u00e9e)...",
+            "snippet": "Ecole d'Hockey sur glace: Les Aiglons du HOGLY (Vend\u00e9e) Sites webs/blogs, copiez cette vid\u00e9o avec le bouton \"Int\u00e9grer\"! Si vous voulez t\u00e9l\u00e9charger, allez sur. Direction la patinoire Arago de La Roche-sur-Yon... From: TVvendee Views: 3600 5...",
+            "date": "2014-09-29",
+            "author_name": "TVvendee",
+            "categories": "hockey",
+            "tags": "glace,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/09/ecole-d-hockey-sur-glace-les-aiglons-du-hogly-vend%C3%A9e",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=cFNvTS7yMe4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/cFNvTS7yMe4/0.jpg"
+            "source_url": "http://youtube.com/watch?v=Xbu3YKr5kN0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Xbu3YKr5kN0/0.jpg"
+        },
+        "youtube.com/2014/09/1er-match-de-l-%C3%A9quipe-tunisie-hockey-sur-glace-vid%C3%A9o-officielle": {
+            "title": "1er match de l'\u00e9quipe de Tunisie de Hockey sur glace - Vid\u00e9o officielle...",
+            "snippet": "1er match de l'\u00e9quipe de Tunisie de Hockey sur glace - Vid\u00e9o officielle D\u00e9couvrez la vid\u00e9o de l'\u00e9quipe tunisienne de hockey sur glace, qui a jou\u00e9 son 1er match de son histoire le 14 juin 2014 \u00e0 Courbevoie (France) Teaser of the Tunisian Ice...",
+            "date": "2014-09-14",
+            "author_name": "Hockey tunisia",
+            "categories": "hockey,hockey-sur-glace",
+            "tags": "match,hockey,glace",
+            "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/youtube.com/2014/09/1er-match-de-l-%C3%A9quipe-tunisie-hockey-sur-glace-vid%C3%A9o-officielle",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=5xaHQ7uiFZ0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5xaHQ7uiFZ0/0.jpg"
         }
     }
 }
