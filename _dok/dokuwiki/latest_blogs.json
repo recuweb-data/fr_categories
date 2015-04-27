@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "dokuwiki",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/dokuwiki/",
@@ -16,7 +17,7 @@
             "date": "2015-04-13",
             "author_name": "no_email@example.com (cloterus)",
             "categories": "dokuwiki,wiki",
-            "tags": "meme,souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,bonjour,wiki",
+            "tags": "souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,bonjour,wiki",
             "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/04/edition-de-page-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.dokuwiki.org/post/47920;?unb855sess=52649sjq6ol6jv9dkim6rf24j5"
@@ -27,21 +28,21 @@
             "date": "2015-03-04",
             "author_name": "no_email@example.com (lpawel)",
             "categories": "dokuwiki,wiki",
-            "tags": "souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,wiki,bonjour",
+            "tags": "installation,souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,wiki,bonjour",
             "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/03/cr%C3%A9ation-de-deux-wiki-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/12326"
         },
-        "forum.dokuwiki.org/2014/02/securite-masquer-le-menu-gestionnaire-de-forum-dokuwiki": {
-            "title": "SECURITE Masquer le menu 'Gestionnaire de... - Forum - DokuWiki...",
-            "snippet": "(Je pr\u00e9cise que la configuration de mon dokuwiki implique une authentification pour sa consulation) J'irais meme a prenser que cette option ne devrait apparaitre que pour les membres ayant une permission de modifications...",
-            "date": "2014-02-10",
-            "author_name": "no_email@example.com (wild-dagger)",
+        "laurent-napias.com/2015/01/playbooks-complexes-restauration-dokuwiki-le-blog-de-laurent": {
+            "title": "Playbooks complexes Restauration DokuWiki - Le blog de Laurent...",
+            "snippet": "On a vu dans l'article pr\u00e9c\u00e9dent l'installation d'un DokuWiki avec Ansible, voyons maintenant la restauration. Utilisation du playbook: ansible-playbook -e 'host=SRV-NEW'Utilit\u00e9 du playbook: Installer...",
+            "date": "2015-01-31",
+            "author_name": "Cascador",
             "categories": "dokuwiki",
-            "tags": "meme,forum,dokuwiki",
-            "recuweb_url": "http://fr.recuweb.com/dokuwiki/forum.dokuwiki.org/2014/02/securite-masquer-le-menu-gestionnaire-de-forum-dokuwiki",
+            "tags": "installation,dokuwiki",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/laurent-napias.com/2015/01/playbooks-complexes-restauration-dokuwiki-le-blog-de-laurent",
             "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.dokuwiki.org/thread/10853"
+            "source_url": "http://laurent-napias.com/post/2015/01/31/playbooks-complexes-restauration-dokuwiki"
         }
     }
 }
