@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "application-web",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/application-web/",
@@ -11,6 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
     },
     "items": {
+        "marketingperformer.fr/2015/04/limpact-du-responsive-web-design-dans-lentreprise": {
+            "title": "Limpact du Responsive Web Design dans lentreprise...",
+            "snippet": "Les supports sur lesquels votre site ou application web doit fonctionner prolif\u00e8rent et pr\u00e9sentent tous des caract\u00e9ristiques diverses. Les smartphones ou tablettes, par exemple, sont devenus des extensions naturelles du syst\u00e8me dinformation.",
+            "date": "2015-04-27",
+            "tags": "web,application",
+            "recuweb_url": "http://fr.recuweb.com/marketingperformer.fr/2015/04/limpact-du-responsive-web-design-dans-lentreprise",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://marketingperformer.fr/2015/04/limpact-du-responsive-web-design-dans-lentreprise/"
+        },
         "elle.fr/2015/04/la-p%C3%A9pite-du-web-l-appli-myidol-pour-se-cr%C3%A9er": {
             "title": "La p\u00e9pite du Web: l'appli MyIdol pour se cr\u00e9er le plus funky des... - Elle...",
             "snippet": "ElleLa p\u00e9pite du Web: l'appli MyIdol pour se cr\u00e9er le plus funky des...ElleMyIdol est une application addictive, chronophage... mais qui va tr\u00e8s probablement conna\u00eetre un succ\u00e8s \u00e9ph\u00e9m\u00e8re il faut l'avouer. L'id\u00e9e est simple: cr\u00e9er son...",
@@ -20,20 +29,11 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
             "source_url": "http://elle.fr/Loisirs/High-tech/News/La-pepite-du-Web-l-appli-MyIdol-pour-se-creer-le-plus-funky-des-avatars-2944514"
         },
-        "itrnews.com/2015/04/limpact-du-responsive-web-design-dans-votre-entreprise": {
-            "title": "Limpact du Responsive Web Design dans votre entreprise,...",
-            "snippet": "Les supports sur lesquels votre site, ou application web, doit fonctionner sont de plus en plus nombreux et pr\u00e9sentent tous des caract\u00e9ristiques diverses. Les smartphones ou tablettes par exemple sont devenus des extensions naturelles du syst\u00e8me...",
-            "date": "2015-04-23",
-            "tags": "site,web,application",
-            "recuweb_url": "http://fr.recuweb.com/itrnews.com/2015/04/limpact-du-responsive-web-design-dans-votre-entreprise",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://itrnews.com/articles-top10-jour/155504/impact-responsive-web-design-entreprise-mathieu-parisot-expert-independant-formateur-soat.html"
-        },
         "itrnews.com/2015/04/d%C3%A9veloppez-aujourd-hui-les-applications-web-de-demain": {
             "title": "D\u00e9veloppez aujourd'hui les applications web de demain...",
             "snippet": "Dans un premier temps, le lecteur d\u00e9couvrira les bases permettant de cr\u00e9er une application web monopage, ou SPA, ainsi que les m\u00e9canismes fondamentaux d'AngularJS. Il apprendra ensuite comment structurer son application et comment impl\u00e9menter...",
             "date": "2015-04-22",
-            "tags": "permettant,temps,hui,applications,application,aujourd,web,cr\u00e9er",
+            "tags": "permettant,applications,application,web,cr\u00e9er",
             "recuweb_url": "http://fr.recuweb.com/itrnews.com/2015/04/d%C3%A9veloppez-aujourd-hui-les-applications-web-de-demain",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://itrnews.com/articles/155496/angularjs-developpez-aujourd-hui-applications-web-demain.html"
@@ -47,21 +47,11 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb%2Bapplication%2Bweb&output=atom&nord=1",
             "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451.html"
         },
-        "javascript.developpez.com/2015/04/highcharts-de-multiples-corrections": {
-            "title": "Highcharts: de multiples corrections...",
-            "snippet": "Highcharts est une biblioth\u00e8que graphique \u00e9crite en HTML5 et JavaScript, offrant des graphiques complets et complexes, mais intuitifs et interactifs pour votre site ou votre application Web. Elle impl\u00e9mente diff\u00e9rents types de graphiques...",
-            "date": "2015-04-21",
-            "categories": "javascript",
-            "tags": "site,biblioth\u00e8que,application,web",
-            "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/highcharts-de-multiples-corrections",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://javascript.developpez.com/actu/84152/Highcharts-4-1-5-de-multiples-corrections-pour-la-bibliotheque-graphique-ecrite-en-HTML5-et-JavaScript/"
-        },
         "ladn.eu/2015/04/campagne-fontyou-start-up-sp%C3%A9cialis%C3%A9e-en-typographie": {
             "title": "Campagne Fontyou, start-up sp\u00e9cialis\u00e9e en typographie...",
             "snippet": "Cr\u00e9\u00e9e en janvier 2013, Fontyou est une application web qui permet aux cr\u00e9atifs et aux agences de g\u00e9rer toutes leurs polices de caract\u00e8res en cloud, de d\u00e9couvrir et tester fontes du monde et les derni\u00e8res tendances typographiques. TBWAPARIS et...",
             "date": "2015-04-19",
-            "tags": "d\u00e9couvrir,monde,permet,cloud,application,web",
+            "tags": "d\u00e9couvrir,permet,cloud,application,web",
             "recuweb_url": "http://fr.recuweb.com/ladn.eu/2015/04/campagne-fontyou-start-up-sp%C3%A9cialis%C3%A9e-en-typographie",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://ladn.eu/actualites/marque,campagne-fontyou-start-up-specialisee-typographie,30,25998.html"
@@ -71,7 +61,7 @@
             "snippet": "A croire cette nouvelle application, lapp\u00e9tit vient en regardant. RestoFolio est un nouveau service internet permettant aux consommateurs de partager et d\u00e9couvrir les plats et cartes des restaurants normands.",
             "date": "2015-04-18",
             "categories": "internet",
-            "tags": "service,internet,permettant,d\u00e9couvrir,plats,cartes,cartes-des-restaurants,restaurants,nouvelle,annuaire,application,web,restofolio",
+            "tags": "service,permettant,d\u00e9couvrir,plats,cartes,cartes-des-restaurants,restaurants,annuaire,application,web,restofolio",
             "recuweb_url": "http://fr.recuweb.com/internet/france3-regions.francetvinfo.fr/2015/04/application-web-un-annuaire-de-plats-normands",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://france3-regions.francetvinfo.fr/basse-normandie/2015/04/18/application-web-un-annuaire-de-plats-normands-707401.html"
@@ -89,7 +79,7 @@
             "title": "Collibris: l'application qui propage la lecture - BSC News...",
             "snippet": "Collibris: l'application qui propage la lectureBSC NewsCollibris est une application Web et Mobile gratuite destin\u00e9e aux lecteurs qui propose d'enregistrer ses lectures et sa biblioth\u00e8que, de garder une trace de son \u00e9motion en notant et...",
             "date": "2015-04-07",
-            "tags": "biblioth\u00e8que,application,web,mobile",
+            "tags": "application,web,mobile",
             "recuweb_url": "http://fr.recuweb.com/bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news",
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
             "source_url": "http://bscnews.fr/201504074636/TECH-WEB/collibris-l-application-qui-propage-la-lecture.html"
