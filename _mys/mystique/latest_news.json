@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mystique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mystique/",
@@ -10,16 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mystique/mystique/blogs.json"
     },
     "items": {
-        "actu-mag.fr/2015/04/lars-von-trier-renoue-avec-lalcool-pour-r%C3%A9aliser-de-nouveau": {
-            "title": "Lars von Trier renoue avec lalcool pour r\u00e9aliser de nouveau!",
-            "snippet": "Trois ans apr\u00e8s s\u00eatre r\u00e9fugi\u00e9 dans un mutisme quasi-mystique, il avait renou\u00e9 avec la civilisation, et notamment les m\u00e9dias, indispensables relais dopinion, en novembre 2014, en accordant un entretien au quotidien danois Politiken o\u00f9 il...",
-            "date": "2015-04-22",
-            "categories": "mystique",
-            "tags": "entretien,mystique",
-            "recuweb_url": "http://fr.recuweb.com/mystique/actu-mag.fr/2015/04/lars-von-trier-renoue-avec-lalcool-pour-r%C3%A9aliser-de-nouveau",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
-            "source_url": "http://actu-mag.fr/2015/04/23/lars-von-trier-ou-limpasse-creative-sans-le-recours-a-lalcool/"
-        },
         "programme-tv.net/2015/04/l-irlande-mystique": {
             "title": "L'Irlande mystique...",
             "snippet": "Des scientifiques se sont rassembl\u00e9s pour \u00e9claircir les myst\u00e8res des rites irlandais. Selon des astronomes, des pluies de m\u00e9t\u00e9orites se seraient abattues sur l'\u00eele au IIIe mill\u00e9naire avant., chamboulant les cultes telluriques en cours.",
@@ -57,7 +48,7 @@
             "categories": "mystique",
             "tags": "mal,mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/senenews.com/2015/04/le-mystique-dans-l-ar%C3%A8ne-un-mal-n%C3%A9cessaire",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
             "source_url": "http://senenews.com/2015/04/07/le-mystique-dans-larene-un-mal-necessaire_121249.html"
         },
         "fabula.org/2015/04/charles-p%C3%A9guy-et-la-mystique-d-isra%C3%ABl-fabula": {
@@ -67,7 +58,7 @@
             "categories": "mystique",
             "tags": "mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/fabula.org/2015/04/charles-p%C3%A9guy-et-la-mystique-d-isra%C3%ABl-fabula",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
             "source_url": "http://fabula.org/actualites/charles-peguy-et-la-mystique-d-israel-colloque-international-des-30-octobre-1er-novembre-2016_68003.php"
         }
     }
