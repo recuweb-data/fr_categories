@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "moto-cross",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moto-cross/",
@@ -10,59 +11,50 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/blogs.json"
     },
     "items": {
-        "motoverte.com/2015/02/le-grand-prix-du-br%C3%A9sil-annul%C3%A9-moto-verte": {
-            "title": "Le Grand Prix du Br\u00e9sil annul\u00e9 - Moto Verte...",
-            "snippet": "Moto VerteLe Grand Prix du Br\u00e9sil annul\u00e9Moto VerteAvant m\u00eame que ne soit donn\u00e9 ce weekend le coup d'envoi du championnat du Monde de Motocross, l'organisateur du GP du Br\u00e9sil vient d'officialiser l'annulation de la quinzi\u00e8me manche du Mondial...",
-            "date": "2015-02-23",
-            "tags": "manche,championnat,moto,grand,grand_prix,prix,motocross",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/02/le-grand-prix-du-br%C3%A9sil-annul%C3%A9-moto-verte",
-            "resource_url": "http://news.google.fr/?hl=fr&q=moto%2Bcross&output=atom&nord=1",
-            "source_url": "http://motoverte.com/site/le-grand-prix-du-bresil-annule-84014.html"
-        },
-        "larep.fr/2015/02/les-amoureux-de-moto-cross-samusent": {
-            "title": "Les amoureux de moto-cross samusent...",
-            "snippet": "Un circuit meuble.. mais pas trop. Une vingtaine de pilotes s'est pr\u00e9sent\u00e9e, dimanche, sur le circuit tout terrain de l'\u00c9curie Orl\u00e9ans. La m\u00e9t\u00e9o leur a permis de profiter pleinement de l'ouverture du site pour une journ\u00e9e d'entra\u00eenement...",
-            "date": "2015-02-23",
-            "tags": "journ\u00e9e,circuit,terrain,moto,cross",
-            "recuweb_url": "http://fr.recuweb.com/larep.fr/2015/02/les-amoureux-de-moto-cross-samusent",
+        "nantes.maville.com/2015/04/motocross-freestyle-de-barbechat-44": {
+            "title": "MOTOCROSS FREESTYLE DE BARBECHAT 44...",
+            "snippet": "Apr\u00e8s sa cr\u00e9ation en 1967 et le premier Motocross en 1970, l'ASC Nantes annonce cette ann\u00e9e le 50\u00e8me Motocross Freestyle de BARBECHAT qui se d\u00e9roulera le 3 mai 2015. Sur ce circuit renomm\u00e9, d\u00e9couvrez 2 cat\u00e9gories pour plus d'une centaine de...",
+            "date": "2015-04-22",
+            "tags": "ann\u00e9e,motocross,apr\u00e8s,\u00e8me,mai,circuit",
+            "recuweb_url": "http://fr.recuweb.com/nantes.maville.com/2015/04/motocross-freestyle-de-barbechat-44",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bcross&format=RSS&cc=fr",
-            "source_url": "http://larep.fr/loiret/actualite/pays/pithiverais-beauce/2015/02/24/les-amoureux-de-moto-cross-samusent_11341010.html"
+            "source_url": "http://nantes.maville.com/actu/actudet_-motocross-freestyle-de-barbechat-44_47303-2756637_actu.Htm"
         },
-        "lerepairedesmotards.com/2015/02/casque-motocross-nolan-n53": {
-            "title": "Casque motocross Nolan N53...",
-            "snippet": "Nolan, le fabricant de casques propose le N53 sp\u00e9cialement con\u00e7u pour le tout-terrain. On retrouve une calotte enti\u00e8rement fabriqu\u00e9e en polycarbonate. L'int\u00e9rieur de cet int\u00e9gral est confectionn\u00e9 avec un tissu derni\u00e8re g\u00e9n\u00e9ration qui...",
-            "date": "2015-02-22",
-            "tags": "motocross,terrain",
-            "recuweb_url": "http://fr.recuweb.com/lerepairedesmotards.com/2015/02/casque-motocross-nolan-n53",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bcross&format=RSS&cc=fr",
-            "source_url": "http://lerepairedesmotards.com/actualites/2015/actu_150222-casque-motocross-nolan-n53.php"
-        },
-        "ladepeche.fr/2015/02/fr%C3%A9d%C3%A9ric-vigny-double-champion-de-moto-cross": {
-            "title": "Fr\u00e9d\u00e9ric Vigny, double champion de moto-cross -...",
-            "snippet": "\u00e9d\u00e9ric Vigny, double champion de 1992, la pratique du moto-cross a pris le dessus avec ce go\u00fbt du risque qui anime cet homme de 40 ans. Champion en titre de moto-cross de Midi-Pyr\u00e9n\u00e9es en 2013 dans la cat\u00e9gorie des v\u00e9t\u00e9rans, il a fait un...",
-            "date": "2015-02-22",
-            "tags": "pris,moto,cross",
-            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/02/fr%C3%A9d%C3%A9ric-vigny-double-champion-de-moto-cross",
+        "motomag.com/2015/04/motocross-deux-%C3%A9preuves-majeures-en-france-2015-moto-magazine-leader": {
+            "title": "Motocross: deux \u00e9preuves majeures en France en 2015 - Moto Magazine - leader de l'actualit\u00e9 de la...",
+            "snippet": "Motocross: deux \u00e9preuves majeures en France en 2015 - Moto Magazine - leader de l'actualit\u00e9 de la...",
+            "date": "2015-04-22",
+            "tags": "leader,moto,motocross,france",
+            "recuweb_url": "http://fr.recuweb.com/motomag.com/2015/04/motocross-deux-%C3%A9preuves-majeures-en-france-2015-moto-magazine-leader",
             "resource_url": "http://news.google.fr/?hl=fr&q=moto%2Bcross&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/02/22/2053643-frederic-vigny-double-champion-de-moto-cross.html"
+            "source_url": "http://motomag.com/Motocross-deux-epreuves-majeures-en-France-en-2015.html"
         },
-        "sudouest.fr/2015/02/le-moto-cross-en-piste": {
-            "title": "Le Moto-Cross en piste...",
-            "snippet": "ardi dernier, c'est en pr\u00e9sence du secr\u00e9taire g\u00e9n\u00e9ral de la sous-pr\u00e9fecture Jean de Zorzi, du maire Christian Fraissin\u00e8de, du chef de l'unit\u00e9 d\u00e9partementale des routes de Guyenne, du groupement de gendarmerie de Lot-et-Garonne, du service...",
-            "date": "2015-02-20",
-            "tags": "moto,cross,jean",
-            "recuweb_url": "http://fr.recuweb.com/sudouest.fr/2015/02/le-moto-cross-en-piste",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bcross&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/02/20/le-moto-cross-en-piste-1835492-3685.php"
-        },
-        "ladepeche.fr/2015/02/masters-motocross-les-cl%C3%A9s-d-un-week-end-grand-prix": {
-            "title": "Masters motocross: les cl\u00e9s d'un week-end Grand Prix -...",
-            "snippet": "motocross: les cl\u00e9s d'un week-end Grand autres \u00e9preuves seront vari\u00e9es: le 125 MX Pro qui verra s'affronter les jeunes espoirs du motocross europ\u00e9en, le troph\u00e9e KTM, le troph\u00e9e des ann\u00e9es quatre-vingt pour les vieilles gloires, le...",
-            "date": "2015-02-18",
-            "tags": "grand,grand_prix,prix,motocross",
-            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/02/masters-motocross-les-cl%C3%A9s-d-un-week-end-grand-prix",
+        "ladepeche.fr/2015/04/motocross-les-filles-en-t%C3%AAte-d-affiche": {
+            "title": "Motocross: les filles en t\u00eate d'affiche -...",
+            "snippet": ": les filles en t\u00eate d'est pr\u00eat pour un nouveau championnat de France et, comme l'ann\u00e9e derni\u00e8re, les f\u00e9minines seront la t\u00eate d'affiche du motocross qu'organise le Moto-Club de l'Armagnac, les 25 et 26 avril. Si la piste a \u00e9t\u00e9 rafra\u00eechie...",
+            "date": "2015-04-22",
+            "tags": "ann\u00e9e,motocross,championnat,france,moto",
+            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/motocross-les-filles-en-t%C3%AAte-d-affiche",
             "resource_url": "http://news.google.fr/?hl=fr&q=moto%2Bcross&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/02/18/2051550-masters-motocross-les-cles-d-un-week-end-grand-prix.html"
+            "source_url": "http://ladepeche.fr/article/2015/04/22/2091846-motocross-les-filles-en-tete-d-affiche.html"
+        },
+        "lavoixdunord.fr/2015/04/motocross-la-menace-se-pr%C3%A9cise-pour-j%C3%A9r%C3%A9my-hauquier-toujours-voix": {
+            "title": "Motocross. La menace se pr\u00e9cise pour J\u00e9r\u00e9my Hauquier, toujours... - La Voix du Nord...",
+            "snippet": "La Voix du NordMotocross. La menace se pr\u00e9cise pour J\u00e9r\u00e9my Hauquier, toujours...La Voix du NordDimanche, le circuit de Saint-Ch\u00e9ron (Essonne) accueillait la troisi\u00e8me manche des championnats de France de moto-cross. Le Cat\u00e9sien J\u00e9r\u00e9my...",
+            "date": "2015-04-22",
+            "tags": "motocross,circuit,saint,france,moto,cross",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/04/motocross-la-menace-se-pr%C3%A9cise-pour-j%C3%A9r%C3%A9my-hauquier-toujours-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=moto%2Bcross&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/motocross-la-menace-se-precise-pour-jeremy-hauquier-ia13b0n2785333"
+        },
+        "aisnenouvelle.fr/2015/04/motocross-plomion-desprey-brille-en-italie": {
+            "title": "Motocross/Plomion: Desprey brille en Italie...",
+            "snippet": "Maxime Desprey, qui va aborder Plomion en solide leader du classement provisoire de l\u00c9lite dans la cat\u00e9gorie MX2 (il a remport\u00e9 toutes les manches) \u00e9tait aussi en Italie o\u00f9 se disputait en marge du Grand Prix la premi\u00e8re \u00e9preuve du...",
+            "date": "2015-04-20",
+            "tags": "leader,motocross,\u00e9preuve",
+            "recuweb_url": "http://fr.recuweb.com/aisnenouvelle.fr/2015/04/motocross-plomion-desprey-brille-en-italie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://aisnenouvelle.fr/sport-region/motocrossplomion-desprey-brille-en-italie-ia0b0n206279"
         }
     }
 }
