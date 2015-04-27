@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "collection",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/collection/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
     },
     "items": {
-        "sneakersaddict.com/2015/04/10deep-collection-printemps-%C3%A9t%C3%A9-2015-loobook": {
-            "title": "10DEEP COLLECTION PRINTEMPS/\u00e9T\u00e9 2015 - LOOBOOK PAR...",
-            "snippet": "Le shop Wish nous pr\u00e9sente une partie de la collection Printemps/\u00e9t\u00e9 2015 du fameux label street-wear 10 Deep au travers d'un tr\u00e8s joli lookbook. On d\u00e9couv.",
-            "date": "2015-04-23",
+        "sneakersaddict.com/2015/04/butter-goods-collection-automne-hiver-2015-sneakers-addict": {
+            "title": "Butter Goods Collection Automne/Hiver 2015... - Sneakers Addict...",
+            "snippet": "Le label Australien Butter Goods nous donne un avant go\u00fbt de sa collection Automne/Hiver 2015 au travers d'un lookbook shoot\u00e9 aux alentours du quartier de.",
+            "date": "2015-04-27",
             "author_name": "Eddie Little",
             "categories": "collection",
-            "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/sneakersaddict.com/2015/04/10deep-collection-printemps-%C3%A9t%C3%A9-2015-loobook",
+            "tags": "collection,collection_automne,automne,hiver",
+            "recuweb_url": "http://fr.recuweb.com/collection/sneakersaddict.com/2015/04/butter-goods-collection-automne-hiver-2015-sneakers-addict",
             "resource_url": "http://www.google.com/search?q=collection&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sneakersaddict.com/10deep-collection-printempsete-2015-loobook-par-wish-atlanta-98388"
+            "source_url": "http://sneakersaddict.com/butter-goods-collection-automnehiver-2015-lookbook-98692"
+        },
+        "geeksandcom.com/2015/04/adidas-et-marvel-lancent-une-collection-avengers-age-of-ultron": {
+            "title": "Adidas et Marvel lancent une collection Avengers: Age of Ultron...",
+            "snippet": "Adidas, en partenariat avec Marvel, vient d'annoncer le lancement d'une nouvelle collection autour des superh\u00e9ros de Avengers: Age of Ultron. Des chaussures et des v\u00eatements pour les enfants mais aussi les adultes.",
+            "date": "2015-04-23",
+            "author_name": "Beno\u00eet Chamontin",
+            "categories": "collection",
+            "tags": "nouvelle,annoncer,partenariat,adidas,marvel,collection,avengers",
+            "recuweb_url": "http://fr.recuweb.com/collection/geeksandcom.com/2015/04/adidas-et-marvel-lancent-une-collection-avengers-age-of-ultron",
+            "resource_url": "http://www.google.com/search?q=collection%2Bcollection&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://geeksandcom.com/2015/04/23/adidas-marvel-collection-avengers"
+        },
+        "gizmodo.fr/2015/04/adidas-sort-une-collection-avengers-gizmodo": {
+            "title": "Adidas sort une collection Avengers! - Gizmodo...",
+            "snippet": "Les Avengers ont le vent en poupe ces derniers temps et il serait regrettable que seul Disney et Marvel n'en tirent des b\u00e9n\u00e9fices. Si cette \u00e9quipe \u00e9tait un super-h\u00e9ros, on imagine que son super pouvoir serait le...",
+            "date": "2015-04-23",
+            "author_name": "Flo",
+            "categories": "collection",
+            "tags": "derniers,temps,adidas,collection,avengers,marvel",
+            "recuweb_url": "http://fr.recuweb.com/collection/gizmodo.fr/2015/04/adidas-sort-une-collection-avengers-gizmodo",
+            "resource_url": "http://www.google.com/search?q=collection%2Bcollection&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/23/adidas-avengers.html"
         },
         "blogs.cotemaison.fr/2015/04/christian-lacroix-signe-une-collection-de-luminaires-la-d%C3%A9co": {
             "title": "Christian Lacroix signe une collection de luminaires La d\u00e9co de...",
@@ -28,32 +50,65 @@
             "date": "2015-04-23",
             "author_name": "F\u00e9licie Le Dragon",
             "categories": "collection",
-            "tags": "nouvelle,collection",
+            "tags": "jours,grand,couturier,pr\u00e9senter,nouvelle,collection",
             "recuweb_url": "http://fr.recuweb.com/collection/blogs.cotemaison.fr/2015/04/christian-lacroix-signe-une-collection-de-luminaires-la-d%C3%A9co",
             "resource_url": "http://www.google.com/search?q=collection%2Bcollection&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blogs.cotemaison.fr/ladecodefelicie/2015/04/23/christian-lacroix-signe-une-collection-de-luminaires/"
         },
-        "halo.jeuxonline.info/2015/04/halo-spartan-strike-maintenant-disponible-jeuxonline": {
-            "title": "Halo: Spartan Strike maintenant disponible - JeuxOnLine...",
-            "snippet": "Sacrifi\u00e9 par 343 Industries afin de leur permettre d'am\u00e9liorer leur copie sur Halo: Master Chief Collection, Halo: Spartan Strike aura d\u00fb prendre son mal en patience avant de pouvoir esp\u00e9rer se retrouver sur les plateformes...",
-            "date": "2015-04-16",
-            "author_name": "Soviet Suprem",
+        "parismatch.com/2015/04/une-collection-pour-tex-kenzo-takada-rhabille-carrefour": {
+            "title": "Une collection pour Tex - Kenzo Takada rhabille Carrefour...",
+            "snippet": "Le c\u00e9l\u00e8bre couturier Kenzo Takada lance une collection de 200 pi\u00e8ces avec Tex, la marque textile du g\u00e9ant de la grande distribution Carrefour.",
+            "date": "2015-04-23",
+            "author_name": "Paris Match",
             "categories": "collection",
-            "tags": "retrouver,collection,permettre,maintenant,disponible",
-            "recuweb_url": "http://fr.recuweb.com/collection/halo.jeuxonline.info/2015/04/halo-spartan-strike-maintenant-disponible-jeuxonline",
+            "tags": "marque,pi\u00e8ces,c\u00e9l\u00e8bre,couturier,collection,lance",
+            "recuweb_url": "http://fr.recuweb.com/collection/parismatch.com/2015/04/une-collection-pour-tex-kenzo-takada-rhabille-carrefour",
             "resource_url": "http://www.google.com/search?q=collection%2Bcollection&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://halo.jeuxonline.info/actualite/47798/halo-spartan-strike-maintenant-disponible"
+            "source_url": "http://parismatch.com/Actu/Economie/Collection-avec-Tex-Kenzo-rhabille-Carrefour-750404"
         },
-        "lesarcheotrucs.wordpress.com/2015/03/collection-t-es": {
-            "title": "Collection \"T'es qui, toi?\"...",
-            "snippet": "Dirig\u00e9e par Vincent Cuvelier Ce sont des livres d'histoire pour les enfants qui aiment les histoires. Un personnage, connu ou pas, sympathique ou pas, est racont\u00e9 par des \u00e9crivains d'aujourd'hui.",
-            "date": "2015-03-21",
-            "author_name": "rotteelodie",
+        "lerdvsportif.fr/2015/04/adidas-cr%C3%A9e-une-collection-en-%C3%A9dition-limit%C3%A9e-pour-5th-floor": {
+            "title": "Adidas cr\u00e9e une collection en \u00e9dition limit\u00e9e pour 5th Floor...",
+            "snippet": "En effet, la marque allemande a r\u00e9alis\u00e9 une collection compl\u00e8te en \u00e9dition limit\u00e9e aux couleurs du collectif. Noir, jaune et vert, voici les 3 couleurs qui composent cette collection tr\u00e8s r\u00e9ussie et surtout qui nous surprend...",
+            "date": "2015-04-22",
+            "author_name": "Mathieu B\u00e9nardeau",
+            "categories": "collection",
+            "tags": "compl\u00e8te,marque,adidas,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/lerdvsportif.fr/2015/04/adidas-cr%C3%A9e-une-collection-en-%C3%A9dition-limit%C3%A9e-pour-5th-floor",
+            "resource_url": "http://www.google.com/search?q=collection%2Bcollection&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lerdvsportif.fr/adidas-cree-une-collection-en-edition-limitee-pour-5th-floor/"
+        },
+        "semperludus.wordpress.com/2015/03/collection-nintendo-64-1": {
+            "title": "Collection Nintendo 64 1...",
+            "snippet": "On attaque le tout premier article de ce site par le premier \u00e9pisode de la rubrique Collection! Pourquoi? Parce qu'une collection est pour le joueur l'essence de sa passion,...",
+            "date": "2015-03-22",
+            "author_name": "merylsilver",
             "categories": "collection",
             "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/lesarcheotrucs.wordpress.com/2015/03/collection-t-es",
+            "recuweb_url": "http://fr.recuweb.com/collection/semperludus.wordpress.com/2015/03/collection-nintendo-64-1",
             "resource_url": "http://fr.search.wordpress.com/?q=collection%2Bcollection&f=feed&page=1",
-            "source_url": "http://lesarcheotrucs.wordpress.com/collection-tes-qui-toi/"
+            "source_url": "http://semperludus.wordpress.com/2015/03/22/collection-nintendo-64-2/"
+        },
+        "afrolifedechacha.com/2015/02/focus-collection-loza-mal%C3%A9ombho-automne-hiver-2015": {
+            "title": "FOCUS/COLLECTION: Loza Mal\u00e9ombho - Collection Automne Hiver 2015...",
+            "snippet": "Coucou mes beaut\u00e9s, Aujourd'hui, je vous parle d'un \u00e9norme coup de c\u0153ur visuel pour la collection Automne Hiver 2015 de la cr\u00e9atrice Loza Mal\u00e9ombho. Cette cr\u00e9atrice dorigine br\u00e9silienne, \u00e9lev\u00e9e entre []...",
+            "date": "2015-02-17",
+            "author_name": "Afrolife de Chacha",
+            "categories": "collection",
+            "tags": "cr\u00e9atrice,automne,hiver,beaut\u00e9s,collection,collection_automne",
+            "recuweb_url": "http://fr.recuweb.com/collection/afrolifedechacha.com/2015/02/focus-collection-loza-mal%C3%A9ombho-automne-hiver-2015",
+            "resource_url": "http://fr.search.wordpress.com/?q=collection%2Bcollection&f=feed&page=1",
+            "source_url": "http://afrolifedechacha.com/2015/02/17/focus-collection-loza-maleombho-collection-automne-hiver-2015/"
+        },
+        "myacrea.wordpress.com/2014/12/la-collection-tawana": {
+            "title": "La collection Tawana...",
+            "snippet": "Mya Cr\u00e9a vous transporte en voyage dans le temps... Un pass\u00e9 myst\u00e9rieux, ou l'on s'abreuvait de mythes et de l\u00e9gendes. Alors enfilez une peau de b\u00eate et couronnez vous...",
+            "date": "2014-12-01",
+            "author_name": "myacrea",
+            "categories": "collection",
+            "tags": "temps,collection",
+            "recuweb_url": "http://fr.recuweb.com/collection/myacrea.wordpress.com/2014/12/la-collection-tawana",
+            "resource_url": "http://fr.search.wordpress.com/?q=collection%2Bcollection&f=feed&page=1",
+            "source_url": "http://myacrea.wordpress.com/2014/12/01/la-collection-tawana/"
         }
     }
 }
