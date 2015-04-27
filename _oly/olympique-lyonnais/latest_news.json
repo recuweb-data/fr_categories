@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "olympique-lyonnais",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/olympique-lyonnais/",
@@ -10,42 +11,50 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/blogs.json"
     },
     "items": {
-        "sports.orange.fr/2015/03/deschamps-trouve-fekir-assez-timide-et-r%C3%A9serv%C3%A9": {
-            "title": "Deschamps trouve Fekir assez timide et r\u00e9serv\u00e9...",
-            "snippet": "Nabil Fekir, premi\u00e8re. Le milieu offensif polyvalent de l'Olympique Lyonnais a connu ce lundi son premier rassemblement chez les Bleus, au chteau de Clairefontaine. Didier Deschamps a \u00e9t\u00e9 naturellement \u00e9t\u00e9 interrog\u00e9 sur le nouveau venu.",
-            "date": "2015-03-23",
+        "franceinfo.fr/2015/04/coupe-du-monde-f-d%C3%A9couvrez-les-23-fran%C3%A7aises-appel%C3%A9es": {
+            "title": "Coupe du Monde (F): d\u00e9couvrez les 23 Fran\u00e7aises appel\u00e9es...",
+            "snippet": "Camille Abily (Olympique Lyonnais), \u00c9lise Bussaglia (Olympique Lyonnais), Kenza Dali (Paris SG), Kheira Hamraoui (PSG), Amandine Henry (Olympique Lyonnais), Claire Lavogez (Montpellier HSC), Louisa Necib (Olympique Lyonnais), \u00c9lodie Thomis...",
+            "date": "2015-04-23",
             "categories": "olympique-lyonnais",
-            "tags": "\u00e9t\u00e9,olympique,olympique_lyonnais,lyonnais,milieu,fekir,nabil,premi\u00e8re",
-            "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/sports.orange.fr/2015/03/deschamps-trouve-fekir-assez-timide-et-r%C3%A9serv%C3%A9",
+            "tags": "olympique,olympique_lyonnais,lyonnais,paris,psg",
+            "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/franceinfo.fr/2015/04/coupe-du-monde-f-d%C3%A9couvrez-les-23-fran%C3%A7aises-appel%C3%A9es",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=fr",
-            "source_url": "http://sports.orange.fr/football/equipe-de-france/deschamps-trouve-fekir-assez-timide-et-reserve-newsweb-sports_CNT0000008ug3g.html"
+            "source_url": "http://franceinfo.fr/sports/sports/article/coupe-du-monde-f-la-liste-de-bergeroo-671413"
         },
-        "france3-regions.francetvinfo.fr/2015/03/l-olympique-lyonnais-perd-la-t%C3%AAte-contre-nice": {
-            "title": "L'Olympique lyonnais perd la t\u00eate contre Nice!",
-            "snippet": "FRANCE 3 RH\u00d4NE-ALPES Lyon a laiss\u00e9 la t\u00eate de la Ligue 1 de football au Paris SG apr\u00e8s s'\u00eatre inclin\u00e9 devant Nice (2-1), ce samedi 21 mars, sur son terrain de Gerland au terme d'un match de la 30e journ\u00e9e domin\u00e9 par les Lyonnais,...",
-            "date": "2015-03-22",
-            "categories": "football",
-            "tags": "match,apr\u00e8s,football,lyon,contre,olympique,lyonnais,nice,france,ligue,paris,samedi,mars,gerland,journ\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/football/france3-regions.francetvinfo.fr/2015/03/l-olympique-lyonnais-perd-la-t%C3%AAte-contre-nice",
+        "foot01.com/2015/04/lasse-a-port%C3%A9-plainte-contre-lol-et-attend-des-excuses-publiques": {
+            "title": "LASSE a port\u00e9 plainte contre lOL, et attend des excuses publiques...",
+            "snippet": "Le pr\u00e9sident de lAS Saint-\u00c9tienne Roland Romeyer na re\u00e7u aucun courrier du pr\u00e9sident de lOlympique Lyonnais Jean-Michel Aulas, a fait savoir le club st\u00e9phanois, qui d\u00e9plore que lOL cherche la provocation en permanence et vise...",
+            "date": "2015-04-23",
+            "tags": "michel,michel_aulas,aulas,lolympique,lyonnais,jean,pr\u00e9sident,saint,contre",
+            "recuweb_url": "http://fr.recuweb.com/foot01.com/2015/04/lasse-a-port%C3%A9-plainte-contre-lol-et-attend-des-excuses-publiques",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=fr",
-            "source_url": "http://france3-regions.francetvinfo.fr/rhone-alpes/2015/03/21/l-olympique-lyonnais-perd-la-tete-contre-nice-680369.html"
+            "source_url": "http://foot01.com/equipe/st-etienne/l-asse-a-porte-plainte-contre-l-ol-et-attend-des-excuses-publiques,175097"
         },
-        "football365.fr/2015/03/j30-olympique-lyonnais-nice-1-2": {
-            "title": "(J30): Olympique Lyonnais-Nice (1-2)...",
-            "snippet": "Nice s'est impos\u00e9 sur la pelouse de Olympique Lyonnais (1-2) pour le compte de la 30eme journ\u00e9e du championnat de L1. Dans le cadre de la 30eme journ\u00e9e, Nice s'est impos\u00e9 sur la pelouse de Olympique Lyonnais sur le score de 2-1. Buts: Gonalons...",
-            "date": "2015-03-21",
+        "sport24.lefigaro.fr/2015/04/pas-de-surprise-chez-les-bleues": {
+            "title": "Pas de surprise chez les Bleues...",
+            "snippet": "La liste des 23 de l'Equipe de France: Sarah Bouhaddi (Olympique Lyonnais), C\u00e9line Deville (FCF Juvisy), M\u00e9line G\u00e9rard (Olympique Lyonnais) - Laure Boulleau (Paris SG), Ana\u00efg Butel (FCF Juvisy), Sabrina Delannoy (Paris SG), Laura Georges (Paris...",
+            "date": "2015-04-23",
             "categories": "olympique-lyonnais",
-            "tags": "championnat,pelouse,olympique,olympique_lyonnais,lyonnais,nice,journ\u00e9e,buts,gonalons",
-            "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/football365.fr/2015/03/j30-olympique-lyonnais-nice-1-2",
+            "tags": "olympique,olympique_lyonnais,lyonnais,paris",
+            "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/sport24.lefigaro.fr/2015/04/pas-de-surprise-chez-les-bleues",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Blyonnais&format=RSS&cc=fr",
-            "source_url": "http://football365.fr/j30-olympique-lyonnais-nice-1-2-1219990.shtml"
+            "source_url": "http://sport24.lefigaro.fr/football/equipe-de-france/actualites/pas-de-surprise-chez-les-bleues-747208"
+        },
+        "lyoncapitale.fr/2015/04/psg-le-paris-qatar-contre-l-olympique-lyonnais": {
+            "title": "PSG: le Paris Qatar contre l'Olympique lyonnais -...",
+            "snippet": ": le Paris Qatar contre l'Olympique cas exemplaire qui va dans le sens de ces profils est celui du pr\u00e9sident de l'Olympique Lyonnais. Jean Michel Aulas est un chef d'entreprise qui a aussi bien r\u00e9ussi ses introductions en bourse que l'accession de...",
+            "date": "2015-04-21",
+            "tags": "jean,michel,michel_aulas,aulas,pr\u00e9sident,contre,paris,psg,olympique,lyonnais",
+            "recuweb_url": "http://fr.recuweb.com/lyoncapitale.fr/2015/04/psg-le-paris-qatar-contre-l-olympique-lyonnais",
+            "resource_url": "http://news.google.fr/?hl=fr&q=olympique%2Blyonnais%2Bolympique%2Blyonnais&output=atom&nord=1",
+            "source_url": "http://lyoncapitale.fr/Journal/Lyon/Actualite/Tribune-libre/PSG-le-Paris-Qatar-contre-l-Olympique-lyonnais"
         },
         "fr.news.yahoo.com/2015/03/ligue-1-pi%C3%A9g%C3%A9-par-nice-l-ol-c%C3%A8de-son-tr%C3%B4ne": {
             "title": "Ligue 1: pi\u00e9g\u00e9 par Nice, l'OL c\u00e8de son tr\u00f4ne au PSG...",
             "snippet": "Battu sur sa pelouse samedi par l'OGC Nice (2-1), l'Olympique lyonnais laisse le Paris-Saint-Germain s'emparer de la premi\u00e8re place du championnat.",
             "date": "2015-03-21",
             "categories": "place",
-            "tags": "premi\u00e8re,championnat,pelouse,ligue,nice,psg,samedi,olympique,lyonnais,paris,saint,germain",
+            "tags": "samedi,ligue,psg,olympique,lyonnais,paris,saint",
             "recuweb_url": "http://fr.recuweb.com/place/fr.news.yahoo.com/2015/03/ligue-1-pi%C3%A9g%C3%A9-par-nice-l-ol-c%C3%A8de-son-tr%C3%B4ne",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=olympique%2Blyonnais",
             "source_url": "http://fr.news.yahoo.com/ligue-1-pi\u00e9g\u00e9-nice-lol-c\u00e8de-tr\u00f4ne-au-172044779.html"
@@ -60,22 +69,12 @@
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=olympique%2Blyonnais",
             "source_url": "http://fr.news.yahoo.com/ligue-1-lyon-positionne-gignac-marseille-153708291--sow.html"
         },
-        "20minutes.fr/2015/03/olympique-lyonnais-nabil-fekir-et-alexandre-lacazette-coincent": {
-            "title": "Olympique Lyonnais: Nabil Fekir et Alexandre Lacazette coincent... -...",
-            "snippet": "Lyonnais: Nabil Fekir et Alexandre Lacazette coincent... 'OL peut s'appuyer sur un duo aussi spectaculaire et efficace avec Alexandre Lacazette et Nabil Fekir. Les deux jeunes attaquants lyonnais forment ainsi, avec 34 buts cumul\u00e9s en L1, le...",
-            "date": "2015-03-17",
-            "categories": "olympique-lyonnais",
-            "tags": "alexandre,alexandre_lacazette,lacazette,nabil,fekir,olympique,olympique_lyonnais,lyonnais,buts",
-            "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/20minutes.fr/2015/03/olympique-lyonnais-nabil-fekir-et-alexandre-lacazette-coincent",
-            "resource_url": "http://news.google.fr/?hl=fr&q=olympique%2Blyonnais%2Bolympique%2Blyonnais&output=atom&nord=1",
-            "source_url": "http://20minutes.fr/lyon/1564759-20150317-olympique-lyonnais-nabil-fekir-alexandre-lacazette-coincent-face-tenors"
-        },
         "fr.news.yahoo.com/2015/03/jean-michel-aulas-convoqu%C3%A9-par-le-conseil-national-d-%C3%A9thique": {
             "title": "Jean-Michel Aulas convoqu\u00e9 par le Conseil national d'\u00e9thique...",
             "snippet": "Le pr\u00e9sident de l'Olympique Lyonnais Jean-Michel Aulas a \u00e9t\u00e9 convoqu\u00e9 le 30 mars par le Conseil national d'\u00e9thique de la FFF, qui souhaite l'entendre notamment apr\u00e8s ses critiques envers Cl\u00e9ment Turpin, arbitre du match Lyon-Paris SG (1-1), a...",
             "date": "2015-03-16",
             "categories": "olympique-lyonnais",
-            "tags": "arbitre,arbitre-du-match,match,apr\u00e8s,critiques,\u00e9thique,mars,\u00e9t\u00e9,convoqu\u00e9,olympique,lyonnais,pr\u00e9sident,michel,michel_aulas,aulas,jean,conseil,fff,lyon,paris",
+            "tags": "arbitre,arbitre-du-match,match,apr\u00e8s,critiques,\u00e9thique,mars,convoqu\u00e9,olympique,lyonnais,pr\u00e9sident,michel,michel_aulas,aulas,jean,conseil,lyon,paris",
             "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/fr.news.yahoo.com/2015/03/jean-michel-aulas-convoqu%C3%A9-par-le-conseil-national-d-%C3%A9thique",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=olympique%2Blyonnais",
             "source_url": "http://fr.news.yahoo.com/jean-michel-aulas-convoqu\u00e9-conseil-national-d\u00e9thique-113215269--sow.html"
@@ -95,7 +94,7 @@
             "snippet": "Football - Le milieu de lOlympique lyonnais a disput\u00e9 une mi-temps avec l'\u00e9quipe de r\u00e9serve samedi contre Chasselay...",
             "date": "2015-03-15",
             "categories": "olympique-lyonnais,football",
-            "tags": "milieu,apr\u00e8s,olympique,olympique_lyonnais,lyonnais,lyon,football,samedi,contre",
+            "tags": "samedi,contre,apr\u00e8s,olympique,olympique_lyonnais,lyonnais,lyon,football,lolympique",
             "recuweb_url": "http://fr.recuweb.com/football/fr.news.yahoo.com/2015/03/lyon-olympique-lyonnais-un-an-apr%C3%A8s-sa-blessure-gue%C3%AFda-fofana",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=olympique%2Blyonnais",
             "source_url": "http://fr.news.yahoo.com/lyon-olympique-lyonnais-an-apr\u00e8s-gue\u00efda-fofana-rejou\u00e9-180109156.html"
