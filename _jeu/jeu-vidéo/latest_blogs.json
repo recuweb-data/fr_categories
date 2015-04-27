@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "jeu-vid\u00e9o",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jeu-vid\u00e9o/",
@@ -10,12 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-vid%C3%A9o/jeu-vid%C3%A9o/blogs.json"
     },
     "items": {
+        "actucine.com/2015/04/batman-arkham-knight-nouvelle-bande-annonce-du-jeu-vid%C3%A9o": {
+            "title": "Batman Arkham Knight: nouvelle bande-annonce du jeu vid\u00e9o...",
+            "snippet": "D\u00e9couvrez une nouvelle bande-annonce du jeu vid\u00e9o Batman: Arkham Knight d\u00e9velopp\u00e9 par Rocksteady et Warner Bros Interactive Entertainment. Le...",
+            "date": "2015-04-27",
+            "author_name": "Redaction",
+            "tags": "bros,d\u00e9velopp\u00e9,bande,annonce,jeu",
+            "recuweb_url": "http://fr.recuweb.com/actucine.com/2015/04/batman-arkham-knight-nouvelle-bande-annonce-du-jeu-vid%C3%A9o",
+            "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://actucine.com/stars/batman-arkham-knight-nouvelle-bande-annonce-du-jeu-video-107542.html"
+        },
+        "lesnumeriques.com/2015/04/hebdo-du-jeu-vid%C3%A9o-mad-max-total-war-warhammer-sw": {
+            "title": "Hebdo du jeu vid\u00e9o: Mad Max, Total War Warhammer, SW...",
+            "snippet": "Comme toutes les semaines et en partenariat avec Gamekult, la news Hebdo du jeu vid\u00e9o revient sur les actualit\u00e9s du jeu vid\u00e9o les plus marquantes de ces derniers...",
+            "date": "2015-04-25",
+            "author_name": "Fabien Pionneau",
+            "tags": "marquantes,derniers,revient,semaines,partenariat,mad,mad_max,max,hebdo,jeu,comme,gamekult",
+            "recuweb_url": "http://fr.recuweb.com/lesnumeriques.com/2015/04/hebdo-du-jeu-vid%C3%A9o-mad-max-total-war-warhammer-sw",
+            "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lesnumeriques.com/jeux-video/hebdo-jeu-video-mad-max-total-war-warhammer-sw-battlefront-mk8-n41519.html"
+        },
+        "lesnumeriques.com/2015/04/mad-max-premi%C3%A8re-bande-annonce-de-gameplay-du-jeu-vid%C3%A9o": {
+            "title": "Mad Max: premi\u00e8re bande-annonce de gameplay du jeu vid\u00e9o...",
+            "snippet": "En marge du film Mad Max Fury Road, attendu pour le 14 mai prochain dans les salles obscures, Avalanche Studios (Just Cause) pr\u00e9pare un nouveau jeu vid\u00e9o sobrement intitul\u00e9 Mad Max. Afin de mieux nous pr\u00e9senter ce...",
+            "date": "2015-04-24",
+            "author_name": "Fabien Pionneau",
+            "tags": "mieux,avalanche,avalanche_studios,studios,mai,annonce,gameplay,bande,mad,mad_max,max,jeu,film",
+            "recuweb_url": "http://fr.recuweb.com/lesnumeriques.com/2015/04/mad-max-premi%C3%A8re-bande-annonce-de-gameplay-du-jeu-vid%C3%A9o",
+            "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lesnumeriques.com/jeux-video/mad-max-p26031/mad-max-premiere-bande-annonce-gameplay-jeu-video-n41621.html"
+        },
         "jeuxvideo.fr/2015/04/3-minutes-de-gameplay-en-fran%C3%A7ais": {
             "title": "3 minutes de gameplay, en fran\u00e7ais -...",
             "snippet": "... Dragons: Super Mario Bros. Edition se d\u00e9voile un peu plus avec une vid\u00e9o de 3 minutes de gameplay, en fran\u00e7ais.... Z et Super Mario Edition 14/01/2015 Annonce du jeu en vid\u00e9o 08/01/2015. Partager cette vid\u00e9o...",
             "date": "2015-04-23",
             "author_name": "inconnu",
-            "tags": "peu,minutes,gameplay,jeu",
+            "tags": "peu,bros,minutes,gameplay,annonce,jeu",
             "recuweb_url": "http://fr.recuweb.com/jeuxvideo.fr/2015/04/3-minutes-de-gameplay-en-fran%C3%A7ais",
             "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeuxvideo.fr/jeux/puzzle-and-dragons-super-mario-bros-edition/video/video-3-minutes-de-gameplay-en-francais-464690.html"
@@ -26,7 +57,7 @@
             "date": "2015-04-23",
             "author_name": "inconnu",
             "categories": "collection,xbox",
-            "tags": "xbox,xbox_one,jeu,jeux",
+            "tags": "xbox,xbox_one,mai,jeu,jeux",
             "recuweb_url": "http://fr.recuweb.com/xbox/jeuxvideo.fr/2015/04/halo-3-odst-pour-le-mois-de-mai-sur-xbox-one",
             "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeuxvideo.fr/jeux/halo-the-master-chief-collection/halo-3-odst-xbox-one-actu-764290.html"
@@ -38,7 +69,7 @@
             "author_name": "itthatwas",
             "tags": "industrie,jeu",
             "recuweb_url": "http://fr.recuweb.com/juto6832.wordpress.com/2015/04/le-jeu-de-vid%C3%A9o",
-            "resource_url": "http://fr.search.wordpress.com/?q=jeu%2Bvid%C3%A9o&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&f=feed&page=1",
             "source_url": "http://juto6832.wordpress.com/2015/04/22/le-jeu-de-video/"
         },
         "jeuxvideo.fr/2015/04/une-qu%C3%AAte-sur-xbox-one-precious-cargo": {
@@ -47,7 +78,7 @@
             "date": "2015-04-22",
             "author_name": "inconnu",
             "categories": "xbox",
-            "tags": "diff\u00e9rentes,gameplay,peu,moins,minutes,xbox,xbox_one,jeu",
+            "tags": "diff\u00e9rentes,gameplay,derni\u00e8re,peu,minutes,xbox,xbox_one,jeu",
             "recuweb_url": "http://fr.recuweb.com/xbox/jeuxvideo.fr/2015/04/une-qu%C3%AAte-sur-xbox-one-precious-cargo",
             "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeuxvideo.fr/jeux/the-witcher-3/video/video-une-quete-sur-xbox-one-precious-cargo-464672.html"
@@ -57,7 +88,7 @@
             "snippet": "Comme toutes les semaines et en partenariat avec Gamekult, la news Hebdo du jeu vid\u00e9o revient sur les actualit\u00e9s du jeu vid\u00e9o les plus marquantes de ces derniers...",
             "date": "2015-04-18",
             "author_name": "Fabien Pionneau",
-            "tags": "jeu",
+            "tags": "marquantes,derniers,revient,semaines,partenariat,hebdo,jeu,comme,gamekult",
             "recuweb_url": "http://fr.recuweb.com/lesnumeriques.com/2015/04/hebdo-du-jeu-vid%C3%A9o-star-wars-battlefront-gta-v-pc-mortal",
             "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesnumeriques.com/jeux-video/hebdo-jeu-video-star-wars-battlefront-gta-v-pc-mortal-kombat-x-n41447.html"
@@ -72,46 +103,15 @@
             "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeuneafrique.com/Article/JA2831p112.xml0/"
         },
-        "gizmodo.fr/2015/04/jeux-vid%C3%A9o-il-est-impossible-de-distinguer-le-vrai-du-faux": {
-            "title": "Jeux vid\u00e9o, il est impossible de distinguer le vrai du faux! - Gizmodo...",
-            "snippet": "Le bond graphique enregistr\u00e9 dans les jeux vid\u00e9o est devenu exceptionnel ces derni\u00e8res ann\u00e9es, au point m\u00eame de ne plus pouvoir diff\u00e9rencier le jeu de la vie r\u00e9elle... Vous doutez? Et pourtant, voici la preuve en vid\u00e9o.",
-            "date": "2015-04-08",
-            "author_name": "Flo",
-            "tags": "voici,vie,m\u00eame,pouvoir,derni\u00e8res,derni\u00e8res-ann\u00e9es,ann\u00e9es,vrai,jeux,jeu",
-            "recuweb_url": "http://fr.recuweb.com/gizmodo.fr/2015/04/jeux-vid%C3%A9o-il-est-impossible-de-distinguer-le-vrai-du-faux",
-            "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/08/jeux-video-distinguer-vrai-faux.html"
-        },
-        "legrenierderitz.wordpress.com/2015/03/jeu-vid%C3%A9o-watch-dogs-ps4": {
-            "title": "Jeu vid\u00e9o - Watch Dogs PS4...",
-            "snippet": "Voila pr\u00e8s d'un an que Watch Dogs est sorti, autant dire que j'arrive carr\u00e9ment apr\u00e8s la bataille (ils ont eu le temps de reconstruire depuis). Mais malgr\u00e9 tout, []...",
-            "date": "2015-03-22",
-            "author_name": "Ritz",
-            "tags": "sorti,jeu,temps",
-            "recuweb_url": "http://fr.recuweb.com/legrenierderitz.wordpress.com/2015/03/jeu-vid%C3%A9o-watch-dogs-ps4",
-            "resource_url": "http://fr.search.wordpress.com/?q=jeu%2Bvid%C3%A9o&f=feed&page=1",
-            "source_url": "http://legrenierderitz.wordpress.com/2015/03/22/jeu-video-watch-dogs-ps4/"
-        },
-        "myteddyland.net/2015/02/pixlci-replay-s01e01-l-actu-du-jeu-vid%C3%A9o-le-succ%C3%A8s": {
-            "title": "PixLCI: (REPLAY) s01e01 - L'actu du jeu vid\u00e9o Le succ\u00e8s des figurines Amiibo, The Order 1886 sur...",
-            "snippet": "Afin d\u00eatre en conformit\u00e9 avec les lois r\u00e9gissant les droits TV des cha\u00eenes priv\u00e9es, la vid\u00e9o de l\u00e9mission ne peut \u00eatre int\u00e9gr\u00e9e directement dans cet article. Liens pour voir []...",
-            "date": "2015-02-22",
-            "author_name": "myteddyland",
-            "tags": "peut,jeu",
-            "recuweb_url": "http://fr.recuweb.com/myteddyland.net/2015/02/pixlci-replay-s01e01-l-actu-du-jeu-vid%C3%A9o-le-succ%C3%A8s",
-            "resource_url": "http://fr.search.wordpress.com/?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&f=feed&page=1",
-            "source_url": "http://myteddyland.net/2015/02/22/pixlci-replay-s01e01-lactu-du-jeu-video-le-succes-des-figurines-amiibo-the-order-1886-sur-ps4/"
-        },
-        "francaiseteclg.wordpress.com/2014/06/jeu-vid%C3%A9-culturel-du-pareil-au-m%C3%AAme": {
-            "title": "Jeu vid\u00e9 jeu culturel? Du pareil au m\u00eame!",
-            "snippet": "Depuis les 20 derni\u00e8res ann\u00e9es, les jeux vid\u00e9o ont pris une place importante dans la vie de tous. Nous sommes tous affect\u00e9s par cette industrie, que ce soit []...",
-            "date": "2014-06-02",
-            "author_name": "francaiseteclg",
-            "categories": "place",
-            "tags": "industrie,vie,derni\u00e8res,derni\u00e8res-ann\u00e9es,ann\u00e9es,m\u00eame,jeu,vid\u00e9,jeux",
-            "recuweb_url": "http://fr.recuweb.com/place/francaiseteclg.wordpress.com/2014/06/jeu-vid%C3%A9-culturel-du-pareil-au-m%C3%AAme",
-            "resource_url": "http://fr.search.wordpress.com/?q=jeu%2Bvid%C3%A9o%2Bjeu%2Bvid%C3%A9o&f=feed&page=1",
-            "source_url": "http://francaiseteclg.wordpress.com/sports-et-loisirs/sujet-11/"
+        "presse-citron.net/2015/04/jeu-vid%C3%A9o-vs-images-r%C3%A9elles-impossible-de-faire-la-diff%C3%A9rence": {
+            "title": "Jeu vid\u00e9o vs. images r\u00e9elles: impossible de faire la diff\u00e9rence...",
+            "snippet": "Dans cette vid\u00e9o, deux voitures de course s'affrontent sur un circuit. L'une est r\u00e9elle, l'autre est un jeu vid\u00e9o. Saurez-vous trouver quelle est la vraie?",
+            "date": "2015-04-09",
+            "author_name": "Eric",
+            "tags": "jeu",
+            "recuweb_url": "http://fr.recuweb.com/presse-citron.net/2015/04/jeu-vid%C3%A9o-vs-images-r%C3%A9elles-impossible-de-faire-la-diff%C3%A9rence",
+            "resource_url": "http://www.google.com/search?q=jeu%2Bvid%C3%A9o&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://presse-citron.net/jeu-video-quand-le-realisme-depasse-la-realite/"
         }
     }
 }
