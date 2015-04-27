@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microblog",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -16,21 +17,10 @@
             "date": "2015-02-23",
             "author_name": "seboss666",
             "categories": "microblog,wordpress",
-            "tags": "permet,permet-de-publier,publier,articles,microblog,peu",
+            "tags": "permet,permet-de-publier,publier,articles,microblog",
             "recuweb_url": "http://fr.recuweb.com/wordpress/blog.seboss666.info/2015/02/microblog-poster-permet-maintenant-de-republier-d-anciens-articles",
             "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.seboss666.info/2015/02/microblog-poster-permet-maintenant-de-republier-danciens-articles/"
-        },
-        "presse-citron.net/2014/05/microblog-presse-citron": {
-            "title": "Microblog - Presse-citron...",
-            "snippet": "9 mars 2015 12 M\u00eame si vous n'\u00eates pas fan d'Apple, voici pourquoi vous pourriez craquer pour l'Apple Watch Startups Auto-Moto Mobile Applications Internet mobile Lecture num\u00e9rique Business Salons et conf\u00e9rences Buzz.",
-            "date": "2014-05-13",
-            "author_name": "Eric",
-            "categories": "internet,microblog",
-            "tags": "internet,microblog,presse,citron",
-            "recuweb_url": "http://fr.recuweb.com/microblog/presse-citron.net/2014/05/microblog-presse-citron",
-            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/microblog-2/"
         },
         "formation20.wordpress.com/2014/04/inkgrph-cr%C3%A9er-un-blog-en-quelques-minutes": {
             "title": "Inkgrph: cr\u00e9er un blog en quelques minutes...",
@@ -38,7 +28,7 @@
             "date": "2014-04-08",
             "author_name": "Fr\u00e9d\u00e9ric",
             "categories": "microblog",
-            "tags": "web,utilisateurs,quelques,microblogs",
+            "tags": "web,utilisateurs,microblogs",
             "recuweb_url": "http://fr.recuweb.com/microblog/formation20.wordpress.com/2014/04/inkgrph-cr%C3%A9er-un-blog-en-quelques-minutes",
             "resource_url": "http://fr.search.wordpress.com/?q=microblog%2Bmicroblog&f=feed&page=1",
             "source_url": "http://formation20.wordpress.com/2014/04/08/inkgrph-creer-un-blog-en-quelques-minutes/"
@@ -49,21 +39,21 @@
             "date": "2014-02-22",
             "author_name": "helenehalepidis",
             "categories": "microblog",
-            "tags": "articles,permet,permet-de-publier,publier,microblogging,micro,microblog",
+            "tags": "articles,permet,permet-de-publier,publier,micro,microblog",
             "recuweb_url": "http://fr.recuweb.com/microblog/helenehalepidis.wordpress.com/2014/02/le-micro-blogging",
             "resource_url": "http://fr.search.wordpress.com/?q=microblog%2Bmicroblog&f=feed&page=1",
             "source_url": "http://helenehalepidis.wordpress.com/le-micro-blogging/"
         },
-        "business-internet-chine.com/2010/09/chine-publie-son-premier-livre-blanc-de-microblog": {
-            "title": "Chine publie son premier livre blanc de Microblog...",
-            "snippet": "Les statistiques montrent que le service de microblog de Sina est le meilleur service de microblog en Chine de par 10 indices, incluant l'identification de la marque et la fr\u00e9quence d'utilisation. En raison de l'ex\u00e9cution simple...",
-            "date": "2010-09-27",
+        "en.rsf.org/2012/04/tv-presenter-suspended-after-microblog-warning-about-tainted": {
+            "title": "TV presenter suspended after microblog warning about tainted...",
+            "snippet": "Read in Chinese/Reporters Without Borders is concerned about the fate of Zhao Pu, an evening news presenter on state-owned CCTV, who has not been seen on screen since 9 April, after posting a warning...",
+            "date": "2012-04-25",
             "author_name": "inconnu",
             "categories": "microblog",
-            "tags": "raison,service,chine,microblog",
-            "recuweb_url": "http://fr.recuweb.com/microblog/business-internet-chine.com/2010/09/chine-publie-son-premier-livre-blanc-de-microblog",
-            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://business-internet-chine.com/instant-messenger/sina-publie-son-premier-livre-blanc-de-microblog.php"
+            "tags": "microblog,chinese",
+            "recuweb_url": "http://fr.recuweb.com/microblog/en.rsf.org/2012/04/tv-presenter-suspended-after-microblog-warning-about-tainted",
+            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://en.rsf.org/china-tv-presenter-suspended-after-25-04-2012,42367.html"
         },
         "boogees.com/2010/06/boogee-s-le-blog-rock-du-au-micro": {
             "title": "BooGee'S: Le Blog Rock Du blog au micro-blog...",
@@ -76,24 +66,13 @@
             "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://boogees.com/2010/06/du-blog-au-micro-blog/"
         },
-        "presse-citron.net/2009/09/une-nouvelle-fonction-de-microblogging-dans-presse-citron": {
-            "title": "Une nouvelle fonction de microblogging dans Presse-citron...",
-            "snippet": "Je me pose depuis longtemps la question de trouver un moyen de concilier le plaisir et le c\u00f4t\u00e9 pratique et imm\u00e9diat du microblogging avec la n\u00e9cessit\u00e9 de maintenir un blog qui tienne un peu la route en termes de contenu,...",
-            "date": "2009-09-01",
-            "author_name": "Eric",
-            "categories": "plaisir",
-            "tags": "microblogging,peu,contenu,nouvelle,fonction,presse,citron",
-            "recuweb_url": "http://fr.recuweb.com/plaisir/presse-citron.net/2009/09/une-nouvelle-fonction-de-microblogging-dans-presse-citron",
-            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/un-microblog-dans-le-presse-citron/"
-        },
         "contrib.spip.net/2009/05/microblog-spip-contrib": {
             "title": "Microblog - SPIP-Contrib...",
             "snippet": "5. 5. 5. 5. 5. 21 votes. Ce plugin offre une fonction microblog() que l'on peut utiliser pour envoyer des micro-messages (status) sur les sites de microblog compatibles avec l'API Twitter 1. La fonction s'utilise comme suit:.",
             "date": "2009-05-22",
             "author_name": "Fil",
             "categories": "twitter,microblog",
-            "tags": "fonction,twitter,sites,offre,microblog,micro,messages,comme",
+            "tags": "twitter,sites,offre,microblog,micro,messages,comme",
             "recuweb_url": "http://fr.recuweb.com/microblog/contrib.spip.net/2009/05/microblog-spip-contrib",
             "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://contrib.spip.net/Microblog"
