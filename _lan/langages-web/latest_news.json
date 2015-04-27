@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "langages-web",
+        "language": "fr",
+        "updated": "20150428"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/langages-web/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/blogs.json"
+    },
+    "items": {
+        "information.tv5monde.com/2015/04/de-quoi-la-jupe-est-elle-le-nom-tv5monde-info": {
+            "title": "De quoi la jupe est-elle le nom? - TV5MONDE Info...",
+            "snippet": "TV5MONDE InfoDe quoi la jupe est-elle le nom?TV5MONDE InfoUn bout de tissu qui, selon sa forme, sa taille, sa couleur, est un vecteur de multiples langages.... Dans le dernier Regards crois\u00e9s du magazine web \u00e9tudiants Crossworlds, les jupes et les...",
+            "date": "2015-04-26",
+            "categories": "langage",
+            "tags": "langages,web",
+            "recuweb_url": "http://fr.recuweb.com/langage/information.tv5monde.com/2015/04/de-quoi-la-jupe-est-elle-le-nom-tv5monde-info",
+            "resource_url": "http://news.google.fr/?hl=fr&q=langages%2Bweb&output=atom&nord=1",
+            "source_url": "http://information.tv5monde.com/terriennes/de-quoi-la-jupe-est-elle-le-nom-30103"
+        }
+    }
+}
