@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "adwords",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/adwords/",
@@ -10,85 +11,105 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
     },
     "items": {
-        "seroundtable.com/2015/03/google-changes-adwords-exams-&-certifications-criteria-search-engine-roundtable": {
-            "title": "Google Changes AdWords Exams & Certifications Criteria - Search Engine Roundtable...",
-            "snippet": "Google Changes AdWords Exams & Certifications CriteriaSearch Engine RoundtableGoogle Partners Mini from the Google AdWords team announced on Google AdWords Help that they've \"made some changes to the Google AdWords exams and certifications in...",
-            "date": "2015-03-30",
+        "searchenginepeople.com/2015/04/what-you-need-to-know-about-adwords-&-the-google-display": {
+            "title": "What You Need To Know About Adwords & The Google Display... - Search Engine People (blog)...",
+            "snippet": "What You Need To Know About Adwords & The Google Display...Search Engine People (blog)While many individual sites may seem obscure or lacking fantastic content, the collective of them provides a network that can reach a pretty niche set of targets,...",
+            "date": "2015-04-23",
             "categories": "google,adwords",
-            "tags": "some,that,google,google_adwords,adwords,engine,search,search_engine",
-            "recuweb_url": "http://fr.recuweb.com/adwords/seroundtable.com/2015/03/google-changes-adwords-exams-&-certifications-criteria-search-engine-roundtable",
+            "tags": "that,sites,search,search_engine,engine,google,display,about,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/searchenginepeople.com/2015/04/what-you-need-to-know-about-adwords-&-the-google-display",
             "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://seroundtable.com/google-adwords-exams-certifications-20068.html"
+            "source_url": "http://searchenginepeople.com/blog/150440955-adwords-google-display-network.html"
         },
-        "e-works.fr/2015/03/senior-account-manager-sem-google-adwords-&-bing-ads-h-f": {
-            "title": "Senior Account Manager SEM Google Adwords & Bing Ads (H/F) - Blog E-Works...",
-            "snippet": "Senior Account Manager SEM Google Adwords & Bing Ads (H/F)Blog E-WorksRe-mind est une agence media digitale ind\u00e9pendante, lanc\u00e9e en 2007, et qui r\u00e9unit le meilleur des 2 univers: performance et probl\u00e9matique de marque au sein d'une m\u00eame...",
-            "date": "2015-03-27",
-            "categories": "bing,google,adwords",
-            "tags": "marque,google,google_adwords,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/e-works.fr/2015/03/senior-account-manager-sem-google-adwords-&-bing-ads-h-f",
-            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://e-works.fr/offre-emploi/senior-account-manager-sem-google-adwords-bing-ads-hf-1822.html"
-        },
-        "webrankinfo.com/2015/03/google-actualit%C3%A9s-ne-tient-pas-encore-compte-de-la-compatibilit%C3%A9-mobile": {
-            "title": "Google Actualit\u00e9s ne tient pas (encore) compte de la compatibilit\u00e9 mobile...",
-            "snippet": "Il a \u00e9galement cr\u00e9\u00e9 la soci\u00e9t\u00e9 Ranking Metrics, leader des formations emarketing en France (SEO, AdWords, Analytics, r\u00e9seaux sociaux).",
-            "date": "2015-03-26",
+        "comptanoo.com/2015/04/comment-r%C3%A9f%C3%A9rencer-un-site-multilingue": {
+            "title": "Comment r\u00e9f\u00e9rencer un site multilingue?",
+            "snippet": "Vous obtiendrez ce que les sp\u00e9cialistes appellent un champ lexical \u00e9largi. A partir des expressions que vous aurez obtenues, utilisez Google Adwords, qui vous sugg\u00e9rera des listes de mots-cl\u00e9s et vous proposera l'analyse de sites concurrents...",
+            "date": "2015-04-22",
             "categories": "google,adwords",
-            "tags": "compte,compatibilit\u00e9,compatibilit\u00e9-mobile,mobile,google,formations,seo,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/webrankinfo.com/2015/03/google-actualit%C3%A9s-ne-tient-pas-encore-compte-de-la-compatibilit%C3%A9-mobile",
+            "tags": "sites,concurrents,cl\u00e9s,mots,google,google_adwords,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/comptanoo.com/2015/04/comment-r%C3%A9f%C3%A9rencer-un-site-multilingue",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
-            "source_url": "http://webrankinfo.com/dossiers/google-news/facteur-compatibilite-mobile"
+            "source_url": "http://comptanoo.com/innovation/actualite-tpe-pme/23535/comment-referencer-site-multilingue"
         },
-        "tendancehotellerie.fr/2015/03/article-sponsoris%C3%A9-marketing-digital-pourquoi-comment-et-combien-%C3%A7a-coute": {
-            "title": "Article sponsoris\u00e9: Marketing digital: pourquoi, comment et combien \u00e7a coute?",
-            "snippet": "concevoir des campagnes Adwords r\u00e9guli\u00e8res pour d\u00e9fendre votre marque et la placer en top premi\u00e8re page sous Google Refondre son site du Flash vers du html responsive web design pour obtenir une compatibilit\u00e9 mobile et tablette (petit apart\u00e9:...",
-            "date": "2015-03-24",
-            "categories": "google,marketing,adwords",
-            "tags": "obtenir,compatibilit\u00e9,compatibilit\u00e9-mobile,mobile,html,google,marque,campagnes,marketing,adwords,flash,web",
-            "recuweb_url": "http://fr.recuweb.com/adwords/tendancehotellerie.fr/2015/03/article-sponsoris%C3%A9-marketing-digital-pourquoi-comment-et-combien-%C3%A7a-coute",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
-            "source_url": "http://tendancehotellerie.fr/articles-breves/publireportages/4662-article/marketing-digital-pourquoi-comment-et-combien-ca-coute"
-        },
-        "pro.clubic.com/2015/03/infos-us-de-la-nuit-google-d%C3%A9bauche-directrice-financi%C3%A8re-morgan-stanley": {
-            "title": "Infos US de la nuit: Google d\u00e9bauche la directrice financi\u00e8re de Morgan Stanley...",
-            "snippet": "Deeplink lance AppWords, pour des liens intelligents entre applications Deeplink a lanc\u00e9 mardi AppWords, une plate-forme de recherche mobile inspir\u00e9e du mod\u00e8le de Google AdWords. L'id\u00e9e est de rep\u00e9rer les mots-cl\u00e9s pour mieux cibler les...",
-            "date": "2015-03-24",
+        "lemondeinformatique.fr/2015/04/google-chiffre-les-publicit%C3%A9s-avec-https": {
+            "title": "Google chiffre les publicit\u00e9s avec HTTPS...",
+            "snippet": "Des publicit\u00e9s chiffr\u00e9es via AdWords et DoubleClick Lun des principaux probl\u00e8mes que rencontrent les webmasters en mettant en oeuvre HTTPS, ce nest pas le co\u00fbt dachat des certificats num\u00e9riques, mais le fait que leurs sites web chargent des...",
+            "date": "2015-04-22",
             "categories": "google,adwords",
-            "tags": "cl\u00e9s,mots,recherche,mobile,google,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/pro.clubic.com/2015/03/infos-us-de-la-nuit-google-d%C3%A9bauche-directrice-financi%C3%A8re-morgan-stanley",
+            "tags": "sites,publicit\u00e9s,google,adwords,web",
+            "recuweb_url": "http://fr.recuweb.com/adwords/lemondeinformatique.fr/2015/04/google-chiffre-les-publicit%C3%A9s-avec-https",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
-            "source_url": "http://pro.clubic.com/actualite-e-business/infos-us-de-la-nuit/actualite-760365-infos-us-nuit-google-debauche-directrice-financiere-morgan-stanley.html"
+            "source_url": "http://lemondeinformatique.fr/actualites/lire-google-chiffre-les-publicites-avec-https-60920.html"
         },
-        "wordstream.com/2015/03/where-adwords-website-call-conversions-can-go-wrong-wordstream-blog": {
-            "title": "Where AdWords Website Call Conversions Can Go Wrong - WordStream (blog)...",
-            "snippet": "Where AdWords Website Call Conversions Can Go WrongWordStream (blog)When Google AdWords launched their website call conversions program in August, I was ecstatic. I'm the Chief Marketing Officer for an agency that focuses on marketing for...",
-            "date": "2015-03-24",
-            "categories": "marketing,google,adwords",
-            "tags": "that,marketing,when,google,google_adwords,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/wordstream.com/2015/03/where-adwords-website-call-conversions-can-go-wrong-wordstream-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://wordstream.com/blog/ws/2015/03/24/adwords-call-tracking-bug"
-        },
-        "searchengineland.com/2015/03/3-awesome-things-you-can-do-with-the-adwords-dimensions-tab": {
-            "title": "3 Awesome Things You Can Do With The AdWords Dimensions Tab - Search Engine Land...",
-            "snippet": "Search Engine Land3 Awesome Things You Can Do With The AdWords Dimensions TabSearch Engine LandThere are some features in AdWords you just can't live without when managing a PPC account and the Dimensions tab is one of them. In fact, I polled my...",
-            "date": "2015-03-23",
+        "wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples": {
+            "title": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples) - WordStream (blog)...",
+            "snippet": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples)WordStream (blog)Today we're featuring a post that originally appeared on the Unbounce blog. In addition, we're partnering with Unbounce to offer a free webinar this Thursday, 3 Steps...",
+            "date": "2015-04-21",
             "categories": "adwords",
-            "tags": "when,some,adwords,engine,search,search_engine",
-            "recuweb_url": "http://fr.recuweb.com/adwords/searchengineland.com/2015/03/3-awesome-things-you-can-do-with-the-adwords-dimensions-tab",
+            "tags": "that,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples",
             "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/3-awesome-things-can-adwords-dimensions-tab-216987"
+            "source_url": "http://wordstream.com/blog/ws/2015/04/21/adwords-ads"
         },
-        "generation-nt.com/2015/02/google-change-la-pub-flash-en-html5": {
-            "title": "Google change la pub Flash en HTML5...",
-            "snippet": "Cela concerne les anciennes campagnes comme les nouvelles lorsqu'elles sont mises en ligne par les annonceurs via AdWords, AdWords Editor et des outils tiers fonctionnant avec la plateforme publicitaire de Google. Avec le diktat du mobile o\u00f9 la...",
-            "date": "2015-02-26",
+        "searchengineland.com/2015/04/new-adwords-campaign-detail-reporting-options-give-x-ray-search-engine": {
+            "title": "New AdWords Campaign Detail Reporting Options Give X-Ray... - Search Engine Land...",
+            "snippet": "Search Engine LandNew AdWords Campaign Detail Reporting Options Give X-Ray...Search Engine LandPaid search professionals routinely talk about wrangling reports in AdWords in order to get the most pertinent data. Well so the days of wrestling with...",
+            "date": "2015-04-20",
+            "categories": "adwords",
+            "tags": "search,about,search_engine,engine,adwords,search_engine_land,engine_land,land",
+            "recuweb_url": "http://fr.recuweb.com/adwords/searchengineland.com/2015/04/new-adwords-campaign-detail-reporting-options-give-x-ray-search-engine",
+            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/new-adwords-campaign-detail-reporting-options-give-x-ray-vision-inisght-into-campaigns-219358"
+        },
+        "searchengineland.com/2015/04/troubleshooting-adwords-conversion-tracking-for-non-techies-search-engine-land": {
+            "title": "Troubleshooting AdWords Conversion Tracking For Non-Techies - Search Engine Land...",
+            "snippet": "Search Engine LandTroubleshooting AdWords Conversion Tracking For Non-TechiesSearch Engine LandYou did everything you were supposed to on your end, including giving the web developer the AdWords tracking code for conversions to install. Suddenly, it...",
+            "date": "2015-04-20",
+            "categories": "adwords",
+            "tags": "engine,search,search_engine,adwords,search_engine_land,engine_land,land,web",
+            "recuweb_url": "http://fr.recuweb.com/adwords/searchengineland.com/2015/04/troubleshooting-adwords-conversion-tracking-for-non-techies-search-engine-land",
+            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/troubleshooting-adwords-conversion-tracking-non-techies-218411"
+        },
+        "pro.clubic.com/2015/04/google-vers-des-publicit%C3%A9s-plus-cibl%C3%A9es-grce-aux-adresses-email": {
+            "title": "Google: vers des publicit\u00e9s plus cibl\u00e9es grce aux adresses email...",
+            "snippet": "Google souhaiterait mieux optimiser l'\u00e9tendu de son r\u00e9seau publicitaire en tirant parti de ses utilisateurs afin de cibler plus pr\u00e9cis\u00e9ment les annonces de sa plateforme AdWords. Ainsi selon le Wall Street Journal, la soci\u00e9t\u00e9 tente...",
+            "date": "2015-04-16",
             "categories": "google,adwords",
-            "tags": "mobile,plateforme,plateforme-publicitaire,publicitaire,annonceurs,campagnes,google,flash,html,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/generation-nt.com/2015/02/google-change-la-pub-flash-en-html5",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords%2Badwords&format=RSS&cc=fr",
-            "source_url": "http://generation-nt.com/google-flash-player-html5-publicite-actualite-1912439.html"
+            "tags": "plateforme,publicitaire,publicit\u00e9s,google,annonces,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/pro.clubic.com/2015/04/google-vers-des-publicit%C3%A9s-plus-cibl%C3%A9es-grce-aux-adresses-email",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
+            "source_url": "http://pro.clubic.com/webmarketing/publicite-en-ligne/actualite-763160-google-pub-ciblees-adresses-email.html"
+        },
+        "webrankinfo.com/2015/04/google-est-officiellement-accus%C3%A9-d-abus-de-position-dominante-par-bruxelles": {
+            "title": "Google est officiellement accus\u00e9 d'abus de position dominante par Bruxelles...",
+            "snippet": "une s\u00e9paration franche entre la publicit\u00e9 AdWords et les r\u00e9sultats naturels? de r\u00e9elles chances pour des concurrents d'obtenir de la visibilit\u00e9 pour les r\u00e9sultats de recherche verticaux (le local, les vols d'avions, les h\u00f4tels, les vid\u00e9os...",
+            "date": "2015-04-15",
+            "categories": "google,adwords",
+            "tags": "obtenir,recherche,concurrents,publicit\u00e9,accus\u00e9,google,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/webrankinfo.com/2015/04/google-est-officiellement-accus%C3%A9-d-abus-de-position-dominante-par-bruxelles",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
+            "source_url": "http://webrankinfo.com/dossiers/google/abus-position-dominante-europe"
+        },
+        "itespresso.fr/2015/04/antitrust-%C3%A7a-va-chauffer-pour-google-en-europe": {
+            "title": "Antitrust: \u00e7a va chauffer pour Google en Europe?",
+            "snippet": "La firme Internet de Mountain View \u00e9tait \u00e9galement accus\u00e9 d\u00e9riger des obstacles pour \u00e9viter que les annonceurs AdWords ne transf\u00e8rent leurs campagnes de publicit\u00e9 sur des plateformes concurrentes de liens sponsoris\u00e9s. On recense une dizaine...",
+            "date": "2015-04-13",
+            "categories": "google,internet,adwords",
+            "tags": "publicit\u00e9,accus\u00e9,annonceurs,google,adwords,campagnes",
+            "recuweb_url": "http://fr.recuweb.com/adwords/itespresso.fr/2015/04/antitrust-%C3%A7a-va-chauffer-pour-google-en-europe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
+            "source_url": "http://itespresso.fr/antitrust-chauffer-google-europe-93672.html"
+        },
+        "webmarketing-com.com/2015/04/7-points-de-contr%C3%B4le-vos-campagnes-google-adwords-webmarketing-&-co": {
+            "title": "7 points de contr\u00f4le de vos campagnes Google AdWords - Webmarketing & co'm...",
+            "snippet": "Webmarketing & co'm7 points de contr\u00f4le de vos campagnes Google AdWordsWebmarketing & co'mLa gestion de campagnes Google AdWords peut vite devenir un v\u00e9ritable casse-t\u00eate si vous ne poss\u00e9dez pas un minimum de connaissances et si vous partez sur...",
+            "date": "2015-04-08",
+            "categories": "connaissance,google,adwords",
+            "tags": "google,google_adwords,adwords,campagnes",
+            "recuweb_url": "http://fr.recuweb.com/adwords/webmarketing-com.com/2015/04/7-points-de-contr%C3%B4le-vos-campagnes-google-adwords-webmarketing-&-co",
+            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
+            "source_url": "http://webmarketing-com.com/2015/04/08/36940-7-points-de-controle-de-vos-campagnes-google-adwords"
         }
     }
 }
