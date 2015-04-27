@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "beaux-arts",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/beaux-arts/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/beaux-arts/beaux-arts/blogs.json"
     },
     "items": {
+        "youtube.com/2015/03/orchestre-andalou-les-beaux-arts-d-alger": {
+            "title": "ORCHESTRE ANDALOU LES BEAUX ARTS D'ALGER...",
+            "snippet": "ORCHESTRE ANDALOU LES BEAUX ARTS D'ALGER SALLE IBN KHELDOUN Vid\u00e9o Mme Guellati. From: Zouhir Guellati Views: 1591 11 ratings Time: 32:25 More in Music...",
+            "date": "2015-03-27",
+            "author_name": "Zouhir Guellati",
+            "categories": "beaux-arts,arts",
+            "tags": "beaux,arts,alger",
+            "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2015/03/orchestre-andalou-les-beaux-arts-d-alger",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beaux%2Barts%2Bbeaux%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=VTvQ-LulW10&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/VTvQ-LulW10/0.jpg"
+        },
         "youtube.com/2015/03/le-mus%C3%A9e-national-des-beaux-arts-d-alger": {
             "title": "Le Mus\u00e9e National Des Beaux-Arts d'Alger...",
             "snippet": "Le Mus\u00e9e National Des Beaux-Arts d'Alger National Museum of Fine Arts of Algiers Algeria Le Mus\u00e9e National Des Beaux-Arts d'Alger: \u00c9difi\u00e9 en 1930, le mus\u00e9e des Beaux-Arts d'Alger est une exception. La plus grande collection... From: Hemza...",
             "date": "2015-03-14",
             "author_name": "Hemza Zeghar",
             "categories": "collection,arts",
-            "tags": "grande,mus\u00e9e,beaux,arts",
+            "tags": "grande,mus\u00e9e,beaux,arts,alger",
             "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2015/03/le-mus%C3%A9e-national-des-beaux-arts-d-alger",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beaux%2Barts%2Bbeaux%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=YP1J3t88hs0&feature=youtube_gdata",
@@ -46,13 +59,25 @@
             "source_url": "http://dailymotion.com/video/x2d4h4g_cours-dessin-95-val-d-oise-ermont-guillaume-yooneed_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2d4h4g_cours-dessin-95-val-d-oise-ermont-guillaume-yooneed_lifestyle"
         },
+        "youtube.com/2014/10/l-%C3%A9cole-des-beaux-arts-de-rouen-a-d%C3%A9m%C3%A9nag%C3%A9-du-centre": {
+            "title": "L'\u00e9cole des Beaux-Arts de Rouen a d\u00e9m\u00e9nag\u00e9 du centre historique Episode 4...",
+            "snippet": "L'\u00e9cole des Beaux-Arts de Rouen a d\u00e9m\u00e9nag\u00e9 du centre historique Episode 4 L'ESADHAR, \u00e9cole sup\u00e9rieure des arts et du design du Havre et de Rouen est en plein bouleversement From: France 3 Haute-Normandie Views: 641 1 ratings Time: 03:08 More...",
+            "date": "2014-10-23",
+            "author_name": "France 3 Haute-Normandie",
+            "categories": "arts",
+            "tags": "\u00e9cole,sup\u00e9rieure,arts,beaux",
+            "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2014/10/l-%C3%A9cole-des-beaux-arts-de-rouen-a-d%C3%A9m%C3%A9nag%C3%A9-du-centre",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beaux%2Barts%2Bbeaux%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=m7VvAOIKkEw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/m7VvAOIKkEw/0.jpg"
+        },
         "dailymotion.com/2014/10/flash-mob-momies-au-palais-des-beaux-arts-de-lille": {
             "title": "Flash Mob Momies au palais des Beaux-Arts de Lille...",
             "snippet": "Flash Mob Momies au palais des Beaux-Arts de Lille mercredi 15 octobre 2014 dans le cadre de l'exposition S\u00e9sostris III, pharaon de l\u00e9: lavoixdunordTags: Lille Palais des beaux-arts de Lille Flash mob Danse Posted: 15 October 2014Rating:: 0...",
             "date": "2014-10-15",
             "author_name": "lavoixdunord",
             "categories": "arts",
-            "tags": "arts,beaux,lille,exposition",
+            "tags": "arts,beaux,lille",
             "recuweb_url": "http://fr.recuweb.com/arts/dailymotion.com/2014/10/flash-mob-momies-au-palais-des-beaux-arts-de-lille",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/beaux+arts/0?af=1",
             "source_url": "http://dailymotion.com/video/x27zzfz_flash-mob-momies-au-palais-des-beaux-arts-de-lille_news",
@@ -64,7 +89,7 @@
             "date": "2014-09-18",
             "author_name": "Orangeexpomusees",
             "categories": "arts",
-            "tags": "arts,beaux,art,\u00e9pisode,s\u00e9rie,s\u00e9rie-question,question,art-\u00e9pisode,mus\u00e9e,d\u00e9couvrez,orangeexpomuseestags",
+            "tags": "arts,beaux,mus\u00e9e",
             "recuweb_url": "http://fr.recuweb.com/arts/dailymotion.com/2014/09/question-d-art-%C3%A9pisode-9-mus%C3%A9e-des-beaux-arts-de-caen",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/beaux+arts+beaux+arts/0?af=1",
             "source_url": "http://dailymotion.com/video/x267byh_question-d-art-episode-9-musee-des-beaux-arts-de-caen_creation",
@@ -78,7 +103,7 @@
             "categories": "arts",
             "tags": "grande,mus\u00e9e,beaux,arts,lille",
             "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2014/09/une-grande-copiste-professionnelle-et-officielle-au-mus%C3%A9e-des-beaux-arts",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beaux%2Barts%2Bbeaux%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beaux%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=zp60msx1IsQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/zp60msx1IsQ/0.jpg"
         },
@@ -88,47 +113,22 @@
             "date": "2014-07-20",
             "author_name": "OuestFranceFR",
             "categories": "beaux-arts,arts",
-            "tags": "mus\u00e9e,mus\u00e9e-des-beaux,beaux,arts",
+            "tags": "mus\u00e9e,beaux,arts",
             "recuweb_url": "http://fr.recuweb.com/arts/dailymotion.com/2014/07/la-nona-ora-endommag%C3%A9e-au-mus%C3%A9e-des-beaux-arts-de-rennes",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/beaux+arts/0?af=1",
             "source_url": "http://dailymotion.com/video/x21sufp_la-nona-ora-endommagee-au-musee-des-beaux-arts-de-rennes_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x21sufp_la-nona-ora-endommagee-au-musee-des-beaux-arts-de-rennes_news"
         },
-        "dailymotion.com/2014/06/question-d-art-%C3%A9pisode-6-mus%C3%A9e-des-beaux-arts-de-lyon": {
-            "title": "Question d'art \u00e9pisode 6: Mus\u00e9e des Beaux- Arts de Lyon...",
-            "snippet": "D\u00e9couvrez le sixi\u00e8me \u00e9pisode de notre s\u00e9rie \"Question d'art\" avec Ludmila Virassamyna\u00efken, Conservatrice au Mus\u00e9e des Beaux- Arts de Lyon!Author: OrangeexpomuseesTags: Lyon Mus\u00e9e des beaux-arts de Lyon Orange Interview Posted: 12 June...",
-            "date": "2014-06-12",
-            "author_name": "Orangeexpomusees",
-            "categories": "arts",
-            "tags": "arts,beaux,art,\u00e9pisode,s\u00e9rie,s\u00e9rie-question,question,art-\u00e9pisode,mus\u00e9e,d\u00e9couvrez,orangeexpomuseestags",
-            "recuweb_url": "http://fr.recuweb.com/arts/dailymotion.com/2014/06/question-d-art-%C3%A9pisode-6-mus%C3%A9e-des-beaux-arts-de-lyon",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/beaux+arts/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1z9fdl_question-d-art-episode-6-musee-des-beaux-arts-de-lyon_creation",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1z9fdl_question-d-art-episode-6-musee-des-beaux-arts-de-lyon_creation"
-        },
-        "dailymotion.com/2014/05/tableauscopie-35-une-sublime-violence-au-mus%C3%A9e-des-beaux-arts": {
-            "title": "Tableauscopie 35 Une sublime violence au mus\u00e9e des beaux-arts de Bordeaux...",
-            "snippet": "Author: FranceInfoTags: Mus\u00e9e des beaux-arts de Bordeaux Orientalisme Romantisme guerre Antoine Leiris Elene Usdin Posted: 17 May 2014Rating:: 0...",
-            "date": "2014-05-17",
-            "author_name": "FranceInfo",
-            "categories": "arts",
-            "tags": "beaux,arts,mus\u00e9e,mus\u00e9e-des-beaux",
-            "recuweb_url": "http://fr.recuweb.com/arts/dailymotion.com/2014/05/tableauscopie-35-une-sublime-violence-au-mus%C3%A9e-des-beaux-arts",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/beaux+arts/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1vbhps_tableauscopie-35-une-sublime-violence-au-musee-des-beaux-arts-de-bordeaux_creation",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1vbhps_tableauscopie-35-une-sublime-violence-au-musee-des-beaux-arts-de-bordeaux_creation"
-        },
-        "dailymotion.com/2014/04/exposition-migrations-au-mus%C3%A9e-des-beaux-arts-de-nancy": {
-            "title": "Exposition Migrations au Mus\u00e9e des Beaux Arts de Nancy...",
-            "snippet": "Carole Benzaken, l'artiste et Claire Stoulling, commissaire de l'exposition pr\u00e9sentent \"Migrations\"Author: ici-c-nancyTags: Nancy Mus\u00e9e des beaux-arts de Nancy Carole Benzaken Exposition Migrations Claire Stoulling Posted: 21 April 2014Rating:: 0...",
-            "date": "2014-04-21",
-            "author_name": "ici-c-nancy",
-            "categories": "arts,beaux-arts",
-            "tags": "arts,beaux,exposition,mus\u00e9e,ici",
-            "recuweb_url": "http://fr.recuweb.com/beaux-arts/dailymotion.com/2014/04/exposition-migrations-au-mus%C3%A9e-des-beaux-arts-de-nancy",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/beaux+arts/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1q3dt4_exposition-migrations-au-musee-des-beaux-arts-de-nancy_creation",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1q3dt4_exposition-migrations-au-musee-des-beaux-arts-de-nancy_creation"
+        "youtube.com/2014/06/mixmedia-part-2-par-beauxarts-fr": {
+            "title": "MixMedia Part 2 par BeauxArts fr...",
+            "snippet": "MixMedia Part 2 par BeauxArts fr Seconde partie sur la technique du Mix-m\u00e9dia par notre partenaire Val\u00e9rie Telesca. M\u00e9lange de textures, de peintures Vitrail, C\u00e9ramique, Fantaisy moon et prism... sur gels, mediums de textures. From: Fr\u00e9d\u00e9ric...",
+            "date": "2014-06-21",
+            "author_name": "Fr\u00e9d\u00e9ric Roubaud",
+            "categories": "peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/youtube.com/2014/06/mixmedia-part-2-par-beauxarts-fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=beaux%2Barts%2Bbeaux%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=o4vJ9k-jZCc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/o4vJ9k-jZCc/0.jpg"
         }
     }
 }
