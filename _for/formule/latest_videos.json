@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "formule",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/formule/",
@@ -18,21 +19,9 @@
             "categories": "formule,sport",
             "tags": "formule",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/04/fia-formule-e-gp-long-beach-californie-la-course-compl%C3%A8te",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formule&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formule%2Bformule&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JI5nLhrUphM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/JI5nLhrUphM/0.jpg"
-        },
-        "youtube.com/2015/03/formule-diaz-entrevue-ariane-moffatt": {
-            "title": "Formule Diaz Entrevue Ariane Moffatt...",
-            "snippet": "Formule Diaz Entrevue Ariane Moffatt Diffusion: Mercredi 18 mars \u00e0 20 h Ariane Moffatt souligne la sortie de son nouvel album, 22h22, en rendant visite \u00e0 S\u00e9bastien Diaz. Elle discute de ses inspirations et nous interpr\u00e8te... From:...",
-            "date": "2015-03-17",
-            "author_name": "TeleQuebecOfficiel",
-            "categories": "formule",
-            "tags": "s\u00e9bastien,s\u00e9bastien_diaz,diaz,nouvel,nouvel-album,album,formule,formule_diaz,diffusion,mercredi",
-            "recuweb_url": "http://fr.recuweb.com/formule/youtube.com/2015/03/formule-diaz-entrevue-ariane-moffatt",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formule%2Bformule&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Y6B3s_nZbpQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Y6B3s_nZbpQ/0.jpg"
         },
         "youtube.com/2015/02/formule-diaz-improvisation-musicale-avec-jean-leloup": {
             "title": "Formule Diaz Improvisation musicale avec Jean Leloup...",
@@ -40,7 +29,7 @@
             "date": "2015-02-24",
             "author_name": "TeleQuebecOfficiel",
             "categories": "formule",
-            "tags": "s\u00e9bastien,s\u00e9bastien_diaz,diaz,nouvel,nouvel-album,album,formule,formule_diaz,diffusion,mercredi",
+            "tags": "formule",
             "recuweb_url": "http://fr.recuweb.com/formule/youtube.com/2015/02/formule-diaz-improvisation-musicale-avec-jean-leloup",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formule%2Bformule&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=nI-hBjTkTFA&feature=youtube_gdata",
@@ -57,18 +46,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/formule+formule/0?af=1",
             "source_url": "http://dailymotion.com/video/x2gs0qd_teaser-dijon-prenois_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2gs0qd_teaser-dijon-prenois_auto"
-        },
-        "youtube.com/2015/02/amicalement-v%C3%B4tre-s01-e13-formule-a-vendre": {
-            "title": "Amicalement V\u00f4tre S01 E13 Formule A Vendre...",
-            "snippet": "Amicalement V\u00f4tre S01 E13 Formule A Vendre From: Dante Antoine Views: 2040 2 ratings Time: 50:07 More in Film & Animation...",
-            "date": "2015-02-07",
-            "author_name": "Dante Antoine",
-            "categories": "formule",
-            "tags": "formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/youtube.com/2015/02/amicalement-v%C3%B4tre-s01-e13-formule-a-vendre",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formule%2Bformule&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=QIRfJk6KRKU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/QIRfJk6KRKU/0.jpg"
         },
         "youtube.com/2014/12/formule-brute-et-mol%C3%A9culaire-fuseschool-unisciel": {
             "title": "Formule brute et formule mol\u00e9culaire FuseSchool Unisciel...",
@@ -129,6 +106,30 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/formule+formule/0?af=1",
             "source_url": "http://dailymotion.com/video/x27esrx_jules-bianchi-first-crash-image-suzuka-05-10-2014_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x27esrx_jules-bianchi-first-crash-image-suzuka-05-10-2014_auto"
+        },
+        "youtube.com/2014/09/duet-octet-et-formule-de-lewis-physique-chimie-1%C3%A8re": {
+            "title": "Duet, octet et formule de Lewis - Physique-Chimie - 1\u00e8re S - Les Bons Profs...",
+            "snippet": "Duet, octet et formule de Lewis - Physique-Chimie - 1\u00e8re S - Les Bons Profs Un rappel sur les atomes et les structures en duet ou en octet ainsi que sur la formule de Lewis. From: Les Bons Profs Views: 10558 106 ratings Time: 07:20 More in...",
+            "date": "2014-09-17",
+            "author_name": "Les Bons Profs",
+            "categories": "formule,chimie",
+            "tags": "formule",
+            "recuweb_url": "http://fr.recuweb.com/chimie/youtube.com/2014/09/duet-octet-et-formule-de-lewis-physique-chimie-1%C3%A8re",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formule%2Bformule&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=mfXJDIOFoUc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/mfXJDIOFoUc/0.jpg"
+        },
+        "dailymotion.com/2014/09/accident-spectaculaire-entre-nicolas-prost-et-nick-heidfeld-en-formule-e": {
+            "title": "Accident spectaculaire entre Nicolas Prost et Nick Heidfeld en Formule E...",
+            "snippet": "La roue de Nicolas Prost (fils d'Alain) est venue dans le tout dernier virage heurter la roue arri\u00e8re de Nick Heidfeld qui a tent\u00e9 un freinage suicide au dernier moment... Une prise de risque qui lui a valu une belle grosses frayeur mais plus de...",
+            "date": "2014-09-15",
+            "author_name": "letribunaldunet",
+            "categories": "formule",
+            "tags": "formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/dailymotion.com/2014/09/accident-spectaculaire-entre-nicolas-prost-et-nick-heidfeld-en-formule-e",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/formule/0?af=1",
+            "source_url": "http://dailymotion.com/video/x25zngo_accident-spectaculaire-entre-nicolas-prost-et-nick-heidfeld-en-formule-e_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x25zngo_accident-spectaculaire-entre-nicolas-prost-et-nick-heidfeld-en-formule-e_auto"
         }
     }
 }
