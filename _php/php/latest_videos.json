@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -29,7 +29,7 @@
             "date": "2014-12-12",
             "author_name": "developpement-facile",
             "categories": "langage,php",
-            "tags": "cr\u00e9er,applications,langage,php",
+            "tags": "cr\u00e9er,langage,php",
             "recuweb_url": "http://fr.recuweb.com/php/dailymotion.com/2014/12/comment-utiliser-le-pattern-singleton-en-php-avanc%C3%A9",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cf1n4_comment-utiliser-le-pattern-singleton-en-php-avance_tech",
@@ -41,23 +41,11 @@
             "date": "2014-11-25",
             "author_name": "Grafikart",
             "categories": "mysql,javascript,langage,php",
-            "tags": "mysql,tuto,tuto-javascript,javascript,langage,beaucoup,tutoriel,tutoriel_php,php,grafikarttags",
+            "tags": "mysql,tuto,tuto-javascript,javascript,langage,tutoriel,tutoriel_php,php,grafikarttags",
             "recuweb_url": "http://fr.recuweb.com/php/dailymotion.com/2014/11/tutoriel-php-les-exceptions",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b1q2k_tutoriel-php-les-exceptions_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2b1q2k_tutoriel-php-les-exceptions_tech"
-        },
-        "youtube.com/2014/11/table-ronde-php-etat-des-lieux-et-avenir-de-pascal-martin": {
-            "title": "Table ronde PHP: Etat des lieux et avenir de PHP - Pascal Martin forumphp...",
-            "snippet": "Table ronde PHP: \"Etat des lieux et avenir de PHP\" - Pascal Martin forumphp Avec Julien Pauli, Jordi Boggiano et Pierre Joye. PHP 5.6 est sortie il y a deux mois, phpng a beaucoup fait parler de lui derni\u00e8rement, des RFC sont r\u00e9guli\u00e8rement...",
-            "date": "2014-11-08",
-            "author_name": "AFUP PHP",
-            "categories": "php",
-            "tags": "beaucoup,php",
-            "recuweb_url": "http://fr.recuweb.com/php/youtube.com/2014/11/table-ronde-php-etat-des-lieux-et-avenir-de-pascal-martin",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=U4dYlxQATlk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/U4dYlxQATlk/0.jpg"
         },
         "dailymotion.com/2014/10/tutoriel-linux-nginx-php": {
             "title": "Tutoriel Linux: Nginx PHP...",
@@ -65,7 +53,7 @@
             "date": "2014-10-14",
             "author_name": "Grafikart",
             "categories": "javascript,jquery,css,java,php,mysql",
-            "tags": "tuto,tuto-javascript,tuto-javascript-jquery,javascript,javascript-jquery,jquery,propose,propose-de-d\u00e9couvrir,d\u00e9couvrir,php,tutoriel,grafikarttags,mysql",
+            "tags": "tuto,tuto-javascript,tuto-javascript-jquery,javascript,javascript-jquery,jquery,css,html,propose,propose-de-d\u00e9couvrir,d\u00e9couvrir,php,tutoriel,grafikarttags,mysql",
             "recuweb_url": "http://fr.recuweb.com/mysql/dailymotion.com/2014/10/tutoriel-linux-nginx-php",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x27w81c_tutoriel-linux-nginx-php_tech",
@@ -89,47 +77,59 @@
             "date": "2014-04-15",
             "author_name": "artragis",
             "categories": "php",
-            "tags": "php",
+            "tags": "web,pr\u00e9sente,php",
             "recuweb_url": "http://fr.recuweb.com/php/dailymotion.com/2014/04/d%C3%A9boguer-une-page-php-mooc-oc",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/php/0?af=1",
             "source_url": "http://dailymotion.com/video/x1ol73j_deboguer-une-page-php-mooc-oc_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1ol73j_deboguer-une-page-php-mooc-oc_tech"
         },
-        "youtube.com/2014/01/59-applications-php-mysql-courantes-menu-d%C3%A9roulant-dynamique": {
-            "title": "59 Applications PHP MySQL courantes Menu d\u00e9roulant dynamique...",
-            "snippet": "59 Applications PHP MySQL courantes Menu d\u00e9roulant dynamique From: World Technology Views: 1659 4 ratings Time: 17:16 More in Science & Technology...",
-            "date": "2014-01-14",
-            "author_name": "World Technology",
-            "categories": "php,mysql,science",
-            "tags": "technology,applications,php,mysql,science",
-            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2014/01/59-applications-php-mysql-courantes-menu-d%C3%A9roulant-dynamique",
+        "youtube.com/2014/02/apprendre-le-php-cr%C3%A9er-un-site-e-commerce-4": {
+            "title": "Apprendre le PHP/Cr\u00e9er un site E-Commerce PHP 4...",
+            "snippet": "Apprendre le PHP/Cr\u00e9er un site E-Commerce PHP 4 Lire la description Merci d'avoir regard\u00e9 la vid\u00e9o! N'h\u00e9sitez pas \u00e0 vous abonner en cliquant ici: From: LearnPHPaz Views: 3474 20 ratings Time: 16:26 More in Science & Technology...",
+            "date": "2014-02-24",
+            "author_name": "LearnPHPaz",
+            "categories": "php,science",
+            "tags": "site,apprendre,php,cr\u00e9er,commerce,science,technology",
+            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2014/02/apprendre-le-php-cr%C3%A9er-un-site-e-commerce-4",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=5jdtnu9eADI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/5jdtnu9eADI/0.jpg"
+            "source_url": "http://youtube.com/watch?v=Z8IjDM21m3c&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Z8IjDM21m3c/0.jpg"
         },
-        "youtube.com/2013/12/script-de-moteur-recherche-en-php": {
-            "title": "Script de moteur de recherche en PHP...",
-            "snippet": "Script de moteur de recherche en PHP Le Script de Moteur de Recherche en PHP permet \u00e0 vos visiteurs de rechercher des sites, des images, des vid\u00e9os, des actualit\u00e9s et m\u00eame plus, en utilisant des dizaines de filtres disponibles... From: Athoul...",
-            "date": "2013-12-08",
-            "author_name": "Athoul Yakoub",
-            "categories": "moteur-de-recherche,php",
-            "tags": "php",
-            "recuweb_url": "http://fr.recuweb.com/php/youtube.com/2013/12/script-de-moteur-recherche-en-php",
+        "youtube.com/2013/07/m-youssfi-php-html-css-site-eommerce": {
+            "title": "M Youssfi PHP HTML CSS SITE EOMMERCE...",
+            "snippet": "M Youssfi PHP HTML CSS SITE EOMMERCE Tutorial pour montrer un exemple de cr\u00e9ation d'une site web de commerce avec PHP qui MySQL qui pr\u00e9sente un catalogue de produits class\u00e9s par cat\u00e9gories avec de la possibilit\u00e9 des g\u00e9rer... From:...",
+            "date": "2013-07-11",
+            "author_name": "mohamedYoussfi",
+            "categories": "php,css,mysql",
+            "tags": "pr\u00e9sente,site,web,commerce,php,html,css,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/youtube.com/2013/07/m-youssfi-php-html-css-site-eommerce",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=hpzrLDCsVV0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/hpzrLDCsVV0/0.jpg"
+            "source_url": "http://youtube.com/watch?v=NMOATF-Dg1s&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NMOATF-Dg1s/0.jpg"
         },
         "youtube.com/2013/05/cr%C3%A9er-un-forum-en-php-et-mysql-avec-connexion-inscription": {
             "title": "Cr\u00e9er un forum en PHP et Mysql avec connexion et inscription...",
-            "snippet": "Cr\u00e9er un forum en PHP et Mysql avec connexion et inscription tutoriels/PHP/tutoriel_forum_php_mysql__avec_connexion_et_inscription Dans ce tutoriel je vais vous apprendre la m\u00e9thode pour mettre... From: Thibault Neveu Views: 35920 106 ratings...",
+            "snippet": "Cr\u00e9er un forum en PHP et Mysql avec connexion et inscription tutoriels/PHP/tutoriel_forum_php_mysql__avec_connexion_et_inscription Dans ce tutoriel je vais vous apprendre la m\u00e9thode pour mettre... From: Thibault Neveu Views: 36618 107 ratings...",
             "date": "2013-05-05",
             "author_name": "Thibault Neveu",
             "categories": "php,mysql",
-            "tags": "mettre,inscription,cr\u00e9er,php,mysql",
+            "tags": "apprendre,mettre,inscription,cr\u00e9er,php,mysql",
             "recuweb_url": "http://fr.recuweb.com/mysql/youtube.com/2013/05/cr%C3%A9er-un-forum-en-php-et-mysql-avec-connexion-inscription",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=4i3DVBdcQBg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/4i3DVBdcQBg/0.jpg"
+        },
+        "youtube.com/2013/03/formulaire-php-et-sql-stocker-les-infos-dans-une-base": {
+            "title": "FORMULAIRE PHP et SQL: stocker les infos dans une base de donn\u00e9es...",
+            "snippet": "[FORMULAIRE] PHP et SQL: stocker les infos dans une base de donn\u00e9es base de donn\u00e9es. From: hamza halbi Views: 6627 22 ratings Time: 14:02 More in Science & Technology...",
+            "date": "2013-03-20",
+            "author_name": "hamza halbi",
+            "categories": "php,science",
+            "tags": "php,science,technology",
+            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2013/03/formulaire-php-et-sql-stocker-les-infos-dans-une-base",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=php%2Bphp&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=FWvFbTBWbVg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/FWvFbTBWbVg/0.jpg"
         }
     }
 }
