@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "electronique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/electronique/",
@@ -10,71 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/blogs.json"
     },
     "items": {
-        "gizmodo.fr/2015/03/le-premier-joint-%C3%A9lectronique-100%-l%C3%A9gal-est-arriv%C3%A9-gizmodo": {
-            "title": "Le premier joint \u00e9lectronique 100% l\u00e9gal est arriv\u00e9! - Gizmodo...",
-            "snippet": "La soci\u00e9t\u00e9 E-njoint commercialise un joint \u00e9lectronique avec un go\u00fbt et une odeur authentiques de cannabis, totalement l\u00e9gal donc!",
-            "date": "2015-03-19",
-            "author_name": "Morgan",
-            "categories": "electronique",
-            "tags": "\u00e9lectronique,soci\u00e9t\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/electronique/gizmodo.fr/2015/03/le-premier-joint-%C3%A9lectronique-100%-l%C3%A9gal-est-arriv%C3%A9-gizmodo",
-            "resource_url": "http://www.google.com/search?q=electronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/03/19/premier-joint-electronique-legal.html"
-        },
-        "lagazettedescommunes.com/2015/03/archivage-%C3%A9lectronique-top-d%C3%A9part-pour-la-future-plateforme": {
-            "title": "Archivage \u00e9lectronique: top d\u00e9part pour la future plateforme des...",
-            "snippet": "En clair, VITAM s'annonce comme une plateforme d'archivage \u00e9lectronique des donn\u00e9es produites par l'ensemble des administrations, collectivit\u00e9s et op\u00e9rateurs publics compris. Vitam concernera les trois ges des archives...",
-            "date": "2015-03-11",
-            "author_name": "H\u00e9l\u00e8ne Girard",
-            "categories": "electronique",
-            "tags": "compris,top,\u00e9lectronique,comme",
-            "recuweb_url": "http://fr.recuweb.com/electronique/lagazettedescommunes.com/2015/03/archivage-%C3%A9lectronique-top-d%C3%A9part-pour-la-future-plateforme",
-            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lagazettedescommunes.com/334895/archivage-electronique-top-depart-pour-la-future-plateforme-des-acteurs-publics/"
-        },
-        "journalduvapoteur.over-blog.com/2015/03/la-su%C3%A8de-classe-cigarette-%C3%A9lectronique-comme-un-m%C3%A9dicament": {
-            "title": "La Su\u00e8de classe la cigarette \u00e9lectronique comme un m\u00e9dicament...",
-            "snippet": "C'est au tour de la Su\u00e8de de se prononcer concernant la cigarette \u00e9lectronique. La vente de cigarette \u00e9lectronique contenant de la nicotine est actuellement interdite, mais si l'Agence nationale du m\u00e9dicament donne son...",
-            "date": "2015-03-09",
-            "author_name": "Monsieur Vapoteur",
-            "categories": "electronique",
-            "tags": "m\u00e9dicament,nicotine,actuellement,tour,su\u00e8de,cigarette,\u00e9lectronique,comme",
-            "recuweb_url": "http://fr.recuweb.com/electronique/journalduvapoteur.over-blog.com/2015/03/la-su%C3%A8de-classe-cigarette-%C3%A9lectronique-comme-un-m%C3%A9dicament",
-            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journalduvapoteur.over-blog.com/2015/03/la-suede-classe-la-cigarette-electronique-comme-un-medicament.html"
-        },
-        "futura-sciences.com/2015/03/le-phosphore-noir-nouveau-mat%C3%A9riau-miracle-de-l-%C3%A9lectronique": {
-            "title": "Le phosphore noir, nouveau mat\u00e9riau miracle de l'\u00e9lectronique...",
-            "snippet": "Faire toujours plus petit et toujours plus rapide, c'est le challenge des fabricants de mat\u00e9riel \u00e9lectronique. Une \u00e9tude men\u00e9e par une \u00e9quipe de chercheurs am\u00e9ricains pourrait bien leur offrir de...",
-            "date": "2015-03-07",
-            "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
-            "categories": "electronique",
-            "tags": "\u00e9quipe,chercheurs,pourrait,toujours,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/futura-sciences.com/2015/03/le-phosphore-noir-nouveau-mat%C3%A9riau-miracle-de-l-%C3%A9lectronique",
-            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://futura-sciences.com/magazines/matiere/infos/actu/d/physique-phosphore-noir-nouveau-materiau-miracle-electronique-57385/"
-        },
-        "telecom-bretagne.eu/2015/03/faire-de-l-%C3%A9lectronique-c-est-aussi-pour-les-filles-lexians": {
-            "title": "Faire de l'\u00e9lectronique, c'est aussi pour les filles! Lexians...",
-            "snippet": "Le site de l'Unesco fait un focus sur le travail de Sylvie Kerou\u00e9dan et de Val\u00e9rie Marc dans le domaine de l'\u00e9lectronique. Toutes deux proposent particuli\u00e8rement aux filles des ateliers ludiques bas\u00e9s sur la cr\u00e9ativit\u00e9.",
-            "date": "2015-03-05",
-            "author_name": "Delphine LUCAS",
-            "categories": "electronique",
-            "tags": "deux,marc,travail,aussi,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/telecom-bretagne.eu/2015/03/faire-de-l-%C3%A9lectronique-c-est-aussi-pour-les-filles-lexians",
-            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://telecom-bretagne.eu/lexians/2015/formations/faire-de-lelectronique-cest-aussi-pour-les-filles/"
-        },
-        "net-iris.fr/2015/03/valeur-juridique-du-recommand%C3%A9-%C3%A9lectronique-net-iris-2015": {
-            "title": "Valeur juridique du recommand\u00e9 \u00e9lectronique Net-iris 2015...",
-            "snippet": "La valeur juridique de la lettre recommand\u00e9e \u00e9lectronique est la m\u00eame que celle d'un courrier RAR classique (article de mars 2015)...",
-            "date": "2015-03-05",
+        "electronique-mag.com/2015/04/framatech-int%C3%A9grer-l-%C3%A9lectronique-de-puissance": {
+            "title": "FRAMATECH, Int\u00e9grer l'\u00e9lectronique de puissance dans vos...",
+            "snippet": "Anim\u00e9 par des sp\u00e9cialistes de la fabrication et de l'int\u00e9gration de composants de puissance Durant ces 2 derni\u00e8res ann\u00e9es, FRAMATECH a accompagn\u00e9 (...)...",
+            "date": "2015-04-23",
             "author_name": "inconnu",
             "categories": "electronique",
-            "tags": "m\u00eame,juridique,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/net-iris.fr/2015/03/valeur-juridique-du-recommand%C3%A9-%C3%A9lectronique-net-iris-2015",
+            "tags": "ann\u00e9es,\u00e9lectronique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/electronique-mag.com/2015/04/framatech-int%C3%A9grer-l-%C3%A9lectronique-de-puissance",
             "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://net-iris.fr/veille-juridique/actualite/34286/valeur-juridique-du-recommande-electronique.php"
+            "source_url": "http://electronique-mag.com/article9821.html"
+        },
+        "iphoneaddict.fr/2015/04/siri-apple-veut-que-son-assistant-%C3%A9lectronique-s-exprime": {
+            "title": "Siri: Apple veut que son assistant \u00e9lectronique s'exprime dans un...",
+            "snippet": "Siri s'en sort plut\u00f4t correctement en reconnaissance de la parole, mais le phras\u00e9 de l'assistant num\u00e9rique manque encore de naturel. M\u00eame si beaucoup semblent le fantasmer, le moment o\u00f9 Siri s'exprimera avec l'utilisateur...",
+            "date": "2015-04-23",
+            "author_name": "Frederic L.",
+            "categories": "electronique",
+            "tags": "o\u00f9,beaucoup,\u00e9lectronique,m\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/electronique/iphoneaddict.fr/2015/04/siri-apple-veut-que-son-assistant-%C3%A9lectronique-s-exprime",
+            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://iphoneaddict.fr/post/news-149974-siri-apple-veut-assistant-electronique-sexprime-langage-plus-naturel"
+        },
+        "ma-cigarette.fr/2015/04/vapoter-quotidiennement-avec-des-mod%C3%A8les-rechargeables": {
+            "title": "Vapoter quotidiennement avec des mod\u00e8les rechargeables...",
+            "snippet": "... recherche, sevrage tabagique, tank. Selon deux \u00e9tudes britanniques qui viennent de para\u00eetre, l'utilisation quotidienne de cigarettes \u00e9lectroniques rechargeables s'accompagne de meilleures chances d'arr\u00eater de fumer.",
+            "date": "2015-04-23",
+            "author_name": "Nathalie Dunand",
+            "categories": "electronique",
+            "tags": "cigarettes,deux,vapoter,\u00e9lectroniques,arr\u00eater,fumer",
+            "recuweb_url": "http://fr.recuweb.com/electronique/ma-cigarette.fr/2015/04/vapoter-quotidiennement-avec-des-mod%C3%A8les-rechargeables",
+            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ma-cigarette.fr/vapoter-quotidiennement-avec-des-modeles-rechargeables-ameliore-les-chances-de-sevrage-tabagique/"
+        },
+        "jeanyvesnau.com/2015/04/cigarette-%C3%A9lectronique-la-publication-norv%C3%A9gienne-et-le-pt%C3%A9": {
+            "title": "Cigarette \u00e9lectronique: la publication norv\u00e9gienne et le pt\u00e9 aux...",
+            "snippet": "Bonjour Depuis quelques jours plusieurs m\u00e9dias font \u00e9tat d'une-\u00e9tude-norv\u00e9gienne-qui-dit-que-pour-l'entourage-la-cigarette-\u00e9lectronique-d'\u00eatre-aussi-dangereuse-que-la-cigarette-de-tabac-pour-l'entourage. Nicotine dans...",
+            "date": "2015-04-18",
+            "author_name": "jeanyvesnau",
+            "categories": "electronique",
+            "tags": "quelques,quelques-jours,jours,cigarette,\u00e9lectronique,entourage,aussi,dangereuse,nicotine",
+            "recuweb_url": "http://fr.recuweb.com/electronique/jeanyvesnau.com/2015/04/cigarette-%C3%A9lectronique-la-publication-norv%C3%A9gienne-et-le-pt%C3%A9",
+            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jeanyvesnau.com/2015/04/18/cigarette-electronique-la-publication-norvegienne-et-le-pate-aux-alouettes-sauce-mediatique/"
+        },
+        "ripostelaique.com/2015/04/bient%C3%B4t-une-nouvelle-lettre-%C3%A9lectronique-de-riposte-la%C3%AFque": {
+            "title": "Bient\u00f4t, une nouvelle lettre \u00e9lectronique de Riposte La\u00efque...",
+            "snippet": "Depuis quelques jours, certains abonn\u00e9s de Riposte La\u00efque re\u00e7oivent une nouvelle version de notre lettre \u00e9lectronique, avec des illustrations, le nom de l'auteur, le titre de l'article et les premi\u00e8res lignes. En parall\u00e8le, nous...",
+            "date": "2015-04-15",
+            "author_name": "Riposte La\u00efque",
+            "categories": "electronique",
+            "tags": "article,titre,quelques,quelques-jours,jours,bient\u00f4t,\u00e9lectronique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/ripostelaique.com/2015/04/bient%C3%B4t-une-nouvelle-lettre-%C3%A9lectronique-de-riposte-la%C3%AFque",
+            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ripostelaique.com/bientot-une-nouvelle-lettre-electronique-de-riposte-laique.html"
+        },
+        "bfmtv.com/2015/04/cigarette-%C3%A9lectronique-la-norv%C3%A8ge-souligne-le-danger-du-vapotage": {
+            "title": "Cigarette \u00e9lectronique: la Norv\u00e8ge souligne le danger du vapotage...",
+            "snippet": "La nicotine de la cigarette \u00e9lectronique est aussi dangereuse pour l'entourage d'un fumeur que celle de la cigarette papier, conclut un rapport publi\u00e9 ce mardi par l'Institut norv\u00e9gien de la sant\u00e9 publique. Au m\u00eame titre que le...",
+            "date": "2015-04-14",
+            "author_name": "inconnu",
+            "categories": "electronique",
+            "tags": "titre,sant\u00e9,mardi,entourage,aussi,dangereuse,nicotine,vapotage,cigarette,\u00e9lectronique,m\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/electronique/bfmtv.com/2015/04/cigarette-%C3%A9lectronique-la-norv%C3%A8ge-souligne-le-danger-du-vapotage",
+            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bfmtv.com/societe/cigarette-electronique-la-norvege-souligne-le-danger-du-vapotage-passif-877446.html"
+        },
+        "stopmensonges.com/2015/04/une-puce-%C3%A9lectronique-de-250-millions-d-ann%C3%A9es-trouv%C3%A9e-en-russie": {
+            "title": "Une puce \u00e9lectronique de 250 millions d'ann\u00e9es trouv\u00e9e en Russie...",
+            "snippet": "Il ressemblerait au vu de ces images que des chercheurs Russes ont trouv\u00e9 une puce \u00e9lectroniqueConsommation: Bient\u00f4t une mini-puce implant\u00e9e sous la...",
+            "date": "2015-04-14",
+            "author_name": "Laurent Freeman",
+            "categories": "electronique",
+            "tags": "images,ann\u00e9es,\u00e9lectronique,bient\u00f4t",
+            "recuweb_url": "http://fr.recuweb.com/electronique/stopmensonges.com/2015/04/une-puce-%C3%A9lectronique-de-250-millions-d-ann%C3%A9es-trouv%C3%A9e-en-russie",
+            "resource_url": "http://www.google.com/search?q=electronique%2Belectronique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://stopmensonges.com/une-puce-electronique-de-250-millions-dannees-trouvee-en-russie/"
         },
         "vernonprater.wordpress.com/2014/08/top-cigarette-electronique": {
             "title": "Top Cigarette Electronique...",
@@ -82,7 +94,7 @@
             "date": "2014-08-30",
             "author_name": "vernonprater",
             "categories": "electronique",
-            "tags": "ouvert,deux,top,cigarette,electronique",
+            "tags": "electronique,ainsi,ouvert,deux,cigarette",
             "recuweb_url": "http://fr.recuweb.com/electronique/vernonprater.wordpress.com/2014/08/top-cigarette-electronique",
             "resource_url": "http://fr.search.wordpress.com/?q=electronique%2Belectronique&f=feed&page=1",
             "source_url": "http://vernonprater.wordpress.com/2014/08/30/top-cigarette-electronique/"
@@ -92,7 +104,7 @@
             "snippet": "Je contemple la ville, pensant pareil que toi. Je ne suis pas un h\u00e9ros. Je suis ici, ici o\u00f9 tout commence et tout finit. Je skate sur le monde...",
             "date": "2009-11-26",
             "author_name": "sysyandvivi",
-            "tags": "monde,ici",
+            "tags": "ici,o\u00f9",
             "recuweb_url": "http://fr.recuweb.com/wearefascinating.com/2009/11/chapitre-1-nous-serons-l%C3%A9lectronique",
             "resource_url": "http://fr.search.wordpress.com/?q=electronique%2Belectronique&f=feed&page=1",
             "source_url": "http://wearefascinating.com/2009/11/26/nous-serons-lelectronique/"
