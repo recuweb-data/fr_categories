@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "imac",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/imac/",
@@ -10,103 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/imac/imac/blogs.json"
     },
     "items": {
-        "macerkopf.de/2015/02/270-euro-rabatt-auf-retina-imac-mit-mactrade-gutschein-macerkopf-apple": {
-            "title": "270 Euro Rabatt auf Retina iMac mit MacTrade Gutschein - Macerkopf - Apple News aus Cupertino...",
-            "snippet": "Macerkopf - Apple News aus Cupertino270 Euro Rabatt auf Retina iMac mit MacTrade GutscheinMacerkopf - Apple News aus CupertinoDenkt ihr derzeit \u00fcber die Anschaffung eines iMac mit Retina 5K Display nach? Dann werft einen Blick auf die aktuelle...",
-            "date": "2015-02-25",
+        "techno.lapresse.ca/2015/04/%C3+-chacun-son-ordi": {
+            "title": "\u00c0 chacun son ordi...",
+            "snippet": "Kano. Il pr\u00e9f\u00e8re, comme presque tout le monde dans ce milieu, les produits Apple. Tout ce qui est iMac, Mac Book Pro, avec 4 Go de RAM minimum, id\u00e9alement 16 Go. Il y ajoute un bon disque dur d'au moins 1 Tb. En fait, m\u00eame en 2015, la musique...",
+            "date": "2015-04-23",
+            "categories": "musique,disque-dur,macbook,imac",
+            "tags": "mac,comme,monde,apple,imac,ram",
+            "recuweb_url": "http://",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
+            "source_url": "http://techno.lapresse.ca/nouvelles/produits-electroniques/201504/23/01-4863755-a-chacun-son-ordi.php"
+        },
+        "macplus.net/2015/04/bons-mac-mini-tous-les-ipad-air-wi-fi": {
+            "title": "Bons Mac mini, tous les iPad Air Wi-fi sur le Refurb...",
+            "snippet": "Deux configurations sont disponibles, en 4 ou 8 Go de RAM (nous conseillons fortement dopter pour 8 Go). Les iMac sont pr\u00e9sents en nombre, avec de belles configurations de mod\u00e8les Fusion Drive 27 (nous avons s\u00e9lectionn\u00e9 les meilleures). Pour...",
+            "date": "2015-04-22",
+            "categories": "ipad,imac",
+            "tags": "configurations,mod\u00e8les,conseillons,configurations-sont-disponibles,disponibles,ipad,air,mac,refurb,deux,ram,imac",
+            "recuweb_url": "http://fr.recuweb.com/imac/macplus.net/2015/04/bons-mac-mini-tous-les-ipad-air-wi-fi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
+            "source_url": "http://macplus.net/depeche-83555-bons-mac-mini-tous-les-ipad-air-wi-fi-sur-le-refurb"
+        },
+        "iphonesoft.fr/2015/04/24h-chez-apple-beyonce-youtube-imac-encaissement-pour-l-iphonesoft": {
+            "title": "24h chez Apple: Beyonce, YouTube, iMac, encaissement pour l... - iPhoneSoft...",
+            "snippet": "iPhoneSoft24h chez Apple: Beyonce, YouTube, iMac, encaissement pour l...iPhoneSoftAujourd'hui au programme sur la plan\u00e8te Apple: une Apple Watch sp\u00e9ciale pour Beyonce, YouTube bloqu\u00e9 sur les anciens Apple TV, les d\u00e9lais des iMacs et les...",
+            "date": "2015-04-21",
             "categories": "imac",
-            "tags": "apple,retina,imac",
-            "recuweb_url": "http://fr.recuweb.com/imac/macerkopf.de/2015/02/270-euro-rabatt-auf-retina-imac-mit-mactrade-gutschein-macerkopf-apple",
+            "tags": "apple,hui",
+            "recuweb_url": "http://fr.recuweb.com/imac/iphonesoft.fr/2015/04/24h-chez-apple-beyonce-youtube-imac-encaissement-pour-l-iphonesoft",
             "resource_url": "http://news.google.fr/?hl=fr&q=imac&output=atom&nord=1",
-            "source_url": "http://macerkopf.de/2015/02/24/270-euro-rabatt-auf-retina-imac-mit-mactrade-gutschein/"
+            "source_url": "http://iphonesoft.fr/2015/04/21/24h-chez-apple-beyonce-youtube-imac-encaissement-apple-watch"
         },
-        "thestate.com/2015/02/gadgets-multi-port-usb-hub-clamps-to-front-of-monitor": {
-            "title": "Gadgets: Multi-port USB hub clamps to front of monitor and iMac - The State...",
-            "snippet": "Gadgets: Multi-port USB hub clamps to front of monitor and iMacThe StateI've tested several products from Satechi and the tech company is quickly becoming a favorite of mine. They seem to have a consistent line of simple but innovative products,...",
-            "date": "2015-02-25",
-            "categories": "imac",
-            "tags": "company,usb,imac",
-            "recuweb_url": "http://fr.recuweb.com/imac/thestate.com/2015/02/gadgets-multi-port-usb-hub-clamps-to-front-of-monitor",
-            "resource_url": "http://news.google.fr/?hl=fr&q=imac%2Bimac&output=atom&nord=1",
-            "source_url": "http://thestate.com/2015/02/25/4010415/gadgets-multi-port-usb-hub-clamps.html"
-        },
-        "belgium-iphone.lesoir.be/2015/02/les-%C3%A9motic%C3%B4nes-dapple-vont-mieux-repr%C3%A9senter-la-diversit%C3%A9-raciale": {
-            "title": "Les \u00e9motic\u00f4nes dApple vont mieux repr\u00e9senter la diversit\u00e9 raciale...",
-            "snippet": "Certains produits dApple, dont lApple Watch et liMac, font \u00e9galement leur apparition sous la forme d\u00e9motic\u00f4nes dans les OS dApple: Rappelons quen mars de lann\u00e9e derni\u00e8re, Apple avait eu un contact avec le Consortium Unicode pour...",
-            "date": "2015-02-25",
-            "tags": "\u00e9motic\u00f4nes,produits,apple",
-            "recuweb_url": "http://fr.recuweb.com/belgium-iphone.lesoir.be/2015/02/les-%C3%A9motic%C3%B4nes-dapple-vont-mieux-repr%C3%A9senter-la-diversit%C3%A9-raciale",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
-            "source_url": "http://belgium-iphone.lesoir.be/2015/02/24/davantage-de-diversite-dans-les-emoticones-sous-ios-8-3-et-os-x-10-10-3/"
-        },
-        "terrafemina.com/2015/02/apple-une-nouvelle-gamme-d-%C3%A9moticones-avec-plusieurs-couleurs-de-peau": {
-            "title": "Apple: une nouvelle gamme d'\u00e9moticones avec plusieurs couleurs de peau...",
-            "snippet": "Lentreprise a annonc\u00e9 que de nouveaux smileys seraient bient\u00f4t disponibles pour les utilisateurs diPhone et diMac. Parmi ces pictogrammes figureront des personnages de couleur. Pour mettre au point ces nouvelles \u00e9motic\u00f4nes, la soci\u00e9t\u00e9...",
-            "date": "2015-02-23",
-            "tags": "\u00e9motic\u00f4nes,nouveaux,utilisateurs,apple",
-            "recuweb_url": "http://fr.recuweb.com/terrafemina.com/2015/02/apple-une-nouvelle-gamme-d-%C3%A9moticones-avec-plusieurs-couleurs-de-peau",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
-            "source_url": "http://terrafemina.com/societe/buzz/articles/54310-apple-une-nouvelle-gamme-demoticones-avec-plusieurs-couleurs-de-peau.html"
-        },
-        "guideautoweb.com/2015/02/une-ivoiture-d-ici-2020": {
-            "title": "Une iVoiture d'ici 2020?",
-            "snippet": "Le fabricant de produits \u00e9lectroniques Apple veut sa part d'un march\u00e9 en pleine expansion; selon les plus r\u00e9centes rumeurs, il semblerait que le cr\u00e9ateur reconnu pour ses iBidules (iPod, iPad, iWatch, iMac...) ait d\u00e9cid\u00e9 de se lancer dans la...",
-            "date": "2015-02-23",
-            "categories": "electronique,ipod,ipad,imac",
-            "tags": "fabricant,produits,apple,ipod,ipad,imac",
-            "recuweb_url": "http://fr.recuweb.com/imac/guideautoweb.com/2015/02/une-ivoiture-d-ici-2020",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
-            "source_url": "http://guideautoweb.com/articles/28367/une_ivoiture_d'ici_2020/"
-        },
-        "appleinsider.com/2015/02/free-applecare-&-printer-plus-50-150-off-each-imac-retina": {
-            "title": "Free AppleCare & Printer plus 50-150 off each iMac Retina 5K - Apple Insider...",
-            "snippet": "Apple InsiderFree AppleCare & Printer plus 50-150 off each iMac Retina 5KApple InsiderFor a limited time, AppleInsider has re-teamed with one of Apple's authorized resellers to offer an instant 50-150 discounts on all configurations of Apple's new...",
-            "date": "2015-02-18",
-            "categories": "imac",
-            "tags": "apple,imac,imac_retina,retina",
-            "recuweb_url": "http://fr.recuweb.com/imac/appleinsider.com/2015/02/free-applecare-&-printer-plus-50-150-off-each-imac-retina",
+        "macplus.net/2015/04/excellents-macbook-air-et-imac-sur-le-refurb-macplus": {
+            "title": "Excellents MacBook Air et iMac sur le Refurb - MacPlus...",
+            "snippet": "MacPlusExcellents MacBook Air et iMac sur le RefurbMacPlusBien diff\u00e9rent d'hier, le Refurb ce matin: de nombreux MacBook Air 2014 sont de la partie, en 11 et 13\". Deux configurations sont disponibles, en 4 ou 8 Go de RAM, et nous conseillons...",
+            "date": "2015-04-17",
+            "categories": "macbook,imac",
+            "tags": "conseillons,configurations,configurations-sont-disponibles,disponibles,air,imac,refurb,deux,ram",
+            "recuweb_url": "http://fr.recuweb.com/imac/macplus.net/2015/04/excellents-macbook-air-et-imac-sur-le-refurb-macplus",
             "resource_url": "http://news.google.fr/?hl=fr&q=imac&output=atom&nord=1",
-            "source_url": "http://appleinsider.com/articles/15/02/18/killer-deal-free-applecare-free-canon-pixma-aio-printer-and-50-150-off-all-imac-5k-models"
-        },
-        "gottabemobile.com/2015/02/10-best-imac-accessories-gotta-be-mobile": {
-            "title": "10 Best iMac Accessories - Gotta Be Mobile...",
-            "snippet": "Gotta Be Mobile10 Best iMac AccessoriesGotta Be MobileWhile Apple has been focusing a lot of its attention on iPhone and iPad, the company's iMac desktop computer is also a popular machine. Here are the 10 best iMac accessories to buy. The iMac has...",
-            "date": "2015-02-16",
-            "categories": "imac,iphone,ipad",
-            "tags": "company,imac,apple,iphone,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/gottabemobile.com/2015/02/10-best-imac-accessories-gotta-be-mobile",
-            "resource_url": "http://news.google.fr/?hl=fr&q=imac&output=atom&nord=1",
-            "source_url": "http://gottabemobile.com/2015/02/16/10-best-imac-accessories/"
-        },
-        "huffingtonpost.com/2015/02/before-steve-jobs-an-imac-like-device-was-of-no-interest": {
-            "title": "Before Steve Jobs, An iMac-Like Device 'Was Of No Interest To Apple'- Huffington Post...",
-            "snippet": "Huffington PostBefore Steve Jobs, An iMac-Like Device 'Was Of No Interest To Apple'Huffington PostIf it weren't for Steve Jobs, the iMac may have never come to be. In fact, before the late Jobs became CEO of Apple, the company really wasn't that...",
-            "date": "2015-02-16",
-            "categories": "imac",
-            "tags": "company,apple,imac",
-            "recuweb_url": "http://fr.recuweb.com/imac/huffingtonpost.com/2015/02/before-steve-jobs-an-imac-like-device-was-of-no-interest",
-            "resource_url": "http://news.google.fr/?hl=fr&q=imac&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/02/16/steve-jobs-imac-no-interest-to-apple_n_6692530.html"
-        },
-        "commentcamarche.net/2015/02/probleme-connexion-wifi-sur-imac": {
-            "title": "Probleme connexion wifi sur imac...",
-            "snippet": "Voici le probl\u00e8me qu'il m'arrive. J'ai un imac intel de 2007 sous. J'utilise airport pour ma connexion internet wifi (car la carte ethernet ne marche plus); j'ai une freebox r\u00e9volution qui marche bien, un player tv qui marche bien. Dans le...",
-            "date": "2015-02-15",
-            "categories": "internet,imac",
-            "tags": "imac,voici,intel,carte",
-            "recuweb_url": "http://fr.recuweb.com/imac/commentcamarche.net/2015/02/probleme-connexion-wifi-sur-imac",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31564228-probleme-connexion-wifi-sur-imac"
-        },
-        "commentcamarche.net/2015/02/superposer-des-photos-en-transparences-avec-imac-doublon": {
-            "title": "Superposer des photos en transparences avec imac Doublon...",
-            "snippet": "Les membres obtiennent plus de r\u00e9ponses que les utilisateurs anonymes. Le fait d'\u00eatre membre vous permet d'avoir un suivi d\u00e9taill\u00e9 de vos demandes. Le fait d'\u00eatre membre vous permet d'avoir des options suppl\u00e9mentaires.",
-            "date": "2015-02-15",
-            "categories": "imac",
-            "tags": "utilisateurs,imac",
-            "recuweb_url": "http://fr.recuweb.com/imac/commentcamarche.net/2015/02/superposer-des-photos-en-transparences-avec-imac-doublon",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31569155-superposer-des-photos-en-transparences-avec-imac-doublon"
+            "source_url": "http://macplus.net/depeche-83493-excellents-macbook-air-et-imac-sur-le-refurb"
         }
     }
 }
