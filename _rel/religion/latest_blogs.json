@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "religion",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/religion/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion/religion/blogs.json"
     },
     "items": {
+        "ripostelaique.com/2015/04/je-me-demande-quelle-religion-infiltre-nos-entreprises": {
+            "title": "Je me demande quelle religion infiltre nos entreprises...",
+            "snippet": "L'article du Figaro nous ass\u00e8ne une fracassante d\u00e9claration. Il y aurait une augmentation de l'ostentatoire religieux dans les entreprises fran\u00e7aises. \u00c7a alors, qui l'e\u00fbt cru l'eusses-tu cru? Des preuves, svp!",
+            "date": "2015-04-22",
+            "author_name": "Jean Sobieski",
+            "categories": "religion",
+            "tags": "entreprises,augmentation,religion,religieux",
+            "recuweb_url": "http://fr.recuweb.com/religion/ripostelaique.com/2015/04/je-me-demande-quelle-religion-infiltre-nos-entreprises",
+            "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ripostelaique.com/je-me-demande-quelle-religion-infiltre-nos-entreprises.html"
+        },
         "saphirnews.com/2015/04/la-religion-se-banalise-de-plus-en-au-travail": {
             "title": "La religion se banalise de plus en plus au travail -...",
             "snippet": "En 2015, 23% des managers ont \u00e9t\u00e9 confront\u00e9s au fait religieux au travail en entreprise de fa\u00e7on quotidienne, hebdomadaire ou mensuelle. En 2014, ils n'\u00e9taient que 12%, selon une enqu\u00eate de l'Institut Randstad et de...",
             "date": "2015-04-22",
             "author_name": "La R\u00e9daction",
             "categories": "religion",
-            "tags": "institut,institut_randstad,randstad,selon,enqu\u00eate,religion,travail,\u00e9t\u00e9,religieux,entreprise",
+            "tags": "institut,institut_randstad,randstad,selon,enqu\u00eate,entreprise,religion,travail,\u00e9t\u00e9,religieux",
             "recuweb_url": "http://fr.recuweb.com/religion/saphirnews.com/2015/04/la-religion-se-banalise-de-plus-en-au-travail",
             "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://saphirnews.com/La-religion-se-banalise-de-plus-en-plus-au-travail_a20684.html"
         },
-        "causeur.fr/2015/04/religion-au-bureau-l-enqu%C3%AAte-qui-l%C3%A8ve-un-tabou-causeur": {
-            "title": "Religion au bureau: l'enqu\u00eate qui l\u00e8ve un tabou Causeur...",
-            "snippet": "En un an, le poids de la question religieuse sur le lieu de travail en France a presque doubl\u00e9. Selon une \u00e9tude r\u00e9alis\u00e9e par l'Institut Randstat, un organisme de recherche appartenant au groupe n\u00e9erlandais d'int\u00e9rim Randstat...",
+        "lci.tf1.fr/2015/04/demandes-d-absence-signes-ostentatoires-la-religion": {
+            "title": "Demandes d'absence, signes ostentatoires: la religion de plus en...",
+            "snippet": "Pr\u00e8s d'un manager sur quatre est confront\u00e9 r\u00e9guli\u00e8rement au sujet de la religion au travail (demandes d'absence pour une f\u00eate, port de signes religieux...), presque deux fois plus qu'un an auparavant, selon une \u00e9tude rendue...",
             "date": "2015-04-21",
-            "author_name": "Gil Mihaely",
+            "author_name": "inconnu",
             "categories": "religion",
-            "tags": "recherche,institut,r\u00e9alis\u00e9e,presque,enqu\u00eate,religion,travail,france,selon,\u00e9tude",
-            "recuweb_url": "http://fr.recuweb.com/religion/causeur.fr/2015/04/religion-au-bureau-l-enqu%C3%AAte-qui-l%C3%A8ve-un-tabou-causeur",
+            "tags": "selon,deux,quatre,sujet,religion,travail,religieux,\u00e9tude",
+            "recuweb_url": "http://fr.recuweb.com/religion/lci.tf1.fr/2015/04/demandes-d-absence-signes-ostentatoires-la-religion",
             "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://causeur.fr/islam-travail-charlie-hebdo-32453.html"
+            "source_url": "http://lci.tf1.fr/france/societe/la-religion-s-invite-au-coeur-de-l-entreprise-8596952.html"
         },
         "slate.fr/2015/04/le-pastorisme-cette-religion-des-snobs-r%C3%A9cup%C3%A9r%C3%A9e": {
             "title": "Le pastorisme, cette religion des snobs r\u00e9cup\u00e9r\u00e9e par les...",
@@ -50,32 +61,10 @@
             "date": "2015-04-21",
             "author_name": "HBD Ajib",
             "categories": "islam,religion",
-            "tags": "pays,islam,religion,musulmans",
+            "tags": "pays,musulmans,islam,religion",
             "recuweb_url": "http://fr.recuweb.com/religion/ajib.fr/2015/04/suede-l-islam-3eme-religion-du-pays",
-            "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=religion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://ajib.fr/2015/04/\ufeffsuede-lislam-3eme-religion-du-pays/"
-        },
-        "laterredabord.fr/2015/04/la-religion-comme-opium-du-peuple-terre-d-abord": {
-            "title": "La religion comme opium du peuple la Terre d'abord!",
-            "snippet": "Nous vivons une \u00e9poque vraiment plus que mauvaise sur le plan des religions. Celles-ci gagnent de plus en plus du terrain en France, et il y a une chose qui est particuli\u00e8rement visible: les gens qui basculent dans la religion...",
-            "date": "2015-04-19",
-            "author_name": "laterredabord",
-            "categories": "religion",
-            "tags": "visible,comme,religions,france",
-            "recuweb_url": "http://fr.recuweb.com/religion/laterredabord.fr/2015/04/la-religion-comme-opium-du-peuple-terre-d-abord",
-            "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://laterredabord.fr/?p=18843"
-        },
-        "stopmensonges.com/2015/04/les-7-diff%C3%A9rences-entre-la-religion-et-spiritualit%C3%A9-stop-mensonges": {
-            "title": "Les 7 diff\u00e9rences entre la religion et la spiritualit\u00e9. Stop Mensonges...",
-            "snippet": "La religion vous dit ce qu'il faut craindre et vous montre les cons\u00e9quences. Le spiritualisme vous fait prendre conscience des cons\u00e9quences, mais ne veut pas que vous vous concentriez sur la peur. Elle vous montre comment...",
-            "date": "2015-04-19",
-            "author_name": "Laurent Freeman",
-            "categories": "spiritualite,religion",
-            "tags": "montre,dit,religion",
-            "recuweb_url": "http://fr.recuweb.com/religion/stopmensonges.com/2015/04/les-7-diff%C3%A9rences-entre-la-religion-et-spiritualit%C3%A9-stop-mensonges",
-            "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://stopmensonges.com/les-7-differences-entre-la-religion-et-la-spiritualite/"
         },
         "slate.fr/2015/04/quels-sont-les-pays-plus-ath%C3%A9es-et-religieux": {
             "title": "Quels sont les pays les plus ath\u00e9es et les pays les plus religieux du...",
@@ -83,7 +72,7 @@
             "date": "2015-04-13",
             "author_name": "Myriam L",
             "categories": "marketing,religion",
-            "tags": "recherche,r\u00e9alis\u00e9e,pays,religieux,\u00e9tude,religions,monde",
+            "tags": "sujet,r\u00e9alis\u00e9e,pays,religieux,\u00e9tude,religions",
             "recuweb_url": "http://fr.recuweb.com/religion/slate.fr/2015/04/quels-sont-les-pays-plus-ath%C3%A9es-et-religieux",
             "resource_url": "http://www.google.com/search?q=religion%2Breligion&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100305/pays--athees--religieux"
