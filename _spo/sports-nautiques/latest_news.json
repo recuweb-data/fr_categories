@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sports-nautiques",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sports-nautiques/",
@@ -10,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sports-nautiques/sports-nautiques/blogs.json"
     },
     "items": {
-        "newspress.fr/2015/04/d%C3%A9couvrez-les-services-rendus-par-%C3%A9cosyst%C3%A8mes-d-eau-douce-en-france": {
-            "title": "D\u00e9couvrez les services rendus par les \u00e9cosyst\u00e8mes d'eau douce en France...",
-            "snippet": "Ils repr\u00e9sentent des lieux recherch\u00e9s par les touristes et permettent la pratique de multiples activit\u00e9s (p\u00eache, baignade, sports nautiques...). Aujourd'hui, ces milieux d'eau douce sont fortement impact\u00e9s par les activit\u00e9s humaines comme l...",
-            "date": "2015-04-19",
-            "categories": "baignade,sport",
-            "tags": "activit\u00e9s,sports,nautiques",
-            "recuweb_url": "http://fr.recuweb.com/sport/newspress.fr/2015/04/d%C3%A9couvrez-les-services-rendus-par-%C3%A9cosyst%C3%A8mes-d-eau-douce-en-france",
+        "tendanceouest.com/2015/04/deux-normands-dans-la-nouvelle-saison-de-koh-lanta-sur-tf1": {
+            "title": "Deux normands dans la nouvelle saison de Koh-Lanta sur TF1...",
+            "snippet": "Discret mais d\u00e9termin\u00e9, Bruno nourrit de grandes ambitions dans l'aventure. Ce passionn\u00e9 de sports nautiques veut montrer que, malgr\u00e9 son ge, il pourra rivaliser avec les plus jeunes.",
+            "date": "2015-04-24",
+            "categories": "sport",
+            "tags": "saison,deux,sports,nautiques",
+            "recuweb_url": "http://fr.recuweb.com/sport/tendanceouest.com/2015/04/deux-normands-dans-la-nouvelle-saison-de-koh-lanta-sur-tf1",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
-            "source_url": "http://newspress.fr/Communique_FR_288218_3497.aspx"
+            "source_url": "http://tendanceouest.com/cherbourg/actualite-102284-deux-normands-dans-la-nouvelle-saison-de-koh-lanta-sur-tf1.html"
         },
-        "consoglobe.com/2015/04/partir-en-vacances-sans-papa-et-maman-super": {
-            "title": "Partir en vacances sans papa et maman? Super, je le fais l\u00e9t\u00e9 prochain!",
-            "snippet": "Jai besoin de me d\u00e9penser, alors un stage sportif o\u00f9 je pourrais pratiquer des sports nautiques, essayer plusieurs sports diff\u00e9rents ou faire de superbes randonn\u00e9es sous forme de chasses au tr\u00e9sor, cela me plairait bien. Cest un peu cher...",
-            "date": "2015-04-19",
-            "categories": "chasse,sport",
-            "tags": "sports,nautiques",
-            "recuweb_url": "http://fr.recuweb.com/sport/consoglobe.com/2015/04/partir-en-vacances-sans-papa-et-maman-super",
+        "lessablesdolonne.maville.com/2015/04/voile-la-solo-ma%C3%AEtre-coq-ouvre-saison": {
+            "title": "Voile: La Solo Ma\u00eetre CoQ ouvre la saison...",
+            "snippet": "Organis\u00e9e par les Sports nautiques sablais (SNS), la premi\u00e8re \u00e9preuve de lann\u00e9e sur les bateaux Figaro devient une \u00e9tape du championnat de France, explique Guillaume Hauser, des Sports nautiques sablais et coordinateur. Les marins se sont...",
+            "date": "2015-04-23",
+            "categories": "sport",
+            "tags": "saison,voile,organis\u00e9e,sports,nautiques,france",
+            "recuweb_url": "http://fr.recuweb.com/sport/lessablesdolonne.maville.com/2015/04/voile-la-solo-ma%C3%AEtre-coq-ouvre-saison",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
-            "source_url": "http://consoglobe.com/partir-sans-papa-et-maman-cg"
+            "source_url": "http://lessablesdolonne.maville.com/sport/detail_-voile-la-solo-maitre-coq-ouvre-la-saison_52740-2756481_actu.Htm"
+        },
+        "letelegramme.fr/2015/04/sauvetage-en-mer-2014-l-ann%C3%A9e-des-mauvais-records": {
+            "title": "Sauvetage en mer. 2014 l'ann\u00e9e des mauvais records...",
+            "snippet": "Plusieurs raisons peuvent expliquer cette hausse comme la multiplication d'amateurs de sports nautiques souvent mal pr\u00e9par\u00e9s ou mal \u00e9quip\u00e9s. Deux-tiers des op\u00e9rations pour les plaisanciers Dans les op\u00e9rations men\u00e9es par le Cross Corsen...",
+            "date": "2015-04-22",
+            "categories": "sport",
+            "tags": "comme,sports,nautiques,deux",
+            "recuweb_url": "http://fr.recuweb.com/sport/letelegramme.fr/2015/04/sauvetage-en-mer-2014-l-ann%C3%A9e-des-mauvais-records",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
+            "source_url": "http://letelegramme.fr/bretagne/mer/sauvetage-nombre-record-d-interventions-en-2014-22-04-2015-10604287.php"
+        },
+        "lorient.maville.com/2015/04/coulisses-en-baie-de-quiberon-la-voile-a-son-cocon-national": {
+            "title": "Coulisses: En baie de Quiberon, la voile a son cocon national...",
+            "snippet": "Thierry CREUX L\u00c9cole nationale de voile et des sports nautiques est unique en son genre. C'est le lieu dentra\u00eenement des \u00e9quipes de France et des grands noms de la voile. Ici, cest un peu comme dans un monast\u00e8re. On est dans un cocon,...",
+            "date": "2015-04-21",
+            "categories": "sport",
+            "tags": "cocon,comme,voile,unique,genre,nationale,nationale-de-voile,thierry,thierry_creux,thierry_creux_l\u00e9cole,creux,creux_l\u00e9cole,l\u00e9cole,voile-son-cocon,cocon-national,national,baie,quiberon,sports,nautiques,france",
+            "recuweb_url": "http://fr.recuweb.com/sport/lorient.maville.com/2015/04/coulisses-en-baie-de-quiberon-la-voile-a-son-cocon-national",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
+            "source_url": "http://lorient.maville.com/actu/actudet_-coulisses-en-baie-de-quiberon-la-voile-a-son-cocon-national_12-2756150_actu.Htm"
+        },
+        "lorient.maville.com/2015/04/saint-pierre-quiberon-la-voile-a-son-cocon-national-en-baie": {
+            "title": "Saint-Pierre-Quiberon: La voile a son cocon national en baie de Quiberon...",
+            "snippet": "Thierry Creux L\u00c9cole nationale de voile et des sports nautiques est unique en son genre. Accompagnement du haut niveau, formation, expertise sont les trois piliers de cet \u00e9tablissement. \u00c0 Saint-Pierre-Quiberon, l\u00c9cole nationale de voile et...",
+            "date": "2015-04-21",
+            "categories": "sport",
+            "tags": "nationale,nationale-de-voile,voile,unique,genre,thierry,thierry_creux,thierry_creux_l\u00e9cole,creux,creux_l\u00e9cole,l\u00e9cole,voile-son-cocon,cocon,cocon-national,national,baie,quiberon,sports,nautiques",
+            "recuweb_url": "http://fr.recuweb.com/sport/lorient.maville.com/2015/04/saint-pierre-quiberon-la-voile-a-son-cocon-national-en-baie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sports%2Bnautiques&format=RSS&cc=fr",
+            "source_url": "http://lorient.maville.com/actu/actudet_-saint-pierre-quiberon-la-voile-a-son-cocon-national-en-baie-de-quiberon_12-2756108_actu.Htm"
         },
         "fr.news.yahoo.com/2015/04/dakhla-la-petite-essaouira-aux-portes-du-d%C3%A9sert": {
             "title": "Dakhla, la petite Essaouira aux portes du d\u00e9sert...",
