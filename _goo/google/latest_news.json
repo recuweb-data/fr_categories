@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "google",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/google/",
@@ -10,75 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
-        "usine-digitale.fr/2015/04/google-fait-ses-premiers-pas-dans-la-t%C3%A9l%C3%A9phonie-mobile-aux-usa": {
-            "title": "Google fait ses premiers pas dans la t\u00e9l\u00e9phonie mobile aux USA en associant Wi-Fi et r\u00e9seaux...",
-            "snippet": "Actus Reuters, Vid\u00e9o Google a lanc\u00e9 le 22 avril un service sans fil aux Etats-Unis qui permet de passer automatiquement du r\u00e9seau cellulaire au service Wi-Fi gratuit afin de r\u00e9duire la consommation de donn\u00e9es payantes et de limiter ainsi la...",
+        "journaldugeek.com/2015/04/google-glass-bient%C3%B4t-le-retour": {
+            "title": "Google Glass: bient\u00f4t le retour?",
+            "snippet": "Les lunettes Glass de Google ne sont pas mortes, m\u00eame si le moteur de recherche a plac\u00e9 ce projet loin des yeux du grand public. Les choses semblent m\u00eame avancer plus vite que pr\u00e9vu. Lentreprise de Mountain View a en effet envoy\u00e9 un...",
+            "date": "2015-04-27",
+            "categories": "moteur-de-recherche,place,google",
+            "tags": "moteur,moteur-de-recherche,recherche,projet,google",
+            "recuweb_url": "http://fr.recuweb.com/google/journaldugeek.com/2015/04/google-glass-bient%C3%B4t-le-retour",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
+            "source_url": "http://journaldugeek.com/2015/04/27/google-glass-bientot-le-retour/"
+        },
+        "ilovetablette.com/2015/04/tablette-google-nexus-7-edition-2013-cest-fini": {
+            "title": "Tablette Google Nexus 7 Edition 2013, cest fini!",
+            "snippet": "Google vient de stopper la commercialisation de sa tablette Google Nexus 7 Edition 2013, une tablette fabriqu\u00e9e en collaboration avec le constructeur Asiatique Asus. Cette tablette lanc\u00e9e en septembre 2013 en France a \u00e9t\u00e9 lun des gros succ\u00e8s...",
+            "date": "2015-04-27",
+            "categories": "google",
+            "tags": "gros,google,france,\u00e9t\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/google/ilovetablette.com/2015/04/tablette-google-nexus-7-edition-2013-cest-fini",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
+            "source_url": "http://ilovetablette.com/tablette-google-nexus-7-edition-2013-cest-fini-22444/"
+        },
+        "emploi.silicon.fr/2015/04/%C3%A9valuateurs-de-moteurs-recherche-personnalis%C3%A9s-h-f-cdd-freelance-stage-conventionn%C3%A9": {
+            "title": "\u00c9valuateurs de Moteurs de Recherche Personnalis\u00e9s H/F - CDD Freelance Stage conventionn\u00e9 -...",
+            "snippet": "Les candidats favoris\u00e9s utilisent activement le moteur de recherche et les autres produits Google, Google Play au moins une fois par semaine, Google plus d'une fois par mois; comptent plus de 11 contacts par cercle et sont titulaires d'un compte...",
+            "date": "2015-04-24",
+            "categories": "play,moteur-de-recherche,google",
+            "tags": "mois,play,moteur-de-recherche,recherche,google",
+            "recuweb_url": "http://fr.recuweb.com/google/emploi.silicon.fr/2015/04/%C3%A9valuateurs-de-moteurs-recherche-personnalis%C3%A9s-h-f-cdd-freelance-stage-conventionn%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/450887/avaluateurs-de-moteurs-de-recherche-personnalisas-hf/"
+        },
+        "24matins.fr/2015/04/google-project-fi-et-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile": {
+            "title": "Google Project Fi: et Google devient op\u00e9rateur de t\u00e9l\u00e9phonie mobile...",
+            "snippet": "Un nouveau tentacule cons\u00e9quent pour Google Google devient donc MVNO, autrement dit, op\u00e9rateur virtuel, mais en plus dutiliser les r\u00e9seaux mobiles de T-Mobile, et Sprint, deux des plus gros op\u00e9rateurs classiques aux \u00c9tats unis, Google utilisera...",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "afin,automatiquement,r\u00e9seaux,service,avril,lanc\u00e9,t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie-mobile,mobile,google,usa,etats,unis,gratuit",
-            "recuweb_url": "http://fr.recuweb.com/google/usine-digitale.fr/2015/04/google-fait-ses-premiers-pas-dans-la-t%C3%A9l%C3%A9phonie-mobile-aux-usa",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://usine-digitale.fr/editorial/google-fait-ses-premiers-pas-dans-la-telephonie-mobile-aux-usa-en-associant-wi-fi-et-reseaux-cellulaires.N326297"
+            "tags": "gros,op\u00e9rateurs,op\u00e9rateur,r\u00e9seaux,mobile,op\u00e9rateur-virtuel,virtuel,google,devient,nouveau,devient-op\u00e9rateur,op\u00e9rateur-de-t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie,project,mvno,unis,utilisera",
+            "recuweb_url": "http://fr.recuweb.com/google/24matins.fr/2015/04/google-project-fi-et-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
+            "source_url": "http://24matins.fr/google-project-fi-et-google-devient-operateur-de-telephonie-mobile-179082"
         },
-        "msn.com/2015/04/google-s-invite-sur-le-march%C3%A9-de-la-t%C3%A9l%C3%A9phonie-mobile": {
-            "title": "Google s'invite sur le march\u00e9 de la t\u00e9l\u00e9phonie mobile...",
-            "snippet": "Encore une fois Google s'invite sur un nouveau terrain. Le groupe de Mountain View a annonc\u00e9 mercredi le lancement d'un service de t\u00e9l\u00e9phonie mobile alternant automatiquement entre plusieurs r\u00e9seaux, avec la promesse d'acc\u00e9l\u00e9rer les vitesses...",
+        "lexpansion.lexpress.fr/2015/04/google-devient-op%C3%A9rateur-mobile-aux-etats-unis": {
+            "title": "Google devient op\u00e9rateur mobile aux Etats-Unis...",
+            "snippet": "Google devient MVNO. La soci\u00e9t\u00e9 a annonc\u00e9 mercredi le lancement d'un service de t\u00e9l\u00e9phonie mobile, qui utilisera plusieurs r\u00e9seaux, avec la promesse de basculer sur le plus rapide automatiquement. C'est sa premi\u00e8re incursion sur ce march\u00e9...",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "service,t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie-mobile,mobile,automatiquement,r\u00e9seaux,annonc\u00e9,mercredi,groupe,google",
-            "recuweb_url": "http://fr.recuweb.com/google/msn.com/2015/04/google-s-invite-sur-le-march%C3%A9-de-la-t%C3%A9l%C3%A9phonie-mobile",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://msn.com/fr-fr/finance/articles-principaux/google-sinvite-sur-le-march\u00e9-de-la-t\u00e9l\u00e9phonie-mobile/ar-AAbxl24?srcref=rss"
+            "tags": "premi\u00e8re,march\u00e9,utilisera,r\u00e9seaux,t\u00e9l\u00e9phonie,soci\u00e9t\u00e9,annonc\u00e9,mercredi,devient,devient-op\u00e9rateur,op\u00e9rateur,google,mobile,etats,unis,mvno",
+            "recuweb_url": "http://fr.recuweb.com/google/lexpansion.lexpress.fr/2015/04/google-devient-op%C3%A9rateur-mobile-aux-etats-unis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
+            "source_url": "http://lexpansion.lexpress.fr/high-tech/google-devient-operateur-mobile-aux-etats-unis_1674060.html"
         },
-        "generation-nt.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile-aux-usa": {
-            "title": "Project Fi: Google devient op\u00e9rateur mobile aux USA...",
-            "snippet": "Google est d\u00e9sormais un acteur de la t\u00e9l\u00e9phonie mobile, sous le statut d'op\u00e9rateur virtuel! La rumeur concernant les ambitions de Google de devenir un op\u00e9rateur mobile virtuel \u00e9tait donc bien fond\u00e9e, Google venant d'officialiser son Project...",
+        "infos-mobiles.com/2015/04/google-lance-un-op%C3%A9rateur-virtuel-de-t%C3%A9l%C3%A9phonie-mobile-aux-etats-unis": {
+            "title": "Google lance un op\u00e9rateur virtuel de t\u00e9l\u00e9phonie mobile aux Etats-Unis...",
+            "snippet": "Les rumeurs qui ont circul\u00e9 sur internet ces derniers mois sont maintenant fond\u00e9es. A la liste dop\u00e9rateurs de t\u00e9l\u00e9phonie mobile des Etats-Unis, on a rajout\u00e9 hier un nom tr\u00e8s connu: Google. Le g\u00e9ant de linternet a annonc\u00e9 de mani\u00e8re...",
             "date": "2015-04-23",
-            "categories": "google",
-            "tags": "op\u00e9rateur,op\u00e9rateur-mobile,mobile,donc,rumeur,t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie-mobile,devient,devient-op\u00e9rateur,project,google,usa",
-            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile-aux-usa",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://generation-nt.com/project-fi-google-operateur-mobile-actualite-1914399.html"
-        },
-        "weblife.fr/2015/04/google-project-fi-loffre-t%C3%A9l%C3%A9phonique-en-d%C3%A9tails": {
-            "title": "Google Project Fi: Loffre t\u00e9l\u00e9phonique en d\u00e9tails!",
-            "snippet": "La volont\u00e9 de Google, qui sentoure pour loccasion de diff\u00e9rentes soci\u00e9t\u00e9s dont les op\u00e9rateurs Sprint et T-Mobile, est de proposer aux utilisateurs une connectivit\u00e9 ininterrompue, peu importe le lieu o\u00f9 ils se trouvent et donc le type de...",
-            "date": "2015-04-22",
-            "categories": "google",
-            "tags": "donc,op\u00e9rateurs,google,project,mobile",
-            "recuweb_url": "http://fr.recuweb.com/google/weblife.fr/2015/04/google-project-fi-loffre-t%C3%A9l%C3%A9phonique-en-d%C3%A9tails",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://weblife.fr/actus/google-project-fi-l-offre-telephonique-en-details"
-        },
-        "begeek.fr/2015/04/google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile-avec-project-fi": {
-            "title": "Google devient op\u00e9rateur de t\u00e9l\u00e9phonie mobile avec Project Fi...",
-            "snippet": "Google a lanc\u00e9 hier, mercredi 22 avril, son offre de t\u00e9l\u00e9phonie mobile aux Etats-Unis. Cette offre n'est pour l'instant disponible que sur invitation et n'est compatible qu'avec le Nexus 6. Le g\u00e9ant de la recherche internet avait annonc\u00e9 il y a...",
-            "date": "2015-04-22",
             "categories": "internet,google",
-            "tags": "recherche,internet,annonc\u00e9,offre,t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie-mobile,mobile,lanc\u00e9,devient,devient-op\u00e9rateur,op\u00e9rateur,google,project,mercredi,avril,etats,unis,g\u00e9ant",
-            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile-avec-project-fi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://begeek.fr/google-devient-operateur-de-telephonie-mobile-avec-project-fi-167536"
+            "tags": "annonc\u00e9,hier,t\u00e9l\u00e9phonie,internet,mois,maintenant,lance,op\u00e9rateur,op\u00e9rateur-virtuel,virtuel,google,mobile,etats,unis,g\u00e9ant",
+            "recuweb_url": "http://fr.recuweb.com/google/infos-mobiles.com/2015/04/google-lance-un-op%C3%A9rateur-virtuel-de-t%C3%A9l%C3%A9phonie-mobile-aux-etats-unis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
+            "source_url": "http://infos-mobiles.com/google/google-lance-un-operateur-virtuel-de-telephonie-mobile-aux-etats-unis/94603"
         },
-        "fredzone.org/2015/04/google-se-lance-comme-op%C3%A9rateur-mobile-aux-etats-unis": {
-            "title": "Google se lance comme op\u00e9rateur mobile aux Etats-Unis...",
-            "snippet": "Google a encore frapp\u00e9. La rumeur disait vrai, le g\u00e9ant am\u00e9ricain vient de lancer une nouvelle offre qui le propulse directement sur le secteur des op\u00e9rateurs mobiles. Et attention car le Project Fi cumule les bons points. Il ne manque...",
-            "date": "2015-04-22",
+        "abcbourse.com/2015/04/google-se-lance-dans-la-t%C3%A9l%C3%A9phonie-mobile": {
+            "title": "Google: Google se lance dans la t\u00e9l\u00e9phonie mobile...",
+            "snippet": "Hier soir, Google a d\u00e9voil\u00e9 son nouveau projet d'envergure: le g\u00e9ant se lance en tant qu'op\u00e9rateur de t\u00e9l\u00e9phonie mobile et propose son nouveau forfait t\u00e9l\u00e9phonique, les op\u00e9rateurs concurrents attachent leurs ceintures. Pour linstant, le...",
+            "date": "2015-04-23",
             "categories": "google",
-            "tags": "am\u00e9ricain,offre,op\u00e9rateurs,op\u00e9rateur,mobile,rumeur,op\u00e9rateur-mobile,google,etats,unis,g\u00e9ant,project",
-            "recuweb_url": "http://fr.recuweb.com/google/fredzone.org/2015/04/google-se-lance-comme-op%C3%A9rateur-mobile-aux-etats-unis",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://fredzone.org/google-se-lance-comme-operateur-mobile-aux-etats-unis-443"
-        },
-        "01net.com/2015/04/google-travaille-en-secret-sur-de-nouvelles-batteries-pour-nos-01net": {
-            "title": "Google travaille en secret sur de nouvelles batteries pour nos... - 01net...",
-            "snippet": "Google travaille en secret sur de nouvelles batteries pour nos...01netC'est le Wall Street Journal qui le r\u00e9v\u00e8le: depuis plus de deux ans, Google a mont\u00e9 un groupe au sein de son labo Google X afin de travailler sur de nouvelles technologies de...",
-            "date": "2015-04-11",
-            "categories": "technologie,google",
-            "tags": "afin,groupe,google",
-            "recuweb_url": "http://fr.recuweb.com/google/01net.com/2015/04/google-travaille-en-secret-sur-de-nouvelles-batteries-pour-nos-01net",
-            "resource_url": "http://news.google.fr/?hl=fr&q=google%2Bgoogle&output=atom&nord=1",
-            "source_url": "http://01net.com/editorial/651978/google-travaille-en-secret-sur-de-nouvelles-batteries-pour-nos-appareils-mobiles/"
+            "tags": "op\u00e9rateurs,op\u00e9rateur,nouveau,op\u00e9rateur-de-t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie,lance,projet,google,mobile,hier,g\u00e9ant",
+            "recuweb_url": "http://fr.recuweb.com/google/abcbourse.com/2015/04/google-se-lance-dans-la-t%C3%A9l%C3%A9phonie-mobile",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
+            "source_url": "http://abcbourse.com/marches/google-google-se-lance-dans-la-telephonie-mobile_324205_GOOGu.aspx"
         },
         "fr.news.yahoo.com/2015/04/google-lutte-contre-les-spoilers-sur-internet": {
             "title": "Google lutte contre les spoilers sur internet...",
@@ -95,20 +96,20 @@
             "snippet": "Technologie - La s\u00e9natrice UDI Catherine Morin-Desailly a d\u00e9pos\u00e9 un amendement au projet de loi Macron pr\u00e9voyant des sanctions s\u00e9v\u00e8res contre le moteur de recherche s'il ne ne change pas ses pratiques...",
             "date": "2015-04-10",
             "categories": "moteur-de-recherche,google,technologie",
-            "tags": "pratiques,contre,moteur,moteur-de-recherche,recherche,d\u00e9pos\u00e9,d\u00e9pos\u00e9-un-amendement,amendement,projet,loi,catherine,catherine_morin,morin,google,s\u00e9natrice,desailly,macron",
+            "tags": "contre,moteur,moteur-de-recherche,recherche,projet,google",
             "recuweb_url": "http://fr.recuweb.com/technologie/fr.news.yahoo.com/2015/04/le-s%C3%A9nat-en-guerre-contre-google",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=google",
             "source_url": "http://fr.news.yahoo.com/s\u00e9nat-guerre-contre-google-105036720.html"
         },
-        "begeek.fr/2015/04/la-france-veut-emp%C3%AAcher-les-pratiques-anticoncurrentielles-de-google": {
-            "title": "La France veut emp\u00eacher les pratiques anticoncurrentielles de Google...",
-            "snippet": "La s\u00e9natrice Catherine Morin-Desailly a d\u00e9pos\u00e9 un amendement dans le cadre du projet de la loi Macron qui concerne Google. Google et ses pratiques que beaucoup de pays europ\u00e9ens et les Etats-Unis consid\u00e8rent anticoncurrentielles est...",
-            "date": "2015-04-09",
+        "fr.news.yahoo.com/2015/04/op%C3%A9ration-s%C3%A9duction-de-google-france": {
+            "title": "Op\u00e9ration s\u00e9duction de Google France...",
+            "snippet": "La soci\u00e9t\u00e9 lance sa premi\u00e8re campagne de publicit\u00e9 institutionnelle. Un moyen de redorer une image ternie par les accusations dabus de position dominante, de part et dautre de lAtlantique.",
+            "date": "2015-04-08",
             "categories": "google",
-            "tags": "pratiques,d\u00e9pos\u00e9,d\u00e9pos\u00e9-un-amendement,amendement,projet,loi,catherine,catherine_morin,morin,france,veut,google,s\u00e9natrice,desailly,macron,etats,unis",
-            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/la-france-veut-emp%C3%AAcher-les-pratiques-anticoncurrentielles-de-google",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
-            "source_url": "http://begeek.fr/la-france-veut-empecher-les-pratiques-anticoncurrentielles-de-google-166471"
+            "tags": "soci\u00e9t\u00e9,lance,lance-sa-premi\u00e8re,premi\u00e8re,google,france",
+            "recuweb_url": "http://fr.recuweb.com/google/fr.news.yahoo.com/2015/04/op%C3%A9ration-s%C3%A9duction-de-google-france",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=google",
+            "source_url": "http://fr.news.yahoo.com/op\u00e9ration-s\u00e9duction-google-france-104025076.html"
         }
     }
 }
