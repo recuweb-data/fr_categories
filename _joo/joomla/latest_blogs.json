@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "joomla",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/joomla/",
@@ -17,7 +17,7 @@
             "date": "2015-03-29",
             "author_name": "no_reply_magazine@joomla.org (Alexis Fenaille)",
             "categories": "joomla",
-            "tags": "peut,joomla,site",
+            "tags": "joomla,site",
             "recuweb_url": "http://fr.recuweb.com/joomla/magazine.joomla.org/2015/03/utilisez-avec-pr%C3%A9caution-les-tags-dans-joomla",
             "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://magazine.joomla.org/international-stories-all/articles-in-french-all/utilisez-avec-precaution-les-tags-dans-joomla"
@@ -50,21 +50,10 @@
             "date": "2015-02-28",
             "author_name": "no_reply_magazine@joomla.org (John Rampton)",
             "categories": "wordpress,joomla",
-            "tags": "fonctionnalit\u00e9s,migration,wordpress,joomla,site",
+            "tags": "migration,wordpress,joomla,site",
             "recuweb_url": "http://fr.recuweb.com/joomla/magazine.joomla.org/2015/02/check-list-pour-une-migration-de-wordpress-vers-joomla",
             "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://magazine.joomla.org/international-stories-all/articles-in-french-all/aide-memoire-pour-une-migration-de-wordpress-vers-joomla"
-        },
-        "magazine.joomla.org/2015/02/secret-joomla-seo-gestionnaire-de-redirection-com-redirect": {
-            "title": "Secret Joomla! SEO - Gestionnaire de redirection (com_redirect)...",
-            "snippet": "Une des fonctionnalit\u00e9s qui est apparue avec la version 1.6 de Joomla! est le gestionnaire de redirection un syst\u00e8me simple qui vous permet d'identi...",
-            "date": "2015-02-28",
-            "author_name": "no_reply_magazine@joomla.org (Simon Grange)",
-            "categories": "joomla",
-            "tags": "syst\u00e8me,permet,fonctionnalit\u00e9s,version,joomla",
-            "recuweb_url": "http://fr.recuweb.com/joomla/magazine.joomla.org/2015/02/secret-joomla-seo-gestionnaire-de-redirection-com-redirect",
-            "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://magazine.joomla.org/international-stories-all/articles-in-french-all/secret-joomla-seo-gestionnaire-de-redirection-com-redirect"
         }
     }
 }
