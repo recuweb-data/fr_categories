@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "basket-ball",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/basket-ball/",
@@ -10,20 +11,57 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/basket-ball/basket-ball/blogs.json"
     },
     "items": {
-        "sport365.fr/2015/04/basketball-euroleague-de-colo-et-le-cska-en-feu-fenerbahce-confirme": {
-            "title": "BASKETBALL: Euroleague: De Colo et le CSKA en feu, Fenerbahce confirme...",
-            "snippet": "Grce notamment aux 16 points et 4 passes de Nando De Colo, le CSKA Moscou s'est impos\u00e9 contre le Panathina\u00efkos (100-80) jeudi dans le match 2 des quarts de finale de l'Euroligue. De son c\u00f4t\u00e9, Fenerbahce s'est impos\u00e9 contre le Maccabi Tel-Aviv...",
-            "date": "2015-04-16",
-            "tags": "finale,match",
-            "recuweb_url": "http://fr.recuweb.com/sport365.fr/2015/04/basketball-euroleague-de-colo-et-le-cska-en-feu-fenerbahce-confirme",
+        "africatopsports.com/2015/04/basket-ball-nba-playoffs-milwaukee-et-brooklyn-se-relancent-portland-dos": {
+            "title": "Basket-Ball NBA-Playoffs: Milwaukee et Brooklyn se relancent, Portland dos au mur, r\u00e9sultats de la...",
+            "snippet": "Basket-Ball NBA-Playoffs: Milwaukee et Brooklyn se relancent, Portland dos au mur, r\u00e9sultats de la...",
+            "date": "2015-04-26",
+            "tags": "ball,nba,basket",
+            "recuweb_url": "http://fr.recuweb.com/africatopsports.com/2015/04/basket-ball-nba-playoffs-milwaukee-et-brooklyn-se-relancent-portland-dos",
             "resource_url": "http://www.bing.com/news/search?first=1&q=basket%2Bball&format=RSS&cc=fr",
-            "source_url": "http://sport365.fr/basketball/basketball-euroleague-de-colo-et-cska-en-feu-fenerbahce-confirme-1227330.shtml"
+            "source_url": "http://africatopsports.com/2015/04/26/nba-playoffs-milwaukee-et-brooklyn-se-relancent-portland-dos-au-mur-resultats-de-la-nuit/"
+        },
+        "angers.maville.com/2015/04/basket-ball-angers-lfb-marie-man%C3%A9-en-approche": {
+            "title": "Basket-ball: Angers (LFB): Marie Man\u00e9 en approche...",
+            "snippet": "L'Ufab a officialis\u00e9 le recrutement de l'int\u00e9rieure toulousaine Sofie Hendrickx, mais une autre joueuse de Toulouse devrait suivre. Les contacts sont avanc\u00e9s avec Marie Man\u00e9. Angers a d\u00e9cid\u00e9 de voir la vie en rose. Le rose de Toulouse do\u00f9...",
+            "date": "2015-04-26",
+            "categories": "recrutement",
+            "tags": "basket,ball",
+            "recuweb_url": "http://fr.recuweb.com/recrutement/angers.maville.com/2015/04/basket-ball-angers-lfb-marie-man%C3%A9-en-approche",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=basket%2Bball&format=RSS&cc=fr",
+            "source_url": "http://angers.maville.com/sport/detail_-basket-ball-angers-lfb-\u00a0-marie-mane-en-approche_52728-2758310_actu.Htm"
+        },
+        "lecourrierdeleure.fr/2015/04/la-saussaye-basket-ball-honneur-d%C3%A9partemental-masculin-le-courrier-de-l": {
+            "title": "La Saussaye BASKET-BALL Honneur d\u00e9partemental masculin... - Le Courrier de l'Eure...",
+            "snippet": "Le Courrier de l'EureLa Saussaye BASKET-BALL \"Honneur d\u00e9partemental masculin...Le Courrier de l'EureLa Saussaye BASKET-BALL \"Honneur d\u00e9partemental masculin\" Vall\u00e9e Oison 48 - Bosc-Roger (2) 78: Derby et mont\u00e9e pour Bosc-Roger. En venant...",
+            "date": "2015-04-26",
+            "tags": "basket,ball",
+            "recuweb_url": "http://fr.recuweb.com/lecourrierdeleure.fr/2015/04/la-saussaye-basket-ball-honneur-d%C3%A9partemental-masculin-le-courrier-de-l",
+            "resource_url": "http://news.google.fr/?hl=fr&q=basket%2Bball&output=atom&nord=1",
+            "source_url": "http://lecourrierdeleure.fr/2015/04/26/basket-ball-honneur-departemental-masculin-vallee-oison-48-bosc-roger-2-78-derby-et-montee-pour-bosc-roger/"
+        },
+        "lavoixdunord.fr/2015/04/basket-ball-pro-a-andrew-albicy-le-meneur-du-bcm-l": {
+            "title": "Basket-ball (Pro A) - Andrew Albicy, le meneur du BCM: L'\u00e9quipe... - La Voix du Nord...",
+            "snippet": "La Voix du NordBasket-ball (Pro A) - Andrew Albicy, le meneur du BCM: L'\u00e9quipe...La Voix du NordAu moment o\u00f9 il le fallait. Comme il le fallait. Le BCM a sign\u00e9 un match abouti, ce samedi, en r\u00e9duisant au silence les scoreurs dijonnais. Le duo...",
+            "date": "2015-04-25",
+            "tags": "samedi,match,basket,ball,\u00e9quipe,nord",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/04/basket-ball-pro-a-andrew-albicy-le-meneur-du-bcm-l",
+            "resource_url": "http://news.google.fr/?hl=fr&q=basket%2Bball&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/basket-ball-pro-a-andrew-albicy-le-meneur-du-bcm-ia17b47595n2794401"
+        },
+        "ladepeche.fr/2015/04/basket-ball-les-benjamines-en-course-pour-la-finale": {
+            "title": "Basket-ball: les benjamines en course pour la finale...",
+            "snippet": "Petit coup de projecteur sur l'\u00e9quipe des benjamines1 qui, sous la responsabilit\u00e9 de Christophe Puchaux, n'ont cess\u00e9 de progresser depuis le d\u00e9but de la saison. Ces basketteuses du PLB ont obtenu leur qualification pour le niveau 1 r\u00e9gional...",
+            "date": "2015-04-25",
+            "tags": "saison,\u00e9quipe,basket,ball",
+            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/basket-ball-les-benjamines-en-course-pour-la-finale",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=basket%2Bball&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/04/26/2093987-basket-ball-les-benjamines-en-course-pour-la-finale.html"
         },
         "fr.news.yahoo.com/2015/03/nba-harden-suspendu-un-match-apr%C3%A8s-une-altercation-avec-james": {
             "title": "NBA: Harden suspendu un match apr\u00e8s une altercation avec James...",
             "snippet": "Le joueur-vedette des Houston Rockets James Harden a \u00e9t\u00e9 suspendu lundi un match par la Ligue nord-am\u00e9ricaine de basket-ball (NBA) apr\u00e8s une altercation avec LeBron James dimanche lors du match entre Houston et Cleveland (105-103 a.p.).",
             "date": "2015-03-03",
-            "tags": "lors,match,nba,houston,rockets,ligue,nord,basket,ball",
+            "tags": "match,nba,harden,james,houston,rockets,nord,basket,ball",
             "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/03/nba-harden-suspendu-un-match-apr%C3%A8s-une-altercation-avec-james",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=basket%2Bball",
             "source_url": "http://fr.news.yahoo.com/nba-harden-suspendu-match-apr\u00e8s-altercation-james-092521809--spt.html"
