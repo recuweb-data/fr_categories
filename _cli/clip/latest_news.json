@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "clip",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/clip/",
@@ -10,62 +11,92 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/clip/clip/blogs.json"
     },
     "items": {
-        "musique.ados.fr/2015/04/madonna-un-clip-apocalyptique-et-romantique-pour-ghosttown": {
-            "title": "Madonna: Un clip apocalyptique et romantique pour Ghosttown!",
-            "snippet": "Madonna a d\u00e9voil\u00e9 le clip de son dernier single Ghosttown. Dans une ambiance de fin du monde elle retrouve lacteur Terrence Howard pour une chor\u00e9graphie pleine d\u00e9motions. D\u00e9couvre le! Esp\u00e9rons pour la Madone que ce clip r\u00e9alis\u00e9 par le...",
-            "date": "2015-04-09",
-            "categories": "clip",
-            "tags": "dernier,d\u00e9voil\u00e9,clip,single",
-            "recuweb_url": "http://fr.recuweb.com/clip/musique.ados.fr/2015/04/madonna-un-clip-apocalyptique-et-romantique-pour-ghosttown",
+        "potins.net/2015/04/conchista-wurst-se-paie-un-clip-nue": {
+            "title": "Conchista Wurst se paie un clip nue...",
+            "snippet": "Conchita Wurst sortira son premier album le 18 mai prochain. Lartiste vient de d\u00e9voiler son clip dans lequel on la voit nue. Dans le clip de cette chanson qui vient d\u00eatre d\u00e9voil\u00e9e sur internet, nous pouvons voir lartiste nue et fi\u00e8re.",
+            "date": "2015-04-27",
+            "categories": "internet,clip",
+            "tags": "nue,chanson,lequel,d\u00e9voiler,mai,mai-prochain,prochain,sortira,premier,conchita,conchita_wurst,wurst,clip,album",
+            "recuweb_url": "http://fr.recuweb.com/clip/potins.net/2015/04/conchista-wurst-se-paie-un-clip-nue",
             "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
-            "source_url": "http://musique.ados.fr/news/madonna-clip-apocalyptique-romantique-ghosttown-amoureux-terrence-howard-2015_article6544.html"
+            "source_url": "http://potins.net/celebrites/conchista-wurst-se-paie-clip-nue-127234.html"
         },
-        "metronews.fr/2015/04/video-le-nouveau-clip-de-robi-nuit-f%C3%AAte-metronews": {
-            "title": "VIDEO - Le nouveau clip de Robi, Nuit de f\u00eate - metronews...",
-            "snippet": "metronewsVIDEO - Le nouveau clip de Robi, \"Nuit de f\u00eate\"metronewsEXCLU - Apr\u00e8s \"L'\u00e9ternit\u00e9\", la chanteuse fran\u00e7aise continue de nous envo\u00fbter avec un nouveau single addictif, \"Nuit de f\u00eate\", qui associe toujours cold wave inqui\u00e9tante et...",
-            "date": "2015-04-09",
+        "non-stop-people.com/2015/04/conchita-wurst-s-affiche-nue-dans-un-clip-vid%C3%A9o": {
+            "title": "Conchita Wurst s'affiche nue dans un clip vid\u00e9o!",
+            "snippet": "Le premier album du travesti Conchita Wurst sortira le 15 mai prochain. Mais pour faire patienter ses fans, la laur\u00e9ate de lEurovision 2014 vient de d\u00e9voiler le clip de sa chanson You are Unstoppable dans lequel Conchita Wurst apparait nue.",
+            "date": "2015-04-27",
             "categories": "clip",
-            "tags": "toujours,nouveau,clip,apr\u00e8s,single",
-            "recuweb_url": "http://fr.recuweb.com/clip/metronews.fr/2015/04/video-le-nouveau-clip-de-robi-nuit-f%C3%AAte-metronews",
-            "resource_url": "http://news.google.fr/?hl=fr&q=clip%2Bclip&output=atom&nord=1",
-            "source_url": "http://metronews.fr/culture/video-le-nouveau-clip-de-robi-nuit-de-fete/modh!w6z3WkTYjeeOs/"
-        },
-        "novaplanet.com/2015/04/le-clip-de-la-semaine-58-lomepal-novaplanet": {
-            "title": "Le clip de la semaine 58: Lomepal - Novaplanet...",
-            "snippet": "NovaplanetLe clip de la semaine 58: LomepalNovaplanetSi parfois le rap game fran\u00e7ais donne le sentiment de se mordre la queue, il demeure dans nos contr\u00e9es une production musicale dans ce registre d'une qualit\u00e9 impeccable. Puisqu'il n'est ici...",
-            "date": "2015-04-08",
-            "categories": "clip",
-            "tags": "production,musicale,rap,fran\u00e7ais,donne,clip,ici",
-            "recuweb_url": "http://fr.recuweb.com/clip/novaplanet.com/2015/04/le-clip-de-la-semaine-58-lomepal-novaplanet",
-            "resource_url": "http://news.google.fr/?hl=fr&q=clip%2Bclip&output=atom&nord=1",
-            "source_url": "http://novaplanet.com/novamag/43257/le-clip-de-la-semaine-58-lomepal"
-        },
-        "melty.fr/2015/04/lino-fautes-de-fran%C3%A7ais-feat-dokou-le-clip-d%C3%A9voil%C3%A9": {
-            "title": "Lino: Fautes de Fran\u00e7ais feat. Dokou, le clip d\u00e9voil\u00e9...",
-            "snippet": "Pr\u00e8s de trois mois apr\u00e8s la sortie de son album Requiem, Lino d\u00e9voile aujourd'hui le clip du morceau Fautes de Fran\u00e7ais en featuring avec Dokou. D\u00e9couvrez-le sur. Dix ans apr\u00e8s Paradis Assassin\u00e9,Lino revenait Requiem, son second album...",
-            "date": "2015-04-08",
-            "categories": "clip",
-            "tags": "apr\u00e8s,d\u00e9voile,d\u00e9voil\u00e9,sortie,fran\u00e7ais,feat,clip,album,d\u00e9couvrez",
-            "recuweb_url": "http://fr.recuweb.com/clip/melty.fr/2015/04/lino-fautes-de-fran%C3%A7ais-feat-dokou-le-clip-d%C3%A9voil%C3%A9",
+            "tags": "nue,lequel,chanson,d\u00e9voiler,mai,mai-prochain,prochain,sortira,conchita,conchita_wurst,wurst,clip,premier,album,are,unstoppable",
+            "recuweb_url": "http://fr.recuweb.com/clip/non-stop-people.com/2015/04/conchita-wurst-s-affiche-nue-dans-un-clip-vid%C3%A9o",
             "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
-            "source_url": "http://melty.fr/lino-fautes-de-francais-feat-dokou-le-clip-devoile-a398931.html"
+            "source_url": "http://non-stop-people.com/actu/musique/conchita-wurst-saffiche-nue-dans-un-clip-video-78642"
         },
-        "butfootballclub.fr/2015/04/psg-le-nouveau-clip-ultra-chaud-de-madame-van-der-wiel": {
-            "title": "PSG: le nouveau clip ultra-chaud de Madame Van der Wiel! - But! Football Club...",
-            "snippet": "But! Football ClubPSG: le nouveau clip ultra-chaud de Madame Van der Wiel!But! Football ClubMoins performant avec le Paris Saint-Germain depuis le d\u00e9but de saison, Gr\u00e9gory Van der Wiel donne l'impression d'avoir la t\u00eate ailleurs. Sans doute du...",
-            "date": "2015-04-08",
-            "categories": "football,clip",
-            "tags": "donne,chaud,nouveau,clip",
-            "recuweb_url": "http://fr.recuweb.com/clip/butfootballclub.fr/2015/04/psg-le-nouveau-clip-ultra-chaud-de-madame-van-der-wiel",
-            "resource_url": "http://news.google.fr/?hl=fr&q=clip%2Bclip&output=atom&nord=1",
-            "source_url": "http://butfootballclub.fr/1611381-le-nouveau-clip-bouillant-de-madame-van-der-wiel/"
+        "leparisien.fr/2015/04/video-d%C3%A9couvrez-le-nouveau-clip-du-groupe-europe-days-of-parisien": {
+            "title": "VIDEO. D\u00e9couvrez le nouveau clip du groupe Europe, Days of... - Le Parisien...",
+            "snippet": "Le ParisienVIDEO. D\u00e9couvrez le nouveau clip du groupe Europe, Days of...Le ParisienOubli\u00e9s les permanentes et les hymnes accrocheurs d\u00e9butant avec quelques notes de synth\u00e9tiseur (The final countdown). Depuis sa reformation, en 2004, le groupe...",
+            "date": "2015-04-27",
+            "categories": "clip",
+            "tags": "groupe,quelques,nouveau,clip",
+            "recuweb_url": "http://fr.recuweb.com/clip/leparisien.fr/2015/04/video-d%C3%A9couvrez-le-nouveau-clip-du-groupe-europe-days-of-parisien",
+            "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
+            "source_url": "http://leparisien.fr/musique/video-decouvrez-le-nouveau-clip-du-groupe-europe-days-of-rock-n-roll-26-04-2015-4726425.php"
+        },
+        "closermag.fr/2015/04/conchita-wurst-appara%C3%AEt-nue-dans-son-nouveau-clip-vid%C3%A9o": {
+            "title": "Conchita Wurst appara\u00eet nue dans son nouveau clip (Vid\u00e9o)...",
+            "snippet": "C'est l'un des \u00e9v\u00e9nements musicaux de l'\u00e9t\u00e9. Conchita Wurst va sortir son premier album. La gagnante de l'Eurovision, vient de d\u00e9voiler le clip de sa chanson You Are Unstoppable dans lequel elle appara\u00eet nue. Conchita Wurst sait qu'elle est...",
+            "date": "2015-04-26",
+            "categories": "clip",
+            "tags": "lequel,nue,are,unstoppable,chanson,d\u00e9voiler,premier,nouveau,conchita,conchita_wurst,wurst,clip,album",
+            "recuweb_url": "http://fr.recuweb.com/clip/closermag.fr/2015/04/conchita-wurst-appara%C3%AEt-nue-dans-son-nouveau-clip-vid%C3%A9o",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
+            "source_url": "http://closermag.fr/people/people-anglo-saxons/conchita-wurst-apparait-nue-dans-son-nouveau-clip-video-497024"
+        },
+        "purebreak.com/2015/04/sia-gradur-deen-burbigo-les-meilleurs-clips-de-la-semaine": {
+            "title": "Sia, Gradur, Deen Burbigo... les meilleurs clips de la semaine...",
+            "snippet": "Un peu de musique pour \u00e9gayer votre week-end pluvieux! Cette semaine, il ne fallait surtout pas manquer Sia et Fire Meet Gasoline, son premier clip sans Maddie Ziegler mais avec la sexy Heidi Klum. Sans oublier les nouveaut\u00e9s de Gradur, Deen...",
+            "date": "2015-04-26",
+            "categories": "musique,clip",
+            "tags": "sexy,premier,clips,clip,gradur",
+            "recuweb_url": "http://fr.recuweb.com/clip/purebreak.com/2015/04/sia-gradur-deen-burbigo-les-meilleurs-clips-de-la-semaine",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
+            "source_url": "http://purebreak.com/news/sia-gradur-deen-burbigo-les-meilleurs-clips-de-la-semaine/85470"
+        },
+        "telestar.fr/2015/04/game-of-thrones-la-doublure-tr%C3%A8s-sexy-de-daenerys": {
+            "title": "Game of Thrones: la doublure tr\u00e8s sexy de Daenerys dans un clip... - T\u00e9l\u00e9 Star...",
+            "snippet": "T\u00e9l\u00e9 StarGame of Thrones: la doublure tr\u00e8s sexy de Daenerys dans un clip...T\u00e9l\u00e9 StarEn plus des photos, elle est apparue dans plusieurs vid\u00e9os clips dont le Boum boum boum de Mika avant de devenir l'\u00e9g\u00e9rie d'un marque de maillots de bain...",
+            "date": "2015-04-24",
+            "categories": "clip",
+            "tags": "clips,clip,star,sexy",
+            "recuweb_url": "http://fr.recuweb.com/clip/telestar.fr/2015/04/game-of-thrones-la-doublure-tr%C3%A8s-sexy-de-daenerys",
+            "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
+            "source_url": "http://telestar.fr/2015/photos/game-of-thrones-la-doublure-tres-sexy-de-daenerys-dans-un-clip-de-mika-photos-104428"
+        },
+        "mcm.fr/2015/04/jessie-j-flashlight-son-nouveau-clip-d%C3%A9voil%C3%A9-mcm-news": {
+            "title": "Jessie J: Flashlight, son nouveau clip d\u00e9voil\u00e9! - MCM News...",
+            "snippet": "MCM NewsJessie J: Flashlight, son nouveau clip d\u00e9voil\u00e9!MCM News... ses pr\u00e9c\u00e9dents morceaux, Flashlight est une ballade puissante qui pourrait bien se retrouver en haut des charts d'ici quelques jours. Toujours impeccable vocalement, Jessie J...",
+            "date": "2015-04-24",
+            "categories": "clip",
+            "tags": "quelques,nouveau,clip,ici",
+            "recuweb_url": "http://fr.recuweb.com/clip/mcm.fr/2015/04/jessie-j-flashlight-son-nouveau-clip-d%C3%A9voil%C3%A9-mcm-news",
+            "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
+            "source_url": "http://mcm.fr/jessie-j-flashlight-son-nouveau-clip-devoile-a404428.html"
+        },
+        "sudouest.fr/2015/04/un-clip-100%-quartier": {
+            "title": "Un clip 100% quartier...",
+            "snippet": "e centre social de Beaud\u00e9sert, soutenu par Effort 2 Conscience et de nombreux partenaires, r\u00e9alise un clip vid\u00e9o qui implique 12 mamans et 10 jeunes du quartier. Zohra Recherache, coordinatrice, et Sandrine Campot, stagiaire coordinatrice, sont...",
+            "date": "2015-04-23",
+            "categories": "clip",
+            "tags": "social,clip",
+            "recuweb_url": "http://fr.recuweb.com/clip/sudouest.fr/2015/04/un-clip-100%-quartier",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/04/24/un-clip-100-quartier-1901813-3001.php"
         },
         "fr.news.yahoo.com/2015/03/mode-karlie-kloss-la-star-des-podiums-se-d%C3%A9chaine": {
             "title": "Mode: Karlie Kloss: la star des podiums se d\u00e9chaine dans le clip de Chic feat Nile Rodgers!",
             "snippet": "Le groupe mythique Chic revient en juin prochain avec un nouvel album intitul\u00e9 \"It's about time\". Pour l'occasion, le top Karlie Kloss se d\u00e9hanche dans un clip aux sonorit\u00e9s funky.",
             "date": "2015-03-20",
             "categories": "clip",
-            "tags": "prochain,nouvel,clip,feat,album",
+            "tags": "top,prochain,groupe,star,clip,feat,nouvel,album",
             "recuweb_url": "http://fr.recuweb.com/clip/fr.news.yahoo.com/2015/03/mode-karlie-kloss-la-star-des-podiums-se-d%C3%A9chaine",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=clip",
             "source_url": "http://fr.news.yahoo.com/mode-karlie-kloss-star-podiums-d\u00e9chaine-clip-chic-180106580.html"
@@ -75,30 +106,10 @@
             "snippet": "Apr\u00e8s \"Color Gitano\", \"Andalouse\", \"Elle m'a aim\u00e9\", une reprise de \"La Boh\u00e8me\" et un duo avec Ariana Grande, le gagnant de \"The Voice\" pr\u00e9sent le clip de \"Conmigo\", un single in\u00e9dit.",
             "date": "2015-03-19",
             "categories": "clip",
-            "tags": "conmigo,gagnant,voice,kendji,kendji_girac,girac,clip,apr\u00e8s,single",
+            "tags": "single,clip",
             "recuweb_url": "http://fr.recuweb.com/clip/fr.news.yahoo.com/2015/03/clip-kendji-girac-encha%C3%AEne-avec-l-in%C3%A9dit-conmigo",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=clip",
             "source_url": "http://fr.news.yahoo.com/clip-kendji-girac-encha\u00eene-lin\u00e9dit-conmigo-115800460.html"
-        },
-        "fr.news.yahoo.com/2015/03/kendji-girac-d%C3%A9voile-le-clip-de-conmigo-son-prochain-titre-video": {
-            "title": "Kendji Girac d\u00e9voile le clip de Conmigo, son prochain titre (VIDEO)...",
-            "snippet": "Kendji Girac chante toujours l'amour dans son dernier clip. Le gagnant de The Voice 3 vient de d\u00e9voiler Conmigo, son cinqui\u00e8me single. C'est chaud!",
-            "date": "2015-03-19",
-            "categories": "clip",
-            "tags": "chaud,gagnant,dernier,toujours,prochain,d\u00e9voile,kendji,kendji_girac,girac,clip,conmigo,voice,single",
-            "recuweb_url": "http://fr.recuweb.com/clip/fr.news.yahoo.com/2015/03/kendji-girac-d%C3%A9voile-le-clip-de-conmigo-son-prochain-titre-video",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=clip",
-            "source_url": "http://fr.news.yahoo.com/kendji-girac-d\u00e9voile-clip-conmigo-prochain-titre-video-094508099.html"
-        },
-        "fr.news.yahoo.com/2015/03/b%C3%A9b%C3%A9s-rappeurs-de-sarcelles-le-procureur-ouvre-une-enqu%C3%AAte": {
-            "title": "B\u00e9b\u00e9s rappeurs de Sarcelles: le procureur ouvre une enqu\u00eate...",
-            "snippet": "La machine judiciaire s'en est saisie. Le clip des b\u00e9b\u00e9s rappeurs de Sarcelles (Val-d'Oise) fait depuis ce dimanche l'objet d'une enqu\u00eate judiciaire. Paroles violentes, arme et billets exhib\u00e9s......",
-            "date": "2015-03-02",
-            "categories": "clip",
-            "tags": "ouvre,clip,paroles",
-            "recuweb_url": "http://fr.recuweb.com/clip/fr.news.yahoo.com/2015/03/b%C3%A9b%C3%A9s-rappeurs-de-sarcelles-le-procureur-ouvre-une-enqu%C3%AAte",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=clip",
-            "source_url": "http://fr.news.yahoo.com/b\u00e9b\u00e9-rappeurs-sarcelles-procureur-ouvre-enqu\u00eate-163400057.html"
         }
     }
 }
