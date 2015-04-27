@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "empire",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/empire/",
@@ -52,7 +52,7 @@
             "date": "2015-01-30",
             "author_name": "hothbricks",
             "categories": "empire",
-            "tags": "empire",
+            "tags": "empire,star,star_wars,wars",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2015/01/lego-star-wars-empire-take-over-kickoff",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fza5g_lego-star-wars-empire-take-over-kickoff_videogames",
@@ -64,7 +64,7 @@
             "date": "2015-01-19",
             "author_name": "Film & Documentaire",
             "categories": "empire",
-            "tags": "empire,\u00e9pisode",
+            "tags": "films,empire,\u00e9pisode",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/01/l-empire-britannique-en-couleurs-1-3-le-temps-des-colonies",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Y0FpLmXc5x8&feature=youtube_gdata",
@@ -76,7 +76,7 @@
             "date": "2015-01-15",
             "author_name": "Documentaire/TV",
             "categories": "construction,empire",
-            "tags": "capitale,empire,documentaire",
+            "tags": "capitale,empire",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/01/l-empire-perse",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ZPql6iRjV4c&feature=youtube_gdata",
@@ -93,18 +93,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=OGhSeZnX9m8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/OGhSeZnX9m8/0.jpg"
-        },
-        "youtube.com/2014/11/documentaire-l-empire-des-mongols": {
-            "title": "Documentaire L empire des Mongols...",
-            "snippet": "Documentaire L empire des Mongols Documentaire L empire des Mongols watch, Documentaire L empire des Mongols videos Documentaire ARTE - L'Empire ottoman et l'Occident Ce documentaire explore certaines des cr\u00e9ations les plus... From: Janis Figueroa...",
-            "date": "2014-11-13",
-            "author_name": "Janis Figueroa",
-            "categories": "empire",
-            "tags": "documentaire,empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2014/11/documentaire-l-empire-des-mongols",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=ak0AQAV_WzM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ak0AQAV_WzM/0.jpg"
         },
         "youtube.com/2014/11/39-secrets-d-histoire-la-reine-victoria-ou-l-empire": {
             "title": "(39) Secrets d'Histoire - La reine Victoria ou l'empire des sens...",
@@ -124,11 +112,23 @@
             "date": "2014-10-29",
             "author_name": "romstation",
             "categories": "empire",
-            "tags": "empire",
+            "tags": "empire,gameplay",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/empire-city-1931-gameplay-arcade",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x28w3fb_empire-city-1931-gameplay-arcade_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x28w3fb_empire-city-1931-gameplay-arcade_videogames"
+        },
+        "dailymotion.com/2014/10/star-wars-shadows-of-the-empire-gameplay-n64": {
+            "title": "Star Wars: Shadows of the Empire - Gameplay - n64...",
+            "snippet": "Wars: Shadows of the Empire est un jeu d'action sur Nintendo 64. Le soft est divis\u00e9 en quatre parties diff\u00e9rentes qui retracent toutes des parties des divers films Star Wars. Vous incarnez Dash Rendar et vous devez, en compagnie de Luke...",
+            "date": "2014-10-29",
+            "author_name": "romstation",
+            "categories": "empire",
+            "tags": "films,star,star_wars,wars,empire,gameplay",
+            "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/star-wars-shadows-of-the-empire-gameplay-n64",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28wby8_star-wars-shadows-of-the-empire-gameplay-n64_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28wby8_star-wars-shadows-of-the-empire-gameplay-n64_videogames"
         }
     }
 }
