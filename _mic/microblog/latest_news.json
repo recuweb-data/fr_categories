@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblog",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -18,7 +18,7 @@
             "categories": "internet",
             "tags": "daily,micro,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/ecns.cn/2015/04/pla-navy-launches-official-micro-blog-account-ecns",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
             "source_url": "http://ecns.cn/military/2015/04-24/162954.shtml"
         },
         "french.people.com.cn/2015/04/quand-des-pompiers-du-liaoning-se-font-photographier-fa%C3%A7on-blockbuster-hollywoodien": {
@@ -38,28 +38,8 @@
             "categories": "microblog,facebook",
             "tags": "site,microblog",
             "recuweb_url": "http://fr.recuweb.com/facebook/catracalivre.com.br/2015/04/site-cria-microblog-para-mulheres-confessarem-seus-pecados-catraca-livre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
             "source_url": "http://catracalivre.com.br/geral/dica-digital/indicacao/site-cria-microblog-para-mulheres-confessarem-seus-pecados/"
-        },
-        "numerama.com/2015/04/yahoo-veut-acheter-foursquare": {
-            "title": "Yahoo veut acheter Foursquare...",
-            "snippet": "Des discussions sont actuellement en cours entre le portail web et le service de microblog, selon les informations du site Techcrunch. Le prix d\u00e9finitif pourrait atteindre 900 millions de dollars, ce qui en ferait l'une des plus grosses...",
-            "date": "2015-04-16",
-            "categories": "yahoo,microblog",
-            "tags": "selon,informations,site,yahoo,microblog,millions",
-            "recuweb_url": "http://fr.recuweb.com/microblog/numerama.com/2015/04/yahoo-veut-acheter-foursquare",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
-            "source_url": "http://numerama.com/magazine/32813-yahoo-veut-acheter-foursquare.html"
-        },
-        "information.tv5monde.com/2015/04/cybersexisme-violences-virtuelles-mais-bien-r%C3%A9elles-tv5monde-actualit%C3%A9s": {
-            "title": "Cybersexisme: violences virtuelles mais bien r\u00e9elles - TV5MONDE Actualit\u00e9s...",
-            "snippet": "TV5MONDE Actualit\u00e9sCybersexisme: violences virtuelles mais bien r\u00e9ellesTV5MONDE Actualit\u00e9sL'outil phare de la campagne: un Tumblr, ou microblog, qui prend la forme d'une suite de messages anim\u00e9s, reprenant des extraits de films comiques ou de...",
-            "date": "2015-04-08",
-            "categories": "tumblr,microblog",
-            "tags": "messages,campagne,monde,tumblr,microblog",
-            "recuweb_url": "http://fr.recuweb.com/microblog/information.tv5monde.com/2015/04/cybersexisme-violences-virtuelles-mais-bien-r%C3%A9elles-tv5monde-actualit%C3%A9s",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
-            "source_url": "http://information.tv5monde.com/terriennes/cybersexisme-violences-virtuelles-mais-bien-reelles-26282"
         }
     }
 }
