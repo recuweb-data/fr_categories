@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mouvement-social",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mouvement-social/",
@@ -10,15 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mouvement-social/mouvement-social/blogs.json"
     },
     "items": {
-        "huffingtonpost.fr/2015/04/guerre-du-liban-40-ans-apr%C3%A8s-les-souvenirs-sont-toujours-vivaces": {
-            "title": "Guerre du Liban: 40 ans apr\u00e8s, les souvenirs sont toujours vivaces...",
-            "snippet": "Georges accepte de parler des engagements de sa famille. Tous \u00e9taient membres du Mouvement social libanais. C'est un mouvement pacifiste fond\u00e9 en 1960 par le p\u00e8re Gr\u00e9goire Haddad. Il lutte avec acharnement contre tous les fanatismes, toutes...",
-            "date": "2015-04-20",
-            "tags": "lutte,contre,apr\u00e8s,mouvement,social",
-            "recuweb_url": "http://fr.recuweb.com/huffingtonpost.fr/2015/04/guerre-du-liban-40-ans-apr%C3%A8s-les-souvenirs-sont-toujours-vivaces",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mouvement%2Bsocial&format=RSS&cc=fr",
-            "source_url": "http://huffingtonpost.fr/michel-reeber/guerre-du-liban-40-ans-apres-les-souvenirs-sont-toujours-vivaces_b_7099308.html"
-        },
         "lemonde.fr/2015/04/nous-laur%C3%A9ats-du-prix-livre-inter-soutenons-le-mouvement-social-monde": {
             "title": "Nous Laur\u00e9ats du prix du livre Inter soutenons le mouvement social... - Le Monde...",
             "snippet": "Le MondeNous Laur\u00e9ats du prix du livre Inter soutenons le mouvement social...Le MondeNous avons voulu r\u00e9unir quelques voix, quelques signatures de ceux qui ont eu la chance de recevoir un jour pour un de leurs livres le prix de la radio France...",
@@ -38,20 +30,11 @@
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=mouvement%2Bsocial",
             "source_url": "http://fr.news.yahoo.com/gr\u00e8ve-contr\u00f4leurs-a\u00e9riens-agace-voyageurs-145926644--finance.html"
         },
-        "lamontagne.fr/2015/04/mouvement-social-tr%C3%A8s-suivi-dans-les-%C3%A9coles-la-montagne": {
-            "title": "Mouvement social tr\u00e8s suivi dans les \u00e9coles - La Montagne...",
-            "snippet": "Mouvement social tr\u00e8s suivi dans les \u00e9colesLa MontagneEn pr\u00e9vision de la gr\u00e8ve des services publics de demain, la mairie a communiqu\u00e9 la liste des perturbations qui toucheront les \u00e9coles de Tulle. L'\u00e9cole Baticoop, l'\u00e9cole de la Croix-de-Bar...",
-            "date": "2015-04-08",
-            "tags": "mairie,services,services-publics,publics,mouvement,social,gr\u00e8ve",
-            "recuweb_url": "http://fr.recuweb.com/lamontagne.fr/2015/04/mouvement-social-tr%C3%A8s-suivi-dans-les-%C3%A9coles-la-montagne",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mouvement%2Bsocial&output=atom&nord=1",
-            "source_url": "http://lamontagne.fr/limousin/actualite/departement/correze/tulle/2015/04/08/mouvement-social-tres-suivi-dans-les-ecoles_11395624.html"
-        },
         "fr.news.yahoo.com/2015/03/reine-d-angleterre-le-chteau-de-windsor-menac%C3%A9-par-un-mouvement": {
             "title": "Reine d'Angleterre - Le chteau de Windsor menac\u00e9 par un mouvement social...",
             "snippet": "Le personnel du chteau de Windsor, propri\u00e9t\u00e9 de la reine Elizabeth II, menace de mener sa premi\u00e8re action sociale, faute d'augmentation de salaire. Le syndicat des services publics et commerciaux PCS, qui dit repr\u00e9senter 120 des 200 salari\u00e9s du...",
             "date": "2015-03-31",
-            "tags": "services,services-publics,publics,action,mouvement,social,sociale",
+            "tags": "action,mouvement,social,sociale",
             "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/03/reine-d-angleterre-le-chteau-de-windsor-menac%C3%A9-par-un-mouvement",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=mouvement%2Bsocial",
             "source_url": "http://fr.news.yahoo.com/reine-dangleterre-ch\u00e2teau-windsor-menac\u00e9-mouvement-social-210000572.html"
