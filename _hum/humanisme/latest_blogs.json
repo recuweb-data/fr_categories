@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "humanisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/humanisme/",
@@ -10,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/humanisme/humanisme/blogs.json"
     },
     "items": {
+        "terre-humanisme.org/2015/04/rencontre-au-mali-avec-nos-partenaires-de-l-afrique-ouest": {
+            "title": "Rencontre au Mali avec nos partenaires de l'Afrique de l'Ouest...",
+            "snippet": "Du 30 mars au 3 avril s'est tenue au Mali, une rencontre/atelier r\u00e9unissant les associations partenaires de Terre & Humanisme. Retour sur ce moment de r\u00e9flexion et de partage. SI-RencontrespartenaireAOMali. C'est au...",
+            "date": "2015-04-13",
+            "author_name": "Caroline Point",
+            "categories": "humanisme",
+            "tags": "avril,terre,humanisme",
+            "recuweb_url": "http://fr.recuweb.com/humanisme/terre-humanisme.org/2015/04/rencontre-au-mali-avec-nos-partenaires-de-l-afrique-ouest",
+            "resource_url": "http://www.google.com/search?q=humanisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://terre-humanisme.org/rencontre-au-mali-avec-nos-partenaires-de-lafrique-de-louest"
+        },
         "bnf.fr/2015/04/bnf-traduire-en-langue-fran%C3%A7oyse-humanisme-et-traduction": {
             "title": "BnF - Traduire en langue fran\u00e7oyse: humanisme et traduction...",
             "snippet": "Traduire en langue fran\u00e7oyse: humanisme et traduction au XVIe si\u00e8cle - Bibliographie. Fran\u00e7ois Ier \u00e9coutant Antoine Macault lire sa traduction de l'histoire de Diodore de Sicile. Fran\u00e7ois Ier \u00e9coutant Antoine Macault lire...",
@@ -43,24 +55,13 @@
             "resource_url": "http://www.google.com/search?q=humanisme%2Bhumanisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://philomag.com/blogs/micro-sagesses/lhumanisme-non-religieux-existe-t-il"
         },
-        "terre-humanisme.org/2015/02/dossier-sp%C3%A9cial-permaculture-actualit%C3%A9-de-l-agro%C3%A9cologie": {
-            "title": "Dossier sp\u00e9cial permaculture, actualit\u00e9 de l'agro\u00e9cologie Le...",
-            "snippet": "Notre journal d'information \u00e9volue dans sa forme et dans son contenu. Avec 1300 abonn\u00e9s, le journal d'information de Terre & Humanisme tient la barre. A l'image de l'\u00e9tat de la presse nationale, son avenir n'\u00e9tait pas assur\u00e9...",
-            "date": "2015-02-18",
-            "author_name": "Caroline Point",
-            "categories": "humanisme",
-            "tags": "agro\u00e9cologie,terre,humanisme",
-            "recuweb_url": "http://fr.recuweb.com/humanisme/terre-humanisme.org/2015/02/dossier-sp%C3%A9cial-permaculture-actualit%C3%A9-de-l-agro%C3%A9cologie",
-            "resource_url": "http://www.google.com/search?q=humanisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://terre-humanisme.org/dossier-special-permaculture"
-        },
         "habitat-humanisme.org/2015/02/habitat-et-humanisme-rh%C3%B4ne-lance-une-campagne-participative": {
             "title": "Habitat et Humanisme Rh\u00f4ne lance une campagne participative sur...",
             "snippet": "Habitat et Humanisme Rh\u00f4ne s'engage une nouvelle fois dans une dynamique d'innovation sociale sur deux aspects: - son nouveau projet d'habitat modulable, PASSERELLE, qui ouvrira ses portes d\u00e9but avril 2015...",
             "date": "2015-02-11",
             "author_name": "Marion",
             "categories": "humanisme",
-            "tags": "avril,projet,humanisme,rh\u00f4ne,habitat",
+            "tags": "projet,humanisme,rh\u00f4ne,habitat,avril",
             "recuweb_url": "http://fr.recuweb.com/humanisme/habitat-humanisme.org/2015/02/habitat-et-humanisme-rh%C3%B4ne-lance-une-campagne-participative",
             "resource_url": "http://www.google.com/search?q=humanisme%2Bhumanisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://habitat-humanisme.org/rh\u00f4ne/actualites/habitat-et-humanisme-rh\u00f4ne-lance-une-campagne-participative-sur-la-plateforme-kissk"
