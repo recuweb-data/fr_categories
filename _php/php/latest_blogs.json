@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "php",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -16,7 +17,7 @@
             "date": "2015-04-23",
             "author_name": "michaelpage",
             "categories": "php,emploi,mysql,css,javascript,jquery",
-            "tags": "bonnes,exp\u00e9rience,d\u00e9veloppement,d\u00e9veloppeur,php,mysql,html,css,javascript,jquery",
+            "tags": "bonnes,d\u00e9veloppement,d\u00e9veloppeur,d\u00e9veloppeur_php,php,exp\u00e9rience,mysql,html,css,javascript,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.frenchweb.fr/2015/04/d%C3%A9veloppeur-php-h-f-emploi-frenchweb",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.frenchweb.fr/offre-emploi/developpeur-php-hf-30/"
@@ -27,7 +28,7 @@
             "date": "2015-04-20",
             "author_name": "nahkira",
             "categories": "navigation,php,javascript",
-            "tags": "\u00e9galement,petit,code,php,javascript",
+            "tags": "menu,navigation,php,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/forum.alsacreations.com/2015/04/aide-sur-petit-menu-en-php-alsacreations",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.alsacreations.com/topic-2-75508-1-Aidesurpetitmenuenphp.html"
@@ -38,10 +39,21 @@
             "date": "2015-04-17",
             "author_name": "Remi",
             "categories": "php",
-            "tags": "enterprise,enterprise_linux,linux,remi,version,disponibles,d\u00e9p\u00f4t,d\u00e9p\u00f4t-remi,php,rpm,fedora,rhel,centos",
+            "tags": "enterprise,enterprise_linux,linux,remi,version,disponibles,php,rpm,fedora,rhel,centos",
             "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/04/php-version-et-les-rpm-de-remi-blog",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.famillecollet.com/post/2015/04/17/PHP-version-5.4.40-5.5.24-et-5.6.8"
+        },
+        "keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala-itfs-php-programmer": {
+            "title": "Placement News, ipsr Kottayam, Kerala, ITFS PHP, PHP Programmer...",
+            "snippet": "Interview questions in Linux Interview questions in Java Interview questions Asp.Net Practice online aptitude and technical tests...",
+            "date": "2015-04-14",
+            "author_name": "IPSR News",
+            "categories": "java,php",
+            "tags": "net,java,linux,php",
+            "recuweb_url": "http://fr.recuweb.com/php/keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala-itfs-php-programmer",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
+            "source_url": "http://keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala_14.html"
         },
         "copier-coller.com/2015/04/un-crud-avec-espace-de-connexion-en-php-copier-coller": {
             "title": "Un crud avec espace de connexion en php - Copier coller...",
@@ -49,54 +61,21 @@
             "date": "2015-04-12",
             "author_name": "yuyazz",
             "categories": "php",
-            "tags": "am\u00e9liorer,php,tuto",
+            "tags": "lui,connexion,php,tuto",
             "recuweb_url": "http://fr.recuweb.com/php/copier-coller.com/2015/04/un-crud-avec-espace-de-connexion-en-php-copier-coller",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://copier-coller.com/dev/php/un-crud-avec-espace-de-connexion-en-php/"
         },
-        "keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala-itfs-php-programmer": {
-            "title": "Placement News, ipsr Kottayam, Kerala, ITFS PHP, PHP Programmer...",
-            "snippet": "Interview questions in Linux Interview questions in Java Interview questions Asp.Net Practice online aptitude and technical tests...",
-            "date": "2015-04-11",
-            "author_name": "IPSR News",
-            "categories": "java,php",
-            "tags": "net,java,linux,php",
-            "recuweb_url": "http://fr.recuweb.com/php/keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala-itfs-php-programmer",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
-            "source_url": "http://keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala_11.html"
-        },
-        "toolinux.com/2015/03/le-programme-officiel-du-php-tour-luxembourg-2015-toolinux": {
-            "title": "Le programme officiel du PHP Tour Luxembourg 2015 - Toolinux...",
-            "snippet": "TOOLinux est partenaire du PHP Tour Luxembourg 2015, qui d\u00e9voile aujourd'hui son programme. Le voici! Luxembourg-Ville va accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP, les 12 et 13 mai,...",
-            "date": "2015-03-31",
-            "author_name": "Toolinux",
-            "categories": "php",
-            "tags": "hui,d\u00e9voile,aujourd,php,php_tour,php_tour_luxembourg,tour,tour_luxembourg,luxembourg,programme,ville,accueillir,\u00e9tape,annuelle,cycle,conf\u00e9rences,itin\u00e9rant,afup,mai",
-            "recuweb_url": "http://fr.recuweb.com/php/toolinux.com/2015/03/le-programme-officiel-du-php-tour-luxembourg-2015-toolinux",
-            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://toolinux.com/Le-programme-officiel-du-PHP-Tour"
-        },
-        "espresso-jobs.com/2015/03/d%C3%A9veloppeur-interm%C3%A9diaire-php-javascript-espresso-jobs": {
-            "title": "D\u00e9veloppeur interm\u00e9diaire (PHP, JavaScript) - Espresso Jobs...",
-            "snippet": "D\u00e9veloppeur interm\u00e9diaire (PHP, JavaScript) Postuler Favoris. logo-numedia. Entreprise N\u00fcmedia Canada Type Temps plein Ville Montr\u00e9al Status Poste disponible Exp\u00e9rience de travail Interm\u00e9diaire Date de publication 30...",
-            "date": "2015-03-30",
-            "author_name": "N\u00fcmedia Canada",
-            "categories": "php,javascript",
-            "tags": "ville,d\u00e9veloppeur,php,javascript,exp\u00e9rience",
-            "recuweb_url": "http://fr.recuweb.com/javascript/espresso-jobs.com/2015/03/d%C3%A9veloppeur-interm%C3%A9diaire-php-javascript-espresso-jobs",
-            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://espresso-jobs.com/emplois/nmedia-canada-developpeur-intermediaire-php-javascript/"
-        },
-        "blog.famillecollet.com/2015/03/php-7-0-en-software-collection-les-rpm-de-remi-blog": {
-            "title": "PHP 7.0 en Software Collection - Les RPM de Remi - Blog...",
-            "snippet": "Les RPM de la prochaine version majeure de PHP 7.0, sont disponibles dans le d\u00e9p\u00f4t remi-test pour Fedora 20, 21, 22 et Enterprise Linux 6, 7 (RHEL, CentOS,...) dans une nouvelle.",
+        "blog.famillecollet.com/2015/03/php-7-0-as-software-collection-les-rpm-de-remi-blog": {
+            "title": "PHP 7.0 as Software Collection - Les RPM de Remi - Blog...",
+            "snippet": "RPM of upcoming major version of PHP 7.0, are available in remi repository for Fedora 20, 21, 22 and Enterprise Linux 6, 7 (RHEL, CentOS,...) in a fresh new Software Collection.",
             "date": "2015-03-25",
             "author_name": "Remi",
             "categories": "collection,php",
-            "tags": "enterprise,enterprise_linux,linux,disponibles,d\u00e9p\u00f4t,d\u00e9p\u00f4t-remi,remi,version,php,rpm,fedora,rhel,centos",
-            "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/03/php-7-0-en-software-collection-les-rpm-de-remi-blog",
+            "tags": "enterprise,enterprise_linux,linux,are,are-available,available,available-in-remi,remi,remi-repository,repository,version,php,rpm,fedora,rhel,centos",
+            "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/03/php-7-0-as-software-collection-les-rpm-de-remi-blog",
             "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.famillecollet.com/post/2015/03/25/PHP-7.0-en-Software-Collection"
+            "source_url": "http://blog.famillecollet.com/post/2015/03/25/PHP-7.0-as-Software-Collection"
         },
         "blog.famillecollet.com/2015/03/php-version-and-les-rpm-de-remi-blog": {
             "title": "PHP version, and - Les RPM de Remi - Blog...",
@@ -104,7 +83,7 @@
             "date": "2015-03-20",
             "author_name": "Remi",
             "categories": "php",
-            "tags": "enterprise,enterprise_linux,linux,remi,version,php,rpm,fedora,rhel,centos",
+            "tags": "enterprise,enterprise_linux,linux,repository,remi,version,are,are-available,available,available-in-remi,remi-repository,php,rpm,fedora,rhel,centos",
             "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/03/php-version-and-les-rpm-de-remi-blog",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.famillecollet.com/post/2015/03/20/PHP-version-5.4.39-5.5.23-and-5.6.7"
@@ -115,10 +94,32 @@
             "date": "2015-03-17",
             "author_name": "LayWriter",
             "categories": "php",
-            "tags": "bonnes,php",
+            "tags": "bonnes,m\u00eame,php",
             "recuweb_url": "http://fr.recuweb.com/php/haikajy.wordpress.com/2015/03/php-est-bien-meilleur-que-ce-vous-pensez",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
             "source_url": "http://haikajy.wordpress.com/2015/03/17/php-est-bien-meilleur-que-ce-que-vous-pensez/"
+        },
+        "nanabozo74.wordpress.com/2015/02/nginx-augmenter-le-temps-d-ex%C3%A9cution-des-scripts-php": {
+            "title": "Nginx: augmenter le temps d'ex\u00e9cution des scripts PHP...",
+            "snippet": "Il peut \u00eatre n\u00e9cessaire dans certain cas de d'augmenter le temps d'ex\u00e9cution des scripts PHP qui sont par d\u00e9faut r\u00e9gler sur un timeout de 30 sec. Pour changer ce []...",
+            "date": "2015-02-23",
+            "author_name": "nanabozo74",
+            "categories": "php",
+            "tags": "nginx,php",
+            "recuweb_url": "http://fr.recuweb.com/php/nanabozo74.wordpress.com/2015/02/nginx-augmenter-le-temps-d-ex%C3%A9cution-des-scripts-php",
+            "resource_url": "http://fr.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
+            "source_url": "http://nanabozo74.wordpress.com/2015/02/23/nginx-augmenter-le-temps-dexecution-des-scripts-php/"
+        },
+        "commvo.wordpress.com/2015/01/php-sance3-les-variables-en-part-1": {
+            "title": "PHP (Sance3: Les variables en PHP: part 1...",
+            "snippet": "Dans ce tutoriel, vous apprendrez comment dclarer les variables en PHP PHP (Sance3: Les variables en PHP: part 1...",
+            "date": "2015-01-14",
+            "author_name": "commvo",
+            "categories": "php",
+            "tags": "php,tutoriel",
+            "recuweb_url": "http://fr.recuweb.com/php/commvo.wordpress.com/2015/01/php-sance3-les-variables-en-part-1",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
+            "source_url": "http://commvo.wordpress.com/2015/01/14/php-sance3-les-variables-en-php-part-1/"
         }
     }
 }
