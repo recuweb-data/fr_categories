@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "socialisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/socialisme/",
@@ -10,27 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/socialisme/socialisme/blogs.json"
     },
     "items": {
-        "slate.fr/2015/04/23-25-avril-1905-les-socialistes-fran%C3%A7ais-s-unissent": {
-            "title": "23-25 avril 1905: les socialistes fran\u00e7ais s'unissent...",
-            "snippet": "L'ann\u00e9e 1905 repr\u00e9sente une date mythique de l'histoire du socialisme fran\u00e7ais, celle de l'unit\u00e9 politique enfin r\u00e9alis\u00e9e, gage de succ\u00e8s futurs, voire de l'av\u00e8nement proche d'une soci\u00e9t\u00e9 socialiste, pouvait-on alors penser.",
-            "date": "2015-04-22",
-            "author_name": "Gilles Candar",
-            "categories": "politique,socialisme",
-            "tags": "socia,politique,enfin,fran\u00e7ais,histoire,socialisme",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/slate.fr/2015/04/23-25-avril-1905-les-socialistes-fran%C3%A7ais-s-unissent",
-            "resource_url": "http://www.google.com/search?q=socialisme%2Bsocialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/100633/1905-unite-socialistes"
-        },
         "slate.fr/2015/04/le-parti-socialiste-existe-toujours-sur-papier": {
             "title": "Le Parti socialiste existe toujours... sur le papier...",
             "snippet": "Cette litt\u00e9rature rose nous chante, sur tous les tons, les m\u00e9rites de l'\u00e9co-socialisme, nous fait miroiter d'all\u00e9chantes avanc\u00e9es sociales et nous proph\u00e9tise des socialistes enfin r\u00e9concili\u00e9s avec les classes populaires.",
             "date": "2015-04-17",
             "author_name": "Eric Dupin",
             "categories": "litterature,socialisme",
-            "tags": "enfin,classes,socia,parti,socialisme",
+            "tags": "enfin,parti,socia,socialisme",
             "recuweb_url": "http://fr.recuweb.com/socialisme/slate.fr/2015/04/le-parti-socialiste-existe-toujours-sur-papier",
             "resource_url": "http://www.google.com/search?q=socialisme%2Bsocialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100453/ps-congres-motions"
+        },
+        "leral.net/2015/04/sortie-fracassante-de-la-jeunesse-pour-d%C3%A9mocratie": {
+            "title": "Sortie fracassante de la \"Jeunesse pour la d\u00e9mocratie et le...",
+            "snippet": "La \"Jeunesse pour la d\u00e9mocratie et le socialisme\" a fait r\u00e9cemment une sortie pour tirer sur Macky Sall et son r\u00e9gime. Les jeunes dont la structure est affili\u00e9e au Parti socialiste se sont exprim\u00e9...",
+            "date": "2015-04-15",
+            "author_name": "Plus d'informations demain sur leral (la r\u00e9daction)",
+            "categories": "socialisme",
+            "tags": "jeunes,structure,affili\u00e9e,jeunesse,d\u00e9mocratie,socialisme,sortie,parti,socia",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/leral.net/2015/04/sortie-fracassante-de-la-jeunesse-pour-d%C3%A9mocratie",
+            "resource_url": "http://www.google.com/search?q=socialisme%2Bsocialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://leral.net/Sortie-fracassante-de-la-Jeunesse-pour-la-democratie-et-le-socialisme-Marieme-Badiane-egratigne-le-Parti-socialiste_a142038.html"
         },
         "dakaractu.com/2015/04/jeunesse-pour-la-d%C3%A9mocratie-et-le-socialisme-dakaractu": {
             "title": "JEUNESSE POUR LA D\u00c9MOCRATIE ET LE SOCIALISME - Dakaractu...",
@@ -38,7 +39,7 @@
             "date": "2015-04-12",
             "author_name": "Dakar actu",
             "categories": "politique,socialisme",
-            "tags": "parti,socia,politique,d\u00e9mocratie,socialisme",
+            "tags": "parti,socia,structure,politique,affili\u00e9e,jeunesse,d\u00e9mocratie,socialisme",
             "recuweb_url": "http://fr.recuweb.com/socialisme/dakaractu.com/2015/04/jeunesse-pour-la-d%C3%A9mocratie-et-le-socialisme-dakaractu",
             "resource_url": "http://www.google.com/search?q=socialisme%2Bsocialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://dakaractu.com/JEUNESSE-POUR-LA-DEMOCRATIE-ET-LE-SOCIALISME-Le-Parti-Socialiste-aura-plus-qu-un-candidat-a-la-prochaine-election_a87920.html"
@@ -49,10 +50,21 @@
             "date": "2015-04-12",
             "author_name": "do",
             "categories": "socialisme",
-            "tags": "deux,socialisme,comme",
+            "tags": "comme,socialisme",
             "recuweb_url": "http://fr.recuweb.com/socialisme/mai68.org/2015/04/la-circulation-altern%C3%A9e-d%C3%A9nonce-le-socialisme-moderne-vive",
             "resource_url": "http://www.google.com/search?q=socialisme%2Bsocialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://mai68.org/spip/spip.php?article8714"
+        },
+        "lalettredejaures.over-blog.com/2015/04/dans-socialisme-il-y-a-social-la-lettre-de-jaur%C3%A8s": {
+            "title": "Dans socialisme, il y a social - La Lettre de Jaur\u00e8s...",
+            "snippet": "Dans socialiste, il y a social: une \u00e9vidence? Certainement pas pour tous les \u00e9lecteurs de gauche qui nous reprochent de l'avoir oubli\u00e9. Le PS est devenu paresseux et ne formule plus d'ambition pour notre mod\u00e8le...",
+            "date": "2015-04-03",
+            "author_name": "jean luc",
+            "categories": "formule,socialisme",
+            "tags": "avoir,socialisme,socia",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/lalettredejaures.over-blog.com/2015/04/dans-socialisme-il-y-a-social-la-lettre-de-jaur%C3%A8s",
+            "resource_url": "http://www.google.com/search?q=socialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lalettredejaures.over-blog.com/2015/04/dans-socialisme-il-y-a-social.html"
         },
         "la-chronique-agora.com/2015/03/du-n%C3%A9olib%C3%A9ralisme-au-national-socialisme-la-chronique-agora": {
             "title": "Du n\u00e9olib\u00e9ralisme au national-socialisme La Chronique Agora...",
@@ -60,43 +72,10 @@
             "date": "2015-03-26",
             "author_name": "Simone Wapler",
             "categories": "mondialisation,socialisme",
-            "tags": "national,socialisme,nouveau,mars",
+            "tags": "national,socialisme,nouveau",
             "recuweb_url": "http://fr.recuweb.com/socialisme/la-chronique-agora.com/2015/03/du-n%C3%A9olib%C3%A9ralisme-au-national-socialisme-la-chronique-agora",
             "resource_url": "http://www.google.com/search?q=socialisme%2Bsocialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://la-chronique-agora.com/neoliberalisme-national-socialisme/"
-        },
-        "infosen.net/2015/03/conf%C3%A9d%C3%A9ration-pour-la-d%C3%A9mocratie-et-le-socialisme-cds-appel": {
-            "title": "Conf\u00e9d\u00e9ration pour la d\u00e9mocratie et le socialisme (Cds): Appel au...",
-            "snippet": "Conf\u00e9d\u00e9ration pour la d\u00e9mocratie et le socialisme (Cds): Appel au Peuple et aux citoyens s\u00e9n\u00e9galais. fil actu. 21 mars 2015. 0 3. A la veille du 23 mars prochain, jour de verdict et de v\u00e9rit\u00e9 pour Karim Wade et compagnie, nul ne peut plus...",
-            "date": "2015-03-21",
-            "author_name": "ibooster",
-            "categories": "socialisme",
-            "tags": "compagnie,mars,d\u00e9mocratie,socialisme",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/infosen.net/2015/03/conf%C3%A9d%C3%A9ration-pour-la-d%C3%A9mocratie-et-le-socialisme-cds-appel",
-            "resource_url": "http://www.google.com/search?q=socialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://infosen.net/?p=174284"
-        },
-        "canempechepasnicolas.over-blog.com/2015/03/alain-minc-fran%C3%A7ois-hollande-en-bonne-voie-de-nous-d%C3%A9barasser": {
-            "title": "Alain Minc: \" Fran\u00e7ois Hollande en bonne voie de nous d\u00e9barasser...",
-            "snippet": "Alain Minc: \" Fran\u00e7ois Hollande en bonne voie de nous d\u00e9barasser du socialisme\". Eminence grise de plusieurs patrons du CAC 40 dit tout le bien qu'il pense de Fran\u00e7ois Hollande. Dans. l'hebdomadaire de la droite...",
-            "date": "2015-03-12",
-            "author_name": "Politique fran\u00e7aise",
-            "categories": "socialisme",
-            "tags": "plusieurs,socialisme,alain",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/canempechepasnicolas.over-blog.com/2015/03/alain-minc-fran%C3%A7ois-hollande-en-bonne-voie-de-nous-d%C3%A9barasser",
-            "resource_url": "http://www.google.com/search?q=socialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://canempechepasnicolas.over-blog.com/2015/03/alain-minc-francois-hollande-en-bonne-voie-de-nous-debarasser-du-socialisme.html"
-        },
-        "atlantico.fr/2015/02/le-riz-et-socialisme-sont-de-l-engrais-faisons-notre-patrie": {
-            "title": "\"Le riz et le socialisme sont de l'engrais\", \"Faisons de notre patrie un...",
-            "snippet": "\"Le riz et le socialisme sont de l'engrais\"; \"Faisons de notre patrie un pays de champignons\"; \"Si l'ennemi ose envahir notre pays, an\u00e9antissez chacun de ses hommes jusqu'au dernier, de sorte qu'aucun d'entre eux ne...",
-            "date": "2015-02-28",
-            "author_name": "Agnes Chareton",
-            "categories": "socialisme",
-            "tags": "socialisme",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/atlantico.fr/2015/02/le-riz-et-socialisme-sont-de-l-engrais-faisons-notre-patrie",
-            "resource_url": "http://www.google.com/search?q=socialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://atlantico.fr/decryptage/riz-et-socialisme-sont-engrais-faisons-notre-patrie-pays-champignons-bienvenue-dans-univers-surrealiste-propagande-made-coree-2014055.html"
         },
         "america-latina.blog.lemonde.fr/2015/02/cuba-fait-partie-de-l-%C3%A9chec-du-socialisme-r%C3%A9el-affirme-pablo": {
             "title": "Cuba fait partie de l'\u00e9chec du socialisme r\u00e9el, affirme Pablo...",
@@ -104,21 +83,43 @@
             "date": "2015-02-19",
             "author_name": "america-latina",
             "categories": "socialisme",
-            "tags": "\u00e9chec,socialisme,marx",
+            "tags": "socialisme,marx",
             "recuweb_url": "http://fr.recuweb.com/socialisme/america-latina.blog.lemonde.fr/2015/02/cuba-fait-partie-de-l-%C3%A9chec-du-socialisme-r%C3%A9el-affirme-pablo",
             "resource_url": "http://www.google.com/search?q=socialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://america-latina.blog.lemonde.fr/2015/02/19/cuba-fait-partie-de-lechec-du-socialisme-reel-affirme-pablo-milanes-star-de-la-chanson/"
         },
-        "critique-sociale.info/2015/02/rosa-luxemburg-le-socialisme-ne-viendra-pas-d-un-gouvernement": {
-            "title": "Rosa Luxemburg: le socialisme ne viendra pas d'un gouvernement...",
-            "snippet": "Le socialisme est devenu une n\u00e9cessit\u00e9, non seulement parce que le prol\u00e9tariat ne veut plus vivre dans les conditions mat\u00e9rielles que lui r\u00e9servent les classes capitalistes, mais aussi parce que nous sommes tous menac\u00e9s...",
-            "date": "2015-02-06",
-            "author_name": "crisoc",
+        "distkearegpowalgonestficmo.wordpress.com/2014/04/djvu-la-republique-democratique-allemande-vitrine-du-socialisme-et-l-envers": {
+            "title": "djvu La Republique Democratique Allemande: La Vitrine Du Socialisme Et L'Envers Du Miroir...",
+            "snippet": "La Republique Democratique Allemande: La Vitrine Du Socialisme Et L'Envers Du Miroir (1949-1989-2009) La Republique Democratique Allemande: La Vitrine Du Socialisme Et L'Envers Du Miroir (1949-1989-2009) by Chantal Metzger====Download...",
+            "date": "2014-04-13",
+            "author_name": "distkearegpowalgonestficmo",
             "categories": "socialisme",
-            "tags": "non,classes,gouvernement,socialisme",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/critique-sociale.info/2015/02/rosa-luxemburg-le-socialisme-ne-viendra-pas-d-un-gouvernement",
-            "resource_url": "http://www.google.com/search?q=socialisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://critique-sociale.info/1017/rosa-luxemburg-le-socialisme-ne-viendra-pas-dun-gouvernement/"
+            "tags": "socialisme",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/distkearegpowalgonestficmo.wordpress.com/2014/04/djvu-la-republique-democratique-allemande-vitrine-du-socialisme-et-l-envers",
+            "resource_url": "http://fr.search.wordpress.com/?q=socialisme%2Bsocialisme&f=feed&page=1",
+            "source_url": "http://distkearegpowalgonestficmo.wordpress.com/2014/04/13/djvu-la-republique-democratique-allemande-la-vitrine-du-socialisme-et-lenvers-du-miroir-1949-1989-2009/"
+        },
+        "waslujodhrejonmefinwabe.wordpress.com/2014/04/che-guevara-l-economie-et-la-politique-dans-transition-au-socialisme": {
+            "title": "Che Guevara: L Economie Et La Politique Dans La Transition Au Socialisme...",
+            "snippet": "Che Guevara: L Economie Et La Politique Dans La Transition Au Socialisme Che Guevara: L Economie Et La Politique Dans La Transition Au Socialisme by Carlos Tablada====Click to download:====download []...",
+            "date": "2014-04-02",
+            "author_name": "waslujodhrejonmefinwabe",
+            "categories": "politique,socialisme",
+            "tags": "politique,socialisme",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/waslujodhrejonmefinwabe.wordpress.com/2014/04/che-guevara-l-economie-et-la-politique-dans-transition-au-socialisme",
+            "resource_url": "http://fr.search.wordpress.com/?q=socialisme%2Bsocialisme&f=feed&page=1",
+            "source_url": "http://waslujodhrejonmefinwabe.wordpress.com/2014/04/02/che-guevara-l-economie-et-la-politique-dans-la-transition-au-socialisme/"
+        },
+        "rannemarie.wordpress.com/2014/02/v%C3%A9n%C3%A9zuela-socialisme-et-p%C3%A9nurie": {
+            "title": "V\u00e9n\u00e9zuela: Socialisme et P\u00e9nurie...",
+            "snippet": "par Victor Dedaj On ne peut se lasser de d\u00e9cortiquer le langage des m\u00e9dias. Tenez, lorsquils utilisent le mot P\u00e9nurie. Rappelons aux plus jeunes que...",
+            "date": "2014-02-28",
+            "author_name": "raannemari",
+            "categories": "langage,socialisme",
+            "tags": "jeunes,socialisme",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/rannemarie.wordpress.com/2014/02/v%C3%A9n%C3%A9zuela-socialisme-et-p%C3%A9nurie",
+            "resource_url": "http://fr.search.wordpress.com/?q=socialisme%2Bsocialisme&f=feed&page=1",
+            "source_url": "http://rannemarie.wordpress.com/2014/02/28/venezuela-socialisme-et-penurie/"
         }
     }
 }
