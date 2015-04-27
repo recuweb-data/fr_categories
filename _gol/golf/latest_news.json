@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "golf",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/golf/",
@@ -10,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/golf/golf/blogs.json"
     },
     "items": {
+        "golf.lefigaro.fr/2015/04/les-golfs-des-grands-crus-bordelais": {
+            "title": "Les golfs des grands crus bordelais...",
+            "snippet": "Grand Prix Schweppes PGA France David CHARPENET (Sport24) 23/04/2015 Mots cl\u00e9s: Grand Prix Schweppes PGA France, Mourgue d'Algue, Tom Doak, Gironde, Bordeaux, Golf du M\u00e9doc, Golf des Graves et du Sauternais, Garden Golf de Margaux,...",
+            "date": "2015-04-23",
+            "categories": "golf,sport",
+            "tags": "grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,golf,m\u00e9doc",
+            "recuweb_url": "http://fr.recuweb.com/sport/golf.lefigaro.fr/2015/04/les-golfs-des-grands-crus-bordelais",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=golf&format=RSS&cc=fr",
+            "source_url": "http://golf.lefigaro.fr/parcours-tourisme/destinations-golf/2015/04/23/03003-20150423ARTWWW00003-les-golfs-des-grands-crus-bordelais.php"
+        },
+        "leparisien.fr/2015/04/comment-le-golf-fran%C3%A7ais-se-prend-aux-jeux": {
+            "title": "Comment le golf fran\u00e7ais se prend aux Jeux...",
+            "snippet": "Les JO peuvent \u00eatre un bon tremplin pour faire d\u00e9couvrir le golf, senthousiasme Gary Stal, 23 ans, grand espoir de la discipline. (AP/J. Pat Carter.) POUR L'INSTANT, le parcours olympique de Rio est un peu loin: quatre cent soixante-seize...",
+            "date": "2015-04-22",
+            "categories": "discipline,golf",
+            "tags": "peu,parcours,peuvent,fran\u00e7ais,prend,golf,grand",
+            "recuweb_url": "http://fr.recuweb.com/golf/leparisien.fr/2015/04/comment-le-golf-fran%C3%A7ais-se-prend-aux-jeux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=golf&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/espace-premium/sports/comment-le-golf-francais-se-prend-aux-jeux-23-04-2015-4716507.php"
+        },
+        "lequipe.fr/2015/04/golf-r%C3%A9seaux-sociaux-sept-jours-7-tweets-l-%C3%A9": {
+            "title": "Golf- R\u00e9seaux Sociaux - Sept jours 7 tweets - L'\u00c9...",
+            "snippet": "L'\u00c9 - R\u00e9seaux Sociaux - Sept jours 7 tweetsL'\u00c9 programme cette semaine: un caddie qui prend un peu trop l'air, des retrouvailles en famille, une cheville douloureuse, un joueur philosophe, les crocodiles contre-attaquent, un selfie g\u00e9ant ou...",
+            "date": "2015-04-22",
+            "categories": "golf",
+            "tags": "joueur,prend,peu,semaine,golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/lequipe.fr/2015/04/golf-r%C3%A9seaux-sociaux-sept-jours-7-tweets-l-%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=golf%2Bgolf&output=atom&nord=1",
+            "source_url": "http://lequipe.fr/Golf/Actualites/Sept-jours-7-tweets/553127"
+        },
+        "vannes.maville.com/2015/04/ploemel-le-golf-de-saint-laurent-a-un-club-house": {
+            "title": "Ploemel: Le golf de Saint-Laurent a un club-house tout neuf -...",
+            "snippet": ": Le golf de Saint-Laurent a un club-house tout en 1975, le club house du golf de Saint-Laurent n\u00e9cessitait d'importants travaux de remise aux normes. Un investissement de 2,6 millions d'euros a \u00e9t\u00e9 n\u00e9cessaire. Construits en 1975, le club house...",
+            "date": "2015-04-22",
+            "categories": "golf",
+            "tags": "club,golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/vannes.maville.com/2015/04/ploemel-le-golf-de-saint-laurent-a-un-club-house",
+            "resource_url": "http://news.google.fr/?hl=fr&q=golf&output=atom&nord=1",
+            "source_url": "http://vannes.maville.com/actu/actudet_-ploemel-le-golf-de-saint-laurent-a-un-club-house-tout-neuf_12-2756445_actu.Htm"
+        },
         "msn.com/2015/04/golf-comment-%C3%A9viter-les-coups-catastrophes": {
             "title": "Golf: comment \u00e9viter les coups catastrophes?",
             "snippet": "Conseils et secrets d'un expert pour \u00e9viter les b\u00e9vues qui peuvent ruiner une carte. Et un mental. Fabien Donoyan, responsable de l'enseignement au golf NGF de C\u00e9ly nous livre ses astuces pour en finir avec les coups catastrophes. la socket fait...",
             "date": "2015-04-21",
             "categories": "golf",
-            "tags": "golf,carte",
+            "tags": "peuvent,carte,golf",
             "recuweb_url": "http://fr.recuweb.com/golf/msn.com/2015/04/golf-comment-%C3%A9viter-les-coups-catastrophes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=golf%2Bgolf&format=RSS&cc=fr",
             "source_url": "http://msn.com/fr-ca/sports/golf/golf-comment-\u00e9viter-les-coups-catastrophes/ar-AAbssLP"
-        },
-        "maritima.info/2015/04/istres-bernardini-annonce-un-golf-%C3%A9cologique-de-18-trous": {
-            "title": "Istres. Bernardini annonce un golf \u00e9cologique de 18 trous -...",
-            "snippet": ". Bernardini annonce un golf \u00e9cologique de 18 les recommandations de la F\u00e9d\u00e9ration Fran\u00e7aise de Golf, le projet consiste en la cr\u00e9ation d'un parcours de 18 trous, d'une longueur totale d'environ 7000 m\u00e8tres, d'une zone d'entra\u00eenement, d'un...",
-            "date": "2015-04-21",
-            "categories": "golf",
-            "tags": "parcours,golf",
-            "recuweb_url": "http://fr.recuweb.com/golf/maritima.info/2015/04/istres-bernardini-annonce-un-golf-%C3%A9cologique-de-18-trous",
-            "resource_url": "http://news.google.fr/?hl=fr&q=golf%2Bgolf&output=atom&nord=1",
-            "source_url": "http://maritima.info/depeches/vie-des-communes/istres/35118/istres-bernardini-annonce-un-golf-ecologique-de-18-trous.html"
         },
         "lexpress.fr/2015/04/le-golf-et-monde": {
             "title": "Le Golf et le monde...",
@@ -50,26 +81,6 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=golf&output=atom&nord=1",
             "source_url": "http://golf.lefigaro.fr/actualite/france/2015/04/21/01005-20150421ARTWWW00002-michael-lorenzo-vera-fin-2013-je-ne-savais-plus-jouer-.php"
         },
-        "golf.lefigaro.fr/2015/04/hsbc-family-golf-tour-top-depart-le-30-mai-figaro": {
-            "title": "HSBC Family Golf Tour: top depart le 30 mai - Le Figaro...",
-            "snippet": "Le FigaroHSBC Family Golf Tour: top depart le 30 maiLe FigaroL'\u00e9v\u00e8nement organis\u00e9 par HSBC reprend ses droits le 30 mai prochain, pour sa 8e \u00e9dition. Durant sept \u00e9tapes qui s'\u00e9tendent jusqu'au mois de septembre, des familles, amateurs de golf,...",
-            "date": "2015-04-20",
-            "categories": "golf",
-            "tags": "mois,prochain,\u00e9v\u00e8nement,golf,tour,figaro,durant",
-            "recuweb_url": "http://fr.recuweb.com/golf/golf.lefigaro.fr/2015/04/hsbc-family-golf-tour-top-depart-le-30-mai-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=golf%2Bgolf&output=atom&nord=1",
-            "source_url": "http://golf.lefigaro.fr/actualite/vie-des-clubs/2015/04/20/01006-20150420ARTWWW00003-hsbc-family-golf-tour-top-depart-le-30-mai.php"
-        },
-        "iookaz.com/2015/04/volkswagen-golf-plus-1-6-tdi-105-fap-bluemotion-technology-confortline": {
-            "title": "Volkswagen golf plus 1.6 TDI 105 FAP BLUEMOTION TECHNOLOGY CONFORTLINE...",
-            "snippet": "Volkswagen golf plus 1.6 TDI 105 FAP BLUEMOTION TECHNOLOGY CONFORTLINE, Noir, 5 cv, 5 portes, Premi\u00e8re mise en circulation le 24/06/2011, Garantie 6 mois, Garantie 6 M0IS, 105 ch, Kilom\u00e9trage garanti, Boite manuelle, 5 rapports de boite, Syst\u00e8me...",
-            "date": "2015-04-20",
-            "categories": "golf",
-            "tags": "volkswagen,golf,tdi,mois",
-            "recuweb_url": "http://fr.recuweb.com/golf/iookaz.com/2015/04/volkswagen-golf-plus-1-6-tdi-105-fap-bluemotion-technology-confortline",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=golf&format=RSS&cc=fr",
-            "source_url": "http://iookaz.com/Annonce/Auto/Haut-Rhin/Sainte-Croix-En-Plaine/Volkswagen-golf-plus-1.6-TDI-105-FAP-BLUEMOTION-TECHNOLOGY-CONFORTLINE.html"
-        },
         "golf.lefigaro.fr/2015/04/wgc-match-play-dubuisson-et-levy-a-san-francisco-le-figaro": {
             "title": "WGC-Match Play: Dubuisson et Levy a San Francisco - Le Figaro...",
             "snippet": "Le FigaroWGC-Match Play: Dubuisson et Levy a San FranciscoLe FigaroRespectivement 22e et 60e, Victor Dubuisson et Alexander Levy d\u00e9fendront les couleurs du golf tricolore au sein d'un plateau forc\u00e9ment tr\u00e8s all\u00e9chant o\u00f9 les absents seront,...",
@@ -80,22 +91,12 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=golf&output=atom&nord=1",
             "source_url": "http://golf.lefigaro.fr/actualite/tours-americains/2015/04/20/01008-20150420ARTWWW00002-wgc-match-play-dubuisson-et-levy-a-san-francisco.php"
         },
-        "journallenord.com/2015/04/un-tournoi-de-golf-au-profit-du-centre-pr%C3%A9vention-suicide": {
-            "title": "Un tournoi de golf au profit du Centre de pr\u00e9vention suicide le Faubourg...",
-            "snippet": "FINANCEMENT. Le 18e Omnium de golf du Restaurant Chez Milot, au profit du Centre de pr\u00e9vention suicide (CPS) le Faubourg, se tiendra le 1er juin prochain au Club de golf de Ste-Ad\u00e8le. Danny Berger a accept\u00e9 d'\u00eatre porte-parole de l'Omnium de...",
-            "date": "2015-04-19",
-            "categories": "golf",
-            "tags": "prochain,tournoi,golf,omnium",
-            "recuweb_url": "http://fr.recuweb.com/golf/journallenord.com/2015/04/un-tournoi-de-golf-au-profit-du-centre-pr%C3%A9vention-suicide",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=golf&format=RSS&cc=fr",
-            "source_url": "http://journallenord.com/Actualites/Societe/2015-04-20/article-4117879/Un-tournoi-de-golf-au-profit-du-Centre-de-prevention-suicide-le-Faubourg/1"
-        },
         "vroom.be/2015/04/fiche-technique-volkswagen-golf": {
             "title": "Fiche technique Volkswagen Golf...",
             "snippet": "Golf 4 is een overname wagen, is een 19TDI met nu 247000km. Is technisch en karroserie in goede staat. Prijs is 1700euro Export/handelaars meeneemprijs. Voor inlichtingen MAIL of BEL 0495/607909!!!GEEN SMS AUB!!!",
             "date": "2015-04-17",
             "categories": "golf",
-            "tags": "met,volkswagen,volkswagen_golf,golf,tdi",
+            "tags": "met,golf",
             "recuweb_url": "http://fr.recuweb.com/golf/vroom.be/2015/04/fiche-technique-volkswagen-golf",
             "resource_url": "http://www.bing.com/news/search?first=1&q=golf%2Bgolf&format=RSS&cc=fr",
             "source_url": "http://vroom.be/fr/occasion-auto/volkswagen-golf-diesel-argent-770582"
@@ -105,7 +106,7 @@
             "snippet": "TORONTO, le 14 avril 2015/CNW/- Molson Canadian 67 et Golf Canada ont annonc\u00e9 aujourd'hui le renouvellement de leur partenariat pour les saisons de golf 2015 et 2016. La Molson Canadian 67 sera donc de nouveau la bi\u00e8re officielle de l'Omnium...",
             "date": "2015-04-14",
             "categories": "golf",
-            "tags": "annonc\u00e9,golf,met,avril,omnium",
+            "tags": "annonc\u00e9,golf,met,avril",
             "recuweb_url": "http://fr.recuweb.com/golf/lelezard.com/2015/04/molson-canadian-67-se-met-au-vert-en-tant-que-commanditaire",
             "resource_url": "http://www.bing.com/news/search?first=1&q=golf%2Bgolf&format=RSS&cc=fr",
             "source_url": "http://lelezard.com/communique-6729172.html"
