@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "google",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/google/",
@@ -10,17 +11,53 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile": {
+            "title": "Project Fi: Google devient op\u00e9rateur mobile...",
+            "snippet": "Project Fi: Google devient op\u00e9rateur mobile Plus d'infos sur 01NETTV: Le g\u00e9ant am\u00e9ricain devient op\u00e9rateur virtuel aux Etats-Unis avec Project Fi... sous certaines conditions. From: 01netTV Views: 4556 93 ratings Time: 04:39 More in Science &...",
+            "date": "2015-04-24",
+            "author_name": "01netTV",
+            "categories": "google,science",
+            "tags": "g\u00e9ant,mobile,project,google,nettv,etats,unis",
+            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=google&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=viv1MGtziYU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/viv1MGtziYU/0.jpg"
+        },
+        "dailymotion.com/2015/04/google-lance-sa-premi%C3%A8re-offre-mobile": {
+            "title": "Google lance sa premi\u00e8re offre mobile...",
+            "snippet": "Google veut jouer les trublions sur le march\u00e9 des t\u00e9l\u00e9coms. Aux Etats-Unis, le groupe vient de lancer project Fi, sa propre offre de t\u00e9l\u00e9phonie: BFMBUSINESSTags: id_video:507783 project fi operateur mobile Google bfmbactu offre international...",
+            "date": "2015-04-23",
+            "author_name": "BFMBUSINESS",
+            "categories": "google",
+            "tags": "project,mobile,veut,google,etats,unis",
+            "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/google-lance-sa-premi%C3%A8re-offre-mobile",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/google/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nnxj8_google-lance-sa-premiere-offre-mobile_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nnxj8_google-lance-sa-premiere-offre-mobile_news"
+        },
         "dailymotion.com/2015/04/l-europe-veut-elle-briser-google-beno%C3%AEt-sillard-gilles-babinet-doroth%C3%A9e": {
             "title": "L'Europe veut-elle briser Google?: Beno\u00eet Sillard, Gilles Babinet, Doroth\u00e9e Mani et Pascal...",
             "snippet": "L'offensive antitrust de Bruxelles contre Google a \u00e9t\u00e9 d\u00e9crypt\u00e9e par Beno\u00eet Sillard, pr\u00e9sident de l'Open Internet Project, Gilles Babinet, digital champion pour la France aupr\u00e8s de la Commission europ\u00e9enne, Doroth\u00e9e Mani, directrice...",
             "date": "2015-04-22",
             "author_name": "BFMBUSINESS",
             "categories": "internet,google",
-            "tags": "\u00e9t\u00e9,briser,veut,google,bruxelles",
+            "tags": "project,\u00e9t\u00e9,briser,veut,google,bruxelles",
             "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/l-europe-veut-elle-briser-google-beno%C3%AEt-sillard-gilles-babinet-doroth%C3%A9e",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/google/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nlt3m_l-europe-veut-elle-briser-google-benoit-sillard-gilles-babinet-dorothee-mani-et-pascal-samama-22-04_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nlt3m_l-europe-veut-elle-briser-google-benoit-sillard-gilles-babinet-dorothee-mani-et-pascal-samama-22-04_news"
+        },
+        "youtube.com/2015/04/phone-apps-93-swouitch-google-%C3%A9criture-manuscrite-tuture-ultraflow": {
+            "title": "Phone Apps 93: Swouitch, Google \u00e9criture manuscrite, Tuture, Ultraflow...",
+            "snippet": "Phone Apps 93: Swouitch, Google \u00e9criture manuscrite, Tuture, Ultraflow Plus d'infos sur 01NETTV: Le mercredi, c'est le jour des nouvelles applis sur 01netTV. Voici la s\u00e9lection de Jean-Marie Portal: - Swouitch, \u00e9changez vos objets en... From:...",
+            "date": "2015-04-22",
+            "author_name": "01netTV",
+            "categories": "google",
+            "tags": "google,nettv",
+            "recuweb_url": "http://fr.recuweb.com/google/youtube.com/2015/04/phone-apps-93-swouitch-google-%C3%A9criture-manuscrite-tuture-ultraflow",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=google%2Bgoogle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=CBg5KagyGm4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/CBg5KagyGm4/0.jpg"
         },
         "dailymotion.com/2015/04/watch-google-sniper-2014-new-and-updated-version-2": {
             "title": "Watch Google Sniper 2014 New And Updated Version Google Sniper 2 2014...",
@@ -67,8 +104,8 @@
             "tags": "droit,concurrence,avocat,avocat-associ\u00e9,associ\u00e9,olivier,olivier_fr\u00e9get,fr\u00e9get,benaouda,benaouda_abdedda\u00efm,abdedda\u00efm,andreas,andreas_schwab,schwab,\u00e9t\u00e9,\u00e9t\u00e9-le-th\u00e8me,th\u00e8me,th\u00e8me-abord\u00e9,abord\u00e9,briser,leurope,veut,google,eurod\u00e9put\u00e9,ppe,bruxelles,tasso,panafieu,sp\u00e9cia,isabelle",
             "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/leurope-veut-elle-briser-google-3-4-15-04",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/google/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nea21_l-europe-veut-elle-briser-google-3-4-15-04_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nea21_l-europe-veut-elle-briser-google-3-4-15-04_news"
+            "source_url": "http://dailymotion.com/video/x2neaan_l-europe-veut-elle-briser-google-3-4-15-04_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2neaan_l-europe-veut-elle-briser-google-3-4-15-04_news"
         },
         "dailymotion.com/2015/04/leurope-veut-elle-briser-google-4-15-04": {
             "title": "LEurope veut-elle briser Google? (4/4) - 15/04...",
@@ -84,51 +121,15 @@
         },
         "youtube.com/2015/04/google-story-l-histoire-d-un-g%C3%A9ant-du-web": {
             "title": "GOOGLE STORY: l'histoire d'un g\u00e9ant du web...",
-            "snippet": "GOOGLE STORY: l'histoire d'un g\u00e9ant du web Partagez nos vid\u00e9os et rejoignez nous sur: Notre site: Facebook: On se retrouve aujourd'hui avec Zenix qui... From: WizGamerz Views: 58388 2953 ratings Time: 04:12 More in Gaming...",
+            "snippet": "GOOGLE STORY: l'histoire d'un g\u00e9ant du web Partagez nos vid\u00e9os et rejoignez nous sur: Notre site: Facebook: On se retrouve aujourd'hui avec Zenix qui... From: WizGamerz Views: 61436 3035 ratings Time: 04:12 More in Gaming...",
             "date": "2015-04-20",
             "author_name": "WizGamerz",
             "categories": "google,facebook",
-            "tags": "hui,aujourd,g\u00e9ant,web,google",
+            "tags": "hui,aujourd,g\u00e9ant,google",
             "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2015/04/google-story-l-histoire-d-un-g%C3%A9ant-du-web",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=google%2Bgoogle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=lllSKaDnoxo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/lllSKaDnoxo/0.jpg"
-        },
-        "dailymotion.com/2015/04/google-veut-optimiser-son-ergonomie-sur-mobile": {
-            "title": "Google veut optimiser son ergonomie sur mobile...",
-            "snippet": "Le g\u00e9ant am\u00e9ricain du web va modifier son moteur de recherche afin que les r\u00e9sultats soient mieux lisibles sur les petits \u00e9crans des smartphones. Avec des cons\u00e9quences potentielles sur le r\u00e9sultat des recherches. Author: BFMBUSINESSTags:...",
-            "date": "2015-04-20",
-            "author_name": "BFMBUSINESS",
-            "categories": "moteur-de-recherche,google",
-            "tags": "g\u00e9ant,web,veut,google",
-            "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/google-veut-optimiser-son-ergonomie-sur-mobile",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/google/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2na385_google-veut-optimiser-son-ergonomie-sur-mobile_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2na385_google-veut-optimiser-son-ergonomie-sur-mobile_news"
-        },
-        "dailymotion.com/2015/04/leurope-veut-elle-briser-google-1-4-15-04": {
-            "title": "LEurope veut-elle briser Google? (1/4) - 15/04...",
-            "snippet": "LEurope veut-elle briser Google? a \u00e9t\u00e9 le th\u00e8me abord\u00e9 par Andreas Schwab, eurod\u00e9put\u00e9 PPE depuis Bruxelles, Benaouda Abdedda\u00efm, Olivier Fr\u00e9get, avocat associ\u00e9 Fr\u00e9get-Tasso de Panafieu, sp\u00e9cialiste du droit de la concurrence, Isabelle...",
-            "date": "2015-04-20",
-            "author_name": "BFMBUSINESS",
-            "categories": "google",
-            "tags": "droit,concurrence,avocat,avocat-associ\u00e9,associ\u00e9,olivier,olivier_fr\u00e9get,fr\u00e9get,benaouda,benaouda_abdedda\u00efm,abdedda\u00efm,andreas,andreas_schwab,schwab,\u00e9t\u00e9,\u00e9t\u00e9-le-th\u00e8me,th\u00e8me,th\u00e8me-abord\u00e9,abord\u00e9,briser,leurope,veut,google,eurod\u00e9put\u00e9,ppe,bruxelles,tasso,panafieu,sp\u00e9cia,isabelle",
-            "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/leurope-veut-elle-briser-google-1-4-15-04",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/google/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n9qzv_l-europe-veut-elle-briser-google-1-4-15-04_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n9qzv_l-europe-veut-elle-briser-google-1-4-15-04_news"
-        },
-        "dailymotion.com/2015/04/leurope-veut-elle-briser-google-2-4-15-04": {
-            "title": "LEurope veut-elle briser Google? (2/4) - 15/04...",
-            "snippet": "LEurope veut-elle briser Google? a \u00e9t\u00e9 le th\u00e8me abord\u00e9 par Andreas Schwab, eurod\u00e9put\u00e9 PPE depuis Bruxelles, Benaouda Abdedda\u00efm, Olivier Fr\u00e9get, avocat associ\u00e9 Fr\u00e9get-Tasso de Panafieu, sp\u00e9cialiste du droit de la concurrence, Isabelle...",
-            "date": "2015-04-20",
-            "author_name": "BFMBUSINESS",
-            "categories": "google",
-            "tags": "droit,concurrence,avocat,avocat-associ\u00e9,associ\u00e9,olivier,olivier_fr\u00e9get,fr\u00e9get,benaouda,benaouda_abdedda\u00efm,abdedda\u00efm,andreas,andreas_schwab,schwab,\u00e9t\u00e9,\u00e9t\u00e9-le-th\u00e8me,th\u00e8me,th\u00e8me-abord\u00e9,abord\u00e9,briser,leurope,veut,google,eurod\u00e9put\u00e9,ppe,bruxelles,tasso,panafieu,sp\u00e9cia,isabelle",
-            "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/leurope-veut-elle-briser-google-2-4-15-04",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/google/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n9rbu_l-europe-veut-elle-briser-google-2-4-15-04_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n9rbu_l-europe-veut-elle-briser-google-2-4-15-04_news"
         }
     }
 }
