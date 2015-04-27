@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "java",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -10,64 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "easyvoyage.com/2015/04/java-new-delhi-ha%C3%AFti-les-d%C3%A9gts-de-l-homme-sur-environnement": {
-            "title": "Java, New Delhi, Ha\u00efti... Les d\u00e9gts de l'homme sur l'environnement...",
-            "snippet": "Ce sont des photos spectaculaires, aux vues a\u00e9riennes et prises aux quatre coins de la plan\u00e8te. Des taudis de Port-au-Prince, en Ha\u00efti, aux mers indon\u00e9siennes pollu\u00e9es, en passant par l'agriculture intensive au Kansas? Le livre...",
-            "date": "2015-04-21",
-            "categories": "java,environnement",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/environnement/easyvoyage.com/2015/04/java-new-delhi-ha%C3%AFti-les-d%C3%A9gts-de-l-homme-sur-environnement",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
-            "source_url": "http://easyvoyage.com/actualite/explosion-demographique-photos-des-consequences-de-la-surpopulation-47469"
-        },
-        "i-programmer.info/2015/04/oracle-ending-java-7-updates-iprogrammer": {
-            "title": "Oracle Ending Java 7 Updates - iProgrammer...",
-            "snippet": "Oracle Ending Java 7 UpdatesiProgrammerCustomers who need continued access to critical bug fixes and security fixes as well as general maintenance for Java SE 7 or older versions can get long-term support through Oracle Java SE Support. The process...",
-            "date": "2015-04-21",
+        "theregister.co.uk/2015/04/ninety-per-cent-of-java-blackhats-migrate-to-footling-flash": {
+            "title": "NINETY PER CENT of Java blackhats migrate to footling Flash - The Register...",
+            "snippet": "The RegisterNINETY PER CENT of Java blackhats migrate to footling FlashThe RegisterRSA 2015 Almost every Java-hacking blackhat is now popping Adobe Flash, after Microsoft's hard-line patch policy made it harder to target techs such as Java. The...",
+            "date": "2015-04-27",
             "categories": "java",
             "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/i-programmer.info/2015/04/oracle-ending-java-7-updates-iprogrammer",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://i-programmer.info/news/80-java/8507-oracle-ending-java-7-updates.html"
+            "recuweb_url": "http://fr.recuweb.com/java/theregister.co.uk/2015/04/ninety-per-cent-of-java-blackhats-migrate-to-footling-flash",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/04/27/ninety_percent_of_java_blackhats_now_finger_flash/"
         },
-        "abcbourse.com/2015/04/probl%C3%A8me-avec-le-plug-in-java-8-update-45": {
-            "title": "Probl\u00e8me avec le plug in Java 8 update 45...",
-            "snippet": "Lorsque je veux afficher un graphique dynamique sur ABC Bourse, le plug in Java ne s'installe pas. Pourtant le plug in Java 8 update 31 marchait bien. Je ne vois pas d'explication sauf Windows qui a des s\u00e9curit\u00e9s trop contraignantes, ainsi que...",
-            "date": "2015-04-21",
+        "emploi.silicon.fr/2015/04/d%C3%A9veloppeur-java-h-f-cdi-paris": {
+            "title": "D\u00e9veloppeur Java H/F - CDI - Paris...",
+            "snippet": "Mangoo games est une start-up \u00e9ditrice de jeux vid\u00e9o sur mobile situ\u00e9e en plein coeur de Paris. Notre \u00e9quipe grandit et nous recherchons un/une d\u00e9veloppeur(se) Javapour nous \u00e9pauler sur diff\u00e9rents projets en lien avec nos jeux sur mobile.",
+            "date": "2015-04-26",
+            "categories": "java",
+            "tags": "java,lien",
+            "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-java-h-f-cdi-paris",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/451405/dveloppeur-java-hf/"
+        },
+        "commentcamarche.net/2015/04/les-interfaces-en-java": {
+            "title": "Les interfaces en java...",
+            "snippet": "Les membres obtiennent plus de r\u00e9ponses que les utilisateurs anonymes. Le fait d'\u00eatre membre vous permet d'avoir un suivi d\u00e9taill\u00e9 de vos demandes. Le fait d'\u00eatre membre vous permet d'avoir des options suppl\u00e9mentaires.",
+            "date": "2015-04-26",
             "categories": "java",
             "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/abcbourse.com/2015/04/probl%C3%A8me-avec-le-plug-in-java-8-update-45",
+            "recuweb_url": "http://fr.recuweb.com/java/commentcamarche.net/2015/04/les-interfaces-en-java",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
-            "source_url": "http://abcbourse.com/forums/msg467369_probleme-avec-le-plug-in-java-8-update-45.aspx"
-        },
-        "news.mongabay.com/2015/04/farmers-fall-short-in-legal-challenge-to-java-cement-plant": {
-            "title": "Farmers fall short in legal challenge to Java cement plant -...",
-            "snippet": "fall short in legal challenge to Java cement grassroots movement to halt construction of a cement factory and mine in Indonesia's Rembang regency suffered a major setback last week when a Central Java court rejected a lawsuit against a permit held...",
-            "date": "2015-04-20",
-            "categories": "construction,java",
-            "tags": "short,java",
-            "recuweb_url": "http://fr.recuweb.com/java/news.mongabay.com/2015/04/farmers-fall-short-in-legal-challenge-to-java-cement-plant",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
-            "source_url": "http://news.mongabay.com/2015/0420-jacobson-rembang-verdict.html"
-        },
-        "artistikrezo.com/2015/04/soir%C3%A9e-polaar-la-java": {
-            "title": "Soir\u00e9e Polaar - La Java...",
-            "snippet": "Pour ce treizi\u00e8me \u00e9pisode, Polaar re\u00e7oit un invit\u00e9 de marque: l'anglais Scratcha DVA! Le style de SCRATCHA DVA (Hyperdub - Londres), producteur phare du l\u00e9gendaire label Hyperdub, se situe quelque part entre grime, dubstep, techno et...",
-            "date": "2015-04-20",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/artistikrezo.com/2015/04/soir%C3%A9e-polaar-la-java",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
-            "source_url": "http://artistikrezo.com/2015042019537/actualites/musique/soiree-polaar-la-java.html"
+            "source_url": "http://commentcamarche.net/forum/affich-31883946-les-interfaces-en-java"
         },
         "streetpress.com/2015/04/jungle-brothers-la-java": {
             "title": "Jungle Brothers La Java -...",
             "snippet": "Brothers La de la fusion rap/jazz, le trio new yorkais (qui compte parmi ses potes de petits groupes sympa comme De La Soul et A Tribe Called Quest, rien que \u00e7a) a marqu\u00e9 l'histoire du hip-hop avec l'album Straight Out Of The Jungle, sorti en...",
             "date": "2015-04-10",
             "categories": "java",
-            "tags": "java",
+            "tags": "java,jazz",
             "recuweb_url": "http://fr.recuweb.com/java/streetpress.com/2015/04/jungle-brothers-la-java",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
             "source_url": "http://streetpress.com/sujet/1428599797-jungle-brothers-la-java"
         },
         "midilibre.fr/2015/03/pujaut-les-rendez-vous-de-java-midi-libre": {
@@ -77,7 +58,7 @@
             "categories": "java",
             "tags": "java",
             "recuweb_url": "http://fr.recuweb.com/java/midilibre.fr/2015/03/pujaut-les-rendez-vous-de-java-midi-libre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
             "source_url": "http://midilibre.fr/2015/03/28/les-rendez-vous-java,1142348.php"
         },
         "fr.news.yahoo.com/2015/02/accident-air-asia-l-indon%C3%A9sie-r%C3%A9cup%C3%A8re-la-derni%C3%A8re-partie-du-fuselage": {
