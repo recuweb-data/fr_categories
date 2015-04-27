@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
-        "25stanley.com/2015/04/le-hockey-des-canadiens-comment%C3%A9-par-un-ha%C3%AFtien-25stanley": {
-            "title": "Le hockey des Canadiens comment\u00e9 par un Ha\u00eftien 25stanley...",
-            "snippet": "Le hockey des Canadiens comment\u00e9 par un Ha\u00eftien. Mardi apr\u00e8s-midi, l'humoriste Kevin Raphael a publi\u00e9 sur Facebook le meilleur vid\u00e9o des Canadiens de la saison. C'est tellement dr\u00f4le. Crime. Qu'est-ce que TVA Sports 3...",
-            "date": "2015-04-21",
-            "author_name": "jtutah",
-            "categories": "sport,hockey,facebook",
-            "tags": "sports,hockey,apr\u00e8s,saison",
-            "recuweb_url": "http://fr.recuweb.com/facebook/25stanley.com/2015/04/le-hockey-des-canadiens-comment%C3%A9-par-un-ha%C3%AFtien-25stanley",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://25stanley.com/le-hockey-des-canadiens-commente-par-un-haitien.html"
-        },
-        "publications.mcgill.ca/2015/04/casques-de-hockey-et-commotions-un-v%C3%A9ritable-casse-t%C3%AAte-mcgill": {
-            "title": "Casques de hockey et commotions: un v\u00e9ritable casse-t\u00eate: McGill...",
-            "snippet": "Selon David Pearsall, qui \u00e9tudie la conception des casques de hockey depuis 20 ans, l'\u00e9tude de Virginia Tech, bien qu'opportune, simplifie peut-\u00eatre un peu trop un probl\u00e8me tr\u00e8s complexe. L'\u00e9quipe de VT utilise une...",
-            "date": "2015-04-15",
-            "author_name": "Neale Mcdevitt",
+        "blogues.lapresse.ca/2015/04/le-blogue-de-hockey-junior-blogues": {
+            "title": "Le blogue de hockey junior - Blogues -...",
+            "snippet": "Voici mes pr\u00e9dictions pour la troisi\u00e8me ronde des s\u00e9ries dans la LHJMQ. Et vous, quelles sont les v\u00f4tres? Rimouski (1) contre Val-d'Or (6) L'Oc\u00e9anic est bien repos\u00e9e, contrairement aux Foreurs qui en ont su\u00e9 un coup pour...",
+            "date": "2015-04-23",
+            "author_name": "Frank_Parenteau",
             "categories": "hockey",
-            "tags": "hockey,\u00e9quipe",
-            "recuweb_url": "http://fr.recuweb.com/hockey/publications.mcgill.ca/2015/04/casques-de-hockey-et-commotions-un-v%C3%A9ritable-casse-t%C3%AAte-mcgill",
+            "tags": "hockey,contre",
+            "recuweb_url": "http://fr.recuweb.com/hockey/blogues.lapresse.ca/2015/04/le-blogue-de-hockey-junior-blogues",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://publications.mcgill.ca/reporter/2015/04/casques-de-hockey-et-commotions-un-veritable-casse-tete/"
+            "source_url": "http://blogues.lapresse.ca/hockey-junior/2015/04/23/demi-finales-lhjmq-les-predictions-de-francois-parenteau/"
+        },
+        "lemedia05.com/2015/04/hockey-nicolas-arrossamena-quitte-les-rapaces-de-gap": {
+            "title": "Hockey: Nicolas Arrossamena quitte les Rapaces de Gap pour...",
+            "snippet": "Les Dragons de Rouen annoncent, ce mardi, l'arriv\u00e9e de deux nouveaux internationaux tricolores, les ailiers Yorick Treille (Grenoble) et Nicolas Arrossamena (Gap). L'information est \u00e9galement confirm\u00e9e par le club de Gap,...",
+            "date": "2015-04-21",
+            "author_name": "Jean-Christophe Sarrazin",
+            "categories": "hockey",
+            "tags": "treille,hockey,rapaces,gap,grenoble,club",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-nicolas-arrossamena-quitte-les-rapaces-de-gap",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lemedia05.com/2015/21697/hockey-nicolas-arrossamena-quitte-les-rapaces-de-gap-pour-rouen/"
+        },
+        "rmcsport.bfmtv.com/2015/04/hockey-sur-glace-grenoble-invit%C3%A9-en-ligue-des-champions": {
+            "title": "Hockey sur glace: Grenoble invit\u00e9 en Ligue des Champions...",
+            "snippet": "Apr\u00e8s ma d\u00e9fection d'une \u00e9quipe, la F\u00e9d\u00e9ration fran\u00e7aise de hockey sur glace et la Champions Hockey League ont invit\u00e9 les Br\u00fbleurs de Loups de Grenoble, qui avaient termin\u00e9 en t\u00eate de la saison r\u00e9guli\u00e8re en Ligue...",
+            "date": "2015-04-20",
+            "author_name": "inconnu",
+            "categories": "hockey",
+            "tags": "avaient,league,invit\u00e9,hockey,glace,grenoble,ligue,champions,apr\u00e8s,\u00e9quipe,saison",
+            "recuweb_url": "http://fr.recuweb.com/hockey/rmcsport.bfmtv.com/2015/04/hockey-sur-glace-grenoble-invit%C3%A9-en-ligue-des-champions",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rmcsport.bfmtv.com/divers/hockey-sur-glace-grenoble-invite-en-ligue-des-champions-879297.html"
         },
         "lemedia05.com/2015/04/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik": {
             "title": "Hockey: Anthony Rech (Dijon) signe aux Rapaces de Gap, Dominik...",
@@ -39,9 +50,9 @@
             "date": "2015-04-14",
             "author_name": "Redaction",
             "categories": "recrutement,hockey",
-            "tags": "champions,ao\u00fbt,vue,prochaine,hockey,dijon,rapaces,gap,saison,ligue,club,france",
+            "tags": "champions,champion,vue,prochaine,hockey,dijon,rapaces,gap,saison,ligue,league,club,france",
             "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemedia05.com/2015/21310/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik-kramar-reconduit/"
         },
         "ici.radio-canada.ca/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada": {
@@ -50,7 +61,7 @@
             "date": "2015-04-10",
             "author_name": "inconnu",
             "categories": "hockey",
-            "tags": "ici,ici-au-pays,pays,chacun,chacun-des-matchs,matchs,\u00e9cran,autant,autant-de-t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs-riv\u00e9s,riv\u00e9s,vit,vit-pas-seulement,seulement,fi\u00e8vre,canada,amateurs,presque,hockey,chine,devant,lors,ligue,nationale",
+            "tags": "ici,ici-au-pays,pays,nationale,chacun,chacun-des-matchs,matchs,\u00e9cran,autant,autant-de-t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs-riv\u00e9s,riv\u00e9s,vit,vit-pas-seulement,seulement,fi\u00e8vre,canada,amateurs,presque,hockey,chine,devant,lors,ligue",
             "recuweb_url": "http://fr.recuweb.com/hockey/ici.radio-canada.ca/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://ici.radio-canada.ca/nouvelles/International/2015/04/12/004-hockey-chine-television-jeux-olympiques.shtml"
@@ -61,7 +72,7 @@
             "date": "2015-04-07",
             "author_name": "Jean-Christophe Sarrazin",
             "categories": "hockey",
-            "tags": "vue,monde,premier,hockey,rapaces,gap,barcelone,\u00e9quipe,nationale",
+            "tags": "nationale,vue,hockey,rapaces,gap,barcelone,\u00e9quipe",
             "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-les-rapaces-de-gap-l%C3%A8vent-un-premier-coin-voile",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemedia05.com/2015/21006/hockey-les-rapaces-de-gap-levent-un-premier-coin-de-voile-sur-la-saison-2015-2016/"
@@ -72,32 +83,21 @@
             "date": "2015-03-25",
             "author_name": "sopdow5570",
             "categories": "sport,hockey",
-            "tags": "grand,sports,bonne,hockey",
+            "tags": "grand,sports,sport,grande,bonne,\u00e9chec,hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/sopdow5570.wordpress.com/2015/03/les-batailles-au-hockey-et-mises-en-%C3%A9chec-sont-elles-vraiment",
             "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
             "source_url": "http://sopdow5570.wordpress.com/2015/03/25/les-batailles-au-hockey-et-les-mises-en-echec-sont-elles-vraiment-une-bonne-idee/"
         },
-        "nhlmaillots4.wordpress.com/2014/08/prix-bas-maillot-chicago-blackhawks": {
-            "title": "Prix bas Maillot Chicago Blackhawks...",
-            "snippet": "Le hockey sur glace est l'un des sports les plus populaires et les plus consult\u00e9s. Savez-vous ce qu'est un amateur de hockey r\u00e9el va faire, ils prendront en []...",
-            "date": "2014-08-12",
-            "author_name": "nhlmaillots4",
-            "categories": "sport,hockey",
-            "tags": "sports,hockey,glace",
-            "recuweb_url": "http://fr.recuweb.com/hockey/nhlmaillots4.wordpress.com/2014/08/prix-bas-maillot-chicago-blackhawks",
-            "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
-            "source_url": "http://nhlmaillots4.wordpress.com/2014/08/12/prix-bas-maillot-chicago-blackhawks/"
-        },
-        "larrobustimavaphenistre.wordpress.com/2014/07/le-d%C3%A9mon-du-hockey": {
-            "title": "Le d\u00e9mon du hockey...",
-            "snippet": "Le d\u00e9mon du hockey Le d\u00e9mon du hockey by Mathieu Lampron, Claude Auchu, Denis Lord, Richard Suicide, Hicham Absa, Luc Boss\u00e9, Zviane, Philippe Girard====Download here:====Le d\u00e9mon du hockey torrent download []...",
-            "date": "2014-07-20",
-            "author_name": "larrobustimavaphenistre",
+        "journaldugeek.com/2015/01/hockey-des-gopro-sur-les-joueurs-de-nhl-le-journal": {
+            "title": "Hockey: Des GoPro sur les joueurs de NHL - Le Journal du Geek...",
+            "snippet": "GoPro vient de signer un partenariat avec la NHL, la ligue am\u00e9ricaine de hockey sur glace, afin de placer ses mini cam\u00e9ras sur les joueurs. Ce partenariat d\u00e9bute aujourd'hui avec le All Star Weekend et permettra aux...",
+            "date": "2015-01-24",
+            "author_name": "Pierre",
             "categories": "hockey",
-            "tags": "luc,richard,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/larrobustimavaphenistre.wordpress.com/2014/07/le-d%C3%A9mon-du-hockey",
-            "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
-            "source_url": "http://larrobustimavaphenistre.wordpress.com/2014/07/20/le-demon-du-hockey/"
+            "tags": "hockey,joueurs,nhl,ligue,glace",
+            "recuweb_url": "http://fr.recuweb.com/hockey/journaldugeek.com/2015/01/hockey-des-gopro-sur-les-joueurs-de-nhl-le-journal",
+            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://journaldugeek.com/2015/01/24/hockey-des-gopro-sur-les-joueurs-de-nhl/"
         }
     }
 }
