@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rugby",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rugby/",
@@ -11,38 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
     },
     "items": {
-        "sudouest.fr/2015/04/aviron-bayonnais-grenoble-spedding-et-marmouyet-de-retour": {
-            "title": "Aviron Bayonnais - Grenoble: Spedding et Marmouyet de retour...",
-            "snippet": "Taele - Iguiniz, Roumieu, Pointud. Rempla\u00e7ants probables: Etrillard, Van Rensburg, Chouzenoux (ou Fa'aoso), Ollivon, Loustalot, Fuster, Bustos Moyano, Muller. Top14 rugby Bayonne Aviron Bayonnais; Voir tous les...",
-            "date": "2015-04-22",
+        "sudouest.fr/2015/04/rugby-top-14-carton-plein-pour-l-ubb-la-rochelle": {
+            "title": "Rugby - Top 14: carton plein pour l'UBB, La Rochelle et Bayonne...",
+            "snippet": "L'Union Bordeaux-B\u00e8gles, le Stade Rochelais et l'Aviron Bayonnais ont gagn\u00e9. Probl\u00e8me, Castres et Brive les ont imit\u00e9s. La lutte pour le maintien sera passionnante jusqu'au bout. Rugby - Top 14: carton plein pour l'UBB, La...",
+            "date": "2015-04-26",
             "author_name": "inconnu",
             "categories": "rugby",
-            "tags": "retour,top,rugby",
-            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/aviron-bayonnais-grenoble-spedding-et-marmouyet-de-retour",
+            "tags": "bout,jusqu,aviron,bayonnais,stade,plein,rugby,top",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-top-14-carton-plein-pour-l-ubb-la-rochelle",
+            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/25/rugby-top-14-carton-plein-pour-l-ubb-bayonne-et-la-rochelle-mais-la-menace-demeure-1903845-4570.php"
+        },
+        "sudouest.fr/2015/04/rugby-alain-afflelou-vend-ses-parts-du-capital-de-l-aviron": {
+            "title": "Rugby: Alain Afflelou vend ses parts du capital de l'Aviron...",
+            "snippet": "L'opticien d\u00e9tenait pr\u00e8s de 50% du capital du club, en compagnie de l'ancien pr\u00e9sident du directoire Philippe Ruggieri, lui aussi partant. Rugby: Alain Afflelou vend ses parts du capital de l'Aviron Bayonnais Alain Afflelou a...",
+            "date": "2015-04-23",
+            "author_name": "inconnu",
+            "categories": "rugby",
+            "tags": "club,rugby,aviron,pr\u00e8s,pr\u00e9sident,bayonnais",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-alain-afflelou-vend-ses-parts-du-capital-de-l-aviron",
             "resource_url": "http://www.google.com/search?q=rugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/22/aviron-bayonnais-grenoble-spedding-et-marmouyet-de-retour-ollivon-a-nouveau-sur-le-banc-1900416-4570.php"
-        },
-        "sudouest.fr/2015/04/rugby-f%C3%A9d%C3%A9rale-1-les-huiti%C3%A8mes-de-finale-en-un-coup-d": {
-            "title": "Rugby - F\u00e9d\u00e9rale 1: les huiti\u00e8mes de finale en un coup d'oeil...",
-            "snippet": "Fin des matchs allers de ces huiti\u00e8mes de finale. Langon, Soyaux-Angoul\u00eame et Tyrosse ont les cl\u00e9s en main pour se qualifier en 1/4 de finale apr\u00e8s leurs victoires aujourd'hui. Pour Oloron la...",
-            "date": "2015-04-19",
-            "author_name": "inconnu",
-            "categories": "rugby",
-            "tags": "rugby,finale,fin,apr\u00e8s,oloron",
-            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-f%C3%A9d%C3%A9rale-1-les-huiti%C3%A8mes-de-finale-en-un-coup-d",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/19/rugby-federale-1-suivez-les-match-aller-des-huitiemes-de-final-1896927-773.php"
-        },
-        "francetvinfo.fr/2015/04/rugby-clermont-en-finale-de-la-coupe-d-europe-apr%C3%A8s-avoir": {
-            "title": "Rugby: Clermont en finale de la Coupe d'Europe apr\u00e8s avoir battu...",
-            "snippet": "Clermont s'est qualifi\u00e9 pour la finale de la Coupe d'Europe de rugby en battant les Saracens (13-9), samedi 18 avril dans un stade Geoffroy-Guichard archi-plein de Saint-Etienne. La saison derni\u00e8re, les Anglais avaient...",
-            "date": "2015-04-18",
-            "author_name": "inconnu",
-            "categories": "rugby",
-            "tags": "qualifi\u00e9,rugby,clermont,finale,coupe,europe,apr\u00e8s,saracens,samedi,stade,saison,derni\u00e8re",
-            "recuweb_url": "http://fr.recuweb.com/rugby/francetvinfo.fr/2015/04/rugby-clermont-en-finale-de-la-coupe-d-europe-apr%C3%A8s-avoir",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://francetvinfo.fr/sports/rugby/rugby-clermont-en-finale-de-la-coupe-d-europe-apres-avoir-battu-les-saracens-13-9_880591.html"
+            "source_url": "http://sudouest.fr/2015/04/23/alain-afflelou-vend-ses-parts-du-capital-de-l-aviron-bayonnais-1901455-4018.php"
         },
         "jeuxvideoetpcgratuits.wordpress.com/2014/11/pro-rugby-manager-2015-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf": {
             "title": "PRO RUGBY MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT - Jeu PC Torrent VF et Direct Lien (Direct Download...",
