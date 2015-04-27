@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hockey",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -10,38 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
-        "blogues.lapresse.ca/2015/04/par-o%C3%B9-commencer-mathias-brunet-blogues": {
-            "title": "Par o\u00f9 commencer???Mathias Brunet - Blogues -...",
-            "snippet": "Je pense que ni Dubnyk ni Price devraient obtenir le Hart car ils occupent la position de loin la plus importante au hockey. \u00c7a biaise les choses. Mais si Price est candidat pour le Hart, Dubnyk l'est tout autant, et Dubnyk l'a eu...",
-            "date": "2015-04-10",
-            "author_name": "rondellelibre",
-            "categories": "hockey",
-            "tags": "autant,position,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/blogues.lapresse.ca/2015/04/par-o%C3%B9-commencer-mathias-brunet-blogues",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blogues.lapresse.ca/lnh/2015/04/10/par-ou-commencer/"
-        },
-        "lemedia05.com/2015/04/gap-les-champions-de-france-hockey-re%C3%A7us-avec-la-coupe": {
-            "title": "Gap: les champions de France de hockey re\u00e7us avec la coupe...",
-            "snippet": "La question \u00e9pineuse des heures de glace suppl\u00e9mentaires pour le hockey mineur, qui avait \u00e9t\u00e9 \u00e9voqu\u00e9e lors de la conf\u00e9rence de presse du club mardi matin, n'a pas davantage \u00e9t\u00e9 abord\u00e9e. Dany Galland, adjoint aux...",
-            "date": "2015-04-09",
-            "author_name": "Jean-Christophe Sarrazin",
-            "categories": "hockey",
-            "tags": "dany,coupe,champions,gap,france,hockey,glace,mineur,\u00e9t\u00e9,lors,club",
-            "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/gap-les-champions-de-france-hockey-re%C3%A7us-avec-la-coupe",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lemedia05.com/2015/21086/gap-les-champions-de-france-de-hockey-recus-avec-la-coupe-magnus-a-lhotel-de-ville/"
-        },
-        "25stanley.com/2015/04/les-9-gros-dramas-de-la-s%C3%A9rie-hockey-wives-25stanley": {
-            "title": "Les 9 gros dramas de la s\u00e9rie Hockey Wives 25stanley...",
-            "snippet": "Mercredi soir \u00e9tait diffus\u00e9 le 4e \u00e9pisode de la s\u00e9rie Hockey Wives. Compte tenu de l'angle \u00e9ditorial du 25stanley, je dois admettre que j&.",
-            "date": "2015-04-09",
+        "25stanley.com/2015/04/le-hockey-des-canadiens-comment%C3%A9-par-un-ha%C3%AFtien-25stanley": {
+            "title": "Le hockey des Canadiens comment\u00e9 par un Ha\u00eftien 25stanley...",
+            "snippet": "Le hockey des Canadiens comment\u00e9 par un Ha\u00eftien. Mardi apr\u00e8s-midi, l'humoriste Kevin Raphael a publi\u00e9 sur Facebook le meilleur vid\u00e9o des Canadiens de la saison. C'est tellement dr\u00f4le. Crime. Qu'est-ce que TVA Sports 3...",
+            "date": "2015-04-21",
             "author_name": "jtutah",
-            "categories": "hockey",
-            "tags": "tenu,s\u00e9rie,\u00e9tait,hockey,mercredi,compte",
-            "recuweb_url": "http://fr.recuweb.com/hockey/25stanley.com/2015/04/les-9-gros-dramas-de-la-s%C3%A9rie-hockey-wives-25stanley",
+            "categories": "sport,hockey,facebook",
+            "tags": "sports,hockey,apr\u00e8s,saison",
+            "recuweb_url": "http://fr.recuweb.com/facebook/25stanley.com/2015/04/le-hockey-des-canadiens-comment%C3%A9-par-un-ha%C3%AFtien-25stanley",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://25stanley.com/les-9-gros-dramas-de-la-serie-hockey-wives.html"
+            "source_url": "http://25stanley.com/le-hockey-des-canadiens-commente-par-un-haitien.html"
+        },
+        "publications.mcgill.ca/2015/04/casques-de-hockey-et-commotions-un-v%C3%A9ritable-casse-t%C3%AAte-mcgill": {
+            "title": "Casques de hockey et commotions: un v\u00e9ritable casse-t\u00eate: McGill...",
+            "snippet": "Selon David Pearsall, qui \u00e9tudie la conception des casques de hockey depuis 20 ans, l'\u00e9tude de Virginia Tech, bien qu'opportune, simplifie peut-\u00eatre un peu trop un probl\u00e8me tr\u00e8s complexe. L'\u00e9quipe de VT utilise une...",
+            "date": "2015-04-15",
+            "author_name": "Neale Mcdevitt",
+            "categories": "hockey",
+            "tags": "hockey,\u00e9quipe",
+            "recuweb_url": "http://fr.recuweb.com/hockey/publications.mcgill.ca/2015/04/casques-de-hockey-et-commotions-un-v%C3%A9ritable-casse-t%C3%AAte-mcgill",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://publications.mcgill.ca/reporter/2015/04/casques-de-hockey-et-commotions-un-veritable-casse-tete/"
+        },
+        "lemedia05.com/2015/04/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik": {
+            "title": "Hockey: Anthony Rech (Dijon) signe aux Rapaces de Gap, Dominik...",
+            "snippet": "Les recrutements se poursuivent aux Rapaces de Gap en vue de la prochaine saison, qui d\u00e9butera d\u00e8s le mois d'ao\u00fbt avec la Ligue des champions (Champions Hockey League). Le club champion de France annonce ce...",
+            "date": "2015-04-14",
+            "author_name": "Redaction",
+            "categories": "recrutement,hockey",
+            "tags": "champions,ao\u00fbt,vue,prochaine,hockey,dijon,rapaces,gap,saison,ligue,club,france",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lemedia05.com/2015/21310/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik-kramar-reconduit/"
+        },
+        "ici.radio-canada.ca/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada": {
+            "title": "Presque autant d'amateurs de hockey en Chine qu'au Canada ICI...",
+            "snippet": "La fi\u00e8vre du hockey ne se vit pas seulement au Canada. En Chine, il y a presque autant de t\u00e9l\u00e9spectateurs riv\u00e9s devant leur \u00e9cran lors de chacun des matchs de la Ligue nationale de hockey qu'ici au pays.",
+            "date": "2015-04-10",
+            "author_name": "inconnu",
+            "categories": "hockey",
+            "tags": "ici,ici-au-pays,pays,chacun,chacun-des-matchs,matchs,\u00e9cran,autant,autant-de-t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs-riv\u00e9s,riv\u00e9s,vit,vit-pas-seulement,seulement,fi\u00e8vre,canada,amateurs,presque,hockey,chine,devant,lors,ligue,nationale",
+            "recuweb_url": "http://fr.recuweb.com/hockey/ici.radio-canada.ca/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ici.radio-canada.ca/nouvelles/International/2015/04/12/004-hockey-chine-television-jeux-olympiques.shtml"
         },
         "lemedia05.com/2015/04/hockey-les-rapaces-de-gap-l%C3%A8vent-un-premier-coin-voile": {
             "title": "Hockey: les Rapaces de Gap l\u00e8vent un premier coin de voile sur la...",
@@ -49,32 +61,10 @@
             "date": "2015-04-07",
             "author_name": "Jean-Christophe Sarrazin",
             "categories": "hockey",
-            "tags": "nationale,mercredi,premier,hockey,gap,\u00e9quipe",
+            "tags": "vue,monde,premier,hockey,rapaces,gap,barcelone,\u00e9quipe,nationale",
             "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-les-rapaces-de-gap-l%C3%A8vent-un-premier-coin-voile",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemedia05.com/2015/21006/hockey-les-rapaces-de-gap-levent-un-premier-coin-de-voile-sur-la-saison-2015-2016/"
-        },
-        "dijon-sportnews.fr/2015/03/hockey-r%C3%A9sultat-du-week-end-28-29-mars-pour-les-jeunes": {
-            "title": "Hockey: r\u00e9sultat du week-end du 28-29 mars pour les jeunes du DHC...",
-            "snippet": "Voici les r\u00e9sultats des cat\u00e9gories jeunes du Dijon Hockey Club pour le week-end des 28-29 mars. Cat\u00e9gorie U11 \u00e9quipe B. Longtemps ind\u00e9cis, le duel s'est finalement conclu par la victoire des Ducs dans le dernier tiers.",
-            "date": "2015-03-30",
-            "author_name": "Nicolas G.",
-            "categories": "hockey",
-            "tags": "victoire,club,cat\u00e9gorie,hockey,voici,\u00e9quipe",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dijon-sportnews.fr/2015/03/hockey-r%C3%A9sultat-du-week-end-28-29-mars-pour-les-jeunes",
-            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://dijon-sportnews.fr/2015/03/30/hockey-resultat-du-weekend-du-28-29-mars-pour-les-jeunes-du-dhc/106752/"
-        },
-        "blogues.lapresse.ca/2015/03/lhjmq-les-pr%C3%A9dictions-de-fran%C3%A7ois-parenteaule-blogue-hockey": {
-            "title": "LHJMQ: les pr\u00e9dictions de Fran\u00e7ois ParenteauLe blogue de hockey...",
-            "snippet": "Voici mes pr\u00e9dictions pour la vraie saison dans la LHJMQ. Et vous, quelles sont les v\u00f4tres? Rimouski (1) contre Victoriaville (16) C'est la seule s\u00e9rie que je vois se terminer en quatre matchs. L'Oc\u00e9anic, la meilleure \u00e9quipe...",
-            "date": "2015-03-26",
-            "author_name": "Frank_Parenteau",
-            "categories": "hockey",
-            "tags": "s\u00e9rie,saison,fran\u00e7ois,hockey,voici,contre,matchs,\u00e9quipe",
-            "recuweb_url": "http://fr.recuweb.com/hockey/blogues.lapresse.ca/2015/03/lhjmq-les-pr%C3%A9dictions-de-fran%C3%A7ois-parenteaule-blogue-hockey",
-            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blogues.lapresse.ca/hockey-junior/2015/03/26/lhjmq-les-predictions-de-francois-parenteau/"
         },
         "sopdow5570.wordpress.com/2015/03/les-batailles-au-hockey-et-mises-en-%C3%A9chec-sont-elles-vraiment": {
             "title": "Les batailles au hockey et les mises en \u00e9chec sont-elles vraiment une bonne id\u00e9e?",
@@ -82,43 +72,32 @@
             "date": "2015-03-25",
             "author_name": "sopdow5570",
             "categories": "sport,hockey",
-            "tags": "grand,sports,hockey",
+            "tags": "grand,sports,bonne,hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/sopdow5570.wordpress.com/2015/03/les-batailles-au-hockey-et-mises-en-%C3%A9chec-sont-elles-vraiment",
             "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
             "source_url": "http://sopdow5570.wordpress.com/2015/03/25/les-batailles-au-hockey-et-les-mises-en-echec-sont-elles-vraiment-une-bonne-idee/"
         },
-        "sudouest.fr/2015/03/hockey-d1-les-dates-des-finales-entre-l-hormadi-d-anglet": {
-            "title": "Hockey (D1): les dates des finales entre l'Hormadi d'Anglet et les...",
-            "snippet": "Compte-tenu de l'indisponibilit\u00e9 de la patinoire bordelaise dimanche, et du refus d'Anglet d'avancer le premier match au vendredi, l'Hormadi accueillera le deuxi\u00e8me match de la finale de Division 1...",
-            "date": "2015-03-23",
-            "author_name": "inconnu",
-            "categories": "hockey",
-            "tags": "premier,dimanche,tenu,finales,finale,hockey,compte,match",
-            "recuweb_url": "http://fr.recuweb.com/hockey/sudouest.fr/2015/03/hockey-d1-les-dates-des-finales-entre-l-hormadi-d-anglet",
-            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/03/23/hockey-d1-les-dates-des-finales-entre-l-hormadi-d-anglet-et-les-boxers-de-bordeaux-connues-1868287-4018.php"
-        },
-        "footvshockey.wordpress.com/2015/02/foot-v-hockey": {
-            "title": "Foot v Hockey...",
-            "snippet": "Beaucoup d'enfant et d'adultes au Canada jouent foot et a l'hockey. Moi personnellement je prefere le foot et j'ai mes raisons. Ma premiere raison est parce que c'est...",
-            "date": "2015-02-17",
-            "author_name": "pbn12",
-            "categories": "hockey",
-            "tags": "hockey,canada",
-            "recuweb_url": "http://fr.recuweb.com/hockey/footvshockey.wordpress.com/2015/02/foot-v-hockey",
+        "nhlmaillots4.wordpress.com/2014/08/prix-bas-maillot-chicago-blackhawks": {
+            "title": "Prix bas Maillot Chicago Blackhawks...",
+            "snippet": "Le hockey sur glace est l'un des sports les plus populaires et les plus consult\u00e9s. Savez-vous ce qu'est un amateur de hockey r\u00e9el va faire, ils prendront en []...",
+            "date": "2014-08-12",
+            "author_name": "nhlmaillots4",
+            "categories": "sport,hockey",
+            "tags": "sports,hockey,glace",
+            "recuweb_url": "http://fr.recuweb.com/hockey/nhlmaillots4.wordpress.com/2014/08/prix-bas-maillot-chicago-blackhawks",
             "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
-            "source_url": "http://footvshockey.wordpress.com/2015/02/17/foot-v-hockey/"
+            "source_url": "http://nhlmaillots4.wordpress.com/2014/08/12/prix-bas-maillot-chicago-blackhawks/"
         },
-        "sainte-marie.ca/2015/01/r%C3%A9gionaux-de-hockey-mineur-ville-sainte-marie": {
-            "title": "R\u00e9gionaux de hockey mineur Ville de Sainte-Marie...",
-            "snippet": "Le groupe Ledor Assurances sera le partenaire de Hockey Qu\u00e9bec-Chaudi\u00e8re-Appalaches pour les trois prochaines ann\u00e9es des finales r\u00e9gionales simple lettre, de la r\u00e9gion de Qu\u00e9bec-Chaudi\u00e8re-Appalaches. Les finales...",
-            "date": "2015-01-04",
-            "author_name": "Ville Sainte-Marie",
-            "categories": "hockey,assurance",
-            "tags": "finales,hockey,qu\u00e9bec,partenaire,mineur,groupe",
-            "recuweb_url": "http://fr.recuweb.com/assurance/sainte-marie.ca/2015/01/r%C3%A9gionaux-de-hockey-mineur-ville-sainte-marie",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sainte-marie.ca/2015/04/regionaux-de-hockey-mineur/"
+        "larrobustimavaphenistre.wordpress.com/2014/07/le-d%C3%A9mon-du-hockey": {
+            "title": "Le d\u00e9mon du hockey...",
+            "snippet": "Le d\u00e9mon du hockey Le d\u00e9mon du hockey by Mathieu Lampron, Claude Auchu, Denis Lord, Richard Suicide, Hicham Absa, Luc Boss\u00e9, Zviane, Philippe Girard====Download here:====Le d\u00e9mon du hockey torrent download []...",
+            "date": "2014-07-20",
+            "author_name": "larrobustimavaphenistre",
+            "categories": "hockey",
+            "tags": "luc,richard,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/larrobustimavaphenistre.wordpress.com/2014/07/le-d%C3%A9mon-du-hockey",
+            "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
+            "source_url": "http://larrobustimavaphenistre.wordpress.com/2014/07/20/le-demon-du-hockey/"
         }
     }
 }
