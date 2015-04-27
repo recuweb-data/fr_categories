@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "speedway",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/speedway/",
@@ -10,95 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/speedway/speedway/blogs.json"
     },
     "items": {
-        "wbtv.com/2015/03/glamping-at-charlotte-motor-speedway-yeah-it-s-a-thing-wbtv": {
-            "title": "Glamping at Charlotte Motor Speedway; yeah, it's a thing - WBTV...",
-            "snippet": "\"Glamping\" at Charlotte Motor Speedway; yeah, it's a thingWBTVThese exclusive, infield campsites with stunning views of the speedway's gigantic, 16,000-square-foot HDTV, feature spacious, private safari tents that can accommodate groups of two or...",
-            "date": "2015-03-18",
-            "categories": "speedway",
-            "tags": "charlotte,motor,motor_speedway,speedway",
-            "recuweb_url": "http://fr.recuweb.com/speedway/wbtv.com/2015/03/glamping-at-charlotte-motor-speedway-yeah-it-s-a-thing-wbtv",
-            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
-            "source_url": "http://wbtv.com/story/28549208/glamping-at-charlotte-motor-speedway-yeah-its-a-thing"
+        "guideauto.com/2015/04/alex-labb%C3%A9-en-s%C3%A9rie-act-pour-gagner": {
+            "title": "Alex Labb\u00e9 en s\u00e9rie ACT pour gagner...",
+            "snippet": "Labb\u00e9 a entam\u00e9 sa saison 2015 en f\u00e9vrier, au New Smyrna Speedway en Floride. L'\u00e9quipe Larue n48 y a connu une semaine en dents de scie, au terme de laquelle le pilote a r\u00e9colt\u00e9 une 3e place au cumulatif. En raison de plusieurs ennuis...",
+            "date": "2015-04-23",
+            "categories": "place,speedway",
+            "tags": "place,place-au-cumulatif,cumulatif,terme,terme-de-laquelle,laquelle,laquelle-le-pilote,pilote,pilote-r\u00e9colt\u00e9,r\u00e9colt\u00e9,semaine,semaine-en-dents,dents,dents-de-scie,scie,smyrna,smyrna_speedway,speedway,f\u00e9vrier,entam\u00e9,entam\u00e9-sa-saison,saison,s\u00e9rie,alex,alex_labb\u00e9,labb\u00e9,act,floride,larue",
+            "recuweb_url": "http://fr.recuweb.com/speedway/guideauto.com/2015/04/alex-labb%C3%A9-en-s%C3%A9rie-act-pour-gagner",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=speedway&format=RSS&cc=fr",
+            "source_url": "http://guideauto.com/forum/showthread.php?p=525277"
         },
-        "oswegocountytoday.com/2015/03/airgas-signs-on-as-official-partner-of-oswego-speedway-in-2015": {
-            "title": "Airgas Signs On as Official Partner of Oswego Speedway in 2015 - Oswego Daily News...",
-            "snippet": "Airgas Signs On as Official Partner of Oswego Speedway in 2015Oswego Daily NewsOSWEGO, NY Airgas, one of the nation's leading single-source suppliers of gases and welding products, is set to join Oswego Speedway as an official partner for the 2015...",
-            "date": "2015-03-18",
+        "heraldonline.com/2015/04/beer-here-carowinds-speedway-raise-glasses-to-craft-the-herald": {
+            "title": "Beer Here: Carowinds, Speedway raise glasses to craft beer - The Herald...",
+            "snippet": "The HeraldBeer Here: Carowinds, Speedway raise glasses to craft beerThe HeraldThen in May, the Speedway All-American Craft Brewer's Tour and Beer Haven Festival rolls into Charlotte Motor Speedway. And I mean that literally: Beer Haven bills itself...",
+            "date": "2015-04-23",
+            "categories": "speedway",
+            "tags": "american,speedway",
+            "recuweb_url": "http://fr.recuweb.com/speedway/heraldonline.com/2015/04/beer-here-carowinds-speedway-raise-glasses-to-craft-the-herald",
+            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
+            "source_url": "http://heraldonline.com/news/local/community/lake-wylie-pilot/article19318062.html"
+        },
+        "syracuse.com/2015/04/fulton-canandaigua-black-rock-speedway-set-to-open-weekend": {
+            "title": "Fulton, Canandaigua, Black Rock Speedway set to open (weekend... -...",
+            "snippet": "Fulton, Canandaigua, Black Rock Speedway set to open (weekend..., N.Y. Things get very busy this weekend at several local racetracks with season openers on tap for Fulton, Canandaigua and the new Black Rock Speedway but the weather is still having...",
+            "date": "2015-04-23",
+            "categories": "rock,speedway",
+            "tags": "this,season,open,speedway",
+            "recuweb_url": "http://fr.recuweb.com/speedway/syracuse.com/2015/04/fulton-canandaigua-black-rock-speedway-set-to-open-weekend",
+            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
+            "source_url": "http://syracuse.com/motorsports/index.ssf/2015/04/fulton_canandaigua_black_rock_speedway_set_to_open_weekend_schedule.html"
+        },
+        "myjournalcourier.com/2015/04/national-midget-series-hits-speedway-this-week-jacksonville-journal-courier": {
+            "title": "National Midget Series hits speedway this week - Jacksonville Journal-Courier...",
+            "snippet": "National Midget Series hits speedway this weekJacksonville Journal-CourierThe POWRi Speedway Motors 600cc Outlaw Micro Series will also race, hitting the dirt for only the second time this season. Dereck King, a three-time former series champ, leads...",
+            "date": "2015-04-23",
+            "categories": "speedway",
+            "tags": "series,this,season,speedway,race",
+            "recuweb_url": "http://fr.recuweb.com/speedway/myjournalcourier.com/2015/04/national-midget-series-hits-speedway-this-week-jacksonville-journal-courier",
+            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
+            "source_url": "http://myjournalcourier.com/news/home_top-news/153071341/National-Midget-Series-hits-speedway-this-week"
+        },
+        "auto123.com/2015/04/stock-car-alex-labb%C3%A9-en-s%C3%A9rie-act-au-new-hampshire": {
+            "title": "Stock-car: Alex Labb\u00e9 en s\u00e9rie ACT au New Hampshire...",
+            "snippet": "Labb\u00e9 a entam\u00e9 sa saison 2015 en f\u00e9vrier, au New Smyrna Speedway en Floride. L\u00e9quipe Larue n48 y a connu une semaine en dents de scie, au terme de laquelle le pilote a r\u00e9colt\u00e9 une troisi\u00e8me place au cumulatif. L\u00e9preuve de Lee marquera le...",
+            "date": "2015-04-23",
+            "categories": "place,speedway",
+            "tags": "terme,terme-de-laquelle,laquelle,laquelle-le-pilote,pilote,pilote-r\u00e9colt\u00e9,r\u00e9colt\u00e9,place,place-au-cumulatif,cumulatif,semaine,semaine-en-dents,dents,dents-de-scie,scie,larue,smyrna,smyrna_speedway,speedway,f\u00e9vrier,entam\u00e9,entam\u00e9-sa-saison,saison,s\u00e9rie,alex,alex_labb\u00e9,labb\u00e9,stock,car,act,floride",
+            "recuweb_url": "http://fr.recuweb.com/speedway/auto123.com/2015/04/stock-car-alex-labb%C3%A9-en-s%C3%A9rie-act-au-new-hampshire",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=speedway&format=RSS&cc=fr",
+            "source_url": "http://auto123.com/fr/course-automobile/stock-car-alex-labbe-en-serie-act-au-new-hampshire?artid=176420"
+        },
+        "leblogauto.com/2015/04/le-bonanza-speedway-bient%C3%B4t-ras%C3%A9-blog-auto": {
+            "title": "Le Bonanza Speedway bient\u00f4t ras\u00e9? - Le Blog Auto...",
+            "snippet": "Le Blog AutoLe Bonanza Speedway bient\u00f4t ras\u00e9?Le Blog AutoCa n'emp\u00eacha pas Kirimaya d'\u00e9tendre discr\u00e8tement ses parcelles. En 2010, il bti ainsi le Bonanza Speedway au milieu d'une plantation. Cette piste d'essai permit aux riches propri\u00e9taires...",
+            "date": "2015-04-22",
             "categories": "speedway",
             "tags": "speedway",
-            "recuweb_url": "http://fr.recuweb.com/speedway/oswegocountytoday.com/2015/03/airgas-signs-on-as-official-partner-of-oswego-speedway-in-2015",
+            "recuweb_url": "http://fr.recuweb.com/speedway/leblogauto.com/2015/04/le-bonanza-speedway-bient%C3%B4t-ras%C3%A9-blog-auto",
             "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
-            "source_url": "http://oswegocountytoday.com/airgas-signs-on-as-official-partner-of-oswego-speedway-in-2015/"
-        },
-        "lynnnews.co.uk/2015/03/king-s-lynn-stars-enter-world-speedway-league-news": {
-            "title": "King's Lynn Stars enter World Speedway League - Lynn News...",
-            "snippet": "Lynn NewsKing's Lynn Stars enter World Speedway LeagueLynn NewsAfter the press conference Chapman commented: Taking part in this event will help us establish ourselves on the international speedway map and allow us to explore more ways to move the...",
-            "date": "2015-03-18",
-            "categories": "speedway",
-            "tags": "this,speedway",
-            "recuweb_url": "http://fr.recuweb.com/speedway/lynnnews.co.uk/2015/03/king-s-lynn-stars-enter-world-speedway-league-news",
-            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
-            "source_url": "http://lynnnews.co.uk/news/local/latest-local-news/king-s-lynn-stars-enter-world-speedway-league-1-6639135"
-        },
-        "sportowefakty.pl/2015/03/prace-na-stadionie-speedway-wandy-instal-krak%C3%B3w-zdjcia": {
-            "title": "Prace na stadionie Speedway Wandy Instal Krak\u00f3w (zdjcia) -...",
-            "snippet": "Prace na stadionie Speedway Wandy Instal Krak\u00f3w (zdjcia) g\u00f3wna uel Nice Polska Liga ulowa Speedway Wanda Instal Krak\u00f3w Wiadomoci Galerie Wyniki/Kalendarz Statystyki Speedway Wanda Instal Krak\u00f3w (2014) Speedway Wanda Instal Krak\u00f3w (2013)...",
-            "date": "2015-03-18",
-            "categories": "speedway",
-            "tags": "speedway",
-            "recuweb_url": "http://fr.recuweb.com/speedway/sportowefakty.pl/2015/03/prace-na-stadionie-speedway-wandy-instal-krak%C3%B3w-zdjcia",
-            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
-            "source_url": "http://sportowefakty.pl/zuzel/508411/prace-na-stadionie-speedway-wandy-instal-krakow-zdjecia"
-        },
-        "letraitdunion.com/2015/03/charles-harvey-fait-le-saut-en-american-canadian-tour": {
-            "title": "Charles Harvey fait le saut en American Canadian Tour...",
-            "snippet": "L'an dernier, Charles Harvey a empoch\u00e9 sa premi\u00e8re victoire dans la s\u00e9rie Pro Cam Super Truck sur le circuit du Riverside Speedway de Sainte-Croix-de-Lotbini\u00e8re. L'an dernier, le pilote de stock-car a couru dans la cat\u00e9gorie Pro Cam Super Truck...",
-            "date": "2015-03-17",
-            "categories": "speedway",
-            "tags": "speedway,circuit,super,car",
-            "recuweb_url": "http://fr.recuweb.com/speedway/letraitdunion.com/2015/03/charles-harvey-fait-le-saut-en-american-canadian-tour",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=speedway&format=RSS&cc=fr",
-            "source_url": "http://letraitdunion.com/Sports/2015-03-17/article-4078793/Charles-Harvey-fait-le-saut-en-American-Canadian-Tour/1"
-        },
-        "nascartalk.nbcsports.com/2015/03/motivation-high-for-denny-hamlin-in-return-to-auto-club-speedway": {
-            "title": "Motivation high for Denny Hamlin in return to Auto Club Speedway -...",
-            "snippet": "Motivation high for Denny Hamlin in return to Auto Club year, it was a race he couldn't wait for and then he didn't get to drive. This year, the hunger remains. Two years after Denny Hamlin was injured in a last-lap crash racing for the lead, he...",
-            "date": "2015-03-17",
-            "categories": "speedway",
-            "tags": "auto,auto_club,club,auto_club_speedway,club_speedway,speedway,race,this,racing",
-            "recuweb_url": "http://fr.recuweb.com/speedway/nascartalk.nbcsports.com/2015/03/motivation-high-for-denny-hamlin-in-return-to-auto-club-speedway",
-            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
-            "source_url": "http://nascartalk.nbcsports.com/2015/03/17/motivation-high-for-denny-hamlin-in-return-to-auto-club-speedway/"
-        },
-        "yahoo.com/2015/03/life-is-a-speedway-the-fastest-way-to-hit-50": {
-            "title": "Life is a Speedway: The Fastest Way to Hit 50 U.S. Landmarks on a... - Yahoo Travel...",
-            "snippet": "Yahoo TravelLife is a Speedway: The Fastest Way to Hit 50 U.S. Landmarks on a...Yahoo TravelData genius Randy Olson is known for developing an algorithm for the ultimate search path to find Waldo, the globetrotting star of the series Where's Waldo?",
-            "date": "2015-03-16",
-            "categories": "yahoo,speedway",
-            "tags": "star,speedway",
-            "recuweb_url": "http://fr.recuweb.com/speedway/yahoo.com/2015/03/life-is-a-speedway-the-fastest-way-to-hit-50",
-            "resource_url": "http://news.google.fr/?hl=fr&q=speedway&output=atom&nord=1",
-            "source_url": "http://yahoo.com/travel/life-is-a-speedway-the-fastest-way-to-hit-50-u-s-113790139592.html"
-        },
-        "us-racing.com/2015/03/l-ovale-de-fontana-ajoute-des-protections": {
-            "title": "L'ovale de Fontana ajoute des protections...",
-            "snippet": "Apr\u00e8s Atlanta, Charlotte ou encore Daytona, c'est Fontana qui prend des mesures. La semaine prochaine l'Auto Club Speedway sera la derni\u00e8re partie du triptyque du Western Swing de la NASCAR, mais du fait des r\u00e9cents accidents, l'ovale de deux...",
-            "date": "2015-03-15",
-            "categories": "speedway",
-            "tags": "derni\u00e8re,auto,auto_club,auto_club_speedway,club,club_speedway,speedway,semaine,atlanta,charlotte",
-            "recuweb_url": "http://fr.recuweb.com/speedway/us-racing.com/2015/03/l-ovale-de-fontana-ajoute-des-protections",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=speedway&format=RSS&cc=fr",
-            "source_url": "http://us-racing.com/Info-2015-03-13-l-ovale-de-fontana-ajoute-des-protections.html"
-        },
-        "us-racing.com/2015/03/le-las-vegas-motor-speedway-fait-quelques-modifications-us-racing": {
-            "title": "Le Las Vegas Motor Speedway fait quelques modifications... - US RACING...",
-            "snippet": "US RACINGLe Las Vegas Motor Speedway fait quelques modifications...US RACINGSi le Las Vegas Motor Speedway n'a pas ajout\u00e9 de barri\u00e8res de pneumatiques comme ce fut le cas sur l'Atlanta Motor Speedway la semaine derni\u00e8re, il n'en reste pas moins...",
-            "date": "2015-03-06",
-            "categories": "speedway",
-            "tags": "semaine,derni\u00e8re,atlanta,motor,motor_speedway,speedway,racing",
-            "recuweb_url": "http://fr.recuweb.com/speedway/us-racing.com/2015/03/le-las-vegas-motor-speedway-fait-quelques-modifications-us-racing",
-            "resource_url": "http://news.google.fr/?hl=fr&q=speedway%2Bspeedway&output=atom&nord=1",
-            "source_url": "http://us-racing.com/Info-2015-03-06-le-las-vegas-motor-speedway-fait-quelques-modifications-concernant-la-securite.html"
+            "source_url": "http://leblogauto.com/2015/04/le-bonanza-speedway-bientot-rase.html"
         }
     }
 }
