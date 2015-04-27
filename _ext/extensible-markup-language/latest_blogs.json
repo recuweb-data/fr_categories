@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "extensible-markup-language",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/extensible-markup-language/",
@@ -15,7 +16,7 @@
             "snippet": "De nombreux protocoles IETF s'appuient sur XML, par exemple pour stocker de l'information de configuration. Dans ce cadre, le besoin de modifier de l'information XML sans devoir transporter le fichier entier,...",
             "date": "2008-09-11",
             "author_name": "St\u00e9phane Bortzmeyer",
-            "tags": "information,extensible,extensible_markup,markup,xml",
+            "tags": "extensible,extensible_markup,markup,xml",
             "recuweb_url": "http://fr.recuweb.com/bortzmeyer.org/2008/09/blog-st%C3%A9phane-bortzmeyer-rfc-5261-an-extensible-markup",
             "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bortzmeyer.org/5261.html"
@@ -26,7 +27,7 @@
             "date": "2006-09-26",
             "author_name": "inconnu",
             "categories": "extensible-markup-language,langage",
-            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,langage,donn\u00e9es,xml,web,xhtml",
+            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,langage,donn\u00e9es,standard,xml,web,xhtml",
             "recuweb_url": "http://fr.recuweb.com/langage/journaldunet.com/2006/09/xml-le-nouvel-%C3%A9lan-des-standards-du-web-jdn-d%C3%A9veloppeurs",
             "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldunet.com/developpeur/tutoriel/xml/guide-pratique-xml/0.shtml"
@@ -37,7 +38,7 @@
             "date": "2005-07-11",
             "author_name": "DMC",
             "categories": "internet,technologie,langage,hypertext-markup-language",
-            "tags": "donn\u00e9es,data,langage,extensible,markup,markup_language,language,xhtml,xml",
+            "tags": "donn\u00e9es,data,langage,extensible,markup,markup_language,language,xhtml,xml,microsoft",
             "recuweb_url": "http://fr.recuweb.com/hypertext-markup-language/aliasdmc.fr/2005/07/les-termes-lettre-x-xhtml-xml-data-islands-zone-html",
             "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://aliasdmc.fr/terme/zone_html_terme_x.html"
