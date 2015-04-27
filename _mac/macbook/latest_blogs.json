@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "macbook",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/macbook/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/macbook/macbook/blogs.json"
     },
     "items": {
-        "gizmodo.fr/2015/04/ultraslim-prestige-un-concurrent-fran%C3%A7ais-s%C3%A9rieux-au-nouveau": {
-            "title": "UltraSlim Prestige, un concurrent fran\u00e7ais s\u00e9rieux au nouveau...",
-            "snippet": "Il y a d\u00e9sormais un \"nouveau roi\" sur le march\u00e9 des ordinateurs ultraportables. Vous n'\u00eates pas sans savoir que le MacBook 12 pouces d'Apple est aujourd'hui ce qui se fait de mieux en la mati\u00e8re, pour quiconque cherche...",
-            "date": "2015-04-18",
-            "author_name": "Morgan",
-            "categories": "ordinateur,macbook",
-            "tags": "\u00eates,nouveau,march\u00e9,ordinateurs,fran\u00e7ais,ultraslim,prestige,sans,macbook,pouces,apple",
-            "recuweb_url": "http://fr.recuweb.com/macbook/gizmodo.fr/2015/04/ultraslim-prestige-un-concurrent-fran%C3%A7ais-s%C3%A9rieux-au-nouveau",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/18/ultraslim-prestige-nouveau-macbook.html"
-        },
         "01net.com/2015/04/apple-macbook-l-ultraslim-du-fran%C3%A7ais-thomson-computing": {
             "title": "Apple MacBook: l'UltraSlim du fran\u00e7ais Thomson Computing est-il...",
             "snippet": "Thomson Computing pourrait faire un retour en force sur le march\u00e9 du grand public. C'est en tout cas ce que souhaite le PDG St\u00e9phan Fran\u00e7ais, qui nous a pr\u00e9sent\u00e9 le prochain fleuron de la marque l'UltraSlim Prestige.",
             "date": "2015-04-16",
             "author_name": "inconnu",
             "categories": "macbook",
-            "tags": "marque,fran\u00e7ais,cas,march\u00e9,grand,apple,apple_macbook,macbook,ultraslim,retour,prestige",
+            "tags": "cas,apple,apple_macbook,macbook,retour,grand",
             "recuweb_url": "http://fr.recuweb.com/macbook/01net.com/2015/04/apple-macbook-l-ultraslim-du-fran%C3%A7ais-thomson-computing",
             "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/652448/apple-macbook-lultraslim-du-francais-thomson-computing-est-il-un-concurrent-serieux/"
+        },
+        "lesnumeriques.com/2015/03/apple-macbook-pro-13-3-pouces-2015-test-complet": {
+            "title": "Apple MacBook Pro 13,3 pouces 2015: Test complet...",
+            "snippet": "Apple vient de rafra\u00eechir sa gamme de MacBook Pro 13\" en lan\u00e7ant le mod\u00e8le de l'ann\u00e9e 2015. Au menu: un chssis toujours enti\u00e8rement en aluminium, un \u00e9cran Retina, un SSD en PCI-e, de nouveaux processeurs Intel et...",
+            "date": "2015-03-27",
+            "author_name": "B\u00e9nigne Milli\u00e8re",
+            "categories": "macbook",
+            "tags": "nouveaux,enti\u00e8rement,macbook,macbook_pro,pro,gamme,apple,apple_macbook,apple_macbook_pro,pouces,test,\u00e9cran,retina,processeurs,intel",
+            "recuweb_url": "http://fr.recuweb.com/macbook/lesnumeriques.com/2015/03/apple-macbook-pro-13-3-pouces-2015-test-complet",
+            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lesnumeriques.com/ordinateur-portable/apple-macbook-pro-13-3-pouces-2015-p25239/test.html"
         },
         "journaldugeek.com/2015/03/macbook-plus-de-windows-7-avec-boot-camp": {
             "title": "MacBook: plus de Windows 7 avec Boot Camp...",
@@ -39,7 +39,7 @@
             "date": "2015-03-23",
             "author_name": "Greg",
             "categories": "macbook",
-            "tags": "pro,retina,macbook,apple,pouces,air",
+            "tags": "pro,retina,nouveaux,macbook,apple,pouces,air",
             "recuweb_url": "http://fr.recuweb.com/macbook/journaldugeek.com/2015/03/macbook-plus-de-windows-7-avec-boot-camp",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=macbook%2Bmacbook&rss=1&lng=fr",
             "source_url": "http://journaldugeek.com/2015/03/23/macbook-plus-de-windows-7-avec-boot-camp/"
@@ -50,21 +50,10 @@
             "date": "2015-01-19",
             "author_name": "nobuggsm",
             "categories": "macbook,imac,powerbook",
-            "tags": "site,mac,chez,prix,macbook,pro,air,mini",
+            "tags": "gamme,prix,mac,chez,france,macbook,pro,air",
             "recuweb_url": "http://fr.recuweb.com/powerbook/nobuggsm.com/2015/01/nous-sauvons-votre-mac-chez-france-mobile-a-m%C3%A2con-71000",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=macbook%2Bmacbook&rss=1&lng=fr",
             "source_url": "http://nobuggsm.com/2015/01/19/nous-sauvons-votre-mac-chez-france-mobile-a-macon-71000/"
-        },
-        "notebookbatteryblog.wordpress.com/2014/10/batterie-pour-a1281-compatible-apple-macbook-pro-15-mb470ch-a-mb470j": {
-            "title": "Batterie pour A1281 - compatible pour Apple MacBook Pro 15\" MB470CH/A MB470J/A...",
-            "snippet": "Toutes nos APPLE A1281 batteries sont neuves et compatibles et toutes A1281 batteries ordinateur portable a pass\u00e9 les attestations internationales ISO9001, RoHS et de certification CE. Batteries pour APPLE []...",
-            "date": "2014-10-13",
-            "author_name": "rain240",
-            "categories": "macbook,ordinateur",
-            "tags": "batterie,compatible,apple,apple_macbook,apple_macbook_pro,macbook,macbook_pro,pro,ordinateur,portable",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/notebookbatteryblog.wordpress.com/2014/10/batterie-pour-a1281-compatible-apple-macbook-pro-15-mb470ch-a-mb470j",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
-            "source_url": "http://notebookbatteryblog.wordpress.com/2014/10/13/batterie-pour-a1281-compatible-pour-apple-macbook-pro-15-mb470cha-mb470ja-3/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/%C3%A9tui-rigide-enkay-mat-pour-macbook-air-11-6-blanc-avis": {
             "title": "\u00c9tui rigide Enkay mat pour MacBook Air 11,6 \"- Blanc Avis...",
@@ -72,10 +61,21 @@
             "date": "2014-08-26",
             "author_name": "swfrdxlelvgadgets",
             "categories": "macbook",
-            "tags": "entreprise,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,avis,macbook,macbook_air,air,mat,\u00e9tui,cherchez,meilleur,ici",
+            "tags": "entreprise,concentrer,concentrer-professionnel,professionnel,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,avis,macbook,macbook_air,air,mat,\u00e9tui,cherchez,ici",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/%C3%A9tui-rigide-enkay-mat-pour-macbook-air-11-6-blanc-avis",
             "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/26/enkay-matte-protective-hard-case-for-macbook-air-11-6-white-301211/"
+        },
+        "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-etui-protection-pour-macbook-air-11-6-gris-avis": {
+            "title": "Paul mat Etui protection pour MacBook Air 11,6 \"- gris Avis...",
+            "snippet": "cherchez-vous pour la meilleur Paul mat Etui protection pour MacBook Air 11,6 \"- gris? Ici je recommand\u00e9 un de la DealExtreme Compagnie, une entreprise de se concentrer professionnel...",
+            "date": "2014-08-21",
+            "author_name": "swfrdxlelvgadgets",
+            "categories": "macbook",
+            "tags": "entreprise,concentrer,concentrer-professionnel,professionnel,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,macbook,macbook_air,air,protection,paul,mat,avis,cherchez,ici",
+            "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-etui-protection-pour-macbook-air-11-6-gris-avis",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-matte-hard-protective-case-for-macbook-air-11-6-grey-301210/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-apple-macbook-air-11": {
             "title": "Paul mat dur \u00e9tui de protection pour Apple Macbook Air 11,6 \"- vert Avis...",
@@ -83,10 +83,21 @@
             "date": "2014-08-21",
             "author_name": "swfrdxlelvgadgets",
             "categories": "macbook",
-            "tags": "entreprise,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,apple,apple_macbook,macbook,macbook_air,air,mat,\u00e9tui,avis,cherchez,meilleur,ici",
+            "tags": "entreprise,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,apple,apple_macbook,macbook,macbook_air,air,mat,mat-dur,mat-dur-\u00e9tui,dur,dur-\u00e9tui,\u00e9tui,\u00e9tui-de-protection,protection,paul,avis,cherchez,ici",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-apple-macbook-air-11",
             "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-protective-matte-hard-case-for-apple-macbook-air-11-6-green-302029/"
+        },
+        "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-macbook-air-11-6": {
+            "title": "Paul mat dur \u00e9tui de protection pour Macbook Air 11,6 \"- rouge Avis...",
+            "snippet": "cherchez-vous pour la meilleur Paul mat dur \u00e9tui de protection pour Macbook Air 11,6 \"- rouge? Ici je recommand\u00e9 un de la DealExtreme Compagnie, une entreprise de se...",
+            "date": "2014-08-21",
+            "author_name": "swfrdxlelvgadgets",
+            "categories": "macbook",
+            "tags": "entreprise,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,macbook,macbook_air,air,mat,mat-dur,mat-dur-\u00e9tui,dur,dur-\u00e9tui,\u00e9tui,\u00e9tui-de-protection,protection,paul,avis,cherchez,ici",
+            "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-macbook-air-11-6",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-protective-matte-hard-case-for-macbook-air-11-6-red-302030/"
         },
         "pourbatterie.wordpress.com/2014/08/batterie-pour-apple-13-macbook-air-series-a1245-37wh": {
             "title": "Batterie pour Apple 13\" Macbook Air Series A1245 37Wh...",
@@ -105,21 +116,10 @@
             "date": "2014-07-29",
             "author_name": "lucy2008fr",
             "categories": "ordinateur,macbook",
-            "tags": "compatible,apple,ordinateur,ordinateur-portable,ordinateur-portable-apple,portable,portable-apple,ghz,apple_macbook,macbook,batterie,accueil,r\u00e9f\u00e9rence",
+            "tags": "compatible,apple,ordinateur,ordinateur-portable,ordinateur-portable-apple,portable,portable-apple,apple_macbook,macbook,batterie,accueil,r\u00e9f\u00e9rence",
             "recuweb_url": "http://fr.recuweb.com/macbook/pourbatterie.wordpress.com/2014/07/batterie-pour-apple-macbook-13-core-2-duo-t8300-black-08",
             "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
             "source_url": "http://pourbatterie.wordpress.com/2014/07/29/batterie-pour-apple-macbook-13-core-2-duo-t8300-black-08-2-4-ghz-early-2008-a1185-55wh/"
-        },
-        "mariabrogersm.wordpress.com/2014/06/frais-amovible-autocollants-macbook-pro": {
-            "title": "Frais amovible Autocollants Macbook Pro...",
-            "snippet": "MacBook Pro autocollants sont les discours les plus chauds sur tendent maintenant-a-jours et cela est devenu un nouvel engouement chez les gens. Macbook Pro sont des atouts pr\u00e9cieux []...",
-            "date": "2014-06-27",
-            "author_name": "mariabrogersm",
-            "categories": "macbook",
-            "tags": "gens,jours,macbook,macbook_pro,pro,chez",
-            "recuweb_url": "http://fr.recuweb.com/macbook/mariabrogersm.wordpress.com/2014/06/frais-amovible-autocollants-macbook-pro",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
-            "source_url": "http://mariabrogersm.wordpress.com/2014/06/27/frais-amovible-autocollants-macbook-pro/"
         }
     }
 }
