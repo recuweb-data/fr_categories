@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "perl",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/perl/",
@@ -10,104 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/perl/perl/blogs.json"
     },
     "items": {
-        "ubspectrum.com/2015/04/changes-in-sa-elections-surface-week-before-polls-open-university-at": {
-            "title": "Changes in SA elections surface week before polls open - University at Buffalo The Spectrum...",
-            "snippet": "Changes in SA elections surface week before polls openUniversity at Buffalo The SpectrumPerl said the party went into the elections with the expectation they would have to reconsider after major events like club endorsements. He also said the party...",
-            "date": "2015-04-08",
-            "tags": "into,after",
-            "recuweb_url": "http://fr.recuweb.com/ubspectrum.com/2015/04/changes-in-sa-elections-surface-week-before-polls-open-university-at",
+        "lagazettedescommunes.com/2015/04/l-usufruit-locatif-social-monte-en-puissance-gazette-des-communes": {
+            "title": "L'usufruit locatif social monte en puissance - Gazette des communes...",
+            "snippet": "L'usufruit locatif social monte en puissanceGazette des communesLaurent Mogno, directeur g\u00e9n\u00e9ral de PERL, revient, pour la Gazette des communes, sur les nouveaut\u00e9s de la loi ALUR pour d\u00e9velopper la production de logements sociaux via l'usufruit...",
+            "date": "2015-04-21",
+            "categories": "perl",
+            "tags": "d\u00e9velopper,perl",
+            "recuweb_url": "http://fr.recuweb.com/perl/lagazettedescommunes.com/2015/04/l-usufruit-locatif-social-monte-en-puissance-gazette-des-communes",
             "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
-            "source_url": "http://ubspectrum.com/article/2015/04/changes-in-sa-elections-surface-week-before-polls-open"
+            "source_url": "http://lagazettedescommunes.com/351186/lusufruit-locatif-social-monte-en-puissance/"
         },
-        "cbnews.fr/2015/04/nature-&-d%C3%A9couvertes-en-capsules-avec-kids-love-jetlag": {
-            "title": "Nature & D\u00e9couvertes en capsules avec Kids Love Jetlag...",
-            "snippet": "La campagne s'empare de cet univers et cr\u00e9e la surprise avec un traitement graphique moderne et malicieux\" commente Emmanuelle Perl, directrice du marketing et de la communication de Nature & D\u00e9couvertes.",
-            "date": "2015-04-06",
-            "categories": "marketing,perl,traitement,nature",
-            "tags": "communication,perl,kids",
-            "recuweb_url": "http://fr.recuweb.com/nature/cbnews.fr/2015/04/nature-&-d%C3%A9couvertes-en-capsules-avec-kids-love-jetlag",
+        "programmez.com/2015/04/offre-d-emploi": {
+            "title": "Offre d'emploi...",
+            "snippet": "Vous avez des comp\u00e9tences sur les syst\u00e8mes Linux/Redhad et Solaris. Vous connaissez JAVA/Perl et avec de bonnes comp\u00e9tences sur COBOL. La connaissance de la base de donn\u00e9e Packbase est un plus. Rigoureux (se) et organis\u00e9(e), vous avez lesprit...",
+            "date": "2015-04-20",
+            "categories": "connaissance,emploi,java,perl",
+            "tags": "linux,perl",
+            "recuweb_url": "http://fr.recuweb.com/perl/programmez.com/2015/04/offre-d-emploi",
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
-            "source_url": "http://cbnews.fr/marques/nature-decouvertes-en-capsules-avec-kids-love-jetlag-a1018996"
+            "source_url": "http://programmez.com/emploi-detail/J8J6P96L11ZS71LNCZ2"
         },
-        "emploi.handicap.fr/2015/04/cv-22521-informatiques-production-et-exploitation": {
-            "title": "CV 22521 - informatiques (Production et exploitation)...",
-            "snippet": "Scripting: Shell, Perl, Python, php, Powershell, SGBD: Oracle, SQL Server 2000,2005 & 2008. Virtualisation: VMware, Hyper-V, HP-VM. R\u00e9seau: Configuration des routeurs/Switches, NAT, TCP/IP, OSI, DHCP, DNS Backup/Storage...",
-            "date": "2015-04-03",
-            "categories": "perl,php",
-            "tags": "sql,production,scripting,perl,oracle",
-            "recuweb_url": "http://fr.recuweb.com/php/emploi.handicap.fr/2015/04/cv-22521-informatiques-production-et-exploitation",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
-            "source_url": "http://emploi.handicap.fr/cv-emploi-handicap-22521.php"
+        "biobiochile.cl/2015/04/alfredo-perl-se-luce-en-concierto-para-piano-de-andr%C3%A9s-maupoint": {
+            "title": "Alfredo Perl se luce en Concierto para piano de Andr\u00e9s Maupoint... - Radio B\u00edo-B\u00edo...",
+            "snippet": "Radio B\u00edo-B\u00edoAlfredo Perl se luce en Concierto para piano de Andr\u00e9s Maupoint...Radio B\u00edo-B\u00edoEl destacado pianista nacional Alfredo Perl, figura talentosa de nuestra m\u00fasica, fue el valor m\u00e1s destacado del Cuarto Concierto de la Temporada 2015...",
+            "date": "2015-04-19",
+            "categories": "perl,radio",
+            "tags": "del,pianista,perl,radio,andr\u00e9s,andr\u00e9s_maupoint,maupoint,alfredo,alfredo_perl,concierto",
+            "recuweb_url": "http://fr.recuweb.com/radio/biobiochile.cl/2015/04/alfredo-perl-se-luce-en-concierto-para-piano-de-andr%C3%A9s-maupoint",
+            "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
+            "source_url": "http://biobiochile.cl/2015/04/19/alfredo-perl-se-luce-en-concierto-para-piano-de-andres-maupoint-junto-a-la-sinfonica-de-chile.shtml"
         },
-        "emploi.silicon.fr/2015/03/ing%C3%A9nieur-de-production-secteur-financier-h-f": {
-            "title": "Ing\u00e9nieur de Production Secteur Financier H/F...",
-            "snippet": "De formation sup\u00e9rieure, vous avez le go\u00fbt du d\u00e9fi et justifiez d'au moins 4 ans d'exp\u00e9rience sur un poste similaire. Vous maitrisez l'anglais, ainsi que les technologies suivantes: SQL & PL-SQL, ORACLE, C, C, SUMMIT, Scripting (DOS, Perl).",
-            "date": "2015-03-31",
-            "categories": "technologie,perl",
-            "tags": "technologies,production,sql,oracle,scripting,perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/emploi.silicon.fr/2015/03/ing%C3%A9nieur-de-production-secteur-financier-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/338045/ingenieur-de-production-secteur-financier-hf/"
-        },
-        "developpez.com/2015/03/la-premi%C3%A8re-vente-aux-ench%C3%A8res-pour-les-algorithmes-attire": {
-            "title": "La premi\u00e8re vente aux ench\u00e8res pour les algorithmes attire des... -...",
-            "snippet": "premi\u00e8re vente aux ench\u00e8res pour les algorithmes attire des... six lignes de code Perl de Winstein et Horowitz ont efficacement fait tomber le syst\u00e8me de brouillage d'Hollywood, la m\u00e9thode que les studios ont mise au point pour s'assurer que...",
-            "date": "2015-03-31",
+        "lepopulaire.fr/2015/04/accident-mortel-sur-la-rn-147-une-jeune-fille-de-20": {
+            "title": "Accident mortel sur la RN 147: une jeune fille de 20 ans perd la vie...",
+            "snippet": "PERL f\u00eate l'arriv\u00e9e du printemps.. L'association Perl a r\u00e9ussi sa premi\u00e8re table ouverte de l'ann\u00e9e. Chacun avait amen\u00e9 son panier et par une belle journ\u00e9e printani\u00e8re les convives ont pu d\u00e9guster les diff\u00e9rents plats d\u00e9licieux que chacun...",
+            "date": "2015-04-16",
             "categories": "perl",
             "tags": "perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/developpez.com/2015/03/la-premi%C3%A8re-vente-aux-ench%C3%A8res-pour-les-algorithmes-attire",
-            "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
-            "source_url": "http://developpez.com/actu/83244/La-premiere-vente-aux-encheres-pour-les-algorithmes-attire-des-offres-de-plus-de-1000-voici-les-merites-esthetiques-du-code/"
+            "recuweb_url": "http://fr.recuweb.com/perl/lepopulaire.fr/2015/04/accident-mortel-sur-la-rn-147-une-jeune-fille-de-20",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
+            "source_url": "http://lepopulaire.fr/limousin/actualite/2015/04/20/accident-mortel-sur-la-rn-147-une-jeune-fille-de-20-ans-perd-la-vie_11407420.html"
         },
-        "jobs.electronicsweekly.com/2015/03/wanted-enterprise-sw-engineer-java-ood-perl-linux": {
-            "title": "Wanted! - Enterprise SW Engineer (Java, OOD, Perl, Linux) -...",
-            "snippet": "Wanted! - Enterprise SW Engineer (Java, OOD, Perl, Linux) for a world leading company based in Finland! Our client is looking for experienced Software Engineers to join there Enterprise Application Department covering the day-to-day development...",
-            "date": "2015-03-31",
-            "categories": "java,perl",
-            "tags": "day,application,leading,perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/jobs.electronicsweekly.com/2015/03/wanted-enterprise-sw-engineer-java-ood-perl-linux",
-            "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
-            "source_url": "http://jobs.electronicsweekly.com/job/1401418291/wanted-enterprise-sw-engineer-java-ood-perl-linux-/"
-        },
-        "deutschlandradiokultur.de/2015/03/born-to-be-mild-von-hille-perl-die-rockige-seite-der": {
-            "title": "Born to be mild von Hille Perl Die rockige Seite der Kniegeige - Deutschlandradio Kultur...",
-            "snippet": "\"Born to be mild\" von Hille Perl Die rockige Seite der KniegeigeDeutschlandradio KulturHille Perl geh\u00f6rt seit Jahren zu den f\u00fchrenden Interpretinnen Alter Musik. Auf ihrem aktuellen Album \"Born To Be Mild\" peppt sie ihre elektro-akustische Gambe,...",
-            "date": "2015-03-17",
+        "latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor-latercera": {
+            "title": "Los tres repertorios de Perl: de pianista a director y profesor - LaTercera (Registro)...",
+            "snippet": "LaTercera (Registro)Los tres repertorios de Perl: de pianista a director y profesorLaTercera (Registro)Si Alfredo Perl (1965) fuera doctor, evitar\u00eda las especialidades. Abierto a tocar de todo y dispuesto a repartir su vida profesional entre el...",
+            "date": "2015-04-16",
             "categories": "perl",
-            "tags": "perl,der,auf",
-            "recuweb_url": "http://fr.recuweb.com/perl/deutschlandradiokultur.de/2015/03/born-to-be-mild-von-hille-perl-die-rockige-seite-der",
+            "tags": "alfredo,pianista,perl",
+            "recuweb_url": "http://fr.recuweb.com/perl/latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor-latercera",
+            "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
+            "source_url": "http://latercera.com/noticia/cultura/2015/04/1453-625691-9-los-tres-repertorios-de-perl-de-pianista-a-director-y-profesor.shtml"
+        },
+        "l-iz.de/2015/04/drei-fl%C3%BCgel-inka-perl-und-johannes-zagler-zeigen-ihre-leipziger-internet": {
+            "title": "Drei Fl\u00fcgel: Inka Perl und Johannes Zagler zeigen ihre... - Leipziger Internet-Zeitung...",
+            "snippet": "Leipziger Internet-ZeitungDrei Fl\u00fcgel: Inka Perl und Johannes Zagler zeigen ihre...Leipziger Internet-ZeitungInka Perl, eine Leipziger K\u00fcnstlerin, sch\u00f6pfte in der Vergangenheit f\u00fcr ihre Kunst die Zeichen und die Kunstsprache vor allem aus der...",
+            "date": "2015-04-16",
+            "categories": "perl,internet",
+            "tags": "aus,der,und,perl",
+            "recuweb_url": "http://fr.recuweb.com/internet/l-iz.de/2015/04/drei-fl%C3%BCgel-inka-perl-und-johannes-zagler-zeigen-ihre-leipziger-internet",
             "resource_url": "http://news.google.fr/?hl=fr&q=perl%2Bperl&output=atom&nord=1",
-            "source_url": "http://deutschlandradiokultur.de/born-to-be-mild-von-hille-perl-die-rockige-seite-der.2177.de.html?dram:article_id=314446"
+            "source_url": "http://l-iz.de/kultur/ausstellungen/2015/04/inka-perl-und-johannes-zagler-zeigen-ihre-persoenlichen-altaere-85357"
         },
-        "mopo.de/2015/03/hoffenheim-hsv-alles-schaut-auf-schiedrichter-g%C3%BCnter-perl-hamburger-morgenpost": {
-            "title": "Hoffenheim - HSV - Alles schaut auf Schiedrichter G\u00fcnter Perl - Hamburger Morgenpost...",
-            "snippet": "Hamburger MorgenpostHoffenheim - HSV - Alles schaut auf Schiedrichter G\u00fcnter PerlHamburger MorgenpostBeim DFB scheint man sich der besonderen Brisanz bewusst zu sein und schickt mit G\u00fcnter Perl (45) heute einen seiner erfahrensten Referees nach...",
-            "date": "2015-03-14",
+        "derwesten.de/2015/04/mathias-perl-und-lukas-erdh%C3%BCtter-bleiben": {
+            "title": "Mathias Perl und Lukas Erdh\u00fctter bleiben -...",
+            "snippet": "Perl und Lukas Erdh\u00fctter ist, dass Mathias Perl und Lukas Erdh\u00fctter bleiben. Auch Sebastian Schr\u00f6ter sollte verbleiben. Das m\u00fcssen wir aber noch kl\u00e4ren. Auch weitere Spieler aus dem Kader der abgelaufenen Saison m\u00f6chten weiter in Blau-Gelb...",
+            "date": "2015-04-14",
             "categories": "perl",
-            "tags": "perl,der,auf",
-            "recuweb_url": "http://fr.recuweb.com/perl/mopo.de/2015/03/hoffenheim-hsv-alles-schaut-auf-schiedrichter-g%C3%BCnter-perl-hamburger-morgenpost",
-            "resource_url": "http://news.google.fr/?hl=fr&q=perl%2Bperl&output=atom&nord=1",
-            "source_url": "http://mopo.de/hsv/hoffenheim---hsv--alles-schaut-auf-schiedrichter-guenter-perl,5067038,30118808.html"
-        },
-        "livedesignonline.com/2015/03/xl-video-announces-german-perl-appointment-in-the-u-s-live": {
-            "title": "XL Video Announces German Perl Appointment In The U.S. - Live Design...",
-            "snippet": "Live DesignXL Video Announces German Perl Appointment In The DesignXL Video US announces the addition of German Perl as Technical Director Media Application and Projection. After 10 years of developing leading edge technologies with XL Video in...",
-            "date": "2015-03-12",
-            "categories": "technologie,perl",
-            "tags": "leading,technologies,application,perl,after",
-            "recuweb_url": "http://fr.recuweb.com/perl/livedesignonline.com/2015/03/xl-video-announces-german-perl-appointment-in-the-u-s-live",
+            "tags": "der,aus,perl,und",
+            "recuweb_url": "http://fr.recuweb.com/perl/derwesten.de/2015/04/mathias-perl-und-lukas-erdh%C3%BCtter-bleiben",
             "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
-            "source_url": "http://livedesignonline.com/briefing-room/xl-video-announces-german-perl-appointment-us"
+            "source_url": "http://derwesten.de/sport/lokalsport/ennepetal-gevelsberg-schwelm/mathias-perl-und-lukas-erdhuetter-bleiben-id10562032.html"
         },
-        "globalsecuritymag.fr/2015/03/vigilnce-perl-gtk2-corruption-de-m%C3%A9moire-via-list-devices-global-security": {
-            "title": "Vigilnce - Perl Gtk2: corruption de m\u00e9moire via list_devices - Global Security Mag...",
-            "snippet": "Vigilnce - Perl Gtk2: corruption de m\u00e9moire via list_devicesGlobal Security MagLe module Gtk2 peut \u00eatre install\u00e9 avec Perl. Cependant, la fonction Gtk2::Gdk::Display::list_devices() ne g\u00e8re pas correctement sa m\u00e9moire. Un attaquant peut donc...",
-            "date": "2015-03-03",
-            "categories": "perl",
-            "tags": "perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/globalsecuritymag.fr/2015/03/vigilnce-perl-gtk2-corruption-de-m%C3%A9moire-via-list-devices-global-security",
+        "radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta": {
+            "title": "Alfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta... - Diario y Radio Uchile...",
+            "snippet": "Diario y Radio UchileAlfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta...Diario y Radio UchileEstoy muy feliz de que la Orquesta Sinf\u00f3nica haya decidido contemplar el estreno de esta obra, comenta Alfredo Perl respecto del Concierto...",
+            "date": "2015-04-10",
+            "categories": "radio,perl",
+            "tags": "del,radio,perl,andr\u00e9s,andr\u00e9s_maupoint,maupoint,alfredo,alfredo_perl,concierto",
+            "recuweb_url": "http://fr.recuweb.com/perl/radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta",
             "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Perl-Gtk2-corruption-de,20150303,51224.html"
+            "source_url": "http://radio.uchile.cl/2015/04/10/alfredo-perl-estrena-obra-de-andres-maupoint-junto-a-la-orquesta-sinfonica"
         }
     }
 }
