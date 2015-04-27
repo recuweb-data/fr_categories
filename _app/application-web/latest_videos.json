@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "application-web",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/application-web/",
@@ -10,18 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/transformer-un-site-internet-en-une-application-web-mobile-compatible-smartphone": {
-            "title": "Transformer un Site Internet en une Application Web Mobile Compatible Smartphone...",
-            "snippet": "Transformer un Site Internet en une Application Web Mobile Compatible Smartphone creation-site-web-internet-mobile-compatible-smartphone-toulon-var-paca/Transformer un Site Internet en une application Web Mobile Compatible... From: pierre dubois...",
-            "date": "2015-04-06",
-            "author_name": "pierre dubois",
-            "categories": "application-web,internet",
-            "tags": "web,mobile,application,application_web,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2015/04/transformer-un-site-internet-en-une-application-web-mobile-compatible-smartphone",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=idrsjR2hbOk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/idrsjR2hbOk/0.jpg"
-        },
         "youtube.com/2015/03/lancement-d-une-application-web-qui-facilitera-lacc%C3%A8s-et-le-traitement": {
             "title": "Lancement d'une application Web qui facilitera lacc\u00e8s et le traitement du statut de fonctionnaire.",
             "snippet": "Lancement d'une application Web qui facilitera lacc\u00e8s et le traitement du statut de fonctionnaire. Lancement d'une application Web qui facilitera l'acc\u00e8s et le traitement en temps r\u00e9el du statut de fonctionnaire de l'\u00c9tat. From: ORTMTV1 Views:...",
@@ -42,7 +31,7 @@
             "categories": "technologie,application-web,jquery",
             "tags": "technologie,technologie-utilis\u00e9e,utilis\u00e9e,utilis\u00e9e-pour-interagir,interagir,auquel,auquel-les-utilisateurs,utilisateurs,utilisateurs-pourront,pourront,pourront-se-connecter,connecter,connecter-grce,grce,espace,espace-membre,membre,allons,allons-cr\u00e9er,cr\u00e9er,cr\u00e9er-un-tchat,tchat,tutoriel,application,application-web,web,web-de-tchat,tchat-avec-espace,tuto,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/youtube.com/2015/03/tuto-cr%C3%A9er-une-application-web-de-tchat-avec-espace-membre-partie",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb%2Bapplication%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Xz5s8V8GeOA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Xz5s8V8GeOA/0.jpg"
         },
@@ -52,11 +41,23 @@
             "date": "2015-03-07",
             "author_name": "D\u00e9veloppement Web",
             "categories": "application-web",
-            "tags": "application,application_web,web",
+            "tags": "inexactitudes,inexactitudes-ou-oublis,oublis,oublis-\u00e9ventuels,\u00e9ventuels,h\u00e9sitez,signaler,signaler-directement,directement,directement-les-erreurs,erreurs,premi\u00e8re,premi\u00e8re_application,premi\u00e8re_application_web,application,application_web,web,d\u00e9veloppeur,d\u00e9butant",
             "recuweb_url": "http://fr.recuweb.com/application-web/youtube.com/2015/03/comprendre-sa-premi%C3%A8re-application-web-en-d%C3%A9veloppeur-c-d%C3%A9butant-03",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=siuaLoHQNqk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/siuaLoHQNqk/0.jpg"
+        },
+        "youtube.com/2015/03/ecrire-une-premi%C3%A8re-application-web-en-d%C3%A9veloppeur-c-d%C3%A9butant-02": {
+            "title": "Ecrire Une Premi\u00e8re Application Web en (d\u00e9veloppeur C d\u00e9butant) 02...",
+            "snippet": "Ecrire Une Premi\u00e8re Application Web en (d\u00e9veloppeur C d\u00e9butant) 02 Ecrire Une Premi\u00e8re Application Web en (d\u00e9veloppeur C d\u00e9butant) 02 N'h\u00e9sitez pas \u00e0 me signaler directement les erreurs, inexactitudes ou oublis \u00e9ventuels. Je vous en suis...",
+            "date": "2015-03-03",
+            "author_name": "D\u00e9veloppement Web",
+            "categories": "application-web",
+            "tags": "inexactitudes,inexactitudes-ou-oublis,oublis,oublis-\u00e9ventuels,\u00e9ventuels,h\u00e9sitez,signaler,signaler-directement,directement,directement-les-erreurs,erreurs,premi\u00e8re,premi\u00e8re_application,premi\u00e8re_application_web,application,application_web,web,d\u00e9veloppeur,d\u00e9butant",
+            "recuweb_url": "http://fr.recuweb.com/application-web/youtube.com/2015/03/ecrire-une-premi%C3%A8re-application-web-en-d%C3%A9veloppeur-c-d%C3%A9butant-02",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb%2Bapplication%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=GQjJRNB6DLY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/GQjJRNB6DLY/0.jpg"
         },
         "youtube.com/2015/02/application-web-personnes-disparus": {
             "title": "application web personnes disparus...",
@@ -93,28 +94,28 @@
             "source_url": "http://youtube.com/watch?v=_6c6Nf40NzY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/_6c6Nf40NzY/0.jpg"
         },
-        "youtube.com/2014/11/webinar-en-fran%C3%A7ais-ssl-tls-impacts-et-solutions-pour-vos-applications": {
-            "title": "Webinar en Fran\u00e7ais: SSL/TLS impacts et solutions pour vos applications web...",
-            "snippet": "Webinar en Fran\u00e7ais: SSL/TLS impacts et solutions pour vos applications web INTRODUCTION Qu'est-ce que le SSL/TLS? L'int\u00e9r\u00eat du SSL Rapide historique D\u00e9roulement d'une connexion TLS PARTIE 1 Quel est le r\u00f4le d'un certificat SSL? Les niveaux...",
-            "date": "2014-11-14",
-            "author_name": "SSL247",
-            "tags": "web",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/11/webinar-en-fran%C3%A7ais-ssl-tls-impacts-et-solutions-pour-vos-applications",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb%2Bapplication%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=RVxo0dRX30s&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/RVxo0dRX30s/0.jpg"
-        },
         "dailymotion.com/2014/11/mobile-web-application-development-developers": {
             "title": "mobile web application development mobile application developers...",
             "snippet": "community colleges with online degrees colleges with online degrees business management degree online online business management degree online business degree programs business degree online crm software for small business free online crm software...",
             "date": "2014-11-06",
             "author_name": "lobanisop10",
             "categories": "management",
-            "tags": "mobile,web,web-application,application",
+            "tags": "web,web-application,application",
             "recuweb_url": "http://fr.recuweb.com/management/dailymotion.com/2014/11/mobile-web-application-development-developers",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/application+web+application+web/0?af=1",
             "source_url": "http://dailymotion.com/video/x29ezv9_mobile-web-application-development-mobile-application-developers_animals",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x29ezv9_mobile-web-application-development-mobile-application-developers_animals"
+        },
+        "youtube.com/2014/09/youfid-application-web-t%C3%A9moignage-client-nabab-kebab-2014": {
+            "title": "YouFid - Application web - T\u00e9moignage client Nabab Kebab 2014...",
+            "snippet": "YouFid - Application web - T\u00e9moignage client Nabab Kebab 2014 From: 2\u00e8me\u00c0droite Views: 156 0 ratings Time: 02:48 More in Film & Animation...",
+            "date": "2014-09-23",
+            "author_name": "2\u00e8me\u00c0droite",
+            "tags": "application,web",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/09/youfid-application-web-t%C3%A9moignage-client-nabab-kebab-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=iKZr8dOLPfM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/iKZr8dOLPfM/0.jpg"
         },
         "youtube.com/2014/09/d%C3%A9couverte-fifa-15-l-application-fut-web": {
             "title": "D\u00e9couverte FIFA 15 - L'application Fut Web 15!",
@@ -122,7 +123,7 @@
             "date": "2014-09-19",
             "author_name": "We Gaming",
             "categories": "internet",
-            "tags": "internet,application,web",
+            "tags": "application,web",
             "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2014/09/d%C3%A9couverte-fifa-15-l-application-fut-web",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=application%2Bweb%2Bapplication%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=sioTt_UPz5w&feature=youtube_gdata",
