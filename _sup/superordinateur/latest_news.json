@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "superordinateur",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/superordinateur/",
@@ -10,55 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/superordinateur/superordinateur/blogs.json"
     },
     "items": {
-        "letemps.ch/2015/04/l-ge-des-centaures-le-temps-abonnement": {
-            "title": "L'ge des centaures - Le Temps (Abonnement)...",
-            "snippet": "L'ge des centauresLe Temps (Abonnement)Nous sommes entr\u00e9s dans l'ge des centaures. Il nous faut d\u00e9sormais d\u00e9couvrir l'art de penser, d\u00e9cider et inventer avec les algorithmes. La victoire de Deep Blue, le superordinateur d'IBM, contre Garry...",
-            "date": "2015-04-07",
+        "challenges.fr/2015/04/chez-atos-on-compte-sur-les-supercalculateurs-de-bull": {
+            "title": "Chez Atos, on compte sur les supercalculateurs de Bull -...",
+            "snippet": "Atos, on compte sur les supercalculateurs de 'une des cl\u00e9s de cette bonne sant\u00e9 est l'int\u00e9gration de Bull et ses superordinateurs, l'une des plus anciennes marques informatiques cr\u00e9\u00e9e en 1930. Le chiffre d'affaires du cloud et des...",
+            "date": "2015-04-22",
             "categories": "superordinateur",
-            "tags": "superordinateur,faut",
-            "recuweb_url": "http://fr.recuweb.com/superordinateur/letemps.ch/2015/04/l-ge-des-centaures-le-temps-abonnement",
-            "resource_url": "http://news.google.fr/?hl=fr&q=superordinateur%2Bsuperordinateur&output=atom&nord=1",
-            "source_url": "http://letemps.ch/Page/Uuid/0f3ae4c8-dd31-11e4-aa18-ff4de01147fa/L\u00e2ge_des_centaures"
-        },
-        "bulletins-electroniques.com/2015/04/collaboration-entre-saint-p%C3%A9tersbourg-et-stuttgart-dans-le-domaine": {
-            "title": "Collaboration entre Saint-P\u00e9tersbourg et Stuttgart dans le domaine... -...",
-            "snippet": "Collaboration entre Saint-P\u00e9tersbourg et Stuttgart dans le domaine... 'Universit\u00e9 Polytechnique d'Etat de Saint-P\u00e9tersbourg a annonc\u00e9 une collaboration dans le domaine des technologies avanc\u00e9es en superordinateurs avec l'Universit\u00e9 de...",
-            "date": "2015-04-01",
-            "categories": "technologie,superordinateur",
-            "tags": "superordinateurs,universit\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/superordinateur/bulletins-electroniques.com/2015/04/collaboration-entre-saint-p%C3%A9tersbourg-et-stuttgart-dans-le-domaine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=superordinateur%2Bsuperordinateur&output=atom&nord=1",
-            "source_url": "http://bulletins-electroniques.com/actualites/78230.htm"
-        },
-        "futura-sciences.com/2015/03/cl%C3%A9-de-la-cosmologie-masse-du-neutron-a-%C3%A9t%C3%A9-calcul%C3%A9e-futura": {
-            "title": "Cl\u00e9 de la cosmologie, la masse du neutron a \u00e9t\u00e9 calcul\u00e9e - Futura Sciences...",
-            "snippet": "Futura SciencesCl\u00e9 de la cosmologie, la masse du neutron a \u00e9t\u00e9 calcul\u00e9eFutura SciencesEn utilisant des superordinateurs du Forschungszentrum J\u00fclich et de l'Idris (CNRS), ainsi que les \u00e9quations de l'\u00e9lectrodynamique quantique, la th\u00e9orie...",
-            "date": "2015-03-30",
-            "categories": "superordinateur,science",
             "tags": "superordinateurs",
-            "recuweb_url": "http://fr.recuweb.com/science/futura-sciences.com/2015/03/cl%C3%A9-de-la-cosmologie-masse-du-neutron-a-%C3%A9t%C3%A9-calcul%C3%A9e-futura",
+            "recuweb_url": "http://fr.recuweb.com/superordinateur/challenges.fr/2015/04/chez-atos-on-compte-sur-les-supercalculateurs-de-bull",
             "resource_url": "http://news.google.fr/?hl=fr&q=superordinateur%2Bsuperordinateur&output=atom&nord=1",
-            "source_url": "http://futura-sciences.com/magazines/matiere/infos/actu/d/chromodynamique-quantique-cle-cosmologie-masse-neutron-ete-calculee-57647/"
+            "source_url": "http://challenges.fr/high-tech/20150422.CHA5191/chez-atos-on-compte-sur-les-supercalculateurs-de-bull.html"
         },
-        "parismatch.com/2015/03/le-projet-du-si%C3%A8cle-la-carte-cerveau": {
-            "title": "Le projet du si\u00e8cle: la carte du cerveau...",
-            "snippet": "Ce qui expliquerait que E=mc2 Pour r\u00e9ussir lexploit de reproduire un cerveau humain, l\u00e9quipe du Human Brain Project aura besoin dun superordinateur capable de r\u00e9aliser un milliard de milliards dop\u00e9rations par seconde! Les plus...",
-            "date": "2015-03-29",
+        "lemondeinformatique.fr/2015/04/trimestriels-ibm-2015-le-ca-baisse-de-12%-malgr%C3%A9-succ%C3%A8s": {
+            "title": "Trimestriels IBM 2015: Le CA baisse de 12% malgr\u00e9 le succ\u00e8s du z13 - LeMondeInformatique...",
+            "snippet": "LeMondeInformatiqueTrimestriels IBM 2015: Le CA baisse de 12% malgr\u00e9 le succ\u00e8s du z13LeMondeInformatiqueIl mise notamment beaucoup sur ses nouveaux services analytiques qui utilisent la puissance de son super-ordinateur Watson et sur les services...",
+            "date": "2015-04-21",
+            "categories": "ordinateur",
+            "tags": "ibm,super,ordinateur,watson",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/lemondeinformatique.fr/2015/04/trimestriels-ibm-2015-le-ca-baisse-de-12%-malgr%C3%A9-succ%C3%A8s",
+            "resource_url": "http://news.google.fr/?hl=fr&q=superordinateur%2Bsuperordinateur&output=atom&nord=1",
+            "source_url": "http://lemondeinformatique.fr/actualites/lire-trimestriels-ibm-2015-le-ca-baisse-de-12-malgre-le-succes-du-z13-60913.html"
+        },
+        "lessentiel.lu/2015/04/une-app-pour-nettoyer-sa-r%C3%A9putation-en-ligne": {
+            "title": "Une app pour nettoyer sa r\u00e9putation en ligne...",
+            "snippet": "Elle se charge d'analyser et de signaler les publications n\u00e9gatives en langue anglaise grce aux algorithmes de l'application et au superordinateur Watson d'IBM. Mais le syst\u00e8me est encore loin de la perfection, selon le magazine am\u00e9ricain.",
+            "date": "2015-04-21",
             "categories": "superordinateur",
-            "tags": "superordinateur,human,human_brain,human_brain_project,brain,brain_project,project,cerveau,cerveau-humain,humain,projet,si\u00e8cle",
-            "recuweb_url": "http://fr.recuweb.com/superordinateur/parismatch.com/2015/03/le-projet-du-si%C3%A8cle-la-carte-cerveau",
+            "tags": "superordinateur,grce,watson,ibm",
+            "recuweb_url": "http://fr.recuweb.com/superordinateur/lessentiel.lu/2015/04/une-app-pour-nettoyer-sa-r%C3%A9putation-en-ligne",
             "resource_url": "http://www.bing.com/news/search?first=1&q=superordinateur&format=RSS&cc=fr",
-            "source_url": "http://parismatch.com/Actu/Environnement-et-sciences/Le-projet-du-siecle-la-carte-du-cerveau-734974"
+            "source_url": "http://lessentiel.lu/fr/hi_tech/actualites/story/Une-app-pour-nettoyer-sa-reputation-en-ligne-17229617"
         },
-        "fr.rbth.com/2015/03/en-russie-un-clone-virtuel-3d-pour-soigner-des-patients-russia": {
-            "title": "En Russie, un clone virtuel en 3D pour soigner des patients en... - Russia Beyond The Headlines...",
-            "snippet": "En Russie, un clone virtuel en 3D pour soigner des patients en...Russia Beyond The Headlines FranceAvec l'aide d'un superordinateur, les chercheurs de l'Universit\u00e9 d'\u00c9tat Lobatchevski de Nijni-Novgorod ont transform\u00e9 une s\u00e9rie de tomographies en...",
-            "date": "2015-03-28",
+        "lopinion.fr/2015/04/le-ministre-de-la-d%C3%A9fense-%C3%A9voque-p%C3%B4le-national-cryptanalyse-l-opinion": {
+            "title": "Le ministre de la D\u00e9fense \u00e9voque le P\u00f4le national de cryptanalyse... - L'Opinion...",
+            "snippet": "Le ministre de la D\u00e9fense \u00e9voque le P\u00f4le national de cryptanalyse...L'OpinionIl pourrait, pour ce faire, utiliser d'autres superordinateurs travaillant en r\u00e9seaux, afin d'accroitre les capacit\u00e9s de calcul, mais ils ne stockent pas des...",
+            "date": "2015-04-20",
             "categories": "superordinateur",
-            "tags": "s\u00e9rie,superordinateur,universit\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/superordinateur/fr.rbth.com/2015/03/en-russie-un-clone-virtuel-3d-pour-soigner-des-patients-russia",
+            "tags": "afin,superordinateurs",
+            "recuweb_url": "http://fr.recuweb.com/superordinateur/lopinion.fr/2015/04/le-ministre-de-la-d%C3%A9fense-%C3%A9voque-p%C3%B4le-national-cryptanalyse-l-opinion",
             "resource_url": "http://news.google.fr/?hl=fr&q=superordinateur%2Bsuperordinateur&output=atom&nord=1",
-            "source_url": "http://fr.rbth.com/tech/2015/03/26/en_russie_un_clone_virtuel_en_3d_pour_soigner_des_patients_en_chair_et_e_33241.html"
+            "source_url": "http://lopinion.fr/blog/secret-defense/ministre-defense-evoque-pole-national-cryptanalyse-decryptement-23488"
+        },
+        "voir.ca/2015/04/le-vaccin-contre-vph-pour-les-gar%C3%A7ons-pas-si-vite": {
+            "title": "Le vaccin contre le VPH pour les gar\u00e7ons, pas si vite!",
+            "snippet": "Le mod\u00e8le r\u00e9sultant peut \u00eatre passablement complexe et demander de rouler sur un superordinateur afin de produire un r\u00e9sultat en un temps raisonnable. Ainsi, cest en se basant sur les pr\u00e9dictions de tels mod\u00e8les que le Qu\u00e9bec et la...",
+            "date": "2015-04-19",
+            "categories": "superordinateur",
+            "tags": "peut,\u00eatre,superordinateur,afin",
+            "recuweb_url": "http://fr.recuweb.com/superordinateur/voir.ca/2015/04/le-vaccin-contre-vph-pour-les-gar%C3%A7ons-pas-si-vite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=superordinateur&format=RSS&cc=fr",
+            "source_url": "http://voir.ca/yvan-dutil/2015/04/19/le-vaccin-contre-le-vph-pour-les-garcons-pas-si-vite/"
+        },
+        "fr.sputniknews.com/2015/04/un-superordinateur-chinois-accus%C3%A9-de-menacer-la-s%C3%A9curit%C3%A9-des-etats-sputnik": {
+            "title": "Un superordinateur chinois accus\u00e9 de menacer la s\u00e9curit\u00e9 des Etats... - Sputnik France...",
+            "snippet": "Un superordinateur chinois accus\u00e9 de menacer la s\u00e9curit\u00e9 des Etats...Sputnik FranceSelon le journal Wall Street Journal, quatre centres scientifiques chinois g\u00e9rant le superordinateur Tianhe-2 figurent sur la liste US des entreprises pr\u00e9sentant...",
+            "date": "2015-04-09",
+            "categories": "superordinateur",
+            "tags": "superordinateur",
+            "recuweb_url": "http://fr.recuweb.com/superordinateur/fr.sputniknews.com/2015/04/un-superordinateur-chinois-accus%C3%A9-de-menacer-la-s%C3%A9curit%C3%A9-des-etats-sputnik",
+            "resource_url": "http://news.google.fr/?hl=fr&q=superordinateur%2Bsuperordinateur&output=atom&nord=1",
+            "source_url": "http://fr.sputniknews.com/international/20150409/1015582746.html"
         }
     }
 }
