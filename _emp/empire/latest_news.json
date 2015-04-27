@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "empire",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/empire/",
@@ -10,82 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/empire/empire/blogs.json"
     },
     "items": {
-        "blogs.mediapart.fr/2015/04/l-empire-am%C3%A9ricain-durera-t-il-1000": {
-            "title": "L'Empire am\u00e9ricain durera-t-il 1000 ans?",
-            "snippet": "C'est la question qu'il est l\u00e9gitime de se poser lorsque l'on \u00e9coute l'expos\u00e9 fait r\u00e9cemment par George Friedman devant le prestigieux Think tank am\u00e9ricain Chicago Council on global affairs. Emigr\u00e9 d'Europe de l'Est dans sa toute jeunesse,...",
-            "date": "2015-04-18",
-            "categories": "empire",
-            "tags": "empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/blogs.mediapart.fr/2015/04/l-empire-am%C3%A9ricain-durera-t-il-1000",
+        "elwatan.com/2015/04/istanbul-veut-s%C3%A9duire-les-agences-de-voyages": {
+            "title": "Istanbul veut s\u00e9duire les agences de voyages...",
+            "snippet": "Parmi les nouveaut\u00e9s, figure Bursa. Historiquement, Bursa fut la premi\u00e8re capitale de lEmpire ottoman au XIVe si\u00e8cle. Aujourdhui, cest lune des plus grandes villes de Turquie et surtout une ville verte avec ses nombreux parcs et de vastes...",
+            "date": "2015-04-26",
+            "tags": "ottoman,fut,premi\u00e8re,capitale",
+            "recuweb_url": "http://fr.recuweb.com/elwatan.com/2015/04/istanbul-veut-s%C3%A9duire-les-agences-de-voyages",
             "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://blogs.mediapart.fr/blog/jean-paul-baquiast/180415/lempire-americain-durera-t-il-1000-ans"
+            "source_url": "http://elwatan.com/culture/istanbul-veut-seduire-les-agences-de-voyages-26-04-2015-293287_113.php"
         },
-        "melty.fr/2015/04/star-wars-7-l-empire-et-alliance-ont-de-nouveaux-noms": {
-            "title": "Star Wars 7: L'Empire et l'Alliance ont de nouveaux noms!",
-            "snippet": "Trente ans apr\u00e8s la chute de lEmpire et la victoire de lAlliance Rebelle, o\u00f9 en est la galaxie? Lordre et la paix ont-ils enfin \u00e9t\u00e9 r\u00e9tablis et la tyrannie des uns exerc\u00e9e sur les autres a-t-elle pris fin? Et bien, il faut croire que la...",
-            "date": "2015-04-18",
+        "video.lefigaro.fr/2015/04/gallipoli-hommage-aux-soldats-de-l-empire-britannique-tomb%C3%A9s-pendant": {
+            "title": "Gallipoli: hommage aux soldats de l'Empire britannique tomb\u00e9s pendant la Premi\u00e8re guerre mondiale...",
+            "snippet": "La liste des prochaines ex\u00e9cutions va \u00eatre annonc\u00e9e. Et le Fran\u00e7ais Serge Atlaoui n'en fait pas partie, a fait savoir samedi le Parquet g\u00e9n\u00e9ral de Jakarta. Le Fran\u00e7ais, g\u00e9 de 51 ans, est en attente d'ex\u00e9cution apr\u00e8s le rejet de son ultime...",
+            "date": "2015-04-25",
             "categories": "empire",
-            "tags": "fin,star,star_wars,wars,empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/melty.fr/2015/04/star-wars-7-l-empire-et-alliance-ont-de-nouveaux-noms",
+            "tags": "\u00eatre,britannique,pendant,empire,premi\u00e8re",
+            "recuweb_url": "http://fr.recuweb.com/empire/video.lefigaro.fr/2015/04/gallipoli-hommage-aux-soldats-de-l-empire-britannique-tomb%C3%A9s-pendant",
             "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://melty.fr/star-wars-7-l-empire-et-l-alliance-ont-de-nouveaux-noms-a402291.html"
+            "source_url": "http://video.lefigaro.fr/figaro/video/gallipoli-hommage-aux-soldats-de-l-empire-britannique-tombes-pendant-la-premiere-guerre-mondiale/4196160170001/"
         },
-        "toutelaculture.com/2015/04/boardwalk-empire-saison-5-tout-a-une-fin-toutelaculture": {
-            "title": "Boardwalk Empire: saison 5 Tout a une fin - Toutelaculture...",
-            "snippet": "ToutelacultureBoardwalk Empire: saison 5 Tout a une fin ToutelacultureAdapt\u00e9e du roman Boardwalk Empire: The Birth, High Times and the Corruption of Atlantic City de Nelson Johnson, cette saga s'affiche du point des personnages, de la mise en...",
-            "date": "2015-04-17",
+        "melty.fr/2015/04/empire-les-stars-de-la-s%C3%A9rie-se-produiront-aux-billboard-music": {
+            "title": "Empire: Les stars de la s\u00e9rie se produiront aux Billboard Music... -...",
+            "snippet": ": Les stars de la s\u00e9rie se produiront aux Billboard Music... de cet entretien, l'actrice d'Empire s'est confi\u00e9e sur la deuxi\u00e8me saison du show. \"Peut-\u00eatre que Cookie a tu\u00e9 quelqu'un en prison\" a r\u00e9v\u00e9l\u00e9 Taraji P. Henson. Si l'actrice ne sait...",
+            "date": "2015-04-23",
             "categories": "empire",
-            "tags": "personnages,city,empire,fin,saison",
-            "recuweb_url": "http://fr.recuweb.com/empire/toutelaculture.com/2015/04/boardwalk-empire-saison-5-tout-a-une-fin-toutelaculture",
-            "resource_url": "http://news.google.fr/?hl=fr&q=empire%2Bempire&output=atom&nord=1",
-            "source_url": "http://toutelaculture.com/cinema/series/boardwalk-empire-saison-5-tout-a-une-fin/"
-        },
-        "lesechos.fr/2015/04/rivaud-un-jackpot-d%C3%A9cisif-dans-la-constitution-de-l-empire-bollor%C3%A9": {
-            "title": "Rivaud, un jackpot d\u00e9cisif dans la constitution de l'empire Bollor\u00e9 - Les \u00c9chos...",
-            "snippet": "Les \u00c9chosRivaud, un jackpot d\u00e9cisif dans la constitution de l'empire Bollor\u00e9Les \u00c9chosDans la constitution de l'empire Bollor\u00e9, le raid sur la Banque Rivaud va \u00eatre d\u00e9cisif. Arriv\u00e9 en 1988 de fa\u00e7on amicale au capital, Vincent Bollor\u00e9 est...",
-            "date": "2015-04-17",
-            "categories": "empire",
-            "tags": "empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/lesechos.fr/2015/04/rivaud-un-jackpot-d%C3%A9cisif-dans-la-constitution-de-l-empire-bollor%C3%A9",
+            "tags": "\u00eatre,s\u00e9rie,empire",
+            "recuweb_url": "http://fr.recuweb.com/empire/melty.fr/2015/04/empire-les-stars-de-la-s%C3%A9rie-se-produiront-aux-billboard-music",
             "resource_url": "http://news.google.fr/?hl=fr&q=empire&output=atom&nord=1",
-            "source_url": "http://lesechos.fr/journal20150417/lec2_high_tech_et_medias/0218523084-rivaud-un-jackpot-decisif-dans-la-constitution-de-lempire-1112191.php"
-        },
-        "purepeople.com/2015/04/terrence-howard-et-lee-daniels-empire-accus%C3%A9s-de-plagiat": {
-            "title": "Terrence Howard et Lee Daniels (Empire): Accus\u00e9s de plagiat par un ''gangster''...",
-            "snippet": "Il y a quelques mois, 50 Cent accusait la s\u00e9rie Empire d'avoir copi\u00e9 son syst\u00e8me marketing. Cette fois-ci, c'est au tour d'un suppos\u00e9 proche de la famille Jackson de s'en prendre au show t\u00e9l\u00e9vis\u00e9. Ron Newt, qui se pr\u00e9sente comme un ami du...",
-            "date": "2015-04-16",
-            "categories": "marketing,empire",
-            "tags": "comme,s\u00e9rie,empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/purepeople.com/2015/04/terrence-howard-et-lee-daniels-empire-accus%C3%A9s-de-plagiat",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://purepeople.com/article/terrence-howard-et-lee-daniels-empire-accuses-de-plagiat-par-un-gangster_a158198/1"
-        },
-        "melty.fr/2015/04/empire-notre-critique-de-la-saison-1": {
-            "title": "Empire: Notre critique de la saison 1...",
-            "snippet": "En janvier dernier, une toute nouvelle s\u00e9rie d\u00e9barquait sur la FOX: Empire! Avec ses personnages atypiques, ses r\u00e9pliques cinglantes et sa bande-originale de qualit\u00e9, ce Dallas du hip-hop est rapidement devenu un ph\u00e9nom\u00e8ne. melty vous livre...",
-            "date": "2015-04-14",
-            "categories": "empire",
-            "tags": "ph\u00e9nom\u00e8ne,personnages,s\u00e9rie,saison,empire,fox",
-            "recuweb_url": "http://fr.recuweb.com/empire/melty.fr/2015/04/empire-notre-critique-de-la-saison-1",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://melty.fr/empire-notre-critique-de-la-saison-1-a393259.html"
-        },
-        "rtl.fr/2015/04/usa-l-empire-state-building-illumin%C3%A9-en-honneur-des-lyc%C3%A9ennes-nig%C3%A9rianes": {
-            "title": "USA: l'Empire State Building illumin\u00e9 en l'honneur des lyc\u00e9ennes nig\u00e9rianes...",
-            "snippet": "Tout de rouge et de violet, l'Empire State Building s'est illumin\u00e9 mardi soir en hommage aux lyc\u00e9ennes nig\u00e9rianes toujours port\u00e9es disparues. L'Empire State Building illumin\u00e9 pour les lyc\u00e9ennes nig\u00e9rianes enlev\u00e9es par Boko Haram \u00c0...",
-            "date": "2015-04-14",
-            "categories": "empire",
-            "tags": "empire,empire_state,state",
-            "recuweb_url": "http://fr.recuweb.com/empire/rtl.fr/2015/04/usa-l-empire-state-building-illumin%C3%A9-en-honneur-des-lyc%C3%A9ennes-nig%C3%A9rianes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://rtl.fr/actu/international/usa-l-empire-state-building-illumine-en-l-honneur-des-lyceennes-nigerianes-7777373304"
+            "source_url": "http://melty.fr/empire-les-stars-de-la-serie-se-produiront-aux-billboard-music-awards-2015-a404148.html"
         },
         "fr.news.yahoo.com/2015/04/the-voice-4-anne-sila-une-prestation-bluffante": {
             "title": "The Voice 4: Anne Sila, une prestation bluffante!",
             "snippet": "Son interpr\u00e9tation d'Empire State Of Mind a bluff\u00e9 les coachs comme le public... Anne Sila, grande gagnante de \"The Voice\"?",
             "date": "2015-04-05",
             "categories": "empire",
-            "tags": "comme,empire,empire_state,state",
+            "tags": "empire",
             "recuweb_url": "http://fr.recuweb.com/empire/fr.news.yahoo.com/2015/04/the-voice-4-anne-sila-une-prestation-bluffante",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=empire",
             "source_url": "http://fr.news.yahoo.com/the-voice-4-anne-sila-prestation-bluffante-112829646.html"
@@ -95,7 +55,7 @@
             "snippet": "La cha\u00eene am\u00e9ricaine a d\u00e9pos\u00e9 une plainte pr\u00e9ventive pour \u00e9viter de perdre le nom \"Empire\", titre de sa s\u00e9rie num\u00e9ro un.",
             "date": "2015-03-24",
             "categories": "empire",
-            "tags": "s\u00e9rie,empire,ph\u00e9nom\u00e8ne,fox",
+            "tags": "s\u00e9rie,empire",
             "recuweb_url": "http://fr.recuweb.com/empire/fr.news.yahoo.com/2015/03/empire-fox-saisit-la-justice-pour-conserver-le-titre-de-sa",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=empire",
             "source_url": "http://fr.news.yahoo.com/empire-fox-saisit-justice-conserver-titre-s\u00e9rie-ph\u00e9nom\u00e8ne-163151673.html"
