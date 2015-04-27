@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "formule",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/formule/",
@@ -10,27 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/formule/formule/blogs.json"
     },
     "items": {
-        "blog.educpros.fr/2015/04/fusions-pas-de-formule-magique-blogs-educpros": {
-            "title": "Fusions: pas de formule magique - blogs EducPros...",
-            "snippet": "Fusions: pas de formule magique! Fusion \u00e9coles, fusion des universit\u00e9s, FBS, strat\u00e9gie de fusion Retour sur ce mot qui a mis tout le monde en fusion dans la communaut\u00e9 de l'enseignement sup\u00e9rieur: fusion des...",
-            "date": "2015-04-16",
-            "author_name": "Jean-Francois Fiorina",
-            "categories": "formule",
-            "tags": "formule,monde",
-            "recuweb_url": "http://fr.recuweb.com/formule/blog.educpros.fr/2015/04/fusions-pas-de-formule-magique-blogs-educpros",
-            "resource_url": "http://www.google.com/search?q=formule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.educpros.fr/fiorina/2015/04/16/fusions-pas-de-formule-magique/"
-        },
-        "zap-actu.fr/2015/04/un-m%C3%A9canicien-se-fait-renverser-par-une-formule-1-zap-actu": {
-            "title": "Un m\u00e9canicien se fait renverser par une Formule 1 Zap-actu...",
-            "snippet": "Lors du Grand Prix de Louisiane (Nouvelle-Orl\u00e9ans, Etats-Unis) qui s'est d\u00e9roul\u00e9 le 12 avril dernier, un m\u00e9canicien s'est fait renverser par la monoplace du pilote italien Francesco Dracone alors qu'il se trouvait dans les...",
-            "date": "2015-04-15",
-            "author_name": "Zap-actu",
-            "categories": "monoplace,formule",
-            "tags": "monoplace,pilote,avril,dernier,grand,grand_prix,prix,formule,lors,nouvelle,etats,unis",
-            "recuweb_url": "http://fr.recuweb.com/formule/zap-actu.fr/2015/04/un-m%C3%A9canicien-se-fait-renverser-par-une-formule-1-zap-actu",
-            "resource_url": "http://www.google.com/search?q=formule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://zap-actu.fr/2015/04/15/un-mecanicien-se-fait-renverser-par-une-formule-1/"
+        "motorsport.nextgen-auto.com/2015/04/vettel-ferrari-pourrait-%C3%AAtre-ma-derni%C3%A8re-%C3%A9curie-en-formule-1": {
+            "title": "Vettel: Ferrari pourrait \u00eatre ma derni\u00e8re \u00e9curie en Formule 1...",
+            "snippet": "Vettel: Ferrari pourrait \u00eatre ma derni\u00e8re \u00e9curie en Formule 1 - Motorsport, toutes vos informations sports m\u00e9caniques. Infos, actualit\u00e9s, r\u00e9sultats, photos et vid\u00e9os de Formule 1, F1, Rally, WRC, IRC, WTCC,...",
+            "date": "2015-04-20",
+            "author_name": "inconnu",
+            "categories": "formule,sport",
+            "tags": "\u00eatre,derni\u00e8re,formule,motorsport,sports",
+            "recuweb_url": "http://fr.recuweb.com/sport/motorsport.nextgen-auto.com/2015/04/vettel-ferrari-pourrait-%C3%AAtre-ma-derni%C3%A8re-%C3%A9curie-en-formule-1",
+            "resource_url": "http://www.google.com/search?q=formule%2Bformule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://motorsport.nextgen-auto.com/Vettel-Ferrari-pourrait-etre-ma-derniere-ecurie-en-Formule-1,89503.html"
         },
         "parismatch.com/2015/04/les-d%C3%A9buts-de-mick-schumacher-en-formule-4-paris-match": {
             "title": "Les d\u00e9buts de Mick Schumacher en Formule 4 - Paris Match...",
@@ -38,43 +28,21 @@
             "date": "2015-04-08",
             "author_name": "Paris Match",
             "categories": "monoplace,photographie,formule",
-            "tags": "volant,monoplace,\u00e9t\u00e9,d\u00e9buts,michael,michael_schumacher,schumacher,champion,mick,mick_schumacher,formule,fils,monde,allemagne",
+            "tags": "volant,motorsport,\u00e9t\u00e9,d\u00e9buts,michael,michael_schumacher,schumacher,mick,mick_schumacher,formule,fils,allemagne",
             "recuweb_url": "http://fr.recuweb.com/formule/parismatch.com/2015/04/les-d%C3%A9buts-de-mick-schumacher-en-formule-4-paris-match",
-            "resource_url": "http://www.google.com/search?q=formule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=formule%2Bformule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/Actu/Sport/En-images/Michael-Schumacher-Les-debuts-de-Mick-Schumacher-en-Formule-4-741360"
         },
-        "moto.caradisiac.com/2015/03/motogp-vs-formule-1-hamilton-avoue-que-les-vrais-hommes": {
-            "title": "MotoGP vs Formule 1: Hamilton avoue que les vrais hommes sont...",
-            "snippet": "MotoGP vs Formule 1: Hamilton avoue que les vrais hommes sont en moto - Moto GP -: Champion du monde en titre de la cat\u00e9gorie reine du sport automobile, le Britannique Lewis Hamilton a bien commenc\u00e9 sa saison de...",
-            "date": "2015-03-15",
-            "author_name": "( Andr\u00e9 Lecond\u00e9 )",
-            "categories": "formule,sport",
-            "tags": "lewis,formule,hamilton,champion,monde,sport,automobile,saison",
-            "recuweb_url": "http://fr.recuweb.com/sport/moto.caradisiac.com/2015/03/motogp-vs-formule-1-hamilton-avoue-que-les-vrais-hommes",
-            "resource_url": "http://www.google.com/search?q=formule%2Bformule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://moto.caradisiac.com/MotoGP-vs-Formule-1-Hamilton-avoue-que-les-vrais-hommes-sont-en-moto-434"
-        },
-        "toilef1.com/2015/03/formule-e-nouvelle-pole-position-pour-jean-%C3%A9ric-vergne-toile-f1": {
-            "title": "Formule E - Nouvelle pole position pour Jean-\u00c9ric Vergne - Toile F1...",
-            "snippet": "Pour la deuxi\u00e8me fois, c'est Jean-\u00c9ric Vergne qui s'est adjug\u00e9 la pole position, cette fois pour l'ePrix de Miami! Le pilote fran\u00e7ais devance Nelson Piquet Jr, d'un demi-dixi\u00e8me de seconde! Parti pour r\u00e9aliser le (...)...",
-            "date": "2015-03-14",
-            "author_name": "Micha\u00ebl Duforest",
-            "categories": "formule",
-            "tags": "seconde,pilote,formule,nouvelle,jean",
-            "recuweb_url": "http://fr.recuweb.com/formule/toilef1.com/2015/03/formule-e-nouvelle-pole-position-pour-jean-%C3%A9ric-vergne-toile-f1",
-            "resource_url": "http://www.google.com/search?q=formule%2Bformule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://toilef1.com/Formule-E-Nouvelle-pole-position.html"
-        },
-        "letudiant.fr/2015/03/portrait-d-universit%C3%A9-la-formule-de-fusion-bordelaise-enqu%C3%AAte": {
-            "title": "Portrait d'universit\u00e9. La formule de la fusion bordelaise - Enqu\u00eate sur...",
-            "snippet": "Les personnels administratifs de l'universit\u00e9 de Bordeaux ont v\u00e9cu une r\u00e9volution avec la fusion des trois facs bordelaises le 1 er janvier 2014. Les services o...",
-            "date": "2015-03-11",
+        "bfmbusiness.bfmtv.com/2015/03/renault-va-t-il-se-retirer-de-la-formule-1-bfmtv": {
+            "title": "Renault va-t-il se retirer de la Formule 1? - BFMTV...",
+            "snippet": "\"Je peux confirmer que nous \u00e9tudions un grand nombre d'options, y compris une sortie de la Formule 1\", a ainsi d\u00e9clar\u00e9 Cyril Abiteboul, le directeur de Renault Sport F1, des essais de vendredi pour le Grand Prix de Malaisie.",
+            "date": "2015-03-28",
             "author_name": "inconnu",
-            "categories": "formule",
-            "tags": "formule,bordeaux",
-            "recuweb_url": "http://fr.recuweb.com/formule/letudiant.fr/2015/03/portrait-d-universit%C3%A9-la-formule-de-fusion-bordelaise-enqu%C3%AAte",
+            "categories": "sport,formule",
+            "tags": "grand,grand_prix,prix,sport,ainsi,sortie,renault,formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/bfmbusiness.bfmtv.com/2015/03/renault-va-t-il-se-retirer-de-la-formule-1-bfmtv",
             "resource_url": "http://www.google.com/search?q=formule%2Bformule&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://letudiant.fr/educpros/enquetes/portrait-d-universite-3-1-la-formule-de-la-fusion-bordelaise.html"
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/renault-va-t-il-se-retirer-de-la-formule-1-872079.html"
         }
     }
 }
