@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "culture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture/",
@@ -10,72 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
-        "ledevoir.com/2015/04/esprit-critique-y-seras": {
-            "title": "Esprit critique, y seras-tu?",
-            "snippet": "Mieux vaut tard que jamais. Pr\u00e8s de quinze ans apr\u00e8s sa cr\u00e9ation, ARTV, la cha\u00eene des arts et de la culture de Radio-Canada (RC), fond\u00e9e en 2001, cr\u00e9e un magazine culturel. L\u00e9mission baptis\u00e9e Esprit critique sera coanim\u00e9e par Rebecca...",
-            "date": "2015-04-23",
-            "categories": "arts,culture,radio",
-            "tags": "critique,magazine,culturel,apr\u00e8s,cr\u00e9ation,esprit,culture,radio",
-            "recuweb_url": "http://fr.recuweb.com/radio/ledevoir.com/2015/04/esprit-critique-y-seras",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
-            "source_url": "http://ledevoir.com/culture/television/438107/ici-radio-canada-esprit-critique-y-seras-tu"
-        },
-        "ladepeche.fr/2015/04/le-plein-de-culture-aux-thermes": {
-            "title": "Le plein de culture aux Thermes -...",
-            "snippet": "plein de culture aux 'inauguration de l'exposition du sculpteur Andr\u00e9 Stengele s'est d\u00e9roul\u00e9e dans le bel espace des Thermes de Cransac. Les passionn\u00e9s de culture, les curistes, les Cransacois ainsi que les curieux de tous horizons peuvent...",
-            "date": "2015-04-23",
+        "rfi.fr/2015/04/guin%C3%A9e-ces-violences-expriment-l-absence-de-culture-rfi": {
+            "title": "Guin\u00e9e: Ces violences expriment l'absence de culture... - RFI...",
+            "snippet": "RFIGuin\u00e9e: Ces violences expriment l'absence de culture...RFIGuin\u00e9e: Ces violences expriment l'absence de culture d\u00e9mocratique. Par Anthony Lattier. Diffusion: dimanche 26 avril 2015. Guin\u00e9e: Ces violences expriment l'absence de culture...",
+            "date": "2015-04-26",
             "categories": "culture",
-            "tags": "ainsi,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/ladepeche.fr/2015/04/le-plein-de-culture-aux-thermes",
+            "tags": "expriment,culture,dimanche,avril",
+            "recuweb_url": "http://fr.recuweb.com/culture/rfi.fr/2015/04/guin%C3%A9e-ces-violences-expriment-l-absence-de-culture-rfi",
             "resource_url": "http://news.google.fr/?hl=fr&q=culture&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/04/23/2092408-le-plein-de-culture-aux-thermes.html"
+            "source_url": "http://rfi.fr/emission/20150426-guinee-violences-absence-culture-democratique-khalifa-gassama-diaby+/"
         },
-        "lejournaldessables.fr/2015/04/culture-en-quartiers-les-festivit%C3%A9s-commencent-samedi-le-journal-des-sables": {
-            "title": "Culture en quartiers. Les festivit\u00e9s commencent samedi - Le Journal des Sables...",
-            "snippet": "Le Journal des SablesCulture en quartiers. Les festivit\u00e9s commencent samediLe Journal des SablesLes Sables-d'Olonne Culture en quartiers. Les festivit\u00e9s commencent samedi. Le nouveau rendez-vous culturel, Culture en quartiers, arrive samedi aux...",
-            "date": "2015-04-22",
-            "categories": "culture",
-            "tags": "culturel,journal,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/lejournaldessables.fr/2015/04/culture-en-quartiers-les-festivit%C3%A9s-commencent-samedi-le-journal-des-sables",
-            "resource_url": "http://news.google.fr/?hl=fr&q=culture%2Bculture&output=atom&nord=1",
-            "source_url": "http://lejournaldessables.fr/2015/04/22/culture-en-quartiers-les-festivites-commencent-samedi/"
-        },
-        "laprovence.com/2015/04/les-associations-qui-oeuvrent-pour-la-culture-arm%C3%A9nienne-en-provence": {
-            "title": "Les associations qui oeuvrent pour la culture arm\u00e9nienne en Provence...",
-            "snippet": "Apr\u00e8s le succ\u00e8s du spectacle Ararat mon amour en 2012 (photo), l'ensemble Araxe-Sassoun de la Jaf se produira au Silo fin mai avec Un si\u00e8cle apr\u00e8s. Photo Cyril Sollier Dans le cadre des comm\u00e9morations du centenaire du g\u00e9nocide arm\u00e9nien,...",
-            "date": "2015-04-22",
-            "categories": "culture",
-            "tags": "apr\u00e8s,fin,culture,provence,ensemble",
-            "recuweb_url": "http://fr.recuweb.com/culture/laprovence.com/2015/04/les-associations-qui-oeuvrent-pour-la-culture-arm%C3%A9nienne-en-provence",
+        "republicain-lorrain.fr/2015/04/culture-vall%C3%A9e-de-la-fensch-le-baglama-c%C5%93ur-des-al%C3%A9vis": {
+            "title": "culture Vall\u00e9e de la Fensch: le baglama, c\u0153ur des Al\u00e9vis...",
+            "snippet": "Le plaisir de savoir jouer dun instrument na pas d\u00e9gal. Mais quand en plus il sagit de la voix danc\u00eatres Rencontre avec Taylan Bil, le professeur de baglama de lassociation des Al\u00e9vis de la Fensch. Il est convenu chez les...",
+            "date": "2015-04-26",
+            "categories": "plaisir,culture",
+            "tags": "voix,savoir,culture,rencontre",
+            "recuweb_url": "http://fr.recuweb.com/culture/republicain-lorrain.fr/2015/04/culture-vall%C3%A9e-de-la-fensch-le-baglama-c%C5%93ur-des-al%C3%A9vis",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
-            "source_url": "http://laprovence.com/article/edition-marseille/3373504/les-associations-qui-oeuvrent-pour-la-culture-armenienne-en-provence.html"
+            "source_url": "http://republicain-lorrain.fr/moselle/2015/04/26/le-baglama-coeur-des-alevis"
+        },
+        "elmoudjahid.com/2015/04/constantine-capitale-de-la-culture-arabe-2015-m%C3%A9moire-forteresse": {
+            "title": "Constantine, capitale de la culture arabe 2015: Constantine, m\u00e9moire forteresse...",
+            "snippet": "Constantine au petit matin. La lumi\u00e8re naissante du soleil de mars adoucit les paysages. Elle conf\u00e8re une po\u00e9sie tendre aux montagnes qui encadrent le Rhummel dans sa descente vers la capitale de lEst alg\u00e9rien, lorsque les terres cultiv\u00e9es et...",
+            "date": "2015-04-25",
+            "categories": "culture",
+            "tags": "constantine,capitale,culture,arabe",
+            "recuweb_url": "http://fr.recuweb.com/culture/elmoudjahid.com/2015/04/constantine-capitale-de-la-culture-arabe-2015-m%C3%A9moire-forteresse",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
+            "source_url": "http://elmoudjahid.com/fr/actualites/76650"
+        },
+        "rtl.fr/2015/04/festival-de-cannes-les-s%C3%A9lectionn%C3%A9s-fran%C3%A7ais-re%C3%A7us-au-minist%C3%A8re-la-culture": {
+            "title": "Festival de Cannes: les s\u00e9lectionn\u00e9s fran\u00e7ais re\u00e7us au minist\u00e8re de la Culture...",
+            "snippet": "Les fran\u00e7ais s\u00e9lectionn\u00e9s pour le Festival de Cannes ont \u00e9t\u00e9 re\u00e7us vendredi 24 avril par la ministre de la Culture Fleur Pellerin. Fleur Pellerin devant les s\u00e9lectionn\u00e9s fran\u00e7ais pour le Festival de Cannes Les \u00e9quipes des films...",
+            "date": "2015-04-25",
+            "categories": "culture",
+            "tags": "fleur,fleur_pellerin,pellerin,avril,ministre,\u00e9t\u00e9,vendredi,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/rtl.fr/2015/04/festival-de-cannes-les-s%C3%A9lectionn%C3%A9s-fran%C3%A7ais-re%C3%A7us-au-minist%C3%A8re-la-culture",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture&format=RSS&cc=fr",
+            "source_url": "http://rtl.fr/culture/arts-spectacles/festival-de-cannes-les-selectionnes-francais-recus-au-ministere-de-la-culture-7777469645"
+        },
+        "lavoixdunord.fr/2015/04/loison-sous-lens-la-culture-africaine-se-d%C3%A9voile-en-photos-voix": {
+            "title": "Loison-sous-Lens: la culture africaine se d\u00e9voile en photos - La Voix du Nord...",
+            "snippet": "La Voix du NordLoison-sous-Lens: la culture africaine se d\u00e9voile en photosLa Voix du NordL'association C3A2L a pour objectif de favoriser l'entraide et l'int\u00e9gration des ressortissants d'origine africaine, de promouvoir la culture africaine et de...",
+            "date": "2015-04-25",
+            "categories": "culture",
+            "tags": "voix,culture,nord",
+            "recuweb_url": "http://fr.recuweb.com/culture/lavoixdunord.fr/2015/04/loison-sous-lens-la-culture-africaine-se-d%C3%A9voile-en-photos-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=culture&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/loison-sous-lens-la-culture-africaine-se-devoile-en-photos-ia35b54052n2793320"
+        },
+        "lemonde.fr/2015/04/mus%C3%A9es-du-nord-la-culture-pour-capital-le-monde": {
+            "title": "Mus\u00e9es du Nord: la culture pour capital - Le Monde...",
+            "snippet": "Le MondeMus\u00e9es du Nord: la culture pour capitalLe MondeIl rendait compte alors des r\u00e9sultats de la politique culturelle du Second Empire, relay\u00e9e par la IIIe R\u00e9publique, qui avait d\u00e9cid\u00e9 un envoi massif des \u0153uvres des r\u00e9serves du Louvre dans...",
+            "date": "2015-04-24",
+            "categories": "empire,politique,culture",
+            "tags": "nord,culture,monde",
+            "recuweb_url": "http://fr.recuweb.com/culture/lemonde.fr/2015/04/mus%C3%A9es-du-nord-la-culture-pour-capital-le-monde",
+            "resource_url": "http://news.google.fr/?hl=fr&q=culture%2Bculture&output=atom&nord=1",
+            "source_url": "http://lemonde.fr/arts/article/2015/04/24/musees-du-nord-la-culture-pour-capital_4622301_1655012.html"
         },
         "jactiv.ouest-france.fr/2015/04/culture-ces-sourds-se-font-entendre-sur-le-net": {
             "title": "Culture. Ces sourds se font entendre sur le Net...",
             "snippet": "Blogs, web-s\u00e9rie, Tumblr... De plus en plus de sourds s'expriment sur Internet pour ouvrir le monde de la surdit\u00e9 aux entendants et faire tomber les clich\u00e9s. Diffus\u00e9s sur Youtube, les 15 \u00e9pisodes de 6 minutes de cette web s\u00e9rie bordelaise...",
             "date": "2015-04-20",
             "categories": "culture,tumblr,internet",
-            "tags": "monde,culture",
+            "tags": "monde,expriment,culture",
             "recuweb_url": "http://fr.recuweb.com/internet/jactiv.ouest-france.fr/2015/04/culture-ces-sourds-se-font-entendre-sur-le-net",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bculture&format=RSS&cc=fr",
             "source_url": "http://jactiv.ouest-france.fr/actualites/culture/culture-ces-sourds-se-font-entendre-sur-net-46733"
-        },
-        "lejdd.fr/2015/04/manuel-valls-la-culture-a-toujours-%C3%A9t%C3%A9-une-priorit%C3%A9": {
-            "title": "Manuel Valls: \"La culture a toujours \u00e9t\u00e9 une priorit\u00e9\" -...",
-            "snippet": "Manuel Valls: \"La culture a toujours \u00e9t\u00e9 une priorit\u00e9\" gauche aurait-elle abandonn\u00e9 la culture? \"Mauvais proc\u00e8s\", r\u00e9pond Manuel Valls au magazine L'il, qui a obtenu une interview fleuve du Premier ministre sur le sujet. En juillet 2014, il...",
-            "date": "2015-04-20",
-            "categories": "culture",
-            "tags": "ministre,inter,magazine,culture,r\u00e9pond",
-            "recuweb_url": "http://fr.recuweb.com/culture/lejdd.fr/2015/04/manuel-valls-la-culture-a-toujours-%C3%A9t%C3%A9-une-priorit%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=culture&output=atom&nord=1",
-            "source_url": "http://lejdd.fr/Politique/Manuel-Valls-La-culture-a-toujours-ete-une-priorite-728914"
         },
         "fr.news.yahoo.com/2015/04/sarkozy-radio-france-est-devenu-un-bateau-ivre": {
             "title": "Sarkozy: \"Radio France est devenu un bateau ivre\"...",
             "snippet": "Le pr\u00e9sident de l'UMP Nicolas Sarkozy juge que \"Radio France est devenu un bateau ivre\" et d\u00e9nonce \"le manque de consid\u00e9ration pour la cr\u00e9ation artistique et le monde de la culture\" du gouvernement, dans une interview au Journal du Dimanche.",
             "date": "2015-04-12",
             "categories": "radio,culture",
-            "tags": "inter,radio,france,cr\u00e9ation,monde,culture,journal",
+            "tags": "radio,radio-france,france,monde,culture,dimanche",
             "recuweb_url": "http://fr.recuweb.com/culture/fr.news.yahoo.com/2015/04/sarkozy-radio-france-est-devenu-un-bateau-ivre",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
             "source_url": "http://fr.news.yahoo.com/sarkozy-radio-france-devenu-bateau-ivre-055150457.html"
@@ -85,7 +96,7 @@
             "snippet": "La R\u00e9ginoise Krista Shore croit que les femmes autochtones doivent renouer avec leur culture pour am\u00e9liorer leur vie. C'est ainsi qu'elle a pu surmonter les traumatismes v\u00e9cus dans son enfance.",
             "date": "2015-04-12",
             "categories": "culture",
-            "tags": "ainsi,culture",
+            "tags": "culture",
             "recuweb_url": "http://fr.recuweb.com/culture/fr-ca.actualites.yahoo.com/2015/04/une-gu%C3%A9rison-qui-passe-par-la-culture-pour-femme-autochtone",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
             "source_url": "http://fr-ca.actualites.yahoo.com/une-gu\u00e9rison-qui-passe-par-la-culture-pour-205725251.html"
@@ -95,20 +106,10 @@
             "snippet": "MEDIAS - Nomm\u00e9 par la ministre de la culture, Fleur Pellerin, il rencontrera mes syndicats vendredi en fin de matin\u00e9e...",
             "date": "2015-04-09",
             "categories": "radio,culture",
-            "tags": "fin,ministre,radio,france,culture",
+            "tags": "vendredi,fleur,fleur_pellerin,pellerin,ministre,jean,radio,france,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/fr.news.yahoo.com/2015/04/radio-france-le-conflit-a-son-m%C3%A9diateur-dominique-jean-chertier",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
             "source_url": "http://fr.news.yahoo.com/radio-france-conflit-m\u00e9diateur-dominique-jean-chertier-174227862.html"
-        },
-        "fr.news.yahoo.com/2015/04/pour-l-exercice-de-la-culture": {
-            "title": "Pour l'exercice de la culture...",
-            "snippet": "Il importe que les mots de transmission, de culture, dhumanit\u00e9s, soient plus et autre chose que des mantras pour technocrates, ou de cyniques \u00e9l\u00e9ments de langage...",
-            "date": "2015-04-03",
-            "categories": "langage,culture",
-            "tags": "culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/fr.news.yahoo.com/2015/04/pour-l-exercice-de-la-culture",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=culture",
-            "source_url": "http://fr.news.yahoo.com/lexercice-culture-102549993.html"
         }
     }
 }
