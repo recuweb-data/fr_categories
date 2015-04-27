@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "livre-num\u00e9rique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/livre-num\u00e9rique/",
@@ -10,67 +11,88 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/blogs.json"
     },
     "items": {
+        "zone-numerique.com/2015/04/amazon-livre-directement-dans-le-coffre-de-zone-numerique": {
+            "title": "Amazon livre directement... dans le coffre de... - Zone Numerique...",
+            "snippet": "Amazon livre directement dans le coffre de votre voiture! Amazon teste actuellement un nouveau mode de livraison pour le moins original, puisque le colis est livr\u00e9 directement dans le coffre de la voiture du client. Publi\u00e9 le...",
+            "date": "2015-04-23",
+            "author_name": "St\u00e9phane Ficca",
+            "tags": "livre,amazon,moins,publi\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/zone-numerique.com/2015/04/amazon-livre-directement-dans-le-coffre-de-zone-numerique",
+            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://zone-numerique.com/amazon-livre-directement-dans-le-coffre-de-votre-voiture.html"
+        },
+        "ebook.hypotheses.org/2015/04/parution-le-livre-num%C3%A9rique-au-pr%C3%A9sent-s%C3%A9minaire-e-book": {
+            "title": "Parution: le livre num\u00e9rique au pr\u00e9sent S\u00e9minaire E-book...",
+            "snippet": "Nous avons le plaisir de vous informer de la parution aux \u00c9ditions Universitaires de Dijon, d'un ouvrage sous la direction de Fabrice Pirolli: Le livre num\u00e9rique au pr\u00e9sent: Pratiques de lecture, de prescription et de...",
+            "date": "2015-04-16",
+            "author_name": "Mathilde Miguet",
+            "categories": "plaisir",
+            "tags": "\u00e9ditions,livre,num\u00e9rique,lecture",
+            "recuweb_url": "http://fr.recuweb.com/plaisir/ebook.hypotheses.org/2015/04/parution-le-livre-num%C3%A9rique-au-pr%C3%A9sent-s%C3%A9minaire-e-book",
+            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ebook.hypotheses.org/619"
+        },
+        "aldus2006.typepad.fr/2015/04/archimag-le-livre-num%C3%A9rique-en-biblioth%C3%A8ques-aldus": {
+            "title": "Archimag: le livre num\u00e9rique en biblioth\u00e8ques - Aldus - tout sur le...",
+            "snippet": "A signaler le magazine Archimag, qui consacre ce mois-ci un dossier tr\u00e8s complet sur le livre num\u00e9rique en biblioth\u00e8ques. Etudes, premiers retours d'exp\u00e9riences, etc. Tous les d\u00e9tails sur le site. Si les d\u00e9buts sont difficiles,...",
+            "date": "2015-04-13",
+            "author_name": "Herv\u00e9 Bienvault",
+            "tags": "d\u00e9buts,difficiles,site,dossier,magazine,archimag,livre,num\u00e9rique,biblioth\u00e8ques,aldus",
+            "recuweb_url": "http://fr.recuweb.com/aldus2006.typepad.fr/2015/04/archimag-le-livre-num%C3%A9rique-en-biblioth%C3%A8ques-aldus",
+            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://aldus2006.typepad.fr/mon_weblog/2015/04/archimag-le-livre-num\u00e9rique-en-biblioth\u00e8ques.html"
+        },
+        "bn.hypotheses.org/2015/04/faire-converger-le-web-et-livre-num%C3%A9rique-tout-un-programme": {
+            "title": "Faire converger le web et le livre num\u00e9rique, tout un programme...",
+            "snippet": "Aldus 2006 signale la disponibilit\u00e9 en ligne d'une traduction de la pr\u00e9sentation r\u00e9alis\u00e9e par Ivan Hermann, membre du bureau du W3C (World Wide Web Consortium), lors des derni\u00e8res Assises du livre num\u00e9rique...",
+            "date": "2015-04-08",
+            "author_name": "Marin Dacos",
+            "categories": "traduction",
+            "tags": "derni\u00e8res,world,world_wide,world_wide_web,wide,wide_web,wide_web_consortium,web,web_consortium,consortium,membre,membre-du-bureau,bureau,ivan,pr\u00e9sentation,ligne,livre,num\u00e9rique,aldus,lors,assises",
+            "recuweb_url": "http://fr.recuweb.com/traduction/bn.hypotheses.org/2015/04/faire-converger-le-web-et-livre-num%C3%A9rique-tout-un-programme",
+            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bn.hypotheses.org/11621"
+        },
+        "aldus2006.typepad.fr/2015/04/livres-num%C3%A9riques-et-web-la-convergence-aldus-tout-sur-le-livre": {
+            "title": "Livres num\u00e9riques et web: la convergence - Aldus - tout sur le livre...",
+            "snippet": "Ivan Herman, membre du bureau du W3C (World Wide Web Consortium), \u00e9tait l'invit\u00e9 des derni\u00e8res Assises du livre num\u00e9rique organis\u00e9es par le SNE. Sa pr\u00e9sentation sur le convergence des livres num\u00e9riques avec le web...",
+            "date": "2015-04-03",
+            "author_name": "Herv\u00e9 Bienvault",
+            "tags": "web,pr\u00e9sentation,derni\u00e8res,\u00e9tait,world,world_wide,world_wide_web,wide,wide_web,wide_web_consortium,web_consortium,consortium,membre,membre-du-bureau,bureau,ivan,livres,livre,num\u00e9riques,num\u00e9rique,aldus,assises,sne",
+            "recuweb_url": "http://fr.recuweb.com/aldus2006.typepad.fr/2015/04/livres-num%C3%A9riques-et-web-la-convergence-aldus-tout-sur-le-livre",
+            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://aldus2006.typepad.fr/mon_weblog/2015/04/livres-num\u00e9riques-et-web-la-convergence.html"
+        },
         "taurillon.org/2015/03/livres-num%C3%A9riques-la-france-condamn%C3%A9e-le-taurillon-magazine": {
             "title": "Livres num\u00e9riques: La France condamn\u00e9e - Le Taurillon, magazine...",
             "snippet": "La Cour de Justice de l'Union Europ\u00e9enne a d\u00e9clar\u00e9 ill\u00e9gale la pratique d'un taux de TVA r\u00e9duit pour les livres num\u00e9riques en France et au Luxembourg, le m\u00eame taux en vigueur que pour les livres papiers. De quoi relancer...",
             "date": "2015-03-21",
             "author_name": "Pauline Elie",
-            "tags": "m\u00eame,taux,r\u00e9duit,pratique,union,europ\u00e9enne,livres,num\u00e9riques,france,cour,justice,tva,luxembourg",
+            "tags": "taux,r\u00e9duit,union,europ\u00e9enne,livres,num\u00e9riques,france,magazine,cour,justice,tva,luxembourg",
             "recuweb_url": "http://fr.recuweb.com/taurillon.org/2015/03/livres-num%C3%A9riques-la-france-condamn%C3%A9e-le-taurillon-magazine",
             "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://taurillon.org/livres-numeriques-la-france-condamnee"
         },
-        "aldus2006.typepad.fr/2015/03/salon-du-livre-2015-num%C3%A9rique-et-supports-aldus": {
-            "title": "Salon du Livre 2015: livre num\u00e9rique et supports - Aldus - tout sur le...",
-            "snippet": "Une infographie publi\u00e9e par le Minist\u00e8re de la Culture aujourd'hui avec les donn\u00e9es de l'\u00e9tude communiqu\u00e9e par le barom\u00e8tre SNE/SGDL/Sofia. J'ai retenu la partie concernant le livre num\u00e9rique et l'adoption des diff\u00e9rents...",
-            "date": "2015-03-21",
-            "author_name": "Herv\u00e9 Bienvault",
-            "categories": "culture",
-            "tags": "concernant,\u00e9tude,barom\u00e8tre,hui,salon,livre,num\u00e9rique,culture,aujourd,sne,sgdl,sofia",
-            "recuweb_url": "http://fr.recuweb.com/culture/aldus2006.typepad.fr/2015/03/salon-du-livre-2015-num%C3%A9rique-et-supports-aldus",
-            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://aldus2006.typepad.fr/mon_weblog/2015/03/salon-du-livre-2015-livre-num\u00e9rique-et-supports.html"
-        },
         "mac4ever.com/2015/03/la-france-en-infraction-sur-tva-r%C3%A9duite-du-livre-num%C3%A9rique": {
             "title": "La France en infraction sur la TVA r\u00e9duite du livre num\u00e9rique...",
-            "snippet": "Le livre num\u00e9rique va-t-il pouvoir b\u00e9n\u00e9ficier encore longtemps d'une TVA r\u00e9duite? Non, a r\u00e9pondu l'Europe qui place officiellement la France en infraction. Tr\u00e8s impliqu\u00e9e dans la d\u00e9fense de la culture, l'ancienne ministre Aur\u00e9lie Filippetti...",
+            "snippet": "Le livre num\u00e9rique va-t-il pouvoir b\u00e9n\u00e9ficier encore longtemps d'une TVA r\u00e9duite? Non, a r\u00e9pondu l'Europe qui place officiellement la France en infraction. Tr\u00e8s impliqu\u00e9e dans la...",
             "date": "2015-03-07",
             "author_name": "inconnu",
-            "categories": "culture,place",
-            "tags": "culture,france,tva,livre,num\u00e9rique",
+            "categories": "place",
+            "tags": "france,tva,livre,num\u00e9rique",
             "recuweb_url": "http://fr.recuweb.com/place/mac4ever.com/2015/03/la-france-en-infraction-sur-tva-r%C3%A9duite-du-livre-num%C3%A9rique",
             "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://mac4ever.com/actu/99052_la-france-en-infraction-sur-la-tva-reduite-du-livre-numerique"
-        },
-        "diplomatie.gouv.fr/2015/03/livre-num%C3%A9rique-application-du-taux-r%C3%A9duit-de-tva-d%C3%A9claration": {
-            "title": "Livre num\u00e9rique - Application du taux r\u00e9duit de tva - D\u00e9claration...",
-            "snippet": "Livre num\u00e9rique - Arr\u00eat rendu par la cour de justice de l'Union europ\u00e9enne sur l'application du taux r\u00e9duit de tva - D\u00e9claration conjointe de Michel Sapin, Fleur Pellerin, Harlem D\u00e9sir, Christian Eckert et Axelle Lemaire (Paris,...",
-            "date": "2015-03-06",
-            "author_name": "inconnu",
-            "tags": "taux,taux-r\u00e9duit,r\u00e9duit,tva,europ\u00e9enne,cour,justice,livre,num\u00e9rique,union,paris",
-            "recuweb_url": "http://fr.recuweb.com/diplomatie.gouv.fr/2015/03/livre-num%C3%A9rique-application-du-taux-r%C3%A9duit-de-tva-d%C3%A9claration",
-            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/europe-828/evenements-et-actualites-lies-a-la/actualites-europeennes/article/livre-numerique-arret-rendu-par-la"
         },
         "generation-nt.com/2015/03/livre-num%C3%A9rique-la-france-va-augmenter-tva": {
             "title": "Livre num\u00e9rique: la France va augmenter la TVA...",
             "snippet": "Tout comme le Luxembourg, la France est dans l'ill\u00e9galit\u00e9. La Cour de justice de l'Union europ\u00e9enne vient de statuer que ces deux pays ne peuvent pas appliquer un taux r\u00e9duit de TVA pour le livre num\u00e9rique comme c'est le...",
             "date": "2015-03-05",
             "author_name": "inconnu",
-            "tags": "comme,pays,taux,taux-r\u00e9duit,r\u00e9duit,europ\u00e9enne,justice,livre,num\u00e9rique,france,tva,luxembourg,cour,union",
+            "tags": "taux,r\u00e9duit,europ\u00e9enne,justice,livre,num\u00e9rique,france,tva,luxembourg,cour,union",
             "recuweb_url": "http://fr.recuweb.com/generation-nt.com/2015/03/livre-num%C3%A9rique-la-france-va-augmenter-tva",
             "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://generation-nt.com/livre-numerique-tva-france-europe-actualite-1912772.html"
-        },
-        "actualitte.com/2015/02/le-march%C3%A9-du-livre-num%C3%A9rique-en-france-269-millions-2017": {
-            "title": "Le march\u00e9 du livre num\u00e9rique en France: 269 millions en 2017...",
-            "snippet": "Le cabinet Xerfi vient de publier une \u00e9tude concernant l'\u00e9dition de livres en France. Loin du chiffre d'affaires et des parts de march\u00e9 que l'on constate dans les pays anglo-saxons, le livre num\u00e9rique est au c\u0153ur de l'enqu\u00eate.",
-            "date": "2015-02-27",
-            "author_name": "clements@actualitte.com (Solym Cl\u00e9ment)",
-            "tags": "pays,\u00e9dition,\u00e9tude,concernant,livres,num\u00e9rique,france",
-            "recuweb_url": "http://fr.recuweb.com/actualitte.com/2015/02/le-march%C3%A9-du-livre-num%C3%A9rique-en-france-269-millions-2017",
-            "resource_url": "http://www.google.com/search?q=livre%2Bnum%C3%A9rique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://actualitte.com/acteurs-numeriques/le-marche-du-livre-numerique-en-france-269-millions-en-2017-55490.htm"
         },
         "romainromagnanauteur.wordpress.com/2014/11/les-livres-num%C3%A9riques-ou-e-books": {
             "title": "Les Livres num\u00e9riques ou e-books...",
