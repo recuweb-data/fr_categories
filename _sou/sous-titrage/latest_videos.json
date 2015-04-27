@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sous-titrage",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sous-titrage/",
@@ -10,35 +11,47 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
     },
     "items": {
-        "youtube.com/2014/07/sous-titrage-du-dessin-anim%C3%A9-musulman-la-v%C3%A9racit%C3%A9": {
-            "title": "Sous-titrage du dessin anim\u00e9 musulman La v\u00e9racit\u00e9...",
-            "snippet": "Sous-titrage du dessin anim\u00e9 musulman \" La v\u00e9racit\u00e9\" \" Magnifique dessin anim\u00e9 \u00e9ducatif pour enfants. Je vous prie de laisser des commentaires \u00e0 propos du sous-titrage afin d'\u00e9valuer sa fonctionnalit\u00e9. C'est une application pour un...",
-            "date": "2014-07-21",
-            "author_name": "Amel Bylka",
-            "tags": "titrage,magnifique",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/07/sous-titrage-du-dessin-anim%C3%A9-musulman-la-v%C3%A9racit%C3%A9",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sous%2Btitrage&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=EZHQ5UXMfC4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/EZHQ5UXMfC4/0.jpg"
-        },
         "dailymotion.com/2013/07/serigne-sam-mbaye-sous-titrage-fran%C3%A7ais-le-coran-et-son-message": {
             "title": "Serigne sam Mbaye (Sous-Titrage Fran\u00e7ais): Le CORAN et son message Partie3...",
             "snippet": "Author: sope_serigne_samTags: mouride serigne sam mbaye serigne sam islam coran Posted: 19 July 2013Rating:: 0...",
             "date": "2013-07-19",
             "author_name": "sope_serigne_sam",
             "categories": "islam",
-            "tags": "islam,coran,titrage,titrage_fran\u00e7ais,fran\u00e7ais",
+            "tags": "islam,islam-coran,coran,titrage,titrage_fran\u00e7ais,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/islam/dailymotion.com/2013/07/serigne-sam-mbaye-sous-titrage-fran%C3%A7ais-le-coran-et-son-message",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sous+titrage+sous+titrage/0?af=1",
             "source_url": "http://dailymotion.com/video/x1233es_serigne-sam-mbaye-sous-titrage-francais-le-coran-et-son-message-partie3_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1233es_serigne-sam-mbaye-sous-titrage-francais-le-coran-et-son-message-partie3_tech"
+        },
+        "youtube.com/2013/06/florence-foresti-les-horaires-de-bureau-sous-titrage-sourds-et-malentendants": {
+            "title": "Florence Foresti - Les horaires de bureau (Sous-titrage sourds et malentendants)...",
+            "snippet": "Florence Foresti - Les horaires de bureau (Sous-titrage sourds et malentendants) Extrait de son spectacle \u00e0 La Cigale. Sous-titrage: TeamSubtitle. From: TeamSubtitleOFFICIEL Views: 10242 26 ratings Time: 03:54 More in Comedy...",
+            "date": "2013-06-14",
+            "author_name": "TeamSubtitleOFFICIEL",
+            "tags": "titrage,extrait",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2013/06/florence-foresti-les-horaires-de-bureau-sous-titrage-sourds-et-malentendants",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sous%2Btitrage&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=fuWAo8CXOns&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/fuWAo8CXOns/0.jpg"
+        },
+        "dailymotion.com/2013/01/prier-derri%C3%A8re-celui-qui-m%C3%A9dit-sur-les-savants-cheikh-al-fawzan": {
+            "title": "Prier derri\u00e8re celui qui m\u00e9dit sur les savants Cheikh Al-Fawzan - Avec sous-titrage...",
+            "snippet": "Author: IslamConvertiTags: islam coran Allah Dieu islamique proph\u00e8te musulmans Muhamed Mouhamed egypte Posted: 03 January 2013Rating:: 0...",
+            "date": "2013-01-03",
+            "author_name": "IslamConverti",
+            "categories": "islam",
+            "tags": "dieu,islam,islam-coran,coran,titrage",
+            "recuweb_url": "http://fr.recuweb.com/islam/dailymotion.com/2013/01/prier-derri%C3%A8re-celui-qui-m%C3%A9dit-sur-les-savants-cheikh-al-fawzan",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sous+titrage+sous+titrage/0?af=1",
+            "source_url": "http://dailymotion.com/video/xwfceo_prier-derriere-celui-qui-medit-sur-les-savants-cheikh-al-fawzan-avec-sous-titrage_webcam",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xwfceo_prier-derriere-celui-qui-medit-sur-les-savants-cheikh-al-fawzan-avec-sous-titrage_webcam"
         },
         "dailymotion.com/2012/08/extrait-de-wouja-e-trab-ep17-avec-sous-titrage-fran%C3%A7ais": {
             "title": "Extrait de Wouja'e Trab Ep17 avec Sous-titrage Fran\u00e7ais...",
             "snippet": "Extrait de l'\u00e9pisode17/Feuilleton de 30 \u00e9pisodes de Chafik Shimi adaptant le roman La terre de Zola au contexte socio-culturel Marocain. Diffus\u00e9 et rediffus\u00e9 sur les cha\u00eenes de TV marocaine depuis 2005.: dm_502d34337bf38Tags: Roman-feuilleton...",
             "date": "2012-08-21",
             "author_name": "dm_502d34337bf38",
-            "tags": "terre,titrage,fran\u00e7ais",
+            "tags": "terre,extrait,titrage,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2012/08/extrait-de-wouja-e-trab-ep17-avec-sous-titrage-fran%C3%A7ais",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sous+titrage+sous+titrage/0?af=1",
             "source_url": "http://dailymotion.com/video/xsy9t0_extrait-de-wouja-e-trab-ep17-avec-sous-titrage-francais_shortfilms",
@@ -50,7 +63,7 @@
             "date": "2012-03-16",
             "author_name": "DOUGHRI",
             "categories": "islam,mort",
-            "tags": "islam,terre,coran,titrage,titrage-francais,francais,yasser,yasser_al_dossari,dossari,surate,fajr,aube",
+            "tags": "islam,terre,dieu,coran,titrage,titrage-francais,francais,yasser,yasser_al_dossari,dossari,surate,fajr,aube",
             "recuweb_url": "http://fr.recuweb.com/mort/dailymotion.com/2012/03/yasser-al-dossari-surate-fajr-l-aube-sous-titrage-francais",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/sous+titrage+sous+titrage/0?af=1",
             "source_url": "http://dailymotion.com/video/xphr2t_yasser-al-dossari-surate-al-fajr-l-aube-sous-titrage-francais_webcam",
@@ -89,17 +102,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sous%2Btitrage&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=2x8uqxKstVM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/2x8uqxKstVM/0.jpg"
-        },
-        "youtube.com/2010/01/tutorial-sous-titrage-dune-vid%C3%A9o": {
-            "title": "Tutorial sous-titrage dune vid\u00e9o.",
-            "snippet": "Tutorial sous-titrage dune vid\u00e9o. Tutorial pour sous-titrage de vid\u00e9o utilisant 2 logiciels gratuits \u00e0 savoir VisualSubSync pour la cr\u00e9ation de fichier sous-titre aux format.srt et M4NG qui permet dincruster le fichier... From: diomkal Views:...",
-            "date": "2010-01-27",
-            "author_name": "diomkal",
-            "tags": "titrage",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2010/01/tutorial-sous-titrage-dune-vid%C3%A9o",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=sous%2Btitrage&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=uzLyWnIEqO4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/uzLyWnIEqO4/0.jpg"
         },
         "dailymotion.com/2009/03/impaled-nazarene-faux-sous-titrage-fran%C3%A7ais": {
             "title": "Impaled Nazarene - Faux Sous Titrage Fran\u00e7ais...",
