@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "graffiti",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/graffiti/",
@@ -10,62 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/blogs.json"
     },
     "items": {
-        "french.china.org.cn/2015/04/shanghai-les-masques-de-l-op%C3%A9ra-p%C3%A9kin-dans-des-graffitis": {
-            "title": "Shanghai: Les masques de l'op\u00e9ra de P\u00e9kin dans des graffitis...",
-            "snippet": "Les jeunes artistes Seth et Xu Yu'an (surnomm\u00e9e par les Shanghaiens La fille au grand visage), l'un Fran\u00e7ais et l'autre Chinoise, ont r\u00e9alis\u00e9 ensemble trois graffiti sur un mur dans le sud des Zones urbaines d'exp\u00e9rimentation (UPBA) de l'Expo...",
-            "date": "2015-04-07",
-            "categories": "graffiti",
-            "tags": "mur,graffitis,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/french.china.org.cn/2015/04/shanghai-les-masques-de-l-op%C3%A9ra-p%C3%A9kin-dans-des-graffitis",
+        "francebleu.fr/2015/04/pour-lutter-contre-les-graffitis-le-vatican-choisit-une-entreprise": {
+            "title": "Pour lutter contre les graffitis, le Vatican choisit une entreprise de Montreuil...",
+            "snippet": "Apr\u00e8s cinq ans de gros travaux sur la place Saint-Pierre, le Vatican voulait que les 284 colonnes qui entourent la place ne soient pas d\u00e9figur\u00e9es par des graffitis. Il fallait donc trouver un moyen pour les prot\u00e9ger. Pour ne pas se tromper,...",
+            "date": "2015-04-23",
+            "categories": "place,graffiti",
+            "tags": "graffitis,saint,pierre,donc",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/francebleu.fr/2015/04/pour-lutter-contre-les-graffitis-le-vatican-choisit-une-entreprise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://french.china.org.cn/culture/txt/2015-04/07/content_35258937.htm"
+            "source_url": "http://francebleu.fr/infos/tag/pour-lutter-contre-les-graffitis-le-vatican-choisit-une-entreprise-de-montreuil-2302153"
         },
-        "charentelibre.fr/2015/04/l%C3%A9glise-de-louzac-saint-andr%C3%A9-paradis-des-graffitis": {
-            "title": "L\u00e9glise de Louzac-Saint-Andr\u00e9 paradis des graffitis...",
-            "snippet": "Pr\u00e8s dun millier de graffitis ont \u00e9t\u00e9 rep\u00e9r\u00e9s sur l\u00e9glise de Louzac-Saint-Andr\u00e9. Laiss\u00e9s par des p\u00e8lerins et des compagnons. GrandCognac vient de voter une subvention pour valoriser le travail des b\u00e9n\u00e9voles. Les murs en pierre de taille...",
-            "date": "2015-04-06",
+        "leplacoteux.com/2015/04/un-tricot-graffiti-sur-deux-arbres": {
+            "title": "Un tricot graffiti sur deux arbres...",
+            "snippet": "SAINT-ROCH-DES-AULNAIES Depuis le vendredi 10 avril, on peut admirer ce tricot graffiti install\u00e9 sur deux arbres devant le presbyt\u00e8re de Saint-Roch-des-Aulnaies. Le tricot graffiti est lart du tricot pour red\u00e9couvrir le mobilier urbain.",
+            "date": "2015-04-23",
             "categories": "graffiti",
-            "tags": "murs,travail,graffitis,\u00e9t\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/charentelibre.fr/2015/04/l%C3%A9glise-de-louzac-saint-andr%C3%A9-paradis-des-graffitis",
+            "tags": "graffiti,saint",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/leplacoteux.com/2015/04/un-tricot-graffiti-sur-deux-arbres",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://charentelibre.fr/2015/04/06/l-eglise-de-louzac-saint-andre-paradis-des-graffitis,1948775.php"
+            "source_url": "http://leplacoteux.com/actualites/actualites-et-faits-divers/218294/un-tricot-graffiti-sur-deux-arbres"
+        },
+        "leparisien.fr/2015/04/pierre-frey-s-offre-un-grand-nom-du-graffiti-am%C3%A9ricain": {
+            "title": "Pierre Frey s'offre un grand nom du graffiti am\u00e9ricain...",
+            "snippet": "La v\u00e9n\u00e9rable maison de papier peint et de tissus parisienne s'associe, le temps d'une collaboration, avec l'artiste graffeur am\u00e9ricain Toxic. De cette collaboration est n\u00e9 un tissu (170 le m\u00e8tre), un papier peint (160 euros le m\u00e8tre) et un...",
+            "date": "2015-04-21",
+            "categories": "graffiti",
+            "tags": "papier,artiste,pierre,graffiti",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/leparisien.fr/2015/04/pierre-frey-s-offre-un-grand-nom-du-graffiti-am%C3%A9ricain",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/laparisienne/deco/pierre-frey-s-offre-un-grand-nom-du-graffiti-americain-20-04-2015-4711695.php"
+        },
+        "nordinfo.com/2015/04/avec-les-fermi%C3%A8res-de-lorraine-et-dailleurs-sur-la-route": {
+            "title": "Avec les Fermi\u00e8res de Lorraine et dailleurs: sur la route des tricots-graffiti...",
+            "snippet": "\u00c9v\u00e9nement-phare de la programmation soulignant le 100e anniversaire des Cercles de fermi\u00e8res du Qu\u00e9bec, les tricots-graffitis se multiplient et cest dans la bonne humeur que lon inaugurait, ce mardi, ceux qui sont d\u00e9sormais install\u00e9s au...",
+            "date": "2015-04-20",
+            "categories": "graffiti",
+            "tags": "graffitis,graffiti,phare",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/nordinfo.com/2015/04/avec-les-fermi%C3%A8res-de-lorraine-et-dailleurs-sur-la-route",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://nordinfo.com/Actualites/2015-04-21/article-4119563/Avec-les-Fermieres-de-Lorraine-et-d&rsquo;ailleurs:-sur-la-route-des-tricots-graffiti/1"
+        },
+        "nordlittoral.fr/2015/04/le-graffiti-transporte-lhistoire": {
+            "title": "Le graffiti transporte lhistoire...",
+            "snippet": "Le Jardin des Arts continue d\u00e9gayer les visages de Calais. Cette semaine, une trentaine d\u00e9l\u00e8ves de l\u00e9cole du Phare ont b\u00e9n\u00e9fici\u00e9 de lintervention conjointe de Jank et dAgathe Verschaffel autour de la pratique du street-art. En classe...",
+            "date": "2015-04-17",
+            "categories": "graffiti,arts",
+            "tags": "street,visages,graffiti,phare,art",
+            "recuweb_url": "http://fr.recuweb.com/arts/nordlittoral.fr/2015/04/le-graffiti-transporte-lhistoire",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://nordlittoral.fr/calais/le-graffiti-transporte-l-histoire-ia0b0n200889"
         },
         "leparisien.fr/2015/04/en-images-paris-derni%C3%A8re-plong%C3%A9e-dans-la-rue-du-graffiti": {
             "title": "EN IMAGES. Paris: derni\u00e8re plong\u00e9e dans la rue du graffiti - Le Parisien...",
-            "snippet": "Le ParisienEN IMAGES. Paris: derni\u00e8re plong\u00e9e dans la rue du graffitiLe ParisienEN IMAGES. Paris: derni\u00e8re plong\u00e9e dans la rue du graffiti Devenue un lieu de cr\u00e9ation artistique, notamment pour les adeptes des graffitis, la rue D\u00e9noyez (Paris...",
+            "snippet": "Le ParisienEN IMAGES. Paris: derni\u00e8re plong\u00e9e dans la rue du graffitiLe ParisienCette derni\u00e8re a d\u00e9cid\u00e9 de construire des logements sociaux et une cr\u00e8che dans les btiments situ\u00e9s entre les 18 et 26 bis de la rue D\u00e9noyez. Commer\u00e7ants et...",
             "date": "2015-04-05",
             "categories": "graffiti",
-            "tags": "graffitis,graffiti",
+            "tags": "graffiti",
             "recuweb_url": "http://fr.recuweb.com/graffiti/leparisien.fr/2015/04/en-images-paris-derni%C3%A8re-plong%C3%A9e-dans-la-rue-du-graffiti",
-            "resource_url": "http://news.google.fr/?hl=fr&q=graffiti&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=graffiti%2Bgraffiti&output=atom&nord=1",
             "source_url": "http://leparisien.fr/paris-75/paris-75020/en-images-paris-derniere-plongee-dans-la-rue-du-graffiti-04-04-2015-4665723.php"
-        },
-        "letelegramme.fr/2015/04/street-art-le-graffiti-passe-au-vert-t%C3%A9l%C3%A9gramme": {
-            "title": "Street art. Le graffiti passe au vert - Le T\u00e9l\u00e9gramme...",
-            "snippet": "Le T\u00e9l\u00e9grammeStreet art. Le graffiti passe au vertLe T\u00e9l\u00e9gramme\u00c0 noter qu'une autre fa\u00e7on de r\u00e9aliser un \u00e9co-graffiti existe: un m\u00e9lange de bi\u00e8re, sucre, yaourt et mousse pass\u00e9 au mixer et appliqu\u00e9 au pinceau sur un mur de b\u00e9ton ou de...",
-            "date": "2015-04-02",
-            "categories": "graffiti",
-            "tags": "mur,street,art,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/letelegramme.fr/2015/04/street-art-le-graffiti-passe-au-vert-t%C3%A9l%C3%A9gramme",
-            "resource_url": "http://news.google.fr/?hl=fr&q=graffiti&output=atom&nord=1",
-            "source_url": "http://letelegramme.fr/cotes-darmor/plerin/street-art-le-graffiti-passe-au-vert-02-04-2015-10580365.php"
-        },
-        "philomag.com/2015/03/l-auteur-du-graffiti-kant-est-une-andouille-d%C3%A9masqu%C3%A9-abonnement-blog": {
-            "title": "L'auteur du graffiti Kant est une andouille d\u00e9masqu\u00e9 - (Abonnement) (Blog)...",
-            "snippet": "(Abonnement) (Blog)L'auteur du graffiti Kant est une andouille d\u00e9masqu\u00e9 (Abonnement) (Blog)L'auteur du graffiti Kant est une andouille sur les murs de la maison du philosophe, en Russie, a \u00e9t\u00e9 identifi\u00e9. L'affaire a d\u00e9fray\u00e9 la chronique la...",
-            "date": "2015-03-27",
-            "categories": "graffiti",
-            "tags": "\u00e9t\u00e9,murs,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/philomag.com/2015/03/l-auteur-du-graffiti-kant-est-une-andouille-d%C3%A9masqu%C3%A9-abonnement-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=graffiti&output=atom&nord=1",
-            "source_url": "http://philomag.com/lepoque/breves/lauteur-du-graffiti-kant-est-une-andouille-demasque-11357"
         },
         "fr-ca.actualites.yahoo.com/2015/02/proc%C3%A8s-pour-de-jennifer-pawluck-pr%C3%A9venir-plut%C3%B4t-que-daccuser-plaide": {
             "title": "Proc\u00e8s pour de Jennifer Pawluck: pr\u00e9venir plut\u00f4t que daccuser, plaide la d\u00e9fense...",
             "snippet": "MONTR\u00c9AL Les policiers nauraient jamais d\u00fb accuser de harc\u00e8lement la jeune femme ayant publi\u00e9 un graffiti dun des visages de la police de Montr\u00e9al avec une balle dans la t\u00eate, croit la d\u00e9fense.",
             "date": "2015-02-24",
             "categories": "graffiti",
-            "tags": "graffiti",
+            "tags": "visages,graffiti",
             "recuweb_url": "http://fr.recuweb.com/graffiti/fr-ca.actualites.yahoo.com/2015/02/proc%C3%A8s-pour-de-jennifer-pawluck-pr%C3%A9venir-plut%C3%B4t-que-daccuser-plaide",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=graffiti",
             "source_url": "http://fr-ca.actualites.yahoo.com/proc\u00e8s-jennifer-pawluck-pr\u00e9venir-plut\u00f4t-accuser-plaide-d\u00e9fense-184330014.html"
