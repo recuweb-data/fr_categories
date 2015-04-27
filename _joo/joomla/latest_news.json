@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "joomla",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/joomla/",
@@ -10,105 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
     },
     "items": {
-        "zdnet.fr/2015/03/applications-packag%C3%A9es-google-copie-ovh-en-mieux": {
-            "title": "Applications packag\u00e9es: Google copie OVH, en mieux...",
-            "snippet": "C\u00f4t\u00e9 base de donn\u00e9es, MongoDB, MySQL et PostgreSQL sont pr\u00e9sents. Enfin, la biblioth\u00e8que applicative recense Wordpress, Drupal, JasperReports, Joomla ou encore SugarCRM. Dans le d\u00e9tail, on note la pr\u00e9sence de 23 briques dinfrastructure...",
-            "date": "2015-03-27",
-            "categories": "google,mysql,wordpress,drupal,joomla",
-            "tags": "ovh,mysql,wordpress,drupal,joomla",
-            "recuweb_url": "http://fr.recuweb.com/joomla/zdnet.fr/2015/03/applications-packag%C3%A9es-google-copie-ovh-en-mieux",
+        "emploi.handicap.fr/2015/04/cv-23055-informatique-administration-de-site-web": {
+            "title": "CV 23055 - Informatique, Administration de site Web...",
+            "snippet": "Description:: refonte du site Web de lassociation Handicap et Libert\u00e9s Migration derni\u00e8re version de Joomla/int\u00e9gration dun nouveau module de don en ligne.: Refonte du site Web: d\u00e9veloppement d'un...",
+            "date": "2015-04-25",
+            "categories": "handicap,joomla",
+            "tags": "d\u00e9veloppement,nouveau,site,web,joomla",
+            "recuweb_url": "http://fr.recuweb.com/joomla/emploi.handicap.fr/2015/04/cv-23055-informatique-administration-de-site-web",
             "resource_url": "http://www.bing.com/news/search?first=1&q=joomla&format=RSS&cc=fr",
-            "source_url": "http://zdnet.fr/actualites/applications-packagees-google-copie-ovh-en-mieux-39817068.htm"
+            "source_url": "http://emploi.handicap.fr/cv-emploi-handicap-23055.php"
         },
-        "channelnews.fr/2015/03/teclib-et-auguria-fusionnent": {
-            "title": "Teclib'et Auguria fusionnent...",
-            "snippet": "Auguria est en effet sp\u00e9cialis\u00e9e dans le-commerce et lERP libre depuis 2006, elle dispose d'une \u00e9quipe dexperts sur Magento, Odoo, Dolibarr, EZ-Publish, Prestashop, Joomla ou encore WordPress. Le d\u00e9partement hosting de Teclib reprend l...",
-            "date": "2015-03-27",
-            "categories": "magento,joomla,wordpress",
-            "tags": "joomla,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/channelnews.fr/2015/03/teclib-et-auguria-fusionnent",
+        "commentcamarche.net/2015/04/les-failles-de-s%C3%A9curit%C3%A9-joomla": {
+            "title": "Les failles de s\u00e9curit\u00e9 Joomla...",
+            "snippet": "je d\u00e9veloppe actuellement un site web PHP pour mini entreprise avec joomla. sur mon le site pr\u00e9c\u00e9dant un malade s'est amuser a publier des articles sans mon avis. comme un roi. j'aimerai savoir comment il arrive a faire \u00e7a et si un gar a un...",
+            "date": "2015-04-24",
+            "categories": "joomla,php",
+            "tags": "articles,joomla,site,web,php",
+            "recuweb_url": "http://fr.recuweb.com/php/commentcamarche.net/2015/04/les-failles-de-s%C3%A9curit%C3%A9-joomla",
             "resource_url": "http://www.bing.com/news/search?first=1&q=joomla&format=RSS&cc=fr",
-            "source_url": "http://channelnews.fr/accueil/en-bref/101-actualite-des-societes/23674-teclib-et-auguria-fusionnent.html"
+            "source_url": "http://commentcamarche.net/forum/affich-31879204-les-failles-de-securite-joomla"
         },
-        "emploi.presse-citron.net/2015/03/webmaster-technique-h-f": {
-            "title": "Webmaster technique H/F...",
-            "snippet": "Vous connaissez les outils de d\u00e9veloppement web pour la r\u00e9alisation de sites sous diff\u00e9rents CMS (Joomla, WordPress). Ce poste n\u00e9cessite une polyvalence et des comp\u00e9tences tr\u00e8s op\u00e9rationnelles, nous cherchons une personne ayant le go\u00fbt pour...",
-            "date": "2015-03-27",
-            "categories": "joomla,wordpress",
-            "tags": "comp\u00e9tences,r\u00e9alisation,sites,d\u00e9veloppement,technique,web,cms,joomla,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/emploi.presse-citron.net/2015/03/webmaster-technique-h-f",
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-lamp-symfony2-h-f": {
+            "title": "D\u00e9veloppeur LAMP, Symfony2 H/F...",
+            "snippet": "Vous disposez de comp\u00e9tebnces avanc\u00e9s de niveau DevOps en d\u00e9veloppement PHP, connaissance dun CMS web (id\u00e9alement eZpublish, ou Drupal ou Wordpress ou Joomla), notions dUML et de mod\u00e9lisation de base de donn\u00e9es (Merise), exp\u00e9rience en...",
+            "date": "2015-04-21",
+            "categories": "connaissance,php,drupal,wordpress,joomla",
+            "tags": "base,base-de-donn\u00e9es,donn\u00e9es,d\u00e9veloppement,php,cms,web,drupal,wordpress,joomla",
+            "recuweb_url": "http://fr.recuweb.com/joomla/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-lamp-symfony2-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=joomla&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/Marketing/Webmaster+technique+HF/29624"
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+LAMP,+Symfony2+HF/30052"
         },
-        "commentcamarche.net/2015/03/besoin-de-logiciel-creation-site-web-facil": {
-            "title": "Besoin de logiciel de creation de site web facil...",
-            "snippet": "Si tu veux cr\u00e9er facilement un site sans connaitre les langages, utilise un cms (wordpress, drupal,joomla pour ne citer que les plus connus), cela demande un minimum de connaissances et l'installation ne prends que quelques minutes.",
-            "date": "2015-03-26",
-            "categories": "connaissance,langage,wordpress,drupal,joomla",
-            "tags": "site,web,cr\u00e9er,cms,wordpress,drupal,joomla,installation",
-            "recuweb_url": "http://fr.recuweb.com/joomla/commentcamarche.net/2015/03/besoin-de-logiciel-creation-site-web-facil",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=joomla&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31754116-besoin-de-logiciel-de-creation-de-site-web-facil"
-        },
-        "ze-mag.info/2015/03/trouver-une-agence-web-sp%C3%A9cialiste-de-joomla-zemag": {
-            "title": "Trouver une agence web sp\u00e9cialiste de Joomla - ZeMag...",
-            "snippet": "ZeMagTrouver une agence web sp\u00e9cialiste de JoomlaZeMagJoomla est un CMS autrement dit un Content Management System ou syst\u00e8me de gestion de contenu en fran\u00e7ais, il permet de cr\u00e9er des sites internet dynamique. Luxury concept est une agence...",
-            "date": "2015-03-26",
-            "categories": "management,joomla,internet",
-            "tags": "sites,permet,gestion,contenu,content,management,web,joomla,cms,cr\u00e9er,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/ze-mag.info/2015/03/trouver-une-agence-web-sp%C3%A9cialiste-de-joomla-zemag",
-            "resource_url": "http://news.google.fr/?hl=fr&q=joomla&output=atom&nord=1",
-            "source_url": "http://ze-mag.info/luxury-concept-specialiste-joomla/"
-        },
-        "ahadesign.eu/2015/03/eigenes-copyright-in-joomla-ahadesign": {
-            "title": "Eigenes Copyright in Joomla! - Ahadesign...",
-            "snippet": "AhadesignEigenes Copyright in Joomla!AhadesignEiner der gro\u00dfen Vorteile eines CMS wie Joomla ist es ja gerade, Inhalte mit Hilfe eines Editors sehr leicht selbst ver\u00f6ffentlichen zu k\u00f6nnen, ohne irgendeinen Plan von HTML oder sonstigem Webdesign...",
-            "date": "2015-03-25",
+        "pc-infopratique.com/2015/04/rentabilisez-votre-temps-devant-l-%C3%A9cran-avec-ce-site": {
+            "title": "Rentabilisez votre temps devant l'\u00e9cran avec ce site!",
+            "snippet": "Bonjour,Un ami m'a demand\u00e9 si je pouvais refaire son site web marchand. Il l'a cr\u00e9\u00e9 avec Joomla (un syst\u00e8me de gestion de contenu que je ne connaissais pas) et est h\u00e9berg\u00e9 par Neoweb. La programmation n'est pas un probl\u00e8me par contre je ne...",
+            "date": "2015-04-19",
             "categories": "joomla",
-            "tags": "ist,der,joomla,cms,mit,von",
-            "recuweb_url": "http://fr.recuweb.com/joomla/ahadesign.eu/2015/03/eigenes-copyright-in-joomla-ahadesign",
-            "resource_url": "http://news.google.fr/?hl=fr&q=joomla&output=atom&nord=1",
-            "source_url": "http://ahadesign.eu/9-news/1558-eigenes-copyright-in-joomla.html"
-        },
-        "programmez.com/2015/03/offre-d-emploi": {
-            "title": "Offre d'emploi...",
-            "snippet": "Comp\u00e9tences en conception technique, d\u00e9ploiement applicatif sur environnements PHP/MySQL Framework: Symfony 2 Connaissance imp\u00e9rative d'un ou plusieurs CMS (EzPublish, Drupal, Joomla,) Votre plus: vous aimez jouer au babyfoot et/ou au billard...",
-            "date": "2015-03-24",
-            "categories": "mysql,environnement,emploi,php,connaissance,drupal,joomla",
-            "tags": "mysql,technique,comp\u00e9tences,php,cms,drupal,joomla",
-            "recuweb_url": "http://fr.recuweb.com/joomla/programmez.com/2015/03/offre-d-emploi",
+            "tags": "gestion,gestion-de-contenu,contenu,site,web,joomla",
+            "recuweb_url": "http://fr.recuweb.com/joomla/pc-infopratique.com/2015/04/rentabilisez-votre-temps-devant-l-%C3%A9cran-avec-ce-site",
             "resource_url": "http://www.bing.com/news/search?first=1&q=joomla&format=RSS&cc=fr",
-            "source_url": "http://programmez.com/emploi-detail/J3F52Z6NQLML5ZDZJZZ"
+            "source_url": "http://pc-infopratique.com/forum-informatique/rentabilisez-temps-ecran-site-vt-77190.html"
         },
-        "phpmagazin.de/2015/03/joomla-ver%C3%B6ffentlicht-php-magazin": {
-            "title": "Joomla! ver\u00f6ffentlicht - php magazin...",
-            "snippet": "Joomla! ver\u00f6ffentlichtphp magazinGut einen Monat nach der Ver\u00f6ffentlichung der finalen Version von Joomla! 3.4 ist mit Joomla! nun das erste Maintenance-Release des erschienen. Die neue Version des beliebten Content-Management-Systems soll vor...",
-            "date": "2015-03-23",
-            "categories": "php,joomla,management",
-            "tags": "ist,mit,der,php,joomla,von,release,content,management",
-            "recuweb_url": "http://fr.recuweb.com/management/phpmagazin.de/2015/03/joomla-ver%C3%B6ffentlicht-php-magazin",
-            "resource_url": "http://news.google.fr/?hl=fr&q=joomla&output=atom&nord=1",
-            "source_url": "http://phpmagazin.de/news/joomla-3-4-1-179198"
+        "pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine": {
+            "title": "WordPress Vs Drupal Vs Joomla - PC Tech Magazine...",
+            "snippet": "PC Tech MagazineWordPress Vs Drupal Vs JoomlaPC Tech MagazineIn case you have decided to create a website and you are wondering which content management system (CMS) is the best choice for you. This post is going to look at three of the most...",
+            "date": "2015-04-13",
+            "categories": "management,drupal,wordpress,joomla",
+            "tags": "drupal,magazine,wordpress,joomla,cms",
+            "recuweb_url": "http://fr.recuweb.com/joomla/pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine",
+            "resource_url": "http://news.google.fr/?hl=fr&q=joomla%2Bjoomla&output=atom&nord=1",
+            "source_url": "http://pctechmag.com/2015/04/wordpress-vs-joomla-vs-drupal/"
         },
-        "techrepublic.com/2015/03/new-joomla-release-warrants-second-look-for-cms-deployments-techrepublic": {
-            "title": "New Joomla release warrants second look for CMS deployments - TechRepublic...",
-            "snippet": "New Joomla release warrants second look for CMS deploymentsTechRepublicJoomla was designed with extensibility in mind -- a wide variety of extensions are available for the needs of the audience. Importantly, Joomla can be easily adapted to a wide...",
-            "date": "2015-03-13",
+        "infos-mobiles.com/2015/04/un-malware-flash-infecte-les-sites-wordpress-et-joomla-infos-mobiles": {
+            "title": "Un malware Flash infecte les sites Wordpress et Joomla - Infos Mobiles...",
+            "snippet": "Infos MobilesUn malware Flash infecte les sites Wordpress et JoomlaInfos MobilesDes centaines de sites Web fonctionnant sur WordPress ou des syst\u00e8mes de gestion de contenu Joomla (CMS) ont \u00e9t\u00e9 attaqu\u00e9s depuis maintenant cinq mois avec les...",
+            "date": "2015-04-06",
+            "categories": "wordpress,joomla",
+            "tags": "gestion,gestion-de-contenu,contenu,wordpress,joomla,web,cms",
+            "recuweb_url": "http://fr.recuweb.com/joomla/infos-mobiles.com/2015/04/un-malware-flash-infecte-les-sites-wordpress-et-joomla-infos-mobiles",
+            "resource_url": "http://news.google.fr/?hl=fr&q=joomla%2Bjoomla&output=atom&nord=1",
+            "source_url": "http://infos-mobiles.com/wordpress/un-malware-flash-infecte-les-sites-wordpress-et-joomla/93591"
+        },
+        "virtual-strategy.com/2015/04/joomla-one-of-the-world-s-largest-cms-platforms-partners": {
+            "title": "Joomla-One Of The World's Largest CMS Platforms-Partners With... - Virtual-Strategy Magazine (press...",
+            "snippet": "Joomla-One Of The World's Largest CMS Platforms-Partners With...Virtual-Strategy Magazine (press release)The partnership will enable Joomla to streamline communication among its many teams and volunteers, while providing a unified approach to...",
+            "date": "2015-04-01",
             "categories": "joomla",
-            "tags": "release,joomla,cms",
-            "recuweb_url": "http://fr.recuweb.com/joomla/techrepublic.com/2015/03/new-joomla-release-warrants-second-look-for-cms-deployments-techrepublic",
+            "tags": "magazine,cms,joomla",
+            "recuweb_url": "http://fr.recuweb.com/joomla/virtual-strategy.com/2015/04/joomla-one-of-the-world-s-largest-cms-platforms-partners",
             "resource_url": "http://news.google.fr/?hl=fr&q=joomla&output=atom&nord=1",
-            "source_url": "http://techrepublic.com/article/new-joomla-release-warrants-second-look-for-cms-deployments/"
+            "source_url": "http://virtual-strategy.com/2015/04/01/joomla-one-worlds-largest-cms-platforms-partners-glip-improve-collaboration"
         },
-        "cmscritic.com/2015/03/8-ways-wordpress-beats-drupal-and-joomla-cms-critic": {
-            "title": "8 Ways WordPress Beats Drupal and Joomla - CMS Critic...",
-            "snippet": "8 Ways WordPress Beats Drupal and JoomlaCMS CriticWith a whopping 23.4% of the web running WP, it's amazingly popular and far surpasses any other CMS in the world. Today, I'm going to share with you my thoughts on why WordPress beats Drupal and...",
-            "date": "2015-03-05",
-            "categories": "wordpress,drupal,joomla",
-            "tags": "cms,wordpress,drupal,joomla,web",
-            "recuweb_url": "http://fr.recuweb.com/joomla/cmscritic.com/2015/03/8-ways-wordpress-beats-drupal-and-joomla-cms-critic",
-            "resource_url": "http://news.google.fr/?hl=fr&q=joomla&output=atom&nord=1",
-            "source_url": "http://cmscritic.com/8-ways-wordpress-beats-drupal-and-joomla/"
+        "globalsecuritymag.fr/2015/03/vigilnce-joomla-spider-faq-injection-sql-global-security-mag": {
+            "title": "Vigilnce - Joomla Spider FAQ: injection SQL - Global Security Mag...",
+            "snippet": "Vigilnce - Joomla Spider FAQ: injection SQLGlobal Security MagLe produit Joomla Spider FAQ utilise une base de donn\u00e9es. Cependant, les donn\u00e9es provenant de l'utilisateur sont directement ins\u00e9r\u00e9es dans une requ\u00eate SQL. Un attaquant peut donc...",
+            "date": "2015-03-26",
+            "categories": "joomla",
+            "tags": "donn\u00e9es,base,base-de-donn\u00e9es,joomla",
+            "recuweb_url": "http://fr.recuweb.com/joomla/globalsecuritymag.fr/2015/03/vigilnce-joomla-spider-faq-injection-sql-global-security-mag",
+            "resource_url": "http://news.google.fr/?hl=fr&q=joomla%2Bjoomla&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Joomla-Spider-FAQ,20150408,52129.html"
         }
     }
 }
