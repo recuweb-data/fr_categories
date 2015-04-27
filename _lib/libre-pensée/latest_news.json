@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "libre-pens\u00e9e",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/libre-pens\u00e9e/",
@@ -10,15 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/libre-pens%C3%A9e/libre-pens%C3%A9e/blogs.json"
     },
     "items": {
-        "agoravox.fr/2015/04/les-pr%C3%AAtres-l-%C3%A9v%C3%AAque-et-le-premier-ministre-agoravox": {
-            "title": "Les pr\u00eatres, l'\u00e9v\u00eaque et le Premier ministre - AgoraVox...",
-            "snippet": "AgoraVox Les pr\u00eatres, l'\u00e9v\u00eaque et le Premier ministreAgoraVoxMais qu'un Premier ministre de la R\u00e9publique s'engage dans cette pol\u00e9mique au c\u00f4t\u00e9 de l'\u00e9v\u00eaque, cela confirme l'appr\u00e9ciation de la Libre Pens\u00e9e: quand la la\u00efcit\u00e9 est partout,...",
-            "date": "2015-04-07",
-            "tags": "la\u00efcit\u00e9,libre,libre_pens\u00e9e,pens\u00e9e,r\u00e9publique",
-            "recuweb_url": "http://fr.recuweb.com/agoravox.fr/2015/04/les-pr%C3%AAtres-l-%C3%A9v%C3%AAque-et-le-premier-ministre-agoravox",
-            "resource_url": "http://news.google.fr/?hl=fr&q=libre%2Bpens%C3%A9e&output=atom&nord=1",
-            "source_url": "http://agoravox.fr/tribune-libre/article/les-pretres-l-eveque-et-le-premier-165832"
-        },
         "indycar.fr/2015/04/l-ims-et-indycar-d%C3%A9clarent-la-libre-pens%C3%A9e-religieuse-actu-communiqu%C3%A9": {
             "title": "L'IMS et l'IndyCar d\u00e9clarent la libre pens\u00e9e religieuse - L'actu IndyCar (Communiqu\u00e9 de presse)...",
             "snippet": "L'IMS et l'IndyCar d\u00e9clarent la libre pens\u00e9e religieuse - L'actu IndyCar (Communiqu\u00e9 de presse)...",
@@ -27,34 +19,6 @@
             "recuweb_url": "http://fr.recuweb.com/indycar.fr/2015/04/l-ims-et-indycar-d%C3%A9clarent-la-libre-pens%C3%A9e-religieuse-actu-communiqu%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=libre%2Bpens%C3%A9e&output=atom&nord=1",
             "source_url": "http://indycar.fr/2015/03/lims-et-lindycar-declarent-la-libre-pensee-religieuse/"
-        },
-        "zoomdici.fr/2015/04/une-r%C3%A9union-publique-sur-la-la%C3%AFcit%C3%A9-au-puy": {
-            "title": "Une r\u00e9union publique sur la la\u00efcit\u00e9 au Puy...",
-            "snippet": "En d\u00e9cembre 2015, la loi de s\u00e9paration des Eglises et de l'Etat aura 110 ans. A l'initiative de La Libre pens\u00e9e de Haute-Loire, Bernard Roux, conf\u00e9rencier de la Libre Pens\u00e9e de Loz\u00e8re, animera une r\u00e9union publique au Puy, salle du foyer au...",
-            "date": "2015-04-01",
-            "tags": "libre,libre_pens\u00e9e,pens\u00e9e,la\u00efcit\u00e9,haute",
-            "recuweb_url": "http://fr.recuweb.com/zoomdici.fr/2015/04/une-r%C3%A9union-publique-sur-la-la%C3%AFcit%C3%A9-au-puy",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=libre%2Bpens%C3%A9e&format=RSS&cc=fr",
-            "source_url": "http://zoomdici.fr/actualite/Une-reunion-publique-sur-la-laicite-au-Puy-id143058.html"
-        },
-        "blogs.mediapart.fr/2015/02/un-petit-extrait-de-pens%C3%A9e-libre-mediapart": {
-            "title": "Un petit extrait de pens\u00e9e libre... - Mediapart...",
-            "snippet": "Un petit extrait de pens\u00e9e de l'humour, pas la guerre! L'organisation \" Th\u00e9tre au napalm \" pr\u00e9sente \" La guerre et la propagande dans le conflit ukrainien \", une pi\u00e8ce en noir et blanc. Toute ressemblance avec un reportage r\u00e9cent n'est ni...",
-            "date": "2015-02-21",
-            "categories": "humour",
-            "tags": "petit,pens\u00e9e,libre",
-            "recuweb_url": "http://fr.recuweb.com/humour/blogs.mediapart.fr/2015/02/un-petit-extrait-de-pens%C3%A9e-libre-mediapart",
-            "resource_url": "http://news.google.fr/?hl=fr&q=libre%2Bpens%C3%A9e%2Blibre%2Bpens%C3%A9e&output=atom&nord=1",
-            "source_url": "http://blogs.mediapart.fr/blog/jocegaly/210215/un-petit-extrait-de-pensee-libre"
-        },
-        "bvoltaire.fr/2015/02/lettre-ouverte-au-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-nationale-libre-boulevard-voltaire": {
-            "title": "Lettre ouverte au pr\u00e9sident de la F\u00e9d\u00e9ration nationale de la Libre... - Boulevard Voltaire...",
-            "snippet": "Lettre ouverte au pr\u00e9sident de la F\u00e9d\u00e9ration nationale de la Libre...Boulevard VoltaireVous qui me lisez, allez faire un tour sur le site de la F\u00e9d\u00e9ration nationale de la Libre Pens\u00e9e. On se croirait revenu au temps du petit p\u00e8re Combes. Un...",
-            "date": "2015-02-11",
-            "tags": "petit,nationale,pr\u00e9sident,f\u00e9d\u00e9ration,libre,pens\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/bvoltaire.fr/2015/02/lettre-ouverte-au-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-nationale-libre-boulevard-voltaire",
-            "resource_url": "http://news.google.fr/?hl=fr&q=libre%2Bpens%C3%A9e%2Blibre%2Bpens%C3%A9e&output=atom&nord=1",
-            "source_url": "http://bvoltaire.fr/yannikchauvin/lettre-ouverte-au-president-de-la-federation-nationale-de-la-libre-pensee,157840"
         }
     }
 }
