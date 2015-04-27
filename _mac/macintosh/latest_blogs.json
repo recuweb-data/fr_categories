@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "macintosh",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/macintosh/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/macintosh/macintosh/blogs.json"
     },
     "items": {
+        "retaildetail.be/2015/03/macintosh-perte-nette-de-100-millions-d-euros-en-2014-retaildetail": {
+            "title": "Macintosh: perte nette de 100 millions d'euros en 2014 - RetailDetail...",
+            "snippet": "En 2014 Macintosh Retail Group a essuy\u00e9 une perte de 101,6 millions d'euros. Par ailleurs le groupe se retire du Royaume-Uni.",
+            "date": "2015-03-19",
+            "author_name": "yoni.vanlooveren@gmail.com (Yoni Van Looveren)",
+            "categories": "macintosh",
+            "tags": "retail,retail-group,group,macintosh",
+            "recuweb_url": "http://fr.recuweb.com/macintosh/retaildetail.be/2015/03/macintosh-perte-nette-de-100-millions-d-euros-en-2014-retaildetail",
+            "resource_url": "http://www.google.com/search?q=macintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://retaildetail.be/fr/f-belgique/bgq-mode/item/21412-macintosh-perte-nette-de-100-millions-d-euros-en-2014"
+        },
         "inmemoriam.ca/2015/03/louise-macintosh-astephen-avis-de-d%C3%A9c%C3%A8s-et-n%C3%A9crologie": {
             "title": "Louise (MacIntosh) Astephen: avis de d\u00e9c\u00e8s et n\u00e9crologie sur...",
             "snippet": "It is with deep sadness that we announce the passing of Anne Louise (MacIntosh) Astephen, beloved mother, sister, aunt and grand aunt, on Tuesday, March 3, 2015, at the Cape Breton Regional Hospital, Sydney.",
             "date": "2015-03-04",
             "author_name": "inconnu",
             "categories": "macintosh",
-            "tags": "macintosh,that",
+            "tags": "macintosh",
             "recuweb_url": "http://fr.recuweb.com/macintosh/inmemoriam.ca/2015/03/louise-macintosh-astephen-avis-de-d%C3%A9c%C3%A8s-et-n%C3%A9crologie",
             "resource_url": "http://www.google.com/search?q=macintosh%2Bmacintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://inmemoriam.ca/voir-annonce-479898-louise-macintosh-astephen.html"
@@ -27,7 +39,7 @@
             "date": "2015-02-11",
             "author_name": "Pierre Dandumont",
             "categories": "macintosh",
-            "tags": "\u00e9tait,sans,seconde,g\u00e9n\u00e9ration,macintosh,macintosh_portable,portable,journal,journal-du-lapin,lapin",
+            "tags": "machine,\u00e9tait,sans,g\u00e9n\u00e9ration,macintosh",
             "recuweb_url": "http://fr.recuweb.com/macintosh/journaldulapin.com/2015/02/prototype-macintosh-portable-le-journal-du-lapin",
             "resource_url": "http://www.google.com/search?q=macintosh%2Bmacintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldulapin.com/2015/02/11/prototype-macintosh-portable-4/"
@@ -38,7 +50,7 @@
             "date": "2015-01-29",
             "author_name": "Valentin",
             "categories": "technologie,macintosh,macbook",
-            "tags": "air,labs,imagin\u00e9,site,macintosh,curved,pourrait,\u00eatre,apple,macbook",
+            "tags": "labs,imagin\u00e9,site,macintosh,curved,apple",
             "recuweb_url": "http://fr.recuweb.com/macbook/fubiz.net/2015/01/retro-future-macintosh-hybrid-fubiz",
             "resource_url": "http://www.google.com/search?q=macintosh%2Bmacintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://fubiz.net/2015/01/29/retro-future-macintosh-hybrid/"
@@ -49,7 +61,7 @@
             "date": "2015-01-16",
             "author_name": "Morgan",
             "categories": "technologie,macintosh",
-            "tags": "question,aurait,mac,macintosh,apple",
+            "tags": "question,mac,macintosh,apple,aujourd,hui",
             "recuweb_url": "http://fr.recuweb.com/macintosh/gizmodo.fr/2015/01/mac-neue-un-macintosh-original-largement-modernis%C3%A9-gizmodo",
             "resource_url": "http://www.google.com/search?q=macintosh%2Bmacintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://gizmodo.fr/2015/01/16/mac-neue-macintosh-original-modernise.html"
@@ -71,7 +83,7 @@
             "date": "2015-01-14",
             "author_name": "Julien Fabro",
             "categories": "macintosh",
-            "tags": "concept,curved,labs,hommage,sorti,macintosh,apple,lui",
+            "tags": "concept,curved,labs,hommage,marque,macintosh,apple,lui",
             "recuweb_url": "http://fr.recuweb.com/macintosh/piwee.net/2015/01/un-magnifique-concept-de-macintosh-sorti-en-1984-remis-au-gout",
             "resource_url": "http://www.google.com/search?q=macintosh%2Bmacintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://piwee.net/1-concept-macintosh-2015-design-140114/"
@@ -82,43 +94,32 @@
             "date": "2015-01-14",
             "author_name": "iphoneVogue",
             "categories": "macintosh",
-            "tags": "labs,imagin\u00e9,site,concept,hommage,premier,macintosh,curved,mac,photos",
+            "tags": "labs,imagin\u00e9,site,concept,hommage,premier,macintosh,curved,mac",
             "recuweb_url": "http://fr.recuweb.com/macintosh/iphonevogue.net/2015/01/concept-le-macintosh-revisit%C3%A9-dans-une-version-futuriste",
             "resource_url": "http://fr.search.wordpress.com/?q=macintosh%2Bmacintosh&f=feed&page=1",
             "source_url": "http://iphonevogue.net/2015/01/14/concept-le-macintosh-revisite-dans-une-version-futuriste/"
         },
-        "journaldulapin.com/2014/08/recycler-un-mac-mini-en-macintosh-se-avec-raspberry-pi": {
-            "title": "Recycler un Mac mini en Macintosh SE avec un Raspberry Pi Le...",
-            "snippet": "Petit montage amusant: comme j'avais une coque de Mac mini 2010, un Raspberry Pi et quelques accessoires sous la main, je me suis fabriqu\u00e9 un Macintosh SE maison. J'ai utilis\u00e9 Mini vMac, un adaptateur ADB pour un...",
-            "date": "2014-08-30",
-            "author_name": "Pierre Dandumont",
+        "myteddyland.net/2014/08/01nettv-l-histoire-du-macintosh": {
+            "title": "01NetTV: L'histoire du Macintosh...",
+            "snippet": "Durant tout l\u00e9t\u00e9, Fran\u00e7ois Sorel et J\u00e9r\u00f4me Colombain vous font revivre les objets high-tech embl\u00e9matiques de ces derni\u00e8res ann\u00e9es. Aujourdhui: le Macintosh...",
+            "date": "2014-08-05",
+            "author_name": "myteddyland",
             "categories": "macintosh",
-            "tags": "accessoires,amusant,mini,mac,macintosh,suis,vmac",
-            "recuweb_url": "http://fr.recuweb.com/macintosh/journaldulapin.com/2014/08/recycler-un-mac-mini-en-macintosh-se-avec-raspberry-pi",
-            "resource_url": "http://www.google.com/search?q=macintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldulapin.com/2014/08/30/recycler-un-mac-mini-en-macintosh-se-avec-un-raspberry-pi/"
+            "tags": "tech,tech-embl\u00e9matiques,embl\u00e9matiques,derni\u00e8res,derni\u00e8res-ann\u00e9es,ann\u00e9es,font,font-revivre,revivre,revivre-les-objets,objets,j\u00e9r\u00f4me,j\u00e9r\u00f4me_colombain,colombain,fran\u00e7ois,fran\u00e7ois_sorel,sorel,l\u00e9t\u00e9,nettv,macintosh,durant,high,aujourdhui",
+            "recuweb_url": "http://fr.recuweb.com/macintosh/myteddyland.net/2014/08/01nettv-l-histoire-du-macintosh",
+            "resource_url": "http://fr.search.wordpress.com/?q=macintosh%2Bmacintosh&f=feed&page=1",
+            "source_url": "http://myteddyland.net/2014/08/05/01nettv-lhistoire-du-macintosh/"
         },
-        "journaldulapin.com/2014/08/easter-egg-la-rom-du-macintosh-se-le-journal-lapin": {
-            "title": "Easter Egg: la ROM du Macintosh SE Le journal du lapin...",
-            "snippet": "Mini vMac supporte en effet le Macintosh SE et il suffit de le recompiler et d'utiliser la bonne ROM. 7825085862_ff3134e22e_o. Pour activer l'Easter Egg, il faut passer en mode interruption (ctrl i) et taper la commande...",
-            "date": "2014-08-27",
-            "author_name": "Pierre Dandumont",
+        "macoffeetalk.wordpress.com/2014/01/macintosh-color-classic-too-little-late": {
+            "title": "Macintosh Color Classic, too little too late?",
+            "snippet": "Le Macintosh Color Classic est une machine \u00e9tonnante. Encore aujourd'hui, en 2014, plus de vingt ans apr\u00e8s sa sortie, il continue de surprendre et de plaire. Sa cote...",
+            "date": "2014-01-30",
+            "author_name": "paulrony",
             "categories": "macintosh",
-            "tags": "effet,journal,journal-du-lapin,lapin,rom,macintosh,mini,vmac",
-            "recuweb_url": "http://fr.recuweb.com/macintosh/journaldulapin.com/2014/08/easter-egg-la-rom-du-macintosh-se-le-journal-lapin",
-            "resource_url": "http://www.google.com/search?q=macintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldulapin.com/2014/08/27/easter-egg-la-rom-du-macintosh-se/"
-        },
-        "journaldulapin.com/2014/08/macintosh-classic-le-mac-qui-d%C3%A9marre-sans-disque-dur": {
-            "title": "Macintosh Classic: le Mac qui d\u00e9marre sans disque dur et sans...",
-            "snippet": "Truc amusant que je viens de d\u00e9couvrir: Apple a vendu au moins un Mac capable de d\u00e9marrer sans disquette et sans disque dur, le Macintosh Classic. Ce mod\u00e8le sorti en 1990 int\u00e8gre en effet System 6 en ROM, ce qui...",
-            "date": "2014-08-08",
-            "author_name": "Pierre Dandumont",
-            "categories": "disque-dur,macintosh",
-            "tags": "effet,sorti,sans,amusant,macintosh,mac,apple,rom",
-            "recuweb_url": "http://fr.recuweb.com/macintosh/journaldulapin.com/2014/08/macintosh-classic-le-mac-qui-d%C3%A9marre-sans-disque-dur",
-            "resource_url": "http://www.google.com/search?q=macintosh&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldulapin.com/2014/08/08/macintosh-classic-le-mac-qui-demarre-sans-disque-dur-et-sans-disquette/"
+            "tags": "machine,macintosh,aujourd,hui",
+            "recuweb_url": "http://fr.recuweb.com/macintosh/macoffeetalk.wordpress.com/2014/01/macintosh-color-classic-too-little-late",
+            "resource_url": "http://fr.search.wordpress.com/?q=macintosh%2Bmacintosh&f=feed&page=1",
+            "source_url": "http://macoffeetalk.wordpress.com/2014/01/30/macintosh-color-classic-too-little-too-late/"
         }
     }
 }
