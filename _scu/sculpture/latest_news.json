@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sculpture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sculpture/",
@@ -10,22 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/blogs.json"
     },
     "items": {
-        "actualites.sympatico.ca/2015/04/des-sculptures-danimaux-avec-%C3%A9quipements-de-ferme-r%C3%A9cup%C3%A9r%C3%A9s": {
-            "title": "Des sculptures danimaux avec des \u00e9quipements de ferme r\u00e9cup\u00e9r\u00e9s...",
-            "snippet": "Quelle magnifique id\u00e9e de r\u00e9cup\u00e9ration. Lartiste John Lopez utilise de la ferraille d\u00e9quipements de ferme pour cr\u00e9er dincroyables sculptures danimaux, de ferme ou dautres milieux, comme des buffles, des chevaux, des vaches, des b\u00e9liers...",
-            "date": "2015-04-12",
+        "saint-lo.maville.com/2015/04/sculpture-jean-pierre-voisin-cr%C3%A9e-avec-de-la-r%C3%A9cup%C3%A9ration": {
+            "title": "Sculpture: Jean-Pierre Voisin cr\u00e9e avec de la r\u00e9cup\u00e9ration...",
+            "snippet": "Jean-Pierre Voisin sculpte et expose dans sa galerie les objets r\u00e9cup\u00e9r\u00e9s et transform\u00e9s dans son atelier. Ouest-France Le d\u00e9clic lui est venu en 2003. Tout objet r\u00e9cup\u00e9r\u00e9 devient objet d'art entre les mains de Jean-Pierre Voisin.",
+            "date": "2015-04-24",
             "categories": "sculpture",
-            "tags": "magnifique,sculptures",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/actualites.sympatico.ca/2015/04/des-sculptures-danimaux-avec-%C3%A9quipements-de-ferme-r%C3%A9cup%C3%A9r%C3%A9s",
+            "tags": "lui,expose,atelier,pierre,sculpture,jean,france,art",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/saint-lo.maville.com/2015/04/sculpture-jean-pierre-voisin-cr%C3%A9e-avec-de-la-r%C3%A9cup%C3%A9ration",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
-            "source_url": "http://actualites.sympatico.ca/culture/sculptures-animaux-ferme"
+            "source_url": "http://saint-lo.maville.com/actu/actudet_-sculpture-jean-pierre-voisin-cree-avec-de-la-recuperation_52662-2757743_actu.Htm"
+        },
+        "guingamp.maville.com/2015/04/rostrenen-65-sculptures-bient%C3%B4t-expos%C3%A9es-en-centre-ville": {
+            "title": "Rostrenen: 65 sculptures bient\u00f4t expos\u00e9es en centre-ville...",
+            "snippet": "Une initiative de la nouvelle association le Printemps des arts, en partenariat avec la municipalit\u00e9. \u00c0 diff\u00e9rents endroits de la commune, quinze artistes pr\u00e9senteront 65 sculptures du 8 mai au 15 juin. Les sculptures que nous pr\u00e9sentons seront...",
+            "date": "2015-04-23",
+            "categories": "arts,sculpture",
+            "tags": "mai,artistes,nouvelle,sculptures",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/guingamp.maville.com/2015/04/rostrenen-65-sculptures-bient%C3%B4t-expos%C3%A9es-en-centre-ville",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://guingamp.maville.com/actu/actudet_-rostrenen-65-sculptures-bientot-exposees-en-centre-ville_fil-2756783_actu.Htm"
+        },
+        "toutelaculture.com/2015/04/sculptures-souabes-de-la-fin-du-moyen-%C3%A2ge-red%C3%A9couverte-chefs-d%C5%93uvres": {
+            "title": "Sculptures Souabes de la fin du Moyen \u00c2ge: red\u00e9couverte de chefs d\u0153uvres germaniques...",
+            "snippet": "Apr\u00e8s la tr\u00e8s compl\u00e8te exposition Voyager au Moyen \u00c2ge qui sest achev\u00e9e fin f\u00e9vrier 2015, le mus\u00e9e de Cluny propose une exposition sur le th\u00e8me trop peu connu de la sculpture du bois polychrome de Souabe, con\u00e7ue par Damien Bern\u00e9...",
+            "date": "2015-04-22",
+            "categories": "sculpture",
+            "tags": "exposition,mus\u00e9e,sculptures,sculpture,bois",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/toutelaculture.com/2015/04/sculptures-souabes-de-la-fin-du-moyen-%C3%A2ge-red%C3%A9couverte-chefs-d%C5%93uvres",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://toutelaculture.com/arts/expositions/sculptures-souabes-de-la-fin-du-moyen-age-redecouverte-de-chefs-doeuvres-germaniques/"
         },
         "fr.news.yahoo.com/2015/03/la-sculpture-de-juan-carlos-qui-bouleverse-l-espagne": {
             "title": "La sculpture de Juan Carlos qui bouleverse l'Espagne...",
             "snippet": "ART - Depuis quelques jours, l'Espagne est boulevers\u00e9e par une exposition controvers\u00e9e montrant une sculpture de l'ancien roi d'Espagne, Juan Carlos, en train d'\u00eatre sodomis\u00e9 symboliquement.",
             "date": "2015-03-23",
             "categories": "sculpture",
-            "tags": "\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,juan,juan_carlos,carlos,sculpture,espagne,art,jours",
+            "tags": "\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,jours,juan,juan_carlos,carlos,sculpture,espagne,art",
             "recuweb_url": "http://fr.recuweb.com/sculpture/fr.news.yahoo.com/2015/03/la-sculpture-de-juan-carlos-qui-bouleverse-l-espagne",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sculpture",
             "source_url": "http://fr.news.yahoo.com/sculpture-juan-carlos-fait-pol\u00e9mique-110640711.html"
@@ -35,7 +56,7 @@
             "snippet": "Une exposition controvers\u00e9e montrant une sculpture de l'ancien roi d'Espagne Juan Carlos en position d'\u00eatre sodomis\u00e9 a finalement ouvert ses portes ce week-end au Mus\u00e9e d'art contemporain de Barcelone (MACBA), son directeur \u00e9tant revenu sur sa...",
             "date": "2015-03-22",
             "categories": "sculpture",
-            "tags": "\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,juan,juan_carlos,carlos,espagne,sculpture,art",
+            "tags": "contemporain,\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,juan,juan_carlos,carlos,mus\u00e9e,expose,espagne,sculpture,art",
             "recuweb_url": "http://fr.recuweb.com/sculpture/fr-ca.actualites.yahoo.com/2015/03/espagne-un-mus%C3%A9e-expose-une-sculpture-pol%C3%A9mique-du-roi-juan-carlos",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sculpture",
             "source_url": "http://fr-ca.actualites.yahoo.com/espagne-un-mus\u00e9e-expose-une-sculpture-pol\u00e9mique-du-134715846.html"
