@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "adwords",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/adwords/",
@@ -10,41 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/formation-vid%C3%A9o-apprendre-google-adwords-display-par-elephorm": {
+            "title": "Formation vid\u00e9o Apprendre Google AdWords Display par Elephorm...",
+            "snippet": "Teaser du cours vid\u00e9o Apprendre Google AdWords Display. Cr\u00e9ez facilement vos campagnes AdWords Display avec Alexandre Conca. Voir la formation compl\u00e8te: Retrouvez-nous sur: Facebook - Twitter - LinkedIn -: ldrouinTags: Google Google AdWords...",
+            "date": "2015-04-08",
+            "author_name": "ldrouin",
+            "categories": "google,adwords,facebook,twitter",
+            "tags": "google,google_adwords,adwords,formation,alexandre,campagnes,cours,cours-vid\u00e9o,apprendre,elephorm,teaser,retrouvez,ldrouintags",
+            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2015/04/formation-vid%C3%A9o-apprendre-google-adwords-display-par-elephorm",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/adwords+adwords/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2m1s1r_formation-video-apprendre-google-adwords-display-par-elephorm_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m1s1r_formation-video-apprendre-google-adwords-display-par-elephorm_tech"
+        },
         "dailymotion.com/2015/03/teaser-de-la-formation-vid%C3%A9o-apprendre-adwords-2015-pour-le-search": {
             "title": "Teaser de la formation vid\u00e9o Apprendre Adwords 2015 pour le Search Elephorm...",
             "snippet": "Teaser du cours vid\u00e9o Elephorm Apprendre Adwords 2015 pour le Search avec Alexandre la formation:: ldrouinTags: Formation Elephorm Search Web Adwords Posted: 20 March 2015Rating:: 0...",
             "date": "2015-03-20",
             "author_name": "ldrouin",
             "categories": "adwords",
-            "tags": "web,adwords,formation,apprendre",
+            "tags": "web,adwords,formation,elephorm,cours,cours-vid\u00e9o,apprendre,teaser,alexandre,ldrouintags",
             "recuweb_url": "http://fr.recuweb.com/adwords/dailymotion.com/2015/03/teaser-de-la-formation-vid%C3%A9o-apprendre-adwords-2015-pour-le-search",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/adwords/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/adwords+adwords/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k3ss1_teaser-de-la-formation-video-apprendre-adwords-2015-pour-le-search-elephorm_school",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2k3ss1_teaser-de-la-formation-video-apprendre-adwords-2015-pour-le-search-elephorm_school"
         },
         "youtube.com/2014/12/premiers-pas-sur-adwords": {
             "title": "Premiers pas sur AdWords...",
-            "snippet": "Premiers pas sur AdWords Rejoignez-nous pour un Hangout On Air d\u00e9di\u00e9 aux premiers pas sur AdWords anim\u00e9 par nos experts AdWords du march\u00e9 Fran\u00e7ais! From: Conseils et Formations Google pour les Annonceurs Views: 156 3 ratings Time: 48:27 More in...",
+            "snippet": "Premiers pas sur AdWords Rejoignez-nous pour un Hangout On Air d\u00e9di\u00e9 aux premiers pas sur AdWords anim\u00e9 par nos experts AdWords du march\u00e9 Fran\u00e7ais! From: Conseils et Formations Google pour les Annonceurs Views: 234 3 ratings Time: 48:27 More in...",
             "date": "2014-12-11",
             "author_name": "Conseils et Formations Google pour les Annonceurs",
             "categories": "google,adwords",
-            "tags": "formations,formations_google,google,adwords,fran\u00e7ais,conseils",
+            "tags": "google,adwords,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/12/premiers-pas-sur-adwords",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0hsPjTXF5lc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/0hsPjTXF5lc/0.jpg"
-        },
-        "youtube.com/2014/08/cr%C3%A9er-une-campagne-adwords-pour-les-vid%C3%A9os": {
-            "title": "Cr\u00e9er une campagne AdWords pour les vid\u00e9os...",
-            "snippet": "Cr\u00e9er une campagne AdWords pour les vid\u00e9os Les sous-titres sont disponibles pour cette vid\u00e9o, il suffit de les activer sur la vid\u00e9o ci-dessus. AstucesAdWords. Diffuser des annonces vid\u00e9o sur YouTube... From: Conseils et Formations Google pour...",
-            "date": "2014-08-25",
-            "author_name": "Conseils et Formations Google pour les Annonceurs",
-            "categories": "google,adwords",
-            "tags": "formations,formations_google,google,annonces,campagne,cr\u00e9er,adwords,conseils",
-            "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/08/cr%C3%A9er-une-campagne-adwords-pour-les-vid%C3%A9os",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=9cHH7F78ReA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/9cHH7F78ReA/0.jpg"
         },
         "dailymotion.com/2014/07/qu-est-ce-que-google-adwords": {
             "title": "Qu'est-ce que Google Adwords?",
@@ -60,11 +61,11 @@
         },
         "youtube.com/2014/04/formation-google-adwords-astuce-keyword-video-hd": {
             "title": "Formation Google Adwords - Astuce Google Adwords keyword - Video HD...",
-            "snippet": "Formation Google Adwords - Astuce Google Adwords keyword - Video HD Bienvenue dans une nouvelle formation google adwords - Sur ce tutoriel adwords sera consacr\u00e9 \u00e0 une astuce lors de l'\u00e9dition de vos annonces adwords, il s'agi... From: Views: 372...",
+            "snippet": "Formation Google Adwords - Astuce Google Adwords keyword - Video HD Bienvenue dans une nouvelle formation google adwords - Sur ce tutoriel adwords sera consacr\u00e9 \u00e0 une astuce lors de l'\u00e9dition de vos annonces adwords, il s'agit de l'astuce Google...",
             "date": "2014-04-14",
             "author_name": "SEO.fr",
             "categories": "adwords,google",
-            "tags": "annonces,adwords,tutoriel,consacr\u00e9,formation,formation_google,formation_google_adwords,google,google_adwords",
+            "tags": "annonces,adwords,tutoriel,consacr\u00e9,lors,formation,formation_google,formation_google_adwords,google,google_adwords",
             "recuweb_url": "http://fr.recuweb.com/google/youtube.com/2014/04/formation-google-adwords-astuce-keyword-video-hd",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=1Z1JwaLX0yI&feature=youtube_gdata",
@@ -72,39 +73,15 @@
         },
         "youtube.com/2014/03/tutoriel-adwords-cr%C3%A9ation-d-une-campagne-hd": {
             "title": "Tutoriel Adwords: Cr\u00e9ation d'une Campagne Adwords HD...",
-            "snippet": "Tutoriel Adwords: Cr\u00e9ation d'une Campagne Adwords HD Bonjour et bienvenu sur un nouveau tutoriel consacr\u00e9 \u00e0 Google Adwords. Aujourd'hui je vais vous montrer comment cr\u00e9er une campagne Google Adwords de A \u00e0 Z. L... From: Amayes Sadeg Views: 301...",
+            "snippet": "Tutoriel Adwords: Cr\u00e9ation d'une Campagne Adwords HD Bonjour et bienvenu sur un nouveau tutoriel consacr\u00e9 \u00e0 Google Adwords. Aujourd'hui je vais vous montrer comment cr\u00e9er une campagne Google Adwords de A \u00e0 Z. Lors de ce tutoriel, nous...",
             "date": "2014-03-03",
             "author_name": "Amayes Sadeg",
             "categories": "google,adwords",
-            "tags": "cr\u00e9er,campagne,google,google_adwords,adwords,tutoriel,consacr\u00e9",
+            "tags": "tutoriel,cr\u00e9er,campagne,hui,google,google_adwords,adwords,consacr\u00e9,aujourd,lors",
             "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/03/tutoriel-adwords-cr%C3%A9ation-d-une-campagne-hd",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=yNze1rzEJEU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/yNze1rzEJEU/0.jpg"
-        },
-        "dailymotion.com/2014/02/goog-r%C3%A9f%C3%A9rencement-google-adwords-googr%C3%A9f%C3%A9": {
-            "title": "Goog R\u00e9f\u00e9rencement Google Adwords Googr\u00e9f\u00e9...",
-            "snippet": ": googreferencementTags: Google goog goog r\u00e9f\u00e9rencement google r\u00e9f\u00e9rencement Posted: 21 February 2014Rating:: 0...",
-            "date": "2014-02-21",
-            "author_name": "googreferencement",
-            "categories": "google,adwords",
-            "tags": "goog,r\u00e9f\u00e9rencement,r\u00e9f\u00e9rencement_google,google,r\u00e9f\u00e9rencement_google_adwords,google_adwords,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/dailymotion.com/2014/02/goog-r%C3%A9f%C3%A9rencement-google-adwords-googr%C3%A9f%C3%A9",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/adwords/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1ctn6i_goog-referencement-google-adwords-googreferencement-com_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1ctn6i_goog-referencement-google-adwords-googreferencement-com_tech"
-        },
-        "dailymotion.com/2014/02/google-r%C3%A9f%C3%A9rencement-adwords": {
-            "title": "Google R\u00e9f\u00e9rencement Google Adwords...",
-            "snippet": ": googlereferencementTags: google r\u00e9f\u00e9rencement seo goog r\u00e9f\u00e9rencement Posted: 21 February 2014Rating:: 0...",
-            "date": "2014-02-21",
-            "author_name": "googlereferencement",
-            "categories": "google,adwords",
-            "tags": "google,r\u00e9f\u00e9rencement,goog,r\u00e9f\u00e9rencement_google,r\u00e9f\u00e9rencement_google_adwords,google_adwords,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/dailymotion.com/2014/02/google-r%C3%A9f%C3%A9rencement-adwords",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/adwords/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1ctooz_google-referencement-google-adwords_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1ctooz_google-referencement-google-adwords_tech"
         },
         "youtube.com/2014/02/2-formation-adwords-cr%C3%A9er-un-compte-structure-campagne-tuto-fr": {
             "title": "2. Formation Adwords - Cr\u00e9er un compte Adwords Structure Campagne [Tuto FR]...",
@@ -112,23 +89,47 @@
             "date": "2014-02-09",
             "author_name": "Web Marketing Tuto",
             "categories": "marketing,adwords",
-            "tags": "web,web_marketing,marketing,annonces,campagne,adwords,formation,cr\u00e9er,tuto",
+            "tags": "web,annonces,campagnes,campagne,adwords,formation,formation_adwords,cr\u00e9er,tuto",
             "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/02/2-formation-adwords-cr%C3%A9er-un-compte-structure-campagne-tuto-fr",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=7CJsZovHnXs&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/7CJsZovHnXs/0.jpg"
         },
+        "youtube.com/2014/02/3-formation-adwords-demo-d-&-apprendre-m%C3%A9triques-dans-l-interface": {
+            "title": "3. Formation Adwords: Demo d'adwords & Apprendre M\u00e9triques dans l'interface [Tuto FR]...",
+            "snippet": "3. Formation Adwords: Demo d'adwords & Apprendre M\u00e9triques dans l'interface [Tuto FR] Fonctionnement de Google Adwords: comment g\u00e9n\u00e9rer des clients pour votre entreprise avec Google Adwords? Dans cette 3eme partie du tuto sur Google Adwords,...",
+            "date": "2014-02-09",
+            "author_name": "Web Marketing Tuto",
+            "categories": "google,adwords",
+            "tags": "tuto,g\u00e9n\u00e9rer,g\u00e9n\u00e9rer-des-clients,clients,entreprise,google,google_adwords,adwords,apprendre,formation,formation_adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/02/3-formation-adwords-demo-d-&-apprendre-m%C3%A9triques-dans-l-interface",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=IFo5UxdLfns&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/IFo5UxdLfns/0.jpg"
+        },
         "youtube.com/2014/02/1-formation-google-adwords-principes-de-base-d%C3%A9butant-tuto-fr": {
             "title": "1. Formation Google Adwords - Principes de base (D\u00e9butant tuto FR)...",
-            "snippet": "1. Formation Google Adwords - Principes de base (D\u00e9butant tuto FR) Apprendre a ma\u00eetriser Google Adwords. Vous pubs PRO online en 1h de formation! Comment g\u00e9n\u00e9rer des clients pour votre entreprise avec Google Adwords? http:... From: Web Marketing...",
+            "snippet": "1. Formation Google Adwords - Principes de base (D\u00e9butant tuto FR) Apprendre a ma\u00eetriser Google Adwords. Vous pubs PRO online en 1h de formation! Comment g\u00e9n\u00e9rer des clients pour votre entreprise avec Google Adwords? Explicati. From: Web...",
             "date": "2014-02-08",
             "author_name": "Web Marketing Tuto",
-            "categories": "marketing,google,adwords",
-            "tags": "web,web_marketing,marketing,formation,google,google_adwords,adwords,formation_google,formation_google_adwords,tuto,apprendre",
+            "categories": "google,adwords",
+            "tags": "g\u00e9n\u00e9rer,g\u00e9n\u00e9rer-des-clients,clients,entreprise,formation,google,google_adwords,adwords,formation_google,formation_google_adwords,tuto,apprendre,web",
             "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/02/1-formation-google-adwords-principes-de-base-d%C3%A9butant-tuto-fr",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=kS1WKkv5Rtw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kS1WKkv5Rtw/0.jpg"
+        },
+        "youtube.com/2014/01/optimisation-google-adwords-arr%C3%AAter-d-engraisser-b%C3%AAtement": {
+            "title": "Optimisation Google Adwords: Arr\u00eater d'engraisser b\u00eatement Google...",
+            "snippet": "Optimisation Google Adwords: Arr\u00eater d'engraisser b\u00eatement Google R\u00e9cup\u00e9rer le support de conf\u00e9rence: Retrouvez nos conf\u00e9rences en live sur: Aujourd'hui la publicit\u00e9 dans Google Adwords constitue un... From: Webikeo Views: 4453 19 ratings...",
+            "date": "2014-01-23",
+            "author_name": "Webikeo",
+            "categories": "adwords,google",
+            "tags": "adwords,hui,google,google_adwords,retrouvez,aujourd",
+            "recuweb_url": "http://fr.recuweb.com/google/youtube.com/2014/01/optimisation-google-adwords-arr%C3%AAter-d-engraisser-b%C3%AAtement",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=oe7ONyn-pak&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/oe7ONyn-pak/0.jpg"
         }
     }
 }
