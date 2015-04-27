@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "golf",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/golf/",
@@ -10,17 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/golf/golf/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/pau-11-avril-20125-golf-d-idron-matin%C3%A9e-initiation": {
-            "title": "PAU - 11 AVRIL 20125 - GOLF D'IDRON - MATIN\u00c9E D'INITIATION SUR LE PARCOURS D'ENTRAINEMENT AVEC...",
-            "snippet": "Bonjour, Nous suivons le premier groupe de stagiaires de la matin\u00e9e d'initiations offertes par le Golf d'idron, maintenant les retrouvons sur le parcours d'entrainementAuthor: D_MICHOU64Tags: Idron Golf PAU matin\u00e9e initiation 11 avril 2015...",
-            "date": "2015-04-12",
-            "author_name": "D_MICHOU64",
+        "dailymotion.com/2015/04/get-three-for-1-rated-the-graball-jaw-does-it-all": {
+            "title": "GET THREE FOR!!! 1 RATED!! The GrabALL JAW, DOES it ALL - Picks Up the Flagstick, Golf...",
+            "snippet": "GET THREE FOR!!! 1 RATED!! The GrabALL JAW, DOES it ALL - Picks Up the Flagstick, Golf Club, Golf Ball Pick Up - Picks Up EVERYTHING that a Golfer lays on the ground!! Pro Shop owners say, This is the Best Ball Pick Up Tool that I Have Ever Seen.",
+            "date": "2015-04-21",
+            "author_name": "Torriyou",
             "categories": "golf",
-            "tags": "premier,golf",
-            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/pau-11-avril-20125-golf-d-idron-matin%C3%A9e-initiation",
+            "tags": "pro,golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/get-three-for-1-rated-the-graball-jaw-does-it-all",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf+golf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ne7eo_get-three-for-12-49-1-rated-the-graball-jaw-does-it-all-picks-up-the-flagstick-golf-club-golf-ball-p_travel",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ne7eo_get-three-for-12-49-1-rated-the-graball-jaw-does-it-all-picks-up-the-flagstick-golf-club-golf-ball-p_travel"
+        },
+        "dailymotion.com/2015/04/golf-dinard-giquel-bettan-au-finish": {
+            "title": "GOLF - Dinard: Giquel-Bettan au finish...",
+            "snippet": "Au terme d'un dernier tour agit\u00e9, Sophie Giquel-Bettan remporte l'Open Generali de Dinard sur le: lequipeTags: Golf LET Journal du Golf Posted: 19 April 2015Rating:: 0...",
+            "date": "2015-04-19",
+            "author_name": "lequipe",
+            "categories": "golf",
+            "tags": "golf,let,journal,dernier,dernier-tour,tour,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-dinard-giquel-bettan-au-finish",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mfeo5_pau-11-avril-20125-golf-d-idron-matinee-d-initiation-sur-le-parcours-d-entrainement-avec-le-1er-grou_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mfeo5_pau-11-avril-20125-golf-d-idron-matinee-d-initiation-sur-le-parcours-d-entrainement-avec-le-1er-grou_sport"
+            "source_url": "http://dailymotion.com/video/x2n6lzp_golf-dinard-giquel-bettan-au-finish_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n6lzp_golf-dinard-giquel-bettan-au-finish_sport"
+        },
+        "dailymotion.com/2015/04/golf-derrey-objectif-solheim": {
+            "title": "GOLF - Derrey: Objectif Solheim...",
+            "snippet": "Vainqueur de son premier tournoi en Turquie et brillante 7e du LET en 2014, Valentine Derrey entame doucement cette nouvelle saison. Apr\u00e8s un gros travail hivernal, la joueuse de St Cloud esp\u00e8re retrouver son niveau de l'an pass\u00e9 et int\u00e9grer...",
+            "date": "2015-04-17",
+            "author_name": "lequipe",
+            "categories": "golf",
+            "tags": "pass\u00e9,pass\u00e9-et-int\u00e9grer,int\u00e9grer,esp\u00e8re,esp\u00e8re-retrouver,retrouver,retrouver-son-niveau,niveau,joueuse,gros,gros-travail,gros-travail-hivernal,travail,travail-hivernal,hivernal,entame,entame-doucement,doucement,doucement-cette-nouvelle,nouvelle,nouvelle-saison,saison,brillante,premier,premier-tournoi,tournoi,solheim,golf,derrey,vainqueur,turquie,let,valentine,apr\u00e8s,cloud",
+            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-derrey-objectif-solheim",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n0yik_golf-derrey-objectif-solheim_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n0yik_golf-derrey-objectif-solheim_sport"
+        },
+        "dailymotion.com/2015/04/golf-derrey-solheim": {
+            "title": "Golf - Derrey: Solheim...",
+            "snippet": "Vainqueur de son premier tournoi en Turquie et brillante 7e du LET en 2014, Valentine Derrey entame doucement cette nouvelle saison. Apr\u00e8s un gros travail hivernal, la joueuse de St Cloud esp\u00e8re retrouver son niveau de l'an pass\u00e9 et int\u00e9grer...",
+            "date": "2015-04-17",
+            "author_name": "lequipe",
+            "categories": "golf",
+            "tags": "pass\u00e9,pass\u00e9-et-int\u00e9grer,int\u00e9grer,esp\u00e8re,esp\u00e8re-retrouver,retrouver,retrouver-son-niveau,niveau,joueuse,gros,gros-travail,gros-travail-hivernal,travail,travail-hivernal,hivernal,entame,entame-doucement,doucement,doucement-cette-nouvelle,nouvelle,nouvelle-saison,saison,brillante,premier,premier-tournoi,tournoi,golf,derrey,solheim,vainqueur,turquie,let,valentine,apr\u00e8s,cloud",
+            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-derrey-solheim",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n067u_golf-derrey-solheim_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n067u_golf-derrey-solheim_sport"
+        },
+        "dailymotion.com/2015/04/troph%C3%A9e-de-golf-racing-natixis-2015": {
+            "title": "Troph\u00e9e de Golf Racing Natixis 2015...",
+            "snippet": "Ce mardi 14 avril, l'ensemble des partenaires du Racing Metro 92 sont venus disputer la 6\u00e8me \u00e9dition du Troph\u00e9e de golf Racing Natixis. Plus de 160 golfeurs se sont r\u00e9unis sur les diff\u00e9rents parcours de la Boulie (Versailles) pour un moment...",
+            "date": "2015-04-16",
+            "author_name": "racingmetro92",
+            "categories": "golf",
+            "tags": "golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/troph%C3%A9e-de-golf-racing-natixis-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mvcsq_trophee-de-golf-racing-natixis-2015_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mvcsq_trophee-de-golf-racing-natixis-2015_sport"
         },
         "dailymotion.com/2015/04/golf-gp-pga-un-m%C3%A9doc-grand-cru": {
             "title": "Golf - GP PGA: Un M\u00e9doc grand cru...",
@@ -28,7 +77,7 @@
             "date": "2015-04-11",
             "author_name": "lequipe",
             "categories": "golf",
-            "tags": "dernier,tour,xavier,xavier_poncelet,poncelet,carte,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,golf,m\u00e9doc",
+            "tags": "dernier,dernier-tour,tour,xavier,xavier_poncelet,poncelet,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,golf,m\u00e9doc",
             "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-gp-pga-un-m%C3%A9doc-grand-cru",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2melck_golf-gp-pga-un-medoc-grand-cru_sport",
@@ -40,7 +89,7 @@
             "date": "2015-04-10",
             "author_name": "lequipe",
             "categories": "golf",
-            "tags": "baptiste,baptiste_journal,journal,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,t\u00eate,golf,gonnet,jean,tour,lequipetags",
+            "tags": "baptiste,journal,apr\u00e8s,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,t\u00eate,golf,gonnet,jean,tour,lequipetags",
             "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-gp-pga-gonnet-sur-la-bonne-voie",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m95lj_golf-gp-pga-gonnet-sur-la-bonne-voie_sport",
@@ -52,7 +101,7 @@
             "date": "2015-04-10",
             "author_name": "lequipe",
             "categories": "golf",
-            "tags": "journal,xavier,xavier_poncelet,poncelet,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,t\u00eate,golf,gonnet,jean,baptiste,fran\u00e7ais,devance,lequipetags",
+            "tags": "journal,xavier,xavier_poncelet,poncelet,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,t\u00eate,golf,gonnet,jean,baptiste,lequipetags",
             "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-gp-pga-gonnet-toujours-devant",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mak1f_golf-gp-pga-gonnet-toujours-devant_sport",
@@ -64,7 +113,7 @@
             "date": "2015-04-09",
             "author_name": "lequipe",
             "categories": "golf",
-            "tags": "l\u00e9gende,premier,golf,masters",
+            "tags": "l\u00e9gende,premier,golf",
             "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-masters-le-trou-en-un-de-jack",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m4k69_golf-masters-le-trou-en-un-de-jack_sport",
@@ -76,59 +125,11 @@
             "date": "2015-04-09",
             "author_name": "lequipe",
             "categories": "place,golf",
-            "tags": "dernier,l\u00e9gende,semaine,golf,pga,m\u00e9doc",
+            "tags": "pass\u00e9,pro,dernier,l\u00e9gende,golf,pga,m\u00e9doc",
             "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-gp-pga-ballesteros-au-m%C3%A9doc",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m4wlc_golf-gp-pga-ballesteros-au-medoc_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m4wlc_golf-gp-pga-ballesteros-au-medoc_sport"
-        },
-        "dailymotion.com/2015/04/golf-gp-pga-gonnet-s-offre-la-t%C3%AAte": {
-            "title": "Golf - GP PGA: Gonnet s'offre la t\u00eate...",
-            "snippet": "Jean-Baptiste Gonnet s'est empar\u00e9 des commandes du Grand Prix Schweppes PGA France. Le Fran\u00e7ais a sorti une carte de 64 (-7), vierge de tout bogey. Gonnet devance Xavier Poncelet de 2: lequipeTags: Golf GONNET Jean-Baptiste Journal du Golf Posted:...",
-            "date": "2015-04-09",
-            "author_name": "lequipe",
-            "categories": "golf",
-            "tags": "baptiste,baptiste_journal,journal,xavier,xavier_poncelet,poncelet,carte,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,t\u00eate,golf,gonnet,jean,fran\u00e7ais,devance,lequipetags",
-            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-gp-pga-gonnet-s-offre-la-t%C3%AAte",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m6vdt_golf-gp-pga-gonnet-s-offre-la-tete_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m6vdt_golf-gp-pga-gonnet-s-offre-la-tete_sport"
-        },
-        "dailymotion.com/2015/04/golf-gp-pga-le-m%C3%A9doc-aux-petits-soins": {
-            "title": "Golf - GP PGA: Le M\u00e9doc aux petits soins...",
-            "snippet": "Comme chaque ann\u00e9e le golf du M\u00e9doc re\u00e7oit le Grand Prix Schweppes PGA France. Un tournoi r\u00e9unissant durant une semaine les meilleurs pros Fran\u00e7ais, hommes et femmes. Un \u00e9v\u00e8nement historique qui f\u00eate cette ann\u00e9e sa 79e \u00e9: lequipeTags: Golf...",
-            "date": "2015-04-08",
-            "author_name": "lequipe",
-            "categories": "golf",
-            "tags": "semaine,meilleurs,grand,grand_prix,grand_prix_schweppes,prix,prix_schweppes,prix_schweppes_pga,schweppes,schweppes_pga,schweppes_pga_france,pga,pga_france,france,golf,m\u00e9doc,fran\u00e7ais,lequipetags",
-            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-gp-pga-le-m%C3%A9doc-aux-petits-soins",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m1bkc_golf-gp-pga-le-medoc-aux-petits-soins_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m1bkc_golf-gp-pga-le-medoc-aux-petits-soins_sport"
-        },
-        "youtube.com/2015/04/pub-volkswagen-golf-gte-le-choix-2015-hq": {
-            "title": "pub Volkswagen Golf GTE 'le choix'2015 HQ...",
-            "snippet": "pub Volkswagen Golf GTE 'le choix'2015 HQ spot TV VW Golf GTE the choice/musique - song: 'Nouvelle Golf GTE. Hybride et rechargeable. Il n'y a pas de progr\u00e8s sans plaisir.'... From: MusiqueDePubs Views: 2388 23 ratings Time: 01:01 More in Film &...",
-            "date": "2015-04-06",
-            "author_name": "MusiqueDePubs",
-            "categories": "plaisir,golf,musique",
-            "tags": "golf",
-            "recuweb_url": "http://fr.recuweb.com/musique/youtube.com/2015/04/pub-volkswagen-golf-gte-le-choix-2015-hq",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=golf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=M09InWCTkIA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/M09InWCTkIA/0.jpg"
-        },
-        "dailymotion.com/2015/04/golf-masters-il-approche": {
-            "title": "GOLF - Masters: Il approche?",
-            "snippet": "C'est le rendez-vous que les meilleurs mondiaux attendent f\u00e9brilement tous les ans. Dans moins d'une semaine le Masters d\u00e9butera. Et ce ne sont certainement pas Martin Kaymer et Bernhardt Langer qui vont s'en: lequipeTags: Golf Masters - Majeurs...",
-            "date": "2015-04-04",
-            "author_name": "lequipe",
-            "categories": "golf",
-            "tags": "semaine,meilleurs,golf,masters,lequipetags",
-            "recuweb_url": "http://fr.recuweb.com/golf/dailymotion.com/2015/04/golf-masters-il-approche",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/golf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lpx9w_golf-masters-il-approche_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lpx9w_golf-masters-il-approche_sport"
         }
     }
 }
