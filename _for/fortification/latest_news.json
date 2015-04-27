@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "fortification",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/fortification/",
@@ -11,72 +11,52 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/fortification/fortification/blogs.json"
     },
     "items": {
-        "aps.dz/2015/04/le-patrimoine-national-doit-%C3%AAtre-fouill%C3%A9-%C3%A9clair%C3%A9-et-davantage-mis": {
-            "title": "Le patrimoine national doit \u00eatre fouill\u00e9, \u00e9clair\u00e9 et davantage mis en valeur...",
-            "snippet": "les fortifications militaires de la Maur\u00e9tanie premi\u00e8re de la Numidie et les gravures rupestres des grottes de Kef Zemam et Be\u00efda-Bordj. Des communications intitul\u00e9es lecture des civilisations anciennes de S\u00e9tif, le r\u00f4le des savants...",
-            "date": "2015-04-23",
+        "midilibre.fr/2015/04/le-polygone-sacr%C3%A9-chantier-sur-montpellier-midi-libre": {
+            "title": "Le Polygone: sacr\u00e9 chantier sur Montpellier - Midi Libre...",
+            "snippet": "Midi LibreLe Polygone: sacr\u00e9 chantier sur MontpellierMidi LibreEt, derri\u00e8re les remparts des anciennes fortifications, les vastes btiments du lyc\u00e9e Joffre. Le Polygone: sacr\u00e9 chantier sur Montpellier Photo des terrains militaires du Polygone...",
+            "date": "2015-04-27",
             "categories": "fortification",
-            "tags": "fortifications",
-            "recuweb_url": "http://fr.recuweb.com/fortification/aps.dz/2015/04/le-patrimoine-national-doit-%C3%AAtre-fouill%C3%A9-%C3%A9clair%C3%A9-et-davantage-mis",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=fortification&format=RSS&cc=fr",
-            "source_url": "http://aps.dz/culture/21707-le-patrimoine-national-doit-\u00eatre-\u2018\u2018fouill\u00e9,-\u00e9clair\u00e9-et-davantage-mis-en-valeur\u2019\u2019"
+            "tags": "remparts,fortifications",
+            "recuweb_url": "http://fr.recuweb.com/fortification/midilibre.fr/2015/04/le-polygone-sacr%C3%A9-chantier-sur-montpellier-midi-libre",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fortification%2Bfortification&output=atom&nord=1",
+            "source_url": "http://midilibre.fr/2015/04/27/le-polygone-sacre-chantier-quand-l-armee-cede-du-terrain-deja-un-petit-parfum-de-passe,1154742.php"
         },
-        "lesechos.fr/2015/04/le-hollandais-branlant-les-%C3%A9chos": {
-            "title": "Le hollandais branlant - Les \u00c9chos...",
-            "snippet": "Les \u00c9chosLe hollandais branlantLes \u00c9chosL'Histoire de France enseigne que toutes les tentatives d'encerclement passent par la Belgique. Cette fois-ci, cependant, Orange n'a pu \u00e9difier aucune fortification pour emp\u00eacher sa fille wallonne Mobistar...",
-            "date": "2015-04-21",
-            "categories": "fortification",
-            "tags": "histoire,fortification",
-            "recuweb_url": "http://fr.recuweb.com/fortification/lesechos.fr/2015/04/le-hollandais-branlant-les-%C3%A9chos",
-            "resource_url": "http://news.google.fr/?hl=fr&q=fortification&output=atom&nord=1",
-            "source_url": "http://lesechos.fr/idees-debats/crible/02119473335-le-hollandais-branlant-1113036.php"
-        },
-        "toulon.maville.com/2015/04/voyage-les-chevaliers-de-saint-jean-veillent-sur-malte": {
-            "title": "Voyage: Les chevaliers de Saint-Jean veillent sur Malte...",
-            "snippet": "Il faut d\u00e9couvrir le mus\u00e9e des Beaux-Arts et d\u00e9ambuler dans le somptueux Palais des grands ma\u00eetres et ses massives fortifications en globig\u00e9rines, sorte de calcaire de couleur miel. Dans la somptueuse cath\u00e9drale Saint-Jean, on foule un...",
-            "date": "2015-04-21",
-            "categories": "arts,fortification",
-            "tags": "saint,fortifications",
-            "recuweb_url": "http://fr.recuweb.com/fortification/toulon.maville.com/2015/04/voyage-les-chevaliers-de-saint-jean-veillent-sur-malte",
+        "ladepeche.fr/2015/04/un-show-room-d-artillerie": {
+            "title": "Un show room d'artillerie...",
+            "snippet": "L'expos\u00e9 des trois \u00e9tapes de la construction a d\u00e9montr\u00e9 que cette fortification d'artillerie devait avoir comme principale raison d'asseoir le prestige du seigneur. Malgr\u00e9 les nombreuses \u00e9tudes dont ce chteau, contemporain de Chambord, a fait...",
+            "date": "2015-04-25",
+            "categories": "construction,fortification",
+            "tags": "avoir,fortification",
+            "recuweb_url": "http://fr.recuweb.com/fortification/ladepeche.fr/2015/04/un-show-room-d-artillerie",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fortification&format=RSS&cc=fr",
-            "source_url": "http://toulon.maville.com/actu/actudet_-voyage-les-chevaliers-de-saint-jean-veillent-sur-malte_fil-2755956_actu.Htm"
+            "source_url": "http://ladepeche.fr/article/2015/04/25/2093772-un-show-room-d-artillerie.html"
         },
         "parisetudiant.com/2015/04/atelier-au-temps-des-chteaux-forts": {
             "title": "Atelier Au temps des chteaux forts...",
             "snippet": "Apr\u00e8s avoir observ\u00e9 sur les plans-reliefs les fortifications m\u00e9di\u00e9vales, notamment sur la maquette du c\u00e9l\u00e8bre Mont-Saint-Michel, direction latelier: les enfants y construisent une petite maquette de chtelet dentr\u00e9e de ville et s...",
             "date": "2015-04-19",
             "categories": "fortification",
-            "tags": "direction,fortifications,saint",
+            "tags": "direction,avoir,forts,fortifications,mont",
             "recuweb_url": "http://fr.recuweb.com/fortification/parisetudiant.com/2015/04/atelier-au-temps-des-chteaux-forts",
             "resource_url": "http://www.bing.com/news/search?first=1&q=fortification&format=RSS&cc=fr",
             "source_url": "http://parisetudiant.com/etudiant/sortie/atelier-au-temps-des-chateaux-forts.html"
         },
-        "spyghana.com/2015/04/global-food-fortification-summit-announced": {
-            "title": "Global food fortification summit announced -...",
-            "snippet": "food fortification summit than two billion people suffer from micronutrient deficiency or hidden hunger which reduces cognitive development, increases maternal and infant mortality and impacts on health and productivity, which exacerbates poverty...",
-            "date": "2015-04-17",
+        "movietvtechgeeks.com/2015/04/big-bang-theory-recap-820-sheldon-s-fortification-movie-tv-tech": {
+            "title": "BIG BANG THEORY Recap 820: Sheldon's Fortification... - Movie TV Tech Geeks News...",
+            "snippet": "Movie TV Tech Geeks NewsBIG BANG THEORY Recap 820: Sheldon's Fortification...Movie TV Tech Geeks NewsOn this week's episode of Big Bang Theory Raj and Howard are arguing how to pronounce the word gif referring to animated pictures. They asked...",
+            "date": "2015-04-16",
             "categories": "fortification",
-            "tags": "health,billion,food,fortification",
-            "recuweb_url": "http://fr.recuweb.com/fortification/spyghana.com/2015/04/global-food-fortification-summit-announced",
+            "tags": "big,big_bang,big_bang_theory,bang,bang_theory,theory,episode,fortification,they",
+            "recuweb_url": "http://fr.recuweb.com/fortification/movietvtechgeeks.com/2015/04/big-bang-theory-recap-820-sheldon-s-fortification-movie-tv-tech",
             "resource_url": "http://news.google.fr/?hl=fr&q=fortification&output=atom&nord=1",
-            "source_url": "http://spyghana.com/global-food-fortification-summit-announced/"
-        },
-        "imt.ie/2015/04/renewed-call-for-folic-acid-fortification-to-curb-ntds-irish-medical": {
-            "title": "Renewed call for folic acid fortification to curb NTDs - Irish Medical Times...",
-            "snippet": "Irish Medical TimesRenewed call for folic acid fortification to curb NTDsIrish Medical TimesRenewed public health interventions, including mandatory folic acid food fortification, must be considered to reduce the incidence of neural tube defects...",
-            "date": "2015-04-17",
-            "categories": "fortification",
-            "tags": "food,health,fortification",
-            "recuweb_url": "http://fr.recuweb.com/fortification/imt.ie/2015/04/renewed-call-for-folic-acid-fortification-to-curb-ntds-irish-medical",
-            "resource_url": "http://news.google.fr/?hl=fr&q=fortification&output=atom&nord=1",
-            "source_url": "http://imt.ie/clinical/2015/04/renewed-call-folic-acid-fortification-curb-ntds.html"
+            "source_url": "http://movietvtechgeeks.com/big-bang-theory-recap-820-sheldons-fortification-implementation-for-amy/"
         },
         "critictoo.com/2015/04/the-big-bang-theory-fortification-implementation-critictoo-s%C3%A9ries": {
             "title": "The Big Bang Theory: The Fortification Implementation () - Critictoo (S\u00e9ries)...",
             "snippet": "Critictoo (S\u00e9ries)The Big Bang Theory: The Fortification Implementation ()Critictoo (S\u00e9ries)Suite aux informations transmises par CBS sur la participation de Matt Bennett en guest-star, The Fortification Implementation \u00e9tait un \u00e9pisode qui...",
             "date": "2015-04-10",
             "categories": "fortification",
-            "tags": "fortification,participation",
+            "tags": "participation,fortification,big,big_bang,big_bang_theory,bang,bang_theory,theory",
             "recuweb_url": "http://fr.recuweb.com/fortification/critictoo.com/2015/04/the-big-bang-theory-fortification-implementation-critictoo-s%C3%A9ries",
             "resource_url": "http://news.google.fr/?hl=fr&q=fortification%2Bfortification&output=atom&nord=1",
             "source_url": "http://critictoo.com/critiques-serie-tv/the-big-bang-theory-the-fortification-implementation-8-20/"
@@ -86,10 +66,20 @@
             "snippet": "Kyiv PostFortification work on demarcation line in Donbas to cost Hr 1 billionKyiv PostThe Ukrainian authorities intend to spend about Hr 1 billion on the fortification work on the demarcation line in Donbas, deputy commander of the anti-terrorist...",
             "date": "2015-04-08",
             "categories": "fortification",
-            "tags": "billion,fortification",
+            "tags": "fortification",
             "recuweb_url": "http://fr.recuweb.com/fortification/kyivpost.com/2015/04/fortification-work-on-demarcation-line-in-donbas-to-cost-hr-1",
             "resource_url": "http://news.google.fr/?hl=fr&q=fortification&output=atom&nord=1",
             "source_url": "http://kyivpost.com/content/ukraine/fortification-work-on-demarcation-line-in-donbas-to-cost-hr-1-billion-385658.html"
+        },
+        "floridatoday.com/2015/03/patrick-afb-seeks-ok-for-rock-fortification-florida-today": {
+            "title": "Patrick AFB seeks OK for rock fortification - Florida Today...",
+            "snippet": "Florida TodayPatrick AFB seeks OK for rock fortificationFlorida TodayThis month, Patrick applied for a permit to approve permanently the rock fortification they installed late last year under a temporary emergency permit. Their \"hardened\" solution...",
+            "date": "2015-03-31",
+            "categories": "rock,fortification",
+            "tags": "they,fortification",
+            "recuweb_url": "http://fr.recuweb.com/fortification/floridatoday.com/2015/03/patrick-afb-seeks-ok-for-rock-fortification-florida-today",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fortification&output=atom&nord=1",
+            "source_url": "http://floridatoday.com/story/news/local/2015/03/30/patrick-afb-seeks-ok-rock-fortification/70664568/"
         }
     }
 }
