@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "culture-populaire",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture-populaire/",
@@ -10,49 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/blogs.json"
     },
     "items": {
+        "alexblog.fr/2015/04/les-ic%C3%B4nes-de-la-culture-populaire-dans-des-affiches-minimalistes": {
+            "title": "Les ic\u00f4nes de la culture populaire dans des affiches minimalistes...",
+            "snippet": "Prenez les ic\u00f4nes de la culture pop et transform\u00e9s les en affiches minimalistes et vous obtiendrez cette superbe s\u00e9rie d'illustrations. Nous avons en autr.",
+            "date": "2015-04-14",
+            "author_name": "@lex",
+            "categories": "pop,culture",
+            "tags": "s\u00e9rie,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/alexblog.fr/2015/04/les-ic%C3%B4nes-de-la-culture-populaire-dans-des-affiches-minimalistes",
+            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire%2Bculture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://alexblog.fr/icones-culture-populaire-affiches-minimalistes-50132/"
+        },
+        "tseweb.tv/2015/04/dignit%C3%A9-et-culture-populaire-germain-emma%C3%BCs": {
+            "title": "Dignit\u00e9 et culture populaire Germain (Emma\u00fcs)...",
+            "snippet": "Dignit\u00e9 et culture populaire Germain (Emma\u00fcs) 28/02/15. Intervention de Germain d'Emma\u00fcs Lescar/Pau sur la pauvret\u00e9, la mis\u00e8re, la dignit\u00e9 et l'espoir. La Ville de Fontaine (38) et Paul ARIES (Les z'indign\u00e9(e)s!)...",
+            "date": "2015-04-02",
+            "author_name": "@nimetse",
+            "categories": "culture",
+            "tags": "paul,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/tseweb.tv/2015/04/dignit%C3%A9-et-culture-populaire-germain-emma%C3%BCs",
+            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tseweb.tv/?p=3351"
+        },
+        "franckmontauge.fr/2015/03/plaidoyer-pour-la-culture-populaire-franck-montaug%C3%A9": {
+            "title": "Plaidoyer pour la culture populaire - Franck Montaug\u00e9...",
+            "snippet": "Plaidoyer pour la culture populaire. Publi\u00e9 le 25 mars 2015. S'adressant aux membres et aux dirigeants de l'Universit\u00e9 du temps libre Auch-Gascogne qui f\u00eatait son quinzi\u00e8me anniversaire, le s\u00e9nateur-maire Franck Montaug\u00e9 a rendu...",
+            "date": "2015-03-25",
+            "author_name": "franckmontauge.fr",
+            "categories": "culture",
+            "tags": "culture,populaire,publi\u00e9,universit\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/culture/franckmontauge.fr/2015/03/plaidoyer-pour-la-culture-populaire-franck-montaug%C3%A9",
+            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire%2Bculture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://franckmontauge.fr/plaidoyer-pour-la-culture-populaire/"
+        },
+        "unefenetresurlemonde.over-blog.com/2015/03/les-arts-martiaux-dans-la-culture-populaire-chinoise": {
+            "title": "LES ARTS MARTIAUX DANS LA CULTURE POPULAIRE CHINOISE...",
+            "snippet": "On retrouve dans la culture populaire chinoise de nombreuses r\u00e9f\u00e9rences aux concepts et pratiques se rapportant aux arts martiaux chinois. Historiquement, l'influence de ces arts se retrouve dans la litt\u00e9rature et les...",
+            "date": "2015-03-18",
+            "author_name": "Phoebe",
+            "categories": "arts,litterature,culture,culture-populaire",
+            "tags": "culture,culture_populaire,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture-populaire/unefenetresurlemonde.over-blog.com/2015/03/les-arts-martiaux-dans-la-culture-populaire-chinoise",
+            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://unefenetresurlemonde.over-blog.com/2015/03/les-arts-martiaux-dans-la-culture-populaire-chinoise.html"
+        },
         "sms.hypotheses.org/2015/02/la-course-de-taureau-entre-repli-identitaire-et-culture-populaire": {
             "title": "La course de taureau entre repli identitaire et culture populaire...",
             "snippet": "L'opposition entre culture savante et culture populaire est un classique de la recherche en sciences humaines et sociales. Un r\u00e9cent dossier publi\u00e9 dans Communication et Langages nous a donn\u00e9 l'occasion de revenir sur...",
             "date": "2015-02-17",
             "author_name": "Daniel Jacobi et Laure Marchis-Mouren",
             "categories": "science,culture,langage",
-            "tags": "recherche,culture,populaire,communication",
+            "tags": "publi\u00e9,recherche,culture,populaire,occasion",
             "recuweb_url": "http://fr.recuweb.com/langage/sms.hypotheses.org/2015/02/la-course-de-taureau-entre-repli-identitaire-et-culture-populaire",
             "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire%2Bculture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sms.hypotheses.org/3548"
-        },
-        "imaj.hypotheses.org/2015/01/l%C3%A9galit%C3%A9-moralit%C3%A9-fausse-repr%C3%A9sentation-du-droit-vraie-culture": {
-            "title": "L\u00e9galit\u00e9, moralit\u00e9, fausse repr\u00e9sentation du droit, vraie culture...",
-            "snippet": "L\u00e9galit\u00e9, moralit\u00e9, fausse repr\u00e9sentation du droit, vraie culture populaire Les invit\u00e9s de mon p\u00e8re, Anne Le Ny, 2010. 08/01/2015 Ninon Maillard. Ce billet reprend quelques \u00e9l\u00e9ments d'une communication propos\u00e9e dans le cadre des VIe...",
-            "date": "2015-01-08",
-            "author_name": "Ninon Maillard",
-            "categories": "culture",
-            "tags": "communication,quelques,culture,populaire,vie",
-            "recuweb_url": "http://fr.recuweb.com/culture/imaj.hypotheses.org/2015/01/l%C3%A9galit%C3%A9-moralit%C3%A9-fausse-repr%C3%A9sentation-du-droit-vraie-culture",
-            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire%2Bculture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://imaj.hypotheses.org/633"
-        },
-        "franceculture.fr/2014/12/chansonnettes-et-culture-populaire-quel-p%C3%A9rim%C3%A8tre-pour-le-champ": {
-            "title": "Chansonnettes et culture populaire: Quel p\u00e9rim\u00e8tre pour le champ...",
-            "snippet": "Le traitement France Culture des cultures \"populaires\" est le m\u00eame que partout ailleurs, sinon quel m\u00e9pris? Mettre en perspective les oeuvres et les remettre dans leur contexte d'\u00e9poque c'est aussi le r\u00f4le de la cha\u00eene.",
-            "date": "2014-12-18",
-            "author_name": "evelyne",
-            "categories": "culture,traitement",
-            "tags": "populaires,populaire,m\u00eame,cultures",
-            "recuweb_url": "http://fr.recuweb.com/traitement/franceculture.fr/2014/12/chansonnettes-et-culture-populaire-quel-p%C3%A9rim%C3%A8tre-pour-le-champ",
-            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://franceculture.fr/emission-le-rendez-vous-du-mediateur-chansonnettes-et-culture-populaire-quel-perimetre-pour-le-champ"
-        },
-        "humanite.fr/2014/11/origines-contr%C3%B4l%C3%A9es-r%C3%A9habilite-les-cultures-populaires-l-humanit%C3%A9": {
-            "title": "Origines contr\u00f4l\u00e9es r\u00e9habilite les cultures populaires L'Humanit\u00e9...",
-            "snippet": "Origines contr\u00f4l\u00e9es r\u00e9habilite les cultures populaires. Fara C. Jeudi, 6 Novembre, 2014. L'Humanit\u00e9. Photo: DR. Scred connexion. Photo DR. Le rendez-vous toulousain propose trois jours de rencontres et de concerts. Sur sc\u00e8ne, Scred...",
-            "date": "2014-11-06",
-            "author_name": "Fara C.",
-            "categories": "culture",
-            "tags": "trois,cultures,populaires",
-            "recuweb_url": "http://fr.recuweb.com/culture/humanite.fr/2014/11/origines-contr%C3%B4l%C3%A9es-r%C3%A9habilite-les-cultures-populaires-l-humanit%C3%A9",
-            "resource_url": "http://www.google.com/search?q=culture%2Bpopulaire%2Bculture%2Bpopulaire&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://humanite.fr/origines-controlees-rehabilite-les-cultures-populaires-556832"
         },
         "arianebeldi.wordpress.com/2014/01/fil-acad%C3%A9mique-8-linvention-dune-culture-populaire-chez-les-jeunes-ouvriers": {
             "title": "Fil acad\u00e9mique 8 Linvention dune culture populaire chez les jeunes ouvriers et ouvri\u00e8res des...",
@@ -60,7 +72,7 @@
             "date": "2014-01-09",
             "author_name": "Ariane Beldi",
             "categories": "culture",
-            "tags": "recherche,histoire,culture,populaire,centre",
+            "tags": "s\u00e9rie,recherche,universit\u00e9,europ\u00e9enne,culture,populaire,centre,histoire",
             "recuweb_url": "http://fr.recuweb.com/culture/arianebeldi.wordpress.com/2014/01/fil-acad%C3%A9mique-8-linvention-dune-culture-populaire-chez-les-jeunes-ouvriers",
             "resource_url": "http://fr.search.wordpress.com/?q=culture%2Bpopulaire%2Bculture%2Bpopulaire&f=feed&page=1",
             "source_url": "http://arianebeldi.wordpress.com/2014/01/09/fil-academique-8-linvention-dune-culture-populaire-chez-les-jeunes-ouvriers-et-ouvrieres-des-democraties-populaires-dans-les-annees-1950/"
