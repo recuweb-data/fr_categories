@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "canyonisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/canyonisme/",
@@ -10,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/canyonisme/canyonisme/blogs.json"
     },
     "items": {
+        "kairn.com/2015/03/ice-canyoning-ou-canyonisme-hivernal": {
+            "title": "ICE canyoning ou Canyonisme hivernal. -...",
+            "snippet": "canyoning ou Canyonisme analyse faite par un des pionniers de l'activit\u00e9, Pyr\u00e9n\u00e9en, guide et G\u00e9rant du centre de canyoning des Pyr\u00e9n\u00e9es Experience canyon mais aussi Co fondateur et responsable technique de l'organisation internationale de...",
+            "date": "2015-03-06",
+            "categories": "canyonisme",
+            "tags": "pyr\u00e9n\u00e9es,canyoning,canyonisme,activit\u00e9,canyon",
+            "recuweb_url": "http://fr.recuweb.com/canyonisme/kairn.com/2015/03/ice-canyoning-ou-canyonisme-hivernal",
+            "resource_url": "http://news.google.fr/?hl=fr&q=canyonisme&output=atom&nord=1",
+            "source_url": "http://kairn.com/fr/outdoor/94252/ice-canyoning-ou-canyonisme-hivernal.html"
+        },
         "francebleu.fr/2014/09/journ%C3%A9es-nationales-de-la-sp%C3%A9l%C3%A9ologie-et-du-canyon-france-bleu": {
             "title": "Journ\u00e9es nationales de la Sp\u00e9l\u00e9ologie et du Canyon - France Bleu...",
             "snippet": "Journ\u00e9es nationales de la Sp\u00e9l\u00e9ologie et du CanyonFrance BleuVisite de la grotte encadr\u00e9e par des cadres f\u00e9d\u00e9raux, expositions et animations sur l'activit\u00e9. - Pour le canyonisme: canyon du Bucatoghju, d\u00e9part de la cascade de l'Ucelluline sur...",
             "date": "2014-09-30",
             "categories": "canyonisme",
-            "tags": "france,canyon,canyonisme",
+            "tags": "france,canyon,activit\u00e9,canyonisme",
             "recuweb_url": "http://fr.recuweb.com/canyonisme/francebleu.fr/2014/09/journ%C3%A9es-nationales-de-la-sp%C3%A9l%C3%A9ologie-et-du-canyon-france-bleu",
             "resource_url": "http://news.google.fr/?hl=fr&q=canyonisme&output=atom&nord=1",
             "source_url": "http://francebleu.fr/evenements/evenement/journees-nationales-de-la-speleologie-et-du-canyon-1815030"
