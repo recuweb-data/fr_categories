@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moteur-de-recherche",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -11,27 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
-        "slate.fr/2015/04/vous-pouvez-d%C3%A9sormais-t%C3%A9l%C3%A9charger-votre-historique-de-recherches": {
-            "title": "Vous pouvez d\u00e9sormais t\u00e9l\u00e9charger votre historique de recherches...",
-            "snippet": "Si vous n'avez pas pris la peine de d\u00e9sactiver ce service, vous verrez toutes les recherches que vous avez effectu\u00e9es ces derniers jours et mois. Dans le moteur de recherche classique, mais aussi sur Google Images, Maps,...",
-            "date": "2015-04-21",
-            "author_name": "Gr\u00e9gor Brandy",
-            "categories": "google",
-            "tags": "google,aussi,recherches,recherche,avez,mois,moteur",
-            "recuweb_url": "http://fr.recuweb.com/google/slate.fr/2015/04/vous-pouvez-d%C3%A9sormais-t%C3%A9l%C3%A9charger-votre-historique-de-recherches",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/100641/google-historique"
-        },
-        "bfmbusiness.bfmtv.com/2015/04/google-veut-optimiser-son-ergonomie-sur-mobile-bfmtv": {
-            "title": "Google veut optimiser son ergonomie sur mobile - BFMTV...",
-            "snippet": "Le g\u00e9ant am\u00e9ricain du web va modifier son moteur de recherche afin que les r\u00e9sultats soient mieux lisibles sur les petits \u00e9crans des smartphones. Avec des cons\u00e9quences potentielles sur le r\u00e9sultat des recherches.",
-            "date": "2015-04-18",
-            "author_name": "inconnu",
-            "categories": "google",
-            "tags": "r\u00e9sultats,recherches,recherche,soient,soient-mieux,soient-mieux-lisibles,mieux,mieux-lisibles,lisibles,petits,petits-\u00e9crans,\u00e9crans,afin,modifier,veut,google,mobile,g\u00e9ant,am\u00e9ricain,web,moteur,smartphones",
-            "recuweb_url": "http://fr.recuweb.com/google/bfmbusiness.bfmtv.com/2015/04/google-veut-optimiser-son-ergonomie-sur-mobile-bfmtv",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/google-veut-optimiser-son-ergonomie-sur-mobile-878798.html"
+        "rslnmag.fr/2015/04/rsln-moteurs-de-recherche-d%C3%A9finition-et-chiffres-cl%C3%A9s": {
+            "title": "RSLN Moteurs de recherche: d\u00e9finition et chiffres-cl\u00e9s...",
+            "snippet": "Newsletter Twitter Facebook RSS. Moteurs de recherche: d\u00e9finition et chiffres-cl\u00e9s. Jeunesse num\u00e9rique. Moteurs de recherche: d\u00e9finition et chiffres-cl\u00e9s. 0. inPartager0. RSLN le 22/04/2015. Admin RSLN le 22/04/2015...",
+            "date": "2015-04-22",
+            "author_name": "Admin",
+            "categories": "twitter,facebook",
+            "tags": "facebook,moteurs,recherche",
+            "recuweb_url": "http://fr.recuweb.com/facebook/rslnmag.fr/2015/04/rsln-moteurs-de-recherche-d%C3%A9finition-et-chiffres-cl%C3%A9s",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rslnmag.fr/post/2015/04/22/Moteurs-de-recherche-definition-et-chiffres-cles.aspx"
         },
         "01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche": {
             "title": "Retrouvez votre smartphone Android depuis le moteur de recherche...",
@@ -39,7 +28,7 @@
             "date": "2015-04-16",
             "author_name": "inconnu",
             "categories": "google",
-            "tags": "avez,android,moteur,recherche,google",
+            "tags": "android,moteur,recherche,google",
             "recuweb_url": "http://fr.recuweb.com/google/01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche",
             "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/652388/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche-de-google/"
@@ -54,16 +43,15 @@
             "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100441/brin-page-google-pub"
         },
-        "formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter": {
-            "title": "Snapbird. Moteur de recherche pour Twitter...",
-            "snippet": "See on - Time to LearnSnapbird est un outil en ligne qui permet de faire des recherches dans Twitter. Un moteur de recherche interne qui fait mieux que...",
-            "date": "2014-06-10",
-            "author_name": "Fr\u00e9d\u00e9ric",
-            "categories": "twitter",
-            "tags": "mieux,recherches,recherche,moteur,ligne,permet",
-            "recuweb_url": "http://fr.recuweb.com/twitter/formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter",
+        "patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs": {
+            "title": "Les moteurs de recherches dimages libres de droit collaboratifs...",
+            "snippet": "Pour ce qui est des moteurs de recherches d'images libres, il est pr\u00e9f\u00e9rable de les utiliser si nous voulons publier une image puisque celles-ci sont public et nous...",
+            "date": "2015-03-23",
+            "author_name": "andreaminville",
+            "tags": "utiliser,recherches,moteurs",
+            "recuweb_url": "http://fr.recuweb.com/patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs",
             "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
-            "source_url": "http://formation20.wordpress.com/2014/06/10/snapbird-moteur-de-recherche-pour-twitter/"
+            "source_url": "http://patinageartistiqueandrea.wordpress.com/2015/03/23/les-moteurs-de-recherches-dimages-libres-de-droit-collaboratifs/"
         },
         "fenetresur.wordpress.com/2014/04/info-doc-les-moteurs-de-recherche-s%C3%A9ance-9": {
             "title": "Info-doc: les moteurs de recherche (s\u00e9ance 9)...",
@@ -92,7 +80,7 @@
             "snippet": "Egerin est le premier moteur de recherche kurde. Avec 40 millions de Kurdes vivant dans le monde, Egerin a vu la n\u00e9cessit\u00e9 de fournir un moteur de recherche []...",
             "date": "2014-02-11",
             "author_name": "Editions D\u00e9dicaces",
-            "tags": "millions,moteur,recherche,monde",
+            "tags": "monde,millions,moteur,recherche",
             "recuweb_url": "http://fr.recuweb.com/dedicaces.info/2014/02/egerin-le-premier-moteur-de-recherche-en-langue-kurde",
             "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://dedicaces.info/2014/02/11/egerin-le-premier-moteur-de-recherche-en-langue-kurde/"
