@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "domotique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/domotique/",
@@ -10,60 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
     },
     "items": {
-        "maison-et-domotique.com/2014/07/domotique-news-n291-home-smart-maison": {
-            "title": "Domotique News n291: Home Smart Home - Maison et Domotique...",
-            "snippet": "En 2018, indique la soci\u00e9t\u00e9 d'\u00e9tudes IHS technology, il y aura 45 millions de services domotiques install\u00e9s. Si Apple, AT&T et Google sont sur les rangs, c'est que le march\u00e9 est d'importance. Dans les cinq ans, il atteindrait 12...",
-            "date": "2014-07-30",
-            "author_name": "C\u00e9dric Locqueneux",
-            "categories": "domotique,google",
-            "tags": "soci\u00e9t\u00e9,home,smart,smart_home,domotiques,maison",
-            "recuweb_url": "http://fr.recuweb.com/google/maison-et-domotique.com/2014/07/domotique-news-n291-home-smart-maison",
-            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://maison-et-domotique.com/domotique-news-n291-home-smart-home/"
-        },
-        "blog.domadoo.fr/2014/07/domadoo-thread-un-nouveau-protocole-pour-la-domotique-news": {
-            "title": "Domadoo: Thread, un nouveau protocole pour la domotique - News...",
-            "snippet": "Sept soci\u00e9t\u00e9s ont annonc\u00e9 qu'elles ont joint leurs forces pour former le Thread Group et d\u00e9velopper Thread, un nouveau standard sans fil pour la domotique.",
-            "date": "2014-07-24",
-            "author_name": "Laurent",
+        "whitecert.wordpress.com/2015/04/domotique-news-n298-eclairage-connect%C3%A9-2-0-dans-les-smart-maison": {
+            "title": "Domotique News n298: Eclairage connect\u00e9 2.0 dans les Smart Maison et Domotique...",
+            "snippet": "Maison et Domotique Domotique News n298: Eclairage connect\u00e9 2.0 dans les Smart Maison et Domotique Reconnaissons que les \u00e9volutions r\u00e9glementaires (RT 2012) ont renforc\u00e9 les exigences (en particulier sur la mesure de l'\u00e9nergie), le contrat de...",
+            "date": "2015-04-03",
+            "author_name": "whitecert",
             "categories": "domotique",
-            "tags": "nouveau,annonc\u00e9,domotique",
-            "recuweb_url": "http://fr.recuweb.com/domotique/blog.domadoo.fr/2014/07/domadoo-thread-un-nouveau-protocole-pour-la-domotique-news",
-            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.domadoo.fr/2014/07/24/thread-nouveau-protocole-domotique/"
+            "tags": "contrat,maison,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/whitecert.wordpress.com/2015/04/domotique-news-n298-eclairage-connect%C3%A9-2-0-dans-les-smart-maison",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
+            "source_url": "http://whitecert.wordpress.com/2015/04/03/domotique-news-n298-eclairage-connecte-2-0-dans-les-smart-maison-et-domotique/"
         },
-        "maison-et-domotique.com/2014/07/test-de-la-box-reglotv-leclerc-maison-et-domotique": {
-            "title": "Test de la Box RegloTV de Leclerc - Maison et Domotique...",
-            "snippet": "Leclerc a lanc\u00e9 son boitier TV, qui permet, via la ligne ADSL, de profiter de plus de 60 chaines in\u00e9dites, de programmes VOD et SVOD, etc... Je vous en propose aujourd'hui un test complet.",
-            "date": "2014-07-24",
-            "author_name": "C\u00e9dric Locqueneux",
+        "blog.goufastyle.org/2015/03/domotique-minimale-partie-5-contr%C3%B4le-de-la-cam%C3%A9ra": {
+            "title": "Domotique Domotique minimale - Partie 5: Contr\u00f4le de la cam\u00e9ra...",
+            "snippet": "Interface web de la cam\u00e9ra div Un serveur autonome, un parc informatique g\u00e9r\u00e9,... Il ne reste plus qu'une (ou plusieurs) cam\u00e9ra(s) afin de faire un peu de vid\u00e9osurveillance. Pilotable sans logiciel Toutes les solutions domotiques affichent avec...",
+            "date": "2015-03-11",
+            "author_name": "Goufalite",
             "categories": "domotique",
-            "tags": "hui,test,aujourd,via,permet,box,maison,domotique",
-            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2014/07/test-de-la-box-reglotv-leclerc-maison-et-domotique",
-            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://maison-et-domotique.com/product/test-box-reglotv-leclerc/"
-        },
-        "degroupnews.com/2014/07/la-fibre-optique-et-domotique-d%C3%A9barquent-dans-les-campings": {
-            "title": "La fibre optique et la domotique d\u00e9barquent dans les campings...",
-            "snippet": "Avec l'arriv\u00e9e de la fibre optique dans ces campings, un nouvel usage fait \u00e9galement son apparition dans les mobil homes: la domotique. En effet, grce au tr\u00e8s haut d\u00e9bit, les campings Yelloh! Village ont d\u00e9cid\u00e9 d'\u00e9quiper...",
-            "date": "2014-07-22",
-            "author_name": "Marie Deniaud",
-            "categories": "domotique",
-            "tags": "grce,haut,domotique",
-            "recuweb_url": "http://fr.recuweb.com/domotique/degroupnews.com/2014/07/la-fibre-optique-et-domotique-d%C3%A9barquent-dans-les-campings",
-            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://degroupnews.com/actualite/n9707-fibre_optique-mobilite-deploiement-tres_haut_debit-covage.html"
-        },
-        "maison-et-domotique.com/2014/07/test-suivez-votre-consommation-d-%C3%A9nergie-avec-la-box": {
-            "title": "Test: Suivez votre consommation d'\u00e9nergie avec la box...",
-            "snippet": "La box domotique Homewizard permet aussi de suivre sa consommation \u00e9nerg\u00e9tique grce au p\u00e9riph\u00e9rique Wattcher. Petit test de cette solution...",
-            "date": "2014-07-15",
-            "author_name": "C\u00e9dric Locqueneux",
-            "categories": "domotique",
-            "tags": "test,permet,\u00e9nerg\u00e9tique,grce,box,domotique,petit,solution",
-            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2014/07/test-suivez-votre-consommation-d-%C3%A9nergie-avec-la-box",
-            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://maison-et-domotique.com/product/test-suivez-consommation-denergie-box-homewizard/"
+            "tags": "solutions,domotiques,domotique,vid\u00e9osurveillance,informatique,cam\u00e9ra,contr\u00f4le,web",
+            "recuweb_url": "http://fr.recuweb.com/domotique/blog.goufastyle.org/2015/03/domotique-minimale-partie-5-contr%C3%B4le-de-la-cam%C3%A9ra",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
+            "source_url": "http://blog.goufastyle.org/article/domotique-minimale-partie-5-controle-de-la-camera"
         },
         "jacquemartfairuz.wordpress.com/2014/05/la-domotique-en-quelques-mots": {
             "title": "La domotique en quelques mots...",
@@ -71,28 +39,17 @@
             "date": "2014-05-06",
             "author_name": "faifai09",
             "categories": "telecommunications,domotique,electronique",
-            "tags": "syst\u00e8mes,permet,domotique,quelques,contr\u00f4le",
+            "tags": "permet,contr\u00f4le,syst\u00e8mes,informatique,quelques,domotique",
             "recuweb_url": "http://fr.recuweb.com/electronique/jacquemartfairuz.wordpress.com/2014/05/la-domotique-en-quelques-mots",
             "resource_url": "http://fr.search.wordpress.com/?q=domotique%2Bdomotique&f=feed&page=1",
             "source_url": "http://jacquemartfairuz.wordpress.com/2014/05/06/la-domotique-en-quelques-mots/"
-        },
-        "formation20.wordpress.com/2014/03/openhab-un-logiciel-de-domotique-opensource": {
-            "title": "OpenHab: Un logiciel de domotique OpenSource...",
-            "snippet": "See on - Time to LearnVous vous passionnez comme moi par la domotique OpenSource? Voici OpenHab, un logiciel de domotique interop\u00e9rable bas\u00e9 sur un bus d\u00e9v\u00e9nement utilisant []...",
-            "date": "2014-03-04",
-            "author_name": "Fr\u00e9d\u00e9ric",
-            "categories": "domotique",
-            "tags": "domotique,voici",
-            "recuweb_url": "http://fr.recuweb.com/domotique/formation20.wordpress.com/2014/03/openhab-un-logiciel-de-domotique-opensource",
-            "resource_url": "http://fr.search.wordpress.com/?q=domotique&f=feed&page=1",
-            "source_url": "http://formation20.wordpress.com/2014/03/04/openhab-un-logiciel-de-domotique-opensource/"
         },
         "maison-et-domotique.com/2012/08/hsp02-nouveau-d%C3%A9tecteur-de-mouvement-zwave-maison": {
             "title": "HSP02: nouveau d\u00e9tecteur de mouvement Zwave - Maison et...",
             "snippet": "... migration possible vers la nouvelle eedomus! Notre Veille Forums Contact. Vous \u00eates ici:AccueilTestsTest P\u00e9riph\u00e9riques DomotiquesP\u00e9riph\u00e9riques Z-WaveHSP02: nouveau d\u00e9tecteur de mouvement Zwave.",
             "date": "2012-08-28",
             "author_name": "C\u00e9dric Locqueneux",
-            "tags": "nouveau,maison",
+            "tags": "nouvelle,nouveau,d\u00e9tecteur,maison",
             "recuweb_url": "http://fr.recuweb.com/maison-et-domotique.com/2012/08/hsp02-nouveau-d%C3%A9tecteur-de-mouvement-zwave-maison",
             "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://maison-et-domotique.com/11628-hsp02-nouveau-detecteur-de-mouvement-zwave/"
@@ -103,7 +60,7 @@
             "date": "2012-04-02",
             "author_name": "Vincent PREMEL",
             "categories": "domotique",
-            "tags": "domaine,domotiques,maison,solutions",
+            "tags": "domotiques,domotique,solutions,domaine,maison",
             "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2012/04/crestron-et-amx-pionniers-de-la-domotique-maison",
             "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://maison-et-domotique.com/5529-crestron-et-amx-pionniers-de-la-domotique/"
