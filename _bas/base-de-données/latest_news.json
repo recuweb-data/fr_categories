@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "base-de-donn\u00e9es",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/base-de-donn\u00e9es/",
@@ -10,32 +11,40 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/base-de-donn%C3%A9es/base-de-donn%C3%A9es/blogs.json"
     },
     "items": {
-        "lessentiel.lu/2015/04/gestionnaire-de-base-donn%C3%A9es-h-f": {
-            "title": "Gestionnaire de Base de donn\u00e9es H/F...",
-            "snippet": "Descriptif de l'entreprise: Gezim Recrutement, premier groupe r\u00e9gional en Alsace, pr\u00e9sent depuis plus de 40 ans est sp\u00e9cialis\u00e9 dans les m\u00e9tiers hautes comp\u00e9tences. Les consultants de la division tertiaire & cadres proposent de v\u00e9ritables...",
-            "date": "2015-04-16",
-            "categories": "recrutement",
+        "letempstg.com/2015/04/la-base-de-donn%C3%A9es-des-catastrophes-30-derni%C3%A8res-ann%C3%A9es-au-togo": {
+            "title": "La base de donn\u00e9es des catastrophes des 30 derni\u00e8res ann\u00e9es au Togo est disponible...",
+            "snippet": "Une rencontre nationale a ainsi permis dexaminer la base de donn\u00e9es historique Deslnventar Togo, dappr\u00e9cier les donn\u00e9es r\u00e9gion par r\u00e9gion et de lancer officiellement son op\u00e9rationnalisation. Cette base de donn\u00e9es est opportune et va...",
+            "date": "2015-04-24",
             "tags": "base,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/recrutement/lessentiel.lu/2015/04/gestionnaire-de-base-donn%C3%A9es-h-f",
+            "recuweb_url": "http://fr.recuweb.com/letempstg.com/2015/04/la-base-de-donn%C3%A9es-des-catastrophes-30-derni%C3%A8res-ann%C3%A9es-au-togo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=base%2Bde%2Bdonn%C3%A9es&format=RSS&cc=fr",
-            "source_url": "http://lessentiel.lu/fr/emploi/index.tmpl?id=2468083"
+            "source_url": "http://letempstg.com/2015/04/24/la-base-de-donnees-des-catastrophes-des-30-dernieres-annees-au-togo-est-disponible/"
         },
-        "commentcamarche.net/2015/04/probleme-dans-ma-base-de-donn%C3%A9es": {
-            "title": "Probleme dans ma base de donn\u00e9es...",
-            "snippet": "par exemple j'ai des numero du PV sous form 2012/010 et 2012/011 et 2012/012..... et je voudrais une requete UPdate pour modifi\u00e9 les champs pour obtenir des contenu du champs sous forms 2012/10 et 2012/11 et 2012/12....",
-            "date": "2015-04-16",
-            "tags": "contenu,base,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/commentcamarche.net/2015/04/probleme-dans-ma-base-de-donn%C3%A9es",
+        "lexpress.mu/2015/04/route-les-infractions-enregistr%C3%A9es-dans-une-base-de-donn%C3%A9es-l-satire": {
+            "title": "Route: les infractions enregistr\u00e9es dans une base de donn\u00e9es... - L'(Satire) (Communiqu\u00e9 de...",
+            "snippet": "L'(Satire) (Communiqu\u00e9 de presse) (Abonnement) (Blog)Route: les infractions enregistr\u00e9es dans une base de donn\u00e9es...L'(Satire) (Communiqu\u00e9 de presse) (Abonnement) (Blog)Une des mesures phares concerne l'enregistrement de toutes les offenses...",
+            "date": "2015-04-24",
+            "tags": "base,donn\u00e9es",
+            "recuweb_url": "http://fr.recuweb.com/lexpress.mu/2015/04/route-les-infractions-enregistr%C3%A9es-dans-une-base-de-donn%C3%A9es-l-satire",
+            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es%2Bbase%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
+            "source_url": "http://lexpress.mu/article/261651/route-infractions-enregistrees-dans-une-base-donnees-electroniques"
+        },
+        "boursier.com/2015/04/wikileaks-d%C3%A9voile-une-base-de-donn%C3%A9es-confidentielle-sony-pictures": {
+            "title": "Wikileaks d\u00e9voile une base de donn\u00e9es confidentielle de Sony Pictures...",
+            "snippet": "() Les ennuis continuent pour Sony Pictures, victime au mois de d\u00e9cembre 2014 d'un vaste piratage informatique. Le studio hollywoodien, filiale du groupe japonais, est d\u00e9sormais la cible de Wikilieaks, qui a d\u00e9cid\u00e9 mettre en ligne une...",
+            "date": "2015-04-17",
+            "tags": "ligne,vaste,base,donn\u00e9es",
+            "recuweb_url": "http://fr.recuweb.com/boursier.com/2015/04/wikileaks-d%C3%A9voile-une-base-de-donn%C3%A9es-confidentielle-sony-pictures",
             "resource_url": "http://www.bing.com/news/search?first=1&q=base%2Bde%2Bdonn%C3%A9es&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31843224-probleme-dans-ma-base-de-donnees"
+            "source_url": "http://boursier.com/actualites/economie/wikileaks-devoile-une-base-de-donnees-confidentielle-de-sony-pictures-27703.html?rss"
         },
-        "blogs.lecho.be/2015/04/une-base-de-donn%C3%A9es-consolid%C3%A9es-europ%C3%A9ennes-un-r%C3%AAve": {
-            "title": "Une base de donn\u00e9es consolid\u00e9es europ\u00e9ennes, un r\u00eave?",
-            "snippet": "Lors du salon Trade Tech Europe 2015, la question de la base de donn\u00e9es consolid\u00e9es, o\u00f9 sont r\u00e9pertori\u00e9s tous les prix des transactions en actions sur les diff\u00e9rentes plateformes de transactions, a \u00e9t\u00e9 abord\u00e9e. Il faut rappeler qu'en 2012,...",
+        "blogs.lecho.be/2015/04/une-base-de-donn%C3%A9es-consolid%C3%A9es-europ%C3%A9ennes-un-r%C3%AAve-l-echo": {
+            "title": "Une base de donn\u00e9es consolid\u00e9es europ\u00e9ennes, un r\u00eave? - L'Echo...",
+            "snippet": "Une base de donn\u00e9es consolid\u00e9es europ\u00e9ennes, un r\u00eave?L'EchoLors du salon Trade Tech Europe 2015, la question de la base de donn\u00e9es consolid\u00e9es, o\u00f9 sont r\u00e9pertori\u00e9s tous les prix des transactions en actions sur les diff\u00e9rentes plateformes...",
             "date": "2015-04-16",
             "tags": "prix,base,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/blogs.lecho.be/2015/04/une-base-de-donn%C3%A9es-consolid%C3%A9es-europ%C3%A9ennes-un-r%C3%AAve",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=base%2Bde%2Bdonn%C3%A9es&format=RSS&cc=fr",
+            "recuweb_url": "http://fr.recuweb.com/blogs.lecho.be/2015/04/une-base-de-donn%C3%A9es-consolid%C3%A9es-europ%C3%A9ennes-un-r%C3%AAve-l-echo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es%2Bbase%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
             "source_url": "http://blogs.lecho.be/fairtrade/2015/04/une-base-de-donn\u00e9es-consolid\u00e9es-europ\u00e9ennes-un-r\u00eave.html"
         },
         "journaldunet.com/2015/04/base-de-donn%C3%A9es-les-tarifs-des-freelances": {
@@ -43,28 +52,10 @@
             "snippet": "La place de march\u00e9 fran\u00e7aise Hopwork a pu observer les prix r\u00e9ellement pratiqu\u00e9s, selon la ville et la technologie, par des ind\u00e9pendants. Jeune pousse fran\u00e7aise, Hopwork propose une place de march\u00e9 en ligne mettant en relation des freelances...",
             "date": "2015-04-15",
             "categories": "place,technologie",
-            "tags": "selon,prix,base,donn\u00e9es",
+            "tags": "ligne,selon,prix,base,donn\u00e9es",
             "recuweb_url": "http://fr.recuweb.com/technologie/journaldunet.com/2015/04/base-de-donn%C3%A9es-les-tarifs-des-freelances",
             "resource_url": "http://www.bing.com/news/search?first=1&q=base%2Bde%2Bdonn%C3%A9es&format=RSS&cc=fr",
             "source_url": "http://journaldunet.com/solutions/emploi-rh/base-de-donnees-les-salaires-des-freelances.shtml"
-        },
-        "lesoir.be/2015/04/la-case-tzigane-qui-choque-dans-base-de-donn%C3%A9es-police": {
-            "title": "La case tzigane qui choque dans la base de donn\u00e9es de la police - Le Soir...",
-            "snippet": "Le SoirLa case tzigane qui choque dans la base de donn\u00e9es de la policeLe SoirLes agents de la police f\u00e9d\u00e9rale ou locale peuvent cocher une case tzigane dans la Banque de donn\u00e9es nationale g\u00e9n\u00e9rale (BNG) s'ils introduisent des faits dans une...",
-            "date": "2015-04-15",
-            "tags": "base,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/lesoir.be/2015/04/la-case-tzigane-qui-choque-dans-base-de-donn%C3%A9es-police",
-            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
-            "source_url": "http://lesoir.be/851086/article/actualite/belgique/2015-04-15/case-tzigane-qui-choque-dans-base-donnees-police"
-        },
-        "commentcamarche.net/2015/04/trier-une-base-de-donn%C3%A9es-via": {
-            "title": "Trier une base de donn\u00e9es via une autre base de donn\u00e9es...",
-            "snippet": "J'ai un petit probl\u00e8me sur Excel et si il existe une solution cela pourrait me changer la vie... En gros j'ai 2 fichiers. Un nouveau fichier contenant des num\u00e9ros d'identit\u00e9 avec 2 autres colonnes d'infos. Un autre fichier base qui contient...",
-            "date": "2015-04-13",
-            "tags": "base,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/commentcamarche.net/2015/04/trier-une-base-de-donn%C3%A9es-via",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=base%2Bde%2Bdonn%C3%A9es&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31828808-trier-une-base-de-donnees-via-une-autre-base-de-donnees"
         },
         "developpez.com/2015/04/documentdb-le-service-de-base-donn%C3%A9es-nosql-microsoft": {
             "title": "DocumentDB: le service de base de donn\u00e9es NoSQL de Microsoft... -...",
@@ -72,23 +63,23 @@
             "date": "2015-04-09",
             "tags": "base,donn\u00e9es,nosql,microsoft",
             "recuweb_url": "http://fr.recuweb.com/developpez.com/2015/04/documentdb-le-service-de-base-donn%C3%A9es-nosql-microsoft",
-            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es%2Bbase%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
             "source_url": "http://developpez.com/actu/83766/DocumentDB-le-service-de-base-de-donnees-NoSQL-de-Microsoft-Azure-disponible-en-version-finale-avec-un-outil-de-migration-des-BD-vers-DocumentDB/"
         },
         "informatiquenews.fr/2015/03/recevoir-l-actualit%C3%A9-informatiquenews": {
             "title": "Recevoir l'actualit\u00e9 - InformatiqueNews...",
             "snippet": "InformatiqueNewsRecevoir l'actualit\u00e9InformatiqueNewsCr\u00e9\u00e9 et anim\u00e9 par le cabinet de conseil australien solid IT, le projet DB-Engines recense les bases de donn\u00e9es relationnelles et NoSQL class\u00e9es selon une m\u00e9thode d\u00e9crite ci-dessous toutes...",
             "date": "2015-03-31",
-            "tags": "selon,m\u00e9thode,donn\u00e9es,nosql",
+            "tags": "selon,donn\u00e9es,nosql",
             "recuweb_url": "http://fr.recuweb.com/informatiquenews.fr/2015/03/recevoir-l-actualit%C3%A9-informatiquenews",
-            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=base%2Bde%2Bdonn%C3%A9es%2Bbase%2Bde%2Bdonn%C3%A9es&output=atom&nord=1",
             "source_url": "http://informatiquenews.fr/quelle-base-de-donnees-pour-quel-usage-33500"
         },
         "fr.news.yahoo.com/2015/02/antiterrorisme-les-pakistanais-qui-refusent-de-faire-enregistrer-leurs-empreintes-digitales": {
             "title": "Antiterrorisme: les Pakistanais qui refusent de faire enregistrer leurs empreintes digitales seront...",
             "snippet": "Pour lutter contre le terrorisme, le gouvernement pakistanais veut cataloguer les empreintes digitales de ses citoyens dans une vaste base de donn\u00e9es. Mais comment faire pour que les gens coop\u00e8rent et donnent rapidement leurs identifiants...",
             "date": "2015-02-25",
-            "tags": "veut,base,donn\u00e9es",
+            "tags": "veut,vaste,base,donn\u00e9es",
             "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/02/antiterrorisme-les-pakistanais-qui-refusent-de-faire-enregistrer-leurs-empreintes-digitales",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=base%2Bde%2Bdonn%C3%A9es",
             "source_url": "http://fr.news.yahoo.com/antiterrorisme-pakistanais-refusent-faire-enregistrer-empreintes-digitales-seront-084901019.html"
