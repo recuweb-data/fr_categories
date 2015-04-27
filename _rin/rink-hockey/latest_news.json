@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rink-hockey",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rink-hockey/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/blogs.json"
     },
     "items": {
+        "ouest-france.fr/2015/04/espace-jeunes-des-activit%C3%A9s-tr%C3%A8s-diversifi%C3%A9es": {
+            "title": "Espace-jeunes: des activit\u00e9s tr\u00e8s diversifi\u00e9es...",
+            "snippet": "De m\u00eame, l'initiation au rink-hockey, en pr\u00e9sence d'Anthony Leroux, s\u00e9lectionn\u00e9 dans l'\u00e9quipe de France, a rencontr\u00e9 un franc succ\u00e8s. De l'insolite \u00c0 ces activit\u00e9s sportives s'ajoutent des sorties culturelles qui, elles aussi, ont su...",
+            "date": "2015-04-26",
+            "categories": "hockey",
+            "tags": "\u00e9quipe,jeunes,rink,hockey,france",
+            "recuweb_url": "http://fr.recuweb.com/hockey/ouest-france.fr/2015/04/espace-jeunes-des-activit%C3%A9s-tr%C3%A8s-diversifi%C3%A9es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rink%2Bhockey&format=RSS&cc=fr",
+            "source_url": "http://ouest-france.fr/espace-jeunes-des-activites-tres-diversifiees-3360764"
+        },
         "lavoixdunord.fr/2015/04/rink-hockey-n1-le-r%C3%A9alisme-de-saint-omer-leur-permet": {
             "title": "Rink-hockey N1: le r\u00e9alisme de Saint-Omer leur permet de... - La Voix du Nord...",
             "snippet": "La Voix du NordRink-hockey N1: le r\u00e9alisme de Saint-Omer leur permet de...La Voix du NordRink-hockey N1: le r\u00e9alisme de Saint-Omer leur permet de d\u00e9crocher un nul (6-6). Par la r\u00e9daction pour La Voix du Nord, Publi\u00e9 le 26/04/2015. La Voix du...",
@@ -18,7 +28,7 @@
             "categories": "hockey",
             "tags": "rink,hockey,saint,omer,voix,nord,nordrink",
             "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/04/rink-hockey-n1-le-r%C3%A9alisme-de-saint-omer-leur-permet",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey%2Brink%2Bhockey&output=atom&nord=1",
             "source_url": "http://lavoixdunord.fr/region/rink-hockey-n1-le-realisme-de-saint-omer-leur-permet-ia37b0n2794342"
         },
         "lavoixdunord.fr/2015/04/rink-hockey-nationale-1-ce-ne-sera-pas-simple-pour-saint": {
@@ -26,9 +36,9 @@
             "snippet": "La Voix du NordRink-hockey - Nationale 1: ce ne sera pas simple pour Saint-Omer...La Voix du NordApr\u00e8s sa d\u00e9sillusion du 18 avril en Final Four de la Coupe de France, Saint-Omer doit vite se replonger dans le championnat, car les quatre derniers...",
             "date": "2015-04-25",
             "categories": "hockey",
-            "tags": "final,final_four,rink,hockey,saint,omer,voix,nord,nordrink,coupe,france,championnat",
+            "tags": "final,final_four,rink,hockey,nationale,saint,omer,voix,nord,nordrink,coupe,france,championnat",
             "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/04/rink-hockey-nationale-1-ce-ne-sera-pas-simple-pour-saint",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey%2Brink%2Bhockey&output=atom&nord=1",
             "source_url": "http://lavoixdunord.fr/region/rink-hockey-nationale-1-ce-ne-sera-pas-simple-pour-ia37b0n2792434"
         },
         "la-croix.com/2015/04/le-fc-barcelone-plus-quun-club-de-football": {
@@ -48,7 +58,7 @@
             "categories": "hockey",
             "tags": "comme,voix,rink,hockey,coupe,france,saison,scra,nord,nordrink,europe,championnat",
             "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/04/rink-hockey-la-coupe-de-france-pour-sauver-saison-du-scra",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey%2Brink%2Bhockey&output=atom&nord=1",
             "source_url": "http://lavoixdunord.fr/region/rink-hockey-la-coupe-de-france-pour-sauver-la-saison-du-scra-ia37b0n2777396"
         },
         "lequipe.fr/2015/04/les-fran%C3%A7ais-du-bar%C3%A7a": {
@@ -66,7 +76,7 @@
             "snippet": "Le T\u00e9l\u00e9grammeRink hockey. Tout roule pour le RSCPLe T\u00e9l\u00e9grammeApr\u00e8s la cr\u00e9ation du club en 2009, une \u00e9quipe de hockey voit le jour en 2010, et trois ans plus tard le RSPC (roller skating pays de la Claie) accueille une deuxi\u00e8me \u00e9quipe de...",
             "date": "2015-04-14",
             "categories": "hockey",
-            "tags": "deuxi\u00e8me,\u00e9quipe,trois,rink,hockey,t\u00e9l\u00e9gramme,t\u00e9l\u00e9grammerink,club",
+            "tags": "\u00e9quipe,trois,rink,hockey,t\u00e9l\u00e9gramme,t\u00e9l\u00e9grammerink,club",
             "recuweb_url": "http://fr.recuweb.com/hockey/letelegramme.fr/2015/04/rink-hockey-tout-roule-pour-le-rscp-t%C3%A9l%C3%A9gramme",
             "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey%2Brink%2Bhockey&output=atom&nord=1",
             "source_url": "http://letelegramme.fr/morbihan/bignan/rink-hockey-tout-roule-pour-le-rscp-14-04-2015-10594931.php"
@@ -76,7 +86,7 @@
             "snippet": "Le T\u00e9l\u00e9grammeRink-hockey. Bonne saison pour les U11Le T\u00e9l\u00e9grammeEntra\u00een\u00e9s par Pol Corlay, Duarte Delgado et Daniel F\u00e9lix, tous trois \u00e9voluant dans l'\u00e9quipe de national 1 au sein des Diables rouges, treize jeunes joueurs de rink-hockey...",
             "date": "2015-04-08",
             "categories": "hockey",
-            "tags": "\u00e9quipe,trois,rink,hockey,saison,t\u00e9l\u00e9gramme,t\u00e9l\u00e9grammerink",
+            "tags": "jeunes,\u00e9quipe,trois,rink,hockey,saison,t\u00e9l\u00e9gramme,t\u00e9l\u00e9grammerink",
             "recuweb_url": "http://fr.recuweb.com/hockey/letelegramme.fr/2015/04/rink-hockey-bonne-saison-pour-les-u11-le-t%C3%A9l%C3%A9gramme",
             "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
             "source_url": "http://letelegramme.fr/finistere/ploneour-lanvern/rink-hockey-bonne-saison-pour-les-u11-08-04-2015-10587654.php"
