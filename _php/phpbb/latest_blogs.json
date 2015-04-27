@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "phpbb",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/phpbb/",
@@ -15,9 +16,9 @@
             "snippet": "Bonjour, J'ai installer r\u00e9cemment PHPBB sur mon site internet, apr\u00e8s quelques jours de recherche je n'ai rien trouver qui me permette de r\u00e9aliser correctement...",
             "date": "2015-03-30",
             "author_name": "cabot",
-            "categories": "internet,phpbb",
-            "tags": "apr\u00e8s,quelques,phpbb,bonjour,installer",
-            "recuweb_url": "http://fr.recuweb.com/phpbb/forums.phpbb-fr.com/2015/03/int%C3%A9grer-phpbb-sur-mon-site-modifications",
+            "categories": "phpbb,internet",
+            "tags": "apr\u00e8s,quelques,installer,int\u00e9grer,phpbb,site,bonjour",
+            "recuweb_url": "http://fr.recuweb.com/internet/forums.phpbb-fr.com/2015/03/int%C3%A9grer-phpbb-sur-mon-site-modifications",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forums.phpbb-fr.com/styles-modifications-recherche-phpbb31/sujet204243.html"
         },
