@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "peinture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/peinture/",
@@ -12,7 +13,7 @@
     "items": {
         "youtube.com/2015/02/cours-de-peinture-facile": {
             "title": "COURS DE PEINTURE FACILE...",
-            "snippet": "COURS DE PEINTURE FACILE La boutique et le site vous offrent cet atelier de peinture. Vous trouverez le patron ICI: www./tutoriels-detail.php?id=14234... From: Femme2decoTV Views: 6155 145 ratings Time: 16:49 More in Howto & Style...",
+            "snippet": "COURS DE PEINTURE FACILE La boutique et le site vous offrent cet atelier de peinture. Vous trouverez le patron ICI: www./tutoriels-detail.php?id=14234... From: Femme2decoTV Views: 6176 146 ratings Time: 16:49 More in Howto & Style...",
             "date": "2015-02-26",
             "author_name": "Femme2decoTV",
             "categories": "peinture,php",
@@ -28,11 +29,23 @@
             "date": "2015-02-15",
             "author_name": "Spi0n",
             "categories": "peinture",
-            "tags": "sol,peintures,artiste",
+            "tags": "sol,artiste",
             "recuweb_url": "http://fr.recuweb.com/peinture/dailymotion.com/2015/02/peinture-s-%C3%A9coule-en-time-lapse",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/peinture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2h9vdb_peinture-s-ecoule-en-time-lapse_creation",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2h9vdb_peinture-s-ecoule-en-time-lapse_creation"
+        },
+        "youtube.com/2014/12/tuto-comment-faire-de-la-peinture-maison": {
+            "title": "tuto Comment faire de la peinture maison...",
+            "snippet": "tuto Comment faire de la peinture maison Hey coucou mes petits papillons. Pour plus d'information me concernant c'est ci dessous: Ma page facebook: From: ladecouverte demescreas Views: 7749 48 ratings Time: 04:02 More in People & Blogs...",
+            "date": "2014-12-23",
+            "author_name": "ladecouverte demescreas",
+            "categories": "facebook,peinture",
+            "tags": "peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/youtube.com/2014/12/tuto-comment-faire-de-la-peinture-maison",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=peinture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=5-Ux2NwAXPM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5-Ux2NwAXPM/0.jpg"
         },
         "youtube.com/2014/12/un-papa-gronde-ses-enfants-recouverts-de-peinture": {
             "title": "Un papa gronde ses enfants recouverts de peinture...",
@@ -105,18 +118,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=peinture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=uwXzB1kHNbQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/uwXzB1kHNbQ/0.jpg"
-        },
-        "youtube.com/2014/06/tuto-peinture-sur-figurines-zombies-toxiques-zombicide": {
-            "title": "TUTO - Peinture sur figurines - Zombies Toxiques - Zombicide...",
-            "snippet": "TUTO - Peinture sur figurines - Zombies Toxiques - Zombicide Lisez la description SVP Zombicide, Toxic City Mall, Zombies Toxiques. Abomination, Fatty, Walker, Runner. Correspondance des peintures: Oak Brown=... From: zezekiel2b peinture Views:...",
-            "date": "2014-06-07",
-            "author_name": "zezekiel2b peinture",
-            "categories": "peinture",
-            "tags": "peintures",
-            "recuweb_url": "http://fr.recuweb.com/peinture/youtube.com/2014/06/tuto-peinture-sur-figurines-zombies-toxiques-zombicide",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=peinture%2Bpeinture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=t6DvxvaSWqU&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/t6DvxvaSWqU/0.jpg"
         },
         "youtube.com/2014/06/comment-peindre-du-carrelage-mural-leroy-merlin": {
             "title": "Comment peindre du carrelage mural? Leroy Merlin...",
