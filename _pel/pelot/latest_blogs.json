@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "pelot",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pelot/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/blogs.json"
     },
     "items": {
+        "monromannoiretbienserre.blog.tdg.ch/2015/03/pierre-pelot-pauvres-zheros-cruels-paumes-mon-roman-noir": {
+            "title": "pierre pelot: pauvres zheros. cruels paumes. - mon roman? noir et...",
+            "snippet": "PIERRE PELOT: PAUVRES ZHEROS. CRUELS PAUMES. pierre pelot, baru, pauvres zheros, rivages noir, casterman, vosges, roman. Voyage au Bout de la Nuit est l'un des premiers ouvrages classiques illustr\u00e9 par un...",
+            "date": "2015-03-15",
+            "author_name": "C\u00e9dric Segapelli",
+            "categories": "pelot",
+            "tags": "noir,pierre,pierre_pelot,pelot,roman,voyage",
+            "recuweb_url": "http://fr.recuweb.com/pelot/monromannoiretbienserre.blog.tdg.ch/2015/03/pierre-pelot-pauvres-zheros-cruels-paumes-mon-roman-noir",
+            "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://monromannoiretbienserre.blog.tdg.ch/archive/2015/03/15/pierre-pelot-pauvres-zheros-cruels-paumes-265459.html"
+        },
         "blog.cyrille.free.fr/2015/02/l-%C3%AEle-au-tr%C3%A9sor-pierre-pelot-le-journal-extime-de-cyrille": {
             "title": "L'\u00eele au tr\u00e9sor. Pierre Pelot Le Journal Extime de Cyrille...",
             "snippet": "H\u00e9lios, la collection de poche des Ind\u00e9s de l'imaginaire (collectif cr\u00e9\u00e9 par Les Moutons \u00c9lectriques, Mn\u00e9mos et Actu SF) r\u00e9\u00e9dite ce mois ci un roman de Pierre Pelot de 2008, L'\u00eele au tr\u00e9sor, hommage, comme son nom...",
             "date": "2015-02-03",
             "author_name": "Cyrille",
             "categories": "pelot,collection",
-            "tags": "comme,nom,pierre,pierre_pelot,pelot,mois,roman,\u00eele,\u00eele-au-tr\u00e9sor,tr\u00e9sor",
+            "tags": "nom,pierre,pierre_pelot,pelot,mois,roman,\u00eele,\u00eele-au-tr\u00e9sor,tr\u00e9sor",
             "recuweb_url": "http://fr.recuweb.com/collection/blog.cyrille.free.fr/2015/02/l-%C3%AEle-au-tr%C3%A9sor-pierre-pelot-le-journal-extime-de-cyrille",
             "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.cyrille.free.fr/?p=783"
@@ -27,21 +39,10 @@
             "date": "2015-01-25",
             "author_name": "Christine Luce",
             "categories": "pelot",
-            "tags": "roman,\u00eele,\u00eele-au-tr\u00e9sor,tr\u00e9sor,pierre,pierre_pelot,pelot",
+            "tags": "fut,roman,\u00eele,\u00eele-au-tr\u00e9sor,tr\u00e9sor,pierre,pierre_pelot,pelot",
             "recuweb_url": "http://fr.recuweb.com/pelot/amicaledesnidsapoussiere.over-blog.com/2015/01/pierre-pelot-r%C3%A9invente-l-%C3%AEle-au-tr%C3%A9sor-apr%C3%A8s-la-mont%C3%A9e",
             "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://amicaledesnidsapoussiere.over-blog.com/2015/01/pierre-pelot-reinvente-l-ile-au-tresor-apres-la-montee-des-eaux-l-ere-des-pirates-mercenaires.html"
-        },
-        "entreleslignes.hautetfort.com/2014/12/le-voyage-de-pelot-entre-les-lignes": {
-            "title": "Le voyage de Pelot: Entre Les Lignes...",
-            "snippet": "Quand il \u00e9tait petit, Pelot aimait \u00e9couter sa grand-m\u00e8re lui raconter des histoires. C'est comme \u00e7a qu'il a fait la connaissance d'un dr\u00f4le de...",
-            "date": "2014-12-17",
-            "author_name": "Entre-Les-Lignes",
-            "categories": "connaissance,pelot",
-            "tags": "comme,lui,grand,petit,voyage,pelot",
-            "recuweb_url": "http://fr.recuweb.com/pelot/entreleslignes.hautetfort.com/2014/12/le-voyage-de-pelot-entre-les-lignes",
-            "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://entreleslignes.hautetfort.com/archive/2014/12/17/le-voyage-de-pelot-5515099.html"
         },
         "akpb33.wordpress.com/2014/11/bec-tournoi-hordago-2015-trinquet-gomme-pleine-et-balin": {
             "title": "BEC - TOURNOI HORDAGO 2015 trinquet gomme pleine et balin...",
@@ -49,7 +50,7 @@
             "date": "2014-11-23",
             "author_name": "Peyo",
             "categories": "pelote-basque",
-            "tags": "samedi,\u00e9dition,tournoi,pelote,basque,pr\u00e9sident",
+            "tags": "\u00e9dition,pelote,pelote_basque,basque",
             "recuweb_url": "http://fr.recuweb.com/pelote-basque/akpb33.wordpress.com/2014/11/bec-tournoi-hordago-2015-trinquet-gomme-pleine-et-balin",
             "resource_url": "http://fr.search.wordpress.com/?q=pelot%2Bpelot&f=feed&page=1",
             "source_url": "http://akpb33.wordpress.com/2014/11/23/bec-tournoi-hordago-2015-trinquet-gomme-pleine-et-balin/"
@@ -60,7 +61,7 @@
             "date": "2014-10-13",
             "author_name": "Cesba",
             "categories": "pelot",
-            "tags": "pierre,pierre_pelot,pelot",
+            "tags": "pierre,pierre_pelot,pelot,noir",
             "recuweb_url": "http://fr.recuweb.com/pelot/bragelonne-le-blog.fantasyblog.fr/2014/10/num%C3%A9rique-semaine-42-jeaniene-frost-david-forrest-christelle",
             "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bragelonne-le-blog.fantasyblog.fr/archives/4036"
@@ -70,21 +71,54 @@
             "snippet": "Voici tous les mod\u00e8les b\u00e9b\u00e9s que DMC nous propose dans son catalogue B\u00e9b\u00e9 2014. Le Bloomer: Tailles 3 - 6 - 12 mois;1 pelote de N47 Safran []...",
             "date": "2014-05-12",
             "author_name": "Marie-Line",
-            "tags": "voici,mois,pelote",
+            "tags": "mois,pelote",
             "recuweb_url": "http://fr.recuweb.com/leblogpurple.com/2014/05/catalogue-b%C3%A9b%C3%A9-dmc-natura-2014",
             "resource_url": "http://fr.search.wordpress.com/?q=pelot%2Bpelot&f=feed&page=1",
             "source_url": "http://leblogpurple.com/2014/05/12/catalogue-bebe-dmc-natura-2014/"
         },
-        "babelio.com/2011/05/pierre-pelot-livres-citations-photos-et-vid%C3%A9os": {
-            "title": "Pierre Pelot - Livres, citations, photos et vid\u00e9os -...",
+        "babelio.com/2014/03/m%C3%A9chamment-dimanche-pierre-pelot-babelio": {
+            "title": "M\u00e9chamment dimanche - Pierre Pelot - Babelio...",
+            "snippet": "Critiques, citations, extraits de M\u00e9chamment dimanche de Pierre Pelot. Etonnant! Aucune critique pour ce livre pourtant sorti en 2005 pour s...",
+            "date": "2014-03-22",
+            "author_name": "inconnu",
+            "categories": "pelot",
+            "tags": "critiques,extraits,pierre,pierre_pelot,pelot,babelio,citations",
+            "recuweb_url": "http://fr.recuweb.com/pelot/babelio.com/2014/03/m%C3%A9chamment-dimanche-pierre-pelot-babelio",
+            "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://babelio.com/livres/Pelot-Mechamment-dimanche/34213"
+        },
+        "babelio.com/2012/06/les-croix-en-feu-pierre-pelot-babelio": {
+            "title": "Les croix en feu - Pierre Pelot - Babelio...",
+            "snippet": "Critiques, citations, extraits de Les croix en feu de Pierre Pelot. Alabama 1865, la Guerre de S\u00e9cession vient de se terminer. L'ancien es...",
+            "date": "2012-06-02",
+            "author_name": "inconnu",
+            "categories": "pelot",
+            "tags": "extraits,pierre,pierre_pelot,pelot,babelio,critiques,citations",
+            "recuweb_url": "http://fr.recuweb.com/pelot/babelio.com/2012/06/les-croix-en-feu-pierre-pelot-babelio",
+            "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://babelio.com/livres/Pelot-Les-croix-en-feu/168795"
+        },
+        "babelio.com/2011/05/pierre-pelot-auteur-de-maria-babelio": {
+            "title": "Pierre Pelot (auteur de Maria) - Babelio...",
             "snippet": "Biographie, bibliographie, lecteurs et citations de Pierre Pelot. Pierre Pelot (Pierre Grosdemange, dit Pierre Pelot ou Pierre Suragne ou Pierre Carbonari) est un \u00e9cr..",
             "date": "2011-05-29",
             "author_name": "inconnu",
             "categories": "pelot",
-            "tags": "pierre,grosdemange,pierre_pelot,pelot",
-            "recuweb_url": "http://fr.recuweb.com/pelot/babelio.com/2011/05/pierre-pelot-livres-citations-photos-et-vid%C3%A9os",
+            "tags": "pierre,grosdemange,citations,pierre_pelot,pelot,babelio",
+            "recuweb_url": "http://fr.recuweb.com/pelot/babelio.com/2011/05/pierre-pelot-auteur-de-maria-babelio",
             "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://babelio.com/auteur/Pierre-Pelot/12584"
+        },
+        "babelio.com/2007/12/foetus-party-pierre-pelot-babelio": {
+            "title": "Foetus-party - Pierre Pelot - Babelio...",
+            "snippet": "Critiques, citations, extraits de Foetus-party de Pierre Pelot. Roman conceptuel et labyrinthique, Foetus-party est le prototype du pe...",
+            "date": "2007-12-04",
+            "author_name": "inconnu",
+            "categories": "pelot",
+            "tags": "extraits,pierre,pierre_pelot,pelot,babelio,critiques,citations,roman",
+            "recuweb_url": "http://fr.recuweb.com/pelot/babelio.com/2007/12/foetus-party-pierre-pelot-babelio",
+            "resource_url": "http://www.google.com/search?q=pelot%2Bpelot&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://babelio.com/livres/Pelot-Foetus-party/27365"
         }
     }
 }
