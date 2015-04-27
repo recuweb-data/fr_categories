@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/google/",
@@ -11,82 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
+        "android-france.fr/2015/04/google-collections-la-fonctionalit%C3%A9-pour-concurrencer": {
+            "title": "Google Collections - La fonctionalit\u00e9 Google pour concurrencer...",
+            "snippet": "Google s'attaque au r\u00e9seau social Pinterest avec une prochaine nouvelle fonctionnalit\u00e9 dans Google, Google collections.",
+            "date": "2015-04-27",
+            "author_name": "Gnakouri Danon",
+            "categories": "google,collection",
+            "tags": "prochaine,r\u00e9seau,google,nouvelle",
+            "recuweb_url": "http://fr.recuweb.com/collection/android-france.fr/2015/04/google-collections-la-fonctionalit%C3%A9-pour-concurrencer",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://android-france.fr/2015/04/27/google-collections-pinterest/"
+        },
+        "begeek.fr/2015/04/google-arr%C3%AAte-la-nexus-7-begeek": {
+            "title": "Google arr\u00eate la Nexus 7 - Begeek...",
+            "snippet": "Google vient d'annoncer la fin de la commercialisation de la Nexus 7 au grand dam des fans de la petite tablette bon march\u00e9 de la firme de Mountain View.",
+            "date": "2015-04-27",
+            "author_name": "Sebastien Veyrier",
+            "categories": "google",
+            "tags": "grand,google,nexus,begeek,commercialisation,march\u00e9,mountain",
+            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/google-arr%C3%AAte-la-nexus-7-begeek",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://begeek.fr/google-arrete-la-nexus-7-167893"
+        },
+        "slate.fr/2015/04/l-ing%C3%A9nieur-de-google-qui-prenait-des-photos-plus-hauts": {
+            "title": "L'ing\u00e9nieur de Google qui prenait des photos des plus hauts...",
+            "snippet": "Dan Fredinburg, cofondateur de l'\u00e9quipe Google Adventure, voulait traduire le concept de Google Street View dans des lieux exotiques et extr\u00eames.",
+            "date": "2015-04-27",
+            "author_name": "Myriam L",
+            "categories": "google",
+            "tags": "google",
+            "recuweb_url": "http://fr.recuweb.com/google/slate.fr/2015/04/l-ing%C3%A9nieur-de-google-qui-prenait-des-photos-plus-hauts",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://slate.fr/story/100925/deces-dan-fredinburg-google-everest"
+        },
+        "bushcraftdalex.blogspot.com/2015/04/annonces-sur-le-blog": {
+            "title": "annonces sur le blog...",
+            "snippet": "depuis quelque temps, des annonces sont apparues sur mon blog. c'est une sorte de partenariat avec Google.... Google a des partenariat avec diverses entreprises/boutiques etc... et se sert des blog (avec accord) pour en faire de la pub en \u00e9change,...",
+            "date": "2015-04-26",
+            "author_name": "Alexandre Rendu",
+            "categories": "google",
+            "tags": "google",
+            "recuweb_url": "http://fr.recuweb.com/google/bushcraftdalex.blogspot.com/2015/04/annonces-sur-le-blog",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
+            "source_url": "http://bushcraftdalex.blogspot.com/2015/04/annonces-sur-le-blog.html"
+        },
+        "begeek.fr/2015/04/google-glass-la-nouvelle-g%C3%A9n%C3%A9ration-arrive-begeek": {
+            "title": "Google Glass: la nouvelle g\u00e9n\u00e9ration arrive! - Begeek...",
+            "snippet": "Selon le dirigeant de Luxottica (Ray-Ban), la prochaine g\u00e9n\u00e9ration de Google Glass est en pr\u00e9paration et devrait \"sortir prochainement\".",
+            "date": "2015-04-25",
+            "author_name": "Micha\u00ebl Rubin",
+            "categories": "google",
+            "tags": "prochaine,google,google_glass,glass,nouvelle,g\u00e9n\u00e9ration,begeek,selon,luxottica,ray,ban",
+            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/google-glass-la-nouvelle-g%C3%A9n%C3%A9ration-arrive-begeek",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://begeek.fr/google-glass-la-nouvelle-generation-arrive-167775"
+        },
         "100000v.wordpress.com/2015/04/quand-google-urine-sur-apple-jusquau-pakistan": {
             "title": "Quand Google urine sur Apple jusquau Pakistan...",
             "snippet": "Une curieuse image est apparue aujourdhui sur Google Maps, dans une r\u00e9gion du Pakistan: la mascotte dAndroid qui urine sur la pomme dApple. Tapez Adiala Shahpur Rd, Rawalpindi, Pakistan et vous le verrez vous-m\u00eame. Dapr\u00e8s les premi\u00e8res infos, ce...",
             "date": "2015-04-24",
             "author_name": "ValLeNain",
             "categories": "google",
-            "tags": "google,image,m\u00eame",
+            "tags": "google,apple,m\u00eame",
             "recuweb_url": "http://fr.recuweb.com/google/100000v.wordpress.com/2015/04/quand-google-urine-sur-apple-jusquau-pakistan",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
             "source_url": "http://100000v.wordpress.com/2015/04/24/quand-google-urine-sur-apple-jusquau-pakistan/"
-        },
-        "gizmodo.fr/2015/04/et-donc-google-est-d%C3%A9sormais-un-op%C3%A9rateur-mobile-gizmodo": {
-            "title": "Et donc Google est d\u00e9sormais un op\u00e9rateur mobile... - Gizmodo...",
-            "snippet": "Google a lev\u00e9 le voile sur Project Fi, une offre de t\u00e9l\u00e9phonie et d'Internet mobile exploitant les r\u00e9seaux cellulaires de Sprint et T-Mobile aux Etats-Unis.",
-            "date": "2015-04-23",
-            "author_name": "Flo",
-            "categories": "google,internet",
-            "tags": "offre,d\u00e9sormais,donc,google,op\u00e9rateur,mobile,project,t\u00e9l\u00e9phonie,internet,r\u00e9seaux,sprint,etats,unis",
-            "recuweb_url": "http://fr.recuweb.com/internet/gizmodo.fr/2015/04/et-donc-google-est-d%C3%A9sormais-un-op%C3%A9rateur-mobile-gizmodo",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/23/et-donc-google-est-desormais-un-operateur-mobile.html"
-        },
-        "generation-nt.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile-aux-usa": {
-            "title": "Project Fi: Google devient op\u00e9rateur mobile aux USA...",
-            "snippet": "Les rumeurs et les informations du Wall Street Journal \u00e9taient finalement bien fond\u00e9es: Google a finalement annonc\u00e9 le lancement de Project Fi, son service de t\u00e9l\u00e9phonie mobile.",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "google",
-            "tags": "service,lancement,fond\u00e9es,rumeurs,informations,project,google,devient,op\u00e9rateur,mobile,annonc\u00e9,t\u00e9l\u00e9phonie",
-            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile-aux-usa",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/project-fi-google-operateur-mobile-actualite-1914399.html"
-        },
-        "frandroid.com/2015/04/project-fi-google-est-d%C3%A9sormais-un-op%C3%A9rateur-virtuel-aux-%C3%A9tats-unis": {
-            "title": "Project Fi: Google est d\u00e9sormais un op\u00e9rateur virtuel aux \u00c9tats-Unis...",
-            "snippet": "Comme on s'y attendait, Google a d\u00e9voil\u00e9 hier soir son projet de devenir un MVNO, un op\u00e9rateur mobile virtuel. Le service, baptis\u00e9 Project Fi, propose des tarifs relativement avantageux, est r\u00e9serv\u00e9 aux seuls possesseurs de...",
-            "date": "2015-04-23",
-            "author_name": "Ga\u00ebl",
-            "categories": "google",
-            "tags": "propose,relativement,soir,d\u00e9voil\u00e9,d\u00e9sormais,project,google,op\u00e9rateur,virtuel,\u00e9tats,unis,hier,projet,mvno,mobile,service",
-            "recuweb_url": "http://fr.recuweb.com/google/frandroid.com/2015/04/project-fi-google-est-d%C3%A9sormais-un-op%C3%A9rateur-virtuel-aux-%C3%A9tats-unis",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://frandroid.com/marques/google/280830_project-fi-google-desormais-operateur-virtuel-aux-etats-unis"
-        },
-        "cnetfrance.fr/2015/04/projet-fi-google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile-cnet": {
-            "title": "Projet Fi, Google devient op\u00e9rateur de t\u00e9l\u00e9phonie mobile - CNET...",
-            "snippet": "Google se lance dans la t\u00e9l\u00e9phonie mobile avec son Projet Fi. Pour 20 dollars, les communications et les SMS seront illimit\u00e9s et Google facturera la consommation de donn\u00e9es.",
-            "date": "2015-04-23",
-            "author_name": "Eureka Presse",
-            "categories": "google",
-            "tags": "projet,google,devient,op\u00e9rateur,t\u00e9l\u00e9phonie,mobile,lance",
-            "recuweb_url": "http://fr.recuweb.com/google/cnetfrance.fr/2015/04/projet-fi-google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile-cnet",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cnetfrance.fr/news/projet-fi-google-devient-operateur-de-telephonie-mobile-39818422.htm"
-        },
-        "generation-nt.com/2015/04/on-comprend-pas-google-dit-quel-animal-vous-%C3%AAtes": {
-            "title": "On comprend pas: Google dit quel animal vous \u00eates...",
-            "snippet": "Pour c\u00e9l\u00e9brer le Jour de la Terre, le moteur de recherche Google a concoct\u00e9 un bien curieux quizz de personnalit\u00e9 qui vous dira quel animal vous \u00eates.",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
-            "categories": "google",
-            "tags": "dit,google,jour,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/on-comprend-pas-google-dit-quel-animal-vous-%C3%AAtes",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/google-jour-terre-doodle-quizz-animal-actualite-1914386.html"
-        },
-        "gizmodo.fr/2015/04/google-vous-permet-d%C3%A9sormais-de-t%C3%A9l%C3%A9charger-votre-historique": {
-            "title": "Google vous permet d\u00e9sormais de t\u00e9l\u00e9charger votre historique de...",
-            "snippet": "Les ann\u00e9es ont pass\u00e9 et vous avez tr\u00e8s certainement oubli\u00e9 ce que vous pu rechercher il y a 3 ans dans les m\u00e9andres du web... Google met aujourd'hui en place un moyen relativement simple de le d\u00e9couvrir, qui vous...",
-            "date": "2015-04-21",
-            "author_name": "Flo",
-            "categories": "place,google",
-            "tags": "moyen,relativement,web,d\u00e9sormais,google,aujourd,hui",
-            "recuweb_url": "http://fr.recuweb.com/google/gizmodo.fr/2015/04/google-vous-permet-d%C3%A9sormais-de-t%C3%A9l%C3%A9charger-votre-historique",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/21/google-telecharger-historique.html"
         },
         "wizishop.com/2015/04/dossier-adwords-comment-profiter-du-r%C3%A9seau-de-recherche-google": {
             "title": "Dossier AdWords: comment profiter du r\u00e9seau de recherche Google?",
@@ -94,7 +83,7 @@
             "date": "2015-04-16",
             "author_name": "michele",
             "categories": "adwords,google",
-            "tags": "recherche,moteurs,google,concurrence",
+            "tags": "recherche,r\u00e9seau,google,concurrence",
             "recuweb_url": "http://fr.recuweb.com/google/wizishop.com/2015/04/dossier-adwords-comment-profiter-du-r%C3%A9seau-de-recherche-google",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
             "source_url": "http://wizishop.com/blog/ressources-ecommerce/dossier-adwords-comment-profiter-du-reseau-de-recherche-google.html"
@@ -116,10 +105,21 @@
             "date": "2015-02-19",
             "author_name": "plugengindown",
             "categories": "google",
-            "tags": "web,google,gratuitement,projet",
+            "tags": "objectif,premier,base,projet,cr\u00e9\u00e9,navigateur,google,google_chrome,chrome,gratuitement,web,chromium",
             "recuweb_url": "http://fr.recuweb.com/google/plugengindown.wordpress.com/2015/02/telecharger-google-chrom-gratuitement",
             "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
             "source_url": "http://plugengindown.wordpress.com/2015/02/19/telecharger-google-chrom-gratuitement/"
+        },
+        "colhyacopjoi.wordpress.com/2014/12/telecharger-navigateur-google-gratuit": {
+            "title": "Telecharger navigateur google gratuit...",
+            "snippet": "Download Google Chrome. Google Chrome est un navigateur cr\u00e9\u00e9 par la soci\u00e9t\u00e9 Google. inc et qui se base sur le projet Chromium de Google. L'objectif de Google en T\u00e9l\u00e9charger...",
+            "date": "2014-12-26",
+            "author_name": "colhyacopjoi",
+            "categories": "google",
+            "tags": "objectif,base,projet,navigateur,cr\u00e9\u00e9,soci\u00e9t\u00e9,google,google_chrome,chrome,gratuit,chromium",
+            "recuweb_url": "http://fr.recuweb.com/google/colhyacopjoi.wordpress.com/2014/12/telecharger-navigateur-google-gratuit",
+            "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
+            "source_url": "http://colhyacopjoi.wordpress.com/2014/12/26/telecharger-navigateur-google-gratuit/"
         }
     }
 }
