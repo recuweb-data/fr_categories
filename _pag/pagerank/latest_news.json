@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pagerank/",
@@ -11,25 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "forbes.com/2015/04/it-would-be-a-shame-to-shackle-google-now-forbes": {
-            "title": "It Would Be A Shame To Shackle Google Now - Forbes...",
-            "snippet": "ForbesIt Would Be A Shame To Shackle Google NowForbesThe data that went into PageRank indexing gave the best possible search results. But one rule of the tech industry is you only get to fool everyone once. And after a while companies began to...",
-            "date": "2015-04-23",
-            "categories": "google,pagerank",
-            "tags": "search,google,pagerank",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/forbes.com/2015/04/it-would-be-a-shame-to-shackle-google-now-forbes",
+        "forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes": {
+            "title": "10 Things To Do Before You Hit 'Publish'- Forbes...",
+            "snippet": "Forbes10 Things To Do Before You Hit 'Publish'ForbesBuying or selling links that pass PageRank. This includes exchanging money for links, or posts that contain links; exchanging goods or services for links; or sending someone a free product in...",
+            "date": "2015-04-27",
+            "categories": "pagerank",
+            "tags": "pagerank,this",
+            "recuweb_url": "http://fr.recuweb.com/pagerank/forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes",
             "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/rogerkay/2015/04/23/it-would-be-a-shame-to-shackle-google-now/"
+            "source_url": "http://forbes.com/sites/denispinsky/2015/04/27/before-you-publish/"
         },
-        "searchengineland.com/2015/04/what-signals-from-twitter-does-google-care-about-search-engine-land": {
-            "title": "What Signals From Twitter Does Google Care About? - Search Engine Land...",
-            "snippet": "What Signals From Twitter Does Google Care About?Search Engine LandAt a most basic level, this metric might be considered a Twitter-based version of Google's famed PageRank. Link clicks. Although this metric came up earlier in the Tweet...",
-            "date": "2015-04-23",
-            "categories": "twitter,google,pagerank",
-            "tags": "this,search,google,pagerank",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/searchengineland.com/2015/04/what-signals-from-twitter-does-google-care-about-search-engine-land",
+        "searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your": {
+            "title": "When Disavowing Links At The Domain Level, Don't Let Your... - Search Engine Land...",
+            "snippet": "Search Engine LandWhen Disavowing Links At The Domain Level, Don't Let Your...Search Engine LandSecond, most links are nofollowed across major social networks, so they aren't passing PageRank anyway. Third, if somehow you do find a spammy link on a...",
+            "date": "2015-04-27",
+            "categories": "pagerank",
+            "tags": "your,pagerank",
+            "recuweb_url": "http://fr.recuweb.com/pagerank/searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your",
             "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/signals-twitter-google-care-219202"
+            "source_url": "http://searchengineland.com/disavowing-links-domain-level-dont-let-machete-turn-guillotine-219301"
         },
         "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou": {
             "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou... -...",
