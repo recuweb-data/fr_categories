@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "javascript",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -10,62 +11,52 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "infoworld.com/2015/04/eich-expect-more-frequent-javascript-updates-infoworld": {
-            "title": "Eich: Expect more frequent JavaScript updates - InfoWorld...",
-            "snippet": "InfoWorldEich: Expect more frequent JavaScript updatesInfoWorldModifications to ECMAScript, the official specification underlying JavaScript, will be made on a more regular basis than has been the norm. At the O'Reilly Fluent conference in San...",
-            "date": "2015-04-22",
+        "fratmat.info/2015/04/jean-kacou-diagou-tr%C3%A8s-peu-divoiriens-sont-entrepreneurs": {
+            "title": "Jean Kacou Diagou: Tr\u00e8s peu dIvoiriens sont entrepreneurs...",
+            "snippet": "Kamagat\u00e9 Issouf Cette adresse e-mail est prot\u00e9g\u00e9e contre les robots spammeurs. Vous devez activer le JavaScript pour la visualiser.",
+            "date": "2015-04-23",
             "categories": "javascript",
             "tags": "javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/infoworld.com/2015/04/eich-expect-more-frequent-javascript-updates-infoworld",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
-            "source_url": "http://infoworld.com/article/2912362/javascript/eich-more-regular-updates-to-javascript-spec-coming.html"
-        },
-        "theregister.co.uk/2015/04/javascript-cpu-cache-snooper-tells-crooks-everything-you-do-the-register": {
-            "title": "JavaScript CPU cache snooper tells crooks EVERYTHING you do... - The Register...",
-            "snippet": "The RegisterJavaScript CPU cache snooper tells crooks EVERYTHING you do...The RegisterYossef Oren, Vasileios Kemerlis, Simha Sethumadhavan, and Angelos Keromytis came up with this side-channel attack, which can be performed by JavaScript served from...",
-            "date": "2015-04-22",
-            "categories": "javascript",
-            "tags": "tells,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/theregister.co.uk/2015/04/javascript-cpu-cache-snooper-tells-crooks-everything-you-do-the-register",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/04/21/cache_creeps_can_spy_on_web_histories_for_80_of_net_users/"
-        },
-        "avoir-alire.com/2015/04/pirates-des-cara%C3%AFbes-5-jack-sparrow-en-mauvaise-posture": {
-            "title": "Pirates des Cara\u00efbes 5: Jack Sparrow en mauvaise posture!",
-            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... D\u00e9couvrez la premi\u00e8re photo officielle de Pirates des Cara\u00efbes: Dead Men Tells No Tales, avec un Jack Sparrow dans de sales draps.",
-            "date": "2015-04-22",
-            "categories": "javascript",
-            "tags": "tells,javascript,d\u00e9couvrez",
-            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/04/pirates-des-cara%C3%AFbes-5-jack-sparrow-en-mauvaise-posture",
+            "recuweb_url": "http://fr.recuweb.com/javascript/fratmat.info/2015/04/jean-kacou-diagou-tr%C3%A8s-peu-divoiriens-sont-entrepreneurs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://avoir-alire.com/pirates-des-caraibes-5-jack-sparrow-en-mauvaise-posture"
+            "source_url": "http://fratmat.info/economie/item/24337-jean-kacou-diagou-tr\u00e8s-peu-d\u2019ivoiriens-sont-entrepreneurs"
         },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f": {
-            "title": "D\u00e9veloppeur Frontend Javascript H/F...",
-            "snippet": "Sp\u00e9cialis\u00e9e dans les solutions interactives pour le monde professionnel, Regards simplifie les apprentissages et accompagne le d\u00e9veloppement des organisations. Nos expertises sont multiples: solutions logicielles professionnelles, dispositifs...",
+        "infoworld.com/2015/04/video-brendan-eich-celebrates-the-rise-of-javascript-compilers-infoworld": {
+            "title": "Video: Brendan Eich celebrates the rise of JavaScript compilers - InfoWorld...",
+            "snippet": "InfoWorldVideo: Brendan Eich celebrates the rise of JavaScript compilersInfoWorld\"I'm thinking back to 'Terminator 3: Rise of the Machines',\" says JavaScript inventor Brendan Eich in his keynote at Fluent Conference 2015, \"and we're seeing the rise...",
+            "date": "2015-04-23",
+            "categories": "javascript",
+            "tags": "javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/infoworld.com/2015/04/video-brendan-eich-celebrates-the-rise-of-javascript-compilers-infoworld",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
+            "source_url": "http://infoworld.com/article/2912903/javascript/video-brendan-eich-celebrates-rise-of-javascript-compilers.html"
+        },
+        "avoir-alire.com/2015/04/%C3+-la-poursuite-de-demain-les-premi%C3%A8res-images": {
+            "title": "\u00c0 la poursuite de demain - Les premi\u00e8res images...",
+            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... Les premi\u00e8res images du prochain Brad Bird semblent confirmer tout le bien que lon pense de ce magicien made in Pixar.",
+            "date": "2015-04-23",
+            "categories": "javascript",
+            "tags": "bird,javascript",
+            "recuweb_url": "http://",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://avoir-alire.com/a-la-poursuite-de-demain-les-premieres-images"
+        },
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f-presse-citron-blog": {
+            "title": "D\u00e9veloppeur Frontend Javascript H/F - Presse-citron (Blog)...",
+            "snippet": "D\u00e9veloppeur Frontend Javascript H/FPresse-citron (Blog)Sp\u00e9cialis\u00e9e dans les solutions interactives pour le monde professionnel, Regards simplifie les apprentissages et accompagne le d\u00e9veloppement des organisations. Nos expertises sont multiples:...",
             "date": "2015-04-21",
             "categories": "javascript",
-            "tags": "multiples,javascript,d\u00e9veloppement",
-            "recuweb_url": "http://fr.recuweb.com/javascript/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "tags": "javascript,d\u00e9veloppement",
+            "recuweb_url": "http://fr.recuweb.com/javascript/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f-presse-citron-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Frontend+Javascript+HF/30049"
-        },
-        "javascript.developpez.com/2015/04/highcharts-de-multiples-corrections": {
-            "title": "Highcharts: de multiples corrections...",
-            "snippet": "Highcharts est une biblioth\u00e8que graphique \u00e9crite en HTML5 et JavaScript, offrant des graphiques complets et complexes, mais intuitifs et interactifs pour votre site ou votre application Web. Elle impl\u00e9mente diff\u00e9rents types de graphiques...",
-            "date": "2015-04-21",
-            "categories": "javascript",
-            "tags": "multiples,html,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/highcharts-de-multiples-corrections",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://javascript.developpez.com/actu/84152/Highcharts-4-1-5-de-multiples-corrections-pour-la-bibliotheque-graphique-ecrite-en-HTML5-et-JavaScript/"
         },
         "emploi.silicon.fr/2015/04/expert-javascript-h-f-cdi-cr%C3%A9teil": {
             "title": "EXPERT JAVASCRIPT (H/F) - CDI - Cr\u00e9teil...",
             "snippet": "Sous la responsabilit\u00e9 du Directeur Technique, au sein du P\u00f4le D\u00e9veloppement, et en contact permanent avec les Directions M\u00e9tiers, vous prenez en charge la conception et le d\u00e9veloppement des interfaces en \u00e9voluant sur les derni\u00e8res avanc\u00e9es...",
             "date": "2015-04-16",
             "categories": "javascript",
-            "tags": "d\u00e9veloppement,technique,expert,javascript",
+            "tags": "interfaces,d\u00e9veloppement,technique,expert,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/emploi.silicon.fr/2015/04/expert-javascript-h-f-cdi-cr%C3%A9teil",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/448286/expert-javascript-hf/"
