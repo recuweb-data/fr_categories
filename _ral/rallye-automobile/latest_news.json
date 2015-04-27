@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rallye-automobile",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rallye-automobile/",
@@ -10,33 +11,88 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/blogs.json"
     },
     "items": {
-        "lavoixdunord.fr/2015/02/rallye-automobile-sur-les-routes-du-nord-et-c%C3%B4te-fleurie": {
-            "title": "Rallye automobile: sur les Routes du Nord et C\u00f4te fleurie, les... - La Voix du Nord...",
-            "snippet": "La Voix du NordRallye automobile: sur les Routes du Nord et C\u00f4te fleurie, les...La Voix du NordLe prochain rallye du Touquet s'annonce bien avec ces pilotes qui ont maintenant repris leur voiture en main. En revanche, Xavier Pruvot n'aura pas pu se...",
-            "date": "2015-02-23",
-            "tags": "aura,rallye,automobile",
-            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/02/rallye-automobile-sur-les-routes-du-nord-et-c%C3%B4te-fleurie",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile&output=atom&nord=1",
-            "source_url": "http://lavoixdunord.fr/region/rallye-automobile-sur-les-routes-du-nord-et-cote-ia36b0n2677378"
-        },
-        "lejdc.fr/2015/02/cent-soixante-quinze-licenci%C3%A9s-dont-95%-de-retrait%C3%A9s-amoureux-la-randonn%C3%A9e": {
-            "title": "Cent soixante quinze licenci\u00e9s, dont 95% de retrait\u00e9s, amoureux de la randonn\u00e9e...",
-            "snippet": "Grosse chambr\u00e9e tous les jeudis Au menu de l'apr\u00e8s-midi, point de rallye automobile. Mais de la randonn\u00e9e p\u00e9destre. En premi\u00e8re ligne, la section de l'association sports et loisirs de Saint-P\u00e8re. Le sc\u00e9nario est bien huil\u00e9: quatre-vingt...",
-            "date": "2015-02-22",
+        "le-pays.fr/2015/04/deux-aventuriers-au-grand-coeur": {
+            "title": "Deux aventuriers au grand coeur...",
+            "snippet": "Enfin, nous avons pris la direction de Marrakech sur des routes bitum\u00e9es pour rallier l'arriv\u00e9e. Parlez-nous du c\u00f4t\u00e9 humanitaire ce rallye automobile? Avant de partir, nous avons achet\u00e9 des fournitures scolaires: deux sacs de sport avec des...",
+            "date": "2015-04-26",
             "categories": "sport",
-            "tags": "sports,rallye,automobile",
-            "recuweb_url": "http://fr.recuweb.com/sport/lejdc.fr/2015/02/cent-soixante-quinze-licenci%C3%A9s-dont-95%-de-retrait%C3%A9s-amoureux-la-randonn%C3%A9e",
+            "tags": "deux,routes,rallye,automobile,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/le-pays.fr/2015/04/deux-aventuriers-au-grand-coeur",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
-            "source_url": "http://lejdc.fr/nievre/actualite/pays/val-de-loire/2015/02/23/cent-soixante-quinze-licencies-dont-95-de-retraites-amoureux-de-la-randonnee_11340068.html"
+            "source_url": "http://le-pays.fr/region/edition/rhones-alpes-edition-charlieu/2015/04/26/deux-aventuriers-au-grand-coeur_11415222.html"
         },
-        "ouest-france.fr/2015/02/automobile-un-rallye-national-en-novembre-ouest-france": {
-            "title": "Automobile: un rallye national en novembre - Ouest-France...",
-            "snippet": "Ouest-FranceAutomobile: un rallye national en novembreOuest-FranceCe premier Rallye national de Normandie va remplacer le Rallye r\u00e9gional de Normandie-Beuzeville et aura lieu du vendredi 6 au dimanche 8 novembre prochains, explique le Honfleurais...",
-            "date": "2015-02-20",
-            "tags": "novembre,aura,automobile,rallye",
-            "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/02/automobile-un-rallye-national-en-novembre-ouest-france",
+        "teleobs.nouvelobs.com/2015/04/nile-rodgers-le-roi-dance": {
+            "title": "Nile Rodgers: Le roi dance...",
+            "snippet": "D'o\u00f9 le titre de l'album: King of The World. Et comme je faisais du rallye automobile, j'ai imagin\u00e9 Sheila en pilote de courses futuristes. Sur l'album, il y a une chanson intitul\u00e9e Charge Plates and Credit Cards. Le texte parle de cartes Visa.",
+            "date": "2015-04-26",
+            "tags": "rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/teleobs.nouvelobs.com/2015/04/nile-rodgers-le-roi-dance",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
+            "source_url": "http://teleobs.nouvelobs.com/la-selection-teleobs/20150423.OBS7853/les-diamants-de-nile-rodgers.html"
+        },
+        "charentelibre.fr/2015/04/que-faire-ce-dimanche-en-charente-les-bons-plans-de-cl": {
+            "title": "Que faire ce dimanche en Charente: les bons plans de CL...",
+            "snippet": "Jauldes, Salle des f\u00eates. Rallye automobile de 120km (40km chrono en 3 sp\u00e9ciales). Samedi et dimanche matin, mairie de M\u00e9rignac: s\u00e9ance de d\u00e9dicaces de Brigitte V\u00e9pierre pour son ouvrage Dans l'enfer des pistes (\u00e9galement dimanche apr\u00e8s-midi...",
+            "date": "2015-04-26",
+            "tags": "dimanche,apr\u00e8s,matin,rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/charentelibre.fr/2015/04/que-faire-ce-dimanche-en-charente-les-bons-plans-de-cl",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
+            "source_url": "http://charentelibre.fr/2015/04/25/que-faire-ce-dimanche-en-charente-les-bons-plans-de-cl,1952222.php"
+        },
+        "bluewin.ch/2015/04/violent-crash-de-david-nalbandian-en-rallye": {
+            "title": "Violent crash de David Nalbandian en rallye!",
+            "snippet": "Depuis qu'il s'est retir\u00e9 des courts en 2012, l'ancien num\u00e9ro 3 mondial s'est d\u00e9couvert une passion pour le rallye automobile. Nalbandian prenait le d\u00e9part de son rallye national pour la troisi\u00e8me fois.",
+            "date": "2015-04-25",
+            "tags": "mondial,rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/bluewin.ch/2015/04/violent-crash-de-david-nalbandian-en-rallye",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
+            "source_url": "http://bluewin.ch/fr/sport/tennis/2015/articles-teleclub/violente-sortie-de-piste-de-david-nalbandian-en-rallye.html"
+        },
+        "lamanchelibre.fr/2015/04/grave-accident-au-rallye-automobile-de-coutances": {
+            "title": "Grave accident au Rallye automobile de Coutances...",
+            "snippet": "Un commissaire de course a \u00e9t\u00e9 fauch\u00e9 par une voiture dans un virage lors du Rallye automobile de Coutances. L'homme g\u00e9 de 63 ans a \u00e9t\u00e9 gri\u00e8vement bless\u00e9. Un commissiaire de course a \u00e9t\u00e9 fauch\u00e9 par une voiture dans un virage lors du...",
+            "date": "2015-04-22",
+            "tags": "course,voiture,accident,rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/lamanchelibre.fr/2015/04/grave-accident-au-rallye-automobile-de-coutances",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
+            "source_url": "http://lamanchelibre.fr/coutances/actualite-58582--grave-accident-au-rallye-automobile-coutances.html?xtmc=accident&xtcr=17"
+        },
+        "lemans.maville.com/2015/04/1er-rallye-auto-tintin-les-vieilles-bielles-ont-atteint-cheverny": {
+            "title": "1er rallye auto Tintin: Les vieilles bielles ont atteint Cheverny -...",
+            "snippet": "rallye auto Tintin: Les vieilles bielles ont atteint chteau de Cheverny a accueilli ce matin le rallye auto Tintin Le Mans-Cheverny. Les quarante automobiles parties de la Sarthe ont fait le bonheur du public. Apr\u00e8s 150 kilom\u00e8tres de routes et...",
+            "date": "2015-04-19",
+            "categories": "bonheur",
+            "tags": "routes,automobiles,accueilli,matin,chteau,rallye,auto,tintin,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/bonheur/lemans.maville.com/2015/04/1er-rallye-auto-tintin-les-vieilles-bielles-ont-atteint-cheverny",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://lemans.maville.com/actu/actudet_-1er-rallye-auto-tintin-les-vieilles-bielles-ont-atteint-cheverny_52734-2755002_actu.Htm"
+        },
+        "lepaysdauge.fr/2015/04/automobile-eric-brunson-renonce-au-rallye-de-lyon-charbonni%C3%A8res-le-pays": {
+            "title": "Automobile - Eric Brunson renonce au rallye de Lyon-Charbonni\u00e8res - Le Pays d'Auge...",
+            "snippet": "Le Pays d'AugeAutomobile - Eric Brunson renonce au rallye de Lyon-Charbonni\u00e8resLe Pays d'AugeJe ne participe pas au rallye de Lyon-Charbonni\u00e8res conc\u00e8de Eric Brunson: La voiture n'est, tout simplement, pas pr\u00eate apr\u00e8s la sortie de route du...",
+            "date": "2015-04-14",
+            "tags": "apr\u00e8s,route,voiture,automobile,rallye",
+            "recuweb_url": "http://fr.recuweb.com/lepaysdauge.fr/2015/04/automobile-eric-brunson-renonce-au-rallye-de-lyon-charbonni%C3%A8res-le-pays",
             "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile&output=atom&nord=1",
-            "source_url": "http://ouest-france.fr/automobile-un-rallye-national-en-novembre-3199502"
+            "source_url": "http://lepaysdauge.fr/2015/04/14/automobile-eric-brunson-renonce-au-rallye-de-lyon-charbonnieres-2/"
+        },
+        "france3-regions.francetvinfo.fr/2015/04/rallye-tintin-des-passionn%C3%A9s-d-automobile-en-route-pour-le-chteau": {
+            "title": "Rallye Tintin: des passionn\u00e9s d'automobile en route pour le chteau... - Francetv info...",
+            "snippet": "Francetv infoRallye Tintin: des passionn\u00e9s d'automobile en route pour le chteau...Francetv infoLe 18 avril prochain, une trentaine de v\u00e9hicules, que des mod\u00e8les dessin\u00e9s par Herg\u00e9 dans ses albums (car le dessinateur, soucieux de r\u00e9alisme, ne...",
+            "date": "2015-04-14",
+            "tags": "v\u00e9hicules,tintin,route,chteau,rallye,automobile",
+            "recuweb_url": "http://fr.recuweb.com/france3-regions.francetvinfo.fr/2015/04/rallye-tintin-des-passionn%C3%A9s-d-automobile-en-route-pour-le-chteau",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://france3-regions.francetvinfo.fr/basse-normandie/2015/04/14/rallye-tintin-des-passionnes-d-automobile-en-route-pour-le-chateau-de-moulinsart-704755.html"
+        },
+        "lanouvellerepublique.fr/2015/04/automobile-rallye-autocourse-de-bl%C3%A9r%C3%A9-la-nouvelle-r%C3%A9publique": {
+            "title": "AUTOMOBILE Rallye Autocourse de Bl\u00e9r\u00e9 - la Nouvelle R\u00e9publique...",
+            "snippet": "AUTOMOBILE Rallye Autocourse de Bl\u00e9r\u00e9la Nouvelle R\u00e9publiqueQuatre-vingt-deux pilotes sont engag\u00e9s sur le rallye de Bl\u00e9r\u00e9 ce week-end. Si l'habituel favori Jean-Luc Roch\u00e9 sera sur le rallye de la Foug\u00e8re dans le Bordelais, il reste du beau...",
+            "date": "2015-04-12",
+            "tags": "week,deux,automobile,rallye,end",
+            "recuweb_url": "http://fr.recuweb.com/lanouvellerepublique.fr/2015/04/automobile-rallye-autocourse-de-bl%C3%A9r%C3%A9-la-nouvelle-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://lanouvellerepublique.fr/Loir-et-Cher/Sport/Autres-Sports/n/Contenus/Articles/2015/04/11/AUTOMOBILE-Rallye-Autocourse-de-Blere-2290337"
         }
     }
 }
