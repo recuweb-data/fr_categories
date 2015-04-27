@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ajax-amsterdam",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ajax-amsterdam/",
@@ -11,51 +11,63 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ajax-amsterdam/ajax-amsterdam/blogs.json"
     },
     "items": {
-        "les-transferts.com/2015/04/casillas-vers-un-nouveau-record": {
-            "title": "Casillas vers un nouveau record?",
-            "snippet": "Cest donc face au Bayern Munich, la Juventus Turin ou Barcelone quIker Casillas pourra tenter de d\u00e9troner lancien gardien de lAjax Amsterdam et de Manchester United. Avant un d\u00e9part cet \u00e9t\u00e9...",
-            "date": "2015-04-23",
-            "tags": "lajax,lajax_amsterdam,amsterdam,face",
-            "recuweb_url": "http://fr.recuweb.com/les-transferts.com/2015/04/casillas-vers-un-nouveau-record",
+        "leral.net/2015/04/zlatan-ibrahimovic-un-adepte-des-arts-martiaux-sur-les-pelouses": {
+            "title": "Zlatan Ibrahimovic, un adepte des arts martiaux sur les pelouses...",
+            "snippet": "En 2001, il rejoint le club de l'Ajax Amsterdam, ses d\u00e9buts sont difficiles mais apr\u00e8s un changement dentra\u00eeneur, Zlatan devient titulaire et remporte le titre de l'Eredivisie 2001-2002. Il marque 26 buts sur moins de 50 matchs. En 2004, il...",
+            "date": "2015-04-27",
+            "categories": "ajax-amsterdam,arts",
+            "tags": "buts,ajax,ajax_amsterdam,amsterdam,club,zlatan,zlatan_ibrahimovic,ibrahimovic,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/arts/leral.net/2015/04/zlatan-ibrahimovic-un-adepte-des-arts-martiaux-sur-les-pelouses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ajax%2Bamsterdam&format=RSS&cc=fr",
-            "source_url": "http://les-transferts.com/mercato-transferts/casillas-vers-un-nouveau-record-104621.html"
+            "source_url": "http://leral.net/Zlatan-Ibrahimovic-un-adepte-des-arts-martiaux-sur-les-pelouses_a142985.html"
         },
-        "papinade.com/2015/04/papinade-championnatscinq-raisons-de-regarder-leuropa-league": {
-            "title": "Papinade ChampionnatsCinq raisons de regarder lEuropa League...",
-            "snippet": "Il en est de m\u00eame pour lAjax Amsterdam face au Dnipro Dnipropetrovsk. En seizi\u00e8mes de finale, la d\u00e9cision sest faite au match retour pour lInter Milan (face au Celtic Glasgow), lAS Rome (face au Feyenoord), le Torino (contre lAthletic...",
-            "date": "2015-04-23",
-            "tags": "match,finale,face,lajax,lajax_amsterdam,amsterdam,league",
-            "recuweb_url": "http://fr.recuweb.com/papinade.com/2015/04/papinade-championnatscinq-raisons-de-regarder-leuropa-league",
+        "blick.ch/2015/04/liveticker-pec-zwolle-ajax-amsterdam": {
+            "title": "Liveticker: PEC Zwolle - Ajax Amsterdam -...",
+            "snippet": "Liveticker: PEC Zwolle - Ajax Ajax Amsterdam: J. Cillessen, K. Tete, J. Veltman, J. Riedewald, N. Viergever, R. Bazoer, T. Serero, D. Klaassen, A. El Ghazi, V. Fischer, L. Andersen -- Ersatz: R. Van Rhijn, N. Moisander, M. Van der Hoorn, K.",
+            "date": "2015-04-26",
+            "categories": "ajax-amsterdam",
+            "tags": "van,ajax,ajax_amsterdam,amsterdam,der",
+            "recuweb_url": "http://fr.recuweb.com/ajax-amsterdam/blick.ch/2015/04/liveticker-pec-zwolle-ajax-amsterdam",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ajax%2Bamsterdam%2Bajax%2Bamsterdam&output=atom&nord=1",
+            "source_url": "http://blick.ch/sport/fussball/international/eredivisie/pec-zwolle-ajax-amsterdam-id3688732.html"
+        },
+        "fr.starafrica.com/2015/04/psg-southampton-sur-van-der-wiel": {
+            "title": "PSG: Southampton sur van der Wiel?",
+            "snippet": "Selon The Sun, lancien joueur de lAjax Amsterdam figurerait dans les petits papiers de Ronald Koeman, le manager des Saints. Ce dernier aurait un \u0153il tr\u00e8s attentif sur plusieurs de ses compatriotes pour le Mercato d\u00e9t\u00e9 (Clasie? Krul...",
+            "date": "2015-04-25",
+            "tags": "aurait,plusieurs,ronald,ronald_koeman,koeman,lajax,lajax_amsterdam,amsterdam,lancien,lancien-joueur,joueur,selon,selon_the_sun,sun,van,der,psg,southampton,wiel,mercato",
+            "recuweb_url": "http://fr.recuweb.com/fr.starafrica.com/2015/04/psg-southampton-sur-van-der-wiel",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ajax%2Bamsterdam&format=RSS&cc=fr",
-            "source_url": "http://papinade.com/cinq-raisons-de-regarder-leuropa-league/11053"
+            "source_url": "http://fr.starafrica.com/football/psg-southampton-sur-van-der-wiel.html"
+        },
+        "insideworldfootball.com/2015/04/ajax-poised-to-take-control-of-amsterdam-arena-inside-world-football": {
+            "title": "Ajax poised to take control of Amsterdam ArenA - Inside World Football...",
+            "snippet": "Ajax poised to take control of Amsterdam ArenAInside World FootballApril 24 Ajax Amsterdam aims to acquire a majority stake in the company operating the Amsterdam ArenA where the side plays its home matches. The Dutch club currently has 13% of the...",
+            "date": "2015-04-24",
+            "categories": "play,football",
+            "tags": "club,amsterdam,football,amsterdam_arena,arena,ajax",
+            "recuweb_url": "http://fr.recuweb.com/football/insideworldfootball.com/2015/04/ajax-poised-to-take-control-of-amsterdam-arena-inside-world-football",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ajax%2Bamsterdam%2Bajax%2Bamsterdam&output=atom&nord=1",
+            "source_url": "http://insideworldfootball.com/world-football/europe/16884-ajax-poised-to-take-control-of-amsterdam-arena"
+        },
+        "butfootballclub.fr/2015/04/psg-mercato-van-der-wiel-pist%C3%A9-en-premier-league": {
+            "title": "PSG Mercato: Van der Wiel pist\u00e9 en Premier League!",
+            "snippet": "Selon The Sun, lentra\u00eeneur de Southampton Ronald Koeman aurait fait de lancien joueur de lAjax Amsterdam lune de ses priorit\u00e9s en cas de d\u00e9part de Nathaniel Clyne, lequel int\u00e9resse les deux grands clubs de Manchester (City et United).",
+            "date": "2015-04-24",
+            "tags": "lequel,lajax,lajax_amsterdam,amsterdam,aurait,lancien,lancien-joueur,joueur,southampton,ronald,ronald_koeman,koeman,selon,selon_the_sun,sun,league,psg,mercato,van,der,wiel",
+            "recuweb_url": "http://fr.recuweb.com/butfootballclub.fr/2015/04/psg-mercato-van-der-wiel-pist%C3%A9-en-premier-league",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ajax%2Bamsterdam&format=RSS&cc=fr",
+            "source_url": "http://butfootballclub.fr/1613690-psg-mercato-van-der-wiel-piste-en-premier-league/"
         },
         "goal.com/2015/04/l-ajax-veut-poss%C3%A9der-amsterdam-arena": {
             "title": "L'Ajax veut poss\u00e9der l'Amsterdam Arena -...",
             "snippet": "'Ajax veut poss\u00e9der l'Amsterdam 'hui, l'Amsterdam Arena, le stade dans lequel \u00e9volue l'Ajax, est la propri\u00e9t\u00e9 de plusieurs entit\u00e9s. Le club souhaiterait aujourd'hui en devenir l'actionnaire prioritaire. Depuis sa construction en 1994, le stade...",
             "date": "2015-04-22",
             "categories": "construction",
-            "tags": "stade,amsterdam,ajax,hui,aujourd",
+            "tags": "club,plusieurs,lequel,amsterdam,amsterdam_arena,arena,ajax,hui,stade,aujourd",
             "recuweb_url": "http://fr.recuweb.com/construction/goal.com/2015/04/l-ajax-veut-poss%C3%A9der-amsterdam-arena",
             "resource_url": "http://news.google.fr/?hl=fr&q=ajax%2Bamsterdam%2Bajax%2Bamsterdam&output=atom&nord=1",
             "source_url": "http://goal.com/fr/news/7058/pays-bas/2015/04/22/11014982/lajax-veut-poss\u00e9der-lamsterdam-arena"
-        },
-        "voetbalprimeur.nl/2015/04/een-terugkeer-naar-ajax-amsterdam-is-mijn-stad-ik-kan-terug": {
-            "title": "'Een terugkeer naar Ajax? Amsterdam is mijn stad, ik kan terug... -...",
-            "snippet": "'Een terugkeer naar Ajax? Amsterdam is mijn stad, ik kan terug... De oud-speler van Ajax kwam pas zeven keer in actie, waarvan vier keer als basisspeler. De Corriere di Bergamo vraagt Emanuelson dan ook naar zijn toekomst. \"Ik voel me hier nu goed...",
-            "date": "2015-04-21",
-            "tags": "ajax,amsterdam",
-            "recuweb_url": "http://fr.recuweb.com/voetbalprimeur.nl/2015/04/een-terugkeer-naar-ajax-amsterdam-is-mijn-stad-ik-kan-terug",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ajax%2Bamsterdam%2Bajax%2Bamsterdam&output=atom&nord=1",
-            "source_url": "http://voetbalprimeur.nl/nieuws/432564/-een-terugkeer-naar-ajax-amsterdam-is-mijn-stad-ik-kan-terug-wanneer-ik-wil-.html"
-        },
-        "sport24.lefigaro.fr/2015/04/pourquoi-ibrahimovic-ne-remportera-jamais-la-ligue-des-champions": {
-            "title": "Pourquoi Ibrahimovic ne remportera jamais la Ligue des champions...",
-            "snippet": "Terminus de lambitieux. Ce Z qui neffraie pas lEurope. Ibra a, depuis ses d\u00e9buts en 2001-02 avec lAjax Amsterdam, inscrit 44 buts en 113 matches (inscrivant 10 buts en 8 matches la saison derni\u00e8re) dans la comp\u00e9tition europ\u00e9enne reine...",
-            "date": "2015-04-21",
-            "tags": "buts,lajax,lajax_amsterdam,amsterdam,ibrahimovic,ligue,champions",
-            "recuweb_url": "http://fr.recuweb.com/sport24.lefigaro.fr/2015/04/pourquoi-ibrahimovic-ne-remportera-jamais-la-ligue-des-champions",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ajax%2Bamsterdam&format=RSS&cc=fr",
-            "source_url": "http://sport24.lefigaro.fr/football/ligue-des-champions/actualites/pourquoi-ibrahimovic-ne-remportera-jamais-la-ligue-des-champions-747039"
         },
         "francefootball.fr/2015/04/championnat-des-pays-bas": {
             "title": "Championnat des Pays-Bas...",
@@ -66,6 +78,16 @@
             "recuweb_url": "http://fr.recuweb.com/ajax-amsterdam/francefootball.fr/2015/04/championnat-des-pays-bas",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ajax%2Bamsterdam&format=RSS&cc=fr",
             "source_url": "http://francefootball.fr/fiche/match/ajax-amsterdam-nac-breda/317387"
+        },
+        "goal.com/2015/04/peterson-would-love-ajax-amsterdam-return": {
+            "title": "Peterson would love Ajax Amsterdam return -...",
+            "snippet": "would love Ajax Amsterdam 22-year-old says he had a great time in the Netherlands and although he would love to return to Amsterdam permanently, he is unsure whether he will be making a return to the Amsterdam Arena in the unforeseeable future.",
+            "date": "2015-04-07",
+            "categories": "ajax-amsterdam",
+            "tags": "arena,ajax,ajax_amsterdam,amsterdam",
+            "recuweb_url": "http://fr.recuweb.com/ajax-amsterdam/goal.com/2015/04/peterson-would-love-ajax-amsterdam-return",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ajax%2Bamsterdam%2Bajax%2Bamsterdam&output=atom&nord=1",
+            "source_url": "http://goal.com/en-za/news/4667/sa-psl/2015/04/07/10536162/peterson-would-love-ajax-amsterdam-return"
         }
     }
 }
