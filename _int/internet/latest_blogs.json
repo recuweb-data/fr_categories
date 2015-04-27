@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "internet",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -11,70 +11,37 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "chatonsky.net/2015/04/post-internet-%C3%A9poque-ontologie-et-stylistique-flux": {
-            "title": "Post-Internet: \u00e9poque, ontologie et stylistique Flux...",
-            "snippet": "Le post-Internet c'est une fois que la domination d'Internet a \u00e9t\u00e9 act\u00e9e, une fois que le r\u00e9seau est devenu commun et constitue le flux de nos existences. Le paradoxe de cettevictoire c'est qu'en infiltrant sur plusieurs niveaux...",
-            "date": "2015-04-23",
-            "author_name": "Gregory Chatonsky",
+        "orthodoxie.com/2015/04/un-site-internet-d%C3%A9di%C3%A9-au-monachisme-russe-sur-le-mont-athos": {
+            "title": "Un site internet d\u00e9di\u00e9 au monachisme russe sur le Mont Athos...",
+            "snippet": "Ce site internet (en russe) donne de nombreux renseignements sur l'histoire et l'actualit\u00e9 du monachisme russe sur la Sainte Montagne de l'Athos. Une section du site concerne des vid\u00e9o sur le Mont Athos, notamment sur les...",
+            "date": "2015-04-27",
+            "author_name": "Jivko Panev",
             "categories": "internet",
-            "tags": "r\u00e9seau,internet,\u00e9t\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/internet/chatonsky.net/2015/04/post-internet-%C3%A9poque-ontologie-et-stylistique-flux",
+            "tags": "site,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/orthodoxie.com/2015/04/un-site-internet-d%C3%A9di%C3%A9-au-monachisme-russe-sur-le-mont-athos",
             "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://chatonsky.net/flux/post-internet-definition/"
+            "source_url": "http://orthodoxie.com/un-site-internet-dedie-au-monachisme-russe-sur-le-mont-athos/"
         },
-        "lesmobiles.com/2015/04/pr%C3%A8s-de-9-fran%C3%A7ais-sur-10-ne-savent-pas-%C3%A9valuer": {
-            "title": "Pr\u00e8s de 9 fran\u00e7ais sur 10 ne savent pas \u00e9valuer leur consommation...",
-            "snippet": "Si l'am\u00e9lioration conjugu\u00e9e des smartphones et du r\u00e9seau permet au consommateur fran\u00e7ais une meilleure utilisation d'Internet, ce dernier ne semble toujours pas en ma\u00eetriser sa consommation. Les fran\u00e7ais sont en effet...",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "internet",
-            "tags": "fran\u00e7ais,toujours,r\u00e9seau,utilisation,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/lesmobiles.com/2015/04/pr%C3%A8s-de-9-fran%C3%A7ais-sur-10-ne-savent-pas-%C3%A9valuer",
-            "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lesmobiles.com/actualite/17668-pres-de-9-francais-sur-10-ne-savent-pas-evaluer-leur-consommation-d-internet-mobile.html"
-        },
-        "tuxboard.com/2015/04/la-main-volontaire-de-giorgio-chiellini-d%C3%A9tourn%C3%A9e-sur-internet": {
-            "title": "La main volontaire de Giorgio Chiellini d\u00e9tourn\u00e9e sur Internet...",
-            "snippet": "La main volontaire de Giorgio Chiellini d\u00e9tourn\u00e9e sur Internet (Monaco-Juventus). Moins d'une minute apr\u00e8s le coup d'envoi de la rencontre entre Monaco et la Juventus de Turin (quart de finale retour de la Ligue des...",
-            "date": "2015-04-22",
-            "author_name": "Polo",
-            "categories": "internet",
-            "tags": "internet,moins",
-            "recuweb_url": "http://fr.recuweb.com/internet/tuxboard.com/2015/04/la-main-volontaire-de-giorgio-chiellini-d%C3%A9tourn%C3%A9e-sur-internet",
+        "lemondeinformatique.fr/2015/04/bernard-cazeneuve-r%C3%A9unit-les-grands-op%C3%A9rateurs-internet": {
+            "title": "Bernard Cazeneuve r\u00e9unit les grands op\u00e9rateurs Internet - Le...",
+            "snippet": "Internet: Le ministre de l'Int\u00e9rieur Bernard Cazeneuve va r\u00e9unir cette apr\u00e8s-midi les dirigeants de plusieurs grands op\u00e9rateurs Internet dont ceux de Google, Microsoft,...",
+            "date": "2015-04-20",
+            "author_name": "ZELDA412",
+            "categories": "internet,google",
+            "tags": "op\u00e9rateurs,apr\u00e8s,internet,google",
+            "recuweb_url": "http://fr.recuweb.com/google/lemondeinformatique.fr/2015/04/bernard-cazeneuve-r%C3%A9unit-les-grands-op%C3%A9rateurs-internet",
             "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://tuxboard.com/main-volontaire-chiellini-monaco-juventus/"
+            "source_url": "http://lemondeinformatique.fr/actualites/lire-bernard-cazeneuve-reunit-les-grands-operateurs-internet-60897.html"
         },
-        "begeek.fr/2015/04/google-va-en-finir-avec-les-pr%C3%A9liminaires-pour-un-internet": {
-            "title": "Google va en finir avec les pr\u00e9liminaires pour un Internet plus rapide...",
-            "snippet": "Le moteur de recherche Google souhaite un Internet toujours plus rapide. Il va proposer un nouveau protocole qui permettrait de r\u00e9duire le temps de chargement des pages web et des vid\u00e9os en r\u00e9duisant au minimum...",
-            "date": "2015-04-21",
-            "author_name": "Pierrick Labbe",
-            "categories": "moteur-de-recherche,google,internet",
-            "tags": "pages,toujours,moteur,moteur-de-recherche,recherche,google,internet,web",
-            "recuweb_url": "http://fr.recuweb.com/internet/begeek.fr/2015/04/google-va-en-finir-avec-les-pr%C3%A9liminaires-pour-un-internet",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://begeek.fr/google-va-en-finir-avec-les-preliminaires-pour-un-internet-plus-rapide-167325"
-        },
-        "bfmbusiness.bfmtv.com/2015/04/ikea-invente-le-mariage-sur-internet-bfmtv": {
-            "title": "Ikea invente le mariage sur internet - BFMTV...",
-            "snippet": "Le g\u00e9ant du meuble en kit organise, en Su\u00e8de, votre c\u00e9r\u00e9monie de mariage diffus\u00e9e sur Internet. Pour dire oui le jour J ou assurer une ultime r\u00e9p\u00e9tition avant la vraie c\u00e9r\u00e9monie?",
-            "date": "2015-04-18",
-            "author_name": "inconnu",
-            "categories": "internet",
-            "tags": "internet,bfmtv",
-            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/04/ikea-invente-le-mariage-sur-internet-bfmtv",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/mariez-vous-sur-internet-grace-a-ikea-878490.html"
-        },
-        "bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfmtv": {
-            "title": "Leclerc: \"nous allons investir des milliards sur Internet\" - BFMTV...",
+        "bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfm": {
+            "title": "Leclerc: \"nous allons investir des milliards sur Internet\" - BFM...",
             "snippet": "\"Demain nos enfants iront d'abord chercher les marques sur internet et une fois la marque trouv\u00e9e, ils regarderont o\u00f9 elle est. Donc, il faut construire un grand portail internet\", a expliqu\u00e9 Michel-Edouard Leclerc.",
             "date": "2015-04-15",
             "author_name": "inconnu",
             "categories": "internet",
-            "tags": "internet,bfmtv,enfants,o\u00f9,grand",
-            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfmtv",
-            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "tags": "internet,o\u00f9,milliards,grand",
+            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfm",
+            "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bfmbusiness.bfmtv.com/entreprise/leclerc-nous-allons-investir-des-milliards-sur-internet-877653.html"
         },
         "witroubtfransen.wordpress.com/2014/10/m%C3%AAme-sans-internet": {
@@ -83,7 +50,7 @@
             "date": "2014-10-12",
             "author_name": "witroubtfransen",
             "categories": "ordinateur,radio,internet",
-            "tags": "s\u00e9curit\u00e9,sans,internet,peut",
+            "tags": "peut,sans,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/witroubtfransen.wordpress.com/2014/10/m%C3%AAme-sans-internet",
             "resource_url": "http://fr.search.wordpress.com/?q=internet%2Binternet&f=feed&page=1",
             "source_url": "http://witroubtfransen.wordpress.com/2014/10/12/meme-sans-internet/"
