@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "protestantisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/protestantisme/",
@@ -10,65 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/protestantisme/protestantisme/blogs.json"
     },
     "items": {
-        "lyonpoleimmo.com/2015/02/lyon-5-inauguration-du-centre-de-loisirs-entraide-pierre-valdo": {
-            "title": "Lyon 5: inauguration du centre de loisirs Entraide Pierre Valdo...",
-            "snippet": "Cette inauguration se fera en pr\u00e9sence de Pierre Joxe, Ancien Ministre, Pr\u00e9sident de la Fondation du Protestantisme Fran\u00e7ais. Lassociation Entraide Pierre Valdo prend part au projet \u00e9ducatif et de lenfance de la Ville de Lyon, sa d\u00e9marche s...",
-            "date": "2015-02-25",
+        "lemonde.fr/2015/04/fa%C3%A7ons-de-mauvais-gar%C3%A7ons": {
+            "title": "Fa\u00e7ons de mauvais gar\u00e7ons...",
+            "snippet": "Cofondateur du groupe Taxi Girl, juif converti au protestantisme, il exhibait dragon, l\u00e9zard, t\u00eate de mort, et le logo de laffiche de LHomme au bras dor, un film dOtto Preminger, avec Frank Sinatra en junkie. Daniel Darc pratiquait les arts...",
+            "date": "2015-04-23",
+            "categories": "arts,mort,protestantisme",
+            "tags": "juif,protestantisme",
+            "recuweb_url": "http://fr.recuweb.com/protestantisme/lemonde.fr/2015/04/fa%C3%A7ons-de-mauvais-gar%C3%A7ons",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
+            "source_url": "http://lemonde.fr/culture/article/2015/04/23/facons-de-mauvais-garcons_4621591_3246.html"
+        },
+        "actuj.com/2015/04/elsa-charbit-l-identit%C3%A9-juive-fait-partie-de-h%C3%A9ritage-r%C3%A9publicain-actualit%C3%A9": {
+            "title": "Elsa Charbit: L'identit\u00e9 juive fait partie de l'h\u00e9ritage r\u00e9publicain de... - Actualit\u00e9 Juive...",
+            "snippet": "Actualit\u00e9 JuiveElsa Charbit: L'identit\u00e9 juive fait partie de l'h\u00e9ritage r\u00e9publicain de...Actualit\u00e9 JuiveE.C.: Ce juda\u00efsme de son grand-p\u00e8re fait partie de lui, tout comme le protestantisme de sa grand-m\u00e8re. Aussi, nous sommes retourn\u00e9s dans...",
+            "date": "2015-04-22",
             "categories": "protestantisme",
-            "tags": "protestantisme,ville",
-            "recuweb_url": "http://fr.recuweb.com/protestantisme/lyonpoleimmo.com/2015/02/lyon-5-inauguration-du-centre-de-loisirs-entraide-pierre-valdo",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
-            "source_url": "http://lyonpoleimmo.com/2015/02/25/36287/gerard-collomb-va-inaugurer-le-centre-de-loisirs-entraide-pierre-valdo/"
-        },
-        "liberation.fr/2015/02/et-si-on-changeait-le-calendrier-des-jours-f%C3%A9ri%C3%A9s": {
-            "title": "Et si on changeait le calendrier des jours f\u00e9ri\u00e9s?",
-            "snippet": "Cette ann\u00e9e, elle sera c\u00e9l\u00e9br\u00e9e le 18 juillet. La f\u00eate de la R\u00e9formation, f\u00eat\u00e9e le 31 octobre, comm\u00e9more un acte traditionnellement consid\u00e9r\u00e9 comme fondateur du protestantisme. En 1517, le moine Martin Luther affiche, sur les portes de...",
-            "date": "2015-02-23",
-            "categories": "protestantisme",
-            "tags": "martin,comme,jours,protestantisme",
-            "recuweb_url": "http://fr.recuweb.com/protestantisme/liberation.fr/2015/02/et-si-on-changeait-le-calendrier-des-jours-f%C3%A9ri%C3%A9s",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
-            "source_url": "http://liberation.fr/societe/2015/02/23/et-si-on-changeait-le-calendrier-des-jours-feries_1208345"
-        },
-        "lavoixdunord.fr/2015/02/boulonnais-apr%C3%A8s-les-attentats-le-protestants-pr%C3%B4nent-partage-dun-espace-commun": {
-            "title": "Boulonnais: apr\u00e8s les attentats, le protestants pr\u00f4nent le partage dun espace commun...",
-            "snippet": "Le ton, et sa libert\u00e9, est donn\u00e9. Pas de signes ext\u00e9rieurs tr\u00e8s visibles, plusieurs courants parfois peu connus, le protestantisme ne fait pas particuli\u00e8rement parler de lui, cest vrai. Comment les protestants ont-ils v\u00e9cu les attentats...",
-            "date": "2015-02-22",
-            "categories": "protestantisme",
-            "tags": "protestantisme",
-            "recuweb_url": "http://fr.recuweb.com/protestantisme/lavoixdunord.fr/2015/02/boulonnais-apr%C3%A8s-les-attentats-le-protestants-pr%C3%B4nent-partage-dun-espace-commun",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/boulonnais-apres-les-attentats-le-protestants-pronent-ia31b49030n2676011"
-        },
-        "lepaysdauge.fr/2015/02/lisieux-pratiquer-une-autre-religion-au-pays-de-th%C3%A9r%C3%A8se": {
-            "title": "Lisieux Pratiquer une autre religion au pays de Th\u00e9r\u00e8se...",
-            "snippet": "Dautres religions monoth\u00e9istes ont \u00e9galement fait leur nid comme lislam, lal\u00e9visme ou encore le protestantisme. Ces cultes poss\u00e8dent leurs propres traditions et leurs propres codes. Voici un aper\u00e7u. L\u00c9glise Protestante Unie de France...",
-            "date": "2015-02-19",
-            "categories": "tradition,religion,protestantisme",
-            "tags": "protestante,religions,comme,pays,protestantisme,france",
-            "recuweb_url": "http://fr.recuweb.com/protestantisme/lepaysdauge.fr/2015/02/lisieux-pratiquer-une-autre-religion-au-pays-de-th%C3%A9r%C3%A8se",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
-            "source_url": "http://lepaysdauge.fr/2015/02/19/pratiquer-une-autre-religion-au-pays-de-therese/"
-        },
-        "contrepoints.org/2015/02/car%C3%AAme-les-politiciens-ont-ils-oubli%C3%A9-quelque-chose": {
-            "title": "Car\u00eame: les politiciens ont-ils oubli\u00e9 quelque chose?",
-            "snippet": "Le car\u00eame passe par un temps de pri\u00e8re, et par un effort sur soi, qui peut prendre la forme du je\u00fbne. Le catholicisme et le protestantisme ne sont pas les seules religions qui connaissent de telles p\u00e9riodes de je\u00fbne. Lautre religion largement...",
-            "date": "2015-02-18",
-            "categories": "religion,catholicisme,protestantisme",
-            "tags": "religions,protestantisme",
-            "recuweb_url": "http://fr.recuweb.com/protestantisme/contrepoints.org/2015/02/car%C3%AAme-les-politiciens-ont-ils-oubli%C3%A9-quelque-chose",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
-            "source_url": "http://contrepoints.org/2015/02/19/198553-careme-les-politiciens-ont-ils-oublie-quelque-chose"
-        },
-        "royan-actu.com/2015/02/l-histoire-du-protestantisme-pass%C3%A9e-en-revue-royan-actu": {
-            "title": "L'histoire du protestantisme pass\u00e9e en revue - Royan Actu...",
-            "snippet": "L'histoire du protestantisme pass\u00e9e en revueRoyan ActuL'histoire du protestantisme en Pays royannais n'aura bient\u00f4t plus aucun secret pour vous! Le service Culture et Patrimoine de la Ville de Royan, bien aid\u00e9 par un \u00e9tudiant en stage, vient...",
-            "date": "2015-02-16",
-            "categories": "protestantisme,culture",
-            "tags": "histoire,protestantisme,pays,ville",
-            "recuweb_url": "http://fr.recuweb.com/culture/royan-actu.com/2015/02/l-histoire-du-protestantisme-pass%C3%A9e-en-revue-royan-actu",
+            "tags": "sommes,comme,elsa,protestantisme",
+            "recuweb_url": "http://fr.recuweb.com/protestantisme/actuj.com/2015/04/elsa-charbit-l-identit%C3%A9-juive-fait-partie-de-h%C3%A9ritage-r%C3%A9publicain-actualit%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=protestantisme&output=atom&nord=1",
-            "source_url": "http://royan-actu.com/lhistoire-du-protestantisme-passee-en-revue-13010"
+            "source_url": "http://actuj.com/2015-04/culture/1694-elsa-charbit-l-identite-juive-fait-partie-de-l-heritage-republicain-de-jean-louis-debre"
+        },
+        "la-croix.com/2015/04/elsa-bouneau-nouvelle-pr%C3%A9sidente-de-la-f%C3%A9d%C3%A9ration-du-scoutisme-fran%C3%A7ais": {
+            "title": "Elsa Bouneau nouvelle pr\u00e9sidente de la F\u00e9d\u00e9ration du scoutisme fran\u00e7ais...",
+            "snippet": "Elsa Bouneau, n\u00e9e le 1er octobre 1983, est directrice de la Fondation du protestantisme et pr\u00e9sidente des \u00c9claireurs et \u00c9claireuses unionistes de France. Dimanche 19 avril, la F\u00e9d\u00e9ration a accueilli en tant que membre associ\u00e9 Les \u00c9claireuses...",
+            "date": "2015-04-21",
+            "categories": "protestantisme",
+            "tags": "elsa,protestantisme",
+            "recuweb_url": "http://fr.recuweb.com/protestantisme/la-croix.com/2015/04/elsa-bouneau-nouvelle-pr%C3%A9sidente-de-la-f%C3%A9d%C3%A9ration-du-scoutisme-fran%C3%A7ais",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
+            "source_url": "http://la-croix.com/Urbi-et-Orbi/Actualite/Carnet/Elsa-Bouneau-nouvelle-presidente-de-la-Federation-du-scoutisme-francais-2015-04-21-1304756"
+        },
+        "lepoint.fr/2015/04/mark-alizart-pourquoi-nous-sommes-tous-un-peu-protestants": {
+            "title": "Mark Alizart - Pourquoi nous sommes tous (un peu) protestants...",
+            "snippet": "Laurence Perrillat/PUF Par Thomas Mahler On savait depuis L'\u00c9thique protestante et l'Esprit du capitalisme de Max Weber - l'une des oeuvres fondatrices de la sociologie - que le protestantisme et le capitalisme entretenaient des affinit\u00e9s...",
+            "date": "2015-04-15",
+            "categories": "capitalisme,sociologie,protestantisme",
+            "tags": "laurence,sommes,protestantisme",
+            "recuweb_url": "http://fr.recuweb.com/protestantisme/lepoint.fr/2015/04/mark-alizart-pourquoi-nous-sommes-tous-un-peu-protestants",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=protestantisme&format=RSS&cc=fr",
+            "source_url": "http://lepoint.fr/livres/mark-alizart-pourquoi-nous-sommes-tous-un-peu-protestants-15-04-2015-1921526_37.php"
         }
     }
 }
