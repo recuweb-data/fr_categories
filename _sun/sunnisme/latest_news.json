@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sunnisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sunnisme/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sunnisme/sunnisme/blogs.json"
     },
     "items": {
-        "zamanfrance.fr/2015/04/environ-400-migrants-auraient-p%C3%A9ri-dans-un-naufrage-en-m%C3%A9diterran%C3%A9e": {
-            "title": "Environ 400 migrants auraient p\u00e9ri dans un naufrage en M\u00e9diterran\u00e9e...",
-            "snippet": "Ma religion n'est pas le sunnisme mais l'islam Sauf qu'une semaine plus tard, Erdogan se rendait en Iran, accueilli chaleureusement par son homologue Hasan Rohani et de retour au pays, il confiait aux journalistes qui l'accompagnaient que la...",
-            "date": "2015-04-15",
-            "categories": "religion,sunnisme,islam",
-            "tags": "accompagnaient,confiait,confiait-aux-journa,journa,retour,retour-au-pays,pays,hasan,hasan_rohani,rohani,accueilli,accueilli-chaleureusement,chaleureusement,homologue,rendait,semaine,semaine-plus-tard,tard,religion,sunnisme,islam,sauf,erdogan,iran",
-            "recuweb_url": "http://fr.recuweb.com/islam/zamanfrance.fr/2015/04/environ-400-migrants-auraient-p%C3%A9ri-dans-un-naufrage-en-m%C3%A9diterran%C3%A9e",
+        "ladepeche.fr/2015/04/l-europe-veut-trouver-une-solution-contre-les-vagues-de-migrants": {
+            "title": "L'Europe veut trouver une solution contre les vagues de migrants -...",
+            "snippet": "'Europe veut trouver une solution contre les vagues de au chiite, le sunnisme n'a pas de clerg\u00e9 ni d'autorit\u00e9 religieuse hi\u00e9rarchis\u00e9e et c'est la m\u00eame chose sur le plan g\u00e9ostrat\u00e9gique, elle s'efforce (AS) donc de faire renter dans les rangs...",
+            "date": "2015-04-23",
+            "categories": "sunnisme",
+            "tags": "donc,donc-de-faire,m\u00eame,plan,plan-g\u00e9ostrat\u00e9gique,g\u00e9ostrat\u00e9gique,clerg\u00e9,contre,chiite,sunnisme",
+            "recuweb_url": "http://fr.recuweb.com/sunnisme/ladepeche.fr/2015/04/l-europe-veut-trouver-une-solution-contre-les-vagues-de-migrants",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sunnisme%2Bsunnisme&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/23/2092352-europe-veut-trouver-solution-contre-vagues-migrants.html"
+        },
+        "leral.net/2015/04/faites-attention-monsieur-le-pr%C3%A9sident-ce-n-est-pas-notre-guerre": {
+            "title": "Faites attention Monsieur le Pr\u00e9sident, ce n'est pas notre guerre...",
+            "snippet": "Loin de nous l'id\u00e9e de nous barricader dans des consid\u00e9rations de neutralit\u00e9 id\u00e9ologiques ou d'un absence de prises de positions entre le chiisme et le sunnisme. Cependant quand la G\u00e9opolitique et la G\u00e9ostrat\u00e9gie parlent, la prudence s'impose...",
+            "date": "2015-04-21",
+            "categories": "chiisme,sunnisme",
+            "tags": "guerre,attention,chiisme,sunnisme,cependant",
+            "recuweb_url": "http://fr.recuweb.com/sunnisme/leral.net/2015/04/faites-attention-monsieur-le-pr%C3%A9sident-ce-n-est-pas-notre-guerre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
-            "source_url": "http://zamanfrance.fr/article/environ-400-migrants-auraient-peri-dans-naufrage-en-mediterranee-15387.html"
+            "source_url": "http://leral.net/Faites-attention-Monsieur-le-President-ce-n-est-pas-notre-guerre_a142465.html"
+        },
+        "maghrebemergent.info/2015/04/y%C3%A9men-une-guerre-confessionnelle": {
+            "title": "Y\u00e9men, une guerre confessionnelle?",
+            "snippet": "Enfin, dans ses discours, Abdel Malek Al-Houthi d\u00e9signe comme son ennemi le parti Al-Islah en tant qu'entit\u00e9 politique sans jamais les associer au sunnisme. Ainsi, analyser la mont\u00e9e du mouvement Houthi comme entra\u00eenant un repositionnement...",
+            "date": "2015-04-19",
+            "categories": "politique,sunnisme",
+            "tags": "politique,guerre,sunnisme",
+            "recuweb_url": "http://fr.recuweb.com/sunnisme/maghrebemergent.info/2015/04/y%C3%A9men-une-guerre-confessionnelle",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
+            "source_url": "http://maghrebemergent.info/contributions/opinions/47191-yemen-une-guerre-confessionnelle.html"
+        },
+        "rtl.fr/2015/04/l-islam-a-aussi-sa-guerre-de-religions-d%C3%A9crypte-%C3%A9ric-zemmour": {
+            "title": "L'islam a aussi sa guerre de religions, d\u00e9crypte \u00c9ric Zemmour...",
+            "snippet": "Car le sunnisme n'a pas clerg\u00e9 (...) Et c'est la m\u00eame anarchie au plan g\u00e9ostrat\u00e9gique, affirme-t-il. Le pays essaye donc de faire rentrer dans le rang les Al-Qa\u00efda, \u00c9tat islamique, Boko Haram et autres califats islamiques. Pour lutter contre...",
+            "date": "2015-04-17",
+            "categories": "islam,religion,sunnisme",
+            "tags": "contre,donc,donc-de-faire,m\u00eame,plan,plan-g\u00e9ostrat\u00e9gique,g\u00e9ostrat\u00e9gique,clerg\u00e9,islam,guerre,sunnisme",
+            "recuweb_url": "http://fr.recuweb.com/sunnisme/rtl.fr/2015/04/l-islam-a-aussi-sa-guerre-de-religions-d%C3%A9crypte-%C3%A9ric-zemmour",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
+            "source_url": "http://rtl.fr/actu/international/l-islam-a-aussi-sa-guerre-de-religions-decrypte-eric-zemmour-7777382731"
+        },
+        "lefigaro.fr/2015/04/en-irak-un-homme-cr%C3%A9e-des-djihadistes-sur-de-vieilles-chaussures": {
+            "title": "En Irak, un homme cr\u00e9e des djihadistes sur de vieilles chaussures...",
+            "snippet": "le sunnisme et le chiisme. Si vous portez une chaussure longtemps, vous finissez par l'user, par d\u00e9former la semelle. Ce conflit fratricide et mill\u00e9naire a compl\u00e8tement d\u00e9form\u00e9 l'islam aujourd'hui. Non seulement \u00e9cologique, le geste...",
+            "date": "2015-04-17",
+            "categories": "islam,sunnisme,chiisme",
+            "tags": "islam,sunnisme,chiisme",
+            "recuweb_url": "http://fr.recuweb.com/chiisme/lefigaro.fr/2015/04/en-irak-un-homme-cr%C3%A9e-des-djihadistes-sur-de-vieilles-chaussures",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
+            "source_url": "http://lefigaro.fr/arts-expositions/2015/04/17/03015-20150417ARTFIG00076-en-irak-un-homme-cree-des-djihadistes-sur-de-vieilles-chaussures.php"
+        },
+        "cnrs.fr/2015/04/a-%C3%A9couter-les-diff%C3%A9rents-courants-de-l-islam": {
+            "title": "A \u00e9couter: Les diff\u00e9rents courants de l'Islam...",
+            "snippet": "Quels sont les diff\u00e9rents courants? \u00c0 quoi correspondent le sunnisme et le chiisme? Que signifie le djihadisme? Lijtihadisme? Trois chercheurs, Pierre Lory, Nabil Mouline et Marie-Laure Boursin, livrent leurs r\u00e9ponses sur la wikiradio du CNRS.",
+            "date": "2015-04-16",
+            "categories": "islam,sunnisme,chiisme",
+            "tags": "livrent,r\u00e9ponses,laure,laure_boursin,boursin,nabil,nabil_mouline,mouline,pierre,pierre_lory,lory,signifie,signifie-le-djihadisme,djihadisme,correspondent,diff\u00e9rents,diff\u00e9rents-courants,courants,islam,quels,sunnisme,chiisme,lijtihadisme,trois,chercheurs,marie",
+            "recuweb_url": "http://fr.recuweb.com/chiisme/cnrs.fr/2015/04/a-%C3%A9couter-les-diff%C3%A9rents-courants-de-l-islam",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
+            "source_url": "http://cnrs.fr/midi-pyrenees/CNRS-Hebdo/Actualites/19672/Suite.aspx"
+        },
+        "lejournal.cnrs.fr/2015/04/mieux-conna%C3%AEtre-lislam": {
+            "title": "Mieux conna\u00eetre lislam...",
+            "snippet": "Existe-t-il un islam ou des islams? Quels sont les diff\u00e9rents courants? \u00c0 quoi correspondent le sunnisme et le chiisme? Que signifie le djihadisme? Lijtihadisme? Trois chercheurs, Pierre Lory, Nabil Mouline et Marie-Laure Boursin, livrent leurs...",
+            "date": "2015-04-15",
+            "categories": "islam,sunnisme,chiisme",
+            "tags": "livrent,laure,laure_boursin,boursin,nabil,nabil_mouline,mouline,pierre,pierre_lory,lory,signifie,signifie-le-djihadisme,djihadisme,correspondent,diff\u00e9rents,diff\u00e9rents-courants,courants,existe,quels,sunnisme,chiisme,lijtihadisme,trois,chercheurs,marie",
+            "recuweb_url": "http://fr.recuweb.com/chiisme/lejournal.cnrs.fr/2015/04/mieux-conna%C3%AEtre-lislam",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
+            "source_url": "http://lejournal.cnrs.fr/audios/mieux-connaitre-lislam"
+        },
+        "liberation.fr/2015/04/nucl%C3%A9aire-l-iran-ne-n%C3%A9gocie-pas-avec-le-congr%C3%A8s-am%C3%A9ricain-dit": {
+            "title": "Nucl\u00e9aire: l'Iran ne n\u00e9gocie pas avec le Congr\u00e8s am\u00e9ricain, dit Rohani - Lib\u00e9ration...",
+            "snippet": "Lib\u00e9rationNucl\u00e9aire: l'Iran ne n\u00e9gocie pas avec le Congr\u00e8s am\u00e9ricain, dit RohaniLib\u00e9rationNotre objectif final n'est pas la domination de l'Iran sur la r\u00e9gion (ou) la domination du chiisme sur le sunnisme. Pour nous il n'y a pas de...",
+            "date": "2015-04-15",
+            "categories": "chiisme,sunnisme",
+            "tags": "domination,r\u00e9gion,objectif,objectif-final,final,n\u00e9gocie,nucl\u00e9aire,iran,congr\u00e8s,am\u00e9ricain,dit,rohani,chiisme,sunnisme",
+            "recuweb_url": "http://fr.recuweb.com/sunnisme/liberation.fr/2015/04/nucl%C3%A9aire-l-iran-ne-n%C3%A9gocie-pas-avec-le-congr%C3%A8s-am%C3%A9ricain-dit",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sunnisme%2Bsunnisme&output=atom&nord=1",
+            "source_url": "http://liberation.fr/monde/2015/04/15/nucleaire-l-iran-negocie-avec-les-51-pas-avec-le-congres-americain_1241801"
         },
         "actu.orange.fr/2015/04/nucl%C3%A9aire-l-iran-n%C3%A9gocie-avec-les-5-1-pas-le-congr%C3%A8s": {
             "title": "Nucl\u00e9aire: l'Iran n\u00e9gocie avec les 5 1, pas avec le Congr\u00e8s am\u00e9ricain...",
             "snippet": "Notre objectif final n'est pas la domination de l'Iran sur la r\u00e9gion (ou) la domination du chiisme sur le sunnisme. Pour nous il n'y a pas de diff\u00e9rence entre chiites et sunnites, Turcs, Arabes ou Baloutches. T\u00e9h\u00e9ran est accus\u00e9 par les...",
             "date": "2015-04-15",
             "categories": "chiisme,sunnisme",
-            "tags": "diff\u00e9rence,domination,r\u00e9gion,objectif,objectif-final,final,n\u00e9gocie,nucl\u00e9aire,iran,congr\u00e8s,am\u00e9ricain,chiisme,sunnisme,chiites,sunnites",
+            "tags": "accus\u00e9,diff\u00e9rence,domination,r\u00e9gion,objectif,objectif-final,final,n\u00e9gocie,nucl\u00e9aire,iran,congr\u00e8s,am\u00e9ricain,chiisme,sunnisme,chiites,sunnites,turcs,arabes,baloutches,t\u00e9h\u00e9ran",
             "recuweb_url": "http://fr.recuweb.com/sunnisme/actu.orange.fr/2015/04/nucl%C3%A9aire-l-iran-n%C3%A9gocie-avec-les-5-1-pas-le-congr%C3%A8s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
             "source_url": "http://actu.orange.fr/monde/nucleaire-l-iran-negocie-avec-les-5-1-pas-avec-le-congres-americain-afp_CNT00000096eev.html"
         },
-        "liberation.fr/2015/04/nucl%C3%A9aire-l-iran-n%C3%A9gocie-avec-les-5-1-pas-le-congr%C3%A8s": {
-            "title": "Nucl\u00e9aire: l'Iran n\u00e9gocie avec les 5 1, pas avec le Congr\u00e8s am\u00e9ricain - Lib\u00e9ration...",
-            "snippet": "Lib\u00e9rationNucl\u00e9aire: l'Iran n\u00e9gocie avec les 5 1, pas avec le Congr\u00e8s am\u00e9ricainLib\u00e9rationNotre objectif final n'est pas la domination de l'Iran sur la r\u00e9gion (ou) la domination du chiisme sur le sunnisme. Pour nous il n'y a pas de diff\u00e9rence...",
+        "fr.euronews.com/2015/04/nucl%C3%A9aire-liran-ne-n%C3%A9gocie-pas-avec-le-congr%C3%A8s-am%C3%A9ricain-dit-rohani": {
+            "title": "Nucl\u00e9aire: lIran ne n\u00e9gocie pas avec le Congr\u00e8s am\u00e9ricain, dit Rohani...",
+            "snippet": "Notre objectif final nest pas la domination de lIran sur la r\u00e9gion (ou) la domination du chiisme sur le sunnisme. Pour nous il ny a pas de diff\u00e9rence entre chiites et sunnites, Turcs, Arabes ou Baloutches. T\u00e9h\u00e9ran est accus\u00e9 par les...",
             "date": "2015-04-15",
             "categories": "chiisme,sunnisme",
-            "tags": "diff\u00e9rence,domination,r\u00e9gion,objectif,objectif-final,final,n\u00e9gocie,nucl\u00e9aire,iran,congr\u00e8s,am\u00e9ricain,chiisme,sunnisme",
-            "recuweb_url": "http://fr.recuweb.com/sunnisme/liberation.fr/2015/04/nucl%C3%A9aire-l-iran-n%C3%A9gocie-avec-les-5-1-pas-le-congr%C3%A8s",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sunnisme&output=atom&nord=1",
-            "source_url": "http://liberation.fr/monde/2015/04/15/nucleaire-l-iran-negocie-avec-les-51-pas-avec-le-congres-americain_1241801"
-        },
-        "zamanfrance.fr/2015/04/obama-pr%C3%A9voit-d-%C3%B4ter-cuba-de-la-liste-des-etats-pro": {
-            "title": "Obama pr\u00e9voit d'\u00f4ter Cuba de la liste des Etats pro-terrorisme - Zaman...",
-            "snippet": "ZamanObama pr\u00e9voit d'\u00f4ter Cuba de la liste des Etats pro-terrorismeZamanMa religion n'est pas le sunnisme mais l'islam. Sauf qu'une semaine plus tard, Erdogan se rendait en Iran, accueilli chaleureusement par son homologue Hasan Rohani et de...",
-            "date": "2015-04-15",
-            "categories": "religion,sunnisme,islam",
-            "tags": "hasan,hasan_rohani,rohani,accueilli,accueilli-chaleureusement,chaleureusement,homologue,rendait,semaine,semaine-plus-tard,tard,religion,zaman,sunnisme,islam,sauf,erdogan,iran",
-            "recuweb_url": "http://fr.recuweb.com/islam/zamanfrance.fr/2015/04/obama-pr%C3%A9voit-d-%C3%B4ter-cuba-de-la-liste-des-etats-pro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sunnisme&output=atom&nord=1",
-            "source_url": "http://zamanfrance.fr/article/obama-prevoit-doter-cuba-liste-etats-pro-terrorisme-15388.html"
-        },
-        "zamanfrance.fr/2015/04/ankara-change-son-fusil-d-%C3%A9paule-au-moyen-orient": {
-            "title": "Ankara change son fusil d'\u00e9paule au Moyen-Orient...",
-            "snippet": "Ma religion n'est pas le sunnisme mais l'islam Sauf qu'une semaine plus tard, Erdogan se rendait en Iran, accueilli chaleureusement par son homologue Hasan Rohani et de retour au pays, il confiait aux journalistes qui l'accompagnaient que la...",
-            "date": "2015-04-14",
-            "categories": "religion,sunnisme,islam",
-            "tags": "accompagnaient,confiait,confiait-aux-journa,journa,retour,retour-au-pays,pays,hasan,hasan_rohani,rohani,accueilli,accueilli-chaleureusement,chaleureusement,homologue,rendait,semaine,semaine-plus-tard,tard,religion,moyen,orient,sunnisme,islam,sauf,erdogan,iran",
-            "recuweb_url": "http://fr.recuweb.com/islam/zamanfrance.fr/2015/04/ankara-change-son-fusil-d-%C3%A9paule-au-moyen-orient",
+            "tags": "accus\u00e9,diff\u00e9rence,domination,r\u00e9gion,objectif,objectif-final,final,n\u00e9gocie,nucl\u00e9aire,congr\u00e8s,am\u00e9ricain,dit,rohani,chiisme,sunnisme,chiites,sunnites,turcs,arabes,baloutches,t\u00e9h\u00e9ran",
+            "recuweb_url": "http://fr.recuweb.com/sunnisme/fr.euronews.com/2015/04/nucl%C3%A9aire-liran-ne-n%C3%A9gocie-pas-avec-le-congr%C3%A8s-am%C3%A9ricain-dit-rohani",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
-            "source_url": "http://zamanfrance.fr/article/ankara-change-fusil-depaule-moyen-orient-15382.html"
-        },
-        "zamanfrance.fr/2015/04/la-turquie-et-russie-des-relations-bilat%C3%A9rales-entre-mythe-r%C3%A9alit%C3%A9-zaman": {
-            "title": "La Turquie et la Russie: des relations bilat\u00e9rales entre mythe et r\u00e9alit\u00e9 - Zaman...",
-            "snippet": "ZamanLa Turquie et la Russie: des relations bilat\u00e9rales entre mythe et r\u00e9alit\u00e9ZamanMa religion n'est pas le sunnisme mais l'islam. Sauf qu'une semaine plus tard, Erdogan se rendait en Iran, accueilli chaleureusement par son homologue Hasan Rohani...",
-            "date": "2015-04-14",
-            "categories": "religion,sunnisme,islam",
-            "tags": "hasan,hasan_rohani,rohani,accueilli,accueilli-chaleureusement,chaleureusement,homologue,rendait,semaine,semaine-plus-tard,tard,religion,zaman,sunnisme,islam,sauf,erdogan,iran",
-            "recuweb_url": "http://fr.recuweb.com/islam/zamanfrance.fr/2015/04/la-turquie-et-russie-des-relations-bilat%C3%A9rales-entre-mythe-r%C3%A9alit%C3%A9-zaman",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sunnisme&output=atom&nord=1",
-            "source_url": "http://zamanfrance.fr/article/turquie-russie-relations-bilaterales-entre-mythe-realite-15385.html"
-        },
-        "lejournal.cnrs.fr/2015/04/mieux-conna%C3%AEtre-lislam": {
-            "title": "Mieux conna\u00eetre lislam...",
-            "snippet": "Existe-t-il un islam ou des islams? Quels sont les diff\u00e9rents courants? \u00c0 quoi correspondent le sunnisme et le chiisme? Que signifie le djihadisme? Lijtihadisme? Trois chercheurs, Pierre Lory, Nabil Mouline et Marie-Laure Boursin, livrent leurs...",
-            "date": "2015-04-14",
-            "categories": "islam,sunnisme,chiisme",
-            "tags": "courants,lislam,existe,sunnisme,chiisme",
-            "recuweb_url": "http://fr.recuweb.com/chiisme/lejournal.cnrs.fr/2015/04/mieux-conna%C3%AEtre-lislam",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
-            "source_url": "http://lejournal.cnrs.fr/audios/mieux-connaitre-lislam"
-        },
-        "trt.net.tr/2015/04/erdogan-les-confessions-ont-bris%C3%A9-en-morceau-le-monde-islamique": {
-            "title": "Erdogan: Les confessions ont bris\u00e9 en morceau le monde islamique...",
-            "snippet": "Nous n'avons pas de religion nomm\u00e9e sunnisme, nous n'avons pas de religion nomm\u00e9e chiisme, notre seule religion est l'Islam. Mais malheureusement nous avons des ennuis avec ceux qui ont pris leur confession pour une religion a affirm\u00e9 Erdogan qui...",
-            "date": "2015-04-12",
-            "categories": "religion,sunnisme,chiisme,islam",
-            "tags": "avons,religion,erdogan,sunnisme,chiisme,islam",
-            "recuweb_url": "http://fr.recuweb.com/islam/trt.net.tr/2015/04/erdogan-les-confessions-ont-bris%C3%A9-en-morceau-le-monde-islamique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
-            "source_url": "http://trt.net.tr/francais/turquie/2015/04/12/erdogan-les-confessions-ont-bris\u00e9-en-morceau-le-monde-islamique-204830"
-        },
-        "rue89.nouvelobs.com/2015/04/non-tous-les-houthis-du-y%C3%A9men-ne-sont-pas-chiites": {
-            "title": "Non, tous les Houthis du Y\u00e9men ne sont pas chiites (et autres erreurs)...",
-            "snippet": "Arab News Blog donne davantage de contexte, sur la proximit\u00e9 du za\u00efdisme et du sunnisme. Ils sont appel\u00e9s en anglais les Fivers (cinq) parce quils reconnaissent les quatre premiers imams reconnus par les duod\u00e9cimains et les Isma\u00e9liens...",
-            "date": "2015-04-11",
-            "categories": "sunnisme",
-            "tags": "y\u00e9men,chiites,sunnisme",
-            "recuweb_url": "http://fr.recuweb.com/sunnisme/rue89.nouvelobs.com/2015/04/non-tous-les-houthis-du-y%C3%A9men-ne-sont-pas-chiites",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
-            "source_url": "http://rue89.nouvelobs.com/2015/04/11/non-tous-les-houthis-yemen-sont-chiites-autres-erreurs-258615"
-        },
-        "leprogres.fr/2015/04/o%C3%B9-se-trouvent-essentiellement-les-chiites": {
-            "title": "O\u00f9 se trouvent essentiellement les chiites?",
-            "snippet": "Le conflit au Y\u00e9men met en lumi\u00e8re la fracture au sein de lislam entre les deux courants majeurs: le sunnisme et le chiisme. Les deux pays phares du Moyen-Orient traduisent cette opposition: lIran, o\u00f9 le chiisme est religion d\u00c9tat...",
-            "date": "2015-04-04",
-            "categories": "religion,sunnisme,chiisme",
-            "tags": "religion,pays,lislam,courants,chiites,y\u00e9men,sunnisme,chiisme,moyen,orient",
-            "recuweb_url": "http://fr.recuweb.com/chiisme/leprogres.fr/2015/04/o%C3%B9-se-trouvent-essentiellement-les-chiites",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sunnisme&format=RSS&cc=fr",
-            "source_url": "http://leprogres.fr/france-monde/2015/04/05/ou-se-trouvent-essentiellement-les-chiites"
+            "source_url": "http://fr.euronews.com/depeches/3005952-nucleaire-liran-negocie-avec-les-51-pas-avec-le-congres-americain/"
         }
     }
 }
