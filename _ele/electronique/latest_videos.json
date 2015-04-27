@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "electronique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/electronique/",
@@ -16,7 +17,7 @@
             "date": "2015-03-30",
             "author_name": "rtl-fr",
             "categories": "electronique,humour",
-            "tags": "cigarette-\u00e9lectronique,frtags",
+            "tags": "cigarette-\u00e9lectronique,\u00e9lectroniques,frtags",
             "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2015/03/les-grosses-t%C3%ABtes-et-leurs-cigarettes-%C3%A9lectroniques",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique+electronique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2l5rj7_les-grosses-tetes-et-leurs-cigarettes-electroniques_news",
@@ -28,11 +29,23 @@
             "date": "2015-03-22",
             "author_name": "Letelegramme",
             "categories": "electronique",
-            "tags": "\u00e9lectronique",
+            "tags": "\u00e9lectronique,france",
             "recuweb_url": "http://fr.recuweb.com/electronique/dailymotion.com/2015/03/d%C3%A9partementales-ploemeur-vote-%C3%A9lectronique",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique+electronique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ka135_departementales-ploemeur-vote-electronique_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ka135_departementales-ploemeur-vote-electronique_news"
+        },
+        "youtube.com/2015/03/la-cigarette-%C3%A9lectronique-dans-rue": {
+            "title": "La cigarette \u00e9lectronique dans la rue!",
+            "snippet": "La cigarette \u00e9lectronique dans la rue! Les vapoteurs ont r\u00e9pondu pr\u00e9sents \u00e0 l'invitation du corps m\u00e9dical pour manifester contre le projet de loi de Marisol Touraine et principalement contre l'article 53 loi qui donne autorisati... From: La...",
+            "date": "2015-03-15",
+            "author_name": "La Chaine de la Vape",
+            "categories": "electronique",
+            "tags": "loi,projet,projet-de-loi,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2015/03/la-cigarette-%C3%A9lectronique-dans-rue",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=i_jkYU_D0wY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/i_jkYU_D0wY/0.jpg"
         },
         "youtube.com/2015/02/comment-faire-beaucoup-de-vapeur-avec-sa-cigarette-%C3%A9lectronique": {
             "title": "Comment faire beaucoup de vapeur avec sa cigarette \u00e9lectronique...",
@@ -40,11 +53,23 @@
             "date": "2015-02-25",
             "author_name": "Insdigbord Vape",
             "categories": "electronique",
-            "tags": "beaucoup,hui,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,aujourd",
+            "tags": "hui,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,aujourd",
             "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2015/02/comment-faire-beaucoup-de-vapeur-avec-sa-cigarette-%C3%A9lectronique",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=fkzuuHTR0s4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/fkzuuHTR0s4/0.jpg"
+        },
+        "youtube.com/2015/02/contr%C3%B4le-technique-les-liseuses-%C3%A9lectroniques": {
+            "title": "Contr\u00f4le technique: les liseuses \u00e9lectroniques...",
+            "snippet": "Contr\u00f4le technique: les liseuses \u00e9lectroniques Si les versions num\u00e9riques des livres repr\u00e9sentent moins de 5% des ventes en France, il s'est tout de m\u00eame vendu 6 500 000 de liseuses en 2013. Un chiffre qui augmente lentement mais surement...",
+            "date": "2015-02-23",
+            "author_name": "On n'est plus des pigeons !",
+            "categories": "electronique",
+            "tags": "\u00e9lectroniques,france",
+            "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2015/02/contr%C3%B4le-technique-les-liseuses-%C3%A9lectroniques",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=glDHIcEqvrg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/glDHIcEqvrg/0.jpg"
         },
         "dailymotion.com/2015/01/la-cigarette-%C3%A9lectronique-n-est-pas-dangereuse": {
             "title": "La cigarette \u00e9lectronique n'est pas dangereuse du tout...",
@@ -52,23 +77,11 @@
             "date": "2015-01-02",
             "author_name": "Europe1fr",
             "categories": "electronique",
-            "tags": "fumer,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,dangereuse,retrouvez,europe,frtags",
+            "tags": "fumer,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,retrouvez,europe,frtags",
             "recuweb_url": "http://fr.recuweb.com/electronique/dailymotion.com/2015/01/la-cigarette-%C3%A9lectronique-n-est-pas-dangereuse",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique+electronique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2dvf4v_la-cigarette-electronique-n-est-pas-dangereuse-du-tout_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2dvf4v_la-cigarette-electronique-n-est-pas-dangereuse-du-tout_news"
-        },
-        "youtube.com/2014/11/qu%C3%A9bec-dans-les-coulisses-de-la-cigarette-%C3%A9lectronique": {
-            "title": "Qu\u00e9bec, dans les coulisses de la cigarette \u00e9lectronique...",
-            "snippet": "Qu\u00e9bec, dans les coulisses de la cigarette \u00e9lectronique Notre \u00e9quipe a voulu en savoir plus sur ce produit qui pourrait bien \u00eatre le futur des substituts nicotiniques, la cigarette \u00e9lectronique. Nous vous pr\u00e9sentons les coulisses de ce...",
-            "date": "2014-11-27",
-            "author_name": "mtl-mix.com",
-            "categories": "electronique",
-            "tags": "cigarette,cigarette-\u00e9lectronique,\u00e9lectronique",
-            "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2014/11/qu%C3%A9bec-dans-les-coulisses-de-la-cigarette-%C3%A9lectronique",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=YCUPnpWCgRg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/YCUPnpWCgRg/0.jpg"
         },
         "youtube.com/2014/10/le-livre-ouvert-liseuse-%C3%A9lectronique-kobo-aura": {
             "title": "Le Livre Ouvert Liseuse \u00e9lectronique Kobo Aura...",
@@ -78,7 +91,7 @@
             "categories": "electronique",
             "tags": "\u00e9lectronique,retrouvez",
             "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2014/10/le-livre-ouvert-liseuse-%C3%A9lectronique-kobo-aura",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=kThnb4rmm_0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kThnb4rmm_0/0.jpg"
         },
@@ -88,23 +101,23 @@
             "date": "2014-10-15",
             "author_name": "Europe1fr",
             "categories": "electronique",
-            "tags": "europe,fumer,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,sant\u00e9,frtags",
+            "tags": "europe,fumer,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,projet,projet-de-loi,loi,frtags",
             "recuweb_url": "http://fr.recuweb.com/electronique/dailymotion.com/2014/10/les-interdictions-de-la-cigarette-%C3%A9lectronique",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique/0?af=1",
             "source_url": "http://dailymotion.com/video/x27z2z4_les-interdictions-de-la-cigarette-electronique_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x27z2z4_les-interdictions-de-la-cigarette-electronique_news"
         },
-        "youtube.com/2014/09/meilleur-cigarette-electronique-kit-complet-que-choisir": {
-            "title": "Meilleur cigarette electronique kit complet que choisir...",
-            "snippet": "Meilleur cigarette electronique kit complet que choisir Meilleur cigarette electronique kit complet et quelle cigarette electronique choisir De plus en plus de... From: raouf nounou Views: 2245 29 ratings Time: 06:45 More in Howto & Style...",
-            "date": "2014-09-25",
-            "author_name": "raouf nounou",
+        "youtube.com/2014/10/roland-td-1kv-pr%C3%A9sentation-de-la-batterie-%C3%A9lectronique": {
+            "title": "ROLAND TD-1KV - pr\u00e9sentation de la batterie \u00e9lectronique...",
+            "snippet": "ROLAND TD-1KV - pr\u00e9sentation de la batterie \u00e9lectronique Batterie \u00e9lectronique ROLAND TD-1KV, disponible chez Star's Music. Infos & stock sur le site Star's Music: PACK:... From: Star's Music Views: 9552 28 ratings Time: 04:20 More in Music...",
+            "date": "2014-10-06",
+            "author_name": "Star's Music",
             "categories": "electronique",
-            "tags": "cigarette,cigarette-electronique,electronique,quelle,meilleur",
-            "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2014/09/meilleur-cigarette-electronique-kit-complet-que-choisir",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=IaXcuIhaTIQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/IaXcuIhaTIQ/0.jpg"
+            "tags": "\u00e9lectronique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2014/10/roland-td-1kv-pr%C3%A9sentation-de-la-batterie-%C3%A9lectronique",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=KQtieV_Pa5w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/KQtieV_Pa5w/0.jpg"
         },
         "youtube.com/2014/09/comparatif-cigarette-electronique-haut-de-gamme-ou-jetable": {
             "title": "comparatif cigarette electronique haut de gamme ou jetable...",
@@ -112,23 +125,11 @@
             "date": "2014-09-05",
             "author_name": "raouf nounou",
             "categories": "electronique",
-            "tags": "hui,cigarette,meilleur,cigarette-\u00e9lectronique,cigarette-electronique,\u00e9lectronique,electronique,aujourd,quelle",
+            "tags": "hui,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,aujourd",
             "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2014/09/comparatif-cigarette-electronique-haut-de-gamme-ou-jetable",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=XJtZENeTmnc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XJtZENeTmnc/0.jpg"
-        },
-        "youtube.com/2014/09/la-cigarette-%C3%A9lectronique-est-elle-dangereuse-pour-sant%C3%A9": {
-            "title": "la cigarette \u00e9lectronique est elle dangereuse pour la sant\u00e9...",
-            "snippet": "la cigarette \u00e9lectronique est elle dangereuse pour la sant\u00e9 la cigarette \u00e9lectronique est elle dangereuse pour la sant\u00e9 Le syndrome du c\u00f4lon irritable est un trouble tr\u00e8s fr\u00e9quent que beaucoup de gens partout dans le monde souffrent. Parce...",
-            "date": "2014-09-04",
-            "author_name": "raouf nounou",
-            "categories": "electronique",
-            "tags": "beaucoup,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,dangereuse,sant\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/electronique/youtube.com/2014/09/la-cigarette-%C3%A9lectronique-est-elle-dangereuse-pour-sant%C3%A9",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=GCgMaviYH-c&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/GCgMaviYH-c/0.jpg"
         }
     }
 }
