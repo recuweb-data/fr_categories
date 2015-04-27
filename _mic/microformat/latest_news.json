@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microformat",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microformat/",
@@ -10,38 +11,39 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
     },
     "items": {
-        "programmableweb.com/2015/03/aylien-to-offer-hybrid-text-and-image-analysis-service-programmableweb": {
-            "title": "AYLIEN to Offer Hybrid Text and Image Analysis Service - ProgrammableWeb...",
-            "snippet": "ProgrammableWebAYLIEN to Offer Hybrid Text and Image Analysis ServiceProgrammableWebAYLIEN also recently added two new API endpoints; unsupervised classification and microformats extraction. The unsupervised classification endpoint can categorize...",
-            "date": "2015-03-15",
-            "categories": "microformat",
-            "tags": "microformats",
-            "recuweb_url": "http://fr.recuweb.com/microformat/programmableweb.com/2015/03/aylien-to-offer-hybrid-text-and-image-analysis-service-programmableweb",
+        "webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews": {
+            "title": "Bing: New Image Search Means More Traffic For You - WebProNews...",
+            "snippet": "WebProNewsBing: New Image Search Means More Traffic For YouWebProNewsBing says to use and OpenGraph, but notes that Microdata, Microformats, and RDFa are also supported. When Bing crawlers fetch your page content, these schemas are utilized to...",
+            "date": "2015-04-10",
+            "categories": "bing,microformat",
+            "tags": "are,your,use,search,microformats,rdfa",
+            "recuweb_url": "http://fr.recuweb.com/microformat/webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://programmableweb.com/news/aylien-to-offer-hybrid-text-and-image-analysis-service/2015/03/15"
+            "source_url": "http://webpronews.com/bing-new-image-search-means-more-traffic-for-you-2015-04"
         },
-        "networkworld.com/2015/03/7-hot-career-related-companies-to-watch-network-world": {
-            "title": "7 Hot Career-related Companies to Watch - Network World...",
-            "snippet": "Network World7 Hot Career-related Companies to WatchNetwork WorldWe now have a request from one bank to provide a SaaS solution based on the effectiveness of the micro-format courses, the Coursmos spokeswoman writes. Coursmos now has a total of in...",
-            "date": "2015-03-12",
-            "tags": "format,micro",
-            "recuweb_url": "http://fr.recuweb.com/networkworld.com/2015/03/7-hot-career-related-companies-to-watch-network-world",
+        "turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn": {
+            "title": "MacBook 2015: Alle Infos zum Release und erste Tests - TURN ON...",
+            "snippet": "TURN ONMacBook 2015: Alle Infos zum Release und erste TestsTURN ONNeben dem kombinierten Audio-Port verf\u00fcgt der Flachmann lediglich \u00fcber einen USB-C-Anschluss im Micro-Format wof\u00fcr Apple-Nutzer aber keine passende Peripherie haben, weshalb...",
+            "date": "2015-04-10",
+            "categories": "macbook",
+            "tags": "micro,format",
+            "recuweb_url": "http://fr.recuweb.com/macbook/turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://networkworld.com/article/2895817/careers/7-hot-career-related-companies-to-watch.html"
+            "source_url": "http://turn-on.de/news/macbook-2015-alle-infos-zum-release-und-erste-tests-22078"
         },
         "abondance.com/2014/06/faut-il-int%C3%A9grer-les-balises-s%C3%A9mantiques-dans-ses-pages-abondance": {
             "title": "Faut-il int\u00e9grer les balises s\u00e9mantiques dans ses pages? - Abondance...",
             "snippet": "AbondanceFaut-il int\u00e9grer les balises s\u00e9mantiques dans ses pages?AbondanceLes balises, format introduit par les 3 moteurs majeurs en 2011, pour unifier les diff\u00e9rents standards existants jusqu'alors (microdonn\u00e9es, RDFa, microformats). On...",
             "date": "2014-06-27",
             "categories": "microformat",
-            "tags": "format,microformats",
+            "tags": "format,rdfa,microformats",
             "recuweb_url": "http://fr.recuweb.com/microformat/abondance.com/2014/06/faut-il-int%C3%A9grer-les-balises-s%C3%A9mantiques-dans-ses-pages-abondance",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
             "source_url": "http://abondance.com/actualites/20140627-14046-faut-il-integrer-les-balises-semantiques-schema-org-ses-pages.html"
         },
         "crn.de/2014/06/vollwertige-pcs-im-micro-format": {
             "title": "Vollwertige PCs im Micro-Format -...",
-            "snippet": "Vollwertige PCs im erweitert die PC-Produktpalette um die kompakten Terra MicroPC-Modelle, die auf Intels NUC-Technologie basieren. (Foto: Wortmann). Die Wortmann AG hat ihr PC-Portfolio im Micro-Bereich abgerundet. Ab sofort sind die neuen Modelle...",
+            "snippet": "Vollwertige PCs im MiniPCs mit NUC_Plattform: Vollwertige PCs im Micro-Format. von Dr. Michaela Wurm.. Wortmann erweitert die PC-Produktpalette um die kompakten Terra MicroPC-Modelle, die auf Intels NUC-Technologie basieren.",
             "date": "2014-06-25",
             "categories": "technologie",
             "tags": "micro,format",
@@ -54,7 +56,7 @@
             "snippet": "4 Easy-to-Use Microformat Tools to Beef Up Your SiteSitePointThe two most widely used microformats are the hCard and hCalendar microformats, each modeled after the preexisting vCard and vCalendar specifications, respectively. vCard files and thus...",
             "date": "2008-12-09",
             "categories": "microformat",
-            "tags": "microformats,hcard",
+            "tags": "are,your,use,microformats,hcard",
             "recuweb_url": "http://fr.recuweb.com/microformat/sitepoint.com/2008/12/4-easy-to-use-microformat-tools-beef-up-your-site-sitepoint",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat&output=atom&nord=1",
             "source_url": "http://sitepoint.com/4-easy-to-use-microformat-tools-to-beef-up-your-site/"
@@ -64,7 +66,7 @@
             "snippet": "The hCard Microformat & Local Search OptimizationSearch Engine Land (blog)Last year in a blog post on tips for local SEO, I recommended using the hCard microformat as a component of local search engine optimization. I believe I was first to...",
             "date": "2007-10-17",
             "categories": "microformat",
-            "tags": "hcard",
+            "tags": "search,hcard",
             "recuweb_url": "http://fr.recuweb.com/microformat/searchengineland.com/2007/10/the-hcard-microformat-&-local-search-optimization-engine-land-blog",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
             "source_url": "http://searchengineland.com/the-hcard-microformat-local-search-optimization-12424"
