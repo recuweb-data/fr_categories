@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "christianisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/christianisme/",
@@ -10,54 +11,94 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/christianisme/christianisme/blogs.json"
     },
     "items": {
-        "toutelatele.com/2015/04/j%C3%A9sus-histoire-d-un-homme": {
-            "title": "J\u00e9sus: histoire d'un homme...",
-            "snippet": "\u00c0 la fin de ses recherches historiques sur la mont\u00e9e du christianisme, l'historien Michael Scott examine comment cette force politique et religieuse s'est tiss\u00e9e de fa\u00e7on permanente au sein de l'Empire romain. Apr\u00e8s pr\u00e8s de trois si\u00e8cles...",
-            "date": "2015-04-06",
-            "categories": "politique,christianisme,empire",
-            "tags": "j\u00e9sus,histoire,christianisme",
-            "recuweb_url": "http://fr.recuweb.com/empire/toutelatele.com/2015/04/j%C3%A9sus-histoire-d-un-homme",
+        "lefigaro.fr/2015/04/pascal-bruckner-les-nouveaux-programmes-d-histoire-ou-l-effacement": {
+            "title": "Pascal Bruckner: les nouveaux programmes d'histoire ou l'effacement de la France...",
+            "snippet": "Dans les nouveaux programmes d'histoire la chronologie est abandonn\u00e9e, l'enseignement de l'islam est obligatoire tandis que le christianisme m\u00e9di\u00e9val et les Lumi\u00e8res sont optionnelles. Qu'en pensez-vous? Sans chronologie, l'histoire n'a pas de...",
+            "date": "2015-04-26",
+            "categories": "islam,christianisme",
+            "tags": "m\u00e9di\u00e9val,obligatoire,nouveaux,programmes,histoire,france,islam,christianisme",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/lefigaro.fr/2015/04/pascal-bruckner-les-nouveaux-programmes-d-histoire-ou-l-effacement",
             "resource_url": "http://www.bing.com/news/search?first=1&q=christianisme&format=RSS&cc=fr",
-            "source_url": "http://toutelatele.com/progTv/fiche.php?id=1106191&date=2015-04-06"
+            "source_url": "http://lefigaro.fr/vox/societe/2015/04/25/31003-20150425ARTFIG00143-pascal-bruckner-les-nouveaux-programmes-d-histoire-ou-l-effacement-de-la-france.php"
         },
-        "franceinter.fr/2015/04/la-marche-del-histoire": {
-            "title": "La marche del'histoire...",
-            "snippet": "il est rest\u00e9 sur le bord du chemin du christianisme, son pr\u00e9nom qui \u00e9tait des plus usit\u00e9s a disparu, son image a renforc\u00e9 lhostilit\u00e9 aux juifs et accessoirement,aux roux, car il est pr\u00e9sent\u00e9 comme roux. En r\u00e9alit\u00e9, les \u00e9pitres de Paul...",
-            "date": "2015-04-06",
-            "categories": "christianisme",
-            "tags": "comme,histoire,christianisme,paul",
-            "recuweb_url": "http://fr.recuweb.com/christianisme/franceinter.fr/2015/04/la-marche-del-histoire",
+        "lejsl.com/2015/04/chalon-sur-sa%C3%B4ne-la-religion-face-aux-lyc%C3%A9ens": {
+            "title": "Chalon-sur-Sa\u00f4ne La religion face aux lyc\u00e9ens...",
+            "snippet": "Parler librement de lislam et du christianisme, comprendre chaque religion, d\u00e9couvrir quelques fondements avec les religieux, voici ce que voulaient les lyc\u00e9ens du club Solidarit\u00e9 dHilaire-de-Chardonnet. Avec Open caf\u00e9, cette rencontre a pu...",
+            "date": "2015-04-25",
+            "categories": "religion,christianisme",
+            "tags": "quelques,religieux,lislam,face,religion,christianisme",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/lejsl.com/2015/04/chalon-sur-sa%C3%B4ne-la-religion-face-aux-lyc%C3%A9ens",
             "resource_url": "http://www.bing.com/news/search?first=1&q=christianisme&format=RSS&cc=fr",
-            "source_url": "http://franceinter.fr/emission-la-marche-de-lhistoire-judas"
+            "source_url": "http://lejsl.com/edition-de-chalon/2015/04/26/la-religion-face-aux-lyceens"
         },
-        "christianismeaujourdhui.info/2015/04/trente-ans-de-voyages-organis%C3%A9s-christianisme-aujourd-hui": {
-            "title": "Trente ans de voyages organis\u00e9s - Christianisme Aujourd'hui...",
-            "snippet": "Trente ans de voyages organis\u00e9sChristianisme Aujourd'huiLa relation d'aide n'est pas d'abord th\u00e9rapeutique Charlie Hebdo rach\u00e8te Alliance Presse et le Christianisme Aujourd'hui Portes Ouvertes d\u00e9fend l'Eglise pers\u00e9cut\u00e9e depuis 60 ans Le monde...",
-            "date": "2015-04-05",
+        "christianismeaujourdhui.info/2015/04/l-etat-devrait-financer-les-activit%C3%A9s-religieuses-christianisme-aujourd-hui": {
+            "title": "L'Etat devrait financer les activit\u00e9s religieuses - Christianisme Aujourd'hui...",
+            "snippet": "L'Etat devrait financer les activit\u00e9s religieusesChristianisme Aujourd'- La volont\u00e9 de retirer les subventions aux organismes chr\u00e9tiens actifs parmi la jeunesse r\u00e9v\u00e8le une incompr\u00e9hension quant au r\u00f4le du religieux, affirment experts et...",
+            "date": "2015-04-25",
             "categories": "christianisme",
-            "tags": "alliance,alliance_presse,presse,charlie,charlie_hebdo,hebdo,aujourd,christianisme,christianisme_aujourd,hui,rach\u00e8te,eglise,monde",
-            "recuweb_url": "http://fr.recuweb.com/christianisme/christianismeaujourdhui.info/2015/04/trente-ans-de-voyages-organis%C3%A9s-christianisme-aujourd-hui",
+            "tags": "religieux,aujourd,christianisme,christianisme_aujourd,hui",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/christianismeaujourdhui.info/2015/04/l-etat-devrait-financer-les-activit%C3%A9s-religieuses-christianisme-aujourd-hui",
             "resource_url": "http://news.google.fr/?hl=fr&q=christianisme&output=atom&nord=1",
-            "source_url": "http://christianismeaujourdhui.info/articles.php/trente-ans-de-voyages-organises-12127.html?g=news"
+            "source_url": "http://christianismeaujourdhui.info/articles.php/l-etat-devrait-financer-les-activites-religieuses-12297.html"
         },
-        "maghrebnaute.com/2015/04/en-2070-l-islam-d%C3%A9passera-la-religion-du-christianisme": {
-            "title": "En 2070, l'Islam d\u00e9passera la religion du christianisme dans le monde...",
-            "snippet": "Il y aura autant de musulmans que de chr\u00e9tiens dans le monde en 2050 et dici 2070, leur nombre aura d\u00e9pass\u00e9 celui des chr\u00e9tiens. Cest du moins ce quannonce une \u00e9tude du think tank am\u00e9ricain, Pew Research Center. L\u00e9tude met en \u00e9vidence...",
-            "date": "2015-04-03",
-            "categories": "islam,religion,christianisme",
-            "tags": "chr\u00e9tiens,musulmans,monde,islam,religion,christianisme",
-            "recuweb_url": "http://fr.recuweb.com/christianisme/maghrebnaute.com/2015/04/en-2070-l-islam-d%C3%A9passera-la-religion-du-christianisme",
+        "lavoixdunord.fr/2015/04/attentat-d%C3%A9jou%C3%A9-contre-deux-%C3%A9glises-pour-les-catholiques-il-faut-continuer": {
+            "title": "Attentat d\u00e9jou\u00e9 contre deux \u00e9glises: pour les catholiques, il faut continuer comme avant...",
+            "snippet": "On assimile lOccident au christianisme. Mais dans notre pays, on peut \u00eatre chr\u00e9tien, bouddhiste, ath\u00e9e et parfaitement vivre ensemble. Les catholiques doivent-ils \u00eatre inquiets pour eux-m\u00eames et les \u00e9glises? Non. Tout en gardant des...",
+            "date": "2015-04-24",
+            "categories": "christianisme",
+            "tags": "chr\u00e9tien,faut,deux,christianisme,non",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/lavoixdunord.fr/2015/04/attentat-d%C3%A9jou%C3%A9-contre-deux-%C3%A9glises-pour-les-catholiques-il-faut-continuer",
             "resource_url": "http://www.bing.com/news/search?first=1&q=christianisme&format=RSS&cc=fr",
-            "source_url": "http://maghrebnaute.com/a-la-une/article/en-2070-lislam-depassera-la-religion-du-christianisme-dans-le-monde_5045.html"
+            "source_url": "http://lavoixdunord.fr/region/attentat-dejoue-contre-deux-eglises-pour-les-ia0b0n2794242"
+        },
+        "dreuz.info/2015/04/nouveaux-programmes-dhistoire-atomisation-sociale-culpabilit%C3%A9-et-haine-de-soi": {
+            "title": "Nouveaux programmes dhistoire: atomisation sociale, culpabilit\u00e9 et haine de soi...",
+            "snippet": "Ainsi, l\u00e9tude de lIslam sera obligatoire, mais celle du christianisme m\u00e9di\u00e9val facultative ceux qui choisiront de lenseigner devront le faire uniquement sous langle de l emprise de lEglise sur les mentalit\u00e9s rurales.",
+            "date": "2015-04-24",
+            "categories": "christianisme",
+            "tags": "m\u00e9di\u00e9val,m\u00e9di\u00e9val-facultative,facultative,choisiront,devront,devront-le-faire,uniquement,uniquement-sous,obligatoire,programmes,programmes-dhistoire,dhistoire,nouveaux,lislam,christianisme",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/dreuz.info/2015/04/nouveaux-programmes-dhistoire-atomisation-sociale-culpabilit%C3%A9-et-haine-de-soi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=christianisme&format=RSS&cc=fr",
+            "source_url": "http://dreuz.info/2015/04/nouveaux-programmes-dhistoire-atomisation-sociale-culpabilite-et-haine-de-soi/"
+        },
+        "lesobservateurs.ch/2015/04/nouveaux-programmes-dhistoire-en-france-lislam-sera-obligatoirement-%C3%A9tudi%C3%A9-le-christianisme": {
+            "title": "Nouveaux programmes dhistoire en France: Lislam sera obligatoirement \u00e9tudi\u00e9, le christianisme non...",
+            "snippet": "Nouveaux programmes dhistoire en France: Lislam sera obligatoirement \u00e9tudi\u00e9, le christianisme non...",
+            "date": "2015-04-23",
+            "categories": "christianisme",
+            "tags": "programmes,programmes-dhistoire,dhistoire,nouveaux,france,lislam,christianisme,non",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/lesobservateurs.ch/2015/04/nouveaux-programmes-dhistoire-en-france-lislam-sera-obligatoirement-%C3%A9tudi%C3%A9-le-christianisme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=christianisme&format=RSS&cc=fr",
+            "source_url": "http://lesobservateurs.ch/2015/04/23/nouveaux-programmes-dhistoire-france-lislam-sera-obligatoirement-etudie-christianisme-non/"
+        },
+        "lefigaro.fr/2015/04/nouveaux-programmes-d-histoire-l-islam-sera-obligatoire-les-le-figaro": {
+            "title": "Nouveaux programmes d'histoire: l'islam sera obligatoire, les... - Le Figaro...",
+            "snippet": "Le FigaroNouveaux programmes d'histoire: l'islam sera obligatoire, les...Le FigaroAinsi, l'\u00e9tude de l'Islam sera obligatoire, mais celle du christianisme m\u00e9di\u00e9val facultative - ceux qui choisiront de l'enseigner devront le faire uniquement sous...",
+            "date": "2015-04-22",
+            "categories": "islam,christianisme",
+            "tags": "devront,devront-le-faire,uniquement,uniquement-sous,choisiront,m\u00e9di\u00e9val,m\u00e9di\u00e9val-facultative,facultative,obligatoire,programmes,nouveaux,histoire,islam,christianisme",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/lefigaro.fr/2015/04/nouveaux-programmes-d-histoire-l-islam-sera-obligatoire-les-le-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=christianisme&output=atom&nord=1",
+            "source_url": "http://lefigaro.fr/vox/politique/2015/04/22/31001-20150422ARTFIG00378-nouveaux-programmes-d-histoire-l-islam-sera-obligatoire-les-lumieres-facultatives.php"
+        },
+        "lavie.fr/2015/04/le-christianisme-pierre-d-angle-de-la-nation-arm%C3%A9nienne": {
+            "title": "Le christianisme, pierre d'angle de la nation arm\u00e9nienne...",
+            "snippet": "Premier \u00c9tat chr\u00e9tien au monde, l'Arm\u00e9nie a lutt\u00e9 pour pr\u00e9server la flamme de la foi transmise par les ap\u00f4tres des premiers si\u00e8cles, malgr\u00e9 les pers\u00e9cutions et les dominations \u00e9trang\u00e8res. L'Arm\u00e9nie aurait \u00e9t\u00e9 \u00e9vang\u00e9lis\u00e9e par deux...",
+            "date": "2015-04-16",
+            "categories": "christianisme",
+            "tags": "\u00e9t\u00e9,deux,chr\u00e9tien,monde,christianisme",
+            "recuweb_url": "http://fr.recuweb.com/christianisme/lavie.fr/2015/04/le-christianisme-pierre-d-angle-de-la-nation-arm%C3%A9nienne",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=christianisme&format=RSS&cc=fr",
+            "source_url": "http://lavie.fr/religion/catholicisme/le-christianisme-pierre-d-angle-de-la-nation-armenienne-15-04-2015-62198_16.php"
         },
         "christianismeaujourdhui.info/2015/04/charlie-hebdo-rach%C3%A8te-alliance-presse-et-le-christianisme-aujourd-hui": {
             "title": "Charlie Hebdo rach\u00e8te Alliance Presse et le Christianisme Aujourd'hui - Christianisme Aujourd'hui...",
             "snippet": "Charlie Hebdo rach\u00e8te Alliance Presse et le Christianisme Aujourd'hui - Christianisme Aujourd'hui...",
             "date": "2015-04-01",
             "categories": "christianisme",
-            "tags": "christianisme,christianisme_aujourd,aujourd,alliance,alliance_presse,presse,charlie,charlie_hebdo,hebdo,rach\u00e8te,hui",
+            "tags": "christianisme,christianisme_aujourd,aujourd,hui",
             "recuweb_url": "http://fr.recuweb.com/christianisme/christianismeaujourdhui.info/2015/04/charlie-hebdo-rach%C3%A8te-alliance-presse-et-le-christianisme-aujourd-hui",
-            "resource_url": "http://news.google.fr/?hl=fr&q=christianisme&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=christianisme%2Bchristianisme&output=atom&nord=1",
             "source_url": "http://christianismeaujourdhui.info/articles.php/charlie-hebdo-rachete-alliance-presse-et-le-christianisme-aujourd-hui-12235.html"
         },
         "news.abidjan.net/2015/03/les-fid%C3%A8les-du-christianisme-c%C3%A9leste-pr%C3%A9voient-une-procession": {
@@ -65,20 +106,10 @@
             "snippet": "Les fid\u00e8les du Christianisme C\u00e9leste pr\u00e9voient une procession de... Pedro Le fondateur du \"Dioc\u00e8se de la succession d'Oschoffa\" de l'Eglise du Christianisme C\u00e9leste, proph\u00e8te Ehoun Xavier Gb\u00e9dahi, est en C\u00f4te d'Ivoire depuis la mi-mars et va...",
             "date": "2015-03-28",
             "categories": "christianisme",
-            "tags": "christianisme,eglise",
+            "tags": "christianisme,c\u00e9leste",
             "recuweb_url": "http://fr.recuweb.com/christianisme/news.abidjan.net/2015/03/les-fid%C3%A8les-du-christianisme-c%C3%A9leste-pr%C3%A9voient-une-procession",
-            "resource_url": "http://news.google.fr/?hl=fr&q=christianisme&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=christianisme%2Bchristianisme&output=atom&nord=1",
             "source_url": "http://news.abidjan.net/h/543849.html"
-        },
-        "fr.news.yahoo.com/2015/02/les-chr%C3%A9tiens-et-le-travail-dominical": {
-            "title": "Les chr\u00e9tiens et le travail dominical...",
-            "snippet": "FIGAROVOX/OPINION - Alors que la loi Macron pr\u00e9voit d'am\u00e9nager le travail du dimanche, Paul Piccarreta rappelle l'importance du repos dominical dans le christianisme.",
-            "date": "2015-02-21",
-            "categories": "christianisme",
-            "tags": "paul,chr\u00e9tiens,christianisme",
-            "recuweb_url": "http://fr.recuweb.com/christianisme/fr.news.yahoo.com/2015/02/les-chr%C3%A9tiens-et-le-travail-dominical",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=christianisme",
-            "source_url": "http://fr.news.yahoo.com/chr\u00e9tiens-travail-dominical-123559060.html"
         }
     }
 }
