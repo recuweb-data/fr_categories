@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "moteur-de-recherche",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -10,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/google-va-modifier-son-moteur-de-recherche-pour-favoriser-les-sites": {
+            "title": "Google va modifier son moteur de recherche pour favoriser les sites internet - 20/04...",
+            "snippet": "Google veut faciliter la recherche sur Internet aux utilisateurs de smartphones. Le g\u00e9ant am\u00e9ricain du web va modifier son moteur de recherche afin que les r\u00e9sultats soient mieux lisibles sur les petits \u00e9crans des smartphones. Avec des...",
+            "date": "2015-04-20",
+            "author_name": "BFMBUSINESS",
+            "categories": "moteur-de-recherche,internet,google",
+            "tags": "g\u00e9ant,g\u00e9ant-am\u00e9ricain,am\u00e9ricain,web,moteur,moteur-de-recherche,recherche,internet,google",
+            "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/04/google-va-modifier-son-moteur-de-recherche-pour-favoriser-les-sites",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche+moteur+de+recherche/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nc6vv_google-va-modifier-son-moteur-de-recherche-pour-favoriser-les-sites-internet-20-04_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nc6vv_google-va-modifier-son-moteur-de-recherche-pour-favoriser-les-sites-internet-20-04_news"
+        },
         "dailymotion.com/2015/03/qwant-le-moteur-de-recherche-qui-d%C3%A9fie-google": {
             "title": "Qwant, le moteur de recherche qui d\u00e9fie Google...",
             "snippet": "Ils osent d\u00e9fier Google... Ces trois entrepreneurs fran\u00e7ais ont invent\u00e9 un moteur de recherche qui concurrence le g\u00e9ant am\u00e9ricain. Pour l'heure, Qwant traite 10 millions de requ\u00eates par jour. Son petit fr\u00e8re Qwant Junior, un moteur de...",
             "date": "2015-03-24",
             "author_name": "FranceLiveTV",
             "categories": "moteur-de-recherche,google",
-            "tags": "moteur,fran\u00e7ais,moteur-de-recherche,recherche,google",
+            "tags": "moteur,fran\u00e7ais,moteur-de-recherche,recherche,g\u00e9ant,g\u00e9ant-am\u00e9ricain,am\u00e9ricain,google",
             "recuweb_url": "http://fr.recuweb.com/google/dailymotion.com/2015/03/qwant-le-moteur-de-recherche-qui-d%C3%A9fie-google",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche+moteur+de+recherche/0?af=1",
             "source_url": "http://dailymotion.com/video/x2kfti1_qwant-le-moteur-de-recherche-qui-defie-google_tech",
@@ -42,7 +55,7 @@
             "categories": "ordinateur,moteur-de-recherche",
             "tags": "recherche,web,moteur,moteur-de-recherche,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/moteur-de-recherche/dailymotion.com/2015/03/pr%C3%A9sentation-moteur-de-recherche-exalead",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche+moteur+de+recherche/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche/0?af=1",
             "source_url": "http://dailymotion.com/video/xc4cug_presentation-moteur-de-recherche-ex_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xc4cug_presentation-moteur-de-recherche-ex_tech"
         },
@@ -58,25 +71,13 @@
             "source_url": "http://dailymotion.com/video/x2hrzve_speciale-01business-forum-google-est-plus-qu-un-moteur-de-recherche-carlo-d-asaro-biondo-21-02_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hrzve_speciale-01business-forum-google-est-plus-qu-un-moteur-de-recherche-carlo-d-asaro-biondo-21-02_news"
         },
-        "dailymotion.com/2014/12/firefox-34-moteurs-de-recherches-gestions": {
-            "title": "Firefox 34 - moteurs de recherches (gestions)...",
-            "snippet": "Hello Firefox - nouvelle fonction: Firefox 34 - gestion des th\u00e8mes: Mozilla (site OFFICIEL): Firefox (site OFFICIEL): firefox/new/Author: AnyComputerTags: Navigateur web Mozilla Firefox Moteur de recherche browser navigateur Firefox recherche...",
-            "date": "2014-12-08",
-            "author_name": "AnyComputer",
-            "categories": "moteur-de-recherche",
-            "tags": "moteurs,moteur-de-recherche,firefox,site,web",
-            "recuweb_url": "http://fr.recuweb.com/moteur-de-recherche/dailymotion.com/2014/12/firefox-34-moteurs-de-recherches-gestions",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2c35bp_firefox-34-moteurs-de-recherches-gestions_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2c35bp_firefox-34-moteurs-de-recherches-gestions_tech"
-        },
         "dailymotion.com/2014/12/la-guerre-des-moteurs-de-recherche-v%C3%A9ritable-histoire-d-internet-hd": {
             "title": "La guerre des moteurs de recherche, la v\u00e9ritable histoire d'internet - HD...",
             "snippet": "La v\u00e9ritable histoire d'internet: La guerre des moteurs de recherche L'\u00e9mergence de Google a r\u00e9volutionn\u00e9 Internet et cr\u00e9\u00e9 l'une des plus grandes soci\u00e9t\u00e9s mondiales. D\u00e9couvrez comment deux \u00e9tudiants ont d\u00e9tr\u00f4n\u00e9 Yahoo avec une id\u00e9e...",
             "date": "2014-12-03",
             "author_name": "moxinabox",
             "categories": "internet,google,yahoo",
-            "tags": "deux,moteurs,moteurs-de-recherche,recherche,google,yahoo",
+            "tags": "deux,moteurs,moteurs-de-recherche,recherche,internet,google,yahoo",
             "recuweb_url": "http://fr.recuweb.com/yahoo/dailymotion.com/2014/12/la-guerre-des-moteurs-de-recherche-v%C3%A9ritable-histoire-d-internet-hd",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche/0?af=1",
             "source_url": "http://dailymotion.com/video/x2bn0r4_la-guerre-des-moteurs-de-recherche-la-veritable-histoire-d-internet-hd_tech",
@@ -88,7 +89,7 @@
             "date": "2014-11-21",
             "author_name": "rtl-fr",
             "categories": "moteur-de-recherche,yahoo",
-            "tags": "moteur,moteur-de-recherche,recherche,yahoo,firefox",
+            "tags": "moteur,moteur-de-recherche,recherche,yahoo",
             "recuweb_url": "http://fr.recuweb.com/yahoo/dailymotion.com/2014/11/yahoo-sera-le-moteur-de-recherche-par-d%C3%A9faut-firefox",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/moteur+de+recherche+moteur+de+recherche/0?af=1",
             "source_url": "http://dailymotion.com/video/x2apcgt_yahoo-sera-le-moteur-de-recherche-par-defaut-de-firefox_news",
@@ -96,7 +97,7 @@
         },
         "youtube.com/2014/11/comment-supprimer-un-moteur-de-recherche-malveillant": {
             "title": "Comment supprimer un moteur de recherche malveillant...",
-            "snippet": "Comment supprimer un moteur de recherche malveillant Voici les deux application utiliser dans cette vid\u00e9o: ADW Cleaner: ZHP... From: Astuce PC Views: 6355 17 ratings Time: 10:32 More in Science & Technology...",
+            "snippet": "Comment supprimer un moteur de recherche malveillant Voici les deux application utiliser dans cette vid\u00e9o: ADW Cleaner: ZHP... From: Astuce PC Views: 6679 17 ratings Time: 10:32 More in Science & Technology...",
             "date": "2014-11-14",
             "author_name": "Astuce PC",
             "categories": "moteur-de-recherche,science",
