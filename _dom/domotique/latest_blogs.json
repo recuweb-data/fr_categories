@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "domotique",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/domotique/",
@@ -11,13 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
     },
     "items": {
+        "planete-domotique.com/2015/04/le-thermostat-smartwares-un-compatible-homewizard": {
+            "title": "Le Thermostat smartwares: un thermostat compatible HomeWizard...",
+            "snippet": "... syst\u00e8me de programmation interne, mais qui peut \u00e9galement \u00eatre pilot\u00e9e en 433 MHz. Cela la rend compatible avec certaines t\u00e9l\u00e9commandes (Chacon ou HomeEasy), mais \u00e9galement avec la box domotique HomeWizard.",
+            "date": "2015-04-27",
+            "author_name": "Pierre",
+            "categories": "domotique",
+            "tags": "rend,peut,pilot\u00e9e,syst\u00e8me,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/planete-domotique.com/2015/04/le-thermostat-smartwares-un-compatible-homewizard",
+            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://planete-domotique.com/blog/2015/04/27/le-thermostat-smartwares-un-thermostat-compatible-homewizard-et-telecommandes/"
+        },
+        "blog.eavs-groupe.com/2015/04/la-domotique-c-est-quoi-blog-eavs-groupe": {
+            "title": "La Domotique, c'est quoi? - Blog Eavs Groupe...",
+            "snippet": "Nous reproduisons ici une s\u00e9rie d'articles concoct\u00e9s par C\u00e9dric Locqueneux, auteur du blog Maison et Domotique, qui \"baigne\" dans le monde de la Domotique.",
+            "date": "2015-04-17",
+            "author_name": "Thomas",
+            "categories": "domotique",
+            "tags": "s\u00e9rie,domotique,maison",
+            "recuweb_url": "http://fr.recuweb.com/domotique/blog.eavs-groupe.com/2015/04/la-domotique-c-est-quoi-blog-eavs-groupe",
+            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.eavs-groupe.com/actualite-de-nos-metiers/la-domotique-cest-quoi/"
+        },
         "whitecert.wordpress.com/2015/04/domotique-news-n298-eclairage-connect%C3%A9-2-0-dans-les-smart-maison": {
             "title": "Domotique News n298: Eclairage connect\u00e9 2.0 dans les Smart Maison et Domotique...",
             "snippet": "Maison et Domotique Domotique News n298: Eclairage connect\u00e9 2.0 dans les Smart Maison et Domotique Reconnaissons que les \u00e9volutions r\u00e9glementaires (RT 2012) ont renforc\u00e9 les exigences (en particulier sur la mesure de l'\u00e9nergie), le contrat de...",
             "date": "2015-04-03",
             "author_name": "whitecert",
             "categories": "domotique",
-            "tags": "contrat,maison,domotique",
+            "tags": "maison,domotique,connect\u00e9",
             "recuweb_url": "http://fr.recuweb.com/domotique/whitecert.wordpress.com/2015/04/domotique-news-n298-eclairage-connect%C3%A9-2-0-dans-les-smart-maison",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
             "source_url": "http://whitecert.wordpress.com/2015/04/03/domotique-news-n298-eclairage-connecte-2-0-dans-les-smart-maison-et-domotique/"
@@ -28,7 +50,7 @@
             "date": "2015-03-11",
             "author_name": "Goufalite",
             "categories": "domotique",
-            "tags": "solutions,domotiques,domotique,vid\u00e9osurveillance,informatique,cam\u00e9ra,contr\u00f4le,web",
+            "tags": "solutions,solutions-domotiques,domotiques,domotique,vid\u00e9osurveillance,informatique,cam\u00e9ra,contr\u00f4le,interface",
             "recuweb_url": "http://fr.recuweb.com/domotique/blog.goufastyle.org/2015/03/domotique-minimale-partie-5-contr%C3%B4le-de-la-cam%C3%A9ra",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
             "source_url": "http://blog.goufastyle.org/article/domotique-minimale-partie-5-controle-de-la-camera"
@@ -39,31 +61,21 @@
             "date": "2014-05-06",
             "author_name": "faifai09",
             "categories": "telecommunications,domotique,electronique",
-            "tags": "permet,contr\u00f4le,syst\u00e8mes,informatique,quelques,domotique",
+            "tags": "permet,contr\u00f4le,informatique,domotique,quelques",
             "recuweb_url": "http://fr.recuweb.com/electronique/jacquemartfairuz.wordpress.com/2014/05/la-domotique-en-quelques-mots",
             "resource_url": "http://fr.search.wordpress.com/?q=domotique%2Bdomotique&f=feed&page=1",
             "source_url": "http://jacquemartfairuz.wordpress.com/2014/05/06/la-domotique-en-quelques-mots/"
         },
-        "maison-et-domotique.com/2012/08/hsp02-nouveau-d%C3%A9tecteur-de-mouvement-zwave-maison": {
-            "title": "HSP02: nouveau d\u00e9tecteur de mouvement Zwave - Maison et...",
-            "snippet": "... migration possible vers la nouvelle eedomus! Notre Veille Forums Contact. Vous \u00eates ici:AccueilTestsTest P\u00e9riph\u00e9riques DomotiquesP\u00e9riph\u00e9riques Z-WaveHSP02: nouveau d\u00e9tecteur de mouvement Zwave.",
-            "date": "2012-08-28",
+        "maison-et-domotique.com/2012/07/zibase-2-et-zwave-maison-domotique": {
+            "title": "Zibase 2 et Zwave... - Maison et Domotique...",
+            "snippet": "J'ai recu ma nouvelle Zibase Zwave depuis quelques jours maintenant, mais je n'avais pas encore eu le temps de vous en parler plus en d\u00e9tail:(. Je me d\u00e9p\u00eache donc de rattraper ce retard:p. Comme annonc\u00e9 en f\u00e9vrier,...",
+            "date": "2012-07-04",
             "author_name": "C\u00e9dric Locqueneux",
-            "tags": "nouvelle,nouveau,d\u00e9tecteur,maison",
-            "recuweb_url": "http://fr.recuweb.com/maison-et-domotique.com/2012/08/hsp02-nouveau-d%C3%A9tecteur-de-mouvement-zwave-maison",
-            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://maison-et-domotique.com/11628-hsp02-nouveau-detecteur-de-mouvement-zwave/"
-        },
-        "maison-et-domotique.com/2012/04/crestron-et-amx-pionniers-de-la-domotique-maison": {
-            "title": "Crestron et AMX, pionniers de la domotique - Maison et Domotique...",
-            "snippet": "Deux marques am\u00e9ricaines qui ont toutes les deux plus de 25 ans d'exp\u00e9rience dans le domaine, et proposent des solutions compl\u00e8tes, fiables et tr\u00e8s performantes pour des installations domotiques tr\u00e8s \u00e9volu\u00e9es. J'ai choisi...",
-            "date": "2012-04-02",
-            "author_name": "Vincent PREMEL",
             "categories": "domotique",
-            "tags": "domotiques,domotique,solutions,domaine,maison",
-            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2012/04/crestron-et-amx-pionniers-de-la-domotique-maison",
+            "tags": "jours,maison,domotique,quelques,temps",
+            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2012/07/zibase-2-et-zwave-maison-domotique",
             "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://maison-et-domotique.com/5529-crestron-et-amx-pionniers-de-la-domotique/"
+            "source_url": "http://maison-et-domotique.com/10943-zibase-2-et-zwave/"
         }
     }
 }
