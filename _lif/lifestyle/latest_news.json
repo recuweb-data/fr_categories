@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lifestyle",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lifestyle/",
@@ -11,24 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
     },
     "items": {
-        "thedailybeast.com/2015/04/blake-lively-actress-lifestyle-guru-or-daily-beast": {
-            "title": "Blake Lively: Actress, Lifestyle Guru, or... - Daily Beast...",
-            "snippet": "Daily BeastBlake Lively: Actress, Lifestyle Guru, BeastShe's spent three quiet years molding herself into a celebrity homemaker in the grand tradition of Gwyneth Paltrow, also boasting an irreverently-named baby and the slightly less pretentious but...",
-            "date": "2015-04-23",
-            "categories": "tradition,lifestyle",
+        "wdbj7.com/2015/04/congressmen-partner-with-city-of-roanoke-to-host-career-lifestyle-fair": {
+            "title": "Congressmen partner with City of Roanoke to host career, lifestyle fair - WDBJ7...",
+            "snippet": "WDBJ7Congressmen partner with City of Roanoke to host career, lifestyle fairWDBJ7Congressman Bob Goodlatte and Congressman Morgan Griffith are partnering with the City of Roanoke to host the Career, Lifestyle and Financial Fitness fair. The fair is...",
+            "date": "2015-04-27",
+            "categories": "lifestyle",
             "tags": "lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/thedailybeast.com/2015/04/blake-lively-actress-lifestyle-guru-or-daily-beast",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle%2Blifestyle&output=atom&nord=1",
-            "source_url": "http://thedailybeast.com/articles/2015/04/23/blake-lively-actress-lifestyle-guru-or.html"
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/wdbj7.com/2015/04/congressmen-partner-with-city-of-roanoke-to-host-career-lifestyle-fair",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
+            "source_url": "http://wdbj7.com/news/local/Congressmen-partner-with-City-of-Roanoke-to-host-career-lifestyle-fair/32585924"
+        },
+        "centredaily.com/2015/04/health-break-mediterranean-lifestyle-could-be-a-life-changer-centre-daily": {
+            "title": "Health Break: Mediterranean lifestyle could be a life-changer - Centre Daily Times...",
+            "snippet": "Health Break: Mediterranean lifestyle could be a life-changerCentre Daily TimesComplementing the eating plan, the Mediterranean lifestyle also focuses on physical activity, relaxed and enjoyable meals away from work, and a less hurried approach to...",
+            "date": "2015-04-27",
+            "categories": "lifestyle",
+            "tags": "lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/centredaily.com/2015/04/health-break-mediterranean-lifestyle-could-be-a-life-changer-centre-daily",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
+            "source_url": "http://centredaily.com/2015/04/26/4720531/health-break-mediterranean-lifestyle.html"
+        },
+        "parisbouge.com/2015/04/foire-de-paris-2015-le-rendez-vous-food-d%C3%A9co-et-lifestyle": {
+            "title": "Foire de Paris 2015: le rendez-vous food, d\u00e9co et lifestyle - ParisBouge...",
+            "snippet": "Foire de Paris 2015: le rendez-vous food, d\u00e9co et lifestyleParisBougeCette ann\u00e9e pour sa 111\u00e8me \u00e9dition, la Foire de Paris se d\u00e9roulera du 29 avril au 10 mai au parc des expositions de Versailles. Avec 3500 exposants sur 220 000 m\u00e8tres...",
+            "date": "2015-04-24",
+            "categories": "lifestyle",
+            "tags": "ann\u00e9e,lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/parisbouge.com/2015/04/foire-de-paris-2015-le-rendez-vous-food-d%C3%A9co-et-lifestyle",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
+            "source_url": "http://parisbouge.com/mag/articles/foire-de-paris-2015-le-rendez-vous-food-deco-et-lifestyle-2129"
         },
         "meltyfashion.fr/2015/04/michelle-phan-youtubeuse-beaut%C3%A9-pr%C3%A9pare-sa-cha%C3%AEne-lifestyle-icon-meltyfashion": {
             "title": "Michelle Phan, Youtubeuse beaut\u00e9, pr\u00e9pare sa cha\u00eene lifestyle Icon... - meltyFashion...",
             "snippet": "meltyFashionMichelle Phan, Youtubeuse beaut\u00e9, pr\u00e9pare sa cha\u00eene lifestyle \"Icon...meltyFashionCette ann\u00e9e, l'experte beaut\u00e9 s'associe au groupe t\u00e9l\u00e9visuel Endemol pour cr\u00e9er sa cha\u00eene lifestyle \"Icon\". Diff\u00e9rents th\u00e8mes seront abord\u00e9s...",
             "date": "2015-04-21",
             "categories": "lifestyle",
-            "tags": "lifestyle",
+            "tags": "lifestyle,ann\u00e9e",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/meltyfashion.fr/2015/04/michelle-phan-youtubeuse-beaut%C3%A9-pr%C3%A9pare-sa-cha%C3%AEne-lifestyle-icon-meltyfashion",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle%2Blifestyle&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
             "source_url": "http://meltyfashion.fr/michelle-phan-youtubeuse-beaute-prepare-sa-chaine-lifestyle-icon-avec-endemol-a402763.html"
         },
         "ladn.eu/2015/04/pagesjaunes-lance-un-magazine-gratuit-lifestyle": {
