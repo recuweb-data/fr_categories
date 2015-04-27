@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "blogs",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -10,30 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
+        "blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent": {
+            "title": "L'art de rendre visibles ceux qui n'existent plus - Les blogs du Diplo (Blog)...",
+            "snippet": "L'art de rendre visibles ceux qui n'existent plusLes blogs du Diplo (Blog)On aurait aim\u00e9 interviewer le r\u00e9alisateur chinois Wang Bing comme il filme ses personnages. Sans question ni r\u00e9ponse. A distance de ce qu'ils sont mais au plus proche de ce...",
+            "date": "2015-04-25",
+            "categories": "bing",
+            "tags": "r\u00e9ponse,r\u00e9alisateur",
+            "recuweb_url": "http://fr.recuweb.com/bing/blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
+            "source_url": "http://blog.mondediplo.net/2015-04-25-L-art-de-rendre-visibles-ceux-qui-n-existent-plus"
+        },
         "frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis": {
             "title": "Les blogs de la semaine sont Tests & Cie et Vis ma vie de... - Frandroid...",
             "snippet": "FrandroidLes blogs de la semaine sont Tests & Cie et Vis ma vie de...FrandroidDevant leur (r\u00e9-)activit\u00e9, nous souhaitons mettre en avant deux blogueurs parmi ceux qui comptent parmi les plus actifs et pertinents de la communaut\u00e9 FrAndroid. Cette...",
             "date": "2015-04-21",
-            "tags": "deux,blogueurs,communaut\u00e9,vie,frandroid,frandroidles,activit\u00e9",
+            "tags": "blogueurs,vie",
             "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://frandroid.com/humanoid/279199_les-blogs-de-la-semaine-sont-tests-cie-et-vis-ma-vie-de-developpeur"
-        },
-        "prioritesante.blogs.rfi.fr/2015/04/pourquoi-faut-il-faire-r%C3%A9guli%C3%A8rement-de-l-activit%C3%A9-physique-rfi": {
-            "title": "Pourquoi faut-il faire r\u00e9guli\u00e8rement de l'activit\u00e9 physique? - RFI...",
-            "snippet": "Pourquoi faut-il faire r\u00e9guli\u00e8rement de l'activit\u00e9 physique?RFISkip to Navigation. Home blogs rfi. Accueil. Priorit\u00e9 sant\u00e9. Le blog de Claire H\u00e9don. Accueil Chroniques A propos Contact RSS. 20 avr. 2015 - 13:00. Pourquoi faut-il faire...",
-            "date": "2015-04-20",
-            "categories": "navigation",
-            "tags": "chroniques,activit\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/navigation/prioritesante.blogs.rfi.fr/2015/04/pourquoi-faut-il-faire-r%C3%A9guli%C3%A8rement-de-l-activit%C3%A9-physique-rfi",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
-            "source_url": "http://prioritesante.blogs.rfi.fr/article/2015/04/20/pourquoi-faut-il-faire-regulierement-de-lactivite-physique"
         },
         "huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent": {
             "title": "Blogs qui rient, blogs qui pleurent!",
             "snippet": "WEB - A l'aube de notre sixi\u00e8me saison, Les Golden Blog Awards vont cette ann\u00e9e encore c\u00e9l\u00e9brer les blogueurs, ces cr\u00e9ateurs digitaux, aussi divers que fondamentalement originaux: blog d'humeur, blog de cuisine, blog de voyage, blog de...",
             "date": "2015-04-16",
-            "tags": "voyage,blogueurs,web,saison",
+            "tags": "voyage,blogueurs,saison,web",
             "recuweb_url": "http://fr.recuweb.com/huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent",
             "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
             "source_url": "http://huffingtonpost.fr/noel-cambessedes/golden-blogs-award_b_7077468.html"
@@ -45,44 +46,17 @@
             "categories": "internet",
             "tags": "web",
             "recuweb_url": "http://fr.recuweb.com/internet/huffingtonpost.fr/2015/04/la-menace-terroriste-et-fin-des-blogs-perso-le-huffington",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/emily-turrettini/cyberterrorisme-blogs-perso_b_7049294.html"
-        },
-        "frandroid.com/2015/04/les-blogs-d%C3%A9couvrez-meilleurs-articles-de-la-communaut%C3%A9-frandroid": {
-            "title": "Les Blogs: d\u00e9couvrez les meilleurs articles de la communaut\u00e9... - Frandroid...",
-            "snippet": "FrandroidLes Blogs: d\u00e9couvrez les meilleurs articles de la communaut\u00e9...FrandroidVous l'avez peut-\u00eatre manqu\u00e9, il est d\u00e9sormais possible d'ouvrir son blog sur FrAndroid pour que chacun puisse exposer son point de vue sur les nouvelles...",
-            "date": "2015-04-05",
-            "tags": "frandroidles,articles,communaut\u00e9,frandroid",
-            "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-d%C3%A9couvrez-meilleurs-articles-de-la-communaut%C3%A9-frandroid",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
-            "source_url": "http://frandroid.com/actualites-generales/277491_les-blogs-decouvrez-les-meilleurs-articles-de-la-communaute-frandroid-2"
-        },
-        "actualitte.com/2015/04/max-et-les-poissons-revue-de-blogs-actualitt%C3%A9": {
-            "title": "Max et les poissons: revue de blogs - Actualitt\u00e9.com...",
-            "snippet": "Actualitt\u00e9.comMax et les poissons: revue de blogsActualitt\u00e9.comEt depuis deux mois, ce petit roman a v\u00e9cu de belles choses: articles de presse, chroniques radio, retours de lecteurs enthousiastes, d\u00e9dicaces anim\u00e9es Et puis il y a les blogs. Je...",
-            "date": "2015-04-04",
-            "categories": "radio",
-            "tags": "chroniques,articles,deux,revue",
-            "recuweb_url": "http://fr.recuweb.com/radio/actualitte.com/2015/04/max-et-les-poissons-revue-de-blogs-actualitt%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
-            "source_url": "http://actualitte.com/blog/sophielit/2015/04/05/max-et-les-poissons-revue-de-blogs/"
         },
         "madame.lefigaro.fr/2015/03/les-plus-beaux-blogs-de-voyage-au-f%C3%A9minin-madame-figaro": {
             "title": "Les plus beaux blogs de voyage au f\u00e9minin - Madame Figaro...",
             "snippet": "Madame FigaroLes plus beaux blogs de voyage au f\u00e9mininMadame FigaroDe plus en plus de blogs de voyage voient le jour et en la mati\u00e8re, la gent f\u00e9minine s'av\u00e8re particuli\u00e8rement dou\u00e9e. Nous avons donc cherch\u00e9, cliqu\u00e9, pass\u00e9 en revue bon...",
             "date": "2015-03-31",
-            "tags": "revue,avons,voyage",
+            "tags": "voyage",
             "recuweb_url": "http://fr.recuweb.com/madame.lefigaro.fr/2015/03/les-plus-beaux-blogs-de-voyage-au-f%C3%A9minin-madame-figaro",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://madame.lefigaro.fr/evasion/baroudeuses-courageuses-audacieuses-nos-20-blogueuses-voyage-preferees-300315-95745"
-        },
-        "numerama.com/2015/03/le-pakistan-bloque-les-blogs-h%C3%A9berg%C3%A9s-sur-numerama": {
-            "title": "Le Pakistan bloque les blogs h\u00e9berg\u00e9s sur - Numerama...",
-            "snippet": "NumeramaLe Pakistan bloque les blogs h\u00e9berg\u00e9s sur 'autorit\u00e9 de r\u00e9gulation des t\u00e9l\u00e9coms pakistanaise a ordonn\u00e9 aux op\u00e9rateurs de bloquer la plateforme, qui est l'un des principaux services de blogs. La mesure survient au moment o\u00f9 le pays...",
-            "date": "2015-03-23",
-            "recuweb_url": "http://fr.recuweb.com/numerama.com/2015/03/le-pakistan-bloque-les-blogs-h%C3%A9berg%C3%A9s-sur-numerama",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
-            "source_url": "http://numerama.com/magazine/32552-le-pakistan-bloque-les-blogs-heberges-sur-wordpresscom.html"
         }
     }
 }
