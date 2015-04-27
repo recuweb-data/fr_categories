@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "extensible-markup-language",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/extensible-markup-language/",
@@ -10,85 +11,54 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/blogs.json"
     },
     "items": {
+        "gcn.com/2015/04/solving-the-search-problem-for-large-scale-repositories": {
+            "title": "Solving the search problem for large-scale repositories -...",
+            "snippet": "the search problem for large-scale exist to help these agencies organize and structure the documents, often by converting images and scanned documents to Extensible Markup Language (XML), which provides for sophisticated search, verification,...",
+            "date": "2015-04-22",
+            "categories": "extensible-markup-language",
+            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
+            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/gcn.com/2015/04/solving-the-search-problem-for-large-scale-repositories",
+            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage&output=atom&nord=1",
+            "source_url": "http://gcn.com/articles/2015/04/22/document-conversion.aspx"
+        },
+        "giga.de/2015/04/bluescreen-fehlermeldung-verstehen": {
+            "title": ": Bluescreen-Fehlermeldung verstehen -...",
+            "snippet": ": Bluescreen-Fehlermeldung XML-Erweiterung der ist eine Abk\u00fcrzung und bezeichnet den Typ der Extensible-Markup-Language-Dateien. Diese Formate sind Standard f\u00fcr verschiedene Office-Programme, wie Microsoft Office oder Libre Office. Weiterhin...",
+            "date": "2015-04-21",
+            "tags": "xml,extensible,markup,language,standard",
+            "recuweb_url": "http://fr.recuweb.com/giga.de/2015/04/bluescreen-fehlermeldung-verstehen",
+            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage&output=atom&nord=1",
+            "source_url": "http://giga.de/downloads/microsoft-windows/tipps/sysdata.xml-bluescreen-fehlermeldung-verstehen/"
+        },
+        "law360.com/2015/04/merits-of-an-xml-based-invention-disclosure-standard-law360-subscription": {
+            "title": "Merits Of An XML-Based Invention Disclosure Standard - Law360 (subscription)...",
+            "snippet": "Merits Of An XML-Based Invention Disclosure StandardLaw360 (subscription)In 2014, the Legal Electronic Data Exchange Standard (LEDES) Intellectual Property Matter Management (IPMM) subcommittee proposed an extensible markup language (XML) invention...",
+            "date": "2015-04-17",
+            "categories": "extensible-markup-language,management",
+            "tags": "extensible,markup,language,management,data,standard,based,xml",
+            "recuweb_url": "http://fr.recuweb.com/management/law360.com/2015/04/merits-of-an-xml-based-invention-disclosure-standard-law360-subscription",
+            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage&output=atom&nord=1",
+            "source_url": "http://law360.com/articles/640012/merits-of-an-xml-based-invention-disclosure-standard"
+        },
         "businessmanagementdaily.com/2015/04/status-report-forms-941-migration-to-mef-platform-business-management-daily": {
             "title": "Status report: Forms 941 migration to MeF platform - Business Management Daily...",
             "snippet": "Business Management DailyStatus report: Forms 941 migration to MeF platformBusiness Management DailyMeF is a web-based system that uses the Extensible Markup Language (XML) format. XML is an industry standard used when identifying, storing and...",
             "date": "2015-04-13",
             "categories": "extensible-markup-language,management",
-            "tags": "used,when,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,based,business,migration,xml,format",
+            "tags": "standard,used,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,based,management,xml",
             "recuweb_url": "http://fr.recuweb.com/management/businessmanagementdaily.com/2015/04/status-report-forms-941-migration-to-mef-platform-business-management-daily",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://businessmanagementdaily.com/43028/status-report-forms-941-migration-to-mef-platform"
-        },
-        "insurancenewsnet.com/2015/04/chemical-substances-when-manufactured-or-processed-as-insurance-news-net": {
-            "title": "Chemical Substances When Manufactured or Processed as... - Insurance News Net...",
-            "snippet": "Chemical Substances When Manufactured or Processed as...Insurance News NetThe tool is available for use with Windows, Macs, Linux, and UNIX based computers, using \"Extensible Markup Language\" (XML) specifications for efficient data transmission...",
-            "date": "2015-04-06",
-            "categories": "extensible-markup-language",
-            "tags": "data,extensible,extensible-markup,extensible-markup-language,markup,markup-language,language,based,when,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/insurancenewsnet.com/2015/04/chemical-substances-when-manufactured-or-processed-as-insurance-news-net",
             "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://insurancenewsnet.com/oarticle/2015/04/06/chemical-substances-when-manufactured-or-processed-as-nanoscale-materials-tsca--a-610776.html"
-        },
-        "bsminfo.com/2015/04/creditcall-s-payment-gateway-simplifies-migration-to-emv-for-business-solutions": {
-            "title": "Creditcall's Payment Gateway Simplifies Migration To EMV For... - Business Solutions Magazine...",
-            "snippet": "Creditcall's Payment Gateway Simplifies Migration To EMV For...Business Solutions MagazineThe Extensible Markup Language (XML) based protocol exposes all the payment transaction features of Creditcall's EMV-ready payment gateway. It can be...",
-            "date": "2015-04-01",
-            "categories": "extensible-markup-language",
-            "tags": "based,business,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,migration,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/bsminfo.com/2015/04/creditcall-s-payment-gateway-simplifies-migration-to-emv-for-business-solutions",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://bsminfo.com/doc/creditcall-s-payment-gateway-simplifies-migration-to-emv-for-tablesafe-0001"
+            "source_url": "http://businessmanagementdaily.com/43028/status-report-forms-941-migration-to-mef-platform"
         },
         "eetimes.com/2015/03/juggling-data-connectivity-protocols-for-industrial-iot-ee-times": {
             "title": "Juggling Data Connectivity Protocols for Industrial IoT - EE Times...",
             "snippet": "EE TimesJuggling Data Connectivity Protocols for Industrial IoTEE TimesXMPP is a simple communications protocol for message-oriented middleware based on XML (Extensible Markup Language). Designed to be extensible, the protocol has also been used to...",
             "date": "2015-03-31",
             "categories": "extensible-markup-language",
-            "tags": "also,used,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,based,data,xml",
+            "tags": "used,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,based,data,xml",
             "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/eetimes.com/2015/03/juggling-data-connectivity-protocols-for-industrial-iot-ee-times",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage&output=atom&nord=1",
             "source_url": "http://eetimes.com/author.asp?section_id=36&doc_id=1326169"
-        },
-        "foodqualitynews.com/2015/03/mettler-toledo-updates-software-for-product-inspection": {
-            "title": "Mettler Toledo updates software for product inspection -...",
-            "snippet": "Toledo updates software for product allows the user to export records to a Comma Separated Values (CSV) or Extensible Markup Language (XML) file. Weighing terminal. Mettler Toledo also unveiled a weighing terminal for smaller businesses to have...",
-            "date": "2015-03-25",
-            "categories": "extensible-markup-language",
-            "tags": "also,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/foodqualitynews.com/2015/03/mettler-toledo-updates-software-for-product-inspection",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://foodqualitynews.com/Industry-news/Data-management-software-to-ensure-compliance"
-        },
-        "researchinformation.info/2015/03/help-with-checking-for-fake-scientific-papers-research-information-press-release": {
-            "title": "Help with checking for fake scientific papers - Research Information (press release)...",
-            "snippet": "Help with checking for fake scientific papersResearch Information (press release)SciDetect scans extensible markup language (XML) and Adobe portable document format (PDF) files and compares them against a corpus of fake scientific papers. SciDetect...",
-            "date": "2015-03-23",
-            "categories": "extensible-markup-language",
-            "tags": "them,format,extensible,extensible-markup,extensible-markup-language,markup,markup-language,language,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/researchinformation.info/2015/03/help-with-checking-for-fake-scientific-papers-research-information-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://researchinformation.info/news/news_story.php?news_id=1871"
-        },
-        "swindon-business.net/2015/03/swindon-tech-group-stilo-s-shares-recover-after-plunging-on-fall": {
-            "title": "Swindon tech group Stilo's shares recover after plunging on fall in... - Swindon Business News...",
-            "snippet": "Swindon tech group Stilo's shares recover after plunging on fall in...Swindon Business NewsStilo specialises in helping organisations automate the conversion of their existing content into different XML (Extensible Markup Language) formats. Its...",
-            "date": "2015-03-23",
-            "categories": "extensible-markup-language",
-            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,business,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/swindon-business.net/2015/03/swindon-tech-group-stilo-s-shares-recover-after-plunging-on-fall",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://swindon-business.net/index.php/2015/03/23/swindon-tech-firm-stilos-shares-recover-after-plunging-on-fall-in-annual-profits-and-sales/"
-        },
-        "itnews.com.au/2015/03/cisco-won-t-patch-ip-phone-eavesdropping-flaw-it-news": {
-            "title": "Cisco won't patch IP phone eavesdropping flaw - iT News...",
-            "snippet": "iT NewsCisco won't patch IP phone eavesdropping flawiT NewsAn attacker can send a specially crafted Extensible Markup Language (XML) request to devices which will allow them to both make phone calls remotely, and listen in on audio streams.",
-            "date": "2015-03-22",
-            "categories": "extensible-markup-language",
-            "tags": "them,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/itnews.com.au/2015/03/cisco-won-t-patch-ip-phone-eavesdropping-flaw-it-news",
-            "resource_url": "http://news.google.fr/?hl=fr&q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&output=atom&nord=1",
-            "source_url": "http://itnews.com.au/News/401928,cisco-wont-patch-ip-phone-eavesdropping-flaw.aspx"
         }
     }
 }
