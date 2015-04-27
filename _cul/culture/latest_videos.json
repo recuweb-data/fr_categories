@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "culture",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture/",
@@ -10,13 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/africa-news-room-afrique-culture-les-handicap%C3%A9s-ont-du-talent": {
+            "title": "AFRICA NEWS ROOM - Afrique, Culture: Les handicap\u00e9s ont du talent!",
+            "snippet": "Culture, Les handicap\u00e9s ont du talent!, avec Andr\u00e9 Marie Tala Chanteur CMRLa premi\u00e8re cha\u00eene mondiale d'information pour l'Afrique. Les infos d'Afrique pour le monde, les infos du monde pour l': AFRICA24Tags: africa 24 Culture AFRICA24 Africa24...",
+            "date": "2015-04-24",
+            "author_name": "AFRICA24",
+            "categories": "culture",
+            "tags": "premi\u00e8re,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/africa-news-room-afrique-culture-les-handicap%C3%A9s-ont-du-talent",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nvhru_africa-news-room-afrique-culture-les-handicapes-ont-du-talent_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nvhru_africa-news-room-afrique-culture-les-handicapes-ont-du-talent_news"
+        },
+        "dailymotion.com/2015/04/des-cultures-rentables-et-eco-responsables": {
+            "title": "Des cultures rentables et eco responsables...",
+            "snippet": "R\u00e9aliser des cultures rentables et eco responsables, voici l'enjeu de l'agriculture d'aujourd'hui et de: TNTWeoTags: Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "TNTWeo",
+            "categories": "culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/des-cultures-rentables-et-eco-responsables",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nt8db_des-cultures-rentables-et-eco-responsables_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nt8db_des-cultures-rentables-et-eco-responsables_news"
+        },
+        "youtube.com/2015/04/france-terrorisme-et-culture-de-mort": {
+            "title": "France: Terrorisme et Culture de Mort...",
+            "snippet": "France: Terrorisme et Culture de Mort Avant d'avoir \u00e9t\u00e9 des terroristes, ces gens \u00e9taient des enfants expos\u00e9s de mani\u00e8re massive \u00e0 un discours apocalyptique les obligeant \u00e0 r\u00e9fl\u00e9chir en morts vivants. Ceci est entr\u00e9... From: Aldo Sterone...",
+            "date": "2015-04-24",
+            "author_name": "Aldo Sterone",
+            "categories": "mort,culture",
+            "tags": "avant,france,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2015/04/france-terrorisme-et-culture-de-mort",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=RESEy1MmURk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/RESEy1MmURk/0.jpg"
+        },
+        "dailymotion.com/2015/04/le-clash-culture-figaro-l-obs-que-vaut-somnambules-dernier-album": {
+            "title": "Le Clash culture Figaro-l'Obs: Que vaut Somnambules, le dernier album de Raphael?",
+            "snippet": "Gr\u00e9goire Lem\u00e9nager de lObs et Jean-Christophe Buisson du Figaro Magazine d\u00e9battent sans d\u00e9tour de l'actualit\u00e9: lefigaroTags: clash culture musique SocialMedia Syndication Rapha\u00ebl Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "lefigaro",
+            "categories": "culture,musique",
+            "tags": "culture",
+            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2015/04/le-clash-culture-figaro-l-obs-que-vaut-somnambules-dernier-album",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nsfii_le-clash-culture-figaro-l-obs-que-vaut-somnambules-le-dernier-album-de-raphael_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nsfii_le-clash-culture-figaro-l-obs-que-vaut-somnambules-le-dernier-album-de-raphael_news"
+        },
+        "dailymotion.com/2015/04/bondy-blog-caf%C3%A9-fleur-pellerin-ministre-de-la-culture-et-communication": {
+            "title": "Bondy Blog Caf\u00e9: Fleur Pellerin, ministre de la Culture et de la Communication...",
+            "snippet": "Linvit\u00e9 du Bondy Blog ce mois-ci est Fleur Pellerin, ministre de la Culture et de la: LCPTags: fleur pellerin culture bondy blog radio france communication Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "LCP",
+            "categories": "culture,radio",
+            "tags": "culture,france",
+            "recuweb_url": "http://fr.recuweb.com/radio/dailymotion.com/2015/04/bondy-blog-caf%C3%A9-fleur-pellerin-ministre-de-la-culture-et-communication",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2np59d_bondy-blog-cafe-fleur-pellerin-ministre-de-la-culture-et-de-la-communication_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2np59d_bondy-blog-cafe-fleur-pellerin-ministre-de-la-culture-et-de-la-communication_news"
+        },
         "dailymotion.com/2015/04/entretien-groupe-d-%C3%A9tudes-%C3%A9ducation-populaire-et-culture": {
             "title": "Entretien Groupe d'\u00e9tudes \u00c9ducation populaire et culture...",
             "snippet": "Mercredi 15 avril 2015, le groupe d'\u00e9tudes \u00c9ducation populaire et culture a organis\u00e9 une table ronde consacr\u00e9e au r\u00f4le de l'\u00e9ducation populaire dans le renforcement du vivre ensemble. Plus d'informations sur le groupe d'\u00e9tudes: Pour en savoir...",
             "date": "2015-04-22",
             "author_name": "Senat",
             "categories": "culture",
-            "tags": "populaire,culture,avril",
+            "tags": "populaire,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/entretien-groupe-d-%C3%A9tudes-%C3%A9ducation-populaire-et-culture",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nk51f_entretien-groupe-d-etudes-education-populaire-et-culture_news",
@@ -28,7 +88,7 @@
             "date": "2015-04-21",
             "author_name": "LaProvence",
             "categories": "culture",
-            "tags": "sc\u00e8ne,culture,rencontre",
+            "tags": "sc\u00e8ne,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/culture-les-confidences-de-sandrine-bonnaire",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nfp73_culture-les-confidences-de-sandrine-bonnaire_news",
@@ -64,71 +124,11 @@
             "date": "2015-04-16",
             "author_name": "Aps AlgeriePresseService",
             "categories": "culture",
-            "tags": "sc\u00e8ne,culture,capitale,populaire",
+            "tags": "avant,premi\u00e8re,sc\u00e8ne,culture,capitale,populaire",
             "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2015/04/constantine-capitale-de-la-culture-arabe-en-f%C3%AAte",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture%2Bculture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=culture&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Tw7eRrL_w10&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Tw7eRrL_w10/0.jpg"
-        },
-        "dailymotion.com/2015/04/journ%C3%A9e-cultures-urbaines": {
-            "title": "Journ\u00e9e cultures urbaines...",
-            "snippet": "Street artAuthor: OuestFranceFRTags: Vend\u00e9e Journ\u00e9e cultures urbaines Street art Fontenay Leclerc Mathilde Posted: 12 April 2015Rating:: 0...",
-            "date": "2015-04-12",
-            "author_name": "OuestFranceFR",
-            "categories": "culture",
-            "tags": "ouestfrancefrtags",
-            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/journ%C3%A9e-cultures-urbaines",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mfrlt_journee-cultures-urbaines_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mfrlt_journee-cultures-urbaines_news"
-        },
-        "dailymotion.com/2015/04/philippe-val-la-r%C3%A9alit%C3%A9-c-est-que-culture-qui-permet-l": {
-            "title": "Philippe Val: La r\u00e9alit\u00e9, c'est que la culture, qui permet l'esprit critique, n'est plus aim\u00e9e...",
-            "snippet": "L'ancien directeur de Charlie Hebdo et de France Inter publie Malaise dans l'inculture (Grasset). Philippe Val r\u00e9pond aux questions de Patrick Cohen. Plus d'infos:: franceinterTags: Politique France Inter 10 avril 2015 Interactiv Philippe Val...",
-            "date": "2015-04-10",
-            "author_name": "franceinter",
-            "categories": "culture,politique",
-            "tags": "culture,avril",
-            "recuweb_url": "http://fr.recuweb.com/politique/dailymotion.com/2015/04/philippe-val-la-r%C3%A9alit%C3%A9-c-est-que-culture-qui-permet-l",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m8i4t_philippe-val-la-realite-c-est-que-la-culture-qui-permet-l-esprit-critique-n-est-plus-aimee_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m8i4t_philippe-val-la-realite-c-est-que-la-culture-qui-permet-l-esprit-critique-n-est-plus-aimee_news"
-        },
-        "dailymotion.com/2015/02/club-culture-1er-semestre-2015-e-9-du-27-f%C3%A9vrier": {
-            "title": "CLUB CULTURE 1ER SEMESTRE 2015 E.9 - Club Culture du 27 f\u00e9vrier 2015: Avec Fran\u00e7ois...",
-            "snippet": "Club Culture du 27 f\u00e9vrier 2015: Avec Fran\u00e7ois-Xavier DemaisonAuthor: AngersTeleTags: Posted: 27 February 2015Rating:: 0...",
-            "date": "2015-02-27",
-            "author_name": "AngersTele",
-            "categories": "culture",
-            "tags": "culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/02/club-culture-1er-semestre-2015-e-9-du-27-f%C3%A9vrier",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture+culture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ia1en_club-culture-1er-semestre-2015-s-2015-e-9-club-culture-du-27-fevrier-2015-avec-francois-xavier-demai_tv",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ia1en_club-culture-1er-semestre-2015-s-2015-e-9-club-culture-du-27-fevrier-2015-avec-francois-xavier-demai_tv"
-        },
-        "dailymotion.com/2015/02/rencontre-culture-hip-hop-et-sourde": {
-            "title": "Rencontre culture Hip Hop et culture sourde...",
-            "snippet": "Hip Opsession 2015Author: OuestFranceFRTags: Loire-Atlantique Rencontre culture Hip Hop et culture sourde Hip Opsession 2015 Stereolux Nantes Lambert Stephanie Posted: 13 February 2015Rating:: 0...",
-            "date": "2015-02-13",
-            "author_name": "OuestFranceFR",
-            "categories": "culture",
-            "tags": "culture,rencontre,ouestfrancefrtags",
-            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/02/rencontre-culture-hip-hop-et-sourde",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture+culture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2h4r25_rencontre-culture-hip-hop-et-culture-sourde_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2h4r25_rencontre-culture-hip-hop-et-culture-sourde_news"
-        },
-        "dailymotion.com/2015/01/africa-news-room-guin%C3%A9e-equatoriale-culture-une-jeunesse-cr%C3%A9ative": {
-            "title": "AFRICA NEWS ROOM - Guin\u00e9e Equatoriale, Culture: Culture: une jeunesse cr\u00e9ative...",
-            "snippet": "Culture, Culture: une jeunesse cr\u00e9ativeAuthor: AFRICA24Tags: Africa24 Culture Guin\u00e9e Equatoriale AFRICA24 Posted: 05 January 2015Rating:: 0...",
-            "date": "2015-01-05",
-            "author_name": "AFRICA24",
-            "categories": "culture",
-            "tags": "culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/01/africa-news-room-guin%C3%A9e-equatoriale-culture-une-jeunesse-cr%C3%A9ative",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture+culture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2e1aod_africa-news-room-guinee-equatoriale-culture-culture-une-jeunesse-creative_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2e1aod_africa-news-room-guinee-equatoriale-culture-culture-une-jeunesse-creative_news"
         }
     }
 }
