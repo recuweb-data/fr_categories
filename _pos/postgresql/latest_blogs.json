@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "postgresql",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -15,7 +16,7 @@
             "snippet": "Le premier concerne le protocole de communication client/serveur de PostgreSQL. Il permet de bien prendre conscience du dialogue et des possibilit\u00e9s d'\u00e9change entre ces deux entit\u00e9s. Le second aborde la question des...",
             "date": "2015-03-29",
             "author_name": "Guillaume Lelarge",
-            "tags": "possibilit\u00e9s,client,livre,version,gresql,gleu",
+            "tags": "possibilit\u00e9s,communication,client,livre,version,gresql,gleu,permet",
             "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/03/version-0-2-de-mon-livre-sur-postgresql-gleu-s-blog",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/03/29/Version-0.2-de-mon-livre-sur-PostgreSQL"
@@ -31,12 +32,22 @@
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forums.phpbb-fr.com/support-installation-phpbb31/sujet204179.html"
         },
+        "braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and-sequence": {
+            "title": "PostgreSQL auto incresement, SERIAL, and SEQUENCE...",
+            "snippet": "PostgreSQL: Documentation: 8.1: CREATE SEQUENCE FAQ: Using Sequences in PostgreSQL How to create a sequence in PostgreSQL postgresql - How to reset sequence in postgres and fill id column with new data? - Stack Overflow auto increment - PostgreSQL...",
+            "date": "2015-02-12",
+            "author_name": "(Jeff Huang)",
+            "tags": "stack,data,gresql,how,gres",
+            "recuweb_url": "http://fr.recuweb.com/braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and-sequence",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=fr",
+            "source_url": "http://braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and.html"
+        },
         "blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog": {
             "title": "A new vmstat-like tool for PostgreSQL - gleu's blog...",
             "snippet": "I wish I had a PostgreSQL tool like that. I wished enough to eventually build it. I call it pgstat because I couldn't find a better name for it. It's an online command tool that connects to a database and grabs its activity statistics.",
             "date": "2015-01-25",
             "author_name": "Guillaume Lelarge",
-            "tags": "that,gresql,gleu",
+            "tags": "gresql,gleu",
             "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/01/25/A-new-vmstat-like-tool-for-PostgreSQL"
@@ -46,7 +57,7 @@
             "snippet": "SOSEDOFF/PGWEB \u00c2 GITHUB pgweb - Web-based PostgreSQL database browser Langue: Tags: gestion postgresql golang Site officiel...",
             "date": "2014-11-15",
             "author_name": "vienergie",
-            "tags": "gresql,web,gestion",
+            "tags": "database,gresql,web,gestion",
             "recuweb_url": "http://fr.recuweb.com/vienergie.wordpress.com/2014/11/pgweb-une-interface-de-gestion-bdd-postgresql-web-based-d%C3%A9velopp%C3%A9e",
             "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://vienergie.wordpress.com/2014/11/15/pgweb-une-interface-de-gestion-de-bdd-postgresql-web-based-developpee-en-go/"
@@ -66,7 +77,7 @@
             "snippet": "1. List All Postgres related packages dpkg -l grep postgres postgresql-9.2 postgresql-client-9.2 postgresql-client-common postgresql-common postgresql-contrib-9.2 postgresql-server-dev-9.2 2. Remove all above listed sudo apt-get --purge remove...",
             "date": "2014-01-09",
             "author_name": "shyammohankanojia",
-            "tags": "gres,installation,gresql,client,server",
+            "tags": "installation,how,gresql,gres,client,server",
             "recuweb_url": "http://fr.recuweb.com/binaryhash.wordpress.com/2014/01/how-to-remove-postgresql-from-my-installation",
             "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://binaryhash.wordpress.com/2014/01/09/how-to-remove-postgresql-from-my-ubuntu12-04-installation/"
@@ -76,7 +87,7 @@
             "snippet": "L'administrateur de bases de donn\u00e9es, le technicien d'exploitation et le d\u00e9veloppeur trouveront dans ce livre les informations indispensables pour exploiter au mieux toutes les possibilit\u00e9s de PostgreSQL (en version 9.4 au moment de la...",
             "date": "2006-11-26",
             "author_name": "S\u00e9bastien LARDI\u00c8RE",
-            "tags": "version,exploitation,d\u00e9veloppeur,livre,informations,mieux,possibilit\u00e9s,gresql,administration,bases,donn\u00e9es",
+            "tags": "version,livre,informations,possibilit\u00e9s,gresql,administration,bases,donn\u00e9es,d\u00e9veloppeur",
             "recuweb_url": "http://fr.recuweb.com/editions-eni.fr/2006/11/livre-postgresql-administration-et-exploitation-de-vos-bases",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://editions-eni.fr/livres/postgresql-administration-et-exploitation-de-vos-bases-de-donnees-3ieme-edition/.0b024f307c3a54f4697a07b97f737ba6.html"
