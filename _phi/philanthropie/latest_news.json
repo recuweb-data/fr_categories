@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "philanthropie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/philanthropie/",
@@ -10,45 +11,105 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/philanthropie/philanthropie/blogs.json"
     },
     "items": {
-        "ledevoir.com/2015/03/pour-une-politique-de-recherche-et-dinnovation-durable": {
-            "title": "Pour une politique de recherche et dinnovation durable...",
-            "snippet": "En somme, les r\u00e9sultats de la recherche universitaire sont des biens publics dont la quasi-totalit\u00e9 du financement ne peut provenir que des gouvernements et de la philanthropie d\u00e9sint\u00e9ress\u00e9e. Ce nest pas un hasard si les universit\u00e9s...",
-            "date": "2015-03-15",
-            "categories": "politique,philanthropie",
-            "tags": "recherche,philanthropie",
-            "recuweb_url": "http://fr.recuweb.com/philanthropie/ledevoir.com/2015/03/pour-une-politique-de-recherche-et-dinnovation-durable",
+        "mensup.fr/2015/04/les-r%C3%A9ponses-de-pascale-pellarin-et-max-thillaye-du-boullay": {
+            "title": "Les r\u00e9ponses de Pascale Pellarin et Max Thillaye du Boullay aux auditeurs 20/04...",
+            "snippet": "Pascale Pellarin, directrice de l'ing\u00e9nierie patrimoniale Palatine et Max Thillaye du Boullay, conseiller en philanthropie aux Apprentis d'Auteuil ont r\u00e9pondu aux questions des auditeurs. - Int\u00e9grale Placements, du 20 avril, pr\u00e9sent\u00e9 par...",
+            "date": "2015-04-22",
+            "categories": "ingenierie,philanthropie",
+            "tags": "conseiller,philanthropie,avril",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/mensup.fr/2015/04/les-r%C3%A9ponses-de-pascale-pellarin-et-max-thillaye-du-boullay",
             "resource_url": "http://www.bing.com/news/search?first=1&q=philanthropie&format=RSS&cc=fr",
-            "source_url": "http://ledevoir.com/societe/education/434517/pour-une-politique-de-recherche-et-d-innovation-durable"
+            "source_url": "http://mensup.fr/news/economie/0,0,0,0,59436-les_reponses_de_pascale_pellarin_et_max_thillaye_du_boullay_aux_auditeurs_20_04.html"
         },
-        "up-magazine.info/2015/03/31-mars-les-assises-de-la-philanthropie-up-magazine": {
-            "title": "31 Mars: Les Assises de la philanthropie - UP Magazine...",
-            "snippet": "UP Magazine31 Mars: Les Assises de la philanthropieUP MagazineLes Assises de la Philanthropie sont le rendez-vous de r\u00e9f\u00e9rence, en France, r\u00e9unissant de grands philanthropes fran\u00e7ais et \u00e9trangers ainsi que des experts des sujets...",
-            "date": "2015-03-14",
+        "hebdo.ch/2015/04/la-suisse-reste-un-pays-riche-en-fondations-d-utilit%C3%A9-publique": {
+            "title": "La Suisse reste un pays riche en fondations d'utilit\u00e9 publique...",
+            "snippet": "La num\u00e9risation gagne aussi en importance. Lan dernier, plusieurs bases de donn\u00e9es en lien avec les fondations et la philanthropie ont ainsi vu le jour et de nouvelles formes, comme le financement participatif (crowdfunding), sajoutent aux...",
+            "date": "2015-04-21",
             "categories": "philanthropie",
-            "tags": "philanthropie,france",
-            "recuweb_url": "http://fr.recuweb.com/philanthropie/up-magazine.info/2015/03/31-mars-les-assises-de-la-philanthropie-up-magazine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=philanthropie%2Bphilanthropie&output=atom&nord=1",
-            "source_url": "http://up-magazine.info/index.php/actualites/rendez-vous/4408-31-mars-les-assises-de-la-philanthropie"
-        },
-        "courrierdusaguenay.com/2015/03/philanthropie-planifi%C3%A9e-%C3%AAtre-g%C3%A9n%C3%A9reux-m%C3%AAme-apr%C3%A8s-la-mort": {
-            "title": "Philanthropie planifi\u00e9e: \u00eatre g\u00e9n\u00e9reux, m\u00eame apr\u00e8s la mort...",
-            "snippet": "ALTERNATIVE. Les dons en temps et en argent sont des moyens bien connus pour soutenir une cause, mais le chef d'entreprise derri\u00e8re Int\u00e9gral Demo Correction (IDC), Dr \u00c9ric Dupont, souhaite que soit davantage connue et r\u00e9pandue la troisi\u00e8me...",
-            "date": "2015-03-06",
-            "categories": "mort,philanthropie",
-            "tags": "troisi\u00e8me,dons,philanthropie",
-            "recuweb_url": "http://fr.recuweb.com/philanthropie/courrierdusaguenay.com/2015/03/philanthropie-planifi%C3%A9e-%C3%AAtre-g%C3%A9n%C3%A9reux-m%C3%AAme-apr%C3%A8s-la-mort",
+            "tags": "plusieurs,gagne,gagne-aussi,aussi,utilit\u00e9,utilit\u00e9-publique,publique,suisse,fondations,philanthropie",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/hebdo.ch/2015/04/la-suisse-reste-un-pays-riche-en-fondations-d-utilit%C3%A9-publique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=philanthropie&format=RSS&cc=fr",
-            "source_url": "http://courrierdusaguenay.com/Actualites/National/2015-03-06/article-4067444/Philanthropie-planifiee:-etre-genereux,-meme-apres-la-mort/1"
+            "source_url": "http://hebdo.ch/news/politique/la-suisse-reste-un-pays-riche-en-fondations-dutilit\u00e9-publique"
         },
-        "boursier.com/2015/02/indice-2015-bnp-paribas-individual-philanthropy-index-l-europe": {
-            "title": "Indice 2015 \"BNP Paribas Individual Philanthropy Index\": l'Europe... -...",
-            "snippet": "Indice 2015 \"BNP Paribas Individual Philanthropy Index\": l'Europe... () L'indice 2015 \"BNP Paribas Individual Philanthropy Index\" r\u00e9v\u00e8le que la Philanthropie gagne du terrain partout dans le monde, affichant une augmentation moyenne de 5 points en...",
-            "date": "2015-02-26",
+        "lorientlejour.com/2015/04/mohammad-ben-salmane-lhomme-fort-de-larabie-saoudite": {
+            "title": "Mohammad ben Salmane, lhomme fort de lArabie saoudite...",
+            "snippet": "indique que le prince a eu une carri\u00e8re professionnelle de 10 ans et qu'il a \u00e9t\u00e9 actif dans les affaires et la philanthropie. Titulaire d'une license en droit de l'universit\u00e9 du roi Saoud, il est devenu en 2009 conseiller sp\u00e9cial de son...",
+            "date": "2015-04-21",
             "categories": "philanthropie",
-            "tags": "moyenne,monde,philanthropie",
-            "recuweb_url": "http://fr.recuweb.com/philanthropie/boursier.com/2015/02/indice-2015-bnp-paribas-individual-philanthropy-index-l-europe",
+            "tags": "conseiller,roi,\u00e9t\u00e9,philanthropie,titulaire",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/lorientlejour.com/2015/04/mohammad-ben-salmane-lhomme-fort-de-larabie-saoudite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=philanthropie&format=RSS&cc=fr",
+            "source_url": "http://lorientlejour.com/article/921749/mohammad-ben-salmane-lhomme-fort-de-larabie-saoudite-.html"
+        },
+        "rtl.fr/2015/04/m%C3%A9diterran%C3%A9e-j-ai-fait-partir-entre-et-personnes-raconte-un-passeur": {
+            "title": "M\u00e9diterran\u00e9e: J'ai fait partir entre et personnes, raconte un passeur...",
+            "snippet": "Mais il ne fait pas dans la philanthropie: il exige des migrants le remboursement des pots-de-vin qu'il a vers\u00e9s, avant de leur permettre de monter sur ses embarcations, direction Lampedusa, en Sicile. En Libye, Mered Medhanie se partage le march\u00e9...",
+            "date": "2015-04-20",
+            "categories": "philanthropie",
+            "tags": "personnes,philanthropie",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/rtl.fr/2015/04/m%C3%A9diterran%C3%A9e-j-ai-fait-partir-entre-et-personnes-raconte-un-passeur",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=philanthropie&format=RSS&cc=fr",
+            "source_url": "http://rtl.fr/actu/international/mediterranee-j-ai-fait-partir-entre-7-000-et-8-000-personnes-raconte-un-passeur-7777425408"
+        },
+        "lactualite.com/2015/04/millionnaires-sans-fronti%C3%A8res": {
+            "title": "Millionnaires sans fronti\u00e8res...",
+            "snippet": "Jane Wales est aux premi\u00e8res loges de cette \u00e9volution de la philanthropie. Ancienne conseill\u00e8re sp\u00e9ciale du pr\u00e9sident Bill Clinton et codirectrice du Conseil de s\u00e9curit\u00e9 nationale, elle a cofond\u00e9 en 2001 le Global Philanthropy Forum, dont...",
+            "date": "2015-04-17",
+            "categories": "philanthropie",
+            "tags": "forum,pr\u00e9sident,philanthropie",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/lactualite.com/2015/04/millionnaires-sans-fronti%C3%A8res",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=philanthropie&format=RSS&cc=fr",
+            "source_url": "http://lactualite.com/societe/millionnaires-sans-frontieres/?preview_id=285319"
+        },
+        "capital.fr/2015/04/les-fondations-actionnaires-un-mod%C3%A8le-de-gouvernance-tr%C3%A8s-r%C3%A9pandu-et-efficace": {
+            "title": "Les fondations actionnaires, un mod\u00e8le de gouvernance tr\u00e8s r\u00e9pandu et efficace...",
+            "snippet": "Prophil, Delsol Avocats et la Chaire Philanthropie de lESSEC publient la premi\u00e8re \u00e9tude europ\u00e9enne sur ces fondations actionnaires, avec le soutien de Mazars. Tour dhorizon A lorigine de ce mod\u00e8le \u00e9tonnant de gouvernance, on trouve souvent...",
+            "date": "2015-04-13",
+            "categories": "philanthropie",
+            "tags": "mod\u00e8le,chaire,chaire_philanthropie,philanthropie,fondations",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/capital.fr/2015/04/les-fondations-actionnaires-un-mod%C3%A8le-de-gouvernance-tr%C3%A8s-r%C3%A9pandu-et-efficace",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=philanthropie&format=RSS&cc=fr",
+            "source_url": "http://capital.fr/carriere-management/harvard-business-review-france/les-fondations-actionnaires-un-modele-de-gouvernance-tres-repandu-et-efficace-1029935"
+        },
+        "carenews.com/2015/04/lcl-ceinture-noire-de-philanthropie-carenews": {
+            "title": "LCL, ceinture noire de philanthropie! - Carenews...",
+            "snippet": "CarenewsLCL, ceinture noire de philanthropie!CarenewsUne fondation n\u00e9e il y a seulement 3 ans mais un engagement solidaire mis en place depuis plusieurs d\u00e9cennies pour LCL. Si la structure caritative a \u00e9t\u00e9 cr\u00e9\u00e9e en vue de soutenir les actions...",
+            "date": "2015-04-01",
+            "categories": "place,philanthropie",
+            "tags": "\u00e9t\u00e9,solidaire,plusieurs,d\u00e9cennies,philanthropie,carenews,fondation",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/carenews.com/2015/04/lcl-ceinture-noire-de-philanthropie-carenews",
             "resource_url": "http://news.google.fr/?hl=fr&q=philanthropie%2Bphilanthropie&output=atom&nord=1",
-            "source_url": "http://boursier.com/actions/actualites/news/indice-2015-bnp-paribas-individual-philanthropy-index-l-europe-remonte-en-fleche-618064.html"
+            "source_url": "http://carenews.com/fr/news/2564-lcl-ceinture-noire-de-philanthropie"
+        },
+        "lemonde.fr/2015/03/les-nouveaux-visages-de-la-philanthropie-le-monde": {
+            "title": "Les nouveaux visages de la philanthropie - Le Monde...",
+            "snippet": "Le MondeLes nouveaux visages de la philanthropieLe MondeLa philanthropie prend un coup de jeune. En 2014, trois des plus importants donateurs am\u00e9ricains \u00e9taient des trentenaires. Et sur les 10milliards de dollars offerts par les 50 principaux...",
+            "date": "2015-03-31",
+            "categories": "philanthropie",
+            "tags": "philanthropie,monde,principaux",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/lemonde.fr/2015/03/les-nouveaux-visages-de-la-philanthropie-le-monde",
+            "resource_url": "http://news.google.fr/?hl=fr&q=philanthropie%2Bphilanthropie&output=atom&nord=1",
+            "source_url": "http://lemonde.fr/argent/article/2015/03/31/les-nouveaux-visages-de-la-philanthropie_4606732_1657007.html"
+        },
+        "challenges.fr/2015/03/don-de-tim-cook-la-vague-philanthropie-gagne-aussi-france": {
+            "title": "Don de Tim Cook: la vague de la philanthropie gagne aussi la France -...",
+            "snippet": "de Tim Cook: la vague de la philanthropie gagne aussi la 'information a pu surprendre en France mais, aux Etats-Unis, elle illustre le fait que la philanthropie est un acte civique majeur et que, de plus en plus, elle devient un vecteur de...",
+            "date": "2015-03-27",
+            "categories": "philanthropie",
+            "tags": "majeur,gagne,gagne-aussi,aussi,don,philanthropie,france",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/challenges.fr/2015/03/don-de-tim-cook-la-vague-philanthropie-gagne-aussi-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=philanthropie%2Bphilanthropie&output=atom&nord=1",
+            "source_url": "http://challenges.fr/entreprise/20150327.CHA4379/don-de-tim-cook-la-vague-de-la-philanthropie-gagne-aussi-la-france.html"
+        },
+        "carenews.com/2015/03/bnp-paribas-publie-son-indice-de-la-philanthropie-individuelle-en-carenews": {
+            "title": "BNP Paribas publie son indice de la philanthropie individuelle en... - Carenews...",
+            "snippet": "CarenewsBNP Paribas publie son indice de la philanthropie individuelle en...CarenewsBNP Paribas et Forbes Insights ont publi\u00e9 leur enqu\u00eate annuelle sur le d\u00e9veloppement de la philanthropie individuelle dans le monde. Cette enqu\u00eate montre que la...",
+            "date": "2015-03-26",
+            "categories": "philanthropie",
+            "tags": "monde,philanthropie,carenews",
+            "recuweb_url": "http://fr.recuweb.com/philanthropie/carenews.com/2015/03/bnp-paribas-publie-son-indice-de-la-philanthropie-individuelle-en-carenews",
+            "resource_url": "http://news.google.fr/?hl=fr&q=philanthropie%2Bphilanthropie&output=atom&nord=1",
+            "source_url": "http://carenews.com/fr/news/2622-bnp-paribas-publie-son-indice-de-la-philanthropie-individuelle-en-2015"
         }
     }
 }
