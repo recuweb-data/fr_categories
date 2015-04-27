@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ipod",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ipod/",
@@ -10,85 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
     },
     "items": {
-        "mac4ever.com/2015/04/apple-watch-des-bracelets-exclusifs-mais-r%C3%A9serv%C3%A9s-aux-vip": {
-            "title": "Apple Watch: des bracelets exclusifs mais r\u00e9serv\u00e9s aux VIP...",
+        "mac4ever.com/2015/04/peu-de-stock-chez-colette-aucun-en-apple-store": {
+            "title": "Peu de stock chez Colette, aucun en Apple Store, mais des approvisionnements tr\u00e8s bient\u00f4t!",
             "snippet": "Autant \u00e9conomiser quelques fonds de tiroir et opter pour un iPad mini Retina, nettement plus performant! iPod touch 06/2014 209 Petits changements sur la gamme iPod Touch pour l'\u00e9t\u00e9 2014: le mod\u00e8le gris gagne une cam\u00e9ra arri\u00e8re et les prix...",
-            "date": "2015-04-18",
+            "date": "2015-04-23",
             "categories": "ipad,ipod",
-            "tags": "touch,apple,ipad,mini,retina,ipod,\u00e9t\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/ipod/mac4ever.com/2015/04/apple-watch-des-bracelets-exclusifs-mais-r%C3%A9serv%C3%A9s-aux-vip",
+            "tags": "touch,fonds,apple,store,ipad,mini,retina,ipod,\u00e9t\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/ipod/mac4ever.com/2015/04/peu-de-stock-chez-colette-aucun-en-apple-store",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=fr",
-            "source_url": "http://mac4ever.com/actu/100247_apple-watch-des-bracelets-exclusifs-mais-reserves-aux-vip"
+            "source_url": "http://mac4ever.com/actu/100425_peu-de-stock-chez-colette-aucun-en-apple-store-mais-des-approvisionnements-tres-bientot"
         },
-        "worldissmall.fr/2015/04/test-oreiller-imusic-bluetooth-blanc": {
-            "title": "Test: Oreiller iMusic Bluetooth blanc...",
-            "snippet": "MobileFun propose sur son e-shop un oreiller plut\u00f4t original qui va vous permettre d\u00e9couter les musiques pr\u00e9sentes sur votre appareil iOS (iPhone, iPad, iPod Touch) ou Android tout en \u00e9tant confortablement allong\u00e9 dans votre lit! Le principe...",
-            "date": "2015-04-18",
-            "categories": "ipod,musique,iphone,ipad",
-            "tags": "ipod,ipod_touch,touch,musiques,ios,iphone,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/worldissmall.fr/2015/04/test-oreiller-imusic-bluetooth-blanc",
+        "jeuvideo.afjv.com/2015/04/real-racing-3": {
+            "title": "Real Racing 3...",
+            "snippet": "Real Racing 2 Speeds onto the App Store 2010-12: Firemint Delivers Next Generation Racing Experience for iPhone and iPod touch Game development studio Firemint today announced that the Real Racing 2...",
+            "date": "2015-04-23",
+            "categories": "iphone,ipod",
+            "tags": "generation,app,store,iphone,ipod,touch",
+            "recuweb_url": "http://fr.recuweb.com/ipod/jeuvideo.afjv.com/2015/04/real-racing-3",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=fr",
-            "source_url": "http://worldissmall.fr/2015/04/18/test-oreiller-imusic-bluetooth-blanc/"
+            "source_url": "http://jeuvideo.afjv.com/news/11538_real-racing-3.htm"
+        },
+        "mac4ever.com/2015/04/les-tout-derniers-ipod-classic-sont-sur-le-refurb-mac4ever": {
+            "title": "Les tout derniers iPod Classic sont sur le Refurb! - Mac4ever...",
+            "snippet": "Les tout derniers iPod Classic sont sur le Refurb!Mac4everSelon nos informations, Apple vient de mettre en ligne sur son Refurb les tout derniers iPod Classic. Disponibles en versiojn 160Go et avec deux couleurs aux choix, il ne resterait que...",
+            "date": "2015-04-21",
+            "categories": "ipod",
+            "tags": "mettre,ipod,apple",
+            "recuweb_url": "http://fr.recuweb.com/ipod/mac4ever.com/2015/04/les-tout-derniers-ipod-classic-sont-sur-le-refurb-mac4ever",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ipod&output=atom&nord=1",
+            "source_url": "http://mac4ever.com/actu/100319_les-tout-derniers-ipod-classic-sont-sur-le-refurb"
+        },
+        "actu.meilleurmobile.com/2015/04/l-ipod-touch-pour-tricher-aux-%C3%A9checs-actu-meilleurmobile": {
+            "title": "L'iPod Touch pour tricher aux \u00e9checs - Actu MeilleurMobile...",
+            "snippet": "Actu MeilleurMobileL'iPod Touch pour tricher aux \u00e9checsActu MeilleurMobileL'ipod Touch est un engin de triche redoutable lors des tournois d'\u00e9checs. Ce qu'Apple n'avait sans doute pas pr\u00e9vu en cr\u00e9ant l'appareil Les \u00e9checs, on a tous essay\u00e9 d'y...",
+            "date": "2015-04-20",
+            "categories": "ipod",
+            "tags": "ipod,ipod_touch,touch,apple",
+            "recuweb_url": "http://fr.recuweb.com/ipod/actu.meilleurmobile.com/2015/04/l-ipod-touch-pour-tricher-aux-%C3%A9checs-actu-meilleurmobile",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ipod&output=atom&nord=1",
+            "source_url": "http://actu.meilleurmobile.com/lipod-touch-pour-tricher-aux-echecs_84444"
+        },
+        "iphonesoft.fr/2015/04/2-fonds-d-%C3%A9cran-cuir-noir-pour-tous-les-iphone-ipod": {
+            "title": "2 fonds d'\u00e9cran cuir noir pour tous les iPhone, iPod et iPad...",
+            "snippet": "Ce week-end, rien que pour vous, 2 fonds d'\u00e9cran de cuir noir pour tous les iPhone, iPod Touch et iPad. Pour t\u00e9l\u00e9charger votre wallpaper favori, il vous faudra la derni\u00e8re version de iSoft v5 (App, iPhone et iPad, 5 \u00e9toiles - 1054 votes, VF,...",
+            "date": "2015-04-19",
+            "categories": "iphone,ipod,ipad",
+            "tags": "version,touch,fonds,iphone,ipod,ipad,week,end,app",
+            "recuweb_url": "http://fr.recuweb.com/ipad/iphonesoft.fr/2015/04/2-fonds-d-%C3%A9cran-cuir-noir-pour-tous-les-iphone-ipod",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=fr",
+            "source_url": "http://iphonesoft.fr/2015/04/19/2-fonds-ecran-cuir-noir-tous-iphone-ipod-ipad"
         },
         "bhmag.fr/2015/04/apple-watch-2-5-millions-de-montres-auraient-%C3%A9t%C3%A9-pr%C3%A9command%C3%A9es": {
             "title": "Apple Watch: 2,5 millions de montres auraient \u00e9t\u00e9 pr\u00e9command\u00e9es le week-end dernier...",
             "snippet": "Le programme iTunes est un lecteur multim\u00e9dia ultra polyvalent destin\u00e9 avant tout aux possesseurs et utilisateurs de produits Apple: iPod, iPod Touch, iPhone, iPad,... Apple publie la version 8.3 diOS pour ses terminaux mobiles Apple vient de...",
             "date": "2015-04-14",
             "categories": "ipod,iphone,ipad",
-            "tags": "version,lecteur,produits,millions,\u00e9t\u00e9,apple,itunes,ipod,touch,iphone,ipad",
+            "tags": "version,end,millions,\u00e9t\u00e9,week,apple,itunes,ipod,touch,iphone,ipad",
             "recuweb_url": "http://fr.recuweb.com/ipad/bhmag.fr/2015/04/apple-watch-2-5-millions-de-montres-auraient-%C3%A9t%C3%A9-pr%C3%A9command%C3%A9es",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipod%2Bipod&format=RSS&cc=fr",
             "source_url": "http://bhmag.fr/actualites/apple-watch-25-millions-montres-precommandees-week-end-dernier-27256"
-        },
-        "bilan.ch/2015/04/iphone-ipod-ipad-pourquoi-apple-n-a-pas-choisi-iwatch": {
-            "title": "iPhone, iPod, iPad,... pourquoi Apple n'a pas choisi iWatch...",
-            "snippet": "Par Matthieu Hoffstetter Pour quelle raison Apple n'a pas choisi pour sa smartwatch le m\u00eame type de nom que pour ses autres produits? Le nom Apple Watch a pris la place du nom iWatch et rompu une tradition maison. Depuis la fin des ann\u00e9es 1990,...",
-            "date": "2015-04-14",
-            "categories": "tradition,place,iphone,ipod,ipad",
-            "tags": "fin,fin-des-ann\u00e9es,ann\u00e9es,m\u00eame,produits,choisi,iphone,ipod,ipad,pourquoi,apple",
-            "recuweb_url": "http://fr.recuweb.com/ipad/bilan.ch/2015/04/iphone-ipod-ipad-pourquoi-apple-n-a-pas-choisi-iwatch",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=fr",
-            "source_url": "http://bilan.ch/node/1019844"
-        },
-        "bilan.ch/2015/04/iphone-ipod-ipad-pourquoi-apple-n-a-pas-choisi-iwatch-bilan": {
-            "title": "iPhone, iPod, iPad,... pourquoi Apple n'a pas choisi iWatch - Bilan...",
-            "snippet": "BilaniPhone, iPod, iPad,... pourquoi Apple n'a pas choisi iWatchBilanDepuis la fin des ann\u00e9es 1990, Apple nomme (presque) tous ses appareils de la m\u00eame mani\u00e8re: l'ordinateur fixe a \u00e9t\u00e9 baptis\u00e9 iMac, le lecteur de MP3 nomm\u00e9 iPod, le smartphone...",
-            "date": "2015-04-14",
-            "categories": "ordinateur,iphone,ipod,ipad,imac",
-            "tags": "lecteur,\u00e9t\u00e9,m\u00eame,fin,fin-des-ann\u00e9es,ann\u00e9es,choisi,iphone,ipod,ipad,pourquoi,apple",
-            "recuweb_url": "http://fr.recuweb.com/imac/bilan.ch/2015/04/iphone-ipod-ipad-pourquoi-apple-n-a-pas-choisi-iwatch-bilan",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ipod%2Bipod&output=atom&nord=1",
-            "source_url": "http://bilan.ch/techno-plus-de-redaction/iphone-ipod-ipad-apple-na-choisi-iwatch"
-        },
-        "commentcamarche.net/2015/04/fen%C3%AAtres-de-publicit%C3%A9-sous-firefox-windows-8-1-r%C3%A9solu": {
-            "title": "Fen\u00eatres de publicit\u00e9 sous Firefox windows 8.1 [R\u00e9solu]...",
-            "snippet": "Service de l'iPod (iPod Service) - Apple Inc. - C:Program O23 - Service: Intel(R) Dynamic Application Loader Host Interface Service (jhi_service) - Intel Corporation - C:Program Files (x86)IntelIntel(R) Management Engine...",
-            "date": "2015-04-10",
-            "categories": "management,ipod",
-            "tags": "application,apple,windows,ipod",
-            "recuweb_url": "http://fr.recuweb.com/ipod/commentcamarche.net/2015/04/fen%C3%AAtres-de-publicit%C3%A9-sous-firefox-windows-8-1-r%C3%A9solu",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipod%2Bipod&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31814502-fenetres-de-publicite-sous-firefox-windows-8-1"
-        },
-        "worldissmall.fr/2015/04/mortal-kombat-x-est-disponible-sur-iphone-ipad-&-ipod-touch": {
-            "title": "Mortal Kombat X est disponible sur iPhone, iPad & iPod Touch - Worldissmall (Blog)...",
-            "snippet": "Worldissmall (Blog)Mortal Kombat X est disponible sur iPhone, iPad & iPod TouchWorldissmall (Blog)Warner Bros. Entertainment a publi\u00e9 en d\u00e9but de semaine sur l'App Store son nouveau titre intitul\u00e9 Mortal Kombat X. Dans ce superbe jeu de cartes et...",
-            "date": "2015-04-10",
-            "categories": "jeu-de-cartes,ipod,iphone,ipad",
-            "tags": "ipod,ipod_touch,touch,iphone,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/worldissmall.fr/2015/04/mortal-kombat-x-est-disponible-sur-iphone-ipad-&-ipod-touch",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ipod&output=atom&nord=1",
-            "source_url": "http://worldissmall.fr/2015/04/10/mortal-kombat-x-est-disponible-sur-iphone-ipad-ipod-touch/"
-        },
-        "quebec.huffingtonpost.ca/2015/04/un-ipod-touch-vol%C3%A9-retrac%C3%A9-grce-aux-m%C3%A9dias-sociaux": {
-            "title": "Un iPod touch vol\u00e9 retrac\u00e9 grce aux m\u00e9dias sociaux...",
-            "snippet": "Plus de deux mois apr\u00e8s s'\u00eatre fait voler son iPod touch, une femme de Winnipeg a eu la surprise de voir appara\u00eetre des \u00e9goportraits d'une inconnue sur son compte Facebook. Un texte de Louis-Philippe LeBlanc \u00c0 la fin janvier, la r\u00e9sidence de...",
-            "date": "2015-04-09",
-            "categories": "ipod,facebook",
-            "tags": "fin,voler,ipod,touch,facebook",
-            "recuweb_url": "http://fr.recuweb.com/facebook/quebec.huffingtonpost.ca/2015/04/un-ipod-touch-vol%C3%A9-retrac%C3%A9-grce-aux-m%C3%A9dias-sociaux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipod&format=RSS&cc=fr",
-            "source_url": "http://quebec.huffingtonpost.ca/2015/04/08/ipod-touch-vole-retrace_n_7028242.html"
         }
     }
 }
