@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ski-nautique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ski-nautique/",
@@ -10,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ski-nautique/ski-nautique/blogs.json"
     },
     "items": {
-        "royan-actu.com/2015/03/quand-saujon-devient-un-haut-lieu-de-la-glisse": {
-            "title": "Quand Saujon devient un haut lieu de la glisse...",
-            "snippet": "Les installations permettront la pratique du ski nautique, du kneeboard pour les enfants et les d\u00e9butants, et le wakeboard avec modules pour les plus confirm\u00e9s. Ces activit\u00e9s seront accessibles d\u00e8s lge de 8 ans. A condition de savoir nager.",
-            "date": "2015-03-18",
-            "categories": "ski",
-            "tags": "enfants,ski,nautique",
-            "recuweb_url": "http://fr.recuweb.com/ski/royan-actu.com/2015/03/quand-saujon-devient-un-haut-lieu-de-la-glisse",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ski%2Bnautique&format=RSS&cc=fr",
-            "source_url": "http://royan-actu.com/quand-saujon-devient-un-haut-lieu-de-la-glisse-13410"
-        },
-        "lanouvellerepublique.fr/2015/03/l-indre-bon-%C3%A9l%C3%A8ve-la-nouvelle-r%C3%A9publique": {
-            "title": "L'Indre, bon \u00e9l\u00e8ve - la Nouvelle R\u00e9publique...",
-            "snippet": "la Nouvelle R\u00e9publiqueL'Indre, bon \u00e9l\u00e8vela Nouvelle R\u00e9publiqueCelui que l'on surnommait Le Petit Prince lorsqu'il survolait le ski nautique mondial conna\u00eet bien le d\u00e9partement de l'Indre pour y faire \u00e9tape au moins une fois par an, lorsque...",
-            "date": "2015-03-17",
-            "categories": "ski",
-            "tags": "petit,ski,nautique",
-            "recuweb_url": "http://fr.recuweb.com/ski/lanouvellerepublique.fr/2015/03/l-indre-bon-%C3%A9l%C3%A8ve-la-nouvelle-r%C3%A9publique",
+        "bateaux.com/2015/04/la-vignette-fluviale-est-elle-obligatoire-pour-naviguer-sur-les-eaux": {
+            "title": "La vignette fluviale est-elle obligatoire pour naviguer sur les eaux... -...",
+            "snippet": "vignette fluviale est-elle obligatoire pour naviguer sur les eaux... ce qui concerne l'exercice de la navigation de plaisance, des activit\u00e9s nautiques et motonautiques sp\u00e9cifiques, comme le ski nautique, le jet ski il est n\u00e9cessaire de consulter...",
+            "date": "2015-04-23",
+            "categories": "navigation,ski",
+            "tags": "comme,activit\u00e9s,nautique,ski",
+            "recuweb_url": "http://fr.recuweb.com/ski/bateaux.com/2015/04/la-vignette-fluviale-est-elle-obligatoire-pour-naviguer-sur-les-eaux",
             "resource_url": "http://news.google.fr/?hl=fr&q=ski%2Bnautique&output=atom&nord=1",
-            "source_url": "http://lanouvellerepublique.fr/Indre/Sport/Sports-de-glisse/Ski-nautique/n/Contenus/Articles/2015/03/17/L-Indre-bon-eleve-2259857"
+            "source_url": "http://bateaux.com/article/20444/La-vignette-fluviale-est-elle-obligatoire-pour-naviguer-sur-les-eaux-interieures"
+        },
+        "nordeclair.fr/2015/04/bondues-de-quoi-int%C3%A9resser-les-jeunes-cet-%C3%A9t%C3%A9-nord": {
+            "title": "Bondues: de quoi int\u00e9resser les jeunes cet \u00e9t\u00e9 - Nord...",
+            "snippet": "Nord: de quoi int\u00e9resser les jeunes cet \u00e9t\u00e9Nord mairie propose elle aussi des activit\u00e9s vari\u00e9e: sport en tout genre, aventure, mini-camps de trois jours, parcs d'attraction, ski nautique, lazer wood (lazer game dans les bois), karting, etc.",
+            "date": "2015-04-22",
+            "categories": "sport,ski,karting",
+            "tags": "lazer,lazer-game,game,bois,lazer-wood,wood,parcs,camps,camps-de-trois,trois,trois-jours,jours,sport,genre,mairie,mairie-propose,propose,propose-elle-aussi,aussi,aussi-des-activit\u00e9s,activit\u00e9s,activit\u00e9s-vari\u00e9e,vari\u00e9e,int\u00e9resser,int\u00e9resser-les-jeunes,jeunes,jeunes-cet-\u00e9t\u00e9,\u00e9t\u00e9,bondues,aventure,mini,ski,nautique,karting,etc",
+            "recuweb_url": "http://fr.recuweb.com/karting/nordeclair.fr/2015/04/bondues-de-quoi-int%C3%A9resser-les-jeunes-cet-%C3%A9t%C3%A9-nord",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ski%2Bnautique&output=atom&nord=1",
+            "source_url": "http://nordeclair.fr/info-locale/bondues-de-quoi-interesser-les-jeunes-cet-ete-jna446b0n711483"
+        },
+        "lemonde.fr/2015/04/sur-des-sites-jo-de-rio-les-poissons-se-meurent": {
+            "title": "Sur des sites des JO de Rio, les poissons se meurent - Le Monde...",
+            "snippet": "Le MondeSur des sites des JO de Rio, les poissons se meurentLe MondeLe lac est le point de ralliement des amateurs de sports aquatiques comme le ski nautique ou l'aviron. C'est sur l'\u00eele de Cai\u00e7aras, au sud du lagon, qu'auront lieu les \u00e9preuves...",
+            "date": "2015-04-22",
+            "categories": "sport,ski",
+            "tags": "lac,comme,ski,nautique",
+            "recuweb_url": "http://fr.recuweb.com/ski/lemonde.fr/2015/04/sur-des-sites-jo-de-rio-les-poissons-se-meurent",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ski%2Bnautique&output=atom&nord=1",
+            "source_url": "http://lemonde.fr/jeux-olympiques/portfolio/2015/04/21/sur-des-sites-des-jo-de-rio-les-poissons-se-meurent_4619961_1616891.html"
+        },
+        "lavoixdunord.fr/2015/04/bondues-de-quoi-int%C3%A9resser-les-jeunes-cet-%C3%A9t%C3%A9": {
+            "title": "Bondues: de quoi int\u00e9resser les jeunes cet \u00e9t\u00e9...",
+            "snippet": "La mairie propose elle aussi des activit\u00e9s vari\u00e9e: sport en tout genre, aventure, mini-camps de trois jours, parcs dattraction, ski nautique, lazer wood (lazer game dans les bois), karting, etc. Tout est fait pour r\u00e9pondre aux attentes des...",
+            "date": "2015-04-21",
+            "categories": "sport,ski,karting",
+            "tags": "lazer,lazer-game,game,bois,lazer-wood,wood,parcs,camps,camps-de-trois,trois,trois-jours,jours,sport,genre,mairie,mairie-propose,propose,propose-elle-aussi,aussi,aussi-des-activit\u00e9s,activit\u00e9s,activit\u00e9s-vari\u00e9e,vari\u00e9e,int\u00e9resser,int\u00e9resser-les-jeunes,jeunes,jeunes-cet-\u00e9t\u00e9,\u00e9t\u00e9,bondues,aventure,mini,ski,nautique,karting,etc",
+            "recuweb_url": "http://fr.recuweb.com/karting/lavoixdunord.fr/2015/04/bondues-de-quoi-int%C3%A9resser-les-jeunes-cet-%C3%A9t%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ski%2Bnautique&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/bondues-de-quoi-interesser-les-jeunes-cet-ete-ia22b50033n2787375"
+        },
+        "lanouvellerepublique.fr/2015/04/patrice-martin-le-petit-prince-devenu-roi-la-nouvelle-r%C3%A9publique": {
+            "title": "Patrice Martin, le Petit Prince devenu roi - la Nouvelle R\u00e9publique...",
+            "snippet": "la Nouvelle R\u00e9publiquePatrice Martin, le Petit Prince devenu roila Nouvelle R\u00e9publiqueActuellement, les clubs qui ont une pratique du ski nautique avec un bateau ont une limite de skieurs par engin, alors qu'un t\u00e9l\u00e9ski permet de faire cohabiter...",
+            "date": "2015-04-05",
+            "categories": "ski",
+            "tags": "bateau,ski,nautique",
+            "recuweb_url": "http://fr.recuweb.com/ski/lanouvellerepublique.fr/2015/04/patrice-martin-le-petit-prince-devenu-roi-la-nouvelle-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ski%2Bnautique&output=atom&nord=1",
+            "source_url": "http://lanouvellerepublique.fr/France-Monde/Sport/Sports-de-glisse/Ski-nautique/n/Contenus/Articles/2015/04/05/Patrice-Martin-le-Petit-Prince-devenu-roi-2283847"
         }
     }
 }
