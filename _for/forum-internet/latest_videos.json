@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "forum-internet",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/forum-internet/",
@@ -10,21 +11,33 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/blogs.json"
     },
     "items": {
-        "youtube.com/2015/02/intervention-strasbourg-f%C3%A9vrier-2015-forum-sur-la-gouvernance-de-l-internet": {
-            "title": "Intervention Strasbourg f\u00e9vrier 2015 - Forum sur la gouvernance de l'internet...",
-            "snippet": "Intervention Strasbourg f\u00e9vrier 2015 - Forum sur la gouvernance de l'internet Veuillez retrouver ma r\u00e9action quand au renouvellement du mandat du Forum sur la gouvernance de l'Internet. Je m'oppose au contr\u00f4le supranational et mondial... From:...",
-            "date": "2015-02-10",
-            "author_name": "Myl\u00e8ne Troszczynski",
-            "categories": "internet",
-            "tags": "gouvernance,forum,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2015/02/intervention-strasbourg-f%C3%A9vrier-2015-forum-sur-la-gouvernance-de-l-internet",
+        "youtube.com/2015/04/se-faire-recruter-par-at-internet-forum-n%C3%A9o-m%C3%A9dias-nouveaux-m%C3%A9tiers": {
+            "title": "Se faire recruter par AT Internet - Forum N\u00e9o-M\u00e9dias, Nouveaux M\u00e9tiers webBdx...",
+            "snippet": "Se faire recruter par AT Internet - Forum \"N\u00e9o-M\u00e9dias, Nouveaux M\u00e9tiers\" webBdx Trucs et astuces pour se faire recruter par AT Internet. Avec Julie ALLANT, Charg\u00e9e de recrutement AT Internet. From: MMI Bordeaux Views: 5 0 ratings Time: 05:06...",
+            "date": "2015-04-02",
+            "author_name": "MMI Bordeaux",
+            "categories": "recrutement,internet",
+            "tags": "forum,internet,m\u00e9dias",
+            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2015/04/se-faire-recruter-par-at-internet-forum-n%C3%A9o-m%C3%A9dias-nouveaux-m%C3%A9tiers",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=forum%2Binternet%2Bforum%2Binternet&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=vIL6FeZhBuM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/vIL6FeZhBuM/0.jpg"
+            "source_url": "http://youtube.com/watch?v=5c3m-Gwzcz0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/5c3m-Gwzcz0/0.jpg"
+        },
+        "youtube.com/2015/03/internet-plus-s%C3%BBr-forum-mondial-des-m%C3%A9dias-libres": {
+            "title": "Internet plus s\u00fbr (Forum Mondial des M\u00e9dias Libres)...",
+            "snippet": "Internet plus s\u00fbr (Forum Mondial des M\u00e9dias Libres) From: Panos Afrique de l'Ouest IPAO Views: 8 0 ratings Time: 02:27 More in Entertainment...",
+            "date": "2015-03-31",
+            "author_name": "Panos Afrique de l'Ouest IPAO",
+            "categories": "internet",
+            "tags": "m\u00e9dias,forum,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2015/03/internet-plus-s%C3%BBr-forum-mondial-des-m%C3%A9dias-libres",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=forum%2Binternet&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=J5qUzOFeD8Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/J5qUzOFeD8Y/0.jpg"
         },
         "youtube.com/2014/11/info-importante-cr%C3%A9ation-de-mon-site-internet-et-d-un-forum": {
             "title": "INFO IMPORTANTE/cr\u00e9ation de mon site internet et d'un forum...",
-            "snippet": "INFO IMPORTANTE/cr\u00e9ation de mon site internet et d'un forum Salut les gens Aujourd'hui je vous pr\u00e9sent mon site internet et mon forum Voici le lien du site Le lien du forum est... From: CraftKill21 Views: 119 7 ratings Time: 03:16 More in People &...",
+            "snippet": "INFO IMPORTANTE/cr\u00e9ation de mon site internet et d'un forum Salut les gens Aujourd'hui je vous pr\u00e9sent mon site internet et mon forum Voici le lien du site Le lien du forum est sur le site dans la parti forum... From: CraftKill21 Views: 128 7...",
             "date": "2014-11-15",
             "author_name": "CraftKill21",
             "categories": "internet",
@@ -34,29 +47,17 @@
             "source_url": "http://youtube.com/watch?v=7xglSf281eo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/7xglSf281eo/0.jpg"
         },
-        "youtube.com/2014/04/forum-d%C3%A9bat-l-internet-des-objets": {
-            "title": "Forum-D\u00e9bat - L'internet des objets...",
-            "snippet": "Forum-D\u00e9bat - L'internet des objets Le Commissariat g\u00e9n\u00e9ral \u00e0 la strat\u00e9gie et \u00e0 la prospective organise, avec le soutien du think tank Objets connect\u00e9s et intelligents, un forum sur l'Inter... From: France Strat\u00e9gie Views: 500 0 ratings...",
-            "date": "2014-04-08",
-            "author_name": "France Strat\u00e9gie",
-            "categories": "internet",
-            "tags": "france,forum,g\u00e9n\u00e9ral,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2014/04/forum-d%C3%A9bat-l-internet-des-objets",
+        "youtube.com/2014/06/forum-camp-tic-de-mai-2014-internet-un-risque-renforcement": {
+            "title": "Forum Camp'TIC de mai 2014 Internet: un risque de renforcement des in\u00e9galit\u00e9s sociales?",
+            "snippet": "Forum \"Camp'TIC de mai\" 2014 Internet: un risque de renforcement des in\u00e9galit\u00e9s sociales? Margot Beauchamps -- Mrsouin La diffusion d'Internet s'accompagne de promesses suscit\u00e9es par l'aptitude potentielle des TIC (technologies de l'information...",
+            "date": "2014-06-30",
+            "author_name": "Philippe Denis",
+            "categories": "technologie,internet",
+            "tags": "forum,internet,information",
+            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2014/06/forum-camp-tic-de-mai-2014-internet-un-risque-renforcement",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=forum%2Binternet%2Bforum%2Binternet&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=h8If-SFKgf0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/h8If-SFKgf0/0.jpg"
-        },
-        "youtube.com/2014/03/fgi-france-2014-forum-de-la-gouvernance-internet": {
-            "title": "FGI France 2014 - Forum de la Gouvernance Internet France...",
-            "snippet": "FGI France 2014 - Forum de la Gouvernance Internet France Le 10 mars 2014, les plus grands acteurs du web fran\u00e7ais se sont r\u00e9unis au CESE pour une journ\u00e9e de d\u00e9bats en pl\u00e9ni\u00e8res et en ateliers participatifs. Plus d'... From: AFNIC Registry...",
-            "date": "2014-03-13",
-            "author_name": "AFNIC Registry",
-            "categories": "internet",
-            "tags": "afnic,gouvernance,internet,france,fgi,forum",
-            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2014/03/fgi-france-2014-forum-de-la-gouvernance-internet",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=forum%2Binternet%2Bforum%2Binternet&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Q_MaGX9RL8U&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Q_MaGX9RL8U/0.jpg"
+            "source_url": "http://youtube.com/watch?v=lrzi3e50Jw8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/lrzi3e50Jw8/0.jpg"
         },
         "dailymotion.com/2014/03/forum-de-la-gouvernance-d-internet-rencontre-avec-l-afnic": {
             "title": "Forum de la gouvernance d'Internet: rencontre avec l'Afnic...",
@@ -64,7 +65,7 @@
             "date": "2014-03-04",
             "author_name": "LePoint",
             "categories": "internet",
-            "tags": "g\u00e9n\u00e9ral,gouvernance,forum,internet,afnic,france,fgi",
+            "tags": "forum,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2014/03/forum-de-la-gouvernance-d-internet-rencontre-avec-l-afnic",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/forum+internet/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b79s9_forum-de-la-gouvernance-d-internet-rencontre-avec-l-afnic_news",
@@ -72,11 +73,11 @@
         },
         "youtube.com/2014/01/4%C3%A8me-%C3%A9dition-it-forum-dakar-cloud-mobilit%C3%A9-et-internet-%C3%A9taient": {
             "title": "4\u00e8me \u00e9dition IT Forum Dakar: cloud, mobilit\u00e9 et internet \u00e9taient au rendez-vous...",
-            "snippet": "4\u00e8me \u00e9dition IT Forum Dakar: cloud, mobilit\u00e9 et internet \u00e9taient au rendez-vous Le magazine CIO Mag en partenariat avec le club des directeurs de syst\u00e8mes d'information du S\u00e9n\u00e9gal a tenu jeudi 23 janvier 2014 la conf\u00e9rence IT Forum...",
+            "snippet": "4\u00e8me \u00e9dition IT Forum Dakar: cloud, mobilit\u00e9 et internet \u00e9taient au rendez-vous Le magazine CIO Mag en partenariat avec le club des directeurs de syst\u00e8mes d'information du S\u00e9n\u00e9gal a tenu jeudi 23 janvier 2014 la conf\u00e9rence IT Forum d\u00e9di\u00e9...",
             "date": "2014-01-30",
             "author_name": "ITmagSN",
             "categories": "internet",
-            "tags": "conf\u00e9rence,internet,forum",
+            "tags": "conf\u00e9rence,information,internet,forum",
             "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2014/01/4%C3%A8me-%C3%A9dition-it-forum-dakar-cloud-mobilit%C3%A9-et-internet-%C3%A9taient",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=forum%2Binternet%2Bforum%2Binternet&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=590JSmPVi98&feature=youtube_gdata",
@@ -108,7 +109,7 @@
         },
         "youtube.com/2013/03/mettre-une-image-sur-le-forum-depuis-un-lien-internet": {
             "title": "Mettre une image sur le forum, depuis un lien internet.",
-            "snippet": "Mettre une image sur le forum, depuis un lien internet. From: Forum-de -Pralognan Views: 176 1 ratings Time: 01:43 More in Film & Animation...",
+            "snippet": "Mettre une image sur le forum, depuis un lien internet. From: Forum-de -Pralognan Views: 181 1 ratings Time: 01:43 More in Film & Animation...",
             "date": "2013-03-17",
             "author_name": "Forum-de -Pralognan",
             "categories": "internet",
@@ -118,17 +119,17 @@
             "source_url": "http://youtube.com/watch?v=HaIO9eoXppw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/HaIO9eoXppw/0.jpg"
         },
-        "youtube.com/2013/02/tutoriel-informatique-mod%C3%A9rer-un-forum-internet": {
-            "title": "tutoriel informatique: mod\u00e9rer un forum internet...",
-            "snippet": "tutoriel informatique: mod\u00e9rer un forum internet la mod\u00e9ration d'un forum. From: pglcks Views: 91 0 ratings Time: 00:12 More in Comedy...",
-            "date": "2013-02-11",
-            "author_name": "pglcks",
-            "categories": "forum-internet,internet",
+        "dailymotion.com/2012/08/le-forum-conna%C3%AEtre-les-supports-de-communication-internet-4-13": {
+            "title": "Le forum - Conna\u00eetre les supports de communication internet (4/13)...",
+            "snippet": "\u00e9couvrez les principaux supports de communication sur internet est notamment dans cette vid\u00e9o, le sommaire de cette vid\u00e9o:-Qu'est-ce qu'un forum?-Pourquoi un forum?-Installer son blog gratuitement-Les avantages du forum-les inconv\u00e9nients du...",
+            "date": "2012-08-16",
+            "author_name": "C-Devenir-Independant",
+            "categories": "internet",
             "tags": "forum,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/youtube.com/2013/02/tutoriel-informatique-mod%C3%A9rer-un-forum-internet",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=forum%2Binternet%2Bforum%2Binternet&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Hru38ALnxe8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Hru38ALnxe8/0.jpg"
+            "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2012/08/le-forum-conna%C3%AEtre-les-supports-de-communication-internet-4-13",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/forum+internet/0?af=1",
+            "source_url": "http://dailymotion.com/video/xsv926_le-forum-connaitre-les-supports-de-communication-internet-4-13_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xsv926_le-forum-connaitre-les-supports-de-communication-internet-4-13_creation"
         }
     }
 }
