@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -11,21 +11,70 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
-        "developpez.com/2015/04/bluemix-permet-au-d%C3%A9veloppeur-d-exprimer-toute-sa-cr%C3%A9ativit%C3%A9": {
-            "title": "\"Bluemix permet au d\u00e9veloppeur d'exprimer toute sa cr\u00e9ativit\u00e9 et... -...",
-            "snippet": "\"Bluemix permet au d\u00e9veloppeur d'exprimer toute sa cr\u00e9ativit\u00e9 et... Services de donn\u00e9es: Bluemix propose une multitude de services de stockage de donn\u00e9es, comme SQL, MySQL, PostgreSQL, CloudantDB, DashDB, MongoDB, et aussi un service Hadoop...",
-            "date": "2015-04-22",
-            "categories": "mysql",
-            "tags": "aussi,services,permet,d\u00e9veloppeur,donn\u00e9es,sql,mysql,gresql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/developpez.com/2015/04/bluemix-permet-au-d%C3%A9veloppeur-d-exprimer-toute-sa-cr%C3%A9ativit%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://developpez.com/actu/84212/-Bluemix-permet-au-developpeur-d-exprimer-toute-sa-creativite-et-construire-rapidement-une-application-entretien-avec-Vincent-Chartier-de-IBM-France/"
+        "clubic.com/2015/04/debian-8-jessie-disponible-la-distro-universelle-toujours-plus-stable": {
+            "title": "Debian 8 Jessie disponible: la distro universelle toujours plus stable...",
+            "snippet": "Aux c\u00f4t\u00e9s de MySQL figurent MariaDB et PostgreSQL tandis qu'Apache passe en. Gnome redevient l'environnement de bureau par d\u00e9faut, mais les alternatives classiques restent de la partie, avec la possibilit\u00e9 d'installer...",
+            "date": "2015-04-27",
+            "categories": "environnement,mysql",
+            "tags": "environnement,bureau,debian,jessie,mysql,mariadb,gresql,apache,gnome",
+            "recuweb_url": "http://fr.recuweb.com/mysql/clubic.com/2015/04/debian-8-jessie-disponible-la-distro-universelle-toujours-plus-stable",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://clubic.com/linux-os/actualite-764686-debian-8-jessie-publiee-disponible.html"
+        },
+        "silicon.fr/2015/04/debian-8-jessie-nouvel-arrivant-dans-le-monde-des-os-linux": {
+            "title": "Debian 8 Jessie, nouvel arrivant dans le monde des OS Linux...",
+            "snippet": "C\u00f4t\u00e9 serveur, nous retrouvons Apache, Nagios, Perl, PHP, MySQL, MariaDB et PostgreSQL. Le monde des stations de travail nest pas oubli\u00e9, avec la pr\u00e9sence des environnements desktop Gnome...",
+            "date": "2015-04-27",
+            "categories": "environnement,perl,php,mysql",
+            "tags": "environnements,monde,debian,jessie,linux,apache,php,mysql,mariadb,gresql,gnome",
+            "recuweb_url": "http://fr.recuweb.com/mysql/silicon.fr/2015/04/debian-8-jessie-nouvel-arrivant-dans-le-monde-des-os-linux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://silicon.fr/debian-8-jessie-nouvel-arrivant-monde-os-linux-114946.html"
+        },
+        "pc-infopratique.com/2015/04/responsable-de-l-%C3%A9quipe-logiciel-des-sae-transports": {
+            "title": "Responsable de l'\u00e9quipe logiciel des SAE transports.",
+            "snippet": "PostgreSQL, Win7).INFORMATIONS COMPL\u00c9MENTAIRES Type de contrat:: Noisy Le grand (93), (RER A Noisy Le Grand Mont d'Est).Horaires: de bureau.R\u00e9mun\u00e9ration: Selon le niveau d'exp\u00e9rience.",
+            "date": "2015-04-25",
+            "tags": "bureau,grand,\u00e9quipe,\u00e9quipe-logiciel,logiciel,responsable,sae,transports,gresql,win,noisy",
+            "recuweb_url": "http://fr.recuweb.com/pc-infopratique.com/2015/04/responsable-de-l-%C3%A9quipe-logiciel-des-sae-transports",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://pc-infopratique.com/offre-emploi-JPB0B56ZH4H36GPVZZ7-responsable-de-l-equipe-logiciel-des-sae-transports.html"
+        },
+        "silicon.fr/2015/04/quiz-10-questions-sur-les-bases-de-donn%C3%A9es-sql-open-source": {
+            "title": "Quiz 10 questions sur les bases de donn\u00e9es SQL Open Source...",
+            "snippet": "Le monde des bases de donn\u00e9es Open Source est tr\u00e8s actif, avec des offres comme MySQL, PostgreSQL ou encore SQLite. Connaissez-vous ce march\u00e9? Quiz! Dautres solutions existent cependant, avec chacune son histoire, son parcours et son public.",
+            "date": "2015-04-24",
+            "categories": "mysql,sqlite",
+            "tags": "source,monde,sql,bases,donn\u00e9es,mysql,gresql",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/silicon.fr/2015/04/quiz-10-questions-sur-les-bases-de-donn%C3%A9es-sql-open-source",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://silicon.fr/quiz-silicon-fr-10-questions-bases-de-donnees-sql-open-source-114831.html"
+        },
+        "programmez.com/2015/04/offre-d-emploi": {
+            "title": "Offre d'emploi...",
+            "snippet": "De formation Bac 5, Ing\u00e9nieur Informatique. Vous avez de lexp\u00e9rience en management et des comp\u00e9tences dans le d\u00e9veloppement dapplications informatiques en environnement Windows/Linux (C, C, Web Java, PostgreSQL, Win7).",
+            "date": "2015-04-23",
+            "categories": "java,management,environnement,emploi",
+            "tags": "web,web_java,java,avez,avez-de-lexp\u00e9rience,lexp\u00e9rience,lexp\u00e9rience-en-management,management,comp\u00e9tences,d\u00e9veloppement,d\u00e9veloppement-dapplications,d\u00e9veloppement-dapplications-informatiques,dapplications,dapplications-informatiques,informatiques,informatiques-en-environnement,environnement,formation,windows,linux,gresql,win",
+            "recuweb_url": "http://fr.recuweb.com/emploi/programmez.com/2015/04/offre-d-emploi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://programmez.com/emploi-detail/JPB0B56ZH4H36GPVZZ7"
+        },
+        "emploi.silicon.fr/2015/04/responsable-de-l-%C3%A9quipe-logiciel-sae-transports-cdi-noisy-le-grand": {
+            "title": "Responsable de l'\u00e9quipe logiciel SAE transports - CDI - NOISY LE GRAND...",
+            "snippet": "Vous avez de lexp\u00e9rience en management et des comp\u00e9tences dans le d\u00e9veloppement dapplications informatiques en environnement Windows/Linux (C, C, Web Java, PostgreSQL, Win7).",
+            "date": "2015-04-23",
+            "categories": "java,management,environnement",
+            "tags": "web,web_java,java,avez,avez-de-lexp\u00e9rience,lexp\u00e9rience,lexp\u00e9rience-en-management,management,comp\u00e9tences,d\u00e9veloppement,d\u00e9veloppement-dapplications,d\u00e9veloppement-dapplications-informatiques,dapplications,dapplications-informatiques,informatiques,informatiques-en-environnement,environnement,noisy,grand,\u00e9quipe,\u00e9quipe-logiciel,logiciel,responsable,sae,transports,windows,linux,gresql,win",
+            "recuweb_url": "http://fr.recuweb.com/environnement/emploi.silicon.fr/2015/04/responsable-de-l-%C3%A9quipe-logiciel-sae-transports-cdi-noisy-le-grand",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/450754/responsable-de-lquipe-logiciel-sae-transports/"
         },
         "gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release": {
             "title": "Call for Papers, PostgreSQL Session 7, September, 24th - (press release)...",
             "snippet": "Call for Papers, PostgreSQL Session 7, September, (press release)After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to...",
             "date": "2015-04-22",
-            "tags": "features,gresql",
+            "tags": "gresql",
             "recuweb_url": "http://fr.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release",
             "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
             "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
@@ -34,76 +83,29 @@
             "title": "D\u00e9veloppeur Symfony 2/PostgreSQL H/F...",
             "snippet": "L'arriv\u00e9e de la g\u00e9n\u00e9ration Y dans les entreprises, les nouveaux outils de communication, le business qui s'acc\u00e9l\u00e8re et se complexifie... Tous ces changements importants transforment la mani\u00e8re dont les entreprises doivent motiver, engager,...",
             "date": "2015-04-22",
-            "tags": "entreprises,d\u00e9veloppeur,gresql",
+            "tags": "gresql",
             "recuweb_url": "http://fr.recuweb.com/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Symfony+2++PostgreSQL+HF/30065"
+        },
+        "informaticien.be/2015/04/embarcadero-annonce-une-nouvelle-version-majeure-avec-rad-studio-xe8": {
+            "title": "Embarcadero annonce une nouvelle version majeure avec RAD Studio XE8...",
+            "snippet": "PostgreSQL, MySQL et bien plus. Les autres am\u00e9liorations de la version XE8 de RAD Studio incluent: am\u00e9lioration de la productivit\u00e9 des d\u00e9veloppeurs avec le plug-in Castalia int\u00e9gr\u00e9 au refactoring Object Pascal; Project Statistics; Code...",
+            "date": "2015-04-22",
+            "categories": "mysql",
+            "tags": "gresql,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/informaticien.be/2015/04/embarcadero-annonce-une-nouvelle-version-majeure-avec-rad-studio-xe8",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://informaticien.be/articles_item-17550-Embarcadero_annonce_une_nouvelle_version_majeure_avec_RAD_Studio_XE8.html"
         },
         "it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders": {
             "title": "DBAWSPostgreSQL - IT Leaders...",
             "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...et plus encore...",
             "date": "2015-04-21",
-            "tags": "services,gresql,gres",
+            "tags": "web,source,gresql",
             "recuweb_url": "http://fr.recuweb.com/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
             "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
             "source_url": "http://it.impressbm.co.jp/articles/-/12288"
-        },
-        "emploi.handicap.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-javaee-javafx-swing": {
-            "title": "Ing\u00c9nieur d\u00c9veloppement javaee javafx swing...",
-            "snippet": "Vous ma\u00eetrisez un syst\u00e8me de gestion de base de donn\u00e9es relationnel (PostgreSQL ou Oracle). Vous avez une exp\u00e9rience des m\u00e9thodes Agile et plus particuli\u00e8rement de Scrum. Dans un environnement convivial, dynamique, nous vous proposons de...",
-            "date": "2015-04-20",
-            "categories": "environnement",
-            "tags": "environnement,avez,ma\u00eetrisez,gestion,ing\u00e9nieur,base,donn\u00e9es,gresql",
-            "recuweb_url": "http://fr.recuweb.com/environnement/emploi.handicap.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-javaee-javafx-swing",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://emploi.handicap.fr/offre-emploi-ingenieur-developpement-javaee-javafx-swing-1723158.php"
-        },
-        "journaldunet.com/2015/04/base-de-donn%C3%A9es-les-tarifs-des-freelances": {
-            "title": "Base de donn\u00e9es: les tarifs des freelances...",
-            "snippet": "Hopwork Parmi les bases de donn\u00e9es, ce sont donc les profils sp\u00e9cialis\u00e9s dans PostgreSQL qui sont les plus recherch\u00e9s sur Hopwork avec 19,5% des recherches compt\u00e9es. Pour ces comp\u00e9tences, le tarif moyen est de 459 euros par jour. C'est...",
-            "date": "2015-04-15",
-            "tags": "bases,donn\u00e9es,gresql",
-            "recuweb_url": "http://fr.recuweb.com/journaldunet.com/2015/04/base-de-donn%C3%A9es-les-tarifs-des-freelances",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://journaldunet.com/solutions/emploi-rh/base-de-donnees-les-salaires-des-freelances.shtml"
-        },
-        "emploi.silicon.fr/2015/04/concepteur-d%C3%A9veloppeur-ing%C3%A9nieur-etude-java-h-f-cdi-orleans": {
-            "title": "Concepteur D\u00e9veloppeur/Ing\u00e9nieur Etude Java (H/F) - CDI - ORLEANS...",
-            "snippet": "Environnement technique: Java/J2EE, Eclipse, NetBeans, Visual Studio, Subversion, Tomcat, Struts2, Hybernate,PostgreSQL, HTML/CSS, Javascript, Jquery.",
-            "date": "2015-04-14",
-            "categories": "java,environnement,css,javascript,jquery",
-            "tags": "ing\u00e9nieur,d\u00e9veloppeur,environnement,eclipse,tomcat,struts,gresql",
-            "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/concepteur-d%C3%A9veloppeur-ing%C3%A9nieur-etude-java-h-f-cdi-orleans",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/447610/concepteur-developpeur-ingenieur-etude-java-hf/"
-        },
-        "programmez.com/2015/04/offre-d-emploi": {
-            "title": "Offre d'emploi...",
-            "snippet": "Vous ma\u00eetrisez parfaitement les environnements techniques suivants: tomcat, hibernate, spring, struts 2, IDE Eclipse, NetBean, Maven, jenkins, MySQL, PostgreSQL. De nature curieuse, vous fa\u00eetes preuve de rigueur et dautonomie dans la r\u00e9alisation...",
-            "date": "2015-04-13",
-            "categories": "nature,environnement,emploi,mysql",
-            "tags": "eclipse,ma\u00eetrisez,environnements,tomcat,struts,mysql,gresql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/programmez.com/2015/04/offre-d-emploi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://programmez.com/emploi-detail/JQH2ZH67L5J00S1CMWC"
-        },
-        "infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape": {
-            "title": "PostgreSQL advances in the JSON datastore landscape -...",
-            "snippet": "PostgreSQL advances in the JSON datastore the other hand, relational databases are also evolving, with PostgreSQL getting more and more features inspired but the non relational world. Since version 9.2 Postgres supports the new JSON datatype and...",
-            "date": "2015-04-02",
-            "tags": "gres,features,gresql",
-            "recuweb_url": "http://fr.recuweb.com/infoq.com/2015/04/postgresql-advances-in-the-json-datastore-landscape",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://infoq.com/news/2015/04/Postgresql-JSON-Datastore"
-        },
-        "journaldunet.com/2014/12/postgresql-vers-une-admin-stack-compl%C3%A8te-jdn": {
-            "title": "PostgreSQL: vers une admin stack compl\u00e8te - JDN...",
-            "snippet": "PostgreSQL: vers une admin stack compl\u00e8teJDNS\u00e9duites par l'extensibilit\u00e9, la s\u00e9curit\u00e9 et la maturit\u00e9 de la solution, de plus en plus d'entreprises et d'administrations publiques migrent vers PostgreSQL et des organisations aussi vari\u00e9es que...",
-            "date": "2014-12-15",
-            "tags": "aussi,entreprises,compl\u00e8te,gresql",
-            "recuweb_url": "http://fr.recuweb.com/journaldunet.com/2014/12/postgresql-vers-une-admin-stack-compl%C3%A8te-jdn",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://journaldunet.com/developpeur/expert/59445/postgresql---vers-une-admin-stack-complete.shtml"
         }
     }
 }
