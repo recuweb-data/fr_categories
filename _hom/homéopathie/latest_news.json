@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hom\u00e9opathie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hom\u00e9opathie/",
@@ -10,59 +11,97 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hom%C3%A9opathie/hom%C3%A9opathie/blogs.json"
     },
     "items": {
-        "lapresse.ca/2015/02/hom%C3%A9opathie-une-pilule-bien-dor%C3%A9e": {
-            "title": "Hom\u00e9opathie: une pilule bien dor\u00e9e...",
-            "snippet": "L'hom\u00e9opathie polarise le d\u00e9bat. D'une part, ses tenants la d\u00e9crivent comme une m\u00e9decine douce, sans danger ni effets secondaires. De l'autre, ses d\u00e9tracteurs la qualifient de pseudoscience tout au plus aussi efficace qu'un placebo. En fait,...",
-            "date": "2015-02-24",
-            "tags": "placebo,aussi,efficace,sans,comme,m\u00e9decine,hom\u00e9opathie",
-            "recuweb_url": "http://fr.recuweb.com/lapresse.ca/2015/02/hom%C3%A9opathie-une-pilule-bien-dor%C3%A9e",
+        "lemoniteurdespharmacies.fr/2015/04/hom%C3%A9opathie-efficacit%C3%A9-et-innocuit%C3%A9-controvers%C3%A9es-aux-etats-unis": {
+            "title": "Hom\u00e9opathie: efficacit\u00e9 et innocuit\u00e9 controvers\u00e9es aux Etats-Unis...",
+            "snippet": "La Food and Drug Administration (FDA), lagence am\u00e9ricaine des m\u00e9dicaments, a clos mardi 21 avril, deux jours dauditions publiques sur lusage et la r\u00e9glementation am\u00e9ricaine de lhom\u00e9opathie. Lhom\u00e9opathie tient en effet une place de plus...",
+            "date": "2015-04-23",
+            "categories": "place",
+            "tags": "effet,place,deux,deux-jours,deux-jours-dauditions,jours,jours-dauditions,jours-dauditions-publiques,dauditions,dauditions-publiques,publiques,publiques-sur-lusage,lusage,r\u00e9glementation,lhom\u00e9opathie,mardi,lagence,m\u00e9dicaments,drug,drug_administration,administration,efficacit\u00e9,innocuit\u00e9,controvers\u00e9es,hom\u00e9opathie,etats,unis,food,fda",
+            "recuweb_url": "http://fr.recuweb.com/place/lemoniteurdespharmacies.fr/2015/04/hom%C3%A9opathie-efficacit%C3%A9-et-innocuit%C3%A9-controvers%C3%A9es-aux-etats-unis",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hom%C3%A9opathie&format=RSS&cc=fr",
-            "source_url": "http://lapresse.ca/vivre/sante/201502/24/01-4847028-homeopathie-une-pilule-bien-doree.php"
+            "source_url": "http://lemoniteurdespharmacies.fr/actu/actualites/actus-socio-professionnelles/150423-homeopathie-efficacite-et-innocuite-controversees-aux-etats-unis.html"
         },
-        "leplus.nouvelobs.com/2015/02/j-ai-mang%C3%A9-mon-placenta-moins-de-douleurs-pas-d%C3%A9pression": {
-            "title": "J'ai mang\u00e9 mon placenta: moins de douleurs, pas de d\u00e9pression. Que des bienfaits!",
-            "snippet": "Ce n\u00e9tait donc pas du tout rebutant de les avaler au quotidien. En m\u00eame temps que les pilules, mon amie m'a \u00e9galement pr\u00e9par\u00e9 de lhom\u00e9opathie de placenta, que jai gard\u00e9 pour plus tard. Dans ce quelle ma apport\u00e9, il y avait aussi la...",
-            "date": "2015-02-22",
-            "tags": "aussi,m\u00eame",
-            "recuweb_url": "http://fr.recuweb.com/leplus.nouvelobs.com/2015/02/j-ai-mang%C3%A9-mon-placenta-moins-de-douleurs-pas-d%C3%A9pression",
+        "lequotidiendumedecin.fr/2015/04/hom%C3%A9opathie-son-usage-et-sa-r%C3%A9glementation-dans-le-collimateur": {
+            "title": "Hom\u00e9opathie: son usage et sa r\u00e9glementation dans le collimateur de la FDA...",
+            "snippet": "La Food and Drug Administration (agence des m\u00e9dicaments des \u00c9tats-Unis) vient de clore deux jours dauditions publiques sur lusage et la r\u00e9glementation de lhom\u00e9opathie. Pr\u00e8s de 25 personnes ont t\u00e9moign\u00e9: m\u00e9decins, chercheurs, associations...",
+            "date": "2015-04-22",
+            "tags": "deux,deux-jours,deux-jours-dauditions,jours,jours-dauditions,jours-dauditions-publiques,dauditions,dauditions-publiques,publiques,publiques-sur-lusage,lusage,r\u00e9glementation,r\u00e9glementation-de-lhom\u00e9opathie,lhom\u00e9opathie,m\u00e9dicaments,drug,drug_administration,administration,hom\u00e9opathie,fda,food,\u00e9tats,unis",
+            "recuweb_url": "http://fr.recuweb.com/lequotidiendumedecin.fr/2015/04/hom%C3%A9opathie-son-usage-et-sa-r%C3%A9glementation-dans-le-collimateur",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hom%C3%A9opathie&format=RSS&cc=fr",
-            "source_url": "http://leplus.nouvelobs.com/contribution/1327932-j-ai-mange-mon-placenta-moins-de-douleurs-pas-de-depression-que-des-bienfaits.html"
+            "source_url": "http://lequotidiendumedecin.fr/actualites/article/2015/04/22/homeopathie-son-usage-et-sa-reglementation-dans-le-collimateur-de-la-fda_752166"
         },
-        "femmeactuelle.fr/2015/02/l-hom%C3%A9opathie-pour-les-enfants-aussi-femme-actuelle": {
-            "title": "L'hom\u00e9opathie, pour les enfants aussi! - Femme Actuelle...",
-            "snippet": "Femme ActuelleL'hom\u00e9opathie, pour les enfants aussi!Femme ActuelleEn plus de ses vertus curatives, l'hom\u00e9opathie a aussi une action pr\u00e9ventive. L'approche est diff\u00e9rente des m\u00e9dicaments que l'on a l'habitude d'utiliser, comme l'explique le...",
-            "date": "2015-02-20",
-            "tags": "comme,approche,aussi,femme,femme_actuelle,actuelle,hom\u00e9opathie",
-            "recuweb_url": "http://fr.recuweb.com/femmeactuelle.fr/2015/02/l-hom%C3%A9opathie-pour-les-enfants-aussi-femme-actuelle",
+        "rts.ch/2015/04/l-hom%C3%A9opathie-passe-un-grand-oral-aux-etats-unis": {
+            "title": "L'hom\u00e9opathie passe un grand oral aux Etats-Unis -...",
+            "snippet": "'hom\u00e9opathie passe un grand oral aux sans prescription et pour des maladies qui incluent l'asthme, les g\u00e9lules hom\u00e9opathiques sont tr\u00e8s peu r\u00e9gul\u00e9es aux Etats-Unis. Ni leur efficacit\u00e9 ni leur innocuit\u00e9 n'est surveill\u00e9e. Les autorit\u00e9s...",
+            "date": "2015-04-22",
+            "tags": "surveill\u00e9e,efficacit\u00e9,innocuit\u00e9,g\u00e9lules,g\u00e9lules-hom\u00e9opathiques,hom\u00e9opathiques,hom\u00e9opathiques-sont-tr\u00e8s,peu,peu-r\u00e9gul\u00e9es,r\u00e9gul\u00e9es,passe,passe-un-grand,grand,grand-oral,oral,sans,sans-prescription,prescription,maladies,maladies-qui-incluent,incluent,hom\u00e9opathie,etats,unis,autorit\u00e9s",
+            "recuweb_url": "http://fr.recuweb.com/rts.ch/2015/04/l-hom%C3%A9opathie-passe-un-grand-oral-aux-etats-unis",
             "resource_url": "http://news.google.fr/?hl=fr&q=hom%C3%A9opathie&output=atom&nord=1",
-            "source_url": "http://femmeactuelle.fr/enfant/enfants/sante-psycho/l-homeopathie-bebe-et-enfant-20520"
+            "source_url": "http://rts.ch/audio/la-1ere/programmes/corpus/6702518-l-homeopathie-passe-un-grand-oral-aux-etats-unis-22-04-2015.html"
         },
-        "ici.radio-canada.ca/2015/02/l-hom%C3%A9opathie-contre-la-rougeole": {
-            "title": "L'hom\u00e9opathie contre la rougeole?",
-            "snippet": "Des voix s'\u00e9l\u00e8vent pour d\u00e9noncer les pratiques de certains professionnels de la sant\u00e9 qui prescrivent des rem\u00e8des hom\u00e9opathiques en guise d'alternative au vaccin contre la rougeole. Plusieurs cliniques de m\u00e9decines douces v\u00e9hiculent l'id\u00e9e...",
-            "date": "2015-02-17",
-            "tags": "contre,rem\u00e8des,certains,hom\u00e9opathie,sant\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/ici.radio-canada.ca/2015/02/l-hom%C3%A9opathie-contre-la-rougeole",
+        "allodocteurs.fr/2015/04/vers-une-meilleure-r%C3%A9glementation-de-l-hom%C3%A9opathie-aux-etats-unis-allodocteurs": {
+            "title": "Vers une meilleure r\u00e9glementation de l'hom\u00e9opathie aux Etats-Unis? - allodocteurs...",
+            "snippet": "Vers une meilleure r\u00e9glementation de l'hom\u00e9opathie aux Etats-Unis?allodocteursCommercialiser un produit en all\u00e9guant de b\u00e9n\u00e9fices pour la sant\u00e9 du consommateur est ais\u00e9 aux Etats-Unis: il suffit de le pr\u00e9senter comme une pr\u00e9paration...",
+            "date": "2015-04-22",
+            "tags": "r\u00e9glementation,hom\u00e9opathie,etats,unis,sant\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/allodocteurs.fr/2015/04/vers-une-meilleure-r%C3%A9glementation-de-l-hom%C3%A9opathie-aux-etats-unis-allodocteurs",
+            "resource_url": "http://news.google.fr/?hl=fr&q=hom%C3%A9opathie%2Bhom%C3%A9opathie&output=atom&nord=1",
+            "source_url": "http://allodocteurs.fr/se-soigner/homeopathie/vers-une-meilleure-reglementation-de-l-homeopathie-aux-etats-unis_16151.html"
+        },
+        "lavenir.net/2015/04/l-hom%C3%A9opathie-p%C3%A8se-25-millions-d-euros-de-chiffre-affaires": {
+            "title": "L'hom\u00e9opathie p\u00e8se 25 millions d'euros de chiffre d'affaires en... -...",
+            "snippet": "'hom\u00e9opathie p\u00e8se 25 millions d'euros de chiffre d'affaires en... 'hom\u00e9opathie p\u00e8se 25 millions d'euros de chiffre d'affaires en Belgique. Deux grands acteurs, le Fran\u00e7ais Boiron et l'Allemand Heel, repr\u00e9sentent 90% du march\u00e9 en Belgique,...",
+            "date": "2015-04-21",
+            "tags": "affaires,euros,euros-de-chiffre,chiffre,millions,hom\u00e9opathie,p\u00e8se,belgique,deux,repr\u00e9sentent",
+            "recuweb_url": "http://fr.recuweb.com/lavenir.net/2015/04/l-hom%C3%A9opathie-p%C3%A8se-25-millions-d-euros-de-chiffre-affaires",
+            "resource_url": "http://news.google.fr/?hl=fr&q=hom%C3%A9opathie&output=atom&nord=1",
+            "source_url": "http://lavenir.net/cnt/DMF20150421_00636207?"
+        },
+        "rtbf.be/2015/04/l-hom%C3%A9opathie-p%C3%A8se-25-millions-d-euros-de-chiffre-affaires": {
+            "title": "L'hom\u00e9opathie p\u00e8se 25 millions d'euros de chiffre d'affaires en Belgique...",
+            "snippet": "L'hom\u00e9opathie reste controvers\u00e9e mais s\u00e9duit de plus en plus de Belges. Les productions de m\u00e9dicaments hom\u00e9opathiques se portent bien m\u00eame si elles repr\u00e9sentent une infime fraction par rapport aux m\u00e9dicaments traditionnels. Depuis 2013, l...",
+            "date": "2015-04-21",
+            "tags": "m\u00e9dicaments,hom\u00e9opathiques,m\u00eame,repr\u00e9sentent,affaires,euros,euros-de-chiffre,chiffre,millions,hom\u00e9opathie,p\u00e8se,belgique",
+            "recuweb_url": "http://fr.recuweb.com/rtbf.be/2015/04/l-hom%C3%A9opathie-p%C3%A8se-25-millions-d-euros-de-chiffre-affaires",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hom%C3%A9opathie&format=RSS&cc=fr",
-            "source_url": "http://ici.radio-canada.ca/regions/ontario/2015/02/17/011-homeopathie-vaccin-rougeole.shtml"
+            "source_url": "http://rtbf.be/info/economie/detail_l-homeopathie-pese-25-millions-d-euros-de-chiffre-d-affaires-en-belgique?id=8961138"
         },
-        "europe1.fr/2015/02/pourquoi-docteur-l-hom%C3%A9opathie-europe1": {
-            "title": "Pourquoi docteur - L'hom\u00e9opathie - Europe1...",
-            "snippet": "Pourquoi docteur - L'hom\u00e9opathieEurope1Le docteur Jean-Fran\u00e7ois Lemoine r\u00e9unit tous les meilleurs sp\u00e9cialistes pour r\u00e9pondre aux questions des auditeurs et d\u00e9battre des grandes probl\u00e9matiques actuelles: les avanc\u00e9es de la m\u00e9decine, les...",
-            "date": "2015-02-08",
-            "tags": "m\u00e9decine,sp\u00e9cia,pourquoi,hom\u00e9opathie,europe",
-            "recuweb_url": "http://fr.recuweb.com/europe1.fr/2015/02/pourquoi-docteur-l-hom%C3%A9opathie-europe1",
-            "resource_url": "http://news.google.fr/?hl=fr&q=hom%C3%A9opathie&output=atom&nord=1",
-            "source_url": "http://europe1.fr/mediacenter/emissions/pourquoi-docteur/sons/pourquoi-docteur-l-homeopathie-2367335"
+        "ledevoir.com/2015/04/la-r%C3%A9glementation-de-lhom%C3%A9opathie-r%C3%A9examin%C3%A9e": {
+            "title": "La r\u00e9glementation de lhom\u00e9opathie r\u00e9examin\u00e9e...",
+            "snippet": "Washington Lhom\u00e9opathie, dont lefficacit\u00e9 et linnocuit\u00e9 sont controvers\u00e9es, est sur la sellette aux \u00c9tats-Unis: lAgence des m\u00e9dicaments (FDA) a conclu mardi deux jours dauditions publiques pour d\u00e9terminer la n\u00e9cessit\u00e9 de...",
+            "date": "2015-04-21",
+            "tags": "mardi,deux,deux-jours,deux-jours-dauditions,jours,jours-dauditions,jours-dauditions-publiques,dauditions,dauditions-publiques,publiques,m\u00e9dicaments,controvers\u00e9es,lhom\u00e9opathie,r\u00e9glementation,r\u00e9glementation-de-lhom\u00e9opathie,\u00e9tats,unis,lagence,fda",
+            "recuweb_url": "http://fr.recuweb.com/ledevoir.com/2015/04/la-r%C3%A9glementation-de-lhom%C3%A9opathie-r%C3%A9examin%C3%A9e",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hom%C3%A9opathie&format=RSS&cc=fr",
+            "source_url": "http://ledevoir.com/international/etats-unis/437992/etats-unis-la-reglementation-de-l-homeopathie-reexaminee"
         },
-        "femmeactuelle.fr/2015/02/mincir-avec-l-hom%C3%A9opathie-c-est-tendance-femme-actuelle": {
-            "title": "Mincir avec l'hom\u00e9opathie, c'est tendance - Femme Actuelle...",
-            "snippet": "Femme ActuelleMincir avec l'hom\u00e9opathie, c'est tendanceFemme ActuelleDu coup, c'est avec avidit\u00e9 que l'on a d\u00e9vor\u00e9, en avant premi\u00e8re, ce livre pile dans la tendance \"Perdre du poids avec l'hom\u00e9opathie\" qui para\u00eetra chez Leduc.S \u00e9ditions, le...",
-            "date": "2015-02-05",
-            "tags": "hom\u00e9opathie,chez,poids,femme,femme_actuelle,actuelle",
-            "recuweb_url": "http://fr.recuweb.com/femmeactuelle.fr/2015/02/mincir-avec-l-hom%C3%A9opathie-c-est-tendance-femme-actuelle",
+        "rts.ch/2015/04/lhom%C3%A9opathie-passe-un-grand-oral-aux-etats-unis": {
+            "title": "Lhom\u00e9opathie passe un grand oral aux Etats-Unis...",
+            "snippet": "Vendues sans prescription et pour des maladies qui incluent lasthme, les g\u00e9lules hom\u00e9opathiques sont tr\u00e8s peu r\u00e9gul\u00e9es aux Etats-Unis. Ni leur efficacit\u00e9 ni leur innocuit\u00e9 nest surveill\u00e9e. Les autorit\u00e9s am\u00e9ricaines ont organis\u00e9 un grand...",
+            "date": "2015-04-21",
+            "tags": "autorit\u00e9s,grand,efficacit\u00e9,innocuit\u00e9,surveill\u00e9e,g\u00e9lules,g\u00e9lules-hom\u00e9opathiques,hom\u00e9opathiques,hom\u00e9opathiques-sont-tr\u00e8s,peu,peu-r\u00e9gul\u00e9es,r\u00e9gul\u00e9es,sans,sans-prescription,prescription,maladies,maladies-qui-incluent,incluent,passe,passe-un-grand,grand-oral,oral,lhom\u00e9opathie,etats,unis",
+            "recuweb_url": "http://fr.recuweb.com/rts.ch/2015/04/lhom%C3%A9opathie-passe-un-grand-oral-aux-etats-unis",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hom%C3%A9opathie&format=RSS&cc=fr",
+            "source_url": "http://rts.ch/la-1ere/programmes/corpus/6702518-l-homeopathie-passe-un-grand-oral-aux-etats-unis-22-04-2015.html"
+        },
+        "madame.lefigaro.fr/2015/04/l-hom%C3%A9opathie-en-hiver-madame-figaro": {
+            "title": "L'hom\u00e9opathie en hiver - Madame Figaro...",
+            "snippet": "Madame FigaroL'hom\u00e9opathie en hiverMadame FigaroSi l'hom\u00e9opathie peut vous aider tout au long de l'ann\u00e9e, elle est particuli\u00e8rement utile en hiver. Elle permet en effet de lutter contre la d\u00e9prime saisonni\u00e8re et de pr\u00e9venir diff\u00e9rentes...",
+            "date": "2015-04-14",
+            "tags": "effet,lutter,lutter-contre,contre,madame,madame_figarol,figarol,madame_figaro,figaro,hom\u00e9opathie",
+            "recuweb_url": "http://fr.recuweb.com/madame.lefigaro.fr/2015/04/l-hom%C3%A9opathie-en-hiver-madame-figaro",
             "resource_url": "http://news.google.fr/?hl=fr&q=hom%C3%A9opathie&output=atom&nord=1",
-            "source_url": "http://femmeactuelle.fr/minceur/news-minceur/mincir-avec-l-homeopathie-20317"
+            "source_url": "http://madame.lefigaro.fr/bien-etre/lhomeopathie-en-hiver-010115-2334"
+        },
+        "madame.lefigaro.fr/2015/04/hom%C3%A9opathie-comment-lutter-contre-les-jambes-lourdes-madame-figaro": {
+            "title": "Hom\u00e9opathie: comment lutter contre les jambes lourdes? - Madame Figaro...",
+            "snippet": "Madame FigaroHom\u00e9opathie: comment lutter contre les jambes lourdes?Madame FigaroL'hom\u00e9opathie se pr\u00e9sente sous forme de granules. C'est un traitement naturel pour soulager les jambes lourdes et lutter contre les probl\u00e8mes de circulation...",
+            "date": "2015-04-12",
+            "categories": "traitement",
+            "tags": "lutter,lutter-contre,contre,madame,madame_figarol,figarol,madame_figaro,figaro,hom\u00e9opathie,traitement",
+            "recuweb_url": "http://fr.recuweb.com/traitement/madame.lefigaro.fr/2015/04/hom%C3%A9opathie-comment-lutter-contre-les-jambes-lourdes-madame-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=hom%C3%A9opathie&output=atom&nord=1",
+            "source_url": "http://madame.lefigaro.fr/bien-etre/homeopathie-comment-lutter-contre-les-jambes-lourdes-010115-2320"
         }
     }
 }
