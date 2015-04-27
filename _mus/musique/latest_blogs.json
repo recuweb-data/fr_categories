@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "musique",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/musique/",
@@ -10,27 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/musique/musique/blogs.json"
     },
     "items": {
-        "orthodoxie.com/2015/04/une-cha%C3%AEne-t%C3%A9l%C3%A9vis%C3%A9e-de-musique-orthodoxe-et-classique": {
-            "title": "Une cha\u00eene t\u00e9l\u00e9vis\u00e9e de musique orthodoxe et classique a...",
-            "snippet": "Seront diffus\u00e9 des clips musicaux et des concerts d'ex\u00e9cutants orthodoxes, des groupes folkloriques, ainsi que des \u00e9missions sur la musique, dont la musique classique. Il est pr\u00e9vu que la cha\u00eene soit diffus\u00e9e par cble et par satellite.",
+        "tuxboard.com/2015/04/la-chanson-rap-god-d-eminem-reprise-dans-40-styles": {
+            "title": "La chanson Rap God d'Eminem reprise dans 40 styles de musique...",
+            "snippet": "R\u00e9dacteur web depuis ao\u00fbt 2013 au sein de Tuxboard, Polo est avant tout un passionn\u00e9 de sport (notamment de football), de musique et vid\u00e9os insolites. Il est toujours au taquet sur les derni\u00e8res infos du web. Voir tous les...",
             "date": "2015-04-21",
-            "author_name": "Christophe Levalois",
-            "categories": "clip,musique",
-            "tags": "musique,classique",
-            "recuweb_url": "http://fr.recuweb.com/musique/orthodoxie.com/2015/04/une-cha%C3%AEne-t%C3%A9l%C3%A9vis%C3%A9e-de-musique-orthodoxe-et-classique",
+            "author_name": "Polo",
+            "categories": "football,sport,musique",
+            "tags": "musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/tuxboard.com/2015/04/la-chanson-rap-god-d-eminem-reprise-dans-40-styles",
             "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://orthodoxie.com/une-chaine-televisee-de-musique-orthodoxe-et-classique-a-commence-ses-programmes-a-ekaterinbourg/"
-        },
-        "fan2.fr/2015/04/cameron-dallas-d%C3%A9barque-dans-la-musique-avec-son-titre-she-bad": {
-            "title": "Cameron Dallas d\u00e9barque dans la musique avec son titre She Bad...",
-            "snippet": "Cameron Dallas est l'une des stars du Net les plus suivies dans le monde, notamment sur Vine et sur YouTube. Aujourd'hui, le jeune homme a d\u00e9cid\u00e9 de se lancer dans la musique et vous pr\u00e9sente son titre \"She Bad\".",
-            "date": "2015-04-20",
-            "author_name": "inconnu",
-            "categories": "musique",
-            "tags": "jeune,musique,aujourd,hui",
-            "recuweb_url": "http://fr.recuweb.com/musique/fan2.fr/2015/04/cameron-dallas-d%C3%A9barque-dans-la-musique-avec-son-titre-she-bad",
-            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://fan2.fr/cameron-dallas-debarque-dans-la-musique-avec-son-titre-she-bad-a402675.html"
+            "source_url": "http://tuxboard.com/rap-god-eminem-40-styles-differents/"
         },
         "jeuneafrique.com/2015/04/musique-rwanda-c%C3%B4te-d-ivoire-rdc-stromae-annonce": {
             "title": "Musique Rwanda, C\u00f4te d'Ivoire, RDC...: Stromae annonce une...",
@@ -43,49 +33,16 @@
             "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeuneafrique.com/Article/ARTJAWEB20150416171521/"
         },
-        "rfimusique.com/2015/04/souad-massi-libert%C3%A9-ch%C3%A9rie-rfi-musique": {
-            "title": "Souad Massi, libert\u00e9 ch\u00e9rie - RFI Musique...",
-            "snippet": "Pour lutter contre l'obscurantisme et les amalgames, Souad Massi remet au go\u00fbt du jour le raffinement de la culture arabe dans son nouvel album El Mutakallimn. Elle l'avoue d'embl\u00e9e: avant de plonger dans ce r\u00e9pertoire...",
-            "date": "2015-04-17",
-            "author_name": "Eglantine Chabasseur",
-            "categories": "culture,musique",
-            "tags": "jour,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/rfimusique.com/2015/04/souad-massi-libert%C3%A9-ch%C3%A9rie-rfi-musique",
-            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://rfimusique.com/actu-musique/musiques-monde/album/20150417-souad-massi-el-mutakallimun"
-        },
-        "pixelistes.com/2015/03/fan-de-photo-et-musique-le-gadget-ultime-existe-pixelistes": {
-            "title": "Fan de photo et de musique? Le gadget ultime existe! Pixelistes...",
-            "snippet": "Qui n'a pas \u00e9t\u00e9 fascin\u00e9 plus jeune par les superbes iris d'obturation des objectifs d'appareils photos? Ces diaphragmes dont la m\u00e9canique nous semble si complexe ont toujours \u00e9t\u00e9 quelquechose de magique pour les...",
-            "date": "2015-03-11",
-            "author_name": "Maxime",
+        "topito.com/2015/04/top-7-des-v%C3%A9rit%C3%A9s-sur-les-ventes-de-musique-en-france": {
+            "title": "Top 7 des v\u00e9rit\u00e9s sur les ventes de musique en France qui font mal...",
+            "snippet": "Merci Alfred s'est pench\u00e9 sur les ventes de musique en France depuis 50 ans et il y a quelques petites surprises. On aimerait bien que ce soit de bonnes surprises, mais soyons francs: ces petite v\u00e9rit\u00e9s sont quand m\u00eame un...",
+            "date": "2015-04-16",
+            "author_name": "Alfred",
             "categories": "musique",
-            "tags": "toujours,jeune,photos,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/pixelistes.com/2015/03/fan-de-photo-et-musique-le-gadget-ultime-existe-pixelistes",
+            "tags": "musique,france",
+            "recuweb_url": "http://fr.recuweb.com/musique/topito.com/2015/04/top-7-des-v%C3%A9rit%C3%A9s-sur-les-ventes-de-musique-en-france",
             "resource_url": "http://www.google.com/search?q=musique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://pixelistes.com/blog/fan-de-photo-et-de-musique-le-gadget-ultime-existe/"
-        },
-        "presse-citron.net/2015/03/britney-spears-sans-musique-ce-n-est-pas-la-m%C3%AAme-chanson": {
-            "title": "Britney Spears sans musique, ce n'est pas la m\u00eame chanson...",
-            "snippet": "Faut-il encore pr\u00e9senter Britney Spears? Bien s\u00fbr que non et c'est assez logique car la chanteuse am\u00e9ricaine a marqu\u00e9 au fer rouge le d\u00e9but des ann\u00e9es 2000 avec plus de 100 millions de disques \u00e9coul\u00e9s en l'espace de...",
-            "date": "2015-03-06",
-            "author_name": "Fredzone",
-            "categories": "musique",
-            "tags": "ann\u00e9es,sans,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/presse-citron.net/2015/03/britney-spears-sans-musique-ce-n-est-pas-la-m%C3%AAme-chanson",
-            "resource_url": "http://www.google.com/search?q=musique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/britney-spears-sans-musique-ce-nest-pas-la-meme-chanson/"
-        },
-        "topito.com/2015/03/top-17-des-%C3%A9quivalents-us-fran%C3%A7ais-dans-la-musique-topito": {
-            "title": "Top 17 des \u00e9quivalents US-Fran\u00e7ais dans la musique Topito...",
-            "snippet": "L'\u00e9criture et la musique valent le coup. Apr\u00e8s, la comparaison est rance comme dirait Shakespeare, et n'a pas vraiment de sens puisque les styles ne sont pas du tout comparables (Renaud et Kurt n'ont rien en commun...",
-            "date": "2015-03-04",
-            "author_name": "FakUZone",
-            "categories": "musique",
-            "tags": "comme,musique,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/musique/topito.com/2015/03/top-17-des-%C3%A9quivalents-us-fran%C3%A7ais-dans-la-musique-topito",
-            "resource_url": "http://www.google.com/search?q=musique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://topito.com/top-equivalents-us-francais-musique"
+            "source_url": "http://topito.com/top-verites-ventes-musique-france-allo-maman-bobo"
         },
         "slate.fr/2015/03/des-scientifiques-ont-trouv%C3%A9-la-musique-parfaite-pour-votre-chat": {
             "title": "Des scientifiques ont trouv\u00e9 la musique parfaite pour votre chat...",
@@ -93,7 +50,7 @@
             "date": "2015-03-03",
             "author_name": "Vincent Manil\u00e8ve",
             "categories": "musique",
-            "tags": "hui,\u00e9tude,aujourd,musique",
+            "tags": "\u00e9tude,peu,musique",
             "recuweb_url": "http://fr.recuweb.com/musique/slate.fr/2015/03/des-scientifiques-ont-trouv%C3%A9-la-musique-parfaite-pour-votre-chat",
             "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/98623/musique-pour-chat"
@@ -104,7 +61,7 @@
             "date": "2014-07-11",
             "author_name": "alem alquier",
             "categories": "musique",
-            "tags": "sans,musique,relaxante",
+            "tags": "chaque,restaurant,sans,ligne,musique,relaxante,possible,magasin",
             "recuweb_url": "http://fr.recuweb.com/musique/larantela.wordpress.com/2014/07/musique-relaxante-dascenseur-obligatoire",
             "resource_url": "http://fr.search.wordpress.com/?q=musique%2Bmusique&f=feed&page=1",
             "source_url": "http://larantela.wordpress.com/2014/07/11/musique-relaxante-musique-dascenseur-musique-obligatoire/"
