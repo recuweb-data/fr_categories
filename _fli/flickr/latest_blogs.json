@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "flickr",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/flickr/",
@@ -10,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
     },
     "items": {
+        "blog.flickr.net/2015/04/flickr-friday-into-the-wild-blog": {
+            "title": "Flickr Friday: Into The Wild Flickr Blog...",
+            "snippet": "Let yourself out of the urban days and embrace the nature a little. Go out of the city and IntoTheWild. In this week's Flickr Friday we invite you to take your best shot for this...",
+            "date": "2015-04-24",
+            "author_name": "Sol\u00e8ne",
+            "categories": "nature,flickr",
+            "tags": "this,week,out,into,flickr,flickr_blog,flickr_friday,friday,your",
+            "recuweb_url": "http://fr.recuweb.com/flickr/blog.flickr.net/2015/04/flickr-friday-into-the-wild-blog",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/04/24/flickr-friday-into-the-wild/"
+        },
         "blog.flickr.net/2015/04/happy-earth-day-flickr-blog": {
             "title": "Happy Earth Day! Flickr Blog...",
             "snippet": "Share your pictures Flickr today to celebrate our planet! EarthDay Bonne f\u00eate de la Terre! Partagez vos photos Flickr pour f\u00eater ce jour avec nous! EarthDay Happy Earth Day! Teilt eure Fotos von unserem sch\u00f6nen...",
             "date": "2015-04-22",
             "author_name": "Sol\u00e8ne",
             "categories": "flickr",
-            "tags": "today,our,your,pictures,flickr,flickr_blog,photos",
+            "tags": "flickr,flickr_blog,earth,share,your,pictures,our,photos",
             "recuweb_url": "http://fr.recuweb.com/flickr/blog.flickr.net/2015/04/happy-earth-day-flickr-blog",
             "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.flickr.net/en/2015/04/22/happy-earth-day/"
@@ -27,7 +39,7 @@
             "date": "2015-04-15",
             "author_name": "Sol\u00e8ne",
             "categories": "flickr,twitter",
-            "tags": "theme,our,your,was,sea,lot,bottle,thrown,into,flickr,flickr_blog,selection,twitter,twitter_tuesday,twittertuesday,tuesday,that,thank",
+            "tags": "theme,contributions,was,sea,this,lot,bottle,thrown,into,flickr,flickr_blog,selection,twitter,twitter_tuesday,twittertuesday,tuesday,that,thank,your,stay,our",
             "recuweb_url": "http://fr.recuweb.com/twitter/blog.flickr.net/2015/04/twitter-tuesday-the-bottle-selection-flickr-blog",
             "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.flickr.net/en/2015/04/15/twitter-tuesday-the-bottle-selection/"
@@ -38,10 +50,21 @@
             "date": "2015-04-14",
             "author_name": "Sol\u00e8ne",
             "categories": "flickr,twitter",
-            "tags": "showcase,showcase-the-best,best,best-ones,ones,tweet,make,make-your,make-your-choice,your,your-choice,choice,scan,your-archives,archives,thrown,into,sea,bottle,flickr,flickr_blog,twitter,twitter_tuesday,twittertuesday,tuesday,today,adding",
+            "tags": "showcase,showcase-the-best,ones,tweet,thrown,into,sea,bottle,flickr,flickr_blog,twitter,twitter_tuesday,twittertuesday,tuesday,scan,your,archives,make,choice,adding",
             "recuweb_url": "http://fr.recuweb.com/twitter/blog.flickr.net/2015/04/twitter-tuesday-bottle-flickr-blog",
             "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.flickr.net/en/2015/04/14/twitter-tuesday-bottle/"
+        },
+        "flickr.com/2015/04/mrs-willson-flickr-photo-sharing": {
+            "title": "Mrs. Willson Flickr - Photo Sharing!",
+            "snippet": "3 leg one cat She meet a dog Mrs. Wilson a \u00e9t\u00e9 trouv\u00e9e sous un cabanon, dans la foret, alors ag\u00e9e d'1 semaine. Elle a \u00e9t\u00e9 nourrit au biberon par la maman de...",
+            "date": "2015-04-01",
+            "author_name": "nobody@flickr.com (Benoit.P)",
+            "categories": "flickr",
+            "tags": "photo,flickr",
+            "recuweb_url": "http://fr.recuweb.com/flickr/flickr.com/2015/04/mrs-willson-flickr-photo-sharing",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://flickr.com/photos/benoitpaille/17112985116/"
         },
         "blog.flickr.net/2015/03/twitter-tuesday-yum-flickr-blog": {
             "title": "Twitter Tuesday: Yum! Flickr Blog...",
@@ -49,7 +72,7 @@
             "date": "2015-03-24",
             "author_name": "Sol\u00e8ne",
             "categories": "flickr,twitter",
-            "tags": "showcase,showcase-the-best,best,best-ones,ones,adding,twitter_tuesday,make,make-your,make-your-choice,your,your-choice,choice,tweet,your-archives,archives,flickr,flickr_blog,twitter,tuesday,scan",
+            "tags": "showcase,showcase-the-best,ones,adding,twitter_tuesday,choice,tweet,flickr,flickr_blog,twitter,tuesday,your,scan,archives,make",
             "recuweb_url": "http://fr.recuweb.com/twitter/blog.flickr.net/2015/03/twitter-tuesday-yum-flickr-blog",
             "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.flickr.net/en/2015/03/24/twitter-tuesday-yum/"
@@ -60,10 +83,21 @@
             "date": "2015-03-09",
             "author_name": "Sol\u00e8ne",
             "categories": "flickr",
-            "tags": "our,lot,theme,selection,flickr,flickr_blog,friday,was,thank,photos",
+            "tags": "group,pool,submissions,directly,here,here-are,are,got,lot,theme,week,selection,flickr,flickr_blog,flickr_friday,friday,was,thank,photos,our,favorites",
             "recuweb_url": "http://fr.recuweb.com/flickr/blog.flickr.net/2015/03/flickr-friday-the-dilemma-selection-blog",
             "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.flickr.net/en/2015/03/09/flickr-friday-the-dilemma-selection/"
+        },
+        "blog.flickr.net/2015/03/twitter-tuesday-the-feet-selection-flickr-blog": {
+            "title": "Twitter Tuesday: the Feet selection Flickr Blog...",
+            "snippet": "You took off your shoes for TwitterTuesday! We got so many Feet submissions from all of you, and here are our favorites. Enjoy! Of course, you are welcome to check out all contributions by directly go to our Twitter feed.",
+            "date": "2015-03-04",
+            "author_name": "Sol\u00e8ne",
+            "categories": "flickr,twitter",
+            "tags": "are,check,out,contributions,directly,here,here-are,got,flickr,flickr_blog,twitter,twitter_tuesday,twittertuesday,tuesday,selection,your,submissions,our,favorites",
+            "recuweb_url": "http://fr.recuweb.com/twitter/blog.flickr.net/2015/03/twitter-tuesday-the-feet-selection-flickr-blog",
+            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/03/04/twitter-tuesday-the-feet-selection/"
         },
         "news.pixelistes.com/2015/01/flickr-pr%C3%A9sente-son-top-25-de-2014-pixelistes": {
             "title": "Flickr pr\u00e9sente son top 25 de 2014! Pixelistes...",
@@ -71,9 +105,9 @@
             "date": "2015-01-13",
             "author_name": "Maxime",
             "categories": "flickr",
-            "tags": "plusieurs,sans,flickr,photos",
+            "tags": "sans,flickr,photos",
             "recuweb_url": "http://fr.recuweb.com/flickr/news.pixelistes.com/2015/01/flickr-pr%C3%A9sente-son-top-25-de-2014-pixelistes",
-            "resource_url": "http://www.google.com/search?q=flickr%2Bflickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=flickr&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://news.pixelistes.com/flickr-presente-son-top-25-de-2014/"
         },
         "vanishingmontreal.com/2014/12/before-after-acorn-street-avant-apr%C3%A8s-rue-st-henri": {
@@ -82,7 +116,7 @@
             "date": "2014-12-16",
             "author_name": "Vanishing Montreal",
             "categories": "flickr",
-            "tags": "flickr,articles,photos",
+            "tags": "flickr,articles,after,photos",
             "recuweb_url": "http://fr.recuweb.com/flickr/vanishingmontreal.com/2014/12/before-after-acorn-street-avant-apr%C3%A8s-rue-st-henri",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=flickr%2Bflickr&rss=1&lng=fr",
             "source_url": "http://vanishingmontreal.com/2014/12/before-after-acorn-street-avant-apres.html"
