@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "capoeira",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/capoeira/",
@@ -10,85 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/capoeira/capoeira/blogs.json"
     },
     "items": {
-        "ladepeche.fr/2015/02/samedi-c-est-la-9e-nuit-des-arts-martiaux": {
-            "title": "Samedi, c'est la 9e nuit des arts martiaux...",
-            "snippet": "Au programme de cette nouvelle \u00e9dition: d\u00e9monstrations et d\u00e9couvertes autour du viet vo dao, du karat\u00e9, du judo, du t\u00e6kwondo sans oublier: capoeira, boxe tha\u00ef, ta\u00ef-chi-chuan, body viet, nunchaku de combat et spectacle de casses avec, entre...",
-            "date": "2015-02-24",
-            "categories": "judo,arts,capoeira",
-            "tags": "combat,programme,arts,martiaux,capoeira",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/ladepeche.fr/2015/02/samedi-c-est-la-9e-nuit-des-arts-martiaux",
+        "lindependant.fr/2015/04/piemont-d-alaric-cirque-zumba-capoeira-grimpe-etc-pour-l-ind%C3%A9": {
+            "title": "PIEMONT D'ALARIC: Cirque, Zumba, capoeira, grimpe etc pour... - L'ind\u00e9...",
+            "snippet": "L'ind\u00e9 D'ALARIC: Cirque, Zumba, capoeira, grimpe etc pour...L'ind\u00e9 ateliers d\u00e9couverte pour les 11/17 ans cirque et Hip Hop avec le Cirque pour tous -capoeira grimpe dans les arbres et modelage avec Zarno - 17h d\u00e9monstration et course de...",
+            "date": "2015-04-22",
+            "categories": "capoeira",
+            "tags": "capoeira,d\u00e9monstration",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/lindependant.fr/2015/04/piemont-d-alaric-cirque-zumba-capoeira-grimpe-etc-pour-l-ind%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira%2Bcapoeira&output=atom&nord=1",
+            "source_url": "http://lindependant.fr/2015/04/20/piemont-d-alaric-cirque-zumba-capoeira-grimpe-etc-pour-la-1ere-fete-de-la-jeunesse,2020186.php"
+        },
+        "ladepeche.fr/2015/04/la-danse-br%C3%A9silienne-capoeira-s-invite-dans-les-rues": {
+            "title": "La danse br\u00e9silienne, la Capoeira, s'invite dans les rues... -...",
+            "snippet": "danse br\u00e9silienne, la Capoeira, s'invite dans les rues... 'association les messagers du vent, a pour vocation de promouvoir la pratique de la capoeira, de la musique et des percussions africaines ainsi que de favoriser le d\u00e9veloppement urbain de...",
+            "date": "2015-04-21",
+            "categories": "musique,capoeira",
+            "tags": "association,danse,capoeira",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/ladepeche.fr/2015/04/la-danse-br%C3%A9silienne-capoeira-s-invite-dans-les-rues",
+            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira%2Bcapoeira&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/21/2091060-danse-bresilienne-capoeira-invite-rues-carcassonnaises.html"
+        },
+        "alencon.maville.com/2015/04/festival-annuel-de-capoeira-alencon": {
+            "title": "Festival annuel de Capoeira Alencon...",
+            "snippet": "Comme chaque ann\u00e9e et depuis 14 ans l'association RACINARTMONIE organise son Festival de Capoeira. Cette ann\u00e9e l\u00e9v\u00e9nement est organis\u00e9 conjointement avec Joga Capoeira de Tours et Esperan\u00e7a Capoeira de Mortagne au Perche. Au programme...",
+            "date": "2015-04-20",
+            "categories": "capoeira",
+            "tags": "ann\u00e9e,chaque,capoeira,festival,comme,association",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/alencon.maville.com/2015/04/festival-annuel-de-capoeira-alencon",
             "resource_url": "http://www.bing.com/news/search?first=1&q=capoeira&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/02/24/2054912-samedi-c-est-la-9e-nuit-des-arts-martiaux.html"
+            "source_url": "http://alencon.maville.com/sport/detail_-festival-annuel-de-capoeira-alencon_47194-2755414_actu.Htm"
         },
-        "acritica.uol.com.br/2015/02/s%C3%A9rie-lutas-capoeira-o-esporte-que-mescla-luta-dan%C3%A7a-portal": {
-            "title": "S\u00e9rie Lutas: Capoeira, o esporte que mescla luta, dan\u00e7a... - Portal A Cr\u00edtica...",
-            "snippet": "Portal A Cr\u00edticaS\u00e9rie Lutas: Capoeira, o esporte que mescla luta, dan\u00e7a...Portal A Cr\u00edticaVoc\u00ea j\u00e1 deve ter ouvido falar sobre a Capoeira e logo imagina as pessoas vestidas de branco, gingando de um lado para o outro, ao som do berimbau. Mas,...",
-            "date": "2015-02-24",
-            "categories": "capoeira",
-            "tags": "s\u00e9rie,capoeira",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/acritica.uol.com.br/2015/02/s%C3%A9rie-lutas-capoeira-o-esporte-que-mescla-luta-dan%C3%A7a-portal",
-            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira&output=atom&nord=1",
-            "source_url": "http://acritica.uol.com.br/blogs/blog_do_fabricio_lima/Serie-Lutas-Capoeira-musicalidade-cultura_7_1308539135.html"
-        },
-        "nation.com.pk/2015/02/capoeira-of-brazil-lands-in-pakistan-the-nation": {
-            "title": "Capoeira of Brazil lands in Pakistan - The Nation...",
-            "snippet": "The NationCapoeira of Brazil lands in PakistanThe NationIslamabad - The Brazilian Embassy on Thursday organised a ceremony in honour of Shayan Ali and Mirwais, Pakistani Capoeira athletes, who came back from Brazil after attending three-week long...",
-            "date": "2015-02-20",
-            "categories": "capoeira",
-            "tags": "week,capoeira",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/nation.com.pk/2015/02/capoeira-of-brazil-lands-in-pakistan-the-nation",
-            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira&output=atom&nord=1",
-            "source_url": "http://nation.com.pk/islamabad/20-Feb-2015/capoeira-of-brazil-lands-in-pakistan"
-        },
-        "letelegramme.fr/2015/02/capoeira-et-hip-hop-des-stages-bien-suivis-par-les-adolescents": {
-            "title": "Capoeira et hip-hop. Des stages bien suivis par les adolescents - Le T\u00e9l\u00e9gramme...",
-            "snippet": "Le T\u00e9l\u00e9grammeCapoeira et hip-hop. Des stages bien suivis par les adolescentsLe T\u00e9l\u00e9grammeCapoeira et hip-hop. Des stages bien suivis par les adolescents Le programme des animations des vacances pour les adolescents de la communaut\u00e9 de communes...",
-            "date": "2015-02-19",
-            "categories": "capoeira",
-            "tags": "programme,capoeira",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/letelegramme.fr/2015/02/capoeira-et-hip-hop-des-stages-bien-suivis-par-les-adolescents",
-            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira&output=atom&nord=1",
-            "source_url": "http://letelegramme.fr/finistere/brennilis/capoeira-et-hip-hop-des-stages-bien-suivis-par-les-adolescents-19-02-2015-10531479.php"
-        },
-        "le-perche.fr/2015/02/mortagne-au-perche-pour-ne-rien-rater-de-la-foire-boudin": {
-            "title": "Mortagne-au-Perche Pour ne rien rater de la foire au boudin...",
-            "snippet": "Salon des produits du terroir, village des artisans, exposition de photographies avec Soline Roux Le Perche agricole, foire-exposition, mur descalade, zumba (trampoline), capoeira. Garderie pour les plus jeunes encadr\u00e9e par des \u00e9l\u00e8ves de la...",
-            "date": "2015-02-16",
-            "categories": "photographie,capoeira",
-            "tags": "capoeira",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/le-perche.fr/2015/02/mortagne-au-perche-pour-ne-rien-rater-de-la-foire-boudin",
+        "republicain-lorrain.fr/2015/04/sarre-union-capoeira-en-plein-centre-ville": {
+            "title": "Sarre-Union: capoeira en plein centre-ville...",
+            "snippet": "Le 8e festival de lassociation locale capoeira Senzala bat son plein et prendra fin cet apr\u00e8s-midi. Chaque ann\u00e9e, un temps fort permet aux participants du stage de se produire en plein air, comme ce fut le cas hier apr\u00e8s-midi sur la Place de...",
+            "date": "2015-04-18",
+            "categories": "capoeira,place",
+            "tags": "comme,festival,capoeira,chaque,ann\u00e9e",
+            "recuweb_url": "http://fr.recuweb.com/place/republicain-lorrain.fr/2015/04/sarre-union-capoeira-en-plein-centre-ville",
             "resource_url": "http://www.bing.com/news/search?first=1&q=capoeira&format=RSS&cc=fr",
-            "source_url": "http://le-perche.fr/35969/pour-ne-rien-rater-de-la-foire-au-boudin/"
+            "source_url": "http://republicain-lorrain.fr/moselle/2015/04/18/sarre-union-capoeira-en-plein-centre-ville"
         },
-        "larepublique77.fr/2015/02/la-capoeira-a-gagn%C3%A9-le-combat-de-reconnaissance": {
-            "title": "La capoeira a gagn\u00e9 le combat de la reconnaissance...",
-            "snippet": "La capoeira est le seul sport qui respecte lindividualit\u00e9 des gens, cest notre ma\u00eetre Elias qui le dit, affirme Marc Mendes, professeur de Capoeira en Seine-et-Marne. La reconnaissance par lUnesco est une fiert\u00e9 pour les capoeiristes.",
-            "date": "2015-02-14",
-            "categories": "capoeira,sport",
-            "tags": "combat,capoeira,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/larepublique77.fr/2015/02/la-capoeira-a-gagn%C3%A9-le-combat-de-reconnaissance",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=capoeira&format=RSS&cc=fr",
-            "source_url": "http://larepublique77.fr/2015/02/14/la-capoeira-a-gagne-le-combat-de-la-reconnaissance/"
-        },
-        "france24.com/2015/02/%C3+-goma-la-capoeira-sort-les-enfants-de-guerre": {
-            "title": "\u00c0 Goma, la capoeira sort les enfants de la guerre...",
-            "snippet": "Pr\u00e8s de 250 000 enfants-soldats sont toujours en activit\u00e9 dans le monde, rappelait l'Unicef le 12 f\u00e9vrier, lors de la Journ\u00e9e internationale qui leur \u00e9tait consacr\u00e9e. En RD Congo, un programme de r\u00e9int\u00e9gration par la capoeira a \u00e9t\u00e9 mis en...",
-            "date": "2015-02-13",
+        "paris-normandie.fr/2015/04/la-roda-de-g%C3%A9n%C3%A9rosit%C3%A9-paris-normandie-inscription": {
+            "title": "La Roda de la g\u00e9n\u00e9rosit\u00e9 - Paris Normandie (Inscription)...",
+            "snippet": "Paris Normandie (Inscription)La Roda de la g\u00e9n\u00e9rosit\u00e9Paris Normandie (Inscription)Demain dimanche, l'association Healthy activity, le groupe Capoeira Biriba Brasil et l'instructeur Pepe-legal organisent une manifestation au profit des Restos du...",
+            "date": "2015-04-17",
             "categories": "capoeira",
-            "tags": "\u00e9t\u00e9,programme,capoeira,unicef",
-            "recuweb_url": "http://",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=capoeira&format=RSS&cc=fr",
-            "source_url": "http://france24.com/fr/20150213-goma-capoeira-enfants-soldats-guerre-rd-congo-conflit-art-martial-reinsertion/"
-        },
-        "blogs.unicef.org/2015/02/capoeira-is-a-tool-for-peace-in-the-drc-unicef-connect": {
-            "title": "Capoeira is a tool for peace in the DRC - UNICEF Connect (blog)...",
-            "snippet": "UNICEF Connect (blog)Capoeira is a tool for peace in the DRCUNICEF Connect (blog)I discovered capoeira in Kinshasa in 2006 during a very short but intense one-week introductory course and this is where my desire to progress in this art began. The...",
-            "date": "2015-02-10",
-            "categories": "capoeira",
-            "tags": "week,unicef,capoeira,art",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/blogs.unicef.org/2015/02/capoeira-is-a-tool-for-peace-in-the-drc-unicef-connect",
-            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira&output=atom&nord=1",
-            "source_url": "http://blogs.unicef.org/2015/02/10/capoeira-is-a-tool-for-peace-in-the-drc/"
+            "tags": "capoeira,brasil,groupe,paris,association",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/paris-normandie.fr/2015/04/la-roda-de-g%C3%A9n%C3%A9rosit%C3%A9-paris-normandie-inscription",
+            "resource_url": "http://news.google.fr/?hl=fr&q=capoeira%2Bcapoeira&output=atom&nord=1",
+            "source_url": "http://paris-normandie.fr/detail_communes/articles/2987712/la-roda-de-la-generosite"
         }
     }
 }
