@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "microblog",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -10,6 +11,36 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/blogs.json"
     },
     "items": {
+        "ecns.cn/2015/04/pla-navy-launches-official-micro-blog-account-ecns": {
+            "title": "PLA Navy launches official micro-blog account - ecns...",
+            "snippet": "PLA Navy launches official micro-blog accountecnsThe Navy of the Chinese People's Liberation Army (PLA) launched its official Internet micro-blog account () on the People's Daily Online (), the first of its kind among all the major units of the...et...",
+            "date": "2015-04-24",
+            "categories": "internet",
+            "tags": "daily,micro,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/ecns.cn/2015/04/pla-navy-launches-official-micro-blog-account-ecns",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
+            "source_url": "http://ecns.cn/military/2015/04-24/162954.shtml"
+        },
+        "french.people.com.cn/2015/04/quand-des-pompiers-du-liaoning-se-font-photographier-fa%C3%A7on-blockbuster-hollywoodien": {
+            "title": "Quand des pompiers du Liaoning se font photographier fa\u00e7on blockbuster hollywoodien...",
+            "snippet": "Le 21 avril, le site Internet du China Daily a publi\u00e9 un ensemble de photos impressionnantes, dignes d'un blockbuster hollywoodien, mises en ligne sur le microblog officiel des pompiers de Chaoyang, dans la Province du Liaoning, mettant en valeur...",
+            "date": "2015-04-21",
+            "categories": "internet,microblog",
+            "tags": "ligne,daily,site,internet,microblog",
+            "recuweb_url": "http://fr.recuweb.com/microblog/french.people.com.cn/2015/04/quand-des-pompiers-du-liaoning-se-font-photographier-fa%C3%A7on-blockbuster-hollywoodien",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
+            "source_url": "http://french.people.com.cn/Culture/n/2015/0421/c31358-8881612.html"
+        },
+        "catracalivre.com.br/2015/04/site-cria-microblog-para-mulheres-confessarem-seus-pecados-catraca-livre": {
+            "title": "Site cria microblog para mulheres confessarem seus pecados. - Catraca Livre...",
+            "snippet": "Catraca LivreSite cria microblog para mulheres confessarem seus LivreSucesso em grupos no Facebook, o projeto art\u00edstico sobre liberdade sexual feminina Ing\u00eanua, lan\u00e7ou o Confession\u00e1rio em vers\u00e3o plataforma. Um microblog onde as internautas...",
+            "date": "2015-04-20",
+            "categories": "microblog,facebook",
+            "tags": "site,microblog",
+            "recuweb_url": "http://fr.recuweb.com/facebook/catracalivre.com.br/2015/04/site-cria-microblog-para-mulheres-confessarem-seus-pecados-catraca-livre",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
+            "source_url": "http://catracalivre.com.br/geral/dica-digital/indicacao/site-cria-microblog-para-mulheres-confessarem-seus-pecados/"
+        },
         "numerama.com/2015/04/yahoo-veut-acheter-foursquare": {
             "title": "Yahoo veut acheter Foursquare...",
             "snippet": "Des discussions sont actuellement en cours entre le portail web et le service de microblog, selon les informations du site Techcrunch. Le prix d\u00e9finitif pourrait atteindre 900 millions de dollars, ce qui en ferait l'une des plus grosses...",
@@ -25,60 +56,10 @@
             "snippet": "TV5MONDE Actualit\u00e9sCybersexisme: violences virtuelles mais bien r\u00e9ellesTV5MONDE Actualit\u00e9sL'outil phare de la campagne: un Tumblr, ou microblog, qui prend la forme d'une suite de messages anim\u00e9s, reprenant des extraits de films comiques ou de...",
             "date": "2015-04-08",
             "categories": "tumblr,microblog",
-            "tags": "messages,prend,campagne,monde,tumblr,microblog",
+            "tags": "messages,campagne,monde,tumblr,microblog",
             "recuweb_url": "http://fr.recuweb.com/microblog/information.tv5monde.com/2015/04/cybersexisme-violences-virtuelles-mais-bien-r%C3%A9elles-tv5monde-actualit%C3%A9s",
             "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
             "source_url": "http://information.tv5monde.com/terriennes/cybersexisme-violences-virtuelles-mais-bien-reelles-26282"
-        },
-        "20minutes.fr/2015/04/110-m%C3%A8tres-haie-le-h%C3%A9ros-chinois-liu-xang-confirme-sa-retraite": {
-            "title": "110 m\u00e8tres haie: Le h\u00e9ros chinois Liu Xang confirme sa retraite...",
-            "snippet": "En quelques heures le microblog de Liu Xiang a \u00e9t\u00e9 repost\u00e9 une douzaine de millions de fois, tant l'homme est rest\u00e9 populaire dans le pays. Son entra\u00eeneur, Sun Haiping, avait d\u00e8s vendredi pr\u00e9par\u00e9 l'opinion publique, en annon\u00e7ant que Liu...",
-            "date": "2015-04-07",
-            "categories": "microblog",
-            "tags": "annon\u00e7ant,opinion,opinion-publique,publique,vendredi,vendredi-pr\u00e9par\u00e9,pr\u00e9par\u00e9,sun,sun_haiping,haiping,homme,homme-est-rest\u00e9,rest\u00e9,rest\u00e9-populaire,populaire,pays,tant,douzaine,\u00e9t\u00e9,liu,liu_xiang,xiang,quelques,quelques-heures,heures,confirme,confirme-sa-retraite,retraite,chinois,microblog,millions,entra\u00eeneur",
-            "recuweb_url": "http://fr.recuweb.com/microblog/20minutes.fr/2015/04/110-m%C3%A8tres-haie-le-h%C3%A9ros-chinois-liu-xang-confirme-sa-retraite",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
-            "source_url": "http://20minutes.fr/sport/1580763-20150407-110-metres-haie-heros-chinois-liu-xang-confirme-retraite"
-        },
-        "leparisien.fr/2015/04/athl%C3%A9tisme-le-chinois-liu-xiang-110m-haies-prend-sa-retraite": {
-            "title": "ATHL\u00c9TISME: le Chinois Liu Xiang (110m haies) prend sa retraite...",
-            "snippet": "En quelques heures le microblog de Liu Xiang a \u00e9t\u00e9 repost\u00e9 une douzaine de millions de fois, tant l'homme est rest\u00e9 populaire dans le pays.",
-            "date": "2015-04-07",
-            "categories": "athletisme,microblog",
-            "tags": "homme,homme-est-rest\u00e9,rest\u00e9,rest\u00e9-populaire,populaire,pays,tant,douzaine,\u00e9t\u00e9,liu,liu_xiang,xiang,quelques,quelques-heures,heures,prend,retraite,haies,chinois,microblog,millions",
-            "recuweb_url": "http://fr.recuweb.com/microblog/leparisien.fr/2015/04/athl%C3%A9tisme-le-chinois-liu-xiang-110m-haies-prend-sa-retraite",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/sports/autres/athletisme-le-chinois-liu-xiang-110m-haies-prend-sa-retraite-07-04-2015-4672375.php"
-        },
-        "lequipe.fr/2015/04/chn-liu-xiang-annonce-officiellement-sa-retraite": {
-            "title": "CHN Liu Xiang annonce officiellement sa retraite...",
-            "snippet": "Le Chinois, champion olympique du 110m haies en 2004, a pris la parole sur son microblog pour faire ses adieux. Je me retire. Je veux commencer une nouvelle aventure. Bien que mon coeur pompe toujours du sang chaud, ma jambe a encore une fois dit...",
-            "date": "2015-04-07",
-            "categories": "microblog",
-            "tags": "haies,retraite,liu,liu_xiang,xiang,chinois,microblog",
-            "recuweb_url": "http://fr.recuweb.com/microblog/lequipe.fr/2015/04/chn-liu-xiang-annonce-officiellement-sa-retraite",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
-            "source_url": "http://lequipe.fr/Athletisme/Actualites/Liu-xiang-annonce-officiellement-sa-retraite/548999"
-        },
-        "lematin.ch/2015/04/liu-xiang-l%C3%A9gende-du-sport-chinois-confirme-sa-retraite": {
-            "title": "Liu Xiang, l\u00e9gende du sport chinois, confirme sa retraite...",
-            "snippet": "En quelques heures le microblog de Liu Xiang a \u00e9t\u00e9 repost\u00e9 une douzaine de millions de fois, tant l'homme est rest\u00e9 populaire dans le pays. Son entra\u00eeneur, Sun Haiping, avait d\u00e8s vendredi pr\u00e9par\u00e9 l'opinion publique, en annon\u00e7ant que Liu...",
-            "date": "2015-04-07",
-            "categories": "sport,microblog",
-            "tags": "annon\u00e7ant,opinion,opinion-publique,publique,vendredi,vendredi-pr\u00e9par\u00e9,pr\u00e9par\u00e9,sun,sun_haiping,haiping,homme,homme-est-rest\u00e9,rest\u00e9,rest\u00e9-populaire,populaire,pays,tant,douzaine,\u00e9t\u00e9,quelques,quelques-heures,heures,confirme,confirme-sa-retraite,retraite,chinois,liu,liu_xiang,xiang,microblog,millions,entra\u00eeneur",
-            "recuweb_url": "http://fr.recuweb.com/microblog/lematin.ch/2015/04/liu-xiang-l%C3%A9gende-du-sport-chinois-confirme-sa-retraite",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
-            "source_url": "http://lematin.ch/sports/autres/liu-xiang-legende-sport-chinois-confirme-retraite/story/15785277"
-        },
-        "techtudo.com.br/2015/03/parab%C3%A9ns-twitter-microblog-completa-9-anos-confira-momentos": {
-            "title": "Parab\u00e9ns Twitter: microblog completa 9 anos; confira momentos... -...",
-            "snippet": "\u00e9ns Twitter: microblog completa 9 anos; confira momentos... Twitter est\u00e1 completando 9 anos neste s\u00e1bado (21) e para comemorar vale conferir os momentos mais marcantes do microblog. Mesmo limitado aos 140 caracteres, a rede social foi utilizada...",
-            "date": "2015-03-22",
-            "categories": "twitter,microblog",
-            "tags": "twitter,microblog",
-            "recuweb_url": "http://fr.recuweb.com/microblog/techtudo.com.br/2015/03/parab%C3%A9ns-twitter-microblog-completa-9-anos-confira-momentos",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
-            "source_url": "http://techtudo.com.br/noticias/noticia/2015/03/parabens-twitter-microblog-completa-9-anos-confira-momentos-marcantes.html"
         }
     }
 }
