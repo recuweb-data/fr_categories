@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "internet",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -10,82 +11,92 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "rtl.fr/2015/04/cyberterrorisme-une-plateforme-de-bonne-conduite-entre-le-gouvernement": {
-            "title": "Cyberterrorisme: une plateforme de bonne conduite entre le gouvernement et les op\u00e9rateurs internet...",
-            "snippet": "Cyberterrorisme: une plateforme de bonne conduite entre le gouvernement et les op\u00e9rateurs internet...",
-            "date": "2015-04-22",
+        "zone-numerique.com/2015/04/internet-deux-tiers-des-enfants-voient-contenus-inappropri%C3%A9s-indique-kaspersky-lab": {
+            "title": "Internet: deux tiers des enfants voient des contenus inappropri\u00e9s indique Kaspersky Lab...",
+            "snippet": "L\u00e9diteur de solutions de s\u00e9curit\u00e9 Kaspersky Lab a analys\u00e9 les donn\u00e9es des utilisateurs de ses solutions de contr\u00f4le parental et a r\u00e9alis\u00e9 une \u00e9tude baptise Children Online qui r\u00e9v\u00e8le que deux tiers des enfants voient des contenus...",
+            "date": "2015-04-24",
             "categories": "internet",
-            "tags": "op\u00e9rateurs,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/rtl.fr/2015/04/cyberterrorisme-une-plateforme-de-bonne-conduite-entre-le-gouvernement",
+            "tags": "enfants,contenus,utilisateurs,kaspersky,kaspersky_lab,lab,contenus-inappropri\u00e9s,inappropri\u00e9s,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/zone-numerique.com/2015/04/internet-deux-tiers-des-enfants-voient-contenus-inappropri%C3%A9s-indique-kaspersky-lab",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://rtl.fr/actu/societe-faits-divers/cyberterrorisme-une-plateforme-de-bonne-conduite-entre-le-gouvernement-et-les-operateurs-internet-7777442295"
+            "source_url": "http://zone-numerique.com/internet-deux-tiers-des-enfants-voient-des-contenus-inappropries-indique-kaspersky-lab.html"
         },
-        "frejus-saintraphael.maville.com/2015/04/google-le-g%C3%A9ant-de-l-internet-change-son-algorithme-pour-devancer": {
-            "title": "Google: Le g\u00e9ant de l'internet change son algorithme pour devancer Apple...",
-            "snippet": "Le groupe de Mountain View avait pr\u00e9venu il y a deux mois d'un changement de son moteur de recherche mobile le mardi 21 avril devant privil\u00e9gier les sites compatibles avec les smartphones, au d\u00e9triment des sites non adapt\u00e9s, qui pourraient...",
-            "date": "2015-04-22",
-            "categories": "moteur-de-recherche,google,internet",
-            "tags": "sites,avril,mobile,google,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/frejus-saintraphael.maville.com/2015/04/google-le-g%C3%A9ant-de-l-internet-change-son-algorithme-pour-devancer",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://frejus-saintraphael.maville.com/actu/actudet_-google-le-geant-de-l-internet-change-son-algorithme-pour-devancer-apple_fil-2756645_actu.Htm"
-        },
-        "numerama.com/2015/04/la-hadopi-contre-le-racisme-et-haine-sur-internet-%C3%A7a-se": {
-            "title": "La HADOPI contre le racisme et la haine sur Internet, \u00e7a se pr\u00e9cise...",
-            "snippet": "La Haute autorit\u00e9 pour la diffusion des oeuvres et la protection des droits sur Internet (Hadopi) avait \u00e9t\u00e9 cr\u00e9\u00e9e sous l'insistance de Nicolas Sarkozy pour lutter contre le piratage de films, musiques ou s\u00e9ries TV. Sa mission principale est...",
-            "date": "2015-04-22",
-            "categories": "musique,internet",
-            "tags": "contre,\u00e9t\u00e9,autorit\u00e9,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/numerama.com/2015/04/la-hadopi-contre-le-racisme-et-haine-sur-internet-%C3%A7a-se",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://numerama.com/magazine/32876-la-hadopi-contre-le-racisme-et-la-haine-sur-internet-ca-se-precise.html"
-        },
-        "bigbrowser.blog.lemonde.fr/2015/04/je-ne-veux-plus-m-appartenir-juste-vivre-sur-internet": {
-            "title": "Je ne veux plus m'appartenir. Je veux juste vivre sur Internet - Le Monde...",
-            "snippet": "Je ne veux plus m'appartenir. Je veux juste vivre sur Internet Le MondeComme elle l'\u00e9tait en 2009. Elle a quitt\u00e9 le publicitaire. Elle a repris sa boutique en ligne et sa vie sur son canap\u00e9, isol\u00e9e. Elle pense avoir trouv\u00e9 ainsi un \u00e9quilibre.",
-            "date": "2015-04-21",
+        "actualites-news-environnement.com/2015/04/internet-et-les-enfants-dangers-selon-kaspersky-lab": {
+            "title": "Internet et les enfants: les dangers selon Kaspersky Lab...",
+            "snippet": "Internet, un support p\u00e9dagogique ou dangereux Cest un \u00e9ternel d\u00e9bat, mais on pourrait \u00eatre fix\u00e9 avec ce sondage, qui d\u00e9montre clairement que ce r\u00e9seau contient un grand nombre de contenus inappropri\u00e9s pour les enfants. Parmi les pays o\u00f9...",
+            "date": "2015-04-24",
             "categories": "internet",
-            "tags": "ainsi,ligne,\u00e9tait,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/bigbrowser.blog.lemonde.fr/2015/04/je-ne-veux-plus-m-appartenir-juste-vivre-sur-internet",
+            "tags": "pays,o\u00f9,grand,contenus,contenus-inappropri\u00e9s,inappropri\u00e9s,enfants,\u00eatre,kaspersky,kaspersky_lab,lab,dangers,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/actualites-news-environnement.com/2015/04/internet-et-les-enfants-dangers-selon-kaspersky-lab",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://actualites-news-environnement.com/34164-internet-et-les-enfants-les-dangers-selon-kaspersky-lab.html"
+        },
+        "centrepresseaveyron.fr/2015/04/la-bastide-mise-sur-internet-pour-redynamiser-le-commerce-centre-presse": {
+            "title": "La Bastide mise sur internet pour redynamiser le commerce - Centre Presse Aveyron...",
+            "snippet": "Centre Presse AveyronLa Bastide mise sur internet pour redynamiser le commerceCentre Presse AveyronTel est le concept que les \u00e9lus villefranchois verraient bien se mettre en place dans la Bastide. Le principe serait de s'inspirer de ce qui se fait...",
+            "date": "2015-04-24",
+            "categories": "place,internet",
+            "tags": "commerce,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/centrepresseaveyron.fr/2015/04/la-bastide-mise-sur-internet-pour-redynamiser-le-commerce-centre-presse",
             "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
-            "source_url": "http://bigbrowser.blog.lemonde.fr/2015/04/21/je-ne-veux-plus-mappartenir-je-veux-juste-vivre-sur-internet/"
+            "source_url": "http://centrepresseaveyron.fr/2015/04/24/la-bastide-mise-sur-internet-pour-redynamiser-le-commerce,957369.php"
         },
-        "ladepeche.fr/2015/04/le-permis-internet-pour-pr%C3%A8s-de-60-%C3%A9coliers-la-source": {
-            "title": "Le permis Internet pour pr\u00e8s de 60 \u00e9coliers de La Source...",
-            "snippet": "R\u00e9cemment, une soixantaine d'\u00e9l\u00e8ves des classes de CM1 et CM2 de l'\u00e9cole de La Source ont re\u00e7u leur permis Internet, remis officiellement, durant une c\u00e9r\u00e9monie solennelle. Cette op\u00e9ration est men\u00e9e conjointement par la gendarmerie nationale...",
-            "date": "2015-04-20",
+        "lexpress.fr/2015/04/sur-internet-le-guide-du-parfait-djihadiste-infiltr%C3%A9-en-occident": {
+            "title": "Sur internet, le guide du parfait djihadiste infiltr\u00e9 en occident...",
+            "snippet": "Depuis quelques jours, un e-book de 70 pages circule sur internet. Il s'adresse aux djihadistes occidentaux, en vue de commettre un attentat terroriste dans leur pays. Il invite ces derniers en se camoufler en v\u00e9ritables agents dormants pour...",
+            "date": "2015-04-24",
             "categories": "internet",
-            "tags": "internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/ladepeche.fr/2015/04/le-permis-internet-pour-pr%C3%A8s-de-60-%C3%A9coliers-la-source",
+            "tags": "pays,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/lexpress.fr/2015/04/sur-internet-le-guide-du-parfait-djihadiste-infiltr%C3%A9-en-occident",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/21/2091109-permis-internet-pres-60-ecoliers-source.html"
+            "source_url": "http://lexpress.fr/actualite/societe/sur-internet-le-guide-du-parfait-djihadiste-infiltre-en-occident_1673768.html"
         },
-        "syfantasy.fr/2015/04/%C3%A9dito-42-star-wars-va-t-il-gagner-contre-internet": {
-            "title": "\u00c9dito 42: Star Wars va-t-il gagner contre internet?",
-            "snippet": "Internet a tout chang\u00e9. Une phrase bien commune qui s'applique \u00e9galement au septi\u00e8me art. Surtout quand celui-ci est orient\u00e9 vers le divertissement. L'information fait du 0.5 au dessus de la vitesse de la lumi\u00e8re, et les cin\u00e9philes avides du...",
-            "date": "2015-04-20",
-            "categories": "divertissement,internet",
-            "tags": "celui,art,contre,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/syfantasy.fr/2015/04/%C3%A9dito-42-star-wars-va-t-il-gagner-contre-internet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://syfantasy.fr/20457-dito_42__Star_Wars_vatil_gagner_contre_internet"
-        },
-        "cowcotland.com/2015/04/actualit%C3%A9-publi%C3%A9e-sur-cowcotland-tag-fin-support-2015": {
-            "title": "Actualit\u00e9 publi\u00e9e sur cowcotland, tag: fin support 2015...",
-            "snippet": "M\u00eame si l'\u00e9diteur, Microsoft, a stopp\u00e9 le suppot de Windows XP l'an dernier, ainsi que celui de son navigateur internet, Internet Explorer, dans la foul\u00e9e, Chrome et Firefox profitaient encore d'un support. A la fin de l'ann\u00e9e, ce ne sera plus...",
-            "date": "2015-04-19",
+        "lavoixdunord.fr/2015/04/wallers-au-coll%C3%A8ge-tout-sur-les-dangers-d-internet-la-voix": {
+            "title": "Wallers: au coll\u00e8ge, tout sur les dangers d'Internet - La Voix du Nord...",
+            "snippet": "La Voix du NordWallers: au coll\u00e8ge, tout sur les dangers d'InternetLa Voix du NordIntervenant et \u00e9l\u00e8ves ont parl\u00e9s de l'utilisation des r\u00e9seaux sociaux, mais aussi de l'usage global d'Internet. Pour bien faire comprendre que la toile peut \u00eatre...",
+            "date": "2015-04-24",
             "categories": "internet",
-            "tags": "internet,ainsi,celui,ann\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/internet/cowcotland.com/2015/04/actualit%C3%A9-publi%C3%A9e-sur-cowcotland-tag-fin-support-2015",
+            "tags": "peut,\u00eatre,aussi,r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,dangers,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/lavoixdunord.fr/2015/04/wallers-au-coll%C3%A8ge-tout-sur-les-dangers-d-internet-la-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/wallers-au-college-tout-sur-les-dangers-d-internet-ia27b36960n2790445"
+        },
+        "agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook": {
+            "title": "Internet - Internet - Le Paysan Tarnais franchit de nouveaux caps sur Facebook et Twitter!",
+            "snippet": "La foire agricole de R\u00e9almont est d\u00e9cidemment un grand \u00e9v\u00e9nement pour lagriculture tarnaise et le Tarn plus g\u00e9n\u00e9ralement. La couverture de la manifestation sur nos r\u00e9seaux sociaux (photos, palmar\u00e8s) a \u00e9t\u00e9 tr\u00e8s suivie et nous a permis d...",
+            "date": "2015-04-23",
+            "categories": "internet,facebook,twitter",
+            "tags": "\u00e9t\u00e9,r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,grand,internet,facebook,twitter,palmar\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/twitter/agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://cowcotland.com/news/tag/fin-support-2015/"
+            "source_url": "http://agriculteur-normand.com/actualites/internet-internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook-et-twitter:8M39O8ZA.html"
+        },
+        "latribune.fr/2015/04/marre-d-%C3%AAtre-espionn%C3%A9-sur-internet-qwant-et-duckduckgo-surfent": {
+            "title": "Marre d'\u00eatre espionn\u00e9 sur Internet? Qwant et DuckDuckGo surfent... - La...",
+            "snippet": "La d'\u00eatre espionn\u00e9 sur Internet? Qwant et DuckDuckGo surfent...La Le moteur de recherche qui respecte votre vie priv\u00e9e promet Qwant sur sa page d'accueil. (Cr\u00e9dits: DR) Delphine Cuny 23/04/2015, 7:00 - 1445 mots Le moteur de recherche fran\u00e7ais...",
+            "date": "2015-04-23",
+            "categories": "moteur-de-recherche,internet",
+            "tags": "vie,\u00eatre,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/latribune.fr/2015/04/marre-d-%C3%AAtre-espionn%C3%A9-sur-internet-qwant-et-duckduckgo-surfent",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
+            "source_url": "http://latribune.fr/technos-medias/internet/marre-d-etre-espionne-sur-internet-qwant-et-duckduckgo-surfent-sur-la-vague-anti-google-470820.html"
+        },
+        "liberation.fr/2015/04/post-internet-vie-et-mort-d-une-%C3%A9tiquette-lib%C3%A9ration": {
+            "title": "Post-internet, Vie et mort d'une \u00e9tiquette - Lib\u00e9ration...",
+            "snippet": "Post-internet, Vie et mort d'une \u00e9tiquetteLib\u00e9rationLe post-Internet est un mot-valise apparu en 2008 dans une interview de l'artiste Marisa Olson pour d\u00e9signer l'impact culturel du Web sur son propre travail. Identifi\u00e9 comme une pratique en...",
+            "date": "2015-04-23",
+            "categories": "mort,internet",
+            "tags": "comme,internet,vie,inter,web",
+            "recuweb_url": "http://fr.recuweb.com/internet/liberation.fr/2015/04/post-internet-vie-et-mort-d-une-%C3%A9tiquette-lib%C3%A9ration",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
+            "source_url": "http://liberation.fr/culture/2015/04/22/post-internet-vie-et-mort-d-une-etiquette_1259327"
         },
         "fr.news.yahoo.com/2015/04/les-m%C3%A8mes-ce-pan-de-la-culture-web-menac%C3%A9s-en-russie": {
             "title": "Les m\u00e8mes, ce pan de la culture Web, menac\u00e9s en Russie...",
             "snippet": "Le m\u00e8me, cet art du d\u00e9tournement humoristique sur Internet, est dans le collimateur de l'autorit\u00e9 de r\u00e9gulation des m\u00e9dias.",
             "date": "2015-04-13",
             "categories": "culture,internet",
-            "tags": "autorit\u00e9,art,web,internet",
+            "tags": "web,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/04/les-m%C3%A8mes-ce-pan-de-la-culture-web-menac%C3%A9s-en-russie",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=internet",
             "source_url": "http://fr.news.yahoo.com/m\u00e8mes-pan-culture-web-menac\u00e9s-russie-155118638.html"
@@ -95,20 +106,10 @@
             "snippet": "Toute demande de logement social peut d\u00e9sormais se faire sur internet, comme pr\u00e9vu par la loi Alur (pour l'acc\u00e8s au logement et un urbanisme r\u00e9nov\u00e9) du 24 mars 2014, a annonc\u00e9 lundi le minist\u00e8re du Logement.",
             "date": "2015-04-13",
             "categories": "internet",
-            "tags": "comme,internet",
+            "tags": "comme,peut,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/04/une-demande-de-logement-hlm-peut-d%C3%A9sormais-se-faire-sur-internet",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=internet",
             "source_url": "http://fr.news.yahoo.com/demande-logement-hlm-peut-d\u00e9sormais-faire-internet-100031897--finance.html"
-        },
-        "fr.news.yahoo.com/2015/04/game-of-thrones-trois-applications-pour-%C3%A9viter-de-vous-faire-spoiler": {
-            "title": "Game of Thrones: Trois applications pour \u00e9viter de vous faire spoiler sur Internet...",
-            "snippet": "WEB - Les quatre premiers \u00e9pisodes de la s\u00e9rie ont fuit\u00e9 sur Internet dimanche. Vous avez peur de tomber sur des informations cruciales en ligne? Pas de panique...",
-            "date": "2015-04-13",
-            "categories": "internet",
-            "tags": "ligne,\u00e9pisodes,internet,web",
-            "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/04/game-of-thrones-trois-applications-pour-%C3%A9viter-de-vous-faire-spoiler",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=internet",
-            "source_url": "http://fr.news.yahoo.com/game-of-thrones-trois-applications-\u00e9viter-faire-spoiler-095426315.html"
         }
     }
 }
