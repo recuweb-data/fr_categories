@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-prototypes",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-prototypes/",
@@ -10,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-prototypes/sport-prototypes/blogs.json"
     },
     "items": {
-        "motorlegend.com/2015/04/lancement-d-un-championnat-imsa-sur-iracing": {
-            "title": "Lancement d'un championnat IMSA sur iRacing...",
-            "snippet": "Les concurrents de cette s\u00e9rie IMSA pourront \u00e9voluer aux commandes de sport-prototypes tels que les HPD ARX-01c et autre Riley MKXX Daytona Prototype, ou encore au volant de plusieurs GT figurant au catalogue d'iRacing (qui comprend notamment...",
-            "date": "2015-04-02",
-            "categories": "sport",
-            "tags": "prototypes,sport,championnat",
-            "recuweb_url": "http://fr.recuweb.com/sport/motorlegend.com/2015/04/lancement-d-un-championnat-imsa-sur-iracing",
+        "msn.com/2015/04/peugeot-annonce-la-sortie-d-une-supercar": {
+            "title": "Peugeot annonce la sortie d'une supercar...",
+            "snippet": "Gilles Vidal annonce d'ailleurs: Ce concept-car, c'est une voiture qui marie les codes de la grande GT, de la supercar et des sport-prototypes. La supercar n'a pas encore de date de sortie officielle. Les internautes imaginent d'ailleurs qu'il...",
+            "date": "2015-04-23",
+            "categories": "supercar,sport",
+            "tags": "supercar,sport,voiture,voiture-qui-marie,marie,marie-les-codes,codes,grande,annonce,gilles,gilles_vidal,vidal,peugeot,concept,car,prototypes",
+            "recuweb_url": "http://fr.recuweb.com/sport/msn.com/2015/04/peugeot-annonce-la-sortie-d-une-supercar",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
-            "source_url": "http://motorlegend.com/actualite-automobile/l-imsa-et-iracing-partenaires/11771.html"
+            "source_url": "http://msn.com/fr-ca/autos/actualite/peugeot-annonce-la-sortie-dune-supercar/ar-AAbrVBL"
         },
-        "dijon-sportnews.fr/2015/04/prenois-un-week-end-historic": {
-            "title": "Prenois: Un week-end Historic...",
-            "snippet": "Un titre de cat\u00e9gorie A regroupant les monoplaces et les Sport-Prototypes et donc les voitures participant aux troph\u00e9es F3 Classic, Formules Renaults Classic, Formules Ford Kent, Formula Ford et SportProtos Cup. Un titre de championnat de...",
-            "date": "2015-04-02",
-            "categories": "formule,monoplace,sport",
-            "tags": "championnat,sport,prototypes",
-            "recuweb_url": "http://fr.recuweb.com/sport/dijon-sportnews.fr/2015/04/prenois-un-week-end-historic",
+        "msn.com/2015/04/peugeot-pr%C3%A9pare-un-nouveau-concept-car": {
+            "title": "Peugeot pr\u00e9pare un nouveau concept-car...",
+            "snippet": "Gilles Vidal, directeur du design de Peugeot, parle d'une voiture \"qui marie les codes de la grande GT, de la supercar et des sport prototypes\". Peut-\u00eatre une version encore plus sportive du concept Onyx? EN SAVOIR PLUS MASQUER...",
+            "date": "2015-04-23",
+            "categories": "supercar,sport,sport-prototypes",
+            "tags": "concept,supercar,sport,sport-prototypes,prototypes,voiture,voiture-qui-marie,marie,marie-les-codes,codes,grande,directeur,design,gilles,gilles_vidal,vidal,nouveau,peugeot,car,onyx",
+            "recuweb_url": "http://fr.recuweb.com/sport-prototypes/msn.com/2015/04/peugeot-pr%C3%A9pare-un-nouveau-concept-car",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
-            "source_url": "http://dijon-sportnews.fr/2015/04/01/prenois-un-week-end-historic/106918/"
+            "source_url": "http://msn.com/fr-ca/autos/watch/peugeot-pr\u00e9pare-un-nouveau-concept-car/vi-AAbsfaQ"
+        },
+        "motorlegend.com/2015/04/un-myst%C3%A9rieux-concept-car-peugeot-en-approche": {
+            "title": "Un myst\u00e9rieux concept-car Peugeot en approche...",
+            "snippet": "Pr\u00e9sent\u00e9 par Gilles Vidal, le Directeur du style de Peugeot, comme un concept-car qui marie les code de la grande GT, des Supercars et des Sport-prototypes, ce nouveau v\u00e9hicule promet beaucoup, m\u00eame si Peugeot n'a encore r\u00e9v\u00e9l\u00e9 aucune...",
+            "date": "2015-04-22",
+            "categories": "supercar,sport",
+            "tags": "nouveau,v\u00e9hicule,car,marie,grande,concept,gilles,gilles_vidal,vidal,myst\u00e9rieux,myst\u00e9rieux-concept,peugeot,directeur,sport,prototypes",
+            "recuweb_url": "http://fr.recuweb.com/sport/motorlegend.com/2015/04/un-myst%C3%A9rieux-concept-car-peugeot-en-approche",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
+            "source_url": "http://motorlegend.com/actualite-automobile/peugeot-tease-son-nouveau-concept/11868.html"
+        },
+        "tf1.fr/2015/04/la-peugeot-onyx-vision-gran-turismo-s-annonce-en-vid%C3%A9o": {
+            "title": "La Peugeot Onyx Vision Gran Turismo s'annonce en vid\u00e9o...",
+            "snippet": "Dans ces quelques secondes myst\u00e9rieuses, un design \u00e9tablit des esquisses papier et sur ordinateur, tandis que le patron du design Gilles Vidal pr\u00e9cise que le v\u00e9hicule marie les codes de la grande GT, du supercar, et des sport prototypes...",
+            "date": "2015-04-21",
+            "categories": "sport,sport-prototypes,supercar,ordinateur",
+            "tags": "sport,sport-prototypes,prototypes,supercar,v\u00e9hicule,marie,marie-les-codes,codes,grande,gilles,gilles_vidal,vidal,patron,patron-du-design,design,annonce,peugeot,onyx",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/tf1.fr/2015/04/la-peugeot-onyx-vision-gran-turismo-s-annonce-en-vid%C3%A9o",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
+            "source_url": "http://tf1.fr/auto-moto/actualite/la-peugeot-onyx-vision-gran-turismo-s-annonce-en-video-8597575.html"
+        },
+        "autodeclics.com/2015/04/un-myst%C3%A9rieux-concept-car-pour-peugeot": {
+            "title": "Un myst\u00e9rieux concept-car pour Peugeot...",
+            "snippet": "Gilles Vidal, patron du design de la marque sochalienne, nous fait languir en \u00e9voquant une auto qui marie les codes de la grande GT, de la supercar et des sport prototypes. La silhouette rappelle en tout cas grandement celle du concept Onyx...",
+            "date": "2015-04-21",
+            "categories": "supercar,sport,sport-prototypes",
+            "tags": "concept,supercar,sport,sport-prototypes,prototypes,marie,marie-les-codes,codes,grande,patron,patron-du-design,design,gilles,gilles_vidal,vidal,car,myst\u00e9rieux,myst\u00e9rieux-concept,peugeot,onyx",
+            "recuweb_url": "http://fr.recuweb.com/sport-prototypes/autodeclics.com/2015/04/un-myst%C3%A9rieux-concept-car-pour-peugeot",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bprototypes&format=RSS&cc=fr",
+            "source_url": "http://autodeclics.com/peugeot/actualite_voiture/58915-un_mysterieux_concept_car_pour_peugeot.html"
         }
     }
 }
