@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "java",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -16,10 +17,21 @@
             "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "java",
-            "tags": "mois,situ\u00e9,mission,mission-de-dur\u00e9e,dur\u00e9e,cherche,d\u00e9veloppeur,java,paris,france",
+            "tags": "mois,situ\u00e9,mission,mission-de-dur\u00e9e,dur\u00e9e,cherche,d\u00e9veloppeur,mission-client,mission-client-final,client,client-final,final,d\u00e9veloppeur_java,java,emagine,paris,idf,defense",
             "recuweb_url": "http://fr.recuweb.com/java/freelance-info.fr/2015/04/d%C3%A9veloppeur-java-jee-senoir-mission-client-final-h-f-freelance",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://freelance-info.fr/offre-de-mission_245502.html"
+        },
+        "freelance-info.fr/2015/04/ingenieur-logiciel-test-leader-java-mission-client-final-h-f": {
+            "title": "Ingenieur Logiciel Test Leader (JAVA) (mission client final) (h/f...",
+            "snippet": "Emagine recherche un(e) INGENIEUR LOGICIEL TEST LEADER (JAVA) pour un de ses tr\u00e8s bons clients. Indispensable: java, Junit, selenium. D\u00e9marrage: au plus vite. Dur\u00e9e: 6 MOIS. Lieu: PARIS - IDF - 75 - LA DEFENSE (Paris,...",
+            "date": "2015-04-17",
+            "author_name": "inconnu",
+            "categories": "java",
+            "tags": "client,mission,mission-client,mission-client-final,client-final,final,java,emagine,dur\u00e9e,mois,paris,idf,defense",
+            "recuweb_url": "http://fr.recuweb.com/java/freelance-info.fr/2015/04/ingenieur-logiciel-test-leader-java-mission-client-final-h-f",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://freelance-info.fr/offre-de-mission_245549.html"
         },
         "freelance-info.fr/2015/04/expert-technique-java-hibernate-envers": {
             "title": "Expert Technique JAVA/Expert Hibernate/Envers -...",
@@ -49,7 +61,7 @@
             "date": "2015-04-15",
             "author_name": "sconie",
             "categories": "java",
-            "tags": "petit,installe,java",
+            "tags": "java",
             "recuweb_url": "http://fr.recuweb.com/java/forums.macg.co/2015/04/question-java-runtime-environment-les-forums-de-macgeneration",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forums.macg.co/threads/java-runtime-environment.1263996/"
@@ -60,7 +72,7 @@
             "date": "2015-03-30",
             "author_name": "shaverhood5n",
             "categories": "musique,java",
-            "tags": "applications,java",
+            "tags": "musique,applications,java",
             "recuweb_url": "http://fr.recuweb.com/java/shaverhood5n.wordpress.com/2015/03/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
             "source_url": "http://shaverhood5n.wordpress.com/2015/03/30/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir-sur/"
@@ -71,7 +83,7 @@
             "date": "2015-03-23",
             "author_name": "binaire",
             "categories": "langage,java",
-            "tags": "langage,d\u00e9veloppeur,exemple,java,comme",
+            "tags": "langage,\u00eatre,d\u00e9veloppeur,exemple,avoir,java,comme",
             "recuweb_url": "http://fr.recuweb.com/java/binaire.blog.lemonde.fr/2015/03/dieu-a-t-il-programm%C3%A9-le-monde-en-java-binaire",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://binaire.blog.lemonde.fr/2015/03/23/dieu-a-t-il-programme-le-monde-en-java/"
@@ -82,7 +94,7 @@
             "date": "2015-03-16",
             "author_name": "michel",
             "categories": "langage,java",
-            "tags": "programmation,langage,objet,orient\u00e9,orient\u00e9-objet,java,windows",
+            "tags": "programmation,langage,objet,orient\u00e9,orient\u00e9-objet,java",
             "recuweb_url": "http://fr.recuweb.com/java/mediaforma.com/2015/03/java-un-langage-orient%C3%A9-objet",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
             "source_url": "http://mediaforma.com/java-java-un-langage-oriente-objet/"
@@ -98,27 +110,16 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
             "source_url": "http://downloads.zdnet.com/product/18495-75935435/"
         },
-        "blog.e-nnov.fr/2015/03/java-installation-sur-un-nas-synology-julien-nicole": {
-            "title": "Java: Installation sur un NAS Synology - Julien Nicole...",
-            "snippet": "Java est un langage de programme orient\u00e9 objet. Cet article d\u00e9crit son installation sur un NAS Synology.",
-            "date": "2015-03-01",
-            "author_name": "Julien Nicole",
+        "touilleur-express.fr/2015/02/le-touilleur-express-blog-archive-langage-java-a-20": {
+            "title": "Le Touilleur Express Blog Archive Le langage Java a 20 ans...",
+            "snippet": "Java est aussi fortement orient\u00e9 objet. Plut\u00f4t que de se concentrer sur le comment, l'approche de Java est de proposer un focus sur le quoi. Java renforce cette id\u00e9e avec la sortie d'une librairie assez riche, surtout sur...",
+            "date": "2015-02-02",
+            "author_name": "Nicolas Martignole",
             "categories": "langage,java",
-            "tags": "langage,orient\u00e9,orient\u00e9-objet,objet,java",
-            "recuweb_url": "http://fr.recuweb.com/java/blog.e-nnov.fr/2015/03/java-installation-sur-un-nas-synology-julien-nicole",
-            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.e-nnov.fr/synology-dsm/java/"
-        },
-        "blog.xebia.fr/2015/02/java-8-en-production-petit-manuel-de-persuasion-blog-xebia-france": {
-            "title": "Java 8 en production, petit manuel de persuasion. Blog Xebia France...",
-            "snippet": "Un d\u00e9veloppeur, un architecte, proposant une nouvelle stack logicielle, Java 8 au lieu de Java 6, AMQP au lieu de JMS, Python 3 au lieu de Python 2.6, Teamcity au lieu de Jenkins, est souvent consid\u00e9r\u00e9 comme une fashion...",
-            "date": "2015-02-23",
-            "author_name": "Laurent Vald\u00e8s",
-            "categories": "java",
-            "tags": "comme,france,petit,java,d\u00e9veloppeur",
-            "recuweb_url": "http://fr.recuweb.com/java/blog.xebia.fr/2015/02/java-8-en-production-petit-manuel-de-persuasion-blog-xebia-france",
-            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.xebia.fr/2015/02/23/java-8-en-production-petit-manuel-de-persuasion/"
+            "tags": "orient\u00e9,orient\u00e9-objet,objet,langage,java",
+            "recuweb_url": "http://fr.recuweb.com/java/touilleur-express.fr/2015/02/le-touilleur-express-blog-archive-langage-java-a-20",
+            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://touilleur-express.fr/2015/02/02/le-langage-java-a-20-ans/"
         }
     }
 }
