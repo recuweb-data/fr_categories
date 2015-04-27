@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "club-de-foot",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/club-de-foot/",
@@ -10,6 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/club-de-foot/club-de-foot/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/interview-de-michel-mallet-pr%C3%A9sident-du-club-foot-quevilly-rouen-m%C3%A9tropole": {
+            "title": "Interview de Michel Mallet, pr\u00e9sident du club de foot Quevilly Rouen M\u00e9tropole...",
+            "snippet": "Interview de Michel Mallet, pr\u00e9sident du club de foot Quevilly Rouen M\u00e9tropole Michel Mallet, pr\u00e9sident du nouveau club de football Quevilly Rouen Metropole \u00e9tait notre invit\u00e9 ce lundi 20 avril 2015. Il revient sur le rapprochement entre les...",
+            "date": "2015-04-20",
+            "author_name": "France 3 Haute-Normandie",
+            "categories": "club-de-football,football,club-de-foot",
+            "tags": "revient,nouveau,club,football,club-de-foot,foot",
+            "recuweb_url": "http://fr.recuweb.com/club-de-foot/youtube.com/2015/04/interview-de-michel-mallet-pr%C3%A9sident-du-club-foot-quevilly-rouen-m%C3%A9tropole",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=SsRu9wHEvoc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/SsRu9wHEvoc/0.jpg"
+        },
+        "dailymotion.com/2015/04/la-nouvelle-edition-du-10-04-part-3-red-star": {
+            "title": "La Nouvelle Edition du 10/04 - Part. 3 Red Star: Le club de foot pr\u00e9f\u00e9r\u00e9 de Fran\u00e7ois Hollande...",
+            "snippet": "Au menu de cette Nouvelle Edition: infos, analyses et enqu\u00eates sur l'actu du bout du monde et du coin de la rue, d\u00e9livr\u00e9es dans la bonne humeur par Ali Baddou et ses chroniqueursAuthor: EnClairTags: Posted: 11 April 2015Rating:: 0...",
+            "date": "2015-04-10",
+            "author_name": "EnClair",
+            "categories": "club-de-foot",
+            "tags": "bonne,monde,club,club-de-foot,foot",
+            "recuweb_url": "http://fr.recuweb.com/club-de-foot/dailymotion.com/2015/04/la-nouvelle-edition-du-10-04-part-3-red-star",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot+club+de+foot/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mb407_la-nouvelle-edition-du-10-04-part-3-red-star-le-club-de-foot-prefere-de-francois-hollande_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mb407_la-nouvelle-edition-du-10-04-part-3-red-star-le-club-de-foot-prefere-de-francois-hollande_shortfilms"
+        },
         "dailymotion.com/2015/04/rmc-07-04-le-top-de-luis-attaque-les-pr%C3%A9sidents": {
             "title": "RMC: 07/04 - Le Top de Luis Attaque: Les pr\u00e9sidents des grands clubs fran\u00e7ais sont-ils en...",
             "snippet": "Le Best-of des interventions du jour de Luis Fernandez et sa Dream Team, dans l'\u00e9mission Luis Attaque, sur RMC la radio du: rmcsport-podcastTags: luis fernandez rmcsport radio football emission rmc best-of luis attaque foot opinion sport Posted: 08...",
@@ -22,49 +47,13 @@
             "source_url": "http://dailymotion.com/video/x2m326a_rmc-07-04-le-top-de-luis-attaque-les-presidents-des-grands-clubs-francais-sont-ils-en-train-de-ridic_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m326a_rmc-07-04-le-top-de-luis-attaque-les-presidents-des-grands-clubs-francais-sont-ils-en-train-de-ridic_sport"
         },
-        "youtube.com/2015/04/turquie-le-bus-du-club-de-football-fenerbah%C3%A7e-vis%C3%A9": {
-            "title": "Turquie: le bus du club de football de Fenerbah\u00e7e vis\u00e9 par des tirs...",
-            "snippet": "Turquie: le bus du club de football de Fenerbah\u00e7e vis\u00e9 par des tirs En Turquie, le bus du club de football de Fenerbah\u00e7e a \u00e9t\u00e9 attaqu\u00e9 par des hommes arm\u00e9s samedi soir \u00e0 Trabzon dans le Nord-Est. Le chauffeur, bless\u00e9, est parvenu \u00e0...",
-            "date": "2015-04-07",
-            "author_name": "euronews (en fran\u00e7ais)",
-            "categories": "club-de-football,football",
-            "tags": "club,football",
-            "recuweb_url": "http://fr.recuweb.com/football/youtube.com/2015/04/turquie-le-bus-du-club-de-football-fenerbah%C3%A7e-vis%C3%A9",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=RQrrJqqPe-I&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/RQrrJqqPe-I/0.jpg"
-        },
-        "youtube.com/2015/04/top-5-des-meilleur-club-de-foot": {
-            "title": "top 5 des meilleur club de foot...",
-            "snippet": "top 5 des meilleur club de foot abonnez-vous pour plus de top 5. From: nono du 85 Views: 5 2 ratings Time: 01:34 More in People & Blogs...",
-            "date": "2015-04-06",
-            "author_name": "nono du 85",
-            "categories": "club-de-foot",
-            "tags": "top,meilleur,club,club-de-foot,foot,people",
-            "recuweb_url": "http://fr.recuweb.com/club-de-foot/youtube.com/2015/04/top-5-des-meilleur-club-de-foot",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=UbFpgOnWZ8E&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/UbFpgOnWZ8E/0.jpg"
-        },
-        "youtube.com/2015/03/canal-football-club-zidane-face-aux-abonn%C3%A9s-demain-19h10-28-3": {
-            "title": "canal football club zidane face aux abonn\u00e9s demain 19h10 Canal 28 3 2015...",
-            "snippet": "canal football club zidane face aux abonn\u00e9s demain 19h10 Canal 28 3 2015 Bande Annonce PROMO (BA) Vu Le x 3 2015 (J M Ann\u00e9e) (voir dans le titre) Certains programmes, s\u00e9ries sont disponibles en Replay... From: Mmsl35Mars Views: 640 1 ratings...",
-            "date": "2015-03-28",
-            "author_name": "Mmsl35Mars",
-            "categories": "football",
-            "tags": "canal,football,club",
-            "recuweb_url": "http://fr.recuweb.com/football/youtube.com/2015/03/canal-football-club-zidane-face-aux-abonn%C3%A9s-demain-19h10-28-3",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=BJ_vjc7cAZw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/BJ_vjc7cAZw/0.jpg"
-        },
         "dailymotion.com/2015/03/top-10-des-clubs-de-foot-qui-g%C3%A9n%C3%A8rent-le-plus-revenus": {
             "title": "Top 10 des clubs de foot qui g\u00e9n\u00e8rent le plus de revenus...",
             "snippet": "D\u00e9couvrez qui sont les 10 clubs de foot qui g\u00e9n\u00e8rent le plus de revenus au monde. Le PSG occupe une bonne place dans ce palmar\u00e8: SportuneTags: Football FC Barcelone Real Madrid Club de F\u00fatbol Manchester United Football Club Paris Saint-Germain...",
             "date": "2015-03-03",
             "author_name": "Sportune",
             "categories": "football,realmadrid,place",
-            "tags": "football,football_club,clubs,foot,top",
+            "tags": "football,football_club,clubs,bonne,foot,monde,top",
             "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/03/top-10-des-clubs-de-foot-qui-g%C3%A9n%C3%A8rent-le-plus-revenus",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot+club+de+foot/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ikrrt_top-10-des-clubs-de-foot-qui-ge-ne-rent-le-plus-de-revenus_sport",
@@ -72,11 +61,11 @@
         },
         "youtube.com/2015/02/le-meilleur-du-canal-football-club-extraits-cfc-08-02-15": {
             "title": "LE MEILLEUR DU Canal Football Club Extraits du CFC du 08 02 15...",
-            "snippet": "LE MEILLEUR DU Canal Football Club Extraits du CFC du 08 02 15 From: Thomas FUT Views: 4343 9 ratings Time: 08:58 More in People & Blogs...",
+            "snippet": "LE MEILLEUR DU Canal Football Club Extraits du CFC du 08 02 15 From: Thomas FUT Views: 4811 9 ratings Time: 08:58 More in People & Blogs...",
             "date": "2015-02-10",
             "author_name": "Thomas FUT",
             "categories": "football",
-            "tags": "meilleur,canal,football,football_club,club,people",
+            "tags": "football,football_club,club",
             "recuweb_url": "http://fr.recuweb.com/football/youtube.com/2015/02/le-meilleur-du-canal-football-club-extraits-cfc-08-02-15",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=49DJ5nJCZ68&feature=youtube_gdata",
@@ -90,9 +79,21 @@
             "categories": "club-de-foot",
             "tags": "stade,club,club-de-foot,foot",
             "recuweb_url": "http://fr.recuweb.com/club-de-foot/youtube.com/2015/02/egypte-mourir-pour-un-club-de-foot",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=_cL3CAzHi4Q&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/_cL3CAzHi4Q/0.jpg"
+        },
+        "youtube.com/2015/01/journaze-de-blasu-29-janvier-2015-hymne-pour-club-foot": {
+            "title": "Journaze de Blasu 29 janvier 2015 Hymne pour club de foot...",
+            "snippet": "Journaze de Blasu 29 janvier 2015 Hymne pour club de foot Tous les matins dans Rouge Caf\u00e9 \u00e0 6h50 Tous les jours entre 12h et 13h sur Rouge FM. Blasu et sa r\u00e9daction qui n'existe pas revisitent l'actualit\u00e9. Lausanne 106.5 Gen\u00e8ve 97.6 Plateau...",
+            "date": "2015-01-29",
+            "author_name": "Rouge FM",
+            "categories": "club-de-foot",
+            "tags": "club,club-de-foot,foot",
+            "recuweb_url": "http://fr.recuweb.com/club-de-foot/youtube.com/2015/01/journaze-de-blasu-29-janvier-2015-hymne-pour-club-foot",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=iObrU0RQZxY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/iObrU0RQZxY/0.jpg"
         },
         "dailymotion.com/2015/01/foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur": {
             "title": "FOOT - L1 - OM - Anigo: Mendy a choisi son club de coeur!",
@@ -100,7 +101,7 @@
             "date": "2015-01-24",
             "author_name": "lequipe",
             "categories": "football",
-            "tags": "football,marseille,ligue,club,foot,lequipetags",
+            "tags": "football,marseille,ligue,nouveau,club,foot,lequipetags",
             "recuweb_url": "http://fr.recuweb.com/football/dailymotion.com/2015/01/foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fhw0l_foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur_sport",
@@ -111,7 +112,7 @@
             "snippet": "VIDEO FOOT - Avant de recevoir Reims au stade V\u00e9lodrome pour le dernier match de la saison, l'entra\u00eeneur de l'Olympique de Marseille, Elie Baup, revient sur son club, sa relation avec les m\u00e9dias et les trois ans de coupure qui ont pr\u00e9c\u00e9d\u00e9 son...",
             "date": "2015-01-24",
             "author_name": "lequipe",
-            "tags": "trois,club,entra\u00eeneur,stade,foot,baup,olympique,marseille,elie",
+            "tags": "trois,revient,club,entra\u00eeneur,stade,foot,baup,olympique,marseille,elie",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/01/foot-l1-om-baup-un-club-de-passion%C3%A9s",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fhtia_foot-l1-om-baup-un-club-de-passiones_sport",
