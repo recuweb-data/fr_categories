@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "freestyle-motocross",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/freestyle-motocross/",
@@ -10,17 +11,29 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/freestyle-motocross/freestyle-motocross/blogs.json"
     },
     "items": {
-        "youtube.com/2014/11/fmx-freestyle-motocross-2014": {
-            "title": "FMX freestyle Motocross 2014...",
-            "snippet": "FMX freestyle Motocross 2014 La team Blackliner a enflamm\u00e9 ce Supercross de Lille le 15 novembre 2014. The only European Pro team gath... From: Gaetan VIFQUIN Views: 406 5 ratings Time: 02:10 More in Sports...",
-            "date": "2014-11-17",
-            "author_name": "Gaetan VIFQUIN",
-            "categories": "sport",
-            "tags": "fmx,freestyle,motocross,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/11/fmx-freestyle-motocross-2014",
+        "dailymotion.com/2015/04/freestyle-motocross-amateur": {
+            "title": "Freestyle Motocross Amateur...",
+            "snippet": "Author: motodeclasseTags: Moto-cross Sport Divertissement Voyage Humour Posted: 19 April 2015Rating:: 0...",
+            "date": "2015-04-19",
+            "author_name": "motodeclasse",
+            "categories": "sport,divertissement,humour,freestyle-motocross",
+            "tags": "sport,freestyle,freestyle_motocross,motocross,moto,cross",
+            "recuweb_url": "http://fr.recuweb.com/freestyle-motocross/dailymotion.com/2015/04/freestyle-motocross-amateur",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/freestyle+motocross+freestyle+motocross/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n6cou_freestyle-motocross-amateur_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n6cou_freestyle-motocross-amateur_auto"
+        },
+        "youtube.com/2014/09/freestyle-du-moto-cross-de-brienon-sur-arman%C3%A7on-2014": {
+            "title": "Freestyle du moto cross de brienon sur arman\u00e7on 2014...",
+            "snippet": "Freestyle du moto cross de brienon sur arman\u00e7on 2014 Le super moto cross de brienon abonner vous et partager cette video au max svp!!!!!!! From: Eric Cheminant Views: 142 3 ratings Time: 11:57 More in People & Blogs...",
+            "date": "2014-09-07",
+            "author_name": "Eric Cheminant",
+            "categories": "moto-cross",
+            "tags": "moto,cross,freestyle",
+            "recuweb_url": "http://fr.recuweb.com/moto-cross/youtube.com/2014/09/freestyle-du-moto-cross-de-brienon-sur-arman%C3%A7on-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=freestyle%2Bmotocross%2Bfreestyle%2Bmotocross&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=UDfRq3yVE80&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/UDfRq3yVE80/0.jpg"
+            "source_url": "http://youtube.com/watch?v=8eH1HuDBj8c&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/8eH1HuDBj8c/0.jpg"
         },
         "dailymotion.com/2014/07/freestyle-motocross-les-meilleurs-tricks": {
             "title": "Freestyle Motocross - Les meilleurs tricks...",
@@ -34,29 +47,28 @@
             "source_url": "http://dailymotion.com/video/x20laqd_freestyle-motocross-les-meilleurs-tricks_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x20laqd_freestyle-motocross-les-meilleurs-tricks_sport"
         },
-        "youtube.com/2014/06/teaser-fise-fmx-show-2014": {
-            "title": "Teaser Fise FMX Show 2014...",
-            "snippet": "Teaser Fise FMX Show 2014 Retrouvez d\u00e8s demain une vid\u00e9o sp\u00e9cial du Show Freestyle Motocross et Trial du FISE (Festival International des Sports Extr\u00eames) au Park'n Suites Arena de M... From: Silk722 Views: 2560 68 ratings Time: 00:40 More in...",
-            "date": "2014-06-06",
-            "author_name": "Silk722",
-            "categories": "sport,freestyle-motocross",
-            "tags": "sports,festival,freestyle,freestyle_motocross,motocross,fmx",
-            "recuweb_url": "http://fr.recuweb.com/freestyle-motocross/youtube.com/2014/06/teaser-fise-fmx-show-2014",
+        "youtube.com/2014/03/motocross-freestyle-%C3%A9piniac-hd": {
+            "title": "Motocross Freestyle \u00e9piniac HD...",
+            "snippet": "Motocross Freestyle \u00e9piniac HD Description. From: Guiard Mathieu Views: 264 1 ratings Time: 10:42 More in Autos & Vehicles...",
+            "date": "2014-03-18",
+            "author_name": "Guiard Mathieu",
+            "tags": "motocross,freestyle,autos,vehicles",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/03/motocross-freestyle-%C3%A9piniac-hd",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=freestyle%2Bmotocross%2Bfreestyle%2Bmotocross&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=HSejXWTglo4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/HSejXWTglo4/0.jpg"
+            "source_url": "http://youtube.com/watch?v=2tSzlnL-eHU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/2tSzlnL-eHU/0.jpg"
         },
-        "youtube.com/2014/04/salon-du-deux-roues-saint-avold-2014-freestyle-motocross": {
-            "title": "Salon du deux roues saint avold 2014 freestyle motocross...",
-            "snippet": "Salon du deux roues saint avold 2014 freestyle motocross 22e Salon du deux roues des cow riders a saint avold. From: Tragicx Da silva Views: 31 1 ratings Time: 06:52 More in Autos & Vehicles...",
-            "date": "2014-04-28",
-            "author_name": "Tragicx Da silva",
-            "categories": "freestyle-motocross",
-            "tags": "freestyle,motocross,autos,vehicles",
-            "recuweb_url": "http://fr.recuweb.com/freestyle-motocross/youtube.com/2014/04/salon-du-deux-roues-saint-avold-2014-freestyle-motocross",
+        "youtube.com/2013/07/motocross-freestyle-un-triomphe-dans-les-ar%C3%A8nes": {
+            "title": "Motocross freestyle: un triomphe dans les ar\u00e8nes...",
+            "snippet": "Motocross freestyle: un triomphe dans les ar\u00e8nes Le Fran\u00e7ais Tom Pag\u00e8s est devenu champion du monde X-Fighters dans les ar\u00e8nes de Las Ventas \u00e0 Madrid. Il s'agissait de son premier titre dans la discipline, la joie \u00e9tait intense. From: Wallonie...",
+            "date": "2013-07-24",
+            "author_name": "Zoomin.TV Wallonie",
+            "categories": "discipline",
+            "tags": "motocross,freestyle,fighters",
+            "recuweb_url": "http://fr.recuweb.com/discipline/youtube.com/2013/07/motocross-freestyle-un-triomphe-dans-les-ar%C3%A8nes",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=freestyle%2Bmotocross%2Bfreestyle%2Bmotocross&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=_n1cmxZAxQE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/_n1cmxZAxQE/0.jpg"
+            "source_url": "http://youtube.com/watch?v=GxXU0mYJxLg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/GxXU0mYJxLg/0.jpg"
         },
         "dailymotion.com/2013/02/freestyle-motocross-a-day-inside-the-life-of-brian-deegan": {
             "title": "Freestyle motocross - A Day Inside The Life Of Brian Deegan...",
@@ -64,7 +76,7 @@
             "date": "2013-02-28",
             "author_name": "Riders-Match",
             "categories": "sport",
-            "tags": "first,action,sports,freestyle,motocross",
+            "tags": "action,sports,life,freestyle,motocross",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2013/02/freestyle-motocross-a-day-inside-the-life-of-brian-deegan",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/freestyle+motocross/0?af=1",
             "source_url": "http://dailymotion.com/video/xxumo9_freestyle-motocross-a-day-inside-the-life-of-brian-deegan_sport",
@@ -76,7 +88,7 @@
             "date": "2013-02-19",
             "author_name": "Riders-Match",
             "categories": "sport",
-            "tags": "motocross,freestyle,fmx",
+            "tags": "sport,fighters,motocross,freestyle",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2013/02/red-bull-x-fighters-2013-motocross-freestyle-season-preview",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/freestyle+motocross+freestyle+motocross/0?af=1",
             "source_url": "http://dailymotion.com/video/xxm6n0_red-bull-x-fighters-2013-motocross-freestyle-season-preview_sport",
@@ -84,11 +96,11 @@
         },
         "youtube.com/2012/11/freestyle-motocross-my-first-backflips": {
             "title": "Freestyle Motocross - My first Backflips!",
-            "snippet": "Freestyle Motocross - My first Backflips! I finaly did few backflips on dirt! Here are few GoPro shots of my first rotations:D More Freestyle Motocross, Ride, and Fun on my channel! SUBSCRIBE! www.... From: Renaud Margry Views: 3771 43 ratings Time:...",
+            "snippet": "Freestyle Motocross - My first Backflips! I finaly did few backflips on dirt! Here are few GoPro shots of my first rotations:D More Freestyle Motocross, Ride, and Fun on my channel! SUBSCRIBE! From: Renaud Margry Views: 3873 43 ratings Time: 01:07...",
             "date": "2012-11-29",
             "author_name": "Renaud Margry",
             "categories": "freestyle-motocross",
-            "tags": "first,dirt,freestyle,freestyle_motocross,motocross",
+            "tags": "freestyle,freestyle_motocross,motocross",
             "recuweb_url": "http://fr.recuweb.com/freestyle-motocross/youtube.com/2012/11/freestyle-motocross-my-first-backflips",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=freestyle%2Bmotocross%2Bfreestyle%2Bmotocross&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=IUPbuUKwp44&feature=youtube_gdata",
@@ -96,7 +108,7 @@
         },
         "youtube.com/2012/07/motocross-ouville-2012": {
             "title": "Motocross ouville 2012...",
-            "snippet": "Motocross ouville 2012 Motocross ouville 2012 freestyle avec le maire d'ouville Daniel Lefranc. From: denis50200 Views: 588 1 ratings Time: 06:38 More in Autos & Vehicles...",
+            "snippet": "Motocross ouville 2012 Motocross ouville 2012 freestyle avec le maire d'ouville Daniel Lefranc. From: denis50200 Views: 590 1 ratings Time: 06:38 More in Autos & Vehicles...",
             "date": "2012-07-23",
             "author_name": "denis50200",
             "tags": "freestyle,motocross,autos,vehicles",
@@ -107,26 +119,15 @@
         },
         "youtube.com/2012/06/freestyle-motocross-jackalope-2012": {
             "title": "Freestyle motocross JACKALOPE 2012...",
-            "snippet": "Freestyle motocross JACKALOPE 2012 (English to follow) JACKALOPE, pr\u00e9sent\u00e9 par AMNESIA 20 et 21 juillet 2012 FESTIVAL DE SPORTS D'ACTION Sur l'Esplanade financi\u00e8re Sun Lif... From: JackalopeFest Views: 2198 9 ratings Time: 02:10 More in Sports...",
+            "snippet": "Freestyle motocross JACKALOPE 2012 (English to follow) JACKALOPE, pr\u00e9sent\u00e9 par AMNESIA 20 et 21 juillet 2012 FESTIVAL DE SPORTS D'ACTION Sur l'Esplanade financi\u00e8re Sun Life au Parc olympique. From: JackalopeFest Views: 2240 9 ratings Time: 02:10...",
             "date": "2012-06-14",
             "author_name": "JackalopeFest",
             "categories": "sport",
-            "tags": "festival,sports,freestyle,motocross,action",
+            "tags": "life,sports,freestyle,motocross,action",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2012/06/freestyle-motocross-jackalope-2012",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=freestyle%2Bmotocross%2Bfreestyle%2Bmotocross&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=M6EKJgMxld8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/M6EKJgMxld8/0.jpg"
-        },
-        "youtube.com/2012/03/masters-of-dirt-2012-vienne-by-mx-ploz-vid%C3%A9os": {
-            "title": "Masters Of Dirt 2012 Vienne.By \"Mx-ploz Vid\u00e9os\"...",
-            "snippet": "Masters Of Dirt 2012 Vienne.By \"Mx-ploz Vid\u00e9os\" Mx-Ploz pr\u00e9sente le Masters Of Dirt 2012 Vienne. Le plus gros show europ\u00e9en de Freestyle motocross, BMX, Snowmobile... D\u00e9lires et Shows de folie! En direct... From: Mxplozvid\u00e9os choubimx Views:...",
-            "date": "2012-03-23",
-            "author_name": "Mxplozvid\u00e9os choubimx",
-            "tags": "dirt,freestyle,motocross",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/03/masters-of-dirt-2012-vienne-by-mx-ploz-vid%C3%A9os",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=freestyle%2Bmotocross%2Bfreestyle%2Bmotocross&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=7XHkaIyPevw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/7XHkaIyPevw/0.jpg"
         }
     }
 }
