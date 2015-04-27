@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mac-mini",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mac-mini/",
@@ -10,42 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mac-mini/mac-mini/blogs.json"
     },
     "items": {
-        "onemorething.nl/2015/03/uitzetten-van-mac-mini-met-yosemite-lukt-niet-altijd-one": {
-            "title": "Uitzetten van Mac Mini met Yosemite lukt niet altijd:(- One More Thing...",
-            "snippet": "Uitzetten van Mac Mini met Yosemite lukt niet altijd:(One More ThingAl enige tijd gebruik ik als switcher deze onderstaande Mac Mini, welke ik bij aankoop onmiddellijk heb ge\u00fcpgraded met meer ram-geheugen en een SSD. Mac Mini (Late 2012) Intel...",
-            "date": "2015-03-28",
+        "consomac.fr/2015/04/7%-de-remise-imm%C3%A9diate-sur-les-barrettes-m%C3%A9moire-vive-crucial": {
+            "title": "7% de remise imm\u00e9diate sur les barrettes de m\u00e9moire vive de Crucial...",
+            "snippet": "Installer de la m\u00e9moire vive dans un MacBook Pro classique, un Mac mini (sauf mod\u00e8les 2014), un Mac Pro ou un iMac 27\" est tr\u00e8s facile. Voici nos tutoriels pour les mod\u00e8les les plus r\u00e9cents...",
+            "date": "2015-04-23",
+            "categories": "macbook,imac",
+            "tags": "mod\u00e8les,pro,macbook,macbook_pro,mac,mini,imac",
+            "recuweb_url": "http://fr.recuweb.com/imac/consomac.fr/2015/04/7%-de-remise-imm%C3%A9diate-sur-les-barrettes-m%C3%A9moire-vive-crucial",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=fr",
+            "source_url": "http://consomac.fr/bonplan-3382-7-de-remise-immediate-sur-la-ram-de-crucial.html"
+        },
+        "lemagit.fr/2015/04/tv5-monde-sur-la-piste-des-syst%C3%A8mes-de-diffusion": {
+            "title": "TV5 Monde: sur la piste des syst\u00e8mes de diffusion...",
+            "snippet": "un Mac mini, une interface Remote Desktop de serveur Windows, ou encore un serveur de fichiers SMB. Mais \u00e9galement un service FTP dun syst\u00e8me de stockage Isilon. Et une success story dEMC indique justement que TV5 Monde utilise un cluster Isilon...",
+            "date": "2015-04-13",
+            "tags": "monde,mac,mini,windows,stockage",
+            "recuweb_url": "http://fr.recuweb.com/lemagit.fr/2015/04/tv5-monde-sur-la-piste-des-syst%C3%A8mes-de-diffusion",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=fr",
+            "source_url": "http://lemagit.fr/actualites/4500244235/TV5-Monde-sur-la-piste-des-systemes-de-diffusion"
+        },
+        "gamerz.be/2015/04/vds-new-mac-mini-i5-8gb-ddr3-1tb-fusion-drive": {
+            "title": "VDS New Mac Mini (i5 - 8GB DDR3 - 1TB - Fusion Drive) -...",
+            "snippet": "VDS New Mac Mini (i5 - 8GB DDR3 - 1TB - Fusion Drive) la ram est soud\u00e9e, cependant il s'agit du mod\u00e8le avec 8GB et non 4Gb comme les plus petits mod\u00e8les. - Je suis bien conscient qu'il existe une option 16Gb mais ho les gars! c'est un mac mini...",
+            "date": "2015-04-06",
             "categories": "mac-mini",
-            "tags": "mac,mac_mini,mini,ram,ssd,late,intel",
-            "recuweb_url": "http://fr.recuweb.com/mac-mini/onemorething.nl/2015/03/uitzetten-van-mac-mini-met-yosemite-lukt-niet-altijd-one",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://onemorething.nl/community/topic/uitzetten-van-mac-mini-met-yosemite-10-10-2-lukt-niet-altijd/"
+            "tags": "mod\u00e8les,mac,mac_mini,mini,ram",
+            "recuweb_url": "http://fr.recuweb.com/mac-mini/gamerz.be/2015/04/vds-new-mac-mini-i5-8gb-ddr3-1tb-fusion-drive",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini&output=atom&nord=1",
+            "source_url": "http://gamerz.be/t/new-mac-mini-i5-8gb-ddr3-1tb-fusion-drive.116565/"
         },
-        "musicradar.com/2015/03/sinevibes-releases-zap-free-mac-mini-synth-plugin": {
-            "title": "Sinevibes releases Zap, free Mac 'mini-synth'plugin -...",
-            "snippet": "releases Zap, free Mac 'mini-synth'midweek treat for Mac users: Sinevibes has released Zap, a free 'mini-synth'plugin in Audio Units format. This is technically an effect - Zap is controlled by incoming audio - and comprises an envelope follower...",
-            "date": "2015-03-25",
-            "tags": "mac,mini,this",
-            "recuweb_url": "http://fr.recuweb.com/musicradar.com/2015/03/sinevibes-releases-zap-free-mac-mini-synth-plugin",
+        "tomsguide.com/2015/04/mac-mini-late-2014-review-tom-s-guide": {
+            "title": "Mac mini (Late 2014) Review - Tom's Guide...",
+            "snippet": "Tom's GuideMac mini (Late 2014) ReviewTom's GuideLike its predecessors, the latest Mac mini packs the complete OS X experience into a sleek, square package. The mini PC's all-aluminum, curved-edge construction exudes Apple's knack for minimalism,...",
+            "date": "2015-04-03",
+            "categories": "construction",
+            "tags": "mac,mini,apple",
+            "recuweb_url": "http://fr.recuweb.com/construction/tomsguide.com/2015/04/mac-mini-late-2014-review-tom-s-guide",
             "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://musicradar.com/news/tech/sinevibes-releases-zap-free-mac-mini-synth-plugin-618410/"
-        },
-        "macworld.co.uk/2015/03/mac-mini-late-2014-2-6-ghz-review-macworld-uk": {
-            "title": "Mac mini (Late 2014) 2.6 GHz review - Macworld UK...",
-            "snippet": "Mac mini (Late 2014) 2.6 GHz reviewMacworld UKApple refreshed the Mac mini range in October 2014, causing a stir in the process by releasing models that were slower than the previous 2012 generation that they replaced. That's what we found when...",
-            "date": "2015-03-18",
-            "tags": "that,mac,mini,late,ghz",
-            "recuweb_url": "http://fr.recuweb.com/macworld.co.uk/2015/03/mac-mini-late-2014-2-6-ghz-review-macworld-uk",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://macworld.co.uk/review/mac-desktops/mac-mini-late-2014-26-ghz-review-3601390/"
-        },
-        "mashable.com/2015/03/the-latest-mac-mini-is-low-priced-but-doesn-t-skimp": {
-            "title": "The latest Mac mini is low-priced, but doesn't skimp on power - Mashable...",
-            "snippet": "MashableThe latest Mac mini is low-priced, but doesn't skimp on powerMashableApple's latest desktop is the cheapest ever. Starting at 500, the Mac mini is so inexpensive that it can easily power your day-to-day needs. Go a little higher-end and this...",
-            "date": "2015-03-01",
-            "tags": "this,that,power,mac,mini",
-            "recuweb_url": "http://fr.recuweb.com/mashable.com/2015/03/the-latest-mac-mini-is-low-priced-but-doesn-t-skimp",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://mashable.com/2015/02/28/mac-mini-2014-review/"
+            "source_url": "http://tomsguide.com/us/mac-mini-late-2014,review-2723.html"
         }
     }
 }
