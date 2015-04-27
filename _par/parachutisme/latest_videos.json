@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "parachutisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/parachutisme/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/03/ecole-de-parachutisme-granville-formation-pac": {
+            "title": "Ecole de parachutisme de Granville: Formation PAC...",
+            "snippet": "Author: abaloneanthTags: saut en parachute formation pac saut en tandem parachutisme normandie Posted: 30 March 2015Rating:: 0...",
+            "date": "2015-03-30",
+            "author_name": "abaloneanth",
+            "categories": "parachutisme",
+            "tags": "saut,saut-en-parachute,parachute,pac,parachutisme",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/dailymotion.com/2015/03/ecole-de-parachutisme-granville-formation-pac",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/parachutisme/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2l56wn_ecole-de-parachutisme-de-granville-formation-pac_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2l56wn_ecole-de-parachutisme-de-granville-formation-pac_sport"
+        },
         "youtube.com/2015/03/sauvetage-un-homme-saute-en-parachute-et-a-une-crise-avant": {
             "title": "SAUVETAGE: Un homme saute en parachute et a une crise avant d'ouvrir son parachute...",
             "snippet": "SAUVETAGE: Un homme saute en parachute et a une crise avant d'ouvrir son parachute Un \u00e9tudiant de parachutisme a fr\u00f4l\u00e9 la mort lorsqu'il a fait une crise et s'est \u00e9vanoui au beau milieu d'un saut en parachute \u00e0 Pinjarra, en Australie.",
@@ -28,45 +41,21 @@
             "date": "2015-03-03",
             "author_name": "sylvainsky",
             "categories": "sport,parachutisme",
-            "tags": "sport,parachutisme,saut,saut-en-parachute,parachute",
+            "tags": "parachutisme,saut,saut-en-parachute,parachute",
             "recuweb_url": "http://fr.recuweb.com/parachutisme/dailymotion.com/2015/03/skydive-center-centre-de-parachutisme-teaser",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/parachutisme/0?af=1",
             "source_url": "http://dailymotion.com/video/xchpyy_skydive-center-centre-de-parachutis_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xchpyy_skydive-center-centre-de-parachutis_sport"
         },
-        "dailymotion.com/2015/02/l-essor-du-parachutisme-indoor": {
-            "title": "L'essor du parachutisme indoor...",
-            "snippet": "R\u00e9cit: Nicolas Flon Images: Oc\u00e9ane LerougeAuthor: oceane_9-1Tags: parachutisme soufflerie A\u00e9rokart sport Posted: 09 February 2015Rating:: 0...",
-            "date": "2015-02-09",
-            "author_name": "oceane_9-1",
-            "categories": "parachutisme,sport",
-            "tags": "parachutisme,nicolas,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/02/l-essor-du-parachutisme-indoor",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/parachutisme/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2grsj4_l-essor-du-parachutisme-indoor_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2grsj4_l-essor-du-parachutisme-indoor_news"
-        },
-        "youtube.com/2014/10/parachutisme-marennes-%C3%AEle-d-ol%C3%A9ron-en-charente-maritime": {
-            "title": "Parachutisme Marennes-\u00cele d'Ol\u00e9ron en Charente Maritime...",
-            "snippet": "Parachutisme Marennes-\u00cele d'Ol\u00e9ron en Charente Maritime Saut Parachute \u00cele d'Ol\u00e9ron - Marennes Parachutisme. Vid\u00e9o saut en parachute bord de mer Charente Maritime. From: BigAir Parachutisme Views: 127 2 ratings Time: 07:12 More in Sports...",
-            "date": "2014-10-09",
-            "author_name": "BigAir Parachutisme",
-            "categories": "parachutisme,sport",
-            "tags": "parachutisme,saut,saut-en-parachute,parachute,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/parachutisme-marennes-%C3%AEle-d-ol%C3%A9ron-en-charente-maritime",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=parachutisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Z1ng4rBFaPs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Z1ng4rBFaPs/0.jpg"
-        },
         "youtube.com/2014/09/saut-d-initiation-pac-aube-parachutisme": {
             "title": "Saut d'initiation PAC Aube Parachutisme...",
-            "snippet": "Saut d'initiation PAC Aube Parachutisme 1er saut d'initiation Pac avec Aube parachutisme \u00e0 Brienne-le-chteau. Un grand merci \u00e0 Ivan et Bertrand, les deux supers moniteurs! From: steeve benabou Views: 268 3 ratings Time: 04:07 More in People &...",
+            "snippet": "Saut d'initiation PAC Aube Parachutisme 1er saut d'initiation Pac avec Aube parachutisme \u00e0 Brienne-le-chteau. Un grand merci \u00e0 Ivan et Bertrand, les deux supers moniteurs! From: steeve benabou Views: 331 3 ratings Time: 04:07 More in People &...",
             "date": "2014-09-04",
             "author_name": "steeve benabou",
             "categories": "parachutisme",
-            "tags": "merci,parachutisme,saut",
+            "tags": "merci,parachutisme,saut,pac",
             "recuweb_url": "http://fr.recuweb.com/parachutisme/youtube.com/2014/09/saut-d-initiation-pac-aube-parachutisme",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=parachutisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=parachutisme%2Bparachutisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=njMUKE_HYWE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/njMUKE_HYWE/0.jpg"
         },
@@ -88,7 +77,7 @@
             "date": "2014-07-20",
             "author_name": "ffparachutisme",
             "categories": "parachutisme",
-            "tags": "ffp,parachutisme,femme,femme-sportive,sportive,rassemblement,rassemblement_national,rassemblement_national_feminin,national,national_feminin,feminin,f\u00e9d\u00e9ration,f\u00e9d\u00e9ration_fran\u00e7aise,fran\u00e7aise,parachutisme_rassemblement,parachutisme_rassemblement_national,freefly,nicolas,juillet,saut,ffparachutismetags",
+            "tags": "ffp,parachutisme,femme,femme-sportive,sportive,rassemblement,rassemblement_national,rassemblement_national_feminin,national,national_feminin,feminin,f\u00e9d\u00e9ration,f\u00e9d\u00e9ration_fran\u00e7aise,fran\u00e7aise,parachutisme_rassemblement,parachutisme_rassemblement_national,freefly,juillet,saut,ffparachutismetags",
             "recuweb_url": "http://fr.recuweb.com/parachutisme/dailymotion.com/2014/07/19-parachutisme-rassemblement-national-feminin-freefly-nicolas-balestrieri-juillet-2014-1",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/parachutisme/0?af=1",
             "source_url": "http://dailymotion.com/video/x21sfyv_19-parachutisme-rassemblement-national-feminin-freefly-nicolas-balestrieri-19-juillet-2014-1_sport",
@@ -124,11 +113,23 @@
             "date": "2014-07-18",
             "author_name": "Aline Benoit",
             "categories": "parachutisme,sport",
-            "tags": "merci,saut,parachutisme,sports",
+            "tags": "merci,saut,parachutisme",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/07/brevet-a-savoie-parachutisme",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=parachutisme%2Bparachutisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=kcBWMuLonVw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kcBWMuLonVw/0.jpg"
+        },
+        "youtube.com/2014/06/saut-en-parachute-2014-avec-abeille-parachutisme": {
+            "title": "Saut en parachute 2014 avec abeille parachutisme...",
+            "snippet": "Saut en parachute 2014 avec abeille parachutisme Saut en parachute au Havre avec \"Yoyo\" au commande merci pour votre visionnage et n'h\u00e9sitez pas \u00e0 vous abonner... et faites pas attention \u00e0 mon visage. Laissez des commentaires!!! From: sam sim...",
+            "date": "2014-06-23",
+            "author_name": "sam sim",
+            "categories": "parachutisme",
+            "tags": "merci,parachute,parachutisme,saut",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/youtube.com/2014/06/saut-en-parachute-2014-avec-abeille-parachutisme",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=parachutisme%2Bparachutisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=pOCfelMFxNM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/pOCfelMFxNM/0.jpg"
         }
     }
 }
