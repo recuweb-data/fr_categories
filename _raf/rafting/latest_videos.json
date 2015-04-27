@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "rafting",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rafting/",
@@ -10,17 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/new-women-s-lavacore-lavaskin-board-shorts-black-size-x-small": {
+            "title": "New Women's LavaCore LavaSkin Board Shorts - Black (Size X-Small) for Scuba Diving, Surfing...",
+            "snippet": "New Women's LavaCore LavaSkin Board Shorts - Black (Size X-Small) for Scuba Diving, Surfing, Kayaking, Rafting, Paddling & Many Other WaterSports ReviewAuthor: Angila330Tags: Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "Angila330",
+            "categories": "rafting",
+            "tags": "rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2015/04/new-women-s-lavacore-lavaskin-board-shorts-black-size-x-small",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nu4ub_new-women-s-lavacore-lavaskin-board-shorts-black-size-x-small-for-scuba-diving-surfing-kayaking-raft_auto",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nu4ub_new-women-s-lavacore-lavaskin-board-shorts-black-size-x-small-for-scuba-diving-surfing-kayaking-raft_auto"
+        },
         "dailymotion.com/2015/04/canoe-kayak-rafting-nice-verdon": {
             "title": "Canoe kayak rafting nice verdon.",
             "snippet": "Rafting C\u00f4te d'Azur vous pr\u00e9sente ses activit\u00e9s. Cano\u00eb kayak, Rafting, Randonn\u00e9e aquatique, proche de Nice et sur le Verdon.: Rafting-Cote-dAzurTags: Rafting Cano\u00eb-kayak Gorges du Verdon Nice Var Posted: 08 April 2015Rating:: 0...",
             "date": "2015-04-08",
             "author_name": "Rafting-Cote-dAzur",
             "categories": "rafting",
-            "tags": "rafting,kayak,cano\u00eb,gorges,var",
+            "tags": "rafting,kayak,var",
             "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2015/04/canoe-kayak-rafting-nice-verdon",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m1e68_canoe-kayak-rafting-nice-verdon_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m1e68_canoe-kayak-rafting-nice-verdon_sport"
+        },
+        "youtube.com/2015/04/savoie-rafting-2014": {
+            "title": "Savoie Rafting 2014...",
+            "snippet": "Savoie Rafting 2014 Cadeau d'anniversaire d'une amie pour mes 18 ans! Chouette non? Rafting: Franceraft Savoie pour ceux que \u00e7a int\u00e9resse! les musiques -dans l'ordre... From: ALEXJYMPER Views: 21 1 ratings Time: 15:37 More in Music...",
+            "date": "2015-04-08",
+            "author_name": "ALEXJYMPER",
+            "categories": "musique,rafting",
+            "tags": "rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2015/04/savoie-rafting-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=nf_qvqr3pJ0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/nf_qvqr3pJ0/0.jpg"
         },
         "dailymotion.com/2015/04/session-rafting-reunion-island-28-03-2015": {
             "title": "Session Rafting Reunion Island 28/03/2015...",
@@ -28,9 +53,9 @@
             "date": "2015-04-02",
             "author_name": "romain-orrico",
             "categories": "rafting",
-            "tags": "rafting",
+            "tags": "reunion,reunion_island,island,rafting,saint",
             "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2015/04/session-rafting-reunion-island-28-03-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lk29m_session-rafting-reunion-island-28-03-2015_travel",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lk29m_session-rafting-reunion-island-28-03-2015_travel"
         },
@@ -40,95 +65,71 @@
             "date": "2015-03-05",
             "author_name": "Oueds & Rios Rafting",
             "categories": "rafting",
-            "tags": "haut,var,\u00e9quipe,rafting,raft,kayak,canyoning,durance",
+            "tags": "var,rafting,kayak",
             "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2015/03/rafting-ubaye-a-wild-water-season",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=sYddCX4tdpU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/sYddCX4tdpU/0.jpg"
         },
-        "youtube.com/2014/07/rafting-familial-nouveau-monde": {
-            "title": "Rafting Familial Rafting Nouveau Monde...",
-            "snippet": "Rafting Familial Rafting Nouveau Monde Passer une journ\u00e9e avec vos enfants sur l'eau sur la rivi\u00e8re Rouge. From: Rafting Nouveau Monde - New World Rafting Views: 232 1 ratings Time: 02:54 More in Sports...",
-            "date": "2014-07-26",
-            "author_name": "Rafting Nouveau Monde - New World Rafting",
-            "categories": "rafting,sport",
-            "tags": "rafting,monde,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/07/rafting-familial-nouveau-monde",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=yNz7S29Z_MA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/yNz7S29Z_MA/0.jpg"
+        "dailymotion.com/2014/11/une-gopro-retrouv%C3%A9e-dans-rivi%C3%A8re-17-mois-apr%C3%A8s-sa-chute-d": {
+            "title": "Une GoPro retrouv\u00e9e dans une rivi\u00e8re 17 mois apr\u00e8s sa chute d'un rafting.",
+            "snippet": "Cette camera GoPro a \u00e9t\u00e9 retrouv\u00e9 dans une rivi\u00e8re 17 mois apr\u00e8s qu'elle soit tomb\u00e9e d'un rafting... Belle aventureAuthor: MisterBuzzTags: Rafting gopro cam\u00e9ra perdue trouver trouv\u00e9 kayak perdre au fond eau Posted: 22 November 2014Rating:: 0...",
+            "date": "2014-11-22",
+            "author_name": "MisterBuzz",
+            "categories": "rafting",
+            "tags": "kayak,mois,apr\u00e8s,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2014/11/une-gopro-retrouv%C3%A9e-dans-rivi%C3%A8re-17-mois-apr%C3%A8s-sa-chute-d",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2aswpu_une-gopro-retrouvee-dans-une-riviere-17-mois-apres-sa-chute-d-un-rafting_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2aswpu_une-gopro-retrouvee-dans-une-riviere-17-mois-apres-sa-chute-d-un-rafting_sport"
         },
-        "youtube.com/2014/07/canoe-rafting-en-famille": {
-            "title": "Canoe Rafting en famille...",
-            "snippet": "Canoe Rafting en famille Descente de la Roya en canoe rafting en famille. From: Roya Evasion Views: 64 0 ratings Time: 03:24 More in Sports...",
-            "date": "2014-07-25",
-            "author_name": "Roya Evasion",
-            "categories": "rafting,sport",
-            "tags": "rafting,descente,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/07/canoe-rafting-en-famille",
+        "dailymotion.com/2014/07/sports-&-d%C3%A9couvertes-rafting": {
+            "title": "Sports & D\u00e9couvertes - Rafting...",
+            "snippet": "Une des sorties organis\u00e9es pour les Jeunes inscrits aux Sports & d\u00e9couvertes du mois de juillet 2014Author: accueilsejoursTags: CCSA Bapaume Croisilles Bertincourt Bucquoy Communaut\u00e9 de Communes Sud Artois Accueil Jeunes intercommunal Posted: 30...",
+            "date": "2014-07-30",
+            "author_name": "accueilsejours",
+            "categories": "sport,rafting",
+            "tags": "mois,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2014/07/sports-&-d%C3%A9couvertes-rafting",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting/0?af=1",
+            "source_url": "http://dailymotion.com/video/x22gmf2_sports-de-couvertes-rafting_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x22gmf2_sports-de-couvertes-rafting_sport"
+        },
+        "youtube.com/2014/06/rafting-pavillon-des-sensations-21-juin-2014-gave-de-pau": {
+            "title": "Rafting pavillon des sensations: 21 Juin 2014 Gave de Pau...",
+            "snippet": "Rafting pavillon des sensations: 21 Juin 2014 Gave de Pau Samedi 21 Juin 2014 Rafting sur le Gave de Pau avec Brandon Nicolas et David Avec Rafting pavillon des sensations! Merci \u00e0 Jacques pour cette super apr\u00e8s midi de oufff Rafting pavillon...",
+            "date": "2014-06-23",
+            "author_name": "Brandon cassou",
+            "categories": "rafting",
+            "tags": "apr\u00e8s,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2014/06/rafting-pavillon-des-sensations-21-juin-2014-gave-de-pau",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=ermPjnjdZIE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ermPjnjdZIE/0.jpg"
+            "source_url": "http://youtube.com/watch?v=vk6LjzouSTk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/vk6LjzouSTk/0.jpg"
         },
-        "youtube.com/2014/06/very-tonic-rafting": {
-            "title": "Very Tonic Rafting...",
-            "snippet": "Very Tonic Rafting Rafting sur l'Allier en crue \u00e0 90 m3, \u00e0 Monistrol d'Allier, dans les Gorges du Haut Allier en Auvergne avec TONIC Aventure. From: TONIC Aventure Views: 238 0 ratings Time: 03:09 More in Sports...",
-            "date": "2014-06-30",
-            "author_name": "TONIC Aventure",
-            "categories": "rafting,sport",
-            "tags": "aventure,haut,rafting,gorges,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/06/very-tonic-rafting",
+        "youtube.com/2014/04/rafting-in-st-benoit-reunion-island": {
+            "title": "Rafting in St Benoit Reunion Island...",
+            "snippet": "Rafting in St Benoit Reunion Island A la Reunion on s'ennuie pas!=) voici un petit montage d'une sortie rafting fait a un saint benoit chez Oasis Eaux Vives: From: Tonix RunRun Views: 173 3 ratings Time: 02:35 More in Travel & Events...",
+            "date": "2014-04-17",
+            "author_name": "Tonix RunRun",
+            "categories": "rafting",
+            "tags": "rafting,saint,reunion,reunion_island,island",
+            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2014/04/rafting-in-st-benoit-reunion-island",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=KpYvaxHRU_0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/KpYvaxHRU_0/0.jpg"
+            "source_url": "http://youtube.com/watch?v=AM7oEjOP24Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/AM7oEjOP24Y/0.jpg"
         },
-        "youtube.com/2014/05/rafting-argel%C3%A8s-gazost-pavillon-des-sensations": {
-            "title": "Rafting Argel\u00e8s Gazost Pavillon des sensations...",
-            "snippet": "Rafting Argel\u00e8s Gazost Pavillon des sensations Rafting Pyr\u00e9n\u00e9es, Tel: 06 61 40 04 17 descentes rafting canyoning, cano\u00eb, airboat, kayak. Les Hautes Pyr\u00e9n\u00e9es en rafting repr\u00e9sentent notre principal terrain de jeux. Ludique et sportif... From:...",
-            "date": "2014-05-24",
-            "author_name": "Rafting Pyr\u00e9n\u00e9es Pavillon des Sensations",
+        "youtube.com/2014/03/rafting-gorge-du-tarn-parcours-decouverte-aveyron": {
+            "title": "Rafting Gorge du tarn parcours decouverte AVEYRON RAFTING...",
+            "snippet": "Rafting Gorge du tarn parcours decouverte AVEYRON RAFTING From: Aveyron Rafting Views: 271 0 ratings Time: 03:53 More in People & Blogs...",
+            "date": "2014-03-31",
+            "author_name": "Aveyron Rafting",
             "categories": "rafting",
-            "tags": "rafting,hautes,pyr\u00e9n\u00e9es,canyoning,cano\u00eb,kayak",
-            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2014/05/rafting-argel%C3%A8s-gazost-pavillon-des-sensations",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=xwmHoli_FSg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/xwmHoli_FSg/0.jpg"
-        },
-        "dailymotion.com/2014/01/rafting-hautes-alpes": {
-            "title": "rafting hautes alpes...",
-            "snippet": "Plus d'info sur: Aqua Rafting vous accueille dans les Hautes-Alpes. Nous vous ferons d\u00e9couvrir la Durance et le Drac, ces merveilles aquatiques dans une ambiance conviviale!Author: rafting-hautes-alpesTags: Rafting rafting hautes alpes rafting drac...",
-            "date": "2014-01-15",
-            "author_name": "rafting-hautes-alpes",
-            "categories": "rafting",
-            "tags": "rafting,hautes,durance",
-            "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2014/01/rafting-hautes-alpes",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
-            "source_url": "http://dailymotion.com/video/x19olsa_rafting-hautes-alpes_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x19olsa_rafting-hautes-alpes_sport"
-        },
-        "youtube.com/2013/12/canyoning-et-rafting-dans-les-pyr%C3%A9n%C3%A9es-orientales": {
-            "title": "Canyoning et Rafting dans les Pyr\u00e9n\u00e9es Orientales...",
-            "snippet": "Canyoning et Rafting dans les Pyr\u00e9n\u00e9es Orientales Le meilleur endroit des Pyr\u00e9n\u00e9es Orientales pour pratiquer le Rafting et le Canyoning avec une \u00e9quipe sympa. Aventure Active vous propose la descente en canyoning du canyon du Llech sur... From:...",
-            "date": "2013-12-09",
-            "author_name": "Aventure Active Pyr\u00e9n\u00e9es Outdoor",
-            "categories": "rafting",
-            "tags": "descente,canyoning,aventure,\u00e9quipe,pyr\u00e9n\u00e9es,rafting",
-            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2013/12/canyoning-et-rafting-dans-les-pyr%C3%A9n%C3%A9es-orientales",
+            "tags": "rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2014/03/rafting-gorge-du-tarn-parcours-decouverte-aveyron",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Pl2Pr4BG8eE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Pl2Pr4BG8eE/0.jpg"
-        },
-        "dailymotion.com/2013/09/stage-pallaresa-sept-2013": {
-            "title": "Stage Pallaresa sept 2013...",
-            "snippet": "Author: FranceRaftTags: Raft rafting rafting race equipe de raft championnats monde Posted: 20 September 2013Rating:: 0...",
-            "date": "2013-09-20",
-            "author_name": "FranceRaft",
-            "categories": "rafting",
-            "tags": "rafting,raft,monde",
-            "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2013/09/stage-pallaresa-sept-2013",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
-            "source_url": "http://dailymotion.com/video/x14x9ae_stage-pallaresa-sept-2013_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x14x9ae_stage-pallaresa-sept-2013_sport"
+            "source_url": "http://youtube.com/watch?v=HRI0bHcnlys&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/HRI0bHcnlys/0.jpg"
         }
     }
 }
