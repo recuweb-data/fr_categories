@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "capoeira",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/capoeira/",
@@ -10,13 +11,73 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/capoeira/capoeira/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/capoeira-fete-festi": {
+            "title": "capoeira fete festi...",
+            "snippet": "Author: capoeiraforever57Tags: Sport Famille Voyage Parfum Cin\u00e9ma fun shopping automobile gastronomie music Posted: 19 April 2015Rating:: 0...",
+            "date": "2015-04-19",
+            "author_name": "capoeiraforever57",
+            "categories": "sport,capoeira",
+            "tags": "fun,fun-shopping,shopping,automobile,gastronomie,music,sport,sport_famille,famille,voyage,parfum,parfum_cin\u00e9ma,cin\u00e9ma,capoeira,fete,festi,capoeiraforever,tags",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/04/capoeira-fete-festi",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n6mck_capoeira-fete-festi_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n6mck_capoeira-fete-festi_sport"
+        },
+        "dailymotion.com/2015/04/capoeira-dans-la-nuit": {
+            "title": "capoeira dans la nuit...",
+            "snippet": "Author: capoeiraforever57Tags: Sport Voyage Famille Parfum Cin\u00e9ma fun shopping gastronomie automobile music Posted: 15 April 2015Rating:: 0...",
+            "date": "2015-04-15",
+            "author_name": "capoeiraforever57",
+            "categories": "sport,capoeira",
+            "tags": "fun,fun-shopping,fun-shopping-gastronomie,shopping,shopping-gastronomie,shopping-gastronomie-automobile,gastronomie,gastronomie-automobile,gastronomie-automobile-music,automobile,automobile-music,music,sport,voyage,famille,famille_parfum,famille_parfum_cin\u00e9ma,parfum,parfum_cin\u00e9ma,cin\u00e9ma,capoeira,capoeiraforever,tags",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/04/capoeira-dans-la-nuit",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2msf6g_capoeira-dans-la-nuit_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2msf6g_capoeira-dans-la-nuit_sport"
+        },
+        "youtube.com/2015/04/jogaki-capoeira-paris-2015-spectacles-animations-du-br%C3%A9sil-team-building-sport": {
+            "title": "JOGAKI CAPOEIRA PARIS 2015 Spectacles, Animations du Br\u00e9sil, Team Building Sport Danse...",
+            "snippet": "JOGAKI CAPOEIRA PARIS 2015 Spectacles, Animations du Br\u00e9sil, Team Building Sport Danse Vid\u00e9o de d\u00e9monstration des spectacles et animations Jogaki Capoeira Paris pour entreprises, \u00e9coles, \u00e9tablissements scolaires et particuliers, f\u00eates,...",
+            "date": "2015-04-10",
+            "author_name": "Jogaki Capoeira Paris Bamba",
+            "categories": "sport,capoeira",
+            "tags": "d\u00e9monstration,sport,capoeira",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/youtube.com/2015/04/jogaki-capoeira-paris-2015-spectacles-animations-du-br%C3%A9sil-team-building-sport",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=NiRHKX3edYo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NiRHKX3edYo/0.jpg"
+        },
+        "dailymotion.com/2015/04/combat-underground-capoeira": {
+            "title": "Combat UnderGround Capoeira...",
+            "snippet": "Dans les sports de free fight comme le MMA, on entend plus souvent parler des pratiquants de Jiu-Jitsu br\u00e9silien. Mais il existe un autre art de combat bien plus spectaculaire, la capoeira. Regardez cette compilation de sport Underground:...",
+            "date": "2015-04-08",
+            "author_name": "mineyann",
+            "categories": "sport,capoeira",
+            "tags": "capoeira",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/04/combat-underground-capoeira",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2m2zcs_combat-underground-capoeira_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m2zcs_combat-underground-capoeira_sport"
+        },
+        "dailymotion.com/2015/03/capoeira-dans-le-noir": {
+            "title": "Capoeira dans le noir...",
+            "snippet": "Author: capoeiraforever57Tags: Famille Sport Parfum Voyage Cin\u00e9ma music shopping gastronomie fun automobile Posted: 29 March 2015Rating:: 0...",
+            "date": "2015-03-29",
+            "author_name": "capoeiraforever57",
+            "categories": "sport,capoeira",
+            "tags": "music,shopping,shopping-gastronomie,gastronomie,fun,automobile,famille,sport,parfum,voyage,cin\u00e9ma,noir,capoeira,capoeiraforever,tags",
+            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/03/capoeira-dans-le-noir",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2kagry_capoeira-dans-le-noir_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2kagry_capoeira-dans-le-noir_sport"
+        },
         "dailymotion.com/2015/02/capoeira-festi-2": {
             "title": "Capoeira Festi 2...",
             "snippet": "Author: capoeiraforever57Tags: Famille Parfum Cin\u00e9ma Voyage Fun sport shopping gastronomie automobile music Posted: 28 February 2015Rating:: 0...",
             "date": "2015-02-28",
             "author_name": "capoeiraforever57",
             "categories": "sport,capoeira",
-            "tags": "sport,shopping,shopping-gastronomie,shopping-gastronomie-automobile,gastronomie,gastronomie-automobile,gastronomie-automobile-music,automobile,automobile-music,music,famille,famille_parfum,famille_parfum_cin\u00e9ma,parfum,parfum_cin\u00e9ma,parfum_cin\u00e9ma_voyage,cin\u00e9ma,cin\u00e9ma_voyage,voyage,fun,capoeira,capoeiraforever,tags",
+            "tags": "sport,shopping,shopping-gastronomie,shopping-gastronomie-automobile,gastronomie,gastronomie-automobile,gastronomie-automobile-music,automobile,automobile-music,music,famille,famille_parfum,famille_parfum_cin\u00e9ma,parfum,parfum_cin\u00e9ma,parfum_cin\u00e9ma_voyage,cin\u00e9ma,cin\u00e9ma_voyage,voyage,fun,capoeira,festi,capoeiraforever,tags",
             "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/02/capoeira-festi-2",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
             "source_url": "http://dailymotion.com/video/x2id24a_capoeira-festi-2_sport",
@@ -28,7 +89,7 @@
             "date": "2015-02-28",
             "author_name": "capoeiraforever57",
             "categories": "sport,capoeira",
-            "tags": "fun,fun-shopping,fun-shopping-gastronomie,shopping,shopping-gastronomie,shopping-gastronomie-automobile,gastronomie,gastronomie-automobile,gastronomie-automobile-music,automobile,automobile-music,music,sport,sport_famille,sport_famille_parfum,famille,famille_parfum,famille_parfum_cin\u00e9ma,parfum,parfum_cin\u00e9ma,parfum_cin\u00e9ma_voyage,cin\u00e9ma,cin\u00e9ma_voyage,voyage,capoeira,capoeiraforever,tags",
+            "tags": "fun,fun-shopping,fun-shopping-gastronomie,shopping,shopping-gastronomie,shopping-gastronomie-automobile,gastronomie,gastronomie-automobile,gastronomie-automobile-music,automobile,automobile-music,music,sport,sport_famille,sport_famille_parfum,famille,famille_parfum,famille_parfum_cin\u00e9ma,parfum,parfum_cin\u00e9ma,parfum_cin\u00e9ma_voyage,cin\u00e9ma,cin\u00e9ma_voyage,voyage,noir,capoeira,capoeiraforever,tags",
             "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/02/capoeira-d%C3%A9riv%C3%A9-dans-le-noir",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
             "source_url": "http://dailymotion.com/video/x2id1ur_capoeira-derive-dans-le-noir_sport",
@@ -46,25 +107,13 @@
             "source_url": "http://dailymotion.com/video/x2id1zd_capoeira-sur-carelage_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2id1zd_capoeira-sur-carelage_sport"
         },
-        "dailymotion.com/2015/02/capoeira-exchange-paris-bercy": {
-            "title": "CAPOEIRA EXCHANGE PARIS - BERCY...",
-            "snippet": ": tarubi01Tags: Capoeira ABAD\u00c1-Capoeira Paris exchange tarubi senzala Posted: 25 February 2015Rating:: 0...",
-            "date": "2015-02-25",
-            "author_name": "tarubi01",
-            "categories": "capoeira",
-            "tags": "capoeira,tags",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/02/capoeira-exchange-paris-bercy",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2i1uie_capoeira-exchange-paris-bercy_creation",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i1uie_capoeira-exchange-paris-bercy_creation"
-        },
         "dailymotion.com/2015/02/capoeira-du-temple": {
             "title": "capoeira du temple...",
             "snippet": "d\u00e9monstration a la f\u00eate du cidre du groupe capoeira du templeAuthor: nowhere44Tags: capoeira brasil Posted: 24 February 2015Rating:: 0...",
             "date": "2015-02-24",
             "author_name": "nowhere44",
             "categories": "capoeira",
-            "tags": "capoeira,capoeira-brasil,brasil,cidre,capoeira-du-temple,temple,here,tags",
+            "tags": "capoeira,capoeira-brasil,brasil,d\u00e9monstration,cidre,capoeira-du-temple,temple,here,tags",
             "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/02/capoeira-du-temple",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
             "source_url": "http://dailymotion.com/video/x75jue_capoeira-du-temple_sport",
@@ -76,59 +125,11 @@
             "date": "2015-02-24",
             "author_name": "nowhere44",
             "categories": "capoeira",
-            "tags": "capoeira,capoeira-brasil,brasil,cidre,capoeira-du-temple,temple,here,tags",
+            "tags": "capoeira,capoeira-brasil,brasil,fete,cidre,capoeira-du-temple,temple,here,tags",
             "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/02/capoeira-du-temple-2007",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
             "source_url": "http://dailymotion.com/video/x75jx1_capoeira-du-temple-2007_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x75jx1_capoeira-du-temple-2007_sport"
-        },
-        "youtube.com/2015/01/capoeira-les-guerriers-de-la-danse-documentaire": {
-            "title": "Capoeira, les guerriers de la danse - Documentaire...",
-            "snippet": "Capoeira, les guerriers de la danse - Documentaire Synopsis du documentaire: N\u00e9e d'un r\u00eave de lib\u00e9ration, subtile mariage de la danse, de la musique et des arts martiaux, la capoeira a \u00e9t\u00e9 d\u00e9velopp\u00e9e au Br\u00e9s... From: Les Chemins du Docu...",
-            "date": "2015-01-20",
-            "author_name": "Les Chemins du Docu",
-            "categories": "capoeira,musique,arts",
-            "tags": "capoeira,martiaux",
-            "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2015/01/capoeira-les-guerriers-de-la-danse-documentaire",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=capoeira%2Bcapoeira&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=j-KexSuQlJE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/j-KexSuQlJE/0.jpg"
-        },
-        "dailymotion.com/2015/01/challenge-capoeira-ep4-par-12-minutes-pour-changer": {
-            "title": "Challenge Capoeira Ep4 par 12 minutes pour changer...",
-            "snippet": "Episode 3 sur 4 de la s\u00e9rie de routine d'inspiration Capoeira par 12 minutes pour changer. Retrouvez nous sur ou notre page facebook Soutenez nous sur Tipee::)Author: 12minutespourchangerTags: Capoeira Fitness hiit workout Posted: 16 January...",
-            "date": "2015-01-16",
-            "author_name": "12minutespourchanger",
-            "categories": "facebook,capoeira",
-            "tags": "fitness,hiit,hiit-workout,workout,page,page-facebook,facebook,s\u00e9rie,s\u00e9rie-de-routine,routine,minutes,minutes-pour-changer,changer,challenge,challenge_capoeira,capoeira,episode,inspiration,retrouvez,soutenez,tipee,minutespourchangertags",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/01/challenge-capoeira-ep4-par-12-minutes-pour-changer",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2eu9tg_challenge-capoeira-ep4-par-12-minutes-pour-changer_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2eu9tg_challenge-capoeira-ep4-par-12-minutes-pour-changer_sport"
-        },
-        "dailymotion.com/2015/01/challenge-capoeira-ep3-par-12-minutes-pour-changer": {
-            "title": "Challenge Capoeira Ep3 par 12 minutes pour changer...",
-            "snippet": "Episode 3 sur 4 de la s\u00e9rie de routine d'inspiration Capoeira par 12 minutes pour changer. Retrouvez nous sur ou notre page facebook Soutenez nous sur Tipee::)Author: 12minutespourchangerTags: Capoeira Art martial HIIT Workout Fitness Posted: 13...",
-            "date": "2015-01-13",
-            "author_name": "12minutespourchanger",
-            "categories": "art-martial,facebook,capoeira",
-            "tags": "hiit,workout,fitness,art,page,page-facebook,facebook,s\u00e9rie,s\u00e9rie-de-routine,routine,minutes,minutes-pour-changer,changer,challenge,challenge_capoeira,capoeira,episode,inspiration,retrouvez,soutenez,tipee,minutespourchangertags",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/01/challenge-capoeira-ep3-par-12-minutes-pour-changer",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2eo1pg_challenge-capoeira-ep3-par-12-minutes-pour-changer_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2eo1pg_challenge-capoeira-ep3-par-12-minutes-pour-changer_sport"
-        },
-        "dailymotion.com/2015/01/challenge-capoeira-ep2-par-12-minutes-pour-changer": {
-            "title": "Challenge Capoeira Ep2 par 12 minutes pour changer...",
-            "snippet": "Episode 2 sur 4 de la s\u00e9rie de routine d'inspiration Capoeira par 12 minutes pour changer. Retrouvez nous sur ou notre page facebook Soutenez nous sur Tipee::)Author: 12minutespourchangerTags: Fitness Capoeira HIIT Workout Art martiaux Posted: 12...",
-            "date": "2015-01-12",
-            "author_name": "12minutespourchanger",
-            "categories": "facebook,capoeira",
-            "tags": "hiit,hiit-workout,workout,art,martiaux,page,page-facebook,facebook,s\u00e9rie,s\u00e9rie-de-routine,routine,minutes,minutes-pour-changer,changer,challenge,challenge_capoeira,capoeira,episode,inspiration,retrouvez,soutenez,tipee,minutespourchangertags,fitness",
-            "recuweb_url": "http://fr.recuweb.com/capoeira/dailymotion.com/2015/01/challenge-capoeira-ep2-par-12-minutes-pour-changer",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/capoeira/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ekoxe_challenge-capoeira-ep2-par-12-minutes-pour-changer_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ekoxe_challenge-capoeira-ep2-par-12-minutes-pour-changer_sport"
         }
     }
 }
