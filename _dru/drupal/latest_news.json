@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -11,32 +11,32 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
+        "emploi.handicap.fr/2015/04/cv-23055-informatique-administration-de-site-web": {
+            "title": "CV 23055 - Informatique, Administration de site Web...",
+            "snippet": "CM S: Joomla, Drupal, Prestashop, OS-Commerce SGBD: SQL, MySQL, Access. Traitement dimage: Photoshop, Illustrator, Flash. Outils et M\u00e9thodologies: SVN Tortoise, Agile (UP), R\u00e9f\u00e9rencement SEO.",
+            "date": "2015-04-25",
+            "categories": "joomla,drupal,mysql,traitement",
+            "tags": "site,web,joomla,drupal,flash",
+            "recuweb_url": "http://fr.recuweb.com/traitement/emploi.handicap.fr/2015/04/cv-23055-informatique-administration-de-site-web",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
+            "source_url": "http://emploi.handicap.fr/cv-emploi-handicap-23055.php"
+        },
         "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f": {
             "title": "D\u00e9veloppeur Confirm\u00e9 Drupal 7 H/F...",
             "snippet": "Notre structure Accommodata d\u00e9veloppe depuis plus de 2 ans un CRM sur Drupal 7. Le lancement est pr\u00e9vu pour le 1er Janvier 2016, avec une version Beta au 31 septembre 2014. Notre outil regroupe un grand nombre de fonctionnalit\u00e9 de Drupal Notre...",
             "date": "2015-04-23",
             "categories": "drupal",
-            "tags": "outil,outil-regroupe,regroupe,regroupe-un-grand,grand,grand-nombre,nombre,nombre-de-fonctionnalit\u00e9,fonctionnalit\u00e9,version,lancement,lancement-est-pr\u00e9vu,pr\u00e9vu,d\u00e9veloppe,drupal,structure,accommodata,crm,janvier,beta,septembre",
+            "tags": "version,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Confirm\u00e9+Drupal+7+HF/30089"
-        },
-        "emploi.presse-citron.net/2015/04/int%C3%A9grateur-html-css-h-f": {
-            "title": "Int\u00e9grateur HTML/CSS H/F...",
-            "snippet": "Notre structure Accommodata d\u00e9veloppe depuis plus de 2 ans un CRM sur Drupal 7. Le lancement est pr\u00e9vu pour le 1er Janvier 2016, avec une version Beta au 31 septembre 2014. Notre outil regroupe un grand nombre de fonctionnalit\u00e9 de Drupal Notre...",
-            "date": "2015-04-23",
-            "categories": "css,drupal",
-            "tags": "outil,outil-regroupe,regroupe,regroupe-un-grand,grand,grand-nombre,nombre,nombre-de-fonctionnalit\u00e9,fonctionnalit\u00e9,version,lancement,lancement-est-pr\u00e9vu,pr\u00e9vu,d\u00e9veloppe,html,structure,accommodata,crm,drupal,janvier,beta,septembre",
-            "recuweb_url": "http://fr.recuweb.com/drupal/emploi.presse-citron.net/2015/04/int%C3%A9grateur-html-css-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Int\u00e9grateur+HTML++CSS+HF/30080"
         },
         "developpez.com/2015/04/smile-pr%C3%A9pare-la-sortie-de-drupal-8": {
             "title": "Smile pr\u00e9pare la sortie de Drupal 8...",
             "snippet": "Drupal est un CMS (Content Management System, ou syst\u00e8me de gestion de contenu) open source, qui permet de publier facilement, de g\u00e9rer et dorganiser des contenus sur le Web. Loutil jouit dune grande popularit\u00e9 et figure parmi les meilleurs...",
             "date": "2015-04-23",
             "categories": "management,drupal",
-            "tags": "contenu,gestion,content,management,system,drupal,cms,web",
+            "tags": "contenu,open,open-source,source,gestion,content,management,system,drupal,cms,web",
             "recuweb_url": "http://fr.recuweb.com/drupal/developpez.com/2015/04/smile-pr%C3%A9pare-la-sortie-de-drupal-8",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://developpez.com/actu/84293/Smile-prepare-la-sortie-de-Drupal-8-le-groupe-lance-un-portail-dedie-a-la-prochaine-version-majeure-du-CMS-open-source/"
@@ -51,65 +51,65 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
             "source_url": "http://publictechnology.net/articles/news/councils-move-joint-drupal-content-management-system"
         },
-        "emploi.silicon.fr/2015/04/webmaster-h-f-cdi-paris": {
-            "title": "WEBMASTER (H/F) - CDI - Paris...",
-            "snippet": "Autonome et rigoureux(se), vous avez de solides comp\u00e9tences techniques et ma\u00eetrisez les langages de programmation (XML, Java, Flash, HTML, Drupal) et les technologies de RWD (Responsive Web Design).",
-            "date": "2015-04-22",
-            "categories": "technologie,langage,java,drupal",
-            "tags": "web,paris,flash,html,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/emploi.silicon.fr/2015/04/webmaster-h-f-cdi-paris",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/450379/webmaster-hf/"
-        },
-        "lemondeinformatique.fr/2015/04/oxalide-recrute-plus-de-30-ing%C3%A9nieurs-syst%C3%A8mes-et-r%C3%A9seaux": {
-            "title": "Oxalide recrute plus de 30 ing\u00e9nieurs syst\u00e8mes et r\u00e9seaux...",
-            "snippet": "Depuis sa cr\u00e9ation en 2000, Oxalide a construit sa r\u00e9ussite sur une double expertise applicative (Varnish, Magento, Drupal, hybris, EZ Publish, etc.) et syst\u00e8mes/r\u00e9seaux, pour optimiser, en continu, les plateformes web de ses clients. Cloud...",
-            "date": "2015-04-21",
-            "categories": "magento,drupal",
-            "tags": "web,cr\u00e9ation,magento,drupal,etc",
-            "recuweb_url": "http://fr.recuweb.com/drupal/lemondeinformatique.fr/2015/04/oxalide-recrute-plus-de-30-ing%C3%A9nieurs-syst%C3%A8mes-et-r%C3%A9seaux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
-            "source_url": "http://lemondeinformatique.fr/actualites/lire-oxalide-recrute-plus-de-30-ingenieurs-systemes-et-reseaux-60912.html"
-        },
-        "zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration": {
-            "title": "Eweev taking part in Drupal worldwide family - Zawya (registration)...",
-            "snippet": "Eweev taking part in Drupal worldwide familyZawya (registration)Eweev, a web development company in Lebanon, announces its participation in DrupalCon 2015 in Los Angeles, USA, from May 11th till the 15th. This conference gathers, from around the...",
-            "date": "2015-04-20",
-            "categories": "drupal",
-            "tags": "angeles,web,drupal,this",
-            "recuweb_url": "http://fr.recuweb.com/drupal/zawya.com/2015/04/eweev-taking-part-in-drupal-worldwide-family-zawya-registration",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
-            "source_url": "http://zawya.com/story/Eweev_taking_part_in_Drupal_worldwide_family-ZAWYA20150420133206/"
-        },
         "directioninformatique.com/2015/04/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout": {
             "title": "Les chiffres ne mentent pas: le logiciel libre est partout...",
             "snippet": "Pour conclure, je citerai Dries Buytaert, fondateur du gestionnaire de contenu libre Drupal utilis\u00e9 par la STM, la Ville de Montr\u00e9al, Guardian Life, Los Angeles, Pfizer, NBC, BBC, etc.: Les chiffres ne mentent pas. Cette ann\u00e9e a une nouvelle...",
             "date": "2015-04-19",
             "categories": "drupal",
-            "tags": "angeles,contenu,drupal,etc",
+            "tags": "contenu,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/directioninformatique.com/2015/04/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://directioninformatique.com/blogue/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout/35320"
         },
-        "quefaire.be/2015/04/cr%C3%A9ation-de-site-web-en-wordpress-et-drupal": {
-            "title": "Cr\u00e9ation de site Web en Wordpress et Drupal...",
-            "snippet": "Mon objectif est de trouver la fa\u00e7on la plus \u00e9conomique et productive. Actuellement, je me sp\u00e9cialise dans les arts visuels, la musique et les sites Web, en utilisant des outils gratuits qui je crois sont la technologie de l'avenir. Je parle...",
-            "date": "2015-04-15",
-            "categories": "technologie,musique,arts,wordpress,drupal",
-            "tags": "site,cr\u00e9ation,web,wordpress,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/quefaire.be/2015/04/cr%C3%A9ation-de-site-web-en-wordpress-et-drupal",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
-            "source_url": "http://quefaire.be/annonces/creation-de-site-web-en-1757101_809.shtml"
+        "computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia": {
+            "title": "govCMS to release its own Drupal distribution - Computerworld Australia...",
+            "snippet": "Computerworld AustraliagovCMS to release its own Drupal distributionComputerworld AustraliaThe government's govCMS project will make its own Drupal distribution publicly available for download, it announced today. The distribution will be a fork of...",
+            "date": "2015-04-16",
+            "categories": "drupal",
+            "tags": "announced,announced-today,release,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
+            "source_url": "http://computerworld.com.au/article/572793/govcms-release-its-own-drupal-distribution/"
         },
         "pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine": {
             "title": "WordPress Vs Drupal Vs Joomla - PC Tech Magazine...",
             "snippet": "PC Tech MagazineWordPress Vs Drupal Vs JoomlaPC Tech MagazineIn case you have decided to create a website and you are wondering which content management system (CMS) is the best choice for you. This post is going to look at three of the most...",
             "date": "2015-04-13",
             "categories": "management,drupal,wordpress,joomla",
-            "tags": "are,which,content,content-management,content-management-system,management,management-system,system,drupal,wordpress,joomla,cms,this",
+            "tags": "are,which,content,content-management,content-management-system,management,management-system,system,drupal,joomla,cms",
             "recuweb_url": "http://fr.recuweb.com/joomla/pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine",
             "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
             "source_url": "http://pctechmag.com/2015/04/wordpress-vs-joomla-vs-drupal/"
+        },
+        "linux.com/2015/04/git-success-stories-and-tips-from-drupal-core-committer-angie-byron": {
+            "title": "Git Success Stories and Tips from Drupal Core Committer Angie Byron - (blog)...",
+            "snippet": "Git Success Stories and Tips from Drupal Core Committer Angie (blog)Angie Byron Drupal The Git revision control system is at the center of Drupal's hyper-collaborative community says Drupal core committer Angie Byron. The open source content...",
+            "date": "2015-04-09",
+            "categories": "drupal",
+            "tags": "open,open-source,source,content,system,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/linux.com/2015/04/git-success-stories-and-tips-from-drupal-core-committer-angie-byron",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "source_url": "http://linux.com/news/featured-blogs/200-libby-clark/822227-git-success-stories-and-tips-from-drupal-core-committer-angie-byron"
+        },
+        "prnewswire.com/2015/04/drupal-connect-launches-campaign-to-fight-anti-lgbtq-measures-pr-newswire": {
+            "title": "Drupal Connect Launches Campaign To Fight Anti-LGBTQ Measures - PR Newswire (press release)...",
+            "snippet": "PR Newswire (press release)Drupal Connect Launches Campaign To Fight Anti-LGBTQ MeasuresPR Newswire (press release)NEWPORT, R.I., April 3, 2015/PRNewswire/-- Drupal Connect announced today that it is spearheading a massive nationwide fundraising...",
+            "date": "2015-04-03",
+            "categories": "drupal",
+            "tags": "announced,announced-today,drupal,release",
+            "recuweb_url": "http://fr.recuweb.com/drupal/prnewswire.com/2015/04/drupal-connect-launches-campaign-to-fight-anti-lgbtq-measures-pr-newswire",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "source_url": "http://prnewswire.com/news-releases/drupal-connect-launches-campaign-to-fight-anti-lgbtq-measures-300060920.html"
+        },
+        "computerweekly.com/2015/03/openscholar-a-drupal-based-content-management-system-for-blog": {
+            "title": "OpenScholar: a Drupal-based content management system for... - (blog)...",
+            "snippet": "(blog)OpenScholar: a Drupal-based content management system for... (blog)OpenScholar is a Drupal-based content management system designed specifically for academic use, created by Harvard University and released under an open source license. So...",
+            "date": "2015-03-31",
+            "categories": "management,drupal",
+            "tags": "open,open-source,source,content,content-management,content-management-system,management,management-system,system,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/computerweekly.com/2015/03/openscholar-a-drupal-based-content-management-system-for-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "source_url": "http://computerweekly.com/blogs/open-source-insider/2015/03/openscholar-a-drupal-based-content-management-system.html"
         }
     }
 }
