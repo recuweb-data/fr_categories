@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "marathon",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/marathon/",
@@ -53,7 +53,7 @@
             "date": "2015-04-21",
             "author_name": "Omnisport-fr",
             "categories": "mort,marathon",
-            "tags": "\u00e9dition,\u00e9dition-du-marathon,marathon,apr\u00e8s,boston",
+            "tags": "marathon,apr\u00e8s,boston",
             "recuweb_url": "http://fr.recuweb.com/marathon/dailymotion.com/2015/04/marathon-de-boston-deux-an-apr%C3%A8s-l-%C3%A9motion-plane-toujours",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/marathon/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ngf22_marathon-de-boston-deux-an-apres-l-emotion-plane-toujours_sport",
@@ -70,18 +70,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/marathon/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nefo8_victoire-de-lelisa-desisa-et-carolina-rotich-au-marathon-de-boston-2015_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nefo8_victoire-de-lelisa-desisa-et-carolina-rotich-au-marathon-de-boston-2015_sport"
-        },
-        "youtube.com/2015/04/le-marathon-de-bordeaux-m%C3%A9tropole-une-f%C3%AAte-nocturne": {
-            "title": "Le Marathon de Bordeaux M\u00e9tropole - une f\u00eate nocturne!",
-            "snippet": "Le Marathon de Bordeaux M\u00e9tropole - une f\u00eate nocturne! Hello \u00e0 tous chers amis! Aujourd'hui nous sommes tr\u00e8s heureux de vous livrer notre vid\u00e9o de cette premi\u00e8re \u00e9dition du marathon de Bordeaux M\u00e9tropole. La semaine pass\u00e9e, nous avons...",
-            "date": "2015-04-20",
-            "author_name": "Lapins Runners",
-            "categories": "marathon",
-            "tags": "\u00e9dition,\u00e9dition-du-marathon,marathon",
-            "recuweb_url": "http://fr.recuweb.com/marathon/youtube.com/2015/04/le-marathon-de-bordeaux-m%C3%A9tropole-une-f%C3%AAte-nocturne",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=marathon%2Bmarathon&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=oOxXsShaPsk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/oOxXsShaPsk/0.jpg"
         },
         "dailymotion.com/2015/04/martine-au-marathon-des-sables": {
             "title": "Martine au Marathon des Sables...",
@@ -130,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/marathon/0?af=1",
             "source_url": "http://dailymotion.com/video/x2muxop_11-04-stage-etape-charity-30eme-sultan-marathon-des-sables_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2muxop_11-04-stage-etape-charity-30eme-sultan-marathon-des-sables_sport"
+        },
+        "youtube.com/2015/04/marathon-de-paris-2015-tu-voulais-l-ambiance": {
+            "title": "Marathon de paris 2015: tu voulais de l'ambiance??",
+            "snippet": "Marathon de paris 2015: tu voulais de l'ambiance?? 42195 km \u00e0 porter une gopro pour 3min30 d'ambiance du MDP 2015, c'est que j'ai tent\u00e9 pour vous les amis! Regardez, vivez, aimez, partagez! Des bisous et \u00e0 tr\u00e8s bient\u00f4t pour de nouvelles...",
+            "date": "2015-04-13",
+            "author_name": "Lapins Runners",
+            "categories": "marathon",
+            "tags": "marathon",
+            "recuweb_url": "http://fr.recuweb.com/marathon/youtube.com/2015/04/marathon-de-paris-2015-tu-voulais-l-ambiance",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=marathon%2Bmarathon&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=3tDQX9NC76I&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/3tDQX9NC76I/0.jpg"
         }
     }
 }
