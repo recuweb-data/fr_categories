@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "google",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/google/",
@@ -10,60 +11,93 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
+        "100000v.wordpress.com/2015/04/quand-google-urine-sur-apple-jusquau-pakistan": {
+            "title": "Quand Google urine sur Apple jusquau Pakistan...",
+            "snippet": "Une curieuse image est apparue aujourdhui sur Google Maps, dans une r\u00e9gion du Pakistan: la mascotte dAndroid qui urine sur la pomme dApple. Tapez Adiala Shahpur Rd, Rawalpindi, Pakistan et vous le verrez vous-m\u00eame. Dapr\u00e8s les premi\u00e8res infos, ce...",
+            "date": "2015-04-24",
+            "author_name": "ValLeNain",
+            "categories": "google",
+            "tags": "google,image,m\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/google/100000v.wordpress.com/2015/04/quand-google-urine-sur-apple-jusquau-pakistan",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
+            "source_url": "http://100000v.wordpress.com/2015/04/24/quand-google-urine-sur-apple-jusquau-pakistan/"
+        },
+        "gizmodo.fr/2015/04/et-donc-google-est-d%C3%A9sormais-un-op%C3%A9rateur-mobile-gizmodo": {
+            "title": "Et donc Google est d\u00e9sormais un op\u00e9rateur mobile... - Gizmodo...",
+            "snippet": "Google a lev\u00e9 le voile sur Project Fi, une offre de t\u00e9l\u00e9phonie et d'Internet mobile exploitant les r\u00e9seaux cellulaires de Sprint et T-Mobile aux Etats-Unis.",
+            "date": "2015-04-23",
+            "author_name": "Flo",
+            "categories": "google,internet",
+            "tags": "offre,d\u00e9sormais,donc,google,op\u00e9rateur,mobile,project,t\u00e9l\u00e9phonie,internet,r\u00e9seaux,sprint,etats,unis",
+            "recuweb_url": "http://fr.recuweb.com/internet/gizmodo.fr/2015/04/et-donc-google-est-d%C3%A9sormais-un-op%C3%A9rateur-mobile-gizmodo",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/23/et-donc-google-est-desormais-un-operateur-mobile.html"
+        },
+        "generation-nt.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile-aux-usa": {
+            "title": "Project Fi: Google devient op\u00e9rateur mobile aux USA...",
+            "snippet": "Les rumeurs et les informations du Wall Street Journal \u00e9taient finalement bien fond\u00e9es: Google a finalement annonc\u00e9 le lancement de Project Fi, son service de t\u00e9l\u00e9phonie mobile.",
+            "date": "2015-04-23",
+            "author_name": "inconnu",
+            "categories": "google",
+            "tags": "service,lancement,fond\u00e9es,rumeurs,informations,project,google,devient,op\u00e9rateur,mobile,annonc\u00e9,t\u00e9l\u00e9phonie",
+            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/project-fi-google-devient-op%C3%A9rateur-mobile-aux-usa",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://generation-nt.com/project-fi-google-operateur-mobile-actualite-1914399.html"
+        },
+        "frandroid.com/2015/04/project-fi-google-est-d%C3%A9sormais-un-op%C3%A9rateur-virtuel-aux-%C3%A9tats-unis": {
+            "title": "Project Fi: Google est d\u00e9sormais un op\u00e9rateur virtuel aux \u00c9tats-Unis...",
+            "snippet": "Comme on s'y attendait, Google a d\u00e9voil\u00e9 hier soir son projet de devenir un MVNO, un op\u00e9rateur mobile virtuel. Le service, baptis\u00e9 Project Fi, propose des tarifs relativement avantageux, est r\u00e9serv\u00e9 aux seuls possesseurs de...",
+            "date": "2015-04-23",
+            "author_name": "Ga\u00ebl",
+            "categories": "google",
+            "tags": "propose,relativement,soir,d\u00e9voil\u00e9,d\u00e9sormais,project,google,op\u00e9rateur,virtuel,\u00e9tats,unis,hier,projet,mvno,mobile,service",
+            "recuweb_url": "http://fr.recuweb.com/google/frandroid.com/2015/04/project-fi-google-est-d%C3%A9sormais-un-op%C3%A9rateur-virtuel-aux-%C3%A9tats-unis",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://frandroid.com/marques/google/280830_project-fi-google-desormais-operateur-virtuel-aux-etats-unis"
+        },
+        "cnetfrance.fr/2015/04/projet-fi-google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile-cnet": {
+            "title": "Projet Fi, Google devient op\u00e9rateur de t\u00e9l\u00e9phonie mobile - CNET...",
+            "snippet": "Google se lance dans la t\u00e9l\u00e9phonie mobile avec son Projet Fi. Pour 20 dollars, les communications et les SMS seront illimit\u00e9s et Google facturera la consommation de donn\u00e9es.",
+            "date": "2015-04-23",
+            "author_name": "Eureka Presse",
+            "categories": "google",
+            "tags": "projet,google,devient,op\u00e9rateur,t\u00e9l\u00e9phonie,mobile,lance",
+            "recuweb_url": "http://fr.recuweb.com/google/cnetfrance.fr/2015/04/projet-fi-google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile-cnet",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cnetfrance.fr/news/projet-fi-google-devient-operateur-de-telephonie-mobile-39818422.htm"
+        },
+        "generation-nt.com/2015/04/on-comprend-pas-google-dit-quel-animal-vous-%C3%AAtes": {
+            "title": "On comprend pas: Google dit quel animal vous \u00eates...",
+            "snippet": "Pour c\u00e9l\u00e9brer le Jour de la Terre, le moteur de recherche Google a concoct\u00e9 un bien curieux quizz de personnalit\u00e9 qui vous dira quel animal vous \u00eates.",
+            "date": "2015-04-22",
+            "author_name": "inconnu",
+            "categories": "google",
+            "tags": "dit,google,jour,moteur,recherche",
+            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/on-comprend-pas-google-dit-quel-animal-vous-%C3%AAtes",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://generation-nt.com/google-jour-terre-doodle-quizz-animal-actualite-1914386.html"
+        },
+        "gizmodo.fr/2015/04/google-vous-permet-d%C3%A9sormais-de-t%C3%A9l%C3%A9charger-votre-historique": {
+            "title": "Google vous permet d\u00e9sormais de t\u00e9l\u00e9charger votre historique de...",
+            "snippet": "Les ann\u00e9es ont pass\u00e9 et vous avez tr\u00e8s certainement oubli\u00e9 ce que vous pu rechercher il y a 3 ans dans les m\u00e9andres du web... Google met aujourd'hui en place un moyen relativement simple de le d\u00e9couvrir, qui vous...",
+            "date": "2015-04-21",
+            "author_name": "Flo",
+            "categories": "place,google",
+            "tags": "moyen,relativement,web,d\u00e9sormais,google,aujourd,hui",
+            "recuweb_url": "http://fr.recuweb.com/google/gizmodo.fr/2015/04/google-vous-permet-d%C3%A9sormais-de-t%C3%A9l%C3%A9charger-votre-historique",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/21/google-telecharger-historique.html"
+        },
         "wizishop.com/2015/04/dossier-adwords-comment-profiter-du-r%C3%A9seau-de-recherche-google": {
             "title": "Dossier AdWords: comment profiter du r\u00e9seau de recherche Google?",
             "snippet": "Le r\u00e9f\u00e9rencement sur les moteurs de recherche est le levier le plus important et, souvent, le plus performant pour un ecommer\u00e7ant. Pour cette raison, la concurrence, au niveau du r\u00e9f\u00e9rencement naturel pour les mots-cl\u00e9s les plus recherch\u00e9s...",
             "date": "2015-04-16",
             "author_name": "michele",
             "categories": "adwords,google",
-            "tags": "recherche,dossier,google,concurrence",
+            "tags": "recherche,moteurs,google,concurrence",
             "recuweb_url": "http://fr.recuweb.com/google/wizishop.com/2015/04/dossier-adwords-comment-profiter-du-r%C3%A9seau-de-recherche-google",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
             "source_url": "http://wizishop.com/blog/ressources-ecommerce/dossier-adwords-comment-profiter-du-reseau-de-recherche-google.html"
-        },
-        "catoune.com/2015/04/google-accus%C3%A9-d-abus-de-position-dominante": {
-            "title": "Google accus\u00e9 d'abus de position dominante...",
-            "snippet": "Google se fait taper sur les doigts par Bruxelles! La Commission europ\u00e9enne \u00e9pingle le g\u00e9ant d'Internet et l'accuse officiellement \"d'abus de position dominante\". Au c\u0153ur de la []...",
-            "date": "2015-04-16",
-            "author_name": "Catoune",
-            "categories": "google,internet",
-            "tags": "europ\u00e9enne,google,bruxelles,commission,g\u00e9ant,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/catoune.com/2015/04/google-accus%C3%A9-d-abus-de-position-dominante",
-            "resource_url": "http://fr.search.wordpress.com/?q=google&f=feed&page=1",
-            "source_url": "http://catoune.com/2015/04/16/google-accuse-abus-de-position-dominante/"
-        },
-        "freewares-tutos.blogspot.com/2015/04/le-site-du-jour-guide-pour-se-d%C3%A9sinscrire-de-google-microsoft": {
-            "title": "Le site du jour: guide pour se d\u00e9sinscrire de Google, Microsoft, Facebook, Twitter, etc...",
-            "snippet": "Voici un dossier expliquant comment se d\u00e9sinscrire des services en ligne les plus connus tels que Google, Google, Microsoft, Twitter ou encore Dropbox. Parfois, c'est vrai que c'est un v\u00e9ritable parcours du combattant avec des options pas toujours...",
-            "date": "2015-04-12",
-            "author_name": "thebloom",
-            "categories": "google,facebook,twitter",
-            "tags": "toujours,vrai,dossier,site,google,facebook",
-            "recuweb_url": "http://fr.recuweb.com/twitter/freewares-tutos.blogspot.com/2015/04/le-site-du-jour-guide-pour-se-d%C3%A9sinscrire-de-google-microsoft",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
-            "source_url": "http://freewares-tutos.blogspot.com/2015/04/le-site-du-jour-guide-pour-se.html"
-        },
-        "bentooffice.wordpress.com/2015/04/google-docs-undo-changes": {
-            "title": "google docs undo changes...",
-            "snippet": "google docs undo changes google docs upload google docs undo changes google docs unable to create some images google docs update google docs uml google docs ubuntu google docs upload pdf google docs undo resolve comment google...",
-            "date": "2015-04-01",
-            "author_name": "rctistreaming",
-            "categories": "google",
-            "tags": "images,google",
-            "recuweb_url": "http://fr.recuweb.com/google/bentooffice.wordpress.com/2015/04/google-docs-undo-changes",
-            "resource_url": "http://fr.search.wordpress.com/?q=google&f=feed&page=1",
-            "source_url": "http://bentooffice.wordpress.com/2015/04/01/google-docs-undo-changes/"
-        },
-        "bentoonline.wordpress.com/2015/03/google-translate-quote": {
-            "title": "google translate quote...",
-            "snippet": "google translate quote google translate quechua google translate q google translate quenya google translate quote google translate quedarse google translate quality google translate quota google translate quiet google translate que google translate...",
-            "date": "2015-03-22",
-            "author_name": "rctistreaming",
-            "categories": "google",
-            "tags": "google",
-            "recuweb_url": "http://fr.recuweb.com/google/bentoonline.wordpress.com/2015/03/google-translate-quote",
-            "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
-            "source_url": "http://bentoonline.wordpress.com/2015/03/22/google-translate-quote/"
         },
         "touslesgnrateursgratuites2015.wordpress.com/2015/03/pro-final-google-earth": {
             "title": "PRO FINAL GOOGLE EARTH...",
@@ -71,54 +105,21 @@
             "date": "2015-03-18",
             "author_name": "easyhack2",
             "categories": "google",
-            "tags": "google,cartes,images",
+            "tags": "google,cartes",
             "recuweb_url": "http://fr.recuweb.com/google/touslesgnrateursgratuites2015.wordpress.com/2015/03/pro-final-google-earth",
             "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
             "source_url": "http://touslesgnrateursgratuites2015.wordpress.com/2015/03/18/pro-7-0-2-8415-final-google-earth/"
         },
-        "generation-nt.com/2015/03/firefox-google-veut-vraiment-le-retour-des-utilisateurs": {
-            "title": "Firefox: Google veut vraiment le retour des utilisateurs...",
-            "snippet": "Google n'aime toujours pas que Yahoo soit le moteur de recherche par d\u00e9faut dans Firefox et le fait savoir.",
-            "date": "2015-03-16",
-            "author_name": "inconnu",
-            "categories": "google,yahoo",
-            "tags": "toujours,utilisateurs,google,veut,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/generation-nt.com/2015/03/firefox-google-veut-vraiment-le-retour-des-utilisateurs",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/firefox-google-yahoo-moteur-recherche-actualite-1913156.html"
-        },
-        "generation-nt.com/2015/03/google-chrome-un-chef-d-%C5%93uvre-dans-chaque-onglet": {
-            "title": "Google Chrome: un chef-d'\u0153uvre dans chaque onglet...",
-            "snippet": "Dans un nouvel onglet de navigation ouvert, une extension de Google pour Chrome affiche un tableau de ma\u00eetre.",
-            "date": "2015-03-15",
-            "author_name": "inconnu",
-            "categories": "navigation,google",
-            "tags": "google,chrome",
-            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/03/google-chrome-un-chef-d-%C5%93uvre-dans-chaque-onglet",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/google-chrome-extension-store-art-project-maps-actualite-1913054.html"
-        },
-        "futura-sciences.com/2015/03/le-nouveau-chromebook-haut-de-gamme-google-futura-sciences": {
-            "title": "le nouveau Chromebook haut de gamme de Google - Futura-Sciences...",
-            "snippet": "Deux ans apr\u00e8s le premier Chromebook Pixel, Google a d\u00e9voil\u00e9 son successeur. Ce nouveau mod\u00e8le haut de gamme se pr\u00e9sente comme le porte-\u00e9tendard du syst\u00e8me d'exploitation Chrome OS que porte le...",
-            "date": "2015-03-15",
-            "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
-            "categories": "google,science",
-            "tags": "nouveau,comme,google,deux,chrome",
-            "recuweb_url": "http://fr.recuweb.com/science/futura-sciences.com/2015/03/le-nouveau-chromebook-haut-de-gamme-google-futura-sciences",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://futura-sciences.com/magazines/high-tech/infos/actu/d/technologie-chromebook-pixel-nouveau-chromebook-haut-gamme-google-57487/"
-        },
-        "futura-sciences.com/2015/03/actualit%C3%A9-projet-loon-les-ballons-de-google-peuvent-d%C3%A9sormais": {
-            "title": "Actualit\u00e9 Projet Loon: les ballons de Google peuvent d\u00e9sormais...",
-            "snippet": "Lanc\u00e9 en juin 2013, le projet Google Loon d'acc\u00e8s Internet via des ballons stratosph\u00e9riques a beaucoup \u00e9volu\u00e9 depuis. Les ballons peuvent d\u00e9sormais voler durant six mois cons\u00e9cutifs et...",
-            "date": "2015-03-13",
-            "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
-            "categories": "google,internet",
-            "tags": "d\u00e9sormais,beaucoup,projet,google,lanc\u00e9,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/futura-sciences.com/2015/03/actualit%C3%A9-projet-loon-les-ballons-de-google-peuvent-d%C3%A9sormais",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://futura-sciences.com/magazines/high-tech/infos/actu/d/internet-projet-loon-ballons-google-peuvent-desormais-relayer-4g-57479/"
+        "plugengindown.wordpress.com/2015/02/telecharger-google-chrom-gratuitement": {
+            "title": "Telecharger google chrom gratuitement...",
+            "snippet": "DOWNLOAD Il y a 5 jours Google Chrome est un navigateur web cr\u00e9\u00e9 par Google, qui se base sur le projet Chromium. L'objectif premier de Google en d\u00e9veloppant. Google...",
+            "date": "2015-02-19",
+            "author_name": "plugengindown",
+            "categories": "google",
+            "tags": "web,google,gratuitement,projet",
+            "recuweb_url": "http://fr.recuweb.com/google/plugengindown.wordpress.com/2015/02/telecharger-google-chrom-gratuitement",
+            "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
+            "source_url": "http://plugengindown.wordpress.com/2015/02/19/telecharger-google-chrom-gratuitement/"
         }
     }
 }
