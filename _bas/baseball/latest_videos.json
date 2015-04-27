@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baseball",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/baseball/",
@@ -11,6 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/3-strikes-and-you-re-in-san-quentin-baseball": {
+            "title": "3 Strikes and You're In: San Quentin Baseball...",
+            "snippet": "Opening Day at San Quentin State Prison where every game is a home game. The lives and voices of men doing life at the country's most notorious penal: spreadthelovexoxoxoTags: Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "spreadthelovexoxoxo",
+            "categories": "baseball",
+            "tags": "baseball",
+            "recuweb_url": "http://fr.recuweb.com/baseball/dailymotion.com/2015/04/3-strikes-and-you-re-in-san-quentin-baseball",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/baseball/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o3ojn_3-strikes-and-you-re-in-san-quentin-baseball_fun",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o3ojn_3-strikes-and-you-re-in-san-quentin-baseball_fun"
+        },
+        "dailymotion.com/2015/04/une-spectatrice-frapp%C3%A9e-par-balle-de-baseball": {
+            "title": "Une spectatrice frapp\u00e9e par une balle de baseball...",
+            "snippet": "Une spectatrice qui voulait reprendre sa place lors d'un match de baseball a \u00e9t\u00e9 frapp\u00e9e par une balle en pleine t\u00eate. Ouch!Author: 24BuzzTags: Baseball baseball balle baseball fail fail accident web Posted: 24 April 2015Rating:: 0...",
+            "date": "2015-04-24",
+            "author_name": "24Buzz",
+            "categories": "baseball,place",
+            "tags": "baseball,balle,baseball-fail,baseball-fail-accident,fail,fail-accident,accident,match,\u00e9t\u00e9,frapp\u00e9e,balle-en-pleine,pleine,pleine-t\u00eate,t\u00eate,spectatrice,spectatrice-frapp\u00e9e,balle-de-baseball",
+            "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/04/une-spectatrice-frapp%C3%A9e-par-balle-de-baseball",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/baseball+baseball/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nt7h5_une-spectatrice-frappe-e-par-une-balle-de-baseball_fun",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nt7h5_une-spectatrice-frappe-e-par-une-balle-de-baseball_fun"
+        },
         "dailymotion.com/2015/04/recevoir-une-balle-de-baseball-dans-sa-bi%C3%A8re-en-plein-match": {
             "title": "Recevoir une balle de Baseball dans sa bi\u00e8re en plein match!",
             "snippet": "Une femme re\u00e7oit une balle de base ball pendant un match dans sa bi\u00e8reAuthor: funfailbuzzTags: Baseball bi\u00e8re gobelet fan supporter balle de baseball match marrant Posted: 22 April 2015Rating:: 0...",
@@ -34,18 +58,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/baseball/0?af=1",
             "source_url": "http://dailymotion.com/video/x2nifir_une-fan-de-baseball-recoit-la-balle-dans-sa-biere-en-plein-match_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2nifir_une-fan-de-baseball-recoit-la-balle-dans-sa-biere-en-plein-match_sport"
-        },
-        "dailymotion.com/2015/04/une-spectatrice-frapp%C3%A9e-par-balle-de-baseball": {
-            "title": "Une spectatrice frapp\u00e9e par une balle de baseball...",
-            "snippet": "Une spectatrice qui voulait reprendre sa place lors d'un match de baseball a \u00e9t\u00e9 frapp\u00e9e par une balle en pleine t\u00eate.: tuxboardTags: Posted: 22 April 2015Rating:: 0...",
-            "date": "2015-04-22",
-            "author_name": "tuxboard",
-            "categories": "baseball,place",
-            "tags": "match,baseball,\u00e9t\u00e9,frapp\u00e9e,balle,balle-en-pleine,pleine,pleine-t\u00eate,t\u00eate,spectatrice,spectatrice-frapp\u00e9e,balle-de-baseball",
-            "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/04/une-spectatrice-frapp%C3%A9e-par-balle-de-baseball",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/baseball+baseball/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2nk2b2_une-spectatrice-frappee-par-une-balle-de-baseball_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nk2b2_une-spectatrice-frappee-par-une-balle-de-baseball_sport"
         },
         "dailymotion.com/2015/04/baseball-une-spectatrice-frapp%C3%A9e-par-balle-est-hospitalis%C3%A9e": {
             "title": "Baseball, Une spectatrice frapp\u00e9e par une balle est hospitalis\u00e9e...",
@@ -113,23 +125,11 @@
             "date": "2015-03-31",
             "author_name": "ArchivesDuNet",
             "categories": "baseball,sport",
-            "tags": "baseball,accident,plein,sport",
+            "tags": "baseball,baseball-fail,baseball-fail-accident,fail,fail-accident,accident,plein,sport",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/03/en-plein-dans-le-mille",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/baseball+baseball/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lbetg_en-plein-dans-le-mille_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lbetg_en-plein-dans-le-mille_sport"
-        },
-        "youtube.com/2014/11/l-origine-du-baseball": {
-            "title": "L'origine du Baseball...",
-            "snippet": "L'origine du Baseball Tel est l'origine du Baseball!! Merci \u00e0 Farouk et Sofiane pour la vid\u00e9o et n'oublier pas de Like. From: Because I'm Rayane Views: 353 20 ratings Time: 01:42 More in People & Blogs...",
-            "date": "2014-11-29",
-            "author_name": "Because I'm Rayane",
-            "categories": "baseball",
-            "tags": "baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/youtube.com/2014/11/l-origine-du-baseball",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=baseball%2Bbaseball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=A40D0t9rXG0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/A40D0t9rXG0/0.jpg"
         }
     }
 }
