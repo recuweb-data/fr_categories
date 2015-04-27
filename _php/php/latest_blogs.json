@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "emploi.frenchweb.fr/2015/04/d%C3%A9veloppeur-php-h-f-emploi-frenchweb": {
-            "title": "D\u00e9veloppeur PHP (H/F) - Emploi - FrenchWeb...",
-            "snippet": "Profil: De formation informatique, vous justifiez d'au moins 3 ans d'exp\u00e9rience en d\u00e9veloppement PHP5. Vous avez de tr\u00e8s bonnes comp\u00e9tences en PHP5, MySQL, HTML, CSS3, Javascript et Jquery. Vous avez de bonnes...",
-            "date": "2015-04-23",
-            "author_name": "michaelpage",
-            "categories": "php,emploi,mysql,css,javascript,jquery",
-            "tags": "bonnes,d\u00e9veloppement,d\u00e9veloppeur,d\u00e9veloppeur_php,php,exp\u00e9rience,mysql,html,css,javascript,jquery",
-            "recuweb_url": "http://fr.recuweb.com/jquery/emploi.frenchweb.fr/2015/04/d%C3%A9veloppeur-php-h-f-emploi-frenchweb",
+        "agence-aristote.fr/2015/04/cloud-php-7-framework-les-sujets-au-programme-du-prochain": {
+            "title": "Cloud, PHP 7, framework Les sujets au programme du prochain...",
+            "snippet": "On en sait d\u00e9sormais un peu plus sur le programme du prochain PHP Tour. Ce cycle annuel de conf\u00e9rences, organis\u00e9 par l'AFUP, r\u00e9unit pendant deux jours tous les passionn\u00e9s et les professionnels gravitant autour du langage PHP, et se...",
+            "date": "2015-04-22",
+            "author_name": "J\u00e9r\u00f4me GRIMAL",
+            "categories": "php,langage",
+            "tags": "professionnels,cloud,php,programme,tour,cycle,conf\u00e9rences,afup,langage",
+            "recuweb_url": "http://fr.recuweb.com/langage/agence-aristote.fr/2015/04/cloud-php-7-framework-les-sujets-au-programme-du-prochain",
+            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://agence-aristote.fr/cloud-php-7-framework-les-sujets-au-programme-du-prochain-php-tour/"
+        },
+        "emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-web-php-offres-d-emploi-alsacr%C3%A9ations": {
+            "title": "D\u00e9veloppeur web php - Offres d'emploi - Alsacr\u00e9ations...",
+            "snippet": "D\u00e9veloppeur web php. Stage Apprentissage. Type de contrat stage de 6 mois ou contrat d'alternance d'un an. Mission WNP cross-canal est l'entit\u00e9 marketing relationnel du groupe WNP (groupe ind\u00e9pendant de 100...",
+            "date": "2015-04-22",
+            "author_name": "inconnu",
+            "categories": "marketing,php,emploi",
+            "tags": "groupe,web,php",
+            "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-web-php-offres-d-emploi-alsacr%C3%A9ations",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://emploi.frenchweb.fr/offre-emploi/developpeur-php-hf-30/"
+            "source_url": "http://emploi.alsacreations.com/offre-561072-Developpeur-web-php.html"
+        },
+        "blog.pascal-martin.fr/2015/04/php-un-langage-des-utilisateurs-aux-besoins-tr%C3%A8s-diff%C3%A9rents": {
+            "title": "PHP: un langage, des utilisateurs aux besoins tr\u00e8s diff\u00e9rents...",
+            "snippet": "Lorsque je discute avec d'autres d\u00e9veloppeurs PHP, il s'agit souvent de professionnels. Mais n'oublions pas que le public cible de PHP est beaucoup plus large!",
+            "date": "2015-04-20",
+            "author_name": "Pascal MARTIN",
+            "categories": "php,langage",
+            "tags": "beaucoup,professionnels,autres,d\u00e9veloppeurs,utilisateurs,php,langage,lorsque",
+            "recuweb_url": "http://fr.recuweb.com/langage/blog.pascal-martin.fr/2015/04/php-un-langage-des-utilisateurs-aux-besoins-tr%C3%A8s-diff%C3%A9rents",
+            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.pascal-martin.fr/post/php-un-langage-des-utilisateurs-aux-besoins-differents.html"
         },
         "forum.alsacreations.com/2015/04/aide-sur-petit-menu-en-php-alsacreations": {
             "title": "Aide sur petit menu en php - Alsacreations...",
@@ -28,10 +50,10 @@
             "date": "2015-04-20",
             "author_name": "nahkira",
             "categories": "navigation,php,javascript",
-            "tags": "menu,navigation,php,javascript",
+            "tags": "navigation,php,site,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/forum.alsacreations.com/2015/04/aide-sur-petit-menu-en-php-alsacreations",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.alsacreations.com/topic-2-75508-1-Aidesurpetitmenuenphp.html"
+            "source_url": "http://forum.alsacreations.com/topic-2-75508-1-Aide-sur-petit-menu-en-php.html"
         },
         "blog.famillecollet.com/2015/04/php-version-et-les-rpm-de-remi-blog": {
             "title": "PHP version, et - Les RPM de Remi - Blog...",
@@ -39,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "Remi",
             "categories": "php",
-            "tags": "enterprise,enterprise_linux,linux,remi,version,disponibles,php,rpm,fedora,rhel,centos",
+            "tags": "enterprise,enterprise_linux,linux,remi,version,php,rpm,fedora,rhel,centos",
             "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/04/php-version-et-les-rpm-de-remi-blog",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.famillecollet.com/post/2015/04/17/PHP-version-5.4.40-5.5.24-et-5.6.8"
@@ -54,17 +76,6 @@
             "recuweb_url": "http://fr.recuweb.com/php/keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala-itfs-php-programmer",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
             "source_url": "http://keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala_14.html"
-        },
-        "copier-coller.com/2015/04/un-crud-avec-espace-de-connexion-en-php-copier-coller": {
-            "title": "Un crud avec espace de connexion en php - Copier coller...",
-            "snippet": "Un crud avec espace de connexion en php. crudlogin. Pour faire suite au tuto 'CRUD', on va tenter ici de l'am\u00e9liorer en lui rajoutant un espace de que c'est un exercice, qu'il n'y a ni admin ni user, on va...",
-            "date": "2015-04-12",
-            "author_name": "yuyazz",
-            "categories": "php",
-            "tags": "lui,connexion,php,tuto",
-            "recuweb_url": "http://fr.recuweb.com/php/copier-coller.com/2015/04/un-crud-avec-espace-de-connexion-en-php-copier-coller",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://copier-coller.com/dev/php/un-crud-avec-espace-de-connexion-en-php/"
         },
         "blog.famillecollet.com/2015/03/php-7-0-as-software-collection-les-rpm-de-remi-blog": {
             "title": "PHP 7.0 as Software Collection - Les RPM de Remi - Blog...",
@@ -94,7 +105,7 @@
             "date": "2015-03-17",
             "author_name": "LayWriter",
             "categories": "php",
-            "tags": "bonnes,m\u00eame,php",
+            "tags": "lorsque,php",
             "recuweb_url": "http://fr.recuweb.com/php/haikajy.wordpress.com/2015/03/php-est-bien-meilleur-que-ce-vous-pensez",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
             "source_url": "http://haikajy.wordpress.com/2015/03/17/php-est-bien-meilleur-que-ce-que-vous-pensez/"
@@ -109,17 +120,6 @@
             "recuweb_url": "http://fr.recuweb.com/php/nanabozo74.wordpress.com/2015/02/nginx-augmenter-le-temps-d-ex%C3%A9cution-des-scripts-php",
             "resource_url": "http://fr.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
             "source_url": "http://nanabozo74.wordpress.com/2015/02/23/nginx-augmenter-le-temps-dexecution-des-scripts-php/"
-        },
-        "commvo.wordpress.com/2015/01/php-sance3-les-variables-en-part-1": {
-            "title": "PHP (Sance3: Les variables en PHP: part 1...",
-            "snippet": "Dans ce tutoriel, vous apprendrez comment dclarer les variables en PHP PHP (Sance3: Les variables en PHP: part 1...",
-            "date": "2015-01-14",
-            "author_name": "commvo",
-            "categories": "php",
-            "tags": "php,tutoriel",
-            "recuweb_url": "http://fr.recuweb.com/php/commvo.wordpress.com/2015/01/php-sance3-les-variables-en-part-1",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
-            "source_url": "http://commvo.wordpress.com/2015/01/14/php-sance3-les-variables-en-php-part-1/"
         }
     }
 }
