@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/magento/",
@@ -11,65 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magento/magento/blogs.json"
     },
     "items": {
+        "itrnews.com/2015/04/kaporal-lance-un-outil-de-commandes-b2b-avec-altima": {
+            "title": "Kaporal lance un outil de commandes B2B avec Altima...",
+            "snippet": "Heureusement, le travail de conception a port\u00e9 ses fruits et les \u00e9quipes de l'agence digitale ont pu, sans trop modifier le fonctionnement standard de Magento, g\u00e9rer le probl\u00e8me et assurer des temps de chargement tr\u00e8s performants.",
+            "date": "2015-04-26",
+            "categories": "magento",
+            "tags": "standard,agence,agence-digitale,digitale,magento,g\u00e9rer",
+            "recuweb_url": "http://fr.recuweb.com/magento/itrnews.com/2015/04/kaporal-lance-un-outil-de-commandes-b2b-avec-altima",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=fr",
+            "source_url": "http://itrnews.com/articles-top10-jour/155555/kaporal-lance-outil-commandes-b2b-altima.html"
+        },
+        "security.nl/2015/04/nog-webwinkels-kwetsbaar-door-magento-lek": {
+            "title": "Nog webwinkels kwetsbaar door Magento-lek -...",
+            "snippet": "Nog webwinkels kwetsbaar door kritiek beveiligingslek in de populaire webwinkelsoftware Magento waardoor een aanvaller de webshop volledig kan overnemen is nog altijd in webwinkels aanwezig, ook al is de update sinds begin februari beschikbaar. De...",
+            "date": "2015-04-26",
+            "categories": "magento",
+            "tags": "populaire,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/security.nl/2015/04/nog-webwinkels-kwetsbaar-door-magento-lek",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
+            "source_url": "http://security.nl/posting/426336/Nog+88_000+webwinkels+kwetsbaar+door+Magento-lek"
+        },
+        "zdnet.com/2015/04/zero-day-weekly-ios-wi-fi-dos-aaron-s-law-active": {
+            "title": "Zero Day Weekly: iOS Wi-Fi DoS, Aaron's Law, active Magento... - ZDNet...",
+            "snippet": "ZDNetZero Day Weekly: iOS Wi-Fi DoS, Aaron's Law, active Magento...ZDNetAttackers exploit Magento e-commerce vulnerability: Those using Magento's e-commerce platform should ensure they're using its latest software, as attackers are increasingly...",
+            "date": "2015-04-24",
+            "categories": "magento",
+            "tags": "commerce,ios,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/zdnet.com/2015/04/zero-day-weekly-ios-wi-fi-dos-aaron-s-law-active",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
+            "source_url": "http://zdnet.com/article/zero-day-weekly-ios-wi-fi-dos-aarons-law-active-magento-attacks-and-a-harsh-p2p-ssid-rce/"
+        },
+        "programmableweb.com/2015/04/api2cart-api-method-mines-magento-abandoned-cart-data-programmableweb": {
+            "title": "API2Cart API Method Mines Magento Abandoned Cart Data - ProgrammableWeb...",
+            "snippet": "API2Cart API Method Mines Magento Abandoned Cart DataProgrammableWebThe good news is that API2Cart can now lend such companies a hand. The service is integrated with 30 shopping carts including Magento, WooCommerce, Bigcommerce, Shopify, Volusion...",
+            "date": "2015-04-23",
+            "categories": "magento",
+            "tags": "magento,woocommerce",
+            "recuweb_url": "http://fr.recuweb.com/magento/programmableweb.com/2015/04/api2cart-api-method-mines-magento-abandoned-cart-data-programmableweb",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magento&output=atom&nord=1",
+            "source_url": "http://programmableweb.com/news/api2cart-api-method-mines-magento-abandoned-cart-data/press-release/2015/04/23"
+        },
         "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-php-magento-confirm%C3%A9-h-f": {
             "title": "D\u00e9veloppeur PHP Magento Confirm\u00e9 H/F...",
             "snippet": "Dans le cadre dune cr\u00e9ation de poste, rattach\u00e9(e) au Directeur technique, vous apportez votre savoir-faire afin de r\u00e9pondre aux diff\u00e9rents besoins de nos clients et de construire une r\u00e9elle expertise autour de larchitecture LAMP. De...",
             "date": "2015-04-23",
             "categories": "php,magento",
-            "tags": "diff\u00e9rents,clients,expertise,cr\u00e9ation,magento",
+            "tags": "diff\u00e9rents,cr\u00e9ation,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-php-magento-confirm%C3%A9-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=fr",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+PHP+Magento+Confirm\u00e9+HF/30085"
-        },
-        "hostreview.com/2015/04/nexcess-publishes-white-paper-on-magento-2-performance-press-release": {
-            "title": "Nexcess Publishes White Paper On Magento 2 Performance - (press release)...",
-            "snippet": "Nexcess Publishes White Paper On Magento 2 (press release)Southfield, MI (PRWEB) - Nexcess, a provider of premium performance-optimized Magento hosting and a Magento Platinum Hosting Partner, has published a new white paper with extensive details of...",
-            "date": "2015-04-23",
-            "categories": "magento",
-            "tags": "performance,press,press-release,release,magento",
-            "recuweb_url": "http://fr.recuweb.com/magento/hostreview.com/2015/04/nexcess-publishes-white-paper-on-magento-2-performance-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento&output=atom&nord=1",
-            "source_url": "http://hostreview.com/news/150423-nexcess-publishes-white-paper-on-magento-2-performance"
         },
         "distributique.com/2015/04/account-manager-h-f-agence-digitale": {
             "title": "Account Manager H/F (agence digitale)...",
             "snippet": "Vous avez une bonne connaissance des technologies digitales et vous avez id\u00e9alement travaill\u00e9 sur des CMS (Magento, Wordpress, Drupal) par votre fonction actuelle commerciale et/ou management de projets. Vous savez mettre en perspective les...",
             "date": "2015-04-22",
             "categories": "management,connaissance,technologie,magento,wordpress,drupal",
-            "tags": "mettre,management,magento,wordpress,drupal",
+            "tags": "mettre,digitale,agence,agence-digitale,magento,wordpress,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/distributique.com/2015/04/account-manager-h-f-agence-digitale",
             "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=fr",
             "source_url": "http://distributique.com/actualites/lire-account-manager-h-f-agence-digitale-23175.html"
-        },
-        "computerworld.nl/2015/04/gapend-gat-in-magento-bedreigt-duizenden-webshops": {
-            "title": "Gapend gat in Magento bedreigt duizenden webshops -...",
-            "snippet": "Gapend gat in Magento bedreigt duizenden blijkt dat ook talloze Nederlandse webshops nog kwetsbaar zijn, waaronder de shops van Persgroep-kranten Volkskrant, AD en Trouw. Conclusie: webwinkelbeheerders die Magento gebruiken moeten dus als de...",
-            "date": "2015-04-22",
-            "categories": "magento",
-            "tags": "die,shops,magento",
-            "recuweb_url": "http://fr.recuweb.com/magento/computerworld.nl/2015/04/gapend-gat-in-magento-bedreigt-duizenden-webshops",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
-            "source_url": "http://computerworld.nl/beveiliging/86015-gapend-gat-in-magento-bedreigt-duizenden-webshops"
-        },
-        "heise.de/2015/04/l%C3%BCcke-in-ebays-shopsystem-magento-beliebiger-schadcode-heise-newsticker": {
-            "title": "L\u00fccke in eBays Shopsystem Magento: Beliebiger Schadcode... - Heise Newsticker...",
-            "snippet": "Heise NewstickerL\u00fccke in eBays Shopsystem Magento: Beliebiger Schadcode...Heise NewstickerFast Online-Shops sind von einer Sicherheitsl\u00fccke im E-Commerce-System Magento befallen, die von Angreifern ausgenutzt werden kann, um b\u00f6sartigen Code in...",
-            "date": "2015-04-22",
-            "categories": "magento",
-            "tags": "die,magento,shops,commerce",
-            "recuweb_url": "http://fr.recuweb.com/magento/heise.de/2015/04/l%C3%BCcke-in-ebays-shopsystem-magento-beliebiger-schadcode-heise-newsticker",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
-            "source_url": "http://heise.de/security/meldung/Luecke-in-eBays-Shopsystem-Magento-Beliebiger-Schadcode-ausfuehrbar-2617112.html"
         },
         "businesswire.com/2015/04/magento-expands-mobile-app-merchandising-and-business-insight-wire-press-release": {
             "title": "Magento Expands Mobile App, Merchandising, and Business Insight... - Business Wire (press release)...",
             "snippet": "Magento Expands Mobile App, Merchandising, and Business Insight... - Business Wire (press release)...",
             "date": "2015-04-22",
             "categories": "magento",
-            "tags": "press,press-release,release,magento",
+            "tags": "magento",
             "recuweb_url": "http://fr.recuweb.com/magento/businesswire.com/2015/04/magento-expands-mobile-app-merchandising-and-business-insight-wire-press-release",
             "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
             "source_url": "http://businesswire.com/news/home/20150422006402/en/Magento-Expands-Mobile-App-Merchandising-Business-Insight"
+        },
+        "categorynet.com/2015/04/sabacane-r%C3%A9%C3%A9lue-parmi-les-meilleures-solutions-emailing-pour-la-deuxi%C3%A8me-ann%C3%A9e": {
+            "title": "Sabacane r\u00e9\u00e9lue parmi les meilleures solutions emailing pour la deuxi\u00e8me ann\u00e9e cons\u00e9cutive...",
+            "snippet": "Sarbacane Desktop se dote actuellement de nouvelles extensions parmi lesquelles on retrouve des connecteurs avec les solutions e-commerce et CRM tels que Prestashop, Magento ou Salesforce ainsi qu'un \u00e9diteur intuitif de formulaires Des avantages...",
+            "date": "2015-04-22",
+            "categories": "magento",
+            "tags": "ainsi,commerce,prestashop,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/categorynet.com/2015/04/sabacane-r%C3%A9%C3%A9lue-parmi-les-meilleures-solutions-emailing-pour-la-deuxi%C3%A8me-ann%C3%A9e",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=fr",
+            "source_url": "http://categorynet.com/communiques-de-presse/marketing/sabacane-reelue-parmi-les-meilleures-solutions-emailing-pour-la-deuxieme-annee-consecutive-20150422229784/"
         },
         "ictjournal.ch/2015/04/checkpoint-d%C3%A9couvre-une-faille-dans-le-syst%C3%A8me-de-e-commerce-ictjournal": {
             "title": "Checkpoint d\u00e9couvre une faille dans le syst\u00e8me de e-commerce... - ICTjournal...",
@@ -81,35 +101,15 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
             "source_url": "http://ictjournal.ch/fr-CH/News/2015/04/21/Checkpoint-decouvre-une-faille-dans-le-systeme-de-e-commerce-Magento.aspx"
         },
-        "lemondeinformatique.fr/2015/04/oxalide-recrute-plus-de-30-ing%C3%A9nieurs-syst%C3%A8mes-et-r%C3%A9seaux": {
-            "title": "Oxalide recrute plus de 30 ing\u00e9nieurs syst\u00e8mes et r\u00e9seaux...",
-            "snippet": "Depuis sa cr\u00e9ation en 2000, Oxalide a construit sa r\u00e9ussite sur une double expertise applicative (Varnish, Magento, Drupal, hybris, EZ Publish, etc.) et syst\u00e8mes/r\u00e9seaux, pour optimiser, en continu, les plateformes web de ses clients. Cloud...",
-            "date": "2015-04-21",
-            "categories": "magento,drupal",
-            "tags": "plateformes,web,clients,expertise,cr\u00e9ation,magento,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/lemondeinformatique.fr/2015/04/oxalide-recrute-plus-de-30-ing%C3%A9nieurs-syst%C3%A8mes-et-r%C3%A9seaux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=fr",
-            "source_url": "http://lemondeinformatique.fr/actualites/lire-oxalide-recrute-plus-de-30-ingenieurs-systemes-et-reseaux-60912.html"
-        },
-        "internetretailer.com/2015/04/ebay-fixes-a-security-hole-in-its-magento-platform-press-release": {
-            "title": "eBay fixes a security hole in its Magento platform - (press release) (registration) (blog)...",
-            "snippet": "eBay fixes a security hole in its Magento (press release) (registration) (blog)... E-commerce Platforms E-Payments & Security Fulfillment/Delivery Marketing Technology Order Management Performance Management Personalization Web Site Analytics.",
-            "date": "2015-04-21",
-            "categories": "marketing,management,magento",
-            "tags": "management,performance,web,site,commerce,press,press-release,release,magento",
-            "recuweb_url": "http://fr.recuweb.com/magento/internetretailer.com/2015/04/ebay-fixes-a-security-hole-in-its-magento-platform-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
-            "source_url": "http://internetretailer.com/2015/04/21/ebay-fixes-security-hole-its-magento-platform"
-        },
-        "dynamique-mag.com/2015/04/d%C3%A9finir-le-but-d-une-pr%C3%A9sence-en-ligne": {
-            "title": "D\u00e9finir le but d'une pr\u00e9sence en ligne...",
-            "snippet": "De nombreuses plateformes e-commerce comme Magento ou Prestashop existent dans le commerce. Elles vous permettront de constituer la base de votre e-shop. Il vous faudra compl\u00e9ter la plateforme par une solution technologique de paiement en ligne...",
-            "date": "2015-04-20",
+        "24presse.com/2015/04/l-expert-logistique-teambask-choisit-la-solution-de-gestion-d-entrep%C3%B4t": {
+            "title": "L'expert logistique TeamBask choisit la solution de gestion d'entrep\u00f4t Wileo d'ACLEA...",
+            "snippet": "Ils y trouveront une solution performante, coupl\u00e9e aux logiciels Prestashop Magento et Odoo en standard. TeamBask, jeune soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans le conseil et surtout dans la prestation de services logistiques externalis\u00e9s a ainsi choisi...",
+            "date": "2015-04-17",
             "categories": "magento",
-            "tags": "plateformes,solution,ligne,commerce,magento,prestashop",
-            "recuweb_url": "http://fr.recuweb.com/magento/dynamique-mag.com/2015/04/d%C3%A9finir-le-but-d-une-pr%C3%A9sence-en-ligne",
+            "tags": "ainsi,standard,prestashop,prestashop_magento,magento,solution,gestion",
+            "recuweb_url": "http://fr.recuweb.com/magento/24presse.com/2015/04/l-expert-logistique-teambask-choisit-la-solution-de-gestion-d-entrep%C3%B4t",
             "resource_url": "http://www.bing.com/news/search?first=1&q=magento&format=RSS&cc=fr",
-            "source_url": "http://dynamique-mag.com/article/definir-but-presence-ligne.6413"
+            "source_url": "http://24presse.com/tech_l_expert_logistique_teambask_choisit_la_solution_de_gestion_d_entrepot_wileo_d_aclea-search-9916839-4-Tech.html"
         }
     }
 }
