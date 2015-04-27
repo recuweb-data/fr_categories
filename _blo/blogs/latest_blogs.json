@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,67 +11,36 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
-        "bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-la-zone-euro-alourdie-par-gr%C3%A8ce": {
-            "title": "Coulisses de Bruxelles - La zone euro alourdie par la Gr\u00e8ce...",
-            "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9 Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
-            "date": "2015-04-22",
-            "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
-            "tags": "lib\u00e9,d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,coulisses,bruxelles,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,accueil",
-            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-la-zone-euro-alourdie-par-gr%C3%A8ce",
+        "blogs.msdn.com/2015/04/support-de-sql-server-2014-par-configmgr-2012-et-msdn-blogs": {
+            "title": "Support de SQL Server 2014 par ConfigMgr 2012 et... - MSDN Blogs...",
+            "snippet": "Organisation, processus, technologie: JPhD's blog. Jean-Philippe DUPUICH... Mouhamadou Diallo's Blog. SharePoint, Office 365, Azure et autres... Blog d'\u00e9quipe S\u00e9curit\u00e9 & Identit\u00e9 - Microsoft Services. 15 consultants...",
+            "date": "2015-04-27",
+            "author_name": "St\u00e9phane PAPP",
+            "categories": "technologie",
+            "tags": "autres,jean",
+            "recuweb_url": "http://fr.recuweb.com/technologie/blogs.msdn.com/2015/04/support-de-sql-server-2014-par-configmgr-2012-et-msdn-blogs",
             "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/22/la-zone-euro-alourdie-par-la-grece/"
+            "source_url": "http://blogs.msdn.com/b/spapp/archive/2015/04/27/support-de-sql-server-2014-par-configmgr-2012-et-r-233-cup-233-ration.aspx"
         },
-        "bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-l-ue-une-affaire-politico-m%C3%A9diatique": {
-            "title": "Coulisses de Bruxelles - L'UE, une affaire Politico-m\u00e9diatique...",
-            "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9 Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
-            "date": "2015-04-21",
-            "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
-            "tags": "lib\u00e9,d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,coulisses,bruxelles,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,accueil",
-            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-l-ue-une-affaire-politico-m%C3%A9diatique",
-            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/21/lue-une-affaire-politico-mediatique/"
+        "cafe-sciences.org/2015/04/veille-de-blogs-la-semaine-du-20-04-au-26-2015": {
+            "title": "Veille de blogs de la semaine du 20/04 au 26/04/2015 Caf\u00e9 des...",
+            "snippet": "La semaine pr\u00e9c\u00e9dente, sur le Cf\u00e9 des Sciences L'image de la semaine: Vu sur Philosophie des sciences dans Les objets math\u00e9matiques existent-ils.",
+            "date": "2015-04-26",
+            "author_name": "Dr Eric SIMON",
+            "categories": "science",
+            "tags": "existent,semaine",
+            "recuweb_url": "http://fr.recuweb.com/science/cafe-sciences.org/2015/04/veille-de-blogs-la-semaine-du-20-04-au-26-2015",
+            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cafe-sciences.org/billets/veille-de-blogs-de-la-semaine-du-2004-au-26042015/"
         },
-        "blog.mondediplo.net/2015/04/d%C3%A9bats-autour-de-la-loi-sur-le-renseignement-les-blogs": {
-            "title": "D\u00e9bats autour de la loi sur le renseignement - Les blogs du Diplo...",
-            "snippet": "Jug\u00e9e par certains liberticide, la nouvelle loi fran\u00e7aise sur le renseignement, examin\u00e9e ces derniers jours par l'Assembl\u00e9e nationale selon une proc\u00e9dure acc\u00e9l\u00e9r\u00e9e, devrait \u00eatre vot\u00e9e solennellement le 5 mai prochain, avant...",
-            "date": "2015-04-17",
-            "author_name": "Philippe Leymarie",
-            "tags": "\u00eatre,diplo,avant",
-            "recuweb_url": "http://fr.recuweb.com/blog.mondediplo.net/2015/04/d%C3%A9bats-autour-de-la-loi-sur-le-renseignement-les-blogs",
-            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.mondediplo.net/2015-04-17-Debats-autour-de-la-loi-sur-le-renseignement"
-        },
-        "chantalserriere.blog.lemonde.fr/2015/04/beaux-cerfs-volants-que-sont-les-blogs-ecritures-du-monde": {
-            "title": "Beaux cerfs-volants que sont les blogs Ecritures du monde...",
-            "snippet": "Un blog, finalement, c'est \u00e9trangement vivant; \u00e7a court tout seul et \u00e7a s'arr\u00eate. Essouffl\u00e9; \u00e7a s'endort et se r\u00e9veille. Un peu, beaucoup. Ces blogs, ces sites, ces tweets, ces pages facebook dont nous ignorions tout il y a quinze...",
-            "date": "2015-04-16",
-            "author_name": "Chantal Serriere",
-            "categories": "facebook",
-            "tags": "sites,monde,beaux,peu",
-            "recuweb_url": "http://fr.recuweb.com/facebook/chantalserriere.blog.lemonde.fr/2015/04/beaux-cerfs-volants-que-sont-les-blogs-ecritures-du-monde",
-            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://chantalserriere.blog.lemonde.fr/2015/04/16/beaux-cerfs-volants-que-sont-les-blogs/"
-        },
-        "bruxelles.blogs.liberation.fr/2015/03/le-monolinguisme-anglophone-une-mauvaise-action-contre-l-europe": {
-            "title": "Le monolinguisme anglophone, une mauvaise action contre l'Europe...",
+        "bruxelles.blogs.liberation.fr/2015/04/le-non-dit-europ%C3%A9en-lit-du-fn-coulisses-de-bruxelles-lib%C3%A9ration": {
+            "title": "Le non-dit europ\u00e9en, le lit du FN - Coulisses de Bruxelles - Lib\u00e9ration...",
             "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements. Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9. Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
-            "date": "2015-03-31",
+            "date": "2015-04-15",
             "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
-            "tags": "d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,lib\u00e9,coulisses,bruxelles,accueil",
-            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/03/le-monolinguisme-anglophone-une-mauvaise-action-contre-l-europe",
+            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/le-non-dit-europ%C3%A9en-lit-du-fn-coulisses-de-bruxelles-lib%C3%A9ration",
             "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/01/le-monolinguisme-anglophone-une-mauvaise-action-contre-leurope/"
-        },
-        "blog.mondediplo.net/2015/03/une-fabuleuse-d%C3%A9couverte-sur-l-islam-les-blogs-du-diplo": {
-            "title": "Une fabuleuse d\u00e9couverte sur l'islam - Les blogs du Diplo...",
-            "snippet": "Et on l'a deja dit plusieurs fois sur ce blog: parler de \"musulmans moderes\" est deja faire preuve d'une insidieuse et perfide islamophobie, puisque cela veut presupposer que l'Islam est en soi extremiste. permalien Sarah:.",
-            "date": "2015-03-27",
-            "author_name": "Alain Gresh",
-            "categories": "islam",
-            "tags": "plusieurs,diplo",
-            "recuweb_url": "http://fr.recuweb.com/islam/blog.mondediplo.net/2015/03/une-fabuleuse-d%C3%A9couverte-sur-l-islam-les-blogs-du-diplo",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.mondediplo.net/2015-03-27-Une-fabuleuse-decouverte-sur-l-islam"
+            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/15/le-non-dit-europeen-le-lit-du-fn/"
         },
         "knittedart.wordpress.com/2014/08/recommended-blogs-recommand%C3%A9s": {
             "title": "Recommended blogs/Blogs recommand\u00e9s...",
