@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "socialisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/socialisme/",
@@ -10,6 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/socialisme/socialisme/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/the-balkany-remix-marre-du-socialisme-da-shitmaker": {
+            "title": "The Balkany Remix - Marre Du Socialisme - Da Shitmaker...",
+            "snippet": "The Balkany Remix - Marre Du Socialisme - Da ShitmakerAuthor: EtronLibreTags: balkany remix Posted: 22 April 2015Rating:: 0...",
+            "date": "2015-04-22",
+            "author_name": "EtronLibre",
+            "categories": "socialisme",
+            "tags": "socialisme",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/dailymotion.com/2015/04/the-balkany-remix-marre-du-socialisme-da-shitmaker",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/socialisme+socialisme/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nl0mj_the-balkany-remix-marre-du-socialisme-da-shitmaker_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nl0mj_the-balkany-remix-marre-du-socialisme-da-shitmaker_music"
+        },
+        "youtube.com/2015/04/c-dans-l-air-nouveau-le-socialisme-productif-france-5": {
+            "title": "C dans l'air: Nouveau - le socialisme productif - France 5...",
+            "snippet": "C dans l'air: Nouveau - le socialisme productif - France 5 R\u00e9sum\u00e9: La campagne du congr\u00e8s de Poitiers est lanc\u00e9e chez les socialistes. Le Conseil national, sorte de \"parlement\" du parti, a ent\u00e9rin\u00e9 ce samedi les quatre motions concurrentes...",
+            "date": "2015-04-14",
+            "author_name": "Fran\u00e7ais Tube",
+            "categories": "socialisme",
+            "tags": "parti,socialisme,nouveau,national",
+            "recuweb_url": "http://fr.recuweb.com/socialisme/youtube.com/2015/04/c-dans-l-air-nouveau-le-socialisme-productif-france-5",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=socialisme%2Bsocialisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=S9fJXKo-UvA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/S9fJXKo-UvA/0.jpg"
+        },
         "dailymotion.com/2015/03/film-socialisme-bande-annonce": {
             "title": "FILM SOCIALISME - Bande-annonce...",
             "snippet": "Bande-annonce de Film Socialisme, sortie le 19/05/2010Un film de Jean-Luc GodardAvec Catherine Tanvier, Christian Sinniger, Agatha Couture et Jean-Marc Stehl\u00e9En savoir plus sur le film:: Film Socialisme est un film franco-suisse r\u00e9alis\u00e9 par...",
@@ -28,27 +53,15 @@
             "date": "2015-02-27",
             "author_name": "francetvinfo",
             "categories": "socialisme",
-            "tags": "socialisme",
+            "tags": "parti,socialisme",
             "recuweb_url": "http://fr.recuweb.com/socialisme/dailymotion.com/2015/02/brevet-de-socialisme-pour-emmanuel-macron",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/socialisme+socialisme/0?af=1",
             "source_url": "http://dailymotion.com/video/x2i9eo1_brevet-de-socialisme-pour-emmanuel-macron_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2i9eo1_brevet-de-socialisme-pour-emmanuel-macron_news"
         },
-        "youtube.com/2015/02/l-histoire-du-national-socialisme-avant-la-guerre-mondiale-par-roger": {
-            "title": "L'histoire du National Socialisme avant la guerre mondiale par Roger Dommergues...",
-            "snippet": "L'histoire du National Socialisme avant la guerre mondiale par Roger Dommergues Documentaire en 6 parties diffus\u00e9 sur Plan\u00e8te sur le nazisme comment\u00e9 par Ian Kershaw, expert historique reconnus, notamment pour la biographie d'Hitler en d.",
-            "date": "2015-02-07",
-            "author_name": "aegksea rhrazw",
-            "categories": "socialisme",
-            "tags": "notamment,historique,national,socialisme,histoire",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/youtube.com/2015/02/l-histoire-du-national-socialisme-avant-la-guerre-mondiale-par-roger",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=socialisme%2Bsocialisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=5Ch__wbIjWA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/5Ch__wbIjWA/0.jpg"
-        },
         "youtube.com/2014/10/alain-de-benoist-sur-le-socialisme-fran%C3%A7ais": {
             "title": "Alain de Benoist sur le socialisme fran\u00e7ais...",
-            "snippet": "Alain de Benoist sur le socialisme fran\u00e7ais From: Jeremy Z Views: 1564 6 ratings Time: 43:40 More in News & Politics...",
+            "snippet": "Alain de Benoist sur le socialisme fran\u00e7ais From: Jeremy Z Views: 1696 7 ratings Time: 43:40 More in News & Politics...",
             "date": "2014-10-22",
             "author_name": "Jeremy Z",
             "categories": "socialisme",
@@ -60,7 +73,7 @@
         },
         "youtube.com/2014/09/socialisme-et-communisme-en-allemagne-histoire-g%C3%A9o-terminale-les-bons-profs": {
             "title": "Socialisme et communisme en Allemagne - Histoire-G\u00e9o - Terminale - Les Bons Profs...",
-            "snippet": "Socialisme et communisme en Allemagne - Histoire-G\u00e9o - Terminale - Les Bons Profs Une composition sur le socialisme et le communisme en Allemagne au XX\u00e8me. From: Les Bons Profs Views: 10079 72 ratings Time: 07:58 More in Education...",
+            "snippet": "Socialisme et communisme en Allemagne - Histoire-G\u00e9o - Terminale - Les Bons Profs Une composition sur le socialisme et le communisme en Allemagne au XX\u00e8me. From: Les Bons Profs Views: 10604 75 ratings Time: 07:58 More in Education...",
             "date": "2014-09-26",
             "author_name": "Les Bons Profs",
             "categories": "socialisme,communisme",
@@ -76,7 +89,7 @@
             "date": "2014-09-21",
             "author_name": "Vincent Reynouard",
             "categories": "socialisme",
-            "tags": "annonce,vincent,vincent_reynouard,reynouard,national,socialisme",
+            "tags": "nouveau,annonce,national,socialisme",
             "recuweb_url": "http://fr.recuweb.com/socialisme/youtube.com/2014/09/la-r%C3%A9ussite-sociale-du-national-socialisme-plaidoyer-pour-un-rassemblement",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=socialisme%2Bsocialisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0PiAby4ed8Y&feature=youtube_gdata",
@@ -84,7 +97,7 @@
         },
         "youtube.com/2014/09/le-progr%C3%A8s-du-socialisme": {
             "title": "Le progr\u00e8s du socialisme...",
-            "snippet": "Le progr\u00e8s du socialisme Les \"socialistes\" fran\u00e7ais red\u00e9finissent le Socialisme. Marx, Orwell, Chavez, doivent se retourner dans leurs tombes. Page Facebook de JOVTOD: From: JOVTOD Views: 76919 487 ratings Time: 04:15 More in Comedy...",
+            "snippet": "Le progr\u00e8s du socialisme Les \"socialistes\" fran\u00e7ais red\u00e9finissent le Socialisme. Marx, Orwell, Chavez, doivent se retourner dans leurs tombes. Page Facebook de JOVTOD: From: JOVTOD Views: 77017 488 ratings Time: 04:15 More in Comedy...",
             "date": "2014-09-08",
             "author_name": "JOVTOD",
             "categories": "facebook,socialisme",
@@ -100,27 +113,15 @@
             "date": "2014-07-23",
             "author_name": "Soraj 2",
             "categories": "socialisme",
-            "tags": "historique,notamment,socialisme,national,alain",
+            "tags": "socialisme,national,alain",
             "recuweb_url": "http://fr.recuweb.com/socialisme/youtube.com/2014/07/alain-soral-synth%C3%A8se-sur-le-national-socialisme",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=socialisme%2Bsocialisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=rEpLkodtJTE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rEpLkodtJTE/0.jpg"
         },
-        "youtube.com/2014/07/r%C3%A9habiliter-le-national-socialisme-c-est-quoi-par-vincent-reynouard": {
-            "title": "R\u00e9habiliter le national socialisme, c'est quoi? Par Vincent Reynouard...",
-            "snippet": "R\u00e9habiliter le national socialisme, c'est quoi? Par Vincent Reynouard From: Le Faucon Ivre Views: 2912 25 ratings Time: 48:53 More in Education...",
-            "date": "2014-07-19",
-            "author_name": "Le Faucon Ivre",
-            "categories": "socialisme",
-            "tags": "vincent,vincent_reynouard,reynouard,national,socialisme,education",
-            "recuweb_url": "http://fr.recuweb.com/socialisme/youtube.com/2014/07/r%C3%A9habiliter-le-national-socialisme-c-est-quoi-par-vincent-reynouard",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=socialisme%2Bsocialisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Vd1Tz0PgQvg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Vd1Tz0PgQvg/0.jpg"
-        },
         "youtube.com/2014/02/socialisme-et-mouvement-ouvrier-en-allemagne-2": {
             "title": "SOCIALISME ET MOUVEMENT OUVRIER EN ALLEMAGNE (2)...",
-            "snippet": "SOCIALISME ET MOUVEMENT OUVRIER EN ALLEMAGNE (2) COURS D'HISTOIRE POUR LE BAC. From: Evelyne Beraud Views: 9238 73 ratings Time: 10:10 More in Education...",
+            "snippet": "SOCIALISME ET MOUVEMENT OUVRIER EN ALLEMAGNE (2) COURS D'HISTOIRE POUR LE BAC. From: Evelyne Beraud Views: 9386 73 ratings Time: 10:10 More in Education...",
             "date": "2014-02-09",
             "author_name": "Evelyne Beraud",
             "categories": "socialisme",
