@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "mondialisation",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mondialisation/",
@@ -10,25 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/blogs.json"
     },
     "items": {
-        "la-croix.com/2015/04/les-nouvelles-r%C3%A8gles-du-jeu-dans-la-mondialisation": {
-            "title": "Les nouvelles r\u00e8gles du jeu dans la mondialisation...",
-            "snippet": "Qui d\u00e9cide du droit de la mondialisation? Les trait\u00e9s internationaux, aurait-on r\u00e9pondu il y a cinquante ans. Aujourdhui, la r\u00e9ponse est plus incertaine comme la montr\u00e9 l\u00e9mission sur les diff\u00e9rentes visions de la mondialisation.",
-            "date": "2015-04-09",
+        "heralddeparis.com/2015/04/la-mondialisation-heureuse-mode-demploi": {
+            "title": "La mondialisation heureuse, mode demploi...",
+            "snippet": "Anxiog\u00e8nes, les d\u00e9bats autour du projet daccord transatlantique? De quoi sagit-il exactement? Et quels sont les risques pour les populations?/Commerce international, Droit international, \u00c9tat, Lib\u00e9ralisme 2014/06...",
+            "date": "2015-04-24",
             "categories": "mondialisation",
-            "tags": "mondialisation",
-            "recuweb_url": "http://fr.recuweb.com/mondialisation/la-croix.com/2015/04/les-nouvelles-r%C3%A8gles-du-jeu-dans-la-mondialisation",
+            "tags": "autour,mode,mondialisation,commerce,international",
+            "recuweb_url": "http://fr.recuweb.com/mondialisation/heralddeparis.com/2015/04/la-mondialisation-heureuse-mode-demploi",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mondialisation&format=RSS&cc=fr",
-            "source_url": "http://la-croix.com/Articles-du-Forum/Les-nouvelles-regles-du-jeu-dans-la-mondialisation-2015-04-09-1300453"
+            "source_url": "http://heralddeparis.com/la-mondialisation-heureuse-mode-demploi/252096"
         },
-        "science21.blogs.courrierinternational.com/2015/04/hollande-valls-et-la-mondialisation-du-capitalisme-i-courrier-international-blogs": {
-            "title": "Hollande, Valls et la mondialisation du capitalisme (I) - Courrier International Blogs (Blog)...",
-            "snippet": "Hollande, Valls et la mondialisation du capitalisme (I)Courrier International Blogs (Blog)Le 6 avril 2015, Le Quotidien de la R\u00e9union publie un article intitul\u00e9 Mondialisation ou mise au pas?. L'essence de la mondialisation du capitalisme y est...",
-            "date": "2015-04-07",
-            "categories": "capitalisme,mondialisation",
-            "tags": "capitalisme,mondialisation",
-            "recuweb_url": "http://fr.recuweb.com/mondialisation/science21.blogs.courrierinternational.com/2015/04/hollande-valls-et-la-mondialisation-du-capitalisme-i-courrier-international-blogs",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation%2Bmondialisation&output=atom&nord=1",
-            "source_url": "http://science21.blogs.courrierinternational.com/archive/2015/04/06/hollande-valls-et-la-mondialisation-du-capitalisme-i-50796.html"
+        "lefigaro.fr/2015/04/la-mondialisation-du-commerce-marque-un-coup-d-arr%C3%AAt-selon": {
+            "title": "La mondialisation du commerce marque un coup d'arr\u00eat selon le... - Le Figaro...",
+            "snippet": "Le FigaroLa mondialisation du commerce marque un coup d'arr\u00eat selon le...Le FigaroLe pot de yaourt est devenu l'un des objets symboles de la mondialisation. Il lui faut parcourir des milliers de kilom\u00e8tres pour aller du pis de la vache fran\u00e7aise...",
+            "date": "2015-04-20",
+            "categories": "mondialisation",
+            "tags": "vache,devenu,selon,commerce,marque,mondialisation",
+            "recuweb_url": "http://fr.recuweb.com/mondialisation/lefigaro.fr/2015/04/la-mondialisation-du-commerce-marque-un-coup-d-arr%C3%AAt-selon",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation&output=atom&nord=1",
+            "source_url": "http://lefigaro.fr/conjoncture/2015/04/20/20002-20150420ARTFIG00062-la-mondialisation-du-commerce-marque-un-coup-d-arret-selon-le-fmi-et-l-omc.php"
+        },
+        "finance.blog.lemonde.fr/2015/04/la-mondialisation-financi%C3%A8re-est-elle-incontr%C3%B4lable": {
+            "title": "La mondialisation financi\u00e8re est-elle incontr\u00f4lable?",
+            "snippet": "Les r\u00e9unions du printemps du Fonds Mon\u00e9taire ont une caract\u00e9ristique: elles attirent moins de medias et de monde que les Assembl\u00e9es G\u00e9n\u00e9rales de lautomne. Elles permettent \u00e9galement des discussions plus s\u00e9rieuses sur les probl\u00e8mes de fond...",
+            "date": "2015-04-19",
+            "categories": "mondialisation",
+            "tags": "monde,mondialisation",
+            "recuweb_url": "http://fr.recuweb.com/mondialisation/finance.blog.lemonde.fr/2015/04/la-mondialisation-financi%C3%A8re-est-elle-incontr%C3%B4lable",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mondialisation&format=RSS&cc=fr",
+            "source_url": "http://finance.blog.lemonde.fr/2015/04/20/la-mondialisation-financiere-est-elle-incontrolable/"
+        },
+        "latribune.fr/2015/04/la-mondialisation-booste-l-industrie-du-cin%C3%A9ma-en-ile-de-france": {
+            "title": "La mondialisation booste l'industrie du cin\u00e9ma en Ile-de-France - La...",
+            "snippet": "La mondialisation booste l'industrie du cin\u00e9ma en Ile-de-FranceLa audiovisuelle La s\u00e9rie Versailles pour Canal est l'une des rares productions visant l'international (Cr\u00e9dits: Canal) Jean-Pierre Gonguet 18/04/2015, 9:00 - 801 mots La production...",
+            "date": "2015-04-18",
+            "categories": "mondialisation",
+            "tags": "mondialisation,france,international",
+            "recuweb_url": "http://fr.recuweb.com/mondialisation/latribune.fr/2015/04/la-mondialisation-booste-l-industrie-du-cin%C3%A9ma-en-ile-de-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation&output=atom&nord=1",
+            "source_url": "http://latribune.fr/technos-medias/medias/la-mondialisation-booste-l-industrie-du-cinema-en-ile-de-france-470073.html"
         },
         "fr.news.yahoo.com/2015/04/le-v%C3%A9ritable-ennemi-de-lautonomie-ce-nest-pas-socialisme-ni": {
             "title": "Le v\u00e9ritable ennemi de lautonomie, ce nest pas le socialisme ni la \"pens\u00e9e 68\", mais bien le...",
@@ -45,7 +66,7 @@
             "snippet": "Selon l'auteur, la France, pays des libert\u00e9s, meurt de ses interdits. Ce n'est pas la mondialisation, l'Europe ou le capitalisme sauvage qui nous menacent, mais l'enlisement dans la servitude volontaire. L'Etat est devenu le bourreau de nos...",
             "date": "2015-04-06",
             "categories": "capitalisme,mondialisation",
-            "tags": "devenu,devenu-le-bourreau,bourreau,enlisement,servitude,servitude-volontaire,volontaire,capitalisme,capitalisme-sauvage,sauvage,menacent,meurt,interdits,pays,pays-des-libert\u00e9s,libert\u00e9s,point,selon,auteur,france,mondialisation,europe,etat",
+            "tags": "devenu,devenu-le-bourreau,bourreau,enlisement,servitude,servitude-volontaire,volontaire,capitalisme,capitalisme-sauvage,sauvage,menacent,meurt,interdits,pays,pays-des-libert\u00e9s,libert\u00e9s,point,autour,selon,auteur,france,mondialisation,europe,etat",
             "recuweb_url": "http://fr.recuweb.com/mondialisation/fr.news.yahoo.com/2015/04/le-mod%C3%A8le-r%C3%A9volutionnaire-de-marx-ou-quand-letat-au-centre",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=mondialisation",
             "source_url": "http://fr.news.yahoo.com/mod\u00e8le-r\u00e9volutionnaire-marx-l-etat-au-centre-point-085137153--finance.html"
