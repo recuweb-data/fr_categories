@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -16,7 +16,7 @@
             "snippet": "Tuto PostgreSQL, la haute disponibilit\u00e9 (11/13) Pr\u00e9sentation de Slony Cette vid\u00e9o/tutorial fait partie de la formation PostgreSQL, la haute disponibilit\u00e9,r\u00e9alis\u00e9e par Noureddine DRISSI pour Vous trouverez la formation compl\u00e8te ici:.... From:...",
             "date": "2014-12-17",
             "author_name": "alphorm.com",
-            "tags": "formation,noureddine,r\u00e9alis\u00e9e,tutorial,tutorial-fait-partie,gresql",
+            "tags": "formation,ici,noureddine,r\u00e9alis\u00e9e,tutorial,tutorial-fait-partie,gresql",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/12/tuto-postgresql-la-haute-disponibilit%C3%A9-11-13-pr%C3%A9sentation-de-slony",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=6yzJU829--M&feature=youtube_gdata",
@@ -39,7 +39,7 @@
             "snippet": "Cette D\u00e9mo montre comment l'outil de migration SQLWays convertit la base de donn\u00e9es Microsoft SQL Server vers PostgreSQL. Pour en savoir plus: ispirer_systemsTags: Microsoft SQL Server Data migration base de donn\u00e9es PostreSQL migration de...",
             "date": "2014-11-26",
             "author_name": "ispirer_systems",
-            "tags": "base,base-de-donn\u00e9es,donn\u00e9es,sql,gresql",
+            "tags": "base,base-de-donn\u00e9es,donn\u00e9es,outil,gresql",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2014/11/d%C3%A9mo-de-migration-base-donn%C3%A9es-ms-sql-server-vers-postgresql",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/postgresql+postgresql/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b40y5_demo-de-migration-de-base-de-donnees-ms-sql-server-vers-postgresql_tech",
@@ -106,22 +106,22 @@
             "snippet": "Postgresql Tutorial 41: Cr\u00e9er une table au sein d'une base de donn\u00e9es La cr\u00e9ation de table permet l'incorporation de donn\u00e9es num\u00e9rique ou textuelles. C'est \u00e0 partir des tables que l'on d\u00e9finit les cl\u00e9s primaires et \u00e9trang\u00e8res, les...",
             "date": "2012-08-14",
             "author_name": "TutorielGeo : Geomatic Tutorial / GIS Tutorial / Webmapping tutorial",
-            "tags": "table,donn\u00e9es,base,base-de-donn\u00e9es,sein,gresql,tutorial",
+            "tags": "donn\u00e9es,base,base-de-donn\u00e9es,gresql,tutorial",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/08/postgresql-tutorial-41-cr%C3%A9er-une-table-au-sein-d-base",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=e8jujOyG6T0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/e8jujOyG6T0/0.jpg"
         },
-        "youtube.com/2012/08/postgresql-tutorial-42-ajout-de-lignes-donn%C3%A9es-au-sein-d": {
-            "title": "Postgresql Tutorial 42: Ajout de lignes de donn\u00e9es au sein d'une table...",
-            "snippet": "Postgresql Tutorial 42: Ajout de lignes de donn\u00e9es au sein d'une table Il est parfois n\u00e9cessaire de rajouter des donn\u00e9es manuellement au sein d'un table. Grce \u00e0 des lignes de codes SQL, cela peut se faire relativement rapidement. La commande...",
-            "date": "2012-08-14",
-            "author_name": "TutorielGeo : Geomatic Tutorial / GIS Tutorial / Webmapping tutorial",
-            "tags": "table,donn\u00e9es,sein,gresql,tutorial,sql",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/08/postgresql-tutorial-42-ajout-de-lignes-donn%C3%A9es-au-sein-d",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=g0U_yklBs1g&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/g0U_yklBs1g/0.jpg"
+        "dailymotion.com/2012/03/restaurer-un-contexte-dans-openerp": {
+            "title": "Restaurer un contexte dans OpenErp...",
+            "snippet": "D\u00e9monstration de la restauration d'un contexte OpenERP, ici Specibike, en utilisant l'outil d'administration du SGBDR PostgreSQL, le logiciel pgAdmin: reseaucertaTags: STMG R\u00e9seau Certa PGI OpenERP restauration contexte pgAdmin III bases Posted:...",
+            "date": "2012-03-13",
+            "author_name": "reseaucerta",
+            "tags": "bases,administration,outil,ici,gresql",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2012/03/restaurer-un-contexte-dans-openerp",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/postgresql+postgresql/0?af=1",
+            "source_url": "http://dailymotion.com/video/xpfd2w_restaurer-un-contexte-dans-openerp_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xpfd2w_restaurer-un-contexte-dans-openerp_tech"
         }
     }
 }
