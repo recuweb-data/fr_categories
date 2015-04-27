@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "hindouisme",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hindouisme/",
@@ -10,35 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hindouisme/hindouisme/blogs.json"
     },
     "items": {
-        "studyrama.com/2015/04/inde-informations-pratiques": {
-            "title": "Inde: informations pratiques...",
-            "snippet": "Religion: Un peu plus des 4/5\u00e8me de la population pratiquent lhindouisme. Il y a \u00e9galement des musulmans, des sikhs, et des chr\u00e9tiens. Le bouddhisme et le ja\u00efnisme ne sont plus beaucoup pratiqu\u00e9s. Sant\u00e9: Le risque de paludisme est faible...",
-            "date": "2015-04-16",
-            "categories": "bouddhisme,religion",
-            "tags": "bouddhisme,inde,religion",
-            "recuweb_url": "http://fr.recuweb.com/religion/studyrama.com/2015/04/inde-informations-pratiques",
+        "ici.radio-canada.ca/2015/04/des-d%C3%A9put%C3%A9s-veulent-le-maintien-de-la-pri%C3%A8re-aux-communes": {
+            "title": "Des d\u00e9put\u00e9s veulent le maintien de la pri\u00e8re aux Communes...",
+            "snippet": "Il fait donc allusion aux trois grandes religions monoth\u00e9istes - juda\u00efsme, christianisme et islam - et pourrait ainsi offenser des \u00e9lus pratiquant des religions polyth\u00e9istes comme l'hindouisme, fait remarquer la chef du Parti vert du Canada...",
+            "date": "2015-04-21",
+            "categories": "religion,christianisme,islam,hindouisme",
+            "tags": "hindouisme",
+            "recuweb_url": "http://fr.recuweb.com/hindouisme/ici.radio-canada.ca/2015/04/des-d%C3%A9put%C3%A9s-veulent-le-maintien-de-la-pri%C3%A8re-aux-communes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hindouisme&format=RSS&cc=fr",
-            "source_url": "http://studyrama.com/international/etudier-a-l-etranger/etudier-en-inde/inde-informations-pratiques-20039"
+            "source_url": "http://ici.radio-canada.ca/nouvelles/Politique/2015/04/21/001-deputes-ministres-priere.shtml"
         },
-        "newspress.fr/2015/04/assises-du-dialogue-interreligieux": {
-            "title": "Assises du dialogue interreligieux...",
-            "snippet": "Anne Graff pour l'hindouisme, Emine Mutlu pour l'islam, Janine Elkouby pour le juda\u00efsme, Alexandre Oancea pour l'orthodoxie et le Pasteur Rudi Popp pour le protestantisme. Bruno Michon, sociologue de l'\u00e9ducation et de la jeunesse, des religions et...",
-            "date": "2015-04-15",
-            "categories": "religion,protestantisme,hindouisme,islam",
-            "tags": "religions,juda\u00efsme,hindouisme,islam",
-            "recuweb_url": "http://fr.recuweb.com/islam/newspress.fr/2015/04/assises-du-dialogue-interreligieux",
+        "pyreneesinfo.fr/2015/04/des-vacances-au-mus%C3%A9e": {
+            "title": "Des vacances au Mus\u00e9e...",
+            "snippet": "Les jeudis 23 et 30 avril 2015: Lart du Tibet (pr\u00e9sentation de la section art du Tibet). Le vendredi 24 avril 2015: Lhindouisme expliqu\u00e9 (pr\u00e9sentation de la section Inde). R\u00e9servation obligatoire par t\u00e9l\u00e9phone au 05 59 22 78 78...",
+            "date": "2015-04-19",
+            "tags": "lhindouisme,inde",
+            "recuweb_url": "http://fr.recuweb.com/pyreneesinfo.fr/2015/04/des-vacances-au-mus%C3%A9e",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hindouisme&format=RSS&cc=fr",
-            "source_url": "http://newspress.fr/Communique_FR_288137_683.aspx"
+            "source_url": "http://pyreneesinfo.fr/actu/lactu-de-biarritz-les-vacances-au-musee-asiatica/48209/"
         },
-        "lectures.revues.org/2015/04/religion-et-libert%C3%A9": {
-            "title": "Religion et libert\u00e9...",
-            "snippet": "Ce volume convoque les meilleurs sp\u00e9cialistes des religions (juda\u00efsme, christianisme, islam, hindouisme, bouddhisme) et leurs diverses approches philosophiques (ph\u00e9nom\u00e9nologie, philosophie analytique, \u00e9thique, analyste des textes sacr\u00e9s,...",
-            "date": "2015-04-13",
-            "categories": "religion,christianisme,islam,hindouisme,bouddhisme",
-            "tags": "religions,religion,juda\u00efsme,islam,hindouisme,bouddhisme",
-            "recuweb_url": "http://fr.recuweb.com/bouddhisme/lectures.revues.org/2015/04/religion-et-libert%C3%A9",
+        "clicanoo.re/2015/04/explosion-de-couleurs-et-joie-pour-lan-5116": {
+            "title": "Explosion de couleurs et de joie pour lan 5116...",
+            "snippet": "Bienvenue dans le tourbillon du Holi holi! Cette tradition de lhindouisme - qui a r\u00e9uni, non seulement les malbars mais toutes les communaut\u00e9s qui composent la soci\u00e9t\u00e9 r\u00e9unionnaise venues des quatre coins de l'\u00eele - a \u00e9t\u00e9 remise au...",
+            "date": "2015-04-19",
+            "categories": "tradition",
+            "tags": "lhindouisme",
+            "recuweb_url": "http://fr.recuweb.com/tradition/clicanoo.re/2015/04/explosion-de-couleurs-et-joie-pour-lan-5116",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hindouisme&format=RSS&cc=fr",
-            "source_url": "http://lectures.revues.org/17668"
+            "source_url": "http://clicanoo.re/471233-explosion-de-couleurs-et-de-joie-pour-l-an-5116.html"
         }
     }
 }
