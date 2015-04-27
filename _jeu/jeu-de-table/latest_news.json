@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "jeu-de-table",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jeu-de-table/",
@@ -10,6 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeu-de-table/jeu-de-table/blogs.json"
     },
     "items": {
+        "lapresse.ca/2015/04/un-trentenaire-autiste-de-thurso-lance-jeu-soci%C3%A9t%C3%A9": {
+            "title": "Un trentenaire autiste de Thurso lance un jeu de soci\u00e9t\u00e9 -...",
+            "snippet": "trentenaire autiste de Thurso lance un jeu de soci\u00e9t\u00e9... sur son projet, avec le soutien de l'\u00e9quipe du CJEP et de la Table jeunesse Papineau. Amateur de longue date de jeux de table comme Carcassonne et Les Aventuriers du rail, M.",
+            "date": "2015-04-22",
+            "tags": "soci\u00e9t\u00e9,jeu,table,jeux",
+            "recuweb_url": "http://fr.recuweb.com/lapresse.ca/2015/04/un-trentenaire-autiste-de-thurso-lance-jeu-soci%C3%A9t%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jeu%2Bde%2Btable&output=atom&nord=1",
+            "source_url": "http://lapresse.ca/le-droit/actualites/petite-nation/201504/21/01-4863211-un-trentenaire-autiste-de-thurso-lance-un-jeu-de-societe.php"
+        },
+        "larep.fr/2015/04/test-le-jeu-de-soci%C3%A9t%C3%A9-la-semaine-loony-quest-r%C3%A9publique": {
+            "title": "Test Le jeu de soci\u00e9t\u00e9 de la semaine: Loony Quest - La R\u00e9publique du Centre...",
+            "snippet": "La R\u00e9publique du CentreTest Le jeu de soci\u00e9t\u00e9 de la semaine: Loony QuestLa R\u00e9publique du CentreOn place au centre de la table la boite de jeu sur laquelle est pos\u00e9e le premier des six niveaux du monde que vous allez devoir traverser. Avec, en...",
+            "date": "2015-04-19",
+            "categories": "place",
+            "tags": "soci\u00e9t\u00e9,jeu,table",
+            "recuweb_url": "http://fr.recuweb.com/place/larep.fr/2015/04/test-le-jeu-de-soci%C3%A9t%C3%A9-la-semaine-loony-quest-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jeu%2Bde%2Btable&output=atom&nord=1",
+            "source_url": "http://larep.fr/france-monde/loisirs/2015/04/19/test-le-jeu-de-societe-de-la-semaine-loony-quest_11408883.html"
+        },
         "gamergen.com/2015/03/magic-2015-table-ronde-la-french-touch-dans-les-jeux-vid%C3%A9o": {
             "title": "MAGIC 2015 - Table ronde La French Touch dans les jeux vid\u00e9o... - GAMERGEN (Inscription)...",
             "snippet": "GAMERGEN (Inscription)MAGIC 2015 - Table ronde La French Touch dans les jeux vid\u00e9o...GAMERGEN (Inscription)3 cam\u00e9ras, prise de son directe, vivez la table ronde avec Alain Damasio (Remember Me), Fr\u00e9d\u00e9rick Raynal (Alone in the Dark), \u00c9ric Chahi...",
