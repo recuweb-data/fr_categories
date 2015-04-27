@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "sport-motocycliste",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-motocycliste/",
@@ -10,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-motocycliste/sport-motocycliste/blogs.json"
     },
     "items": {
+        "ouest-france.fr/2015/04/la-fondation-vinci-s-engage-pour-s%C3%A9curit%C3%A9-des-motards": {
+            "title": "La fondation Vinci s'engage pour la s\u00e9curit\u00e9 des motards...",
+            "snippet": "Les 24 Heures moto se d\u00e9roulent sur le circuit Bugatti, au Mans, ce week-end. C'est l'un des plus grands \u00e9v\u00e9nements de sport motocycliste en France, qui r\u00e9unit plus de 70 000 spectateurs. Cette comp\u00e9tition rassemble de nombreux motards venant...",
+            "date": "2015-04-20",
+            "categories": "sport",
+            "tags": "nombreux,nombreux-motards,motards,grands,grands-\u00e9v\u00e9nements,\u00e9v\u00e9nements,sport,sport-motocyc,motocyc,heures,mans,france,spectateurs",
+            "recuweb_url": "http://fr.recuweb.com/sport/ouest-france.fr/2015/04/la-fondation-vinci-s-engage-pour-s%C3%A9curit%C3%A9-des-motards",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bmotocycliste&format=RSS&cc=fr",
+            "source_url": "http://ouest-france.fr/la-fondation-vinci-sengage-pour-la-securite-des-motards-3346476"
+        },
         "lanouvellerepublique.fr/2015/04/24-heures-du-mans-les-motards-veillent-la-nouvelle-r%C3%A9publique": {
             "title": "24 Heures du Mans: les motards veillent - la Nouvelle R\u00e9publique...",
             "snippet": "la Nouvelle R\u00e9publique24 Heures du Mans: les motards veillentla Nouvelle R\u00e9publiqueC'est l'un des grands \u00e9v\u00e9nements du sport motocycliste en France qui a r\u00e9uni plus de spectateurs l'an pass\u00e9. De nombreux motards viennent de toute la France...",
             "date": "2015-04-18",
             "categories": "sport",
-            "tags": "sport,sport-motocyc,motocyc,france",
+            "tags": "nombreux,nombreux-motards,motards,spectateurs,grands,grands-\u00e9v\u00e9nements,\u00e9v\u00e9nements,sport,sport-motocyc,motocyc,heures,mans,france",
             "recuweb_url": "http://fr.recuweb.com/sport/lanouvellerepublique.fr/2015/04/24-heures-du-mans-les-motards-veillent-la-nouvelle-r%C3%A9publique",
             "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bmotocycliste&output=atom&nord=1",
             "source_url": "http://lanouvellerepublique.fr/Indre-et-Loire/Actualite/24-Heures/n/Contenus/Articles/2015/04/18/24-Heures-du-Mans-les-motards-veillent-2298876"
