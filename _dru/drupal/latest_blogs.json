@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
-        "ews-techs.com/2015/04/utiliser-le-drupal-hook-permission-ews-techs": {
-            "title": "Utiliser le Drupal hook permission - ews techs...",
-            "snippet": "Pour cr\u00e9er une permission dans Drupal 7, rien de plus facile, avec le hook_permission. Exemples: sourcecode language=php function mon_module_permission().//Mes actions. actions=array(. 'ma permission'=array(.",
-            "date": "2015-04-15",
-            "author_name": "admin",
-            "categories": "php,drupal",
-            "tags": "cr\u00e9er,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/ews-techs.com/2015/04/utiliser-le-drupal-hook-permission-ews-techs",
-            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ews-techs.com/utilisation-des-permissions-dans-drupal/"
+        "404works.com/2015/04/d%C3%A9veloppeur-php-drupal-8-404works": {
+            "title": "D\u00e9veloppeur PHP Drupal 8 404Works...",
+            "snippet": "Profil et comp\u00e9tences techniques recherch\u00e9es: De formation sup\u00e9rieure en informatique et justifiant de plusieurs ann\u00e9es d'exp\u00e9rience en d\u00e9veloppement PHP5 Excellentes comp\u00e9tences en d\u00e9veloppement sur le CMS Drupal Maitrise...",
+            "date": "2015-04-27",
+            "author_name": "inconnu",
+            "categories": "drupal,php",
+            "tags": "cms,drupal,informatique,d\u00e9veloppeur",
+            "recuweb_url": "http://fr.recuweb.com/php/404works.com/2015/04/d%C3%A9veloppeur-php-drupal-8-404works",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://404works.com/annonce/developpeur-php-drupal-8"
+        },
+        "blog.netapsys.fr/2015/04/drupal-8-partie-1-les-nouvelles-fonctionnalit%C3%A9s-le-blog-netapsys": {
+            "title": "Drupal 8 partie 1: les nouvelles fonctionnalit\u00e9s Le blog Netapsys...",
+            "snippet": "Drupal 8, actuellement en beta 9, devrait sortir en version stable cet \u00e9t\u00e9. La version actuelle se rapproche donc fortement du produit final. Nous pouvons donc examiner sans plus attendre ce que nous r\u00e9serve le nouveau...",
+            "date": "2015-04-22",
+            "author_name": "Alexis Ravel",
+            "categories": "drupal",
+            "tags": "nouveau,beta,drupal,version,\u00e9t\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/drupal/blog.netapsys.fr/2015/04/drupal-8-partie-1-les-nouvelles-fonctionnalit%C3%A9s-le-blog-netapsys",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.netapsys.fr/drupal-8-partie-1-les-nouvelles-fonctionnalites-2/"
+        },
+        "blog.kaliop.com/2015/04/les-meilleures-moments-du-drupal-developer-days-2015": {
+            "title": "Les meilleures moments du Drupal Developer Days 2015...",
+            "snippet": "Revivez le meilleur des Drupal Developer Days avec notre Storify pr\u00e9par\u00e9 sp\u00e9cialement pour l'\u00e9v\u00e9nement Montpelli\u00e9rain!",
+            "date": "2015-04-20",
+            "author_name": "M\u00e9lanie Olivier",
+            "categories": "drupal",
+            "tags": "drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/blog.kaliop.com/2015/04/les-meilleures-moments-du-drupal-developer-days-2015",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.kaliop.com/blog/2015/04/20/les-meilleurs-moments-drupal-developer-days/"
         },
         "blog.kaliop.com/2015/03/ez-publish-vs-drupal-petit-guide-entre-2-mondes": {
             "title": "eZ Publish vs Drupal petit guide entre 2 mondes...",
@@ -28,7 +50,7 @@
             "date": "2015-03-27",
             "author_name": "Julien Fabre",
             "categories": "drupal",
-            "tags": "publish,drupal,cms",
+            "tags": "drupal,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/blog.kaliop.com/2015/03/ez-publish-vs-drupal-petit-guide-entre-2-mondes",
             "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.kaliop.com/blog/2015/03/27/ez-publish-vs-drupal-guide/"
@@ -39,7 +61,7 @@
             "date": "2015-03-23",
             "author_name": "inconnu",
             "categories": "drupal",
-            "tags": "notamment,modules,drupal,syst\u00e8mes",
+            "tags": "modules,drupal,notamment",
             "recuweb_url": "http://fr.recuweb.com/drupal/webmaster-hub.com/2015/03/drupal-multilinguisme-et-wamp-syst%C3%A8mes-de-publication",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://webmaster-hub.com/topic/55697-drupal-multilinguisme-et-wamp/"
@@ -61,7 +83,7 @@
             "date": "2014-11-24",
             "author_name": "la r\u00e9daction",
             "categories": "drupal",
-            "tags": "modules,communaut\u00e9,open,open-source,source,extensions,drupal,incontournables,cms",
+            "tags": "modules,communaut\u00e9,extensions,drupal,incontournables,cms,open,source",
             "recuweb_url": "http://fr.recuweb.com/drupal/wmn24.wordpress.com/2014/11/les-8-extensions-drupal-incontournables",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://wmn24.wordpress.com/2014/11/24/les-8-extensions-drupal-incontournables/"
@@ -72,21 +94,10 @@
             "date": "2014-11-10",
             "author_name": "Cibleweb formations",
             "categories": "drupal",
-            "tags": "jdn,jdn_web,web,cr\u00e9er,drupal,site,tech",
+            "tags": "jdn,jdn_web,web,drupal,site,tech",
             "recuweb_url": "http://fr.recuweb.com/drupal/ciblewebformations.wordpress.com/2014/11/10-distributions-drupal-pour-cr%C3%A9er-votre-site-jdn-web-&-tech",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://ciblewebformations.wordpress.com/2014/11/10/10-distributions-drupal-pour-creer-votre-site-jdn-web-tech-httpow-lyd/"
-        },
-        "breek.fr/2014/09/qu-est-ce-un-expert-drupal-blog-breek": {
-            "title": "Qu'est-ce qu'un expert Drupal? Blog Breek...",
-            "snippet": "Aujourd'hui, tout le monde est \"expert Drupal\". Pourtant, nous croisons tous les jours des clients/prospects dont les projets, r\u00e9alis\u00e9s par ces experts, doivent \u00eatre jet\u00e9s aux oubliettes puis reconstruits de z\u00e9ro. Je me souviens...",
-            "date": "2014-09-25",
-            "author_name": "sbordage",
-            "categories": "drupal",
-            "tags": "clients,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/breek.fr/2014/09/qu-est-ce-un-expert-drupal-blog-breek",
-            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://breek.fr/blog/quest-ce-quun-expert-drupal.html"
         },
         "weickmann.wordpress.com/2014/03/mars-2014-meetup-drupal": {
             "title": "Mars 2014: Meetup Drupal...",
@@ -94,21 +105,10 @@
             "date": "2014-03-30",
             "author_name": "weickmann",
             "categories": "drupal",
-            "tags": "drupal,version,cms",
+            "tags": "nouveau,drupal,version,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/weickmann.wordpress.com/2014/03/mars-2014-meetup-drupal",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://weickmann.wordpress.com/2014/03/30/mars-2014-meetup-drupal/"
-        },
-        "weickmann.wordpress.com/2014/01/rt-drupal-bordeaux-rendez-vous-ce-soir": {
-            "title": "RT drupal_bordeaux: Rendez-vous ce soir...",
-            "snippet": "RT drupal_bordeaux: Rendez-vous ce soir 19h, au Node, pour d\u00e9couvrir les Hooks Drupal, et \u00e9changer avec la communaut\u00e9 Drupal Bordealaise...",
-            "date": "2014-01-09",
-            "author_name": "weickmann",
-            "categories": "drupal",
-            "tags": "drupal,communaut\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/drupal/weickmann.wordpress.com/2014/01/rt-drupal-bordeaux-rendez-vous-ce-soir",
-            "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
-            "source_url": "http://weickmann.wordpress.com/2014/01/09/rt-drupal_bordeaux-rendez-vous-ce-soir/"
         }
     }
 }
