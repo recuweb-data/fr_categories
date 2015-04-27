@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "culture-populaire",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture-populaire/",
@@ -10,55 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/blogs.json"
     },
     "items": {
-        "fabula.org/2015/04/colloque-cultures-trash-dans-le-monde-francophone-londres": {
-            "title": "Colloque: Cultures trash dans le monde francophone (Londres)...",
-            "snippet": "Ce colloque prend comme point de d\u00e9part la d\u00e9finition m\u00eame du trash afin dencourager des r\u00e9\u00e9valuations critiques de la culture populaire contemporaine et de ses politiques culturelles. Il prend en compte des significations et...",
-            "date": "2015-04-10",
+        "lapresse.ca/2015/04/alain-gravel-je-ne-suis-pas-paul-arcand": {
+            "title": "Alain Gravel: Je ne suis pas Paul Arcand!",
+            "snippet": "\u00c7a me tente de faire de l'info, mais moins coinc\u00e9e, en partant de toutes sortes de choses. J'aime le v\u00e9lo, le ski de fond, la culture populaire, le cin\u00e9ma, les s\u00e9ries, la cuisine. J'ai envie d'\u00eatre nourri par les autres, d'\u00eatre en ondes,...",
+            "date": "2015-04-27",
+            "categories": "ski,culture",
+            "tags": "paul,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/lapresse.ca/2015/04/alain-gravel-je-ne-suis-pas-paul-arcand",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
+            "source_url": "http://lapresse.ca/arts/medias/201504/27/01-4864762-alain-gravel-je-ne-suis-pas-paul-arcand.php"
+        },
+        "journaldugeek.com/2015/04/amazing-french-tech-lhomme-augment%C3%A9-made-in-france": {
+            "title": "Amazing French Tech, lhomme augment\u00e9 made in France...",
+            "snippet": "Le gouvernement r\u00e9cidive en faisant rimer politique et culture populaire. D\u00e9couvrez Amazing French Tech, lhomme 100% augment\u00e9 grce aux innovations n\u00e9es des start up composant la French tech. Reconnaissance faciale, r\u00e9alit\u00e9 virtuelle...",
+            "date": "2015-04-27",
             "categories": "politique,culture",
-            "tags": "compte,cultures,culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/fabula.org/2015/04/colloque-cultures-trash-dans-le-monde-francophone-londres",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://fabula.org/actualites/cultures-trash-dans-le-monde-francophone_68041.php"
-        },
-        "booska-p.com/2015/04/gimmick-fast-and-furious-7-explose-tout-sur-son-passage-video": {
-            "title": "Gimmick: Fast and Furious 7 explose tout sur son passage! VIDEO...",
-            "snippet": "D\u00e9couvrez le meilleur de la culture populaire en quelques minutes dans l'\u00e9pisode 22 de la saison 02. Les actualit\u00e9s les plus chaudes seront pass\u00e9es au crible dans ce nouveau volet... N'oubliez pas que le buzz n'est qu'un bruit... Fast and...",
-            "date": "2015-04-09",
-            "categories": "culture",
             "tags": "culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/booska-p.com/2015/04/gimmick-fast-and-furious-7-explose-tout-sur-son-passage-video",
+            "recuweb_url": "http://fr.recuweb.com/culture/journaldugeek.com/2015/04/amazing-french-tech-lhomme-augment%C3%A9-made-in-france",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://booska-p.com/new-gimmick-fast-and-furious-7-explose-tout-sur-son-passage-video-n45421.html"
+            "source_url": "http://journaldugeek.com/2015/04/27/amazing-french-tech-homme-augmente/"
         },
-        "tomsguide.fr/2015/04/jurassic-park-a-raison-le-brontosaure-existe": {
-            "title": "Jurassic Park a raison: le Brontosaure existe...",
-            "snippet": "Sil fait partie des dinosaures les plus c\u00e9l\u00e8bres dans la culture populaire, le Brontosaure a vu son existence discut\u00e9e peu de temps apr\u00e8s sa d\u00e9couverte, alors quun pal\u00e9ontologue am\u00e9ricain avait d\u00e9clar\u00e9 en 1903 que le sp\u00e9cimen trouv\u00e9 en...",
-            "date": "2015-04-09",
+        "avoir-alire.com/2015/04/beyond-clueless-la-critique-du-film": {
+            "title": "Beyond Clueless - la critique du film...",
+            "snippet": "A la fois dr\u00f4le et original, le choix dun tel sujet, souvent d\u00e9consid\u00e9r\u00e9, refl\u00e8te la volont\u00e9 du r\u00e9alisateur de r\u00e9\u00e9valuer limportance de ces films au sein de la culture populaire. Genre typiquement am\u00e9ricain dont la popularit\u00e9 sest...",
+            "date": "2015-04-27",
             "categories": "culture",
-            "tags": "apr\u00e8s,existe,culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/tomsguide.fr/2015/04/jurassic-park-a-raison-le-brontosaure-existe",
+            "tags": "films,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/avoir-alire.com/2015/04/beyond-clueless-la-critique-du-film",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://tomsguide.fr/actualite/dinosaures-brontosaure,47003.html"
+            "source_url": "http://avoir-alire.com/beyond-clueless-la-critique-du-film"
         },
-        "tvanouvelles.ca/2015/04/la-collection-robert-lionel-s%C3%A9guin-est-devenue-un-boulet": {
-            "title": "La collection Robert-Lionel-S\u00e9guin est devenue un boulet...",
-            "snippet": "La collection de l'ethnologue Robert-Lionel-S\u00e9guin, qui compte 22 000 objets qui t\u00e9moignent du mode de vie des Qu\u00e9b\u00e9cois du 19e et 20e si\u00e8cle, est devenue un boulet pour le Mus\u00e9e qu\u00e9b\u00e9cois de culture populaire de Trois-Rivi\u00e8res, qui...",
-            "date": "2015-04-03",
-            "categories": "collection,culture",
-            "tags": "qu\u00e9b\u00e9cois,compte,lionel,mus\u00e9e,culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/tvanouvelles.ca/2015/04/la-collection-robert-lionel-s%C3%A9guin-est-devenue-un-boulet",
+        "larep.fr/2015/04/les-fantoches-loir%C3%A9tains-pour-la-st-jean": {
+            "title": "Les fantoches loir\u00e9tains pour la St-Jean...",
+            "snippet": "Les fantoches loir\u00e9tains pour la Saint-Jean. \u00c0 l'occasion de la Saint-Jean, l'ACLD (Association cultures et loisirs de Douchy) lance une grande action de culture populaire, les 20 et 21 juin: Les feux de la Saint-Jean. L'association... Le...",
+            "date": "2015-04-23",
+            "categories": "culture",
+            "tags": "cultures,culture,occasion,saint,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/larep.fr/2015/04/les-fantoches-loir%C3%A9tains-pour-la-st-jean",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://tvanouvelles.ca/lcn/infos/regional/troisrivieres/archives/2015/04/20150403-192350.html"
+            "source_url": "http://larep.fr/loiret/actualite/pays/gatinais/2015/04/24/les-fantoches-loiretains-pour-la-st-jean_11417273.html"
         },
-        "nordeclair.fr/2015/03/hellemmes-le-118-de-la-rue-jean-bart-une-maison-culture": {
-            "title": "Hellemmes: le 118 de la rue Jean-Bart, une maison de culture populaire...",
-            "snippet": "Cl\u00f4turant la f\u00eate annuelle du quartier organis\u00e9e en 1950 par lassociation la Commune libre de la rue Jean-Bart, une premi\u00e8re exposition de peinture fut mise en place dans la maison du 118. Initi\u00e9e par Jacques Scr\u00e9pel, pr\u00eatre-ouvrier, des...",
-            "date": "2015-03-31",
-            "categories": "peinture,place,culture",
-            "tags": "exposition,culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/nordeclair.fr/2015/03/hellemmes-le-118-de-la-rue-jean-bart-une-maison-culture",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://nordeclair.fr/info-locale/hellemmes-le-118-de-la-rue-jean-bart-une-maison-de-jna49b0n686197"
+        "politis.fr/2015/04/herv%C3%A9-kempf-paul-ari%C3%A8s-les-cultures-populaires-une-chance-pour-politis": {
+            "title": "Herv\u00e9 Kempf/Paul Ari\u00e8s: Les cultures populaires, une chance pour... - Politis...",
+            "snippet": "PolitisHerv\u00e9 Kempf/Paul Ari\u00e8s: Les cultures populaires, une chance pour...PolitisDans \u00c9cologie et cultures populaires, qui vient de para\u00eetre 2, Paul Ari\u00e8s, conteste ce point de vue. Si l'impact environnemental des milieux populaires reste plus...",
+            "date": "2015-04-18",
+            "categories": "culture",
+            "tags": "cultures,paul",
+            "recuweb_url": "http://fr.recuweb.com/culture/politis.fr/2015/04/herv%C3%A9-kempf-paul-ari%C3%A8s-les-cultures-populaires-une-chance-pour-politis",
+            "resource_url": "http://news.google.fr/?hl=fr&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&output=atom&nord=1",
+            "source_url": "http://politis.fr/Herve-Kempf-Paul-Aries-Les,30800.html"
         }
     }
 }
