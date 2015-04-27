@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pagerank/",
@@ -11,45 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "forum.webrankinfo.com/2015/03/pagerank-%C3%A9trange-forums-webrankinfo": {
-            "title": "Pagerank \u00e9trange - Forums WebRankInfo...",
-            "snippet": "Bonjour, J'ai un probl\u00e8me de pagerank je ne suis pas certain que c'est tjs d'actualit\u00e9 mais bon... J'ai cru comprendre que je ne pouvais pas...",
-            "date": "2015-03-20",
-            "author_name": "inconnu",
-            "categories": "pagerank",
-            "tags": "comprendre,forums,forums_webrankinfo,webrankinfo,pagerank,bonjour",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/forum.webrankinfo.com/2015/03/pagerank-%C3%A9trange-forums-webrankinfo",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/pagerank-etrange-t179734.html"
-        },
-        "forum.webrankinfo.com/2015/03/pagerank-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement-forums-webrankinfo": {
-            "title": "pagerank: D\u00e9buter en r\u00e9f\u00e9rencement - Forums WebRankInfo...",
-            "snippet": "bonjour excusez moi de vous d\u00e9ranger mais je viens de cr\u00e9er un blog canal blog et je m'appercois (alors qu'il est quasi vide) qu'il a un pagerank de 3 alors que mon blog principal qui a 5 ans d'existence a aussi un pagerank...",
-            "date": "2015-03-18",
-            "author_name": "inconnu",
-            "categories": "pagerank",
-            "tags": "aussi,bonjour,forums,forums_webrankinfo,webrankinfo,pagerank,d\u00e9buter,r\u00e9f\u00e9rencement",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/forum.webrankinfo.com/2015/03/pagerank-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement-forums-webrankinfo",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/pagerank-t179677.html"
-        },
-        "forum.webrankinfo.com/2015/02/comment-am%C3%A9liorer-mon-page-rank-forums-webrankinfo": {
-            "title": "Comment am\u00e9liorer mon page rank - Forums WebRankInfo...",
-            "snippet": "deux sites pointent avec plus de 100 liens, (je dois m'inqui\u00e9ter? Surtout que je sais pas comment c'est arriv\u00e9) - pr\u00e8s de 40 liens viennent de 18 sites avec page rank entre 7 et 2, - pr\u00e8s de 20 liens viennent de sites avec pr=0...",
-            "date": "2015-02-27",
-            "author_name": "inconnu",
-            "tags": "liens,forums,forums_webrankinfo,webrankinfo,am\u00e9liorer,page,rank,sites",
-            "recuweb_url": "http://fr.recuweb.com/forum.webrankinfo.com/2015/02/comment-am%C3%A9liorer-mon-page-rank-forums-webrankinfo",
-            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/comment-ameliorer-mon-page-rank-t179365.html"
-        },
         "forum.webrankinfo.com/2015/02/la-page-rank-toujours-d-actualit%C3%A9e-r%C3%A9f%C3%A9rencement-google": {
             "title": "la page rank toujours d'actualit\u00e9e?: R\u00e9f\u00e9rencement Google...",
             "snippet": "Bonjour, je vois toujours des sites qui affichent le page rank mais c'est toujours d'actualit\u00e9 ou pas le pr?",
             "date": "2015-02-02",
             "author_name": "inconnu",
             "categories": "google",
-            "tags": "toujours,r\u00e9f\u00e9rencement,google,page,rank,bonjour,sites",
+            "tags": "toujours,rank,r\u00e9f\u00e9rencement,google,page,bonjour,sites",
             "recuweb_url": "http://fr.recuweb.com/google/forum.webrankinfo.com/2015/02/la-page-rank-toujours-d-actualit%C3%A9e-r%C3%A9f%C3%A9rencement-google",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.webrankinfo.com/page-rank-toujours-actualitee-t178726.html"
@@ -60,7 +28,7 @@
             "date": "2015-01-26",
             "author_name": "Pascal Maupas",
             "categories": "google,pagerank",
-            "tags": "liens,qualit\u00e9,google,google_pagerank,pagerank",
+            "tags": "liens,google,google_pagerank,pagerank",
             "recuweb_url": "http://fr.recuweb.com/pagerank/hypertexte.fr/2015/01/google-pagerank-c-est-fini-hypertexte",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://hypertexte.fr/blog/google-pagerank-cest-fini/"
@@ -71,10 +39,21 @@
             "date": "2014-12-15",
             "author_name": "inconnu",
             "categories": "pagerank",
-            "tags": "bonjour,augmenter,pagerank,d\u00e9buter,r\u00e9f\u00e9rencement,sites,page,rank",
+            "tags": "bonjour,pagerank,r\u00e9f\u00e9rencement,sites,page,rank",
             "recuweb_url": "http://fr.recuweb.com/pagerank/forum.webrankinfo.com/2014/12/comment-augmenter-ma-pagerank-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.webrankinfo.com/comment-augmenter-pagerank-t177804.html"
+        },
+        "dsfc.net/2014/10/seo-penguin-pagerank-ou-nofollow-dsfc": {
+            "title": "SEO: Penguin, Pagerank ou nofollow? - Dsfc...",
+            "snippet": "Mon PageRank et mon AuthorRank je fais beaucoup de SMO ont augment\u00e9 concomitamment (???). Troisi\u00e8me hypoth\u00e8se: j'ai r\u00e9cemment pass\u00e9 tous les liens dans mes articles en nofollow. J'ai toujours cru que les liens...",
+            "date": "2014-10-22",
+            "author_name": "Denis Szalkowski",
+            "categories": "pagerank",
+            "tags": "toujours,liens,pagerank",
+            "recuweb_url": "http://fr.recuweb.com/pagerank/dsfc.net/2014/10/seo-penguin-pagerank-ou-nofollow-dsfc",
+            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dsfc.net/internet/referencement-internet/seo-penguin-pagerank-nofollow/"
         },
         "frdmoz.wordpress.com/2014/03/quest-ce-que-le-pagerank-de-google": {
             "title": "Quest ce que le PageRank de Google?",
@@ -82,7 +61,7 @@
             "date": "2014-03-10",
             "author_name": "frdmoz",
             "categories": "pagerank,google",
-            "tags": "comprendre,savoir,pagerank,google",
+            "tags": "savoir,pagerank,google",
             "recuweb_url": "http://fr.recuweb.com/google/frdmoz.wordpress.com/2014/03/quest-ce-que-le-pagerank-de-google",
             "resource_url": "http://fr.search.wordpress.com/?q=pagerank%2Bpagerank&f=feed&page=1",
             "source_url": "http://frdmoz.wordpress.com/2014/03/10/quest-ce-que-le-pagerank-de-google/"
@@ -93,10 +72,21 @@
             "date": "2012-05-17",
             "author_name": "inconnu",
             "categories": "pagerank",
-            "tags": "site,savoir,am\u00e9liorer,pagerank,r\u00e9f\u00e9rencement",
+            "tags": "site,savoir,pagerank,r\u00e9f\u00e9rencement",
             "recuweb_url": "http://fr.recuweb.com/pagerank/webmaster-hub.com/2012/05/comment-am%C3%A9liorer-le-pagerank-techniques-de-r%C3%A9f%C3%A9rencement",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://webmaster-hub.com/topic/53439-comment-ameliorer-le-pagerank/"
+        },
+        "edicy.com/2010/04/qu-est-ce-que-google-pagerank-edicy-blog": {
+            "title": "Qu'est ce que Google PageRank? Edicy blog...",
+            "snippet": "Google PageRank est le plus important des m\u00e9canismes sous-jacents du moteur de recherche Google. En effet, Google donne automatiquement un meilleur placement dans la liste de r\u00e9sultats aux sites qui on un bon score PageRank.",
+            "date": "2010-04-17",
+            "author_name": "T\u00f5nu Runnel",
+            "categories": "moteur-de-recherche,google,pagerank",
+            "tags": "automatiquement,google,google_pagerank,pagerank,important,sites",
+            "recuweb_url": "http://fr.recuweb.com/pagerank/edicy.com/2010/04/qu-est-ce-que-google-pagerank-edicy-blog",
+            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://edicy.com/blog-fr/quest-ce-que-google-pagerank"
         }
     }
 }
