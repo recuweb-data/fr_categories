@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "moteur-de-recherche",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -10,58 +11,59 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
-        "presse-citron.net/2015/04/moteur-de-recherche-le-petit-fran%C3%A7ais-qwant-s-offre-un-lifting": {
-            "title": "Moteur de recherche: le petit fran\u00e7ais Qwant s'offre un lifting...",
-            "snippet": "Le petit moteur de recherche fran\u00e7ais Qwant fait son bonhomme de chemin, face au mastodonte Google. Pr\u00e9sent sur le web depuis 2013, il s'offre aujourd'hui une.",
-            "date": "2015-04-14",
-            "author_name": "Manu",
+        "slate.fr/2015/04/vous-pouvez-d%C3%A9sormais-t%C3%A9l%C3%A9charger-votre-historique-de-recherches": {
+            "title": "Vous pouvez d\u00e9sormais t\u00e9l\u00e9charger votre historique de recherches...",
+            "snippet": "Si vous n'avez pas pris la peine de d\u00e9sactiver ce service, vous verrez toutes les recherches que vous avez effectu\u00e9es ces derniers jours et mois. Dans le moteur de recherche classique, mais aussi sur Google Images, Maps,...",
+            "date": "2015-04-21",
+            "author_name": "Gr\u00e9gor Brandy",
             "categories": "google",
-            "tags": "petit,moteur,recherche,fran\u00e7ais,qwant,google,web",
-            "recuweb_url": "http://fr.recuweb.com/google/presse-citron.net/2015/04/moteur-de-recherche-le-petit-fran%C3%A7ais-qwant-s-offre-un-lifting",
+            "tags": "google,aussi,recherches,recherche,avez,mois,moteur",
+            "recuweb_url": "http://fr.recuweb.com/google/slate.fr/2015/04/vous-pouvez-d%C3%A9sormais-t%C3%A9l%C3%A9charger-votre-historique-de-recherches",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://slate.fr/story/100641/google-historique"
+        },
+        "bfmbusiness.bfmtv.com/2015/04/google-veut-optimiser-son-ergonomie-sur-mobile-bfmtv": {
+            "title": "Google veut optimiser son ergonomie sur mobile - BFMTV...",
+            "snippet": "Le g\u00e9ant am\u00e9ricain du web va modifier son moteur de recherche afin que les r\u00e9sultats soient mieux lisibles sur les petits \u00e9crans des smartphones. Avec des cons\u00e9quences potentielles sur le r\u00e9sultat des recherches.",
+            "date": "2015-04-18",
+            "author_name": "inconnu",
+            "categories": "google",
+            "tags": "r\u00e9sultats,recherches,recherche,soient,soient-mieux,soient-mieux-lisibles,mieux,mieux-lisibles,lisibles,petits,petits-\u00e9crans,\u00e9crans,afin,modifier,veut,google,mobile,g\u00e9ant,am\u00e9ricain,web,moteur,smartphones",
+            "recuweb_url": "http://fr.recuweb.com/google/bfmbusiness.bfmtv.com/2015/04/google-veut-optimiser-son-ergonomie-sur-mobile-bfmtv",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/google-veut-optimiser-son-ergonomie-sur-mobile-878798.html"
+        },
+        "01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche": {
+            "title": "Retrouvez votre smartphone Android depuis le moteur de recherche...",
+            "snippet": "Vous avez \u00e9gar\u00e9 votre smartphone Android? Pas de panique. Il suffit pour le retrouver de taper une petite phrase magique dans Google...",
+            "date": "2015-04-16",
+            "author_name": "inconnu",
+            "categories": "google",
+            "tags": "avez,android,moteur,recherche,google",
+            "recuweb_url": "http://fr.recuweb.com/google/01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche",
             "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/moteur-de-recherche-le-petit-francais-qwant-soffre-un-lifting/"
+            "source_url": "http://01net.com/editorial/652388/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche-de-google/"
         },
-        "canal-supporters.com/2015/04/le-moteur-de-recherche-zlatan-canal-supporters": {
-            "title": "Le moteur de recherche Zlatan Canal Supporters...",
-            "snippet": "C'est une initiative de l'agence su\u00e9doise Sweetpop, Zlatan Ibrahimovic a d\u00e9sormais un moteur de recherche, c'est. En fait, il s'ag\u00eet d'un renvoi vers Google avec un mot cl\u00e9 d'office: Zlatan. En appuyant sur le...",
-            "date": "2015-04-08",
-            "author_name": "Marc Alvarez",
-            "categories": "google",
-            "tags": "cl\u00e9,zlatan,zlatan_ibrahimovic,ibrahimovic,agence,su\u00e9doise,moteur,recherche,google",
-            "recuweb_url": "http://fr.recuweb.com/google/canal-supporters.com/2015/04/le-moteur-de-recherche-zlatan-canal-supporters",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://canal-supporters.com/2015/04/le-moteur-de-recherche-zlatan/"
+        "slate.fr/2015/04/un-moteur-de-recherche-ne-devrait-pas-fonder-son-mod%C3%A8le": {
+            "title": "Un moteur de recherche ne devrait pas fonder son mod\u00e8le sur la...",
+            "snippet": "Actuellement, le business model pr\u00e9dominant pour des moteurs de recherche commerciaux est la publicit\u00e9. Les buts de la publicit\u00e9 ne sont pas toujours synonymes d'une recherche de qualit\u00e9 pour les utilisateurs. Cette...",
+            "date": "2015-04-16",
+            "author_name": "Gr\u00e9gor Brandy",
+            "tags": "utilisateurs,business,moteurs,recherche",
+            "recuweb_url": "http://fr.recuweb.com/slate.fr/2015/04/un-moteur-de-recherche-ne-devrait-pas-fonder-son-mod%C3%A8le",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://slate.fr/story/100441/brin-page-google-pub"
         },
-        "leral.net/2015/04/un-moteur-de-recherche-pour-zlatan-ibrahimovic": {
-            "title": "Un moteur de recherche pour Zlatan Ibrahimovic -...",
-            "snippet": "Bien vu: pour faire parler d'elle, une agence de publicit\u00e9 su\u00e9doise a eu l'id\u00e9e de lancer un moteur de recherche au pr\u00e9nom de l'attaquant du PSG. Et vous, vous seriez plut\u00f4t \"Zlatan search\" ou \"I'...",
-            "date": "2015-04-08",
-            "author_name": "Saliou",
-            "tags": "zlatan,id\u00e9e,agence,su\u00e9doise,zlatan_ibrahimovic,ibrahimovic,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/leral.net/2015/04/un-moteur-de-recherche-pour-zlatan-ibrahimovic",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://leral.net/Un-moteur-de-recherche-pour-Zlatan-Ibrahimovic_a141540.html"
-        },
-        "begeek.fr/2015/04/de-nouveaux-services-en-pr%C3%A9paration-pour-le-moteur-recherche": {
-            "title": "de nouveaux services en pr\u00e9paration pour le moteur de recherche...",
-            "snippet": "Il est en effet loin le temps o\u00f9 la firme de Mountain View basait toute ses activit\u00e9s sur son seul moteur de recherche. Depuis, Google travaille dans de nombreux domaines tels que la sant\u00e9 et le transport, notamment grce aux...",
-            "date": "2015-04-08",
-            "author_name": "Sebastien Veyrier",
-            "categories": "google",
-            "tags": "travaille,activit\u00e9s,temps,o\u00f9,moteur,recherche,firme,google",
-            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/de-nouveaux-services-en-pr%C3%A9paration-pour-le-moteur-recherche",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://begeek.fr/google-de-nouveaux-services-en-preparation-pour-le-moteur-de-recherche-166357"
-        },
-        "patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs": {
-            "title": "Les moteurs de recherches dimages libres de droit collaboratifs...",
-            "snippet": "Pour ce qui est des moteurs de recherches d'images libres, il est pr\u00e9f\u00e9rable de les utiliser si nous voulons publier une image puisque celles-ci sont public et nous...",
-            "date": "2015-03-23",
-            "author_name": "andreaminville",
-            "tags": "utiliser,recherches,moteurs",
-            "recuweb_url": "http://fr.recuweb.com/patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs",
+        "formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter": {
+            "title": "Snapbird. Moteur de recherche pour Twitter...",
+            "snippet": "See on - Time to LearnSnapbird est un outil en ligne qui permet de faire des recherches dans Twitter. Un moteur de recherche interne qui fait mieux que...",
+            "date": "2014-06-10",
+            "author_name": "Fr\u00e9d\u00e9ric",
+            "categories": "twitter",
+            "tags": "mieux,recherches,recherche,moteur,ligne,permet",
+            "recuweb_url": "http://fr.recuweb.com/twitter/formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter",
             "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
-            "source_url": "http://patinageartistiqueandrea.wordpress.com/2015/03/23/les-moteurs-de-recherches-dimages-libres-de-droit-collaboratifs/"
+            "source_url": "http://formation20.wordpress.com/2014/06/10/snapbird-moteur-de-recherche-pour-twitter/"
         },
         "fenetresur.wordpress.com/2014/04/info-doc-les-moteurs-de-recherche-s%C3%A9ance-9": {
             "title": "Info-doc: les moteurs de recherche (s\u00e9ance 9)...",
@@ -80,7 +82,7 @@
             "date": "2014-02-17",
             "author_name": "Fr\u00e9d\u00e9ric",
             "categories": "google",
-            "tags": "\u00eatre,moteurs,recherche,google",
+            "tags": "plusieurs,\u00eatre,moteurs,recherche,google",
             "recuweb_url": "http://fr.recuweb.com/google/formation20.wordpress.com/2014/02/11-moteurs-de-recherche-pour-rechercher-sans-%C3%AAtre-enregistr%C3%A9",
             "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://formation20.wordpress.com/2014/02/17/11-moteurs-de-recherche-pour-rechercher-sans-etre-enregistre/"
