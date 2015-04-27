@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "apple-hardware",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/apple-hardware/",
@@ -11,40 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/apple-hardware/apple-hardware/blogs.json"
     },
     "items": {
-        "seekingalpha.com/2015/04/apple-ibm-an-engagement-focused-on-healthcare-analytics-seeking-alpha": {
-            "title": "Apple, IBM: An Engagement Focused On Healthcare Analytics - Seeking Alpha...",
-            "snippet": "Apple, IBM: An Engagement Focused On Healthcare AnalyticsSeeking AlphaWhen Apple and IBM announced a partnership last summer to transform enterprise mobility, my first impression was that the deal would be primarily focused on pushing Apple hardware...",
-            "date": "2015-04-24",
-            "tags": "enterprise,apple,ibm,hardware",
-            "recuweb_url": "http://fr.recuweb.com/seekingalpha.com/2015/04/apple-ibm-an-engagement-focused-on-healthcare-analytics-seeking-alpha",
-            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://seekingalpha.com/article/3098896-apple-ibm-an-engagement-focused-on-healthcare-analytics"
-        },
-        "cnet.com/2015/04/cnet-s-on-the-apple-watch": {
-            "title": "CNET's on the Apple Watch - CNET...",
-            "snippet": "CNETCNET's on the Apple WatchCNETIf you're one of the more than one million customers who preordered an Apple Watch and your hardware shows up today, you're in luck: if you've updated the CNET app on your iPhone, you already have access to the CNET...",
-            "date": "2015-04-24",
+        "silicon.fr/2015/04/apple-watch-la-killer-app-n-est-pas-encore-n%C3%A9e-silicon": {
+            "title": "Apple Watch: la 'killer app'n'est pas encore n\u00e9e - Silicon...",
+            "snippet": "SiliconApple Watch: la 'killer app'n'est pas encore n\u00e9eSiliconDes n\u00e9gociations sont d'ailleurs en cours avec PriceMinister (groupe Rakuten) pour exploiter l'interaction hardware entre iPhone et Apple Watch afin d'apporter une couche de s\u00e9curit\u00e9...",
+            "date": "2015-04-27",
             "categories": "iphone",
             "tags": "apple,hardware",
-            "recuweb_url": "http://fr.recuweb.com/iphone/cnet.com/2015/04/cnet-s-on-the-apple-watch",
-            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://cnet.com/news/cnet-apple-watch-app/"
+            "recuweb_url": "http://fr.recuweb.com/iphone/silicon.fr/2015/04/apple-watch-la-killer-app-n-est-pas-encore-n%C3%A9e-silicon",
+            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://silicon.fr/apple-watch-killer-app-nest-nee-115005.html"
         },
-        "military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies": {
-            "title": "Technology Hardware, Storage and Peripherals Stocks Review... - Military Technologies...",
-            "snippet": "Technology Hardware, Storage and Peripherals Stocks Review...Military TechnologiesInvestor-Edge has initiated coverage on the following equities: Apple Inc. (NASDAQ: AAPL), Hewlett-Packard Company (NYSE: HPQ), SanDisk Corporation (NASDAQ: SNDK),...",
-            "date": "2015-04-24",
-            "categories": "technologie",
-            "tags": "apple,technology,hardware",
-            "recuweb_url": "http://fr.recuweb.com/technologie/military-technologies.net/2015/04/technology-hardware-storage-and-peripherals-stocks-review-military-technologies",
-            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
-            "source_url": "http://military-technologies.net/2015/04/24/technology-hardware-storage-and-peripherals-stocks-review-apple-hewlett-packard-sandisk-seagate-technology-and-qlogic/"
+        "radar.oreilly.com/2015/04/google-s-physical-web-vs-apple-ibeacon-o-reilly-radar": {
+            "title": "Google's Physical Web vs Apple's iBeacon - O'Reilly Radar...",
+            "snippet": "Google's Physical Web vs Apple's iBeaconO'Reilly RadarProvided a certification program to enable hardware manufacturers to create iBeacon-compatible hardware. This allows third-party manufacturers to provide iBeacon-compatible hardware of all...",
+            "date": "2015-04-27",
+            "categories": "radar,google",
+            "tags": "web,google,apple,hardware",
+            "recuweb_url": "http://fr.recuweb.com/google/radar.oreilly.com/2015/04/google-s-physical-web-vs-apple-ibeacon-o-reilly-radar",
+            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://radar.oreilly.com/2015/04/googles-physical-web-vs-apples-ibeacon.html"
+        },
+        "fieldguide.gizmodo.com/2015/04/ios-vs-android-the-2015-edition-gizmodo": {
+            "title": "iOS vs Android: The 2015 Edition - Gizmodo...",
+            "snippet": "GizmodoiOS vs Android: The 2015 EditionGizmodoYet get above that minutiae and you find that Apple and Google have fundamentally different ideas about the way that software, hardware, the web, user data and privacy should be handled. On one level,...",
+            "date": "2015-04-27",
+            "categories": "google",
+            "tags": "web,apple,google,hardware",
+            "recuweb_url": "http://fr.recuweb.com/google/fieldguide.gizmodo.com/2015/04/ios-vs-android-the-2015-edition-gizmodo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware&output=atom&nord=1",
+            "source_url": "http://fieldguide.gizmodo.com/ios-vs-android-the-2015-edition-1700461435/+seanhollister"
         },
         "hardwareluxx.de/2015/04/ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus-hardwareluxx": {
             "title": "IBM wertet mit Apple-Hardware gesammelte Gesundheitsdaten aus - HardwareLuxx...",
             "snippet": "IBM wertet mit Apple-Hardware gesammelte Gesundheitsdaten ausHardwareLuxxibm 2014 Die Zusammenarbeit zwischen Apple und IBM wird weiter ausgebaut. Nachdem die beiden Unternehmen bereits im Bereich Enterprise-L\u00f6sungen kooperieren, soll nun der...",
             "date": "2015-04-14",
-            "tags": "enterprise,ibm,apple,hardware",
+            "tags": "apple,hardware",
             "recuweb_url": "http://fr.recuweb.com/hardwareluxx.de/2015/04/ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus-hardwareluxx",
             "resource_url": "http://news.google.fr/?hl=fr&q=apple%2Bhardware%2Bapple%2Bhardware&output=atom&nord=1",
             "source_url": "http://hardwareluxx.de/index.php/news/allgemein/wirtschaft/34935-ibm-wertet-mit-apple-hardware-gesammelte-gesundheitsdaten-aus.html"
