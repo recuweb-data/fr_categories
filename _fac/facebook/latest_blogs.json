@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "facebook",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/facebook/",
@@ -11,60 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
     },
     "items": {
-        "generation-nt.com/2015/04/facebook-1-44-milliard-d-utilisateurs-mais-chute-des-b%C3%A9n%C3%A9fices": {
-            "title": "Facebook: 1,44 milliard d'utilisateurs mais chute des b\u00e9n\u00e9fices...",
-            "snippet": "Le r\u00e9seau social Facebook compte 1,44 milliard d'utilisateurs actifs par mois. Plus de 70% du chiffre d'affaires provient du mobile. Les b\u00e9n\u00e9fices ont cependant chut\u00e9 en raison des lourds investissements. Facebook publie...",
+        "francecrownclown.wordpress.com/2015/04/fb-tl-aaron-kim": {
+            "title": "FB-TL Aaron Kim...",
+            "snippet": "Joyeux anniversaire frangin. Je taurai dans peu de temps Mi Goreng P.S: Le contenu de cette publication est indisponible Trad fr: Cr\u00e9atrice Ludivine/Via trad ang: CClown120719 Class\u00e9 dans: Autres, Autres, Facebook, Facebook, Photos, Traductions...",
+            "date": "2015-04-25",
+            "author_name": "RowLowFrance",
+            "categories": "facebook,traduction",
+            "tags": "trad,trad-ang,ang,cr\u00e9atrice,cr\u00e9atrice_ludivine,ludivine,contenu,publication,publication-est-indisponible,indisponible,anniversaire,kim,joyeux,via,cclown,class\u00e9,autres,facebook,photos,traductions",
+            "recuweb_url": "http://fr.recuweb.com/traduction/francecrownclown.wordpress.com/2015/04/fb-tl-aaron-kim",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
+            "source_url": "http://francecrownclown.wordpress.com/2015/04/25/fb-tl-25-04-15-aaron-kim/"
+        },
+        "francecrownclown.wordpress.com/2015/04/fb-tl-kim-jinhong": {
+            "title": "FB-TL Kim Jinhong...",
+            "snippet": "Jun-ah, Je vous souhaite sinc\u00e8rement un joyeux anniversaire Vous me manquez!! P.S: Le contenu de cette publication est indisponible Trad fr: Cr\u00e9atrice Ludivine/Via trad ang: CClown120719 Class\u00e9 dans: Autres, Autres, Facebook, Facebook, Photos,...",
+            "date": "2015-04-25",
+            "author_name": "RowLowFrance",
+            "categories": "facebook",
+            "tags": "trad,trad-ang,ang,cr\u00e9atrice,cr\u00e9atrice_ludivine,ludivine,contenu,publication,publication-est-indisponible,indisponible,joyeux,anniversaire,kim,via,cclown,class\u00e9,autres,facebook,photos",
+            "recuweb_url": "http://fr.recuweb.com/facebook/francecrownclown.wordpress.com/2015/04/fb-tl-kim-jinhong",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
+            "source_url": "http://francecrownclown.wordpress.com/2015/04/25/fb-tl-25-04-15-kim-jinhong/"
+        },
+        "francecrownclown.wordpress.com/2015/04/fb-tl-kim-namhyung": {
+            "title": "FB-TL Kim Namhyung...",
+            "snippet": "Joyeux anniversaire bande de tra\u00een\u00e9es P.S: Le contenu de cette publication est indisponible Trad fr: Cr\u00e9atrice Ludivine/Via trad ang: CClown120719 Class\u00e9 dans: Autres, Autres, Facebook, Facebook, Photos, Traductions Tagged: C-CLOWN, CROWNs,...",
+            "date": "2015-04-25",
+            "author_name": "RowLowFrance",
+            "categories": "traduction,facebook",
+            "tags": "traductions,trad,trad-ang,ang,cr\u00e9atrice,cr\u00e9atrice_ludivine,ludivine,contenu,publication,publication-est-indisponible,indisponible,anniversaire,kim,joyeux,via,cclown,class\u00e9,autres,facebook,photos",
+            "recuweb_url": "http://fr.recuweb.com/facebook/francecrownclown.wordpress.com/2015/04/fb-tl-kim-namhyung",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
+            "source_url": "http://francecrownclown.wordpress.com/2015/04/25/fb-tl-25-04-15-kim-namhyung/"
+        },
+        "presse-citron.net/2015/04/facebook-l-application-hello-peut-cr%C3%A9er-des-confusions": {
+            "title": "Facebook: l'application Hello peut cr\u00e9er des confusions...",
+            "snippet": "Le but d'Hello semble aussi de lier les num\u00e9ros de t\u00e9l\u00e9phone de votre r\u00e9pertoire avec les comptes Facebook correspondant et si vous recevez un appel d'un num\u00e9ro de t\u00e9l\u00e9phone que vous ne connaissez pas, Hello peut...",
+            "date": "2015-04-24",
+            "author_name": "Setra",
+            "categories": "facebook",
+            "tags": "comptes,facebook,application,hello,aussi",
+            "recuweb_url": "http://fr.recuweb.com/facebook/presse-citron.net/2015/04/facebook-l-application-hello-peut-cr%C3%A9er-des-confusions",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://presse-citron.net/le-genre-de-confusion-que-peut-creer-la-nouvelle-application-hello-de-facebook/"
+        },
+        "presse-citron.net/2015/04/facebook-veut-aussi-dominer-les-appels-voip-presse-citron": {
+            "title": "Facebook veut aussi dominer les appels VOIP - Presse-citron...",
+            "snippet": "En revanche, on est moins \u00e9tonn\u00e9 lorsqu'on sait que Messenger est une application obligatoire pour les utilisateurs de l'appli mobile Facebook qui souhaitent utiliser la fonction de messagerie de celle-ci et qu'actuellement,...",
             "date": "2015-04-23",
-            "author_name": "inconnu",
+            "author_name": "Setra",
             "categories": "facebook",
-            "tags": "affaires,mobile,chiffre,utilisateurs,milliard,facebook,r\u00e9seau,social,compte",
-            "recuweb_url": "http://fr.recuweb.com/facebook/generation-nt.com/2015/04/facebook-1-44-milliard-d-utilisateurs-mais-chute-des-b%C3%A9n%C3%A9fices",
+            "tags": "utilisateurs,moins,facebook,aussi,application",
+            "recuweb_url": "http://fr.recuweb.com/facebook/presse-citron.net/2015/04/facebook-veut-aussi-dominer-les-appels-voip-presse-citron",
             "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/facebook-reseau-social-nombre-utilisateur-resultat-actualite-1914406.html"
+            "source_url": "http://presse-citron.net/facebook-messenger-cest-deja-10-de-tous-les-appels-voip/"
         },
-        "cnetfrance.fr/2015/04/facebook-lance-hello-pour-remplacer-l-application-t%C3%A9l%C3%A9phone-d": {
-            "title": "Facebook lance Hello pour remplacer l'application \"t\u00e9l\u00e9phone\" d...",
-            "snippet": "Apr\u00e8s l'\u00e9chec de Facebook home, le r\u00e9seau social tente une nouvelle incursion dans Android avec Hello, un gestionnaire de contacts, annonc\u00e9 et lanc\u00e9 dans le foul\u00e9e de la publication des r\u00e9sultats financiers.",
+        "siliconvalley.blog.lemonde.fr/2015/04/les-profits-de-facebook-chutent-plomb%C3%A9s-par-d%C3%A9penses-silicon": {
+            "title": "Les profits de Facebook chutent, plomb\u00e9s par les d\u00e9penses Silicon...",
+            "snippet": "Cela n'\u00e9tait plus arriv\u00e9 depuis deux ans. Au premier trimestre 2015, les profits de Facebook ont chut\u00e9. Le r\u00e9seau social a d\u00e9gag\u00e9 un b\u00e9n\u00e9fice net de 512 millions de dollars (479 millions d'euros) sur la p\u00e9riode, contre 642...",
             "date": "2015-04-23",
-            "author_name": "J\u00e9r\u00f4me Durel",
+            "author_name": "J\u00e9r\u00f4me Marin",
             "categories": "facebook",
-            "tags": "lance,gestionnaire,contacts,nouvelle,application,t\u00e9l\u00e9phone,remplacer,facebook,hello,apr\u00e8s,r\u00e9seau,social,android,annonc\u00e9,publication,r\u00e9sultats,financiers",
-            "recuweb_url": "http://fr.recuweb.com/facebook/cnetfrance.fr/2015/04/facebook-lance-hello-pour-remplacer-l-application-t%C3%A9l%C3%A9phone-d",
-            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cnetfrance.fr/news/facebook-lance-hello-pour-remplacer-l-application-telephone-d-android-39818406.htm"
-        },
-        "generation-nt.com/2015/04/hello-facebook-veut-g%C3%A9rer-votre-t%C3%A9l%C3%A9phone-android": {
-            "title": "Hello: Facebook veut g\u00e9rer votre t\u00e9l\u00e9phone Android...",
-            "snippet": "Facebook lance un dialer pour smartphone Android. Il s'appuie sur le Social Graph pour g\u00e9rer les contacts au bout du fil. Facebook a d\u00e9cid\u00e9ment de la suite dans les id\u00e9es. Les utilisateurs - mais aussi fabricants - n'ont pas...",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "facebook",
-            "tags": "aussi,g\u00e9rer,contacts,fil,social,lance,dialer,veut,t\u00e9l\u00e9phone,hello,facebook,android,utilisateurs",
-            "recuweb_url": "http://fr.recuweb.com/facebook/generation-nt.com/2015/04/hello-facebook-veut-g%C3%A9rer-votre-t%C3%A9l%C3%A9phone-android",
+            "tags": "facebook,r\u00e9seau,social,contre",
+            "recuweb_url": "http://fr.recuweb.com/facebook/siliconvalley.blog.lemonde.fr/2015/04/les-profits-de-facebook-chutent-plomb%C3%A9s-par-d%C3%A9penses-silicon",
             "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/hello-facebook-dialer-android-messenger-actualite-1914428.html"
-        },
-        "fredzone.org/2015/04/facebook-hello-une-nouvelle-application-mobile-pour-g%C3%A9rer": {
-            "title": "Facebook Hello: une nouvelle application mobile pour g\u00e9rer vos...",
-            "snippet": "Facebook vient de lancer une nouvelle application mobile sur Android. Cette fois, le g\u00e9ant am\u00e9ricain veut mettre la main sur vos appels.",
-            "date": "2015-04-22",
-            "author_name": "Fr\u00e9d\u00e9ric Pereira",
-            "categories": "facebook",
-            "tags": "g\u00e9ant,veut,nouvelle,nouvelle-application,application,mobile,g\u00e9rer,facebook,facebook_hello,hello,android,mettre",
-            "recuweb_url": "http://fr.recuweb.com/facebook/fredzone.org/2015/04/facebook-hello-une-nouvelle-application-mobile-pour-g%C3%A9rer",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://fredzone.org/facebook-hello-une-nouvelle-application-mobile-pour-gerer-vos-appels-049"
-        },
-        "generation-nt.com/2015/04/piratage-facebook-inqui%C3%A8te-tf1-g%C3%A9n%C3%A9ration-nt": {
-            "title": "Piratage: Facebook inqui\u00e8te TF1 - G\u00e9n\u00e9ration NT...",
-            "snippet": "Apr\u00e8s une longue bataille men\u00e9e contre YouTube et Dailymotion, Facebook sera-t-il la prochaine cible du groupe TF1. La premi\u00e8re cha\u00eene fran\u00e7aise se dit inqui\u00e8te du piratage de vid\u00e9os sur Facebook.",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
-            "categories": "facebook",
-            "tags": "groupe,contre,facebook,apr\u00e8s,youtube,cha\u00eene",
-            "recuweb_url": "http://fr.recuweb.com/facebook/generation-nt.com/2015/04/piratage-facebook-inqui%C3%A8te-tf1-g%C3%A9n%C3%A9ration-nt",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/piratage-video-facebook-tf1-youtube-actualite-1914392.html"
+            "source_url": "http://siliconvalley.blog.lemonde.fr/2015/04/23/les-profits-de-facebook-chutent-plombes-par-le-bond-des-depenses/"
         },
         "michelngwaayi.blogspot.com/2015/04/blondine-hiblot-vous-a-identifi%C3%A9-e-dans-une-publication-sur-facebook": {
             "title": "Blondine Hiblot vous a identifi\u00e9(e) dans une publication sur Facebook...",
@@ -72,32 +83,10 @@
             "date": "2015-04-13",
             "author_name": "iNTERFACE",
             "categories": "facebook",
-            "tags": "bonne,personnes,publication,facebook,amis",
+            "tags": "bonne,autres,personnes,publication,facebook,amis",
             "recuweb_url": "http://fr.recuweb.com/facebook/michelngwaayi.blogspot.com/2015/04/blondine-hiblot-vous-a-identifi%C3%A9-e-dans-une-publication-sur-facebook",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
             "source_url": "http://michelngwaayi.blogspot.com/2015/04/blondine-hiblot-vous-identifiee-dans.html"
-        },
-        "immobilier2.0-le-blog.com/2015/04/les-impacts-des-nouveaut%C3%A9s-facebook-sur-votre-strat%C3%A9gie-immobili%C3%A8re-profils": {
-            "title": "Les impacts des nouveaut\u00e9s Facebook sur votre strat\u00e9gie immobili\u00e8re: Des profils pour vos biens,...",
-            "snippet": "Les impacts des nouveaut\u00e9s Facebook sur votre strat\u00e9gie immobili\u00e8re: Des profils pour vos biens,...",
-            "date": "2015-04-08",
-            "author_name": "Vincent Lecamus",
-            "categories": "facebook",
-            "tags": "facebook",
-            "recuweb_url": "http://fr.recuweb.com/facebook/immobilier2.0-le-blog.com/2015/04/les-impacts-des-nouveaut%C3%A9s-facebook-sur-votre-strat%C3%A9gie-immobili%C3%A8re-profils",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
-            "source_url": "http://immobilier2.0-le-blog.com/les-impacts-des-nouveautes-facebook-sur-votre-strategie-immobiliere-des-profils-pour-vos-biens-des-visites-virtuelles-votre-service-client-sur-messenger/"
-        },
-        "lesguignolsduwebb.wordpress.com/2015/04/facebook-int%C3%A8gre-lic%C3%B4ne-whatsapp-sur-android": {
-            "title": "Facebook int\u00e8gre lic\u00f4ne WhatsApp sur Android...",
-            "snippet": "WhatsApp fond\u00e9e en 2009 par Jan Koumet et Brian Acton (co-fondateurs de Yahoo), est une application qui permet de remplacer le SMS, mais elle sest vu \u00eatre racheter en F\u00e9vrier 2014 par le g\u00e9ant de la Toile, Facebook. Facebook le sait, si cette...",
-            "date": "2015-04-07",
-            "author_name": "sonnyperrot",
-            "categories": "facebook,yahoo",
-            "tags": "g\u00e9ant,\u00eatre,application,permet,remplacer,facebook,android",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/lesguignolsduwebb.wordpress.com/2015/04/facebook-int%C3%A8gre-lic%C3%B4ne-whatsapp-sur-android",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
-            "source_url": "http://lesguignolsduwebb.wordpress.com/2015/04/07/facebook-integre-licone-whatsapp-sur-android/"
         },
         "osalysinfo.wordpress.com/2014/11/facebook-bient%C3%B4t-en-version-pro": {
             "title": "Facebook bient\u00f4t en version \"pro\"?",
@@ -105,7 +94,7 @@
             "date": "2014-11-17",
             "author_name": "osalys",
             "categories": "facebook",
-            "tags": "groupe,facebook,r\u00e9seau,social",
+            "tags": "lundi,dernier,facebook,r\u00e9seau,social",
             "recuweb_url": "http://fr.recuweb.com/facebook/osalysinfo.wordpress.com/2014/11/facebook-bient%C3%B4t-en-version-pro",
             "resource_url": "http://fr.search.wordpress.com/?q=facebook%2Bfacebook&f=feed&page=1",
             "source_url": "http://osalysinfo.wordpress.com/2014/11/17/facebook-bientot-en-version-pro/"
