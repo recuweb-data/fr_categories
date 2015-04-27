@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "kung-fu",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/kung-fu/",
@@ -10,24 +11,50 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/kung-fu/kung-fu/blogs.json"
     },
     "items": {
-        "guidetv.france3.fr/2015/02/crazy-kung-fu": {
-            "title": "Crazy Kung-Fu...",
-            "snippet": "Dans le chaos de la Chine des ann\u00e9es 1940, un petit voleur, Sing, r\u00eave de rejoindre le Gang des haches, la puissante organisation criminelle qui r\u00e8gne sur la ville. En tentant d'extorquer de l'argent aux habitants d'un quartier surpeupl\u00e9,...",
-            "date": "2015-02-18",
-            "tags": "kung",
-            "recuweb_url": "http://fr.recuweb.com/guidetv.france3.fr/2015/02/crazy-kung-fu",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=kung%2Bfu&format=RSS&cc=fr",
-            "source_url": "http://guidetv.france3.fr/programme-tv/fiche/numero-23/film/195940769/crazy-kung-fu.html"
+        "paris-normandie.fr/2015/04/kung-fu-l-or-et-le-bronze-paris-normandie-inscription": {
+            "title": "Kung-fu: l'or et le bronze - Paris Normandie (Inscription)...",
+            "snippet": "Paris Normandie (Inscription)Kung-fu: l'or et le bronzeParis Normandie (Inscription)Vendredi, la s\u00e9ance d'entra\u00eenement de la section kung-fu de la MJC Wushu \u00e9tait d\u00e9tendue. Amar Mazari retrouvait ses prot\u00e9g\u00e9s de retour de Saint-Maur des...",
+            "date": "2015-04-22",
+            "tags": "retour,kung",
+            "recuweb_url": "http://fr.recuweb.com/paris-normandie.fr/2015/04/kung-fu-l-or-et-le-bronze-paris-normandie-inscription",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kung%2Bfu&output=atom&nord=1",
+            "source_url": "http://paris-normandie.fr/detail_communes/articles/3019585/kung-fu--l-or-et-le-bronze"
         },
-        "bibamagazine.fr/2015/02/kung-fu-la-parfaite-harmonie-du-corps-et-de-l-esprit": {
-            "title": "Kung-fu: la parfaite harmonie du corps et de l'esprit - Biba Magazine...",
-            "snippet": "Biba MagazineKung-fu: la parfaite harmonie du corps et de l'espritBiba MagazineBoxe chinoise ou kung-fu, peu importe le nom qu'on lui donne, cet art martial chinois a de quoi en s\u00e9duire plus d'un. Pour se relaxer, pour trouver la tranquillit\u00e9...",
-            "date": "2015-02-12",
-            "categories": "art-martial,art-martial-chinois",
-            "tags": "martial,kung,lui",
-            "recuweb_url": "http://fr.recuweb.com/art-martial-chinois/bibamagazine.fr/2015/02/kung-fu-la-parfaite-harmonie-du-corps-et-de-l-esprit",
-            "resource_url": "http://news.google.fr/?hl=fr&q=kung%2Bfu%2Bkung%2Bfu&output=atom&nord=1",
-            "source_url": "http://bibamagazine.fr/style-de-vie/kung-fu-la-parfaite-harmonie-du-corps-et-de-l-esprit-24733"
+        "premiere.fr/2015/04/kung-fu-panda-3-la-date-de-sortie-avanc%C3%A9e-pr%C3%A8s-deux": {
+            "title": "Kung Fu Panda 3: la date de sortie avanc\u00e9e de pr\u00e8s de deux mois...",
+            "snippet": "La suite des aventures du panda bagarreur a \u00e9t\u00e9 avanc\u00e9e aux \u00c9tats-Unis. Le retour du panda le plus agile au monde a \u00e9t\u00e9 avanc\u00e9! Kung Fu Panda 3 devait normalement sortir le 18 mars 2016 et il sera finalement dans les salles am\u00e9ricaines pr\u00e8s...",
+            "date": "2015-04-15",
+            "tags": "retour,kung,kung_fu_panda,panda",
+            "recuweb_url": "http://fr.recuweb.com/premiere.fr/2015/04/kung-fu-panda-3-la-date-de-sortie-avanc%C3%A9e-pr%C3%A8s-deux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=kung%2Bfu&format=RSS&cc=fr",
+            "source_url": "http://premiere.fr/Cinema/News-Cinema/Kung-Fu-Panda-3-la-date-de-sortie-avance-de-pres-de-deux-mois-4165428"
+        },
+        "letelegramme.fr/2015/04/kung-fu-de-beaux-r%C3%A9sultats-en-championnat-le-t%C3%A9l%C3%A9gramme": {
+            "title": "Kung-fu. De beaux r\u00e9sultats en championnat - Le T\u00e9l\u00e9gramme...",
+            "snippet": "Le T\u00e9l\u00e9grammeKung-fu. De beaux r\u00e9sultats en championnatLe T\u00e9l\u00e9grammeYann Dussol, pr\u00e9sident et professeur de kung-fu, en compagnie de ses jeunes \u00e9l\u00e8ves Mai Morel (en noir ceinture orange), Matt\u00e9o Marc, Ellen Lemesle (haut de surv\u00eatement),...",
+            "date": "2015-04-15",
+            "tags": "kung",
+            "recuweb_url": "http://fr.recuweb.com/letelegramme.fr/2015/04/kung-fu-de-beaux-r%C3%A9sultats-en-championnat-le-t%C3%A9l%C3%A9gramme",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kung%2Bfu&output=atom&nord=1",
+            "source_url": "http://letelegramme.fr/morbihan/surzur/kung-fu-de-beaux-resultats-en-championnat-15-04-2015-10596339.php"
+        },
+        "20minutes.fr/2015/04/video-en-bulgarie-le-kung-fu-est-autoris%C3%A9-sur-les-terrains": {
+            "title": "VIDEO. En Bulgarie, le kung-fu est autoris\u00e9 sur les terrains de foot -...",
+            "snippet": ". En Bulgarie, le kung-fu est autoris\u00e9 sur les terrains de \u00e8s \u00e7a, ne venez pas nous emb\u00eater avec la violence de la Premier League. Parce qu'en Bulgarie, on peut visiblement envoyer des coups de kung-fu (ou de karat\u00e9, on n'est pas expert) pour...",
+            "date": "2015-04-05",
+            "tags": "kung",
+            "recuweb_url": "http://fr.recuweb.com/20minutes.fr/2015/04/video-en-bulgarie-le-kung-fu-est-autoris%C3%A9-sur-les-terrains",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kung%2Bfu&output=atom&nord=1",
+            "source_url": "http://20minutes.fr/sport/football/1579723-20150405-video-bulgarie-kung-fu-autorise-terrains-foot"
+        },
+        "lyricis.fr/2015/03/un-trailer-pour-kung-fu-jungle-killer-avec-donnie-lyricis-interactive": {
+            "title": "Un trailer pour KUNG FU JUNGLE (KUNG FU KILLER) avec Donnie... - Lyricis Interactive...",
+            "snippet": "Lyricis InteractiveUn trailer pour KUNG FU JUNGLE (KUNG FU KILLER) avec Donnie...Lyricis InteractiveSi vous voulez de l'action, vous allez \u00eatre servi avec la nouvelle bande-annonce US pour KUNG FU JUNGLE, traduit chez nos amis des States KUNG FU...",
+            "date": "2015-03-27",
+            "tags": "kung,trailer",
+            "recuweb_url": "http://fr.recuweb.com/lyricis.fr/2015/03/un-trailer-pour-kung-fu-jungle-killer-avec-donnie-lyricis-interactive",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kung%2Bfu&output=atom&nord=1",
+            "source_url": "http://lyricis.fr/cinema-serie-tv/un-trailer-pour-kung-fu-jungle-kung-fu-killer-avec-donnie-yen-115174/"
         }
     }
 }
