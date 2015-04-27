@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "social-d\u00e9mocratie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/social-d\u00e9mocratie/",
@@ -10,24 +11,14 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/social-d%C3%A9mocratie/social-d%C3%A9mocratie/blogs.json"
     },
     "items": {
-        "romandie.com/2015/04/br%C3%A9sil-il-est-pr%C3%A9cipit%C3%A9-de-demander-la-destitution-rousseff": {
-            "title": "Br\u00e9sil: il est pr\u00e9cipit\u00e9 de demander la destitution de Rousseff...",
-            "snippet": "Rio de Janeiro - L'ex-pr\u00e9sident du Br\u00e9sil, Fernando Henrique Cardoso, membre \u00e9minent du Parti de la social-d\u00e9mocratie (PSDB), principal parti d'opposition au gouvernement de la pr\u00e9sidente de gauche Dilma Rousseff, estime qu'il est pr\u00e9cipit\u00e9...",
-            "date": "2015-04-21",
-            "tags": "gouvernement,gauche,parti,social,d\u00e9mocratie",
-            "recuweb_url": "http://fr.recuweb.com/romandie.com/2015/04/br%C3%A9sil-il-est-pr%C3%A9cipit%C3%A9-de-demander-la-destitution-rousseff",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=social%2Bd%C3%A9mocratie&format=RSS&cc=fr",
-            "source_url": "http://romandie.com/news/Bresil--il-est-precipite-de-demander-la-destitution-de-Rousseff_RP/585946.rom"
-        },
-        "blogs.mediapart.fr/2015/04/le-n%C3%A9o-cl%C3%A9ricalisme-peut-il-fonder-la-d%C3%A9mocratie-club-de-mediapart": {
-            "title": "Le n\u00e9o-cl\u00e9ricalisme peut-il fonder la d\u00e9mocratie? - Le Club de Mediapart...",
-            "snippet": "Le n\u00e9o-cl\u00e9ricalisme peut-il fonder la d\u00e9mocratie?Le Club de Mediapart1 Dans aucun des actes de la vie civile, politique ou sociale, la d\u00e9mocratie ne fait intervenir, l\u00e9galement, la question religieuse. Elle respecte, elle assure l'enti\u00e8re et...",
-            "date": "2015-04-21",
-            "categories": "politique",
-            "tags": "politique,vie,d\u00e9mocratie",
-            "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2015/04/le-n%C3%A9o-cl%C3%A9ricalisme-peut-il-fonder-la-d%C3%A9mocratie-club-de-mediapart",
+        "blogs.mediapart.fr/2015/04/fran%C3%A7ois-la-gaffe-le-club-de-mediapart": {
+            "title": "Fran\u00e7ois la gaffe? - Le Club de Mediapart...",
+            "snippet": "Fran\u00e7ois la gaffe?Le Club de MediapartL'histoire de la social-d\u00e9mocratie, devenue sociolib\u00e9rale, d\u00e9montre que son principal objectif reste d'affaiblir, de discr\u00e9diter, de faire taire tous ceux qui veulent une rupture avec le syst\u00e8me...",
+            "date": "2015-04-23",
+            "tags": "fran\u00e7ois,social,d\u00e9mocratie",
+            "recuweb_url": "http://fr.recuweb.com/blogs.mediapart.fr/2015/04/fran%C3%A7ois-la-gaffe-le-club-de-mediapart",
             "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie&output=atom&nord=1",
-            "source_url": "http://blogs.mediapart.fr/blog/eddy/210415/le-neo-clericalisme-peut-il-fonder-la-democratie"
+            "source_url": "http://blogs.mediapart.fr/blog/morvandiaux/230415/francois-la-gaffe"
         },
         "npa2009.org/2015/04/anticapitalisme-ou-social-d%C3%A9mocratie-nouvelle-p%C3%A9riode-nouveaux-npa": {
             "title": "Anticapitalisme ou social-d\u00e9mocratie? Nouvelle p\u00e9riode, nouveaux... - NPA...",
@@ -35,7 +26,7 @@
             "date": "2015-04-19",
             "tags": "dernier,social,d\u00e9mocratie",
             "recuweb_url": "http://fr.recuweb.com/npa2009.org/2015/04/anticapitalisme-ou-social-d%C3%A9mocratie-nouvelle-p%C3%A9riode-nouveaux-npa",
-            "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie%2Bsocial%2Bd%C3%A9mocratie&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie&output=atom&nord=1",
             "source_url": "http://npa2009.org/idees/anticapitalisme-ou-social-democratie-nouvelle-periode-nouveaux-partis-vieilles-questions"
         },
         "ouest-france.fr/2015/04/point-de-vue-le-petit-nuage-social-d%C3%A9mocrate-ouest-france": {
@@ -44,16 +35,16 @@
             "date": "2015-04-18",
             "tags": "social,d\u00e9mocrate,france,parti,d\u00e9mocratie",
             "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/04/point-de-vue-le-petit-nuage-social-d%C3%A9mocrate-ouest-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie%2Bsocial%2Bd%C3%A9mocratie&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie&output=atom&nord=1",
             "source_url": "http://ouest-france.fr/le-petit-nuage-social-democrate-3342756"
         },
         "laction.com/2015/04/il-faut-recentrer-le-pq-sur-la-social-d%C3%A9mocratie-et-l": {
             "title": "Il faut recentrer le PQ sur la social-d\u00e9mocratie et sur l'ind\u00e9pendance... - L'Action - Joliette...",
             "snippet": "L'Action - JolietteIl faut recentrer le PQ sur la social-d\u00e9mocratie et sur l'ind\u00e9pendance...L'Action - JolietteLe gouvernement actuel est en train de saccager le mod\u00e8le de soci\u00e9t\u00e9 qu'on s'est donn\u00e9. Si on veut le renverser, - et il n'y a que...",
             "date": "2015-04-04",
-            "tags": "donn\u00e9,gouvernement,mod\u00e8le,recentrer,social,d\u00e9mocratie,ind\u00e9pendance",
+            "tags": "donn\u00e9,mod\u00e8le,recentrer,social,d\u00e9mocratie,ind\u00e9pendance",
             "recuweb_url": "http://fr.recuweb.com/laction.com/2015/04/il-faut-recentrer-le-pq-sur-la-social-d%C3%A9mocratie-et-l",
-            "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie%2Bsocial%2Bd%C3%A9mocratie&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=social%2Bd%C3%A9mocratie&output=atom&nord=1",
             "source_url": "http://laction.com/Actualites/Politique/2015-04-04/article-4100749/Il-faut-recentrer-le-PQ-sur-la-social-democratie-et-sur-lindependance,-dit-Martine-Ouellet/1"
         }
     }
