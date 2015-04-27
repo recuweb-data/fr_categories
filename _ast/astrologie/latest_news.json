@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "astrologie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/astrologie/",
@@ -10,75 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/astrologie/astrologie/blogs.json"
     },
     "items": {
-        "nicerendezvous.com/2015/02/foire-de-nice-2015-au-palais-des-expositions": {
-            "title": "Foire de Nice 2015 au Palais des Expositions...",
-            "snippet": "Vendredi 13 oblige, la magie et les arts divinatoires seront pr\u00e9sents avec huit consultants (tarologie, num\u00e9rologie, clairvoyance, astrologie, parapsychologie, hypnose et mentalisme) qui, tous les jours, 3 fois par jour (11h, 14h30,...",
-            "date": "2015-02-25",
-            "categories": "magie,arts,clairvoyance,astrologie",
-            "tags": "astrologie",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/nicerendezvous.com/2015/02/foire-de-nice-2015-au-palais-des-expositions",
+        "slate.fr/2015/04/les-jeux-de-paris-2024-seront-olympolitiques": {
+            "title": "Les Jeux de Paris 2024 seront olympolitiques (et ne seront pas)...",
+            "snippet": "En ce moment, les astres salignent autour de cette candidature. Bernard Lapasset, qui sait dans quel pays il est et se m\u00e9fie des fausses promesses actuelles sur fond dastrologie, a pr\u00e9venu: Il ne faut pas que les politiques d\u00e9cident de tout.",
+            "date": "2015-04-23",
+            "categories": "politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/slate.fr/2015/04/les-jeux-de-paris-2024-seront-olympolitiques",
             "resource_url": "http://www.bing.com/news/search?first=1&q=astrologie&format=RSS&cc=fr",
-            "source_url": "http://nicerendezvous.com/car/2015022511982/foire-nice-2015-palais-expositions.html"
+            "source_url": "http://slate.fr/story/100689/jo-paris-politique"
         },
-        "geoado.com/2015/02/chine-fait-il-bon-na%C3%AEtre-lann%C3%A9e-de-la-ch%C3%A8vre": {
-            "title": "Chine: fait-il bon na\u00eetre lann\u00e9e de la Ch\u00e8vre?",
-            "snippet": "Dans de nombreux pays dAsie (comme en Tha\u00eflande, par exemple), les superstitions ont la vie dure. Si lastrologie est g\u00e9n\u00e9ralement consid\u00e9r\u00e9e comme une pseudo-science dans les pays occidentaux, en Chine, elle est prise tr\u00e8s au s\u00e9rieux.",
-            "date": "2015-02-24",
-            "categories": "science,superstition",
-            "tags": "pays,vie,lann\u00e9e,ch\u00e8vre",
-            "recuweb_url": "http://fr.recuweb.com/superstition/geoado.com/2015/02/chine-fait-il-bon-na%C3%AEtre-lann%C3%A9e-de-la-ch%C3%A8vre",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=astrologie&format=RSS&cc=fr",
-            "source_url": "http://geoado.com/actualites/chine-fait-il-bon-naitre-lannee-de-la-chevre-28935"
-        },
-        "lexpress.mu/2015/02/astrologie-chinoise-tout-ce-que-vous-devez-savoir-sur-votre-signe": {
-            "title": "Astrologie chinoise: tout ce que vous devez savoir sur votre signe...",
-            "snippet": "De la chance est pr\u00e9vue pour les natifs de la Ch\u00e8vre cette ann\u00e9e, tant au niveau des relations amoureuses que du celui travail. Lann\u00e9e chinoise 2015 sera lann\u00e9e de la Ch\u00e8vre. Ce qui signifie que les natifs de ce signe m\u00e8neront une vie...",
-            "date": "2015-02-20",
+        "toutelatele.com/2015/04/une-nounou-d-enfer": {
+            "title": "Une nounou d'enfer...",
+            "snippet": "Fran tombe sous le charme de Steve Golberd, le professeur de philosophie de Maggie. Apr\u00e8s l'avoir rencontr\u00e9, elle est persuad\u00e9e qu'il est \u00e9galement s\u00e9duit. Un seul probl\u00e8me se pose: il est avant tout passionn\u00e9 par l'astrologie...",
+            "date": "2015-04-21",
             "categories": "astrologie",
-            "tags": "vie,lann\u00e9e,ann\u00e9e,astrologie,chinoise,ch\u00e8vre",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/lexpress.mu/2015/02/astrologie-chinoise-tout-ce-que-vous-devez-savoir-sur-votre-signe",
+            "tags": "avant,astrologie",
+            "recuweb_url": "http://fr.recuweb.com/astrologie/toutelatele.com/2015/04/une-nounou-d-enfer",
             "resource_url": "http://www.bing.com/news/search?first=1&q=astrologie&format=RSS&cc=fr",
-            "source_url": "http://lexpress.mu/article/258939/astrologie-chinoise-tout-ce-que-vous-devez-savoir-sur-votre-signe"
+            "source_url": "http://toutelatele.com/progTv/fiche.php?id=1115083&date=2015-04-21"
         },
-        "20minutes.fr/2015/02/nouvel-an-chinois-que-nous-r%C3%A9serve-l-ann%C3%A9e-de-la-ch%C3%A8vre": {
-            "title": "Nouvel an chinois: Que nous r\u00e9serve l'ann\u00e9e de la Ch\u00e8vre de Bois? -...",
-            "snippet": "an chinois: Que nous r\u00e9serve l'ann\u00e9e de la Ch\u00e8vre de Bois? Micha\u00ebl Lacroix, consultant en Feng Shui traditionnel, il faut nuancer cet enthousiasme: Chaque animal de l'astrologie chinoise a des aspects positifs et n\u00e9gatifs. Commen\u00e7ons par les...",
-            "date": "2015-02-19",
+        "cidehom.com/2015/04/etoile-en-astrologie-ciel-des-hommes": {
+            "title": "etoile en astrologie - Ciel des Hommes...",
+            "snippet": "etoile en astrologieCiel des Hommesetoile verte en astrologie. \u00c9toile rouge et verte qui scintille. Bonjour j habite dans la r\u00e9gion parisienne et tous les soir entre 20h et 22 h je vois clairement une... 05-10-2010. Dernier arr\u00eat avant...",
+            "date": "2015-04-16",
             "categories": "astrologie",
-            "tags": "chinoise,ann\u00e9e,ch\u00e8vre,astrologie",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/20minutes.fr/2015/02/nouvel-an-chinois-que-nous-r%C3%A9serve-l-ann%C3%A9e-de-la-ch%C3%A8vre",
+            "tags": "avant,astrologie",
+            "recuweb_url": "http://fr.recuweb.com/astrologie/cidehom.com/2015/04/etoile-en-astrologie-ciel-des-hommes",
             "resource_url": "http://news.google.fr/?hl=fr&q=astrologie&output=atom&nord=1",
-            "source_url": "http://20minutes.fr/societe/1544083-20150218-nouvel-an-chinois-reserve-annee-chevre-bois"
-        },
-        "bibamagazine.fr/2015/02/astrologie-quel-est-mon-ascendant-biba-magazine": {
-            "title": "Astrologie: quel est mon ascendant? - Biba Magazine...",
-            "snippet": "Biba MagazineAstrologie: quel est mon ascendant?Biba MagazineEn astrologie, l'ascendant fait partie du th\u00e8me astral. Ce dernier d\u00e9termine le caract\u00e8re d'une personne. Ainsi, d'apr\u00e8s ces principes, si vous \u00eates b\u00e9lier ascendant scorpion, votre...",
-            "date": "2015-02-07",
-            "categories": "astrologie",
-            "tags": "dernier,th\u00e8me,th\u00e8me-astral,astral,magazine,astrologie,ainsi",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/bibamagazine.fr/2015/02/astrologie-quel-est-mon-ascendant-biba-magazine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=astrologie%2Bastrologie&output=atom&nord=1",
-            "source_url": "http://bibamagazine.fr/style-de-vie/astrologie-quel-est-mon-ascendant-23927"
-        },
-        "public.fr/2015/02/astrologie-th%C3%A8me-astral-de-violet-lively": {
-            "title": "Astrologie: th\u00e8me astral de Violet Lively! -...",
-            "snippet": ": th\u00e8me astral de Violet Lively! parents de Violet sont rest\u00e9s tr\u00e8s discrets sur les circonstances de la naissance de leur prog\u00e9niture. La petite fille est arriv\u00e9e un peu avant terme le 28 d\u00e9cembre dernier mais nous n'avons pas son heure de...",
-            "date": "2015-02-03",
-            "categories": "astrologie",
-            "tags": "dernier,th\u00e8me,th\u00e8me-astral,astral,astrologie,d\u00e9cembre",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/public.fr/2015/02/astrologie-th%C3%A8me-astral-de-violet-lively",
-            "resource_url": "http://news.google.fr/?hl=fr&q=astrologie%2Bastrologie&output=atom&nord=1",
-            "source_url": "http://public.fr/News/Astrologie-theme-astral-de-Violet-Lively-672242"
-        },
-        "public.fr/2015/01/astrologie-la-grossesse-de-kim-kardashian": {
-            "title": "Astrologie: La grossesse de Kim Kardashian! -...",
-            "snippet": ": La grossesse de Kim Kardashian! a r\u00e9cemment d\u00e9menti les rumeurs de grossesse la concernant ainsi que ses suppos\u00e9s probl\u00e8mes de couple avec Kanye West. Son th\u00e8me natal d\u00e9voile une femme dou\u00e9e, particuli\u00e8rement sensible et aussi tr\u00e8s...",
-            "date": "2015-01-28",
-            "categories": "astrologie",
-            "tags": "th\u00e8me,ainsi,astrologie",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/public.fr/2015/01/astrologie-la-grossesse-de-kim-kardashian",
-            "resource_url": "http://news.google.fr/?hl=fr&q=astrologie%2Bastrologie&output=atom&nord=1",
-            "source_url": "http://public.fr/News/Astrologie-La-grossesse-de-Kim-Kardashian-667946"
+            "source_url": "http://cidehom.com/recherche.php?_mots=etoile+&lt;verte&gt;+en+astrologie&quoi_aff=7&_page=2688"
         }
     }
 }
