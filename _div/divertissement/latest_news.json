@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "divertissement",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150427"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/divertissement/",
@@ -10,6 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/divertissement/divertissement/blogs.json"
     },
     "items": {
+        "lexpress.fr/2015/04/scarlett-johansson-ma-plus-grande-joie-est-de-regarder-fille": {
+            "title": "Scarlett Johansson: Ma plus grande joie est de regarder ma fille...",
+            "snippet": "Mon monde d'alien bizarre du divertissement l'int\u00e9resse Le couple vit entre Paris et New York et semble avoir trouv\u00e9 un \u00e9quilibre entre un emploi du temps rythm\u00e9 et des moments de calme: On aime tous les deux sortir et danser. A d'autres...",
+            "date": "2015-04-24",
+            "categories": "emploi,divertissement",
+            "tags": "deux,temps,grande,fille,divertissement",
+            "recuweb_url": "http://fr.recuweb.com/divertissement/lexpress.fr/2015/04/scarlett-johansson-ma-plus-grande-joie-est-de-regarder-fille",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=divertissement&format=RSS&cc=fr",
+            "source_url": "http://lexpress.fr/styles/vip/scarlett-johansson-ma-plus-grande-joie-est-de-regarder-ma-fille_1674666.html"
+        },
+        "news.directindustry.fr/2015/04/faulhaber-info-divertissement-directindustry-communiqu%C3%A9-de-presse": {
+            "title": "Faulhaber: Info Divertissement - Directindustry (Communiqu\u00e9 de presse)...",
+            "snippet": "Directindustry (Communiqu\u00e9 de presse)Faulhaber: Info DivertissementDirectindustry (Communiqu\u00e9 de presse)aussi dans sa pr\u00e9sence en ligne. Ceci s'applique \u00e9galement depuis peu au site internet de l'entreprise dont la conception attrayante...",
+            "date": "2015-04-23",
+            "categories": "internet,divertissement",
+            "tags": "divertissement",
+            "recuweb_url": "http://fr.recuweb.com/divertissement/news.directindustry.fr/2015/04/faulhaber-info-divertissement-directindustry-communiqu%C3%A9-de-presse",
+            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement&output=atom&nord=1",
+            "source_url": "http://news.directindustry.fr/press/faulhaber/faulhaber-info-divertissement-7023-430107.html"
+        },
         "china-briefing.com/2015/04/investir-dans-le-secteur-du-divertissement-en-chine": {
             "title": "Investir dans le Secteur du Divertissement en Chine...",
             "snippet": "Le d\u00e9calage entre ce que les pays occidentaux appellent show business et la d\u00e9finition administrative de lindustrie du divertissement () en Chine peut rendre difficiles les discussions sur le sujet. Le premier comprend en...",
@@ -20,16 +41,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=divertissement&format=RSS&cc=fr",
             "source_url": "http://china-briefing.com/news/2015/04/23/investir-dans-le-secteur-du-divertissement-en-chine.html"
         },
-        "ladepeche.fr/2015/04/un-bon-divertissement-en-famille": {
-            "title": "Un bon divertissement en famille -...",
-            "snippet": "bon divertissement en trois pi\u00e8ces tr\u00e8s diverses, mais de qualit\u00e9 certaine, ont drain\u00e9 un public averti pour qui le th\u00e9tre est une valeur s\u00fbre, gage d'un bon divertissement en famille. Fin juin, le DIAM fera la s\u00e9lection des pi\u00e8ces pour le...",
-            "date": "2015-04-10",
-            "categories": "divertissement",
-            "tags": "divertissement",
-            "recuweb_url": "http://fr.recuweb.com/divertissement/ladepeche.fr/2015/04/un-bon-divertissement-en-famille",
-            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement%2Bdivertissement&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/04/10/2084440-un-bon-divertissement-en-famille.html"
-        },
         "capital.fr/2015/04/bruno-gaston-num%C3%A9ro-2-d-europe-1-divertissement-ou-info-l": {
             "title": "Bruno Gaston, num\u00e9ro 2 d'Europe 1: \"Divertissement ou info, l... -...",
             "snippet": "Gaston, num\u00e9ro 2 d'Europe 1: \"Divertissement ou info, l... des Inrockuptibles, Bruno Gaston est pass\u00e9 par Canal, France 2, France 4... Cet atypique directeur d\u00e9l\u00e9gu\u00e9 d'Europe 1 nous explique les secrets de la station bient\u00f4t soixantenaire.",
@@ -37,7 +48,7 @@
             "categories": "divertissement",
             "tags": "directeur,divertissement,france",
             "recuweb_url": "http://fr.recuweb.com/divertissement/capital.fr/2015/04/bruno-gaston-num%C3%A9ro-2-d-europe-1-divertissement-ou-info-l",
-            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement%2Bdivertissement&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement&output=atom&nord=1",
             "source_url": "http://capital.fr/a-la-une/interviews/bruno-gaston-numero-2-d-europe-1-divertissement-ou-info-l-important-c-est-le-ton-1028271"
         },
         "lefigaro.fr/2015/04/asus-android-est-tr%C3%A8s-bien-pour-le-divertissement": {
@@ -47,7 +58,7 @@
             "categories": "divertissement",
             "tags": "divertissement",
             "recuweb_url": "http://fr.recuweb.com/divertissement/lefigaro.fr/2015/04/asus-android-est-tr%C3%A8s-bien-pour-le-divertissement",
-            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement%2Bdivertissement&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement&output=atom&nord=1",
             "source_url": "http://lefigaro.fr/secteur/high-tech/2015/04/01/01007-20150401ARTFIG00011-asus-android-est-tres-bien-pour-le-divertissement-mais-c-est-tout.php"
         },
         "lequipe.fr/2015/03/tous-sports-catch-wrestlemania-sport-ou-divertissement-t%C3%A9l%C3%A9vis%C3%A9-l-%C3%A9": {
@@ -57,7 +68,7 @@
             "categories": "sport,sport-de-combat,divertissement",
             "tags": "divertissement,france",
             "recuweb_url": "http://fr.recuweb.com/divertissement/lequipe.fr/2015/03/tous-sports-catch-wrestlemania-sport-ou-divertissement-t%C3%A9l%C3%A9vis%C3%A9-l-%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement%2Bdivertissement&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=divertissement&output=atom&nord=1",
             "source_url": "http://lequipe.fr/Medias/Actualites/Wrestlemania-sport-ou-divertissement-televise/546135"
         },
         "fr.news.yahoo.com/2015/03/audiences-tv-les-enfoir%C3%A9s-toujours-en-forme": {
