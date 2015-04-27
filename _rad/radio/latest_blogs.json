@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radio",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radio/",
@@ -11,38 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
-        "24heuresactu.com/2015/04/radio-france-les-%C3%A9lites-de-g%C3%B4che-d%C3%A9fendent-leurs-privil%C3%A8ges": {
-            "title": "Radio France: les \u00e9lites de g\u00f4che d\u00e9fendent leurs privil\u00e8ges...",
-            "snippet": "Ce rapport incroyable nous montre les conditions de travail tr\u00e8s favorables pour les employ\u00e9s des radios publiques. Petite compilation des privil\u00e8ges pour lesquels se sont battus les employ\u00e9s de radio France:.",
-            "date": "2015-04-23",
-            "author_name": "lesoufflet",
+        "blogues.lapresse.ca/2015/04/simon-durivage-quitte-radio-canadarichard-therrien": {
+            "title": "Simon Durivage quitte Radio-CanadaRichard Therrien...",
+            "snippet": "Grosse nouvelle dans le monde de l'information: Simon Durivage a annonc\u00e9 ce midi qu'il animerait sa derni\u00e8re \u00e9mission du Club des ex le 19 juin prochain, et qu'il quitte par la m\u00eame occasion RDI et Radio-Canada.",
+            "date": "2015-04-27",
+            "author_name": "rtherrien",
             "categories": "radio",
-            "tags": "radios,radio,radio_france,france,rapport",
-            "recuweb_url": "http://fr.recuweb.com/radio/24heuresactu.com/2015/04/radio-france-les-%C3%A9lites-de-g%C3%B4che-d%C3%A9fendent-leurs-privil%C3%A8ges",
-            "resource_url": "http://www.google.com/search?q=radio%2Bradio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://24heuresactu.com/2015/04/23/radio-france-les-elites-de-goche-defendent-leurs-privileges/"
-        },
-        "lesmobiles.com/2015/04/la-radio-europe-1-d%C3%A9barque-sur-l-apple-watch": {
-            "title": "La radio Europe 1 d\u00e9barque sur l'Apple Watch -...",
-            "snippet": "Appartenant au groupe Lagard\u00e8re Active, la radio subit depuis plusieurs mois une v\u00e9ritable transformation num\u00e9rique de son offre de contenu, certainement en pr\u00e9paration de la d\u00e9mocratisation de la radio num\u00e9rique...",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "radio",
-            "tags": "mois,contenu,radio",
-            "recuweb_url": "http://fr.recuweb.com/radio/lesmobiles.com/2015/04/la-radio-europe-1-d%C3%A9barque-sur-l-apple-watch",
+            "tags": "\u00e9mission,radio,nouvelle,club,canada",
+            "recuweb_url": "http://fr.recuweb.com/radio/blogues.lapresse.ca/2015/04/simon-durivage-quitte-radio-canadarichard-therrien",
             "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lesmobiles.com/actualite/17648-la-radio-europe-1-debarque-sur-l-apple-watch.html"
+            "source_url": "http://blogues.lapresse.ca/therrien/2015/04/27/simon-durivage-quitte-radio-canada/"
         },
-        "radiookapi.net/2015/04/rdc-une-incursion-des-militaires-%C3%A9trangers-signal%C3%A9e-radio-okapi": {
-            "title": "RDC: une incursion des militaires \u00e9trangers signal\u00e9e... - Radio Okapi...",
-            "snippet": "Une incursion des militaires \u00e9trangers est signal\u00e9e depuis dimanche dernier tout pr\u00e8s des fronti\u00e8res de Bunagana, Bukina et de Rwasa dans les groupements de Buhumba et Kibumba en territoire de Nyiragongo au...",
-            "date": "2015-04-23",
+        "radiookapi.net/2015/04/division-i-vclub-a-battu-dcmp-3-2-radio-okapi": {
+            "title": "Division I: VClub a battu DCMP (3-2) Radio Okapi...",
+            "snippet": "Rencontre V. Club (noire) contre DCMP (blanc) le 23/02/2014 au stade Tata Raphael, match interrompu apr\u00e8s le but de V. Club. Radio Okapi/Ph. John Bompengo. Voir dans Picasa. Rencontre V. Club (noire) contre DCMP...",
+            "date": "2015-04-26",
             "author_name": "Radio Okapi (Radio Okapi)",
             "categories": "radio",
-            "tags": "pr\u00e8s,radio,radio_okapi,okapi,rdc",
-            "recuweb_url": "http://fr.recuweb.com/radio/radiookapi.net/2015/04/rdc-une-incursion-des-militaires-%C3%A9trangers-signal%C3%A9e-radio-okapi",
-            "resource_url": "http://www.google.com/search?q=radio%2Bradio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://radiookapi.net/actualite/2015/04/23/rdc-une-incursion-des-militaires-etrangers-signalee-au-nord-kivu/"
+            "tags": "match,interrompu,radio,club,contre",
+            "recuweb_url": "http://fr.recuweb.com/radio/radiookapi.net/2015/04/division-i-vclub-a-battu-dcmp-3-2-radio-okapi",
+            "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://radiookapi.net/sport/2015/04/26/division-vclub-battu-dcmp-3-2/"
         },
         "animationsavarymusic.com/2015/04/animation-de-votre-loto-200-prestataire-services": {
             "title": "Animation de Votre Loto 200 (Prestataire de Services)...",
@@ -50,21 +39,10 @@
             "date": "2015-04-22",
             "author_name": "dansav",
             "categories": "radio",
-            "tags": "radio,radio_france,france,sans",
+            "tags": "radio,radio_france,france,cest,propose",
             "recuweb_url": "http://fr.recuweb.com/radio/animationsavarymusic.com/2015/04/animation-de-votre-loto-200-prestataire-services",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=radio%2Bradio&rss=1&lng=fr",
             "source_url": "http://animationsavarymusic.com/?p=4160"
-        },
-        "radiookapi.net/2015/04/rdc-l-udps-participera-aux-provinciales-mais-pose-radio-okapi": {
-            "title": "RDC: l'UDPS participera aux provinciales mais pose... - Radio Okapi...",
-            "snippet": "L'Union pour la d\u00e9mocratie et le progr\u00e8s social (UDPS) participera officiellement aux \u00e9lections provinciales. F\u00e9lix Tshisekedi a officiellement annonc\u00e9 la position du parti de l'opposant Etienne Tshisekedi, mardi 21 avril au...",
-            "date": "2015-04-21",
-            "author_name": "Radio Okapi (Radio Okapi)",
-            "categories": "radio",
-            "tags": "radio,radio_okapi,okapi,rdc,avril",
-            "recuweb_url": "http://fr.recuweb.com/radio/radiookapi.net/2015/04/rdc-l-udps-participera-aux-provinciales-mais-pose-radio-okapi",
-            "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://radiookapi.net/actualite/2015/04/21/rdc-ludps-participera-aux-provinciales-mais-pose-des-prealables-pour-la-presidentielle/"
         },
         "acturatons.blogspot.com/2015/04/radio-france-en-gr%C3%A8ve-la-programmation-musicale-douce": {
             "title": "RADIO FRANCE EN GR\u00c8VE: LA PROGRAMMATION MUSICALE DOUCE...",
@@ -72,7 +50,7 @@
             "date": "2015-04-02",
             "author_name": "miss lilou",
             "categories": "radio",
-            "tags": "radio,radio_france,france,gr\u00e8ve,gr\u00e9vistes",
+            "tags": "france,radio,radio_france",
             "recuweb_url": "http://fr.recuweb.com/radio/acturatons.blogspot.com/2015/04/radio-france-en-gr%C3%A8ve-la-programmation-musicale-douce",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=radio%2Bradio&rss=1&lng=fr",
             "source_url": "http://acturatons.blogspot.com/2015/04/radio-france-en-greve-la-programmation.html"
