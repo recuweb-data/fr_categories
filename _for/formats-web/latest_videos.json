@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "formats-web",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/formats-web/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/formats-web/formats-web/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/les-passeurs-de-l-info": {
+            "title": "Les passeurs de l'info...",
+            "snippet": "Les passeurs de l'info R\u00e9alisation et montage: Caroline Bordenave Musique: BROME MOOC Rue89 \"Ecrire et produire une vid\u00e9o: les formats web et mobile\" Th\u00e8me: \"Votre h\u00e9ros de l'informati. From: MultiLandEi Views: 321 21 ratings Time: 02:12 More in...",
+            "date": "2015-04-20",
+            "author_name": "MultiLandEi",
+            "categories": "formats-web,musique",
+            "tags": "formats,formats-web,web,web-et-mobile,mobile,ecrire,ecrire-et-produire,produire,produire-une-vid\u00e9o,mooc,mooc_rue,rue,montage,th\u00e8me",
+            "recuweb_url": "http://fr.recuweb.com/musique/youtube.com/2015/04/les-passeurs-de-l-info",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=FumYhjcMTSI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/FumYhjcMTSI/0.jpg"
+        },
         "youtube.com/2015/04/s-informer-autrement-le-cas": {
             "title": "S'informer autrement. Le cas de...",
-            "snippet": "S'informer autrement. Le cas de Ce court reportage vid\u00e9o a \u00e9t\u00e9 r\u00e9alis\u00e9 dans le cadre du troisi\u00e8me MOOC de Rue89: Ecrire et produire une vid\u00e9o: les nouveaux formats web et mobile. Th\u00e8me impos\u00e9: Votre... From: Lola Aubert Views: 52 5 ratings...",
+            "snippet": "S'informer autrement. Le cas de Ce court reportage vid\u00e9o a \u00e9t\u00e9 r\u00e9alis\u00e9 dans le cadre du troisi\u00e8me MOOC de Rue89: Ecrire et produire une vid\u00e9o: les nouveaux formats web et mobile. Th\u00e8me impos\u00e9: Votre... From: Lola Aubert Views: 122 7 ratings...",
             "date": "2015-04-20",
             "author_name": "Lola Aubert",
             "categories": "formats-web",
-            "tags": "nouveaux,nouveaux-formats,nouveaux-formats-web,formats,formats-web,web,web-et-mobile,mobile,produire,produire-une-vid\u00e9o,cadre,mooc,rue,ecrire",
+            "tags": "nouveaux,nouveaux-formats,nouveaux-formats-web,formats,formats-web,web,web-et-mobile,mobile,produire,produire-une-vid\u00e9o,cadre,mooc,rue,ecrire,th\u00e8me",
             "recuweb_url": "http://fr.recuweb.com/formats-web/youtube.com/2015/04/s-informer-autrement-le-cas",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=S6xTMWTrerw&feature=youtube_gdata",
@@ -29,11 +41,23 @@
             "date": "2015-04-19",
             "author_name": "Myriam Jacquet",
             "categories": "formats-web",
-            "tags": "nouveaux,nouveaux-formats,nouveaux-formats-web,formats,formats-web,web,web-et-mobile,mobile,ecrire,produire,produire-une-vid\u00e9o,cadre,mooc",
+            "tags": "montage,nouveaux,nouveaux-formats,nouveaux-formats-web,formats,formats-web,web,web-et-mobile,mobile,ecrire,ecrire-et-produire,produire,produire-une-vid\u00e9o,cadre,mooc",
             "recuweb_url": "http://fr.recuweb.com/formats-web/youtube.com/2015/04/anne-de-loisy-le-journalisme-citoyen",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=TP6GTgEl7Po&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/TP6GTgEl7Po/0.jpg"
+        },
+        "youtube.com/2015/04/mon-film-pour-le-mooc-ecrire-et-produire-une-video": {
+            "title": "Mon film pour le Mooc ECRIRE ET PRODUIRE UNE VIDEO LES NOUVEAUX FORMATS WEB ET MOBILE...",
+            "snippet": "Mon film pour le Mooc ECRIRE ET PRODUIRE UNE VIDEO LES NOUVEAUX FORMATS WEB ET MOBILE From: Bruno TISON Views: 1 0 ratings Time: 02:08 More in Education...",
+            "date": "2015-04-18",
+            "author_name": "Bruno TISON",
+            "categories": "formats-web",
+            "tags": "mooc,ecrire,produire,nouveaux,formats,web,mobile",
+            "recuweb_url": "http://fr.recuweb.com/formats-web/youtube.com/2015/04/mon-film-pour-le-mooc-ecrire-et-produire-une-video",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=PXMCtOBrmII&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/PXMCtOBrmII/0.jpg"
         },
         "youtube.com/2015/01/mooc-rue89-ecrire-et-produire-une-vid%C3%A9o-les-nouveaux-formats-web": {
             "title": "MOOC Rue89 - Ecrire et produire une vid\u00e9o: les nouveaux formats web et mobile (teaser)...",
@@ -41,30 +65,18 @@
             "date": "2015-01-28",
             "author_name": "Mooc Journalisme",
             "categories": "place,formats-web",
-            "tags": "sites,web,nouveaux,nouveaux-formats,nouveaux-formats-web,formats,formats-web,web-et-mobile,mobile,produire,produire-une-vid\u00e9o,mooc,rue,ecrire",
+            "tags": "sites,web,nouveaux,nouveaux-formats,nouveaux-formats-web,formats,formats-web,web-et-mobile,mobile,produire,produire-une-vid\u00e9o,mooc,mooc_rue,rue,ecrire",
             "recuweb_url": "http://fr.recuweb.com/formats-web/youtube.com/2015/01/mooc-rue89-ecrire-et-produire-une-vid%C3%A9o-les-nouveaux-formats-web",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb%2Bformats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=WwbFNzBY24k&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/WwbFNzBY24k/0.jpg"
-        },
-        "youtube.com/2015/01/tutoriel-int%C3%A9gration-responsive-d-un-site-web-et-une-video-html5": {
-            "title": "Tutoriel Int\u00e9gration responsive d'un site Web et d'une video HTML5 avec Twitter Bootstrap...",
-            "snippet": "Tutoriel Int\u00e9gration responsive d'un site Web et d'une video HTML5 avec Twitter Bootstrap Dans ce tutoriel HTML CSS en vid\u00e9o, nous allons apprendre \u00e0 encoder en plusieurs formats et \u00e0 int\u00e9grer une vid\u00e9o responsive en arri\u00e8re plan dans un site...",
-            "date": "2015-01-20",
-            "author_name": "Team8Tuto",
-            "categories": "css,twitter",
-            "tags": "plusieurs,formats,site,web",
-            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2015/01/tutoriel-int%C3%A9gration-responsive-d-un-site-web-et-une-video-html5",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=2Q7kc9KgpDA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2Q7kc9KgpDA/0.jpg"
         },
         "youtube.com/2014/09/lorenzo-benedetti-ceo-de-studio-bagel-il-faut-des-formats": {
             "title": "Lorenzo Benedetti, CEO de Studio Bagel: Il faut des formats plus longs, proches des s\u00e9ries...",
             "snippet": "Lorenzo Benedetti, CEO de Studio Bagel: \"Il faut des formats plus longs, proches des s\u00e9ries\" Lors du YouTube Brandcast 2014 qui r\u00e9unissant les acteurs du web, les agences et les marques, Strat\u00e9gies a interview\u00e9 plusieurs acteurs cl\u00e9s du secteur...",
             "date": "2014-09-29",
             "author_name": "Redaction Strategies",
-            "tags": "plusieurs,web,formats",
+            "tags": "web,formats",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/09/lorenzo-benedetti-ceo-de-studio-bagel-il-faut-des-formats",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=4rOi2J-gBTE&feature=youtube_gdata",
@@ -87,22 +99,11 @@
             "snippet": "Comment R\u00e9f\u00e9rence Pages monde Wide Web en style APA Format From: formats d'\u00e9criture et de la citation Views: 0 0 ratings Time: 02:04 More in Howto & Style...",
             "date": "2014-08-06",
             "author_name": "formats d'\u00e9criture et de la citation",
-            "tags": "\u00e9criture,citation,formats,format,apa,apa_format,style,web,pages,howto",
+            "tags": "\u00e9criture,citation,formats,format,apa,apa_format,style,web,howto",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/08/comment-r%C3%A9f%C3%A9rence-pages-monde-wide-web-en-style-apa-format",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0ScpdSeXQ7g&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/0ScpdSeXQ7g/0.jpg"
-        },
-        "youtube.com/2014/08/comment-citer-les-pages-web-dans-mla-format": {
-            "title": "Comment citer les pages Web dans MLA Format...",
-            "snippet": "Comment citer les pages Web dans MLA Format From: formats d'\u00e9criture et de la citation Views: 1 0 ratings Time: 05:31 More in Howto & Style...",
-            "date": "2014-08-06",
-            "author_name": "formats d'\u00e9criture et de la citation",
-            "tags": "\u00e9criture,citation,formats,format,mla,mla_format,citer,pages,web,howto,style",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/08/comment-citer-les-pages-web-dans-mla-format",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb%2Bformats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=55goEwQ2zTI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/55goEwQ2zTI/0.jpg"
         },
         "youtube.com/2014/08/comment-citer-un-article-web-apa-format": {
             "title": "Comment citer un article Web APA Format...",
@@ -111,7 +112,7 @@
             "author_name": "formats d'\u00e9criture et de la citation",
             "tags": "\u00e9criture,citation,formats,format,web,apa,apa_format,citer,howto,style",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/08/comment-citer-un-article-web-apa-format",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb%2Bformats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=tahBDeDUp7g&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/tahBDeDUp7g/0.jpg"
         },
@@ -120,7 +121,7 @@
             "snippet": "Comment citer un site Web dans MLA Format From: formats d'\u00e9criture et de la citation Views: 1 0 ratings Time: 03:01 More in Howto & Style...",
             "date": "2014-08-06",
             "author_name": "formats d'\u00e9criture et de la citation",
-            "tags": "\u00e9criture,citation,formats,format,mla,mla_format,citer,site,web,howto,style",
+            "tags": "\u00e9criture,citation,formats,format,citer,web,howto,style",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/08/comment-citer-un-site-web-dans-mla-format",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=formats%2Bweb%2Bformats%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=mcwG7t53QmE&feature=youtube_gdata",
