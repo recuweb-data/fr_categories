@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "valence-club-de-f\u00fatbol",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/valence-club-de-f\u00fatbol/",
@@ -10,14 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/valence-club-de-f%C3%BAtbol/valence-club-de-f%C3%BAtbol/blogs.json"
     },
     "items": {
-        "fr.uefa.com/2014/10/valence-d%C3%A9fait-l-atl%C3%A9tico-news": {
-            "title": "Valence d\u00e9fait l'Atl\u00e9tico - News - -...",
-            "snippet": "d\u00e9fait l'Atl\u00e9tico - News - UEFA.com d\u00e9fait l'Atl\u00e9tico. Publi\u00e9: Samedi, 4 octobre 2014,. Le Valencia CF n'a pas tard\u00e9 pour faire la diff\u00e9rence contre le Club Atl\u00e9tico de Madrid avec trois buts dans les 13 premi\u00e8res minutes. par Richard...",
-            "date": "2014-10-04",
-            "tags": "minutes,buts,contre,club,valence,atl\u00e9tico,valencia,madrid",
-            "recuweb_url": "http://fr.recuweb.com/fr.uefa.com/2014/10/valence-d%C3%A9fait-l-atl%C3%A9tico-news",
+        "le10sport.com/2015/04/mercato-asse-ces-cadres-qui-s-interrogent-et-pourraient-partir": {
+            "title": "Mercato - ASSE: Ces cadres qui s'interrogent et pourraient partir cet... - Le 10 Sport...",
+            "snippet": "Le 10 SportMercato - ASSE: Ces cadres qui s'interrogent et pourraient partir cet...Le 10 SportArsenal, l'AS Rome, l'OM, le FC Valence ou encore son ancien club, l'AS Monaco suivent de pr\u00e8s le gardien international. L'ASSE peut esp\u00e9rer entre 6 et...",
+            "date": "2015-04-23",
+            "categories": "sport",
+            "tags": "international,sport,valence,club",
+            "recuweb_url": "http://fr.recuweb.com/sport/le10sport.com/2015/04/mercato-asse-ces-cadres-qui-s-interrogent-et-pourraient-partir",
+            "resource_url": "http://news.google.fr/?hl=fr&q=valence%2Bclub%2Bde%2Bf%C3%BAtbol%2Bvalence%2Bclub%2Bde%2Bf%C3%BAtbol&output=atom&nord=1",
+            "source_url": "http://le10sport.com/football/mercato/mercato-asse-ces-cadres-qui-sinterrogent-et-pourraient-partir-cet-ete186845"
+        },
+        "fr.sports.yahoo.com/2015/04/cinq-choses-que-vous-ne-savez-pas-sur-le-derby": {
+            "title": "Cinq choses que vous ne savez pas sur le derby de Valence - Yahoo Sport...",
+            "snippet": "Yahoo SportCinq choses que vous ne savez pas sur le derby de ValenceYahoo SportDe fait, le 6 septembre 1909, le FC Caba\u00f1al prend le nom de Football Club Levante. Une d\u00e9cennie plus tard, en 1919, le FC Valence voit le jour d'une funeste mani\u00e8re.",
+            "date": "2015-04-13",
+            "categories": "football,yahoo,sport",
+            "tags": "football,club,levante,sport,valence",
+            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/cinq-choses-que-vous-ne-savez-pas-sur-le-derby",
             "resource_url": "http://news.google.fr/?hl=fr&q=valence%2Bclub%2Bde%2Bf%C3%BAtbol&output=atom&nord=1",
-            "source_url": "http://fr.uefa.com/memberassociations/association=esp/news/newsid=2160386.html"
+            "source_url": "http://fr.sports.yahoo.com/news/cinq-choses-ne-savez-derby-valence-090000957--sow.html"
         }
     }
 }
