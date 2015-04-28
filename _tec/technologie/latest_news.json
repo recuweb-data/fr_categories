@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "technologie",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/technologie/",
@@ -10,105 +11,105 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/technologie/technologie/blogs.json"
     },
     "items": {
-        "village-justice.com/2015/04/drones-ou-comment-utiliser-la-technologie-pour-%C3%AAtre-plus-efficace-village": {
-            "title": "Drones... ou comment utiliser la technologie pour \u00eatre plus efficace... - Village de la justice...",
-            "snippet": "Village de la justice (Blog)Drones... ou comment utiliser la technologie pour \u00eatre plus de la justice (Blog)Drones... ou comment utiliser la technologie pour \u00eatre plus efficace... 169 lectures. - lundi 20 avril 2015. Allianz innove pour mieux...",
-            "date": "2015-04-20",
+        "commentcamarche.net/2015/04/expose-de-technologie": {
+            "title": "Expose de technologie...",
+            "snippet": "Je dois faire un expose sur les ecrans moniteurs et il me manque deux questions. Est ce que vous pouvez m aider svp -Rep\u00e9rer dans cet objet technique une ou des \u00e9volutions dans les principes techniques de construction (mat\u00e9riaux, \u00e9nergies,...",
+            "date": "2015-04-25",
+            "categories": "construction,technologie",
+            "tags": "deux,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/commentcamarche.net/2015/04/expose-de-technologie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31882069-expose-de-technologie"
+        },
+        "lefaso.net/2015/04/technologie-les-sites-web-des-minist%C3%A8res-et-institutions": {
+            "title": "Technologie: Les sites web des minist\u00e8res et institutions de... -...",
+            "snippet": "Technologie: Les sites web des minist\u00e8res et institutions de... d'attaques de cybercriminels dans la nuit du 22 au 23 avril 2015, les diff\u00e9rents sites web des minist\u00e8res et institutions qui avaient \u00e9t\u00e9 inaccessibles durant toute la journ\u00e9e du...",
+            "date": "2015-04-25",
             "categories": "technologie",
-            "tags": "\u00eatre,technologie,avril",
-            "recuweb_url": "http://fr.recuweb.com/technologie/village-justice.com/2015/04/drones-ou-comment-utiliser-la-technologie-pour-%C3%AAtre-plus-efficace-village",
+            "tags": "web,\u00e9t\u00e9,journ\u00e9e,technologie,avril",
+            "recuweb_url": "http://fr.recuweb.com/technologie/lefaso.net/2015/04/technologie-les-sites-web-des-minist%C3%A8res-et-institutions",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie&output=atom&nord=1",
+            "source_url": "http://lefaso.net/spip.php?article64402"
+        },
+        "zonebourse.com/2015/04/sapient-british-airways-d%C3%A9signe-sapientnitro-comme-agence": {
+            "title": "Sapient: British Airways d\u00e9signe SapientNitro comme agence... -...",
+            "snippet": "Sapient: British Airways d\u00e9signe SapientNitro comme agence... Airways a annonc\u00e9 que SapientNitro, qui fait partie de, a \u00e9t\u00e9 choisie comme agence digitale mondiale du transporteur pour ses activit\u00e9s de technologie cr\u00e9ative et de m\u00e9dias...",
+            "date": "2015-04-24",
+            "categories": "technologie",
+            "tags": "\u00e9t\u00e9,comme,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/zonebourse.com/2015/04/sapient-british-airways-d%C3%A9signe-sapientnitro-comme-agence",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie&output=atom&nord=1",
+            "source_url": "http://zonebourse.com/SAPIENT-CORPORATION-10740/actualite/Sapient--British-Airways-designe-SapientNitro-comme-agence-digitale-mondiale-de-technologie-creativ-20249991/"
+        },
+        "automobile.challenges.fr/2015/04/chine-le-transfert-de-technologie-inqui%C3%A8te-les-constructeurs": {
+            "title": "Chine: le transfert de technologie inqui\u00e8te les constructeurs -...",
+            "snippet": ": le transfert de technologie inqui\u00e8te les cr\u00e9ation de nouvelles marques est le biais trouv\u00e9 par le Gouvernement pour favoriser le transfert de technologie. En effet, la propri\u00e9t\u00e9 industrielle de tout mod\u00e8le vendu sous ces nouveaux labels est...",
+            "date": "2015-04-23",
+            "categories": "technologie",
+            "tags": "nouvelles,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/automobile.challenges.fr/2015/04/chine-le-transfert-de-technologie-inqui%C3%A8te-les-constructeurs",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie&output=atom&nord=1",
+            "source_url": "http://automobile.challenges.fr/dossiers/20150423.LQA7286/salon-de-shanghai-les-marques-auto-sino-occidentales-a-la-traine.html"
+        },
+        "bienpublic.com/2015/04/innovation-la-technologie-3d-a-de-lavenir": {
+            "title": "Innovation La technologie 3D a de lavenir...",
+            "snippet": "La technologie 3D a de lavenir et du potentiel en Bourgogne, notamment parce que beaucoup dentreprises sont int\u00e9ress\u00e9es et que nous disposons de ressources r\u00e9gionales, d\u00e9clare Jasmine F\u00e9dor, charg\u00e9e de communication de Bourgogne Innovation.",
+            "date": "2015-04-23",
+            "categories": "technologie",
+            "tags": "communication,innovation,technologie,bourgogne",
+            "recuweb_url": "http://fr.recuweb.com/technologie/bienpublic.com/2015/04/innovation-la-technologie-3d-a-de-lavenir",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
+            "source_url": "http://bienpublic.com/cote-d-or/2015/04/23/la-technologie-3d-a-de-l-avenir"
+        },
+        "madame.lefigaro.fr/2015/04/sport-et-technologie-les-meilleures-applications-pour-garder-la-forme-madame": {
+            "title": "Sport et technologie: les meilleures applications pour garder la forme - Madame Figaro...",
+            "snippet": "Madame FigaroSport et technologie: les meilleures applications pour garder la formeMadame FigaroSport et technologie: les meilleures applications pour garder la forme. La R\u00e9daction Le 23 avril 2015. Partager. Facebook Twitter Google Pinterest.",
+            "date": "2015-04-23",
+            "categories": "facebook,twitter,google,sport,technologie",
+            "tags": "technologie,avril,partager",
+            "recuweb_url": "http://fr.recuweb.com/technologie/madame.lefigaro.fr/2015/04/sport-et-technologie-les-meilleures-applications-pour-garder-la-forme-madame",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie&output=atom&nord=1",
+            "source_url": "http://madame.lefigaro.fr/bien-etre/sport-et-technologie-les-meilleures-applications-pour-garder-la-forme-010115-2423"
+        },
+        "businesswire.com/2015/04/wyplay-int%C3%A8gre-la-technologie-de-compression-vid%C3%A9o-perseus-business-wire": {
+            "title": "Wyplay int\u00e8gre la technologie de compression vid\u00e9o PERSEUS de... - Business Wire...",
+            "snippet": "Wyplay int\u00e8gre la technologie de compression vid\u00e9o PERSEUS de...Business WireCette r\u00e9alisation d\u00e9montre l'avantage de l'approche open innovation pr\u00f4n\u00e9e par les deux soci\u00e9t\u00e9s, en termes de d\u00e9lais de commercialisation, pour l'introduction de...",
+            "date": "2015-04-23",
+            "categories": "technologie",
+            "tags": "innovation,deux,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/businesswire.com/2015/04/wyplay-int%C3%A8gre-la-technologie-de-compression-vid%C3%A9o-perseus-business-wire",
             "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Btechnologie&output=atom&nord=1",
-            "source_url": "http://village-justice.com/articles/Drones-comment-utiliser,19487.html"
+            "source_url": "http://businesswire.com/news/home/20150423005438/fr/"
         },
-        "lasemainedansleboulonnais.fr/2015/04/la-technologie-s-invite-dans-votre-jardin-semaine-le-boulonnais": {
-            "title": "La technologie s'invite dans votre jardin - La Semaine dans le Boulonnais...",
-            "snippet": "La Semaine dans le BoulonnaisLa technologie s'invite dans votre jardinLa Semaine dans le BoulonnaisRetrouvez les outils High-tech essentiels pour votre jardin ce printemps. En exclusivit\u00e9 dans votre journal, d\u00e9couvrez la nouvelle station m\u00e9t\u00e9o...",
-            "date": "2015-04-20",
+        "hebdo.ch/2015/04/technologie-neuchtel-veut-devenir-pionni%C3%A8re-de-linternet-par-la-lumi%C3%A8re": {
+            "title": "Technologie: Neuchtel veut devenir pionni\u00e8re de linternet par la lumi\u00e8re...",
+            "snippet": "Zoom. Deux \u00e9lus proposent de doter la ville dun r\u00e9seau public bas\u00e9 sur le li-fi. Ce syst\u00e8me permet de capter des donn\u00e9es en utilisant l\u00e9clairage dune lampe LED. Explications. Les ondes des r\u00e9seaux wi-fi repr\u00e9sentent-elles un danger pour...",
+            "date": "2015-04-22",
             "categories": "technologie",
-            "tags": "nouvelle,semaine,technologie,high,tech",
-            "recuweb_url": "http://fr.recuweb.com/technologie/lasemainedansleboulonnais.fr/2015/04/la-technologie-s-invite-dans-votre-jardin-semaine-le-boulonnais",
+            "tags": "technologie,deux",
+            "recuweb_url": "http://fr.recuweb.com/technologie/hebdo.ch/2015/04/technologie-neuchtel-veut-devenir-pionni%C3%A8re-de-linternet-par-la-lumi%C3%A8re",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
+            "source_url": "http://hebdo.ch/hebdo/cadrages/detail/technologie-neuch\u00e2tel-veut-devenir-pionni\u00e8re-de-l\u2019internet-par-la-lumi\u00e8re"
+        },
+        "objectifgard.com/2015/04/fait-du-jour-atonis-technologie-le-d%C3%A9veloppement-objectif-gard": {
+            "title": "FAIT DU JOUR Atonis Technologie: le d\u00e9veloppement... - Objectif Gard...",
+            "snippet": "Objectif GardFAIT DU JOUR Atonis Technologie: le d\u00e9veloppement...Objectif GardChristophe Nauroy et Sofiane El Karoui sont les deux fondateurs d'Atonis Technologie, soci\u00e9t\u00e9 de communication web cr\u00e9e en 2001. La fermeture de l'antenne n\u00eemoise de...",
+            "date": "2015-04-21",
+            "categories": "technologie",
+            "tags": "communication,web,technologie,deux,jour",
+            "recuweb_url": "http://fr.recuweb.com/technologie/objectifgard.com/2015/04/fait-du-jour-atonis-technologie-le-d%C3%A9veloppement-objectif-gard",
             "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Btechnologie&output=atom&nord=1",
-            "source_url": "http://lasemainedansleboulonnais.fr/la-technologie-s-invite-dans-votre-jardin-ia0b0n142262"
+            "source_url": "http://objectifgard.com/2015/04/21/fait-du-jour-atonis-technologie-le-developpement-economique-est-lie-a-la-formation/"
         },
-        "journalmetro.com/2015/04/lex-d%C3%A9put%C3%A9-claude-lanthier-est-d%C3%A9c%C3%A9d%C3%A9": {
-            "title": "Lex-d\u00e9put\u00e9 Claude Lanthier est d\u00e9c\u00e9d\u00e9...",
-            "snippet": "\u00c9lu d\u00e9put\u00e9 f\u00e9d\u00e9ral de la circonscription de LaSalle-\u00c9mard en 1984, il fut successivement secr\u00e9taire parlementaire du ministre des Finances; du ministre d\u00c9tat charg\u00e9 des Sciences et de la Technologie; ainsi que du ministre des Travaux...",
-            "date": "2015-04-20",
-            "categories": "science,technologie",
-            "tags": "ainsi,technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/journalmetro.com/2015/04/lex-d%C3%A9put%C3%A9-claude-lanthier-est-d%C3%A9c%C3%A9d%C3%A9",
+        "france3-regions.francetvinfo.fr/2015/04/technologie-y-a-t-il-un-avenir-pour-la-3d": {
+            "title": "Technologie: y a-t-il un avenir pour la 3D en Bourgogne?",
+            "snippet": "Quand a \u00e9t\u00e9 cr\u00e9\u00e9e la 3D? Au milieu du XIX\u00e8me si\u00e8cle, les lunettes bicolores qui permettent de donner du relief aux images sont mises au point. Quelques ann\u00e9es plus tard, en 1893, le brevet de la st\u00e9r\u00e9oscopie polarisante est d\u00e9pos\u00e9. 115...",
+            "date": "2015-04-21",
+            "categories": "technologie",
+            "tags": "\u00e9t\u00e9,cr\u00e9\u00e9e,avenir,technologie,bourgogne",
+            "recuweb_url": "http://fr.recuweb.com/technologie/france3-regions.francetvinfo.fr/2015/04/technologie-y-a-t-il-un-avenir-pour-la-3d",
             "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
-            "source_url": "http://journalmetro.com/local/lasalle/actualites/760414/lex-depute-claude-lanthier-est-decede/"
-        },
-        "xboxygen.com/2015/04/podcast-art-vs-technologie": {
-            "title": "Podcast - Art vs Technologie...",
-            "snippet": "Une fois par mois, en partenariat avec le site Des bits et des Pixels, nous allons vous proposer un podcast anim\u00e9 par Creepers, entour\u00e9 de ses camarades dont moi-m\u00eame. Au programme, une zone news, une zone critique, et un dossier. Ce mois-ci,...",
-            "date": "2015-04-20",
-            "categories": "technologie",
-            "tags": "technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/xboxygen.com/2015/04/podcast-art-vs-technologie",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
-            "source_url": "http://xboxygen.com/News/19633-Pocast-Art-vs-Technologie"
-        },
-        "easyvoyage.com/2015/04/quand-la-technologie-vous-place-dans-peau-d-un-oiseau": {
-            "title": "Quand la technologie vous place dans la peau d'un oiseau...",
-            "snippet": "Pour convaincre le public sur les capacit\u00e9s interactivesde la r\u00e9alit\u00e9 virtuelle, Birdly fera son show durant une partie du spectacle des Histoires sensorielles, pr\u00e9sent\u00e9 par Future of StoryTelling (FoST). Ce spectacle se tiendra du 18 avril au...",
-            "date": "2015-04-20",
-            "categories": "place,technologie",
-            "tags": "avril,r\u00e9alit\u00e9,technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/easyvoyage.com/2015/04/quand-la-technologie-vous-place-dans-peau-d-un-oiseau",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
-            "source_url": "http://easyvoyage.com/actualite/une-simulation-de-sport-extreme-plus-vrai-que-nature-47522"
-        },
-        "sport24.lefigaro.fr/2015/04/la-technologie-sur-ligne-de-but-arrive-en-ligue-1": {
-            "title": "La technologie sur la ligne de but arrive en Ligue 1...",
-            "snippet": "LE SCAN SPORT - La technologie sur la ligne de but entrera en vigueur en d\u00e9but de saison prochaine dans le championnat de France, a annonc\u00e9 le pr\u00e9sident de la Ligue de football professionnel, Fr\u00e9d\u00e9ric Thiriez. L'id\u00e9e \u00e9tait dans l'air depuis...",
-            "date": "2015-04-17",
-            "categories": "football,sport,technologie",
-            "tags": "pr\u00e9sident,ligne,ligne-de-but,saison,saison-prochaine,prochaine,technologie,ligue",
-            "recuweb_url": "http://fr.recuweb.com/technologie/sport24.lefigaro.fr/2015/04/la-technologie-sur-ligne-de-but-arrive-en-ligue-1",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie&format=RSS&cc=fr",
-            "source_url": "http://sport24.lefigaro.fr/le-scan-sport/business/2015/04/16/27004-20150416ARTFIG00378-la-technologie-sur-la-ligne-de-but-arrive-en-ligue-1.php"
-        },
-        "rtl.fr/2015/04/technologie-sur-la-ligne-de-but-un-gadget-pour-triaud": {
-            "title": "Technologie sur la ligne de but: \"Un gadget\" pour Triaud, \"un... -...",
-            "snippet": "sur la ligne de but: \"Un gadget\" pour Triaud, \"un... \u00c0 partir de la saison prochaine, les stades de Ligue 1 seront \u00e9quip\u00e9s de la technologie sur la ligne de but. Le dispositif, bas\u00e9 sur des cam\u00e9ras, permet aux arbitres de savoir si le ballon a...",
-            "date": "2015-04-17",
-            "categories": "technologie",
-            "tags": "saison,saison-prochaine,prochaine,ligne,ligne-de-but,technologie,ligue",
-            "recuweb_url": "http://fr.recuweb.com/technologie/rtl.fr/2015/04/technologie-sur-la-ligne-de-but-un-gadget-pour-triaud",
-            "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Btechnologie&output=atom&nord=1",
-            "source_url": "http://rtl.fr/sport/football/technologie-sur-la-ligne-de-but-un-gadget-pour-triaud-un-premier-pas-pour-caiazzo-7777391436"
-        },
-        "fr.news.yahoo.com/2015/04/nokia-veut-racheter-la-totalit%C3%A9-d-alcatel-lucent": {
-            "title": "Nokia veut racheter la totalit\u00e9 d'Alcatel-Lucent...",
-            "snippet": "Technologie - Les deux groupes ont confirm\u00e9 \u00eatre en discussions avanc\u00e9es. Le rapprochement \"prendrait la forme d'une offre publique d'achat\".",
-            "date": "2015-04-14",
-            "categories": "technologie",
-            "tags": "\u00eatre,discussions,discussions-avanc\u00e9es,avanc\u00e9es,nokia,alcatel,lucent,technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/fr.news.yahoo.com/2015/04/nokia-veut-racheter-la-totalit%C3%A9-d-alcatel-lucent",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=technologie",
-            "source_url": "http://fr.news.yahoo.com/nokia-veut-racheter-totalit\u00e9-dalcatel-075918257.html"
-        },
-        "fr.news.yahoo.com/2015/04/nokia-vers-un-rachat-des-activit%C3%A9s-mobiles-d-alcatel-lucent": {
-            "title": "Nokia: vers un rachat des activit\u00e9s mobiles d'Alcatel-Lucent...",
-            "snippet": "Technologie - En discussions avanc\u00e9es, le Finlandais pourrait annoncer un accord avec la soci\u00e9t\u00e9 de t\u00e9l\u00e9communication fran\u00e7aise d\u00e8s cette semaine, selon Bloomberg. Nokia se renforcerait ainsi dans les...",
-            "date": "2015-04-14",
-            "categories": "technologie",
-            "tags": "ainsi,semaine,discussions,discussions-avanc\u00e9es,avanc\u00e9es,nokia,alcatel,lucent,technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/fr.news.yahoo.com/2015/04/nokia-vers-un-rachat-des-activit%C3%A9s-mobiles-d-alcatel-lucent",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=technologie",
-            "source_url": "http://fr.news.yahoo.com/nokia-rachat-activit\u00e9s-mobiles-dalcatel-054228903.html"
-        },
-        "fr.news.yahoo.com/2015/04/strasbourg-paiement-sans-contact-et-le-bas-rhin-les-locomotives-fran%C3%A7aises": {
-            "title": "Strasbourg: Paiement sans contact: Strasbourg et le Bas-Rhin, les locomotives fran\u00e7aises...",
-            "snippet": "TECHNOLOGIE - La capitale alsacienne et le d\u00e9partement bas-rhinois seraient les plus avanc\u00e9s en mati\u00e8re de paiement sans contact...",
-            "date": "2015-04-14",
-            "categories": "technologie",
-            "tags": "technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/fr.news.yahoo.com/2015/04/strasbourg-paiement-sans-contact-et-le-bas-rhin-les-locomotives-fran%C3%A7aises",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=technologie",
-            "source_url": "http://fr.news.yahoo.com/strasbourg-paiement-contact-strasbourg-bas-rhin-locomotives-fran\u00e7aises-085406451.html"
+            "source_url": "http://france3-regions.francetvinfo.fr/bourgogne/2015/04/21/technologie-y-t-il-un-avenir-pour-la-3d-en-bourgogne-709677.html"
         }
     }
 }
