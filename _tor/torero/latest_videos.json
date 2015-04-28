@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "torero",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/torero/",
@@ -18,9 +19,21 @@
             "categories": "torero",
             "tags": "luc,lahaye,torero,jean,live,olympia,people",
             "recuweb_url": "http://fr.recuweb.com/torero/youtube.com/2015/02/le-torero-jean-luc-lahaye",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=torero&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=torero%2Btorero&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=AtM57m5CWSc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/AtM57m5CWSc/0.jpg"
+        },
+        "youtube.com/2015/02/ole-torero-paso-doble-harmonica-chromatique-version-2": {
+            "title": "Ole torero - Paso doble - Harmonica chromatique - Version 2...",
+            "snippet": "Ole torero - Paso doble - Harmonica chromatique - Version 2 Une nouvelle bande son plus musette, quelques diff\u00e9rences par rapport \u00e0 ma premi\u00e8re version de 2010. Paso doble, de 1948, du film Andalousie chant\u00e9 par Luis MARIANO Interpr\u00e9tation...",
+            "date": "2015-02-16",
+            "author_name": "zazapat",
+            "categories": "torero",
+            "tags": "quelques,torero",
+            "recuweb_url": "http://fr.recuweb.com/torero/youtube.com/2015/02/ole-torero-paso-doble-harmonica-chromatique-version-2",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=torero%2Btorero&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Q3CtEUY5A8Q&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Q3CtEUY5A8Q/0.jpg"
         },
         "youtube.com/2015/01/the-hunter-primal-attention-t-rex-en-col%C3%A8re-la-technique": {
             "title": "THE HUNTER PRIMAL Attention T Rex en col\u00e8re La technique du torero HD 1080p FR...",
@@ -28,7 +41,7 @@
             "date": "2015-01-19",
             "author_name": "caledfwch",
             "categories": "torero",
-            "tags": "torero",
+            "tags": "torero,quelques",
             "recuweb_url": "http://fr.recuweb.com/torero/youtube.com/2015/01/the-hunter-primal-attention-t-rex-en-col%C3%A8re-la-technique",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=torero%2Btorero&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=jQmYpYq-E2w&feature=youtube_gdata",
@@ -81,18 +94,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=torero%2Btorero&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=lMvzR1PDjWc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/lMvzR1PDjWc/0.jpg"
-        },
-        "youtube.com/2014/07/torero-du-lozon": {
-            "title": "Torero du lozon...",
-            "snippet": "Torero du lozon Classique 6 ans, 2013. From: vanessa martinez Views: 58 1 ratings Time: 01:51 More in People & Blogs...",
-            "date": "2014-07-26",
-            "author_name": "vanessa martinez",
-            "categories": "torero",
-            "tags": "torero,people",
-            "recuweb_url": "http://fr.recuweb.com/torero/youtube.com/2014/07/torero-du-lozon",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=torero%2Btorero&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=YH0poN7sHfY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/YH0poN7sHfY/0.jpg"
         },
         "youtube.com/2014/07/retour-de-chine-le-torero": {
             "title": "Retour de chine: le Torero.",
