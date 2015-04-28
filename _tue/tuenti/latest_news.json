@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tuenti",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tuenti/",
@@ -10,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tuenti/tuenti/blogs.json"
     },
     "items": {
+        "telecompaper.com/2015/04/tuenti-movil-adds-free-international-calls-to-voip-service-telecompaper-subscription": {
+            "title": "Tuenti Movil adds free international calls to VoIP service - Telecompaper (subscription)...",
+            "snippet": "Tuenti Movil adds free international calls to VoIP serviceTelecompaper (subscription)Spanish MVNO Tuenti Movil has launched version 5.9 of its Tuenti app for Android and iOS users, featuring a number of improvements to its 'cloudphone'service, above...",
+            "date": "2015-04-22",
+            "categories": "tuenti",
+            "tags": "its,launched,spanish,spanish-mvno,mvno,free,tuenti,tuenti_movil,movil,telecompaper,subscription",
+            "recuweb_url": "http://fr.recuweb.com/tuenti/telecompaper.com/2015/04/tuenti-movil-adds-free-international-calls-to-voip-service-telecompaper-subscription",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tuenti&output=atom&nord=1",
+            "source_url": "http://telecompaper.com/news/tuenti-movil-adds-free-international-calls-to-voip-service--1078282"
+        },
         "telecompaper.com/2015/04/tuenti-hits-240000-mobile-customers-reduces-losses-telecompaper-subscription": {
             "title": "Tuenti hits 240000 mobile customers, reduces losses - Telecompaper (subscription)...",
             "snippet": "Tuenti hits 240000 mobile customers, reduces lossesTelecompaper (subscription)Spanish company Tuenti has announced that 98 percent of its revenues now come from its Tuenti Movil MVNO, completing the transformation from its origins as a social...",
             "date": "2015-04-14",
             "categories": "tuenti",
-            "tags": "movil,mvno,that,customers,tuenti,telecompaper,subscription,spanish,social",
+            "tags": "its,movil,mvno,that,customers,tuenti,telecompaper,subscription,spanish,social",
             "recuweb_url": "http://fr.recuweb.com/tuenti/telecompaper.com/2015/04/tuenti-hits-240000-mobile-customers-reduces-losses-telecompaper-subscription",
             "resource_url": "http://news.google.fr/?hl=fr&q=tuenti%2Btuenti&output=atom&nord=1",
             "source_url": "http://telecompaper.com/news/tuenti-hits-240000-mobile-customers-reduces-losses--1076584"
@@ -25,20 +36,10 @@
             "snippet": "Tuenti Movil unveils new friend referrals schemeTelecompaper (subscription)Spanish MVNO Tuenti Movil has launched a new friend referrals scheme, dubbed 'Inivita y Gana'(Invite and Win), that offers customers free credit and discounts every time a...",
             "date": "2015-03-31",
             "categories": "tuenti",
-            "tags": "that,customers,spanish,mvno,tuenti,movil,telecompaper,subscription",
+            "tags": "that,customers,free,launched,spanish,spanish-mvno,mvno,tuenti,tuenti_movil,movil,telecompaper,subscription",
             "recuweb_url": "http://fr.recuweb.com/tuenti/telecompaper.com/2015/03/tuenti-movil-unveils-new-friend-referrals-scheme-telecompaper-subscription",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tuenti&output=atom&nord=1",
-            "source_url": "http://telecompaper.com/news/tuenti-movil-unveils-new-friend-referrals-scheme--1074195"
-        },
-        "theguardian.com/2014/11/outbrain-rising-stars-interview-with-cristobal-fernandez-tuenti-the-guardian": {
-            "title": "Outbrain rising stars interview with Cristobal Fernandez, Tuenti... - The Guardian...",
-            "snippet": "The GuardianOutbrain rising stars interview with Cristobal Fernandez, Tuenti...The GuardianIt is a very exciting time to be in this space which is full of radical change. On one hand, we have new opportunities and new possibilities of interaction...",
-            "date": "2014-11-17",
-            "categories": "tuenti",
-            "tags": "tuenti",
-            "recuweb_url": "http://fr.recuweb.com/tuenti/theguardian.com/2014/11/outbrain-rising-stars-interview-with-cristobal-fernandez-tuenti-the-guardian",
             "resource_url": "http://news.google.fr/?hl=fr&q=tuenti%2Btuenti&output=atom&nord=1",
-            "source_url": "http://theguardian.com/media-network-outbrain-partner-zone/2014/nov/17/outbrain-rising-stars-cristobal-fernandez-tuenti"
+            "source_url": "http://telecompaper.com/news/tuenti-movil-unveils-new-friend-referrals-scheme--1074195"
         },
         "elconfidencial.com/2014/11/tuenti-contra-el-confidencial-comunicado-de-prensa-registro-blog": {
             "title": "Tuenti contra Tuenti - El Confidencial (Comunicado de prensa) (Registro) (blog)...",
