@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "technologie-vid\u00e9o",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/technologie-vid\u00e9o/",
@@ -10,45 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/technologie-vid%C3%A9o/technologie-vid%C3%A9o/blogs.json"
     },
     "items": {
-        "gamekyo.com/2015/02/la-technologie-speedtree-de-l-u4-en-3-vid%C3%A9o-wtf-blog": {
-            "title": "La technologie SpeedTree de l'U4 en 3 vid\u00e9o WTF!! - (Blog)...",
-            "snippet": "(Blog)La technologie SpeedTree de l'U4 en 3 vid\u00e9o WTF!! (Blog)Et puis c'est prendre le probl\u00e8me par le mauvais bout, c'est comme \u00e7a qu'on finit par se trainer des tares pendant des ann\u00e9es qui influence n\u00e9gativement la progression des nouvelles...",
-            "date": "2015-02-21",
+        "vousnousils.fr/2015/04/comment-motiver-des-%C3%A9l%C3%A8ves-en-leur-faisant-cr%C3%A9er-jeux-vid%C3%A9o": {
+            "title": "Comment motiver des \u00e9l\u00e8ves? En leur faisant cr\u00e9er des jeux vid\u00e9o! -...",
+            "snippet": "motiver des \u00e9l\u00e8ves? En leur faisant cr\u00e9er des jeux vid\u00e9o! 2012, Fabrice Barbier, professeur de technologie au coll\u00e8ge Louis Pasteur de Suippes (Marne), cr\u00e9e une option pour les \u00e9l\u00e8ves de 4e, qu'il baptise D\u00e9couverte des technologies...",
+            "date": "2015-04-23",
+            "categories": "technologie",
+            "tags": "louis,coll\u00e8ge,jeux,jeux-vid\u00e9o,technologies",
+            "recuweb_url": "http://fr.recuweb.com/technologie/vousnousils.fr/2015/04/comment-motiver-des-%C3%A9l%C3%A8ves-en-leur-faisant-cr%C3%A9er-jeux-vid%C3%A9o",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Bvid%C3%A9o&output=atom&nord=1",
+            "source_url": "http://vousnousils.fr/2015/04/23/comment-motiver-des-eleves-en-leur-faisant-creer-des-jeux-video-567485"
+        },
+        "widoobiz.com/2015/04/rsi-video-technologies-une-croissance-par-l-export-et-innovation-widoobiz": {
+            "title": "RSI Video Technologies: une croissance par l'export et l'innovation - Widoobiz...",
+            "snippet": "WidoobizRSI Video Technologies: une croissance par l'export et l'innovationWidoobizCette semaine, dans notre Chronique de r\u00e9ussites, Thomas Benzazon a le plaisir d'\u00e9changer avec Sami Saad, fondateur et dirigeant de RSI Video Technologies,...",
+            "date": "2015-04-20",
+            "categories": "plaisir,technologie",
+            "tags": "technologies",
+            "recuweb_url": "http://fr.recuweb.com/technologie/widoobiz.com/2015/04/rsi-video-technologies-une-croissance-par-l-export-et-innovation-widoobiz",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Bvid%C3%A9o%2Btechnologie%2Bvid%C3%A9o&output=atom&nord=1",
+            "source_url": "http://widoobiz.com/actu-business/chroniques-de-reussites/rsi-video-technologies-une-croissance-par-lexport-et-linnovation/56652"
+        },
+        "lifestyle.boursorama.com/2015/04/ligue-1-la-vid%C3%A9o-pour-valider-les-buts-arrive": {
+            "title": "Ligue 1: la vid\u00e9o pour valider les buts arrive...",
+            "snippet": "La Ligue de football professionnelle (LFP) a annonc\u00e9 jeudi, par l'interm\u00e9diaire de son pr\u00e9sident Fr\u00e9d\u00e9ric Thiriez, l'arriv\u00e9e de la Goal Line Technology en Ligue 1, d\u00e8s la saison prochaine. Cette technologie vid\u00e9o permettra simplement de...",
+            "date": "2015-04-18",
+            "categories": "football,technologie",
+            "tags": "saison,saison-prochaine,prochaine,fr\u00e9d\u00e9ric,fr\u00e9d\u00e9ric_thiriez,thiriez,pr\u00e9sident,football,ligue,lfp,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/lifestyle.boursorama.com/2015/04/ligue-1-la-vid%C3%A9o-pour-valider-les-buts-arrive",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie%2Bvid%C3%A9o&format=RSS&cc=fr",
+            "source_url": "http://lifestyle.boursorama.com/article/ligue-1-la-video-pour-valider-les-buts-arrive_a1802/1"
+        },
+        "francebleu.fr/2015/04/ligue-1-la-saison-prochaine-les-arbitres-pourront-utiliser-technologie-vid%C3%A9o": {
+            "title": "Ligue 1: la saison prochaine, les arbitres pourront utiliser la technologie vid\u00e9o sur la ligne de...",
+            "snippet": "Ligue 1: la saison prochaine, les arbitres pourront utiliser la technologie vid\u00e9o sur la ligne de...",
+            "date": "2015-04-17",
+            "categories": "technologie",
+            "tags": "ligne,saison,saison-prochaine,prochaine,ligue,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/francebleu.fr/2015/04/ligue-1-la-saison-prochaine-les-arbitres-pourront-utiliser-technologie-vid%C3%A9o",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie%2Bvid%C3%A9o&format=RSS&cc=fr",
+            "source_url": "http://francebleu.fr/football/arbitrage/ligue-1-la-saison-prochaine-les-arbitres-pourront-utiliser-la-technologie-video-sur-la-ligne-de-2288401"
+        },
+        "lexpress.fr/2015/04/paris-ligue-1-vid%C3%A9o-dans-le-foot-fran%C3%A7ais-avec-la-technologie": {
+            "title": "Paris - Ligue 1: vid\u00e9o dans le foot fran\u00e7ais avec la technologie sur la... - L'Express...",
+            "snippet": "L'ExpressParis - Ligue 1: vid\u00e9o dans le foot fran\u00e7ais avec la technologie sur la...L'Express\"C'est une d\u00e9cision unanime de notre conseil d'administration\", a d\u00e9clar\u00e9 Fr\u00e9d\u00e9ric Thiriez, pr\u00e9sident de la Ligue de football professionnel (LFP),...",
+            "date": "2015-04-16",
+            "categories": "football,technologie",
+            "tags": "football,pr\u00e9sident,fr\u00e9d\u00e9ric,fr\u00e9d\u00e9ric_thiriez,thiriez,ligue,technologie,lfp",
+            "recuweb_url": "http://fr.recuweb.com/technologie/lexpress.fr/2015/04/paris-ligue-1-vid%C3%A9o-dans-le-foot-fran%C3%A7ais-avec-la-technologie",
+            "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Bvid%C3%A9o&output=atom&nord=1",
+            "source_url": "http://lexpress.fr/actualites/1/actualite/foot-technologie-sur-la-ligne-de-but-en-ligue-1-la-saison-prochaine-thiriez_1672098.html"
+        },
+        "leparisien.fr/2015/04/jean-louis-triaud-on-doit-voir-plus-large": {
+            "title": "Jean-Louis Triaud: On doit voir plus large...",
+            "snippet": "Jean-Louis Triaud, le pr\u00e9sident des Girondins de Bordeaux, ne s'avoue pas vraiment convaincu par l'int\u00e9r\u00eat de la technologie vid\u00e9o sur la ligne de but. Je ne suis pas contre la vid\u00e9o dans le...",
+            "date": "2015-04-15",
+            "categories": "technologie",
+            "tags": "ligne,pr\u00e9sident,louis,technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/leparisien.fr/2015/04/jean-louis-triaud-on-doit-voir-plus-large",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie%2Bvid%C3%A9o&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/espace-premium/sports/jean-louis-triaud-on-doit-voir-plus-large-16-04-2015-4696787.php"
+        },
+        "lesechos.fr/2015/04/et-si-la-technologie-pour-%C3%A9viter-catastrophe-existait-les-%C3%A9chos": {
+            "title": "et si la technologie pour \u00e9viter la catastrophe existait? - Les \u00c9chos...",
+            "snippet": "Les \u00c9choset si la technologie pour \u00e9viter la catastrophe existait?Les \u00c9chos VIDEO La Nasa travaille depuis pr\u00e8s de trente ans avec l'US Air Force afin de mettre au point un syst\u00e8me automatique anticollision avec le sol. Baptis\u00e9 Auto-GCAS il...",
+            "date": "2015-04-03",
             "categories": "technologie",
             "tags": "technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/gamekyo.com/2015/02/la-technologie-speedtree-de-l-u4-en-3-vid%C3%A9o-wtf-blog",
+            "recuweb_url": "http://fr.recuweb.com/technologie/lesechos.fr/2015/04/et-si-la-technologie-pour-%C3%A9viter-catastrophe-existait-les-%C3%A9chos",
             "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Bvid%C3%A9o&output=atom&nord=1",
-            "source_url": "http://gamekyo.com/blog_article356622.html"
-        },
-        "lelezard.com/2015/02/le-production-resource-group-annonce-la-formation-du-prg-music": {
-            "title": "Le Production Resource Group annonce la formation du PRG Music Group...",
-            "snippet": "Outre l'int\u00e9gration des trois \u00e9quipes, PRG fait un investissement imm\u00e9diat dans la toute derni\u00e8re technologie vid\u00e9o qui fera des clients de PRG les clients les mieux \u00e9quip\u00e9s du secteur. Nous investissons plus de 50 millions USD dans un...",
-            "date": "2015-02-19",
-            "categories": "technologie",
-            "tags": "technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/lelezard.com/2015/02/le-production-resource-group-annonce-la-formation-du-prg-music",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie%2Bvid%C3%A9o&format=RSS&cc=fr",
-            "source_url": "http://lelezard.com/communique-6247632.html"
-        },
-        "zonebourse.com/2015/02/technicolor-lance-un-nouveau-plan-strat%C3%A9gique-apr%C3%A8s-retour-aux-b%C3%A9n%C3%A9fices": {
-            "title": "Technicolor lance un nouveau plan strat\u00e9gique apr\u00e8s un retour aux b\u00e9n\u00e9fices en 2014...",
-            "snippet": "Dans le cadre de ce nouveau plan, le groupe de technologies num\u00e9riques pr\u00e9voit que 2017 constituera un point bas, en raison de l'impact sur son activit\u00e9 de la perte de ses licences sur la technologie vid\u00e9o Mpeg LA. Technicolor vise pour 2017...",
-            "date": "2015-02-19",
-            "categories": "technologie",
-            "tags": "technologies,technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/zonebourse.com/2015/02/technicolor-lance-un-nouveau-plan-strat%C3%A9gique-apr%C3%A8s-retour-aux-b%C3%A9n%C3%A9fices",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=technologie%2Bvid%C3%A9o&format=RSS&cc=fr",
-            "source_url": "http://zonebourse.com/TECHNICOLOR-6411898/actualite/Technicolor-lance-un-nouveau-plan-strategique-apres-un-retour-aux-benefices-en-2014-19895192/?countview=0"
-        },
-        "cnetfrance.fr/2015/02/publicit%C3%A9-vid%C3%A9o-windows-10-l-utilisateur-avant-la-technologie-cnet-france": {
-            "title": "Publicit\u00e9 vid\u00e9o Windows 10: l'utilisateur avant la technologie - CNET France...",
-            "snippet": "CNET FrancePublicit\u00e9 vid\u00e9o Windows 10: l'utilisateur avant la technologieCNET FranceDans la vid\u00e9o promotionnelle qui vient d'\u00eatre publi\u00e9e sur le compte Windows de Youtube, Microsoft met encore l'utilisateur au coeur de ses pr\u00e9occupations. La...",
-            "date": "2015-02-17",
-            "categories": "technologie",
-            "tags": "france,technologie",
-            "recuweb_url": "http://fr.recuweb.com/technologie/cnetfrance.fr/2015/02/publicit%C3%A9-vid%C3%A9o-windows-10-l-utilisateur-avant-la-technologie-cnet-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=technologie%2Bvid%C3%A9o&output=atom&nord=1",
-            "source_url": "http://cnetfrance.fr/news/publicite-video-windows-10-l-utilisateur-avant-la-technologie-39814890.htm"
+            "source_url": "http://lesechos.fr/industrie-services/air-defense/0204274529022-crash-de-la320-et-si-la-technologie-pour-eviter-la-catastrophe-existait-1107889.php"
         }
     }
 }
