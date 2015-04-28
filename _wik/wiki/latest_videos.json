@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wiki",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wiki/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wiki/wiki/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/03/zack-&-wiki-le-tr%C3%A9sor-de-barbaros-trailer": {
+            "title": "Zack & Wiki: le Tr\u00e9sor de Barbaros - trailer...",
+            "snippet": "Lire la suite sur Follow us: gameblog on Twitter on FacebookAuthor: GameblogTags: aventure wii bandes-annonces Posted: 11 March 2015Rating:: 0...",
+            "date": "2015-03-11",
+            "author_name": "Gameblog",
+            "categories": "wiki,twitter",
+            "tags": "suite,zack,wiki,tr\u00e9sor,barbaros,trailer",
+            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2015/03/zack-&-wiki-le-tr%C3%A9sor-de-barbaros-trailer",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/wiki+wiki/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2j7goe_zack-wiki-le-tresor-de-barbaros-trailer_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2j7goe_zack-wiki-le-tresor-de-barbaros-trailer_videogames"
+        },
         "youtube.com/2015/02/utiliser-un-wiki-sur-claroline-connect": {
             "title": "Utiliser un wiki sur Claroline-Connect...",
             "snippet": "Utiliser un wiki sur Claroline-Connect Utilisation de l'outil wiki sur Clarolin-Connect: l'historique et les sections. From: Y M Views: 32 0 ratings Time: 10:22 More in Education...",
@@ -28,11 +41,23 @@
             "date": "2015-02-15",
             "author_name": "wikishym",
             "categories": "wiki",
-            "tags": "wiki",
+            "tags": "wiki,trailer",
             "recuweb_url": "http://fr.recuweb.com/wiki/dailymotion.com/2015/02/trailer-wiki-shy-m-awards",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/wiki+wiki/0?af=1",
             "source_url": "http://dailymotion.com/video/x2h9fux_trailer-wiki-shy-m-awards_webcam",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2h9fux_trailer-wiki-shy-m-awards_webcam"
+        },
+        "youtube.com/2014/10/%C3%A9pisode-final-let-s-play-zack-et-wiki-le-tr%C3%A9sor": {
+            "title": "\u00c9pisode Final let's play Zack et Wiki: le tr\u00e9sor de Barbaros - Des pirates l\u00e9gendaire...",
+            "snippet": "\u00c9pisode Final let's play Zack et Wiki: le tr\u00e9sor de Barbaros - Des pirates l\u00e9gendaire Eh bien salut tout le monde! Aujourd'hui on se retrouve enfin pour la suite de Zack et wiki mais \u00e9galement pour mon retour sur Youtube! Dans cette episode nous...",
+            "date": "2014-10-27",
+            "author_name": "Zelmax89",
+            "categories": "wiki,play",
+            "tags": "\u00e9pisode,wiki,retrouve,suite,monde,tr\u00e9sor,play,let,zack,barbaros,youtube",
+            "recuweb_url": "http://fr.recuweb.com/play/youtube.com/2014/10/%C3%A9pisode-final-let-s-play-zack-et-wiki-le-tr%C3%A9sor",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=wiki%2Bwiki&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=OTromnK3vP8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/OTromnK3vP8/0.jpg"
         },
         "dailymotion.com/2014/10/wiki-dis-moi-dix-mots-2014-2015": {
             "title": "Wiki - Dis-moi dix mots 2014-2015...",
@@ -105,30 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=wiki%2Bwiki&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=LHlfq3VdczQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/LHlfq3VdczQ/0.jpg"
-        },
-        "youtube.com/2014/08/%C3%A9pisode-6-let-s-play-zack-et-wiki-le-tr%C3%A9sor": {
-            "title": "\u00c9pisode 6 let's play Zack et Wiki: le tr\u00e9sor de Barbaros - On gal\u00e9re!",
-            "snippet": "\u00c9pisode 6 let's play Zack et Wiki: le tr\u00e9sor de Barbaros - On gal\u00e9re! Eh bien salut tout le monde! on se retrouve pour un tout nouveau let's play sur un jeu que peu de personne on fait sur Youtube j'ai nomm\u00e9: Zack et Wiki: le tr\u00e9sor de...",
-            "date": "2014-08-14",
-            "author_name": "Zelmax89",
-            "categories": "play,wiki",
-            "tags": "nomm\u00e9,play,jeu,jeu-que-peu,peu,peu-de-personne,personne,retrouve,nouveau,nouveau-let,let,monde,tr\u00e9sor,\u00e9pisode,zack,wiki,barbaros,youtube",
-            "recuweb_url": "http://fr.recuweb.com/wiki/youtube.com/2014/08/%C3%A9pisode-6-let-s-play-zack-et-wiki-le-tr%C3%A9sor",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=wiki%2Bwiki&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=jHBNANhcOI0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/jHBNANhcOI0/0.jpg"
-        },
-        "youtube.com/2014/07/%C3%A9pisode-1-let-s-play-zack-et-wiki-le-tr%C3%A9sor": {
-            "title": "\u00c9pisode 1 let's play Zack et Wiki: le tr\u00e9sor de Barbaros - Une aventure de pirate!",
-            "snippet": "\u00c9pisode 1 let's play Zack et Wiki: le tr\u00e9sor de Barbaros - Une aventure de pirate! Eh bien salut tout le monde! on se retrouve pour un tout nouveau let's play sur un jeu que peu de personne on fait sur Youtube j'ai nomm\u00e9: Zack et Wiki: le tr\u00e9sor...",
-            "date": "2014-07-30",
-            "author_name": "Zelmax89",
-            "categories": "play,wiki",
-            "tags": "tr\u00e9sor,nomm\u00e9,play,jeu,jeu-que-peu,peu,peu-de-personne,personne,retrouve,nouveau,nouveau-let,let,monde,\u00e9pisode,zack,wiki,barbaros,youtube",
-            "recuweb_url": "http://fr.recuweb.com/wiki/youtube.com/2014/07/%C3%A9pisode-1-let-s-play-zack-et-wiki-le-tr%C3%A9sor",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=wiki%2Bwiki&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=wWQOqUGpL-g&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/wWQOqUGpL-g/0.jpg"
         }
     }
 }
