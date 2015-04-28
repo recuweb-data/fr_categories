@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tatouage",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tatouage/",
@@ -10,45 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tatouage/tatouage/blogs.json"
     },
     "items": {
-        "info07.com/2015/02/tango-tatouage-entre-les-souvenirs-et-voyages": {
-            "title": "Tango tatouage: entre les souvenirs et les voyages...",
-            "snippet": "R\u00e9dacteur, r\u00e9viseur, traducteur, r\u00e9alisateur de courts m\u00e9trages, po\u00e8te, romancier et artiste multidisciplinaire, Jean Perron publie ces jours-ci le troisi\u00e8me tome dune trilogie. \u00c0 la mani\u00e8re des deux pr\u00e9c\u00e9dents ouvrages, Tango tatouage...",
-            "date": "2015-02-25",
+        "indigobuzz.fr/2015/04/comment-se-pr%C3%A9parer-avant-un-tatouage": {
+            "title": "Comment se pr\u00e9parer avant un tatouage...",
+            "snippet": "\u00c7a y est, vous avez pris la grande d\u00e9cision de vous faire tatouer! Vous vous posez donc un tas de questions sur comment faire en sorte que votre rendez-vous se d\u00e9roule au mieux. Pour cela il suffit de respecter quelques \u00e9tapes assez simple pour...",
+            "date": "2015-04-26",
             "categories": "tatouage",
-            "tags": "jours,tatouage",
-            "recuweb_url": "http://fr.recuweb.com/tatouage/info07.com/2015/02/tango-tatouage-entre-les-souvenirs-et-voyages",
+            "tags": "quelques,rendez,donc,tatouer,tatouage,questions,d\u00e9roule",
+            "recuweb_url": "http://fr.recuweb.com/tatouage/indigobuzz.fr/2015/04/comment-se-pr%C3%A9parer-avant-un-tatouage",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tatouage&format=RSS&cc=fr",
-            "source_url": "http://info07.com/Culture/2015-02-25/article-4056890/Tango-tatouage:-entre-les-souvenirs-et-les-voyages/1"
+            "source_url": "http://indigobuzz.fr/2015/04/se-preparer-tatouage.html"
+        },
+        "lesaffaires.com/2015/04/et-si-on-taxait-les-tatouages": {
+            "title": "Et si on taxait les tatouages?",
+            "snippet": "La France a la r\u00e9putation davoir une fiscalit\u00e9 des plus imaginatives. Mais taxer les num\u00e9ros surtax\u00e9s, il fallait y penser. Cest ainsi quon d\u00e9signe les appels payants, faits par exemple aux jeux t\u00e9l\u00e9vis\u00e9s ou aux \u00e9missions de...",
+            "date": "2015-04-26",
+            "categories": "tatouage",
+            "tags": "tatouages,france",
+            "recuweb_url": "http://fr.recuweb.com/tatouage/lesaffaires.com/2015/04/et-si-on-taxait-les-tatouages",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tatouage&format=RSS&cc=fr",
+            "source_url": "http://lesaffaires.com/mes-finances/fiscalite/et-si-on-taxait-les-tatouages/578240"
+        },
+        "lesechos.fr/2015/04/son-tatouage-rat%C3%A9-fait-le-tour-du-net-les-%C3%A9chos": {
+            "title": "Son tatouage rat\u00e9 fait le tour du Net - Les \u00c9chos...",
+            "snippet": "Les \u00c9chosSon tatouage rat\u00e9 fait le tour du NetLes \u00c9chosSi vous poss\u00e9dez des outils de tatoueur, ne vous en approchez pas apr\u00e8s avoir m\u00e9lang\u00e9 alcool et Xanax. C'est l'erreur commise par cet Am\u00e9ricain. Apr\u00e8s une soir\u00e9e arros\u00e9e, il s'est...",
+            "date": "2015-04-24",
+            "categories": "tatouage",
+            "tags": "avoir,tatoueur,tatouage",
+            "recuweb_url": "http://fr.recuweb.com/tatouage/lesechos.fr/2015/04/son-tatouage-rat%C3%A9-fait-le-tour-du-net-les-%C3%A9chos",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tatouage&output=atom&nord=1",
+            "source_url": "http://lesechos.fr/week-end/le-meilleur-du-web/02127398445-son-tatouage-rate-fait-le-tour-du-net-1114183.php"
+        },
+        "ouest-france.fr/2015/04/chteaulin-le-tatouage-un-nouvel-accessoire-de-mode-ouest-france": {
+            "title": "Chteaulin. Le tatouage, un nouvel accessoire de mode? - Ouest-France...",
+            "snippet": "Ouest-FranceChteaulin. Le tatouage, un nouvel accessoire de mode?Ouest-FranceC'est fini le temps o\u00f9 les gens qui se faisaient tatouer \u00e9taient des prisonniers ou des marginaux. Aujourd'hui, tout le monde vient se faire tatouer. La jeune fille qui...",
+            "date": "2015-04-23",
+            "categories": "tatouage",
+            "tags": "jeune,monde,tatouer,tatouage,france",
+            "recuweb_url": "http://fr.recuweb.com/tatouage/ouest-france.fr/2015/04/chteaulin-le-tatouage-un-nouvel-accessoire-de-mode-ouest-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tatouage&output=atom&nord=1",
+            "source_url": "http://ouest-france.fr/le-tatouage-un-nouvel-accessoire-de-mode-3351439"
+        },
+        "melty.fr/2015/04/kristen-stewart-adore-son-nouveau-tatouage-vid%C3%A9o": {
+            "title": "Kristen Stewart adore son nouveau tatouage! (Vid\u00e9o)...",
+            "snippet": "Pour le tournage du film Sils Maria, Kristen Stewart a eu un faux tatouage pendant de nombreuses semaines. La jeune femme l'a tellement appr\u00e9ci\u00e9 qu'elle a d\u00e9cid\u00e9 de se le faire tatouer d\u00e9finitivement! Il y a peu, la r\u00e9daction de melty vous a...",
+            "date": "2015-04-22",
+            "categories": "tatouage",
+            "tags": "tatouer,jeune,semaines,nouveau,tatouage",
+            "recuweb_url": "http://fr.recuweb.com/tatouage/melty.fr/2015/04/kristen-stewart-adore-son-nouveau-tatouage-vid%C3%A9o",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tatouage&format=RSS&cc=fr",
+            "source_url": "http://melty.fr/kristen-stewart-adore-son-nouveau-tatouage-video-a403836.html"
+        },
+        "fr.news.yahoo.com/2015/02/benji-madden-son-nouveau-tatouage-pour-cameron-diaz": {
+            "title": "Benji Madden: son nouveau tatouage pour Cameron Diaz...",
+            "snippet": "Le guitariste du groupe punk Good Charlotte est tr\u00e8s amoureux, comme il le prouve avec son nouveau tatouage. C'est Madame qui doit \u00eatre contente.",
+            "date": "2015-02-24",
+            "categories": "tatouage",
+            "tags": "comme,nouveau,tatouage",
+            "recuweb_url": "http://fr.recuweb.com/tatouage/fr.news.yahoo.com/2015/02/benji-madden-son-nouveau-tatouage-pour-cameron-diaz",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tatouage",
+            "source_url": "http://fr.news.yahoo.com/benji-madden-nouveau-tatouage-cameron-diaz-150200614.html"
         },
         "fr-ca.actualites.yahoo.com/2015/02/d%C3%A9tatouage-sant%C3%A9-canada-lance-une-mise-en-garde": {
             "title": "D\u00e9tatouage: Sant\u00e9 Canada lance une mise en garde...",
             "snippet": "MONTR\u00c9AL - Sant\u00e9 Canada met en garde les consommateurs contre les produits et traitements de d\u00e9tatouage et affirme avoir re\u00e7u quatre rapports d'incidents concernant des effets ind\u00e9sirables de ces produits, l'automne dernier.",
             "date": "2015-02-24",
             "categories": "traitement",
-            "tags": "concernant,avoir",
+            "tags": "avoir",
             "recuweb_url": "http://fr.recuweb.com/traitement/fr-ca.actualites.yahoo.com/2015/02/d%C3%A9tatouage-sant%C3%A9-canada-lance-une-mise-en-garde",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tatouage",
             "source_url": "http://fr-ca.actualites.yahoo.com/d\u00e9tatouage-sant\u00e9-canada-lance-une-mise-en-garde-194914000.html"
-        },
-        "telestar.fr/2015/02/m-pokora-d%C3%A9couvrez-la-signification-de-ses-tatouages-photos-t%C3%A9l%C3%A9-star": {
-            "title": "M. Pokora: d\u00e9couvrez la signification de ses tatouages [Photos] - T\u00e9l\u00e9 Star...",
-            "snippet": "M. Pokora: d\u00e9couvrez la signification de ses tatouages PhotosT\u00e9l\u00e9 se fait tatouer comme il respire. A 29 ans son corps est recouvert de tatouages. Sa premi\u00e8re inscription fut Pokora qui signifie Humilit\u00e9 en Polonais, pays dont il tire quelques...",
-            "date": "2015-02-24",
-            "categories": "tatouage",
-            "tags": "tatouages,tatouer",
-            "recuweb_url": "http://fr.recuweb.com/tatouage/telestar.fr/2015/02/m-pokora-d%C3%A9couvrez-la-signification-de-ses-tatouages-photos-t%C3%A9l%C3%A9-star",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tatouage&output=atom&nord=1",
-            "source_url": "http://telestar.fr/2015/photos/m.-pokora-decouvrez-la-signification-de-ses-tatouages-photos-82205"
-        },
-        "lejournal.cnrs.fr/2015/02/la-folie-tatouage-journal-du-cnrs": {
-            "title": "La folie tatouage - Journal du CNRS...",
-            "snippet": "Journal du CNRSLa folie tatouageJournal du CNRSImmense ph\u00e9nom\u00e8ne de mode de ce d\u00e9but de XXIe si\u00e8cle, le tatouage est bien plus qu'une pratique narcissique. \u00c0 l'occasion du colloque Images tatou\u00e9es, qui d\u00e9bute aujourd'hui au mus\u00e9e du quai...",
-            "date": "2015-02-13",
-            "categories": "tatouage",
-            "tags": "hui,aujourd,folie,tatouage",
-            "recuweb_url": "http://fr.recuweb.com/tatouage/lejournal.cnrs.fr/2015/02/la-folie-tatouage-journal-du-cnrs",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tatouage&output=atom&nord=1",
-            "source_url": "http://lejournal.cnrs.fr/articles/la-folie-tatouage"
         }
     }
 }
