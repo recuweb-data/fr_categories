@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "triathlon",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/triathlon/",
@@ -10,6 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/triathlon/triathlon/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/luis-dans-la-lumi%C3%A8re-du-triathlon": {
+            "title": "Luis dans la lumi\u00e8re du triathlon...",
+            "snippet": "L'\u00e9quipe de Tout le Sport a suivi Vincent Luis pendant 24: efsraTags: Vincent Luis Pauline Ferrand-Pr\u00e9vot Triathlon Reims Jeux olympiques d\u00e9t\u00e9 de 2016 Efsra Tout le sport Nicolas Geay Entrainement CREPS Reims Posted: 15 April 2015Rating:: 0...",
+            "date": "2015-04-15",
+            "author_name": "efsra",
+            "categories": "sport,triathlon",
+            "tags": "sport,triathlon,vincent",
+            "recuweb_url": "http://fr.recuweb.com/triathlon/dailymotion.com/2015/04/luis-dans-la-lumi%C3%A8re-du-triathlon",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/triathlon+triathlon/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mquls_luis-dans-la-lumiere-du-triathlon_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mquls_luis-dans-la-lumiere-du-triathlon_sport"
+        },
+        "youtube.com/2015/04/cannes-international-triathlon-2015-parcours-80km": {
+            "title": "Cannes International Triathlon 2015 - Parcours 80km...",
+            "snippet": "Cannes International Triathlon 2015 - Parcours 80km By Conseil G\u00e9n\u00e9ral 06. From: Sport Consulting Views: 1582 5 ratings Time: 05:31 More in People & Blogs...",
+            "date": "2015-04-03",
+            "author_name": "Sport Consulting",
+            "categories": "sport,triathlon",
+            "tags": "sport,triathlon,people",
+            "recuweb_url": "http://fr.recuweb.com/triathlon/youtube.com/2015/04/cannes-international-triathlon-2015-parcours-80km",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=triathlon%2Btriathlon&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=PuF3Tj7AZxs&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/PuF3Tj7AZxs/0.jpg"
+        },
         "dailymotion.com/2015/03/r%C3%A9ception-des-champions-de-france-triathlon": {
             "title": "R\u00e9ception des champions de France de triathlon...",
             "snippet": "Pour son 20\u00e8me anniversaire, le club Les Sables Vend\u00e9e Triathlon ne pouvait pas r\u00eav\u00e9 mieux que le titre de champion de France des club 2012. Ce beau succ\u00e8s est l'aboutissement d'un long travail et de victoires prestigieuses comme Paris Toulouse...",
@@ -46,42 +71,6 @@
             "source_url": "http://dailymotion.com/video/x2jqgx0_tous-avec-jose-contre-le-triathlon-episode-10_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2jqgx0_tous-avec-jose-contre-le-triathlon-episode-10_fun"
         },
-        "dailymotion.com/2015/03/tous-avec-jos%C3%A9-contre-le-triathlon-episode-9": {
-            "title": "Tous avec Jos\u00e9 contre le Triathlon - Episode 9...",
-            "snippet": "Page Facebook: Site internet: Compte Twitter:: tous-avec-JoseTags: Posted: 10 March 2015Rating:: 0...",
-            "date": "2015-03-10",
-            "author_name": "tous-avec-Jose",
-            "categories": "twitter,facebook,triathlon,internet",
-            "tags": "compte,compte_twitter,twitter,page,page_facebook,facebook,contre,jos\u00e9,triathlon,episode,site,internet,josetags",
-            "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2015/03/tous-avec-jos%C3%A9-contre-le-triathlon-episode-9",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/triathlon/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2j2tip_tous-avec-jose-contre-le-triathlon-episode-9_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2j2tip_tous-avec-jose-contre-le-triathlon-episode-9_fun"
-        },
-        "dailymotion.com/2015/03/tous-avec-jos%C3%A9-contre-le-triathlon-episode-8": {
-            "title": "Tous avec Jos\u00e9 contre le Triathlon - Episode 8...",
-            "snippet": "Page Facebook: Site internet: Compte Twitter:: tous-avec-JoseTags: Triathlon RElais. Posted: 05 March 2015Rating:: 0...",
-            "date": "2015-03-05",
-            "author_name": "tous-avec-Jose",
-            "categories": "twitter,facebook,triathlon,internet",
-            "tags": "compte,compte_twitter,twitter,page,page_facebook,facebook,contre,jos\u00e9,triathlon,episode,site,internet,josetags",
-            "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2015/03/tous-avec-jos%C3%A9-contre-le-triathlon-episode-8",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/triathlon/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2iqate_tous-avec-jose-contre-le-triathlon-episode-8_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2iqate_tous-avec-jose-contre-le-triathlon-episode-8_fun"
-        },
-        "dailymotion.com/2015/03/tous-avec-jos%C3%A9-contre-le-triathlon-episode-7": {
-            "title": "Tous avec Jos\u00e9 contre le Triathlon - Episode 7...",
-            "snippet": "Page Facebook: Site internet: Compte Twitter:: tous-avec-JoseTags: Posted: 03 March 2015Rating:: 0...",
-            "date": "2015-03-03",
-            "author_name": "tous-avec-Jose",
-            "categories": "twitter,facebook,triathlon,internet",
-            "tags": "compte,compte_twitter,twitter,page,page_facebook,facebook,contre,jos\u00e9,triathlon,episode,site,internet,josetags",
-            "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2015/03/tous-avec-jos%C3%A9-contre-le-triathlon-episode-7",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/triathlon/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2igy9u_tous-avec-jose-contre-le-triathlon-episode-7_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2igy9u_tous-avec-jose-contre-le-triathlon-episode-7_fun"
-        },
         "dailymotion.com/2015/02/le-garmin-triathlon-de-paris-ile-france-2015-est-retour": {
             "title": "Le Garmin Triathlon de Paris Ile de France 2015 est de retour!",
             "snippet": "LE GRAND RENDEZ-VOUS! Vous lattendiez depuis 2 ans il est de retour le 5 juillet prochain! Le Comit\u00e9 dorganisation et Garmin sont heureux de vous annoncer louverture des inscriptions du Garmin Triathlon de Paris - Ile de France 2015! Nouvelle...",
@@ -106,29 +95,41 @@
             "source_url": "http://dailymotion.com/video/x2gjjsy_tous-avec-jose-contre-le-triathlon-episode-3_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2gjjsy_tous-avec-jose-contre-le-triathlon-episode-3_sport"
         },
-        "dailymotion.com/2015/01/rejoins-la-tribu-triathlon": {
-            "title": "Rejoins la Tribu Triathlon!",
-            "snippet": "Le triathlon c\u00f4t\u00e9 sportif ou c\u00f4t\u00e9 coulisses, implique de nombreuses femmes qui allient de main de ma\u00eetre vie familiale et engagement b\u00e9n\u00e9vole! La mixit\u00e9 de toutes les facettes de notre sport l'enrichit et le fait progresser. Vous aussi...",
+        "youtube.com/2015/01/mont%C3%A9limar-triathlon-hd": {
+            "title": "Mont\u00e9limar Triathlon - - HD...",
+            "snippet": "Mont\u00e9limar Triathlon - - HD From: Benou Submarine Views: 411 3 ratings Time: 27:14 More in Science & Technology...",
             "date": "2015-01-22",
-            "author_name": "FFtriathlon",
-            "categories": "sport,triathlon",
+            "author_name": "Benou Submarine",
+            "categories": "triathlon,science",
             "tags": "triathlon",
-            "recuweb_url": "http://fr.recuweb.com/triathlon/dailymotion.com/2015/01/rejoins-la-tribu-triathlon",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/triathlon/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fa9nx_rejoins-la-tribu-triathlon_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fa9nx_rejoins-la-tribu-triathlon_sport"
-        },
-        "youtube.com/2014/10/le-v%C3%A9lo-1-de-route-ou-triathlon-biom%C3%A9canique-angle-longueur-tube": {
-            "title": "Le v\u00e9lo 1 - V\u00e9lo de route ou de triathlon? Biom\u00e9canique, angle, longueur de tube...",
-            "snippet": "Le v\u00e9lo 1 - V\u00e9lo de route ou de triathlon? Biom\u00e9canique, angle, longueur de tube ''Bien conna\u00eetre les caract\u00e9ristiques de son mat\u00e9riel peut faire toute la diff\u00e9rence. Que choisir? Un v\u00e9lo de route ou bien de triathlon? Agilit\u00e9 ou...",
-            "date": "2014-10-21",
-            "author_name": "\u00c9ric Blais",
-            "categories": "triathlon",
-            "tags": "triathlon",
-            "recuweb_url": "http://fr.recuweb.com/triathlon/youtube.com/2014/10/le-v%C3%A9lo-1-de-route-ou-triathlon-biom%C3%A9canique-angle-longueur-tube",
+            "recuweb_url": "http://fr.recuweb.com/science/youtube.com/2015/01/mont%C3%A9limar-triathlon-hd",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=triathlon%2Btriathlon&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=G6KX42LJHBs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/G6KX42LJHBs/0.jpg"
+            "source_url": "http://youtube.com/watch?v=eBVYzhqHXPM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/eBVYzhqHXPM/0.jpg"
+        },
+        "youtube.com/2014/10/position-v%C3%A9lo-triathlon-chez-franscoop": {
+            "title": "Position v\u00e9lo triathlon chez FRANSCOOP...",
+            "snippet": "Position v\u00e9lo triathlon chez FRANSCOOP Les subtilit\u00e9s de la position en v\u00e9lo de route et en triathlon, une pr\u00e9occupation de tous les instants au magasin parisien FRANSCOOP.. From: Vincent Canzano Views: 749 1 ratings Time: 02:42 More in People &...",
+            "date": "2014-10-08",
+            "author_name": "Vincent Canzano",
+            "categories": "triathlon",
+            "tags": "vincent,triathlon,people",
+            "recuweb_url": "http://fr.recuweb.com/triathlon/youtube.com/2014/10/position-v%C3%A9lo-triathlon-chez-franscoop",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=triathlon%2Btriathlon&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=GornaUt2Aio&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/GornaUt2Aio/0.jpg"
+        },
+        "youtube.com/2014/09/400-000-abonnes-triathlon-de-challenges": {
+            "title": "400 000 abonnes - Triathlon de Challenges...",
+            "snippet": "400 000 abonnes - Triathlon de Challenges Sur moi: Mon haut: Victoria's Secret Mon haut de maillot de bain: Victoria's Secret Mon short: Hollister MERCI DU FOND DU COEUR POUR TOUT VOTRE AMOUR! VOUS ETES LES MEILLEURS! ne... From: Sandrea26France...",
+            "date": "2014-09-15",
+            "author_name": "Sandrea26France",
+            "categories": "triathlon",
+            "tags": "triathlon,france",
+            "recuweb_url": "http://fr.recuweb.com/triathlon/youtube.com/2014/09/400-000-abonnes-triathlon-de-challenges",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=triathlon%2Btriathlon&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Gc-zMCULXJU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Gc-zMCULXJU/0.jpg"
         }
     }
 }
