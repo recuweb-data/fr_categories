@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "telecommunications",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/telecommunications/",
@@ -10,16 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/telecommunications/telecommunications/blogs.json"
     },
     "items": {
-        "freelance-info.fr/2015/03/consultant-logiciel-t%C3%A9l%C3%A9communications": {
-            "title": "Consultant Logiciel T\u00e9l\u00e9communications -...",
-            "snippet": "Steepconsult cherche consultant logiciel t\u00e9l\u00e9communications pour une mission de dur\u00e9e 1 an renouvelable situ\u00e9 Paris (75).",
-            "date": "2015-03-27",
-            "author_name": "inconnu",
+        "senenews.com/2015/04/t%C3%A9l%C3%A9coms-pourquoi-la-main-mise-de-france-sur-sonatel": {
+            "title": "T\u00e9l\u00e9coms: Pourquoi la main-mise de France T\u00e9l\u00e9coms sur la Sonatel...",
+            "snippet": "La constitution de l'actionnariat de la Soci\u00e9t\u00e9 nationale des T\u00e9l\u00e9communications (Sonatel) donne une id\u00e9e de la gestion de l'entreprise. La pr\u00e9sence de grosses.",
+            "date": "2015-04-19",
+            "author_name": "Mamadou Dione",
             "categories": "telecommunications",
-            "tags": "t\u00e9l\u00e9communications",
-            "recuweb_url": "http://fr.recuweb.com/telecommunications/freelance-info.fr/2015/03/consultant-logiciel-t%C3%A9l%C3%A9communications",
+            "tags": "t\u00e9l\u00e9coms,soci\u00e9t\u00e9,t\u00e9l\u00e9communications,entreprise",
+            "recuweb_url": "http://fr.recuweb.com/telecommunications/senenews.com/2015/04/t%C3%A9l%C3%A9coms-pourquoi-la-main-mise-de-france-sur-sonatel",
             "resource_url": "http://www.google.com/search?q=telecommunications%2Btelecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://freelance-info.fr/offre-de-mission_242439.html"
+            "source_url": "http://senenews.com/2015/04/18/telecoms-pourquoi-la-main-mise-de-france-telecoms-sur-la-sonatel_123214.html"
+        },
+        "leral.net/2015/04/contr%C3%B4le-des-appels-volume-financier-4g-portabilit%C3%A9-guerre": {
+            "title": "Contr\u00f4le des appels, volume financier, 4G, portabilit\u00e9: Guerre des...",
+            "snippet": "Le Secteur des T\u00e9l\u00e9communications conna\u00eet un boom sans pr\u00e9c\u00e9dent au S\u00e9n\u00e9gal. Si son apport dans le Produit int\u00e9rieur brut (PIB, 12%) est ind\u00e9niable, plusieurs zones d'ombre subsistent dans la gestio...",
+            "date": "2015-04-17",
+            "author_name": "Par la r\u00e9daction de leral",
+            "categories": "telecommunications",
+            "tags": "secteur,t\u00e9l\u00e9communications,s\u00e9n\u00e9gal",
+            "recuweb_url": "http://fr.recuweb.com/telecommunications/leral.net/2015/04/contr%C3%B4le-des-appels-volume-financier-4g-portabilit%C3%A9-guerre",
+            "resource_url": "http://www.google.com/search?q=telecommunications%2Btelecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://leral.net/Controle-des-appels-volume-financier-4G-portabilite-Guerre-des-telecoms_a142217.html"
+        },
+        "radiovision2000haiti.net/2015/04/ha%C3%AFti-t%C3%A9l%C3%A9communications-le-conatel-et-la-fasch-signent": {
+            "title": "Ha\u00efti-T\u00e9l\u00e9communications: Le Conatel et la Fasch signent une...",
+            "snippet": "Source Alix Laroche/. Cet accord sign\u00e9, ce 9 avril, entre le Conatel et l'UEH, devra permettre un meilleur fonctionnement du secteur de la radiodiffusion en Ha\u00efti, en parfaite ad\u00e9quation avec...",
+            "date": "2015-04-10",
+            "author_name": "Daniel Dar\u00e9us",
+            "categories": "telecommunications",
+            "tags": "secteur,t\u00e9l\u00e9communications,avril",
+            "recuweb_url": "http://fr.recuweb.com/telecommunications/radiovision2000haiti.net/2015/04/ha%C3%AFti-t%C3%A9l%C3%A9communications-le-conatel-et-la-fasch-signent",
+            "resource_url": "http://www.google.com/search?q=telecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://radiovision2000haiti.net/public/haiti-telecommunications-le-conatel-et-la-fasch-signent-une-convention-de-partenariat/"
+        },
+        "cgt-fapt.fr/2015/04/forte-participation-des-salaries-activites-postales-et-cgt-fapt": {
+            "title": "forte participation des salaries des activites postales et... - CGT Fapt...",
+            "snippet": "FORTE PARTICIPATION DES SALARIES DES ACTIVITES POSTALES ET DE TELECOMMUNICATIONS LORS DE LA JOURNEE D'ACTION DU 9 AVRIL 2015. Post\u00e9 le 10 avril 2015. La journ\u00e9e de gr\u00e8ve et de manifestation...",
+            "date": "2015-04-10",
+            "author_name": "ufc",
+            "categories": "telecommunications",
+            "tags": "gr\u00e8ve,telecommunications,avril",
+            "recuweb_url": "http://fr.recuweb.com/telecommunications/cgt-fapt.fr/2015/04/forte-participation-des-salaries-activites-postales-et-cgt-fapt",
+            "resource_url": "http://www.google.com/search?q=telecommunications%2Btelecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cgt-fapt.fr/2015/04/forte-participation-des-salaries-des-activites-postales-et-de-telecommunications-lors-de-la-journee-daction-du-9-avril-2015/"
         },
         "lefaso.net/2015/03/r%C3%A9gulation-des-t%C3%A9l%C3%A9communications-et-du-num%C3%A9rique-37-acteurs": {
             "title": "R\u00e9gulation des t\u00e9l\u00e9communications et du num\u00e9rique: 37 acteurs...",
@@ -38,21 +72,10 @@
             "date": "2015-02-17",
             "author_name": "Mahad",
             "categories": "telecommunications",
-            "tags": "charg\u00e9,\u00e9t\u00e9,ministre,t\u00eate,t\u00e9l\u00e9communications,directeur,g\u00e9n\u00e9ral",
+            "tags": "\u00e9t\u00e9,ministre,t\u00e9l\u00e9communications",
             "recuweb_url": "http://fr.recuweb.com/telecommunications/lanationdj.com/2015/02/t%C3%A9l%C3%A9communications-vers-un-renforcement-de-la-coop%C3%A9ration",
             "resource_url": "http://www.google.com/search?q=telecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lanationdj.com/telecommunications-vers-un-renforcement-de-la-cooperation-djibouti-ethiopienne/"
-        },
-        "newsmada.com/2015/02/les-telecommunications-dans-l-ocean-indien-newsmada": {
-            "title": "LES TELECOMMUNICATIONS DANS L'OCEAN INDIEN NewsMada...",
-            "snippet": "Photo: Telma Partout dans le monde, le secteur des t\u00e9l\u00e9communications est en pleine \u00e9bullition. L'exemple de l'Europe t\u00e9moigne d'une avanc\u00e9e fulgurante dans la consolidation du secteur.",
-            "date": "2015-02-16",
-            "author_name": "Newsmada",
-            "categories": "telecommunications",
-            "tags": "secteur,monde,t\u00e9l\u00e9communications",
-            "recuweb_url": "http://fr.recuweb.com/telecommunications/newsmada.com/2015/02/les-telecommunications-dans-l-ocean-indien-newsmada",
-            "resource_url": "http://www.google.com/search?q=telecommunications%2Btelecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://newsmada.com/2015/02/16/les-telecommunications-dans-locean-indien/"
         },
         "01net.com/2015/01/google-s-invite-dans-les-t%C3%A9l%C3%A9communications-vid%C3%A9o-du-jour-01net": {
             "title": "Google s'invite dans les t\u00e9l\u00e9communications (vid\u00e9o du jour) - 01Net...",
@@ -60,21 +83,10 @@
             "date": "2015-01-30",
             "author_name": "inconnu",
             "categories": "google,telecommunications",
-            "tags": "veut,monde,jour,t\u00e9l\u00e9communications,g\u00e9ant,mobile,unis,t\u00e9l\u00e9com",
+            "tags": "t\u00e9l\u00e9communications,unis,t\u00e9l\u00e9com",
             "recuweb_url": "http://fr.recuweb.com/telecommunications/01net.com/2015/01/google-s-invite-dans-les-t%C3%A9l%C3%A9communications-vid%C3%A9o-du-jour-01net",
             "resource_url": "http://www.google.com/search?q=telecommunications%2Btelecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/643471/google-s-invite-dans-les-telecommunications-video-du-jour/"
-        },
-        "mariscal-abogados.eu/2015/01/la-nouvelle-loi-g%C3%A9n%C3%A9rale-sur-les-t%C3%A9l%C3%A9communications-en-espagne": {
-            "title": "La nouvelle Loi g\u00e9n\u00e9rale sur les t\u00e9l\u00e9communications en Espagne...",
-            "snippet": "La Loi 9/2014 G\u00e9n\u00e9rale sur les T\u00e9l\u00e9communications en Espagne introduit des mesures qui renforcent les droits et la protection des usagers.",
-            "date": "2015-01-23",
-            "author_name": "Laura",
-            "categories": "telecommunications",
-            "tags": "nouvelle,loi,t\u00e9l\u00e9communications",
-            "recuweb_url": "http://fr.recuweb.com/telecommunications/mariscal-abogados.eu/2015/01/la-nouvelle-loi-g%C3%A9n%C3%A9rale-sur-les-t%C3%A9l%C3%A9communications-en-espagne",
-            "resource_url": "http://www.google.com/search?q=telecommunications%2Btelecommunications&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://mariscal-abogados.eu/la-nouvelle-loi-generale-sur-les-telecommunications-en-espagne/"
         },
         "compbulnabodmaworktirlongwar.wordpress.com/2014/05/gratis-pdf-descargar-manuel-sur-les-telecommunications-par-satellite": {
             "title": "gratis pdf descargar Manuel sur les Telecommunications par Satellite...",
@@ -82,7 +94,7 @@
             "date": "2014-05-06",
             "author_name": "compbulnabodmaworktirlongwar",
             "categories": "telecommunications",
-            "tags": "telecommunications",
+            "tags": "union,telecommunications,satellite",
             "recuweb_url": "http://fr.recuweb.com/telecommunications/compbulnabodmaworktirlongwar.wordpress.com/2014/05/gratis-pdf-descargar-manuel-sur-les-telecommunications-par-satellite",
             "resource_url": "http://fr.search.wordpress.com/?q=telecommunications%2Btelecommunications&f=feed&page=1",
             "source_url": "http://compbulnabodmaworktirlongwar.wordpress.com/2014/05/06/gratis-pdf-descargar-manuel-sur-les-telecommunications-par-satellite/"
