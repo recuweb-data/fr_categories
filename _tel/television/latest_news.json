@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "television",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/television/",
@@ -10,82 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/television/television/blogs.json"
     },
     "items": {
+        "bfmbusiness.bfmtv.com/2015/04/delphine-ernotte-nouvelle-patronne-de-france-t%C3%A9l%C3%A9visions": {
+            "title": "Delphine Ernotte nouvelle patronne de France T\u00e9l\u00e9visions...",
+            "snippet": "La directrice g\u00e9n\u00e9rale d'Orange France a \u00e9t\u00e9 d\u00e9sign\u00e9e pr\u00e9sidente des cha\u00eenes publiques par le gendarme de l'audiovisuel. Enfin! Apr\u00e8s trois tours de scrutin, les huit sages du CSA (Conseil sup\u00e9rieur de l'audiovisuel) ont enfin d\u00e9sign\u00e9...",
+            "date": "2015-04-23",
+            "categories": "television",
+            "tags": "scrutin,\u00e9t\u00e9,pr\u00e9sidente,orange,france,france_t\u00e9l\u00e9visions,t\u00e9l\u00e9visions,nouvelle,delphine,delphine_ernotte,ernotte",
+            "recuweb_url": "http://fr.recuweb.com/television/bfmbusiness.bfmtv.com/2015/04/delphine-ernotte-nouvelle-patronne-de-france-t%C3%A9l%C3%A9visions",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/delphine-ernotte-nouvelle-patronne-de-france-televisions-880452.html"
+        },
+        "leplus.nouvelobs.com/2015/04/delphine-ernotte-pr%C3%A9sidente-de-france-t%C3%A9l%C3%A9visions-cette-d%C3%A9signation-est-un-fiasco": {
+            "title": "Delphine Ernotte pr\u00e9sidente de France t\u00e9l\u00e9visions: cette d\u00e9signation est un fiasco total...",
+            "snippet": "La nouvelle pr\u00e9sidente de France T\u00e9l\u00e9visions a \u00e9t\u00e9 mal \u00e9lue! Remy Pflimlin a port\u00e9 une tache pendant les cinq ans de son mandat, la tache davoir \u00e9t\u00e9 nomm\u00e9 par Nicolas Sarkozy. La nouvelle pr\u00e9sidente de France T\u00e9l\u00e9visions porte, elle,...",
+            "date": "2015-04-23",
+            "categories": "television",
+            "tags": "t\u00e9l\u00e9visions,\u00e9t\u00e9,nouvelle,nouvelle-pr\u00e9sidente,pr\u00e9sidente,delphine,delphine_ernotte,ernotte,france",
+            "recuweb_url": "http://fr.recuweb.com/television/leplus.nouvelobs.com/2015/04/delphine-ernotte-pr%C3%A9sidente-de-france-t%C3%A9l%C3%A9visions-cette-d%C3%A9signation-est-un-fiasco",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
+            "source_url": "http://leplus.nouvelobs.com/contribution/1358391-delphine-ernotte-presidente-de-france-televisions-cette-designation-est-un-fiasco-total.html"
+        },
+        "huffingtonpost.fr/2015/04/delphine-ernotte-cunci-nouvelle-pr%C3%A9sidente-de-france-t%C3%A9l%C3%A9visions-une-orange-pur": {
+            "title": "Delphine Ernotte-Cunci, nouvelle pr\u00e9sidente de France T\u00e9l\u00e9visions: une Orange pur jus...",
+            "snippet": "FRANCE T\u00c9L\u00c9VISIONS - Pur produit du groupe Orange, ex-France Telecom, o\u00f9 elle a fait toute sa carri\u00e8re, Delphine Ernotte-Cunci, nomm\u00e9e pr\u00e9sidente de France T\u00e9l\u00e9visions, a gravi les \u00e9chelons de l'op\u00e9rateur, affirmant ses qualit\u00e9s de...",
+            "date": "2015-04-23",
+            "categories": "television",
+            "tags": "pr\u00e9sidente,france,france_t\u00e9l\u00e9visions,t\u00e9l\u00e9visions,nouvelle,nouvelle-pr\u00e9sidente,delphine,delphine_ernotte,ernotte,orange",
+            "recuweb_url": "http://fr.recuweb.com/television/huffingtonpost.fr/2015/04/delphine-ernotte-cunci-nouvelle-pr%C3%A9sidente-de-france-t%C3%A9l%C3%A9visions-une-orange-pur",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
+            "source_url": "http://huffingtonpost.fr/2015/04/23/delphine-ernotte-cunci-france-televisions-orange_n_7128980.html"
+        },
+        "television.telerama.fr/2015/04/pour-un-audioviduel-public-sans-bible-de-contraintes-natalie-t%C3%A9l%C3%A9": {
+            "title": "Pour un audioviduel public sans bible de contraintes, Natalie... - T\u00e9l\u00e9...",
+            "snippet": "T\u00e9l\u00e9 un audioviduel public sans bible de contraintes, Natalie...T\u00e9l\u00e9 'on r\u00eave une t\u00e9l\u00e9vision de service public en 2015, il y a vite un accord... de r\u00eave: elle sera ouverte et inspirante, moteur de la cr\u00e9ativit\u00e9 fran\u00e7aise, capable de...",
+            "date": "2015-04-23",
+            "categories": "television",
+            "tags": "fran\u00e7aise,service,public,sans,t\u00e9l\u00e9,t\u00e9l\u00e9vision",
+            "recuweb_url": "http://fr.recuweb.com/television/television.telerama.fr/2015/04/pour-un-audioviduel-public-sans-bible-de-contraintes-natalie-t%C3%A9l%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=television&output=atom&nord=1",
+            "source_url": "http://television.telerama.fr/television/pour-un-audioviduel-public-sans-bible-de-contraintes-natalie-rastoin-publicitaire,125815.php"
+        },
         "fr.news.yahoo.com/2015/04/tf1-va-co-produire-des-s%C3%A9ries-am%C3%A9ricaines": {
             "title": "TF1 va co-produire des s\u00e9ries am\u00e9ricaines...",
             "snippet": "SERIES TV - La cha\u00eene fran\u00e7aise s'allie avec RTL Deutschland et NBCU Television pour produire des s\u00e9ries am\u00e9ricaines...",
             "date": "2015-04-14",
             "categories": "television",
-            "tags": "s\u00e9ries,s\u00e9ries-am\u00e9ricaines,am\u00e9ricaines,nbcu,television,rtl,rtl_deutschland,deutschland,cha\u00eene",
+            "tags": "television,cha\u00eene,fran\u00e7aise",
             "recuweb_url": "http://fr.recuweb.com/television/fr.news.yahoo.com/2015/04/tf1-va-co-produire-des-s%C3%A9ries-am%C3%A9ricaines",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=television",
             "source_url": "http://fr.news.yahoo.com/tf1-va-co-produire-s\u00e9ries-am\u00e9ricaines-111612548.html"
-        },
-        "lesaffaires.com/2015/04/t%C3%A9l%C3%A9vision-de-plus-en-canadiens-se-d%C3%A9branchent": {
-            "title": "T\u00e9l\u00e9vision: de plus en plus de Canadiens se d\u00e9branchent...",
-            "snippet": "De plus en plus de Canadiens annulent leurs forfaits de t\u00e9l\u00e9vision cbl\u00e9e ou par satellite, et rien ne permet de croire que cette migration va bient\u00f4t ralentir, r\u00e9v\u00e8le une nouvelle \u00e9tude. Selon les donn\u00e9es recueillies par la firme...",
-            "date": "2015-04-14",
-            "categories": "television",
-            "tags": "r\u00e9v\u00e8le,r\u00e9v\u00e8le-une-nouvelle,nouvelle,nouvelle-\u00e9tude,\u00e9tude,rien,rien-ne-permet,permet,permet-de-croire,croire,migration,migration-va-bient\u00f4t,bient\u00f4t,bient\u00f4t-ralentir,ralentir,cbl\u00e9e,satellite,annulent,annulent-leurs-forfaits,forfaits,d\u00e9branchent,t\u00e9l\u00e9vision,canadiens",
-            "recuweb_url": "http://fr.recuweb.com/television/lesaffaires.com/2015/04/t%C3%A9l%C3%A9vision-de-plus-en-canadiens-se-d%C3%A9branchent",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
-            "source_url": "http://lesaffaires.com/secteurs-d-activite/medias-et-telecommunications/television-de-plus-en-plus-de-canadiens-se-debranchent/577857"
-        },
-        "fr.timesofisrael.com/2015/04/une-pr%C3%A9sentatrice-de-la-t%C3%A9l%C3%A9vision-libanaise-attaque-le-hezbollah": {
-            "title": "Une pr\u00e9sentatrice de la t\u00e9l\u00e9vision libanaise attaque le Hezbollah...",
-            "snippet": "Une pr\u00e9sentatrice vedette de la t\u00e9l\u00e9vision libanaise a fermement critiqu\u00e9 le chef de file du Hezbollah, Hassan Nasrallah lors dune \u00e9mission t\u00e9l\u00e9vis\u00e9e, laccusant de travailler pour les int\u00e9r\u00eats iraniens et contre son propre pays, le...",
-            "date": "2015-04-14",
-            "categories": "television",
-            "tags": "\u00e9mission,t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/fr.timesofisrael.com/2015/04/une-pr%C3%A9sentatrice-de-la-t%C3%A9l%C3%A9vision-libanaise-attaque-le-hezbollah",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
-            "source_url": "http://fr.timesofisrael.com/une-presentatrice-de-la-television-libanaise-attaque-le-hezbollah/"
-        },
-        "acadienouvelle.com/2015/04/de-plus-en-canadiens-se-d%C3%A9branchent-des-services-acadie-nouvelle-abonnement": {
-            "title": "De plus en plus de Canadiens se d\u00e9branchent des services de... - Acadie Nouvelle (Abonnement)...",
-            "snippet": "Acadie Nouvelle (Abonnement)De plus en plus de Canadiens se d\u00e9branchent des services de...Acadie Nouvelle (Abonnement)TORONTO De plus en plus de Canadiens annulent leurs forfaits de t\u00e9l\u00e9vision cbl\u00e9e ou par satellite, et rien ne permet de croire...",
-            "date": "2015-04-13",
-            "categories": "television",
-            "tags": "rien,rien-ne-permet,permet,permet-de-croire,croire,cbl\u00e9e,satellite,annulent,annulent-leurs-forfaits,forfaits,nouvelle,d\u00e9branchent,canadiens,toronto,t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/acadienouvelle.com/2015/04/de-plus-en-canadiens-se-d%C3%A9branchent-des-services-acadie-nouvelle-abonnement",
-            "resource_url": "http://news.google.fr/?hl=fr&q=television%2Btelevision&output=atom&nord=1",
-            "source_url": "http://acadienouvelle.com/economie/2015/04/13/de-plus-en-plus-de-canadiens-se-debranchent-des-services-de-television/"
         },
         "fr.news.yahoo.com/2015/04/lille-nord-un-reportage-de-zone-interdite-suscite-la-pol%C3%A9mique": {
             "title": "Lille: Nord: Un reportage de Zone Interdite suscite la pol\u00e9mique sur Twitter...",
             "snippet": "T\u00c9L\u00c9VISION - L'\u00e9mission de M6, diffus\u00e9e dimanche, a d\u00e9clench\u00e9 de nombreuses r\u00e9actions des t\u00e9l\u00e9spectateurs...",
             "date": "2015-04-13",
             "categories": "twitter,television",
-            "tags": "\u00e9mission,twitter,t\u00e9l\u00e9vision",
+            "tags": "twitter,t\u00e9l\u00e9vision",
             "recuweb_url": "http://fr.recuweb.com/television/fr.news.yahoo.com/2015/04/lille-nord-un-reportage-de-zone-interdite-suscite-la-pol%C3%A9mique",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=television",
             "source_url": "http://fr.news.yahoo.com/lille-nord-reportage-zone-interdite-\u00e0-charge-roubaix-113813763.html"
-        },
-        "zonebourse.com/2015/04/tf1-accord-entre-nbcuniversal-international-television-production-mediengruppe-rtl-deutschland": {
-            "title": "TF1: Accord entre NBCUniversal International Television Production, Mediengruppe RTL Deutschland et...",
-            "snippet": "Mediengruppe RTL Deutschland et TF1 ont conclu un accord de partenariat in\u00e9dit, en vue de la production de s\u00e9ries am\u00e9ricaines LONDRES - 13 avril 2015: NBCUniversal International Television Production (NBCU-ITVP), Mediengruppe RTL Deutschland et...",
-            "date": "2015-04-13",
-            "categories": "television",
-            "tags": "production,s\u00e9ries,s\u00e9ries-am\u00e9ricaines,am\u00e9ricaines,rtl,rtl_deutschland,deutschland,television,nbcu",
-            "recuweb_url": "http://fr.recuweb.com/television/zonebourse.com/2015/04/tf1-accord-entre-nbcuniversal-international-television-production-mediengruppe-rtl-deutschland",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
-            "source_url": "http://zonebourse.com/TF1-4714/actualite/TF1--Accord-entre-NBCUniversal-International-Television-Production-Mediengruppe-RTL-Deutschland-et-20182637/"
-        },
-        "sudouest.fr/2015/04/t%C3%A9l%C3%A9vision-la-meilleure-boulangerie-de-france-sera-t-elle-rochelaise": {
-            "title": "T\u00e9l\u00e9vision: la Meilleure Boulangerie de France sera-t-elle rochelaise?",
-            "snippet": "Inscrits par leurs clients sans le savoir, Jean-Claude et Violaine Chisson et leur \u00e9quipe ont re\u00e7u la visite ce lundi matin de Gontran Cherrier et Bruno Cormerais, deux ma\u00eetres du pain venus tester leur savoir-faire. Gontran Cherrier et Bruno...",
-            "date": "2015-04-13",
-            "categories": "television",
-            "tags": "t\u00e9l\u00e9vision,france,jean",
-            "recuweb_url": "http://fr.recuweb.com/television/sudouest.fr/2015/04/t%C3%A9l%C3%A9vision-la-meilleure-boulangerie-de-france-sera-t-elle-rochelaise",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/04/13/television-la-meilleure-boulangerie-de-france-sera-t-elle-rochelaise-1890518-4693.php"
         },
         "fr-ca.actualites.yahoo.com/2015/04/t%C3%A9l%C3%A9vision-plus-de-d%C3%A9branch%C3%A9s-au-canada": {
             "title": "T\u00e9l\u00e9vision: Plus de d\u00e9branch\u00e9s au Canada...",
             "snippet": "TORONTO - De plus en plus de Canadiens annulent leurs forfaits de t\u00e9l\u00e9vision cbl\u00e9e ou par satellite, et rien ne permet de croire que cette migration va bient\u00f4t ralentir, r\u00e9v\u00e8le une nouvelle \u00e9tude.",
             "date": "2015-04-13",
             "categories": "television",
-            "tags": "r\u00e9v\u00e8le,r\u00e9v\u00e8le-une-nouvelle,nouvelle,nouvelle-\u00e9tude,\u00e9tude,rien,rien-ne-permet,permet,permet-de-croire,croire,migration,migration-va-bient\u00f4t,bient\u00f4t,bient\u00f4t-ralentir,ralentir,cbl\u00e9e,satellite,annulent,annulent-leurs-forfaits,forfaits,t\u00e9l\u00e9vision,toronto,canadiens",
+            "tags": "nouvelle,rien,t\u00e9l\u00e9vision",
             "recuweb_url": "http://fr.recuweb.com/television/fr-ca.actualites.yahoo.com/2015/04/t%C3%A9l%C3%A9vision-plus-de-d%C3%A9branch%C3%A9s-au-canada",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=television",
             "source_url": "http://fr-ca.actualites.yahoo.com/t\u00e9l\u00e9vision-plus-d\u00e9branch\u00e9s-au-canada-185630583.html"
