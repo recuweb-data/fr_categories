@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yoga",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yoga/",
@@ -10,29 +11,77 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/le-yoga-2-partie": {
+            "title": "Le yoga 2 partie...",
+            "snippet": "conduire une vie tranquille e s\u00e8r\u00e8ne en pratiquant lo yogaAuthor: lhassanehTags: Yoga M\u00e9ditation sport mentale Posted: 12 April 2015Rating:: 0...",
+            "date": "2015-04-12",
+            "author_name": "lhassaneh",
+            "categories": "sport,yoga",
+            "tags": "sport,yoga",
+            "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/04/le-yoga-2-partie",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2me2bu_le-yoga-2-partie_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2me2bu_le-yoga-2-partie_sport"
+        },
+        "youtube.com/2015/03/initiation-au-yoga-21": {
+            "title": "Initiation au yoga - Yoga - 21...",
+            "snippet": "Initiation au yoga - Yoga - 21 Initiation au yoga - Yoga - 21 Apr\u00e8s tant de sport, un peu de relaxation avec une s\u00e9ance d'initiation au yoga avec Constant! Ce cours vous apportera \u00e0 la fois de la force, et de la souplesse.... From: Gym Direct...",
+            "date": "2015-03-20",
+            "author_name": "Gym Direct",
+            "categories": "yoga,sport",
+            "tags": "gym,gym_direct,direct,souplesse,cours,cours-vous-apportera,apportera,force,initiation,initiation-au-yoga,yoga,peu,peu-de-relaxation,relaxation,s\u00e9ance,tant,tant-de-sport,sport,apr\u00e8s,constant",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/03/initiation-au-yoga-21",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Ino4PlmYl-I&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Ino4PlmYl-I/0.jpg"
+        },
+        "dailymotion.com/2015/03/en-forme-avec-le-yoga-atha": {
+            "title": "En forme avec le Yoga: Atha Yoga...",
+            "snippet": "En forme avec le Yoga: Atha Yoga, DocumentaireEn utilisant comme base le Atha Yoga, le yoga du corps, suivez Susan Fulton dans une s\u00e9rie d'exercic...: bande-annonce-filmTags: Posted: 19 March 2015Rating:: 0...",
+            "date": "2015-03-19",
+            "author_name": "bande-annonce-film",
+            "categories": "yoga",
+            "tags": "susan,yoga,corps,atha,bande,annonce,filmtags",
+            "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/03/en-forme-avec-le-yoga-atha",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga+yoga/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2k0d8t_en-forme-avec-le-yoga-atha-yoga_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2k0d8t_en-forme-avec-le-yoga-atha-yoga_shortfilms"
+        },
+        "dailymotion.com/2015/03/initiation-au-yoga-atha": {
+            "title": "Initiation au yoga: Atha Yoga...",
+            "snippet": "Initiation au yoga: Atha Yoga, DocumentaireLe Yoga est une discipline qui procure un bien-\u00eatre de vivre et c'est par le Yoga du corps, l'Atha Y...: bande-annonce-filmTags: Posted: 19 March 2015Rating:: 0...",
+            "date": "2015-03-19",
+            "author_name": "bande-annonce-film",
+            "categories": "discipline,yoga",
+            "tags": "corps,\u00eatre,\u00eatre-de-vivre,vivre,discipline,discipline-qui-procure,procure,yoga,atha,initiation,bande,annonce,filmtags",
+            "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/03/initiation-au-yoga-atha",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga+yoga/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2jz2ml_initiation-au-yoga-atha-yoga_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jz2ml_initiation-au-yoga-atha-yoga_shortfilms"
+        },
         "youtube.com/2015/02/initiation-au-yoga-20": {
             "title": "Initiation au Yoga - Yoga 20...",
-            "snippet": "Initiation au Yoga - Yoga 20 Apr\u00e8s tant de sport, un peu de relaxation avec une s\u00e9ance d'initiation au yoga avec Constant! Ce cours vous apportera \u00e0 la fois de la force, et de la souplesse. Allez, on commence par... From: Gym Direct Views: 2827...",
+            "snippet": "Initiation au Yoga - Yoga 20 Apr\u00e8s tant de sport, un peu de relaxation avec une s\u00e9ance d'initiation au yoga avec Constant! Ce cours vous apportera \u00e0 la fois de la force, et de la souplesse. Allez, on commence par... From: Gym Direct Views: 3176...",
             "date": "2015-02-06",
             "author_name": "Gym Direct",
             "categories": "yoga,sport",
-            "tags": "commence,souplesse,cours,yoga,relaxation,s\u00e9ance",
+            "tags": "gym,gym_direct,direct,souplesse,cours,cours-vous-apportera,apportera,force,initiation,initiation-au-yoga,yoga,peu,peu-de-relaxation,relaxation,s\u00e9ance,tant,tant-de-sport,sport,apr\u00e8s,constant",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/02/initiation-au-yoga-20",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=BF320ZtEyZ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BF320ZtEyZ0/0.jpg"
         },
-        "youtube.com/2015/01/postures-de-yoga-salutation-au-soleil-avec-un-prof": {
-            "title": "Postures de yoga Salutation au soleil avec un prof...",
-            "snippet": "Postures de yoga Salutation au soleil avec un prof Initialement on prescrivait d'effectuer une Salutation au Soleil tous les matins mais \u00e9galement chaque soir, de pr\u00e9f\u00e9rence face au Soleil. Samuel Ganes, coach bien \u00eatre vous en dit plus... From:...",
-            "date": "2015-01-11",
-            "author_name": "Minute Forme",
-            "categories": "yoga",
-            "tags": "\u00e9galement,prof,ures,yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2015/01/postures-de-yoga-salutation-au-soleil-avec-un-prof",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=1xrThXqoip4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/1xrThXqoip4/0.jpg"
+        "dailymotion.com/2015/01/initiation-au-yoga": {
+            "title": "Initiation au Yoga...",
+            "snippet": "Hatha Yoga avec Susan Yoga est une discipline qui procure un bien-\u00eatre de vivre et c'est par le Yoga du corps, l'Hatha Yoga qu'il faut commencer: la pratique r\u00e9guli\u00e8re du Yoga augmentera votre tonicit\u00e9 musculaire, votre force, votre souplesse,...",
+            "date": "2015-01-28",
+            "author_name": "Films-Documentaires",
+            "categories": "discipline,yoga",
+            "tags": "souplesse,force,corps,\u00eatre,\u00eatre-de-vivre,vivre,discipline,discipline-qui-procure,procure,susan,initiation,yoga",
+            "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/01/initiation-au-yoga",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2fs6ww_initiation-au-yoga_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fs6ww_initiation-au-yoga_sport"
         },
         "dailymotion.com/2014/11/la-souplesse-de-cette-prof-yoga-va-vous-faire-halluciner": {
             "title": "La souplesse de cette prof de Yoga va vous faire halluciner!",
@@ -40,7 +89,7 @@
             "date": "2014-11-06",
             "author_name": "redbuzzfr",
             "categories": "yoga",
-            "tags": "yoga,souplesse,\u00e9galement,relaxation,prof",
+            "tags": "qualit\u00e9,yoga,souplesse,relaxation",
             "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2014/11/la-souplesse-de-cette-prof-yoga-va-vous-faire-halluciner",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga/0?af=1",
             "source_url": "http://dailymotion.com/video/x29gdlx_la-souplesse-de-cette-prof-de-yoga-va-vous-faire-halluciner_sport",
@@ -54,7 +103,7 @@
             "categories": "yoga",
             "tags": "cours,yoga",
             "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/11/cours-de-yoga-anti-stress-15-minutes-avec-maryse-lehoux",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=BHIY4jSh3OY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BHIY4jSh3OY/0.jpg"
         },
@@ -64,71 +113,23 @@
             "date": "2014-10-04",
             "author_name": "YogaCoaching",
             "categories": "yoga",
-            "tags": "mal,mal-de-dos,dos,s\u00e9ance,voici,ariane,yoga,doux,cours,yogis",
+            "tags": "s\u00e9ance,ariane,yoga,cours,yogis",
             "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/10/cours-de-yoga-doux-avec-ariane-special-regles",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=G3QT46_kSjA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/G3QT46_kSjA/0.jpg"
         },
-        "youtube.com/2014/09/seance-compl%C3%A8te-yoga-soulager-le-mal-de-dos": {
-            "title": "Seance compl\u00e8te yoga: soulager le mal de dos...",
-            "snippet": "Seance compl\u00e8te yoga: soulager le mal de dos Accessible \u00e0 tous du d\u00e9butant \u00e0 confirm\u00e9, s\u00e9ance con\u00e7ue pour soulager le mal de dos comprenant 3 techniques: Padahastasana??: la posture des mains aux pieds, relche les tensions... From: Faites du...",
-            "date": "2014-09-01",
-            "author_name": "Faites du Yoga",
-            "categories": "yoga",
-            "tags": "s\u00e9ance,mal,mal-de-dos,dos,yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/09/seance-compl%C3%A8te-yoga-soulager-le-mal-de-dos",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=YAAeFRQ2R7w&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/YAAeFRQ2R7w/0.jpg"
-        },
-        "youtube.com/2014/08/cours-de-yoga-dynamique-vinyasa-s%C3%A9ance-sur-l-%C3%A9quilibre": {
-            "title": "Cours de yoga dynamique (Vinyasa) - s\u00e9ance sur l'\u00e9quilibre...",
-            "snippet": "Cours de yoga dynamique (Vinyasa) - s\u00e9ance sur l'\u00e9quilibre Cours de Yoga Vinyasa Merci de lire ces pr\u00e9cautions avant de faire la s\u00e9ance: - Soyez \u00e0 l'\u00e9coute de votre corps. Vous \u00eates l\u00e0 pour vous faire du bien et \u00e0 aucun moment vous ne...",
-            "date": "2014-08-17",
-            "author_name": "My Sunny Yoga",
-            "categories": "yoga",
-            "tags": "\u00e9coute,corps,merci,lire,lire-ces-pr\u00e9cautions,pr\u00e9cautions,pr\u00e9cautions-avant,avant,avant-de-faire,s\u00e9ance,yoga,cours,soyez",
-            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/08/cours-de-yoga-dynamique-vinyasa-s%C3%A9ance-sur-l-%C3%A9quilibre",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=3BoFqnCG3cI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/3BoFqnCG3cI/0.jpg"
-        },
-        "youtube.com/2014/08/cours-de-yoga-avec-ariane-quickie-du-matin": {
-            "title": "Cours de Yoga avec Ariane Quickie du Matin...",
-            "snippet": "Cours de Yoga avec Ariane Quickie du Matin Salut les Yogis! Voici une vid\u00e9o de pratique courte pour le matin qui conviendra aux yogi de tous les niveaux! Cette s\u00e9ance contient des \u00e9tirements doux pour commencer puis des postures... From:...",
-            "date": "2014-08-14",
+        "youtube.com/2014/09/cours-de-yoga-du-soir-avec-ariane-s-ancrer": {
+            "title": "Cours de Yoga du Soir avec Ariane S'ancrer...",
+            "snippet": "Cours de Yoga du Soir avec Ariane S'ancrer Salut les Yogis! D\u00e9sol\u00e9e pour la qualit\u00e9 du son de la vid\u00e9o. J'ai pr\u00e9f\u00e9r\u00e9 quand m\u00eame publier cette s\u00e9ance, malgr\u00e9 les probl\u00e8mes techniques. Dans cette s\u00e9ance d'une trentaine de... From:...",
+            "date": "2014-09-26",
             "author_name": "YogaCoaching",
             "categories": "yoga",
-            "tags": "s\u00e9ance,doux,yogis,ariane,cours,yoga,voici,ures",
-            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/08/cours-de-yoga-avec-ariane-quickie-du-matin",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=kJaQfF-eG50&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/kJaQfF-eG50/0.jpg"
-        },
-        "youtube.com/2014/08/yoga-pr%C3%A9natal-6eme-mois-de-grossesse": {
-            "title": "Yoga pr\u00e9natal: 6eme mois de grossesse...",
-            "snippet": "Yoga pr\u00e9natal: 6eme mois de grossesse Une s\u00e9ance de yoga pr\u00e9natal, pour \u00e9tirer les grands droits et les obliques afin de faire de la place \u00e0 l'ut\u00e9rus qui commence \u00e0 grandir. Attention \u00e0 bien suivre tous ses conseils de... From: Doctissimo...",
-            "date": "2014-08-05",
-            "author_name": "Doctissimo",
-            "categories": "place,yoga",
-            "tags": "commence,s\u00e9ance,yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/08/yoga-pr%C3%A9natal-6eme-mois-de-grossesse",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=SWb1V8-35Ek&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/SWb1V8-35Ek/0.jpg"
-        },
-        "youtube.com/2014/07/cours-de-yoga-matinal": {
-            "title": "Cours de yoga matinal...",
-            "snippet": "Cours de yoga matinal Cours de yoga matinal, id\u00e9al pour r\u00e9veiller le corps et avoir du tonus toute la journ\u00e9e! Merci de lire ces pr\u00e9cautions avant de faire la s\u00e9ance: - Soyez \u00e0 l'\u00e9coute de votre corps.... From: My Sunny Yoga Views: 11007 66...",
-            "date": "2014-07-14",
-            "author_name": "My Sunny Yoga",
-            "categories": "yoga",
-            "tags": "yoga,\u00e9coute,corps,lire,lire-ces-pr\u00e9cautions,pr\u00e9cautions,pr\u00e9cautions-avant,avant,avant-de-faire,s\u00e9ance,cours,merci,soyez",
-            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/07/cours-de-yoga-matinal",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=BalioQ55FY0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/BalioQ55FY0/0.jpg"
+            "tags": "s\u00e9ance,qualit\u00e9,cours,yoga,ariane,yogis",
+            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/09/cours-de-yoga-du-soir-avec-ariane-s-ancrer",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=A764zDLKFMM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/A764zDLKFMM/0.jpg"
         }
     }
 }
