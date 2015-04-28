@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tradition",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tradition/",
@@ -10,65 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tradition/tradition/blogs.json"
     },
     "items": {
-        "ladepeche.fr/2015/04/cousinade-de-la-famille-marin-une-tradition-perp%C3%A9tu%C3%A9e": {
-            "title": "Cousinade de la famille Marin: une tradition perp\u00e9tu\u00e9e -...",
-            "snippet": "de la famille Marin: une tradition perp\u00e9tu\u00e9 plaisir, tous les ans, de rassembler oncles, tantes, cousins, cousines, petits cousins, petites cousines et de nouveaux arri\u00e8re-petits-cousins! Cette ann\u00e9e, direction le foyer de Projan o\u00f9 Muriel et...",
-            "date": "2015-04-17",
-            "categories": "plaisir,tradition",
-            "tags": "nouveaux,petits,tradition,ann\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/tradition/ladepeche.fr/2015/04/cousinade-de-la-famille-marin-une-tradition-perp%C3%A9tu%C3%A9e",
+        "tvasports.ca/2015/04/la-tradition-se-poursuit": {
+            "title": "La tradition se poursuit...",
+            "snippet": "La chance a souri aux S\u00e9nateurs dOttawa en premi\u00e8re p\u00e9riode du cinqui\u00e8me duel de la s\u00e9rie face aux Canadiens de Montr\u00e9al. Et pour la cinqui\u00e8me fois de cette s\u00e9rie, ce sont les hommes de Dave Cameron qui ont ouvert la marque. Bobby Ryan a...",
+            "date": "2015-04-24",
+            "categories": "tradition",
+            "tags": "dave,hommes,cinqui\u00e8me,s\u00e9rie,premi\u00e8re,premi\u00e8re-p\u00e9riode,p\u00e9riode,p\u00e9riode-du-cinqui\u00e8me,cinqui\u00e8me-duel,duel,s\u00e9rie-face,face,chance,chance-souri,souri,poursuit,tradition,s\u00e9nateurs,canadiens,montr\u00e9al",
+            "recuweb_url": "http://fr.recuweb.com/tradition/tvasports.ca/2015/04/la-tradition-se-poursuit",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
+            "source_url": "http://tvasports.ca/2015/04/24/la-tradition-se-poursuit/"
+        },
+        "tvasports.ca/2015/04/la-tradition-se-poursuit-tva-sports": {
+            "title": "La tradition se poursuit - TVA Sports...",
+            "snippet": "TVA SportsLa tradition se poursuitTVA SportsLa chance a souri aux S\u00e9nateurs d'Ottawa en premi\u00e8re p\u00e9riode du cinqui\u00e8me duel de la s\u00e9rie face aux Canadiens de Montr\u00e9al. Et pour la cinqui\u00e8me fois de cette s\u00e9rie, ce sont les hommes de Dave...",
+            "date": "2015-04-24",
+            "categories": "sport,tradition",
+            "tags": "hommes,cinqui\u00e8me,s\u00e9rie,premi\u00e8re,premi\u00e8re-p\u00e9riode,p\u00e9riode,p\u00e9riode-du-cinqui\u00e8me,cinqui\u00e8me-duel,duel,s\u00e9rie-face,face,chance,chance-souri,souri,poursuit,tradition,s\u00e9nateurs,canadiens,montr\u00e9al,dave",
+            "recuweb_url": "http://fr.recuweb.com/tradition/tvasports.ca/2015/04/la-tradition-se-poursuit-tva-sports",
             "resource_url": "http://news.google.fr/?hl=fr&q=tradition%2Btradition&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/04/17/2088618-cousinade-de-la-famille-marin-une-tradition-perpetuee.html"
+            "source_url": "http://tvasports.ca/2015/04/24/la-tradition-se-poursuit"
         },
-        "malijet.com/2015/04/mariage-collectif-de-banamba-une-tradition-qui-perd-sa-substance-malijet": {
-            "title": "Mariage collectif de Banamba: Une tradition qui perd sa substance - Malijet - Actualit\u00e9 malienne...",
-            "snippet": "Mariage collectif de Banamba: Une tradition qui perd sa substance - Malijet - Actualit\u00e9 malienne...",
-            "date": "2015-04-17",
+        "tvmag.lefigaro.fr/2015/04/traditions-et-saveurs": {
+            "title": "Traditions et saveurs...",
+            "snippet": "Merrilees Parker est au Liban pour y d\u00e9couvrir une gastronomie complexe et vari\u00e9e. A Beyrouth, surnomm\u00e9 le Paris du Moyen-Orient, les produits alimentaires de multiples nationalit\u00e9s se retrouvent dans les commerces, comme la baguette fran\u00e7aise...",
+            "date": "2015-04-24",
             "categories": "tradition",
-            "tags": "tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/malijet.com/2015/04/mariage-collectif-de-banamba-une-tradition-qui-perd-sa-substance-malijet",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tradition&output=atom&nord=1",
-            "source_url": "http://malijet.com/la_societe_malienne_aujourdhui/127561-mariage-collectif-de-banamba-une-tradition-qui-perd-sa-substance.html"
-        },
-        "objectifgard.com/2015/04/villeneuve-la-f%C3%AAte-de-saint-marc-entre-tradition-et-nouveaut%C3%A9s": {
-            "title": "VILLENEUVE La f\u00eate de Saint-Marc, entre tradition et nouveaut\u00e9s...",
-            "snippet": "Le programme de la f\u00eate de Saint-Marc de Villeneuve a \u00e9t\u00e9 pr\u00e9sent\u00e9 hier, et il comporte quelques nouveaut\u00e9s. La f\u00eate traditionnelle se d\u00e9roulera les samedi 25 et dimanche 26 avril. Il y aura bien s\u00fbr toute la partie classique de cette...",
-            "date": "2015-04-17",
-            "categories": "tradition",
-            "tags": "f\u00eate,\u00e9t\u00e9,saint,tradition,avril",
-            "recuweb_url": "http://fr.recuweb.com/tradition/objectifgard.com/2015/04/villeneuve-la-f%C3%AAte-de-saint-marc-entre-tradition-et-nouveaut%C3%A9s",
+            "tags": "comme,retrouvent,traditions",
+            "recuweb_url": "http://fr.recuweb.com/tradition/tvmag.lefigaro.fr/2015/04/traditions-et-saveurs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://objectifgard.com/2015/04/17/villeneuve-la-fete-de-saint-marc-entre-tradition-et-nouveautes/"
+            "source_url": "http://tvmag.lefigaro.fr/programme-tv/fiche/france-5/serie-documentaire/202178568/traditions-et-saveurs.html"
         },
-        "lejsl.com/2015/04/la-chapelle-de-guinchay-perp%C3%A9tuer-tradition-gastronomique": {
-            "title": "La Chapelle-de-Guinchay Perp\u00e9tuer la tradition gastronomique...",
-            "snippet": "La Poularde fait partie du patrimoine de La Chapelle et leurs nouveaux propri\u00e9taires perp\u00e9tuent la tradition de qualit\u00e9 et de convivialit\u00e9. Reprendre un restaurant \u00e9toil\u00e9 nest jamais chose facile. Franck et Sophie Grobon le savaient, mais le...",
-            "date": "2015-04-16",
+        "lpo.fr/2015/04/malte-la-tradition-l-emporte-sur-biodiversit%C3%A9-ligue-pour-protection": {
+            "title": "Malte: la tradition l'emporte sur la biodiversit\u00e9 - Ligue pour la Protection des Oiseaux...",
+            "snippet": "Ligue pour la Protection des Oiseaux (Communiqu\u00e9 de presse)Malte: la tradition l'emporte sur la biodiversit\u00e9Ligue pour la Protection des Oiseaux (Communiqu\u00e9 de presse)Situ\u00e9e au milieu de la mer m\u00e9diterran\u00e9e, Malte est plac\u00e9e sur l'axe...",
+            "date": "2015-04-23",
             "categories": "tradition",
-            "tags": "nouveaux,perp\u00e9tuent,tradition,patrimoine",
-            "recuweb_url": "http://fr.recuweb.com/tradition/lejsl.com/2015/04/la-chapelle-de-guinchay-perp%C3%A9tuer-tradition-gastronomique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://lejsl.com/edition-macon/2015/04/17/perpetuer-la-tradition-gastronomique"
+            "tags": "milieu,tradition",
+            "recuweb_url": "http://fr.recuweb.com/tradition/lpo.fr/2015/04/malte-la-tradition-l-emporte-sur-biodiversit%C3%A9-ligue-pour-protection",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tradition%2Btradition&output=atom&nord=1",
+            "source_url": "http://lpo.fr/actualites/malte-la-tradition-l-emporte-sur-la-biodiversite"
         },
-        "lejdc.fr/2015/04/les-amis-de-lh%C3%B4pital-henri-dunant-perp%C3%A9tuent-une-tradition-n%C3%A9e": {
-            "title": "Les Amis de lh\u00f4pital Henri-Dunant perp\u00e9tuent une tradition n\u00e9e en 1946...",
-            "snippet": "H\u00e9ritage de la longue tradition hospitali\u00e8re de la ville, lassociation Les Amis de lh\u00f4pital g\u00e8re la boutique de l\u00e9tablissement, ce qui lui permet de participer au financement dactivit\u00e9s. Aux petits soins avec les r\u00e9sidants Trente-cinq...",
-            "date": "2015-04-16",
+        "leparisien.fr/2015/04/chryst%C3%A8le-albertini-perp%C3%A9tue-la-tradition-familiale-de-mosa%C3%AFque": {
+            "title": "Chryst\u00e8le Albertini perp\u00e9tue la tradition familiale de la mosa\u00efque...",
+            "snippet": "r\u00e9agir Montigny-l\u00e8s-Cormeilles, vendredi. Pour obtenir la M\u00e9daille de Meilleur ouvrier de France, Chryst\u00e8le Albertini, ici au milieu des rang\u00e9es de dalles de verre de latelier familial, sest inspir\u00e9e dun portrait de Louise de Rosenau d...",
+            "date": "2015-04-20",
             "categories": "tradition",
-            "tags": "petits,n\u00e9e,perp\u00e9tuent,tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/lejdc.fr/2015/04/les-amis-de-lh%C3%B4pital-henri-dunant-perp%C3%A9tuent-une-tradition-n%C3%A9e",
+            "tags": "ici,milieu,perp\u00e9tue,tradition,meilleur,france",
+            "recuweb_url": "http://fr.recuweb.com/tradition/leparisien.fr/2015/04/chryst%C3%A8le-albertini-perp%C3%A9tue-la-tradition-familiale-de-mosa%C3%AFque",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://lejdc.fr/nievre/actualite/pays/val-de-loire/2015/04/17/les-amis-de-lhopital-henri-dunant-perpetuent-une-tradition-nee-en-1946_11408297.html"
-        },
-        "sudouest.fr/2015/04/chez-les-massonde-on-cultive-la-tradition-de-viande-p%C3%A8re": {
-            "title": "Chez les Massonde, on cultive la tradition de la viande, de p\u00e8re en fils...",
-            "snippet": "hez les Massonde, la viande est une tradition qui se transmet de g\u00e9n\u00e9ration en g\u00e9n\u00e9ration. La branche Pascal Massonde, fond\u00e9e par Bernard Massonde, est implant\u00e9e dans le paysage local depuis trois g\u00e9n\u00e9rations et a fait des viandes,...",
-            "date": "2015-04-14",
-            "categories": "tradition",
-            "tags": "tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/sudouest.fr/2015/04/chez-les-massonde-on-cultive-la-tradition-de-viande-p%C3%A8re",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/04/15/chez-les-massonde-on-cultive-la-tradition-de-la-viande-de-pere-en-fils-1892345-4122.php"
+            "source_url": "http://leparisien.fr/espace-premium/val-d-oise-95/chrystele-albertini-perpetue-la-tradition-familiale-de-la-mosaique-21-04-2015-4710279.php"
         },
         "fr-ca.actualites.yahoo.com/2015/02/au-vietnam-un-festival-controvers%C3%A9-de-sacrifice-cochon": {
             "title": "Au Vietnam, un festival controvers\u00e9 de sacrifice de cochon...",
@@ -85,7 +76,7 @@
             "snippet": "OSCARS 2015 - Malgr\u00e9 la pluie, les c\u00e9l\u00e9brit\u00e9s s'\u00e9taient, dans la plus pure tradition hollywoodienne, par\u00e9es de leurs plus beaux atours. Du blanc -avec gants de vaisselle couleur sang pour Lady Gaga- ou de l'argent\u00e9, une v\u00e9ritable parade de...",
             "date": "2015-02-23",
             "categories": "tradition",
-            "tags": "\u00e9taient,tradition",
+            "tags": "meilleur,\u00e9taient,tradition",
             "recuweb_url": "http://fr.recuweb.com/tradition/fr.news.yahoo.com/2015/02/le-meilleur-et-pire-du-tapis-rouge-des-oscars",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tradition",
             "source_url": "http://fr.news.yahoo.com/meilleur-pire-tapis-rouge-oscars-081257852.html"
