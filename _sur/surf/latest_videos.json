@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "surf",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/surf/",
@@ -10,6 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/surf/surf/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/horse-surfing-gouner-team-avril-2015": {
+            "title": "Horse Surfing Gouner Team Avril 2015...",
+            "snippet": "Teaser d'une saison qui red\u00e9marre!!Author: elzazouTags: Horse surfing wake wakeboard surf horse Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "elzazou",
+            "categories": "surf",
+            "tags": "surfing,wake,surf",
+            "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/horse-surfing-gouner-team-avril-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2np3nr_horse-surfing-gouner-team-avril-2015_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2np3nr_horse-surfing-gouner-team-avril-2015_sport"
+        },
+        "dailymotion.com/2015/04/surf-nord-hiver-14-15": {
+            "title": "Surf Nord Hiver 14-15...",
+            "snippet": "Author: opale-surfingTags: Surf Nord-Pas-de-Calais C\u00f4te dOpale Manche Mer du Nord belgique vagues bodyboard SUP Posted: 18 April 2015Rating:: 0...",
+            "date": "2015-04-18",
+            "author_name": "opale-surfing",
+            "categories": "bodyboard,surf",
+            "tags": "vagues,mer,surf",
+            "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/surf-nord-hiver-14-15",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n2z6d_surf-nord-hiver-14-15_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n2z6d_surf-nord-hiver-14-15_sport"
+        },
+        "dailymotion.com/2015/04/faire-du-surf-sur-une-planche-en-%C3%A9tant-assis-chaise": {
+            "title": "Faire du surf sur une planche en \u00e9tant assis sur une chaise...",
+            "snippet": ": mineyannTags: surf planche assis chaise vague eau insolite dr\u00f4le fun wtf Posted: 15 April 2015Rating:: 0...",
+            "date": "2015-04-15",
+            "author_name": "mineyann",
+            "categories": "surf",
+            "tags": "surf,vague",
+            "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/faire-du-surf-sur-une-planche-en-%C3%A9tant-assis-chaise",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mqghl_faire-du-surf-sur-une-planche-en-etant-assis-sur-une-chaise_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mqghl_faire-du-surf-sur-une-planche-en-etant-assis-sur-une-chaise_sport"
+        },
         "dailymotion.com/2015/04/un-slowmotion-de-surf-juste-exceptionnellement-magnifique": {
             "title": "Un Slowmotion de Surf juste exceptionnellement magnifique!",
             "snippet": "Je reste sans mots devant ce spectacle!Author: PauseCafeinTags: surf sport de glisse mer Posted: 09 April 2015Rating:: 0...",
@@ -40,7 +77,7 @@
             "date": "2015-04-07",
             "author_name": "spreadthelovexoxoxo",
             "categories": "surf",
-            "tags": "surfer,surfing,ghost,ghost_surfing",
+            "tags": "wake,surfer,surfing,ghost,ghost_surfing",
             "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/ghost-surfing-crazy-guy-behind-a-boat-with-no-driver",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf+surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lzlwr_ghost-surfing-crazy-guy-surfing-behind-a-boat-with-no-driver_fun",
@@ -64,59 +101,11 @@
             "date": "2015-04-05",
             "author_name": "ArchivesDuNet",
             "categories": "surf",
-            "tags": "surf,vague,mer,surfeur",
+            "tags": "surf,vagues,vague,mer,surfeur",
             "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/surf-dans-une-piscine",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ltjoe_surf-dans-une-piscine_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ltjoe_surf-dans-une-piscine_sport"
-        },
-        "dailymotion.com/2015/03/teaser-coupe-de-france-surf-2015": {
-            "title": "TEASER COUPE DE FRANCE SURF 2015...",
-            "snippet": "Pr\u00e9sentation du circuit de la Coupe de France 2015 par la F\u00e9d\u00e9ration Fran\u00e7aise de: surfingfranceTags: SURF COUPE DE FRANCE LONGBOARD BODYBOARD SKIMBOARD STAND UP PADDLE BODYSURF Posted: 29 March 2015Rating:: 0...",
-            "date": "2015-03-29",
-            "author_name": "surfingfrance",
-            "categories": "surf,bodyboard",
-            "tags": "surf,france,france_surf",
-            "recuweb_url": "http://fr.recuweb.com/bodyboard/dailymotion.com/2015/03/teaser-coupe-de-france-surf-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2l1nrm_teaser-coupe-de-france-surf-2015_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2l1nrm_teaser-coupe-de-france-surf-2015_sport"
-        },
-        "dailymotion.com/2015/03/catch-it-la-passion-du-surf-comme-moteur": {
-            "title": "Catch it: la passion du surf comme moteur...",
-            "snippet": "Le surf comme passion, lamour et le respect de la nature comme leitmotiv, L\u00e9a Brassy a trouv\u00e9 sa d\u00e9finition du bonheur. Elle a d\u00e9cid\u00e9 de suivre ses envies et nous rappelle que les opportunit\u00e9s de vivre de sa passion sont rares et quil faut...",
-            "date": "2015-03-26",
-            "author_name": "adrenaline",
-            "categories": "bonheur,nature,surf",
-            "tags": "surf",
-            "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/03/catch-it-la-passion-du-surf-comme-moteur",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2kn15g_catch-it-la-passion-du-surf-comme-moteur_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2kn15g_catch-it-la-passion-du-surf-comme-moteur_sport"
-        },
-        "youtube.com/2015/02/party-wave-on-gironde-oc%C3%A9an-surf-report": {
-            "title": "Party wave on Gironde - Oc\u00e9an Surf Report...",
-            "snippet": "Party wave on Gironde - Oc\u00e9an Surf Report From: Tom Cor Views: 8867 27 ratings Time: 02:02 More in Sports...",
-            "date": "2015-02-18",
-            "author_name": "Tom Cor",
-            "categories": "surf,sport",
-            "tags": "surf",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/02/party-wave-on-gironde-oc%C3%A9an-surf-report",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Xh_95kg4lK4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Xh_95kg4lK4/0.jpg"
-        },
-        "youtube.com/2015/01/pole-france-surf-guadeloupe-janvier-2015": {
-            "title": "Pole France Surf Guadeloupe Janvier 2015...",
-            "snippet": "Pole France Surf Guadeloupe Janvier 2015 Entra\u00eenement du P\u00f4le France Surf en Guadeloupe pendant la p\u00e9riode hivernale. Beaucoup d'entra\u00eenements, de vid\u00e9o et de s\u00e9ries \u00e0 l'eau pour \u00eatre fin pr\u00eat au d\u00e9but de saison qui arrive... From: JR...",
-            "date": "2015-01-14",
-            "author_name": "JR Vignes",
-            "categories": "surf",
-            "tags": "france,france_surf,surf",
-            "recuweb_url": "http://fr.recuweb.com/surf/youtube.com/2015/01/pole-france-surf-guadeloupe-janvier-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Zikw_hJjtEk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Zikw_hJjtEk/0.jpg"
         },
         "youtube.com/2014/12/pok%C3%A9mon-rubis-om%C3%A9ga-%C3%A9pisode-14-avoir-la-cs-surf-norman-double": {
             "title": "POK\u00c9MON RUBIS OM\u00c9GA \u00c9pisode 14 Avoir la CS SURF! NORMAN! Double Badge! Let's Play Fran\u00e7ais...",
@@ -129,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=uJ-FA-0fetM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/uJ-FA-0fetM/0.jpg"
+        },
+        "youtube.com/2014/12/gagner-de-l-argent-paypal-facilement-grace-au-barre-surf": {
+            "title": "Gagner de l'argent Paypal facilement grace au barre de surf...",
+            "snippet": "Gagner de l'argent Paypal facilement grace au barre de surf Bonjour tout le monde! Aujourd'hui on se retrouve pour une nouvelle vid\u00e9o o\u00f9 TutoBwin vous pr\u00e9sente une astuce pour gagner de l'argent sur Paypal grace au barre de surf! Tous les...",
+            "date": "2014-12-03",
+            "author_name": "TUTO WATCH TV - Chaine communautaire de tutoriel",
+            "categories": "surf",
+            "tags": "surf",
+            "recuweb_url": "http://fr.recuweb.com/surf/youtube.com/2014/12/gagner-de-l-argent-paypal-facilement-grace-au-barre-surf",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Jn8lHZPN5iw&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Jn8lHZPN5iw/0.jpg"
         }
     }
 }
