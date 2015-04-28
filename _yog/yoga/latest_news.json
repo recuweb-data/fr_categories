@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yoga",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yoga/",
@@ -10,35 +11,95 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
     },
     "items": {
-        "cosmopolitan.fr/2015/02/le-sup-yoga-nouvelle-tendance-forme-entre-et-stand-up": {
-            "title": "Le Sup Yoga, nouvelle tendance forme entre yoga et le Stand Up... -...",
-            "snippet": "Sup Yoga, nouvelle tendance forme entre yoga et le Stand Up... \u00eates une acharn\u00e9e du sport, curieuse de nouvelle d\u00e9couvertes et multitche accomplie? Pourquoi ne pas m\u00e9langer yoga et Stand Up Paddle, deux des sports les plus pl\u00e9biscit\u00e9s par les...",
-            "date": "2015-02-25",
-            "categories": "sport,yoga",
-            "tags": "sport,\u00eates,yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/cosmopolitan.fr/2015/02/le-sup-yoga-nouvelle-tendance-forme-entre-et-stand-up",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yoga&output=atom&nord=1",
-            "source_url": "http://cosmopolitan.fr/,le-sup-yoga-nouvelle-tendance-forme-entre-yoga-et-le-stand-up-paddle,1913943.asp"
-        },
-        "mensquare.com/2015/02/unboxing-de-la-lenovo-yoga-tablet-2-pro-tablette-avec-mensquare": {
-            "title": "Unboxing de la Lenovo YOGA Tablet 2 Pro, la tablette avec... - Mensquare...",
-            "snippet": "MensquareUnboxing de la Lenovo YOGA Tablet 2 Pro, la tablette avec...MensquareD\u00e9couvrez l'unboxing en photos de la Lenovo YOGA Tablet 2 Pro, une tablette de 13,3 pouces avec un pico-projecteur int\u00e9gr\u00e9. La Lenovo YOGA Tablet 2 Pro est une tablette...",
-            "date": "2015-02-25",
+        "routard.com/2015/04/yoga-et-ayurveda": {
+            "title": "Yoga et ayurveda...",
+            "snippet": "Connaissez vous des endroits ou faire du yoga et de l'ayurveda dans les villes suivantes: ella, kandy, nurawa eliya et tissamaharama. J'ai bien sur fait des recherches sur le net et guides papier. Mais parfois c'est hors de prix ou assez excentr\u00e9.",
+            "date": "2015-04-25",
             "categories": "yoga",
             "tags": "yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/mensquare.com/2015/02/unboxing-de-la-lenovo-yoga-tablet-2-pro-tablette-avec-mensquare",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yoga&output=atom&nord=1",
-            "source_url": "http://mensquare.com/high-tech/tablette/987587-lenovo-yoga-tablet-2-pro-unboxing-photos"
+            "recuweb_url": "http://fr.recuweb.com/yoga/routard.com/2015/04/yoga-et-ayurveda",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=fr",
+            "source_url": "http://routard.com/forum_message/3858804/yoga_et_ayurveda.htm"
         },
-        "ladepeche.fr/2015/02/yoga-nord-aveyron-effectif-en-hausse": {
-            "title": "Yoga nord Aveyron: effectif en hausse -...",
-            "snippet": "nord Aveyron: effectif en de la r\u00e9cente assembl\u00e9e g\u00e9n\u00e9rale du club de yoga nord Aveyron, la pr\u00e9sidente Nicole Ginisty a dress\u00e9 le bilan de la saison \u00e9coul\u00e9e. Le club dont les effectifs en l\u00e9g\u00e8re hausse avec 40 adh\u00e9rents se masculinise...",
-            "date": "2015-02-25",
+        "journalmetro.com/2015/04/le-yoga-sur-chaise-ou-transporter-laspect-traditionnel-au-bureau": {
+            "title": "Le yoga sur chaise ou transporter laspect traditionnel au bureau...",
+            "snippet": "Apr\u00e8s le hot yoga, voici peut-\u00eatre la nouvelle tendance: le yoga sur chaise. Julie Banville de l\u00cele-des-S\u0153urs et Claire Armange de Brossard sont des adeptes de cette pratique qui permet de s\u00e9tirer et de diminuer son stress au bureau ou...",
+            "date": "2015-04-24",
             "categories": "yoga",
-            "tags": "yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/ladepeche.fr/2015/02/yoga-nord-aveyron-effectif-en-hausse",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yoga&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/02/25/2055672-yoga-nord-aveyron-effectif-en-hausse.html"
+            "tags": "adeptes,pratique,stress,chaise,voici,yoga,apr\u00e8s,\u00eatre",
+            "recuweb_url": "http://fr.recuweb.com/yoga/journalmetro.com/2015/04/le-yoga-sur-chaise-ou-transporter-laspect-traditionnel-au-bureau",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=fr",
+            "source_url": "http://journalmetro.com/local/ile-des-soeurs/actualites/763698/le-yoga-sur-chaise-ou-transporter-laspect-traditionnel-au-bureau/"
+        },
+        "terrafemina.com/2015/04/yogasm-5-postures-de-yoga-pour-atteindre-l-orgasme": {
+            "title": "Yogasm: 5 postures de yoga pour atteindre l'orgasme...",
+            "snippet": "Selon de nombreux adeptes de cette discipline, le yoga pourrait permettre, en d\u00e9veloppant les muscles sexuels, d'atteindre l'orgasme. Voici 5 positions qui pourraient vous emmener au 7\u00e8me ciel. - Assise par terre, mettez vos mains derri\u00e8re vos...",
+            "date": "2015-04-24",
+            "categories": "yoga,discipline",
+            "tags": "terre,adeptes,yoga,discipline,voici",
+            "recuweb_url": "http://fr.recuweb.com/discipline/terrafemina.com/2015/04/yogasm-5-postures-de-yoga-pour-atteindre-l-orgasme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=fr",
+            "source_url": "http://terrafemina.com/article/yogasm-5-postures-de-yoga-pour-atteindre-l-orgasme_a270057/1"
+        },
+        "people.premiere.fr/2015/04/le-r%C3%A9gime-secret-d-emily-ratajkowski-yoga-et-croissant": {
+            "title": "Le r\u00e9gime secret d'Emily Ratajkowski: yoga et croissant...",
+            "snippet": "Star incontest\u00e9e depuis son passage d\u00e9nud\u00e9 dans le clip de Robin Thicke Blurred Lines en 2013, Emily Ratajkowski s\u00e9duit depuis le monde entier: mode, cin\u00e9ma et \u00e9ditos de magazine, la jeune femme de 23 ans assoit de jour en jour sa domination...",
+            "date": "2015-04-23",
+            "categories": "clip,yoga",
+            "tags": "magazine,emily,emily_ratajkowski,ratajkowski,r\u00e9gime,yoga",
+            "recuweb_url": "http://fr.recuweb.com/yoga/people.premiere.fr/2015/04/le-r%C3%A9gime-secret-d-emily-ratajkowski-yoga-et-croissant",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=fr",
+            "source_url": "http://people.premiere.fr/Photos-people/Les-astuces-minceur-d-Emily-Ratajkowski-yoga-et-croissant-4169082"
+        },
+        "public.fr/2015/04/miranda-kerr-yoga-et-positive-attitude-pour-la-journ%C3%A9e-de-terre": {
+            "title": "Miranda Kerr: yoga et positive attitude pour la journ\u00e9e de la Terre! -...",
+            "snippet": "Kerr: yoga et positive attitude pour la journ\u00e9e de la Terre! Kerr: yoga et positive attitude pour la journ\u00e9e de la Terre! 23/04/2015; 12h40. 0; 0. 28. Commentez!. Alors que le top vient de f\u00eater ses 32 ans, elle a c\u00e9l\u00e9br\u00e9 la journ\u00e9e de la...",
+            "date": "2015-04-23",
+            "categories": "yoga",
+            "tags": "journ\u00e9e,yoga,terre",
+            "recuweb_url": "http://fr.recuweb.com/yoga/public.fr/2015/04/miranda-kerr-yoga-et-positive-attitude-pour-la-journ%C3%A9e-de-terre",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yoga%2Byoga&output=atom&nord=1",
+            "source_url": "http://public.fr/News/Miranda-Kerr-yoga-et-positive-attitude-pour-la-journee-de-la-Terre-730376"
+        },
+        "wort.lu/2015/04/pratiquer-le-yoga-bikram-en-toute-s%C3%A9curit%C3%A9": {
+            "title": "Pratiquer le yoga Bikram en toute s\u00e9curit\u00e9...",
+            "snippet": "Des s\u00e9ances plus courtes, quelques degr\u00e9s de moins et mettre l'accent sur l'hydratation figurent parmi les recommandations \u00e9manant d'une \u00e9quipe de scientifiques sp\u00e9cialis\u00e9s dans le sport qui se sont int\u00e9ress\u00e9s au yoga Bikram, un type de...",
+            "date": "2015-04-23",
+            "categories": "yoga,sport",
+            "tags": "quelques,courtes,yoga,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/wort.lu/2015/04/pratiquer-le-yoga-bikram-en-toute-s%C3%A9curit%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yoga&format=RSS&cc=fr",
+            "source_url": "http://wort.lu/fr/luxembourg/zen-attitude-pratiquer-le-yoga-bikram-en-toute-securite-553905430c88b46a8ce57ebf"
+        },
+        "public.fr/2015/04/emily-ratajkowski-ses-astuces-minceur-le-yoga-et-les-cupcakes": {
+            "title": "Emily Ratajkowski: ses astuces minceur? Le yoga et les cupcakes! -...",
+            "snippet": "Ratajkowski: ses astuces minceur? Le yoga et les cupcakes! Ratajkowski s'est confi\u00e9e sur ses habitudes alimentaires et ses astuces minceur dans les colonnes du magazine ELLE Us. Et son \"r\u00e9gime\" alimentaire va en \u00e9tonner plus d'un! Hormis ses...",
+            "date": "2015-04-21",
+            "categories": "yoga",
+            "tags": "r\u00e9gime,magazine,emily,emily_ratajkowski,ratajkowski,yoga",
+            "recuweb_url": "http://fr.recuweb.com/yoga/public.fr/2015/04/emily-ratajkowski-ses-astuces-minceur-le-yoga-et-les-cupcakes",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yoga%2Byoga&output=atom&nord=1",
+            "source_url": "http://public.fr/News/Emily-Ratajkowski-ses-astuces-minceur-Le-yoga-et-les-cupcakes-729294"
+        },
+        "blog.surf-prevention.com/2015/04/livre-surf-et-yoga-prevention-blog": {
+            "title": "Livre Surf et Yoga - Surf Prevention (Blog)...",
+            "snippet": "Surf Prevention (Blog)Livre Surf et YogaSurf Prevention (Blog)Le surfeur yogiste Boris Wilbois propose un tout nouveau livre intitul\u00e9 Surf & Yoga illustr\u00e9 par les photographies d'Eric Chauch\u00e9 aux Editions Pimientos. En voici le r\u00e9sum\u00e9. Ce livre...",
+            "date": "2015-04-20",
+            "categories": "photographie,surf,yoga",
+            "tags": "voici,yoga",
+            "recuweb_url": "http://fr.recuweb.com/yoga/blog.surf-prevention.com/2015/04/livre-surf-et-yoga-prevention-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yoga%2Byoga&output=atom&nord=1",
+            "source_url": "http://blog.surf-prevention.com/2015/04/20/livre-surf-yoga/"
+        },
+        "fr.news.yahoo.com/2015/02/trois-exercices-de-yoga-sur-une-chaise-pour-mieux-dormir": {
+            "title": "Trois exercices de yoga sur une chaise pour mieux dormir le soir...",
+            "snippet": "Insomnie, troubles du sommeil. Des nuits courtes non r\u00e9paratrices d\u00e9teignent vite sur l'humeur et la concentration dans la journ\u00e9e. Epuis\u00e9e, on perd ses moyens et on engrange du stress. On berce son esprit et on retrouve des nuits paisibles avec...",
+            "date": "2015-02-18",
+            "categories": "yoga",
+            "tags": "stress,journ\u00e9e,courtes,chaise,soir,yoga",
+            "recuweb_url": "http://fr.recuweb.com/yoga/fr.news.yahoo.com/2015/02/trois-exercices-de-yoga-sur-une-chaise-pour-mieux-dormir",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=yoga",
+            "source_url": "http://fr.news.yahoo.com/trois-exercices-yoga-chaise-mieux-dormir-soir-170000490.html"
         }
     }
 }
