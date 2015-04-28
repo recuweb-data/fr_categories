@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wordpress",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wordpress/",
@@ -10,38 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "wordpress-fr.net/2015/03/l-hebdo-wordpress-n256-4-2-traduction-astuces": {
-            "title": "L'Hebdo WordPress n256: WordPress 4.2 Traduction Astuces...",
-            "snippet": "WordPress 4.2 beta 2. La 2e beta de WordPress 4.2 (en) est disponible pour les tests. Des nouvelles de l'\u00e9quipe de traduction. Le WordCamp London a \u00e9t\u00e9 l'occasion de parler de la traduction. Avec notamment l'arriv\u00e9e...",
-            "date": "2015-03-24",
-            "author_name": "Beno\u00eet",
-            "categories": "traduction,wordpress",
-            "tags": "wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/wordpress-fr.net/2015/03/l-hebdo-wordpress-n256-4-2-traduction-astuces",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://wordpress-fr.net/2015/03/24/lhebdo-wordpress-n256-wordpress-4-2-traduction-astuces/"
-        },
-        "lemondeinformatique.fr/2015/03/recap-it-big-data-paris-2015-1-million-de-sites-wordpress": {
-            "title": "Recap IT: Big data Paris 2015, 1 million de sites Wordpress...",
-            "snippet": "Plus d'un million de sites Wordpress vuln\u00e9rables. La mal\u00e9diction des vuln\u00e9rabilit\u00e9s s'est encore une fois abattue sur les sites tournant sur la solution de gestion de contenus Open Source Wordpress. Apr\u00e8s le malware Soak...",
-            "date": "2015-03-13",
-            "author_name": "Dominique Filippone",
+        "wpformation.com/2015/04/archiver-vos-articles-avec-un-plugin-wordpress-wp-formation": {
+            "title": "Archiver vos articles avec un plugin WordPress - WP Formation...",
+            "snippet": "Avez-vous l'habitude de supprimer des articles obsol\u00e8tes de votre blog. Une autre alternative existe: un plugin wordpress qui vous permet de les archiver.",
+            "date": "2015-04-22",
+            "author_name": "Anne-C",
             "categories": "wordpress",
-            "tags": "gestion,contenus,vuln\u00e9rabilit\u00e9s,million,sites,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/lemondeinformatique.fr/2015/03/recap-it-big-data-paris-2015-1-million-de-sites-wordpress",
+            "tags": "articles,plugin,wordpress,formation,avez",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/archiver-vos-articles-avec-un-plugin-wordpress-wp-formation",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lemondeinformatique.fr/actualites/lire-recap-it-big-data-paris-2015-1-million-de-sites-wordpress-vulnerables-apple-presente-sa-watch-60538.html"
+            "source_url": "http://wpformation.com/ne-jamais-supprimer-vos-articles-archiver/"
         },
-        "undernews.fr/2015/03/wordpress-seo-by-yoast-une-vuln%C3%A9rabilit%C3%A9-critique-met-en-danger": {
-            "title": "Wordpress Seo by Yoast: Une vuln\u00e9rabilit\u00e9 critique met en danger...",
-            "snippet": "Alerte s\u00e9curit\u00e9 - Une vuln\u00e9rabilit\u00e9 critique au sein du plugin tr\u00e8s populaire WordPress SEO By Yoast met potentiellement en grave danger de piratage pr\u00e8s de 14.",
-            "date": "2015-03-12",
-            "author_name": "UnderNews",
-            "categories": "wordpress",
-            "tags": "wordpress,seo,yoast,met,alerte,s\u00e9curit\u00e9,plugin,piratage",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/undernews.fr/2015/03/wordpress-seo-by-yoast-une-vuln%C3%A9rabilit%C3%A9-critique-met-en-danger",
+        "forum.webrankinfo.com/2015/04/th%C3%A8me-wordpress-seo-r%C3%A9f%C3%A9rencement-google": {
+            "title": "th\u00e8me wordpress SEO: R\u00e9f\u00e9rencement Google...",
+            "snippet": "Bonjour, Je ne sais pas si je suis sur le bon forum, sinon d\u00e9sol\u00e9:(Je cherche un bon th\u00e8me pour un site de contenu (articles tutoriels), un th\u00e8me wordpress payant ou gratuit con\u00e7u au normes du patron GG. Merci de votre...",
+            "date": "2015-04-17",
+            "author_name": "inconnu",
+            "categories": "google,wordpress",
+            "tags": "cherche,r\u00e9f\u00e9rencement,google,wordpress,seo,bonjour,site,contenu,articles,tutoriels,gratuit",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/forum.webrankinfo.com/2015/04/th%C3%A8me-wordpress-seo-r%C3%A9f%C3%A9rencement-google",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://undernews.fr/alertes-securite/wordpress-seo-by-yoast-une-vulnerabilite-critique-met-en-danger-des-millions-de-sites.html"
+            "source_url": "http://forum.webrankinfo.com/theme-wordpress-seo-t180284.html"
+        },
+        "journaldugeek.com/2015/04/le-fbi-met-en-garde-contre-les-vuln%C3%A9rabilit%C3%A9s-sur-wordpress": {
+            "title": "Le FBI met en garde contre les vuln\u00e9rabilit\u00e9s sur Wordpress...",
+            "snippet": "Les attaques contre les sites web se poursuivent et se multiplient. Le FBI met en garde contre les vuln\u00e9rabilit\u00e9s de la plateforme Wordpress permettant des defacing ais\u00e9s.",
+            "date": "2015-04-09",
+            "author_name": "Elodie",
+            "categories": "wordpress",
+            "tags": "met,met-en-garde,garde,garde-contre,contre,plateforme,attaques,sites,fbi,wordpress,web",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/journaldugeek.com/2015/04/le-fbi-met-en-garde-contre-les-vuln%C3%A9rabilit%C3%A9s-sur-wordpress",
+            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://journaldugeek.com/2015/04/09/fbi-vulnerabilite-wordpress/"
+        },
+        "wpformation.com/2015/04/plugin-wordpress-gratuit-de-s%C3%A9curit%C3%A9-itheme-security-wp-formation": {
+            "title": "Plugin wordpress gratuit de s\u00e9curit\u00e9: Itheme security - WP Formation...",
+            "snippet": "Vous avez install\u00e9 Wordpress et, soucieux(se) de la s\u00e9curit\u00e9 de votre site, vous cherchez un plugin gratuit? Itheme Security devrait vous plaire.",
+            "date": "2015-04-07",
+            "author_name": "Pierrepack S\u00e9bastien",
+            "categories": "wordpress",
+            "tags": "security,plugin,wordpress,gratuit,formation,avez,install\u00e9,site",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/plugin-wordpress-gratuit-de-s%C3%A9curit%C3%A9-itheme-security-wp-formation",
+            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://wpformation.com/plugin-itheme-security-wordpress/"
         },
         "wpchannel.com/2015/01/wordpress-g%C3%A9rer-un-site-multi-utilisateur-worflow-et-contenus-personnalis%C3%A9s": {
             "title": "WordPress G\u00e9rer un site multi-utilisateur: worflow et contenus personnalis\u00e9s par Christophe Aubry...",
@@ -49,7 +61,7 @@
             "date": "2015-01-03",
             "author_name": "Aur\u00e9lien Denis",
             "categories": "wordpress",
-            "tags": "contenus,wordpress,site",
+            "tags": "wordpress,site,utilisateur",
             "recuweb_url": "http://fr.recuweb.com/wordpress/wpchannel.com/2015/01/wordpress-g%C3%A9rer-un-site-multi-utilisateur-worflow-et-contenus-personnalis%C3%A9s",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=fr",
             "source_url": "http://wpchannel.com/wordpress-gerer-site-multi-utilisateur-christophe-aubry/"
@@ -60,7 +72,7 @@
             "date": "2014-11-05",
             "author_name": "daformation",
             "categories": "internet,wordpress",
-            "tags": "professionnel,cr\u00e9er,formation,site,internet,wordpress",
+            "tags": "professionnel,formation,site,internet,cr\u00e9er,wordpress",
             "recuweb_url": "http://fr.recuweb.com/wordpress/centreformationwordpress.wordpress.com/2014/11/formation-cr%C3%A9ation-site-internet",
             "resource_url": "http://fr.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
             "source_url": "http://centreformationwordpress.wordpress.com/formation-wordpress/formation-creation-site-internet/"
