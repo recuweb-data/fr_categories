@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tennis-de-table",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tennis-de-table/",
@@ -10,55 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis-de-table/tennis-de-table/blogs.json"
     },
     "items": {
-        "lejsl.com/2015/04/tennis-de-table-un-grand-travail-d%C3%A9quipe": {
-            "title": "Tennis de table Un grand travail d\u00e9quipe...",
-            "snippet": "La derni\u00e8re fois quun championnat de France dune telle ampleur \u00e9tait venu au Creusot, c\u00e9tait en 2004. Onze ans plus tard, Jean-Pierre Molenda, qui avait la charge de lorganisation, Jean-Claude Douheret, le pr\u00e9sident de lUnion pongiste...",
-            "date": "2015-04-06",
+        "ouest-france.fr/2015/04/tennis-de-table-l-%C3%A9quipe-1-monte-en-r%C3%A9gionale-2-ouest": {
+            "title": "Tennis de table: l'\u00e9quipe 1 monte en r\u00e9gionale 2 - Ouest-France...",
+            "snippet": "Ouest-FranceTennis de table: l'\u00e9quipe 1 monte en r\u00e9gionale 2Ouest-FranceUne saison sportive qui se termine au Nieul Tennis de table (NTT), mais une saison pas comme les autres, annonce le secr\u00e9taire, Fabien Tessier. En effet, l'\u00e9quipe 1...",
+            "date": "2015-04-23",
             "categories": "tennis",
-            "tags": "grand,tennis,table,quun,championnat,france",
-            "recuweb_url": "http://fr.recuweb.com/tennis/lejsl.com/2015/04/tennis-de-table-un-grand-travail-d%C3%A9quipe",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
-            "source_url": "http://lejsl.com/edition-le-creusot/2015/04/07/un-grand-travail-d-equipe"
-        },
-        "lejsl.com/2015/04/tennis-de-table-400-v%C3%A9t%C3%A9rans-en-comp%C3%A9tition-le-jsl": {
-            "title": "TENNIS DE TABLE 400 v\u00e9t\u00e9rans en comp\u00e9tition - Le JSL...",
-            "snippet": "TENNIS DE TABLE 400 v\u00e9t\u00e9rans en comp\u00e9titionLe JSLLa comp\u00e9tition se disputera sur une aire de 32 tables et il faudra 16 arbitres nationaux et 32 r\u00e9gionaux pour encadrer cette grande comp\u00e9tition. Nous attendons environ 800 personnes samedi et...",
-            "date": "2015-04-04",
-            "categories": "tennis,tennis-de-table",
-            "tags": "table,tennis",
-            "recuweb_url": "http://fr.recuweb.com/tennis-de-table/lejsl.com/2015/04/tennis-de-table-400-v%C3%A9t%C3%A9rans-en-comp%C3%A9tition-le-jsl",
+            "tags": "saison,r\u00e9gionale,tennis,table,\u00e9quipe,france",
+            "recuweb_url": "http://fr.recuweb.com/tennis/ouest-france.fr/2015/04/tennis-de-table-l-%C3%A9quipe-1-monte-en-r%C3%A9gionale-2-ouest",
             "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable&output=atom&nord=1",
-            "source_url": "http://lejsl.com/edition-le-creusot/2015/04/04/400-veterans-en-competition"
+            "source_url": "http://ouest-france.fr/tennis-de-table-lequipe-1-monte-en-regionale-2-3353011"
         },
-        "ladepeche.fr/2015/04/danse-et-tennis-de-table-pour-l-unss": {
-            "title": "Danse et tennis de table pour l'UNSS -...",
-            "snippet": "et tennis de table pour l'le m\u00eame temps, au gymnase de la R\u00e9thourie, se tenait le championnat acad\u00e9mique UNSS de tennis de table par \u00e9quipe mixte r\u00e9unissant 370 \u00e9l\u00e8ves issus de tous les d\u00e9partements de la r\u00e9gion. Le coll\u00e8ge de Mathalin et...",
-            "date": "2015-04-03",
+        "lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gionaux-le-bilan-dans-valenciennois": {
+            "title": "Tennis de table R\u00e9gionaux: le bilan dans le Valenciennois...",
+            "snippet": "Les Valenciennois ont dans lensemble confirm\u00e9 lascension du district dans l\u00e9chelle r\u00e9gionale en maintenant de nombreuses \u00e9quipes sur le haut pav\u00e9. R1.- Ainsi Saint-Amand champion en R1 retrouve la Pr\u00e9nationale, alors que la r\u00e9serve de l...",
+            "date": "2015-04-23",
             "categories": "tennis",
-            "tags": "\u00e9quipe,tennis,table,championnat",
-            "recuweb_url": "http://fr.recuweb.com/tennis/ladepeche.fr/2015/04/danse-et-tennis-de-table-pour-l-unss",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable%2Btennis%2Bde%2Btable&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/04/03/2079720-danse-et-tennis-de-table-pour-l-unss.html"
-        },
-        "nordeclair.fr/2015/04/tennis-de-table-rousies-p%C3%A9p%C3%A9-debuck-une-vie-sportif-nord": {
-            "title": "Tennis de table - Rousies: P\u00e9p\u00e9 Debuck, une vie de sportif - Nord...",
-            "snippet": "Nord de table - Rousies: P\u00e9p\u00e9 Debuck, une vie de sportifNord s'appelle Ren\u00e9, mais tout le monde l'appelle P\u00e9p\u00e9. \u00c0 83 ans, P\u00e9p\u00e9 Debuck participera ce week-end aux championnats de France des plus de 80 ans. De tennis de table. Il faut...",
-            "date": "2015-04-02",
-            "categories": "tennis",
-            "tags": "championnats,tennis,table,france",
-            "recuweb_url": "http://fr.recuweb.com/tennis/nordeclair.fr/2015/04/tennis-de-table-rousies-p%C3%A9p%C3%A9-debuck-une-vie-sportif-nord",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable%2Btennis%2Bde%2Btable&output=atom&nord=1",
-            "source_url": "http://nordeclair.fr/sports/tennis-de-table-rousies-pepe-debuck-une-vie-de-sportif-jna0b0n688468"
-        },
-        "tendanceouest.com/2015/04/tennis-de-table-les-caennais-visent-le-maintien-ce-vendredi": {
-            "title": "Tennis de table: les Caennais visent le maintien ce vendredi...",
-            "snippet": "Les Caennais ont l'occasion de faire un grand pas ce vendredi 3 avril vers leur maintien en Pro A... Mal en point au classement de Pro A, le Caen tennis de table club accueille Saint-Louis pour le compte de la 16e journ\u00e9e, vendredi 3 avril (19h30),...",
-            "date": "2015-04-02",
-            "categories": "tennis",
-            "tags": "grand,tennis,table,pro,point,caen,journ\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/tennis/tendanceouest.com/2015/04/tennis-de-table-les-caennais-visent-le-maintien-ce-vendredi",
+            "tags": "retrouve,r\u00e9gionale,\u00e9quipes,tennis,table,r\u00e9gionaux",
+            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gionaux-le-bilan-dans-valenciennois",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
-            "source_url": "http://tendanceouest.com/saint-lo/actualite-99760-tennis-de-table-les-caennais-visent-maintien-ce-vendredi.html"
+            "source_url": "http://lavoixdunord.fr/region/tennis-de-table-regionaux-le-bilan-dans-le-valenciennois-ia27b0n2788960"
+        },
+        "lavoixdunord.fr/2015/04/p%C3%A9renchies-le-tennis-de-table-rate-peu-la-division-sup%C3%A9rieure-voix": {
+            "title": "P\u00e9renchies: le tennis de table rate de peu la division sup\u00e9rieure - La Voix du Nord...",
+            "snippet": "La Voix du NordP\u00e9renchies: le tennis de table rate de peu la division sup\u00e9rieureLa Voix du NordDimanche, salle Gruson, se d\u00e9roulait la finale de tennis de table pour l'accession en d\u00e9partementale 1. L'\u00e9quipe locale recevait celle de Quesnoy sur...",
+            "date": "2015-04-21",
+            "categories": "tennis",
+            "tags": "\u00e9quipe,voix,tennis,table,nord,salle,finale",
+            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/p%C3%A9renchies-le-tennis-de-table-rate-peu-la-division-sup%C3%A9rieure-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable%2Btennis%2Bde%2Btable&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/perenchies-le-tennis-de-table-rate-de-peu-la-division-ia11b49735n2784501"
+        },
+        "lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gion-les-r%C3%A9sultats-la-7e-journ%C3%A9e-pour-voix": {
+            "title": "Tennis de table r\u00e9gion: les r\u00e9sultats de la 7e journ\u00e9e pour les... - La Voix du Nord...",
+            "snippet": "Tennis de table r\u00e9gion: les r\u00e9sultats de la 7e journ\u00e9e pour les...La Voix du NordVoici les r\u00e9sultats des rencontres disput\u00e9es par les \u00e9quipes du Cambr\u00e9sis engag\u00e9es dans les championnats r\u00e9gionaux. PN, poule A: Leers - Inchy-Beaumont: 14-0.",
+            "date": "2015-04-21",
+            "categories": "tennis",
+            "tags": "championnats,r\u00e9gionaux,\u00e9quipes,tennis,table,journ\u00e9e,voix,nord,cambr\u00e9sis",
+            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gion-les-r%C3%A9sultats-la-7e-journ%C3%A9e-pour-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/tennis-de-table-region-les-resultats-de-la-7e-journee-ia13b0n2784608"
+        },
+        "lavoixdunord.fr/2015/04/tennis-de-table-la-cjtt-le-cateau-retrouve-r%C3%A9gionale": {
+            "title": "Tennis de table. La CJTT Le Cateau retrouve la R\u00e9gionale...",
+            "snippet": "Le tennis de table cat\u00e9sien a le vent en poupe cette saison et veut poursuivre son essor. Apr\u00e8s avoir organis\u00e9 les Individuels du Cambr\u00e9sis, le club a pu f\u00eater les siens ce dimanche avec laccession de son \u00e9quipe fanion en R\u00e9gionale, niveau...",
+            "date": "2015-04-21",
+            "categories": "tennis",
+            "tags": "dimanche,\u00e9quipe,saison,retrouve,tennis,table,r\u00e9gionale,apr\u00e8s,cambr\u00e9sis",
+            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/tennis-de-table-la-cjtt-le-cateau-retrouve-r%C3%A9gionale",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/tennis-de-table-la-cjtt-le-cateau-retrouve-la-regionale-ia13b0n2785081"
+        },
+        "ladepeche.fr/2015/04/arr%C3%AAt-du-tennis-de-table-faute-pr%C3%A9sident": {
+            "title": "Arr\u00eat du tennis de table faute de pr\u00e9sident...",
+            "snippet": "Dimanche 12, se passait l'assembl\u00e9e g\u00e9n\u00e9rale de l'Amicale la\u00efque section tennis de table. Dans la grande salle des sports, le comit\u00e9 des pr\u00e9sents paraissait bien petit, ce qui n'a pas surpris le pr\u00e9sident Christophe Guinedor, bien qu'un petit...",
+            "date": "2015-04-16",
+            "categories": "sport,tennis",
+            "tags": "salle,tennis,table,dimanche",
+            "recuweb_url": "http://fr.recuweb.com/tennis/ladepeche.fr/2015/04/arr%C3%AAt-du-tennis-de-table-faute-pr%C3%A9sident",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/04/17/2088583-arret-du-tennis-de-table-faute-de-president.html"
         }
     }
 }
