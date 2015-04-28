@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tennis-de-table",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tennis-de-table/",
@@ -10,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis-de-table/tennis-de-table/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/le-match-acharn%C3%A9-entre-une-l%C3%A9gende-du-tennis-de-table": {
+            "title": "Le match acharn\u00e9 entre une l\u00e9gende du tennis de table et un robot...",
+            "snippet": "L'homme vs la machine. \u00c0 qui la victoire?Author: PauseCafeinTags: vid\u00e9o buzz pausecafein robot robotique ping-pong tennis de table match victoire forceps Posted: 09 April 2015Rating:: 0...",
+            "date": "2015-04-09",
+            "author_name": "PauseCafein",
+            "categories": "tennis,tennis-de-table,robotique",
+            "tags": "tennis,tennis-de-table,table,match,homme",
+            "recuweb_url": "http://fr.recuweb.com/robotique/dailymotion.com/2015/04/le-match-acharn%C3%A9-entre-une-l%C3%A9gende-du-tennis-de-table",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+de+table/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2m5xtk_le-match-acharne-entre-une-legende-du-tennis-de-table-et-un-robot_tv",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m5xtk_le-match-acharne-entre-une-legende-du-tennis-de-table-et-un-robot_tv"
+        },
         "dailymotion.com/2015/04/championnat-de-france-tennis-table-lys-lez-lannoy-metz-partie-1": {
             "title": "Championnat de France de tennis de table: Lys-lez-Lannoy - Metz (partie 1)...",
             "snippet": "En tennis de table, plus quun match de championnat cest une v\u00e9ritable finale que dispute les filles du CP Lys-lez-Lannoy et celles du Metz. Cette rencontre au sommet de la 15\u00e8me journ\u00e9e de Pro A va opposer le 2\u00e8me du championnat le Cp Lys au...",
@@ -40,7 +53,7 @@
             "date": "2015-03-21",
             "author_name": "TVVendee",
             "categories": "tennis",
-            "tags": "apr\u00e8s,table,tennis,inter",
+            "tags": "apr\u00e8s,table,tennis",
             "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/03/nouvelle-d%C3%A9faite-de-l-asl-beaufou-tennis-table",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+de+table+tennis+de+table/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k5i8m_nouvelle-defaite-de-l-asl-beaufou-tennis-de-table_sport",
@@ -64,31 +77,19 @@
             "date": "2015-03-02",
             "author_name": "FFTT",
             "categories": "tennis,tennis-de-table",
-            "tags": "tennis,tennis-de-table,table,finale,ouaiche,championnat,france,fftttags,fftt",
+            "tags": "tennis,tennis-de-table,table,finale,homme,ouaiche,championnat,france,fftttags,fftt",
             "recuweb_url": "http://fr.recuweb.com/tennis-de-table/dailymotion.com/2015/03/finale-homme-mattenet-vs-ouaiche-championnat-de-france-tennis-table-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+de+table+tennis+de+table/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ii824_finale-homme-mattenet-vs-ouaiche-championnat-de-france-tennis-de-table-2015_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ii824_finale-homme-mattenet-vs-ouaiche-championnat-de-france-tennis-de-table-2015_sport"
         },
-        "dailymotion.com/2015/02/tennis-de-table-para-pereira-leal-j-ai-le-sourire": {
-            "title": "Tennis de Table - Para.: Pereira-Leal, j'ai le sourire...",
-            "snippet": "Pascal Pereira-Leal a ouvert le compteur des m\u00e9dailles fran\u00e7aises lundi matin en accrochant le bronze en tennis de: lequipeTags: paralympique medaille pbase reaction londres2012 pereira-leal interview bronze jeux olympique Posted: 27 February...",
-            "date": "2015-02-27",
-            "author_name": "lequipe",
-            "categories": "tennis",
-            "tags": "inter,tennis,table",
-            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/02/tennis-de-table-para-pereira-leal-j-ai-le-sourire",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+de+table/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2i9ijr_tennis-de-table-para-pereira-leal-j-ai-le-sourire_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i9ijr_tennis-de-table-para-pereira-leal-j-ai-le-sourire_sport"
-        },
         "youtube.com/2015/02/un-point-de-ouf-en-tennis-table": {
             "title": "Un point de Ouf en tennis de table...",
-            "snippet": "Un point de Ouf en tennis de table Mais d'o\u00f9 \u00e7a sort \u00e7a? Enorme! Plus de Best Of sur From: tennis de table Views: 2940 4 ratings Time: 00:12 More in People & Blogs...",
+            "snippet": "Un point de Ouf en tennis de table Mais d'o\u00f9 \u00e7a sort \u00e7a? Enorme! Plus de Best Of sur From: tennis de table Views: 3613 5 ratings Time: 00:12 More in People & Blogs...",
             "date": "2015-02-26",
             "author_name": "tennis de table",
             "categories": "tennis,tennis-de-table",
-            "tags": "tennis,tennis-de-table,table,point",
+            "tags": "tennis,tennis-de-table,table,point,people",
             "recuweb_url": "http://fr.recuweb.com/tennis-de-table/youtube.com/2015/02/un-point-de-ouf-en-tennis-table",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=tennis%2Bde%2Btable%2Btennis%2Bde%2Btable&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=xC9CqbIwJFA&feature=youtube_gdata",
@@ -96,7 +97,7 @@
         },
         "youtube.com/2015/02/tennis-de-table-pro-a-caen-ttc-zoltan-fejer-konnerth": {
             "title": "Tennis de table: PRO A Caen TTC Zoltan Fejer-Konnerth...",
-            "snippet": "Tennis de table: PRO A Caen TTC Zoltan Fejer-Konnerth Magnifique coup dans le dos de Zoltan Fejer Konnerth contre Damien Eloi lors de la rencontre de Pro A qui opposait le Caen TTC \u00e0 Chartres! From: Jimmy Devaux Views: 1283 6 ratings Time: 00:37...",
+            "snippet": "Tennis de table: PRO A Caen TTC Zoltan Fejer-Konnerth Magnifique coup dans le dos de Zoltan Fejer Konnerth contre Damien Eloi lors de la rencontre de Pro A qui opposait le Caen TTC \u00e0 Chartres! From: Jimmy Devaux Views: 1414 6 ratings Time: 00:37...",
             "date": "2015-02-25",
             "author_name": "Jimmy Devaux",
             "categories": "tennis",
@@ -118,17 +119,17 @@
             "source_url": "http://dailymotion.com/video/x2hyt6m_superbe-point-d-un-joueur-de-tennis-de-table_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hyt6m_superbe-point-d-un-joueur-de-tennis-de-table_sport"
         },
-        "youtube.com/2015/02/tennis-de-table-finale-cadet-championnat-meurthe-et-moselle": {
-            "title": "Tennis de table finale cadet championnat Meurthe et Moselle...",
-            "snippet": "Tennis de table finale cadet championnat Meurthe et Moselle Roman Baraban - Thibault Masson. From: THOMAS BARABAN Views: 362 5 ratings Time: 03:23 More in Sports...",
-            "date": "2015-02-09",
-            "author_name": "THOMAS BARABAN",
-            "categories": "tennis,sport",
-            "tags": "table,finale,championnat,tennis",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/02/tennis-de-table-finale-cadet-championnat-meurthe-et-moselle",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=tennis%2Bde%2Btable&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=VFEB_Y4uKFs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/VFEB_Y4uKFs/0.jpg"
+        "youtube.com/2015/02/tennis-de-table-chef-boutonne-niort-tt": {
+            "title": "Tennis de table: CHEF BOUTONNE/NIORT TT...",
+            "snippet": "Tennis de table: CHEF BOUTONNE/NIORT TT Match de Gala/2\u00e8me partie. From: Ace Skinnixx Views: 461 1 ratings Time: 50:27 More in People & Blogs...",
+            "date": "2015-02-24",
+            "author_name": "Ace Skinnixx",
+            "categories": "tennis",
+            "tags": "\u00e8me,match,table,tennis,people",
+            "recuweb_url": "http://fr.recuweb.com/tennis/youtube.com/2015/02/tennis-de-table-chef-boutonne-niort-tt",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=tennis%2Bde%2Btable%2Btennis%2Bde%2Btable&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=0uaYdQK2hNc&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/0uaYdQK2hNc/0.jpg"
         }
     }
 }
