@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yahoo",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yahoo/",
@@ -10,13 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yahoo/yahoo/blogs.json"
     },
     "items": {
+        "progonline.wordpress.com/2015/04/partenariat-ren%C3%A9gociation-entre-yahoo-et-microsoft-serait-ce-la-fin": {
+            "title": "Partenariat: Ren\u00e9gociation entre Yahoo et Microsoft, serait-ce la fin?",
+            "snippet": "Depuis 2009, Yahoo et Microsoft ont un accord concernant la recherche en ligne et autour de la publicit\u00e9. Cet accord entre les 2 g\u00e9ants am\u00e9ricains pr\u00e9voyait que Yahoo abandonne []...",
+            "date": "2015-04-24",
+            "author_name": "progonline",
+            "categories": "yahoo",
+            "tags": "accord,ligne,publicit\u00e9,concernant,partenariat,yahoo,microsoft,serait,recherche",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/progonline.wordpress.com/2015/04/partenariat-ren%C3%A9gociation-entre-yahoo-et-microsoft-serait-ce-la-fin",
+            "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
+            "source_url": "http://progonline.wordpress.com/2015/04/24/partenariat-renegociation-entre-yahoo-et-microsoft-serait-ce-la-fin/"
+        },
+        "telechargementsgratuitspirats.wordpress.com/2015/04/telecharger-compte-yahoo-hacker": {
+            "title": "Telecharger Compte Yahoo Hacker...",
+            "snippet": "Telecharger Compte Yahoo Hacker Compte Yahoo Hacker Yahoo compte hacker est un outil de piratage puissant d\u00e9velopp\u00e9 par notre \u00e9quipe, au d\u00e9but, juste pour prouver que nous pouvons le faire,...",
+            "date": "2015-04-24",
+            "author_name": "lity1944",
+            "categories": "yahoo",
+            "tags": "hacker,piratage,compte,yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/telechargementsgratuitspirats.wordpress.com/2015/04/telecharger-compte-yahoo-hacker",
+            "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
+            "source_url": "http://telechargementsgratuitspirats.wordpress.com/2015/04/24/telecharger-compte-yahoo-hacker/"
+        },
         "zone-numerique.com/2015/04/yahoo-annonce-des-r%C3%A9sultats-trimestriels-inf%C3%A9rieurs-aux-attentes": {
             "title": "Yahoo! annonce des r\u00e9sultats trimestriels inf\u00e9rieurs aux attentes des...",
             "snippet": "Yahoo! publie des r\u00e9sultats d\u00e9cevants sur ce premier trimestre 2015 avec un chiffre d'affaires en baisse de 4%. Des chiffres inf\u00e9rieurs aux attentes des analystes.",
             "date": "2015-04-22",
             "author_name": "Fran\u00e7ois Giraud",
             "categories": "yahoo",
-            "tags": "r\u00e9sultats,yahoo",
+            "tags": "yahoo,r\u00e9sultats",
             "recuweb_url": "http://fr.recuweb.com/yahoo/zone-numerique.com/2015/04/yahoo-annonce-des-r%C3%A9sultats-trimestriels-inf%C3%A9rieurs-aux-attentes",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://zone-numerique.com/yahoo-annonce-des-resultats-trimestriels-inferieurs-aux-attentes-des-analystes.html"
@@ -38,21 +61,10 @@
             "date": "2015-04-18",
             "author_name": "Johann Breton",
             "categories": "yahoo,internet",
-            "tags": "conclu,mati\u00e8re,search,yahoo,microsoft,jeudi,annonc\u00e9,partenariat,recherche,internet",
+            "tags": "conclu,partenariat,mati\u00e8re,search,yahoo,microsoft,recherche,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/lesnumeriques.com/2015/04/search-yahoo-et-microsoft-assouplissent-leurs-accords",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesnumeriques.com/search-yahoo-microsoft-assouplissent-accords-n41423.html"
-        },
-        "journaldugeek.com/2015/04/yahoo-et-bing-toujours-ensemble-le-journal-du-geek": {
-            "title": "Yahoo et Bing toujours ensemble - Le Journal du Geek...",
-            "snippet": "Personne ne vous ne voudra vraiment si vous n'avez plus utilis\u00e9 Yahoo depuis quelques ann\u00e9es. Mais sachez-le, le moteur de recherche continue ses activit\u00e9s, mais oui, m\u00eame s'il continue de puiser dans les r\u00e9sultats de...",
-            "date": "2015-04-17",
-            "author_name": "Olivier",
-            "categories": "yahoo,bing",
-            "tags": "r\u00e9sultats,m\u00eame,moteur,utilis\u00e9,vraiment,yahoo,bing,recherche",
-            "recuweb_url": "http://fr.recuweb.com/bing/journaldugeek.com/2015/04/yahoo-et-bing-toujours-ensemble-le-journal-du-geek",
-            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldugeek.com/2015/04/17/yahoo-et-bing-toujours-ensemble/"
         },
         "cnetfrance.fr/2015/04/yahoo-voudrait-se-relancer-sur-le-terrain-de-la-messagerie-cnet": {
             "title": "Yahoo voudrait se relancer sur le terrain de la messagerie - CNET...",
@@ -60,7 +72,7 @@
             "date": "2015-04-17",
             "author_name": "J\u00e9r\u00f4me Durel",
             "categories": "yahoo",
-            "tags": "m\u00eame,concurrencer,vraiment,utilis\u00e9,messagerie,yahoo,skype,snapchat,meerkat",
+            "tags": "m\u00eame,concurrencer,march\u00e9,vraiment,utilis\u00e9,messagerie,yahoo,meerkat",
             "recuweb_url": "http://fr.recuweb.com/yahoo/cnetfrance.fr/2015/04/yahoo-voudrait-se-relancer-sur-le-terrain-de-la-messagerie-cnet",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://cnetfrance.fr/news/yahoo-voudrait-se-relancer-sur-le-terrain-de-la-messagerie-39818076.htm"
@@ -71,7 +83,7 @@
             "date": "2015-04-17",
             "author_name": "V\u00e9ronique Ar\u00e8ne",
             "categories": "yahoo,internet",
-            "tags": "ligne,conclu,microsoft,yahoo,partenariat,recherche,internet,\u00e9t\u00e9,modifications",
+            "tags": "ligne,\u00e9t\u00e9,partenariat,conclu,microsoft,yahoo,recherche,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/lemondeinformatique.fr/2015/04/microsoft-et-yahoo-renouvellent-leur-partenariat-dans-la-recherche",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemondeinformatique.fr/actualites/lire-microsoft-et-yahoo-renouvellent-leur-partenariat-dans-la-recherche-en-ligne-60881.html"
@@ -82,7 +94,7 @@
             "date": "2015-04-17",
             "author_name": "CelineLhorte",
             "categories": "yahoo,bing",
-            "tags": "entreprises,publicit\u00e9,moteur,conclu,microsoft,yahoo,partenariat,modifi\u00e9,bing,ainsi,recherche",
+            "tags": "entreprises,revenus,publicit\u00e9,conclu,partenariat,\u00e7a,microsoft,yahoo,bing,ainsi,moteur,recherche",
             "recuweb_url": "http://fr.recuweb.com/bing/commentcamarche.net/2015/04/microsoft-yahoo-partenariat-modifi%C3%A9-comment-%C3%A7a-marche",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://commentcamarche.net/news/5866409-microsoft-yahoo-partenariat-modifie"
@@ -98,27 +110,16 @@
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/652467/yahoo-preparerait-une-appli-de-messagerie-avec-du-meerkat-et-du-snapchat-dedans/"
         },
-        "lanacerta.wordpress.com/2015/04/yahoo-en-page-d-acceuil-j-aime": {
-            "title": "Yahoo en page d acceuil, J aime bien...",
-            "snippet": "Vous aurait-il une autre mani\u00e8re? Dans ce vaste monde de choix, qui faites-vous confiance sans fausse publicit\u00e9 dans un monde libre? C'est nul autre que Yahoo,...",
-            "date": "2015-04-15",
-            "author_name": "lanacerta",
+        "presse-citron.net/2015/04/foursquare-serait-sur-le-point-d-%C3%AAtre-rachet%C3%A9-par-yahoo-presse": {
+            "title": "Foursquare serait sur le point d'\u00eatre rachet\u00e9 par Yahoo - Presse-citron...",
+            "snippet": "Le g\u00e9ant Yahoo envisage un possible rachat de Foursquare pour d\u00e9velopper sa strat\u00e9gie et rajeunir son image aupr\u00e8s des jeunes.",
+            "date": "2015-04-16",
+            "author_name": "Manu",
             "categories": "yahoo",
-            "tags": "sans,publicit\u00e9,yahoo",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/lanacerta.wordpress.com/2015/04/yahoo-en-page-d-acceuil-j-aime",
-            "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
-            "source_url": "http://lanacerta.wordpress.com/2015/04/15/yahoo-en-page-d-acceuil-j-aime-bien/"
-        },
-        "marquesettic.wordpress.com/2015/01/yahoo-remonte-google-descend": {
-            "title": "Yahoo! remonte, Google descend...",
-            "snippet": "Selon le cabinet ind\u00e9pendant StatCounter, Yahoo!, le troisi\u00e8me moteur de recherche apr\u00e8s Bing et Google, retrouve son niveau de 2009. Aux Etats-Unis, Google est en train de perdre des []...",
-            "date": "2015-01-15",
-            "author_name": "marquesettic",
-            "categories": "yahoo,google,bing",
-            "tags": "moteur,yahoo,google,selon,recherche,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/marquesettic.wordpress.com/2015/01/yahoo-remonte-google-descend",
-            "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
-            "source_url": "http://marquesettic.wordpress.com/2015/01/15/yahoo-remonte-google-descend/"
+            "tags": "\u00eatre,serait,foursquare,yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/presse-citron.net/2015/04/foursquare-serait-sur-le-point-d-%C3%AAtre-rachet%C3%A9-par-yahoo-presse",
+            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://presse-citron.net/foursquare-serait-sur-le-point-detre-rachete-par-yahoo/"
         }
     }
 }
