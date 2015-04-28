@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wordpress",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wordpress/",
@@ -10,45 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "searchenginejournal.com/2015/04/supercharge-seo-with-these-6-wordpress-plugins-search-engine-journal": {
-            "title": "Supercharge SEO With These 6 WordPress Plugins - Search Engine Journal...",
-            "snippet": "Search Engine JournalSupercharge SEO With These 6 WordPress PluginsSearch Engine JournalWordPress is by far the most popular CMS today, with over 74.6 Million sites managed with the platform. The power of WordPress lies in the fact that it's...",
-            "date": "2015-04-17",
+        "emploi.presse-citron.net/2015/04/webmaster-wordpress-css-html-guitare-h-f": {
+            "title": "Webmaster Wordpress CSS/HTML - Guitare H/F...",
+            "snippet": "Vous aimez la guitare? le web et wordpress? Nous avons un stage hyper cool pour vous! Nous recherchons pour une de nos filiales, sp\u00e9cialis\u00e9e dans les cours de musique en ligne un webmaster, developpeur.",
+            "date": "2015-04-23",
+            "categories": "musique,wordpress,css",
+            "tags": "ligne,web,wordpress",
+            "recuweb_url": "http://fr.recuweb.com/css/emploi.presse-citron.net/2015/04/webmaster-wordpress-css-html-guitare-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Webmaster+Wordpress+CSSHTML+-+Guitare+HF/30101"
+        },
+        "commentcamarche.net/2015/04/refonte-compl%C3%A8te-de-mon-site-avec-wordpress": {
+            "title": "Refonte compl\u00e8te de mon site avec Wordpress...",
+            "snippet": "Bonjour, je voudrais refondre l'interface compl\u00e8te de mon site internet, en utilisant wordpress. Je me demandais si il \u00e9tait possible d'installer wordpress sur le site, tout en conservant le site pr\u00e9c\u00e9dent en ligne en attendant que le nouveau...",
+            "date": "2015-04-20",
+            "categories": "wordpress,internet",
+            "tags": "ligne,utilisant,compl\u00e8te,site,wordpress,internet,installer",
+            "recuweb_url": "http://fr.recuweb.com/internet/commentcamarche.net/2015/04/refonte-compl%C3%A8te-de-mon-site-avec-wordpress",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31860002-refonte-complete-de-mon-site-avec-wordpress"
+        },
+        "commentcamarche.net/2015/04/syst%C3%A8me-de-vote-wordpress": {
+            "title": "Syst\u00e8me de vote Wordpress...",
+            "snippet": "J'ai pour projet de cr\u00e9er un site wordpress (.org) sur lequel aura lieu une sorte de concours avec diff\u00e9rentes cat\u00e9gories et diff\u00e9rents nomin\u00e9s dans chaque cat\u00e9gorie. Pour cela, j'aimerai que les visiteurs puissent voter pour le nomin\u00e9 de...",
+            "date": "2015-04-19",
             "categories": "wordpress",
-            "tags": "sites,wordpress,seo,wordpress_plugins,plugins",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/searchenginejournal.com/2015/04/supercharge-seo-with-these-6-wordpress-plugins-search-engine-journal",
+            "tags": "sorte,cr\u00e9er,syst\u00e8me,wordpress,site",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/commentcamarche.net/2015/04/syst%C3%A8me-de-vote-wordpress",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31856784-systeme-de-vote-wordpress"
+        },
+        "monwindowsphone.com/2015/04/demande-de-t%C3%A9moignage-pour-wordpress-blog": {
+            "title": "Demande de t\u00e9moignage pour Wordpress - (Blog)...",
+            "snippet": "Demande de t\u00e9moignage pour (Blog)Pour commenc\u00e9 j'ai chang\u00e9 le pseudo \"Admin\" qui est par d\u00e9faut sur les sites Wordpress par un autre et j'ai fais en sorte de bannir imm\u00e9diatement toute personne qui cherche a ce connecter en tapant \"Admin\" comme...",
+            "date": "2015-04-18",
+            "categories": "wordpress",
+            "tags": "sorte,comme,wordpress",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/monwindowsphone.com/2015/04/demande-de-t%C3%A9moignage-pour-wordpress-blog",
             "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/supercharge-seo-6-wordpress-plugins/129475/"
+            "source_url": "http://monwindowsphone.com/demande-de-temoignage-pour-wordpress-t104981.html"
         },
         "categorynet.com/2015/04/logiciel-gratuit-de-catalogue-num%C3%A9rique-pour-optimiser-le-e-communiqu%C3%A9-presse": {
             "title": "Logiciel gratuit de catalogue num\u00e9rique pour optimiser le e... - (Communiqu\u00e9 de presse)...",
             "snippet": "Logiciel gratuit de catalogue num\u00e9rique pour optimiser le e... (Communiqu\u00e9 de presse)WordPress n'est plus un syst\u00e8me de blog. Il a d\u00e9sormais \u00e9volu\u00e9 et est utilis\u00e9 comme plateforme de gestion compl\u00e8te de contenu, par le biais de milliers de...",
             "date": "2015-04-13",
             "categories": "wordpress",
-            "tags": "plateforme,contenu,presse,gratuit,optimiser,communiqu\u00e9,wordpress",
+            "tags": "comme,compl\u00e8te,contenu,syst\u00e8me,presse,gratuit,optimiser,communiqu\u00e9,wordpress",
             "recuweb_url": "http://fr.recuweb.com/wordpress/categorynet.com/2015/04/logiciel-gratuit-de-catalogue-num%C3%A9rique-pour-optimiser-le-e-communiqu%C3%A9-presse",
             "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://categorynet.com/communiques-de-presse/informatique/logiciel-gratuit-de-catalogue-numerique-pour-optimiser-le-e--commerce-wordpress-20150410229321/"
         },
-        "itespresso.fr/2015/04/alerte-fbi-blindez-wordpress-pour-%C3%A9viter-la-d%C3%A9figuration-de-vos-sites": {
-            "title": "Alerte FBI: Blindez WordPress pour \u00e9viter la d\u00e9figuration de vos sites Web...",
-            "snippet": "Le FBI veut endiguer les risques de d\u00e9facement des sites Web r\u00e9alis\u00e9s au nom du cyber-djihadisme. Mais on trouve souvent derri\u00e8re juste des script kiddies. Aux Etats-Unis, le FBI sinqui\u00e8te de la vague de d\u00e9figurations de sites Web sous...",
-            "date": "2015-04-09",
+        "01net.com/2015/04/wordpress-pour-android": {
+            "title": "WordPress pour Android...",
+            "snippet": "En cliquant sur le bouton t\u00e9l\u00e9charger, vous b\u00e9n\u00e9ficiez de notre assistant d'installation, qui optimise et facilite le t\u00e9l\u00e9chargement. L'assistant de 01net propose aussi d'installer des utilitaires ou des offres commerciales, v\u00e9rifi\u00e9s par...",
+            "date": "2015-04-13",
             "categories": "wordpress",
-            "tags": "sites,nom,d\u00e9facement,wordpress,alerte,fbi,web,etats,unis",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/itespresso.fr/2015/04/alerte-fbi-blindez-wordpress-pour-%C3%A9viter-la-d%C3%A9figuration-de-vos-sites",
+            "tags": "cliquant,wordpress,installation,installer",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/01net.com/2015/04/wordpress-pour-android",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://itespresso.fr/alerte-fbi-blindez-wordpress-eviter-defiguration-sites-web-93324.html?pfstyle=wp"
-        },
-        "24matins.fr/2015/04/fbi-les-propri%C3%A9taires-de-wordpress-mis-en-garde-d-un-risque": {
-            "title": "FBI: les propri\u00e9taires de WordPress mis en garde d'un risque de piratage...",
-            "snippet": "Le FBI a publi\u00e9 un bulletin de s\u00e9curit\u00e9 dans lequel il pr\u00e9vient les administrateurs de WordPress d'un fort risque de piratage. \u00c0 travers un bulletin de s\u00e9curit\u00e9 r\u00e9cemment diffus\u00e9, le FBI met en garde les propri\u00e9taires de plates-formes...",
-            "date": "2015-04-09",
-            "categories": "wordpress",
-            "tags": "met,met-en-garde,garde,garde-les-propri\u00e9taires,propri\u00e9taires,s\u00e9curit\u00e9,piratage,fbi,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/24matins.fr/2015/04/fbi-les-propri%C3%A9taires-de-wordpress-mis-en-garde-d-un-risque",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://24matins.fr/fbi-les-proprietaires-de-wordpress-mis-en-garde-dun-risque-de-piratage-173540"
+            "source_url": "http://01net.com/telecharger/linux/Bureautique/fiches/130586.html"
         },
         "categorynet.com/2015/04/le-meilleur-plugin-wordpress-de-publication-pour-am%C3%A9liorer-communiqu%C3%A9-presse": {
             "title": "Le Meilleur Plugin WordPress de Publication pour am\u00e9liorer le... - (Communiqu\u00e9 de presse)...",
@@ -60,55 +81,35 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
             "source_url": "http://categorynet.com/communiques-de-presse/informatique/le-meilleur-plugin-wordpress-de-publication-pour-ameliorer-le-contenu-de-votre-site-web-wordpress-20150409229267/"
         },
-        "nice.maville.com/2015/04/piratage-le-fbi-s-inqui%C3%A8te-des-attaques-visant-wordpress": {
-            "title": "Piratage: Le FBI s'inqui\u00e8te des attaques visant WordPress...",
-            "snippet": "Le FBI met en garde contre les attaques visant les sites h\u00e9berg\u00e9s sous WordPress. Les hackers loin d'\u00eatre de fins pirates utilisent le nom de Daech pour \u00eatre plus visibles. Les Etats-Unis, via le FBI, mettent aujourd'hui en garde tous les...",
-            "date": "2015-04-09",
-            "categories": "wordpress",
-            "tags": "hui,garde,aujourd,pirates,nom,hackers,met,met-en-garde,garde-contre,contre,contre-les-attaques,attaques,sites,piratage,fbi,wordpress,etats,unis",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/nice.maville.com/2015/04/piratage-le-fbi-s-inqui%C3%A8te-des-attaques-visant-wordpress",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://nice.maville.com/actu/actudet_-piratage-le-fbi-s-inquiete-des-attaques-visant-wordpress_fil-2749260_actu.Htm"
-        },
         "fr.news.yahoo.com/2015/04/piratage-le-fbi-met-en-garde-contre-les-attaques-sous-wordpress": {
             "title": "Piratage: Le FBI met en garde contre les attaques sous Wordpress...",
             "snippet": "WEB - Le FBI alerte les internautes utilisant Wordpress des menaces d'un groupe de hackers nomm\u00e9 ISIS...",
             "date": "2015-04-09",
             "categories": "wordpress",
-            "tags": "hackers,alerte,utilisant,met,met-en-garde,garde,garde-contre,contre,contre-les-attaques,attaques,piratage,fbi,wordpress,web",
+            "tags": "utilisant,wordpress,web",
             "recuweb_url": "http://fr.recuweb.com/wordpress/fr.news.yahoo.com/2015/04/piratage-le-fbi-met-en-garde-contre-les-attaques-sous-wordpress",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=wordpress",
             "source_url": "http://fr.news.yahoo.com/piratage-fbi-met-garde-contre-attaques-wordpress-125054591.html"
         },
-        "sharknews.fr/2015/04/wordpress-le-fbi-soup%C3%A7onne-un-grand-nombre-de-piratages": {
-            "title": "WordPress: le FBI soup\u00e7onne un grand nombre de piratages...",
-            "snippet": "Le FBI vient de remettre un billet de s\u00e9curit\u00e9 pour mettre en garde les propri\u00e9taires de sites web utilisant WordPress concernant une multitude dattaques dont la plateforme est victime en ce moment dont des attaques de d\u00e9facement et des d\u00e9nis...",
-            "date": "2015-04-09",
+        "globalsecuritymag.fr/2015/03/vigilnce-wordpress-mp3-jplayer-travers%C3%A9e-de-r%C3%A9pertoire-global-security-mag": {
+            "title": "Vigilnce - WordPress MP3-Jplayer: travers\u00e9e de r\u00e9pertoire - Global Security Mag...",
+            "snippet": "Vigilnce - WordPress MP3-Jplayer: travers\u00e9e de r\u00e9pertoireGlobal Security MagLe plugin MP3-Jplayer peut \u00eatre install\u00e9 sur WordPress. Cependant, les donn\u00e9es provenant de l'utilisateur sont directement ins\u00e9r\u00e9es dans un chemin d'acc\u00e8s. Les...",
+            "date": "2015-03-26",
             "categories": "wordpress",
-            "tags": "attaques,d\u00e9facement,concernant,plateforme,s\u00e9curit\u00e9,mettre,garde,garde-les-propri\u00e9taires,propri\u00e9taires,sites,web,utilisant,wordpress,fbi",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/sharknews.fr/2015/04/wordpress-le-fbi-soup%C3%A7onne-un-grand-nombre-de-piratages",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://sharknews.fr/2015/04/09/wordpress-le-fbi-soupconne-un-grand-nombre-de-piratages/"
+            "tags": "ins\u00e9r\u00e9es,donn\u00e9es,peut,peut-\u00eatre,peut-\u00eatre-install\u00e9,\u00eatre,\u00eatre-install\u00e9,install\u00e9,security,security_magle,magle,global,global_security,global_security_mag,security_mag,mag,vigilnce,wordpress,plugin,cependant",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/globalsecuritymag.fr/2015/03/vigilnce-wordpress-mp3-jplayer-travers%C3%A9e-de-r%C3%A9pertoire-global-security-mag",
+            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-WordPress-MP3-Jplayer,20150408,52141.html"
         },
-        "silicon.fr/2015/04/alertes-aux-attaques-par-d%C3%A9facement-de-sites-wordpress": {
-            "title": "Alertes aux attaques par d\u00e9facement de sites WordPress...",
-            "snippet": "Les d\u00e9facements qui affectent tous types de sites sous Wordpress seraient revendiqu\u00e9s par les terroristes de lEtat Islamique. Ce dont doute le FBI. Le FBI a \u00e9mis une alerte, mardi 7 avril, sur des attaques par d\u00e9facement de sites...",
-            "date": "2015-04-08",
-            "categories": "wordpress",
-            "tags": "attaques,sites,\u00e9mis,\u00e9mis-une-alerte,wordpress,fbi",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/silicon.fr/2015/04/alertes-aux-attaques-par-d%C3%A9facement-de-sites-wordpress",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://silicon.fr/alertes-aux-attaques-par-defacement-de-sites-wordpress-113372.html"
-        },
-        "infos-mobiles.com/2015/04/wordpress-un-patch-est-n%C3%A9cessaire-avant-que-les-sites-ne-soient": {
-            "title": "WordPress: un patch est n\u00e9cessaire avant que les sites ne soient effac\u00e9s par des pirates...",
-            "snippet": "La plainte Internet Crime Center (IC3), un partenariat entre le Federal Bureau of Investigation (FBI) et le National White Collar Crime Center (NW3C), a en effet \u00e9mis une alerte concernant lexploitation des vuln\u00e9rabilit\u00e9s WordPress perp\u00e9tr\u00e9s...",
-            "date": "2015-04-08",
-            "categories": "internet,wordpress",
-            "tags": "\u00e9mis,\u00e9mis-une-alerte,alerte,concernant,internet,avant,sites,pirates,wordpress,fbi",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/infos-mobiles.com/2015/04/wordpress-un-patch-est-n%C3%A9cessaire-avant-que-les-sites-ne-soient",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://infos-mobiles.com/wordpress/wordpress-un-patch-est-necessaire-avant-que-les-sites-ne-soient-effaces-par-des-pirates/93766"
+        "globalsecuritymag.fr/2015/03/vigilnce-wordpress-ab-google-map-travel-cross-site-scripting-global-security": {
+            "title": "Vigilnce - WordPress AB Google Map Travel: Cross Site Scripting - Global Security Mag...",
+            "snippet": "Vigilnce - WordPress AB Google Map Travel: Cross Site ScriptingGlobal Security MagLe plugin AB Google Map Travel peut \u00eatre install\u00e9 sur WordPress. Cependant, les donn\u00e9es re\u00e7ues ne sont pas filtr\u00e9es avant d'\u00eatre ins\u00e9r\u00e9es dans les documents...",
+            "date": "2015-03-25",
+            "categories": "google,wordpress",
+            "tags": "\u00eatre,ins\u00e9r\u00e9es,donn\u00e9es,avant,peut,peut-\u00eatre,peut-\u00eatre-install\u00e9,\u00eatre-install\u00e9,install\u00e9,google,site,security,security_magle,magle,global,global_security,global_security_mag,security_mag,mag,wordpress,vigilnce,plugin,cependant",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/globalsecuritymag.fr/2015/03/vigilnce-wordpress-ab-google-map-travel-cross-site-scripting-global-security",
+            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-WordPress-AB-Google-Map,20150407,52088.html"
         }
     }
 }
