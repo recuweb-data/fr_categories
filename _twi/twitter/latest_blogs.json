@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "twitter",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/twitter/",
@@ -10,93 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/twitter/twitter/blogs.json"
     },
     "items": {
-        "francecrownclown.wordpress.com/2015/04/twitter-jane-maman-de-rome": {
-            "title": "Twitter Jane (Maman de Rome)...",
-            "snippet": "Votre Voix semble \u00e9riodes DIFFICILES& SOURIRE vous rends PLUS FORT SOYEZ OPTIMISTE & BYUmon chiot cr: Your Happy & SMILE make you STRONGERB OPTIMISTIC & BYUmycr: Cr\u00e9dit: aphroditejj/Trad fr: Cr\u00e9atrice Ludivine/Via tra...",
-            "date": "2015-04-06",
-            "author_name": "RowLowFrance",
+        "fr.globalvoicesonline.org/2015/04/recenser-les-journalistes-libanais-sur-twitter-global-voices": {
+            "title": "Recenser les journalistes libanais sur Twitter Global Voices en...",
+            "snippet": "Mustapha Hamoui (Beirutspring) recense actuellement les journalistes libanais pr\u00e9sents sur Twitter. Il compile une liste de leur compte Twitter. La liste comprend des journalistes non Libanais qui couvrent ce pays.",
+            "date": "2015-04-23",
+            "author_name": "Claire Ulrich",
             "categories": "twitter",
-            "tags": "semble,twitter",
-            "recuweb_url": "http://fr.recuweb.com/twitter/francecrownclown.wordpress.com/2015/04/twitter-jane-maman-de-rome",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=twitter%2Btwitter&rss=1&lng=fr",
-            "source_url": "http://francecrownclown.wordpress.com/2015/04/06/06-04-15-twitter-jane-maman-de-rome/"
-        },
-        "frenchweb.fr/2015/03/marketing-pourquoi-les-internautes-se-d%C3%A9sabonnent-d-une-marque": {
-            "title": "Marketing Pourquoi les internautes se d\u00e9sabonnent d'une marque...",
-            "snippet": "Marketing Pourquoi les internautes se d\u00e9sabonnent d'une marque sur Facebook, Twitter Par La r\u00e9daction le 16 mars 2015 0 Commentaire Actualit\u00e9 International Marketing Social Media. facebook vignette. Fractl et Buzzstream ont...",
-            "date": "2015-03-16",
-            "author_name": "La r\u00e9daction",
-            "categories": "marketing,facebook,twitter",
-            "tags": "social,facebook,twitter",
-            "recuweb_url": "http://fr.recuweb.com/twitter/frenchweb.fr/2015/03/marketing-pourquoi-les-internautes-se-d%C3%A9sabonnent-d-une-marque",
+            "tags": "twitter,compte",
+            "recuweb_url": "http://fr.recuweb.com/twitter/fr.globalvoicesonline.org/2015/04/recenser-les-journalistes-libanais-sur-twitter-global-voices",
             "resource_url": "http://www.google.com/search?q=twitter%2Btwitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://frenchweb.fr/marketing-pourquoi-les-internautes-se-desabonnent-dune-marque-sur-facebook-twitter/187194"
+            "source_url": "http://fr.globalvoicesonline.org/2015/04/23/185045/"
         },
-        "begeek.fr/2015/03/twitter-android-am%C3%A9liore-les-profils-utilisateurs-begeek": {
-            "title": "Twitter Android am\u00e9liore les profils utilisateurs - Begeek...",
-            "snippet": "L'application Android de Twitter rattrape un peu son retard en am\u00e9liorant les profils utilisateurs.",
-            "date": "2015-03-11",
-            "author_name": "Nicolas Catard",
-            "categories": "twitter",
-            "tags": "twitter,utilisateurs",
-            "recuweb_url": "http://fr.recuweb.com/twitter/begeek.fr/2015/03/twitter-android-am%C3%A9liore-les-profils-utilisateurs-begeek",
-            "resource_url": "http://www.google.com/search?q=twitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://begeek.fr/twitter-android-ameliore-les-profils-utilisateurs-163899"
+        "blog.flickr.net/2015/04/twitter-tuesday-panic-flickr-blog": {
+            "title": "Twitter Tuesday: Panic Flickr Blog...",
+            "snippet": "Twitter Tuesday: Panic. April 22, 2015. The theme for this week's TwitterTuesday was Panic. But don't panic! The photos we got were incredible! Here are our selected favorites, and you could see all submissions directly in our Twitter feed.",
+            "date": "2015-04-22",
+            "author_name": "Tatiana Criscione",
+            "categories": "flickr,twitter",
+            "tags": "twitter",
+            "recuweb_url": "http://fr.recuweb.com/twitter/blog.flickr.net/2015/04/twitter-tuesday-panic-flickr-blog",
+            "resource_url": "http://www.google.com/search?q=twitter%2Btwitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.flickr.net/en/2015/04/22/twitter-tuesday-panic-2/"
         },
-        "generation-nt.com/2015/03/twitter-rach%C3%A8te-periscope-une-startup-sp%C3%A9cialis%C3%A9e-dans-le-streaming": {
-            "title": "Twitter rach\u00e8te Periscope, une startup sp\u00e9cialis\u00e9e dans le streaming...",
-            "snippet": "Twitter n'a pas encore officialis\u00e9 la chose, mais le r\u00e9seau social vient de s'offrir la start-up Periscope afin de s'\u00e9tendre sur le march\u00e9 de la diffusion de vid\u00e9o en streaming. Twitter souhaite renforcer ses positions dans le...",
-            "date": "2015-03-11",
+        "bfmtv.com/2015/04/plut%C3%B4tsympa-sur-twitter-les-femmes-racontent-le-harc%C3%A8lement": {
+            "title": "Plut\u00f4tsympa: sur Twitter, les femmes racontent le harc\u00e8lement de...",
+            "snippet": "Le tweet de Sophie de Menthon, chef d'entreprise m\u00e9diatique, qui qualifie de \"plut\u00f4t sympa\" le fait d'\u00eatre siffl\u00e9e dans la rue, a fait bondir de nombreuses utilisatrices de Twitter et fait na\u00eetre le hashtag plut\u00f4tsympa.",
+            "date": "2015-04-16",
             "author_name": "inconnu",
             "categories": "twitter",
-            "tags": "renforcer,diffusion,streaming,afin,start,twitter,periscope,r\u00e9seau,social",
-            "recuweb_url": "http://fr.recuweb.com/twitter/generation-nt.com/2015/03/twitter-rach%C3%A8te-periscope-une-startup-sp%C3%A9cialis%C3%A9e-dans-le-streaming",
+            "tags": "plut\u00f4t-sympa,rue,plut\u00f4t,sympa,entreprise,chef,femmes,twitter,tweet,sophie,menthon",
+            "recuweb_url": "http://fr.recuweb.com/twitter/bfmtv.com/2015/04/plut%C3%B4tsympa-sur-twitter-les-femmes-racontent-le-harc%C3%A8lement",
             "resource_url": "http://www.google.com/search?q=twitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/twitter-achete-periscope-streaming-video-actualite-1912957.html"
-        },
-        "descary.com/2015/03/twitter-periscope-et-le-live-streaming": {
-            "title": "Twitter, Periscope et le live streaming -...",
-            "snippet": "La diffusion vid\u00e9o en temps r\u00e9el est actuellement l'une des grandes tendances sur les m\u00e9dias sociaux mobiles. Et Twitter semble vouloir \u00eatre dans le coup. Le service de microblogging aurait rachet\u00e9 il y a quelques semaines,...",
-            "date": "2015-03-11",
-            "author_name": "benoit@descary.com (Benoit Descary)",
-            "categories": "twitter",
-            "tags": "semble,m\u00e9dias,diffusion,temps,streaming,twitter,periscope,sociaux",
-            "recuweb_url": "http://fr.recuweb.com/twitter/descary.com/2015/03/twitter-periscope-et-le-live-streaming",
-            "resource_url": "http://www.google.com/search?q=twitter%2Btwitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://descary.com/twitter-periscope-le-live-streaming/"
-        },
-        "presse-citron.net/2015/03/quand-pebble-trolle-gentiment-la-watch-sur-twitter-presse-citron": {
-            "title": "Quand Pebble trolle (gentiment) la Watch sur Twitter - Presse-citron...",
-            "snippet": "Le Community Manager de Pebble a lui aussi suivi le Keynote Apple en direct, et il s'est beaucoup amus\u00e9. La preuve en images, ou plut\u00f4t en tweets.",
-            "date": "2015-03-11",
-            "author_name": "Fredzone",
-            "categories": "twitter",
-            "tags": "plut\u00f4t,beaucoup,direct,apple,twitter,presse,aussi,tweets",
-            "recuweb_url": "http://fr.recuweb.com/twitter/presse-citron.net/2015/03/quand-pebble-trolle-gentiment-la-watch-sur-twitter-presse-citron",
-            "resource_url": "http://www.google.com/search?q=twitter%2Btwitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/quand-pebble-trolle-gentiment-la-watch-sur-twitter/"
-        },
-        "atlantico.fr/2015/03/etat-islamique-et-twitter-comment-le-groupe-terroriste-se-sert": {
-            "title": "Etat islamique et Twitter: comment le groupe terroriste se sert des...",
-            "snippet": "Une \u00e9tude am\u00e9ricaine met en \u00e9vidence l'utilisation de Twitter pour partager ses id\u00e9es et recruter.",
-            "date": "2015-03-09",
-            "author_name": "Justine Chevalier",
-            "categories": "twitter",
-            "tags": "partager,\u00e9tude,met,islamique,etat,twitter,utilisation",
-            "recuweb_url": "http://fr.recuweb.com/twitter/atlantico.fr/2015/03/etat-islamique-et-twitter-comment-le-groupe-terroriste-se-sert",
-            "resource_url": "http://www.google.com/search?q=twitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://atlantico.fr/pepites/etat-islamique-et-twitter-comment-groupe-terroriste-se-sert-reseaux-sociaux-pour-propagande-2033489.html"
-        },
-        "ici.radio-canada.ca/2015/03/qui-sont-les-46-000-partisans-de-l-%C3%A9tat-islamique": {
-            "title": "Qui sont les 46 000 partisans de l'\u00c9tat islamique sur Twitter? ICI...",
-            "snippet": "Selon l'\u00e9tude publi\u00e9e vendredi et intitul\u00e9e The ISIS Twitter Census, la plupart des messages proviennent des deux territoires occup\u00e9s par l'EI, l'Irak et la Syrie. Suit de pr\u00e8s l'Arabie saoudite, puis viennent en quatri\u00e8me...",
-            "date": "2015-03-08",
-            "author_name": "inconnu",
-            "categories": "twitter",
-            "tags": "\u00e9tude,publi\u00e9e,islamique,twitter,ici,selon,messages",
-            "recuweb_url": "http://fr.recuweb.com/twitter/ici.radio-canada.ca/2015/03/qui-sont-les-46-000-partisans-de-l-%C3%A9tat-islamique",
-            "resource_url": "http://www.google.com/search?q=twitter%2Btwitter&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ici.radio-canada.ca/nouvelles/societe/2015/03/08/002-twitter-etat-islamique-portrait-radicalisation.shtml"
+            "source_url": "http://bfmtv.com/societe/plutot-sympa-sur-twitter-les-femmes-racontent-le-harcelement-878116.html"
         }
     }
 }
