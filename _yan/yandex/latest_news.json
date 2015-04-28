@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "yandex",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yandex/",
@@ -10,6 +11,46 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yandex/yandex/blogs.json"
     },
     "items": {
+        "turkishny.com/2015/04/google-ve-yandex-ten-23-nisan-a-%C3%B6zel-g%C3%B6rseller-turkishny": {
+            "title": "Google ve Yandex'ten 23 Nisan'a \u00d6zel G\u00f6rseller - TurkishNY...",
+            "snippet": "TurkishNYGoogle ve Yandex'ten 23 Nisan'a \u00d6zel G\u00f6rsellerTurkishNYnternetin en b\u00fcy\u00fck iki arama motoru olan Google ve Yandex, 23 Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram'n \u00f6zel olarak hazrladklar g\u00f6rsellerle kutlad. te Google'n 23 Nisan i\u00e7in...",
+            "date": "2015-04-23",
+            "categories": "google,yandex",
+            "tags": "google,yandex",
+            "recuweb_url": "http://fr.recuweb.com/yandex/turkishny.com/2015/04/google-ve-yandex-ten-23-nisan-a-%C3%B6zel-g%C3%B6rseller-turkishny",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://turkishny.com/technology/91-technology/178554-google-ve-yandexten-23-nisana-ozel-gorseller"
+        },
+        "french.peopledaily.com.cn/2015/04/les-boutiques-en-ligne-chinoises-couvrent-70%-de-l-e-commerce": {
+            "title": "Les boutiques en ligne chinoises couvrent 70% de l'e-commerce transfrontalier russe...",
+            "snippet": "L'enqu\u00eate a \u00e9t\u00e9 men\u00e9e conjointement par East-West Digital News et Yandex. Le rapport a montr\u00e9 que les ventes totales du march\u00e9 de l'e-commerce russe ont atteint 5 milliards de Dollars US en 2014, et les ventes faites par les entreprises...",
+            "date": "2015-04-23",
+            "categories": "yandex",
+            "tags": "russe,march\u00e9,yandex",
+            "recuweb_url": "http://fr.recuweb.com/yandex/french.peopledaily.com.cn/2015/04/les-boutiques-en-ligne-chinoises-couvrent-70%-de-l-e-commerce",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=fr",
+            "source_url": "http://french.peopledaily.com.cn/Economie/n/2015/0423/c31355-8882789.html"
+        },
+        "themarketsdaily.com/2015/04/wall-street-has-price-target-on-yandex-n-v-nasdaq": {
+            "title": "Wall Street Has Price Target on Yandex N.V. (NASDAQ... - The Markets Daily...",
+            "snippet": "Wall Street Has Price Target on Yandex N.V. (NASDAQ...The Markets DailyOn a consensus basis, Wall Street sell-side analysts have a mean target price of for Yandex N.V. (NASDAQ:YNDX). This number is based on the mean estimate from the 8 research...",
+            "date": "2015-04-23",
+            "categories": "yandex",
+            "tags": "yandex,this",
+            "recuweb_url": "http://fr.recuweb.com/yandex/themarketsdaily.com/2015/04/wall-street-has-price-target-on-yandex-n-v-nasdaq",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yandex&output=atom&nord=1",
+            "source_url": "http://themarketsdaily.com/wall-street-has-30-361-price-target-on-yandex-n-v-nasdaqyndx/11913/"
+        },
+        "finextra.com/2015/04/yandex-implements-privatbank-mastercard-app-for-gas-refills-finextra-press-release": {
+            "title": "Yandex implements PrivatBank/MasterCard app for gas refills.. - Finextra (press release)...",
+            "snippet": "Yandex implements PrivatBank/MasterCard app for gas (press release)\"Yandex there are several applications for motorists. First of all, this is a very popular \"Card\" and \"Navigator\", which is used by every eighth Ukrainian driver. We're excited to...",
+            "date": "2015-04-22",
+            "categories": "yandex",
+            "tags": "this,yandex",
+            "recuweb_url": "http://fr.recuweb.com/yandex/finextra.com/2015/04/yandex-implements-privatbank-mastercard-app-for-gas-refills-finextra-press-release",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yandex%2Byandex&output=atom&nord=1",
+            "source_url": "http://finextra.com/news/announcement.aspx?pressreleaseid=59512"
+        },
         "rtbf.be/2015/04/4-moteurs-de-recherche-qui-respecte-votre-vie-priv%C3%A9e": {
             "title": "4 moteurs de recherche qui respecte votre vie priv\u00e9e...",
             "snippet": "Dans le petit monde des moteurs de recherche, Google d\u00e9tient plus de 90% de part de march\u00e9 (93,64% selon StatCounter) quand les autres, Yahoo, Bing, Yandex,... se battent pour les miettes restantes. Malgr\u00e9 tout, quelques acteurs essaient...",
@@ -20,75 +61,25 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=fr",
             "source_url": "http://rtbf.be/tendance/bien-etre/detente/detail_4-moteurs-de-recherche-qui-respecte-votre-vie-privee?id=8957427"
         },
-        "military-technologies.net/2015/04/critical-alerts-for-transocean-seadrill-smith-&-wesson-yandex-military-technologies": {
-            "title": "Critical Alerts For Transocean, Seadrill, Smith & Wesson, Yandex... - Military Technologies...",
-            "snippet": "Critical Alerts For Transocean, Seadrill, Smith & Wesson, Yandex...Military TechnologiesToday's PriceWatch Alerts cover the following stocks: Transocean (NYSE: RIG), Seadrill (NYSE: SDRL), Smith & Wesson (NASDAQ: SWHC), Yandex (NASDAQ: YNDX),...",
-            "date": "2015-04-16",
-            "categories": "technologie,yandex",
-            "tags": "yandex,nasdaq,yndx",
-            "recuweb_url": "http://fr.recuweb.com/yandex/military-technologies.net/2015/04/critical-alerts-for-transocean-seadrill-smith-&-wesson-yandex-military-technologies",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yandex&output=atom&nord=1",
-            "source_url": "http://military-technologies.net/2015/04/16/critical-alerts-for-transocean-seadrill-smith-wesson-yandex-and-sunedison-released-by-investorsobserver-2/"
-        },
-        "frandroid.com/2015/04/pourquoi-bruxelles-accuse-t-elle-google-dabus-de-position-dominante": {
-            "title": "Pourquoi Bruxelles accuse-t-elle Google dabus de position dominante?",
-            "snippet": "Au d\u00e9but de lann\u00e9e, Yandex se plaignait de telles pratiques en Russie. Plus pr\u00e9cis\u00e9ment, la Commission se pose trois questions: Google a-t-elle ill\u00e9galement entrav\u00e9 le d\u00e9veloppement et lacc\u00e8s au march\u00e9 des applications ou services pour...",
-            "date": "2015-04-16",
-            "categories": "google,yandex",
-            "tags": "march\u00e9,google,yandex",
-            "recuweb_url": "http://fr.recuweb.com/yandex/frandroid.com/2015/04/pourquoi-bruxelles-accuse-t-elle-google-dabus-de-position-dominante",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=fr",
-            "source_url": "http://frandroid.com/marques/google/279612_pourquoi-bruxelles-accuse-t-elle-google-dabus-de-position-dominante"
-        },
-        "streetwisereport.com/2015/04/yandex-n-v-nasdaq-yndx-in-dominance-move-with-dominion-streetwise": {
-            "title": "Yandex N.V. (NASDAQ:YNDX) in Dominance Move with Dominion... - StreetWise Report...",
-            "snippet": "StreetWise ReportYandex N.V. (NASDAQ:YNDX) in Dominance Move with Dominion...StreetWise ReportYandex N.V. (NASDAQ:YNDX) moved up% in last session to a four-month high in New York among speculation Russia's leading Internet firm will benefit as...",
-            "date": "2015-04-16",
-            "categories": "yandex,internet",
-            "tags": "yandex,nasdaq,yndx,russia,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/streetwisereport.com/2015/04/yandex-n-v-nasdaq-yndx-in-dominance-move-with-dominion-streetwise",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yandex&output=atom&nord=1",
-            "source_url": "http://streetwisereport.com/yandex-n-v-nasdaqyndx-in-dominance-move-with-dominion-resources-nysed-cna-financial-corporation-nysecna-landauer-nyseldr/114840/"
-        },
         "abondance.com/2015/04/yandex-devrait-r%C3%A9int%C3%A9grer-l-analyse-des-backlinks-dans-son-abondance": {
             "title": "Yandex devrait r\u00e9int\u00e9grer l'analyse des backlinks dans son... - Abondance...",
             "snippet": "Yandex devrait r\u00e9int\u00e9grer l'analyse des backlinks dans son...AbondanceLe moteur russe Yandex devrait r\u00e9int\u00e9grer le mois prochain l'analyse des backlinks dans son algorithme de pertinence, notamment pour les requ\u00eates commerciales, mais en...",
             "date": "2015-04-16",
             "categories": "yandex",
-            "tags": "prochain,russe,back,yandex",
+            "tags": "russe,back,yandex",
             "recuweb_url": "http://fr.recuweb.com/yandex/abondance.com/2015/04/yandex-devrait-r%C3%A9int%C3%A9grer-l-analyse-des-backlinks-dans-son-abondance",
             "resource_url": "http://news.google.fr/?hl=fr&q=yandex&output=atom&nord=1",
             "source_url": "http://abondance.com/actualites/20150416-15021-yandex-devrait-reintegrer-lanalyse-des-backlinks-dans-son-algorithme-de-pertinence.html"
-        },
-        "haberler.com/2015/04/yandex-ten-yeni-reklam-kampanyas-haberler": {
-            "title": "Yandex'ten Yeni Reklam Kampanyas - Haberler...",
-            "snippet": "HaberlerYandex'ten Yeni Reklam KampanyasHaberlerStratejisinin temeline yerelleme kavramn yerletiren ve bu dorultuda T\u00fcrkiye'ye \u00f6zg\u00fc hizmetler sunan Yandex, kullanclarn ger\u00e7ek arama deneyimlerinden yola \u00e7karak arama \u00e7\u00f6z\u00fcmlerini s\u00fcrekli...",
-            "date": "2015-04-16",
-            "categories": "yandex",
-            "tags": "yandex",
-            "recuweb_url": "http://fr.recuweb.com/yandex/haberler.com/2015/04/yandex-ten-yeni-reklam-kampanyas-haberler",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yandex%2Byandex&output=atom&nord=1",
-            "source_url": "http://haberler.com/yandex-ten-yeni-reklam-kampanyasi-7200489-haberi/"
         },
         "searchengineland.com/2015/04/yandex-to-bring-back-links-their-ranking-algorithm-search-engine-land": {
             "title": "Yandex To Bring Back Links To Their Ranking Algorithm - Search Engine Land...",
             "snippet": "Search Engine LandYandex To Bring Back Links To Their Ranking AlgorithmSearch Engine LandIn December 2013, Yandex, the largest search engine in Russia, announced they would drop links from their ranking algorithm for some verticals. That actually...",
             "date": "2015-04-15",
             "categories": "yandex",
-            "tags": "back,yandex,russia",
+            "tags": "back,yandex",
             "recuweb_url": "http://fr.recuweb.com/yandex/searchengineland.com/2015/04/yandex-to-bring-back-links-their-ranking-algorithm-search-engine-land",
             "resource_url": "http://news.google.fr/?hl=fr&q=yandex%2Byandex&output=atom&nord=1",
             "source_url": "http://searchengineland.com/russian-search-engine-yandex-to-bring-back-links-to-their-ranking-algorithm-218815"
-        },
-        "fr.fashionmag.com/2015/04/lengow-e-commerce-day-3%C3%A8me-%C3%A9dition-le-2-juin-prochain": {
-            "title": "Lengow E-commerce Day: 3\u00e8me \u00e9dition le 2 juin prochain...",
-            "snippet": "Le g\u00e9ant chinois Alibaba et la marketplace russe Yandex seront les invit\u00e9s d'honneur de cette \u00e9dition, respectivement repr\u00e9sent\u00e9 par le directeur global Europe de Tmall, Shaoming Yang, et le directeur des syst\u00e8mes d'information du site...",
-            "date": "2015-04-08",
-            "categories": "yandex",
-            "tags": "site,russe,prochain,yandex",
-            "recuweb_url": "http://fr.recuweb.com/yandex/fr.fashionmag.com/2015/04/lengow-e-commerce-day-3%C3%A8me-%C3%A9dition-le-2-juin-prochain",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yandex&format=RSS&cc=fr",
-            "source_url": "http://fr.fashionmag.com/news/Lengow-E-commerce-Day-3eme-edition-le-2-juin-prochain,477848.html"
         }
     }
 }
