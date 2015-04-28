@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "tennis",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150428"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tennis/",
@@ -10,29 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis/tennis/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/handisport-le-tennis-en-fauteuil-saint-hilaire-de-riez": {
+            "title": "HandiSport: Le tennis en fauteuil (Saint-Hilaire-de-Riez)...",
+            "snippet": "Sites webs/blogs, copiez cette vid\u00e9o avec le bouton \"code embed\"! Si vous voulez t\u00e9l\u00e9charger, allez sur. A l'occasion des Championnats de France par \u00e9quipe de tennis handisport, d\u00e9couverte de cette discipline. Plus sur Pour exploitation TV,...",
+            "date": "2015-04-27",
+            "author_name": "TVVendee",
+            "categories": "discipline,tennis",
+            "tags": "tennis,france",
+            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/handisport-le-tennis-en-fauteuil-saint-hilaire-de-riez",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o7d46_handisport-le-tennis-en-fauteuil-saint-hilaire-de-riez_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o7d46_handisport-le-tennis-en-fauteuil-saint-hilaire-de-riez_sport"
+        },
+        "dailymotion.com/2015/04/s%C3%A9ance-de-vitesse-associ%C3%A9e-au-tennis": {
+            "title": "S\u00e9ance de vitesse associ\u00e9e au tennis...",
+            "snippet": "travail de vitesse associ\u00e9e et int\u00e9gr\u00e9e au tennisAuthor: MacsardaTags: vitesse tennis int\u00e9gr\u00e9e training associ\u00e9e Posted: 27 April 2015Rating:: 0...",
+            "date": "2015-04-27",
+            "author_name": "Macsarda",
+            "categories": "tennis",
+            "tags": "tennis,s\u00e9ance",
+            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/s%C3%A9ance-de-vitesse-associ%C3%A9e-au-tennis",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o5r52_seance-de-vitesse-associee-au-tennis_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o5r52_seance-de-vitesse-associee-au-tennis_sport"
+        },
+        "dailymotion.com/2015/04/tennis-atp-monte-carlo-nadal-tr%C3%A8s-positif": {
+            "title": "Tennis - ATP - Monte-Carlo: Nadal Tr\u00e8s positif...",
+            "snippet": "\u00c9limin\u00e9 par Novak Djokovic, samedi en demi-finale de Monte-Carlo, Rafael Nadal a pr\u00e9f\u00e9r\u00e9 retenir le positif de sa semaine princi\u00e8re. Cela reste mon meilleur tournoi de la saison, a jug\u00e9 l': lequipeTags: Tennis Monte-Carlo 2015 Hommes Simples...",
+            "date": "2015-04-19",
+            "author_name": "lequipe",
+            "categories": "tennis",
+            "tags": "hommes,hommes_simples,simples,meilleur,finale,demi,novak,novak_djokovic,djokovic,tennis,monte,carlo,cela,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/tennis-atp-monte-carlo-nadal-tr%C3%A8s-positif",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2n65gp_tennis-atp-monte-carlo-nadal-tres-positif_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n65gp_tennis-atp-monte-carlo-nadal-tres-positif_sport"
+        },
+        "dailymotion.com/2015/04/tennis-monte-carlo-monfils-balaie-grigor-dimitrov-pour-rallier-les-demi": {
+            "title": "Tennis - Monte-Carlo: Monfils balaie Grigor Dimitrov pour rallier les demi-finales...",
+            "snippet": "VIDEO TENNIS - Tombeur de Roger Federer la veille, Ga\u00ebl Monfils s'est qualifi\u00e9 vendredi pour les demi-finales du Masters 1000 de Monte-Carlo en \u00e9coeurant Grigor Dimitrov (6-1, 6-3 en 58 minutes). Il y retrouvera Tomas: lequipeTags: Tennis...",
+            "date": "2015-04-17",
+            "author_name": "lequipe",
+            "categories": "tennis",
+            "tags": "demi,roger,tennis,monte,carlo,monfils,ga\u00ebl,lequipetags",
+            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/tennis-monte-carlo-monfils-balaie-grigor-dimitrov-pour-rallier-les-demi",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2mz3ar_tennis-monte-carlo-monfils-balaie-grigor-dimitrov-pour-rallier-les-demi-finales_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mz3ar_tennis-monte-carlo-monfils-balaie-grigor-dimitrov-pour-rallier-les-demi-finales_sport"
+        },
         "dailymotion.com/2015/04/un-nouveau-logo-pour-le-tennis-fran%C3%A7ais": {
             "title": "Un nouveau logo pour le tennis fran\u00e7ais...",
             "snippet": "La F\u00e9d\u00e9ration Fran\u00e7aise de Tennis pr\u00e9sente son nouveau: FFTTags: France logo tennis f\u00e9d\u00e9ration olympisme fft nouveau logo Posted: 15 April 2015Rating:: 0...",
             "date": "2015-04-15",
             "author_name": "FFT",
             "categories": "tennis",
-            "tags": "tennis",
+            "tags": "tennis,france",
             "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/un-nouveau-logo-pour-le-tennis-fran%C3%A7ais",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mqgbb_un-nouveau-logo-pour-le-tennis-francais_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mqgbb_un-nouveau-logo-pour-le-tennis-francais_sport"
-        },
-        "dailymotion.com/2015/04/puissance-de-d%C3%A9marrage-et-d%C3%A9placements-sp%C3%A9cifiques-tennis": {
-            "title": "Puissance de d\u00e9marrage et d\u00e9placements sp\u00e9cifiques tennis...",
-            "snippet": "Am\u00e9liorer votre puissance de d\u00e9marrage et votre d\u00e9placement au: MacsardaTags: tennis puissance vitesse d\u00e9marrage Posted: 14 April 2015Rating:: 0...",
-            "date": "2015-04-14",
-            "author_name": "Macsarda",
-            "categories": "tennis",
-            "tags": "tennis",
-            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/puissance-de-d%C3%A9marrage-et-d%C3%A9placements-sp%C3%A9cifiques-tennis",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mou3j_puissance-de-demarrage-et-deplacements-specifiques-tennis_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mou3j_puissance-de-demarrage-et-deplacements-specifiques-tennis_sport"
         },
         "dailymotion.com/2015/04/tennis-monte-carlo-ga%C3%ABl-monfils-cela-peut-aider-pour-plus-tard": {
             "title": "Tennis - Monte-Carlo: Ga\u00ebl Monfils Cela peut aider pour plus tard...",
@@ -40,47 +77,11 @@
             "date": "2015-04-14",
             "author_name": "lequipe",
             "categories": "tennis",
-            "tags": "heureux,tennis",
+            "tags": "hommes,hommes_simples,simples,monfils,ga\u00ebl,heureux,monte,cela,tennis,carlo,lequipetags",
             "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/tennis-monte-carlo-ga%C3%ABl-monfils-cela-peut-aider-pour-plus-tard",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mnzd5_tennis-monte-carlo-gael-monfils-cela-peut-aider-pour-plus-tard_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mnzd5_tennis-monte-carlo-gael-monfils-cela-peut-aider-pour-plus-tard_sport"
-        },
-        "dailymotion.com/2015/04/tennis-disparition-patrice-dominguez-un-homme-accessible-12-04": {
-            "title": "Tennis/Disparition/Patrice Dominguez: un homme accessible - 12/04...",
-            "snippet": "Patrice Dominguez est d\u00e9c\u00e9d\u00e9 ce dimanche. Il \u00e9tait g\u00e9 de 65 ans. Les hommages du monde du tennis et du sport affluent depuis l'annonce de sa disparition. D\u00e9couvrez toute lactualit\u00e9 et les derni\u00e8res infos du Handball, Tennis, Basket, Formule...",
-            "date": "2015-04-12",
-            "author_name": "rmcsport",
-            "categories": "tennis,sport,handball,formule",
-            "tags": "lactualit\u00e9,derni\u00e8res,derni\u00e8res-infos,annonce,disparition,hommages,hommages-du-monde,monde,monde-du-tennis,tennis,sport,sport-affluent,affluent,\u00e9tait,\u00e9tait-g\u00e9,g\u00e9,d\u00e9c\u00e9d\u00e9,d\u00e9c\u00e9d\u00e9-ce-dimanche,dimanche,patrice,dominguez,d\u00e9couvrez,handball,basket,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/dailymotion.com/2015/04/tennis-disparition-patrice-dominguez-un-homme-accessible-12-04",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mhegb_tennis-disparition-patrice-dominguez-un-homme-accessible-12-04_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mhegb_tennis-disparition-patrice-dominguez-un-homme-accessible-12-04_sport"
-        },
-        "dailymotion.com/2015/04/tennis-disparition-pitkowski-patrice-m-a-guid%C3%A9-12-04": {
-            "title": "Tennis/Disparition/Pitkowski: Patrice m'a guid\u00e9 - 12/04...",
-            "snippet": "Patrice Dominguez est d\u00e9c\u00e9d\u00e9 ce dimanche. Il \u00e9tait g\u00e9 de 65 ans. Les hommages du monde du tennis et du sport affluent depuis l'annonce de sa disparition. D\u00e9couvrez toute lactualit\u00e9 et les derni\u00e8res infos du Handball, Tennis, Basket, Formule...",
-            "date": "2015-04-12",
-            "author_name": "rmcsport",
-            "categories": "tennis,sport,handball,formule",
-            "tags": "lactualit\u00e9,derni\u00e8res,derni\u00e8res-infos,annonce,disparition,hommages,hommages-du-monde,monde,monde-du-tennis,tennis,sport,sport-affluent,affluent,\u00e9tait,\u00e9tait-g\u00e9,g\u00e9,dominguez,d\u00e9c\u00e9d\u00e9,d\u00e9c\u00e9d\u00e9-ce-dimanche,dimanche,patrice,d\u00e9couvrez,handball,basket,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/dailymotion.com/2015/04/tennis-disparition-pitkowski-patrice-m-a-guid%C3%A9-12-04",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mhey8_tennis-disparition-pitkowski-patrice-m-a-guide-12-04_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mhey8_tennis-disparition-pitkowski-patrice-m-a-guide-12-04_sport"
-        },
-        "dailymotion.com/2015/04/pose-de-la-premi%C3%A8re-pierre-mouratoglou-tennis-academy": {
-            "title": "Pose de la premi\u00e8re pierre de la Mouratoglou Tennis Academy...",
-            "snippet": "Author: nice-matinTags: Tennis Patrick Mouratoglou Serena Williams Sophia Antipolis Biot Posted: 10 April 2015Rating:: 0...",
-            "date": "2015-04-10",
-            "author_name": "nice-matin",
-            "categories": "tennis",
-            "tags": "tennis",
-            "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/pose-de-la-premi%C3%A8re-pierre-mouratoglou-tennis-academy",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m9vx8_pose-de-la-premiere-pierre-de-la-mouratoglou-tennis-academy_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m9vx8_pose-de-la-premiere-pierre-de-la-mouratoglou-tennis-academy_sport"
         },
         "dailymotion.com/2015/04/tennis-djokovic-veut-une-coupe-du-monde-de-01-04": {
             "title": "Tennis/Djokovic veut une Coupe du monde de tennis - 01/04...",
@@ -88,23 +89,23 @@
             "date": "2015-04-01",
             "author_name": "rmcsport",
             "categories": "tennis",
-            "tags": "monde,tennis,djokovic,novak",
+            "tags": "tennis,djokovic,novak",
             "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/04/tennis-djokovic-veut-une-coupe-du-monde-de-01-04",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+tennis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2le3et_tennis-djokovic-veut-une-coupe-du-monde-de-tennis-01-04_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2le3et_tennis-djokovic-veut-une-coupe-du-monde-de-tennis-01-04_sport"
         },
-        "dailymotion.com/2015/02/trailer-mario-tennis-open-et-peach-en-live": {
-            "title": "Trailer - Mario Tennis Open (Mario et Peach en Live Trailer au Tennis!)...",
-            "snippet": "Suivez l'actu jeux vid\u00e9o 24/24 sur: des jeux et donnez nous votre avis sur Facebook: \u00e8s amusante, cette nouvelle vid\u00e9o de Mario Tennis Open sur 3DS nous propose un live trailer qui rend bien hommage aux parties de tennis endiabl\u00e9es des Mario...",
-            "date": "2015-02-04",
-            "author_name": "PlayerOneTV",
-            "categories": "tennis,facebook",
-            "tags": "tennis,open,facebook",
-            "recuweb_url": "http://fr.recuweb.com/facebook/dailymotion.com/2015/02/trailer-mario-tennis-open-et-peach-en-live",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+tennis/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2gf7lj_trailer-mario-tennis-open-mario-et-peach-en-live-trailer-au-tennis_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2gf7lj_trailer-mario-tennis-open-mario-et-peach-en-live-trailer-au-tennis_videogames"
+        "youtube.com/2015/01/coup-droit-tennis-pr%C3%A9paration-en-le-bon-timing": {
+            "title": "Coup droit tennis - Pr\u00e9paration en coup droit: le bon timing...",
+            "snippet": "Coup droit tennis - Pr\u00e9paration en coup droit: le bon timing Bonjour \u00e0 tous, Jean-Pascal votre coach! Aujourd'hui je vous propose une s\u00e9ance pour vous faire prendre conscience du moment id\u00e9al de la pr\u00e9paration de coup droit.... From:...",
+            "date": "2015-01-31",
+            "author_name": "Free-Tennis",
+            "categories": "tennis",
+            "tags": "s\u00e9ance,tennis,jean",
+            "recuweb_url": "http://fr.recuweb.com/tennis/youtube.com/2015/01/coup-droit-tennis-pr%C3%A9paration-en-le-bon-timing",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=tennis%2Btennis&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=ew5-fPC-pcA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ew5-fPC-pcA/0.jpg"
         },
         "dailymotion.com/2015/01/tennis-open-d-australie-wawrinka-je-joue-mon-meilleur": {
             "title": "TENNIS - OPEN D'AUSTRALIE - Wawrinka: Je joue mon meilleur tennis...",
@@ -112,7 +113,7 @@
             "date": "2015-01-28",
             "author_name": "lequipe",
             "categories": "tennis",
-            "tags": "novak,djokovic,heureux,joue,tennis,open",
+            "tags": "finale,demi,novak,novak_djokovic,djokovic,heureux,joue,meilleur,tennis",
             "recuweb_url": "http://fr.recuweb.com/tennis/dailymotion.com/2015/01/tennis-open-d-australie-wawrinka-je-joue-mon-meilleur",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/tennis+tennis/0?af=1",
             "source_url": "http://dailymotion.com/video/x2h0i6h_tennis-open-d-australie-wawrinka-je-joue-mon-meilleur-tennis_sport",
@@ -124,7 +125,7 @@
             "date": "2015-01-10",
             "author_name": "Un gars une fille | Officiel",
             "categories": "tennis,facebook",
-            "tags": "tennis,joue,facebook",
+            "tags": "tennis,jean,joue,roger",
             "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2015/01/un-gars-une-fille-au-tennis-avec-jeannette-&-roger",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=tennis%2Btennis&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=MQI88yZuHWU&feature=youtube_gdata",
