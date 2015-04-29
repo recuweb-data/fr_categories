@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wordpress/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "wpformation.com/2015/04/archiver-vos-articles-avec-un-plugin-wordpress-wp-formation": {
-            "title": "Archiver vos articles avec un plugin WordPress - WP Formation...",
-            "snippet": "Avez-vous l'habitude de supprimer des articles obsol\u00e8tes de votre blog. Une autre alternative existe: un plugin wordpress qui vous permet de les archiver.",
-            "date": "2015-04-22",
-            "author_name": "Anne-C",
+        "wpformation.com/2015/04/optimiser-images-wordpress-compresser-et-all%C3%A9ger-wp-formation": {
+            "title": "Optimiser images WordPress: Compresser et all\u00e9ger - WP Formation...",
+            "snippet": "Aujourd'hui 62% du trafic Web mondial est compos\u00e9 d'images! Nos sites WordPress ne font pas exception, il faut cependant les optimiser pour les all\u00e9ger.",
+            "date": "2015-04-27",
+            "author_name": "WPFormation",
             "categories": "wordpress",
-            "tags": "articles,plugin,wordpress,formation,avez",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/archiver-vos-articles-avec-un-plugin-wordpress-wp-formation",
+            "tags": "optimiser,wordpress,formation,aujourd,hui,web,sites",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/optimiser-images-wordpress-compresser-et-all%C3%A9ger-wp-formation",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://wpformation.com/ne-jamais-supprimer-vos-articles-archiver/"
+            "source_url": "http://wpformation.com/optimiser-images-wordpress/"
         },
-        "forum.webrankinfo.com/2015/04/th%C3%A8me-wordpress-seo-r%C3%A9f%C3%A9rencement-google": {
-            "title": "th\u00e8me wordpress SEO: R\u00e9f\u00e9rencement Google...",
-            "snippet": "Bonjour, Je ne sais pas si je suis sur le bon forum, sinon d\u00e9sol\u00e9:(Je cherche un bon th\u00e8me pour un site de contenu (articles tutoriels), un th\u00e8me wordpress payant ou gratuit con\u00e7u au normes du patron GG. Merci de votre...",
-            "date": "2015-04-17",
-            "author_name": "inconnu",
-            "categories": "google,wordpress",
-            "tags": "cherche,r\u00e9f\u00e9rencement,google,wordpress,seo,bonjour,site,contenu,articles,tutoriels,gratuit",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/forum.webrankinfo.com/2015/04/th%C3%A8me-wordpress-seo-r%C3%A9f%C3%A9rencement-google",
+        "wpformation.com/2015/04/bienvenue-dans-wordpress-4-2-wp-formation": {
+            "title": "Bienvenue dans WordPress 4.2 - WP Formation...",
+            "snippet": "Une nouvelle version de WP vient d'\u00eatre mise en ligne, il s'agit de la version WordPress 4.2. nomm\u00e9e \"Powell\" en l'honneur du pianiste de jazz Bud Powell.",
+            "date": "2015-04-24",
+            "author_name": "WPFormation",
+            "categories": "wordpress",
+            "tags": "version,wordpress,formation",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/bienvenue-dans-wordpress-4-2-wp-formation",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/theme-wordpress-seo-t180284.html"
+            "source_url": "http://wpformation.com/bienvenue-dans-wordpress-4-2/"
+        },
+        "seomix.fr/2015/04/ajax-et-wordpress-le-guide-seomix": {
+            "title": "Ajax et WordPress: le guide - SeoMix...",
+            "snippet": "Le guide complet et d\u00e9taill\u00e9 pour cr\u00e9er et mettre en place de l'Ajax sur n'importe quel th\u00e8me ou extension WordPress. Un must-read!",
+            "date": "2015-04-23",
+            "author_name": "Willy Bahuaud",
+            "categories": "place,wordpress",
+            "tags": "mettre,wordpress,cr\u00e9er,read",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/seomix.fr/2015/04/ajax-et-wordpress-le-guide-seomix",
+            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://seomix.fr/ajax-wordpress/"
         },
         "journaldugeek.com/2015/04/le-fbi-met-en-garde-contre-les-vuln%C3%A9rabilit%C3%A9s-sur-wordpress": {
             "title": "Le FBI met en garde contre les vuln\u00e9rabilit\u00e9s sur Wordpress...",
@@ -39,32 +50,10 @@
             "date": "2015-04-09",
             "author_name": "Elodie",
             "categories": "wordpress",
-            "tags": "met,met-en-garde,garde,garde-contre,contre,plateforme,attaques,sites,fbi,wordpress,web",
+            "tags": "met,met-en-garde,garde,garde-contre,contre,plateforme,attaques,sites,web,fbi,wordpress",
             "recuweb_url": "http://fr.recuweb.com/wordpress/journaldugeek.com/2015/04/le-fbi-met-en-garde-contre-les-vuln%C3%A9rabilit%C3%A9s-sur-wordpress",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldugeek.com/2015/04/09/fbi-vulnerabilite-wordpress/"
-        },
-        "wpformation.com/2015/04/plugin-wordpress-gratuit-de-s%C3%A9curit%C3%A9-itheme-security-wp-formation": {
-            "title": "Plugin wordpress gratuit de s\u00e9curit\u00e9: Itheme security - WP Formation...",
-            "snippet": "Vous avez install\u00e9 Wordpress et, soucieux(se) de la s\u00e9curit\u00e9 de votre site, vous cherchez un plugin gratuit? Itheme Security devrait vous plaire.",
-            "date": "2015-04-07",
-            "author_name": "Pierrepack S\u00e9bastien",
-            "categories": "wordpress",
-            "tags": "security,plugin,wordpress,gratuit,formation,avez,install\u00e9,site",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/plugin-wordpress-gratuit-de-s%C3%A9curit%C3%A9-itheme-security-wp-formation",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://wpformation.com/plugin-itheme-security-wordpress/"
-        },
-        "wpchannel.com/2015/01/wordpress-g%C3%A9rer-un-site-multi-utilisateur-worflow-et-contenus-personnalis%C3%A9s": {
-            "title": "WordPress G\u00e9rer un site multi-utilisateur: worflow et contenus personnalis\u00e9s par Christophe Aubry...",
-            "snippet": "WordPress G\u00e9rer un site multi-utilisateur: worflow et contenus personnalis\u00e9s par Christophe Aubry...",
-            "date": "2015-01-03",
-            "author_name": "Aur\u00e9lien Denis",
-            "categories": "wordpress",
-            "tags": "wordpress,site,utilisateur",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/wpchannel.com/2015/01/wordpress-g%C3%A9rer-un-site-multi-utilisateur-worflow-et-contenus-personnalis%C3%A9s",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=wordpress%2Bwordpress&rss=1&lng=fr",
-            "source_url": "http://wpchannel.com/wordpress-gerer-site-multi-utilisateur-christophe-aubry/"
         },
         "centreformationwordpress.wordpress.com/2014/11/formation-cr%C3%A9ation-site-internet": {
             "title": "Formation Cr\u00e9ation Site Internet...",
@@ -76,28 +65,6 @@
             "recuweb_url": "http://fr.recuweb.com/wordpress/centreformationwordpress.wordpress.com/2014/11/formation-cr%C3%A9ation-site-internet",
             "resource_url": "http://fr.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
             "source_url": "http://centreformationwordpress.wordpress.com/formation-wordpress/formation-creation-site-internet/"
-        },
-        "demeuresdeterroir.org/2014/04/wordpress-pour-les-nuls-tout-secrets-de-enfin-r%C3%A9v%C3%A9l%C3%A9s": {
-            "title": "WordPress pour les nuls: tout les secrets de WordPress enfin r\u00e9v\u00e9l\u00e9s...",
-            "snippet": "WordPress pour les nuls: tout les secrets de WordPress enfin r\u00e9v\u00e9l\u00e9svia WordPress pour les nuls: tout les secrets de WordPress enfin r\u00e9v\u00e9l\u00e9s.",
-            "date": "2014-04-04",
-            "author_name": "DDT",
-            "categories": "wordpress",
-            "tags": "wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/demeuresdeterroir.org/2014/04/wordpress-pour-les-nuls-tout-secrets-de-enfin-r%C3%A9v%C3%A9l%C3%A9s",
-            "resource_url": "http://fr.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
-            "source_url": "http://demeuresdeterroir.org/2014/04/04/wordpress-pour-les-nuls-tout-les-secrets-de-wordpress-enfin-reveles/"
-        },
-        "ciblewebformations.wordpress.com/2014/02/1-quel-futur-pour-wordpress-les-rendez-vous-autour": {
-            "title": "1 Quel Futur pour WordPress? Les rendez-vous autour de WordPress La Cantine Toulouse...",
-            "snippet": "1 Quel Futur pour WordPress? Les rendez-vous autour de WordPress La Cantine Toulouse Quel Futur pour WordPress? Les rendez-vous autour de WordPress La []...",
-            "date": "2014-02-18",
-            "author_name": "Cibleweb formations",
-            "categories": "wordpress",
-            "tags": "wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/ciblewebformations.wordpress.com/2014/02/1-quel-futur-pour-wordpress-les-rendez-vous-autour",
-            "resource_url": "http://fr.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
-            "source_url": "http://ciblewebformations.wordpress.com/2014/02/18/1-quel-futur-pour-wordpress-les-rendez-vous-autour-de-wordpress-la-cantine-toulouse-httpow-ly/"
         }
     }
 }
