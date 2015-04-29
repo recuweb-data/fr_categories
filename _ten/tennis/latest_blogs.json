@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tennis",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tennis/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis/tennis/blogs.json"
     },
     "items": {
+        "courrier-picard.fr/2015/04/tennis-constant-lestienne-qualifi%C3%A9-pour-le-tournoi-atp-d-estoril": {
+            "title": "TENNIS Constant Lestienne qualifi\u00e9 pour le tournoi ATP d'Estoril...",
+            "snippet": "Richard Gasquet, J\u00e9r\u00e9my Chardy, St\u00e9phane Robert et... le Picard Constant Lestienne. Voila le contingent fran\u00e7ais dans le tableau final du tournoi d'EStoril cette semaine. En pleine forme depuis un mois, Lestienne (319e...",
+            "date": "2015-04-27",
+            "author_name": "Le Courrier picard",
+            "categories": "tennis",
+            "tags": "mois,semaine,fran\u00e7ais,picard,qualifi\u00e9,tennis,tournoi,atp",
+            "recuweb_url": "http://fr.recuweb.com/tennis/courrier-picard.fr/2015/04/tennis-constant-lestienne-qualifi%C3%A9-pour-le-tournoi-atp-d-estoril",
+            "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://courrier-picard.fr/region/tennis-constant-lestienne-qualifie-pour-le-tournoi-atp-ia201b0n559600"
+        },
+        "brossac.blogs.charentelibre.fr/2015/04/brossac-les-joueurs-de-tennis-en-herbe-r%C3%A9compens%C3%A9s": {
+            "title": "BROSSAC: Les joueurs de tennis en herbe r\u00e9compens\u00e9s: Brossac...",
+            "snippet": "Ce dernier mardi matin d'avril, la quarantaine d'\u00e9l\u00e8ves des deux classes de cycle 3 de l'\u00e9cole Honor\u00e9 de Balzac sont rassembl\u00e9s sur l'un des courts du club de tennis brossacais pour un petit moment bien sympathique.",
+            "date": "2015-04-26",
+            "author_name": "Moustache",
+            "categories": "tennis",
+            "tags": "petit,moment,courts,mardi,joueurs,tennis,avril,club",
+            "recuweb_url": "http://fr.recuweb.com/tennis/brossac.blogs.charentelibre.fr/2015/04/brossac-les-joueurs-de-tennis-en-herbe-r%C3%A9compens%C3%A9s",
+            "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://brossac.blogs.charentelibre.fr/archive/2015/04/26/brossac-les-joueurs-de-tennis-en-herbe-recompenses-197443.html"
+        },
         "sudouest.fr/2015/04/tennis-%C3%A7a-s-annonce-ouvert-au-challenger-bordeaux-primrose": {
             "title": "Tennis: \u00e7a s'annonce ouvert au Challenger Bordeaux-Primrose...",
             "snippet": "Pas de t\u00eates d'affiche connues du grand public, mais six membres du Top 100, le Girondin de Schepper, le Fran\u00e7ais Mahut ou l'Espagnol Montanes: le tournoi de tennis girondin (9-17 mai) sera...",
             "date": "2015-04-22",
             "author_name": "inconnu",
             "categories": "tennis",
-            "tags": "tournoi,espagnol,fran\u00e7ais,affiche,annonce,tennis,top",
+            "tags": "espagnol,fran\u00e7ais,bordeaux,annonce,tennis,primrose,tournoi,mai",
             "recuweb_url": "http://fr.recuweb.com/tennis/sudouest.fr/2015/04/tennis-%C3%A7a-s-annonce-ouvert-au-challenger-bordeaux-primrose",
             "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2015/04/22/challenger-bordeaux-primrose-ca-s-annonce-ouvert-1900268-4599.php"
-        },
-        "puretrend.com/2015/04/am%C3%A9lie-mauresmo-enceinte-l-%C3%A9volution-d-une-championne-de-tennis": {
-            "title": "Am\u00e9lie Mauresmo enceinte: l'\u00e9volution d'une championne de tennis...",
-            "snippet": "A trente-cinq ans, la joueuse de tennis se lance dans une nouvelle aventure: celle de la maternit\u00e9. Ancienne num\u00e9ro un mondiale, elle affiche ses rondeurs de femme enceinte apr\u00e8s des ann\u00e9es au top sur les courts des...",
-            "date": "2015-04-17",
-            "author_name": "inconnu",
-            "categories": "tennis",
-            "tags": "ann\u00e9es,top,affiche,num\u00e9ro,nouvelle,joueuse,cinq,enceinte,championne,tennis,ancienne,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/tennis/puretrend.com/2015/04/am%C3%A9lie-mauresmo-enceinte-l-%C3%A9volution-d-une-championne-de-tennis",
-            "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://puretrend.com/article/amelie-mauresmo-enceinte-l-evolution-d-une-championne-de-tennis-en-images_a112035/1"
         },
         "parismatch.com/2015/04/ancien-n1-du-tennis-fran%C3%A7ais-patrice-dominguez-est-mort": {
             "title": "Ancien n1 du tennis fran\u00e7ais - Patrice Dominguez est mort...",
@@ -41,7 +52,7 @@
             "categories": "mort,tennis",
             "tags": "\u00e9tait,f\u00e9d\u00e9ration,f\u00e9d\u00e9ration_fran\u00e7aise,fran\u00e7aise,fran\u00e7ais,tennisman,dimanche,patrice,patrice_dominguez,dominguez,tennis",
             "recuweb_url": "http://fr.recuweb.com/tennis/parismatch.com/2015/04/ancien-n1-du-tennis-fran%C3%A7ais-patrice-dominguez-est-mort",
-            "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=tennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/Actu/Sport/Patrice-Dominguez-est-mort-Le-tennisman-ancien-n-1-francais-et-36e-mondial-743658"
         },
         "atpworldtour.com/2015/04/patrice-dominguez-leading-french-&-international-tennis-figure": {
@@ -50,7 +61,7 @@
             "date": "2015-04-12",
             "author_name": "ATP Staff",
             "categories": "tennis",
-            "tags": "tennis,patrice,patrice_dominguez,dominguez",
+            "tags": "international,tennis,patrice,patrice_dominguez,dominguez",
             "recuweb_url": "http://fr.recuweb.com/tennis/atpworldtour.com/2015/04/patrice-dominguez-leading-french-&-international-tennis-figure",
             "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://atpworldtour.com/News/Tennis/2015/04/14/Patrice-Dominguez-Passes-Away.aspx"
