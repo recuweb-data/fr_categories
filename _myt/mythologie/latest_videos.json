@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mythologie",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mythologie/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/03/les-pygm%C3%A9es-mythologie-grecque": {
+            "title": "Les pygm\u00e9es (mythologie grecque)...",
+            "snippet": "d'autres infos sur le sujet dans mon article de mars sur le blog: benoitreveurTags: Posted: 14 March 2015Rating:: 0...",
+            "date": "2015-03-14",
+            "author_name": "benoitreveur",
+            "categories": "mythologie",
+            "tags": "mythologie,mythologie-grecque,grecque",
+            "recuweb_url": "http://fr.recuweb.com/mythologie/dailymotion.com/2015/03/les-pygm%C3%A9es-mythologie-grecque",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mythologie/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2jijtl_les-pygmees-mythologie-grecque_webcam",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jijtl_les-pygmees-mythologie-grecque_webcam"
+        },
         "youtube.com/2014/12/la-mythologie-nordique-mythes-et-l%C3%A9gendes-2": {
             "title": "La mythologie nordique - Mythes et l\u00e9gendes 2...",
             "snippet": "La mythologie nordique - Mythes et l\u00e9gendes 2 Soutenez moi sur Tipeee: Abonnez-vous \u00e0 ma chaine: Facebook: Twitter:... From: Nota Bene Views: 139175 6979 ratings Time: 22:51 More in Education...",
@@ -53,7 +65,7 @@
             "date": "2014-11-04",
             "author_name": "Jack Lance",
             "categories": "mythologie",
-            "tags": "base,mythes,mythologie,mythologie-nordique,documentaire,dieux",
+            "tags": "mythes,mythologie,mythologie-nordique,documentaire",
             "recuweb_url": "http://fr.recuweb.com/mythologie/youtube.com/2014/11/les-dieux-nordiques-documentaire-en-fran%C3%A7ais-2014",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Uma4gn2axVs&feature=youtube_gdata",
@@ -65,7 +77,7 @@
             "date": "2014-10-23",
             "author_name": "VideoBus",
             "categories": "mythologie",
-            "tags": "mythe,mythologie,grecque,documentaire",
+            "tags": "mythe,mythologie,mythologie-grecque,grecque,documentaire",
             "recuweb_url": "http://fr.recuweb.com/mythologie/youtube.com/2014/10/la-gr%C3%A8ce-antique-l-ge-d-or-documentaire-fr",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie%2Bmythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=bYcli_7b_n8&feature=youtube_gdata",
@@ -118,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mythologie+mythologie/0?af=1",
             "source_url": "http://dailymotion.com/video/x1x2v4r_the-order-1886-histoire-et-mythologie_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1x2v4r_the-order-1886-histoire-et-mythologie_videogames"
-        },
-        "youtube.com/2013/07/les-dieux-oublies": {
-            "title": "LES DIEUX OUBLIES...",
-            "snippet": "LES DIEUX OUBLIES les mythologies \u00e9gyptienne, grec, sum\u00e9rienne, et celtes sont les base de notre culture moderne. Pourquoi on t'ils disparu?... From: Arcanum Views: 86604 162 ratings Time: 01:24:01 More in Film & Animation...",
-            "date": "2013-07-24",
-            "author_name": "Arcanum",
-            "categories": "culture,mythologie",
-            "tags": "base,dieux",
-            "recuweb_url": "http://fr.recuweb.com/mythologie/youtube.com/2013/07/les-dieux-oublies",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=voEAtszIrVs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/voEAtszIrVs/0.jpg"
         }
     }
 }
