@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "livre-num\u00e9rique",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/livre-num\u00e9rique/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/blogs.json"
     },
     "items": {
+        "journalmetro.com/2015/04/application-mobile-pour-les-amateurs-de-litt%C3%A9rature-qu%C3%A9b%C3%A9coise": {
+            "title": "Application mobile pour les amateurs de litt\u00e9rature qu\u00e9b\u00e9coise...",
+            "snippet": "Promouvoir les auteurs qu\u00e9b\u00e9cois et leurs \u0153uvres, cest lobjectif de Opuscules, une application mobile pour iOS lanc\u00e9e par lUnion des \u00e9crivaines et des \u00e9crivains du Qu\u00e9bec (UNEQ). Le livre num\u00e9rique, actuellement, reproduit les interfaces...",
+            "date": "2015-04-28",
+            "categories": "litterature",
+            "tags": "lunion,livre,num\u00e9rique",
+            "recuweb_url": "http://fr.recuweb.com/litterature/journalmetro.com/2015/04/application-mobile-pour-les-amateurs-de-litt%C3%A9rature-qu%C3%A9b%C3%A9coise",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
+            "source_url": "http://journalmetro.com/culture/765810/application-mobile-pour-les-amateurs-de-litterature-quebecoise/"
+        },
         "ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation": {
             "title": "Un salon du livre 2.0: d\u00e9voilement de la programmation...",
             "snippet": "Objectif de 5000 selfies, conf\u00e9rences-web, SLATCaching, cr\u00e9ation d'un livre num\u00e9rique... le comit\u00e9 du 39e Salon du livre de l'Abitibi-T\u00e9miscamingue ne manque pas d'imagination pour rendre son \u00e9v\u00e9nement branch\u00e9! Lors d'une conf\u00e9rence de...",
@@ -25,7 +35,7 @@
             "snippet": "Auteur: Haute autorit\u00e9 pour la diffusion des oeuvres et la protection des droits sur internet (Hadopi) Description: LHadopi (DREV) publie une note danalyse sur les usages des terminaux de lecture. La pr\u00e9sente note propose une analyse des usages...",
             "date": "2015-04-21",
             "categories": "internet",
-            "tags": "lecture,livre,num\u00e9rique,usages",
+            "tags": "livre,num\u00e9rique,lecture,usages",
             "recuweb_url": "http://fr.recuweb.com/internet/enssib.fr/2015/04/livre-num%C3%A9rique-et-terminaux-de-lecture-quels-usages-note-danalyse",
             "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
             "source_url": "http://enssib.fr/bibliotheque-numerique/notices/65210-livre-numerique-et-terminaux-de-lecture-quels-usages-note-d-analyse"
@@ -34,19 +44,10 @@
             "title": "Apr\u00e8s lebook, d\u00e9couvrez loBook le livre olfactif!",
             "snippet": "Un professeur G\u00e9o-Trouvetout de Harvard a mis au point un syst\u00e8me \u00e9tonnant pour sentir des odeurs lors de la lecture dun livre num\u00e9rique. Humez-moi la bonne odeur de cet ebook! Les lecteurs reprochent souvent aux livres num\u00e9riques de ne pas...",
             "date": "2015-04-20",
-            "tags": "num\u00e9riques,num\u00e9rique,lecteurs,lecture,livres,professeur,lors",
+            "tags": "livres,lors,lecture,num\u00e9riques,lecteurs",
             "recuweb_url": "http://fr.recuweb.com/idboox.com/2015/04/apr%C3%A8s-lebook-d%C3%A9couvrez-lobook-le-livre-olfactif",
             "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
             "source_url": "http://idboox.com/infos-ebooks/apres-lebook-decouvrez-lobook-le-livre-olfactif/"
-        },
-        "idboox.com/2015/04/europe-la-tva-sur-presse-num%C3%A9rique-en-danger": {
-            "title": "Europe: La TVA sur la presse num\u00e9rique en danger...",
-            "snippet": "LEurope a rejet\u00e9 lapplication du taux r\u00e9duit de TVA du livre imprim\u00e9 au livre num\u00e9rique, les \u00e9diteurs de presse en ligne sinqui\u00e8tent \u00e9galement de fa\u00e7on l\u00e9gitime. La corporation est dans la m\u00eame situation que l\u00e9dition. Le 17 janvier...",
-            "date": "2015-04-14",
-            "tags": "taux,taux-r\u00e9duit,r\u00e9duit,tva,num\u00e9rique,livre",
-            "recuweb_url": "http://fr.recuweb.com/idboox.com/2015/04/europe-la-tva-sur-presse-num%C3%A9rique-en-danger",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
-            "source_url": "http://idboox.com/presse-numerique/europe-la-tva-sur-la-presse-numerique-en-danger/"
         },
         "archimag.com/2015/04/pr%C3%AAt-d-ebooks-en-biblioth%C3%A8que-il-y-a-un-vrai-retard": {
             "title": "Pr\u00eat d'ebooks en biblioth\u00e8que: il y a un vrai retard en France! - Archimag...",
@@ -71,16 +72,16 @@
             "title": "Livre: il \u00e9tait une fois l'effervescence num\u00e9rique - Contrepoints...",
             "snippet": "ContrepointsLivre: il \u00e9tait une fois l'effervescence num\u00e9riqueContrepointsLe second concerne celui du format et du prix: les livres num\u00e9riques connaissent une forte croissance et Amazon a annonc\u00e9 en 2014 le lancement de Kindle Unlimited qui...",
             "date": "2015-04-04",
-            "tags": "num\u00e9riques,num\u00e9rique,livres,prix",
+            "tags": "livres,num\u00e9riques,prix",
             "recuweb_url": "http://fr.recuweb.com/contrepoints.org/2015/04/livre-il-%C3%A9tait-une-fois-l-effervescence-num%C3%A9rique-contrepoints",
-            "resource_url": "http://news.google.fr/?hl=fr&q=livre%2Bnum%C3%A9rique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&output=atom&nord=1",
             "source_url": "http://contrepoints.org/2015/04/04/203364-livre-il-etait-une-fois-leffervescence-numerique"
         },
         "fr.news.yahoo.com/2015/03/la-france-somm%C3%A9e-de-relever-tva-pour-les-livres-num%C3%A9riques": {
             "title": "La France somm\u00e9e de relever la TVA pour les livres num\u00e9riques...",
             "snippet": "La Cour de justice de lUnion europ\u00e9enne a jug\u00e9 que le taux r\u00e9duit n'est pas conforme aux directives europ\u00e9ennes. Le Syndicat national du livre plaide pour une harmonisation avec les livres papier.",
             "date": "2015-03-05",
-            "tags": "taux,taux-r\u00e9duit,r\u00e9duit,france,tva,livres,livre,num\u00e9riques,papier",
+            "tags": "france,livres,livre,num\u00e9riques,lunion,papier",
             "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/03/la-france-somm%C3%A9e-de-relever-tva-pour-les-livres-num%C3%A9riques",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=livre%2Bnum%C3%A9rique",
             "source_url": "http://fr.news.yahoo.com/france-somm\u00e9e-relever-tva-livres-num\u00e9riques-161342067.html"
