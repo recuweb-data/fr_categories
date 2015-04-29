@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sqlite/",
@@ -11,42 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
-        "military-technologies.net/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-military-technologies": {
-            "title": "Devart Introduces New dbExpress Drivers with Support for RAD... - Military Technologies...",
-            "snippet": "Devart Introduces New dbExpress Drivers with Support for RAD...Military TechnologiesCompany's solutions support such databases as Microsoft SQL Server, Oracle, MySQL, PostgreSQL, InterBase, Firebird, SQLite, etc. Along with database oriented...",
-            "date": "2015-04-23",
-            "categories": "technologie,mysql,sqlite",
-            "tags": "databases,oriented,microsoft,sql,sql_server,server,support,technologies,devart,oracle,mysql,gresql,interbase,firebird,sqlite",
-            "recuweb_url": "http://fr.recuweb.com/sqlite/military-technologies.net/2015/04/devart-introduces-new-dbexpress-drivers-with-support-for-rad-military-technologies",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
-            "source_url": "http://military-technologies.net/2015/04/23/devart-introduces-new-dbexpress-drivers-with-support-for-rad-studio-xe8-3/"
-        },
         "i-programmer.info/2015/04/meet-squidb-iprogrammer": {
             "title": "Meet SquiDB - iProgrammer...",
             "snippet": "Meet SquiDBiProgrammerSquiDB is designed to let you work with SQLite databases while still giving the power and flexibility of raw SQL. It combines features of an ORM with object-oriented SQL statement builders, so avoiding the need to have SQL...",
             "date": "2015-04-23",
             "categories": "sqlite",
-            "tags": "need,databases,designed,work,sqlite,sql,oriented",
+            "tags": "need,work,sqlite",
             "recuweb_url": "http://fr.recuweb.com/sqlite/i-programmer.info/2015/04/meet-squidb-iprogrammer",
             "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
             "source_url": "http://i-programmer.info/news/84-database/8517-meet-squidb.html"
-        },
-        "thehostingnews.com/2015/04/devart-releases-data-access-components-for-delphi-with-support-press-release": {
-            "title": "Devart Releases Data Access Components for Delphi with Support... - (press release) (blog)...",
-            "snippet": "Devart Releases Data Access Components for Delphi with Support... (press release) (blog)(The Hosting News) Devart updates DAC product line, which includes Delphi components for SQL Server, MySQL, Oracle, PostgreSQL, SQLite, Interbase/Firebird, and...",
-            "date": "2015-04-16",
-            "categories": "mysql,sqlite",
-            "tags": "sql,sql_server,server,devart,data,access,support,mysql,oracle,gresql,sqlite,interbase,firebird",
-            "recuweb_url": "http://fr.recuweb.com/sqlite/thehostingnews.com/2015/04/devart-releases-data-access-components-for-delphi-with-support-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
-            "source_url": "http://thehostingnews.com/devart-releases-data-access-components-for-delphi-with-support-for-rad-xe8.html"
         },
         "itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle": {
             "title": "Going Off the Grid with IBM i Mobile Apps - IT Jungle...",
             "snippet": "IT JungleGoing Off the Grid with IBM i Mobile AppsIT JungleCM First built the open source SQLite database directly into the client application, and added the necessary data synchronization processes to allow the apps to automatically update with the...",
             "date": "2015-04-15",
             "categories": "sqlite",
-            "tags": "data,apps,application,mobile,sqlite",
+            "tags": "data,sqlite,application",
             "recuweb_url": "http://fr.recuweb.com/sqlite/itjungle.com/2015/04/going-off-the-grid-with-ibm-i-mobile-apps-it-jungle",
             "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
             "source_url": "http://itjungle.com/tfh/tfh041515-story05.html"
@@ -61,32 +41,12 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
             "source_url": "http://aerovfr.com/2015/04/les-nouveautes-de-la-cartabossy-2015/"
         },
-        "secuobs.com/2015/03/pcap-to-xml-and-sqlite-introduction-need-for-tool": {
-            "title": "PCAP to XML and SQLITE - Introduction and Need for Tool...",
-            "snippet": "- Vigilance - WordPress Pie Register Cross Site Scripting, analys\u00e9 le 11 03 2015 - Vigilance - Drupal Site Documentation Cross Site Scripting, analys\u00e9 le 11 03 2015 - Vigilance - Drupal Image Title Cross Site Scripting, analys\u00e9 le 11 03 2015 -...",
-            "date": "2015-03-27",
-            "categories": "drupal,wordpress,sqlite",
-            "tags": "sqlite,need",
-            "recuweb_url": "http://fr.recuweb.com/sqlite/secuobs.com/2015/03/pcap-to-xml-and-sqlite-introduction-need-for-tool",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sqlite&format=RSS&cc=fr",
-            "source_url": "http://secuobs.com/revue/news/565019.shtml"
-        },
-        "arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup": {
-            "title": "Realm Raises 18 M series B to bring databases to Mobile - ArcticStartup...",
-            "snippet": "Realm Raises 18 M series B to bring databases to MobileArcticStartupIt uses a brand-new storage architecture, not SQLite, and an easier API designed for needs of modern mobile apps and smartphones. It is already used by tens of thousands of app...",
-            "date": "2015-03-25",
-            "categories": "sqlite",
-            "tags": "app,designed,mobile,apps,storage,uses,databases,realm,not,sqlite",
-            "recuweb_url": "http://fr.recuweb.com/sqlite/arcticstartup.com/2015/03/realm-raises-18-m-series-b-to-bring-databases-mobile-arcticstartup",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
-            "source_url": "http://arcticstartup.com/2015/03/25/realm-raises-e18-m-series-b-to-bring-databases-to-mobile"
-        },
         "infoq.com/2014/10/realm-brings-sqlite-alternative-to-android": {
             "title": "Realm Brings SQLite Alternative to Android -...",
             "snippet": "Realm Brings SQLite Alternative to you have currently have an app that uses CoreData (on iOS) or SQLite (on Android) and want to migrate to Realm, there is definitely some work involved. It is not a drop-in change - Tim explains that CoreData and...",
             "date": "2014-10-24",
             "categories": "sqlite",
-            "tags": "not,work,app,uses,realm,sqlite,android,ios",
+            "tags": "work,sqlite,android,ios",
             "recuweb_url": "http://fr.recuweb.com/sqlite/infoq.com/2014/10/realm-brings-sqlite-alternative-to-android",
             "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
             "source_url": "http://infoq.com/news/2014/10/Realm-android"
@@ -96,7 +56,7 @@
             "snippet": "iOS Data Storage: Core Data vs. SQLiteDr. Dobb'sOn iOS, the two main storage technologies available to developers are Core Data and SQLite. Both technologies have advantages and disadvantages depending on the amount and type of data you need to...",
             "date": "2014-08-12",
             "categories": "technologie,sqlite",
-            "tags": "technologies,data,need,storage,ios,sqlite",
+            "tags": "data,need,ios,sqlite",
             "recuweb_url": "http://fr.recuweb.com/sqlite/drdobbs.com/2014/08/ios-data-storage-core-vs-sqlite-dr-dobb",
             "resource_url": "http://news.google.fr/?hl=fr&q=sqlite&output=atom&nord=1",
             "source_url": "http://drdobbs.com/mobile/ios-data-storage-core-data-vs-sqlite/240168843"
