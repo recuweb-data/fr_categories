@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "politique",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/politique/",
@@ -11,82 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/politique/politique/blogs.json"
     },
     "items": {
-        "rfi.fr/2015/04/des-politiques-fran%C3%A7ais-influents-espionn%C3%A9s-par-les-etats-unis": {
-            "title": "Des politiques fran\u00e7ais influents espionn\u00e9s par les Etats-Unis...",
-            "snippet": "Des personnalit\u00e9s politiques fran\u00e7aises de premier plan, des administrations, diff\u00e9rents minist\u00e8res, les entreprises Eurocopter et EADS ont \u00e9t\u00e9 espionn\u00e9s par les services secrets allemands pour le compte des Etats Unis. Interview exclusive...",
-            "date": "2015-04-27",
+        "lefigaro.fr/2015/04/arnaud-montebourg-n-oublie-pas-totalement-la-politique": {
+            "title": "Arnaud Montebourg n'oublie pas (totalement) la politique...",
+            "snippet": "LE SCAN POLITIQUE - En retrait de la vie publique, l'ancien ministre de l'\u00c9conomie effectuera n\u00e9anmoins sa traditionnelle ascension du Mont Beuvray, le 25 mai. Il l'a confi\u00e9 r\u00e9cemment devant quelques militants locaux. Arnaud Montebourg fera bien...",
+            "date": "2015-04-28",
             "categories": "politique",
-            "tags": "\u00e9t\u00e9,diff\u00e9rents,politiques,premier,plan,inter",
-            "recuweb_url": "http://fr.recuweb.com/politique/rfi.fr/2015/04/des-politiques-fran%C3%A7ais-influents-espionn%C3%A9s-par-les-etats-unis",
+            "tags": "ministre,vie,scan,scan_politique,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/lefigaro.fr/2015/04/arnaud-montebourg-n-oublie-pas-totalement-la-politique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://rfi.fr/emission/20150427-personnalites-politiques-francaises-premier-plan-espionnees-etats-unis/"
+            "source_url": "http://lefigaro.fr/politique/le-scan/2015/04/28/25001-20150428ARTFIG00255-arnaud-montebourg-n-oublie-pas-totalement-la-politique.php"
         },
-        "ladepeche.fr/2015/04/le-poison-de-la-vie-politique": {
-            "title": "Le poison de la vie politique -...",
-            "snippet": "poison de la vie la crise \u00e9conomique n'est pas seule responsable du marasme de la France. Pour la journaliste Ghislaine Ottenheimer, les institutions, notamment celle qui cannibalise la vie politique, l'\u00e9lection du pr\u00e9sident de la R\u00e9publique au...",
-            "date": "2015-04-27",
-            "categories": "politique",
-            "tags": "\u00e9lection,pr\u00e9sident,vie,\u00e9conomique,politique,france",
-            "recuweb_url": "http://fr.recuweb.com/politique/ladepeche.fr/2015/04/le-poison-de-la-vie-politique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/04/27/2094808-le-poison-de-la-vie-politique.html"
-        },
-        "lemonde.fr/2015/04/les-femmes-sont-plus-touch%C3%A9es-par-politiques-d-aust%C3%A9rit%C3%A9": {
-            "title": "Les femmes sont plus touch\u00e9es par les politiques d'aust\u00e9rit\u00e9...",
-            "snippet": "La place des femmes et leur promotion dans le monde du travail ptissent des politiques d'aust\u00e9rit\u00e9, explique un rapport de l'ONU Femmes l'entit\u00e9 des Nations unies pour l'\u00e9galit\u00e9 des sexes et l'autonomisation des femmes rendu public lundi...",
-            "date": "2015-04-27",
-            "categories": "place,politique",
-            "tags": "public,lundi,monde,politiques",
-            "recuweb_url": "http://fr.recuweb.com/politique/lemonde.fr/2015/04/les-femmes-sont-plus-touch%C3%A9es-par-politiques-d-aust%C3%A9rit%C3%A9",
+        "lepoint.fr/2015/04/ch%C3%B4mage-en-hausse-les-r%C3%A9actions-politiques": {
+            "title": "Ch\u00f4mage en hausse: les r\u00e9actions politiques...",
+            "snippet": "Le ch\u00f4mage a atteint un record historique en mars avec 3,51 millions de demandeurs d'emploi sans activit\u00e9 en m\u00e9tropole, soit 15 400 de plus par rapport au mois de f\u00e9vrier. Ce n'est pas un bon r\u00e9sultat, mais en m\u00eame temps, cela ne change pas...",
+            "date": "2015-04-28",
+            "categories": "emploi,politique",
+            "tags": "politiques,historique",
+            "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/04/ch%C3%B4mage-en-hausse-les-r%C3%A9actions-politiques",
             "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://lemonde.fr/economie/article/2015/04/27/les-femmes-sont-plus-touchees-par-les-politiques-d-austerite_4623656_3234.html"
+            "source_url": "http://lepoint.fr/politique/chomage-en-hausse-les-reactions-politiques-28-04-2015-1924784_20.php"
         },
-        "ladepeche.fr/2015/04/quartiers-d%C3%A9favoris%C3%A9s-la-politique-de-ville-digue-anti": {
-            "title": "Quartiers d\u00e9favoris\u00e9s: la politique de la ville, digue anti... -...",
-            "snippet": "d\u00e9favoris\u00e9s: la politique de la ville, digue anti... politique de la ville ne date que des ann\u00e9es 80. Imaginons ces quartiers si elle n'avait pas exist\u00e9. Quarante milliards d'euros ont par exemple \u00e9t\u00e9 inject\u00e9s avec le plan de r\u00e9novation...",
-            "date": "2015-04-27",
+        "afrik.com/2015/04/du-r%C3%A8gne-des-partis-uniques-au-probl%C3%A8me-de-lalternance-politique": {
+            "title": "Du r\u00e8gne des partis uniques au probl\u00e8me de lalternance politique...",
+            "snippet": "Le renouveau d\u00e9mocratique des ann\u00e9es 1990 est apparu dans un contexte domin\u00e9 par des d\u00e9cennies de r\u00e8gne du parti unique, la personnalisation du pouvoir, la confusion de lappareil \u00e9tatique, et lincursion fr\u00e9quente de larm\u00e9e dans les...",
+            "date": "2015-04-28",
             "categories": "politique",
-            "tags": "\u00e9t\u00e9,plan,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/ladepeche.fr/2015/04/quartiers-d%C3%A9favoris%C3%A9s-la-politique-de-ville-digue-anti",
+            "tags": "larm\u00e9e,ann\u00e9es,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/afrik.com/2015/04/du-r%C3%A8gne-des-partis-uniques-au-probl%C3%A8me-de-lalternance-politique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://afrik.com/du-regne-des-partis-uniques-au-probleme-de-l-alternance-politique,47757"
+        },
+        "frequenceterre.com/2015/04/la-politique-climatique-doit-%C3%AAtre-port%C3%A9e-par-le-premier-ministre": {
+            "title": "La politique climatique doit \u00eatre port\u00e9e par le Premier ministre...",
+            "snippet": "2 minutesil y a 2 Viewed Robot Automatique Commentaires ferm\u00e9s sur La politique climatique doit \u00eatre port\u00e9e par le Premier ministre AVERTISSEMENT: Les communiqu\u00e9s de presse publi\u00e9s dans cette rubrique ne sont pas r\u00e9dig\u00e9s par la r\u00e9daction...",
+            "date": "2015-04-28",
+            "categories": "politique",
+            "tags": "politique,premier,ministre",
+            "recuweb_url": "http://fr.recuweb.com/politique/frequenceterre.com/2015/04/la-politique-climatique-doit-%C3%AAtre-port%C3%A9e-par-le-premier-ministre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://frequenceterre.com/2015/04/28/la-politique-climatique-doit-etre-portee-par-le-premier-ministre-3/"
+        },
+        "latribune.fr/2015/04/pas-de-redynamisation-des-centres-villes-sans-courage-politique": {
+            "title": "Pas de redynamisation des centres-villes sans courage politique - La...",
+            "snippet": "La de redynamisation des centres-villes sans courage politiqueLa des ann\u00e9es, on a fait de la voiture l'ennemi n1 des centres-villes: pi\u00e9tonisation des grandes art\u00e8res commer\u00e7antes, politiques tarifaires agressives en mati\u00e8re de stationnement,...",
+            "date": "2015-04-28",
+            "categories": "politique",
+            "tags": "politiques,politique,ann\u00e9es",
+            "recuweb_url": "http://fr.recuweb.com/politique/latribune.fr/2015/04/pas-de-redynamisation-des-centres-villes-sans-courage-politique",
             "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
-            "source_url": "http://ladepeche.fr/article/2015/04/27/2094422-dans-l-agglo-16-quartiers-prioritaires.html"
+            "source_url": "http://latribune.fr/opinions/tribunes/pas-de-redynamisation-des-centres-villes-sans-courage-politique-472300.html"
         },
-        "dynamique-mag.com/2015/04/quelle-politique-de-prix-adopter": {
-            "title": "Quelle politique de prix adopter?",
-            "snippet": "Afin de s\u00e9duire sa client\u00e8le, l'entreprise peut proposer des prix diff\u00e9rents et faire varier sa politique tarifaire. Le secteur d'activit\u00e9 de l'entreprise peut, bien \u00e9videmment, avoir une influence manifeste sur cette strat\u00e9gie, et...",
-            "date": "2015-04-27",
-            "categories": "politique",
-            "tags": "strat\u00e9gie,diff\u00e9rents,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/dynamique-mag.com/2015/04/quelle-politique-de-prix-adopter",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://dynamique-mag.com/article/quelle-politique-prix-adopter.6465"
-        },
-        "tempsreel.nouvelobs.com/2015/04/r%C3%A9actions-politiques-aux-chiffres-du-ch%C3%B4mage-en-hausse": {
-            "title": "R\u00e9actions politiques aux chiffres du ch\u00f4mage en hausse...",
-            "snippet": "Paris (AFP) - Voici des premi\u00e8res r\u00e9actions politiques aux chiffres au ch\u00f4mage en hausse d\u00e9voil\u00e9s lundi: - Laurent Wauquiez, secr\u00e9taire g\u00e9n\u00e9ral de l'UMP: Trois ans apr\u00e8s l'\u00e9lection de Fran\u00e7ois Hollande, sa promesse d'inverser la courbe...",
-            "date": "2015-04-27",
-            "categories": "politique",
-            "tags": "hollande,\u00e9lection,r\u00e9actions,politiques,lundi,ump,trois",
-            "recuweb_url": "http://fr.recuweb.com/politique/tempsreel.nouvelobs.com/2015/04/r%C3%A9actions-politiques-aux-chiffres-du-ch%C3%B4mage-en-hausse",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://tempsreel.nouvelobs.com/politique/20150427.AFP6134/reactions-politiques-aux-chiffres-du-chomage-en-hausse.html"
-        },
-        "lefigaro.fr/2015/04/en-direct-le-live-politique-du-dimanche-soir-figaro": {
-            "title": "EN DIRECT - Le live politique du dimanche soir - Le Figaro...",
-            "snippet": "EN DIRECT - Le live politique du dimanche soirLe FigaroLE SCAN POLITIQUE - Chaque dimanche soir, Le Scan suit les \u00e9missions politiques. Au programme ce soir: Eric Ciotti sur France 5; Pierre Moscovici au Grand Jury RTL/LCI/Le Figaro et G\u00e9rard...",
+        "lefigaro.fr/2015/04/la-mise-en-sc%C3%A8ne-de-vie-politique-critiqu%C3%A9e-par-fran%C3%A7ois-fillon": {
+            "title": "La mise en sc\u00e8ne de la vie politique critiqu\u00e9e par Fran\u00e7ois Fillon - Le Figaro...",
+            "snippet": "Le FigaroLa mise en sc\u00e8ne de la vie politique critiqu\u00e9e par Fran\u00e7ois FillonLe FigaroJe pense qu'il y a une mise en sc\u00e8ne de la vie politique qui va d'ailleurs s'acc\u00e9l\u00e9rant et qui progressivement \u00e9loigne les responsables politiques du fond des...",
             "date": "2015-04-26",
             "categories": "politique",
-            "tags": "rtl,scan,politiques,politique,scan_politique,dimanche,chaque,france",
-            "recuweb_url": "http://fr.recuweb.com/politique/lefigaro.fr/2015/04/en-direct-le-live-politique-du-dimanche-soir-figaro",
+            "tags": "responsables,politiques,politique,vie,fran\u00e7ois",
+            "recuweb_url": "http://fr.recuweb.com/politique/lefigaro.fr/2015/04/la-mise-en-sc%C3%A8ne-de-vie-politique-critiqu%C3%A9e-par-fran%C3%A7ois-fillon",
             "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
-            "source_url": "http://lefigaro.fr/politique/le-scan/2015/04/26/25001-20150426LIVWWW00151-en-direct-le-live-politique-du-dimanche-soir.php"
+            "source_url": "http://lefigaro.fr/politique/le-scan/coulisses/2015/04/26/25006-20150426ARTFIG00132-la-mise-en-scene-de-la-vie-politique-critiquee-par-francois-fillon.php"
         },
         "fr.news.yahoo.com/2015/04/christian-paul-trop-souvent-depuis-trois-ans-le-ps-a-laiss%C3%A9": {
             "title": "Christian Paul: Trop souvent depuis trois ans, le PS a laiss\u00e9 faire...",
             "snippet": "LE SCAN POLITIQUE - Le d\u00e9put\u00e9 frondeur est le premier signataire de la motion qui r\u00e9unit l'aile gauche du PS. Il d\u00e9taille au Monde sa strat\u00e9gie et d\u00e9clare vouloir instaurer un d\u00e9bat de politique \u00e9conomique.",
             "date": "2015-04-10",
             "categories": "politique",
-            "tags": "strat\u00e9gie,d\u00e9bat,premier,motion,scan,scan_politique,politique,trois,christian,monde,\u00e9conomique",
+            "tags": "d\u00e9put\u00e9,premier,motion,scan,scan_politique,politique,\u00e9conomique",
             "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/christian-paul-trop-souvent-depuis-trois-ans-le-ps-a-laiss%C3%A9",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
             "source_url": "http://fr.news.yahoo.com/christian-paul-souvent-depuis-trois-ans-ps-laiss\u00e9-155917311.html"
@@ -96,7 +86,7 @@
             "snippet": "LE SCAN POLITIQUE - Chaque semaine, l'\u00e9mission Parlement Hebdo, sur les cha\u00eenes parlementaires Public S\u00e9nat et LCP, en partenariat avec Le Scan, fait intervenir un invit\u00e9 politique sur l'actualit\u00e9 de la semaine. Aujourd'hui, le pr\u00e9sident du...",
             "date": "2015-04-10",
             "categories": "politique",
-            "tags": "pr\u00e9sident,semaine,public,scan,scan_politique,politique,motion,chaque",
+            "tags": "semaine,scan,scan_politique,politique,motion,guillaume",
             "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/didier-guillaume-juge-grave-que-des-frondeurs-dirigent-une-motion",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
             "source_url": "http://fr.news.yahoo.com/didier-guillaume-cest-grave-frondeurs-dirigent-motion-135609249.html"
@@ -106,10 +96,20 @@
             "snippet": "LE SCAN POLITIQUE - Nombre de responsables politique ont d\u00e9nonc\u00e9 le d\u00e9chirement auquel se sont livr\u00e9s cette semaine Marine Le Pen et son p\u00e8re par m\u00e9dias interpos\u00e9s.",
             "date": "2015-04-10",
             "categories": "politique",
-            "tags": "semaine,marine,scan,scan_politique,politiques,pen",
+            "tags": "semaine,responsables,scan,scan_politique,politiques",
             "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/les-politiques-moquent-le-spectacle-humiliant-auquel-se-livre-la-famille",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
             "source_url": "http://fr.news.yahoo.com/politiques-moquent-spectacle-humiliant-auquel-livre-famille-pen-093316889.html"
+        },
+        "fr.news.yahoo.com/2015/04/lille-xavier-bertrand-fait-du-canal-seine-nord-europe-son-cheval": {
+            "title": "Lille: Xavier Bertrand fait du canal Seine Nord Europe son cheval de bataille...",
+            "snippet": "POLITIQUE - Le d\u00e9put\u00e9-maire UMP de St Quentin n'imagine pas l'avenir de la future r\u00e9gion Nord-Pas-de-Calais Picardie sans le canal...",
+            "date": "2015-04-10",
+            "categories": "politique",
+            "tags": "politique,d\u00e9put\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/lille-xavier-bertrand-fait-du-canal-seine-nord-europe-son-cheval",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
+            "source_url": "http://fr.news.yahoo.com/lille-xavier-bertrand-fait-canal-seine-nord-europe-151249104.html"
         }
     }
 }
