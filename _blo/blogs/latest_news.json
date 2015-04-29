@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,23 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
-        "lecteurs.blogs.sudouest.fr/2015/04/le-journal-des-lecteurs": {
-            "title": "Le journal des lecteurs...",
-            "snippet": "Avertissement: Les textes et photos que vous d\u00e9posez sur ce blog sont susceptibles d\u00eatre publi\u00e9s dans le journal Sud Ouest ou sur le site, cest pourquoi nous vous demandons dindiquer vos nom, pr\u00e9nom et lieu de r\u00e9sidence (ville et...",
-            "date": "2015-04-27",
-            "tags": "pourquoi",
-            "recuweb_url": "http://fr.recuweb.com/lecteurs.blogs.sudouest.fr/2015/04/le-journal-des-lecteurs",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
-            "source_url": "http://lecteurs.blogs.sudouest.fr/archive/2015/04/27/la-republique-des-droits-de-l-homme-1035774.html"
-        },
-        "fr.news.yahoo.com/2015/04/un-blog-qui-sait-cuisiner-les-navets": {
-            "title": "Un blog qui sait cuisiner les navets...",
-            "snippet": "Lumineux et bouleversant. La grande r\u00e9v\u00e9lation du Festival de Cannes Quand les critiques de presse sont dithyrambiques, le distributeur dun film ne se g\u00eane pas pour en consteller laffiche de citations. Mais si le long m\u00e9trage est une...",
-            "date": "2015-04-27",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/04/un-blog-qui-sait-cuisiner-les-navets",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
-            "source_url": "http://fr.news.yahoo.com/blog-sait-cuisiner-navets-175605453.html"
-        },
         "blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent": {
             "title": "L'art de rendre visibles ceux qui n'existent plus - Les blogs du Diplo (Blog)...",
             "snippet": "L'art de rendre visibles ceux qui n'existent plusLes blogs du Diplo (Blog)On aurait aim\u00e9 interviewer le r\u00e9alisateur chinois Wang Bing comme il filme ses personnages. Sans question ni r\u00e9ponse. A distance de ce qu'ils sont mais au plus proche de ce...",
@@ -53,7 +36,7 @@
             "date": "2015-04-21",
             "tags": "blogueurs",
             "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://frandroid.com/humanoid/279199_les-blogs-de-la-semaine-sont-tests-cie-et-vis-ma-vie-de-developpeur"
         },
         "huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent-le-huffington": {
@@ -62,7 +45,7 @@
             "date": "2015-04-16",
             "tags": "blogueurs,saison,huffington,web",
             "recuweb_url": "http://fr.recuweb.com/huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent-le-huffington",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/noel-cambessedes/golden-blogs-award_b_7077468.html"
         },
         "huffingtonpost.fr/2015/04/la-menace-terroriste-et-fin-des-blogs-perso-le-huffington": {
@@ -80,7 +63,7 @@
             "snippet": "Madame FigaroLes plus beaux blogs de voyage au f\u00e9mininMadame FigaroDe plus en plus de blogs de voyage voient le jour et en la mati\u00e8re, la gent f\u00e9minine s'av\u00e8re particuli\u00e8rement dou\u00e9e. Nous avons donc cherch\u00e9, cliqu\u00e9, pass\u00e9 en revue bon...",
             "date": "2015-03-31",
             "recuweb_url": "http://fr.recuweb.com/madame.lefigaro.fr/2015/03/les-plus-beaux-blogs-de-voyage-au-f%C3%A9minin-madame-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://madame.lefigaro.fr/evasion/baroudeuses-courageuses-audacieuses-nos-20-blogueuses-voyage-preferees-300315-95745"
         }
     }
