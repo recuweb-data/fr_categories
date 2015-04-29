@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yoga",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yoga/",
@@ -41,7 +41,7 @@
             "date": "2015-03-19",
             "author_name": "bande-annonce-film",
             "categories": "yoga",
-            "tags": "susan,yoga,corps,atha,bande,annonce,filmtags",
+            "tags": "yoga,corps,atha,bande,annonce,filmtags",
             "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/03/en-forme-avec-le-yoga-atha",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga+yoga/0?af=1",
             "source_url": "http://dailymotion.com/video/x2k0d8t_en-forme-avec-le-yoga-atha-yoga_shortfilms",
@@ -53,7 +53,7 @@
             "date": "2015-03-19",
             "author_name": "bande-annonce-film",
             "categories": "discipline,yoga",
-            "tags": "corps,\u00eatre,\u00eatre-de-vivre,vivre,discipline,discipline-qui-procure,procure,yoga,atha,initiation,bande,annonce,filmtags",
+            "tags": "corps,yoga,atha,initiation,bande,annonce,filmtags",
             "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/03/initiation-au-yoga-atha",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga+yoga/0?af=1",
             "source_url": "http://dailymotion.com/video/x2jz2ml_initiation-au-yoga-atha-yoga_shortfilms",
@@ -70,18 +70,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=BF320ZtEyZ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BF320ZtEyZ0/0.jpg"
-        },
-        "dailymotion.com/2015/01/initiation-au-yoga": {
-            "title": "Initiation au Yoga...",
-            "snippet": "Hatha Yoga avec Susan Yoga est une discipline qui procure un bien-\u00eatre de vivre et c'est par le Yoga du corps, l'Hatha Yoga qu'il faut commencer: la pratique r\u00e9guli\u00e8re du Yoga augmentera votre tonicit\u00e9 musculaire, votre force, votre souplesse,...",
-            "date": "2015-01-28",
-            "author_name": "Films-Documentaires",
-            "categories": "discipline,yoga",
-            "tags": "souplesse,force,corps,\u00eatre,\u00eatre-de-vivre,vivre,discipline,discipline-qui-procure,procure,susan,initiation,yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/01/initiation-au-yoga",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fs6ww_initiation-au-yoga_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fs6ww_initiation-au-yoga_sport"
         },
         "dailymotion.com/2014/11/la-souplesse-de-cette-prof-yoga-va-vous-faire-halluciner": {
             "title": "La souplesse de cette prof de Yoga va vous faire halluciner!",
@@ -113,7 +101,7 @@
             "date": "2014-10-04",
             "author_name": "YogaCoaching",
             "categories": "yoga",
-            "tags": "s\u00e9ance,ariane,yoga,cours,yogis",
+            "tags": "mal,mal-de-dos,dos,s\u00e9ance,ariane,yoga,cours,yogis",
             "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/10/cours-de-yoga-doux-avec-ariane-special-regles",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=G3QT46_kSjA&feature=youtube_gdata",
@@ -125,11 +113,23 @@
             "date": "2014-09-26",
             "author_name": "YogaCoaching",
             "categories": "yoga",
-            "tags": "s\u00e9ance,qualit\u00e9,cours,yoga,ariane,yogis",
+            "tags": "s\u00e9ance,techniques,qualit\u00e9,cours,yoga,ariane,yogis",
             "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/09/cours-de-yoga-du-soir-avec-ariane-s-ancrer",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=A764zDLKFMM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/A764zDLKFMM/0.jpg"
+        },
+        "youtube.com/2014/09/seance-compl%C3%A8te-yoga-soulager-le-mal-de-dos": {
+            "title": "Seance compl\u00e8te yoga: soulager le mal de dos...",
+            "snippet": "Seance compl\u00e8te yoga: soulager le mal de dos Accessible \u00e0 tous du d\u00e9butant \u00e0 confirm\u00e9, s\u00e9ance con\u00e7ue pour soulager le mal de dos comprenant 3 techniques: Padahastasana??: la posture des mains aux pieds, relche les tensions... From: Faites du...",
+            "date": "2014-09-01",
+            "author_name": "Faites du Yoga",
+            "categories": "yoga",
+            "tags": "s\u00e9ance,mal,mal-de-dos,dos,yoga,techniques",
+            "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/09/seance-compl%C3%A8te-yoga-soulager-le-mal-de-dos",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=YAAeFRQ2R7w&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/YAAeFRQ2R7w/0.jpg"
         }
     }
 }
