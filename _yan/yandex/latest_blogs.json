@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yandex",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yandex/",
@@ -72,7 +72,7 @@
             "date": "2015-02-19",
             "author_name": "fredericmazue",
             "categories": "moteur-de-recherche,google,yandex",
-            "tags": "recherche,abus,abus-de-position,position,position-dominante,dominante,contre,moteur,moteur-de-recherche,google,yandex,russe,d\u00e9tient,march\u00e9,russie",
+            "tags": "march\u00e9,recherche,abus,abus-de-position,position,position-dominante,dominante,plainte,plainte-contre,contre,moteur,moteur-de-recherche,google,yandex,russe,russie",
             "recuweb_url": "http://fr.recuweb.com/yandex/programmez.com/2015/02/yandex-porte-plainte-contre-google-programmez",
             "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://programmez.com/actualites/yandex-porte-plainte-contre-google-22178"
@@ -83,10 +83,21 @@
             "date": "2015-02-18",
             "author_name": "inconnu",
             "categories": "yandex,google",
-            "tags": "nouvelle,ligne,abus,abus-de-position,position,position-dominante,dominante,recherche,enqu\u00eate,contre,russe,yandex,google,web",
+            "tags": "ligne,abus,abus-de-position,position,position-dominante,dominante,recherche,enqu\u00eate,contre,russe,yandex,google,web",
             "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/02/android-le-portail-russe-yandex-accuse-google-d-abus-de-position",
-            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=yandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://generation-nt.com/yandex-android-google-abus-position-dominante-actualite-1912146.html"
+        },
+        "begeek.fr/2015/02/le-russe-yandex-d%C3%A9pose-une-plainte-contre-google-begeek": {
+            "title": "Le Russe Yandex d\u00e9pose une plainte contre Google - Begeek...",
+            "snippet": "Le moteur de recherche russe Yandex a saisi le service antitrust de son pays pour protester contre la position dominante de Google.",
+            "date": "2015-02-18",
+            "author_name": "Sebastien Veyrier",
+            "categories": "moteur-de-recherche,yandex,google",
+            "tags": "contre,position,position-dominante,dominante,moteur,moteur-de-recherche,recherche,plainte,plainte-contre,russe,yandex,google",
+            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/02/le-russe-yandex-d%C3%A9pose-une-plainte-contre-google-begeek",
+            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://begeek.fr/le-russe-yandex-depose-une-plainte-contre-google-161678"
         },
         "webmarketing-com.com/2015/01/yandex-market-pour-votre-e-business-en-russie": {
             "title": "Yandex Market pour votre e-business en Russie...",
@@ -94,7 +105,7 @@
             "date": "2015-01-14",
             "author_name": "Olga Ruiz",
             "categories": "yandex",
-            "tags": "yandex,russie,march\u00e9,russe",
+            "tags": "march\u00e9,yandex,russie,russe",
             "recuweb_url": "http://fr.recuweb.com/yandex/webmarketing-com.com/2015/01/yandex-market-pour-votre-e-business-en-russie",
             "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://webmarketing-com.com/2015/01/14/34741-yandex-market-pour-votre-strategie-digitale-sur-le-marche-russe"
@@ -107,19 +118,8 @@
             "categories": "ordinateur,yandex",
             "tags": "programme,yandex",
             "recuweb_url": "http://fr.recuweb.com/yandex/commentcamarche.net/2014/11/supprimer-yandex-comment-%C3%A7a-marche",
-            "resource_url": "http://www.google.com/search?q=yandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=yandex%2Byandex&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://commentcamarche.net/faq/42021-supprimer-yandex"
-        },
-        "mediasrusses.com/2014/04/linternet-russe-va-s-exporter-cas-yandex": {
-            "title": "LInternet russe va s'exporter (cas Yandex et)...",
-            "snippet": "ceci est un re-post de l'article publi\u00e9 sur Les g\u00e9ants du web russe, Yandex et, ont publi\u00e9 des r\u00e9sultats financiers confirmant leur croissance spectaculaire et leurs ambitions...",
-            "date": "2014-04-04",
-            "author_name": "smotritel",
-            "categories": "yandex",
-            "tags": "web,russe,yandex",
-            "recuweb_url": "http://fr.recuweb.com/yandex/mediasrusses.com/2014/04/linternet-russe-va-s-exporter-cas-yandex",
-            "resource_url": "http://fr.search.wordpress.com/?q=yandex%2Byandex&f=feed&page=1",
-            "source_url": "http://mediasrusses.com/2014/04/04/linternet-russe-va-sexporter/"
         }
     }
 }
