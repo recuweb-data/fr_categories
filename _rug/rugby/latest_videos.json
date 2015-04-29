@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rugby",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rugby/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/rugby-en-immersion-avec-l-asm-clermont-auvergne": {
+            "title": "Rugby: en immersion avec l'ASM Clermont Auvergne...",
+            "snippet": "Rugby: en immersion avec l'ASM Clermont Auvergne A une semaine de la finale de la Champions Cup \u00e0 Twickenham, Stade 2 est parti \u00e0 la rencontre des joueurs de l'ASM Clermont. Nous avons suivi les joueurs dans leur pr\u00e9paration pour ce... From:...",
+            "date": "2015-04-26",
+            "author_name": "Francetv Sport",
+            "categories": "rugby",
+            "tags": "clermont,finale,rugby,stade",
+            "recuweb_url": "http://fr.recuweb.com/rugby/youtube.com/2015/04/rugby-en-immersion-avec-l-asm-clermont-auvergne",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rugby&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=pQFRHm5v5is&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/pQFRHm5v5is/0.jpg"
+        },
         "dailymotion.com/2015/04/tyrese-johnson-fisher-le-nouveau-ph%C3%A9nom%C3%A8ne-du-rugby": {
             "title": "Tyrese Johnson-Fisher, le nouveau ph\u00e9nom\u00e8ne du rugby...",
             "snippet": "Tyrese Johnson-Fisher, le nouveau ph\u00e9nom\u00e8ne du rugbyAuthor: cynops-newsTags: Tyrese Johnson-Fisher rugby Tyrese Johnson-Fisher rugby Posted: 26 April 2015Rating:: 0...",
@@ -41,7 +53,7 @@
             "date": "2015-04-19",
             "author_name": "lequipe",
             "categories": "rugby",
-            "tags": "deurope,deurope_saison,saison,apr\u00e8s,victoire,suspense,finales,rugby,toulon,coupe,europe,lequipetags,demi",
+            "tags": "deurope,deurope_saison,saison,apr\u00e8s,victoire,finales,rugby,toulon,coupe,europe,lequipetags,demi",
             "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-toulon-laporte-une-v%C3%A9ritable-d%C3%A9livrance",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n7qoj_rugby-ce-toulon-laporte-une-veritable-delivrance_sport",
@@ -53,7 +65,7 @@
             "date": "2015-04-19",
             "author_name": "lequipe",
             "categories": "rugby",
-            "tags": "deurope,deurope_saison,saison,coupe,richard,richard_escot,escot,rugby,europe,journa,clermont,toulon,lequipetags",
+            "tags": "deurope,deurope_saison,saison,coupe,finale,richard,richard_escot,escot,rugby,europe,journa,clermont,toulon,lequipetags",
             "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-escot-une-finale-franco-fran%C3%A7aise-va-d%C3%A9naturer-la-coupe",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n7slc_rugby-ce-escot-une-finale-franco-francaise-va-denaturer-la-coupe-d-europe_sport",
@@ -65,7 +77,7 @@
             "date": "2015-04-18",
             "author_name": "lequipe",
             "categories": "rugby",
-            "tags": "deurope,deurope_saison,saison,finales,coupe,demi,retrouve,face,stade,rugby,clermont,comme,europe,lequipetags",
+            "tags": "deurope,deurope_saison,saison,finales,coupe,demi,retrouve,face,stade,rugby,clermont,europe,lequipetags",
             "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-ce-clermont-comme-on-se-retrouve",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n2gzc_rugby-ce-clermont-comme-on-se-retrouve_sport",
@@ -77,7 +89,7 @@
             "date": "2015-04-12",
             "author_name": "lequipe",
             "categories": "rugby",
-            "tags": "rugby,r\u00e9sultat,richard,richard_escot,escot,journa,top,lequipetags,saison,retour",
+            "tags": "rugby,richard,richard_escot,escot,journa,top,lequipetags,saison,retour",
             "recuweb_url": "http://fr.recuweb.com/rugby/dailymotion.com/2015/04/rugby-top-14-l-appel-d-offres-de-la-ffr",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mhekx_rugby-top-14-l-appel-d-offres-de-la-ffr-a-t-il-perturbe-le-top-14_sport",
@@ -118,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rugby+rugby/0?af=1",
             "source_url": "http://dailymotion.com/video/x2i9ivw_rugby-top-le-rugby-une-passion_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2i9ivw_rugby-top-le-rugby-une-passion_sport"
-        },
-        "youtube.com/2014/12/rugby-le-derby-oloron-maul%C3%A9on": {
-            "title": "Rugby, le derby Oloron - Maul\u00e9on...",
-            "snippet": "Rugby, le derby Oloron - Maul\u00e9on Comme la plupart des derbys, celui-ci a tenu ses promesses au niveau de l'engagement physique et du suspense quant au r\u00e9sultat. Pour le beau jeu, pri\u00e8re de repasser plus tard! From: Web TV Ville d'Oloron...",
-            "date": "2014-12-15",
-            "author_name": "Web TV Ville d'Oloron Sainte-Marie",
-            "categories": "rugby",
-            "tags": "suspense,r\u00e9sultat,comme,rugby",
-            "recuweb_url": "http://fr.recuweb.com/rugby/youtube.com/2014/12/rugby-le-derby-oloron-maul%C3%A9on",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rugby%2Brugby&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=xCSSbWkw8Ws&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/xCSSbWkw8Ws/0.jpg"
         }
     }
 }
