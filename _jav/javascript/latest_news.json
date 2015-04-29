@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -11,52 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
+        "theserverside.com/2015/04/how-to-invoke-a-jsf-managed-bean-asynchronously-through-techtarget": {
+            "title": "How to invoke a JSF managed bean asynchronously through... - TechTarget...",
+            "snippet": "How to invoke a JSF managed bean asynchronously through...TechTargetA friend recently posed a development problem to me that had a two prong solution, with the first prong being the invocation of a JSF backing bean through a JavaScript call. You'd...",
+            "date": "2015-04-28",
+            "categories": "javascript",
+            "tags": "javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/theserverside.com/2015/04/how-to-invoke-a-jsf-managed-bean-asynchronously-through-techtarget",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
+            "source_url": "http://theserverside.com/tutorial/How-to-invoke-a-JSF-managed-bean-asynchronously-through-JavaScript"
+        },
+        "commentcamarche.net/2015/04/r%C3%A9cup%C3%A9rer-des-informations-d-un-autre-site-en-javascript": {
+            "title": "R\u00e9cup\u00e9rer des informations d'un autre site en Javascript...",
+            "snippet": "Je souhaiterais r\u00e9cup\u00e9rer une information sur un autre site en Javascript. Par exemple, si l'autre site affiche 1, le premier site effectue une action, sinon il en effectue une autre etc. J'ai essay\u00e9 avec ce code et avec plusieurs autres trouv\u00e9s...",
+            "date": "2015-04-28",
+            "categories": "javascript",
+            "tags": "javascript,code",
+            "recuweb_url": "http://fr.recuweb.com/javascript/commentcamarche.net/2015/04/r%C3%A9cup%C3%A9rer-des-informations-d-un-autre-site-en-javascript",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31896836-recuperer-des-informations-d-un-autre-site-en-javascript"
+        },
         "commentcamarche.net/2015/04/cookies-et-javascript-sauvegarde-de-champs-entre-pages-web": {
             "title": "Cookies et JavaScript: sauvegarde de champs entre pages web...",
             "snippet": "J'ai actuellement un probl\u00e8me de programmation d\u00fb au fait que je ne m'y connais pas beaucoup en cookies... J'ai deux pages o\u00f9 l'utilisateur remplit diff\u00e9rents champs avant validation, les champs sont les m\u00eames mais le rendu est diff\u00e9rent...",
             "date": "2015-04-27",
             "categories": "javascript",
-            "tags": "pages,web,javascript,programmation",
+            "tags": "javascript,programmation",
             "recuweb_url": "http://fr.recuweb.com/javascript/commentcamarche.net/2015/04/cookies-et-javascript-sauvegarde-de-champs-entre-pages-web",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://commentcamarche.net/forum/affich-31878359-cookies-et-javascript-sauvegarde-de-champs-entre-pages-web"
-        },
-        "avoir-alire.com/2015/04/les-pingouins-de-madagascar-le-test-blu-ray": {
-            "title": "Les Pingouins de Madagascar - le test Blu-ray...",
-            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... La partie bonus ne pr\u00e9sente malheureusement que peu dint\u00e9r\u00eat puisquelle ne donne absolument aucune information sur la conception du film.",
-            "date": "2015-04-27",
-            "categories": "javascript",
-            "tags": "conception,fonctionnalit\u00e9s,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/04/les-pingouins-de-madagascar-le-test-blu-ray",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://avoir-alire.com/les-pingouins-de-madagascar-le-test-blu-ray"
-        },
-        "commentcamarche.net/2015/04/redirection-javascript-timers": {
-            "title": "Redirection javascript timers...",
-            "snippet": "J'ai un soucis avec l'une de mes redirections JS. var timePeriod=5000;//5 seconds var autoLoadTimer; var timeoutObject; function autoLoad() {autoLoadTimer=setTimeout(\"rechargement()\",timePeriod);} function rechargement() {...",
-            "date": "2015-04-27",
-            "categories": "javascript",
-            "tags": "javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/commentcamarche.net/2015/04/redirection-javascript-timers",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31891325-redirection-javascript-timers"
-        },
-        "javascript.developpez.com/2015/04/ckfinder-2-5-un-gestionnaire-de-fichiers-pour-l-%C3%A9diteur-wysiwyg": {
-            "title": "CKFinder 2.5: un gestionnaire de fichiers pour l'\u00e9diteur WYSIWYG CKEditor. Int\u00e9grez facilement...",
-            "snippet": "D\u00e9monstration. ExtJS 6 Early: testez l'unification de ExtJS et de SenchaTouch, les frameworks JavaScript de la suite Sencha CKEditor Beta: l'\u00e9diteur de texte WYSIWYG pour vos pages Web, il utilise une API JavaScript performante et offre un...",
-            "date": "2015-04-24",
-            "categories": "javascript",
-            "tags": "api,pages,facilement,javascript,web",
-            "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/ckfinder-2-5-un-gestionnaire-de-fichiers-pour-l-%C3%A9diteur-wysiwyg",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://javascript.developpez.com/actu/84334/CKFinder-2-5-un-gestionnaire-de-fichiers-pour-l-editeur-WYSIWYG-CKEditor-Integrez-facilement-des-images-dans-vos-contenus-Web/"
         },
         "emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-jquery-angular-js-h-f-cdi-st-pierre": {
             "title": "D\u00c9VELOPPEUR JAVASCRIPT/JQUERY/ANGULAR JS (H/F) - CDI - St Pierre du Perray...",
             "snippet": "Pour lun de nos clients grands comptes, nous recherchons un D\u00e9veloppeur PHP confirm\u00e9 JavaScript/jQuery/Angular JSMission/Tches: Sur un projet ambitieux et innovant, le prestataire int\u00e9grera une \u00e9quipe ayant en charge la conception et la...",
             "date": "2015-04-23",
             "categories": "php,javascript,jquery",
-            "tags": "conception,d\u00e9veloppeur,javascript",
+            "tags": "d\u00e9veloppeur,javascript",
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-jquery-angular-js-h-f-cdi-st-pierre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/450719/dveloppeur-javascript-jquery-angular-js-hf/"
@@ -66,7 +56,7 @@
             "snippet": ": am\u00e9liorations et d\u00e9pr\u00e9ciation pour la plateforme JavaScriptDeveloppez.com est une plateforme JavaScript construite sur base de. Elle est compatible avec l'\u00e9cosyst\u00e8me npm et avec le moteur V8 qui impl\u00e9mente de nombreuses fonctionnalit\u00e9s de...",
             "date": "2015-04-22",
             "categories": "javascript",
-            "tags": "fonctionnalit\u00e9s,plateforme,javascript",
+            "tags": "plateforme,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/am%C3%A9liorations-et-d%C3%A9pr%C3%A9ciation-pour-la-plateforme-javascript",
             "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
             "source_url": "http://javascript.developpez.com/actu/84153/io-js-1-8-0-ameliorations-et-depreciation-pour-la-plateforme-JavaScript/"
