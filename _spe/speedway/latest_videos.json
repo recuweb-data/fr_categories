@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "speedway",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/speedway/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/speedway/speedway/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/priv%C3%A9-car-b-manche-2-dimanche-05-avril-2015-warneton-speedway": {
+            "title": "Priv\u00e9 Car B manche 2 Dimanche 05 Avril 2015 Warneton speedway Onboard 964 Aur\u00e9lien...",
+            "snippet": "Priv\u00e9 Car B manche 2 Dimanche 05 Avril 2015 Warneton speedway Onboard 964 Aur\u00e9lien From: titanslotus Views: 39 0 ratings Time: 17:36 More in Autos & Vehicles...",
+            "date": "2015-04-08",
+            "author_name": "titanslotus",
+            "categories": "speedway",
+            "tags": "priv\u00e9,priv\u00e9_car,car,manche,avril,warneton,speedway,onboard,aur\u00e9lien,titanslotus,autos,vehicles",
+            "recuweb_url": "http://fr.recuweb.com/speedway/youtube.com/2015/04/priv%C3%A9-car-b-manche-2-dimanche-05-avril-2015-warneton-speedway",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=tnS2H9o7f9Y&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tnS2H9o7f9Y/0.jpg"
+        },
         "youtube.com/2015/04/priv%C3%A9-car-a-manche-2-lundi-06-avril-2015-warneton-speedway": {
             "title": "Priv\u00e9 Car A manche 2 Lundi 06 Avril 2015 Warneton speedway avec le 964 Aur\u00e9lien 667 Florian 578...",
-            "snippet": "Priv\u00e9 Car A manche 2 Lundi 06 Avril 2015 Warneton speedway avec le 964 Aur\u00e9lien 667 Florian 578 N\u00e9n\u00e9 From: titanslotus Views: 40 0 ratings Time: 07:43 More in Autos & Vehicles...",
+            "snippet": "Priv\u00e9 Car A manche 2 Lundi 06 Avril 2015 Warneton speedway avec le 964 Aur\u00e9lien 667 Florian 578 N\u00e9n\u00e9 From: titanslotus Views: 62 0 ratings Time: 07:43 More in Autos & Vehicles...",
             "date": "2015-04-07",
             "author_name": "titanslotus",
             "categories": "speedway",
-            "tags": "speedway,car,warneton,titanslotus,autos,vehicles",
+            "tags": "speedway,priv\u00e9,priv\u00e9_car,car,manche,avril,warneton,aur\u00e9lien,titanslotus,autos,vehicles",
             "recuweb_url": "http://fr.recuweb.com/speedway/youtube.com/2015/04/priv%C3%A9-car-a-manche-2-lundi-06-avril-2015-warneton-speedway",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway%2Bspeedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=av7RwC8v8ps&feature=youtube_gdata",
@@ -34,18 +46,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/speedway+speedway/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hsi8a_star-mazda-iowa-speedway_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hsi8a_star-mazda-iowa-speedway_videogames"
-        },
-        "youtube.com/2015/01/street-gears-speedway-ravidete": {
-            "title": "Street gears//speedway//Ravidete...",
-            "snippet": "Street gears//speedway//Ravidete lel. From: Ravidete Views: 542 8 ratings Time: 02:37 More in Gaming...",
-            "date": "2015-01-11",
-            "author_name": "Ravidete",
-            "categories": "speedway",
-            "tags": "gears,speedway",
-            "recuweb_url": "http://fr.recuweb.com/speedway/youtube.com/2015/01/street-gears-speedway-ravidete",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=nI8EERZYUNk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/nI8EERZYUNk/0.jpg"
         },
         "youtube.com/2014/11/slot-car-st-hubert-speedway": {
             "title": "Slot car St-Hubert Speedway...",
@@ -65,7 +65,7 @@
             "date": "2014-11-21",
             "author_name": "Choix-de-parents : tests de jeux, jouets, livres et avis !",
             "categories": "speedway",
-            "tags": "gears,speedway,circuit,voitures",
+            "tags": "speedway,circuit,voitures",
             "recuweb_url": "http://fr.recuweb.com/speedway/youtube.com/2014/11/test-circuit-voitures-go-gears-super-spin-speedway-3-6",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway%2Bspeedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=3vvWovC0tDQ&feature=youtube_gdata",
@@ -77,7 +77,7 @@
             "date": "2014-11-18",
             "author_name": "titanslotus",
             "categories": "speedway",
-            "tags": "team,warneton,speedway,titanslotus,autos,vehicles",
+            "tags": "team,warneton,speedway,onboard,titanslotus,autos,vehicles",
             "recuweb_url": "http://fr.recuweb.com/speedway/youtube.com/2014/11/big-bangers-heat-2-16-novembre-2014-warneton-speedway-onboard-97",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway%2Bspeedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=SMBcwHA4xuA&feature=youtube_gdata",
@@ -85,7 +85,7 @@
         },
         "youtube.com/2014/01/usa-indianapolis-speedway-exposition-des-anciennes-voitures-de-course": {
             "title": "USA Indianapolis Speedway exposition des anciennes voitures de course...",
-            "snippet": "USA Indianapolis Speedway exposition des anciennes voitures de course (merci de noter la vid\u00e9o), ABONNEZ-VOUS pour suivre l'\u00e9volution de mes vid\u00e9os sur YouTube,cordialement Claude Aven Depuis... From: Claude Aven Views: 525 0 ratings Time: 04:48...",
+            "snippet": "USA Indianapolis Speedway exposition des anciennes voitures de course (merci de noter la vid\u00e9o), ABONNEZ-VOUS pour suivre l'\u00e9volution de mes vid\u00e9os sur YouTube,cordialement Claude Aven Depuis... From: Claude Aven Views: 550 0 ratings Time: 04:48...",
             "date": "2014-01-09",
             "author_name": "Claude Aven",
             "categories": "speedway",
@@ -94,18 +94,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway%2Bspeedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=2UAMAIcMYic&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/2UAMAIcMYic/0.jpg"
-        },
-        "youtube.com/2013/10/ferrari-308-gt4-at-nogaro-speedway-2013": {
-            "title": "Ferrari 308 gt4 at Nogaro speedway 2013...",
-            "snippet": "Ferrari 308 gt4 at Nogaro speedway 2013 Nouvelle vid\u00e9o r\u00e9alis\u00e9e sur le circuit de Nogaro, certains rapports ont \u00e9t\u00e9 pouss\u00e9s jusqu'\u00e0 8500 t/mn avec une tr\u00e8s grande facilit\u00e9. New video made on the Nogaro speedway in... From: Gilles Rossocorsa...",
-            "date": "2013-10-25",
-            "author_name": "Gilles Rossocorsa",
-            "categories": "speedway",
-            "tags": "speedway,circuit",
-            "recuweb_url": "http://fr.recuweb.com/speedway/youtube.com/2013/10/ferrari-308-gt4-at-nogaro-speedway-2013",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=speedway&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=50umx4GeJJI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/50umx4GeJJI/0.jpg"
         },
         "dailymotion.com/2013/09/team-usa-cause-shockwaves-at-speedway-world-cup": {
             "title": "Team USA cause shockwaves at Speedway World Cup...",
@@ -125,11 +113,23 @@
             "date": "2013-07-08",
             "author_name": "double675",
             "categories": "speedway",
-            "tags": "car,circuit,race,speedway",
+            "tags": "car,car-nascar,car-nascar-euro,nascar,nascar-euro,euro,pat,pat_ang\u00e9li,ang\u00e9li,aires,aires-sur-circuit,circuit,ambiance,original,open,open_race,race,tours,tours_speedway,speedway,nascar_whelen,nascar_whelen_euro,whelen,whelen_euro,whelen_euro_series,euro_series,series,juillet,knauf,moteurs,double,tags,stock",
             "recuweb_url": "http://fr.recuweb.com/speedway/dailymotion.com/2013/07/nascar-whelen-euro-series-tours-speedway-6-juillet-2013-1-3",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/speedway+speedway/0?af=1",
             "source_url": "http://dailymotion.com/video/x11nvsz_nascar-whelen-euro-series-euro-nascar-tours-speedway-6-juillet-2013-1-3_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x11nvsz_nascar-whelen-euro-series-euro-nascar-tours-speedway-6-juillet-2013-1-3_sport"
+        },
+        "dailymotion.com/2013/07/nascar-whelen-euro-series-tours-speedway-6-juillet-2013-3": {
+            "title": "NASCAR WHELEN EURO SERIES (EURO-NASCAR) TOURS SPEEDWAY - 6 JUILLET 2013 (3/3)...",
+            "snippet": "NASCAR WHELEN EURO SERIES (EURO-NASCAR) TOURS SPEEDWAY - 6 JUILLET 2013 (partie-3/3) Knauf 100 - OPEN RACE, ambiance et son original, commentaires sur circuit de Pat Ang\u00e9li (AB Moteurs)Author: double675Tags: Stock-car nascar euro-nascar...",
+            "date": "2013-07-08",
+            "author_name": "double675",
+            "categories": "speedway",
+            "tags": "car,car-nascar,car-nascar-euro,nascar,nascar-euro,euro,pat,pat_ang\u00e9li,ang\u00e9li,aires,aires-sur-circuit,circuit,ambiance,original,open,open_race,race,tours,tours_speedway,speedway,nascar_whelen,nascar_whelen_euro,whelen,whelen_euro,whelen_euro_series,euro_series,series,juillet,knauf,moteurs,double,tags,stock",
+            "recuweb_url": "http://fr.recuweb.com/speedway/dailymotion.com/2013/07/nascar-whelen-euro-series-tours-speedway-6-juillet-2013-3",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/speedway/0?af=1",
+            "source_url": "http://dailymotion.com/video/x11nwax_nascar-whelen-euro-series-euro-nascar-tours-speedway-6-juillet-2013-3-3_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x11nwax_nascar-whelen-euro-series-euro-nascar-tours-speedway-6-juillet-2013-3-3_sport"
         }
     }
 }
