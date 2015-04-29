@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rock",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rock/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rock/rock/blogs.json"
     },
     "items": {
+        "lavoixdunord.fr/2015/04/avis-aux-amateurs-de-rock-samedi-la-sickle-fest-passe-voix": {
+            "title": "Avis aux amateurs de rock: samedi, la Sickle Fest passe la... - La Voix du Nord...",
+            "snippet": "La Voix du NordAvis aux amateurs de rock: samedi, la Sickle Fest passe la...La Voix du NordPour la deuxi\u00e8me \u00e9dition de la Sickle Fest, l'association Civilization Junior propose une tr\u00e8s belle affiche avec au total sept groupes qui participeront...",
+            "date": "2015-04-27",
+            "categories": "rock",
+            "tags": "rock,samedi",
+            "recuweb_url": "http://fr.recuweb.com/rock/lavoixdunord.fr/2015/04/avis-aux-amateurs-de-rock-samedi-la-sickle-fest-passe-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rock&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/avis-aux-amateurs-de-rock-samedi-la-sickle-fest-passe-la-ia13b45154n2796318"
+        },
         "france3-regions.francetvinfo.fr/2015/04/la-rock-n-beat-comme-vous-l-avez-v%C3%A9cue": {
             "title": "La Rock'N'Beat comme vous l'avez v\u00e9cue...",
             "snippet": "FRANCE 3 CENTRE-VAL DE LOIRE Vivez ou revivez la soir\u00e9e de samedi au Printemps de Bourges, telle que vous l'avez relay\u00e9e sur les r\u00e9seaux sociaux. Twitter, YouTube, Instagram... On fait le tour du Web avec vos contributions. Dans le Top 3 de vos...",
@@ -28,7 +38,7 @@
             "categories": "divertissement,rock",
             "tags": "roll,rock",
             "recuweb_url": "http://fr.recuweb.com/rock/toutelatele.com/2015/04/rock-n-roll-circus-le-nouveau-divertissement-d-arthur-bient%C3%B4t",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rock%2Brock&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rock&output=atom&nord=1",
             "source_url": "http://toutelatele.com/rock-n-roll-circus-le-nouveau-divertissement-d-arthur-bientot-sur-tf1-71195"
         },
         "virginradio.fr/2015/04/green-day-au-rock-n-roll-hall-of-fame-retour": {
@@ -99,16 +109,6 @@
             "recuweb_url": "http://fr.recuweb.com/rock/fr.news.yahoo.com/2015/04/le-rock-psych%C3%A9-de-moon-duo",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=rock",
             "source_url": "http://fr.news.yahoo.com/moon-duo-cest-groupe-110815205.html"
-        },
-        "fr.news.yahoo.com/2015/04/kasabian-franz-ferdinand-hot-chip-13-nouveaux-noms-pour-rock": {
-            "title": "Kasabian, Franz Ferdinand, Hot Chip... 13 nouveaux noms pour Rock en Seine...",
-            "snippet": "Le festival de Saint-Cloud \u00e9toffe la programmation de sa prochaine \u00e9dition, du 28 au 30 ao\u00fbt. De nouvelles t\u00eates d'affiche d\u00e9voil\u00e9es promettent un rendez-vous des plus rock, avec des groupes incontournables au programme.",
-            "date": "2015-04-08",
-            "categories": "rock",
-            "tags": "nouveaux,rock",
-            "recuweb_url": "http://fr.recuweb.com/rock/fr.news.yahoo.com/2015/04/kasabian-franz-ferdinand-hot-chip-13-nouveaux-noms-pour-rock",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=rock",
-            "source_url": "http://fr.news.yahoo.com/kasabian-franz-ferdinand-hot-chip-13-nouveaux-noms-150835646.html"
         }
     }
 }
