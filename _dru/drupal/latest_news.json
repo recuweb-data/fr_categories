@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -48,7 +48,7 @@
             "categories": "management,drupal",
             "tags": "are,which,content,content-management,management,content-management-system,management-system,system,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/publictechnology.net/2015/04/councils-in-move-for-joint-drupal-content-management-system",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://publictechnology.net/articles/news/councils-move-joint-drupal-content-management-system"
         },
         "directioninformatique.com/2015/04/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout": {
@@ -61,16 +61,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://directioninformatique.com/blogue/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout/35320"
         },
-        "computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia": {
-            "title": "govCMS to release its own Drupal distribution - Computerworld Australia...",
-            "snippet": "Computerworld AustraliagovCMS to release its own Drupal distributionComputerworld AustraliaThe government's govCMS project will make its own Drupal distribution publicly available for download, it announced today. The distribution will be a fork of...",
-            "date": "2015-04-16",
-            "categories": "drupal",
-            "tags": "announced,announced-today,release,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://computerworld.com.au/article/572793/govcms-release-its-own-drupal-distribution/"
-        },
         "pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine": {
             "title": "WordPress Vs Drupal Vs Joomla - PC Tech Magazine...",
             "snippet": "PC Tech MagazineWordPress Vs Drupal Vs JoomlaPC Tech MagazineIn case you have decided to create a website and you are wondering which content management system (CMS) is the best choice for you. This post is going to look at three of the most...",
@@ -78,7 +68,7 @@
             "categories": "management,drupal,wordpress,joomla",
             "tags": "are,which,content,content-management,content-management-system,management,management-system,system,drupal,joomla,cms",
             "recuweb_url": "http://fr.recuweb.com/joomla/pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://pctechmag.com/2015/04/wordpress-vs-joomla-vs-drupal/"
         },
         "linux.com/2015/04/git-success-stories-and-tips-from-drupal-core-committer-angie-byron": {
@@ -88,28 +78,28 @@
             "categories": "drupal",
             "tags": "open,open-source,source,content,system,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/linux.com/2015/04/git-success-stories-and-tips-from-drupal-core-committer-angie-byron",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://linux.com/news/featured-blogs/200-libby-clark/822227-git-success-stories-and-tips-from-drupal-core-committer-angie-byron"
+        },
+        "globalsecuritymag.fr/2015/04/vigilnce-drupal-webform-multiple-file-upload-cross-site-global-security-mag": {
+            "title": "Vigilnce - Drupal Webform Multiple File Upload: Cross Site... - Global Security Mag...",
+            "snippet": "Vigilnce - Drupal Webform Multiple File Upload: Cross Site...Global Security MagLe module Webform Multiple File Upload peut \u00eatre install\u00e9 sur Drupal. Cependant, l'origine des requ\u00eates n'est pas valid\u00e9e. Elles peuvent par exemple provenir d'une...",
+            "date": "2015-04-09",
+            "categories": "drupal",
+            "tags": "site,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/globalsecuritymag.fr/2015/04/vigilnce-drupal-webform-multiple-file-upload-cross-site-global-security-mag",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Drupal-Webform-Multiple,20150410,52192.html"
         },
         "prnewswire.com/2015/04/drupal-connect-launches-campaign-to-fight-anti-lgbtq-measures-pr-newswire": {
             "title": "Drupal Connect Launches Campaign To Fight Anti-LGBTQ Measures - PR Newswire (press release)...",
             "snippet": "PR Newswire (press release)Drupal Connect Launches Campaign To Fight Anti-LGBTQ MeasuresPR Newswire (press release)NEWPORT, R.I., April 3, 2015/PRNewswire/-- Drupal Connect announced today that it is spearheading a massive nationwide fundraising...",
             "date": "2015-04-03",
             "categories": "drupal",
-            "tags": "announced,announced-today,drupal,release",
+            "tags": "drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/prnewswire.com/2015/04/drupal-connect-launches-campaign-to-fight-anti-lgbtq-measures-pr-newswire",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
             "source_url": "http://prnewswire.com/news-releases/drupal-connect-launches-campaign-to-fight-anti-lgbtq-measures-300060920.html"
-        },
-        "computerweekly.com/2015/03/openscholar-a-drupal-based-content-management-system-for-blog": {
-            "title": "OpenScholar: a Drupal-based content management system for... - (blog)...",
-            "snippet": "(blog)OpenScholar: a Drupal-based content management system for... (blog)OpenScholar is a Drupal-based content management system designed specifically for academic use, created by Harvard University and released under an open source license. So...",
-            "date": "2015-03-31",
-            "categories": "management,drupal",
-            "tags": "open,open-source,source,content,content-management,content-management-system,management,management-system,system,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/computerweekly.com/2015/03/openscholar-a-drupal-based-content-management-system-for-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
-            "source_url": "http://computerweekly.com/blogs/open-source-insider/2015/03/openscholar-a-drupal-based-content-management-system.html"
         }
     }
 }
