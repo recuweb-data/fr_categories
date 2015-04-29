@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "internet",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -11,55 +11,95 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "bigbrowser.blog.lemonde.fr/2015/04/apr%C3%A8s-le-s%C3%A9isme-au-n%C3%A9pal-les-recherches-s-organisent-sur-internet": {
-            "title": "Apr\u00e8s le s\u00e9isme au N\u00e9pal, les recherches s'organisent sur Internet - Le Monde...",
-            "snippet": "Apr\u00e8s le s\u00e9isme au N\u00e9pal, les recherches s'organisent sur InternetLe MondeApr\u00e8s le choc, l'incertitude et l'inqui\u00e9tude. Deux jours apr\u00e8s le violent s\u00e9isme qui a touch\u00e9 le N\u00e9pal, samedi 25 avril, les familles des personnes port\u00e9es disparues...",
-            "date": "2015-04-27",
+        "msn.com/2015/04/combien-de-feuilles-papier-pour-imprimer-tout-internet": {
+            "title": "Combien de feuilles de papier pour imprimer tout Internet?",
+            "snippet": "Il y a les questions existentielles auxquelles certains \u00e9minents sp\u00e9cialistes peuvent vouer leur vie et il y a ces questions totalement insolites qui ont au moins le m\u00e9rite d\u00eatre pos\u00e9es. Et la r\u00e9ponse est souvent assez impressionnante.",
+            "date": "2015-04-28",
             "categories": "internet",
-            "tags": "familles,personnes,s\u00e9isme,recherches,n\u00e9pal,internet,deux,avril",
-            "recuweb_url": "http://fr.recuweb.com/internet/bigbrowser.blog.lemonde.fr/2015/04/apr%C3%A8s-le-s%C3%A9isme-au-n%C3%A9pal-les-recherches-s-organisent-sur-internet",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
-            "source_url": "http://bigbrowser.blog.lemonde.fr/2015/04/27/apres-le-seisme-au-nepal-les-recherches-sorganisent-sur-internet/"
-        },
-        "journaldunet.com/2015/04/envie-d-un-nouveau-job-cr%C3%A9ez-votre-propre-site-internet": {
-            "title": "Envie d'un nouveau job? Cr\u00e9ez votre propre site Internet...",
-            "snippet": "D\u00e9couvrez les conseils de Nick Macario, PDG d'une soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans l'image de marque. Si vous \u00eates en qu\u00eate d'un nouvel emploi cette ann\u00e9e, votre arme secr\u00e8te pourrait bien \u00eatre votre site web perso. C'est l'une des meilleures...",
-            "date": "2015-04-27",
-            "categories": "emploi,internet",
-            "tags": "site,web,emploi,ann\u00e9e,image,nouveau,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/journaldunet.com/2015/04/envie-d-un-nouveau-job-cr%C3%A9ez-votre-propre-site-internet",
+            "tags": "peuvent,moins,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/msn.com/2015/04/combien-de-feuilles-papier-pour-imprimer-tout-internet",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://journaldunet.com/management/emploi-cadres/1149249-chercheur-d-emploi-site-internet/"
+            "source_url": "http://msn.com/fr-fr/actualite/technologie-et-sciences/combien-de-feuilles-de-papier-pour-imprimer-tout-internet/ar-BBiMHmL"
+        },
+        "linfo.re/2015/04/comment-prot%C3%A9ger-vos-enfants-sur-internet": {
+            "title": "Comment prot\u00e9ger vos enfants sur internet...",
+            "snippet": "Dapr\u00e8s le Pew Research Center, 81% des parents dadolescents qui surfent sur internet se disent inquiets par la masse de donn\u00e9es que les publicitaires peuvent obtenir du comportement en ligne de leurs enfants. Les sites internet gardent toujours...",
+            "date": "2015-04-28",
+            "categories": "internet",
+            "tags": "peuvent,internet,sites",
+            "recuweb_url": "http://fr.recuweb.com/internet/linfo.re/2015/04/comment-prot%C3%A9ger-vos-enfants-sur-internet",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://linfo.re/magazine/high-tech/668089-comment-proteger-vos-enfants-sur-internet"
+        },
+        "estrepublicain.fr/2015/04/justice-besan%C3%A7on-du-coup-de-coeur-sur-internet-aux-coups": {
+            "title": "JUSTICE Besan\u00e7on: du coup de coeur sur internet aux coups - Est R\u00e9publicain...",
+            "snippet": "JUSTICE Besan\u00e7on: du coup de coeur sur internet aux coupsEst R\u00e9publicainEn pianotant sur le site de rencontres par internet Mektoube, cette jeune bisontine esp\u00e9rait trouver un joli c\u0153ur. Mais au lieu de la baraka, c'est la scoumoune qui a \u00e9t\u00e9...",
+            "date": "2015-04-28",
+            "categories": "internet",
+            "tags": "\u00e9t\u00e9,site,justice,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/estrepublicain.fr/2015/04/justice-besan%C3%A7on-du-coup-de-coeur-sur-internet-aux-coups",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
+            "source_url": "http://estrepublicain.fr/edition-de-besancon/2015/04/27/besancon-du-coup-de-coeur-sur-internet-aux-coups"
+        },
+        "focusur.fr/2015/04/le-top-10-internet-ma-tuer-qui-explore-les-bas-fonds": {
+            "title": "Le top 10 Internet ma tuer qui explore les bas-fonds du net...",
+            "snippet": "Chaque semaine l\u00e9quipe du site barr\u00e9 Internet ma tuer explore les bas-fonds du web et nous a fait parvenir son top 10 de la semaine. Attention les yeux. Encore une fois, ils ont fait tr\u00e8s fort cette semaine avec des images toutes plus bizarres...",
+            "date": "2015-04-28",
+            "categories": "internet",
+            "tags": "semaine,images,top,site,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/focusur.fr/2015/04/le-top-10-internet-ma-tuer-qui-explore-les-bas-fonds",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://focusur.fr/buzz/2015/04/28/le-top-10-internet-ma-tuer-qui-explore-les-bas-fonds-du-net"
+        },
+        "lavoixdunord.fr/2015/04/n%C3%A9pal-quand-internet-d%C3%A9fie-le-chaos": {
+            "title": "N\u00e9pal: quand Internet d\u00e9fie le chaos...",
+            "snippet": "Google, Facebook Les g\u00e9ants de lInternet, mais aussi les utilisateurs lambda, ont bien compris la mine dor que repr\u00e9sente la toile dans des situations de chaos comme celle que conna\u00eet le N\u00e9pal apr\u00e8s le s\u00e9isme de samedi. Google a ainsi...",
+            "date": "2015-04-28",
+            "categories": "internet,google,facebook",
+            "tags": "utilisateurs,internet,google,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/lavoixdunord.fr/2015/04/n%C3%A9pal-quand-internet-d%C3%A9fie-le-chaos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/france-monde/nepal-quand-internet-defie-le-chaos-ia0b0n2798783"
+        },
+        "paris.fr/2015/04/un-nouveau-site-internet-pour-le-m%C3%A9diateur-de-la-ville": {
+            "title": "Un nouveau site internet pour le M\u00e9diateur de la Ville...",
+            "snippet": "Les services du M\u00e9diateur de la Ville de Paris viennent de lancer un nouveau site internet internet d\u00e9di\u00e9:. Cet espace interactif permet aux Parisiens de s'informer sur leurs droits et propose notamment un formulaire de...",
+            "date": "2015-04-28",
+            "categories": "internet",
+            "tags": "internet,site",
+            "recuweb_url": "http://fr.recuweb.com/internet/paris.fr/2015/04/un-nouveau-site-internet-pour-le-m%C3%A9diateur-de-la-ville",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
+            "source_url": "http://paris.fr/accueil/actualites-municipales/un-nouveau-site-internet-pour-le-mediateur-de-la-ville/rub_9656_actu_155429_port_23785"
+        },
+        "la1ere.fr/2015/04/un-site-internet-pour-r%C3%A9pertorier-toutes-les-comm%C3%A9morations-du-mois": {
+            "title": "Un site internet pour r\u00e9pertorier toutes les comm\u00e9morations du mois des m\u00e9moires de lesclavage...",
+            "snippet": "Un site internet pour r\u00e9pertorier toutes les comm\u00e9morations du mois des m\u00e9moires de lesclavage...",
+            "date": "2015-04-28",
+            "categories": "internet",
+            "tags": "site,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/la1ere.fr/2015/04/un-site-internet-pour-r%C3%A9pertorier-toutes-les-comm%C3%A9morations-du-mois",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://la1ere.fr/2015/04/28/un-site-internet-pour-repertorier-toutes-les-commemorations-du-mois-des-memoires-de-l-esclavage-251621.html"
+        },
+        "zdnet.fr/2015/04/facebook-n-emballe-pas-tout-le-monde-zdnet-france": {
+            "title": "- Facebook n'emballe pas tout le monde - ZDNet France...",
+            "snippet": "- Facebook n'emballe pas tout le mondeZDNet FranceR\u00e9seaux: L'Internet pour tous port\u00e9 par Facebook, lui-m\u00eame b\u00e9n\u00e9ficiaire du programme, fait grincer des dents en Inde. C'est d\u00e9sormais aussi le cas au Br\u00e9sil o\u00f9 l'accord conclu avec le...",
+            "date": "2015-04-27",
+            "categories": "facebook,internet",
+            "tags": "o\u00f9,france,monde,facebook,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/zdnet.fr/2015/04/facebook-n-emballe-pas-tout-le-monde-zdnet-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
+            "source_url": "http://zdnet.fr/actualites/internetorg-facebook-n-emballe-pas-tout-le-monde-39818540.htm"
         },
         "madmoizelle.com/2015/04/les-trouvailles-d-internet-pour-bien-commencer-la-semaine-219": {
             "title": "Les trouvailles d'Internet pour bien commencer la semaine 219 -...",
             "snippet": "trouvailles d'Internet pour bien commencer la semaine qu'un Internet devient un terrain de mauvais selfies et d'indignations bon march\u00e9 en ce moment. 270415-5. Moi en soir\u00e9e: Je dois y aller. D\u00e9sol\u00e9e, Internet me manque trop. Depuis deux...",
             "date": "2015-04-27",
             "categories": "internet",
-            "tags": "internet,deux",
+            "tags": "semaine,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/madmoizelle.com/2015/04/les-trouvailles-d-internet-pour-bien-commencer-la-semaine-219",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
             "source_url": "http://madmoizelle.com/trouvailles-internet-219-354313"
-        },
-        "franceinfo.fr/2015/04/s%C3%A9isme-au-n%C3%A9pal-des-recherches-aussi-sur-internet": {
-            "title": "S\u00e9isme au N\u00e9pal: des recherches aussi sur Internet...",
-            "snippet": "Pour s'informer et retrouver leurs proches, les n\u00e9palais et les \u00e9trangers lisent les journaux mais aussi beaucoup Internet MaxPPP Google et Facebook ont lanc\u00e9 des plate-forme d\u00e9di\u00e9es pour permettre aux familles de retrouver leurs proches...",
-            "date": "2015-04-27",
-            "categories": "google,internet,facebook",
-            "tags": "familles,google,aussi,recherches,s\u00e9isme,n\u00e9pal,internet,facebook",
-            "recuweb_url": "http://fr.recuweb.com/facebook/franceinfo.fr/2015/04/s%C3%A9isme-au-n%C3%A9pal-des-recherches-aussi-sur-internet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://franceinfo.fr/actu/monde/article/seisme-au-nepal-des-recherches-aussi-sur-internet-672861"
-        },
-        "nextafrique.com/2015/04/un-nouveau-rapport-de-tendance-sur-l-internet-des-objets-ido": {
-            "title": "Un nouveau rapport de tendance sur l'Internet des Objets (IdO) r\u00e9v\u00e8le un \u00e9norme potentiel...",
-            "snippet": "LInternet des Objets g\u00e9n\u00e9rera 1,9 mille milliards USD pour dynamiser la cha\u00eene dapprovisionnement et les op\u00e9rations logistiques selon un nouveau rapport de tendance sur lInternet des Objets (IdO) publi\u00e9 par DHL et Cisco. LInternet des...",
-            "date": "2015-04-27",
-            "categories": "internet",
-            "tags": "nouveau,rapport,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/nextafrique.com/2015/04/un-nouveau-rapport-de-tendance-sur-l-internet-des-objets-ido",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://nextafrique.com/sciencestech/business-intelligence/5571-l-internet-des-objets-g-eacute-n-eacute-rera-1-9-mille-milliards-usd-pour-dynamiser-la-cha-icirc-ne-d-approvisionnement-et-les-op-eacute-rations-logistiques"
         },
         "agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook": {
             "title": "Internet - Internet - Le Paysan Tarnais franchit de nouveaux caps sur Facebook et Twitter!",
@@ -70,46 +110,6 @@
             "recuweb_url": "http://fr.recuweb.com/twitter/agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
             "source_url": "http://agriculteur-normand.com/actualites/internet-internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook-et-twitter:8M39O8ZA.html"
-        },
-        "syfantasy.fr/2015/04/%C3%A9dito-42-star-wars-va-t-il-gagner-contre-internet": {
-            "title": "\u00c9dito 42: Star Wars va-t-il gagner contre internet?",
-            "snippet": "Internet a tout chang\u00e9. Une phrase bien commune qui s'applique \u00e9galement au septi\u00e8me art. Surtout quand celui-ci est orient\u00e9 vers le divertissement. L'information fait du 0.5 au dessus de la vitesse de la lumi\u00e8re, et les cin\u00e9philes avides du...",
-            "date": "2015-04-20",
-            "categories": "divertissement,internet",
-            "tags": "art,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/syfantasy.fr/2015/04/%C3%A9dito-42-star-wars-va-t-il-gagner-contre-internet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://syfantasy.fr/20457-dito_42__Star_Wars_vatil_gagner_contre_internet"
-        },
-        "fr.news.yahoo.com/2015/04/les-m%C3%A8mes-ce-pan-de-la-culture-web-menac%C3%A9s-en-russie": {
-            "title": "Les m\u00e8mes, ce pan de la culture Web, menac\u00e9s en Russie...",
-            "snippet": "Le m\u00e8me, cet art du d\u00e9tournement humoristique sur Internet, est dans le collimateur de l'autorit\u00e9 de r\u00e9gulation des m\u00e9dias.",
-            "date": "2015-04-13",
-            "categories": "culture,internet",
-            "tags": "art,web,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/04/les-m%C3%A8mes-ce-pan-de-la-culture-web-menac%C3%A9s-en-russie",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=internet",
-            "source_url": "http://fr.news.yahoo.com/m\u00e8mes-pan-culture-web-menac\u00e9s-russie-155118638.html"
-        },
-        "fr.news.yahoo.com/2015/04/une-demande-de-logement-hlm-peut-d%C3%A9sormais-se-faire-sur-internet": {
-            "title": "Une demande de logement HLM peut d\u00e9sormais se faire sur internet...",
-            "snippet": "Toute demande de logement social peut d\u00e9sormais se faire sur internet, comme pr\u00e9vu par la loi Alur (pour l'acc\u00e8s au logement et un urbanisme r\u00e9nov\u00e9) du 24 mars 2014, a annonc\u00e9 lundi le minist\u00e8re du Logement.",
-            "date": "2015-04-13",
-            "categories": "internet",
-            "tags": "comme,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/04/une-demande-de-logement-hlm-peut-d%C3%A9sormais-se-faire-sur-internet",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=internet",
-            "source_url": "http://fr.news.yahoo.com/demande-logement-hlm-peut-d\u00e9sormais-faire-internet-100031897--finance.html"
-        },
-        "fr.news.yahoo.com/2015/04/game-of-thrones-trois-applications-pour-%C3%A9viter-de-vous-faire-spoiler": {
-            "title": "Game of Thrones: Trois applications pour \u00e9viter de vous faire spoiler sur Internet...",
-            "snippet": "WEB - Les quatre premiers \u00e9pisodes de la s\u00e9rie ont fuit\u00e9 sur Internet dimanche. Vous avez peur de tomber sur des informations cruciales en ligne? Pas de panique...",
-            "date": "2015-04-13",
-            "categories": "internet",
-            "tags": "\u00e9pisodes,internet,web",
-            "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/04/game-of-thrones-trois-applications-pour-%C3%A9viter-de-vous-faire-spoiler",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=internet",
-            "source_url": "http://fr.news.yahoo.com/game-of-thrones-trois-applications-\u00e9viter-faire-spoiler-095426315.html"
         }
     }
 }
