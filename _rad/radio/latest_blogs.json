@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radio",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radio/",
@@ -11,13 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
+        "radiookapi.net/2015/04/le-phare-rdc-rwanda-l-onu-inqui%C3%A8te-les-congolais-radio": {
+            "title": "Le Phare: RDC Rwanda, l'ONU inqui\u00e8te les Congolais Radio...",
+            "snippet": "La presse kinoise aborde plusieurs sujets dans sa livraison de lundi 27 avril, dont l'incursion rwandaise, la grogne au sein de l'Opposition r\u00e9publicaine (OR), la plate formation politique de Kengo wa Dondo et le processus...",
+            "date": "2015-04-27",
+            "author_name": "Radio Okapi (Radio Okapi)",
+            "categories": "politique,radio",
+            "tags": "politique,presse,radio,inqui\u00e8te,rdc,lundi,avril,opposition",
+            "recuweb_url": "http://fr.recuweb.com/radio/radiookapi.net/2015/04/le-phare-rdc-rwanda-l-onu-inqui%C3%A8te-les-congolais-radio",
+            "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://radiookapi.net/revue-de-presse/2015/04/27/le-phare-rdc-rwanda-lonu-inquiete-les-congolais/"
+        },
+        "radiookapi.net/2015/04/rdc-l-opposition-s-inqui%C3%A8te-de-indisponibilit%C3%A9-malumalu-radio": {
+            "title": "RDC: l'opposition s'inqui\u00e8te de l'indisponibilit\u00e9 de Malumalu Radio...",
+            "snippet": "L'opposition politique se dit inqui\u00e8te de l'indisponibilit\u00e9 du pr\u00e9sident de la Commission \u00e9lectoral ind\u00e9pendante (Ceni), abb\u00e9 Apollinaire Malumalu. Une d\u00e9l\u00e9gation des pr\u00e9sidents de partis politiques et des groupes...",
+            "date": "2015-04-27",
+            "author_name": "Radio Okapi (Radio Okapi)",
+            "categories": "politique,radio",
+            "tags": "pr\u00e9sident,politique,opposition,inqui\u00e8te,radio,rdc",
+            "recuweb_url": "http://fr.recuweb.com/radio/radiookapi.net/2015/04/rdc-l-opposition-s-inqui%C3%A8te-de-indisponibilit%C3%A9-malumalu-radio",
+            "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://radiookapi.net/actualite/2015/04/27/rdc-lopposition-sinquiete-de-lindisponibilite-de-malumalu/"
+        },
         "blogues.lapresse.ca/2015/04/simon-durivage-quitte-radio-canadarichard-therrien": {
             "title": "Simon Durivage quitte Radio-CanadaRichard Therrien...",
             "snippet": "Grosse nouvelle dans le monde de l'information: Simon Durivage a annonc\u00e9 ce midi qu'il animerait sa derni\u00e8re \u00e9mission du Club des ex le 19 juin prochain, et qu'il quitte par la m\u00eame occasion RDI et Radio-Canada.",
             "date": "2015-04-27",
             "author_name": "rtherrien",
             "categories": "radio",
-            "tags": "\u00e9mission,radio,nouvelle,club,canada",
+            "tags": "\u00e9mission,monde,radio,club,canada",
             "recuweb_url": "http://fr.recuweb.com/radio/blogues.lapresse.ca/2015/04/simon-durivage-quitte-radio-canadarichard-therrien",
             "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blogues.lapresse.ca/therrien/2015/04/27/simon-durivage-quitte-radio-canada/"
@@ -28,7 +50,7 @@
             "date": "2015-04-26",
             "author_name": "Radio Okapi (Radio Okapi)",
             "categories": "radio",
-            "tags": "match,interrompu,radio,club,contre",
+            "tags": "radio,club,contre",
             "recuweb_url": "http://fr.recuweb.com/radio/radiookapi.net/2015/04/division-i-vclub-a-battu-dcmp-3-2-radio-okapi",
             "resource_url": "http://www.google.com/search?q=radio&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://radiookapi.net/sport/2015/04/26/division-vclub-battu-dcmp-3-2/"
@@ -39,7 +61,7 @@
             "date": "2015-04-22",
             "author_name": "dansav",
             "categories": "radio",
-            "tags": "radio,radio_france,france,cest,propose",
+            "tags": "radio,radio_france,france,cest",
             "recuweb_url": "http://fr.recuweb.com/radio/animationsavarymusic.com/2015/04/animation-de-votre-loto-200-prestataire-services",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=radio%2Bradio&rss=1&lng=fr",
             "source_url": "http://animationsavarymusic.com/?p=4160"
@@ -50,7 +72,7 @@
             "date": "2015-04-02",
             "author_name": "miss lilou",
             "categories": "radio",
-            "tags": "france,radio,radio_france",
+            "tags": "france,presse,radio,radio_france",
             "recuweb_url": "http://fr.recuweb.com/radio/acturatons.blogspot.com/2015/04/radio-france-en-gr%C3%A8ve-la-programmation-musicale-douce",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=radio%2Bradio&rss=1&lng=fr",
             "source_url": "http://acturatons.blogspot.com/2015/04/radio-france-en-greve-la-programmation.html"
