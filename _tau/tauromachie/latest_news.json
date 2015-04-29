@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tauromachie",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tauromachie/",
@@ -11,24 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tauromachie/tauromachie/blogs.json"
     },
     "items": {
-        "lefigaro.fr/2015/04/christophe-lambert-le-matador-du-grand-%C3%A9cran": {
-            "title": "Christophe Lambert, le matador du grand \u00e9cran...",
-            "snippet": "Ou sa carri\u00e8re express de petit g\u00e9nie pr\u00e9coce de la publicit\u00e9? Est-ce l'influence de sa femme, la torera Marie Sara, et son amour de la tauromachie qui, assure-t-il, lui a donn\u00e9 une ligne de conduite dans la vie? En tout cas, il y a chez...",
-            "date": "2015-04-24",
-            "categories": "tauromachie",
-            "tags": "vie,petit,tauromachie",
-            "recuweb_url": "http://fr.recuweb.com/tauromachie/lefigaro.fr/2015/04/christophe-lambert-le-matador-du-grand-%C3%A9cran",
+        "artactu.com/2015/04/ann%C3%A9e-andr%C3%A9-lemaitre-en-normandie": {
+            "title": "Ann\u00e9e Andr\u00e9 Lemaitre en Normandie...",
+            "snippet": "tauromachie, gouaches et aquarelles. Pour Fleur Pellerin, Ministre de la Culture et de la Communication la forte personnalit\u00e9 dAndr\u00e9 Lemaitre, sa sinc\u00e9rit\u00e9, son g\u00e9nie instinctif, son inspiration profonde le placent au Panth\u00e9on des grands...",
+            "date": "2015-04-29",
+            "categories": "tauromachie,culture",
+            "tags": "grands,tauromachie",
+            "recuweb_url": "http://fr.recuweb.com/culture/artactu.com/2015/04/ann%C3%A9e-andr%C3%A9-lemaitre-en-normandie",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tauromachie&format=RSS&cc=fr",
-            "source_url": "http://lefigaro.fr/cinema/2015/04/23/03002-20150423ARTFIG00277-christophe-lambert-le-matador-du-grand-ecran.php"
+            "source_url": "http://artactu.com/annee-andre-lemaitre-en-normandie-article004595.html"
         },
-        "midilibre.fr/2015/04/une-vie-de-maletilla-pour-les-apprentis-toreros-n%C3%AEmois-midi-libre": {
-            "title": "Une vie de maletilla pour les apprentis toreros n\u00eemois - Midi Libre...",
-            "snippet": "Midi LibreUne vie de maletilla pour les apprentis toreros n\u00eemoisMidi LibreLes apprentis du Centre fran\u00e7ais de la tauromachie (CFT) de N\u00eemes reviennent d'un voyage surprenant et formateur, au cours duquel ils ont un peu v\u00e9cu la vie tr\u00e9pidante...",
-            "date": "2015-04-24",
+        "midilibre.fr/2015/04/une-vie-de-maletilla-pour-les-apprentis-toreros-n%C3%AEmois": {
+            "title": "Une vie de maletilla pour les apprentis toreros n\u00eemois...",
+            "snippet": "Les adolescents ont eu l'occasion de rencontrer de nombreuses personnalit\u00e9s. P endant une semaine, les jeunes du Centre fran\u00e7ais de la tauromachie ont travers\u00e9 l'Espagne pour aller d'\u00e9levage en \u00e9levage. Et rencontrer le maestro, S\u00e9bastien...",
+            "date": "2015-04-23",
             "categories": "toreros,torero,tauromachie",
-            "tags": "vie,fran\u00e7ais,midi,midi_libre,libre,centre,tauromachie",
-            "recuweb_url": "http://fr.recuweb.com/tauromachie/midilibre.fr/2015/04/une-vie-de-maletilla-pour-les-apprentis-toreros-n%C3%AEmois-midi-libre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tauromachie%2Btauromachie&output=atom&nord=1",
+            "tags": "maestro,semaine,tauromachie",
+            "recuweb_url": "http://fr.recuweb.com/tauromachie/midilibre.fr/2015/04/une-vie-de-maletilla-pour-les-apprentis-toreros-n%C3%AEmois",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromachie&format=RSS&cc=fr",
             "source_url": "http://midilibre.fr/2015/04/23/classe-pratique,1153581.php"
         },
         "midilibre.fr/2015/04/tauromachie-le-sud-ouest-boude-castella-et-bautista-midi-libre": {
@@ -36,20 +36,40 @@
             "snippet": "Midi LibreTauromachie: le Sud-Ouest boude Castella et BautistaMidi LibreTauromachie: le Sud-Ouest boude Castella et Bautista L'Arl\u00e9sien Juan Bautista est l'un des grands absents des rendez-vous taurins du Sud-Ouest. Archives. Twitter. L es deux...",
             "date": "2015-04-20",
             "categories": "tauromachie,twitter",
-            "tags": "midi,midi_libre,libre,tauromachie",
+            "tags": "deux,taurins,grands,rendez,tauromachie",
             "recuweb_url": "http://fr.recuweb.com/twitter/midilibre.fr/2015/04/tauromachie-le-sud-ouest-boude-castella-et-bautista-midi-libre",
             "resource_url": "http://news.google.fr/?hl=fr&q=tauromachie%2Btauromachie&output=atom&nord=1",
             "source_url": "http://midilibre.fr/2015/04/19/le-sud-ouest-boude-castella-et-bautista,1152027.php"
+        },
+        "laprovence.com/2015/04/arles-tf1-s-invite-au-resto-el-paseo": {
+            "title": "Arles: TF1 s'invite au resto El Paseo...",
+            "snippet": "souillard Pendant plus de deux d\u00e9cennies, Alain Leal a pens\u00e9 toros et ar\u00e8nes. Normal pour un banderillero issu d'une famille arl\u00e9sienne qui est dans la tauromachie depuis six g\u00e9n\u00e9rations. Aujourd'hui, Alain pense plut\u00f4t tapas, daube de seiche...",
+            "date": "2015-04-19",
+            "categories": "tauromachie",
+            "tags": "arl\u00e9sienne,ar\u00e8nes,deux,arles,tauromachie",
+            "recuweb_url": "http://fr.recuweb.com/tauromachie/laprovence.com/2015/04/arles-tf1-s-invite-au-resto-el-paseo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromachie&format=RSS&cc=fr",
+            "source_url": "http://laprovence.com/article/tele/3367944/arles-tf1-sinvite-au-resto-el-paseo.html"
         },
         "ladepeche.fr/2015/04/tauromachie-lamelas-en-triomphe": {
             "title": "Tauromachie: Lamelas en triomphe -...",
             "snippet": ": Lamelas en soleil enfin, un excellent novillo du Camino de Santiago (Jean-Louis Darr\u00e9) qui m\u00e9ritait la vuelta, la journ\u00e9e taurine d'Aignan commen\u00e7ait sous les meilleurs auspices. La corrida n'a peut-\u00eatre pas tenu tous les espoirs que l'on...",
             "date": "2015-04-06",
             "categories": "tauromachie",
-            "tags": "tauromachie,corrida",
+            "tags": "taurine,tauromachie,corrida",
             "recuweb_url": "http://fr.recuweb.com/tauromachie/ladepeche.fr/2015/04/tauromachie-lamelas-en-triomphe",
             "resource_url": "http://news.google.fr/?hl=fr&q=tauromachie%2Btauromachie&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/06/2081627-tauromachie-lamelas-en-triomphe.html"
+        },
+        "larep.fr/2015/04/tauromachie-manzanar%C3%A8s-padre-lombre-du-torero-de-soie-sur-la-feria": {
+            "title": "Tauromachie: Manzanar\u00e8s padre: lombre du torero de soie sur la feria dArles...",
+            "snippet": "La feria pascale d'Arles lance vendredi 3 avril la saison taurine fran\u00e7aise dans les ar\u00e8nes de premi\u00e8re cat\u00e9gorie. Un rendez-vous plac\u00e9 sous le signe de Jos\u00e9 Maria Manzanar\u00e8s, ic\u00f4ne d\u00e9c\u00e9d\u00e9e en octobre 2014. Madrid le boudait. Trop...",
+            "date": "2015-04-01",
+            "categories": "place,torero,tauromachie",
+            "tags": "taurine,fran\u00e7aise,ar\u00e8nes,vendredi,torero,tauromachie,arles,rendez",
+            "recuweb_url": "http://fr.recuweb.com/tauromachie/larep.fr/2015/04/tauromachie-manzanar%C3%A8s-padre-lombre-du-torero-de-soie-sur-la-feria",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tauromachie&format=RSS&cc=fr",
+            "source_url": "http://larep.fr/loiret/mag/art-de-vivre/societe/2015/04/25/tauromachie-manzanares-padre-lombre-du-torero-de-soie-sur-la-feria-darles_11389478.html"
         }
     }
 }
