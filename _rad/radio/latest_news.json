@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radio",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radio/",
@@ -11,44 +11,94 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
-        "fr.radiovaticana.va/2015/04/c%C3%B4te-d-ivoire-nouvelle-%C3%A9vang%C3%A9lisation-quelle-mission-radio-vatican": {
-            "title": "C\u00f4te d'Ivoire: Nouvelle \u00e9vang\u00e9lisation. Quelle mission, quelle... - Radio Vatican...",
-            "snippet": "Radio VaticanC\u00f4te d'Ivoire: Nouvelle \u00e9vang\u00e9lisation. Quelle mission, quelle...Radio Vatican(RV) Institut de th\u00e9ologie qui met au c\u0153ur de l'enseignement et de la recherche la Mission pour y pr\u00e9parer les vrais t\u00e9moins de l'Evangile, le Centre...",
-            "date": "2015-04-27",
+        "afriqueinside.com/2015/04/burundi-le-gouvernement-a-ordonn%C3%A9-la-fermeture-de-radio-publique-africaine": {
+            "title": "Burundi: le gouvernement a ordonn\u00e9 la fermeture de la Radio publique africaine...",
+            "snippet": "Le gouvernement burundais a ordonn\u00e9 ce lundi la fermeture de la Radio publique africaine (RPA), la radio la plus populaire du pays, et qui est accus\u00e9e de rouler pour lopposition. La radio vient de fermer sur d\u00e9cision des autorit\u00e9s. Il va...",
+            "date": "2015-04-28",
             "categories": "radio",
-            "tags": "radio,nouvelle",
-            "recuweb_url": "http://fr.recuweb.com/radio/fr.radiovaticana.va/2015/04/c%C3%B4te-d-ivoire-nouvelle-%C3%A9vang%C3%A9lisation-quelle-mission-radio-vatican",
+            "tags": "lundi,radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/afriqueinside.com/2015/04/burundi-le-gouvernement-a-ordonn%C3%A9-la-fermeture-de-radio-publique-africaine",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
+            "source_url": "http://afriqueinside.com/burundi-le-gouvernement-a-ordonne-la-fermeture-de-la-radio-publique-africaine28042015/"
+        },
+        "lalettre.pro/2015/04/et-la-radio-plus-internationale-est-lettre-pro": {
+            "title": "Et la radio la plus internationale est... - La Lettre Pro de la Radio...",
+            "snippet": "Et la radio la plus internationale Lettre Pro de la RadioPour \u00e9couter un maximum d'artistes du monde entier, il faudra vous brancher sur la radio canadienne Radio Bizz qui fait preuve de la plus grande diversit\u00e9 d'artistes internationaux...",
+            "date": "2015-04-28",
+            "categories": "radio",
+            "tags": "radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/lalettre.pro/2015/04/et-la-radio-plus-internationale-est-lettre-pro",
             "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
-            "source_url": "http://fr.radiovaticana.va/news/2015/04/27/c\u00f4te_d\u2019ivoire__nouvelle_\u00e9vang\u00e9lisation_quelle_mission,_quelle_formation_/1139902"
+            "source_url": "http://lalettre.pro/Et-la-radio-la-plus-internationale-est_a7255.html"
+        },
+        "lalettre.pro/2015/04/presque-tous-les-smartphones-ont-une-puce-radio-fm": {
+            "title": "Presque tous les Smartphones ont une puce radio FM...",
+            "snippet": "Les radios am\u00e9ricaines ont depuis longtemps demand\u00e9 aux fabricants dactiver cette fonction car cela permet aux utilisateurs de recevoir la radio sans consommer davantage de Data sur leurs forfaits. Cela permet aussi de b\u00e9n\u00e9ficier d'une...",
+            "date": "2015-04-28",
+            "categories": "radio",
+            "tags": "radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/lalettre.pro/2015/04/presque-tous-les-smartphones-ont-une-puce-radio-fm",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
+            "source_url": "http://lalettre.pro/Presque-tous-les-Smartphones-ont-une-puce-radio-FM_a7254.html"
+        },
+        "ladepeche.fr/2015/04/radio-temps-et-amis-du-mus%C3%A9e-soulages-un-accord-pour-mieux": {
+            "title": "Radio temps et Amis du mus\u00e9e Soulages: un accord pour mieux... -...",
+            "snippet": "temps et Amis du mus\u00e9e Soulages: un accord pour mieux... coop\u00e9ration entre Les Amis du mus\u00e9e Soulages et Radio temps a \u00e9t\u00e9 sign\u00e9e samedi matin. Pierre-Etienne Vanpouille, pr\u00e9sident de Radio temps et Patrice Lemoux, pr\u00e9sident des Amis du...",
+            "date": "2015-04-28",
+            "categories": "radio",
+            "tags": "pr\u00e9sident,sign\u00e9e,radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/ladepeche.fr/2015/04/radio-temps-et-amis-du-mus%C3%A9e-soulages-un-accord-pour-mieux",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/28/2095251-radio-temps-amis-musee-soulages-accord-mieux-communiquer.html"
+        },
+        "lalettre.pro/2015/04/sun-radio-lance-mysun-business": {
+            "title": "SUN Radio lance MySUN Business...",
+            "snippet": "Soucieuse de r\u00e9pondre aux nouveaux usages et dexp\u00e9rimenter diff\u00e9rents modes d\u00e9coute de la radio, SUN entend renforcer la proximit\u00e9 avec ses auditeurs et partenaires, en mettant au centre les valeurs dinteraction et de partage. Cest dans...",
+            "date": "2015-04-28",
+            "categories": "radio",
+            "tags": "radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/lalettre.pro/2015/04/sun-radio-lance-mysun-business",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
+            "source_url": "http://lalettre.pro/SUN-Radio-lance-MySUN-Business_a7260.html"
+        },
+        "ici.radio-canada.ca/2015/04/d%C3%A9c%C3%A8s-d-un-travailleur-au-chantier-maritime-des-m%C3%A9chins-radio-canada": {
+            "title": "D\u00e9c\u00e8s d'un travailleur au chantier maritime des M\u00e9chins - Radio-Canada...",
+            "snippet": "Radio-CanadaD\u00e9c\u00e8s d'un travailleur au chantier maritime des M\u00e9chinsRadio-CanadaL'homme, dont on ne connait pas l'identit\u00e9, \u00e9tait employ\u00e9 d'une entreprise sous-traitante de Verreault Navigation, soit Leblanc Environnement de Rivi\u00e8re-du-Loup.",
+            "date": "2015-04-27",
+            "categories": "environnement,navigation,radio",
+            "tags": "entreprise,radio,canada,canadal",
+            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/d%C3%A9c%C3%A8s-d-un-travailleur-au-chantier-maritime-des-m%C3%A9chins-radio-canada",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio%2Bradio&output=atom&nord=1",
+            "source_url": "http://ici.radio-canada.ca/regions/est-quebec/2015/04/27/009-gaspesie-verreault-accident.shtml"
         },
         "ici.radio-canada.ca/2015/04/l-entreprenariat-en-vogue-chez-les-qu%C3%A9b%C3%A9cois-radio-canada": {
             "title": "L'entreprenariat en vogue chez les Qu\u00e9b\u00e9cois - Radio-Canada...",
             "snippet": "Radio-CanadaL'entreprenariat en vogue chez les Qu\u00e9b\u00e9coisRadio-CanadaLe pourcentage de Qu\u00e9b\u00e9cois ayant l'intention de d\u00e9marrer une entreprise au cours des trois prochaines ann\u00e9es est plus \u00e9lev\u00e9 qu'ailleurs au Canada et que dans les autres...",
             "date": "2015-04-27",
             "categories": "radio",
-            "tags": "radio,canada,canadale",
+            "tags": "entreprise,radio,canada,canadal,canadale",
             "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/l-entreprenariat-en-vogue-chez-les-qu%C3%A9b%C3%A9cois-radio-canada",
             "resource_url": "http://news.google.fr/?hl=fr&q=radio%2Bradio&output=atom&nord=1",
             "source_url": "http://ici.radio-canada.ca/regions/mauricie/2015/04/27/005-entrepreneuriat-statistiques-quebec-global-entrepreneurship-monitor.shtml"
         },
-        "ici.radio-canada.ca/2015/04/la-fi%C3%A8vre-monte-pour-le-sixi%C3%A8me-match-entre-canadien": {
-            "title": "La fi\u00e8vre monte pour le sixi\u00e8me match entre le Canadien et les... - Radio-Canada...",
-            "snippet": "Radio-CanadaLa fi\u00e8vre monte pour le sixi\u00e8me match entre le Canadien et les...Radio-CanadaLe Canadien passe en demi-finales de l'Est. Et cette victoire ultime est sign\u00e9e Carey Price. Le gardien s'est admirablement ressaisi de la sortie ordinaire...",
+        "ici.radio-canada.ca/2015/04/le-canadien-%C3%A9limine-les-s%C3%A9nateurs-radio-canada": {
+            "title": "Le Canadien \u00e9limine les S\u00e9nateurs - Radio-Canada...",
+            "snippet": "Radio-CanadaLe Canadien \u00e9limine les S\u00e9nateursRadio-CanadaLe Canadien passe en demi-finales de l'Est. Et cette victoire ultime est sign\u00e9e Carey Price. Le gardien s'est admirablement ressaisi de la sortie ordinaire qu'il a connue dans le cinqui\u00e8me...",
             "date": "2015-04-27",
             "categories": "radio",
-            "tags": "passe,monte,radio,canada,canadale",
-            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/la-fi%C3%A8vre-monte-pour-le-sixi%C3%A8me-match-entre-canadien",
+            "tags": "sign\u00e9e,canadale,radio,canada",
+            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/le-canadien-%C3%A9limine-les-s%C3%A9nateurs-radio-canada",
             "resource_url": "http://news.google.fr/?hl=fr&q=radio%2Bradio&output=atom&nord=1",
             "source_url": "http://ici.radio-canada.ca/sports/hockey/2015/04/26/002-series-lnh-canadien-senateurs.shtml"
         },
         "focusur.fr/2015/04/on-air-la-web-s%C3%A9rie-d%C3%A9lirante-sur-les-coulisses-de-radio": {
-            "title": "On Air: la web s\u00e9rie d\u00e9lirante sur les coulisses de la radio...",
-            "snippet": "On Air, cest la nouvelle web s\u00e9rie qui monte, cr\u00e9\u00e9e par Alexandre Cenis et r\u00e9alis\u00e9e par Robin Entreinger, qui vous propose de d\u00e9couvrir avec humour ce quil se passe en radio quand les micros sont coup\u00e9s. focuSur est all\u00e9 poser quelques...",
+            "title": "On Air: la web s\u00e9rie d\u00e9lirante sur les coulisses de la radio -...",
+            "snippet": "Air: la web s\u00e9rie d\u00e9lirante sur les coulisses de la lieu de faire une web s\u00e9rie qui montre que la radio c'est g\u00e9nial et que tout est super bien, je voulais montrer ce qu'il se passe quand le directeur d'antenne d\u00e9barque trente secondes avant...",
             "date": "2015-04-27",
-            "categories": "humour,radio",
-            "tags": "passe,nouvelle,monte,radio",
+            "categories": "radio",
+            "tags": "radio",
             "recuweb_url": "http://fr.recuweb.com/radio/focusur.fr/2015/04/on-air-la-web-s%C3%A9rie-d%C3%A9lirante-sur-les-coulisses-de-radio",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
             "source_url": "http://focusur.fr/cinema-series/2015/04/27/on-air-la-web-serie-delirante-sur-les-coulisses-de-la-radio"
         },
         "fr.rbth.com/2015/04/radio-free-europe-entre-en-guerre-contre-la-propagande-russe": {
@@ -56,60 +106,10 @@
             "snippet": "Radio Free Europe, financ\u00e9e par le budget f\u00e9d\u00e9ral des \u00c9tats-Unis, ouvre un d\u00e9partement num\u00e9rique charg\u00e9 de lutter contre la revanchisme russe via les r\u00e9seaux sociaux. Il ne sagit pas uniquement dune guerre de linformation, assure l...",
             "date": "2015-04-27",
             "categories": "radio",
-            "tags": "contre,radio",
+            "tags": "radio",
             "recuweb_url": "http://fr.recuweb.com/radio/fr.rbth.com/2015/04/radio-free-europe-entre-en-guerre-contre-la-propagande-russe",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
             "source_url": "http://fr.rbth.com/ps/2015/04/27/radio_free_europe_entre_en_guerre_contre_la_propagande_russe_33499.html"
-        },
-        "deplacementspros.com/2015/04/sa-radio-pr%C3%A9f%C3%A9r%C3%A9e-au-poignet-deplacements-pros": {
-            "title": "Sa radio pr\u00e9f\u00e9r\u00e9e au poignet - Deplacements Pros...",
-            "snippet": "Deplacements ProsSa radio pr\u00e9f\u00e9r\u00e9e au poignetDeplacements ProsL'appli permet d'\u00e9couter et contr\u00f4ler plus de 25 000 radios internationales (AM et FM) sur la montre intelligente. Le voyageur d'affaires n'a pas besoin de se creuser la t\u00eate pour...",
-            "date": "2015-04-27",
-            "categories": "radio",
-            "tags": "radio",
-            "recuweb_url": "http://fr.recuweb.com/radio/deplacementspros.com/2015/04/sa-radio-pr%C3%A9f%C3%A9r%C3%A9e-au-poignet-deplacements-pros",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
-            "source_url": "http://deplacementspros.com/Sa-radio-preferee-au-poignet_a32650.html"
-        },
-        "bbc.co.uk/2015/04/une-radio-suspendue-au-burundi": {
-            "title": "Une radio suspendue au Burundi...",
-            "snippet": "Les autorit\u00e9s au Burundi ont interrompu les \u00e9missions de la principale radio priv\u00e9e du pays, en pleine manifestation contre la candidature du pr\u00e9sident Pierre Nkurunziza. La Radio Publique Africaine (RPA) a v\u00e9cu d\u00e8s dimanche une perturbation...",
-            "date": "2015-04-27",
-            "categories": "radio",
-            "tags": "radio,contre,pr\u00e9sident",
-            "recuweb_url": "http://fr.recuweb.com/radio/bbc.co.uk/2015/04/une-radio-suspendue-au-burundi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
-            "source_url": "http://bbc.co.uk/afrique/region/2015/04/150427_burundi_rpa_suspension"
-        },
-        "telerama.fr/2015/04/radio-france-mathieu-gallet-blanchi-par-l-inspection-g%C3%A9n%C3%A9rale-des-finances": {
-            "title": "Radio France: Mathieu Gallet blanchi par l'Inspection g\u00e9n\u00e9rale des Finances...",
-            "snippet": "Ni la r\u00e9novation du fameux bureau, ni le changement de voiture, ni le contrat du conseiller en communication n'ont constitu\u00e9 de caract\u00e8re abusif, estime un rapport de l'IgF. la r\u00e9novation du bureau du pdg Mathieu Gallet pour 104 000 (dont 68...",
-            "date": "2015-04-21",
-            "categories": "radio",
-            "tags": "radio",
-            "recuweb_url": "http://fr.recuweb.com/radio/telerama.fr/2015/04/radio-france-mathieu-gallet-blanchi-par-l-inspection-g%C3%A9n%C3%A9rale-des-finances",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=fr",
-            "source_url": "http://telerama.fr/radio/radio-france-mathieu-gallet-blanchi-par-l-inspection-generale-des-finances,125565.php"
-        },
-        "fr.canoe.ca/2015/04/sociofinancement-ulule-d%C3%A9barque-au-canada": {
-            "title": "Sociofinancement: Ulule d\u00e9barque au Canada...",
-            "snippet": "Aussi sur: R\u00e9ussir sa campagne de sociofinancement Le site de sociofinancement Kickstarter pirat\u00e9 Radio Radio tente le sociofinancement avec son nouvel album...",
-            "date": "2015-04-21",
-            "categories": "radio",
-            "tags": "radio,site,canada",
-            "recuweb_url": "http://fr.recuweb.com/radio/fr.canoe.ca/2015/04/sociofinancement-ulule-d%C3%A9barque-au-canada",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=fr",
-            "source_url": "http://fr.canoe.ca/techno/internet/archives/2015/04/20150421-180302.html"
-        },
-        "ici.radio-canada.ca/2015/04/spectacle-de-la-f%C3%AAte-nationale-l-acadie-radio-canada-s-associe": {
-            "title": "Spectacle de la f\u00eate nationale de l'Acadie: Radio-Canada s'associe au Festival de Clare...",
-            "snippet": "Le spectacle de cette ann\u00e9e se fera donc sous le signe de la r\u00e9jouissance! Radio Radio, Caroline Savoie, Grand D\u00e9rangement, Cy, Arthur Comeau, Marcel Aymar, Monique Comeau, la troupe de danse la Baie en joie et la Chorale de la Baie Sainte-Marie...",
-            "date": "2015-04-21",
-            "categories": "radio",
-            "tags": "acadie,radio,canada,marie",
-            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/spectacle-de-la-f%C3%AAte-nationale-l-acadie-radio-canada-s-associe",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=fr",
-            "source_url": "http://ici.radio-canada.ca/regions/atlantique/2015/04/21/005-15-aout-festival-acadien-radio-canada.shtml"
         }
     }
 }
