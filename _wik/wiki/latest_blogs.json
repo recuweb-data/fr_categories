@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "wiki",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wiki/",
@@ -16,7 +17,7 @@
             "date": "2015-04-07",
             "author_name": "Hezequias Vasconcelos",
             "categories": "wiki",
-            "tags": "wiki,communaut\u00e9,fran\u00e7aise,fran\u00e7ais,guide,bonjour,aujourd,hui",
+            "tags": "articles,wiki,communaut\u00e9,fran\u00e7ais,guide,bonjour,aujourd,hui",
             "recuweb_url": "http://fr.recuweb.com/wiki/blogs.technet.com/2015/04/mardi-article-spotlight-windows-guide-des-articles-fran%C3%A7ais",
             "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blogs.technet.com/b/wikininjasfr/archive/2015/04/06/mardi-article-spotlight-windows-guide-des-articles-fran-231-ais-du-technet-wiki-fr-fr.aspx"
@@ -38,9 +39,9 @@
             "date": "2015-04-01",
             "author_name": "Anand Unadkat",
             "categories": "wiki",
-            "tags": "utiliser,wiki",
+            "tags": "wiki",
             "recuweb_url": "http://fr.recuweb.com/wiki/blog.valiantys.com/2015/04/universal-wiki-converter-transfert-de-contenu",
-            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.valiantys.com/fr/confluence/universal-wiki-converter-transfert-contenu-wiki-dans-confluence"
         },
         "foodtrip69.wordpress.com/2014/10/description-d-un-wiki": {
@@ -49,76 +50,21 @@
             "date": "2014-10-22",
             "author_name": "foodtrip69",
             "categories": "wiki",
-            "tags": "outil,donn\u00e9es,wiki,site",
+            "tags": "wiki,site",
             "recuweb_url": "http://fr.recuweb.com/wiki/foodtrip69.wordpress.com/2014/10/description-d-un-wiki",
             "resource_url": "http://fr.search.wordpress.com/?q=wiki%2Bwiki&f=feed&page=1",
             "source_url": "http://foodtrip69.wordpress.com/2014/10/22/description-dun-wiki/"
         },
-        "tox.im/2014/08/binaries-tox-wiki": {
-            "title": "Binaries - Tox Wiki...",
-            "snippet": "Rather than requiring Tox users to compile the core and their client, most Tox clients use Jenkins as a means of auto compilation every time a change is pushed to the their respective GitHub repository. This page serves as a...",
-            "date": "2014-08-11",
-            "author_name": "Notadecent",
+        "wiki.zimbra.com/2013/06/configuring-logger-host-zimbra-wiki": {
+            "title": "Configuring-Logger-Host - Zimbra:: Wiki...",
+            "snippet": "Below are the steps to configure logger monitor host in ZCS multi-server setup. Note: run below steps in non-peak hours during scheduled downtime. Run on logger monitor Host: su - zimbra zmcontrol stop; exit. Run as root user...",
+            "date": "2013-06-24",
+            "author_name": "Vrudraiah",
             "categories": "wiki",
-            "tags": "than,wiki,this",
-            "recuweb_url": "http://fr.recuweb.com/wiki/tox.im/2014/08/binaries-tox-wiki",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://tox.im/downloads"
-        },
-        "forum.joomla.fr/2014/08/transformer-joomla-en-wiki-forums": {
-            "title": "Transformer joomla en wiki - Forums...",
-            "snippet": "Bonjour, je n'ai pas trouv\u00e9e de module permettant de transformer Joomla 3.x en \"wikipedia\", quelqu'un a t'il une id\u00e9es?, merci d'avance.",
-            "date": "2014-08-11",
-            "author_name": "fly49",
-            "categories": "joomla,wiki",
-            "tags": "wikipedia,wiki,bonjour",
-            "recuweb_url": "http://fr.recuweb.com/wiki/forum.joomla.fr/2014/08/transformer-joomla-en-wiki-forums",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.joomla.fr/showthread.php?202294-Transformer-joomla-en-wiki"
-        },
-        "minecraft-fr.gamepedia.com/2014/08/village-minecraft-wiki": {
-            "title": "Village - Minecraft Wiki...",
-            "snippet": "Les villages ou villages de PNJ sont des groupes de btiments habit\u00e9s par des personnages non joueurs appel\u00e9s villageois qui apparaissent naturellement dans le monde. Ils se rencontrent dans les plaines, le d\u00e9sert et la savane.",
-            "date": "2014-08-09",
-            "author_name": "Itouchmasterpro",
-            "categories": "wiki",
-            "tags": "non,wiki,monde",
-            "recuweb_url": "http://fr.recuweb.com/wiki/minecraft-fr.gamepedia.com/2014/08/village-minecraft-wiki",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://minecraft-fr.gamepedia.com/Village"
-        },
-        "terraria-fr.gamepedia.com/2014/07/arm%C3%A9e-gobeline-terraria-wiki": {
-            "title": "Arm\u00e9e Gobeline - Terraria Wiki...",
-            "snippet": "L'arm\u00e9e de Gobelins, aussi appel\u00e9e Invasion de Gobelins, est un \u00e9v\u00e8nement al\u00e9atoire du jeu pendant lequel des gobelins attaquent le joueur. L'Arm\u00e9e gobelin a% de chances de se produire (environ 1 chance sur 15)...",
-            "date": "2014-07-18",
-            "author_name": "TheKirinFL",
-            "categories": "wiki",
-            "tags": "produire,\u00e9v\u00e8nement,terraria,terraria_wiki,wiki,jeu",
-            "recuweb_url": "http://fr.recuweb.com/wiki/terraria-fr.gamepedia.com/2014/07/arm%C3%A9e-gobeline-terraria-wiki",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://terraria-fr.gamepedia.com/Arm\u00e9e_Gobeline"
-        },
-        "terraria-fr.gamepedia.com/2014/07/lune-de-sang-terraria-wiki": {
-            "title": "Lune de Sang - Terraria Wiki...",
-            "snippet": "La lune de sang (blood moon) est un \u00e9v\u00e8nement qui a une petite chance (1/8) de se produire tous les soirs. Elle est annonc\u00e9e par le message \"The Blood Moon is rising...\", traduisible par \"La Lune de Sang se l\u00e8ve...\".",
-            "date": "2014-07-18",
-            "author_name": "TheKirinFL",
-            "categories": "wiki",
-            "tags": "produire,\u00e9v\u00e8nement,terraria,terraria_wiki,wiki",
-            "recuweb_url": "http://fr.recuweb.com/wiki/terraria-fr.gamepedia.com/2014/07/lune-de-sang-terraria-wiki",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://terraria-fr.gamepedia.com/Lune_de_Sang"
-        },
-        "wiki.partipirate.org/2014/04/r%C3%A8glement-int%C3%A9rieur-wiki-du-parti-pirate": {
-            "title": "R\u00e8glement int\u00e9rieur - Wiki du Parti Pirate...",
-            "snippet": "R\u00e8glement int\u00e9rieur du Parti Pirate. Version - 28/10/2013. Pr\u00e9ambule: Charte des principes. Le Parti Pirate est pleinement respectueux des Droits de l'Homme et du Citoyen, des valeurs de la R\u00e9publique Fran\u00e7aise,...",
-            "date": "2014-04-16",
-            "author_name": "Drenskin",
-            "categories": "wiki",
-            "tags": "fran\u00e7aise,pirate,wiki",
-            "recuweb_url": "http://fr.recuweb.com/wiki/wiki.partipirate.org/2014/04/r%C3%A8glement-int%C3%A9rieur-wiki-du-parti-pirate",
-            "resource_url": "http://www.google.com/search?q=wiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://wiki.partipirate.org/R\u00e8glement_int\u00e9rieur"
+            "tags": "are,wiki",
+            "recuweb_url": "http://fr.recuweb.com/wiki/wiki.zimbra.com/2013/06/configuring-logger-host-zimbra-wiki",
+            "resource_url": "http://www.google.com/search?q=wiki%2Bwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://wiki.zimbra.com/wiki/Configuring-Logger-Host"
         }
     }
 }
