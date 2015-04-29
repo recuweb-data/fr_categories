@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/magento/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magento/magento/blogs.json"
     },
     "items": {
+        "techenet.com/2015/04/descoberta-vulnerabilidade-cr%C3%ADtica-na-plataforma-de-ecommerce-tech&net": {
+            "title": "Descoberta vulnerabilidade cr\u00edtica na plataforma de eCommerce... - Tech&Net...",
+            "snippet": "Tech&NetDescoberta vulnerabilidade cr\u00edtica na plataforma de eCommerce...Tech&NetNo caso de ser explorada, esta vulnerabilidade comprometeria plenamente qualquer loja online baseada na plataforma Magento, incluindo informa\u00e7\u00e3o de cart\u00f5es de...",
+            "date": "2015-04-27",
+            "categories": "magento",
+            "tags": "magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/techenet.com/2015/04/descoberta-vulnerabilidade-cr%C3%ADtica-na-plataforma-de-ecommerce-tech&net",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magento&output=atom&nord=1",
+            "source_url": "http://techenet.com/2015/04/descoberta-vulnerabilidade-critica-na-plataforma-de-ecommerce-magento/"
+        },
         "itrnews.com/2015/04/kaporal-lance-un-outil-de-commandes-b2b-avec-altima": {
             "title": "Kaporal lance un outil de commandes B2B avec Altima...",
             "snippet": "Heureusement, le travail de conception a port\u00e9 ses fruits et les \u00e9quipes de l'agence digitale ont pu, sans trop modifier le fonctionnement standard de Magento, g\u00e9rer le probl\u00e8me et assurer des temps de chargement tr\u00e8s performants.",
@@ -38,18 +48,8 @@
             "categories": "magento",
             "tags": "commerce,ios,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/zdnet.com/2015/04/zero-day-weekly-ios-wi-fi-dos-aaron-s-law-active",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
-            "source_url": "http://zdnet.com/article/zero-day-weekly-ios-wi-fi-dos-aarons-law-active-magento-attacks-and-a-harsh-p2p-ssid-rce/"
-        },
-        "programmableweb.com/2015/04/api2cart-api-method-mines-magento-abandoned-cart-data-programmableweb": {
-            "title": "API2Cart API Method Mines Magento Abandoned Cart Data - ProgrammableWeb...",
-            "snippet": "API2Cart API Method Mines Magento Abandoned Cart DataProgrammableWebThe good news is that API2Cart can now lend such companies a hand. The service is integrated with 30 shopping carts including Magento, WooCommerce, Bigcommerce, Shopify, Volusion...",
-            "date": "2015-04-23",
-            "categories": "magento",
-            "tags": "magento,woocommerce",
-            "recuweb_url": "http://fr.recuweb.com/magento/programmableweb.com/2015/04/api2cart-api-method-mines-magento-abandoned-cart-data-programmableweb",
             "resource_url": "http://news.google.fr/?hl=fr&q=magento&output=atom&nord=1",
-            "source_url": "http://programmableweb.com/news/api2cart-api-method-mines-magento-abandoned-cart-data/press-release/2015/04/23"
+            "source_url": "http://zdnet.com/article/zero-day-weekly-ios-wi-fi-dos-aarons-law-active-magento-attacks-and-a-harsh-p2p-ssid-rce/"
         },
         "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-php-magento-confirm%C3%A9-h-f": {
             "title": "D\u00e9veloppeur PHP Magento Confirm\u00e9 H/F...",
@@ -78,7 +78,7 @@
             "categories": "magento",
             "tags": "magento",
             "recuweb_url": "http://fr.recuweb.com/magento/businesswire.com/2015/04/magento-expands-mobile-app-merchandising-and-business-insight-wire-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magento&output=atom&nord=1",
             "source_url": "http://businesswire.com/news/home/20150422006402/en/Magento-Expands-Mobile-App-Merchandising-Business-Insight"
         },
         "categorynet.com/2015/04/sabacane-r%C3%A9%C3%A9lue-parmi-les-meilleures-solutions-emailing-pour-la-deuxi%C3%A8me-ann%C3%A9e": {
@@ -98,7 +98,7 @@
             "categories": "magento",
             "tags": "commerce,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/ictjournal.ch/2015/04/checkpoint-d%C3%A9couvre-une-faille-dans-le-syst%C3%A8me-de-e-commerce-ictjournal",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magento%2Bmagento&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magento&output=atom&nord=1",
             "source_url": "http://ictjournal.ch/fr-CH/News/2015/04/21/Checkpoint-decouvre-une-faille-dans-le-systeme-de-e-commerce-Magento.aspx"
         },
         "24presse.com/2015/04/l-expert-logistique-teambask-choisit-la-solution-de-gestion-d-entrep%C3%B4t": {
