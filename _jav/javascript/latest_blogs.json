@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
+        "developpementfacile.wordpress.com/2015/04/les-tableaux-javascript-array-n-auront-plus-de-secret": {
+            "title": "Les tableaux JavaScript array n'auront plus de secret pour vous...",
+            "snippet": "Et voici un concept essentiel en JavaScript, il s'agit de l'utilisation des tableaux. D\u00e9couvrez toutes les possibilit\u00e9s des tableaux (ou array) avec JavaScript. Le cours vid\u00e9o, ci-dessous, vous...",
+            "date": "2015-04-10",
+            "author_name": "Matthieu20",
+            "categories": "javascript",
+            "tags": "cours,javascript,d\u00e9couvrez",
+            "recuweb_url": "http://fr.recuweb.com/javascript/developpementfacile.wordpress.com/2015/04/les-tableaux-javascript-array-n-auront-plus-de-secret",
+            "resource_url": "http://fr.search.wordpress.com/?q=javascript%2Bjavascript&f=feed&page=1",
+            "source_url": "http://developpementfacile.wordpress.com/2015/04/10/les-tableaux-javascript-array-nauront-plus-de-secret-pour-vous/"
+        },
         "blogs.msdn.com/2015/04/javascript-open-day-vid%C3%A9os-&-contenus-david-rousset-html5": {
             "title": "JavaScript Open Day: vid\u00e9os & contenus - David Rousset - HTML5...",
             "snippet": "Le 19 mars dernier, nous avons accueilli dans les locaux de Microsoft France la 1\u00e8re \u00e9dition du Meetup JavaScript Open Day. Vous nous avez fait de nombreux retours positifs sur les r\u00e9seaux sociaux et en direct, il n'est donc...",
