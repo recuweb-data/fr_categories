@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "electronique",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/electronique/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/electronique/electronique/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/le-train-express-%C3%A9lectronique-dakar-diamniadio": {
+            "title": "Le train express \u00e9lectronique Dakar-Diamniadio...",
+            "snippet": "Le train express \u00e9lectronique Dakar-Diamniadio: Le projet co\u00fbte 500 milliards de FCFAAuthor: kdieme7Tags: Train dakar AIB Posted: 09 April 2015Rating:: 0...",
+            "date": "2015-04-09",
+            "author_name": "kdieme7",
+            "categories": "electronique",
+            "tags": "projet,\u00e9lectronique",
+            "recuweb_url": "http://fr.recuweb.com/electronique/dailymotion.com/2015/04/le-train-express-%C3%A9lectronique-dakar-diamniadio",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2m60bo_le-train-express-electronique-dakar-diamniadio_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m60bo_le-train-express-electronique-dakar-diamniadio_news"
+        },
         "dailymotion.com/2015/03/les-grosses-t%C3%ABtes-et-leurs-cigarettes-%C3%A9lectroniques": {
             "title": "Les Grosses T\u00ebtes et leurs cigarettes \u00e9lectroniques...",
             "snippet": "Mais pourquoi ont-ils arr\u00eat\u00e9 de vapoter? Steevy, Pierre B\u00e9nichou et les autres Grosses T\u00eates donnent leur: rtl-frTags: Les Grosses T\u00eates cigarette \u00e9lectronique Humour Posted: 30 March 2015Rating:: 0...",
             "date": "2015-03-30",
             "author_name": "rtl-fr",
             "categories": "electronique,humour",
-            "tags": "cigarettes,cigarette-\u00e9lectronique,\u00e9lectroniques,cigarettes-\u00e9lectroniques,frtags",
+            "tags": "cigarette-\u00e9lectronique,\u00e9lectroniques,frtags",
             "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2015/03/les-grosses-t%C3%ABtes-et-leurs-cigarettes-%C3%A9lectroniques",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique+electronique/0?af=1",
             "source_url": "http://dailymotion.com/video/x2l5rj7_les-grosses-tetes-et-leurs-cigarettes-electroniques_news",
@@ -89,7 +101,7 @@
             "date": "2014-10-15",
             "author_name": "Europe1fr",
             "categories": "electronique",
-            "tags": "europe,fumer,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,sant\u00e9,frtags",
+            "tags": "europe,fumer,cigarette,cigarette-\u00e9lectronique,\u00e9lectronique,projet,frtags",
             "recuweb_url": "http://fr.recuweb.com/electronique/dailymotion.com/2014/10/les-interdictions-de-la-cigarette-%C3%A9lectronique",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique+electronique/0?af=1",
             "source_url": "http://dailymotion.com/video/x27z2z4_les-interdictions-de-la-cigarette-electronique_news",
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=electronique%2Belectronique&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=XJtZENeTmnc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XJtZENeTmnc/0.jpg"
-        },
-        "dailymotion.com/2014/08/la-cigarette-%C3%A9lectronique": {
-            "title": "La cigarette \u00e9lectronique...",
-            "snippet": "L'Organisation mondiale de la sant\u00e9 a recommand\u00e9 mardi d'interdire l'utilisation de la cigarette \u00e9lectronique dans les espaces publics ferm\u00e9s. L'OMS s'est \u00e9galement prononc\u00e9 contre la vente de cigarettes \u00e9lectroniques aux mineurs, estimant...",
-            "date": "2014-08-26",
-            "author_name": "afp",
-            "categories": "electronique",
-            "tags": "cigarettes,cigarette,cigarettes-\u00e9lectroniques,\u00e9lectroniques,\u00e9lectronique,cigarette-\u00e9lectronique,sant\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/electronique/dailymotion.com/2014/08/la-cigarette-%C3%A9lectronique",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/electronique+electronique/0?af=1",
-            "source_url": "http://dailymotion.com/video/x24lbnd_la-cigarette-electronique_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x24lbnd_la-cigarette-electronique_news"
         }
     }
 }
