@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yahoo",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yahoo/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yahoo/yahoo/blogs.json"
     },
     "items": {
+        "econsommateur.wordpress.com/2015/04/les-pubs-tr%C3%A8s-trop-mal-cibl%C3%A9es-de-yahoo": {
+            "title": "Les pubs (tr\u00e8s) (trop) mal cibl\u00e9es de Yahoo!",
+            "snippet": "Dernier des Mohicans, j'utilise encore My Yahoo! comme agr\u00e9gateur de flux RSS. Cela pourrait changer tant la publicit\u00e9 incrust\u00e9e par la r\u00e9gie de Yahoo! est non seulement non []...",
+            "date": "2015-04-26",
+            "author_name": "jcldb",
+            "categories": "yahoo",
+            "tags": "publicit\u00e9,yahoo,dernier",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/econsommateur.wordpress.com/2015/04/les-pubs-tr%C3%A8s-trop-mal-cibl%C3%A9es-de-yahoo",
+            "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
+            "source_url": "http://econsommateur.wordpress.com/2015/04/26/les-pubs-tres-trop-mal-ciblee-de-yahoo/"
+        },
         "progonline.wordpress.com/2015/04/partenariat-ren%C3%A9gociation-entre-yahoo-et-microsoft-serait-ce-la-fin": {
             "title": "Partenariat: Ren\u00e9gociation entre Yahoo et Microsoft, serait-ce la fin?",
             "snippet": "Depuis 2009, Yahoo et Microsoft ont un accord concernant la recherche en ligne et autour de la publicit\u00e9. Cet accord entre les 2 g\u00e9ants am\u00e9ricains pr\u00e9voyait que Yahoo abandonne []...",
             "date": "2015-04-24",
             "author_name": "progonline",
             "categories": "yahoo",
-            "tags": "accord,ligne,publicit\u00e9,concernant,partenariat,yahoo,microsoft,serait,recherche",
+            "tags": "accord,ligne,publicit\u00e9,concernant,partenariat,yahoo,microsoft,recherche",
             "recuweb_url": "http://fr.recuweb.com/yahoo/progonline.wordpress.com/2015/04/partenariat-ren%C3%A9gociation-entre-yahoo-et-microsoft-serait-ce-la-fin",
             "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
             "source_url": "http://progonline.wordpress.com/2015/04/24/partenariat-renegociation-entre-yahoo-et-microsoft-serait-ce-la-fin/"
@@ -28,7 +39,7 @@
             "date": "2015-04-24",
             "author_name": "lity1944",
             "categories": "yahoo",
-            "tags": "hacker,piratage,compte,yahoo",
+            "tags": "compte,yahoo,hacker,piratage",
             "recuweb_url": "http://fr.recuweb.com/yahoo/telechargementsgratuitspirats.wordpress.com/2015/04/telecharger-compte-yahoo-hacker",
             "resource_url": "http://fr.search.wordpress.com/?q=yahoo%2Byahoo&f=feed&page=1",
             "source_url": "http://telechargementsgratuitspirats.wordpress.com/2015/04/24/telecharger-compte-yahoo-hacker/"
@@ -39,21 +50,32 @@
             "date": "2015-04-22",
             "author_name": "Fran\u00e7ois Giraud",
             "categories": "yahoo",
-            "tags": "yahoo,r\u00e9sultats",
+            "tags": "annonce,yahoo,r\u00e9sultats",
             "recuweb_url": "http://fr.recuweb.com/yahoo/zone-numerique.com/2015/04/yahoo-annonce-des-r%C3%A9sultats-trimestriels-inf%C3%A9rieurs-aux-attentes",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://zone-numerique.com/yahoo-annonce-des-resultats-trimestriels-inferieurs-aux-attentes-des-analystes.html"
         },
-        "frenchweb.fr/2015/04/e-publicit%C3%A9-les-infos-essentielles-yahoo-gagne-des-marges": {
-            "title": "E-publicit\u00e9 Les infos essentielles: Yahoo! gagne des marges de...",
-            "snippet": "marissa-mayer-yahoo-google-650x400 Yahoo! et Bing viennent de revoir l'accord qu'ils avaient conclu en 2009 dans la recherche en ligne. A l'issu de cette r\u00e9vision, Yahoo! obtient plus de marges de manoeuvre en mati\u00e8re...",
-            "date": "2015-04-21",
-            "author_name": "La r\u00e9daction",
-            "categories": "yahoo,google,bing",
-            "tags": "mati\u00e8re,ligne,conclu,accord,publicit\u00e9,yahoo,google,bing,recherche",
-            "recuweb_url": "http://fr.recuweb.com/bing/frenchweb.fr/2015/04/e-publicit%C3%A9-les-infos-essentielles-yahoo-gagne-des-marges",
+        "generation-nt.com/2015/04/google-microsoft-et-yahoo-la-transparence-des-r%C3%A9sultats": {
+            "title": "Google, Microsoft et Yahoo: la transparence des r\u00e9sultats de...",
+            "snippet": "La Commission europ\u00e9enne va se pencher sur la transparence des r\u00e9sultats de recherche avec Google mais aussi Microsoft et Yahoo.",
+            "date": "2015-04-20",
+            "author_name": "inconnu",
+            "categories": "google,yahoo",
+            "tags": "google,microsoft,yahoo,r\u00e9sultats,recherche",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/generation-nt.com/2015/04/google-microsoft-et-yahoo-la-transparence-des-r%C3%A9sultats",
+            "resource_url": "http://www.google.com/search?q=yahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://generation-nt.com/google-microsoft-bing-yahoo-europe-transparence-recherche-actualite-1914299.html"
+        },
+        "begeek.fr/2015/04/yahoo-et-microsoft-ont-modifi%C3%A9-leur-accord-sur-la-recherche": {
+            "title": "Yahoo! et Microsoft ont modifi\u00e9 leur accord sur la recherche en ligne...",
+            "snippet": "En 2009, Yahoo! et Microsoft avaient scell\u00e9 un accord sur la recherche pour 10 ans. Cette semaine, l'accord a \u00e9t\u00e9 renouvel\u00e9 mais modifi\u00e9.",
+            "date": "2015-04-19",
+            "author_name": "David Pain",
+            "categories": "yahoo",
+            "tags": "accord,ligne,yahoo,microsoft,recherche,\u00e9t\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/begeek.fr/2015/04/yahoo-et-microsoft-ont-modifi%C3%A9-leur-accord-sur-la-recherche",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://frenchweb.fr/e-publicite-les-infos-essentielles-yahoo-gagne-des-marges-de-manoeuvre-face-a-bing-smart-adserver-debarque-dans-le-native-ads/191617"
+            "source_url": "http://begeek.fr/yahoo-et-microsoft-ont-modifie-leur-accord-sur-la-recherche-en-ligne-167190"
         },
         "lesnumeriques.com/2015/04/search-yahoo-et-microsoft-assouplissent-leurs-accords": {
             "title": "Search: Yahoo! et Microsoft assouplissent leurs accords...",
@@ -61,7 +83,7 @@
             "date": "2015-04-18",
             "author_name": "Johann Breton",
             "categories": "yahoo,internet",
-            "tags": "conclu,partenariat,mati\u00e8re,search,yahoo,microsoft,recherche,internet",
+            "tags": "conclu,partenariat,search,yahoo,microsoft,recherche,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/lesnumeriques.com/2015/04/search-yahoo-et-microsoft-assouplissent-leurs-accords",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesnumeriques.com/search-yahoo-microsoft-assouplissent-accords-n41423.html"
@@ -72,7 +94,7 @@
             "date": "2015-04-17",
             "author_name": "J\u00e9r\u00f4me Durel",
             "categories": "yahoo",
-            "tags": "m\u00eame,concurrencer,march\u00e9,vraiment,utilis\u00e9,messagerie,yahoo,meerkat",
+            "tags": "m\u00eame,firme,vraiment,utilis\u00e9,messagerie,yahoo,meerkat",
             "recuweb_url": "http://fr.recuweb.com/yahoo/cnetfrance.fr/2015/04/yahoo-voudrait-se-relancer-sur-le-terrain-de-la-messagerie-cnet",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://cnetfrance.fr/news/yahoo-voudrait-se-relancer-sur-le-terrain-de-la-messagerie-39818076.htm"
@@ -83,21 +105,10 @@
             "date": "2015-04-17",
             "author_name": "V\u00e9ronique Ar\u00e8ne",
             "categories": "yahoo,internet",
-            "tags": "ligne,\u00e9t\u00e9,partenariat,conclu,microsoft,yahoo,recherche,internet",
+            "tags": "davantage,ligne,partenariat,conclu,microsoft,yahoo,recherche,internet,\u00e9t\u00e9",
             "recuweb_url": "http://fr.recuweb.com/internet/lemondeinformatique.fr/2015/04/microsoft-et-yahoo-renouvellent-leur-partenariat-dans-la-recherche",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemondeinformatique.fr/actualites/lire-microsoft-et-yahoo-renouvellent-leur-partenariat-dans-la-recherche-en-ligne-60881.html"
-        },
-        "commentcamarche.net/2015/04/microsoft-yahoo-partenariat-modifi%C3%A9-comment-%C3%A7a-marche": {
-            "title": "Microsoft/Yahoo!: partenariat modifi\u00e9 - Comment \u00c7a Marche...",
-            "snippet": "En 2010, Yahoo! et Microsoft ont conclu un partenariat pour une dur\u00e9e de 10 ans. Bing est, ainsi, devenu le moteur de recherche de Yahoo! et les entreprises se partagent les revenus de la publicit\u00e9. Les deux entreprises...",
-            "date": "2015-04-17",
-            "author_name": "CelineLhorte",
-            "categories": "yahoo,bing",
-            "tags": "entreprises,revenus,publicit\u00e9,conclu,partenariat,\u00e7a,microsoft,yahoo,bing,ainsi,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/bing/commentcamarche.net/2015/04/microsoft-yahoo-partenariat-modifi%C3%A9-comment-%C3%A7a-marche",
-            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://commentcamarche.net/news/5866409-microsoft-yahoo-partenariat-modifie"
         },
         "01net.com/2015/04/yahoo-pr%C3%A9parerait-une-appli-de-messagerie-avec-du-meerkat": {
             "title": "Yahoo! pr\u00e9parerait une appli de messagerie avec du Meerkat et du...",
@@ -105,21 +116,10 @@
             "date": "2015-04-16",
             "author_name": "inconnu",
             "categories": "yahoo",
-            "tags": "appli,messagerie,ainsi,yahoo,meerkat",
+            "tags": "appli,messagerie,messages,yahoo,meerkat",
             "recuweb_url": "http://fr.recuweb.com/yahoo/01net.com/2015/04/yahoo-pr%C3%A9parerait-une-appli-de-messagerie-avec-du-meerkat",
             "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/652467/yahoo-preparerait-une-appli-de-messagerie-avec-du-meerkat-et-du-snapchat-dedans/"
-        },
-        "presse-citron.net/2015/04/foursquare-serait-sur-le-point-d-%C3%AAtre-rachet%C3%A9-par-yahoo-presse": {
-            "title": "Foursquare serait sur le point d'\u00eatre rachet\u00e9 par Yahoo - Presse-citron...",
-            "snippet": "Le g\u00e9ant Yahoo envisage un possible rachat de Foursquare pour d\u00e9velopper sa strat\u00e9gie et rajeunir son image aupr\u00e8s des jeunes.",
-            "date": "2015-04-16",
-            "author_name": "Manu",
-            "categories": "yahoo",
-            "tags": "\u00eatre,serait,foursquare,yahoo",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/presse-citron.net/2015/04/foursquare-serait-sur-le-point-d-%C3%AAtre-rachet%C3%A9-par-yahoo-presse",
-            "resource_url": "http://www.google.com/search?q=yahoo%2Byahoo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/foursquare-serait-sur-le-point-detre-rachete-par-yahoo/"
         }
     }
 }
