@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tennis-de-table",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tennis-de-table/",
@@ -11,65 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis-de-table/tennis-de-table/blogs.json"
     },
     "items": {
-        "ouest-france.fr/2015/04/tennis-de-table-l-%C3%A9quipe-1-monte-en-r%C3%A9gionale-2-ouest": {
-            "title": "Tennis de table: l'\u00e9quipe 1 monte en r\u00e9gionale 2 - Ouest-France...",
-            "snippet": "Ouest-FranceTennis de table: l'\u00e9quipe 1 monte en r\u00e9gionale 2Ouest-FranceUne saison sportive qui se termine au Nieul Tennis de table (NTT), mais une saison pas comme les autres, annonce le secr\u00e9taire, Fabien Tessier. En effet, l'\u00e9quipe 1...",
-            "date": "2015-04-23",
+        "sudouest.fr/2015/04/le-tennis-de-table-a-un-bureau-sud-ouest": {
+            "title": "Le tennis de table a un bureau - Sud Ouest...",
+            "snippet": "Sud OuestLe tennis de table a un bureauSud OuestCe nouveau club sur la commune (1), mais \u00e9galement sur tout le territoire du Grand Rib\u00e9racois, a pour vocation principale de promouvoir la pratique du tennis de table pour tous, et plus...",
+            "date": "2015-04-28",
             "categories": "tennis",
-            "tags": "saison,r\u00e9gionale,tennis,table,\u00e9quipe,france",
-            "recuweb_url": "http://fr.recuweb.com/tennis/ouest-france.fr/2015/04/tennis-de-table-l-%C3%A9quipe-1-monte-en-r%C3%A9gionale-2-ouest",
+            "tags": "tennis,table",
+            "recuweb_url": "http://fr.recuweb.com/tennis/sudouest.fr/2015/04/le-tennis-de-table-a-un-bureau-sud-ouest",
             "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable&output=atom&nord=1",
-            "source_url": "http://ouest-france.fr/tennis-de-table-lequipe-1-monte-en-regionale-2-3353011"
+            "source_url": "http://sudouest.fr/2015/04/28/le-tennis-de-table-a-un-bureau-1905710-2007.php"
         },
-        "lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gionaux-le-bilan-dans-valenciennois": {
-            "title": "Tennis de table R\u00e9gionaux: le bilan dans le Valenciennois...",
-            "snippet": "Les Valenciennois ont dans lensemble confirm\u00e9 lascension du district dans l\u00e9chelle r\u00e9gionale en maintenant de nombreuses \u00e9quipes sur le haut pav\u00e9. R1.- Ainsi Saint-Amand champion en R1 retrouve la Pr\u00e9nationale, alors que la r\u00e9serve de l...",
-            "date": "2015-04-23",
+        "larochesuryon.maville.com/2015/04/tennis-de-table": {
+            "title": "Tennis de table...",
+            "snippet": "Le comit\u00e9 de Vend\u00e9e de tennis de table organise la journ\u00e9e finale du championnat individuel des retrait\u00e9s, avec la participation de plus de 95 joueurs, en provenance de 34 clubs vend\u00e9ens. L'organisation mat\u00e9rielle est assur\u00e9e par le club...",
+            "date": "2015-04-27",
             "categories": "tennis",
-            "tags": "retrouve,r\u00e9gionale,\u00e9quipes,tennis,table,r\u00e9gionaux",
-            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gionaux-le-bilan-dans-valenciennois",
+            "tags": "tennis,table,journ\u00e9e,finale,championnat",
+            "recuweb_url": "http://fr.recuweb.com/tennis/larochesuryon.maville.com/2015/04/tennis-de-table",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/tennis-de-table-regionaux-le-bilan-dans-le-valenciennois-ia27b0n2788960"
+            "source_url": "http://larochesuryon.maville.com/sortir/agenda_details_-loisirs-et-sports-annoncer-un-tournoi-tennis-de-table_5005508-46_agendaDetail.Htm"
         },
-        "lavoixdunord.fr/2015/04/p%C3%A9renchies-le-tennis-de-table-rate-peu-la-division-sup%C3%A9rieure-voix": {
-            "title": "P\u00e9renchies: le tennis de table rate de peu la division sup\u00e9rieure - La Voix du Nord...",
-            "snippet": "La Voix du NordP\u00e9renchies: le tennis de table rate de peu la division sup\u00e9rieureLa Voix du NordDimanche, salle Gruson, se d\u00e9roulait la finale de tennis de table pour l'accession en d\u00e9partementale 1. L'\u00e9quipe locale recevait celle de Quesnoy sur...",
-            "date": "2015-04-21",
-            "categories": "tennis",
-            "tags": "\u00e9quipe,voix,tennis,table,nord,salle,finale",
-            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/p%C3%A9renchies-le-tennis-de-table-rate-peu-la-division-sup%C3%A9rieure-voix",
-            "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable%2Btennis%2Bde%2Btable&output=atom&nord=1",
-            "source_url": "http://lavoixdunord.fr/region/perenchies-le-tennis-de-table-rate-de-peu-la-division-ia11b49735n2784501"
-        },
-        "lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gion-les-r%C3%A9sultats-la-7e-journ%C3%A9e-pour-voix": {
-            "title": "Tennis de table r\u00e9gion: les r\u00e9sultats de la 7e journ\u00e9e pour les... - La Voix du Nord...",
-            "snippet": "Tennis de table r\u00e9gion: les r\u00e9sultats de la 7e journ\u00e9e pour les...La Voix du NordVoici les r\u00e9sultats des rencontres disput\u00e9es par les \u00e9quipes du Cambr\u00e9sis engag\u00e9es dans les championnats r\u00e9gionaux. PN, poule A: Leers - Inchy-Beaumont: 14-0.",
-            "date": "2015-04-21",
-            "categories": "tennis",
-            "tags": "championnats,r\u00e9gionaux,\u00e9quipes,tennis,table,journ\u00e9e,voix,nord,cambr\u00e9sis",
-            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/tennis-de-table-r%C3%A9gion-les-r%C3%A9sultats-la-7e-journ%C3%A9e-pour-voix",
+        "courrier-picard.fr/2015/04/tennis-de-table-amiens-ne-manque-pas-d-ambition-courrier-picard": {
+            "title": "Tennis de table: Amiens ne manque pas d'ambition - Courrier Picard...",
+            "snippet": "Courrier PicardTennis de table: Amiens ne manque pas d'ambitionCourrier PicardAvec six victoires pour une seule d\u00e9faite lors de la deuxi\u00e8me phase, l'Amiens Sport Tennis de Table (ASTT) a termin\u00e9 en t\u00eate de sa poule de Nationale 2 et gagn\u00e9 son...",
+            "date": "2015-04-27",
+            "categories": "tennis,sport",
+            "tags": "d\u00e9faite,tennis,table",
+            "recuweb_url": "http://fr.recuweb.com/sport/courrier-picard.fr/2015/04/tennis-de-table-amiens-ne-manque-pas-d-ambition-courrier-picard",
             "resource_url": "http://news.google.fr/?hl=fr&q=tennis%2Bde%2Btable&output=atom&nord=1",
-            "source_url": "http://lavoixdunord.fr/region/tennis-de-table-region-les-resultats-de-la-7e-journee-ia13b0n2784608"
-        },
-        "lavoixdunord.fr/2015/04/tennis-de-table-la-cjtt-le-cateau-retrouve-r%C3%A9gionale": {
-            "title": "Tennis de table. La CJTT Le Cateau retrouve la R\u00e9gionale...",
-            "snippet": "Le tennis de table cat\u00e9sien a le vent en poupe cette saison et veut poursuivre son essor. Apr\u00e8s avoir organis\u00e9 les Individuels du Cambr\u00e9sis, le club a pu f\u00eater les siens ce dimanche avec laccession de son \u00e9quipe fanion en R\u00e9gionale, niveau...",
-            "date": "2015-04-21",
-            "categories": "tennis",
-            "tags": "dimanche,\u00e9quipe,saison,retrouve,tennis,table,r\u00e9gionale,apr\u00e8s,cambr\u00e9sis",
-            "recuweb_url": "http://fr.recuweb.com/tennis/lavoixdunord.fr/2015/04/tennis-de-table-la-cjtt-le-cateau-retrouve-r%C3%A9gionale",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
-            "source_url": "http://lavoixdunord.fr/region/tennis-de-table-la-cjtt-le-cateau-retrouve-la-regionale-ia13b0n2785081"
-        },
-        "ladepeche.fr/2015/04/arr%C3%AAt-du-tennis-de-table-faute-pr%C3%A9sident": {
-            "title": "Arr\u00eat du tennis de table faute de pr\u00e9sident...",
-            "snippet": "Dimanche 12, se passait l'assembl\u00e9e g\u00e9n\u00e9rale de l'Amicale la\u00efque section tennis de table. Dans la grande salle des sports, le comit\u00e9 des pr\u00e9sents paraissait bien petit, ce qui n'a pas surpris le pr\u00e9sident Christophe Guinedor, bien qu'un petit...",
-            "date": "2015-04-16",
-            "categories": "sport,tennis",
-            "tags": "salle,tennis,table,dimanche",
-            "recuweb_url": "http://fr.recuweb.com/tennis/ladepeche.fr/2015/04/arr%C3%AAt-du-tennis-de-table-faute-pr%C3%A9sident",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tennis%2Bde%2Btable&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/17/2088583-arret-du-tennis-de-table-faute-de-president.html"
+            "source_url": "http://courrier-picard.fr/sports/tennis-de-table-amiens-ne-manque-pas-d-ambition-ia202b0n559876"
         }
     }
 }
