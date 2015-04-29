@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
-        "404works.com/2015/04/d%C3%A9veloppeur-php-drupal-8-404works": {
-            "title": "D\u00e9veloppeur PHP Drupal 8 404Works...",
-            "snippet": "Profil et comp\u00e9tences techniques recherch\u00e9es: De formation sup\u00e9rieure en informatique et justifiant de plusieurs ann\u00e9es d'exp\u00e9rience en d\u00e9veloppement PHP5 Excellentes comp\u00e9tences en d\u00e9veloppement sur le CMS Drupal Maitrise...",
-            "date": "2015-04-27",
-            "author_name": "inconnu",
-            "categories": "drupal,php",
-            "tags": "cms,drupal,informatique,d\u00e9veloppeur",
-            "recuweb_url": "http://fr.recuweb.com/php/404works.com/2015/04/d%C3%A9veloppeur-php-drupal-8-404works",
-            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://404works.com/annonce/developpeur-php-drupal-8"
-        },
         "blog.netapsys.fr/2015/04/drupal-8-partie-1-les-nouvelles-fonctionnalit%C3%A9s-le-blog-netapsys": {
             "title": "Drupal 8 partie 1: les nouvelles fonctionnalit\u00e9s Le blog Netapsys...",
             "snippet": "Drupal 8, actuellement en beta 9, devrait sortir en version stable cet \u00e9t\u00e9. La version actuelle se rapproche donc fortement du produit final. Nous pouvons donc examiner sans plus attendre ce que nous r\u00e9serve le nouveau...",
             "date": "2015-04-22",
             "author_name": "Alexis Ravel",
             "categories": "drupal",
-            "tags": "nouveau,beta,drupal,version,\u00e9t\u00e9",
+            "tags": "beta,drupal,version,\u00e9t\u00e9",
             "recuweb_url": "http://fr.recuweb.com/drupal/blog.netapsys.fr/2015/04/drupal-8-partie-1-les-nouvelles-fonctionnalit%C3%A9s-le-blog-netapsys",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.netapsys.fr/drupal-8-partie-1-les-nouvelles-fonctionnalites-2/"
@@ -43,17 +32,6 @@
             "recuweb_url": "http://fr.recuweb.com/drupal/blog.kaliop.com/2015/04/les-meilleures-moments-du-drupal-developer-days-2015",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.kaliop.com/blog/2015/04/20/les-meilleurs-moments-drupal-developer-days/"
-        },
-        "blog.kaliop.com/2015/03/ez-publish-vs-drupal-petit-guide-entre-2-mondes": {
-            "title": "eZ Publish vs Drupal petit guide entre 2 mondes...",
-            "snippet": "Dans l'id\u00e9e de clarifier les parall\u00e8les entre eZ Publish vs Drupal, cet article donne les visions, plut\u00f4t diff\u00e9rentes, de ces 2 CMS.",
-            "date": "2015-03-27",
-            "author_name": "Julien Fabre",
-            "categories": "drupal",
-            "tags": "drupal,cms",
-            "recuweb_url": "http://fr.recuweb.com/drupal/blog.kaliop.com/2015/03/ez-publish-vs-drupal-petit-guide-entre-2-mondes",
-            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.kaliop.com/blog/2015/03/27/ez-publish-vs-drupal-guide/"
         },
         "webmaster-hub.com/2015/03/drupal-multilinguisme-et-wamp-syst%C3%A8mes-de-publication": {
             "title": "Drupal, multilinguisme et wamp - Syst\u00e8mes de publication...",
@@ -105,7 +83,7 @@
             "date": "2014-03-30",
             "author_name": "weickmann",
             "categories": "drupal",
-            "tags": "nouveau,drupal,version,cms",
+            "tags": "drupal,version,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/weickmann.wordpress.com/2014/03/mars-2014-meetup-drupal",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://weickmann.wordpress.com/2014/03/30/mars-2014-meetup-drupal/"
