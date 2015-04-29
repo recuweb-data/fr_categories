@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "water-polo",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/water-polo/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/water-polo/water-polo/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/match-waterpolo-jeune-cnm-charenton-vs-brest-24-01-2015": {
+            "title": "Match Waterpolo Jeune - CNM CHARENTON vs BREST - 24/01/2015...",
+            "snippet": "Match Waterpolo Jeune - CNM CHARENTON vs BREST - 24/01/2015 Suivez en direct le match Charenton contre Brest des \u00e9quipes -17 ans. Ce match d'ouverture sera suivie du match de nationale 1 au lien suivant: From: Waterpolo Bretagne Views: 6 0 ratings...",
+            "date": "2015-04-24",
+            "author_name": "Waterpolo Bretagne",
+            "tags": "match,nationale,direct,suivez,contre",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/match-waterpolo-jeune-cnm-charenton-vs-brest-24-01-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=50FmnhuvCSo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/50FmnhuvCSo/0.jpg"
+        },
         "dailymotion.com/2015/04/trailer-women-len-trophy-final-four-2015": {
             "title": "Trailer Women LEN Trophy Final Four 2015...",
             "snippet": "Trailer for the Women LEN Trophy Final Four 2015Author: lentvTags: Women LEN Trophy LEN European Aquatics Season 2014-2015 European Water Polo Womens Water Polo Posted: 07 April 2015Rating:: 0...",
             "date": "2015-04-07",
             "author_name": "lentv",
             "categories": "water-polo",
-            "tags": "european,european_water,european_water_polo,water,water_polo,polo,len,len_european,len_european_aquatics,european_aquatics,aquatics,season,final,lentvtags",
+            "tags": "european,european_water,european_water_polo,water,water_polo,polo,womens,women,len,len_european,len_european_aquatics,european_aquatics,aquatics,season,final,lentvtags",
             "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2015/04/trailer-women-len-trophy-final-four-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lza8u_trailer-women-len-trophy-final-four-2015_sport",
@@ -29,18 +40,30 @@
             "date": "2015-04-07",
             "author_name": "LPWP",
             "categories": "sport",
-            "tags": "rendez,saison,\u00e8me,polo,water,pro",
+            "tags": "rendez,journ\u00e9e,polo,water,pro",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/04/water-polo-masculin-montpellier-marseille-14%C3%A8me-journ%C3%A9e-2014-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lxs13_water-polo-masculin-montpellier-marseille-14eme-journee-2014-2015_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lxs13_water-polo-masculin-montpellier-marseille-14eme-journee-2014-2015_sport"
+        },
+        "youtube.com/2015/03/journ%C3%A9e-water-polo-avec-j%C3%A9r%C3%A9my-stravius": {
+            "title": "Journ\u00e9e water polo avec j\u00e9r\u00e9my stravius...",
+            "snippet": "Journ\u00e9e water polo avec j\u00e9r\u00e9my stravius From: barbe anthony Views: 50 0 ratings Time: 02:00 More in People & Blogs...",
+            "date": "2015-03-27",
+            "author_name": "barbe anthony",
+            "categories": "water-polo",
+            "tags": "water,water-polo,polo,journ\u00e9e",
+            "recuweb_url": "http://fr.recuweb.com/water-polo/youtube.com/2015/03/journ%C3%A9e-water-polo-avec-j%C3%A9r%C3%A9my-stravius",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Ilnee1Ru4Cg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Ilnee1Ru4Cg/0.jpg"
         },
         "youtube.com/2015/03/match-water-polo-sr-colmar-contre-choisy-le-roi-nationale-2": {
             "title": "Match Water-Polo SR COLMAR contre CHOISY-LE-ROI - Nationale 2...",
             "snippet": "Match Water-Polo SR COLMAR contre CHOISY-LE-ROI - Nationale 2 Match de Water-Polo Nationale 2 opposant SR COLMAR \u00e0 CHOISY-LE-ROI. Lieu: Colmar Date: 21/03/2015 Score final: SR COLMAR 10 - 13 CHOISY-LE-ROI 1\u00e8re p\u00e9riode: 0:00 2e p\u00e9riode: 15:08...",
             "date": "2015-03-24",
             "author_name": "SRColmar Natation",
-            "tags": "polo,match,water,final",
+            "tags": "polo,match,water,contre,nationale,final",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/03/match-water-polo-sr-colmar-contre-choisy-le-roi-nationale-2",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=_7ihJCV7gVo&feature=youtube_gdata",
@@ -52,7 +75,7 @@
             "date": "2015-03-09",
             "author_name": "lentv",
             "categories": "water-polo",
-            "tags": "len,len_european,len_european_aquatics,european,european_aquatics,aquatics,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,preliminary_round_day,round_day,srb,lentvtags",
+            "tags": "len,len_european,len_european_aquatics,european,european_aquatics,aquatics,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,preliminary_round_day,round_day,lentvtags",
             "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2015/03/champions-league-preliminary-round-day-6-partizan-belgrade-srb-vs-spandau",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2itcwq_champions-league-preliminary-round-day-6-partizan-belgrade-srb-vs-spandau-berlin-ger_sport",
@@ -64,34 +87,11 @@
             "date": "2015-02-05",
             "author_name": "LPWP",
             "categories": "place",
-            "tags": "match,water,polo,rendez",
+            "tags": "match,direct,water,polo,suivez,rendez",
             "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/02/water-polo-teaser-coupe-de-la-ligue-masculine",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2gh69d_water-polo-teaser-coupe-de-la-ligue-masculine_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2gh69d_water-polo-teaser-coupe-de-la-ligue-masculine_sport"
-        },
-        "youtube.com/2015/01/water-polo-valence-vs-rillieux-la-pape-10-01-2015": {
-            "title": "Water-polo: Valence vs Rillieux-la-Pape 10/01/2015...",
-            "snippet": "Water-polo: Valence vs Rillieux-la-Pape 10/01/2015 Championnat de France N3B - Valence s'impose 11 \u00e0 9 face \u00e0 Rillieux Les joueurs du club des enfants du Rhone recevaient Rillieux pour leur 5\u00e8me match de la saison. Avant d'entamer cette... From:...",
-            "date": "2015-01-17",
-            "author_name": "capitainetroptop",
-            "tags": "\u00e8me,match,saison,water,polo",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/01/water-polo-valence-vs-rillieux-la-pape-10-01-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=P1MpZEButsM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/P1MpZEButsM/0.jpg"
-        },
-        "youtube.com/2014/12/photo-montage-bonne-ann%C3%A9e-2015-mulhouse-water-polo-converted": {
-            "title": "Photo Montage Bonne ann\u00e9e 2015 Mulhouse Water Polo converted...",
-            "snippet": "Photo Montage Bonne ann\u00e9e 2015 Mulhouse Water Polo converted Photo Montage Bonne Ann\u00e9e 2005 Mulhouse Water Polo Musique Divergence (Remastered VIP) Interpreter TheBlackParrot. From: Mulhouse Waterpolo Views: 144 0 ratings Time: 06:27 More in...",
-            "date": "2014-12-26",
-            "author_name": "Mulhouse Waterpolo",
-            "categories": "musique,water-polo",
-            "tags": "water_polo,water,polo,ann\u00e9e",
-            "recuweb_url": "http://fr.recuweb.com/water-polo/youtube.com/2014/12/photo-montage-bonne-ann%C3%A9e-2015-mulhouse-water-polo-converted",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=tpFy73F-lTA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/tpFy73F-lTA/0.jpg"
         },
         "youtube.com/2014/12/2i%C3%A8me-gala-prestige-de-water-polo-fc-laon-natation": {
             "title": "2i\u00e8me Gala Prestige de Water-Polo FC Laon Natation...",
@@ -99,7 +99,7 @@
             "date": "2014-12-24",
             "author_name": "fclaonnatation",
             "categories": "water-polo",
-            "tags": "ann\u00e9e,water,polo,pro",
+            "tags": "water,water-polo,polo,pro",
             "recuweb_url": "http://fr.recuweb.com/water-polo/youtube.com/2014/12/2i%C3%A8me-gala-prestige-de-water-polo-fc-laon-natation",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=zmmPjxd1fOo&feature=youtube_gdata",
@@ -111,23 +111,23 @@
             "date": "2014-12-20",
             "author_name": "lentv",
             "categories": "water-polo",
-            "tags": "european,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,len,len_european,len_european_aquatics,european_aquatics,aquatics,len_champions,len_champions_league,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,pro,pro_recco,recco,preliminary_round_day,round_day,ita,lentvtags",
+            "tags": "european,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,len,len_european,len_european_aquatics,european_aquatics,aquatics,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,pro,preliminary_round_day,round_day,lentvtags",
             "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2014/12/champions-league-preliminary-round-day-2-zf-eger-hun-vs-pro",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cwx9z_champions-league-preliminary-round-day-2-zf-eger-hun-vs-pro-recco-ita_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2cwx9z_champions-league-preliminary-round-day-2-zf-eger-hun-vs-pro-recco-ita_sport"
         },
-        "dailymotion.com/2014/12/champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs": {
-            "title": "Champions League Preliminary Round Day 1 - VK Radnicki Kragujevac (SRB) vs Pro Recco (ITA)...",
-            "snippet": "Champions League Preliminary Round Day 1 played on 30 November in Kragujevac (SRB)Author: lentvTags: LEN Champions League LEN European Water Polo LEN Water Polo European Aquatics Preliminary Round season 2014-2015 Posted: 12 December 2014Rating:: 0...",
-            "date": "2014-12-12",
+        "dailymotion.com/2014/12/women-s-len-super-cup-2014-olympiacos-sfp-piraeus-gre-vs": {
+            "title": "Women's LEN Super Cup 2014 - Olympiacos SFP Piraeus (GRE) vs CN Sabadell (ESP)...",
+            "snippet": "Women's LEN Super Cup 2014 played on 21 November 2014 in Barcelona (ESP)Author: lentvTags: LEN European Aquatics European Water Polo Womens Water Polo LEN Super Cup Barcelona 2014 Posted: 15 December 2014Rating:: 0...",
+            "date": "2014-12-15",
             "author_name": "lentv",
             "categories": "water-polo",
-            "tags": "len,len_champions,len_champions_league,champions,champions_league,league,len_european,european,european_water,european_water_polo,water,water_polo,polo,european_aquatics,aquatics,preliminary,preliminary_round,round,played,pro,pro_recco,recco,champions_league_preliminary,league_preliminary,league_preliminary_round,preliminary_round_day,round_day,srb,ita,lentvtags,season",
-            "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2014/12/champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs",
+            "tags": "len,european,aquatics,water,water-polo,polo,womens,women,played,lentvtags",
+            "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2014/12/women-s-len-super-cup-2014-olympiacos-sfp-piraeus-gre-vs",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2cb4bh_champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs-pro-recco-ita_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cb4bh_champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs-pro-recco-ita_sport"
+            "source_url": "http://dailymotion.com/video/x2ckwdz_women-s-len-super-cup-2014-olympiacos-sfp-piraeus-gre-vs-cn-sabadell-esp_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ckwdz_women-s-len-super-cup-2014-olympiacos-sfp-piraeus-gre-vs-cn-sabadell-esp_sport"
         }
     }
 }
