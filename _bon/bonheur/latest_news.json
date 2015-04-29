@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bonheur",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/bonheur/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bonheur/bonheur/blogs.json"
     },
     "items": {
+        "ledauphine.com/2015/04/le-bonheur-est-dans-la-ferme-dauphin%C3%A9-lib%C3%A9r%C3%A9": {
+            "title": "Le bonheur est dans la ferme - Le Dauphin\u00e9 Lib\u00e9r\u00e9...",
+            "snippet": "Le Dauphin\u00e9 Lib\u00e9r\u00e9Le bonheur est dans la fermeLe Dauphin\u00e9 Lib\u00e9r\u00e9En 2009, Lucie Deschamps est au bout de ce qu'elle attendait de son m\u00e9tier d'infirmi\u00e8re, elle d\u00e9missionne et invente une nouvelle vie autour de sa passion: les animaux. Je suis...",
+            "date": "2015-04-28",
+            "categories": "bonheur",
+            "tags": "vie,bonheur",
+            "recuweb_url": "http://fr.recuweb.com/bonheur/ledauphine.com/2015/04/le-bonheur-est-dans-la-ferme-dauphin%C3%A9-lib%C3%A9r%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=bonheur&output=atom&nord=1",
+            "source_url": "http://ledauphine.com/ardeche/2015/04/27/le-bonheur-est-dans-la-ferme"
+        },
         "lavoixdunord.fr/2015/04/caudry-le-bonheur-individuel-face-au-collectif": {
             "title": "Caudry: le bonheur individuel face au bonheur collectif...",
             "snippet": "Pour mettre en sc\u00e8ne le roman Nous Autres dEug\u00e8ne Zamiatine, la troupe a choisi un d\u00e9cor futuriste, sobre et mobile qui sest modifi\u00e9 au gr\u00e9 des \u00e9clairages. Une atmosph\u00e8re glaciale o\u00f9 musique et bruitages ont ajout\u00e9 au d\u00e9paysement et des...",
@@ -20,16 +30,6 @@
             "recuweb_url": "http://fr.recuweb.com/bonheur/lavoixdunord.fr/2015/04/caudry-le-bonheur-individuel-face-au-collectif",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bonheur&format=RSS&cc=fr",
             "source_url": "http://lavoixdunord.fr/region/caudry-le-bonheur-individuel-face-au-bonheur-collectif-ia14b45240n2796413"
-        },
-        "netevents.be/2015/04/mathieu-johann-le-tour-du-bonheur": {
-            "title": "Mathieu Johann: Le Tour du bonheur...",
-            "snippet": "Bulbul - Mile Me Deaf - Ze Zorgs Concert Pop/Rock Magasin 4 - Bruxelles Soir\u00e9e du Beau tas! Bulbul (Noise Rock). It started as a one-man band in wels, upper-austria, when Raumschiff Engelmayr, outfitted with guitar, drumcomp... Des Notes et des...",
-            "date": "2015-04-27",
-            "categories": "rock,pop,bonheur",
-            "tags": "bonheur",
-            "recuweb_url": "http://fr.recuweb.com/bonheur/netevents.be/2015/04/mathieu-johann-le-tour-du-bonheur",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bonheur&format=RSS&cc=fr",
-            "source_url": "http://netevents.be/fr/concert/113176/Mathieu-Johann-Le-Tour-du-bonheur/"
         },
         "sudouest.fr/2015/04/au-bonheur-des-livresl%C3%A9rosion-marine-a-passionn%C3%A9": {
             "title": "Au bonheur des livresL\u00e9rosion marine a passionn\u00e9...",
@@ -46,7 +46,7 @@
             "snippet": "Dans quel pays est-on le plus heureux au monde? The World Hapiness Report dresse une g\u00e9ographie du bonheur dans le monde. Apr\u00e8s 2012 et 2013, cest le troisi\u00e8me rapport de lOrganisation des Nations Unies sur l\u00e9tat du bonheur dans le...",
             "date": "2015-04-24",
             "categories": "bonheur",
-            "tags": "quel,o\u00f9,bonheur",
+            "tags": "rapport,monde,heureux,quel,pays,pays-o\u00f9,o\u00f9,bonheur",
             "recuweb_url": "http://fr.recuweb.com/bonheur/liligo.fr/2015/04/bonheur-dans-le-monde-les-pays-o%C3%B9-lon-est-plus-heureux",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bonheur&format=RSS&cc=fr",
             "source_url": "http://liligo.fr/magazine-voyage/bonheur-les-pays-heureux-31533.html"
@@ -60,6 +60,16 @@
             "recuweb_url": "http://fr.recuweb.com/bonheur/slate.fr/2015/04/la-subjectivation-condition-du-bonheur-r%C3%A9el",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bonheur&format=RSS&cc=fr",
             "source_url": "http://slate.fr/story/100797/subjectivation-condition-bonheur-reel"
+        },
+        "actu.orange.fr/2015/04/le-bonheur-c-est-en-suisse": {
+            "title": "Le bonheur, c'est en Suisse...",
+            "snippet": "C'est la conclusion du 3e rapport sur le Bonheur dans le monde: la Suisse est le pays o\u00f9 l'on est le plus heureux. La Suisse est le pays le plus heureux du monde, suivie par l'Islande, le Danemark, la Norv\u00e8ge et le Canada, alors que la France est...",
+            "date": "2015-04-23",
+            "categories": "bonheur",
+            "tags": "pays,heureux,monde,pays-o\u00f9,o\u00f9,rapport,bonheur,france",
+            "recuweb_url": "http://fr.recuweb.com/bonheur/actu.orange.fr/2015/04/le-bonheur-c-est-en-suisse",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=bonheur&format=RSS&cc=fr",
+            "source_url": "http://actu.orange.fr/une/le-bonheur-c-est-en-suisse-afp-s_CNT0000009nVeF.html"
         },
         "fr.news.yahoo.com/2015/03/jade-foret-et-arnaud-lagard%C3%A8re-une-famille-unie-pour-l-anniversaire": {
             "title": "Jade Foret et Arnaud Lagard\u00e8re: Une famille unie pour l'anniversaire de Mila!",
@@ -86,7 +96,7 @@
             "snippet": "Ce sont vers les films que se sont tourn\u00e9s les t\u00e9l\u00e9spectateurs. TF1 et France 2 ont fait la course en t\u00eate avec respectivement Un bonheur n'arrive jamais seul et Potiche. France 4, leader de la TNT, a d\u00e9pass\u00e9 les 6% de part d'audience avec Le...",
             "date": "2015-03-09",
             "categories": "bonheur",
-            "tags": "arrive,arrive-jamais,arrive-jamais-seul,jamais,jamais-seul,seul,bonheur",
+            "tags": "jamais,bonheur,france",
             "recuweb_url": "http://fr.recuweb.com/bonheur/fr.news.yahoo.com/2015/03/audiences-tv-tf1-petit-leader-avec-un-bonheur-n-arrive-jamais",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=bonheur",
             "source_url": "http://fr.news.yahoo.com/audiences-tv-tf1-petit-leader-bonheur-narrive-jamais-092400995.html"
@@ -96,20 +106,10 @@
             "snippet": "\"Je n'ai jamais \u00e9t\u00e9 aussi heureuse de toute ma vie!\" Le bonheur de Martine McCutcheon cr\u00e8ve les yeux en couverture du dernier num\u00e9ro de Hello!, o\u00f9 la com\u00e9dienne r\u00e9v\u00e9l\u00e9e dans la com\u00e9die romantique...",
             "date": "2015-03-09",
             "categories": "bonheur",
-            "tags": "o\u00f9,jamais,bonheur",
+            "tags": "o\u00f9,jamais,vie,bonheur",
             "recuweb_url": "http://fr.recuweb.com/bonheur/fr.news.yahoo.com/2015/03/martine-mccutcheon-love-actually-heureuse-pr%C3%A9sente-son-b%C3%A9b%C3%A9-rafferty",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=bonheur",
             "source_url": "http://fr.news.yahoo.com/martine-mccutcheon-love-actually-heureuse-pr\u00e9sente-b\u00e9b\u00e9-rafferty-131300958.html"
-        },
-        "fr.news.yahoo.com/2015/03/les-diff%C3%A9rences-entre-com%C3%A9dies-romantiques-et-la-r%C3%A9alit%C3%A9-un-bonheur": {
-            "title": "Les diff\u00e9rences entre les com\u00e9dies romantiques et la r\u00e9alit\u00e9 (Un bonheur n'arrive jamais seul)...",
-            "snippet": "Les diff\u00e9rences entre les com\u00e9dies romantiques et la r\u00e9alit\u00e9 (Un bonheur n'arrive jamais seul)...",
-            "date": "2015-03-08",
-            "categories": "bonheur",
-            "tags": "arrive,arrive-jamais,arrive-jamais-seul,jamais,jamais-seul,seul,bonheur",
-            "recuweb_url": "http://fr.recuweb.com/bonheur/fr.news.yahoo.com/2015/03/les-diff%C3%A9rences-entre-com%C3%A9dies-romantiques-et-la-r%C3%A9alit%C3%A9-un-bonheur",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=bonheur",
-            "source_url": "http://fr.news.yahoo.com/diff\u00e9rences-entre-com\u00e9dies-romantiques-r\u00e9alit\u00e9-bonheur-narrive-jamais-150000118.html"
         }
     }
 }
