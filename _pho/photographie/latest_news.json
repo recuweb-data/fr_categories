@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "photographie",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/photographie/",
@@ -11,16 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/photographie/photographie/blogs.json"
     },
     "items": {
-        "mensquare.com/2015/04/tout-ce-quil-faut-retenir-des-sony-world-photography-awards-2015": {
-            "title": "Tout ce quil faut retenir des Sony World Photography Awards 2015...",
-            "snippet": "Une envol\u00e9e de 24% qui hisse les SWPA au rang du plus grand concours de photographie au monde selon les organisateurs. Et si le succ\u00e8s est au rendez-vous, l\u00e9v\u00e9nement ne snobe personne en r\u00e9compensant les d\u00e9butants comme les plus grands.",
-            "date": "2015-04-27",
-            "categories": "photographie",
-            "tags": "personne,succ\u00e8s,rendez,monde,photographie",
-            "recuweb_url": "http://fr.recuweb.com/photographie/mensquare.com/2015/04/tout-ce-quil-faut-retenir-des-sony-world-photography-awards-2015",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=photographie&format=RSS&cc=fr",
-            "source_url": "http://mensquare.com/menly/arts/186514-sony-world-photography-awards-swpa-2015-photo"
-        },
         "m.7sur7.be/2015/04/un-b%C3%A9b%C3%A9-de-l-ei-photographi%C3%A9-avec-armes-et-menaces": {
             "title": "Un b\u00e9b\u00e9 de l'EI photographi\u00e9 avec armes et menaces...",
             "snippet": "Cette photographie d'un nourrisson dont les parents sont membres du groupe terroriste \u00c9tat islamique suscite l'indignation sur les r\u00e9seaux sociaux. Sur ce clich\u00e9 pol\u00e9mique diffus\u00e9 sur Twitter, on voit un b\u00e9b\u00e9 paisiblement endormi tandis...",
@@ -46,7 +36,7 @@
             "snippet": "Royan ActuR\u00e9ussir le m\u00e9tier de photographe professionnel sans \u00e9tudes...Royan ActuUn photographe professionnel est une personne dont la seule source de revenus vient de la photographie. Nous exer\u00e7ons tous les deux ce m\u00e9tier avec passion depuis...",
             "date": "2015-04-26",
             "categories": "photographie",
-            "tags": "photographe,personne,photographie",
+            "tags": "photographe,photographie",
             "recuweb_url": "http://fr.recuweb.com/photographie/royan-actu.com/2015/04/r%C3%A9ussir-le-m%C3%A9tier-de-photographe-professionnel-sans-%C3%A9tudes-royan-actu",
             "resource_url": "http://news.google.fr/?hl=fr&q=photographie&output=atom&nord=1",
             "source_url": "http://royan-actu.com/reussir-le-metier-de-photographe-professionnel-sans-etudes-specialisees-13959"
@@ -61,12 +51,22 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=photographie&format=RSS&cc=fr",
             "source_url": "http://bienpublic.com/edition-dijon-ville/2015/04/24/photographie-et-culture-rock"
         },
+        "courrierinternational.com/2015/04/photographie-la-semaine-en-images-18-24-avril": {
+            "title": "Photographie. La semaine en images (18-24 avril)...",
+            "snippet": "Les migrants continuent de se noyer en M\u00e9diterran\u00e9e, l'Arm\u00e9nie comm\u00e9more le g\u00e9nocide de 1915 et les Africains du Sud manifestent contre la x\u00e9nophobie. Tour du monde des photographies marquantes de cette semaine, s\u00e9lectionn\u00e9es par Courrier...",
+            "date": "2015-04-24",
+            "categories": "photographie",
+            "tags": "monde,photographie,contre,g\u00e9nocide,arm\u00e9nie,sud",
+            "recuweb_url": "http://fr.recuweb.com/photographie/courrierinternational.com/2015/04/photographie-la-semaine-en-images-18-24-avril",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=photographie&format=RSS&cc=fr",
+            "source_url": "http://courrierinternational.com/diaporama/photographie-la-semaine-en-images-18-24-avril"
+        },
         "france3-regions.francetvinfo.fr/2015/04/la-bordelaise-ga%C3%ABlle-hamalian-testud-photographie-l-arm%C3%A9nie-d-francetv-info": {
             "title": "la bordelaise Ga\u00eblle Hamalian-Testud photographie l'Arm\u00e9nie d... - Francetv info...",
             "snippet": "Francetv infola bordelaise Ga\u00eblle Hamalian-Testud photographie l'Arm\u00e9nie d...Francetv infoAlors que l'Arm\u00e9nie comm\u00e9morait, ce vendredi, le g\u00e9nocide perp\u00e9tr\u00e9 contre sa population en 1915 par les Turcs ottomans, une photographe bordelaise, en...",
             "date": "2015-04-24",
             "categories": "photographie",
-            "tags": "photographe,ga\u00eblle,photographie",
+            "tags": "photographe,g\u00e9nocide,contre,ga\u00eblle,photographie,arm\u00e9nie",
             "recuweb_url": "http://fr.recuweb.com/photographie/france3-regions.francetvinfo.fr/2015/04/la-bordelaise-ga%C3%ABlle-hamalian-testud-photographie-l-arm%C3%A9nie-d-francetv-info",
             "resource_url": "http://news.google.fr/?hl=fr&q=photographie&output=atom&nord=1",
             "source_url": "http://france3-regions.francetvinfo.fr/aquitaine/2015/04/24/la-bordelaise-gaelle-hamalian-testud-photographie-l-armenie-d-aujourd-hui-711795.html"
@@ -86,7 +86,7 @@
             "snippet": "Il fait la taille dun chat domestique, mais pr\u00e9sente une queue bien plus longue. Son pelage tachet\u00e9 fait penser au marbre, do\u00f9 son nom. Ce f\u00e9lin sauvage, qui vit dordinaire en Asie du sud-est, a \u00e9t\u00e9 photographi\u00e9 par Sebastian Kennerknecht, de...",
             "date": "2015-03-19",
             "categories": "photographie",
-            "tags": "\u00e9t\u00e9,photographi\u00e9,pr\u00e9sente",
+            "tags": "\u00e9t\u00e9,photographi\u00e9,sud,pr\u00e9sente",
             "recuweb_url": "http://fr.recuweb.com/photographie/fr.news.yahoo.com/2015/03/une-image-rare-le-chat-marbr%C3%A9-un-animal-et-timide",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=photographie",
             "source_url": "http://fr.news.yahoo.com/image-rare-chat-marbr\u00e9-animal-rare-timide-170439005.html"
@@ -96,7 +96,7 @@
             "snippet": "PHOTOGRAPHIE - Apr\u00e8s le succ\u00e8s du compte Everyday Africa, les initiatives se multiplient pour apporter un autre regard sur de nombreuses r\u00e9gions du globe...",
             "date": "2015-03-18",
             "categories": "photographie",
-            "tags": "succ\u00e8s,instagram,photographie",
+            "tags": "instagram,photographie",
             "recuweb_url": "http://fr.recuweb.com/photographie/fr.news.yahoo.com/2015/03/instagram-les-comptes-everyday-se-multiplient",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=photographie",
             "source_url": "http://fr.news.yahoo.com/instagram-comptes-everyday-multiplient-185210997.html"
