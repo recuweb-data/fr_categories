@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yahoo",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yahoo/",
@@ -11,65 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yahoo/yahoo/blogs.json"
     },
     "items": {
-        "linformatique.org/2015/04/assistant-personnel-yahoo-pr%C3%A9pare-index": {
-            "title": "Assistant personnel: Yahoo! pr\u00e9pare Index...",
-            "snippet": "Pour venir concurrencer Google Now, Siri et Cortana sur le march\u00e9 des assistants personnels, Yahoo! pr\u00e9pare Index. Cest en publiant ses r\u00e9sultats financiers, hier, que Yahoo! a livr\u00e9 quelques informations au sujet des nouveaux produits en cours...",
-            "date": "2015-04-24",
-            "categories": "yahoo,google",
-            "tags": "quelques,cours,r\u00e9sultats,yahoo,google",
-            "recuweb_url": "http://fr.recuweb.com/google/linformatique.org/2015/04/assistant-personnel-yahoo-pr%C3%A9pare-index",
+        "fr.sports.yahoo.com/2015/04/gregory-mertens-dans-un-%C3%A9tat-grave-apr%C3%A8s-une-crise-cardiaque-yahoo": {
+            "title": "Gregory Mertens dans un \u00e9tat grave apr\u00e8s une crise cardiaque - Yahoo Sport...",
+            "snippet": "Yahoo SportGregory Mertens dans un \u00e9tat grave apr\u00e8s une crise cardiaqueYahoo SportLe d\u00e9fenseur de Lokeren Gregory Mertens, 24 ans, a \u00e9t\u00e9 victime d'une crise cardiaque lors d'un match de r\u00e9serves contre Genk lundi soir et se trouve dans un...",
+            "date": "2015-04-28",
+            "categories": "yahoo,sport",
+            "tags": "lundi,match,\u00e9t\u00e9,apr\u00e8s,yahoo,yahoo_sport,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/gregory-mertens-dans-un-%C3%A9tat-grave-apr%C3%A8s-une-crise-cardiaque-yahoo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
+            "source_url": "http://fr.sports.yahoo.com/news/joueur-belge-entre-vie-mort-apr\u00e8s-crise-cardiaque-064424079--spt.html"
+        },
+        "fr.sports.yahoo.com/2015/04/nasser-al-khela%C3%AFfi-sans-le-fair-play-financier-on-peut-imaginer": {
+            "title": "Nasser al-Khela\u00effi: Sans le fair-play financier, on peut imaginer que... - Yahoo Sport...",
+            "snippet": "Yahoo SportNasser al-Khela\u00effi: Sans le fair-play financier, on peut imaginer que...Yahoo SportLa pilule n'est toujours pas pass\u00e9e. L'\u00e9t\u00e9 dernier, le PSG souhaitait se renforcer en d\u00e9fense et sur ses ailes. Si Paris avait pu enr\u00f4ler David Luiz...",
+            "date": "2015-04-28",
+            "categories": "yahoo,sport,play",
+            "tags": "renforcer,\u00e9t\u00e9,yahoo,yahoo_sport,sport,peut,psg",
+            "recuweb_url": "http://fr.recuweb.com/play/fr.sports.yahoo.com/2015/04/nasser-al-khela%C3%AFfi-sans-le-fair-play-financier-on-peut-imaginer",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
+            "source_url": "http://fr.sports.yahoo.com/news/nasser-al-khela\u00effi-fair-play-financier-peut-imaginer-070839571--spt.html"
+        },
+        "fr.news.yahoo.com/2015/04/indon%C3%A9sie-la-r%C3%A9ponse-du-psg-aux-proches-de-serge-atlaoui-yahoo": {
+            "title": "Indon\u00e9sie: la r\u00e9ponse du PSG aux proches de Serge Atlaoui - Yahoo Sport...",
+            "snippet": "Yahoo SportIndon\u00e9sie: la r\u00e9ponse du PSG aux proches de Serge AtlaouiYahoo - Stade de France (Saint-Denis), le 11 avril 2015. Jean-Claude Blanc, directeur g\u00e9n\u00e9ral d\u00e9l\u00e9gu\u00e9 du PSG, a expliqu\u00e9 aux soutiens de Serge Atlaoui que le club parisien...",
+            "date": "2015-04-27",
+            "categories": "yahoo,sport",
+            "tags": "yahoo,yahoo_sport,sport,psg,jean",
+            "recuweb_url": "http://fr.recuweb.com/sport/fr.news.yahoo.com/2015/04/indon%C3%A9sie-la-r%C3%A9ponse-du-psg-aux-proches-de-serge-atlaoui-yahoo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
+            "source_url": "http://fr.news.yahoo.com/indon\u00e9sie-r\u00e9ponse-psg-proches-serge-atlaoui-172200794--spt.html"
+        },
+        "boursorama.com/2015/04/vid%C3%A9o-en-ligne-yahoo-annonce-une-s%C3%A9rie-de-nouveaux-programmes": {
+            "title": "Vid\u00e9o en ligne: Yahoo! annonce une s\u00e9rie de nouveaux programmes...",
+            "snippet": "Le groupe internet am\u00e9ricain Yahoo! poursuit ses efforts dans la vid\u00e9o en ligne, avec l'annonce lundi de 18 nouveaux programmes avec lesquels il esp\u00e8re \u00e9largir son audience mais aussi attirer davantage d'annonceurs publicitaires. Quatorze...",
+            "date": "2015-04-27",
+            "categories": "internet,yahoo",
+            "tags": "lundi,groupe,internet,am\u00e9ricain,yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/boursorama.com/2015/04/vid%C3%A9o-en-ligne-yahoo-annonce-une-s%C3%A9rie-de-nouveaux-programmes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=yahoo&format=RSS&cc=fr",
-            "source_url": "http://linformatique.org/assistant-personnel-yahoo-prepare-index/"
+            "source_url": "http://boursorama.com/actualites/video-en-ligne-yahoo-annonce-une-serie-de-nouveaux-programmes-ea0fbbd445db1bc9efa775a86d9b2ad3"
         },
-        "fr.sports.yahoo.com/2015/04/basket-nanterre-h%C3%A9ro%C3%AFque-s-offre-la-finale-de-l-eurochallenge-yahoo": {
-            "title": "Basket: Nanterre, h\u00e9ro\u00efque, s'offre la finale de l'Eurochallenge - Yahoo Sport...",
-            "snippet": "Yahoo SportBasket: Nanterre, h\u00e9ro\u00efque, s'offre la finale de l'EurochallengeYahoo SportNanterre, magnifique de volont\u00e9 et de courage, s'est qualifi\u00e9 pour la finale de l'Eurochallenge messieurs de basket en prenant le dessus sur les Allemands de...",
-            "date": "2015-04-24",
-            "categories": "yahoo,sport",
-            "tags": "yahoo,yahoo_sport,sport,offre",
-            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/basket-nanterre-h%C3%A9ro%C3%AFque-s-offre-la-finale-de-l-eurochallenge-yahoo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
-            "source_url": "http://fr.sports.yahoo.com/news/basket-nanterre-h\u00e9ro\u00efque-soffre-finale-leurochallenge-161256034--spt.html"
-        },
-        "fr.sports.yahoo.com/2015/04/europa-league-la-fiorentina-pour-gameiro-du-lourd-yahoo-sport": {
-            "title": "Europa League: la Fiorentina pour Gameiro, du lourd pour... - Yahoo Sport...",
-            "snippet": "Yahoo SportEuropa League: la Fiorentina pour Gameiro, du lourd pour...Yahoo SportS\u00e9ville, tenant du titre port\u00e9 par son goleador Kevin Gameiro, jouera contre la Fiorentina de \"Super Mario\" Gomez en demi-finales de l'Europa League, tandis que le...",
-            "date": "2015-04-24",
-            "categories": "yahoo,sport",
-            "tags": "demi,yahoo,yahoo_sport,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/europa-league-la-fiorentina-pour-gameiro-du-lourd-yahoo-sport",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo%2Byahoo&output=atom&nord=1",
-            "source_url": "http://fr.sports.yahoo.com/news/europa-league-fiorentina-gameiro-lourd-dniepropetrovsk-162810233--sow.html"
-        },
-        "fr.sports.yahoo.com/2015/04/ligue-des-champions-les-quatre-fantastiques-au-tirage-sort-yahoo-sport": {
-            "title": "Ligue des champions: les quatre fantastiques au tirage au sort - Yahoo Sport...",
-            "snippet": "Yahoo SportLigue des champions: les quatre fantastiques au tirage au sortYahoo Sport\"Real Madrid, Juventus, Barcelone, Bayern Munich, \u00e7a c'est ce qu'on appelle un plateau de demi-finales\": l'ex-buteur star anglais Gary Lineker a r\u00e9sum\u00e9 sur...",
-            "date": "2015-04-23",
-            "categories": "sport,realmadrid,yahoo",
-            "tags": "demi,sport,real,yahoo,yahoo_sport,juventus",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/fr.sports.yahoo.com/2015/04/ligue-des-champions-les-quatre-fantastiques-au-tirage-sort-yahoo-sport",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
-            "source_url": "http://fr.sports.yahoo.com/news/ligue-champions-quatre-fantastiques-au-tirage-au-sort-214334503--spt.html"
-        },
-        "fr.sports.yahoo.com/2015/04/video-chicharito-hernandez-pleure-apr%C3%A8s-avoir-sauv%C3%A9-le-real-yahoo-sport": {
-            "title": "VIDEO. Chicharito Hernandez pleure apr\u00e8s avoir sauv\u00e9 le Real - Yahoo Sport...",
-            "snippet": "Yahoo SportVIDEO. Chicharito Hernandez pleure apr\u00e8s avoir sauv\u00e9 le RealYahoo SportFOOTBALL - Le co\u00e9quipier de Critiano Ronaldo, auteur du seul but de la rencontre, n'a pas su retenir ses larmes... C'est mignon... Qui a dit que les footeux...",
-            "date": "2015-04-23",
-            "categories": "yahoo,sport",
-            "tags": "yahoo,yahoo_sportvideo,sportvideo,yahoo_sport,sport,apr\u00e8s,real",
-            "recuweb_url": "http://fr.recuweb.com/sport/fr.sports.yahoo.com/2015/04/video-chicharito-hernandez-pleure-apr%C3%A8s-avoir-sauv%C3%A9-le-real-yahoo-sport",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
-            "source_url": "http://fr.sports.yahoo.com/news/video-real-madrid-atl\u00e9tico-chicharito-pleurs-apr\u00e8s-but-070957112--spt.html"
-        },
-        "fr.sports.yahoo.com/2015/04/video-quand-chiellini-fait-main-twitter-des-bonds-yahoo-sport": {
-            "title": "VIDEO. Quand Chiellini fait main, Twitter fait des bonds - Yahoo Sport...",
-            "snippet": "Yahoo SportVIDEO. Quand Chiellini fait main, Twitter fait des bondsYahoo SportC'est une main qui aurait pu tout changer. D\u00e8s la 2e minute du match entre Monaco et la Juventus, le d\u00e9fenseur italien Giorgi Chiellini glisse dans son propre camp et...",
-            "date": "2015-04-23",
-            "categories": "yahoo,sport,twitter",
-            "tags": "match,yahoo,yahoo_sportvideo,sportvideo,yahoo_sport,sport,juventus",
-            "recuweb_url": "http://fr.recuweb.com/twitter/fr.sports.yahoo.com/2015/04/video-quand-chiellini-fait-main-twitter-des-bonds-yahoo-sport",
-            "resource_url": "http://news.google.fr/?hl=fr&q=yahoo&output=atom&nord=1",
-            "source_url": "http://fr.sports.yahoo.com/news/geste-scandaleux-chiellini-moqu\u00e9-twitter-080831908--spt.html"
+        "phonandroid.com/2015/04/yahoo-peut-d%C3%A9tecter-les-messages-de-haine-des-forums-et-supprimer": {
+            "title": "Yahoo peut d\u00e9tecter les messages de haine des forums et les supprimer automatiquement...",
+            "snippet": "Anticiper les messages de haine pour permettre une meilleure entente sur les forums de discussion? Une belle id\u00e9e sur le papier pour Yahoo mais quen est-il alors de la libert\u00e9 dexpression des individus. La firme souhaite appliquer un nouvel...",
+            "date": "2015-04-27",
+            "categories": "yahoo",
+            "tags": "meilleure,peut,yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/phonandroid.com/2015/04/yahoo-peut-d%C3%A9tecter-les-messages-de-haine-des-forums-et-supprimer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=yahoo&format=RSS&cc=fr",
+            "source_url": "http://phonandroid.com/yahoo-peut-detecter-messages-haine-supprimer-automatiquement.html"
         },
         "infos-mobiles.com/2015/04/yahoo-et-microsoft-ajout-dune-clause-de-r%C3%A9siliation-dans-leur-accord": {
             "title": "Yahoo et Microsoft: ajout dune clause de r\u00e9siliation dans leur accord de recherche...",
@@ -86,7 +76,7 @@
             "snippet": "Le moteur de recherche Yahoo concentre une part croissante des revenus du groupe Internet am\u00e9ricain, pour lequel la transition vers le mobile reste d\u00e9licate. Yahoo a jou\u00e9 au yo-yo en Bourse ce mardi. Le groupe Internet am\u00e9ricain a dabord vu...",
             "date": "2015-04-21",
             "categories": "moteur-de-recherche,yahoo,internet",
-            "tags": "moteur,moteur-de-recherche,recherche,r\u00e9sultats,yahoo",
+            "tags": "am\u00e9ricain,reste,groupe,moteur,moteur-de-recherche,recherche,r\u00e9sultats,yahoo,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/itespresso.fr/2015/04/r%C3%A9sultats-yahoo-un-moteur-de-croissance",
             "resource_url": "http://www.bing.com/news/search?first=1&q=yahoo&format=RSS&cc=fr",
             "source_url": "http://itespresso.fr/resultats-yahoo-moteur-croissance-94378.html"
@@ -96,20 +86,30 @@
             "snippet": "Personne ne vous ne voudra vraiment si vous navez plus utilis\u00e9 Yahoo depuis quelques ann\u00e9es. Mais sachez-le, le moteur de recherche continue ses activit\u00e9s, mais oui, m\u00eame sil continue de puiser dans les r\u00e9sultats de recherche de Bing. Ce...",
             "date": "2015-04-17",
             "categories": "moteur-de-recherche,yahoo,bing",
-            "tags": "r\u00e9sultats,recherche,moteur,moteur-de-recherche,quelques,yahoo",
+            "tags": "r\u00e9sultats,recherche,moteur,moteur-de-recherche,yahoo",
             "recuweb_url": "http://fr.recuweb.com/bing/journaldugeek.com/2015/04/yahoo-et-bing-toujours-ensemble",
             "resource_url": "http://www.bing.com/news/search?first=1&q=yahoo%2Byahoo&format=RSS&cc=fr",
             "source_url": "http://journaldugeek.com/2015/04/17/yahoo-et-bing-toujours-ensemble/"
         },
-        "infos-mobiles.com/2015/04/yahoo-est-en-pourparlers-pour-acheter-foursquare-900-millions-de-dollars": {
-            "title": "Yahoo est en pourparlers pour acheter Foursquare pour 900 millions de dollars...",
-            "snippet": "Yahoo est peut \u00eatre en pourparlers pour acqu\u00e9rir Foursquare pour environ 900 millions de dollars, selon le blog Techcrunch. Selon la source, laccord entre Yahoo et Foursquare est fait, mais les derniers d\u00e9tails sont encore en cours...",
-            "date": "2015-04-16",
+        "fr.news.yahoo.com/2015/03/mode-lucy-hale-pretty-little-liars-preppy-et-pour-un-nouveau": {
+            "title": "Mode: Lucy Hale (Pretty Little Liars): preppy et pretty pour pour un nouveau shooting sexy!",
+            "snippet": "L'actrice am\u00e9ricaine a pris la pose pour Yahoo Style... Carr\u00e9 court et tenues preppy ET sexy au rendez-vous, la star se confie!",
+            "date": "2015-03-18",
             "categories": "yahoo",
-            "tags": "cours,yahoo",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/infos-mobiles.com/2015/04/yahoo-est-en-pourparlers-pour-acheter-foursquare-900-millions-de-dollars",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=yahoo%2Byahoo&format=RSS&cc=fr",
-            "source_url": "http://infos-mobiles.com/yahoo/yahoo-est-en-pourparlers-pour-acheter-foursquare-pour-900-millions-de-dollars/94153"
+            "tags": "yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/fr.news.yahoo.com/2015/03/mode-lucy-hale-pretty-little-liars-preppy-et-pour-un-nouveau",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=yahoo",
+            "source_url": "http://fr.news.yahoo.com/mode-lucy-hale-pretty-little-liars-preppy-pretty-112051359.html"
+        },
+        "fr.news.yahoo.com/2015/03/yahoo-va-renforcer-le-chiffrage-de-ses-e-mails": {
+            "title": "Yahoo! va renforcer le chiffrage de ses e-mails...",
+            "snippet": "HIGH-TECH - A l'heure actuelle, le chiffrement des communications reste la meilleure m\u00e9thode pour en assurer la confidentialit\u00e9...",
+            "date": "2015-03-16",
+            "categories": "yahoo",
+            "tags": "reste,meilleure,renforcer,yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/fr.news.yahoo.com/2015/03/yahoo-va-renforcer-le-chiffrage-de-ses-e-mails",
+            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=yahoo",
+            "source_url": "http://fr.news.yahoo.com/yahoo-va-renforcer-cryptage-e-mails-145420520.html"
         }
     }
 }
