@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wordpress/",
@@ -11,105 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "emploi.presse-citron.net/2015/04/webmaster-wordpress-css-html-guitare-h-f": {
-            "title": "Webmaster Wordpress CSS/HTML - Guitare H/F...",
-            "snippet": "Vous aimez la guitare? le web et wordpress? Nous avons un stage hyper cool pour vous! Nous recherchons pour une de nos filiales, sp\u00e9cialis\u00e9e dans les cours de musique en ligne un webmaster, developpeur.",
+        "pix-geeks.com/2015/04/patchez-imm%C3%A9diatement-wordpress-en-pour-corriger-des-failles-de-vuln%C3%A9rabilit%C3%A9-xss": {
+            "title": "Patchez imm\u00e9diatement WordPress en pour corriger des failles de vuln\u00e9rabilit\u00e9 XSS...",
+            "snippet": "Mais do\u00f9 sort cette horreur? Ce soir en regardant mes stats Google Analytics sur Ta Maison (site lanc\u00e9 il y a une dizaine de jours) jai vu appara\u00eetre un truc affreux que je ne peux pas \u00e9crire en toutes lettres sans que Google ne p\u00e9nalise la...",
+            "date": "2015-04-27",
+            "categories": "google,wordpress",
+            "tags": "google,wordpress,site",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/pix-geeks.com/2015/04/patchez-imm%C3%A9diatement-wordpress-en-pour-corriger-des-failles-de-vuln%C3%A9rabilit%C3%A9-xss",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://pix-geeks.com/patch-wordpress-4-2-1-vulnerabilite-xss/"
+        },
+        "kulturegeek.fr/2015/04/wordpress-4-2-est-disponible-voici-les-nouveaut%C3%A9s": {
+            "title": "WordPress 4.2 est disponible: voici les nouveaut\u00e9s...",
+            "snippet": "Une nouvelle version de WordPress, estampill\u00e9e 4.2, est maintenant disponible au t\u00e9l\u00e9chargement. Pour ceux qui ne le savent pas, WordPress est une plateforme qui propose de cr\u00e9er un blog/site Internet assez facilement. De nombreux sites...",
             "date": "2015-04-23",
-            "categories": "musique,wordpress,css",
-            "tags": "ligne,web,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/css/emploi.presse-citron.net/2015/04/webmaster-wordpress-css-html-guitare-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Webmaster+Wordpress+CSSHTML+-+Guitare+HF/30101"
-        },
-        "commentcamarche.net/2015/04/refonte-compl%C3%A8te-de-mon-site-avec-wordpress": {
-            "title": "Refonte compl\u00e8te de mon site avec Wordpress...",
-            "snippet": "Bonjour, je voudrais refondre l'interface compl\u00e8te de mon site internet, en utilisant wordpress. Je me demandais si il \u00e9tait possible d'installer wordpress sur le site, tout en conservant le site pr\u00e9c\u00e9dent en ligne en attendant que le nouveau...",
-            "date": "2015-04-20",
             "categories": "wordpress,internet",
-            "tags": "ligne,utilisant,compl\u00e8te,site,wordpress,internet,installer",
-            "recuweb_url": "http://fr.recuweb.com/internet/commentcamarche.net/2015/04/refonte-compl%C3%A8te-de-mon-site-avec-wordpress",
+            "tags": "site,wordpress,cr\u00e9er,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/kulturegeek.fr/2015/04/wordpress-4-2-est-disponible-voici-les-nouveaut%C3%A9s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31860002-refonte-complete-de-mon-site-avec-wordpress"
-        },
-        "commentcamarche.net/2015/04/syst%C3%A8me-de-vote-wordpress": {
-            "title": "Syst\u00e8me de vote Wordpress...",
-            "snippet": "J'ai pour projet de cr\u00e9er un site wordpress (.org) sur lequel aura lieu une sorte de concours avec diff\u00e9rentes cat\u00e9gories et diff\u00e9rents nomin\u00e9s dans chaque cat\u00e9gorie. Pour cela, j'aimerai que les visiteurs puissent voter pour le nomin\u00e9 de...",
-            "date": "2015-04-19",
-            "categories": "wordpress",
-            "tags": "sorte,cr\u00e9er,syst\u00e8me,wordpress,site",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/commentcamarche.net/2015/04/syst%C3%A8me-de-vote-wordpress",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31856784-systeme-de-vote-wordpress"
-        },
-        "monwindowsphone.com/2015/04/demande-de-t%C3%A9moignage-pour-wordpress-blog": {
-            "title": "Demande de t\u00e9moignage pour Wordpress - (Blog)...",
-            "snippet": "Demande de t\u00e9moignage pour (Blog)Pour commenc\u00e9 j'ai chang\u00e9 le pseudo \"Admin\" qui est par d\u00e9faut sur les sites Wordpress par un autre et j'ai fais en sorte de bannir imm\u00e9diatement toute personne qui cherche a ce connecter en tapant \"Admin\" comme...",
-            "date": "2015-04-18",
-            "categories": "wordpress",
-            "tags": "sorte,comme,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/monwindowsphone.com/2015/04/demande-de-t%C3%A9moignage-pour-wordpress-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://monwindowsphone.com/demande-de-temoignage-pour-wordpress-t104981.html"
-        },
-        "categorynet.com/2015/04/logiciel-gratuit-de-catalogue-num%C3%A9rique-pour-optimiser-le-e-communiqu%C3%A9-presse": {
-            "title": "Logiciel gratuit de catalogue num\u00e9rique pour optimiser le e... - (Communiqu\u00e9 de presse)...",
-            "snippet": "Logiciel gratuit de catalogue num\u00e9rique pour optimiser le e... (Communiqu\u00e9 de presse)WordPress n'est plus un syst\u00e8me de blog. Il a d\u00e9sormais \u00e9volu\u00e9 et est utilis\u00e9 comme plateforme de gestion compl\u00e8te de contenu, par le biais de milliers de...",
-            "date": "2015-04-13",
-            "categories": "wordpress",
-            "tags": "comme,compl\u00e8te,contenu,syst\u00e8me,presse,gratuit,optimiser,communiqu\u00e9,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/categorynet.com/2015/04/logiciel-gratuit-de-catalogue-num%C3%A9rique-pour-optimiser-le-e-communiqu%C3%A9-presse",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://categorynet.com/communiques-de-presse/informatique/logiciel-gratuit-de-catalogue-numerique-pour-optimiser-le-e--commerce-wordpress-20150410229321/"
-        },
-        "01net.com/2015/04/wordpress-pour-android": {
-            "title": "WordPress pour Android...",
-            "snippet": "En cliquant sur le bouton t\u00e9l\u00e9charger, vous b\u00e9n\u00e9ficiez de notre assistant d'installation, qui optimise et facilite le t\u00e9l\u00e9chargement. L'assistant de 01net propose aussi d'installer des utilitaires ou des offres commerciales, v\u00e9rifi\u00e9s par...",
-            "date": "2015-04-13",
-            "categories": "wordpress",
-            "tags": "cliquant,wordpress,installation,installer",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/01net.com/2015/04/wordpress-pour-android",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://01net.com/telecharger/linux/Bureautique/fiches/130586.html"
-        },
-        "categorynet.com/2015/04/le-meilleur-plugin-wordpress-de-publication-pour-am%C3%A9liorer-communiqu%C3%A9-presse": {
-            "title": "Le Meilleur Plugin WordPress de Publication pour am\u00e9liorer le... - (Communiqu\u00e9 de presse)...",
-            "snippet": "Le Meilleur Plugin WordPress de Publication pour am\u00e9liorer le... (Communiqu\u00e9 de presse) (Inscription)Pour activer un plugin, il constitue l'un des moyens les plus rapides et les plus faciles d'am\u00e9liorer votre site WordPress. Les plugins sont des...",
-            "date": "2015-04-09",
-            "categories": "wordpress",
-            "tags": "plugins,plugin,presse,wordpress,communiqu\u00e9,site",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/categorynet.com/2015/04/le-meilleur-plugin-wordpress-de-publication-pour-am%C3%A9liorer-communiqu%C3%A9-presse",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://categorynet.com/communiques-de-presse/informatique/le-meilleur-plugin-wordpress-de-publication-pour-ameliorer-le-contenu-de-votre-site-web-wordpress-20150409229267/"
+            "source_url": "http://kulturegeek.fr/news-57271/wordpress-4-2-disponible-voici-nouveautes"
         },
         "fr.news.yahoo.com/2015/04/piratage-le-fbi-met-en-garde-contre-les-attaques-sous-wordpress": {
             "title": "Piratage: Le FBI met en garde contre les attaques sous Wordpress...",
             "snippet": "WEB - Le FBI alerte les internautes utilisant Wordpress des menaces d'un groupe de hackers nomm\u00e9 ISIS...",
             "date": "2015-04-09",
             "categories": "wordpress",
-            "tags": "utilisant,wordpress,web",
+            "tags": "wordpress",
             "recuweb_url": "http://fr.recuweb.com/wordpress/fr.news.yahoo.com/2015/04/piratage-le-fbi-met-en-garde-contre-les-attaques-sous-wordpress",
             "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=wordpress",
             "source_url": "http://fr.news.yahoo.com/piratage-fbi-met-garde-contre-attaques-wordpress-125054591.html"
-        },
-        "globalsecuritymag.fr/2015/03/vigilnce-wordpress-mp3-jplayer-travers%C3%A9e-de-r%C3%A9pertoire-global-security-mag": {
-            "title": "Vigilnce - WordPress MP3-Jplayer: travers\u00e9e de r\u00e9pertoire - Global Security Mag...",
-            "snippet": "Vigilnce - WordPress MP3-Jplayer: travers\u00e9e de r\u00e9pertoireGlobal Security MagLe plugin MP3-Jplayer peut \u00eatre install\u00e9 sur WordPress. Cependant, les donn\u00e9es provenant de l'utilisateur sont directement ins\u00e9r\u00e9es dans un chemin d'acc\u00e8s. Les...",
-            "date": "2015-03-26",
-            "categories": "wordpress",
-            "tags": "ins\u00e9r\u00e9es,donn\u00e9es,peut,peut-\u00eatre,peut-\u00eatre-install\u00e9,\u00eatre,\u00eatre-install\u00e9,install\u00e9,security,security_magle,magle,global,global_security,global_security_mag,security_mag,mag,vigilnce,wordpress,plugin,cependant",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/globalsecuritymag.fr/2015/03/vigilnce-wordpress-mp3-jplayer-travers%C3%A9e-de-r%C3%A9pertoire-global-security-mag",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-WordPress-MP3-Jplayer,20150408,52141.html"
-        },
-        "globalsecuritymag.fr/2015/03/vigilnce-wordpress-ab-google-map-travel-cross-site-scripting-global-security": {
-            "title": "Vigilnce - WordPress AB Google Map Travel: Cross Site Scripting - Global Security Mag...",
-            "snippet": "Vigilnce - WordPress AB Google Map Travel: Cross Site ScriptingGlobal Security MagLe plugin AB Google Map Travel peut \u00eatre install\u00e9 sur WordPress. Cependant, les donn\u00e9es re\u00e7ues ne sont pas filtr\u00e9es avant d'\u00eatre ins\u00e9r\u00e9es dans les documents...",
-            "date": "2015-03-25",
-            "categories": "google,wordpress",
-            "tags": "\u00eatre,ins\u00e9r\u00e9es,donn\u00e9es,avant,peut,peut-\u00eatre,peut-\u00eatre-install\u00e9,\u00eatre-install\u00e9,install\u00e9,google,site,security,security_magle,magle,global,global_security,global_security_mag,security_mag,mag,wordpress,vigilnce,plugin,cependant",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/globalsecuritymag.fr/2015/03/vigilnce-wordpress-ab-google-map-travel-cross-site-scripting-global-security",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress%2Bwordpress&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-WordPress-AB-Google-Map,20150407,52088.html"
         }
     }
 }
