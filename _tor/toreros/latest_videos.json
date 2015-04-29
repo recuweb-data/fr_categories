@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "toreros",
         "language": "fr",
-        "updated": "20150428"
+        "updated": "20150429"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/toreros/",
@@ -83,13 +83,25 @@
             "source_url": "http://youtube.com/watch?v=okdxwYjiWo0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/okdxwYjiWo0/0.jpg"
         },
+        "dailymotion.com/2013/05/pour-une-place-au-soleil-l-histoire-des-toreros-fran%C3%A7ais": {
+            "title": "Pour une place au soleil. L'histoire des toreros fran\u00e7ais...",
+            "snippet": "Arte Y toro pr\u00e9sente \"Pour une place au soleil\". L'exposition raconte l'aventure des premiers toreros fran\u00e7ais qui, dans les ann\u00e9es 60, 70, 80 ouvriront les portes en grand des ar\u00e8nes en Espagne et en France. Jusqu'au 9 juin Chapelle des...",
+            "date": "2013-05-13",
+            "author_name": "arteytoro",
+            "categories": "toreros,torero,place",
+            "tags": "toreros,toreros-fran\u00e7ais,fran\u00e7ais,france",
+            "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2013/05/pour-une-place-au-soleil-l-histoire-des-toreros-fran%C3%A7ais",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/toreros/0?af=1",
+            "source_url": "http://dailymotion.com/video/xztog9_pour-une-place-au-soleil-l-histoire-des-toreros-francais_creation",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/xztog9_pour-une-place-au-soleil-l-histoire-des-toreros-francais_creation"
+        },
         "dailymotion.com/2013/03/les-toreros-fran%C3%A7ais-au-sommet-de-l-escalafon": {
             "title": "Les toreros fran\u00e7ais au sommet de l'escalafon...",
             "snippet": "Les toreros fran\u00e7ais au sommet de l'escalafonAuthor: france3provencealpesTags: corrida tauromachie juan bautista Posted: 30 March 2013Rating:: 0...",
             "date": "2013-03-30",
             "author_name": "france3provencealpes",
             "categories": "tauromachie,toreros,torero",
-            "tags": "corrida,toreros,fran\u00e7ais",
+            "tags": "corrida,toreros,toreros-fran\u00e7ais,fran\u00e7ais,france",
             "recuweb_url": "http://fr.recuweb.com/torero/dailymotion.com/2013/03/les-toreros-fran%C3%A7ais-au-sommet-de-l-escalafon",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/toreros+toreros/0?af=1",
             "source_url": "http://dailymotion.com/video/xyloc4_les-toreros-francais-au-sommet-de-l-escalafon_news",
@@ -118,17 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=toreros%2Btoreros&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ChQ_F3L5Flo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ChQ_F3L5Flo/0.jpg"
-        },
-        "dailymotion.com/2010/10/graine-de-tor%C3%A9ros-bezouce-2010-1-realite": {
-            "title": "Graine de tor\u00e9ros Bezouce 2010 (1) REALITE...",
-            "snippet": "Ou comment transformer un taureau en: ptit_teufeuseTags: Merci Fr\u00e9d\u00e9ric Christophe pour leur collaboration Posted: 01 October 2010Rating:: 1...",
-            "date": "2010-10-01",
-            "author_name": "ptit_teufeuse",
-            "categories": "toreros,torero",
-            "recuweb_url": "http://fr.recuweb.com/torero/dailymotion.com/2010/10/graine-de-tor%C3%A9ros-bezouce-2010-1-realite",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/toreros+toreros/0?af=1",
-            "source_url": "http://dailymotion.com/video/xf13h3_graine-de-toreros-bezouce-2010-1-re_animals",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/xf13h3_graine-de-toreros-bezouce-2010-1-re_animals"
         }
     }
 }
