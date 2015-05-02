@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moteur-de-recherche",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -11,31 +11,58 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
-        "jactiv.ouest-france.fr/2015/04/il-y-a-d-autres-moteurs-de-recherche-que-google": {
-            "title": "Il y a d'autres moteurs de recherche que Google ou Yahoo!",
-            "snippet": "Pour se d\u00e9marquer, certains concurrents jouent la carte de la confidentialit\u00e9. DuckDuckGo se pr\u00e9sente comme le moteur de recherche qui ne vous espionne pas. Il agr\u00e8ge les r\u00e9sultats d'une cinquantaine de moteurs comme Yahoo! et Bing, pour une...",
-            "date": "2015-04-27",
-            "categories": "google,yahoo,bing",
-            "tags": "r\u00e9sultats,pr\u00e9sente,comme,moteurs,moteur,recherche,google,yahoo,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/jactiv.ouest-france.fr/2015/04/il-y-a-d-autres-moteurs-de-recherche-que-google",
+        "rtbf.be/2015/04/gumundur-le-moteur-de-recherche-humain-qui-aide-touriste-en-islande": {
+            "title": "Gumundur, le moteur de recherche humain qui aide le touriste en Islande...",
+            "snippet": "L'Islande a le vent en poupe comme destination touristique depuis un petit bout de temps. En 2014, pour la cinqui\u00e8me ann\u00e9e cons\u00e9cutive, elle a enregistr\u00e9 une hausse de plus de 24% d'arriv\u00e9es. Avec maintenant plus de 950 000 touristes (c'est le...",
+            "date": "2015-04-29",
+            "tags": "comme,petit,moteur,recherche",
+            "recuweb_url": "http://fr.recuweb.com/rtbf.be/2015/04/gumundur-le-moteur-de-recherche-humain-qui-aide-touriste-en-islande",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
-            "source_url": "http://jactiv.ouest-france.fr/actualites/multimedia/il-y-dautres-moteurs-recherche-que-google-yahoo-46957"
+            "source_url": "http://rtbf.be/info/medias/dossier/vu-sur-le-web/detail_l-islande-lance-un-moteur-de-recherche-humain?id=8968580"
+        },
+        "ouest-france.fr/2015/04/multim%C3%A9dia-mettez-du-neuf-dans-vos-moteurs-de-recherche-ouest-france": {
+            "title": "Multim\u00e9dia. Mettez du neuf dans vos moteurs de recherche - Ouest-France...",
+            "snippet": "Ouest-FranceMultim\u00e9dia. Mettez du neuf dans vos moteurs de rechercheOuest-FrancePour se d\u00e9marquer, certains concurrents jouent la carte de la confidentialit\u00e9. DuckDuckGo se pr\u00e9sente comme le moteur de recherche qui ne vous espionne pas. Il...",
+            "date": "2015-04-29",
+            "tags": "pr\u00e9sente,comme,moteurs,moteur,recherche,ouest,france",
+            "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/04/multim%C3%A9dia-mettez-du-neuf-dans-vos-moteurs-de-recherche-ouest-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&output=atom&nord=1",
+            "source_url": "http://ouest-france.fr/mettez-du-neuf-dans-vos-moteurs-de-recherche-3362976"
+        },
+        "presse-citron.net/2015/04/android-et-le-moteur-de-recherche-google-sont-plus-en-presse": {
+            "title": "Android et le moteur de recherche de Google sont de plus en plus... - Presse-citron (Blog)...",
+            "snippet": "Android et le moteur de recherche de Google sont de plus en plus...Presse-citron (Blog)C'est l'impression que donne la firme de Mountain View, car de plus en plus d'interactions existent entre le moteur de recherche et le syst\u00e8me d'exploitation...",
+            "date": "2015-04-28",
+            "categories": "google",
+            "tags": "moteur,recherche,google",
+            "recuweb_url": "http://fr.recuweb.com/google/presse-citron.net/2015/04/android-et-le-moteur-de-recherche-google-sont-plus-en-presse",
+            "resource_url": "http://news.google.fr/?hl=fr&q=moteur%2Bde%2Brecherche&output=atom&nord=1",
+            "source_url": "http://presse-citron.net/android-et-le-moteur-de-recherche-de-google-sont-de-plus-en-plus-intimes/"
         },
         "quimper.maville.com/2015/04/bretagne-gwenood-le-moteur-de-recherche-100%-breton": {
             "title": "Bretagne: Gwenood, le moteur de recherche 100% breton...",
             "snippet": "Quest-ce que Gwenood? Cest un moteur de recherche sur Internet. Il a \u00e9t\u00e9 lanc\u00e9 en janvier, depuis B\u00e9nodet (Sud-Finist\u00e8re). Sa particularit\u00e9? Ses r\u00e9sultats de recherche privil\u00e9gient les sites web bretons, Loire-Atlantique incluse.",
             "date": "2015-04-24",
             "categories": "internet",
-            "tags": "sites,r\u00e9sultats,moteur,recherche,internet,web",
+            "tags": "privil\u00e9gient,privil\u00e9gient-les-sites,sites,r\u00e9sultats,lanc\u00e9,lanc\u00e9-en-janvier,janvier,bretons,gwenood,moteur,recherche,internet,b\u00e9nodet,sud,finist\u00e8re,web,loire,atlantique,incluse",
             "recuweb_url": "http://fr.recuweb.com/internet/quimper.maville.com/2015/04/bretagne-gwenood-le-moteur-de-recherche-100%-breton",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
             "source_url": "http://quimper.maville.com/actu/actudet_-bretagne-gwenood-le-moteur-de-recherche-100-breton_52689-2757398_actu.Htm"
+        },
+        "liberation.fr/2015/04/on-a-test%C3%A9-un-moteur-de-recherche-breton": {
+            "title": "On a test\u00e9 un moteur de recherche breton...",
+            "snippet": "Ouest France nous apprend l'existence du site Gwenood, un moteur de recherche lanc\u00e9 en janvier depuis B\u00e9nodet, dans le Finist\u00e8re sud, et dont les r\u00e9sultats privil\u00e9gient les sites web bretons, Loire-Atlantique incluse. D'apr\u00e8s sa fondatrice...",
+            "date": "2015-04-24",
+            "tags": "r\u00e9sultats,privil\u00e9gient,privil\u00e9gient-les-sites,sites,site,lanc\u00e9,lanc\u00e9-en-janvier,janvier,ouest,france,moteur,recherche,bretons,gwenood,b\u00e9nodet,finist\u00e8re,sud,web,loire,atlantique,incluse",
+            "recuweb_url": "http://fr.recuweb.com/liberation.fr/2015/04/on-a-test%C3%A9-un-moteur-de-recherche-breton",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
+            "source_url": "http://liberation.fr/direct/element/5813/"
         },
         "franceinfo.fr/2015/04/comment-effacer-des-informations-nous-concernant-sur-un-moteur-france-info": {
             "title": "Comment effacer des informations nous concernant sur un moteur... - France Info...",
             "snippet": "France InfoComment effacer des informations nous concernant sur un moteur...France InfoIl permet la suppression d'un ou de plusieurs r\u00e9sultats de recherche quand votre nom est tap\u00e9 dans le moteur. Donc les informations restent accessibles sur le...",
             "date": "2015-04-23",
-            "tags": "r\u00e9sultats,permet,moteur,recherche",
+            "tags": "r\u00e9sultats,permet,france,moteur,recherche",
             "recuweb_url": "http://fr.recuweb.com/franceinfo.fr/2015/04/comment-effacer-des-informations-nous-concernant-sur-un-moteur-france-info",
             "resource_url": "http://news.google.fr/?hl=fr&q=moteur%2Bde%2Brecherche&output=atom&nord=1",
             "source_url": "http://franceinfo.fr/emission/le-droit-d-info/2014-2015/comment-effacer-des-informations-nous-concernant-sur-un-moteur-de-recherche-23-04-2015-12-25"
@@ -45,49 +72,10 @@
             "snippet": "Microsoft et Yahoo ont officiellement modifi\u00e9 leur partenariat sur la recherche en ligne qui date de 2009. Les deux principaux volets de cet accord sont modifi\u00e9s: l'utilisation exclusive du moteur de recherche Bing et la gestion de la...",
             "date": "2015-04-22",
             "categories": "yahoo,bing",
-            "tags": "ligne,moteur,recherche,yahoo,deux,bing",
+            "tags": "gestion,ligne,moins,moteur,recherche,yahoo,deux",
             "recuweb_url": "http://fr.recuweb.com/bing/nextinpact.com/2015/04/moteur-de-recherche-et-publicit%C3%A9s-moins-d-exclusivit%C3%A9-entre-microsoft-yahoo",
             "resource_url": "http://www.bing.com/news/search?first=1&q=moteur%2Bde%2Brecherche&format=RSS&cc=fr",
             "source_url": "http://nextinpact.com/news/93878-moteur-recherche-et-publicites-moins-dexclusivite-entre-microsoft-et-yahoo.htm"
-        },
-        "fr.news.yahoo.com/2015/03/bienvenue-au-google-store-pourquoi-le-g%C3%A9ant-du-net-se-lance": {
-            "title": "Bienvenue au Google Store: pourquoi le g\u00e9ant du net se lance dans louverture de boutiques...",
-            "snippet": "Google a r\u00e9cemment ouvert sa premi\u00e8re boutique en plein c\u0153ur de Londres. Une v\u00e9ritable \u00e9volution pour la firme de Montain view, qui compte bien faire comprendre qu'elle n'est pas qu'un moteur de recherche, et qu'elle est aussi pr\u00e9sente sur le...",
-            "date": "2015-03-16",
-            "categories": "google",
-            "tags": "pr\u00e9sente,v\u00e9ritable,net,lance,google,g\u00e9ant,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/google/fr.news.yahoo.com/2015/03/bienvenue-au-google-store-pourquoi-le-g%C3%A9ant-du-net-se-lance",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=moteur%2Bde%2Brecherche",
-            "source_url": "http://fr.news.yahoo.com/bienvenue-au-google-store-pourquoi-g\u00e9ant-net-lance-075622726.html"
-        },
-        "fr.news.yahoo.com/2015/03/lille-un-site-internet-qui-g%C3%A9olocalise-les-food-trucks": {
-            "title": "Lille: Lille: Un site Internet qui g\u00e9olocalise les food trucks...",
-            "snippet": "INNOVATION - Leur moteur de recherche permet de savoir en temps r\u00e9el o\u00f9 se situent les commerces itin\u00e9rants...",
-            "date": "2015-03-11",
-            "categories": "internet",
-            "tags": "permet,savoir,site,internet,innovation,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/internet/fr.news.yahoo.com/2015/03/lille-un-site-internet-qui-g%C3%A9olocalise-les-food-trucks",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=moteur%2Bde%2Brecherche",
-            "source_url": "http://fr.news.yahoo.com/lille-lille-site-internet-g\u00e9olocalise-food-truck-153206754.html"
-        },
-        "fr.news.yahoo.com/2015/03/google-travaille-sur-une-version-d-android-pour-la-r%C3%A9alit%C3%A9-virtuelle": {
-            "title": "Google travaille sur une version d'Android pour la r\u00e9alit\u00e9 virtuelle...",
-            "snippet": "Le moteur de recherche travaille sur un syst\u00e8me d'exploitation adapt\u00e9 aux montures de r\u00e9alit\u00e9 virtuelle. Il se lance dans la course aux c\u00f4t\u00e9s de Facebook et Sony.",
-            "date": "2015-03-10",
-            "categories": "google,facebook",
-            "tags": "lance,google,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/facebook/fr.news.yahoo.com/2015/03/google-travaille-sur-une-version-d-android-pour-la-r%C3%A9alit%C3%A9-virtuelle",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=moteur%2Bde%2Brecherche",
-            "source_url": "http://fr.news.yahoo.com/google-travaille-version-dandroid-r\u00e9alit\u00e9-virtuelle-093358787.html"
-        },
-        "fr.news.yahoo.com/2015/02/pinterest-un-nouvel-acteur-en-train-de-s-imposer": {
-            "title": "Pinterest, un nouvel acteur en train de s'imposer dans le monde du web...",
-            "snippet": "A la crois\u00e9e du r\u00e9seau social et du moteur de recherche, Pinterest, l'application qui permet d'\"\u00e9pingler\" des photos sur ses centres d'int\u00e9r\u00eat, est en train de s'imposer comme un des poids-lourds du web, selon les sp\u00e9cialistes qui voient en...",
-            "date": "2015-02-26",
-            "tags": "comme,application,permet,r\u00e9seau,web,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/02/pinterest-un-nouvel-acteur-en-train-de-s-imposer",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=moteur%2Bde%2Brecherche",
-            "source_url": "http://fr.news.yahoo.com/pinterest-nouvel-acteur-train-simposer-monde-web-085026611--finance.html"
         }
     }
 }
