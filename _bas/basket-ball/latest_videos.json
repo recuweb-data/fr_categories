@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "basket-ball",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/basket-ball/",
@@ -11,27 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/basket-ball/basket-ball/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/esbva-lm-la-foule-au-palacium-pour-retransmission-en-direct": {
-            "title": "ESBVA-LM: la foule au Palacium pour la retransmission en direct de la finale retour du...",
-            "snippet": "Author: lavoixdunordTags: Basket-ball Championnat de France de basket-ball Villeneuve-dAscq ESBVA-LM Posted: 26 April 2015Rating:: 0...",
-            "date": "2015-04-26",
+        "dailymotion.com/2015/04/esbva-lm-ultimes-secondes-de-la-finale-contre-bourges": {
+            "title": "ESBVA-LM: ultimes secondes de la finale contre Bourges.",
+            "snippet": "Author: lavoixdunordTags: Basket-ball Championnat de France de basket-ball Bourges Villeneuve-dAscq ESBVA-LM Posted: 28 April 2015Rating:: 0...",
+            "date": "2015-04-28",
             "author_name": "lavoixdunord",
-            "tags": "basket,retour,ball,championnat,france",
-            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/esbva-lm-la-foule-au-palacium-pour-retransmission-en-direct",
+            "tags": "basket,ball,championnat",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/esbva-lm-ultimes-secondes-de-la-finale-contre-bourges",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/basket+ball+basket+ball/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2o29vs_esbva-lm-la-foule-au-palacium-pour-la-retransmission-en-direct-de-la-finale-retour-du-championnat-de_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o29vs_esbva-lm-la-foule-au-palacium-pour-la-retransmission-en-direct-de-la-finale-retour-du-championnat-de_sport"
-        },
-        "dailymotion.com/2015/04/%C3%A9lan-pl-phantom": {
-            "title": "\u00c9lan - PL (Phantom)...",
-            "snippet": "Pro A () Retour en images sur la belle victoire paloise face au Paris Levallois (70-59)!Author: ebplopneTags: Pau Championnat de France de basket-ball \u00c9lan b\u00e9arnais Pau-Lacq-Orthez Ligue nationale de basket-ball Posted: 26 April 2015Rating:: 0...",
-            "date": "2015-04-26",
-            "author_name": "ebplopne",
-            "tags": "basket,championnat,images,victoire,retour,france,ball",
-            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/%C3%A9lan-pl-phantom",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/basket+ball+basket+ball/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2o13q6_elan-pl-phantom_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o13q6_elan-pl-phantom_sport"
+            "source_url": "http://dailymotion.com/video/x2oc0up_esbva-lm-ultimes-secondes-de-la-finale-contre-bourges_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oc0up_esbva-lm-ultimes-secondes-de-la-finale-contre-bourges_sport"
         },
         "dailymotion.com/2015/04/basket-ball-ala-africaine-the-air-up-there-1994-complet-movie": {
             "title": "BASKET-BALL ALA AFRICAINE!! The Air Up There 1994 Complet Movie Streaming VF en fran\u00e7ais gratuit...",
@@ -44,13 +33,23 @@
             "source_url": "http://dailymotion.com/video/x2mva1f_basket-ball-ala-africaine-the-air-up-there-1994-complet-movie-streaming-vf-en-francais-gratuit_shortfilms",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mva1f_basket-ball-ala-africaine-the-air-up-there-1994-complet-movie-streaming-vf-en-francais-gratuit_shortfilms"
         },
+        "youtube.com/2015/04/podcast-le-basketball": {
+            "title": "Podcast Le BasketBall...",
+            "snippet": "Podcast Le BasketBall Merci beaucoup d'avoir regarder la vid\u00e9o, proposez vos id\u00e9es, pour les prochaines vid\u00e9o, en commentaire;) Pensez \u00e0 Partager et \u00e0 aimez la vid\u00e9o c'est tr\u00e8s important pour la continuit\u00e9... From: Simrod Views: 337 31...",
+            "date": "2015-04-14",
+            "author_name": "Simrod",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/podcast-le-basketball",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=basket%2Bball%2Bbasket%2Bball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=d3O5EaztlZg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/d3O5EaztlZg/0.jpg"
+        },
         "dailymotion.com/2015/04/duke-gagne-le-championnat-de-basket-ball-2015-meilleurs-moments": {
             "title": "Duke gagne le championnat de Basket-ball 2015: Meilleurs moments de la saison...",
             "snippet": "Duke gagne le championnat de Basket-ball 2015: Meilleurs moments de la saison - Une vid\u00e9o qui va vous donner des frissons!Author: MisterBuzzTags: Basket-ball duke nba sport basket victoire championnat victoire basket-ball frisson Posted: 13 April...",
             "date": "2015-04-13",
             "author_name": "MisterBuzz",
             "categories": "sport",
-            "tags": "ball,nba,sport,sport-basket,basket,victoire,championnat,misterbuzztags",
+            "tags": "ball,nba,sport,sport-basket,basket,championnat,misterbuzztags",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/04/duke-gagne-le-championnat-de-basket-ball-2015-meilleurs-moments",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/basket+ball/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mihq5_duke-gagne-le-championnat-de-basket-ball-2015-meilleurs-moments-de-la-saison_sport",
@@ -62,7 +61,7 @@
             "date": "2015-04-12",
             "author_name": "Letelegramme",
             "categories": "play,place",
-            "tags": "pierre,images,basket,ball",
+            "tags": "pierre,basket,ball",
             "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/04/basket-ball-les-filles-du-bc-tr%C3%A9gueux-championnes-de-n2",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/basket+ball/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mg7tb_basket-ball-les-filles-du-bc-tregueux-championnes-de-n2_sport",
