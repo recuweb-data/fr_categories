@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "collection",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/collection/",
@@ -11,65 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
     },
     "items": {
-        "journaldesfemmes.com/2015/04/elsa-gary-d%C3%A9couvrez-la-collection-2016": {
-            "title": "Elsa Gary: d\u00e9couvrez la collection 2016...",
-            "snippet": "La cr\u00e9atrice Elsa Gary d\u00e9voile les mod\u00e8les de robes de mari\u00e9e de sa derni\u00e8re collection 2016. Fluides, chics et romantiques... A vous de choisir celle qui vous correspond. Elsa Gary pr\u00e9sente ses derniers mod\u00e8les de robes de mari\u00e9e, tous...",
-            "date": "2015-04-27",
-            "categories": "collection",
-            "tags": "mod\u00e8les,d\u00e9voile,collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/journaldesfemmes.com/2015/04/elsa-gary-d%C3%A9couvrez-la-collection-2016",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://journaldesfemmes.com/mariage/robe-mariee/1316672-elsa-gary-robes-de-mariee-collection-2016/"
-        },
-        "fr.fashionmag.com/2015/04/erotokritos-lance-sa-premi%C3%A8re-collection-de-lunettes": {
-            "title": "Erotokritos lance sa premi\u00e8re collection de lunettes...",
-            "snippet": "Format oversize et coloris d\u00e9t\u00e9 pour la premi\u00e8re collection de lunettes sign\u00e9e Erotokritos. Inspir\u00e9 par les ann\u00e9es 60 et ses ic\u00f4nes telles Jackie Onassis, le cr\u00e9ateur d\u00e9voile 13 mod\u00e8les in\u00e9dits, fabriqu\u00e9s en Italie. Des mod\u00e8les...",
-            "date": "2015-04-27",
-            "categories": "collection",
-            "tags": "mod\u00e8les,d\u00e9voile,premi\u00e8re,collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/fr.fashionmag.com/2015/04/erotokritos-lance-sa-premi%C3%A8re-collection-de-lunettes",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://fr.fashionmag.com/news/Erotokritos-lance-sa-premiere-collection-de-lunettes-,481284.html"
-        },
-        "chartsinfrance.net/2015/04/jenifer-%C3%A9g%C3%A9rie-de-la-halle-fra%C3%AEche-et-sexy-pour-collection-charts": {
-            "title": "Jenifer \u00e9g\u00e9rie de La Halle: fra\u00eeche et sexy pour la collection... - Charts in France...",
-            "snippet": "Charts in FranceJenifer \u00e9g\u00e9rie de La Halle: fra\u00eeche et sexy pour la collection...Charts in FranceEn d\u00e9but de mois, le making-of d'un shooting a \u00e9t\u00e9 mis en ligne pour annoncer la reconduction du partenariat avec la coach de TF1 et pr\u00e9senter...",
-            "date": "2015-04-27",
-            "categories": "collection",
-            "tags": "\u00e9t\u00e9,collection,france",
-            "recuweb_url": "http://fr.recuweb.com/collection/chartsinfrance.net/2015/04/jenifer-%C3%A9g%C3%A9rie-de-la-halle-fra%C3%AEche-et-sexy-pour-collection-charts",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
-            "source_url": "http://chartsinfrance.net/Jenifer/news-96953.html"
-        },
-        "meltyfashion.fr/2015/04/tendance-beaut%C3%A9-printemps-%C3%A9t%C3%A9-2015-modern-tribes-by-kiko-la-meltyfashion": {
-            "title": "Tendance beaut\u00e9 Printemps-\u00e9t\u00e9 2015: Modern Tribes by KIKO, la... - meltyFashion...",
-            "snippet": "meltyFashionTendance beaut\u00e9 Printemps-\u00e9t\u00e9 2015: Modern Tribes by KIKO, la...meltyFashionC'est une tr\u00e8s jolie collection que la marque de cosm\u00e9tiques milanaise KIKO vient de sortir pour les beaux jours. Au top de la tendance, elle s'inspire des...",
-            "date": "2015-04-27",
-            "categories": "collection",
-            "tags": "top,\u00e9t\u00e9,collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/meltyfashion.fr/2015/04/tendance-beaut%C3%A9-printemps-%C3%A9t%C3%A9-2015-modern-tribes-by-kiko-la-meltyfashion",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
-            "source_url": "http://meltyfashion.fr/tendance-beaute-printemps-ete-2015-modern-tribes-by-kiko-la-collection-multi-ethnique-a405142.html"
-        },
-        "larepubliquedespyrenees.fr/2015/04/tour-auto-optic-2000-230-voitures-de-collection-ce-weekend": {
-            "title": "Tour auto Optic 2000: 230 voitures de collection ce weekend en... - La R\u00e9publique des Pyr\u00e9n\u00e9es...",
-            "snippet": "Tour auto Optic 2000: 230 voitures de collection ce weekend en... - La R\u00e9publique des Pyr\u00e9n\u00e9es...",
-            "date": "2015-04-25",
+        "meltystyle.fr/2015/04/drake-collection-ovo-printemps-%C3%A9t%C3%A9-2015-d%C3%A9voil%C3%A9e": {
+            "title": "Drake: Collection OVO printemps \u00e9t\u00e9 2015 d\u00e9voil\u00e9e...",
+            "snippet": "Le label lanc\u00e9 par Drake, OVO d\u00e9voile sa nouvelle collection printemps \u00e9t\u00e9 2015. \u00c0 l'image du chanteur, c'est une ligne de v\u00eatement sans fioritures et pas prise de t\u00eate. Alors que de nouvelles photos de la collaboration d'OVO x Air Jordan...",
+            "date": "2015-04-29",
             "categories": "collection",
             "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/larepubliquedespyrenees.fr/2015/04/tour-auto-optic-2000-230-voitures-de-collection-ce-weekend",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
-            "source_url": "http://larepubliquedespyrenees.fr/2015/04/24/230-voitures-de-collection-vendredi-et-samedi-en-bearn,1247441.php"
-        },
-        "fr.news.yahoo.com/2015/03/une-collection-de-pi%C3%A8ces-et-d-accessoires-top-gear-france": {
-            "title": "Une collection de pi\u00e8ces et d'accessoires \"Top Gear France\" en vente sur eBay...",
-            "snippet": "(Relaxnews) - Une \"Collection officielle Top Gear France\" disponible sur eBay va permettre d'acqu\u00e9rir des pi\u00e8ces d\u00e9tach\u00e9es et des accessoires inspir\u00e9s de ou rep\u00e9r\u00e9s dans l'adaptation fran\u00e7ais de la c\u00e9l\u00e8bre \u00e9mission t\u00e9l\u00e9vis\u00e9e...",
-            "date": "2015-03-18",
-            "categories": "collection",
-            "tags": "collection,top,france",
-            "recuweb_url": "http://fr.recuweb.com/collection/fr.news.yahoo.com/2015/03/une-collection-de-pi%C3%A8ces-et-d-accessoires-top-gear-france",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=collection",
-            "source_url": "http://fr.news.yahoo.com/collection-pi\u00e8ces-daccessoires-top-gear-france-vente-ebay-173006817.html"
+            "recuweb_url": "http://fr.recuweb.com/collection/meltystyle.fr/2015/04/drake-collection-ovo-printemps-%C3%A9t%C3%A9-2015-d%C3%A9voil%C3%A9e",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
+            "source_url": "http://meltystyle.fr/drake-collection-ovo-printemps-ete-2015-devoilee-a405600.html"
         }
     }
 }
