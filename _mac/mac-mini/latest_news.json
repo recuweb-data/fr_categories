@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mac-mini",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mac-mini/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mac-mini/mac-mini/blogs.json"
     },
     "items": {
+        "cnetfrance.fr/2015/04/apple-les-mac-doublent-ipad-cnet-france": {
+            "title": "Apple: les Mac doublent les iPad - CNET France...",
+            "snippet": "CNET FranceApple: les Mac doublent les iPadCNET FranceLa jeune et fougueuse famille iPad (iPad Air et iPad mini) semble s'essouffler face aux marathoniens que sont les Mac (MacBook, iMac, Mac Pro, Mac Mini). Pour le second trimestre 2015, les...",
+            "date": "2015-04-28",
+            "categories": "ipad,macbook,imac",
+            "tags": "apple,mac,mini,macbook,imac,pro",
+            "recuweb_url": "http://fr.recuweb.com/imac/cnetfrance.fr/2015/04/apple-les-mac-doublent-ipad-cnet-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini&output=atom&nord=1",
+            "source_url": "http://cnetfrance.fr/news/apple-les-mac-doublent-les-ipad-39818632.htm"
+        },
         "consomac.fr/2015/04/achat-mac-mini": {
             "title": "Achat Mac Mini...",
             "snippet": "Bonjours, J'utilise actuellement ma smart TV pour lire mes disques dur externe/Youtube... mais vu la fluidit\u00e9 du syt\u00e8me int\u00e8gre a la TV, j'avais l'intention de m'acheter une apple TV malheureusement, elle ne prend pas en charge les DD externe...",
@@ -20,26 +30,6 @@
             "recuweb_url": "http://fr.recuweb.com/mac-mini/consomac.fr/2015/04/achat-mac-mini",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mac%2Bmini&format=RSS&cc=fr",
             "source_url": "http://consomac.fr/forums/index.php?showtopic=5433"
-        },
-        "mashable.com/2015/04/acer-s-adorable-little-revo-one-mini-pc-takes": {
-            "title": "Acer's adorable little Revo One mini PC takes on the Mac Mini - Mashable...",
-            "snippet": "MashableAcer's adorable little Revo One mini PC takes on the Mac MiniMashableThe hard drives are all easily user-swappable, unlike the Mac Mini's, which requires a whole lot more disassembling, according to iFixit. Each drive can have a maximum...",
-            "date": "2015-04-24",
-            "categories": "mac-mini",
-            "tags": "mac,mac_mini,mini",
-            "recuweb_url": "http://fr.recuweb.com/mac-mini/mashable.com/2015/04/acer-s-adorable-little-revo-one-mini-pc-takes",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://mashable.com/2015/04/23/acer-revo-one-mini-pc-hands-on/"
-        },
-        "gamerz.be/2015/04/vds-new-mac-mini-i5-8gb-ddr3-1tb-fusion-drive": {
-            "title": "VDS New Mac Mini (i5 - 8GB DDR3 - 1TB - Fusion Drive) -...",
-            "snippet": "VDS New Mac Mini (i5 - 8GB DDR3 - 1TB - Fusion Drive) la ram est soud\u00e9e, cependant il s'agit du mod\u00e8le avec 8GB et non 4Gb comme les plus petits mod\u00e8les. - Je suis bien conscient qu'il existe une option 16Gb mais ho les gars! c'est un mac mini...",
-            "date": "2015-04-06",
-            "categories": "mac-mini",
-            "tags": "mac,mac_mini,mini,ram",
-            "recuweb_url": "http://fr.recuweb.com/mac-mini/gamerz.be/2015/04/vds-new-mac-mini-i5-8gb-ddr3-1tb-fusion-drive",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mac%2Bmini%2Bmac%2Bmini&output=atom&nord=1",
-            "source_url": "http://gamerz.be/t/new-mac-mini-i5-8gb-ddr3-1tb-fusion-drive.116565/"
         },
         "tomsguide.com/2015/04/mac-mini-late-2014-review-tom-s-guide": {
             "title": "Mac mini (Late 2014) Review - Tom's Guide...",
