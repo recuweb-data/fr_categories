@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yoga",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yoga/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/yoga/yoga/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/le-yoga-2-partie": {
-            "title": "Le yoga 2 partie...",
-            "snippet": "conduire une vie tranquille e s\u00e8r\u00e8ne en pratiquant lo yogaAuthor: lhassanehTags: Yoga M\u00e9ditation sport mentale Posted: 12 April 2015Rating:: 0...",
-            "date": "2015-04-12",
-            "author_name": "lhassaneh",
-            "categories": "sport,yoga",
-            "tags": "sport,yoga",
-            "recuweb_url": "http://fr.recuweb.com/yoga/dailymotion.com/2015/04/le-yoga-2-partie",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/yoga/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2me2bu_le-yoga-2-partie_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2me2bu_le-yoga-2-partie_sport"
-        },
         "youtube.com/2015/03/initiation-au-yoga-21": {
             "title": "Initiation au yoga - Yoga - 21...",
             "snippet": "Initiation au yoga - Yoga - 21 Initiation au yoga - Yoga - 21 Apr\u00e8s tant de sport, un peu de relaxation avec une s\u00e9ance d'initiation au yoga avec Constant! Ce cours vous apportera \u00e0 la fois de la force, et de la souplesse.... From: Gym Direct...",
@@ -71,6 +59,18 @@
             "source_url": "http://youtube.com/watch?v=BF320ZtEyZ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BF320ZtEyZ0/0.jpg"
         },
+        "youtube.com/2014/12/initiation-au-yoga-19": {
+            "title": "Initiation au yoga - Yoga - 19...",
+            "snippet": "Initiation au yoga - Yoga - 19 Initiation au yoga - Yoga - 19 Apr\u00e8s tant de sport, un peu de relaxation avec une s\u00e9ance d'initiation au yoga avec Constant! Ce cours vous apportera \u00e0 la fois de la force, et de la souplesse.... From: Gym Direct...",
+            "date": "2014-12-05",
+            "author_name": "Gym Direct",
+            "categories": "yoga,sport",
+            "tags": "gym,gym_direct,direct,souplesse,cours,cours-vous-apportera,apportera,force,initiation,initiation-au-yoga,yoga,peu,peu-de-relaxation,relaxation,s\u00e9ance,tant,tant-de-sport,sport,apr\u00e8s,constant",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/12/initiation-au-yoga-19",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=lkesZ57gtfU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/lkesZ57gtfU/0.jpg"
+        },
         "dailymotion.com/2014/11/la-souplesse-de-cette-prof-yoga-va-vous-faire-halluciner": {
             "title": "La souplesse de cette prof de Yoga va vous faire halluciner!",
             "snippet": "Kino MacGregor est professeur de Yoga depuis quelques ann\u00e9es. Sp\u00e9cialis\u00e9e dans l'art de la relaxation, elle n'a \u00e9galement pas son pareil lorsqu'il s'agit de faire preuve de souplesse, une qualit\u00e9 essentielle pour ma\u00eetriser le yoga. Voyez...",
@@ -115,7 +115,7 @@
             "categories": "yoga",
             "tags": "s\u00e9ance,techniques,qualit\u00e9,cours,yoga,ariane,yogis",
             "recuweb_url": "http://fr.recuweb.com/yoga/youtube.com/2014/09/cours-de-yoga-du-soir-avec-ariane-s-ancrer",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga%2Byoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yoga&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=A764zDLKFMM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/A764zDLKFMM/0.jpg"
         },
