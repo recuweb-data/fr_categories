@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "formule",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/formule/",
@@ -11,6 +11,46 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/formule/formule/blogs.json"
     },
     "items": {
+        "presse-citron.net/2015/05/evernote-revoit-ses-formules-payantes-presse-citron": {
+            "title": "Evernote revoit ses formules payantes - Presse-citron...",
+            "snippet": "Presse-citronEvernote revoit ses formules payantesPresse-citronD\u00e9sormais, les utilisateurs auront le choix entre la formule gratuite, la formule Plus et la formule Premium. Hasard du calendrier ou pas, Evernote vient tout juste d'annoncer le...",
+            "date": "2015-05-01",
+            "categories": "formule",
+            "tags": "formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/presse-citron.net/2015/05/evernote-revoit-ses-formules-payantes-presse-citron",
+            "resource_url": "http://news.google.fr/?hl=fr&q=formule&output=atom&nord=1",
+            "source_url": "http://presse-citron.net/evernote-revoit-ses-formules-payantes/"
+        },
+        "msn.com/2015/05/michael-schumacher-son-fils-signe-sa-premi%C3%A8re-victoire-en-formule-4": {
+            "title": "Michael Schumacher: son fils signe sa premi\u00e8re victoire en Formule 4...",
+            "snippet": "Le jeune Mick Schumacher entre dans lhistoire du sport automobile en remportant sa premi\u00e8re victoire en Formule 4. Le petit prodige suit peut-\u00eatre la route de son p\u00e8re. EN SAVOIR PLUS MASQUER...",
+            "date": "2015-05-01",
+            "categories": "sport,formule",
+            "tags": "sport,sport-automobile,automobile,premi\u00e8re,mick,schumacher,fils,formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/msn.com/2015/05/michael-schumacher-son-fils-signe-sa-premi%C3%A8re-victoire-en-formule-4",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
+            "source_url": "http://msn.com/fr-ca/sports/soccer/michael-schumacher-son-fils-signe-sa-premi\u00e8re-victoire-en-formule-4/vi-BBiJQZ6"
+        },
+        "lexpress.fr/2015/04/en-images-top-10-des-plus-beaux-circuits-de-formule-1": {
+            "title": "EN IMAGES. Top 10 des plus beaux circuits de Formule 1 - L'Express...",
+            "snippet": "L'ExpressEN IMAGES. Top 10 des plus beaux circuits de Formule 1L'ExpressLe championnat du monde de Formule 1 fait le tour de la plan\u00e8te pour que les pilotes s'affrontent sur des circuits exceptionnels. Voici nos dix trac\u00e9s favoris pour un voyage...",
+            "date": "2015-04-30",
+            "categories": "formule",
+            "tags": "tour,championnat,formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/lexpress.fr/2015/04/en-images-top-10-des-plus-beaux-circuits-de-formule-1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=formule&output=atom&nord=1",
+            "source_url": "http://lexpress.fr/diaporama/diapo-photo/tendances/voyage/grand-prix-circuit-de-formule-1-les-plus-beaux-dans-le-monde_1675727.html"
+        },
+        "leblogauto.com/2015/04/audi-en-formule-1-pas-encore-dactualit%C3%A9": {
+            "title": "Audi en Formule 1: pas encore dactualit\u00e9...",
+            "snippet": "Depuis de nombreuses ann\u00e9es, la question de larriv\u00e9e du groupe Volkswagen en Formule 1 revient r\u00e9guli\u00e8rement sur la table. Avec la r\u00e9cente d\u00e9mission de Ferdinand Piech, cette piste semblait de plus en plus cr\u00e9dible. En effet, lancien homme...",
+            "date": "2015-04-29",
+            "categories": "formule",
+            "tags": "formule",
+            "recuweb_url": "http://fr.recuweb.com/formule/leblogauto.com/2015/04/audi-en-formule-1-pas-encore-dactualit%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
+            "source_url": "http://leblogauto.com/2015/04/audi-en-formule-1-pas-encore-dactualite.html"
+        },
         "guideautoweb.com/2015/04/la-formule-%C3%A9ts-une-petite-entreprise": {
             "title": "La Formule \u00c9TS, une petite entreprise...",
             "snippet": "Dans le dernier article, nous avons mis laccent sur limportance de la\u00e9rodynamique en s\u00e9rie Formule SAE. Dans cet article, vous pourrez en apprendre plus sur l\u00e9quipe Formule \u00c9TS, son d\u00e9partement de gestion d\u00e9quipe et dorganisation...",
@@ -26,70 +66,20 @@
             "snippet": "Fr\u00e9d\u00e9ric Vasseur, le patron notamment de lentreprise Spark Racing Technology mais aussi des \u00e9curies ART GP, ne pouvait pas r\u00eaver meilleure entr\u00e9e en mati\u00e8re pour la Spark-Renault SRT_01E depuis le lancement du Championnat FIA de Formula E...",
             "date": "2015-04-27",
             "categories": "formule",
-            "tags": "formula,fia,renault,patron,notamment,premier,formule",
+            "tags": "formula,championnat,fia,renault,premier,formule",
             "recuweb_url": "http://",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
             "source_url": "http://autonewsinfo.com/2015/04/27/formule-e-un-premier-bilan-excellent-pour-spark-racing-technology-deja-tourne-vers-2016-155482.html"
-        },
-        "linfo.re/2015/04/formule-4-mick-schumacher-signe-sa-premi%C3%A8re-victoire": {
-            "title": "Formule 4: Mick Schumacher signe sa premi\u00e8re victoire...",
-            "snippet": "Mick Schumacher marche sur les pas de son illustre p\u00e8re. Le fils du septuple champion du monde de F1 a sign\u00e9 sa premi\u00e8re victoire en monoplace en remportant la 3e course de ses d\u00e9buts en Formule 4. Le fils Michael Schumacher a sign\u00e9 sa...",
-            "date": "2015-04-27",
-            "categories": "monoplace,formule",
-            "tags": "michael,michael_schumacher,schumacher,d\u00e9buts,premi\u00e8re,premi\u00e8re-victoire,victoire,victoire-en-monoplace,monoplace,fils,mick,mick_schumacher,formule,course",
-            "recuweb_url": "http://fr.recuweb.com/formule/linfo.re/2015/04/formule-4-mick-schumacher-signe-sa-premi%C3%A8re-victoire",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
-            "source_url": "http://linfo.re/sports/sports-mecaniques/667967-formule-4-mick-schumacher-signe-sa-premiere-victoire"
-        },
-        "europe1.fr/2015/04/formule-4-premier-succ%C3%A8s-pour-le-fils-de-michael-schumacher": {
-            "title": "Formule 4: premier succ\u00e8s pour le fils de Michael Schumacher...",
-            "snippet": "H\u00c9RITAGE - Mick Schumacher, 16 ans, a remport\u00e9 dimanche sa premi\u00e8re victoire en monoplace, sur le circuit d'Oschersleben. Le dimanche 26 avril restera peut-\u00eatre comme une date dans l'histoire du sport automobile. En effet, Mick Schumacher, fils...",
-            "date": "2015-04-26",
-            "categories": "sport,monoplace,formule",
-            "tags": "sport,sport-automobile,automobile,circuit,dimanche,premi\u00e8re,premi\u00e8re-victoire,victoire,victoire-en-monoplace,monoplace,mick,mick_schumacher,schumacher,michael,michael_schumacher,premier,fils,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/europe1.fr/2015/04/formule-4-premier-succ%C3%A8s-pour-le-fils-de-michael-schumacher",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
-            "source_url": "http://europe1.fr/sport/multisports/articles/formule-4-le-fils-de-michael-schumacher-au-top-2437967"
         },
         "leparisien.fr/2015/04/formule-4-premi%C3%A8re-course-et-premier-troph%C3%A9e-pour-le-fils-schumacher": {
             "title": "Formule 4: premi\u00e8re course et premier troph\u00e9e pour le fils Schumacher...",
             "snippet": "A 16 ans, Mick Schumacher a d\u00e9croch\u00e9 son premier troph\u00e9e en monoplace: celui de meilleur rookie (d\u00e9butant), en terminant dans les points d'une course remport\u00e9e par son compatriote Marvin Dients, de deux ans son a\u00een\u00e9. Bien s\u00fbr que je suis...",
             "date": "2015-04-25",
             "categories": "monoplace,formule",
-            "tags": "premier,monoplace,fils,formule,premi\u00e8re,course,schumacher,mick",
+            "tags": "premier,fils,formule,premi\u00e8re,course,schumacher,mick",
             "recuweb_url": "http://fr.recuweb.com/formule/leparisien.fr/2015/04/formule-4-premi%C3%A8re-course-et-premier-troph%C3%A9e-pour-le-fils-schumacher",
             "resource_url": "http://www.bing.com/news/search?first=1&q=formule&format=RSS&cc=fr",
             "source_url": "http://leparisien.fr/sports/autres/formule-4-premiere-course-et-premier-trophee-pour-le-fils-schumacher-25-04-2015-4724065.php"
-        },
-        "fr.news.yahoo.com/2015/03/michael-schumacher-son-fils-fait-une-sortie-de-route-en-formule": {
-            "title": "Michael Schumacher: Son fils fait une sortie de route en Formule 4...",
-            "snippet": "FAITS DIVERS - La sortie de route de Mick Schumacher au volant de sa Formule 4 a \u00e9t\u00e9 tr\u00e8s m\u00e9diatis\u00e9e en Allemagne...",
-            "date": "2015-03-18",
-            "categories": "formule",
-            "tags": "mick,mick_schumacher,schumacher,fils,michael,michael_schumacher,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/fr.news.yahoo.com/2015/03/michael-schumacher-son-fils-fait-une-sortie-de-route-en-formule",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=formule",
-            "source_url": "http://fr.news.yahoo.com/michael-schumacher-fils-fait-sortie-route-formule-4-173722268.html"
-        },
-        "fr.news.yahoo.com/2015/03/jules-bianchi-jean-todt-refuse-de-d%C3%A9voiler-l%C3%A9tat-sant%C3%A9-du-pilote": {
-            "title": "Jules Bianchi: Jean Todt refuse de d\u00e9voiler l\u00e9tat de sant\u00e9 du pilote...",
-            "snippet": "Jean Todt \u00e9tait linvit\u00e9 de Thomas Sotto, ce mardi matin sur Europe 1. Le patron de la f\u00e9d\u00e9ration internationale automobile est notamment revenu sur les conditions de s\u00e9curit\u00e9 lors des courses de Formule 1. Jean Todt a \u00e9galement \u00e9voqu\u00e9 le...",
-            "date": "2015-03-17",
-            "categories": "formule",
-            "tags": "patron,automobile,notamment,lors,pilote,jules,jules_bianchi,bianchi,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/fr.news.yahoo.com/2015/03/jules-bianchi-jean-todt-refuse-de-d%C3%A9voiler-l%C3%A9tat-sant%C3%A9-du-pilote",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=formule",
-            "source_url": "http://fr.news.yahoo.com/jules-bianchi-jean-todt-refuse-d\u00e9voiler-l-\u00e9tat-104147384.html"
-        },
-        "fr.news.yahoo.com/2015/03/michael-schumacher-violent-accident-pour-son-fils-mick-lors": {
-            "title": "Michael Schumacher: Violent accident pour son fils Mick lors de ses d\u00e9buts en F4...",
-            "snippet": "Brillant lors de sa derni\u00e8re saison de Karting, Mick Schumacher, fils de la l\u00e9gende Michael Schumacher, franchit une nouvelle \u00e9tape et s'engage en Formule 4. Un pas de plus dans ceux de son...",
-            "date": "2015-03-17",
-            "categories": "karting,formule",
-            "tags": "fils,lors,d\u00e9buts,accident,michael,michael_schumacher,schumacher,mick,formule",
-            "recuweb_url": "http://fr.recuweb.com/formule/fr.news.yahoo.com/2015/03/michael-schumacher-violent-accident-pour-son-fils-mick-lors",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=formule",
-            "source_url": "http://fr.news.yahoo.com/michael-schumacher-violent-accident-fils-mick-lors-d\u00e9buts-175500934.html"
         }
     }
 }
