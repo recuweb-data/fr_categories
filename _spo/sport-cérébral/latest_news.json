@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "sport-c\u00e9r\u00e9bral",
+        "language": "fr",
+        "updated": "20150502"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/sport-c\u00e9r\u00e9bral/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-c%C3%A9r%C3%A9bral/sport-c%C3%A9r%C3%A9bral/blogs.json"
+    },
+    "items": {
+        "ladepeche.fr/2015/04/de-la-gymnastique-c%C3%A9r%C3%A9brale-aux-centres-loisirs": {
+            "title": "De la gymnastique c\u00e9r\u00e9brale aux centres de loisirs -...",
+            "snippet": "la gymnastique c\u00e9r\u00e9brale aux centres de une multitude d'activit\u00e9s, aussi vari\u00e9es qu'enrichissantes, les animateurs usent de tout leur savoir pour que chaque journ\u00e9e soit diff\u00e9rente. Les enfants ont donc pu faire du sport, de l'art, des...",
+            "date": "2015-04-30",
+            "categories": "sport",
+            "tags": "c\u00e9r\u00e9brale,activit\u00e9s,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/ladepeche.fr/2015/04/de-la-gymnastique-c%C3%A9r%C3%A9brale-aux-centres-loisirs",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bc%C3%A9r%C3%A9bral&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/30/2096332-de-la-gymnastique-cerebrale-aux-centres-de-loisirs.html"
+        }
+    }
+}
