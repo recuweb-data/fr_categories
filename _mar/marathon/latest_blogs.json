@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "marathon",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/marathon/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/marathon/marathon/blogs.json"
     },
     "items": {
-        "arles-info.fr/2015/04/arles-info-marathon-les-alpilles-une-%C3%A9preuve-pour-la-bonne": {
-            "title": "Arles Info Marathon Arles-Les Alpilles: une \u00e9preuve pour la bonne...",
-            "snippet": "Le d\u00e9part du marathon est donn\u00e9 devant l'h\u00f4pital d'Arles, puisque tous les fonds r\u00e9colt\u00e9s iront au service oncologie. photo P. Mercier/ville d'Arles. Sept cents coureurs ont pris le d\u00e9part du quatri\u00e8me marathon Arles-Les...",
-            "date": "2015-04-27",
-            "author_name": "Marie-Pierre Garrabos",
-            "categories": "marathon",
-            "tags": "d\u00e9part,ville,devant,bonne,marathon,sept,coureurs",
-            "recuweb_url": "http://fr.recuweb.com/marathon/arles-info.fr/2015/04/arles-info-marathon-les-alpilles-une-%C3%A9preuve-pour-la-bonne",
+        "tuxboard.com/2015/04/ext%C3%A9nu%C3%A9-apr%C3%A8s-un-marathon-il-ne-retrouve-pas-sa-voiture-tuxboard": {
+            "title": "Ext\u00e9nu\u00e9 apr\u00e8s un marathon, il ne retrouve pas sa voiture - Tuxboard...",
+            "snippet": "Jason Matthews, marathonien de 40 ans habitant Wolverhampton \u00e9tait tellement ext\u00e9nu\u00e9 apr\u00e8s avoir termin\u00e9 le marathon de Manchester qu'il n'avait aucune id\u00e9e de l'endroit o\u00f9 il avait gar\u00e9 sa voiture. Sa Saab 93 sport noire...",
+            "date": "2015-04-29",
+            "author_name": "Vic Rattlehead",
+            "categories": "sport,marathon",
+            "tags": "\u00e9tait,apr\u00e8s,marathon",
+            "recuweb_url": "http://fr.recuweb.com/marathon/tuxboard.com/2015/04/ext%C3%A9nu%C3%A9-apr%C3%A8s-un-marathon-il-ne-retrouve-pas-sa-voiture-tuxboard",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://arles-info.fr/2015/04/27/marathon-arles-les-alpilles-une-epreuve-pour-la-bonne-cause/"
+            "source_url": "http://tuxboard.com/marathon-fatigue-voiture-perdue/"
         },
         "fr.motorsport.com/2015/04/button-boucle-son-marathon-pour-la-bonne-cause-les-news": {
             "title": "Button boucle son marathon pour la bonne cause Les news de...",
@@ -28,7 +28,7 @@
             "date": "2015-04-27",
             "author_name": "Basile Davoine",
             "categories": "marathon",
-            "tags": "\u00e9tait,bonne,cause,marathon",
+            "tags": "\u00e9tait,marathon",
             "recuweb_url": "http://fr.recuweb.com/marathon/fr.motorsport.com/2015/04/button-boucle-son-marathon-pour-la-bonne-cause-les-news",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://fr.motorsport.com/f1/news/button-boucle-son-marathon-pour-la-bonne-cause/"
@@ -39,7 +39,7 @@
             "date": "2015-04-27",
             "author_name": "Paris Match",
             "categories": "marathon",
-            "tags": "\u00e9t\u00e9,sept,paris,marathon,londres,dimanche",
+            "tags": "particip\u00e9,dimanche,\u00e9t\u00e9,paris,marathon,londres",
             "recuweb_url": "http://fr.recuweb.com/marathon/parismatch.com/2015/04/le-cadet-du-clan-beckham-au-marathon-de-londres-paris-match",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/People/Sport/En-images/Romeo-Beckham-et-sa-famille-au-marathon-de-Londres-pour-ONUSIDA-752874"
@@ -50,7 +50,7 @@
             "date": "2015-04-26",
             "author_name": "inconnu",
             "categories": "marathon",
-            "tags": "marathon,impose,dimanche,londres,remport\u00e9",
+            "tags": "remport\u00e9,dimanche,marathon,londres",
             "recuweb_url": "http://fr.recuweb.com/marathon/lavenir.net/2015/04/marathon-d-anvers-florent-caelen-s-impose-en-2-h-16",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lavenir.net/cnt/DMF20150426_00638652"
@@ -61,21 +61,10 @@
             "date": "2015-04-26",
             "author_name": "Benoit DOSSEH",
             "categories": "discipline,marathon",
-            "tags": "londres,devant,eliud,eliud_kipchoge,kipchoge,marathon",
+            "tags": "londres,marathon",
             "recuweb_url": "http://fr.recuweb.com/marathon/africatopsports.com/2015/04/marathon-de-londres-eliud-kipchoge-chef-file-la-razzia",
             "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://africatopsports.com/2015/04/26/marathon-de-londres-eliud-kipchoge-chef-de-file-de-la-razzia-kenyane/"
-        },
-        "ledauphine.com/2015/04/marathon-de-londres-kipchoge-bat-les-favoris-kipsang-et-kimotto": {
-            "title": "Marathon de Londres: Kipchoge bat les favoris Kipsang et Kimotto...",
-            "snippet": "Le K\u00e9nyan Eliud Kipchoge (30 ans) a remport\u00e9 pour la premi\u00e8re fois de sa carri\u00e8re le marathon de Londres, dimanche en 2h04'42'', devant deux favoris: ses compatriotes Wilson Kipsang (2h04'47''), vainqueur en 2014, et le...",
-            "date": "2015-04-26",
-            "author_name": "inconnu",
-            "categories": "marathon",
-            "tags": "compatriotes,wilson,premi\u00e8re,k\u00e9nyan,eliud,favoris,marathon,londres,kipchoge,kipsang,remport\u00e9,carri\u00e8re,dimanche,devant,deux,vainqueur",
-            "recuweb_url": "http://fr.recuweb.com/marathon/ledauphine.com/2015/04/marathon-de-londres-kipchoge-bat-les-favoris-kipsang-et-kimotto",
-            "resource_url": "http://www.google.com/search?q=marathon%2Bmarathon&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ledauphine.com/sport/2015/04/26/triple-kenyan-au-marathon-de-londres"
         },
         "xianblog.wordpress.com/2015/04/fare-well-paula": {
             "title": "fare well, Paula!",
@@ -120,6 +109,17 @@
             "recuweb_url": "http://fr.recuweb.com/marathon/houselondontrip.wordpress.com/2015/04/london-marathon-de-londres",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=marathon%2Bmarathon&rss=1&lng=fr",
             "source_url": "http://houselondontrip.wordpress.com/2015/04/22/a-checker-london-marathon-marathon-de-londres/"
+        },
+        "u-run.fr/2015/04/premi%C3%A8re-%C3%A9dition-r%C3%A9ussie-pour-le-marathon-de-bordeaux": {
+            "title": "Premi\u00e8re \u00e9dition r\u00e9ussie pour le Marathon de Bordeaux...",
+            "snippet": "Premiere edition reussie pour le Marathon de la Lune avec une ambiance de folie pour ce Nissan Electrique Marathon de Bordeaux Metropolen dont i-Run \u00e9tait partenaire. Samedi 18 avril a 20h, Bordeaux et sa Metropole ont ete le theatre dune epreuve...",
+            "date": "2015-04-22",
+            "author_name": "sylvaine",
+            "categories": "marathon",
+            "tags": "\u00e9tait,ambiance,\u00e9dition,premi\u00e8re,marathon,bordeaux,run,avril",
+            "recuweb_url": "http://fr.recuweb.com/marathon/u-run.fr/2015/04/premi%C3%A8re-%C3%A9dition-r%C3%A9ussie-pour-le-marathon-de-bordeaux",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=marathon%2Bmarathon&rss=1&lng=fr",
+            "source_url": "http://u-run.fr/50067-premiere-edition-reussie-pour-le-marathon-de-bordeaux"
         }
     }
 }
