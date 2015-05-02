@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rafting",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rafting/",
@@ -11,14 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/blogs.json"
     },
     "items": {
+        "blogs.mediapart.fr/2015/04/sports-et-sciences-2-anne-roger-yannick-l%C3%A9monie": {
+            "title": "Sports et Sciences (2), Anne Roger et Yannick L\u00e9monie...",
+            "snippet": "Cest lexploration dun espace potentiellement plus incertain, car non totalement domestiqu\u00e9 (navigation dans des rapides ou rafting, nage en eau vive ou hydrospeed, escalade). Lexemple de la course de fond est de ce point de vue...",
+            "date": "2015-04-29",
+            "categories": "navigation,sport,science,rafting,escalade",
+            "tags": "fond,vive,hydrospeed,rapides,sports,cest,rafting,eau",
+            "recuweb_url": "http://fr.recuweb.com/escalade/blogs.mediapart.fr/2015/04/sports-et-sciences-2-anne-roger-yannick-l%C3%A9monie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
+            "source_url": "http://blogs.mediapart.fr/edition/la-revue-du-projet/article/290415/sports-et-sciences-2-anne-roger-et-yannick-lemonie"
+        },
+        "dailymail.co.uk/2015/04/rafting-mix-of-adventure-and-wilderness-daily-mail": {
+            "title": "Rafting mix of adventure and wilderness - Daily Mail...",
+            "snippet": "Rafting mix of adventure and wildernessDaily MailIt's hard to believe that a hot day in Victoria can change the fortune of a tourism venture on Tasmania's west coast. But that's just the case for Paul Steane, who has started King River Rafting at...",
+            "date": "2015-04-28",
+            "categories": "rafting",
+            "tags": "river,west,that,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/dailymail.co.uk/2015/04/rafting-mix-of-adventure-and-wilderness-daily-mail",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rafting&output=atom&nord=1",
+            "source_url": "http://dailymail.co.uk/wires/aap/article-3059978/Rafting-mix-adventure-wilderness.html"
+        },
+        "oleantimesherald.com/2015/04/whitewater-rafting-on-cattaraugus-creek-olean-times-herald": {
+            "title": "Whitewater rafting on Cattaraugus Creek - Olean Times Herald...",
+            "snippet": "Olean Times HeraldWhitewater rafting on Cattaraugus CreekOlean Times HeraldGOWANDA April is usually a good month for whitewater rafting on Cattaraugus Creek separating Cattaraugus and Erie counties. With rain supplementing snow melt, the level of...",
+            "date": "2015-04-28",
+            "categories": "rafting",
+            "tags": "whitewater,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/oleantimesherald.com/2015/04/whitewater-rafting-on-cattaraugus-creek-olean-times-herald",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rafting&output=atom&nord=1",
+            "source_url": "http://oleantimesherald.com/news/article_d5a4c340-ecef-11e4-889b-b354230c302a.html"
+        },
         "latimes.com/2015/04/drought-means-mixed-outlook-for-rafting-on-western-rivers-los-angeles": {
             "title": "Drought means mixed outlook for rafting on Western rivers - Los Angeles Times...",
             "snippet": "Los Angeles TimesDrought means mixed outlook for rafting on Western riversLos Angeles TimesZephyr Whitewater Rafting will offer a few trips on the Kaweah into early May, but other rivers such as the Kings, the North Fork of the Stanislaus and the...",
             "date": "2015-04-27",
             "categories": "rafting",
-            "tags": "other,whitewater,rafting",
+            "tags": "north,other,whitewater,whitewater_rafting,rafting",
             "recuweb_url": "http://fr.recuweb.com/rafting/latimes.com/2015/04/drought-means-mixed-outlook-for-rafting-on-western-rivers-los-angeles",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rafting%2Brafting&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rafting&output=atom&nord=1",
             "source_url": "http://latimes.com/travel/deals/la-tr-whitewater-outlook-20150424-story.html"
         },
         "franceinfo.fr/2015/04/le-n%C3%A9pal-va-t-il-s-en-sortir-grce-au-tourisme": {
@@ -26,7 +56,7 @@
             "snippet": "Katmandu avait fait le bonheur des hippy dans les ann\u00e9es 70, il fait aujourdhui celui des amateurs de trekking, dalpinisme, de VTT, de safaris ou de rafting. Le deuxi\u00e8me atout, cest lexceptionnel potentiel hydro\u00e9lectrique, il y a plusieurs...",
             "date": "2015-04-27",
             "categories": "bonheur,rafting",
-            "tags": "safaris,trekking,tourisme,n\u00e9pal,vtt,rafting",
+            "tags": "cest,safaris,trekking,tourisme,n\u00e9pal,vtt,rafting",
             "recuweb_url": "http://fr.recuweb.com/rafting/franceinfo.fr/2015/04/le-n%C3%A9pal-va-t-il-s-en-sortir-grce-au-tourisme",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
             "source_url": "http://franceinfo.fr/emission/le-decryptage-eco/2014-2015/le-nepal-va-t-il-s-en-sortir-avec-le-tourisme-27-04-2015-08-03"
@@ -46,20 +76,20 @@
             "snippet": "Ottawa City Rafting organise des descentes en eau vive dune dur\u00e9e de trois heures sur la rivi\u00e8re des Outaouais. Le trajet comporte trois rapides pour se terminer pr\u00e8s du Mus\u00e9e canadien de la guerre. \u00c0 Sainte-Lucie-des-Laurentides, la base de...",
             "date": "2015-04-27",
             "categories": "rafting",
-            "tags": "base,vive,rivi\u00e8re,organise,descentes,rafting,parc,eau",
+            "tags": "rapides,vive,rafting,parc,eau,rivi\u00e8re",
             "recuweb_url": "http://fr.recuweb.com/rafting/journaldemontreal.com/2015/04/randonn%C3%A9es-au-parc-de-la-gatineau",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
             "source_url": "http://journaldemontreal.com/2015/04/27/randonnees-au-parc-de-la-gatineau"
         },
-        "oleantimesherald.com/2015/04/whitewater-rafting-on-cattaraugus-creek-olean-times-herald": {
-            "title": "Whitewater rafting on Cattaraugus Creek - Olean Times Herald...",
-            "snippet": "Olean Times HeraldWhitewater rafting on Cattaraugus CreekOlean Times HeraldGOWANDA April is usually a good month for whitewater rafting on Cattaraugus Creek separating Cattaraugus and Erie counties. With rain supplementing snow melt, the level of...",
-            "date": "2015-04-27",
+        "heraldnet.com/2015/04/man-dies-in-rafting-accident-on-the-sultan-river-heraldnet": {
+            "title": "Man dies in rafting accident on the Sultan River - HeraldNet...",
+            "snippet": "HeraldNetMan dies in rafting accident on the Sultan RiverHeraldNetSULTAN A man died in a rafting accident on the Sultan River on Saturday afternoon. He was one of four people in a raft that overturned on some rapids downstream from the Culmback Dam,...",
+            "date": "2015-04-26",
             "categories": "rafting",
-            "tags": "whitewater,rafting",
-            "recuweb_url": "http://fr.recuweb.com/rafting/oleantimesherald.com/2015/04/whitewater-rafting-on-cattaraugus-creek-olean-times-herald",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rafting%2Brafting&output=atom&nord=1",
-            "source_url": "http://oleantimesherald.com/news/here_and_now/article_d5a4c340-ecef-11e4-889b-b354230c302a.html"
+            "tags": "people,raft,that,river,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/heraldnet.com/2015/04/man-dies-in-rafting-accident-on-the-sultan-river-heraldnet",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rafting&output=atom&nord=1",
+            "source_url": "http://heraldnet.com/article/20150425/NEWS01/150429256"
         },
         "loisirs.ch/2015/04/ouvre-sa-saison-2015": {
             "title": "ouvre sa saison 2015 -...",
@@ -68,48 +98,18 @@
             "categories": "rafting",
             "tags": "raft,cano\u00eb,rafting",
             "recuweb_url": "http://fr.recuweb.com/rafting/loisirs.ch/2015/04/ouvre-sa-saison-2015",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rafting%2Brafting&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rafting&output=atom&nord=1",
             "source_url": "http://loisirs.ch/actualites/18364/rafting-ch-ouvre-sa-saison-2015"
         },
-        "routard.com/2015/04/treck-ou-itin%C3%A9raire-multisport-pour-le-machu-picchu": {
-            "title": "treck ou itin\u00e9raire multisport pour le machu picchu?",
-            "snippet": "nous voulons aller au machu picchu en mai, mais h\u00e9sitons entre la version treck 4 jours 3 nuits en rando, et la version vtt rafting et treck? outre le c\u00f4t\u00e9 sportif, l'entr\u00e9e par le biais vtt et raft nous permet il de voir plus de sites et...",
-            "date": "2015-04-24",
+        "forbes.com/2015/04/a-really-good-year-for-north-american-whitewater-rafting-best-forbes": {
+            "title": "A Really Good Year For North American Whitewater Rafting: Best... - Forbes...",
+            "snippet": "ForbesA Really Good Year For North American Whitewater Rafting: Best...ForbesFrom flowing, floats of I, to family-friendly dips of II and III, to adrenaline-pumping IV-V and more, whitewater rafting offers fun, exercise and bonding. West Virginia to...",
+            "date": "2015-04-12",
             "categories": "rafting",
-            "tags": "vtt,raft,mai,rafting",
-            "recuweb_url": "http://fr.recuweb.com/rafting/routard.com/2015/04/treck-ou-itin%C3%A9raire-multisport-pour-le-machu-picchu",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
-            "source_url": "http://routard.com/forum_message/3858832/treck_ou_itineraire_multisport_pour_le_machu_picchu.htm"
-        },
-        "estrepublicain.fr/2015/04/vacances-doubs-un-tourisme-personnalis%C3%A9-cl%C3%A9-en-main": {
-            "title": "vacances Doubs: un tourisme personnalis\u00e9, cl\u00e9 en main...",
-            "snippet": "Il ny a vraiment que le surf et le rafting que lon ne peut pas proposer. Des analyses fr\u00e9quentes sont men\u00e9es par Doubs tourisme pour affiner sa strat\u00e9gie. Si la conjoncture actuelle est compliqu\u00e9e, la baisse de fr\u00e9quentation nest toutefois...",
-            "date": "2015-04-24",
-            "categories": "surf,rafting",
-            "tags": "tourisme,vacances,rafting",
-            "recuweb_url": "http://fr.recuweb.com/rafting/estrepublicain.fr/2015/04/vacances-doubs-un-tourisme-personnalis%C3%A9-cl%C3%A9-en-main",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
-            "source_url": "http://estrepublicain.fr/edition-de-besancon/2015/04/24/doubs-un-tourisme-personnalise-cle-en-main"
-        },
-        "sudouest.fr/2015/04/emport%C3%A9-par-la-passion": {
-            "title": "Emport\u00e9 par la passion...",
-            "snippet": "Comp\u00e9tition, enseignement, passion. Il a \u00e9t\u00e9 chef des 30 barreurs de l'\u00e9quipe Rafting-Eaux-Vives. Pour assurer la vie de ses deux filles M\u00e9lina et Paoline, il s'est lanc\u00e9 avec sa compagne Dominique dans la production de lombricompost dans...",
-            "date": "2015-04-23",
-            "categories": "rafting",
-            "tags": "vie,\u00e9t\u00e9,rafting,eaux,vives",
-            "recuweb_url": "http://fr.recuweb.com/rafting/sudouest.fr/2015/04/emport%C3%A9-par-la-passion",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/04/24/emporte-par-la-passion-1902314-3333.php"
-        },
-        "ladepeche.fr/2015/04/amiti%C3%A9-et-rencontre-au-go%C3%BBter-de-l-admr": {
-            "title": "Amiti\u00e9 et rencontre au go\u00fbter de l'ADMR...",
-            "snippet": "Descente accompagn\u00e9e en rafting cano\u00eb ou kayak La base cano\u00eb ASV'Olt organise tous les lundis, mercredis et vendredis (pendant les vacances de printemps, du 12 avril au 8 mai), des descentes accompagn\u00e9es de 10 km entre Entraygues et Vieillevie...",
-            "date": "2015-04-16",
-            "categories": "rafting",
-            "tags": "descentes,descente,vacances,printemps,organise,base,cano\u00eb,rafting,kayak,mai",
-            "recuweb_url": "http://fr.recuweb.com/rafting/ladepeche.fr/2015/04/amiti%C3%A9-et-rencontre-au-go%C3%BBter-de-l-admr",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rafting&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/17/2088576-amitie-et-rencontre-au-gouter-de-l-admr.html"
+            "tags": "west,north,whitewater,whitewater_rafting,rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/forbes.com/2015/04/a-really-good-year-for-north-american-whitewater-rafting-best-forbes",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rafting&output=atom&nord=1",
+            "source_url": "http://forbes.com/sites/lealane/2015/04/12/a-good-year-for-whitewater-rafting-best-2015-conditions-when-and-where/"
         }
     }
 }
