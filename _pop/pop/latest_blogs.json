@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pop/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
+        "j-one.com/2015/04/top-c-pop-j-one": {
+            "title": "Top C-Pop J-One...",
+            "snippet": "Go to... HOME, News, Vid\u00e9os, S\u00e9ries, Magazines, GUIDE TV, Concours, S'abonner. Top C-Pop. La r\u00e9dac vous propose une dose de C-Pop, le reste \u00e7a ne d\u00e9pend que de vous C-pop top 2015-04-24. jonefrance. Tags: C-pop top...",
+            "date": "2015-04-24",
+            "author_name": "jonefrance",
+            "categories": "pop",
+            "tags": "reste,propose,dose,pop,tags",
+            "recuweb_url": "http://fr.recuweb.com/pop/j-one.com/2015/04/top-c-pop-j-one",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://j-one.com/top-c-pop/"
+        },
         "levidepoches.fr/2015/04/le-pype-1-pop-culture-r%C3%A9volution-9-nicolas-obery-anne-horel": {
             "title": "LE PYPE 1/POP CULTURE R\u00e9volution 9/Nicolas Obery, Anne Horel, Philippe Nassif, J\u00e9r\u00e9my Dumont,...",
             "snippet": "Mardi 28 Avril d\u00e8s 19h, LE PYPE pour la premi\u00e8re fois sinstalle dans lagence R\u00e9volution 9. Au programme, rencontre et r\u00e9flexion autour de la th\u00e9matique: LA POP CULTURE. Musique Live by ANNE HOREL et PLAYLIST POP POP BLIND TEST & LE POP/PAS POP...",
             "date": "2015-04-22",
             "author_name": "jeremy dumont, editor",
             "categories": "pop,musique,culture,play",
-            "tags": "pop,musique,culture,premi\u00e8re,avril,programme,play",
+            "tags": "pop,musique,pop_culture,culture,premi\u00e8re,avril,programme",
             "recuweb_url": "http://fr.recuweb.com/play/levidepoches.fr/2015/04/le-pype-1-pop-culture-r%C3%A9volution-9-nicolas-obery-anne-horel",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=pop%2Bpop&rss=1&lng=fr",
             "source_url": "http://levidepoches.fr/creation/2015/04/le-pype-1-pop-culture-r\u00e9volution-9-nicolas-obery-anne-horel-philippe-nassif-j\u00e9r\u00e9my-dumont-alexis-fer.html"
@@ -28,21 +39,21 @@
             "date": "2015-04-21",
             "author_name": "inconnu",
             "categories": "pop",
-            "tags": "peu,nom,iggy,iggy_pop,pop,comme",
+            "tags": "peu,reste,james,nom,pop,comme",
             "recuweb_url": "http://fr.recuweb.com/pop/puretrend.com/2015/04/iggy-pop-f%C3%AAte-ses-68-ans-10-anecdotes-sur-le-parrain",
             "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://puretrend.com/article/iggy-pop-fete-ses-68-ans-10-anecdotes-sur-le-parrain-du-punk_a112289/1"
         },
-        "lookncook.fr/2015/04/pop-popcorn-mes-popcorns-au-caramel-beurre-sal%C3%A9": {
-            "title": "POP! POP! POPCORN! Mes popcorns au caramel au beurre sal\u00e9...",
-            "snippet": "POP! POP! POPCORN! Mes popcorns au caramel au beurre sal\u00e9! Ce soir, je pr\u00e9vois FILM POPCORN! Mais pas n'importe quels popcorn! Une recette sucr\u00e9e et mon coup de coeur: des POPCORN au caramel au beurre...",
-            "date": "2015-04-10",
-            "author_name": "Lingcook",
-            "categories": "pop",
-            "tags": "pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/lookncook.fr/2015/04/pop-popcorn-mes-popcorns-au-caramel-beurre-sal%C3%A9",
+        "fubiz.net/2015/04/volkswagen-ads-prints-borrow-pop-culture-scenes-fubiz": {
+            "title": "Volkswagen Ads Prints Borrow Pop Culture Scenes Fubiz...",
+            "snippet": "Volkswagen Ads Prints Borrow Pop Culture Scenes. Pour promouvoir son mod\u00e8le de voitures Caddy Maxi Life, Volkswagen a demand\u00e9 au directeur artistique Yann Gressier de l'\u00e9cole de pub ESA Saint Luc Tournai,...",
+            "date": "2015-04-16",
+            "author_name": "Donnia",
+            "categories": "pop,culture",
+            "tags": "mod\u00e8le,pop,pop_culture,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/fubiz.net/2015/04/volkswagen-ads-prints-borrow-pop-culture-scenes-fubiz",
             "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lookncook.fr/popcorn-caramel/"
+            "source_url": "http://fubiz.net/2015/04/16/volkswagen-ads-prints-borrow-pop-culture-scenes/"
         },
         "thepointman.wordpress.com/2015/01/pop-and-poppety-pointman": {
             "title": "Pop, pop, and poppety pop. Pointman's...",
