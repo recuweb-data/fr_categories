@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -11,6 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
+        "virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy": {
+            "title": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for... - Virtual-Strategy Magazine...",
+            "snippet": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for...Virtual-Strategy Magazine (press release)SAN FRANCISCO, CA -- (Marketwired) -- 04/29/15 -- Citus Data, creators of solutions to scale out and extend the analytics capabilities of...",
+            "date": "2015-04-29",
+            "tags": "solutions,data,press,press-release,release,gresql",
+            "recuweb_url": "http://fr.recuweb.com/virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "source_url": "http://virtual-strategy.com/2015/04/29/first-annual-pgconf-silicon-valley-postgresql-conference-call-speakers-now-open"
+        },
+        "emploi.presse-citron.net/2015/04/vp-of-engineering-h-f": {
+            "title": "VP of Engineering H/F...",
+            "snippet": "L\u00e9quipe technique travaille en mode lean pour faire \u00e9voluer sans cesse nos applications SaaS et API con\u00e7ues autour des technologies suivantes: Scraper PythonPostgresqlElasticSearchPlay2 ScalaAngularJS h\u00e9berg\u00e9es sur Heroku & AWS. Ce poste est...",
+            "date": "2015-04-29",
+            "categories": "technologie",
+            "recuweb_url": "http://fr.recuweb.com/technologie/emploi.presse-citron.net/2015/04/vp-of-engineering-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/VP+of+Engineering+HF/30169"
+        },
         "clubic.com/2015/04/debian-8-jessie-disponible-la-distro-universelle-toujours-plus-stable": {
             "title": "Debian 8 Jessie disponible: la distro universelle toujours plus stable...",
             "snippet": "Aux c\u00f4t\u00e9s de MySQL figurent MariaDB et PostgreSQL tandis qu'Apache passe en. Gnome redevient l'environnement de bureau par d\u00e9faut, mais les alternatives classiques restent de la partie, avec la possibilit\u00e9 d'installer...",
@@ -45,7 +63,7 @@
             "snippet": "Le monde des bases de donn\u00e9es Open Source est tr\u00e8s actif, avec des offres comme MySQL, PostgreSQL ou encore SQLite. Connaissez-vous ce march\u00e9? Quiz! Dautres solutions existent cependant, avec chacune son histoire, son parcours et son public.",
             "date": "2015-04-24",
             "categories": "mysql,sqlite",
-            "tags": "source,monde,sql,bases,donn\u00e9es,mysql,gresql",
+            "tags": "solutions,monde,sql,bases,donn\u00e9es,mysql,gresql",
             "recuweb_url": "http://fr.recuweb.com/sqlite/silicon.fr/2015/04/quiz-10-questions-sur-les-bases-de-donn%C3%A9es-sql-open-source",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
             "source_url": "http://silicon.fr/quiz-silicon-fr-10-questions-bases-de-donnees-sql-open-source-114831.html"
@@ -74,9 +92,9 @@
             "title": "Call for Papers, PostgreSQL Session 7, September, 24th - (press release)...",
             "snippet": "Call for Papers, PostgreSQL Session 7, September, (press release)After six successful sessions dedicated to the new features of PostgreSQL 9.0 (February 2011), to PostGIS (June 2011 & September 2014), to replication systems (February 2012), to...",
             "date": "2015-04-22",
-            "tags": "gresql",
+            "tags": "press,press-release,release,gresql,gis",
             "recuweb_url": "http://fr.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
             "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
         },
         "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f": {
@@ -87,25 +105,6 @@
             "recuweb_url": "http://fr.recuweb.com/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Symfony+2++PostgreSQL+HF/30065"
-        },
-        "informaticien.be/2015/04/embarcadero-annonce-une-nouvelle-version-majeure-avec-rad-studio-xe8": {
-            "title": "Embarcadero annonce une nouvelle version majeure avec RAD Studio XE8...",
-            "snippet": "PostgreSQL, MySQL et bien plus. Les autres am\u00e9liorations de la version XE8 de RAD Studio incluent: am\u00e9lioration de la productivit\u00e9 des d\u00e9veloppeurs avec le plug-in Castalia int\u00e9gr\u00e9 au refactoring Object Pascal; Project Statistics; Code...",
-            "date": "2015-04-22",
-            "categories": "mysql",
-            "tags": "gresql,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/informaticien.be/2015/04/embarcadero-annonce-une-nouvelle-version-majeure-avec-rad-studio-xe8",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://informaticien.be/articles_item-17550-Embarcadero_annonce_une_nouvelle_version_majeure_avec_RAD_Studio_XE8.html"
-        },
-        "it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders": {
-            "title": "DBAWSPostgreSQL - IT Leaders...",
-            "snippet": "DBAWSPostgreSQLIT LeadersOSSOpen Source SoftwarePostgresDBEDB2015420AWSAmazon Web ServicesPostgres Plus Cloud Database...et plus encore...",
-            "date": "2015-04-21",
-            "tags": "web,source,gresql",
-            "recuweb_url": "http://fr.recuweb.com/it.impressbm.co.jp/2015/04/dbawspostgresql-it-leaders",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
-            "source_url": "http://it.impressbm.co.jp/articles/-/12288"
         }
     }
 }
