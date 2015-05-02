@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xampp",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/xampp/",
@@ -11,34 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/xampp/xampp/blogs.json"
     },
     "items": {
+        "ghacks.net/2015/04/caddy-is-a-3mb-web-server-for-your-home-computer-ghacks": {
+            "title": "Caddy is a 3MB web server for your home computer - Ghacks Technology News...",
+            "snippet": "Ghacks Technology NewsCaddy is a 3MB web server for your home computerGhacks Technology NewsIt may be easier however to use a full solution like Wampserver, XAMPP or QuickPHP Web Server that ships with everything right out of the box (everything...",
+            "date": "2015-04-29",
+            "categories": "xampp",
+            "tags": "web,server,your,xampp",
+            "recuweb_url": "http://fr.recuweb.com/xampp/ghacks.net/2015/04/caddy-is-a-3mb-web-server-for-your-home-computer-ghacks",
+            "resource_url": "http://news.google.fr/?hl=fr&q=xampp%2Bxampp&output=atom&nord=1",
+            "source_url": "http://ghacks.net/2015/04/29/caddy-is-a-3mb-web-server-for-your-home-computer/"
+        },
         "clubic.com/2014/11/facebook-publier-un-message-contestant-des-cgu-ne-les-annule-clubic": {
             "title": "Facebook: publier un message contestant des CGU ne les annule... - Clubic...",
             "snippet": "ClubicFacebook: publier un message contestant des CGU ne les annule...ClubicFileZilla Server Serveur FTP gratuit et Open Source. Apache HTTP Server pour Windows Serveur HTTP libre. XAMPP Installer serveur web Apache avec MySQL, PHP et Perl. Serviio...",
             "date": "2014-11-28",
             "categories": "xampp,facebook,mysql,php,perl",
-            "tags": "serveur,serveur-web,web,xampp,xampp_installer,installer,windows,windows_serveur,windows_serveur_http,serveur_http,http,apache,apache_http,apache_http_server,http_server,server,open,open_source,source,gratuit,clubicfilezilla,clubicfilezilla_server,clubicfilezilla_server_serveur,server_serveur,server_serveur_ftp,serveur_ftp,ftp,clubic,libre,mysql,php,perl,serviio",
+            "tags": "serveur,web,xampp,installer,windows,http,apache,server,gratuit,mysql,php,perl",
             "recuweb_url": "http://fr.recuweb.com/perl/clubic.com/2014/11/facebook-publier-un-message-contestant-des-cgu-ne-les-annule-clubic",
-            "resource_url": "http://news.google.fr/?hl=fr&q=xampp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=xampp%2Bxampp&output=atom&nord=1",
             "source_url": "http://clubic.com/internet/facebook/actualite-741969-facebook-stop-publier-messages-con.html"
-        },
-        "clubic.com/2014/11/bo%C3%AEtier-fractal-design-sort-son-define-r5-clubic": {
-            "title": "Bo\u00eetier: Fractal Design sort son Define R5 - Clubic...",
-            "snippet": "ClubicBo\u00eetier: Fractal Design sort son Define R5ClubicFileZilla Server Serveur FTP gratuit et Open Source. Apache HTTP Server pour Windows Serveur HTTP libre. XAMPP Installer serveur web Apache avec MySQL, PHP et Perl. Serviio Diffusez vos fichiers...",
-            "date": "2014-11-26",
-            "categories": "xampp,mysql,php,perl",
-            "tags": "serviio,serveur,serveur-web,web,xampp,xampp_installer,installer,windows,windows_serveur,windows_serveur_http,serveur_http,http,apache,apache_http,apache_http_server,http_server,server,open,open_source,source,gratuit,clubicfilezilla,clubicfilezilla_server,clubicfilezilla_server_serveur,server_serveur,server_serveur_ftp,serveur_ftp,ftp,clubic,libre,mysql,php,perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/clubic.com/2014/11/bo%C3%AEtier-fractal-design-sort-son-define-r5-clubic",
-            "resource_url": "http://news.google.fr/?hl=fr&q=xampp&output=atom&nord=1",
-            "source_url": "http://clubic.com/materiel-informatique/boitier-pc/actualite-741385-boitier-fractal-design-sort-define-r5.html"
         },
         "myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp-press": {
             "title": "Softaculous now available for Free on XAMPP, EasyPHP and WAMP - (press release)...",
             "snippet": "(press release)Softaculous now available for Free on XAMPP, EasyPHP and WAMP (press release)Softaculous auto installer is now available on your desktop environments like XAMPP, EasyPHP and WAMP server. Installing apps like WordPress, Joomla,...",
             "date": "2014-08-01",
             "categories": "xampp,wordpress,joomla",
-            "tags": "xampp,installer,server",
+            "tags": "your,xampp,wamp,installer,server",
             "recuweb_url": "http://fr.recuweb.com/joomla/myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp-press",
-            "resource_url": "http://news.google.fr/?hl=fr&q=xampp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=xampp%2Bxampp&output=atom&nord=1",
             "source_url": "http://myhostnews.com/2014/08/softaculous-now-available-for-free-on-xampp-easyphp-and-wamp/"
         }
     }
