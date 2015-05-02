@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jquery/",
@@ -11,32 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
+        "phpmagazin.de/2015/04/jquery-und-ver%C3%B6ffentlicht-php-magazin": {
+            "title": "jQuery und ver\u00f6ffentlicht - php magazin...",
+            "snippet": "jQuery und ver\u00f6ffentlichtphp magazinDie Versionen und, die Timmy Willison im jQuery-Blog vorgestellt hat, sollen insbesondere einen Bug in iOS 8.2 und 8.3 fixen. Dabei handelt es sich um einen Timing-Bug, der daf\u00fcr sorgt, dass Mobile Safari...",
+            "date": "2015-04-29",
+            "categories": "php,jquery",
+            "tags": "mobile,der,daf\u00fcr,hat,php,php-magazin,magazin,ver\u00f6ffentlicht,jquery,die",
+            "recuweb_url": "http://fr.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-und-ver%C3%B6ffentlicht-php-magazin",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://phpmagazin.de/news/jquery-1-11-3-2-1-4-179519"
+        },
+        "itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld": {
+            "title": "jQuery's creator annotates his original source code - ITworld...",
+            "snippet": "ITworldjQuery's creator annotates his original source codeITworldSince its release in January 2006, jQuery has become one of the most popular JavaScript libraries, currently used by more than half the top million web sites in the world. Knowing how...",
+            "date": "2015-04-29",
+            "categories": "jquery,javascript",
+            "tags": "web,source,code,jquery,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/itworld.com/2015/04/jquery-s-creator-annotates-his-original-source-code-itworld",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://itworld.com/article/2915599/open-source-tools/jquery-s-creator-annotates-his-original-source-code.html"
+        },
+        "jobboom.com/2015/04/architecte-orient%C3%A9-services-soa": {
+            "title": "Architecte orient\u00e9 services (SOA)...",
+            "snippet": "SOA) Essentielle - Exp\u00e9rience TDD ou BDD et de lint\u00e9gration continue Essentielle - 5 ans en conception C, Framework,.NET, IIS, OO Essentielle - 7 ans BD relationnelles (SQL Server, Oracle) Essentielle - Exp\u00e9., Javascript, HTML, JSON, JQuery...",
+            "date": "2015-04-28",
+            "categories": "javascript,jquery",
+            "tags": "conception,exp\u00e9rience,framework,net,javascript,html,jquery",
+            "recuweb_url": "http://fr.recuweb.com/jquery/jobboom.com/2015/04/architecte-orient%C3%A9-services-soa",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
+            "source_url": "http://jobboom.com/fr/description-de-poste/technologies-medias-numeriques/architecte-oriente-services-soa/region-de-montreal/purkinje/2201752"
+        },
+        "sen360.com/2015/04/en-libye-les-conditions-d%C3%A9sastreuses-sen360": {
+            "title": "En Libye, les conditions d\u00e9sastreuses... - Sen360...",
+            "snippet": "Sen360En Libye, les conditions d\u00e9sastreuses...Sen360Ils sont au total 36 000 comptabilis\u00e9s sur les registres du HCR dans le pays. Les Syriens 18 000 forment le plus gros contingent. (function() require(\"jquery\", \"lmd/module/video/autoplay\",...",
+            "date": "2015-04-28",
+            "recuweb_url": "http://fr.recuweb.com/sen360.com/2015/04/en-libye-les-conditions-d%C3%A9sastreuses-sen360",
+            "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
+            "source_url": "http://sen360.com/international/en-libye-les-conditions-desastreuses-d-accueil-des-migrants-277031.html"
+        },
         "emploi.presse-citron.net/2015/04/developpeur-web-front-php-jquery-html5-h-f": {
             "title": "DEVELOPPEUR WEB FRONT PHP JQUERY HTML5 H/F...",
             "snippet": "Je vais pas te mentir on se fout un peu de savoir ce que tu aimes faire ou ce que r\u00e9v\u00e8le ta personnalit\u00e9 apr\u00e8s un entretien pompeux qui portera sur tout sauf ce que tu vas faire. Chez nous, c'est simple, tu sais d\u00e9velopper? Tu aimes avoir du...",
             "date": "2015-04-27",
             "categories": "php,jquery",
-            "tags": "apr\u00e8s,front,php,jquery,r\u00e9v\u00e8le",
+            "tags": "apr\u00e8s,web,front,php,jquery,html,r\u00e9v\u00e8le",
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.presse-citron.net/2015/04/developpeur-web-front-php-jquery-html5-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/DEVELOPPEUR+WEB+FRONT+PHP+JQUERY+HTML5+HF/30142"
-        },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-mobile-ios-backend-h-f": {
-            "title": "D\u00e9veloppeur Mobile (IOS)/backend H/F...",
-            "snippet": "Maitrise des langages: Objective C, Java Maitrise des frameworks Spring/Hibernate/JQuery La connaissance des frameworks Groovy/Grails/Play Framework et C pour le d\u00e9veloppement Windows mobile serait grandement appr\u00e9ci\u00e9e. Vous \u00eates passionn\u00e9(e...",
-            "date": "2015-04-27",
-            "categories": "play,connaissance,langage,java,jquery",
-            "tags": "frameworks,d\u00e9veloppeur,mobile,jquery,d\u00e9veloppement",
-            "recuweb_url": "http://fr.recuweb.com/jquery/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-mobile-ios-backend-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Mobile+(IOS)++backend+HF/30134"
         },
         "phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin": {
             "title": "jQuery Foundation ver\u00f6ffentlicht Globalize 1.0 - php magazin...",
             "snippet": "php magazinjQuery Foundation ver\u00f6ffentlicht Globalize magazinBis zur gerade erschienen Version 1.0 der Internationalisierungs-Library Globalize hat es zwar eine ganze Weile gedauert, daf\u00fcr bringt die von der jQuery Foundation ver\u00f6ffentlichte...",
             "date": "2015-04-27",
             "categories": "php,jquery",
-            "tags": "foundation,php,jquery,jquery_foundation,globalize,version",
+            "tags": "daf\u00fcr,die,der,hat,php,php-magazin,magazin,jquery,ver\u00f6ffentlicht,globalize",
             "recuweb_url": "http://fr.recuweb.com/jquery/phpmagazin.de/2015/04/jquery-foundation-ver%C3%B6ffentlicht-globalize-1-0-php-magazin",
             "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://phpmagazin.de/news/jquery-foundation-globalize-1-0-179468"
@@ -50,16 +78,6 @@
             "recuweb_url": "http://fr.recuweb.com/jquery/web.developpez.com/2015/04/globalize-1-0-l-outil-d-internationalisation-de-jquery-rendez",
             "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
             "source_url": "http://web.developpez.com/actu/84341/Globalize-1-0-l-outil-d-internationalisation-de-jQuery-rendez-vous-vos-applications-accessibles-a-tous/"
-        },
-        "sen360.com/2015/04/baltimore-la-police-admet-que-l-homme-mort-apr%C3%A8s-son-arres": {
-            "title": "Baltimore: la police admet que l'homme mort apr\u00e8s son arres... - Sen360...",
-            "snippet": "Sen360Baltimore: la police admet que l'homme mort apr\u00e8s son policiers ont \u00e9t\u00e9 suspendus avec salaire apr\u00e8s la mort de Freddie Gray. Lire aussi: Aux Etats-Unis, la longue histoire des brutalit\u00e9s polici\u00e8res (function() require(\"jquery\",...",
-            "date": "2015-04-25",
-            "categories": "mort",
-            "tags": "apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/mort/sen360.com/2015/04/baltimore-la-police-admet-que-l-homme-mort-apr%C3%A8s-son-arres",
-            "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
-            "source_url": "http://sen360.com/international/baltimore-la-police-admet-que-l-homme-mort-apres-son-arrestation-avait-besoin-de-soins-275633.html"
         },
         "javascript.developpez.com/2015/04/pep-polyfill-pointer-events-de-google-est-repris-par-jquery": {
             "title": "PEP: polyfill Pointer Events de Google est repris par jQuery... -...",
@@ -76,7 +94,7 @@
             "snippet": "Comp\u00e9tences Requises: Excellent niveau JavaScript natif (ES5) Ma\u00eetrise des notions de scope, de contexte, de closure et de prototype en JavaScript. Bonne exp\u00e9rience des Frameworks/Librairies Javascript: jQuery, Angular, nodeJs...",
             "date": "2015-04-23",
             "categories": "javascript,jquery",
-            "tags": "javascript,d\u00e9veloppeur,front,confirm\u00e9,cdi,pierre,perray,niveau,frameworks,jquery,angular",
+            "tags": "javascript,exp\u00e9rience,d\u00e9veloppeur,front,confirm\u00e9,cdi,pierre,perray,niveau,jquery,angular",
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-front-javascript-confirm%C3%A9-h-f-cdi-st-pierre-du-perray",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/450721/dveloppeur-front-javascript-confirm-hf/"
@@ -86,30 +104,10 @@
             "snippet": "Pour lun de nos clients grands comptes, nous recherchons un D\u00e9veloppeur PHP confirm\u00e9 JavaScript/jQuery/Angular JSMission/Tches: Sur un projet ambitieux et innovant, le prestataire int\u00e9grera une \u00e9quipe ayant en charge la conception et la...",
             "date": "2015-04-23",
             "categories": "php,javascript,jquery",
-            "tags": "\u00e9quipe,projet,angular,d\u00e9veloppeur,php,javascript,jquery,cdi,pierre,perray,confirm\u00e9",
+            "tags": "\u00e9quipe,conception,projet,angular,d\u00e9veloppeur,php,javascript,jquery,cdi,pierre,perray,confirm\u00e9",
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-jquery-angular-js-h-f-cdi-st-pierre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jquery&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/450719/dveloppeur-javascript-jquery-angular-js-hf/"
-        },
-        "hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release": {
-            "title": "JQuery Foundation Launches Globalize V 1.0 - (press release)...",
-            "snippet": "JQuery Foundation Launches Globalize V (press release)Walnut, CA. (PRWEB) April 23, 2015 - The jQuery Foundation today announces the immediate availability of version 1.0 of its highly-anticipated Globalize project. Globalize provides developers...",
-            "date": "2015-04-23",
-            "categories": "jquery",
-            "tags": "version,jquery,jquery_foundation,foundation,globalize",
-            "recuweb_url": "http://fr.recuweb.com/jquery/hostreview.com/2015/04/jquery-foundation-launches-globalize-v-1-0-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
-            "source_url": "http://hostreview.com/news/150423-jquery-foundation-launches-globalize-v-10"
-        },
-        "linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres": {
-            "title": "jQuery (9) funkce jako parametr - LinuxEXPRES...",
-            "snippet": "jQuery (9) funkce jako parametrLinuxEXPRESP\u00edklad piad\u00ed k dal\u00edmu pouit\u00ed do promnn\u00e9 a instanci jQuery s vyfiltrovan\u00fdmi objekty odkaz. Nejprve si definujeme funkci myFilter(), kter\u00e1 bude zajiovat filtraci. V tomto p\u00edpad funguje tak, e prvn\u00ed...",
-            "date": "2015-04-21",
-            "categories": "jquery",
-            "tags": "jquery",
-            "recuweb_url": "http://fr.recuweb.com/jquery/linuxexpres.cz/2015/04/jquery-9-funkce-jako-parametr-linuxexpres",
-            "resource_url": "http://news.google.fr/?hl=fr&q=jquery%2Bjquery&output=atom&nord=1",
-            "source_url": "http://linuxexpres.cz/software/jquery-9-funkce-jako-parametr"
         }
     }
 }
