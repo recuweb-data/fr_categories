@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "empire",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/empire/",
@@ -64,7 +64,7 @@
             "date": "2015-01-19",
             "author_name": "Film & Documentaire",
             "categories": "empire",
-            "tags": "films,empire,\u00e9pisode",
+            "tags": "films,empire",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/01/l-empire-britannique-en-couleurs-1-3-le-temps-des-colonies",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Y0FpLmXc5x8&feature=youtube_gdata",
@@ -76,33 +76,21 @@
             "date": "2015-01-15",
             "author_name": "Documentaire/TV",
             "categories": "construction,empire",
-            "tags": "capitale,empire",
+            "tags": "empire",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/01/l-empire-perse",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ZPql6iRjV4c&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ZPql6iRjV4c/0.jpg"
         },
-        "youtube.com/2014/12/ottomans-contre-chr%C3%A9tiens-1-3-les-btisseurs-de-l-empire": {
-            "title": "Ottomans contre chr\u00e9tiens - 1/3 - Les btisseurs de l'empire...",
-            "snippet": "Ottomans contre chr\u00e9tiens - 1/3 - Les btisseurs de l'empire \u00c9pisode 1 - Les btisseurs de l'empire Julian Davison relate l'ascension des Ottomans et la prise de Constantinople par leurs troupes. La ville est transform\u00e9e en capitale de l'empire....",
-            "date": "2014-12-11",
-            "author_name": "Film & Documentaire",
-            "categories": "empire",
-            "tags": "capitale,empire,\u00e9pisode",
-            "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2014/12/ottomans-contre-chr%C3%A9tiens-1-3-les-btisseurs-de-l-empire",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=OGhSeZnX9m8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/OGhSeZnX9m8/0.jpg"
-        },
         "youtube.com/2014/11/39-secrets-d-histoire-la-reine-victoria-ou-l-empire": {
             "title": "(39) Secrets d'Histoire - La reine Victoria ou l'empire des sens...",
-            "snippet": "(39) Secrets d'Histoire - La reine Victoria ou l'empire des sens From: xXxThalassaxXx Views: 66087 141 ratings Time: 01:39:31 More in People & Blogs...",
+            "snippet": "(39) Secrets d'Histoire - La reine Victoria ou l'empire des sens From: xXxThalassaxXx Views: 67213 142 ratings Time: 01:39:31 More in People & Blogs...",
             "date": "2014-11-03",
             "author_name": "xXxThalassaxXx",
             "categories": "empire",
             "tags": "empire",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2014/11/39-secrets-d-histoire-la-reine-victoria-ou-l-empire",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=6QJ_9ZFUIbk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/6QJ_9ZFUIbk/0.jpg"
         },
@@ -112,7 +100,7 @@
             "date": "2014-10-29",
             "author_name": "romstation",
             "categories": "empire",
-            "tags": "empire,gameplay",
+            "tags": "empire,gameplay,romstationtags",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/empire-city-1931-gameplay-arcade",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x28w3fb_empire-city-1931-gameplay-arcade_videogames",
@@ -124,11 +112,23 @@
             "date": "2014-10-29",
             "author_name": "romstation",
             "categories": "empire",
-            "tags": "films,star,star_wars,wars,empire,gameplay",
+            "tags": "films,action,star,star_wars,wars,empire,gameplay",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/star-wars-shadows-of-the-empire-gameplay-n64",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x28wby8_star-wars-shadows-of-the-empire-gameplay-n64_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x28wby8_star-wars-shadows-of-the-empire-gameplay-n64_videogames"
+        },
+        "dailymotion.com/2014/10/steel-empire-gameplay-gba": {
+            "title": "Steel Empire - Gameplay - gba...",
+            "snippet": "Empire is an Action game, developed and published by Starfish, which was released in Japan in: romstationTags: Posted: 29 October 2014Rating:: 0...",
+            "date": "2014-10-29",
+            "author_name": "romstation",
+            "categories": "empire",
+            "tags": "empire,gameplay,action,romstationtags",
+            "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/steel-empire-gameplay-gba",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28wb68_steel-empire-gameplay-gba_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28wb68_steel-empire-gameplay-gba_videogames"
         }
     }
 }
