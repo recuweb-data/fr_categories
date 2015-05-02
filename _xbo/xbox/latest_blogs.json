@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "xbox",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/xbox/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/xbox/xbox/blogs.json"
     },
     "items": {
-        "zap-actu.fr/2015/04/un-journaliste-commande-une-xbox-one-avec-l-apple-watch-zap": {
-            "title": "Un journaliste commande une Xbox One avec l'Apple Watch Zap...",
-            "snippet": "Un journaliste sp\u00e9cialis\u00e9e dans les nouvelles technologies \u00e9tait en train de faire une d\u00e9monstration de l'Apple Watch lorsqu'il a fait une belle boulette...",
-            "date": "2015-04-27",
-            "author_name": "Zap-actu",
-            "categories": "technologie,xbox",
-            "tags": "\u00e9tait,xbox,xbox_one",
-            "recuweb_url": "http://fr.recuweb.com/xbox/zap-actu.fr/2015/04/un-journaliste-commande-une-xbox-one-avec-l-apple-watch-zap",
+        "xboxygen.com/2015/04/xbox-live-les-promotions-one-et-360-de-la-semaine": {
+            "title": "Xbox Live: les promotions Xbox One et Xbox 360 de la semaine...",
+            "snippet": "Xbox Live: les promotions Xbox One et Xbox 360 de la semaine - Comme chaque semaine, Microsoft propose une s\u00e9rie de promotions sur les jeux et contenus additionnels sur Xbox One et Xbox 360 pour les membres Gold...",
+            "date": "2015-04-28",
+            "author_name": "JCC",
+            "categories": "xbox",
+            "tags": "membres,semaine,xbox,xbox_one,xbox_live,live,comme,microsoft,jeux,gold",
+            "recuweb_url": "http://fr.recuweb.com/xbox/xboxygen.com/2015/04/xbox-live-les-promotions-one-et-360-de-la-semaine",
             "resource_url": "http://www.google.com/search?q=xbox%2Bxbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://zap-actu.fr/2015/04/27/un-journaliste-commande-une-xbox-one-avec-lapple-watch/"
+            "source_url": "http://xboxygen.com/News/19714-Xbox-Live-les-promotions-Xbox-One-et-Xbox-360-de-la-semaine"
+        },
+        "xboxygen.com/2015/04/les-sorties-xbox-one-de-la-semaine-360": {
+            "title": "Les sorties Xbox One de la semaine Xbox One - Xbox 360...",
+            "snippet": "Les sorties Xbox One de la semaine - Pour cette derni\u00e8re semaine d'avril, trois nouvelles sorties sont disponibles sur Xbox One avec une r\u00e9\u00e9dition et deux Jeux ind\u00e9pendants. State of Decay. (...)...",
+            "date": "2015-04-28",
+            "author_name": "JCC",
+            "categories": "xbox",
+            "tags": "semaine,xbox,xbox_one,jeux,state,decay",
+            "recuweb_url": "http://fr.recuweb.com/xbox/xboxygen.com/2015/04/les-sorties-xbox-one-de-la-semaine-360",
+            "resource_url": "http://www.google.com/search?q=xbox%2Bxbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://xboxygen.com/News/19707-Les-sorties-Xbox-One-de-la-semaine"
+        },
+        "xboxygen.com/2015/04/phil-spencer-confirme-qu-un-jeu-de-strat%C3%A9gie-est-pr%C3%A9vu": {
+            "title": "Phil Spencer confirme qu'un jeu de strat\u00e9gie est pr\u00e9vu sur Xbox One...",
+            "snippet": "Phil Spencer confirme qu'un jeu de strat\u00e9gie est pr\u00e9vu sur Xbox One - Une fois de plus Phil Spencer communique et interagit avec la communaut\u00e9 via son compte Twitter alors lorsqu'un internaute lui demande si nous auront...",
+            "date": "2015-04-28",
+            "author_name": "DAILY",
+            "categories": "xbox,twitter",
+            "tags": "lui,xbox,xbox_one,jeu,confirme,twitter",
+            "recuweb_url": "http://fr.recuweb.com/twitter/xboxygen.com/2015/04/phil-spencer-confirme-qu-un-jeu-de-strat%C3%A9gie-est-pr%C3%A9vu",
+            "resource_url": "http://www.google.com/search?q=xbox%2Bxbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://xboxygen.com/News/19709-Phil-Spencer-confirme-qu-un-jeu-de-strategie-est-prevu-sur-Xbox-One"
+        },
+        "xboxygen.com/2015/04/test-state-of-decay-year-one-survival-edition-xbox-xboxygen": {
+            "title": "Test - State of Decay: Year One Survival Edition Xbox... - Xboxygen...",
+            "snippet": "Et alors que State of Decay se lance sur ma Xbox One, la rage me fait mordre de plus belle dans le corps voisin, qui ne se doutait pas de son destin macabre. Ma fr\u00e9n\u00e9sie et mon app\u00e9tit ne s'arr\u00eatent pas devant l'\u00e9cran titre.",
+            "date": "2015-04-28",
+            "author_name": "St\u00e9phan",
+            "categories": "xbox",
+            "tags": "xbox,xbox_one,edition,state,decay",
+            "recuweb_url": "http://fr.recuweb.com/xbox/xboxygen.com/2015/04/test-state-of-decay-year-one-survival-edition-xbox-xboxygen",
+            "resource_url": "http://www.google.com/search?q=xbox%2Bxbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://xboxygen.com/Tests/Tests-Xbox-One/19712-Test-State-of-Decay-Year-One-Survival-Edition"
+        },
+        "generation-nt.com/2015/04/gears-of-war-remastered-se-confirme-sur-xbox-one": {
+            "title": "Gears of War Remastered se confirme sur Xbox One...",
+            "snippet": "La folie des remasterisations sur les derni\u00e8res consoles en date semble continuer, puisque nous apprenons que le premier volet de Gears of War serait en passe de faire son retour sur Xbox One, au travers d'une version...",
+            "date": "2015-04-27",
+            "author_name": "inconnu",
+            "categories": "xbox",
+            "tags": "derni\u00e8res,xbox,xbox_one,confirme",
+            "recuweb_url": "http://fr.recuweb.com/xbox/generation-nt.com/2015/04/gears-of-war-remastered-se-confirme-sur-xbox-one",
+            "resource_url": "http://www.google.com/search?q=xbox%2Bxbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://generation-nt.com/gears-of-war-remastered-microsoft-xbox-one-reedition-actualite-1914499.html"
         },
         "codesxboxlivegoldgratuit.wordpress.com/2015/04/xbox-live-gold-gratuit-2015-g%C3%A9n%C3%A9rateur-de-code-online": {
             "title": "Xbox Live Gold Gratuit 2015 - G\u00e9n\u00e9rateur de code Online...",
@@ -28,32 +72,10 @@
             "date": "2015-04-27",
             "author_name": "AdminXboxLiveGratuit",
             "categories": "xbox",
-            "tags": "g\u00e9n\u00e9rateur,pouvez,code,gratuit,xbox,xbox_live,live,gold,gratuitement,comme",
+            "tags": "g\u00e9n\u00e9rateur,pouvez,code,gratuits,gratuit,xbox,xbox_live,live,gold,gratuitement,comme",
             "recuweb_url": "http://fr.recuweb.com/xbox/codesxboxlivegoldgratuit.wordpress.com/2015/04/xbox-live-gold-gratuit-2015-g%C3%A9n%C3%A9rateur-de-code-online",
             "resource_url": "http://fr.search.wordpress.com/?q=xbox%2Bxbox&f=feed&page=1",
             "source_url": "http://codesxboxlivegoldgratuit.wordpress.com/2015/04/27/xbox-live-gold-gratuit-2015-generateur-de-code-online/"
-        },
-        "generation-nt.com/2015/04/the-elder-scrolls-online-b%C3%AAta-jouable-disponible-sur-ps4-et-xbox": {
-            "title": "The Elder Scrolls Online: b\u00eata jouable disponible sur PS4 et Xbox...",
-            "snippet": "La version console - pr\u00e9vue sur PS4 et Xbox One - \u00e9tait pr\u00e9vue depuis un certain temps, mais son d\u00e9veloppement a connu quelques longueurs. Cette \u00e9dition, baptis\u00e9e The Elder Scrolls Online: Tamriel Unlimited aura le...",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "xbox",
-            "tags": "\u00e9tait,xbox,version,console,\u00e9dition",
-            "recuweb_url": "http://fr.recuweb.com/xbox/generation-nt.com/2015/04/the-elder-scrolls-online-b%C3%AAta-jouable-disponible-sur-ps4-et-xbox",
-            "resource_url": "http://www.google.com/search?q=xbox%2Bxbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/elder-scrolls-online-tamriel-unlimited-beta-jouable-privee-console-ps4-xbox-one-actualite-1914413.html"
-        },
-        "jeuxvideo.fr/2015/04/une-qu%C3%AAte-sur-xbox-one-precious-cargo": {
-            "title": "Une qu\u00eate sur Xbox One (Precious Cargo) -...",
-            "snippet": "Un peu moins de neuf minutes, c'est la dur\u00e9e de cette vid\u00e9o pour The Witcher 3: Wild Hunt (8 min 46). Cette derni\u00e8re vient mettre en avant, au travers de diff\u00e9rentes phases de gameplay, la version Xbox One du jeu.",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
-            "categories": "xbox",
-            "tags": "version,dur\u00e9e,moins,xbox,xbox_one,derni\u00e8re,gameplay,jeu",
-            "recuweb_url": "http://fr.recuweb.com/xbox/jeuxvideo.fr/2015/04/une-qu%C3%AAte-sur-xbox-one-precious-cargo",
-            "resource_url": "http://www.google.com/search?q=xbox&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://jeuxvideo.fr/jeux/the-witcher-3/video/video-une-quete-sur-xbox-one-precious-cargo-464672.html"
         },
         "freverygamer.wordpress.com/2015/04/jouer-avec-une-manette-de-xbox-360-one-sur-pc": {
             "title": "Jouer avec une manette de Xbox 360/One sur PC...",
@@ -72,9 +94,9 @@
             "date": "2015-04-20",
             "author_name": "giantbruise230",
             "categories": "xbox",
-            "tags": "peut,prix,pouvez,jouer,manette,xbox,jeux",
+            "tags": "pouvez,jouer,manette,xbox,jeux",
             "recuweb_url": "http://fr.recuweb.com/xbox/giantbruise230.wordpress.com/2015/04/comment-utiliser-votre-manette-xbox-360-pour-les-jeux-sur-pc",
-            "resource_url": "http://fr.search.wordpress.com/?q=xbox&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=xbox%2Bxbox&f=feed&page=1",
             "source_url": "http://giantbruise230.wordpress.com/2015/04/20/comment-utiliser-votre-manette-xbox-360-pour-les-jeux-sur-pc/"
         },
         "telechargerkeygenstousgratuites.wordpress.com/2015/04/telecharger-xbox-live-code-g%C3%A9n%C3%A9rateur": {
@@ -83,7 +105,7 @@
             "date": "2015-04-11",
             "author_name": "espass1984",
             "categories": "divertissement,xbox",
-            "tags": "gratuit,xbox,xbox_live,live,code,g\u00e9n\u00e9rateur,jouer,telecharger",
+            "tags": "gratuit,xbox,xbox_live,live,code,g\u00e9n\u00e9rateur,jouer",
             "recuweb_url": "http://fr.recuweb.com/xbox/telechargerkeygenstousgratuites.wordpress.com/2015/04/telecharger-xbox-live-code-g%C3%A9n%C3%A9rateur",
             "resource_url": "http://fr.search.wordpress.com/?q=xbox%2Bxbox&f=feed&page=1",
             "source_url": "http://telechargerkeygenstousgratuites.wordpress.com/2015/04/11/telecharger-xbox-live-code-generateur/"
@@ -98,28 +120,6 @@
             "recuweb_url": "http://fr.recuweb.com/xbox/letandegames.blogspot.com/2015/04/photo-evolution-of-xbox-controllers",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=xbox%2Bxbox&rss=1&lng=fr",
             "source_url": "http://letandegames.blogspot.com/2015/04/photo-evolution-of-xbox-controllers.html"
-        },
-        "childrinhougi.wordpress.com/2015/01/telecharger-driver-manette-xbox-360-sur-pc": {
-            "title": "Telecharger driver manette xbox 360 sur pc...",
-            "snippet": "Download Driver non-officiel PC pour la manette Xbox One controller/gamepad pad Xbox 360 PC - LG non-officiel pour le gamepad Xbox One sur PC Driver manette...",
-            "date": "2015-01-22",
-            "author_name": "childrinhougi",
-            "categories": "xbox",
-            "tags": "xbox,xbox_one,manette,telecharger",
-            "recuweb_url": "http://fr.recuweb.com/xbox/childrinhougi.wordpress.com/2015/01/telecharger-driver-manette-xbox-360-sur-pc",
-            "resource_url": "http://fr.search.wordpress.com/?q=xbox%2Bxbox&f=feed&page=1",
-            "source_url": "http://childrinhougi.wordpress.com/2015/01/22/telecharger-driver-manette-xbox-360-sur-pc/"
-        },
-        "mairecowlesr1749.wordpress.com/2014/01/new-online-psn-code-generator-2013-december-no-downloads-tutorial": {
-            "title": "New Online PSN Code Generator 2013 December No Downloads Tutorial...",
-            "snippet": "Download: Direct Download Key Generator microsoft points gratuit code gratuit xbox live generator xbox live microsoft point gratuit abonnement xbox live xbox live points gratuit xbox live point microsoft gratuit telecharger xbox live...",
-            "date": "2014-01-06",
-            "author_name": "mairecowlesr1749",
-            "categories": "xbox",
-            "tags": "gratuit,telecharger,live,generator,code,microsoft,xbox",
-            "recuweb_url": "http://fr.recuweb.com/xbox/mairecowlesr1749.wordpress.com/2014/01/new-online-psn-code-generator-2013-december-no-downloads-tutorial",
-            "resource_url": "http://fr.search.wordpress.com/?q=xbox%2Bxbox&f=feed&page=1",
-            "source_url": "http://mairecowlesr1749.wordpress.com/2014/01/06/new-online-psn-code-generator-2013-december-no-downloads-tutorial/"
         }
     }
 }
