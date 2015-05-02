@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mythologie",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mythologie/",
@@ -11,21 +11,9 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mythologie/mythologie/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/03/les-pygm%C3%A9es-mythologie-grecque": {
-            "title": "Les pygm\u00e9es (mythologie grecque)...",
-            "snippet": "d'autres infos sur le sujet dans mon article de mars sur le blog: benoitreveurTags: Posted: 14 March 2015Rating:: 0...",
-            "date": "2015-03-14",
-            "author_name": "benoitreveur",
-            "categories": "mythologie",
-            "tags": "mythologie,mythologie-grecque,grecque",
-            "recuweb_url": "http://fr.recuweb.com/mythologie/dailymotion.com/2015/03/les-pygm%C3%A9es-mythologie-grecque",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/mythologie/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2jijtl_les-pygmees-mythologie-grecque_webcam",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jijtl_les-pygmees-mythologie-grecque_webcam"
-        },
         "youtube.com/2014/12/la-mythologie-nordique-mythes-et-l%C3%A9gendes-2": {
             "title": "La mythologie nordique - Mythes et l\u00e9gendes 2...",
-            "snippet": "La mythologie nordique - Mythes et l\u00e9gendes 2 Soutenez moi sur Tipeee: Abonnez-vous \u00e0 ma chaine: Facebook: Twitter:... From: Nota Bene Views: 139175 6979 ratings Time: 22:51 More in Education...",
+            "snippet": "La mythologie nordique - Mythes et l\u00e9gendes 2 Soutenez moi sur Tipeee: Abonnez-vous \u00e0 ma chaine: Facebook: Twitter:... From: Nota Bene Views: 140127 6993 ratings Time: 22:51 More in Education...",
             "date": "2014-12-29",
             "author_name": "Nota Bene",
             "categories": "mythologie,facebook,twitter",
@@ -49,7 +37,7 @@
         },
         "youtube.com/2014/12/mythologie-grecque-mythes-et-l%C3%A9gendes-1": {
             "title": "Mythologie grecque - Mythes et L\u00e9gendes 1...",
-            "snippet": "Mythologie grecque - Mythes et L\u00e9gendes 1 Soutenez moi sur Tipeee: Abonnez-vous \u00e0 ma chaine: Facebook: Twitter:... From: Nota Bene Views: 138152 6961 ratings Time: 15:55 More in Education...",
+            "snippet": "Mythologie grecque - Mythes et L\u00e9gendes 1 Soutenez moi sur Tipeee: Abonnez-vous \u00e0 ma chaine: Facebook: Twitter:... From: Nota Bene Views: 140191 6991 ratings Time: 15:55 More in Education...",
             "date": "2014-12-01",
             "author_name": "Nota Bene",
             "categories": "mythologie,facebook,twitter",
@@ -77,7 +65,7 @@
             "date": "2014-10-23",
             "author_name": "VideoBus",
             "categories": "mythologie",
-            "tags": "mythe,mythologie,mythologie-grecque,grecque,documentaire",
+            "tags": "mythe,mythologie,grecque,documentaire",
             "recuweb_url": "http://fr.recuweb.com/mythologie/youtube.com/2014/10/la-gr%C3%A8ce-antique-l-ge-d-or-documentaire-fr",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie%2Bmythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=bYcli_7b_n8&feature=youtube_gdata",
@@ -89,7 +77,7 @@
             "date": "2014-09-23",
             "author_name": "Les minutes Mythologiques",
             "categories": "mythologie",
-            "tags": "mythe,mythologie",
+            "tags": "cr\u00e9ation,mythe,mythologie",
             "recuweb_url": "http://fr.recuweb.com/mythologie/youtube.com/2014/09/les-minutes-mythologiques-ep-3-prom%C3%A9th%C3%A9e",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie%2Bmythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=QYYqtiAlVDA&feature=youtube_gdata",
@@ -118,6 +106,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie%2Bmythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=aPJiMx0Ad0Y&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/aPJiMx0Ad0Y/0.jpg"
+        },
+        "youtube.com/2014/06/la-cr%C3%A9ation-du-monde-d-apr%C3%A8s-mythologie-egyptienne": {
+            "title": "La Cr\u00e9ation du Monde d'apr\u00e8s la Mythologie Egyptienne...",
+            "snippet": "La Cr\u00e9ation du Monde d'apr\u00e8s la Mythologie Egyptienne R\u00e9alis\u00e9 par la classe de 6\u00e8me E du Coll\u00e8ge Chantemerle de Corbeil-Essonne (91) en partenariat avec la MJC Fernand L\u00e9ger dans le cadre du dispositif \"Mieux r\u00e9ussir sa 6\u00e8me\" From: VIDEOMJC...",
+            "date": "2014-06-11",
+            "author_name": "VIDEOMJC CORBEIL",
+            "categories": "mythologie",
+            "tags": "mythologie,cr\u00e9ation",
+            "recuweb_url": "http://fr.recuweb.com/mythologie/youtube.com/2014/06/la-cr%C3%A9ation-du-monde-d-apr%C3%A8s-mythologie-egyptienne",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mythologie&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=kiS0I1cj7qM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/kiS0I1cj7qM/0.jpg"
         },
         "dailymotion.com/2014/05/the-order-1886-histoire-et-mythologie": {
             "title": "The Order 1886 - Histoire et Mythologie...",
