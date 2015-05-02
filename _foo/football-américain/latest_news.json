@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "football-am\u00e9ricain",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/football-am\u00e9ricain/",
@@ -11,6 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football-am%C3%A9ricain/football-am%C3%A9ricain/blogs.json"
     },
     "items": {
+        "surfacemagazine.fr/2015/04/in-soccer-we-trust": {
+            "title": "In soccer we trust...",
+            "snippet": "Aux Etats-Unis, le football est devenu branch\u00e9. Pas le football am\u00e9ricain, mais le soccer! Oui, oui. Si vous en doutez, allez donc jeter un coup d\u0153il sur notre dossier consacr\u00e9 au ballon rond, made in USA. Des rues aux bars de New York o\u00f9...",
+            "date": "2015-04-29",
+            "categories": "football",
+            "tags": "allez,soccer,etats,unis,football,am\u00e9ricain",
+            "recuweb_url": "http://fr.recuweb.com/football/surfacemagazine.fr/2015/04/in-soccer-we-trust",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bam%C3%A9ricain&format=RSS&cc=fr",
+            "source_url": "http://surfacemagazine.fr/22945-foot-in-the-usa/"
+        },
+        "cnewyork.net/2015/04/ouverture-des-r%C3%A9servations-pour-la-saison-de-football": {
+            "title": "Ouverture des r\u00e9servations pour la saison de football...",
+            "snippet": "Le football am\u00e9ricain est sans conteste le sport le plus populaire aux Etats-Unis. Dailleurs ici on parle simplement de football, le football europ\u00e9en \u00e9tant d\u00e9sign\u00e9 par le mot soccer. Et la saison 2015 sannonce! La National Football...",
+            "date": "2015-04-29",
+            "categories": "football,sport",
+            "tags": "football,soccer,sport,am\u00e9ricain,etats,unis",
+            "recuweb_url": "http://fr.recuweb.com/sport/cnewyork.net/2015/04/ouverture-des-r%C3%A9servations-pour-la-saison-de-football",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bam%C3%A9ricain&format=RSS&cc=fr",
+            "source_url": "http://cnewyork.net/2015/04/29/ouverture-reservation-football-americain/"
+        },
         "republicain-lorrain.fr/2015/04/sports-sarrebruck-football-am%C3%A9ricain-une-question-d-esprit": {
             "title": "sports sarrebruck Football am\u00e9ricain: une question d'esprit et de... - Le R\u00e9publicain Lorrain...",
             "snippet": "sports sarrebruck Football am\u00e9ricain: une question d'esprit et de...Le R\u00e9publicain LorrainLe football am\u00e9ricain se d\u00e9veloppe doucement en France. L'Allemagne en revanche fait figure de r\u00e9f\u00e9rence europ\u00e9enne dans ce domaine. Le club de...",
@@ -20,16 +40,6 @@
             "recuweb_url": "http://fr.recuweb.com/football/republicain-lorrain.fr/2015/04/sports-sarrebruck-football-am%C3%A9ricain-une-question-d-esprit",
             "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bam%C3%A9ricain%2Bfootball%2Bam%C3%A9ricain&output=atom&nord=1",
             "source_url": "http://republicain-lorrain.fr/moselle/2015/04/23/football-americain-une-question-d-esprit-et-de-discipline"
-        },
-        "bienpublic.com/2015/04/football-am%C3%A9ricain-dijon-les-fenris-veulent-rebondir": {
-            "title": "Football am\u00e9ricain Dijon: les Fenris veulent rebondir...",
-            "snippet": "Les joueurs dijonnais de football am\u00e9ricain, Les Fenris, se d\u00e9placent ce samedi soir en terre franc-comtoise. Ceux qui restent sur trois revers cons\u00e9cutifs veulent enrayer la mauvaise spirale dans laquelle ils sont englu\u00e9s. Pour cela, il leur...",
-            "date": "2015-04-17",
-            "categories": "football",
-            "tags": "football,am\u00e9ricain,fenris",
-            "recuweb_url": "http://fr.recuweb.com/football/bienpublic.com/2015/04/football-am%C3%A9ricain-dijon-les-fenris-veulent-rebondir",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bam%C3%A9ricain&format=RSS&cc=fr",
-            "source_url": "http://bienpublic.com/edition-dijon-ville/2015/04/18/les-fenris-veulent-rebondir"
         }
     }
 }
