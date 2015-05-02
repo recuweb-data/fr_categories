@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "livre-num\u00e9rique",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/livre-num\u00e9rique/",
@@ -11,24 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/livre-num%C3%A9rique/livre-num%C3%A9rique/blogs.json"
     },
     "items": {
+        "ledevoir.com/2015/05/un-petit-couac": {
+            "title": "Un petit couac...",
+            "snippet": "Le livre num\u00e9rique produit son lot de nostalgiques et dinsatisfaits il marrive den \u00eatre, mais je peux aussi en appr\u00e9cier les m\u00e9rites, surtout en ce qui concerne la portabilit\u00e9. Il plaide pour un temps darr\u00eat. De quel poids, demande...",
+            "date": "2015-05-02",
+            "tags": "concerne,produit,livre,num\u00e9rique",
+            "recuweb_url": "http://fr.recuweb.com/ledevoir.com/2015/05/un-petit-couac",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
+            "source_url": "http://ledevoir.com/culture/livres/438836/un-petit-couac"
+        },
+        "gamekult.com/2015/05/child-of-light-une-bd-num%C3%A9rique": {
+            "title": "Child of Light: une BD num\u00e9rique...",
+            "snippet": "On s'en doutait un peu, mais le r\u00e9cent teasing de Patrick Plourde, directeur cr\u00e9atif de Child of Light, ne concernait pas un nouveau jeu mais un produit d\u00e9riv\u00e9. C'est donc sous forme de livre num\u00e9rique que le monde de Lemuria s'exprime...",
+            "date": "2015-05-01",
+            "tags": "monde,donc,jeu,produit,directeur,patrick,num\u00e9rique,livre",
+            "recuweb_url": "http://fr.recuweb.com/gamekult.com/2015/05/child-of-light-une-bd-num%C3%A9rique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
+            "source_url": "http://gamekult.com/forum/topic-child-of-light-une-bd-numerique-832548n.html?p=22911982"
+        },
+        "cafe-hotel-restaurant.com/2015/04/un-livre-num%C3%A9rique-pour-les-femmes-qui-voyagent-seules": {
+            "title": "Un livre num\u00e9rique pour les femmes qui voyagent seules...",
+            "snippet": "Avant de faire mon premier voyage en solo, javais toutes sortes de peur qui saccumulaient, peur de mennuyer, peur de me sentir seule, peur de tomber malade, peur de me perdre Et \u00e7a, cest sans compter la peur de mes proches, qui n...",
+            "date": "2015-04-30",
+            "tags": "cest,sentir,livre,num\u00e9rique",
+            "recuweb_url": "http://fr.recuweb.com/cafe-hotel-restaurant.com/2015/04/un-livre-num%C3%A9rique-pour-les-femmes-qui-voyagent-seules",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
+            "source_url": "http://cafe-hotel-restaurant.com/article/20547/Un-livre-numerique-pour-les-femmes-qui-voyagent-seules"
+        },
         "journalmetro.com/2015/04/application-mobile-pour-les-amateurs-de-litt%C3%A9rature-qu%C3%A9b%C3%A9coise": {
             "title": "Application mobile pour les amateurs de litt\u00e9rature qu\u00e9b\u00e9coise...",
             "snippet": "Promouvoir les auteurs qu\u00e9b\u00e9cois et leurs \u0153uvres, cest lobjectif de Opuscules, une application mobile pour iOS lanc\u00e9e par lUnion des \u00e9crivaines et des \u00e9crivains du Qu\u00e9bec (UNEQ). Le livre num\u00e9rique, actuellement, reproduit les interfaces...",
             "date": "2015-04-28",
             "categories": "litterature",
-            "tags": "lunion,livre,num\u00e9rique",
+            "tags": "cest,livre,num\u00e9rique",
             "recuweb_url": "http://fr.recuweb.com/litterature/journalmetro.com/2015/04/application-mobile-pour-les-amateurs-de-litt%C3%A9rature-qu%C3%A9b%C3%A9coise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
             "source_url": "http://journalmetro.com/culture/765810/application-mobile-pour-les-amateurs-de-litterature-quebecoise/"
-        },
-        "ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation": {
-            "title": "Un salon du livre 2.0: d\u00e9voilement de la programmation...",
-            "snippet": "Objectif de 5000 selfies, conf\u00e9rences-web, SLATCaching, cr\u00e9ation d'un livre num\u00e9rique... le comit\u00e9 du 39e Salon du livre de l'Abitibi-T\u00e9miscamingue ne manque pas d'imagination pour rendre son \u00e9v\u00e9nement branch\u00e9! Lors d'une conf\u00e9rence de...",
-            "date": "2015-04-23",
-            "tags": "salon,livre,num\u00e9rique,lors",
-            "recuweb_url": "http://fr.recuweb.com/ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
-            "source_url": "http://ici.radio-canada.ca/regions/abitibi/2015/04/23/005-salon-du-livre-abitibi-temiscamingue-programmation.shtml"
         },
         "enssib.fr/2015/04/livre-num%C3%A9rique-et-terminaux-de-lecture-quels-usages-note-danalyse": {
             "title": "Livre num\u00e9rique et terminaux de lecture, quels usages? note danalyse...",
@@ -44,7 +62,7 @@
             "title": "Apr\u00e8s lebook, d\u00e9couvrez loBook le livre olfactif!",
             "snippet": "Un professeur G\u00e9o-Trouvetout de Harvard a mis au point un syst\u00e8me \u00e9tonnant pour sentir des odeurs lors de la lecture dun livre num\u00e9rique. Humez-moi la bonne odeur de cet ebook! Les lecteurs reprochent souvent aux livres num\u00e9riques de ne pas...",
             "date": "2015-04-20",
-            "tags": "livres,lors,lecture,num\u00e9riques,lecteurs",
+            "tags": "sentir,livres,lors,lecture,num\u00e9riques,lecteurs",
             "recuweb_url": "http://fr.recuweb.com/idboox.com/2015/04/apr%C3%A8s-lebook-d%C3%A9couvrez-lobook-le-livre-olfactif",
             "resource_url": "http://www.bing.com/news/search?first=1&q=livre%2Bnum%C3%A9rique&format=RSS&cc=fr",
             "source_url": "http://idboox.com/infos-ebooks/apres-lebook-decouvrez-lobook-le-livre-olfactif/"
@@ -58,33 +76,14 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=livre%2Bnum%C3%A9rique&output=atom&nord=1",
             "source_url": "http://archimag.com/bibliotheque-edition/2015/04/13/pret-ebooks-bibliotheque-vrai-retard-france"
         },
-        "africatopsuccess.com/2015/04/vraiment-le-congo-une-tribu-premier-livre-num%C3%A9rique-de-africa-top": {
-            "title": "Vraiment le Congo, une tribu: Le premier livre num\u00e9rique de... - Africa Top Sports...",
-            "snippet": "Africa Top Sports Vraiment le Congo, une tribu: Le premier livre num\u00e9rique de...Africa Top SportsPhoto Marcel Yabili 2014_0 C'est fabuleux! Le tout premier livre num\u00e9rique a \u00e9t\u00e9 publi\u00e9 vendredi dernier sous le titre Vraiment le Congo, une...",
-            "date": "2015-04-09",
-            "categories": "sport",
-            "tags": "dernier,livre,num\u00e9rique,\u00e9t\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/sport/africatopsuccess.com/2015/04/vraiment-le-congo-une-tribu-premier-livre-num%C3%A9rique-de-africa-top",
-            "resource_url": "http://news.google.fr/?hl=fr&q=livre%2Bnum%C3%A9rique&output=atom&nord=1",
-            "source_url": "http://africatopsuccess.com/2015/04/09/vraiment-le-congo-une-tribu-le-premier-livre-numerique-de-kinshasa/"
-        },
         "contrepoints.org/2015/04/livre-il-%C3%A9tait-une-fois-l-effervescence-num%C3%A9rique-contrepoints": {
             "title": "Livre: il \u00e9tait une fois l'effervescence num\u00e9rique - Contrepoints...",
             "snippet": "ContrepointsLivre: il \u00e9tait une fois l'effervescence num\u00e9riqueContrepointsLe second concerne celui du format et du prix: les livres num\u00e9riques connaissent une forte croissance et Amazon a annonc\u00e9 en 2014 le lancement de Kindle Unlimited qui...",
             "date": "2015-04-04",
-            "tags": "livres,num\u00e9riques,prix",
+            "tags": "concerne,livres,num\u00e9riques,prix",
             "recuweb_url": "http://fr.recuweb.com/contrepoints.org/2015/04/livre-il-%C3%A9tait-une-fois-l-effervescence-num%C3%A9rique-contrepoints",
             "resource_url": "http://news.google.fr/?hl=fr&q=livre%2Bnum%C3%A9rique%2Blivre%2Bnum%C3%A9rique&output=atom&nord=1",
             "source_url": "http://contrepoints.org/2015/04/04/203364-livre-il-etait-une-fois-leffervescence-numerique"
-        },
-        "fr.news.yahoo.com/2015/03/la-france-somm%C3%A9e-de-relever-tva-pour-les-livres-num%C3%A9riques": {
-            "title": "La France somm\u00e9e de relever la TVA pour les livres num\u00e9riques...",
-            "snippet": "La Cour de justice de lUnion europ\u00e9enne a jug\u00e9 que le taux r\u00e9duit n'est pas conforme aux directives europ\u00e9ennes. Le Syndicat national du livre plaide pour une harmonisation avec les livres papier.",
-            "date": "2015-03-05",
-            "tags": "france,livres,livre,num\u00e9riques,lunion,papier",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/03/la-france-somm%C3%A9e-de-relever-tva-pour-les-livres-num%C3%A9riques",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=livre%2Bnum%C3%A9rique",
-            "source_url": "http://fr.news.yahoo.com/france-somm\u00e9e-relever-tva-livres-num\u00e9riques-161342067.html"
         }
     }
 }
