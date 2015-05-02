@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -11,16 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "developpez.com/2015/04/des-hackers-russes-auraient-pirat%C3%A9-les-e-mails-d-obama": {
-            "title": "Des hackers russes auraient pirat\u00e9 les e-mails d'Obama...",
-            "snippet": "la soci\u00e9t\u00e9 annonce plus de 3000 applications pour sa montre connect\u00e9e PHP 7 va am\u00e9liorer les performances des applications avec un gain de l'ordre de 100%, son lancement est pr\u00e9vu pour octobre 2015 Comment garantir le succ\u00e8s d'un projet IT:...",
-            "date": "2015-04-27",
-            "categories": "php",
-            "tags": "projet,applications,php",
-            "recuweb_url": "http://fr.recuweb.com/php/developpez.com/2015/04/des-hackers-russes-auraient-pirat%C3%A9-les-e-mails-d-obama",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=php&format=RSS&cc=fr",
-            "source_url": "http://developpez.com/actu/84453/Des-hackers-russes-auraient-pirate-les-e-mails-d-Obama-apres-avoir-viole-l-un-des-reseaux-informatiques-de-la-Maison-Blanche/"
-        },
         "journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test": {
             "title": "PHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloud - JDN...",
             "snippet": "JDNPHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloudJDNL'enjeu pour Microsoft: offrir un outil qui permettent de tester en front office des applications PHP h\u00e9berg\u00e9es sur Azure. Via une barre de navigation greff\u00e9e dans le...",
@@ -28,7 +18,7 @@
             "categories": "navigation,php",
             "tags": "applications,cloud,php",
             "recuweb_url": "http://fr.recuweb.com/php/journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
             "source_url": "http://journaldunet.com/developpeur/outils/zend-z-ray-pour-microsoft-azure-0415.shtml"
         },
         "commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour": {
@@ -36,30 +26,20 @@
             "snippet": "Cloud, PHP 7 et workshops au programme du PHP Tour... aura le plaisir d'accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP (Association Fran\u00e7aise des Utilisateurs de PHP), les 12 et 13 mai, au sein de la prestigieuse abbaye...",
             "date": "2015-04-10",
             "categories": "plaisir,php",
-            "tags": "sein,prestigieuse,prestigieuse-abbaye,abbaye,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,programme,cloud,php,tour,afup,mai",
+            "tags": "cloud,php",
             "recuweb_url": "http://fr.recuweb.com/php/commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
             "source_url": "http://commentcamarche.net/news/5866376-cloud-php-7-et-workshops-au-programme-du-php-tour-luxembourg-2015"
         },
-        "programmez.com/2015/03/php-tour-luxembourg-2015-d%C3%A9voile-son-programme-programmez": {
-            "title": "PHP Tour Luxembourg 2015 d\u00e9voile son programme - Programmez!",
-            "snippet": "PHP Tour Luxembourg 2015 d\u00e9voile son programmeProgrammez!Luxembourg-Ville aura le plaisir d'accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP, les 12 et 13 mai, au sein de la prestigieuse abbaye de Neum\u00fcnster. Le programme...",
-            "date": "2015-03-31",
-            "categories": "plaisir,php",
-            "tags": "sein,prestigieuse,prestigieuse-abbaye,abbaye,\u00e9tape,\u00e9tape-annuelle,annuelle,annuelle-du-cycle,cycle,cycle-de-conf\u00e9rences,conf\u00e9rences,conf\u00e9rences-itin\u00e9rant,itin\u00e9rant,accueillir,aura,aura-le-plaisir,plaisir,programme,php,tour,afup,mai",
-            "recuweb_url": "http://fr.recuweb.com/php/programmez.com/2015/03/php-tour-luxembourg-2015-d%C3%A9voile-son-programme-programmez",
+        "globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security": {
+            "title": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de... - Global Security Mag...",
+            "snippet": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de...Global Security MagDESCRIPTION DE LA VULN\u00c9RABILIT\u00c9. La biblioth\u00e8que regexp de Henry Spencer impl\u00e9mente le support des expressions r\u00e9guli\u00e8res. Elle est utilis\u00e9e par PHP et MySQL.",
+            "date": "2015-04-02",
+            "categories": "php,mysql",
+            "tags": "php,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security",
             "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
-            "source_url": "http://programmez.com/actualites/php-tour-luxembourg-2015-devoile-son-programme-22443"
-        },
-        "fr.news.yahoo.com/2015/03/arc-international-le-tribunal-de-commerce-valide-la-reprise-du-groupe": {
-            "title": "Arc International: le tribunal de commerce valide la reprise du groupe verrier...",
-            "snippet": "Le tribunal de commerce de Boulogne-sur-Mer (Pas-de-Calais) a valid\u00e9 lundi le projet de reprise par l'am\u00e9ricain PHP du groupe verrier Arc International, a-t-on appris lundi de sources concordantes.",
-            "date": "2015-03-16",
-            "categories": "php",
-            "tags": "projet,commerce,php",
-            "recuweb_url": "http://fr.recuweb.com/php/fr.news.yahoo.com/2015/03/arc-international-le-tribunal-de-commerce-valide-la-reprise-du-groupe",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=php",
-            "source_url": "http://fr.news.yahoo.com/arc-international-tribunal-commerce-valide-reprise-groupe-verrier-200446122--finance.html"
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Henry-Spencer-regex-PHP,20150402,52027.html"
         }
     }
 }
