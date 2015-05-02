@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tradition",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tradition/",
@@ -11,75 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tradition/tradition/blogs.json"
     },
     "items": {
-        "sudouest.fr/2015/04/toujours-un-vif-succ%C3%A8s-pour-le-salon-de-l-artisanat": {
-            "title": "Toujours un vif succ\u00e8s pour le salon de l'artisanat...",
-            "snippet": "Sous la houlette de Jacqueline Poupon et des b\u00e9n\u00e9voles de l'association Laine et Coton, m\u00e9tiers de bouche et artisanat, porteurs d'une tradition et d'un savoir-faire, une trentaine d'artisans ont expos\u00e9 leurs produits et oeuvres durant le...",
+        "boursorama.com/2015/04/gaspard-koenig-il-faut-r%C3%A9habiliter-la-tradition-lib%C3%A9rale-en-france-boursorama": {
+            "title": "Gaspard Koenig: il faut r\u00e9habiliter la tradition lib\u00e9rale en France - Boursorama...",
+            "snippet": "BoursoramaGaspard Koenig: \"il faut r\u00e9habiliter la tradition lib\u00e9rale\" en FranceBoursoramaGaspard Koenig, pr\u00e9sident du think-thank G\u00e9n\u00e9ration libre, est surnomm\u00e9 \"l'homme le plus lib\u00e9ral de France\". Dans son nouvel essai, \"Le r\u00e9volutionnaire,...",
+            "date": "2015-04-29",
+            "categories": "tradition",
+            "tags": "r\u00e9volutionnaire,nouvel,nouvel-essai,essai,homme,lib\u00e9ral,france,surnomm\u00e9,pr\u00e9sident,pr\u00e9sident-du-think,think,koenig,lib\u00e9rale,faut,faut-r\u00e9habiliter,r\u00e9habiliter,gaspard,gaspard_koenig,tradition,thank,g\u00e9n\u00e9ration,libre",
+            "recuweb_url": "http://fr.recuweb.com/tradition/boursorama.com/2015/04/gaspard-koenig-il-faut-r%C3%A9habiliter-la-tradition-lib%C3%A9rale-en-france-boursorama",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tradition%2Btradition&output=atom&nord=1",
+            "source_url": "http://boursorama.com/actualites/gaspard-koenig-il-faut-rehabiliter-la-tradition-liberale-en-france-f6c284e8392e124daa3b84092f1bdcbb"
+        },
+        "lnc.nc/2015/04/la-solution-dans-tradition": {
+            "title": "La solution dans la tradition?",
+            "snippet": "Dix-sept pays et territoires du Pacifique se sont r\u00e9unis hier lors dun forum du sommet Oceania 21, pour discuter du r\u00f4le des savoirs traditionnels dans la lutte contre le r\u00e9chauffement climatique. Leurs conclusions seront pr\u00e9sent\u00e9es au sommet...",
+            "date": "2015-04-29",
+            "categories": "tradition",
+            "tags": "lors,pays,tradition",
+            "recuweb_url": "http://fr.recuweb.com/tradition/lnc.nc/2015/04/la-solution-dans-tradition",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
+            "source_url": "http://lnc.nc/article/environnement/la-solution-dans-la-tradition"
+        },
+        "topmercato.com/2015/04/le-trio-msn-increvable-la-juve-pourrait-jubiler-une-tradition-top": {
+            "title": "Le trio \"MSN\" increvable, la Juve pourrait jubiler, une tradition... - Top...",
+            "snippet": "Le trio \"MSN\" increvable, la Juve pourrait jubiler, une tradition...Top Tour d'Europe de la presse de ce mercredi 29 avril 2015 est notamment consacr\u00e9 au trio Messi-Neymar-Suarez qui a encore fait parler la poudre. Au menu \u00e9galement, la Juventus...",
+            "date": "2015-04-29",
+            "categories": "tradition",
+            "tags": "notamment,tradition,avril",
+            "recuweb_url": "http://fr.recuweb.com/tradition/topmercato.com/2015/04/le-trio-msn-increvable-la-juve-pourrait-jubiler-une-tradition-top",
+            "resource_url": "http://news.google.fr/?hl=fr&q=tradition%2Btradition&output=atom&nord=1",
+            "source_url": "http://topmercato.com/105895,1/le-trio-msn-increvable-la-juve-pourrait-jubiler-une-tradition-vendue-en-angleterre-le-tour-d-europe-de-la-presse.html"
+        },
+        "aps.dz/2015/04/mois-du-patrimoine-le-conte-populaire-et-la-tradition-des-gouals": {
+            "title": "Mois du patrimoine: le conte populaire et la tradition des Gouals, un riche patrimoine inexploit\u00e9...",
+            "snippet": "ALGER - Toujours v\u00eatu dune djellaba et portant une mama (turban) jaune, typique de louest autour du cou, Mahi Seddik a pour habitude de raconter sur les places publiques la l\u00e9gende du Mola mola, loiseau de bon augure du Grand Sud, un conte...",
+            "date": "2015-04-29",
+            "categories": "place,tradition",
+            "tags": "grand,patrimoine,tradition",
+            "recuweb_url": "http://fr.recuweb.com/tradition/aps.dz/2015/04/mois-du-patrimoine-le-conte-populaire-et-la-tradition-des-gouals",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
+            "source_url": "http://aps.dz/culture/22044-mois-du-patrimoine-le-conte-populaire-et-la-tradition-des-gouals-,-un-riche-patrimoine-inexploit\u00e9"
+        },
+        "ladepeche.fr/2015/04/les-a%C3%AEn%C3%A9s-cultivent-traditions": {
+            "title": "Les A\u00een\u00e9s cultivent les traditions...",
+            "snippet": "Les A\u00een\u00e9s de Lambert ne cultivent pas seulement la convivialit\u00e9, mais aussi les traditions comme en t\u00e9moignaient la c\u00e9l\u00e9bration de Pques et son incontournable Tindelou, r\u00e9cemment! L'occasion de se rassembler au sein de l'ex MJC, autour d'un...",
             "date": "2015-04-28",
             "categories": "tradition",
-            "tags": "association,tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/sudouest.fr/2015/04/toujours-un-vif-succ%C3%A8s-pour-le-salon-de-l-artisanat",
+            "tags": "traditions,comme,seulement,pques",
+            "recuweb_url": "http://fr.recuweb.com/tradition/ladepeche.fr/2015/04/les-a%C3%AEn%C3%A9s-cultivent-traditions",
             "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/04/28/toujours-un-vif-succes-pour-le-salon-de-l-artisanat-1906208-2770.php"
-        },
-        "lejsl.com/2015/04/cussy-en-morvan-un-moment-dans-la-tradition": {
-            "title": "Cussy-en-Morvan Un moment dans la tradition...",
-            "snippet": "Amiti\u00e9 et traditions. Mercredi apr\u00e8s-midi, une quarantaine de membres de lassociation Amiti\u00e9 et traditions se sont retrouv\u00e9s dans la salle des f\u00eates de la commune. Les participants ont partag\u00e9 bonne humeur et go\u00fbter festif. Lanimation...",
-            "date": "2015-04-25",
-            "categories": "tradition",
-            "tags": "f\u00eates,traditions",
-            "recuweb_url": "http://fr.recuweb.com/tradition/lejsl.com/2015/04/cussy-en-morvan-un-moment-dans-la-tradition",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://lejsl.com/edition-autun/2015/04/26/un-moment-dans-la-tradition"
-        },
-        "sudouest.fr/2015/04/la-tradition-de-lexposition-printemps-respect%C3%A9e": {
-            "title": "La tradition de lexposition de printemps respect\u00e9e...",
-            "snippet": "amedi dernier, jour de d\u00e9part de L'Hermione pour l'Am\u00e9rique, Mireille Baqu\u00e9, pr\u00e9sidente de l'association maritaise \u00cele, Arts et Culture, aurait pu craindre un certain abandon des R\u00e9tais pour le vernissage de l'exposition de printemps de l...",
-            "date": "2015-04-24",
-            "categories": "tradition,arts,culture",
-            "tags": "exposition,association,tradition,\u00eele,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/sudouest.fr/2015/04/la-tradition-de-lexposition-printemps-respect%C3%A9e",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=tradition&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/04/25/la-tradition-de-l-exposition-de-printemps-respectee-1903497-1570.php"
-        },
-        "fr-ca.actualites.yahoo.com/2015/02/au-vietnam-un-festival-controvers%C3%A9-de-sacrifice-cochon": {
-            "title": "Au Vietnam, un festival controvers\u00e9 de sacrifice de cochon...",
-            "snippet": "Des milliers de Vietnamiens se sont r\u00e9unis mardi pour assister au sacrifice de cochons en place publique, une tradition ancestrale critiqu\u00e9e par les d\u00e9fenseurs des animaux.",
-            "date": "2015-02-24",
-            "categories": "place,tradition",
-            "tags": "tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/fr-ca.actualites.yahoo.com/2015/02/au-vietnam-un-festival-controvers%C3%A9-de-sacrifice-cochon",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tradition",
-            "source_url": "http://fr-ca.actualites.yahoo.com/au-vietnam-un-festival-controvers\u00e9-sacrifice-cochon-142048566.html"
-        },
-        "fr.news.yahoo.com/2015/02/le-meilleur-et-pire-du-tapis-rouge-des-oscars": {
-            "title": "Le meilleur et le pire du tapis rouge des Oscars...",
-            "snippet": "OSCARS 2015 - Malgr\u00e9 la pluie, les c\u00e9l\u00e9brit\u00e9s s'\u00e9taient, dans la plus pure tradition hollywoodienne, par\u00e9es de leurs plus beaux atours. Du blanc -avec gants de vaisselle couleur sang pour Lady Gaga- ou de l'argent\u00e9, une v\u00e9ritable parade de...",
-            "date": "2015-02-23",
-            "categories": "tradition",
-            "tags": "\u00e9taient,tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/fr.news.yahoo.com/2015/02/le-meilleur-et-pire-du-tapis-rouge-des-oscars",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tradition",
-            "source_url": "http://fr.news.yahoo.com/meilleur-pire-tapis-rouge-oscars-081257852.html"
-        },
-        "fr.news.yahoo.com/2015/02/chine-la-guerre-des-enveloppes-rouges-fait-rage-entre-les-g%C3%A9ants": {
-            "title": "Chine: la guerre des \"enveloppes rouges\" fait rage entre les g\u00e9ants du Web...",
-            "snippet": "La tradition chinoise d'offrir des \u00e9trennes dans des \"enveloppes rouges\" au Nouvel an lunaire conna\u00eet un regain de popularit\u00e9 sur internet, une opportunit\u00e9 en or pour les g\u00e9ants du web Alibaba et Tencent, en pleine bataille sur le lucratif...",
-            "date": "2015-02-18",
-            "categories": "internet,tradition",
-            "tags": "tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/fr.news.yahoo.com/2015/02/chine-la-guerre-des-enveloppes-rouges-fait-rage-entre-les-g%C3%A9ants",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tradition",
-            "source_url": "http://fr.news.yahoo.com/chine-guerre-enveloppes-rouges-fait-rage-entre-g\u00e9ants-071145772--finance.html"
-        },
-        "fr.news.yahoo.com/2015/02/google-c%C3%A9l%C3%A8bre-la-saint-valentin": {
-            "title": "Google c\u00e9l\u00e8bre la Saint-Valentin...",
-            "snippet": "Mythologie romaine ou tradition chr\u00e9tienne? Les historiens discutent encore sur l'origine exacte de cette c\u00e9l\u00e9bration.",
-            "date": "2015-02-14",
-            "categories": "google,mythologie,tradition",
-            "tags": "saint,tradition",
-            "recuweb_url": "http://fr.recuweb.com/tradition/fr.news.yahoo.com/2015/02/google-c%C3%A9l%C3%A8bre-la-saint-valentin",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=tradition",
-            "source_url": "http://fr.news.yahoo.com/google-c\u00e9l\u00e8bre-saint-valentin-073053402.html"
+            "source_url": "http://ladepeche.fr/article/2015/04/29/2095821-les-aines-cultivent-les-traditions.html"
         }
     }
 }
