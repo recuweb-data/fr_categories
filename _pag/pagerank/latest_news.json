@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pagerank/",
@@ -11,26 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes": {
-            "title": "10 Things To Do Before You Hit 'Publish'- Forbes...",
-            "snippet": "Forbes10 Things To Do Before You Hit 'Publish'ForbesBuying or selling links that pass PageRank. This includes exchanging money for links, or posts that contain links; exchanging goods or services for links; or sending someone a free product in...",
-            "date": "2015-04-27",
-            "categories": "pagerank",
-            "tags": "pagerank,this",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/forbes.com/2015/04/10-things-to-do-before-you-hit-publish-forbes",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
-            "source_url": "http://forbes.com/sites/denispinsky/2015/04/27/before-you-publish/"
-        },
-        "searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your": {
-            "title": "When Disavowing Links At The Domain Level, Don't Let Your... - Search Engine Land...",
-            "snippet": "Search Engine LandWhen Disavowing Links At The Domain Level, Don't Let Your...Search Engine LandSecond, most links are nofollowed across major social networks, so they aren't passing PageRank anyway. Third, if somehow you do find a spammy link on a...",
-            "date": "2015-04-27",
-            "categories": "pagerank",
-            "tags": "your,pagerank",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/searchengineland.com/2015/04/when-disavowing-links-at-the-domain-level-don-t-let-your",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/disavowing-links-domain-level-dont-let-machete-turn-guillotine-219301"
-        },
         "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou": {
             "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou... -...",
             "snippet": "upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou... \u00e1le viac ud\u00ed pou\u00edva na pr\u00edstup na internet mobiln\u00e9 zariadenia. A t\u00edto pou\u00edvatelia chc\u00fa pri vyhad\u00e1van\u00ed z\u00edska o najrelevantnejie a najaktu\u00e1lnejie. Google u vo febru\u00e1ri...",
@@ -38,7 +18,7 @@
             "categories": "internet,google,pagerank",
             "tags": "internet,google,pagerank",
             "recuweb_url": "http://fr.recuweb.com/pagerank/itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank%2Bpagerank&output=atom&nord=1",
             "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
         }
     }
