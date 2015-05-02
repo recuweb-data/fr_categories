@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "athletisme",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/athletisme/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/athletisme/athletisme/blogs.json"
     },
     "items": {
-        "sudouest.fr/2015/04/l-athl%C3%A9tisme-a-le-moral-en-demi-teinte-sud-ouest": {
-            "title": "L'athl\u00e9tisme a le moral en demi-teinte - Sud Ouest...",
-            "snippet": "Sud OuestL'athl\u00e9tisme a le moral en demi-teinteSud Oueste 25e challenge d'athl\u00e9tisme Jean-Taransaud devait \u00eatre une f\u00eate, une \u00e9dition anniversaire vendredi. Mais Dominique Chenu, le pr\u00e9sident du Cognac Athl\u00e9tique Club (CAC) est inquiet. La...",
+        "letelegramme.fr/2015/04/athl%C3%A9tisme-les-champions-du-cjf-en-piste-le-t%C3%A9l%C3%A9gramme": {
+            "title": "Athl\u00e9tisme. Les champions du CJF en piste - Le T\u00e9l\u00e9gramme...",
+            "snippet": "Le T\u00e9l\u00e9grammeAthl\u00e9tisme. Les champions du CJF en pisteLe T\u00e9l\u00e9grammeLa piste neuve homologu\u00e9e par la FFA sera inaugur\u00e9e ce soir. La f\u00eate promet d'\u00eatre compl\u00e8te, ce soir, au stade de Marville. Le plateau sportif du meeting d'athl\u00e9tisme qui...",
+            "date": "2015-04-30",
+            "categories": "athletisme",
+            "tags": "plateau,meeting,\u00eatre,f\u00eate,piste,champions,athl\u00e9tisme,cjf,marville",
+            "recuweb_url": "http://fr.recuweb.com/athletisme/letelegramme.fr/2015/04/athl%C3%A9tisme-les-champions-du-cjf-en-piste-le-t%C3%A9l%C3%A9gramme",
+            "resource_url": "http://news.google.fr/?hl=fr&q=athletisme&output=atom&nord=1",
+            "source_url": "http://letelegramme.fr/ille-et-vilaine/saint-malo/athletisme-les-champions-du-cjf-en-piste-30-04-2015-10612628.php"
+        },
+        "sudouest.fr/2015/04/cognac-l-athl%C3%A9tisme-a-le-moral-en-demi-teinte-sud-ouest": {
+            "title": "Cognac: l'athl\u00e9tisme a le moral en demi-teinte - Sud Ouest...",
+            "snippet": "Sud OuestCognac: l'athl\u00e9tisme a le moral en demi-teinteSud Oueste 25e challenge d'athl\u00e9tisme Jean-Taransaud devait \u00eatre une f\u00eate, une \u00e9dition anniversaire vendredi. Mais Dominique Chenu, le pr\u00e9sident du Cognac Athl\u00e9tique Club (CAC) est...",
             "date": "2015-04-29",
             "categories": "athletisme",
-            "tags": "\u00e9dition,athl\u00e9tisme,jean",
-            "recuweb_url": "http://fr.recuweb.com/athletisme/sudouest.fr/2015/04/l-athl%C3%A9tisme-a-le-moral-en-demi-teinte-sud-ouest",
-            "resource_url": "http://news.google.fr/?hl=fr&q=athletisme&output=atom&nord=1",
+            "tags": "\u00e9dition,\u00eatre,f\u00eate,athl\u00e9tisme,jean",
+            "recuweb_url": "http://fr.recuweb.com/athletisme/sudouest.fr/2015/04/cognac-l-athl%C3%A9tisme-a-le-moral-en-demi-teinte-sud-ouest",
+            "resource_url": "http://news.google.fr/?hl=fr&q=athletisme%2Bathletisme&output=atom&nord=1",
             "source_url": "http://sudouest.fr/2015/04/29/l-athletisme-a-le-moral-en-demi-teinte-1906842-882.php"
         },
         "lexpress.fr/2015/04/l-athl%C3%A9tisme-aux-jeux-olympiques-express": {
@@ -26,9 +36,9 @@
             "snippet": "L'ExpressL'athl\u00e9tisme aux Jeux OlympiquesL'ExpressAu programme Olympique depuis 1896, l'athl\u00e9tisme est la plus ancienne discipline sportive. Consid\u00e9r\u00e9 comme le \"sport roi\" des Jeux Olympiques, l'athl\u00e9tisme compte en tout 47 \u00e9preuves, du saut...",
             "date": "2015-04-28",
             "categories": "sport,discipline,jeux-olympiques,athletisme",
-            "tags": "saut,discipline,jeux,olympiques,olympique,athl\u00e9tisme",
+            "tags": "jeux,olympiques,athl\u00e9tisme,saut",
             "recuweb_url": "http://fr.recuweb.com/athletisme/lexpress.fr/2015/04/l-athl%C3%A9tisme-aux-jeux-olympiques-express",
-            "resource_url": "http://news.google.fr/?hl=fr&q=athletisme&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=athletisme%2Bathletisme&output=atom&nord=1",
             "source_url": "http://lexpress.fr/actualite/sport/athletisme/athletisme-jeux-olympiques_1675633.html"
         },
         "letelegramme.fr/2015/04/athl%C3%A9tisme-en-piste-pour-le-meeting": {
@@ -36,40 +46,30 @@
             "snippet": "Les deux copr\u00e9sidents du CJF, Daniel Bourquin et Jean Larnicol; Claire Guinemer, adjointe aux affaires sportives, et Claude Renoult, maire. Jeudi, aura lieu le meeting inaugural de la piste d'athl\u00e9tisme de Marville. L'occasion de convier les...",
             "date": "2015-04-27",
             "categories": "athletisme",
-            "tags": "meeting,jean,athl\u00e9tisme",
+            "tags": "meeting,piste,jean,athl\u00e9tisme,cjf,marville",
             "recuweb_url": "http://fr.recuweb.com/athletisme/letelegramme.fr/2015/04/athl%C3%A9tisme-en-piste-pour-le-meeting",
             "resource_url": "http://www.bing.com/news/search?first=1&q=athletisme&format=RSS&cc=fr",
             "source_url": "http://letelegramme.fr/ille-et-vilaine/saint-malo/athletisme-en-piste-pour-le-meeting-28-04-2015-10610005.php"
+        },
+        "lepopulaire.fr/2015/04/athl%C3%A9tisme-kipchoge-et-les-k%C3%A9nyans-rois-du-marathon-de-londres": {
+            "title": "Athl\u00e9tisme: Kipchoge et les K\u00e9nyans rois du marathon de Londres...",
+            "snippet": "Sean Dempsey/AFP Le K\u00e9nyan Eliud Kipchoge coupe la ligne d'arriv\u00e9e en vainqueur au marathon de Londres, le 26 avril 2015 Le K\u00e9nyan Eliud Kipchoge a remport\u00e9 dimanche le marathon de Londres devant ses compatriotes Wilson Kipsang, vainqueur l'an...",
+            "date": "2015-04-26",
+            "categories": "marathon,athletisme",
+            "tags": "devant,dimanche,marathon,k\u00e9nyans,athl\u00e9tisme,londres,avril",
+            "recuweb_url": "http://fr.recuweb.com/athletisme/lepopulaire.fr/2015/04/athl%C3%A9tisme-kipchoge-et-les-k%C3%A9nyans-rois-du-marathon-de-londres",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=athletisme%2Bathletisme&format=RSS&cc=fr",
+            "source_url": "http://lepopulaire.fr/france-monde/sports/actualite/athletisme/2015/04/28/athletisme-kipchoge-et-les-kenyans-rois-du-marathon-de-londres_11419867.html"
         },
         "lamontagne.fr/2015/04/athl%C3%A9tisme-le-marathon-de-londres-avec-les-3-hommes-plus-rapides": {
             "title": "Athl\u00e9tisme: le marathon de Londres avec les 3 hommes les plus rapides de l'histoire...",
             "snippet": "Les trois hommes les plus rapides de l'histoire, tous trois K\u00e9nyans: la 35e \u00e9dition du marathon de Londres proposera dimanche un plateau exceptionnel, record de l'\u00e9preuve en vue, devant le balcon de Buckingham Palace. Dennis Kimetto, recordman du...",
             "date": "2015-04-25",
             "categories": "marathon,athletisme",
-            "tags": "recordman,record,\u00e9dition,marathon,trois,athl\u00e9tisme,londres",
+            "tags": "devant,record,dimanche,plateau,\u00e9dition,marathon,athl\u00e9tisme,londres,k\u00e9nyans",
             "recuweb_url": "http://fr.recuweb.com/athletisme/lamontagne.fr/2015/04/athl%C3%A9tisme-le-marathon-de-londres-avec-les-3-hommes-plus-rapides",
             "resource_url": "http://www.bing.com/news/search?first=1&q=athletisme%2Bathletisme&format=RSS&cc=fr",
             "source_url": "http://lamontagne.fr/france-monde/sports/actualite/athletisme/2015/04/28/athletisme-le-marathon-de-londres-avec-les-3-hommes-les-plus-rapides-de-l-histoire_11419292.html"
-        },
-        "fr.news.yahoo.com/2015/04/athl%C3%A9tisme-le-chinois-liu-xiang-ne-passera-plus-d-obstacles": {
-            "title": "Athl\u00e9tisme: le Chinois Liu Xiang ne passera plus d'obstacles...",
-            "snippet": "Apr\u00e8s presque trois ans de blessure, le champion olympique et ancien recordman du monde du 110 m haies a offciellement annonc\u00e9 sa retraite mardi.",
-            "date": "2015-04-07",
-            "categories": "athletisme",
-            "tags": "annonc\u00e9,mardi,champion,olympique,recordman,monde,trois,athl\u00e9tisme,haies",
-            "recuweb_url": "http://fr.recuweb.com/athletisme/fr.news.yahoo.com/2015/04/athl%C3%A9tisme-le-chinois-liu-xiang-ne-passera-plus-d-obstacles",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=athletisme",
-            "source_url": "http://fr.news.yahoo.com/athl\u00e9tisme-chinois-liu-xiang-ne-passera-dobstacles-104036073.html"
-        },
-        "fr.news.yahoo.com/2015/04/athl%C3%A9tisme-mekhissi-op%C3%A9r%C3%A9-du-pied-et-forfait-pour-les-mondiaux": {
-            "title": "Athl\u00e9tisme: Mekhissi op\u00e9r\u00e9 du pied et forfait pour les Mondiaux...",
-            "snippet": "Mahiedine Mekhissi, m\u00e9daill\u00e9 d'argent aux JO de P\u00e9kin et de Londres sur 3000 m\u00e8tres steeple, et triple champion d'Europe de la discipline, est forfait pour les Mondiaux-2015 de P\u00e9kin (22-30 ao\u00fbt), a annonc\u00e9 l'athl\u00e8te de 30 ans mardi sur les...",
-            "date": "2015-04-07",
-            "categories": "discipline,athletisme",
-            "tags": "mardi,annonc\u00e9,discipline,champion,m\u00e8tres,athl\u00e9tisme,londres,europe",
-            "recuweb_url": "http://fr.recuweb.com/athletisme/fr.news.yahoo.com/2015/04/athl%C3%A9tisme-mekhissi-op%C3%A9r%C3%A9-du-pied-et-forfait-pour-les-mondiaux",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=athletisme",
-            "source_url": "http://fr.news.yahoo.com/athl\u00e9tisme-mekhissi-op\u00e9r\u00e9-pied-forfait-mondiaux-173320199--spt.html"
         }
     }
 }
