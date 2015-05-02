@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "anglicanisme",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/anglicanisme/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/anglicanisme/anglicanisme/blogs.json"
     },
     "items": {
+        "franceinter.fr/2015/04/la-marche-del-histoire": {
+            "title": "La marche del'histoire...",
+            "snippet": "Henri VIII, cest l\u00e9quivalent des rois dIsra\u00ebl lib\u00e9rateurs du peuple \u00e9lu; sa fille Marie, qui tenta de restaurer le catholicisme une autre J\u00e9zabel, idoltre et assassine Langlicanisme ne sest pas lev\u00e9 dun bloc, porteur des...",
+            "date": "2015-04-29",
+            "categories": "catholicisme",
+            "tags": "henri,henri_viii,viii,marie",
+            "recuweb_url": "http://fr.recuweb.com/catholicisme/franceinter.fr/2015/04/la-marche-del-histoire",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=anglicanisme&format=RSS&cc=fr",
+            "source_url": "http://franceinter.fr/emission-la-marche-de-lhistoire-les-tudors-et-la-naissance-de-l-anglicanisme"
+        },
         "tdg.ch/2015/04/l-eglise-fait-son-cin%C3%A9ma-pour-encourager-les-dons-tribune": {
             "title": "L'Eglise fait son cin\u00e9ma pour encourager les dons - Tribune de Gen\u00e8ve...",
             "snippet": "Tribune de Gen\u00e8veL'Eglise fait son cin\u00e9ma pour encourager les donsTribune de Gen\u00e8veIls abordent aussi des th\u00e8mes comme le pouvoir, l'anglicanisme, l'astronomie, le tout dans un cadre pr\u00e9cis: le Moyen Age. Le Gr\u00fctli a d'abord refus\u00e9 notre...",
@@ -26,20 +36,10 @@
             "snippet": "Les scribes mis en r\u00e9seauLa CroixDu moins peut-on lui accorder un sens politique tr\u00e8s vif, qui joue en faveur des solutions de prudence et de compromis, comme l'\u00e9dit de Nantes en France, l'arminianisme aux Pays-Bas, l'anglicanisme mod\u00e9r\u00e9 en...",
             "date": "2015-04-01",
             "categories": "politique,anglicanisme",
-            "tags": "comme,accorder,croix,anglicanisme",
+            "tags": "comme,accorder,anglicanisme",
             "recuweb_url": "http://fr.recuweb.com/anglicanisme/la-croix.com/2015/04/les-scribes-mis-en-r%C3%A9seau-la-croix",
             "resource_url": "http://news.google.fr/?hl=fr&q=anglicanisme&output=atom&nord=1",
             "source_url": "http://la-croix.com/Culture/Livres-Idees/Livres/Les-scribes-mis-en-reseau-2015-04-01-1297675"
-        },
-        "la-croix.com/2015/01/anglicanisme-l-ordination-d-une-femme-%C3%A9v%C3%AAque-provoque-la-croix": {
-            "title": "Anglicanisme: l'ordination d'une femme \u00e9v\u00eaque provoque la... - La Croix...",
-            "snippet": "Anglicanisme: l'ordination d'une femme \u00e9v\u00eaque provoque la...La CroixFaut-il quitter ou non l'\u00c9glise anglicane d'Angleterre? Pour le P. Owen Higgs, cur\u00e9 de la paroisse anglicane de saint Gabriel, situ\u00e9e dans un quartier hupp\u00e9 du centre de...",
-            "date": "2015-01-26",
-            "categories": "anglicanisme",
-            "tags": "anglicane,anglicanisme,croix,\u00e9glise,angleterre,saint",
-            "recuweb_url": "http://fr.recuweb.com/anglicanisme/la-croix.com/2015/01/anglicanisme-l-ordination-d-une-femme-%C3%A9v%C3%AAque-provoque-la-croix",
-            "resource_url": "http://news.google.fr/?hl=fr&q=anglicanisme%2Banglicanisme&output=atom&nord=1",
-            "source_url": "http://la-croix.com/Religion/Actualite/Anglicanisme-l-ordination-d-une-femme-eveque-provoque-la-resignation-des-opposants-2015-01-26-1272853"
         },
         "toutelaculture.com/2014/08/les-femmes-%C3%A9v%C3%AAques-en-angleterre-un-anglicanisme-de-plus-toutelaculture": {
             "title": "Les femmes \u00e9v\u00eaques en Angleterre: un anglicanisme de plus en... - Toutelaculture...",
