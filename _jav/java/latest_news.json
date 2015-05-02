@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -11,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "emploi.silicon.fr/2015/04/d%C3%A9veloppeur-java-h-f-cdi-paris": {
-            "title": "D\u00e9veloppeur Java H/F - CDI - Paris...",
-            "snippet": "Mangoo games est une start-up \u00e9ditrice de jeux vid\u00e9o sur mobile situ\u00e9e en plein coeur de Paris. Notre \u00e9quipe grandit et nous recherchons un/une d\u00e9veloppeur(se) Javapour nous \u00e9pauler sur diff\u00e9rents projets en lien avec nos jeux sur mobile.",
-            "date": "2015-04-26",
-            "categories": "java",
-            "tags": "java,lien",
-            "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-java-h-f-cdi-paris",
+        "emploi.silicon.fr/2015/04/artisan-ptissier-logiciel-java-h-f": {
+            "title": "Artisan-ptissier Logiciel Java H/F...",
+            "snippet": "Arolla est un cabinet de conseil en technologies de linformation qui agit pour redonner ses lettres de noblesse au d\u00e9veloppement. Nous pr\u00f4nons les bonnes pratiques de d\u00e9veloppement (TDD, BDD, DDD, clean code, etc.) ainsi que les m\u00e9thodes agiles.",
+            "date": "2015-04-29",
+            "categories": "technologie,java",
+            "tags": "d\u00e9veloppement,conseil,java",
+            "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/artisan-ptissier-logiciel-java-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/451405/dveloppeur-java-hf/"
+            "source_url": "http://emploi.silicon.fr/452005/artisan-ptissier-logiciel-java-hf/"
         },
-        "commentcamarche.net/2015/04/les-interfaces-en-java": {
-            "title": "Les interfaces en java...",
-            "snippet": "Les membres obtiennent plus de r\u00e9ponses que les utilisateurs anonymes. Le fait d'\u00eatre membre vous permet d'avoir un suivi d\u00e9taill\u00e9 de vos demandes. Le fait d'\u00eatre membre vous permet d'avoir des options suppl\u00e9mentaires.",
-            "date": "2015-04-26",
+        "tennessean.com/2015/04/bongo-java-linked-cafe-smoothie-king-set-for-1821-jefferson-st": {
+            "title": "Bongo Java-linked cafe, Smoothie King set for 1821 Jefferson St. - The Tennessean...",
+            "snippet": "The TennesseanBongo Java-linked cafe, Smoothie King set for 1821 Jefferson TennesseanA Bongo Java-affiliated cafe and Smoothie King will occupy retail space at 1821 Jefferson, the mixed-use building a group that includes two well-known businessmen...",
+            "date": "2015-04-28",
             "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/commentcamarche.net/2015/04/les-interfaces-en-java",
+            "tags": "will,java",
+            "recuweb_url": "http://fr.recuweb.com/java/tennessean.com/2015/04/bongo-java-linked-cafe-smoothie-king-set-for-1821-jefferson-st",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
+            "source_url": "http://tennessean.com/story/money/real-estate/2015/04/28/bongo-java-smoothie-king-set-jefferson-st/26535903/"
+        },
+        "emploi.silicon.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-java-jee-h-f": {
+            "title": "ING\u00c9NIEUR D\u00c9VELOPPEMENT JAVA/JEE (H/F)...",
+            "snippet": "Fort de pr\u00e8s de 145 000 collaborateurs et pr\u00e9sent dans plus de 40 pays, Capgemini est lun des leaders mondiaux du conseil, des services informatiques et de linfog\u00e9rance. Le Groupe a r\u00e9alis\u00e9 en 2014 un chiffre daffaires de 10,573 milliards d...",
+            "date": "2015-04-28",
+            "categories": "java",
+            "tags": "conseil,d\u00e9veloppement,java",
+            "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-java-jee-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31883946-les-interfaces-en-java"
+            "source_url": "http://emploi.silicon.fr/451923/ingnieur-dveloppement-javajee-hf/"
+        },
+        "developpez.com/2015/04/microsoft-90%-de-pirates-ont-bascul%C3%A9-leurs-attaques-java-vers-flash": {
+            "title": "Microsoft: 90% de pirates ont bascul\u00e9 leurs attaques de Java vers Flash...",
+            "snippet": "En 2014, de nombreuses \u00e9tudes daccordaient sur le fait que Java \u00e9tait la cible favorite des pirates. Une \u00e9tude de Cisco publi\u00e9e en janvier 2014 faisait, par exemple, savoir que 91% des attaques en ligne exploitaient des failles Java. Cette...",
+            "date": "2015-04-28",
+            "categories": "java",
+            "tags": "exemple,\u00e9tude,microsoft,java,flash",
+            "recuweb_url": "http://fr.recuweb.com/java/developpez.com/2015/04/microsoft-90%-de-pirates-ont-bascul%C3%A9-leurs-attaques-java-vers-flash",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
+            "source_url": "http://developpez.com/actu/84477/Microsoft-90-pourcent-de-pirates-ont-bascule-leurs-attaques-de-Java-vers-Flash-a-cause-du-blocage-des-versions-obsoletes-de-Java-par-IE/"
+        },
+        "theregister.co.uk/2015/04/ninety-per-cent-of-java-black-hats-migrate-to-footling-flash": {
+            "title": "NINETY PER CENT of Java black hats migrate to footling Flash - The Register...",
+            "snippet": "The RegisterNINETY PER CENT of Java black hats migrate to footling FlashThe RegisterRSA 2015 Almost every Java-hacking black hat is now popping Adobe Flash, after Microsoft's hard-line patch policy made it harder to target software such as Java. The...",
+            "date": "2015-04-27",
+            "categories": "java",
+            "tags": "java,flash,microsoft",
+            "recuweb_url": "http://fr.recuweb.com/java/theregister.co.uk/2015/04/ninety-per-cent-of-java-black-hats-migrate-to-footling-flash",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/04/27/ninety_percent_of_java_blackhats_now_finger_flash/"
         },
         "streetpress.com/2015/04/jungle-brothers-la-java": {
             "title": "Jungle Brothers La Java -...",
@@ -40,26 +70,6 @@
             "recuweb_url": "http://fr.recuweb.com/java/streetpress.com/2015/04/jungle-brothers-la-java",
             "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
             "source_url": "http://streetpress.com/sujet/1428599797-jungle-brothers-la-java"
-        },
-        "midilibre.fr/2015/03/pujaut-les-rendez-vous-de-java-midi-libre": {
-            "title": "Pujaut: les rendez-vous de JAVA - Midi Libre...",
-            "snippet": "Midi LibrePujaut: les rendez-vous de JAVAMidi LibreLes jeunes amateurs de vieilles autos (JAVA) ont cr\u00e9\u00e9 leur association en septembre 2012 et prennent de plus en plus d'importance. Leurs rendez vous mensuels du quatri\u00e8me dimanche du mois sont...",
-            "date": "2015-03-30",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/midilibre.fr/2015/03/pujaut-les-rendez-vous-de-java-midi-libre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
-            "source_url": "http://midilibre.fr/2015/03/28/les-rendez-vous-java,1142348.php"
-        },
-        "fr.news.yahoo.com/2015/02/accident-air-asia-l-indon%C3%A9sie-r%C3%A9cup%C3%A8re-la-derni%C3%A8re-partie-du-fuselage": {
-            "title": "Accident Air Asia: L'Indon\u00e9sie r\u00e9cup\u00e8re la derni\u00e8re partie du fuselage de l'avion...",
-            "snippet": "L'Indon\u00e9sie a r\u00e9cup\u00e9r\u00e9 la derni\u00e8re partie du fuselage de l'avion d'Air Asia qui s'\u00e9tait ab\u00eem\u00e9 en mer de Java en d\u00e9cembre 2014, tuant ses 162 occupants, ont annonc\u00e9 samedi des responsables.",
-            "date": "2015-02-28",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/fr.news.yahoo.com/2015/02/accident-air-asia-l-indon%C3%A9sie-r%C3%A9cup%C3%A8re-la-derni%C3%A8re-partie-du-fuselage",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=java",
-            "source_url": "http://fr.news.yahoo.com/accident-air-asia-lindon\u00e9sie-r\u00e9cup\u00e8re-derni\u00e8re-partie-fuselage-083233861.html"
         }
     }
 }
