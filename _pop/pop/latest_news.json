@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pop/",
@@ -11,45 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
-        "rtl2.fr/2015/04/david-bowie-iggy-pop-et-lou-reed-dans-la-playlist-rock": {
-            "title": "David Bowie, Iggy Pop et Lou Reed dans la playlist rock de... -...",
-            "snippet": "Bowie, Iggy Pop et Lou Reed dans la playlist rock de.... Rechercher une \u00e9mission Toute l'actualit\u00e9 des replays Direct. Quel est ce titre? Fr\u00e9quences Tout le direct Profil Recherche Pop-Rock Station Accueil Culture David Bowie, Iggy Pop et Lou...",
-            "date": "2015-04-28",
-            "categories": "rock,culture,pop,play",
-            "tags": "rock,station,culture,pop,titre,david,david_bowie,bowie",
-            "recuweb_url": "http://fr.recuweb.com/play/rtl2.fr/2015/04/david-bowie-iggy-pop-et-lou-reed-dans-la-playlist-rock",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
-            "source_url": "http://rtl2.fr/culture/la-playlist-franco-british-de-christophe-nicolas-7777130995"
-        },
-        "sudouest.fr/2015/04/printemps-de-la-pop-l%C3%A9g%C3%A8re-au-krakatoa-sud-ouest": {
-            "title": "Printemps de la pop l\u00e9g\u00e8re au Krakatoa - Sud Ouest...",
-            "snippet": "Printemps de la pop l\u00e9g\u00e8re au KrakatoaSud OuestLe premier, groupe bordelais avec basse, batterie, guitare et claviers (classique donc, presque rock), sonne comme cette pop synth\u00e9tique des ann\u00e9es Palace, agr\u00e9able, plus complexe qu'il n'y para\u00eet...",
-            "date": "2015-04-28",
+        "lyonne.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t": {
+            "title": "Apr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le... - L'Yonne R\u00e9publicaine...",
+            "snippet": "L'Yonne R\u00e9publicaineApr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le...L'Yonne R\u00e9publicaineParmi les moments applaudis de cette 39e \u00e9dition: l'\u00e9nergie du groupe pop-rock libanais Mashrou'Leila, les brillants automates de...",
+            "date": "2015-04-29",
             "categories": "rock,pop",
-            "tags": "rock,printemps,pop,sonne,comme",
-            "recuweb_url": "http://fr.recuweb.com/pop/sudouest.fr/2015/04/printemps-de-la-pop-l%C3%A9g%C3%A8re-au-krakatoa-sud-ouest",
+            "tags": "brillants,brillants-automates,automates,rock,rock-libanais,libanais,\u00e9nergie,\u00e9nergie-du-groupe,groupe,\u00e9dition,moments,moments-applaudis,applaudis,greco,cl\u00f4t,rel\u00e8ve,rel\u00e8ve-f\u00e9minine,f\u00e9minine,ouverture,apr\u00e8s,apr\u00e8s_greco,pop,mashrou,leila",
+            "recuweb_url": "http://fr.recuweb.com/pop/lyonne.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop%2Bpop&output=atom&nord=1",
+            "source_url": "http://lyonne.fr/yonne/mag/culture/musique/2015/04/29/apres-greco-en-ouverture-la-releve-feminine-de-la-pop-clot-le-printemps-de-bourges_11424713.html"
+        },
+        "lepoint.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t": {
+            "title": "Apr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le... - Le Point...",
+            "snippet": "Le PointApr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le...Le PointParmi les moments applaudis de cette 39e \u00e9dition: l'\u00e9nergie du groupe pop-rock libanais Mashrou'Leila, les brillants automates de l'inventif St\u00e9phane Eicher, les...",
+            "date": "2015-04-29",
+            "categories": "rock,pop",
+            "tags": "brillants,brillants-automates,automates,rock,rock-libanais,libanais,\u00e9nergie,\u00e9nergie-du-groupe,groupe,\u00e9dition,moments,moments-applaudis,applaudis,greco,cl\u00f4t,rel\u00e8ve,rel\u00e8ve-f\u00e9minine,f\u00e9minine,ouverture,apr\u00e8s,apr\u00e8s_greco,pop,mashrou,leila",
+            "recuweb_url": "http://fr.recuweb.com/pop/lepoint.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t",
             "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/28/printemps-de-la-pop-legere-au-krakatoa-1905669-2921.php"
+            "source_url": "http://lepoint.fr/culture/la-releve-feminine-de-la-pop-clot-le-printemps-de-bourges-29-04-2015-1925096_3.php"
+        },
+        "lesoir.be/2015/04/kate-middleton-un-accouchement-tr%C3%A8s-pop-british-le-soir": {
+            "title": "Kate Middleton, un accouchement tr\u00e8s pop british - Le Soir...",
+            "snippet": "Le SoirKate Middleton, un accouchement tr\u00e8s pop britishLe SoirPoint d'op\u00e9ra ou de longues balades au Stradivarius, Kate Middleton a pr\u00e9vu du pop, du moderne, britannique bien s\u00fbr. Du James Blunt pour commencer, avec son titre You're Beautiful.",
+            "date": "2015-04-29",
+            "categories": "pop",
+            "tags": "titre,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/lesoir.be/2015/04/kate-middleton-un-accouchement-tr%C3%A8s-pop-british-le-soir",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "source_url": "http://lesoir.be/864492/article/soirmag/actu-soirmag/2015-04-29/kate-middleton-un-accouchement-tres-pop-british"
         },
         "vogue.fr/2015/04/la-collection-pop-de-lancel": {
             "title": "La collection Pop de Lancel -...",
             "snippet": "La collection Pop de \u00e8s le mod\u00e8le Charlie en 2014, la maison de maroquinerie fran\u00e7aise signe, pour le printemps-\u00e9t\u00e9 2015, une toute nouvelle ligne de sacs mixtes baptis\u00e9e Pop qui a \u00e9t\u00e9 d\u00e9voil\u00e9e le 23 avril au Palais de Tokyo. Poches...",
             "date": "2015-04-27",
             "categories": "collection,pop",
-            "tags": "\u00e9t\u00e9,printemps,fran\u00e7aise,pop",
+            "tags": "fran\u00e7aise,pop",
             "recuweb_url": "http://fr.recuweb.com/pop/vogue.fr/2015/04/la-collection-pop-de-lancel",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pop%2Bpop&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
             "source_url": "http://vogue.fr/mode/news-mode/diaporama/la-collection-pop-de-lancel/20232"
         },
         "ladepeche.fr/2015/04/les-bateaux-pop-en-comp%C3%A9tition": {
-            "title": "Les bateaux pop-pop en comp\u00e9tition...",
-            "snippet": "Quand passion, patience, habilet\u00e9 et talent se conjuguent avec une bonne dose d'humour et de l\u00e9g\u00e8ret\u00e9, le r\u00e9sultat ne peut qu'\u00eatre qu'original avec un petit brin de folie. Cela donne des bateaux pop-pop (du nom du bruit qu'ils font en...",
+            "title": "Les bateaux pop-pop en comp\u00e9tition -...",
+            "snippet": "bateaux pop-pop en comp\u00e9 passion, patience, habilet\u00e9 et talent se conjuguent avec une bonne dose d'humour et de l\u00e9g\u00e8ret\u00e9, le r\u00e9sultat ne peut qu'\u00eatre qu'original avec un petit brin de folie. Cela donne des bateaux pop-pop (du nom du bruit...",
             "date": "2015-04-18",
             "categories": "humour,pop",
             "tags": "peut,pop",
             "recuweb_url": "http://fr.recuweb.com/pop/ladepeche.fr/2015/04/les-bateaux-pop-en-comp%C3%A9tition",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop%2Bpop&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/18/2089540-les-bateaux-pop-pop-en-competition.html"
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop%2Bpop&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/18/2089539-les-bateaux-pop-pop-en-competition.html"
         },
         "staragora.com/2015/04/parisa-la-bookeuse-des-marseillais-en-tha%C3%AFlande-met-le-feu": {
             "title": "Parisa, la bookeuse des Marseillais en Tha\u00eflande, met le feu au clip de Lacrim!",
@@ -60,16 +70,6 @@
             "recuweb_url": "http://fr.recuweb.com/pop/staragora.com/2015/04/parisa-la-bookeuse-des-marseillais-en-tha%C3%AFlande-met-le-feu",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pop%2Bpop&format=RSS&cc=fr",
             "source_url": "http://staragora.com/news/parisa-la-bookeuse-des-marseillais-en-thailande-met-le-feu-au-clip-de-lacrim/510671"
-        },
-        "fr.news.yahoo.com/2015/04/paris-jackson-la-fille-du-king-of-pop-a-trouve-l": {
-            "title": "Paris Jackson: la fille du King of Pop a trouve l'amour...",
-            "snippet": "Enfin de bonnes nouvelles! Paris Jackson a trouv\u00e9 l'amour et n'a jamais \u00e9t\u00e9 aussi heureuse. Une love story qui sonne comme une revanche sur la vie pour l'adolescente de 17 ans. Puretrend vous...",
-            "date": "2015-04-08",
-            "categories": "pop",
-            "tags": "sonne,\u00e9t\u00e9,pop,comme",
-            "recuweb_url": "http://fr.recuweb.com/pop/fr.news.yahoo.com/2015/04/paris-jackson-la-fille-du-king-of-pop-a-trouve-l",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=pop",
-            "source_url": "http://fr.news.yahoo.com/paris-jackson-fille-king-of-pop-trouve-lamour-133000496.html"
         }
     }
 }
