@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "culture",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
-        "culturedub.com/2015/04/bass-elevator-lp-&-twam-prod-le-site": {
-            "title": "Bass Elevator LP Bass Elevator & Twam Prod Le site de la...",
-            "snippet": "Bass Elevator LP. Si le nom Bass Elevator vous est encore inconnu sachez que l'un des deux musiciens de ce duo de folie n'est certainement pas un inconnu pour Culture Dub! Bass Elevator c'est une histoire de passion...",
-            "date": "2015-04-27",
-            "author_name": "AlexDub",
-            "categories": "culture",
-            "tags": "histoire,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/culturedub.com/2015/04/bass-elevator-lp-&-twam-prod-le-site",
+        "comicsplace.net/2015/04/jaco-d-akira-toriyama-en-vf-chez-gl%C3%A9nat-le-1er-juillet": {
+            "title": "Jaco d'Akira Toriyama en VF chez Gl\u00e9nat le 1er Juillet - Comics Place...",
+            "snippet": "Comics Place: Comics & Culture Geek Widgets Follow me on TwitterFlux RSS Accueil Contact Vos comics en V.O. sur Original Comics. Avengers: la croisade des enfants sort aujourd'hui en Select...",
+            "date": "2015-04-29",
+            "author_name": "Thomas",
+            "categories": "culture,place",
+            "tags": "hui,aujourd,contact,culture,geek",
+            "recuweb_url": "http://fr.recuweb.com/place/comicsplace.net/2015/04/jaco-d-akira-toriyama-en-vf-chez-gl%C3%A9nat-le-1er-juillet",
             "resource_url": "http://www.google.com/search?q=culture%2Bculture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://culturedub.com/blog/bass-elevator-lp-bass-elevator-twam-prod/"
+            "source_url": "http://comicsplace.net/2015/04/29/jaco-dakira-toriyama/"
+        },
+        "geek-art.net/2015/04/world-of-3a-ultron-by-ashley-wood-geek-art-design": {
+            "title": "World of 3A Ultron by Ashley Wood Geek Art Art, Design...",
+            "snippet": "Geek Art Art, Design, Illustration & Pop Culture! Home About Contact Geek-Art Shows The Book Geek-Art Agency Store. World of 3A - Ultron by Ashley Wood. World of 3A Ultron by Ashley Wood. on avril 29 in Non class\u00e9 by...",
+            "date": "2015-04-29",
+            "author_name": "Geek-Art",
+            "categories": "pop,culture",
+            "tags": "avril,geek,home,contact,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/geek-art.net/2015/04/world-of-3a-ultron-by-ashley-wood-geek-art-design",
+            "resource_url": "http://www.google.com/search?q=culture%2Bculture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://geek-art.net/world-of-3a-ultron-by-ashley-wood/"
+        },
+        "laprovince.be/2015/04/mons-13-millions-d%C3%A9pens%C3%A9s-pour-la-culture-et-16-5": {
+            "title": "Mons: 13 millions d\u00e9pens\u00e9s pour la culture et 16,5 millions pour le...",
+            "snippet": "On aurait de toute fa\u00e7on mis sur pied ces mus\u00e9es, m\u00eame si Mons n'avait pas \u00e9t\u00e9 capitale europ\u00e9enne de la culture. Evidemment qu'il fallait faire co\u00efncider leur ouverture en 2015 mais il faut savoir que leur financement (et...",
+            "date": "2015-04-28",
+            "author_name": "R\u00e9daction en ligne",
+            "categories": "culture",
+            "tags": "faut,ouverture,\u00e9t\u00e9,capitale,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/laprovince.be/2015/04/mons-13-millions-d%C3%A9pens%C3%A9s-pour-la-culture-et-16-5",
+            "resource_url": "http://www.google.com/search?q=culture%2Bculture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://laprovince.be/1273415/article/2015-04-27/mons-13-millions-depenses-pour-la-culture-et-165-millions-pour-le-stade-tondreau"
         },
         "tsa-algerie.com/2015/04/le-torchon-br%C3%BBle-entre-louisa-hanoune-et-la-ministre-de-culture": {
             "title": "Le torchon br\u00fble entre Louisa Hanoune et la ministre de la Culture...",
@@ -30,7 +52,7 @@
             "categories": "culture",
             "tags": "ministre,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/tsa-algerie.com/2015/04/le-torchon-br%C3%BBle-entre-louisa-hanoune-et-la-ministre-de-culture",
-            "resource_url": "http://www.google.com/search?q=culture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=culture%2Bculture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://tsa-algerie.com/20150427/le-torchon-brule-entre-louisa-hanoune-et-la-ministre-de-la-culture/"
         },
         "slate.fr/2015/04/faut-il-vraiment-relifter-la-t%C3%A9l%C3%A9vision-fran%C3%A7aise": {
@@ -39,7 +61,7 @@
             "date": "2015-04-24",
             "author_name": "Natalie Lhoste",
             "categories": "television,culture",
-            "tags": "ministre,france,histoire,fran\u00e7aise,premi\u00e8re,culture",
+            "tags": "ministre,fran\u00e7aise,faut,premi\u00e8re,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/slate.fr/2015/04/faut-il-vraiment-relifter-la-t%C3%A9l%C3%A9vision-fran%C3%A7aise",
             "resource_url": "http://www.google.com/search?q=culture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100527/relifter-television-francaise"
@@ -50,21 +72,10 @@
             "date": "2015-04-23",
             "author_name": "Marie-Claude L\u00e9pine",
             "categories": "arts,culture",
-            "tags": "comme,aucun,culture,avril,budget,conseil",
+            "tags": "comme,culture,avril",
             "recuweb_url": "http://fr.recuweb.com/culture/culturemontreal.ca/2015/04/lettre-d-info-du-23-avril-2015-culture-montr%C3%A9al",
             "resource_url": "http://www.google.com/search?q=culture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://culturemontreal.ca/2015/04/lettre-dinfo-du-23-avril-2015/"
-        },
-        "cahiers-pedagogiques.com/2015/04/nous-sommes-tous-des-professeurs-de-culture-humaniste": {
-            "title": "Nous sommes tous des professeurs de culture humaniste - Les...",
-            "snippet": "Nous sommes tous des professeurs de culture humaniste. Florence Castincaud. 22 avril 2015. Dans les vives discussions qui accompagnent la publication du projet de r\u00e9forme du coll\u00e8ge, la place \u00e9tonnante prise par la question du...",
-            "date": "2015-04-22",
-            "author_name": "Castincaud",
-            "categories": "place,culture",
-            "tags": "culture,avril",
-            "recuweb_url": "http://fr.recuweb.com/culture/cahiers-pedagogiques.com/2015/04/nous-sommes-tous-des-professeurs-de-culture-humaniste",
-            "resource_url": "http://www.google.com/search?q=culture%2Bculture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cahiers-pedagogiques.com/Nous-sommes-tous-des-professeurs-de-culture-humaniste"
         },
         "pour15minutesdamour.blogspot.com/2015/04/d%C3%A9tach%C3%A9-culturel-ou-le-dernier-du-culte": {
             "title": "D\u00e9tach\u00e9 culturel (ou le dernier du culte?)...",
@@ -72,7 +83,7 @@
             "date": "2015-04-13",
             "author_name": "Ren\u00e9 Claude",
             "categories": "culture",
-            "tags": "jean,avoir,culture",
+            "tags": "jean,hui,aujourd,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/pour15minutesdamour.blogspot.com/2015/04/d%C3%A9tach%C3%A9-culturel-ou-le-dernier-du-culte",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=culture%2Bculture&rss=1&lng=fr",
             "source_url": "http://pour15minutesdamour.blogspot.com/2015/04/detache-culturel-ou-le-dernier-du-culte.html"
@@ -83,7 +94,7 @@
             "date": "2015-03-16",
             "author_name": "Dominique Veil",
             "categories": "culture",
-            "tags": "semaine,fran\u00e7aise,culture,figaro",
+            "tags": "fran\u00e7aise,home,culture,figaro",
             "recuweb_url": "http://fr.recuweb.com/culture/dlf03.blogspot.com/2015/03/bled-barda-ces-dix-mots-d-ailleurs-devenus-fran%C3%A7ais",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=culture%2Bculture&rss=1&lng=fr",
             "source_url": "http://dlf03.blogspot.com/2015/03/bled-barda-ces-dix-mots-dailleurs.html"
