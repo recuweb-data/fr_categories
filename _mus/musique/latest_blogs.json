@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "musique",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/musique/",
@@ -11,60 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/musique/musique/blogs.json"
     },
     "items": {
-        "dameskarlette.com/2015/04/musique-c-est-le-printemps-aimons-nous-et-cin%C3%A9ma-de-serge": {
-            "title": "Musique: C'est le Printemps, Aimons-nous et Le cin\u00e9ma de Serge...",
-            "snippet": "De la musique classique, du jazz et de la chanson fran\u00e7aise se c\u00f4toient. Si j'ai tenu encore plus vous parler de ce coffret c'est parce que le dessin est sign\u00e9 Georges Wolinski, apr\u00e8s l'hiver triste et maussade que nous avons...",
-            "date": "2015-04-27",
-            "author_name": "DAMESKARLETTE",
-            "categories": "musique",
-            "tags": "apr\u00e8s,jazz,musique,classique",
-            "recuweb_url": "http://fr.recuweb.com/musique/dameskarlette.com/2015/04/musique-c-est-le-printemps-aimons-nous-et-cin%C3%A9ma-de-serge",
-            "resource_url": "http://www.google.com/search?q=musique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://dameskarlette.com/2015/04/musique-cest-le-printemps-aimons-nous.html"
-        },
-        "moustique.be/2015/04/flying-lotus-ouvre-les-nuits-botanique-musique-culture-moustique": {
-            "title": "Flying Lotus ouvre les Nuits Botanique - Musique - Culture - Moustique...",
-            "snippet": "Flying Lotus ouvre les Nuits Botanique. Flying Lotus Cr\u00e9dit Bert Savels/Indiestyle. musique27/04/2015 13h35, Luc Lorf\u00e8vre. La toute grosse affluence ce dimanche au Cirque Royal pour une soir\u00e9e \u00e9lectro haut de gamme.",
-            "date": "2015-04-27",
-            "author_name": "inconnu",
-            "categories": "musique,culture",
-            "tags": "dimanche,musique,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/moustique.be/2015/04/flying-lotus-ouvre-les-nuits-botanique-musique-culture-moustique",
-            "resource_url": "http://www.google.com/search?q=musique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://moustique.be/culture/musique/331591/flying-lotus-ouvre-les-nuits-botanique"
-        },
         "animesmuzik.blogspot.com/2015/04/comit%C3%A9-d-%C3%A9coute-mars-2015-03": {
             "title": "Comit\u00e9 d'\u00e9coute mars 2015 03...",
             "snippet": "MUSIQUE ET CINEMA: UNE HISTOIRE DE COUPLE Le choix de Madeleine Film: Apr\u00e8s le sud R\u00e9alisateur: Jean-Jacques Jauffret Musique: W.A. Mozart (Concerto pour piano n23, Mouvement lent) La musique adoucit-elle les m\u0153urs? On peut se poser la question...",
             "date": "2015-04-26",
             "author_name": "(le r\u00e9seau des biblioth\u00e8ques de la ville de N\u00eemes)",
             "categories": "musique",
-            "tags": "musique,film,apr\u00e8s,jean",
+            "tags": "musique,histoire",
             "recuweb_url": "http://fr.recuweb.com/musique/animesmuzik.blogspot.com/2015/04/comit%C3%A9-d-%C3%A9coute-mars-2015-03",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=musique%2Bmusique&rss=1&lng=fr",
             "source_url": "http://animesmuzik.blogspot.com/2015/04/comite-decoute-mars-2015-03.html"
         },
-        "alterpresse.org/2015/04/ha%C3%AFti-culture-beaucoup-de-musique-pour-dire-adieu-au-violoniste": {
-            "title": "Ha\u00efti-Culture: Beaucoup de musique pour dire adieu au violoniste...",
-            "snippet": "P-au-P, 22 avril 2015 [AlterPresse] --- Le violoniste ha\u00eftien, Fritz Benjamin, d\u00e9c\u00e9d\u00e9 dans la nuit du dimanche 19 au lundi 20 avril 2015, s'en ira sous les notes de musique lors de ses fun\u00e9railles le vendredi 24 avril 2015.",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
-            "categories": "culture,musique",
-            "tags": "lors,lundi,dimanche,benjamin,culture,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/alterpresse.org/2015/04/ha%C3%AFti-culture-beaucoup-de-musique-pour-dire-adieu-au-violoniste",
-            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://alterpresse.org/spip.php?article18105"
-        },
-        "musique.ados.fr/2015/04/magic-system-d%C3%A9voile-son-tube-de-l-%C3%A9t%C3%A9-2015-musique": {
-            "title": "Magic System d\u00e9voile son tube de l'\u00e9t\u00e9 2015 - Musique...",
-            "snippet": "Magic System revient comme chaque ann\u00e9e quelques semaines avant l'\u00e9t\u00e9 pour nous pr\u00e9senter un nouveau titre qui la plupart du temps nous fait danser lors de la p\u00e9riode estivale. D\u00e9couvre Sweet Fanta Diallo!",
-            "date": "2015-04-22",
+        "lci.tf1.fr/2015/04/the-voice-4-lilian-renaud-a-envie-de-dire-des-choses": {
+            "title": "The Voice 4: Lilian Renaud a \"envie de dire des choses\" en...",
+            "snippet": "lilian renaud,the voice,musique,zazie,tf1 PeopleVainqueur de la quatri\u00e8me saison de l'\u00e9mission musicale de TF1, l'ancien artisan fromager devenu chanteur \u00e9tait l'invit\u00e9 du 20H dimanche. Et le talent coach\u00e9 par Zazie a...",
+            "date": "2015-04-26",
             "author_name": "inconnu",
             "categories": "musique",
-            "tags": "\u00e9t\u00e9,lors,chaque,ann\u00e9e,avant,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/musique.ados.fr/2015/04/magic-system-d%C3%A9voile-son-tube-de-l-%C3%A9t%C3%A9-2015-musique",
-            "resource_url": "http://www.google.com/search?q=musique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://musique.ados.fr/news/magic-system-tube-ete-2015-single-sweet-fanta-diallo_article7501.html"
+            "tags": "musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/lci.tf1.fr/2015/04/the-voice-4-lilian-renaud-a-envie-de-dire-des-choses",
+            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lci.tf1.fr/people/the-voice-4-lilian-renaud-a-envie-de-dire-des-choses-en-musique-8600213.html"
+        },
+        "guineenews.org/2015/04/bient%C3%B4t-la-guin%C3%A9e-disposera-d-un-manuel-de-guide-musique": {
+            "title": "Bient\u00f4t la Guin\u00e9e disposera d'un manuel de guide de la musique...",
+            "snippet": "Le R\u00e9seau des managers d'artistes de Guin\u00e9e (REMAG) vient de proc\u00e9der au lancement officiel de la production de exemplaires de manuels de guide de la fili\u00e8re musique de Guin\u00e9e, a observ\u00e9 sur place votre...",
+            "date": "2015-04-24",
+            "author_name": "Mame Diallo",
+            "categories": "place,musique",
+            "tags": "musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/guineenews.org/2015/04/bient%C3%B4t-la-guin%C3%A9e-disposera-d-un-manuel-de-guide-musique",
+            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://guineenews.org/bientot-la-guinee-disposera-dun-manuel-de-guide-de-la-musique/"
+        },
+        "manu-dans-le-6-9.nrj.fr/2015/04/musique-et-maintenant-%C3%A9coutez-donc-je-veux-%C3%AAtre-un-canard": {
+            "title": "MUSIQUE Et maintenant, \u00e9coutez donc Je veux \u00eatre un canard...",
+            "snippet": "MUSIQUE Et maintenant, \u00e9coutez donc Je veux \u00eatre un canard. 24 avril 2015. On a d\u00e9couvert le hit de cet \u00e9t\u00e9! C'est un jeune am\u00e9ricain qui l'a cr\u00e9e, et \u00e7a s'appelle Je veux \u00eatre un canard. \u00c7a reste dans la t\u00eate!",
+            "date": "2015-04-24",
+            "author_name": "nicopapon",
+            "categories": "musique",
+            "tags": "jeune,am\u00e9ricain,\u00e9t\u00e9,musique,avril",
+            "recuweb_url": "http://fr.recuweb.com/musique/manu-dans-le-6-9.nrj.fr/2015/04/musique-et-maintenant-%C3%A9coutez-donc-je-veux-%C3%AAtre-un-canard",
+            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://manu-dans-le-6-9.nrj.fr/on-en-a-parle/musique-et-maintenant-ecoutez-donc-je-veux-etre-un-canard/"
         },
         "slate.fr/2015/03/des-scientifiques-ont-trouv%C3%A9-la-musique-parfaite-pour-votre-chat": {
             "title": "Des scientifiques ont trouv\u00e9 la musique parfaite pour votre chat...",
@@ -77,24 +66,13 @@
             "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/98623/musique-pour-chat"
         },
-        "les-pingouins.com/2015/01/musique-en-route-pingouins-&-popcorn": {
-            "title": "Musique: En Route! - Pingouins & Popcorn -...",
-            "snippet": "La musique originale du film d'animation En route! a \u00e9t\u00e9 compos\u00e9e par Lorne Balfe, voici les musiques suppl\u00e9mentaires pr\u00e9sentent dans le film: Red Balloon Charli XCX Amazon Run To Me Coffee Amazon Dancing In The Dark...",
-            "date": "2015-01-18",
-            "author_name": "Claire",
-            "categories": "musique",
-            "tags": "film,\u00e9t\u00e9,musiques,route",
-            "recuweb_url": "http://fr.recuweb.com/musique/les-pingouins.com/2015/01/musique-en-route-pingouins-&-popcorn",
-            "resource_url": "http://www.google.com/search?q=musique%2Bmusique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://les-pingouins.com/musique_film/musique-en-route/"
-        },
         "larantela.wordpress.com/2014/07/musique-relaxante-dascenseur-obligatoire": {
             "title": "MUSIQUE RELAXANTE, MUSIQUE DASCENSEUR, MUSIQUE OBLIGATOIRE...",
             "snippet": "n25 - Pastel en ligne/juillet 2014 Il nest presque plus possible de vivre en ville sans musique. Chaque magasin, chaque restaurant, chaque caf\u00e9 a sa musique dambiance,...",
             "date": "2014-07-11",
             "author_name": "alem alquier",
             "categories": "musique",
-            "tags": "chaque,restaurant,possible,ligne,musique,relaxante,magasin",
+            "tags": "presque,musique,relaxante",
             "recuweb_url": "http://fr.recuweb.com/musique/larantela.wordpress.com/2014/07/musique-relaxante-dascenseur-obligatoire",
             "resource_url": "http://fr.search.wordpress.com/?q=musique%2Bmusique&f=feed&page=1",
             "source_url": "http://larantela.wordpress.com/2014/07/11/musique-relaxante-musique-dascenseur-musique-obligatoire/"
