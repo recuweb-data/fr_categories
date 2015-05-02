@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baseball",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/baseball/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
+        "infosen.net/2015/04/a-baseball-first-game-without-fans-infosen": {
+            "title": "A Baseball First: Game Without Fans infosen...",
+            "snippet": "For the first time in the history of Major League Baseball, a regularly scheduled game will be played in an empty stadium. The Baltimore Orioles have announced that their American League game with the visiting Chicago...",
+            "date": "2015-04-28",
+            "author_name": "ibooster",
+            "categories": "baseball",
+            "tags": "game,league,that,orioles,major,major_league,major_league_baseball,league_baseball,baseball,fans",
+            "recuweb_url": "http://fr.recuweb.com/baseball/infosen.net/2015/04/a-baseball-first-game-without-fans-infosen",
+            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://infosen.net/?p=331866"
+        },
         "tuxboard.com/2015/04/une-spectatrice-se-prend-balle-de-baseball-en-pleine-t%C3%AAte": {
             "title": "Une spectatrice se prend une balle de baseball en pleine t\u00eate...",
             "snippet": "Une spectatrice qui voulait reprendre sa place lors d'un match de baseball a \u00e9t\u00e9 frapp\u00e9e par une balle en pleine t\u00eate. Lors de la rencontre entre les.",
@@ -50,7 +61,7 @@
             "date": "2015-04-12",
             "author_name": "stjeanwisps",
             "categories": "baseball",
-            "tags": "chaque,chaque-\u00e9quipe,\u00e9quipe,baseball,avoir,coup",
+            "tags": "baseball,avoir,chaque,\u00e9quipe,coup",
             "recuweb_url": "http://fr.recuweb.com/baseball/stjeanwisps.wordpress.com/2015/04/weekend-baseball-stjeanwisps",
             "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://stjeanwisps.wordpress.com/2015/04/13/weekend-baseball/"
@@ -61,21 +72,10 @@
             "date": "2015-04-09",
             "author_name": "Eric Hall",
             "categories": "baseball,sport",
-            "tags": "baseball,sport",
+            "tags": "that,baseball,sport",
             "recuweb_url": "http://fr.recuweb.com/sport/wegotthiscovered.com/2015/04/baseball-15-review-we-got-this-covered",
             "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://wegotthiscovered.com/gaming/rbi-baseball-15-review/"
-        },
-        "alterjournalisme.blogs.courrierinternational.com/2015/04/it-s-baseball-time-la-saison-2015-du-championnat-am%C3%A9ricain": {
-            "title": "It's Baseball Time!!! La saison 2015 du Championnat am\u00e9ricain de...",
-            "snippet": "Pr\u00e9sentation de la saison 2015 de Baseball MLB It's Opening Day! On parle de sport, on parle de baseball aux Etats-Unis. Et AmericaPolyphony...",
-            "date": "2015-04-07",
-            "author_name": "Jean-Fran\u00e7ois Schwab",
-            "categories": "baseball,sport",
-            "tags": "opening,opening_day,am\u00e9ricain,baseball,saison,championnat,mlb,sport,unis",
-            "recuweb_url": "http://fr.recuweb.com/sport/alterjournalisme.blogs.courrierinternational.com/2015/04/it-s-baseball-time-la-saison-2015-du-championnat-am%C3%A9ricain",
-            "resource_url": "http://www.google.com/search?q=baseball%2Bbaseball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://alterjournalisme.blogs.courrierinternational.com/archive/2015/04/07/it-s-baseball-time-la-saison-2015-du-championnat-americain-d-50799.html"
         },
         "jacqueslanciault.com/2015/04/dans-les-coulisses-de-baseball-crm": {
             "title": "Dans les coulisses de Baseball CRM...",
@@ -105,7 +105,7 @@
             "date": "2014-06-24",
             "author_name": "snapbackkepsar8",
             "categories": "baseball",
-            "tags": "league,baseball,mlb,base,ball,am\u00e9rique,ligue",
+            "tags": "league,league_baseball,baseball,major,major_league,major_league_baseball,mlb,base,ball,am\u00e9rique,ligue",
             "recuweb_url": "http://fr.recuweb.com/baseball/snapbackkepsar8.wordpress.com/2014/06/belles-casquettes-snapback-mlb",
             "resource_url": "http://fr.search.wordpress.com/?q=baseball%2Bbaseball&f=feed&page=1",
             "source_url": "http://snapbackkepsar8.wordpress.com/2014/06/24/belles-casquettes-snapback-mlb/"
@@ -116,7 +116,7 @@
             "date": "2014-05-15",
             "author_name": "buverurawidipdaparje",
             "categories": "baseball",
-            "tags": "softball,cricket,ligue,baseball,dirigeant",
+            "tags": "softball,cricket,ligue,joueur,baseball",
             "recuweb_url": "http://fr.recuweb.com/baseball/buverurawidipdaparje.wordpress.com/2014/05/baseball-en-france-club-francais-de-competition-dirigeant",
             "resource_url": "http://fr.search.wordpress.com/?q=baseball%2Bbaseball&f=feed&page=1",
             "source_url": "http://buverurawidipdaparje.wordpress.com/2014/05/15/baseball-en-france-club-francais-de-baseball-competition-de-baseball-en-france-dirigeant-francais-de-baseball-joueur-francais-de-baseball-ligue-francaise-de-baseball-softball-et-cricket-manager/"
