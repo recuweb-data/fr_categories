@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drift",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drift/",
@@ -65,11 +65,23 @@
             "date": "2014-11-04",
             "author_name": "Championnat de France De Drift",
             "categories": "drift",
-            "tags": "round,drift",
+            "tags": "drift",
             "recuweb_url": "http://fr.recuweb.com/drift/youtube.com/2014/11/2014-round-7-l%C3%A9denon-championnat-de-france-drift",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=drift%2Bdrift&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=bhi11qxyEqU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/bhi11qxyEqU/0.jpg"
+        },
+        "youtube.com/2014/10/drift-avec-un-camion-de-location-kiloutou": {
+            "title": "Drift avec un camion de location kiloutou...",
+            "snippet": "Drift avec un camion de location kiloutou Fin septembre 2014, un conducteur au volant d'un camion de location Kiloutou a \u00e9t\u00e9 film\u00e9 en train de faire un drift. Sur un rond point de la zone industrielle de Morangis dans l'Essonne.... From: Maher...",
+            "date": "2014-10-09",
+            "author_name": "Maher Ben",
+            "categories": "drift",
+            "tags": "rond,rond-point,point,drift,conducteur",
+            "recuweb_url": "http://fr.recuweb.com/drift/youtube.com/2014/10/drift-avec-un-camion-de-location-kiloutou",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=drift%2Bdrift&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=sVxOL2HkgBM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sVxOL2HkgBM/0.jpg"
         },
         "youtube.com/2014/09/inedit-nolimits-drift-quad-steve-maire": {
             "title": "INEDIT NOLIMITS DRIFT QUAD STEVE MAIRE...",
@@ -89,7 +101,7 @@
             "date": "2014-09-12",
             "author_name": "Spi0n",
             "categories": "drift,place",
-            "tags": "voiture,drift",
+            "tags": "conducteur,rond,voiture,rond-point,point,drift",
             "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2014/09/drift-au-rond-point-en-bmw-m3-e92",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/drift/0?af=1",
             "source_url": "http://dailymotion.com/video/x25s8cb_drift-au-rond-point-en-bmw-m3-e92_auto",
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=drift%2Bdrift&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=OLlJCy_b9-8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/OLlJCy_b9-8/0.jpg"
-        },
-        "youtube.com/2014/06/french-drift-championship-2014-round-3": {
-            "title": "French Drift Championship 2014 - Round 3...",
-            "snippet": "French Drift Championship 2014 - Round 3 DRIFT Video from French Drift Championship 2014 Round 3 - Croix en Ternois Want more Drift videos? Join us: - Facebook: - Twitter: httpstwi... From: - Powered by Drift Circle Prod Views: 4842 48 ratings Time:...",
-            "date": "2014-06-28",
-            "author_name": "EuropaDrift.com - Powered by Drift Circle Prod",
-            "categories": "drift,facebook,twitter",
-            "tags": "drift,round",
-            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2014/06/french-drift-championship-2014-round-3",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=drift%2Bdrift&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=55I9xLxwkg0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/55I9xLxwkg0/0.jpg"
         }
     }
 }
