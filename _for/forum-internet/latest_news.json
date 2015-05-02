@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "forum-internet",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/forum-internet/",
@@ -11,45 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/forum-internet/forum-internet/blogs.json"
     },
     "items": {
-        "lesmobiles.com/2015/04/windows-10-moins-d-espace-perdu-sur-l-%C3%A9cran-accueil": {
-            "title": "Windows 10: moins d'espace perdu sur l'\u00e9cran d'accueil -...",
-            "snippet": "Windows 10: moins d'espace perdu sur l'\u00e9cran d'a \u00e9t\u00e9 diffus\u00e9e sur le forum polonais Windowsmania et montre un nouvel agencement pour les tuiles dynamiques. Plus proches... Un nouveau navigateur internet, actuellement connu sous le nom de code...",
-            "date": "2015-04-27",
-            "categories": "internet",
+        "telecompaper.com/2015/04/intertelecom-to-provide-3g-internet-at-business-forum-telecompaper-subscription": {
+            "title": "Intertelecom to provide 3G internet at business forum - Telecompaper (subscription)...",
+            "snippet": "Intertelecom to provide 3G internet at business forumTelecompaper (subscription)Ukrainian mobile operator Intertelecom will provide its 3G internet services at the Forum One Ukraine international business forum set to take place in Kiev on 30 April.",
+            "date": "2015-04-29",
+            "categories": "place,internet",
             "tags": "forum,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/lesmobiles.com/2015/04/windows-10-moins-d-espace-perdu-sur-l-%C3%A9cran-accueil",
+            "recuweb_url": "http://fr.recuweb.com/internet/telecompaper.com/2015/04/intertelecom-to-provide-3g-internet-at-business-forum-telecompaper-subscription",
             "resource_url": "http://news.google.fr/?hl=fr&q=forum%2Binternet%2Bforum%2Binternet&output=atom&nord=1",
-            "source_url": "http://lesmobiles.com/actualite/17696-windows-10-moins-d-espace-perdu-sur-l-ecran-d-accueil.html"
+            "source_url": "http://telecompaper.com/news/intertelecom-to-provide-3g-internet-at-business-forum--1079588"
         },
-        "ouest-france.fr/2015/04/le-num%C3%A9rique-au-coeur-du-5e-forum-emploi-ouest-france": {
-            "title": "Le num\u00e9rique au coeur du 5e Forum emploi - Ouest-France...",
-            "snippet": "Ouest-FranceLe num\u00e9rique au coeur du 5e Forum emploiOuest-FranceIl s'agit aussi d'optimiser ses d\u00e9marches avec des conseils pour construire son CV, pr\u00e9parer un entretien d'embauche ou effectuer des d\u00e9marches par Internet. On y trouvera aussi des...",
-            "date": "2015-04-26",
-            "categories": "emploi,internet",
-            "tags": "num\u00e9rique,forum,ouest,france,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/ouest-france.fr/2015/04/le-num%C3%A9rique-au-coeur-du-5e-forum-emploi-ouest-france",
+        "monwindowsphone.com/2015/04/demande-d-information-sur-microsoft-wireless-display-adapter-blog": {
+            "title": "Demande d'information sur Microsoft Wireless Display Adapter - (Blog)...",
+            "snippet": "Demande d'information sur Microsoft Wireless Display (Blog)R\u00e8gles du forum. Avant de poster une annonce ou y r\u00e9pondre, merci de prendre connaissance des r\u00e8gles du forum achats/ventes.... Est ce que je peux \u00eatre connect\u00e9 sur internet avec le...",
+            "date": "2015-04-28",
+            "categories": "connaissance,internet",
+            "tags": "information,forum,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/monwindowsphone.com/2015/04/demande-d-information-sur-microsoft-wireless-display-adapter-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=forum%2Binternet&output=atom&nord=1",
+            "source_url": "http://monwindowsphone.com/demande-d-information-sur-microsoft-wireless-display-adapter-t105234.html"
+        },
+        "prnewswire.com/2015/04/soul-htite-discussed-the-meaning-of-internet-plus-at-boao-pr": {
+            "title": "Soul Htite Discussed the Meaning of Internet Plus at the Boao... - PR Newswire (press release)...",
+            "snippet": "Soul Htite Discussed the Meaning of \"Internet Plus\" at the Boao...PR Newswire (press release)So what is \"Internet Plus\"? What does it actually mean? Soul Htite, founder and CEO of, was recently invited to the Forum where he shared his latest...",
+            "date": "2015-04-28",
+            "categories": "internet",
+            "tags": "internet,forum",
+            "recuweb_url": "http://fr.recuweb.com/internet/prnewswire.com/2015/04/soul-htite-discussed-the-meaning-of-internet-plus-at-boao-pr",
             "resource_url": "http://news.google.fr/?hl=fr&q=forum%2Binternet%2Bforum%2Binternet&output=atom&nord=1",
-            "source_url": "http://ouest-france.fr/le-numerique-au-coeur-du-5e-forum-emploi-3359196"
+            "source_url": "http://prnewswire.com/news-releases/soul-htite-discussed-the-meaning-of-internet-plus-at-the-boao-forum-for-asia-bfa-300073125.html"
         },
-        "teknologi.metrotvnews.com/2015/04/forum-internet-memberi-dampak-posifit-metro-tv-news": {
-            "title": "Forum Internet Memberi Dampak Posifit - Metro TV News...",
-            "snippet": "Metro TV NewsForum Internet Memberi Dampak PosifitMetro TV: Berdasarkan penelitian yang berjudul Computers In Human Behavior, ikut serta dalam forum yang ada di internet memiliki dampak positif pada kepuasan hidup seseorang. Subjek penelitian ini...",
+        "teknologi.metrotvnews.com/2015/04/forum-internet-memberi-dampak-positif-metro-tv-news": {
+            "title": "Forum Internet Memberi Dampak Positif - Metro TV News...",
+            "snippet": "Metro TV NewsForum Internet Memberi Dampak PositifMetro TV: Berdasarkan penelitian yang berjudul Computers In Human Behavior, ikut serta dalam forum yang ada di internet memiliki dampak positif pada kepuasan hidup seseorang. Subjek penelitian ini...",
             "date": "2015-04-22",
             "categories": "internet,forum-internet",
             "tags": "internet,forum",
-            "recuweb_url": "http://fr.recuweb.com/forum-internet/teknologi.metrotvnews.com/2015/04/forum-internet-memberi-dampak-posifit-metro-tv-news",
+            "recuweb_url": "http://fr.recuweb.com/forum-internet/teknologi.metrotvnews.com/2015/04/forum-internet-memberi-dampak-positif-metro-tv-news",
             "resource_url": "http://news.google.fr/?hl=fr&q=forum%2Binternet&output=atom&nord=1",
-            "source_url": "http://teknologi.metrotvnews.com/read/2015/04/22/389986/forum-internet-memberi-dampak-posifit"
+            "source_url": "http://teknologi.metrotvnews.com/read/2015/04/22/389986/forum-internet-memberi-dampak-positif"
         },
-        "lalsace.fr/2015/04/emprunts-en-francs-suisses-des-frontaliers-ne-veulent-plus-payer-dint%C3%A9r%C3%AAts": {
-            "title": "EMPRUNTS EN FRANCS SUISSES Des frontaliers ne veulent plus payer dint\u00e9r\u00eats sur leur cr\u00e9dit...",
-            "snippet": "Dans son \u00e9dition dat\u00e9e du 16 avril, Le Monde signale que sur un forum internet (Libor n\u00e9gatif: quel impact sur nos taux variables) des frontaliers de lAin, de la Haute-Savoie et du Haut-Rhin, clients de BNP Paribas, de la Banque Populaire...",
-            "date": "2015-04-16",
+        "directmatin.fr/2015/04/quand-internet-vole-au-secours-des-ma%C3%AEtres": {
+            "title": "Quand Internet vole au secours des ma\u00eetres -...",
+            "snippet": "Quand Internet vole au secours des ma\u00ee site regorge non seulement de fiches et de vid\u00e9os sur l'\u00e9ducation, l'alimentation, la sant\u00e9 et les races d'animaux mais aussi un forum. Une v\u00e9ritable encyclop\u00e9die compl\u00e9t\u00e9e par des milliers d'articles...",
+            "date": "2015-04-19",
             "categories": "internet",
-            "tags": "\u00e9dition,forum,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/lalsace.fr/2015/04/emprunts-en-francs-suisses-des-frontaliers-ne-veulent-plus-payer-dint%C3%A9r%C3%AAts",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=forum%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://lalsace.fr/actualite/2015/04/17/des-frontaliers-ne-veulent-plus-payer-d-interets-sur-leur-credit"
+            "tags": "site,internet,forum",
+            "recuweb_url": "http://fr.recuweb.com/internet/directmatin.fr/2015/04/quand-internet-vole-au-secours-des-ma%C3%AEtres",
+            "resource_url": "http://news.google.fr/?hl=fr&q=forum%2Binternet&output=atom&nord=1",
+            "source_url": "http://directmatin.fr/animaux/2015-04-19/quand-internet-vole-au-secours-des-maitres-703207"
         },
         "indiatimes.com/2015/04/compelled-by-an-internet-forum-this-odisha-mp-decides-to-fight": {
             "title": "Compelled By An Internet Forum, This Odisha MP Decides To Fight... -...",
