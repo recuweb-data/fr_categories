@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "water-polo",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/water-polo/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/water-polo/water-polo/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/match-waterpolo-jeune-cnm-charenton-vs-brest-24-01-2015": {
-            "title": "Match Waterpolo Jeune - CNM CHARENTON vs BREST - 24/01/2015...",
-            "snippet": "Match Waterpolo Jeune - CNM CHARENTON vs BREST - 24/01/2015 Suivez en direct le match Charenton contre Brest des \u00e9quipes -17 ans. Ce match d'ouverture sera suivie du match de nationale 1 au lien suivant: From: Waterpolo Bretagne Views: 6 0 ratings...",
-            "date": "2015-04-24",
-            "author_name": "Waterpolo Bretagne",
-            "tags": "match,nationale,direct,suivez,contre",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/match-waterpolo-jeune-cnm-charenton-vs-brest-24-01-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=50FmnhuvCSo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/50FmnhuvCSo/0.jpg"
-        },
         "dailymotion.com/2015/04/trailer-women-len-trophy-final-four-2015": {
             "title": "Trailer Women LEN Trophy Final Four 2015...",
             "snippet": "Trailer for the Women LEN Trophy Final Four 2015Author: lentvTags: Women LEN Trophy LEN European Aquatics Season 2014-2015 European Water Polo Womens Water Polo Posted: 07 April 2015Rating:: 0...",
@@ -63,7 +52,7 @@
             "snippet": "Match Water-Polo SR COLMAR contre CHOISY-LE-ROI - Nationale 2 Match de Water-Polo Nationale 2 opposant SR COLMAR \u00e0 CHOISY-LE-ROI. Lieu: Colmar Date: 21/03/2015 Score final: SR COLMAR 10 - 13 CHOISY-LE-ROI 1\u00e8re p\u00e9riode: 0:00 2e p\u00e9riode: 15:08...",
             "date": "2015-03-24",
             "author_name": "SRColmar Natation",
-            "tags": "polo,match,water,contre,nationale,final",
+            "tags": "polo,match,water,final",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/03/match-water-polo-sr-colmar-contre-choisy-le-roi-nationale-2",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=water%2Bpolo%2Bwater%2Bpolo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=_7ihJCV7gVo&feature=youtube_gdata",
@@ -75,7 +64,7 @@
             "date": "2015-03-09",
             "author_name": "lentv",
             "categories": "water-polo",
-            "tags": "len,len_european,len_european_aquatics,european,european_aquatics,aquatics,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,preliminary_round_day,round_day,lentvtags",
+            "tags": "len,len_european,len_european_aquatics,european,european_aquatics,aquatics,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,preliminary_round_day,round_day,srb,lentvtags",
             "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2015/03/champions-league-preliminary-round-day-6-partizan-belgrade-srb-vs-spandau",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2itcwq_champions-league-preliminary-round-day-6-partizan-belgrade-srb-vs-spandau-berlin-ger_sport",
@@ -87,7 +76,7 @@
             "date": "2015-02-05",
             "author_name": "LPWP",
             "categories": "place",
-            "tags": "match,direct,water,polo,suivez,rendez",
+            "tags": "match,water,polo,rendez",
             "recuweb_url": "http://fr.recuweb.com/place/dailymotion.com/2015/02/water-polo-teaser-coupe-de-la-ligue-masculine",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2gh69d_water-polo-teaser-coupe-de-la-ligue-masculine_sport",
@@ -111,7 +100,7 @@
             "date": "2014-12-20",
             "author_name": "lentv",
             "categories": "water-polo",
-            "tags": "european,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,len,len_european,len_european_aquatics,european_aquatics,aquatics,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,pro,preliminary_round_day,round_day,lentvtags",
+            "tags": "european,european_water,european_water_polo,water,water_polo,water_polo_mens,polo,polo_mens,polo_mens_water,mens,mens_water,mens_water_polo,len,len_european,len_european_aquatics,european_aquatics,aquatics,len_champions,len_champions_league,champions,champions_league,champions_league_preliminary,league,league_preliminary,league_preliminary_round,preliminary,preliminary_round,preliminary_round_season,round,round_season,season,played,pro,pro_recco,recco,preliminary_round_day,round_day,ita,lentvtags",
             "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2014/12/champions-league-preliminary-round-day-2-zf-eger-hun-vs-pro",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cwx9z_champions-league-preliminary-round-day-2-zf-eger-hun-vs-pro-recco-ita_sport",
@@ -128,6 +117,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ckwdz_women-s-len-super-cup-2014-olympiacos-sfp-piraeus-gre-vs-cn-sabadell-esp_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ckwdz_women-s-len-super-cup-2014-olympiacos-sfp-piraeus-gre-vs-cn-sabadell-esp_sport"
+        },
+        "dailymotion.com/2014/12/champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs": {
+            "title": "Champions League Preliminary Round Day 1 - VK Radnicki Kragujevac (SRB) vs Pro Recco (ITA)...",
+            "snippet": "Champions League Preliminary Round Day 1 played on 30 November in Kragujevac (SRB)Author: lentvTags: LEN Champions League LEN European Water Polo LEN Water Polo European Aquatics Preliminary Round season 2014-2015 Posted: 12 December 2014Rating:: 0...",
+            "date": "2014-12-12",
+            "author_name": "lentv",
+            "categories": "water-polo",
+            "tags": "len,len_champions,len_champions_league,champions,champions_league,league,len_european,european,european_water,european_water_polo,water,water_polo,polo,european_aquatics,aquatics,preliminary,preliminary_round,round,played,pro,pro_recco,recco,champions_league_preliminary,league_preliminary,league_preliminary_round,preliminary_round_day,round_day,srb,ita,lentvtags,season",
+            "recuweb_url": "http://fr.recuweb.com/water-polo/dailymotion.com/2014/12/champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/water+polo+water+polo/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2cb4bh_champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs-pro-recco-ita_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cb4bh_champions-league-preliminary-round-day-1-vk-radnicki-kragujevac-srb-vs-pro-recco-ita_sport"
         }
     }
 }
