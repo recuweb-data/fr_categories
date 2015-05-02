@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "iphone",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/iphone/",
@@ -11,105 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/iphone/iphone/blogs.json"
     },
     "items": {
+        "actu.meilleurmobile.com/2015/04/le-marbre-habille-l-iphone-6-actu-meilleurmobile": {
+            "title": "Le marbre habille l'iPhone 6 - Actu MeilleurMobile...",
+            "snippet": "Actu MeilleurMobileLe marbre habille l'iPhone 6Actu MeilleurMobileLes utilisateurs d'iPhone ont beaucoup de choix en mati\u00e8re de coque, pour prot\u00e9ger leur smartphone. Sauf que le plastique est d\u00e9sormais bien trop utilis\u00e9. Le cuir et l'or se sont...",
+            "date": "2015-04-29",
+            "categories": "iphone",
+            "tags": "smartphone,beaucoup,coque,iphone",
+            "recuweb_url": "http://fr.recuweb.com/iphone/actu.meilleurmobile.com/2015/04/le-marbre-habille-l-iphone-6-actu-meilleurmobile",
+            "resource_url": "http://news.google.fr/?hl=fr&q=iphone&output=atom&nord=1",
+            "source_url": "http://actu.meilleurmobile.com/marbre-habille-iphone-6_85490"
+        },
+        "iphoneaddict.fr/2015/04/les-iphone-6-se-vendent-tr%C3%A8s-bien-mais-beaucoup": {
+            "title": "Les iPhone 6 se vendent tr\u00e8s bien, mais beaucoup ont encore un ancien mod\u00e8le...",
+            "snippet": "Les ventes diPhone sont de plus en plus importantes au fil du trimestre. Au cours des deux derniers trimestres combin\u00e9s, Apple a vendu 135,64 millions diPhone (tout mod\u00e8le confondu). Cest beaucoup, la plupart sont des iPhone 6. N\u00e9anmoins, de...",
+            "date": "2015-04-29",
+            "categories": "iphone",
+            "tags": "mod\u00e8le,beaucoup,iphone,apple",
+            "recuweb_url": "http://fr.recuweb.com/iphone/iphoneaddict.fr/2015/04/les-iphone-6-se-vendent-tr%C3%A8s-bien-mais-beaucoup",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=iphone&format=RSS&cc=fr",
+            "source_url": "http://iphoneaddict.fr/post/news-150421-iphone-6-vendent-bien-beaucoup-ancien-modele"
+        },
+        "mensquare.com/2015/04/comparatif-photo-entre-le-honor-4x-et-l-iphone-6": {
+            "title": "Comparatif photo entre le Honor 4X et l'iPhone 6 Plus - Mensquare...",
+            "snippet": "MensquareComparatif photo entre le Honor 4X et l'iPhone 6 PlusMensquareDans quelle mesure un haut de gamme fait-il de meilleures photos? D\u00e9couvrez notre comparatif photo entre l'iPhone 6 Plus et le Honor 4X. Le Honor 4X est un t\u00e9l\u00e9phone d'entr\u00e9e...",
+            "date": "2015-04-28",
+            "categories": "iphone",
+            "tags": "photos,photo,comparatif,iphone",
+            "recuweb_url": "http://fr.recuweb.com/iphone/mensquare.com/2015/04/comparatif-photo-entre-le-honor-4x-et-l-iphone-6",
+            "resource_url": "http://news.google.fr/?hl=fr&q=iphone&output=atom&nord=1",
+            "source_url": "http://mensquare.com/high-tech/smartphone/1011880-huawei-honor-4x-iphone-6-plus-comparatif-photos"
+        },
         "zone-numerique.com/2015/04/ecran-int%C3%A9gral-2-go-de-ram-chargeur-par-induction": {
             "title": "Ecran int\u00e9gral, 2 Go de RAM, chargeur par induction, que nous... - Zone Num\u00e9rique...",
             "snippet": "Zone Num\u00e9riqueEcran int\u00e9gral, 2 Go de RAM, chargeur par induction, que nous...Zone Num\u00e9riqueLe concept d'iPhone 7 propos\u00e9 par Martin Hajek disposerait d'un \u00e9cran couvrant l'int\u00e9gralit\u00e9 du smartphone et du contenu pourrait \u00eatre affich\u00e9 sur...",
             "date": "2015-04-27",
             "categories": "iphone",
-            "tags": "smartphone,contenu,\u00eatre,propos\u00e9,\u00e9cran,iphone",
+            "tags": "smartphone,contenu,\u00e9cran,iphone",
             "recuweb_url": "http://fr.recuweb.com/iphone/zone-numerique.com/2015/04/ecran-int%C3%A9gral-2-go-de-ram-chargeur-par-induction",
             "resource_url": "http://news.google.fr/?hl=fr&q=iphone&output=atom&nord=1",
             "source_url": "http://zone-numerique.com/ecran-integral-2-go-de-ram-chargeur-par-induction-que-nous-reserve-liphone-7.html"
-        },
-        "generation-nt.com/2015/04/iphone-6-vers-un-nouveau-record-de-60-millions-d-unit%C3%A9s": {
-            "title": "iPhone 6: vers un nouveau record de 60 millions d'unit\u00e9s \u00e9coul\u00e9es... - G\u00e9n\u00e9ration NT...",
-            "snippet": "G\u00e9n\u00e9ration NTiPhone 6: vers un nouveau record de 60 millions d'unit\u00e9s \u00e9coul\u00e9es...G\u00e9n\u00e9ration NTLes iPhone 6 et iPhone 6 Plus, lanc\u00e9s fin septembre 2014, ont ainsi pleinement jou\u00e9 leur r\u00f4le de relais dans l'offre de smartphones d'Apple,...",
-            "date": "2015-04-27",
-            "categories": "iphone",
-            "tags": "smartphones,record,iphone,apple",
-            "recuweb_url": "http://fr.recuweb.com/iphone/generation-nt.com/2015/04/iphone-6-vers-un-nouveau-record-de-60-millions-d-unit%C3%A9s",
-            "resource_url": "http://news.google.fr/?hl=fr&q=iphone&output=atom&nord=1",
-            "source_url": "http://generation-nt.com/apple-iphone-6-smartphone-volume-trimestre-actualite-1914490.html"
-        },
-        "actu.meilleurmobile.com/2015/04/iphone-6c-un-changement-de-taille": {
-            "title": "iPhone 6c: un changement de taille!",
-            "snippet": "Il y a quelques semaines, nous apprenions quApple pr\u00e9parerait peut-\u00eatre un iPhone 6C, une version petit budget de son smartphone porte-\u00e9tendard. Mais pour linstant, il ne sagit que dune rumeur lanc\u00e9e par DigiTimes. Les \u00e9quipes de ce...",
-            "date": "2015-04-27",
-            "categories": "iphone",
-            "tags": "version,smartphone,\u00eatre,peut,taille,iphone",
-            "recuweb_url": "http://fr.recuweb.com/iphone/actu.meilleurmobile.com/2015/04/iphone-6c-un-changement-de-taille",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=iphone&format=RSS&cc=fr",
-            "source_url": "http://actu.meilleurmobile.com/iphone-6c-un-changement-de-taille_85137"
-        },
-        "tomsguide.fr/2015/04/iphone-le-top-des-applications-gratuites": {
-            "title": "iPhone: le top des applications gratuites...",
-            "snippet": "LApp Store propose toujours plus dapplications gratuites de plus ou moins bonne qualit\u00e9, et il peut \u00eatre difficile de trouver les meilleures perles devant limportance du choix propos\u00e9. Voici donc une s\u00e9lection des meilleures applications...",
-            "date": "2015-04-27",
-            "categories": "iphone",
-            "tags": "applications,peut,\u00eatre,propos\u00e9,iphone,voici",
-            "recuweb_url": "http://fr.recuweb.com/iphone/tomsguide.fr/2015/04/iphone-le-top-des-applications-gratuites",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=iphone&format=RSS&cc=fr",
-            "source_url": "http://tomsguide.fr/actualite/iphone-applications-gratuites,47190.html"
         },
         "smartphonelowcost.fr/2015/04/bon-plan-coque-iphone-6-pas-cher-sur-internet": {
             "title": "Bon plan: Coque iphone 6 pas cher sur internet...",
             "snippet": "Enti\u00e8rement en silicone et transparente, cette coque est compatible avec le mod\u00e8le 47 de liPhone (iPhone 6 et non iPhone 6). La taille de ce nouvel iPhone est plus grande que les mod\u00e8les pr\u00e9c\u00e9dents. En effet Apple a souhait\u00e9 saligner sur...",
             "date": "2015-04-23",
             "categories": "internet,iphone",
-            "tags": "mod\u00e8les,taille,nouvel,coque,iphone,liphone,effet,apple",
+            "tags": "mod\u00e8le,nouvel,coque,iphone,apple",
             "recuweb_url": "http://fr.recuweb.com/iphone/smartphonelowcost.fr/2015/04/bon-plan-coque-iphone-6-pas-cher-sur-internet",
             "resource_url": "http://www.bing.com/news/search?first=1&q=iphone%2Biphone&format=RSS&cc=fr",
             "source_url": "http://smartphonelowcost.fr/actu-geek/24042015-890-bon-plan-coque-iphone-6-pas-cher-sur-internet.html"
-        },
-        "fr.news.yahoo.com/2015/04/video-iphone-6s-6c-plus-ipad-pro-une-nouvelle-fuite-confirmerait": {
-            "title": "VIDEO - iPhone 6s - iPhone 6c - iPhone 6s Plus - iPad Pro: une nouvelle fuite confirmerait la...",
-            "snippet": "C'est le site allemand de t\u00e9l\u00e9phonie qui a \u00e9veill\u00e9 les soup\u00e7ons des confr\u00e8res de NowhereElse. En effet, quatre nouvelles entr\u00e9es ont fait leur apparition dans la liste des produits Apple distribu\u00e9s par le site.",
-            "date": "2015-04-09",
-            "categories": "ipad,iphone",
-            "tags": "iphone,effet,apple",
-            "recuweb_url": "http://fr.recuweb.com/iphone/fr.news.yahoo.com/2015/04/video-iphone-6s-6c-plus-ipad-pro-une-nouvelle-fuite-confirmerait",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=iphone",
-            "source_url": "http://fr.news.yahoo.com/video-iphone-6s-iphone-6c-iphone-6s-ipad-111002671.html"
-        },
-        "fr.news.yahoo.com/2015/04/galaxy-s6-bendgate-il-se-plie-mais-samsung-r%C3%A9pond": {
-            "title": "Galaxy S6 Bendgate: il se plie... mais Samsung r\u00e9pond!",
-            "snippet": "L'iPhone 6 plus r\u00e9sistant que le Galaxy S6? C'est ce que montre un premier test. Samsung n'y trouve rien d'alarmant et prouve la robustesse de son appareil dans une nouvelle vid\u00e9o.",
-            "date": "2015-04-08",
-            "categories": "iphone",
-            "tags": "appareil,premier,test,galaxy,bendgate,samsung,iphone",
-            "recuweb_url": "http://fr.recuweb.com/iphone/fr.news.yahoo.com/2015/04/galaxy-s6-bendgate-il-se-plie-mais-samsung-r%C3%A9pond",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=iphone",
-            "source_url": "http://fr.news.yahoo.com/galaxy-s6-bendgate-plie-samsung-r\u00e9pond-145919595.html"
-        },
-        "fr.news.yahoo.com/2015/04/iphone-6s-prix-caract%C3%A9ristiques-et-date-de-sortie": {
-            "title": "iPhone 6s: Prix, caract\u00e9ristiques et date de sortie...",
-            "snippet": "Pour tout savoir sur le prix, les caract\u00e9ristiques et la date de sortie du prochain smartphone de la firme de Cupertino, l'iPhone 6s.",
-            "date": "2015-04-07",
-            "categories": "iphone",
-            "tags": "smartphone,iphone",
-            "recuweb_url": "http://fr.recuweb.com/iphone/fr.news.yahoo.com/2015/04/iphone-6s-prix-caract%C3%A9ristiques-et-date-de-sortie",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=iphone",
-            "source_url": "http://fr.news.yahoo.com/iphone-6s-prix-caract\u00e9ristiques-date-sortie-145042035.html"
-        },
-        "fr.news.yahoo.com/2015/03/video-iphone-6c-les-images-de-la-coque-arri%C3%A8re-auraient-fuit%C3%A9": {
-            "title": "VIDEO - iPhone 6c: les images de la coque arri\u00e8re auraient fuit\u00e9...",
-            "snippet": "De nouvelles photos fournies par Future Supplier pr\u00e9sentent la potentielle coque arri\u00e8re du nouvel Iphone 6c. Rumeurs ou non, le design semble proche de ce qu'avait propos\u00e9 Apple pour le 5c et \u00e9veille la curiosit\u00e9.",
-            "date": "2015-03-31",
-            "categories": "iphone",
-            "tags": "propos\u00e9,design,coque,arri\u00e8re,nouvel,photos,iphone,apple",
-            "recuweb_url": "http://fr.recuweb.com/iphone/fr.news.yahoo.com/2015/03/video-iphone-6c-les-images-de-la-coque-arri%C3%A8re-auraient-fuit%C3%A9",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=iphone",
-            "source_url": "http://fr.news.yahoo.com/video-iphone-6c-images-coque-arri\u00e8re-auraient-fuit\u00e9-135402924.html"
-        },
-        "fr.news.yahoo.com/2015/03/iphone-6c-la-fa%C3%A7ade-arri%C3%A8re-jette-de-lhuile-sur-le-feu": {
-            "title": "iPhone 6C, la fa\u00e7ade arri\u00e8re jette de lhuile sur le feu...",
-            "snippet": "LiPhone 5C \u00e9tait un peu diff\u00e9rent des r\u00e9cents smartphones dApple, car le m\u00e9tal et le verre ne faisaient pas partie du design comme presque tous les autres mod\u00e8les. Beaucoup disent que c\u00e9tait une exp\u00e9rience rat\u00e9e dApple, cest pourquoi on na...",
-            "date": "2015-03-31",
-            "categories": "iphone",
-            "tags": "design,mod\u00e8les,smartphones,arri\u00e8re,feu,iphone,liphone",
-            "recuweb_url": "http://fr.recuweb.com/iphone/fr.news.yahoo.com/2015/03/iphone-6c-la-fa%C3%A7ade-arri%C3%A8re-jette-de-lhuile-sur-le-feu",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=iphone",
-            "source_url": "http://fr.news.yahoo.com/iphone-6c-fa\u00e7ade-arri\u00e8re-jette-l-huile-feu-153640030.html"
         }
     }
 }
