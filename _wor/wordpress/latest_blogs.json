@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wordpress/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
+        "actualitte.com/2015/04/faille-de-s%C3%A9curit%C3%A9-critique-sur-wordpress-des-commentaires-traitres": {
+            "title": "Faille de s\u00e9curit\u00e9 critique sur Wordpress: des commentaires traitres...",
+            "snippet": "Petit vent de panique chez les utilisateurs de l'interface de blog, Wordpress et qui touche par cons\u00e9quent non seulement des sites d'informations, mais \u00e9galement des sites officiels d'\u00e9diteurs, autant que outils de...",
+            "date": "2015-04-28",
+            "author_name": "vds@actualitte.com (De Sepausy Victor)",
+            "categories": "wordpress",
+            "tags": "touche,critique,faille,wordpress,sites",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/actualitte.com/2015/04/faille-de-s%C3%A9curit%C3%A9-critique-sur-wordpress-des-commentaires-traitres",
+            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://actualitte.com/acteurs-numeriques/faille-de-securite-critique-sur-wordpress-des-commentaires-traitres-56518.htm"
+        },
         "wpformation.com/2015/04/optimiser-images-wordpress-compresser-et-all%C3%A9ger-wp-formation": {
             "title": "Optimiser images WordPress: Compresser et all\u00e9ger - WP Formation...",
             "snippet": "Aujourd'hui 62% du trafic Web mondial est compos\u00e9 d'images! Nos sites WordPress ne font pas exception, il faut cependant les optimiser pour les all\u00e9ger.",
             "date": "2015-04-27",
             "author_name": "WPFormation",
             "categories": "wordpress",
-            "tags": "optimiser,wordpress,formation,aujourd,hui,web,sites",
+            "tags": "optimiser,wordpress,formation,aujourd,hui,sites",
             "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/optimiser-images-wordpress-compresser-et-all%C3%A9ger-wp-formation",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://wpformation.com/optimiser-images-wordpress/"
@@ -28,32 +39,10 @@
             "date": "2015-04-24",
             "author_name": "WPFormation",
             "categories": "wordpress",
-            "tags": "version,wordpress,formation",
+            "tags": "wordpress,formation",
             "recuweb_url": "http://fr.recuweb.com/wordpress/wpformation.com/2015/04/bienvenue-dans-wordpress-4-2-wp-formation",
             "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://wpformation.com/bienvenue-dans-wordpress-4-2/"
-        },
-        "seomix.fr/2015/04/ajax-et-wordpress-le-guide-seomix": {
-            "title": "Ajax et WordPress: le guide - SeoMix...",
-            "snippet": "Le guide complet et d\u00e9taill\u00e9 pour cr\u00e9er et mettre en place de l'Ajax sur n'importe quel th\u00e8me ou extension WordPress. Un must-read!",
-            "date": "2015-04-23",
-            "author_name": "Willy Bahuaud",
-            "categories": "place,wordpress",
-            "tags": "mettre,wordpress,cr\u00e9er,read",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/seomix.fr/2015/04/ajax-et-wordpress-le-guide-seomix",
-            "resource_url": "http://www.google.com/search?q=wordpress%2Bwordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://seomix.fr/ajax-wordpress/"
-        },
-        "journaldugeek.com/2015/04/le-fbi-met-en-garde-contre-les-vuln%C3%A9rabilit%C3%A9s-sur-wordpress": {
-            "title": "Le FBI met en garde contre les vuln\u00e9rabilit\u00e9s sur Wordpress...",
-            "snippet": "Les attaques contre les sites web se poursuivent et se multiplient. Le FBI met en garde contre les vuln\u00e9rabilit\u00e9s de la plateforme Wordpress permettant des defacing ais\u00e9s.",
-            "date": "2015-04-09",
-            "author_name": "Elodie",
-            "categories": "wordpress",
-            "tags": "met,met-en-garde,garde,garde-contre,contre,plateforme,attaques,sites,web,fbi,wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/journaldugeek.com/2015/04/le-fbi-met-en-garde-contre-les-vuln%C3%A9rabilit%C3%A9s-sur-wordpress",
-            "resource_url": "http://www.google.com/search?q=wordpress&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldugeek.com/2015/04/09/fbi-vulnerabilite-wordpress/"
         },
         "centreformationwordpress.wordpress.com/2014/11/formation-cr%C3%A9ation-site-internet": {
             "title": "Formation Cr\u00e9ation Site Internet...",
@@ -61,7 +50,7 @@
             "date": "2014-11-05",
             "author_name": "daformation",
             "categories": "internet,wordpress",
-            "tags": "professionnel,formation,site,internet,cr\u00e9er,wordpress",
+            "tags": "professionnel,cr\u00e9er,formation,site,internet,wordpress",
             "recuweb_url": "http://fr.recuweb.com/wordpress/centreformationwordpress.wordpress.com/2014/11/formation-cr%C3%A9ation-site-internet",
             "resource_url": "http://fr.search.wordpress.com/?q=wordpress%2Bwordpress&f=feed&page=1",
             "source_url": "http://centreformationwordpress.wordpress.com/formation-wordpress/formation-creation-site-internet/"
