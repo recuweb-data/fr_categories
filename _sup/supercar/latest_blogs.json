@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "supercar",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/supercar/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/supercar/supercar/blogs.json"
     },
     "items": {
-        "ccfa.fr/2015/04/peugeot-annonce-l-arriv%C3%A9e-prochaine-d-un-concept-in%C3%A9dit-de-supercar": {
-            "title": "Peugeot annonce l'arriv\u00e9e prochaine d'un concept in\u00e9dit de supercar...",
-            "snippet": "Alors qu'il vient de d\u00e9voiler une 308 R HYbrid forte de 500 ch et 730 Nm de couple au Salon de Shangha\u00ef, Peugeot persiste et signe dans le domaine de la sportivit\u00e9 en annon\u00e7ant l'arriv\u00e9e prochaine d'une nouvelle supercar.",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
+        "news.autoplus.fr/2015/04/supercar-peugeot-une-photo-teaser-de-larriere": {
+            "title": "SUPERCAR PEUGEOT: UNE PHOTO TEASER DE LARRIERE...",
+            "snippet": "Peugeot continue de jouer avec nos nerfs et nous r\u00e9v\u00e8le une nouvelle image de celle qu'il appelle sa \"supercar\".",
+            "date": "2015-04-29",
+            "author_name": "Mael Pilven",
             "categories": "supercar",
-            "tags": "forte,in\u00e9dit,arriv\u00e9e,arriv\u00e9e-prochaine,prochaine,annonce,peugeot,concept,supercar,hybrid,salon",
-            "recuweb_url": "http://fr.recuweb.com/supercar/ccfa.fr/2015/04/peugeot-annonce-l-arriv%C3%A9e-prochaine-d-un-concept-in%C3%A9dit-de-supercar",
+            "tags": "supercar,teaser,peugeot",
+            "recuweb_url": "http://fr.recuweb.com/supercar/news.autoplus.fr/2015/04/supercar-peugeot-une-photo-teaser-de-larriere",
+            "resource_url": "http://www.google.com/search?q=supercar%2Bsupercar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://news.autoplus.fr/news/1493323/Supercar-Teaser-Gran-Turismo-6-Peugeot-Vid\u00e9o"
+        },
+        "endurance-info.com/2015/04/peugeot-va-pr%C3%A9senter-un-mix-de-gt-supercar-et-lmp-endurance": {
+            "title": "Peugeot va pr\u00e9senter un mix de GT, Supercar et LMP Endurance...",
+            "snippet": "Pourtant, la marque au lion va pr\u00e9senter sous peu un concept qui se veut \u00eatre un mix de GT, Supercar et Prototype. De quoi faire quelque chose d'all\u00e9chant m\u00eame si ce concept ne pourrait \u00eatre que virtuel et plus pr\u00e9cis\u00e9ment...",
+            "date": "2015-04-23",
+            "author_name": "lm@endurance-info.com",
+            "categories": "supercar",
+            "tags": "pourrait,m\u00eame,quelque,marque,peugeot,supercar,concept",
+            "recuweb_url": "http://fr.recuweb.com/supercar/endurance-info.com/2015/04/peugeot-va-pr%C3%A9senter-un-mix-de-gt-supercar-et-lmp-endurance",
             "resource_url": "http://www.google.com/search?q=supercar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ccfa.fr/Peugeot-annonce-l-arrivee"
+            "source_url": "http://endurance-info.com/fr/peugeot-va-presenter-un-mix-de-gt-supercar-et-lmp/"
+        },
+        "automobile-propre.com/2015/04/toroidion-1mw-une-supercar-%C3%A9lectrique-de-1360-chevaux": {
+            "title": "Toroidion 1MW: une supercar \u00e9lectrique de 1360 chevaux!",
+            "snippet": "Au salon Top Marques, le constructeur finlandas Toroidion vient de r\u00e9v\u00e9ler la 1MW, sa premi\u00e8re supercar \u00e9lectrique. Puissance annonc\u00e9e: chevaux.",
+            "date": "2015-04-22",
+            "author_name": "Micha\u00ebl TORREGROSSA",
+            "categories": "supercar",
+            "tags": "premi\u00e8re,constructeur,top,top_marques,marques,\u00e9lectrique,toroidion,supercar,chevaux,salon,puissance",
+            "recuweb_url": "http://fr.recuweb.com/supercar/automobile-propre.com/2015/04/toroidion-1mw-une-supercar-%C3%A9lectrique-de-1360-chevaux",
+            "resource_url": "http://www.google.com/search?q=supercar%2Bsupercar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://automobile-propre.com/breves/toroidion-1mw-supercar-electrique-1360-chevaux/"
         },
         "news.autoplus.fr/2015/04/peugeot-annonce-un-concept-de-supercar-en-video": {
             "title": "PEUGEOT ANNONCE UN CONCEPT DE SUPERCAR EN VIDEO...",
@@ -28,21 +50,10 @@
             "date": "2015-04-21",
             "author_name": "Mathieu Demeule",
             "categories": "supercar",
-            "tags": "in\u00e9dit,arriv\u00e9e,arriv\u00e9e-prochaine,prochaine,teaser,peugeot,annonce,concept,supercar",
+            "tags": "teaser,peugeot,annonce,concept,supercar",
             "recuweb_url": "http://fr.recuweb.com/supercar/news.autoplus.fr/2015/04/peugeot-annonce-un-concept-de-supercar-en-video",
             "resource_url": "http://www.google.com/search?q=supercar%2Bsupercar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://news.autoplus.fr/news/1493117/Vid\u00e9o-Supercar-GT-Peugeot-Concept-Car"
-        },
-        "endurance-info.com/2015/04/supercar-race-series-fuji-bmw-et-ferrari-se-partagent-les-victoires": {
-            "title": "Supercar Race Series, Fuji: BMW et Ferrari se partagent les victoires...",
-            "snippet": "La Supercar Race Series a d\u00e9but\u00e9 sa saison 2015 sur le circuit de Fuji, avec deux courses au programme du week-end. Alors que les organisateurs de la S\u00e9rie esp\u00e8rent avoir une grille de 25 GT au cours de la saison,...",
-            "date": "2015-04-20",
-            "author_name": "claudeenduranceinfocom",
-            "categories": "supercar",
-            "tags": "deux,week,supercar,race,bmw,ferrari,end",
-            "recuweb_url": "http://fr.recuweb.com/supercar/endurance-info.com/2015/04/supercar-race-series-fuji-bmw-et-ferrari-se-partagent-les-victoires",
-            "resource_url": "http://www.google.com/search?q=supercar%2Bsupercar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://endurance-info.com/fr/supercar-race-series-fuji-bmw-et-ferrari-se-partagent-les-victoires/"
         },
         "videos.tf1.fr/2015/03/vid%C3%A9o-automoto-essai-lykan-hypersport-la-supercar-du-golfe": {
             "title": "Vid\u00e9o Automoto - Essai: Lykan Hypersport, la supercar du Golfe...",
@@ -50,7 +61,7 @@
             "date": "2015-03-22",
             "author_name": "inconnu",
             "categories": "supercar",
-            "tags": "premi\u00e8re,voiture,essai,supercar,mytf,furious",
+            "tags": "premi\u00e8re,voiture,prochain,essai,supercar",
             "recuweb_url": "http://fr.recuweb.com/supercar/videos.tf1.fr/2015/03/vid%C3%A9o-automoto-essai-lykan-hypersport-la-supercar-du-golfe",
             "resource_url": "http://www.google.com/search?q=supercar%2Bsupercar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://videos.tf1.fr/auto-moto/essai-lykan-hypersport-la-supercar-du-golfe-8582751.html"
@@ -61,7 +72,7 @@
             "date": "2015-01-17",
             "author_name": "maitrisepuissance",
             "categories": "supercar",
-            "tags": "ferrari,hui,race,supercars,aujourd",
+            "tags": "ferrari,hui,supercars,aujourd",
             "recuweb_url": "http://fr.recuweb.com/supercar/sansmaitriselapuissancenestrien.wordpress.com/2015/01/video-drag-race-entre-une-veyron-et-laferrari",
             "resource_url": "http://fr.search.wordpress.com/?q=supercar%2Bsupercar&f=feed&page=1",
             "source_url": "http://sansmaitriselapuissancenestrien.wordpress.com/2015/01/17/video-drag-race-entre-une-veyron-et-une-laferrari/"
@@ -83,7 +94,7 @@
             "date": "2014-03-02",
             "author_name": "Adrien",
             "categories": "supercar",
-            "tags": "holden,jamie,jamie_whincup,whincup,hui,end,week,supercars,aujourd",
+            "tags": "holden,jamie,jamie_whincup,whincup,hui,supercars,aujourd",
             "recuweb_url": "http://fr.recuweb.com/supercar/watchpaddock.wordpress.com/2014/03/archive-gros-carton-pour-jason-bright",
             "resource_url": "http://fr.search.wordpress.com/?q=supercar%2Bsupercar&f=feed&page=1",
             "source_url": "http://watchpaddock.wordpress.com/2014/03/02/stopgo-gros-carton-pour-jason-bright/"
@@ -94,7 +105,7 @@
             "date": "2014-02-14",
             "author_name": "Voitures experts",
             "categories": "supercar",
-            "tags": "constructeur,concept,salon,o\u00f9,supercar,\u00e9lectrique,pr\u00e9sentation",
+            "tags": "\u00e9lectrique,constructeur,salon,concept,d\u00e9voil\u00e9,o\u00f9,supercar",
             "recuweb_url": "http://fr.recuweb.com/supercar/dieucanichenaincaillou.wordpress.com/2014/02/rimac-concept-one",
             "resource_url": "http://fr.search.wordpress.com/?q=supercar%2Bsupercar&f=feed&page=1",
             "source_url": "http://dieucanichenaincaillou.wordpress.com/2014/02/14/rimac-concept-one/"
