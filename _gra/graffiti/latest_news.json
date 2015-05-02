@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "graffiti",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/graffiti/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/blogs.json"
     },
     "items": {
-        "lapresse.ca/2015/04/l-%C3%A9t%C3%A9-vitamin%C3%A9-de-lili-graffiti": {
-            "title": "L'\u00e9t\u00e9 vitamin\u00e9 de Lili graffiti...",
-            "snippet": "Qu'ont en commun les ananas, la ville de Montr\u00e9al et une chouette avec des lunettes? Ils se retrouvent tous les trois au coeur de la collection printemps-\u00e9t\u00e9 de Marie-Laure Plano, qui offre ses cr\u00e9ations sous le nom de Lili graffiti. Le jaune de...",
-            "date": "2015-04-27",
-            "categories": "collection,graffiti",
-            "tags": "\u00e9t\u00e9,printemps,graffiti,montr\u00e9al",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/lapresse.ca/2015/04/l-%C3%A9t%C3%A9-vitamin%C3%A9-de-lili-graffiti",
+        "enbeauce.com/2015/04/les-fermi%C3%A8res-de-saint-victor-d%C3%A9voilent-leur-tricot-graffiti-soulignant-100": {
+            "title": "Les Fermi\u00e8res de Saint-Victor d\u00e9voilent leur tricot graffiti soulignant les 100 ans du CFQ...",
+            "snippet": "Le 26 avril dernier, le Cercle des Fermi\u00e8res de Saint-Victor a proc\u00e9d\u00e9 au d\u00e9voilement de son tricot graffiti r\u00e9alis\u00e9 dans le cadre des c\u00e9l\u00e9brations du centenaire du Cercle de Fermi\u00e8res du Qu\u00e9bec(CFQ). Le tricot a \u00e9t\u00e9 install\u00e9 au 287...",
+            "date": "2015-04-29",
+            "categories": "graffiti",
+            "tags": "\u00e9t\u00e9,fermi\u00e8res,graffiti,cfq,qu\u00e9bec",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/enbeauce.com/2015/04/les-fermi%C3%A8res-de-saint-victor-d%C3%A9voilent-leur-tricot-graffiti-soulignant-100",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://lapresse.ca/maison/decoration/design/201504/24/01-4864198-lete-vitamine-de-lili-graffiti.php"
+            "source_url": "http://enbeauce.com/actualites/societe/218849/les-fermieres-de-saint-victor-devoilent-leur-tricot-graffiti-soulignant-les-100-ans-du-cfq"
+        },
+        "nordinfo.com/2015/04/des-tricots-graffitis-recouvrent-dor%C3%A9navant-les-bancs-de-la-place": {
+            "title": "Des tricots-graffitis recouvrent dor\u00e9navant les bancs de la Place du Village...",
+            "snippet": "Afin de souligner le 100e anniversaire des Cercles des Fermi\u00e8res du Qu\u00e9bec (CFQ), c\u00e9l\u00e9br\u00e9 en 2015, 650 municipalit\u00e9s de la province ont r\u00e9cemment vu certains de leur mobilier urbain \u00eatre d\u00e9cor\u00e9s de tricots-graffitis. Sainte-Th\u00e9r\u00e8se fait...",
+            "date": "2015-04-27",
+            "categories": "graffiti,place",
+            "tags": "r\u00e9cemment,\u00eatre,graffitis,fermi\u00e8res,qu\u00e9bec,cfq",
+            "recuweb_url": "http://fr.recuweb.com/place/nordinfo.com/2015/04/des-tricots-graffitis-recouvrent-dor%C3%A9navant-les-bancs-de-la-place",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
+            "source_url": "http://nordinfo.com/Actualites/2015-04-28/article-4127782/Des-tricots-graffitis-recouvrent-dorenavant-les-bancs-de-la-Place-du-Village/1"
         },
         "fr.allafrica.com/2015/04/docta-de-%C3%A2-doxandem-squad-le-graffiti-africain-a-soleil": {
             "title": "Docta de \u00c2 Doxandem squad \u00c2 - \u00c2 Le graffiti africain a... - Le Soleil...",
@@ -36,60 +46,40 @@
             "snippet": "Avec le printemps, les annonces d'op\u00e9ration de nettoyage de graffitis sont monnaie courante dans les diff\u00e9rents m\u00e9dias montr\u00e9alais. On parle beaucoup des co\u00fbts de ces op\u00e9rations et des sanctions qui s'y rapportent. Mais il est parfois bien...",
             "date": "2015-04-26",
             "categories": "graffiti",
-            "tags": "graffitis,printemps,art",
+            "tags": "graffitis,art",
             "recuweb_url": "http://fr.recuweb.com/graffiti/quebec.huffingtonpost.ca/2015/04/l-art-au-m%C3%A9fait-1-5",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
             "source_url": "http://quebec.huffingtonpost.ca/nicole-robuchon/graffitide-lart-au-mefait_b_7120182.html"
+        },
+        "lapresse.ca/2015/04/l-%C3%A9t%C3%A9-vitamin%C3%A9-de-lili-graffiti": {
+            "title": "L'\u00e9t\u00e9 vitamin\u00e9 de Lili graffiti -...",
+            "snippet": "'\u00e9t\u00e9 vitamin\u00e9 de Lili graffiti e jaune de l'ananas se d\u00e9cline cette saison sur des nappes en lin, des coussins et des napperons. L'\u00e9t\u00e9 en ville est \u00e9galement bien pr\u00e9sent sur les affiches propos\u00e9es par Lili graffiti, qui illustrent la...",
+            "date": "2015-04-26",
+            "categories": "graffiti",
+            "tags": "\u00e9t\u00e9,graffiti",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/lapresse.ca/2015/04/l-%C3%A9t%C3%A9-vitamin%C3%A9-de-lili-graffiti",
+            "resource_url": "http://news.google.fr/?hl=fr&q=graffiti%2Bgraffiti&output=atom&nord=1",
+            "source_url": "http://lapresse.ca/maison/decoration/design/201504/24/01-4864198-lete-vitamine-de-lili-graffiti.php"
         },
         "journalmetro.com/2015/04/des-graffitis-%C3%A9clairent-la-grande-guerre": {
             "title": "Des graffitis \u00e9clairent la Grande Guerre...",
             "snippet": "NAOURS, France Un long tunnel de 100 pieds, quelque part dans le nord-est de la France. Sur une des parois, une inscription parmi tant dautres: James Cockburn 8th Durham L.I.. Elle est si bien conserv\u00e9e quelle aurait pu \u00eatre grav\u00e9e hier.",
             "date": "2015-04-25",
             "categories": "graffiti",
-            "tags": "graffitis,france",
+            "tags": "\u00eatre,graffitis,france",
             "recuweb_url": "http://fr.recuweb.com/graffiti/journalmetro.com/2015/04/des-graffitis-%C3%A9clairent-la-grande-guerre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
             "source_url": "http://journalmetro.com/actualites/national/763978/des-graffitis-eclairent-la-grande-guerre/"
-        },
-        "leplacoteux.com/2015/04/les-fermi%C3%A8res-installent-leur-tricot-graffiti": {
-            "title": "Les Fermi\u00e8res installent leur tricot graffiti...",
-            "snippet": "MONTMAGNY - Profitant mercredi dernier du seul avant-midi ensoleill\u00e9 de la semaine, les Fermi\u00e8res de Montmagny ont install\u00e9 leur \u0153uvre artisanale tricot graffiti dans le parc de la Mairie, soulignant ainsi le 100e anniversaire de fondation...",
-            "date": "2015-04-24",
-            "categories": "graffiti",
-            "tags": "install\u00e9,tricot,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/leplacoteux.com/2015/04/les-fermi%C3%A8res-installent-leur-tricot-graffiti",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://leplacoteux.com/actualites/culturel/218381/les-fermieres-installent-leur-tricot-graffiti"
         },
         "ici.radio-canada.ca/2015/04/photo-du-graffiti-d-un-policier-avec-une-balle": {
             "title": "Photo du graffiti d'un policier avec une balle dans la t\u00eate: Pawluck coupable...",
             "snippet": "Jennifer Pawluck, cette femme qui avait diffus\u00e9 sur Internet un graffiti montrant le commandant Ian Lafreni\u00e8re du SPVM avec un trou de balle dans la t\u00eate, a \u00e9t\u00e9 reconnue coupable de harc\u00e8lement criminel, jeudi. Elle avait pris une photo du...",
             "date": "2015-04-23",
             "categories": "graffiti,internet",
-            "tags": "pris,pris-une-photo,photo,\u00e9t\u00e9,\u00e9t\u00e9-reconnue,\u00e9t\u00e9-reconnue-coupable,reconnue,reconnue-coupable,coupable,coupable-de-harc\u00e8lement,harc\u00e8lement,harc\u00e8lement-criminel,criminel,trou,trou-de-balle,balle,t\u00eate,ian,ian_lafreni\u00e8re,lafreni\u00e8re,montrant,montrant-le-commandant,commandant,femme,diffus\u00e9,graffiti,pawluck,jennifer,internet,spvm,jeudi",
+            "tags": "\u00e9t\u00e9,graffiti",
             "recuweb_url": "http://fr.recuweb.com/internet/ici.radio-canada.ca/2015/04/photo-du-graffiti-d-un-policier-avec-une-balle",
             "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
             "source_url": "http://ici.radio-canada.ca/regions/Montreal/2015/04/23/004-jennifer-pawluck-coupable-harcelement-criminel.shtml"
-        },
-        "ledevoir.com/2015/04/photo-du-graffiti-de-ian-lafreni%C3%A8re-pawluck-coupable": {
-            "title": "Photo du graffiti de Ian Lafreni\u00e8re: Pawluck coupable...",
-            "snippet": "Jennifer Pawluck, qui avait diffus\u00e9 sur Internet un graffiti montrant le commandant Ian Lafreni\u00e8re du SPVM avec un trou de balle dans la t\u00eate, a \u00e9t\u00e9 reconnue coupable de harc\u00e8lement criminel, jeudi. Elle avait pris une photo du graffiti et...",
-            "date": "2015-04-23",
-            "categories": "graffiti,internet",
-            "tags": "pris,pris-une-photo,photo,\u00e9t\u00e9,\u00e9t\u00e9-reconnue,\u00e9t\u00e9-reconnue-coupable,reconnue,reconnue-coupable,coupable,coupable-de-harc\u00e8lement,harc\u00e8lement,harc\u00e8lement-criminel,criminel,trou,trou-de-balle,balle,t\u00eate,montrant,montrant-le-commandant,commandant,diffus\u00e9,ian,ian_lafreni\u00e8re,lafreni\u00e8re,graffiti,pawluck,jennifer,internet,spvm,jeudi",
-            "recuweb_url": "http://fr.recuweb.com/internet/ledevoir.com/2015/04/photo-du-graffiti-de-ian-lafreni%C3%A8re-pawluck-coupable",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://ledevoir.com/societe/justice/438202/photo-du-graffiti-d-un-policier-avec-une-balle-dans-la-tete-pawluck-coupable"
-        },
-        "leplacoteux.com/2015/04/un-tricot-graffiti-sur-deux-arbres": {
-            "title": "Un tricot graffiti sur deux arbres...",
-            "snippet": "SAINT-ROCH-DES-AULNAIES Depuis le vendredi 10 avril, on peut admirer ce tricot graffiti install\u00e9 sur deux arbres devant le presbyt\u00e8re de Saint-Roch-des-Aulnaies. Le tricot graffiti est lart du tricot pour red\u00e9couvrir le mobilier urbain.",
-            "date": "2015-04-23",
-            "categories": "graffiti",
-            "tags": "tricot,install\u00e9,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/leplacoteux.com/2015/04/un-tricot-graffiti-sur-deux-arbres",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=graffiti&format=RSS&cc=fr",
-            "source_url": "http://leplacoteux.com/actualites/actualites-et-faits-divers/218294/un-tricot-graffiti-sur-deux-arbres"
         },
         "leparisien.fr/2015/04/en-images-paris-derni%C3%A8re-plong%C3%A9e-dans-la-rue-du-graffiti": {
             "title": "EN IMAGES. Paris: derni\u00e8re plong\u00e9e dans la rue du graffiti - Le Parisien...",
@@ -100,16 +90,6 @@
             "recuweb_url": "http://fr.recuweb.com/graffiti/leparisien.fr/2015/04/en-images-paris-derni%C3%A8re-plong%C3%A9e-dans-la-rue-du-graffiti",
             "resource_url": "http://news.google.fr/?hl=fr&q=graffiti&output=atom&nord=1",
             "source_url": "http://leparisien.fr/paris-75/paris-75020/en-images-paris-derniere-plongee-dans-la-rue-du-graffiti-04-04-2015-4665723.php"
-        },
-        "fr-ca.actualites.yahoo.com/2015/02/proc%C3%A8s-pour-de-jennifer-pawluck-pr%C3%A9venir-plut%C3%B4t-que-daccuser-plaide": {
-            "title": "Proc\u00e8s pour de Jennifer Pawluck: pr\u00e9venir plut\u00f4t que daccuser, plaide la d\u00e9fense...",
-            "snippet": "MONTR\u00c9AL Les policiers nauraient jamais d\u00fb accuser de harc\u00e8lement la jeune femme ayant publi\u00e9 un graffiti dun des visages de la police de Montr\u00e9al avec une balle dans la t\u00eate, croit la d\u00e9fense.",
-            "date": "2015-02-24",
-            "categories": "graffiti",
-            "tags": "balle,t\u00eate,harc\u00e8lement,femme,jennifer,pawluck,montr\u00e9al,graffiti",
-            "recuweb_url": "http://fr.recuweb.com/graffiti/fr-ca.actualites.yahoo.com/2015/02/proc%C3%A8s-pour-de-jennifer-pawluck-pr%C3%A9venir-plut%C3%B4t-que-daccuser-plaide",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=graffiti",
-            "source_url": "http://fr-ca.actualites.yahoo.com/proc\u00e8s-jennifer-pawluck-pr\u00e9venir-plut\u00f4t-accuser-plaide-d\u00e9fense-184330014.html"
         }
     }
 }
