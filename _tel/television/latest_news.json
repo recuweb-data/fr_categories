@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "television",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/television/",
@@ -11,75 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/television/television/blogs.json"
     },
     "items": {
-        "tvmag.lefigaro.fr/2015/04/france-t%C3%A9l%C3%A9visions-recrute-pour-roland-garros": {
-            "title": "France T\u00e9l\u00e9visions recrute pour Roland-Garros...",
-            "snippet": "Pour Roland-Garros 2015, l'\u00e9quipe de France T\u00e9l\u00e9visions accueille des petits nouveaux. Micha\u00ebl Llodra, fra\u00eechement retrait\u00e9 en simple et encore actif en double, rejoint le groupe des consultants compos\u00e9 par Justine H\u00e9nin, Arnaud Cl\u00e9ment et...",
-            "date": "2015-04-27",
+        "tvmag.lefigaro.fr/2015/04/en-gr%C3%A8ce-le-parlement-vote-r%C3%A9tablissement-de-la-t%C3%A9l%C3%A9vision-publique": {
+            "title": "En Gr\u00e8ce, le parlement vote le r\u00e9tablissement de la t\u00e9l\u00e9vision publique...",
+            "snippet": "LE SCAN T\u00c9L\u00c9 - En 2013, la fermeture brutale de la t\u00e9l\u00e9vision publique par le pr\u00e9c\u00e9dent gouvernement grec avait provoqu\u00e9 une v\u00e9ritable onde de choc dans l'opinion publique internationale. C'\u00e9tait une des promesses \u00e9lectorales du premier...",
+            "date": "2015-04-29",
             "categories": "television",
-            "tags": "groupe,france,france_t\u00e9l\u00e9visions,t\u00e9l\u00e9visions",
-            "recuweb_url": "http://fr.recuweb.com/television/tvmag.lefigaro.fr/2015/04/france-t%C3%A9l%C3%A9visions-recrute-pour-roland-garros",
+            "tags": "\u00e9tait,promesses,promesses-\u00e9lectorales,\u00e9lectorales,premier,opinion,publique,pr\u00e9c\u00e9dent,pr\u00e9c\u00e9dent-gouvernement,gouvernement,t\u00e9l\u00e9,parlement,r\u00e9tablissement,gr\u00e8ce,t\u00e9l\u00e9vision",
+            "recuweb_url": "http://fr.recuweb.com/television/tvmag.lefigaro.fr/2015/04/en-gr%C3%A8ce-le-parlement-vote-r%C3%A9tablissement-de-la-t%C3%A9l%C3%A9vision-publique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
-            "source_url": "http://tvmag.lefigaro.fr/programme-tv/article/television/86635/france-televisions-recrute-pour-roland-garros.html"
+            "source_url": "http://tvmag.lefigaro.fr/le-scan-tele/etranger/2015/04/29/28007-20150429ARTFIG00077-en-grece-le-parlement-vote-le-retablissement-de-la-television-publique.php"
         },
-        "journaldunet.com/2015/04/t%C3%A9l%C3%A9vision-sur-mobile-62-2-millions-vid%C3%A9os-ont-%C3%A9t%C3%A9-vues": {
-            "title": "T\u00e9l\u00e9vision sur mobile: 62,2 millions vid\u00e9os ont \u00e9t\u00e9 vues en ligne en... - JDN...",
-            "snippet": "JDNT\u00e9l\u00e9vision sur mobile: 62,2 millions vid\u00e9os ont \u00e9t\u00e9 vues en ligne en...JDNLa consommation de t\u00e9l\u00e9vision en ligne, qui inclut la t\u00e9l\u00e9vision de rattrapage ainsi que les bonus et la consommation des cha\u00eenes en direct sur les autres...",
-            "date": "2015-04-27",
+        "nice.maville.com/2015/04/france-t%C3%A9l%C3%A9visions-le-projet-de-la-nouvelle-patronne-t%C3%A9l%C3%A9": {
+            "title": "France T\u00e9l\u00e9visions: Le projet de la nouvelle patronne de France T\u00e9l\u00e9...",
+            "snippet": "Delphine Ernotte Cunci prendra ses fonctions le 22 ao\u00fbt. AFP Delphine Ernotte Cunci, 48 ans, prendra les r\u00eanes de France T\u00e9l\u00e9visions, le 22 ao\u00fbt, pour cinq ans. Eclairage sur son projet pour le groupe public. L'actuelle directrice g\u00e9n\u00e9rale...",
+            "date": "2015-04-29",
             "categories": "television",
-            "tags": "cha\u00eenes,ligne,\u00e9t\u00e9,t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/journaldunet.com/2015/04/t%C3%A9l%C3%A9vision-sur-mobile-62-2-millions-vid%C3%A9os-ont-%C3%A9t%C3%A9-vues",
+            "tags": "directrice,directrice-g\u00e9n\u00e9rale,g\u00e9n\u00e9rale,groupe,delphine,delphine_ernotte,ernotte,france,france_t\u00e9l\u00e9,t\u00e9l\u00e9,patronne,france_t\u00e9l\u00e9visions,t\u00e9l\u00e9visions",
+            "recuweb_url": "http://fr.recuweb.com/television/nice.maville.com/2015/04/france-t%C3%A9l%C3%A9visions-le-projet-de-la-nouvelle-patronne-t%C3%A9l%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
+            "source_url": "http://nice.maville.com/sortir/infos_-france-televisions-le-projet-de-la-nouvelle-patronne-de-france-tele_fil-2760091_actu.Htm"
+        },
+        "boursorama.com/2015/04/gr%C3%A8ce-la-radio-t%C3%A9l%C3%A9vision-publique-r%C3%A9tablie": {
+            "title": "Gr\u00e8ce: la radio-t\u00e9l\u00e9vision publique r\u00e9tablie...",
+            "snippet": "Brutalement ferm\u00e9e il y a deux ans dans le cadre de la politique d'aust\u00e9rit\u00e9 du pr\u00e9c\u00e9dent gouvernement de centre-droit, la radio-t\u00e9l\u00e9vision publique grecque ERT va rouvrir. Le r\u00e9tablissement de la ERT \u00e9tait l'une des promesses \u00e9lectorales...",
+            "date": "2015-04-29",
+            "categories": "politique,radio,television",
+            "tags": "promesses,promesses-\u00e9lectorales,\u00e9lectorales,\u00e9tait,r\u00e9tablissement,publique,publique-grecque,grecque,pr\u00e9c\u00e9dent,pr\u00e9c\u00e9dent-gouvernement,gouvernement,ferm\u00e9e,cadre,r\u00e9tablie,radio,gr\u00e8ce,t\u00e9l\u00e9vision,ert",
+            "recuweb_url": "http://fr.recuweb.com/television/boursorama.com/2015/04/gr%C3%A8ce-la-radio-t%C3%A9l%C3%A9vision-publique-r%C3%A9tablie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
+            "source_url": "http://boursorama.com/actualites/grece-la-radio-television-publique-retablie-c0279689d41972811153f7629ac4753a"
+        },
+        "lopinion.fr/2015/04/la-t%C3%A9l%C3%A9vision-veut-re-devenir-l-amie-des-jeunes-opinion": {
+            "title": "La t\u00e9l\u00e9vision veut (re)devenir l'amie des jeunes - L'Opinion...",
+            "snippet": "L'OpinionLa t\u00e9l\u00e9vision veut (re)devenir l'amie des jeunesL'OpinionLes faits - Trois jours durant, Londres accueille toute la fili\u00e8re du march\u00e9 de la t\u00e9l\u00e9vision connect\u00e9e. Diffuseurs, op\u00e9rateurs, plates-formes num\u00e9riques, fabricants tous...",
+            "date": "2015-04-29",
+            "categories": "television",
+            "tags": "t\u00e9l\u00e9vision,opinion",
+            "recuweb_url": "http://fr.recuweb.com/television/lopinion.fr/2015/04/la-t%C3%A9l%C3%A9vision-veut-re-devenir-l-amie-des-jeunes-opinion",
             "resource_url": "http://news.google.fr/?hl=fr&q=television%2Btelevision&output=atom&nord=1",
-            "source_url": "http://journaldunet.com/ebusiness/le-net/consommation-television-en-ligne-0415.shtml"
+            "source_url": "http://lopinion.fr/29-avril-2015/television-veut-redevenir-l-amie-jeunes-23794"
         },
-        "quebec.huffingtonpost.ca/2015/04/une-heure-de-t%C3%A9l%C3%A9vision-par-jour-suffit-pour-que-les-enfants": {
-            "title": "Une heure de t\u00e9l\u00e9vision par jour suffit pour que les enfants aient des... - Le Huffington Post...",
-            "snippet": "Le Huffington Post QuebecUne heure de t\u00e9l\u00e9vision par jour suffit pour que les enfants aient des...Le Huffington Post QuebecLes enfants de maternelle ou de premi\u00e8re ann\u00e9e qui passent seulement une heure par jour devant la t\u00e9l\u00e9vision sont plus...",
-            "date": "2015-04-27",
-            "categories": "television",
-            "tags": "devant,t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/quebec.huffingtonpost.ca/2015/04/une-heure-de-t%C3%A9l%C3%A9vision-par-jour-suffit-pour-que-les-enfants",
-            "resource_url": "http://news.google.fr/?hl=fr&q=television%2Btelevision&output=atom&nord=1",
-            "source_url": "http://quebec.huffingtonpost.ca/2015/04/27/une-heure-de-tele-par-jour-favorise-lobesite-des-enfants_n_7154328.html"
-        },
-        "lefigaro.fr/2015/04/chez-les-jeunes-am%C3%A9ricains-la-t%C3%A9l%C3%A9vision-classique-n-a-plus-cote": {
-            "title": "Chez les jeunes Am\u00e9ricains, la t\u00e9l\u00e9vision classique n'a plus la cote - Le Figaro...",
-            "snippet": "Le FigaroChez les jeunes Am\u00e9ricains, la t\u00e9l\u00e9vision classique n'a plus la coteLe FigaroSe presser devant la t\u00e9l\u00e9vision apr\u00e8s le d\u00eener pour ne pas rater le d\u00e9but du film? Cela risque fort de devenir une image d'\u00c9pinal aux \u00c9tats-Unis. Les...",
-            "date": "2015-04-25",
-            "categories": "television",
-            "tags": "film,devant,t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/lefigaro.fr/2015/04/chez-les-jeunes-am%C3%A9ricains-la-t%C3%A9l%C3%A9vision-classique-n-a-plus-cote",
-            "resource_url": "http://news.google.fr/?hl=fr&q=television&output=atom&nord=1",
-            "source_url": "http://lefigaro.fr/medias/2015/04/25/20004-20150425ARTFIG00011-chez-les-jeunes-americains-la-television-classique-n-a-plus-la-cote.php"
-        },
-        "fr.news.yahoo.com/2015/04/tf1-va-co-produire-des-s%C3%A9ries-am%C3%A9ricaines": {
-            "title": "TF1 va co-produire des s\u00e9ries am\u00e9ricaines...",
-            "snippet": "SERIES TV - La cha\u00eene fran\u00e7aise s'allie avec RTL Deutschland et NBCU Television pour produire des s\u00e9ries am\u00e9ricaines...",
-            "date": "2015-04-14",
-            "categories": "television",
-            "tags": "television,rtl",
-            "recuweb_url": "http://fr.recuweb.com/television/fr.news.yahoo.com/2015/04/tf1-va-co-produire-des-s%C3%A9ries-am%C3%A9ricaines",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=television",
-            "source_url": "http://fr.news.yahoo.com/tf1-va-co-produire-s\u00e9ries-am\u00e9ricaines-111612548.html"
-        },
-        "fr.news.yahoo.com/2015/04/lille-nord-un-reportage-de-zone-interdite-suscite-la-pol%C3%A9mique": {
-            "title": "Lille: Nord: Un reportage de Zone Interdite suscite la pol\u00e9mique sur Twitter...",
-            "snippet": "T\u00c9L\u00c9VISION - L'\u00e9mission de M6, diffus\u00e9e dimanche, a d\u00e9clench\u00e9 de nombreuses r\u00e9actions des t\u00e9l\u00e9spectateurs...",
-            "date": "2015-04-13",
-            "categories": "twitter,television",
-            "tags": "t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/fr.news.yahoo.com/2015/04/lille-nord-un-reportage-de-zone-interdite-suscite-la-pol%C3%A9mique",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=television",
-            "source_url": "http://fr.news.yahoo.com/lille-nord-reportage-zone-interdite-\u00e0-charge-roubaix-113813763.html"
-        },
-        "fr-ca.actualites.yahoo.com/2015/04/t%C3%A9l%C3%A9vision-plus-de-d%C3%A9branch%C3%A9s-au-canada": {
-            "title": "T\u00e9l\u00e9vision: Plus de d\u00e9branch\u00e9s au Canada...",
-            "snippet": "TORONTO - De plus en plus de Canadiens annulent leurs forfaits de t\u00e9l\u00e9vision cbl\u00e9e ou par satellite, et rien ne permet de croire que cette migration va bient\u00f4t ralentir, r\u00e9v\u00e8le une nouvelle \u00e9tude.",
-            "date": "2015-04-13",
-            "categories": "television",
-            "tags": "t\u00e9l\u00e9vision",
-            "recuweb_url": "http://fr.recuweb.com/television/fr-ca.actualites.yahoo.com/2015/04/t%C3%A9l%C3%A9vision-plus-de-d%C3%A9branch%C3%A9s-au-canada",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=television",
-            "source_url": "http://fr-ca.actualites.yahoo.com/t\u00e9l\u00e9vision-plus-d\u00e9branch\u00e9s-au-canada-185630583.html"
+        "bfmbusiness.bfmtv.com/2015/04/retour-de-la-controvers%C3%A9e-radio-t%C3%A9l%C3%A9vision-publique-grecque": {
+            "title": "Retour de la controvers\u00e9e radio-t\u00e9l\u00e9vision publique grecque...",
+            "snippet": "Ferm\u00e9e dans le cadre des mesures de rigueur en juin 2013, la ERT va \u00eatre r\u00e9tablie. Plus de anciens employ\u00e9s pourraient \u00eatre r\u00e9int\u00e9gr\u00e9s. Les Grecs vont retrouver leur radio et t\u00e9l\u00e9vision publiques. Le Parlement grec a vot\u00e9 dans la nuit...",
+            "date": "2015-04-29",
+            "categories": "radio,television",
+            "tags": "radio,r\u00e9tablie,cadre,publiques,publique-grecque,grecque,t\u00e9l\u00e9vision,ferm\u00e9e,ert,parlement",
+            "recuweb_url": "http://fr.recuweb.com/television/bfmbusiness.bfmtv.com/2015/04/retour-de-la-controvers%C3%A9e-radio-t%C3%A9l%C3%A9vision-publique-grecque",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=television&format=RSS&cc=fr",
+            "source_url": "http://bfmbusiness.bfmtv.com/monde/retour-de-la-controversee-radio-television-publique-grecque-882041.html"
         }
     }
 }
