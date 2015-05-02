@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/google/",
@@ -11,27 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
-        "android-france.fr/2015/04/google-collections-la-fonctionalit%C3%A9-pour-concurrencer": {
-            "title": "Google Collections - La fonctionalit\u00e9 Google pour concurrencer...",
-            "snippet": "Google s'attaque au r\u00e9seau social Pinterest avec une prochaine nouvelle fonctionnalit\u00e9 dans Google, Google collections.",
+        "generation-nt.com/2015/04/google-now-int%C3%A8gre-70-services-suppl%C3%A9mentaires": {
+            "title": "Google Now int\u00e8gre 70 services suppl\u00e9mentaires...",
+            "snippet": "Google Now pour Android prend de l'embonpoint via l'apport de 70 applications tierces. Ces applications ont leurs propres cartes d'information.",
+            "date": "2015-04-29",
+            "author_name": "inconnu",
+            "categories": "google",
+            "tags": "applications,google,services,android,cartes",
+            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/google-now-int%C3%A8gre-70-services-suppl%C3%A9mentaires",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://generation-nt.com/google-now-android-recherche-application-carte-information-actualite-1914579.html"
+        },
+        "lesplansdupirate.com/2015/04/app-indexing-google-indexation-dapplication-mobile": {
+            "title": "App Indexing Google (indexation dapplication mobile)...",
+            "snippet": "Google met en avant dans les r\u00e9sultats les applications mobiles index\u00e9es App Indexing, vous connaissez? Indexation d'application en bon fran\u00e7ais. Si vous avez une application mobile (Android pour l'instant), vous devriez la rendre compatible,...",
+            "date": "2015-04-29",
+            "author_name": "Olivier Duffez",
+            "categories": "google",
+            "tags": "applications,met,avant,r\u00e9sultats,google,mobiles,android",
+            "recuweb_url": "http://fr.recuweb.com/google/lesplansdupirate.com/2015/04/app-indexing-google-indexation-dapplication-mobile",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
+            "source_url": "http://lesplansdupirate.com/app-indexing-google-indexation-dapplication-mobile/"
+        },
+        "frandroid.com/2015/04/google-store-la-watch-urbane-disponible-et-baisse-de-prix": {
+            "title": "Google Store: la Watch Urbane disponible et baisse de prix de la...",
+            "snippet": "Il y a du mouvement sur le Google Store, le magasin en ligne de Google d\u00e9di\u00e9 au mat\u00e9riel. La Watch Urbane vient de faire son apparition, la premi\u00e8re G Watc.",
+            "date": "2015-04-28",
+            "author_name": "Ga\u00ebl",
+            "categories": "google",
+            "tags": "premi\u00e8re,disponible,google,store",
+            "recuweb_url": "http://fr.recuweb.com/google/frandroid.com/2015/04/google-store-la-watch-urbane-disponible-et-baisse-de-prix",
+            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://frandroid.com/marques/motorola/281446_google-store-watch-urbane-disponible-baisse-de-prix-de-moto-360"
+        },
+        "frandroid.com/2015/04/google-lance-le-transfert-d-informations-de-chrome": {
+            "title": "Google lance le transfert d'informations de Chrome vers votre...",
+            "snippet": "Google vient de lancer trois nouvelles fonctionnalit\u00e9s int\u00e9ressantes qui m\u00ealent votre univers PC et Android. Elles se nomment \"send directions\", \"set an al.",
+            "date": "2015-04-28",
+            "author_name": "Romain Ch.",
+            "categories": "google",
+            "tags": "lancer,trois,univers,google,lance,chrome,android",
+            "recuweb_url": "http://fr.recuweb.com/google/frandroid.com/2015/04/google-lance-le-transfert-d-informations-de-chrome",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://frandroid.com/applications/281595_google-lance-transfert-dinformations-de-chrome-vers-mobile-android"
+        },
+        "futura-sciences.com/2015/04/actualit%C3%A9-les-ballons-loon-de-google-et-leurs-secrets-fabrication": {
+            "title": "Actualit\u00e9 Les ballons Loon de Google et leurs secrets de fabrication...",
+            "snippet": "Le projet Loon, le programme de Google d'acc\u00e8s Internet distribu\u00e9 par des ballons stratosph\u00e9riques, approche de sa phase finale. L'occasion de d\u00e9couvrir comment sont fabriqu\u00e9s ces engins capables...",
+            "date": "2015-04-27",
+            "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
+            "categories": "google,internet",
+            "tags": "google,projet,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/futura-sciences.com/2015/04/actualit%C3%A9-les-ballons-loon-de-google-et-leurs-secrets-fabrication",
+            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://futura-sciences.com/magazines/high-tech/infos/actu/d/internet-ballons-loon-google-leurs-secrets-fabrication-58022/"
+        },
+        "android-france.fr/2015/04/google-collections-la-fonctionalit%C3%A9-pour-concurrencer-pinterest": {
+            "title": "Google Collections La fonctionalit\u00e9 Google pour concurrencer Pinterest...",
+            "snippet": "Google s'attaque au r\u00e9seau social Pinterest avec une prochaine nouvelle fonctionnalit\u00e9 dans Google, Google collections...",
             "date": "2015-04-27",
             "author_name": "Gnakouri Danon",
             "categories": "google,collection",
-            "tags": "prochaine,r\u00e9seau,google",
-            "recuweb_url": "http://fr.recuweb.com/collection/android-france.fr/2015/04/google-collections-la-fonctionalit%C3%A9-pour-concurrencer",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "tags": "google",
+            "recuweb_url": "http://fr.recuweb.com/collection/android-france.fr/2015/04/google-collections-la-fonctionalit%C3%A9-pour-concurrencer-pinterest",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
             "source_url": "http://android-france.fr/2015/04/27/google-collections-pinterest/"
-        },
-        "begeek.fr/2015/04/google-arr%C3%AAte-la-nexus-7-begeek": {
-            "title": "Google arr\u00eate la Nexus 7 - Begeek...",
-            "snippet": "Google vient d'annoncer la fin de la commercialisation de la Nexus 7 au grand dam des fans de la petite tablette bon march\u00e9 de la firme de Mountain View.",
-            "date": "2015-04-27",
-            "author_name": "Sebastien Veyrier",
-            "categories": "google",
-            "tags": "grand,google,nexus,begeek,commercialisation,march\u00e9,mountain",
-            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/google-arr%C3%AAte-la-nexus-7-begeek",
-            "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://begeek.fr/google-arrete-la-nexus-7-167893"
         },
         "slate.fr/2015/04/l-ing%C3%A9nieur-de-google-qui-prenait-des-photos-plus-hauts": {
             "title": "L'ing\u00e9nieur de Google qui prenait des photos des plus hauts -...",
@@ -39,7 +83,7 @@
             "date": "2015-04-27",
             "author_name": "Myriam L",
             "categories": "google",
-            "tags": "google",
+            "tags": "ing\u00e9nieur,google",
             "recuweb_url": "http://fr.recuweb.com/google/slate.fr/2015/04/l-ing%C3%A9nieur-de-google-qui-prenait-des-photos-plus-hauts",
             "resource_url": "http://www.google.com/search?q=google%2Bgoogle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100925/deces-dan-fredinburg-google-everest"
@@ -55,38 +99,16 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
             "source_url": "http://bushcraftdalex.blogspot.com/2015/04/annonces-sur-le-blog.html"
         },
-        "begeek.fr/2015/04/google-glass-la-nouvelle-g%C3%A9n%C3%A9ration-arrive-begeek": {
-            "title": "Google Glass: la nouvelle g\u00e9n\u00e9ration arrive! - Begeek...",
-            "snippet": "Selon le dirigeant de Luxottica (Ray-Ban), la prochaine g\u00e9n\u00e9ration de Google Glass est en pr\u00e9paration et devrait \"sortir prochainement\".",
-            "date": "2015-04-25",
-            "author_name": "Micha\u00ebl Rubin",
-            "categories": "google",
-            "tags": "prochaine,google,google_glass,glass,g\u00e9n\u00e9ration,begeek,luxottica,ray,ban",
-            "recuweb_url": "http://fr.recuweb.com/google/begeek.fr/2015/04/google-glass-la-nouvelle-g%C3%A9n%C3%A9ration-arrive-begeek",
-            "resource_url": "http://www.google.com/search?q=google&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://begeek.fr/google-glass-la-nouvelle-generation-arrive-167775"
-        },
         "100000v.wordpress.com/2015/04/quand-google-urine-sur-apple-jusquau-pakistan": {
             "title": "Quand Google urine sur Apple jusquau Pakistan...",
             "snippet": "Une curieuse image est apparue aujourdhui sur Google Maps, dans une r\u00e9gion du Pakistan: la mascotte dAndroid qui urine sur la pomme dApple. Tapez Adiala Shahpur Rd, Rawalpindi, Pakistan et vous le verrez vous-m\u00eame. Dapr\u00e8s les premi\u00e8res infos, ce...",
             "date": "2015-04-24",
             "author_name": "ValLeNain",
             "categories": "google",
-            "tags": "google,apple,m\u00eame",
+            "tags": "google,apple",
             "recuweb_url": "http://fr.recuweb.com/google/100000v.wordpress.com/2015/04/quand-google-urine-sur-apple-jusquau-pakistan",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
             "source_url": "http://100000v.wordpress.com/2015/04/24/quand-google-urine-sur-apple-jusquau-pakistan/"
-        },
-        "wizishop.com/2015/04/dossier-adwords-comment-profiter-du-r%C3%A9seau-de-recherche-google": {
-            "title": "Dossier AdWords: comment profiter du r\u00e9seau de recherche Google?",
-            "snippet": "Le r\u00e9f\u00e9rencement sur les moteurs de recherche est le levier le plus important et, souvent, le plus performant pour un ecommer\u00e7ant. Pour cette raison, la concurrence, au niveau du r\u00e9f\u00e9rencement naturel pour les mots-cl\u00e9s les plus recherch\u00e9s...",
-            "date": "2015-04-16",
-            "author_name": "michele",
-            "categories": "adwords,google",
-            "tags": "recherche,r\u00e9seau,google,concurrence",
-            "recuweb_url": "http://fr.recuweb.com/google/wizishop.com/2015/04/dossier-adwords-comment-profiter-du-r%C3%A9seau-de-recherche-google",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=google%2Bgoogle&rss=1&lng=fr",
-            "source_url": "http://wizishop.com/blog/ressources-ecommerce/dossier-adwords-comment-profiter-du-reseau-de-recherche-google.html"
         },
         "touslesgnrateursgratuites2015.wordpress.com/2015/03/pro-final-google-earth": {
             "title": "PRO FINAL GOOGLE EARTH...",
@@ -98,28 +120,6 @@
             "recuweb_url": "http://fr.recuweb.com/google/touslesgnrateursgratuites2015.wordpress.com/2015/03/pro-final-google-earth",
             "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
             "source_url": "http://touslesgnrateursgratuites2015.wordpress.com/2015/03/18/pro-7-0-2-8415-final-google-earth/"
-        },
-        "plugengindown.wordpress.com/2015/02/telecharger-google-chrom-gratuitement": {
-            "title": "Telecharger google chrom gratuitement...",
-            "snippet": "DOWNLOAD Il y a 5 jours Google Chrome est un navigateur web cr\u00e9\u00e9 par Google, qui se base sur le projet Chromium. L'objectif premier de Google en d\u00e9veloppant. Google...",
-            "date": "2015-02-19",
-            "author_name": "plugengindown",
-            "categories": "google",
-            "tags": "objectif,premier,base,cr\u00e9\u00e9,navigateur,google,google_chrome,chrome,gratuitement,web,projet,chromium",
-            "recuweb_url": "http://fr.recuweb.com/google/plugengindown.wordpress.com/2015/02/telecharger-google-chrom-gratuitement",
-            "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
-            "source_url": "http://plugengindown.wordpress.com/2015/02/19/telecharger-google-chrom-gratuitement/"
-        },
-        "colhyacopjoi.wordpress.com/2014/12/telecharger-navigateur-google-gratuit": {
-            "title": "Telecharger navigateur google gratuit...",
-            "snippet": "Download Google Chrome. Google Chrome est un navigateur cr\u00e9\u00e9 par la soci\u00e9t\u00e9 Google. inc et qui se base sur le projet Chromium de Google. L'objectif de Google en T\u00e9l\u00e9charger...",
-            "date": "2014-12-26",
-            "author_name": "colhyacopjoi",
-            "categories": "google",
-            "tags": "objectif,base,navigateur,cr\u00e9\u00e9,soci\u00e9t\u00e9,google,google_chrome,chrome,gratuit,projet,chromium",
-            "recuweb_url": "http://fr.recuweb.com/google/colhyacopjoi.wordpress.com/2014/12/telecharger-navigateur-google-gratuit",
-            "resource_url": "http://fr.search.wordpress.com/?q=google%2Bgoogle&f=feed&page=1",
-            "source_url": "http://colhyacopjoi.wordpress.com/2014/12/26/telecharger-navigateur-google-gratuit/"
         }
     }
 }
