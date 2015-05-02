@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "google",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/google/",
@@ -11,82 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/google/google/blogs.json"
     },
     "items": {
-        "futura-sciences.com/2015/04/commeles-ballons-loon-de-google-et-leurs-secrets-fabrication-futura-sciences": {
-            "title": "CommeLes ballons Loon de Google et leurs secrets de fabrication - Futura Sciences...",
-            "snippet": "CommeLes ballons Loon de Google et leurs secrets de fabricationFutura SciencesLe projet Loon, le programme de Google d'acc\u00e8s Internet distribu\u00e9 par des ballons stratosph\u00e9riques, approche de sa phase finale. L'occasion de d\u00e9couvrir comment sont...",
-            "date": "2015-04-27",
-            "categories": "science,google,internet",
-            "tags": "google,projet,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/futura-sciences.com/2015/04/commeles-ballons-loon-de-google-et-leurs-secrets-fabrication-futura-sciences",
+        "lci.tf1.fr/2015/04/reviens-s-il-te-pla%C3%AEt-l-%C3%A9mouvante-lettre-au-cadre": {
+            "title": "Reviens s'il te pla\u00eet: l'\u00e9mouvante lettre au cadre de Google avant... - TF1...",
+            "snippet": "TF1\"Reviens s'il te pla\u00eet\": l'\u00e9mouvante lettre au cadre de Google avant...TF1Ag\u00e9 de 33 ans, cet ing\u00e9nieur dirigeait la division des programmes chez Google, l'un des services les plus importants du g\u00e9ant du Web. A ce titre, il faisait partie du...",
+            "date": "2015-04-29",
+            "categories": "google",
+            "tags": "services,google,g\u00e9ant,web",
+            "recuweb_url": "http://fr.recuweb.com/google/lci.tf1.fr/2015/04/reviens-s-il-te-pla%C3%AEt-l-%C3%A9mouvante-lettre-au-cadre",
+            "resource_url": "http://news.google.fr/?hl=fr&q=google%2Bgoogle&output=atom&nord=1",
+            "source_url": "http://lci.tf1.fr/monde/asie/reviens-s-il-te-plait-l-emouvante-lettre-du-cadre-de-google-avant-8601715.html"
+        },
+        "generation-nt.com/2015/04/chrome-google-lance-l-alerte-mot-de-passe": {
+            "title": "Chrome: Google lance l'Alerte mot de passe...",
+            "snippet": "Google publie une nouvelle extension pour Chrome baptis\u00e9e Alerte mot de passe et disponible dans le Chrome Web Store. Comme son nom l'indique, il est question de mot de passe. Mais il ne s'agit pas d'un gestionnaire. C'est un outil de protection...",
+            "date": "2015-04-29",
+            "categories": "google",
+            "tags": "web,extension,lance,chrome,google",
+            "recuweb_url": "http://fr.recuweb.com/google/generation-nt.com/2015/04/chrome-google-lance-l-alerte-mot-de-passe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
+            "source_url": "http://generation-nt.com/google-chrome-extension-alerte-mot-passe-gmail-phishing-actualite-1914594.html"
+        },
+        "pro.clubic.com/2015/04/dropbox-s-inspire-de-google-drive-pour-le-travail-collaboratif-clubic": {
+            "title": "Dropbox s'inspire de Google Drive pour le travail collaboratif - Clubic...",
+            "snippet": "ClubicDropbox s'inspire de Google Drive pour le travail collaboratifClubicA l'instar de Google Drive, Dropbox active un panneau lat\u00e9ral positionn\u00e9 sur la droite sur lequel l'ensemble des observations seront regroup\u00e9s. Le propri\u00e9taire d'un...",
+            "date": "2015-04-29",
+            "categories": "google",
+            "tags": "google",
+            "recuweb_url": "http://fr.recuweb.com/google/pro.clubic.com/2015/04/dropbox-s-inspire-de-google-drive-pour-le-travail-collaboratif-clubic",
             "resource_url": "http://news.google.fr/?hl=fr&q=google&output=atom&nord=1",
-            "source_url": "http://futura-sciences.com/magazines/high-tech/infos/actu/d/internet-commeles-ballons-loon-google-leurs-secrets-fabrication-58022/"
+            "source_url": "http://pro.clubic.com/entreprises/actualite-765010-dropbox-travail-collaboratif.html"
         },
-        "silicon.fr/2015/04/google-glass-2-la-vengeance": {
-            "title": "Google Glass 2: la vengeance?",
-            "snippet": "Non, Google na pas abandonn\u00e9 ses Google Glass et pr\u00e9parerait m\u00eame une seconde version de laccessoire. Cest Luxottica (Ray-Ban, Oakley), un partenaire de Mountain View, qui lassure. Malgr\u00e9 l\u00e9chec de sa premi\u00e8re g\u00e9n\u00e9ration de lunettes...",
-            "date": "2015-04-27",
+        "actu.orange.fr/2015/04/google-s-allie-avec-huit-%C3%A9diteurs-europ%C3%A9ens-pour-%C3%A9largir-son-fonds": {
+            "title": "Google s'allie avec huit \u00e9diteurs europ\u00e9ens pour \u00e9largir son fonds pour la presse...",
+            "snippet": "Google et huit \u00e9diteurs europ\u00e9ens, dont Les Echos, The Guardian, El Pais ou Die Zeit, lancent mardi un fonds dot\u00e9 de 150 millions d'euros sur trois ans pour soutenir le journalisme de qualit\u00e9 par la technologie et l'innovation. Ce nouveau...",
+            "date": "2015-04-29",
+            "categories": "technologie,google",
+            "tags": "google",
+            "recuweb_url": "http://fr.recuweb.com/google/actu.orange.fr/2015/04/google-s-allie-avec-huit-%C3%A9diteurs-europ%C3%A9ens-pour-%C3%A9largir-son-fonds",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
+            "source_url": "http://actu.orange.fr/hightech/google-s-allie-avec-huit-editeurs-europeens-pour-elargir-son-fonds-pour-la-presse-afp_CNT0000009CgqK.html"
+        },
+        "meltyfashion.fr/2015/04/mode-et-beaut%C3%A9-connect%C3%A9es-google-dicte-les-tendances": {
+            "title": "Mode et beaut\u00e9 connect\u00e9es: Google dicte les tendances...",
+            "snippet": "Google Data vient de publier son premier rapport concernant les tendances modes, par \u00e9poques et zones g\u00e9ographiques. Petit debriefing sur ces r\u00e9v\u00e9lations amusantes et inattendues... Alors qu'ASOS vient de sortir une application sp\u00e9ciale pour...",
+            "date": "2015-04-29",
             "categories": "google",
-            "tags": "premi\u00e8re,g\u00e9n\u00e9ration,g\u00e9n\u00e9ration-de-lunettes,lunettes,cest,luxottica,version,google,google_glass,glass",
-            "recuweb_url": "http://fr.recuweb.com/google/silicon.fr/2015/04/google-glass-2-la-vengeance",
+            "tags": "google",
+            "recuweb_url": "http://fr.recuweb.com/google/meltyfashion.fr/2015/04/mode-et-beaut%C3%A9-connect%C3%A9es-google-dicte-les-tendances",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://silicon.fr/google-glass-2-vengeance-115047.html"
+            "source_url": "http://meltyfashion.fr/mode-et-beaute-connectees-google-dicte-les-tendances-a405585.html"
         },
-        "20minutes.fr/2015/04/google-glass-vers-une-nouvelle-g%C3%A9n%C3%A9ration-de-lunettes-connect%C3%A9es": {
-            "title": "Google Glass: Vers une nouvelle g\u00e9n\u00e9ration de lunettes connect\u00e9es?",
-            "snippet": "Apr\u00e8s la suspension de la commercialisation des Google Glass en d\u00e9but d'ann\u00e9e, le g\u00e9ant am\u00e9ricain faisait l'autruche et avait choisi de ne donner aucun signe de vie de son objet connect\u00e9 qui avait fortement d\u00e9\u00e7u. Derri\u00e8re l'A4R-CAP1, nom de...",
-            "date": "2015-04-27",
+        "journaldunet.com/2015/04/phishing-google-livre-une-extension-chrome-pour-s%C3%A9curiser-les-apps": {
+            "title": "Phishing: Google livre une extension Chrome pour s\u00e9curiser les Google Apps...",
+            "snippet": "L'extension permet d'\u00eatre alert\u00e9 en cas de tentative d'hame\u00e7onnage. Elle pr\u00e9viendra l'internaute si celui-ci a saisi ses identifiant Google sur un site non-Google. Google d\u00e9clare la guerre au phishing. Le groupe am\u00e9ricain propose une...",
+            "date": "2015-04-29",
             "categories": "google",
-            "tags": "am\u00e9ricain,commercialisation,g\u00e9n\u00e9ration,g\u00e9n\u00e9ration-de-lunettes,lunettes,lunettes-connect\u00e9es,connect\u00e9es,google,google_glass,glass,apr\u00e8s,ann\u00e9e,g\u00e9ant",
-            "recuweb_url": "http://fr.recuweb.com/google/20minutes.fr/2015/04/google-glass-vers-une-nouvelle-g%C3%A9n%C3%A9ration-de-lunettes-connect%C3%A9es",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://20minutes.fr/high-tech/1596523-20150427-google-glass-vers-nouvelle-generation-lunettes-connectees"
-        },
-        "clubic.com/2015/04/google-nexus-7-derniers-exemplaires-en-vente-avant-la-retraite": {
-            "title": "Google Nexus 7: derniers exemplaires en vente avant la retraite...",
-            "snippet": "D\u00e9part en retraite non remplac\u00e9 chez Google, qui cesse la vente de la Nexus 7, apr\u00e8s deux ans et demi de bons services, une belle carri\u00e8re sur le march\u00e9 de l'\u00e9lectronique grand public. La Nexus 7 ne figure plus au catalogue de la rubrique...",
-            "date": "2015-04-27",
-            "categories": "electronique,google",
-            "tags": "march\u00e9,apr\u00e8s,deux,google",
-            "recuweb_url": "http://fr.recuweb.com/google/clubic.com/2015/04/google-nexus-7-derniers-exemplaires-en-vente-avant-la-retraite",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://clubic.com/tablette-internet-mid/tablette-android/actualite-764846-google-nexus-7-depart-a-la-retraite.html"
-        },
-        "actu.orange.fr/2015/04/google-analyse-les-tendances-de-la-mode-parie-sur-le-tulle": {
-            "title": "Google analyse les tendances de la mode, parie sur le tulle et le jogging...",
-            "snippet": "Les jupes en tulle et les pantalons de jogging ont la cote, d'apr\u00e8s le tout premier rapport sur les tendances dans la mode publi\u00e9 par Google en analysant des milliards de requ\u00eates faites depuis 2009 sur son moteur de recherche. Les recherches sur...",
-            "date": "2015-04-27",
-            "categories": "moteur-de-recherche,google",
-            "tags": "recherches,recherche,moteur,moteur-de-recherche,apr\u00e8s,google",
-            "recuweb_url": "http://fr.recuweb.com/google/actu.orange.fr/2015/04/google-analyse-les-tendances-de-la-mode-parie-sur-le-tulle",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://actu.orange.fr/societe/google-analyse-les-tendances-de-la-mode-parie-sur-le-tulle-et-le-jogging-afp_CNT0000009tnQt.html"
-        },
-        "msn.com/2015/04/peint-en-blanc-un-motel-fait-sensation": {
-            "title": "Peint en blanc, un motel fait sensation...",
-            "snippet": "Le Person Finder de Google Google a ainsi d\u00e9ploy\u00e9 son Person finder, un outil gratuit de crowdsourcing qui avait pour la premi\u00e8re fois servi...",
-            "date": "2015-04-27",
-            "categories": "google",
-            "tags": "premi\u00e8re,google,gratuit",
-            "recuweb_url": "http://fr.recuweb.com/google/msn.com/2015/04/peint-en-blanc-un-motel-fait-sensation",
+            "tags": "groupe,am\u00e9ricain,propose,site,extension,google,chrome",
+            "recuweb_url": "http://fr.recuweb.com/google/journaldunet.com/2015/04/phishing-google-livre-une-extension-chrome-pour-s%C3%A9curiser-les-apps",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
-            "source_url": "http://msn.com/fr-ch/actualite/other/peint-en-blanc-un-motel-fait-sensation/ss-BBiJ1kQ"
-        },
-        "clubic.com/2015/04/une-nouvelle-version-de-google-glass-en-d%C3%A9veloppement-avec-luxottica": {
-            "title": "Une nouvelle version de Google Glass en d\u00e9veloppement avec Luxottica...",
-            "snippet": "Google n'a pas dit son dernier mot sur le march\u00e9 des lunettes connect\u00e9es. Le g\u00e9ant californien planche sur une nouvelle version des Google Glass. En janvier dernier, Google stoppait la commercialisation des Google Glass. La soci\u00e9t\u00e9 expliquait...",
-            "date": "2015-04-27",
-            "categories": "google",
-            "tags": "commercialisation,version,dit,march\u00e9,lunettes,lunettes-connect\u00e9es,connect\u00e9es,google,google_glass,glass,luxottica,g\u00e9ant",
-            "recuweb_url": "http://fr.recuweb.com/google/clubic.com/2015/04/une-nouvelle-version-de-google-glass-en-d%C3%A9veloppement-avec-luxottica",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=google&format=RSS&cc=fr",
-            "source_url": "http://clubic.com/mobilite-et-telephonie/objets-connectes/google-glass/actualite-764824-google-planche-version-google-glass.html"
+            "source_url": "http://journaldunet.com/solutions/dsi/extension-chrome-pour-securise-les-google-apps-0415.shtml"
         },
         "infos-mobiles.com/2015/04/google-glass-de-nouveaux-mod%C3%A8les-pour-cette-ann%C3%A9e": {
             "title": "Google Glass: de nouveaux mod\u00e8les pour cette ann\u00e9e?",
             "snippet": "La confection des objets connect\u00e9s est devenue une grande pr\u00e9occupation pour les g\u00e9ants de lIT dont Samsung, Apple, Microsoft, Google et bien dautres. Pour le g\u00e9ant du net, cest la confection de lunette connect\u00e9e qui lui a tent\u00e9 si les...",
             "date": "2015-04-26",
             "categories": "google",
-            "tags": "cest,g\u00e9ant,ann\u00e9e,google,google_glass,glass",
+            "tags": "g\u00e9ant,google",
             "recuweb_url": "http://fr.recuweb.com/google/infos-mobiles.com/2015/04/google-glass-de-nouveaux-mod%C3%A8les-pour-cette-ann%C3%A9e",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
             "source_url": "http://infos-mobiles.com/google/google-glass/google-glass-de-nouveaux-modeles-pour-cette-annee/94922"
@@ -96,7 +86,7 @@
             "snippet": "Un nouveau tentacule cons\u00e9quent pour Google Google devient donc MVNO, autrement dit, op\u00e9rateur virtuel, mais en plus dutiliser les r\u00e9seaux mobiles de T-Mobile, et Sprint, deux des plus gros op\u00e9rateurs classiques aux \u00c9tats unis, Google utilisera...",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "deux,op\u00e9rateurs,op\u00e9rateur,mobile,dit,google,op\u00e9rateur-de-t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie,project,unis",
+            "tags": "op\u00e9rateurs,op\u00e9rateur,mobiles,mobile,google,op\u00e9rateur-de-t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie,project,unis",
             "recuweb_url": "http://fr.recuweb.com/google/24matins.fr/2015/04/google-project-fi-et-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
             "source_url": "http://24matins.fr/google-project-fi-et-google-devient-operateur-de-telephonie-mobile-179082"
@@ -106,7 +96,7 @@
             "snippet": "Hier soir, Google a d\u00e9voil\u00e9 son nouveau projet d'envergure: le g\u00e9ant se lance en tant qu'op\u00e9rateur de t\u00e9l\u00e9phonie mobile et propose son nouveau forfait t\u00e9l\u00e9phonique, les op\u00e9rateurs concurrents attachent leurs ceintures. Pour linstant, le...",
             "date": "2015-04-23",
             "categories": "google",
-            "tags": "op\u00e9rateurs,op\u00e9rateur,op\u00e9rateur-de-t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie,lance,projet,google,mobile,g\u00e9ant",
+            "tags": "op\u00e9rateurs,op\u00e9rateur,propose,op\u00e9rateur-de-t\u00e9l\u00e9phonie,t\u00e9l\u00e9phonie,lance,google,mobile,g\u00e9ant",
             "recuweb_url": "http://fr.recuweb.com/google/abcbourse.com/2015/04/google-se-lance-dans-la-t%C3%A9l%C3%A9phonie-mobile",
             "resource_url": "http://www.bing.com/news/search?first=1&q=google%2Bgoogle&format=RSS&cc=fr",
             "source_url": "http://abcbourse.com/marches/google-google-se-lance-dans-la-telephonie-mobile_324205_GOOGu.aspx"
