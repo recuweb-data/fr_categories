@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -11,24 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
-        "bienpublic.com/2015/04/hockey-ligue-magnus-dijon-hc-alexandre-mulle-prolonge": {
-            "title": "Hockey - Ligue Magnus Dijon HC: Alexandre Mulle prolonge...",
-            "snippet": "Sept joueurs sont d\u00e9sormais officiellement sous contrat avec le DHC pour la saison 2015-2016: les d\u00e9fenseurs Beno\u00eet Quessandier, Quentin Mahier et les Canadiens Samuel Groulx et R\u00e9mi Blanchard, ainsi que les attaquants Mathieu Briand, Romain...",
-            "date": "2015-04-27",
+        "hockeyhebdo.com/2015/04/hockey-sur-glace-chl-les-groupes-du-tirage-au-sort": {
+            "title": "Hockey sur glace - CHL: Les groupes du tirage au sort...",
+            "snippet": "Aujourd'hui ont \u00e9t\u00e9 d\u00e9voil\u00e9 les trois paniers dans lesquels sera proc\u00e9d\u00e9 le tirage au sort des groupes pour le premier tour de la CHL version 2015-2016. Les deux \u00e9quipes fran\u00e7aises sont dans l'ultime chapeau qui se pr\u00e9sente comme tel:...",
+            "date": "2015-04-29",
             "categories": "hockey",
-            "tags": "joueurs,alexandre,ligue,ligue_magnus,magnus,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/bienpublic.com/2015/04/hockey-ligue-magnus-dijon-hc-alexandre-mulle-prolonge",
+            "tags": "trois,hockey,glace",
+            "recuweb_url": "http://fr.recuweb.com/hockey/hockeyhebdo.com/2015/04/hockey-sur-glace-chl-les-groupes-du-tirage-au-sort",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
-            "source_url": "http://bienpublic.com/sport-local/2015/04/27/dijon-hc-alexandre-mulle-prolonge"
+            "source_url": "http://hockeyhebdo.com/news-chl---les-groupes-du-tirage-au-sort,18641.html"
+        },
+        "lemedia05.com/2015/04/hockey-trois-joueurs-de-brian%C3%A7on-et-gap-dans-l%C3%A9quipe-france": {
+            "title": "Hockey: trois joueurs de Brian\u00e7on et Gap dans l\u00e9quipe de France aux mondiaux de Prague...",
+            "snippet": "Dave Henderson et Pierre Pousse, entra\u00eeneur et entra\u00eeneur adjoint de l\u00e9quipe de France de hockey sur glace, ont annonc\u00e9, ce mardi, la liste des 25 joueurs s\u00e9lectionn\u00e9s pour le Mondial Elite 2015 de Prague, qui se d\u00e9roulera du 1er au 17 mai.",
+            "date": "2015-04-28",
+            "categories": "hockey",
+            "tags": "joueurs,mondiaux,trois,hockey,france,glace",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-trois-joueurs-de-brian%C3%A7on-et-gap-dans-l%C3%A9quipe-france",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
+            "source_url": "http://lemedia05.com/2015/21926/hockey-trois-joueurs-de-gap-et-briancon-dans-lequipe-de-france-aux-mondiaux-de-prague/"
         },
         "rue89bordeaux.com/2015/04/hockey-les-boxers-vont-ils-casquer-en-ligue-magnus-rue89-bordeaux": {
             "title": "Hockey: les Boxers vont-ils casquer en Ligue Magnus? - Rue89 Bordeaux...",
             "snippet": "Rue89 BordeauxHockey: les Boxers vont-ils casquer en Ligue Magnus?Rue89 BordeauxLes Boxers y ont invit\u00e9 les joueurs et partenaires du club pour f\u00eater la mont\u00e9e en Ligue Magnus, l'\u00e9lite du hockey sur glace fran\u00e7ais, et pr\u00e9senter les nouveaut\u00e9s...",
             "date": "2015-04-27",
             "categories": "hockey",
-            "tags": "joueurs,ligue,ligue_magnus,magnus,hockey,club,glace,fran\u00e7ais",
+            "tags": "joueurs,hockey,boxers,bordeaux,club,glace,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/hockey/rue89bordeaux.com/2015/04/hockey-les-boxers-vont-ils-casquer-en-ligue-magnus-rue89-bordeaux",
-            "resource_url": "http://news.google.fr/?hl=fr&q=hockey%2Bhockey&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=hockey&output=atom&nord=1",
             "source_url": "http://rue89bordeaux.com/2015/04/hockey-les-boxers-vont-ils-casquer-en-ligue-magnus/"
         },
         "hockeyhebdo.com/2015/04/hockey-sur-glace-roller-n2-po-d%C3%A9mons-et-griffons-ok": {
@@ -36,7 +46,7 @@
             "snippet": "C'est Besan\u00e7on qui accueillait l'un des quarts de finale des playoffs de N2. Les Griffons avaient pour l'occasion occup\u00e9s le grand gymnase des Montboucons et devant leurs supporters acharn\u00e9s commen\u00e7aient leur conqu\u00eate. Besan\u00e7on -...",
             "date": "2015-04-21",
             "categories": "hockey",
-            "tags": "devant,finale,hockey,glace",
+            "tags": "hockey,glace",
             "recuweb_url": "http://fr.recuweb.com/hockey/hockeyhebdo.com/2015/04/hockey-sur-glace-roller-n2-po-d%C3%A9mons-et-griffons-ok",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey%2Bhockey&format=RSS&cc=fr",
             "source_url": "http://hockeyhebdo.com/news-roller-n2-po---demons-et-griffons-ok,18527.html"
@@ -56,40 +66,10 @@
             "snippet": "Reto Berra et Mark Streit n'ont pas pu se qualifier pour les play-off de NHL. Et c'est une bonne nouvelle... pour l'\u00e9quipe suisse de hockey sur glace qui se pr\u00e9pare pour les Mondiaux en R\u00e9publique tch\u00e8que. L'\u00e9quipe de Suisse attaquera la...",
             "date": "2015-04-19",
             "categories": "play,hockey",
-            "tags": "\u00e9quipe,hockey,glace",
+            "tags": "\u00e9quipe,mondiaux,hockey,glace",
             "recuweb_url": "http://fr.recuweb.com/hockey/arcinfo.ch/2015/04/reto-berra-et-mark-streit-rejoignent-la-s%C3%A9lection-suisse",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey%2Bhockey&format=RSS&cc=fr",
             "source_url": "http://arcinfo.ch/fr/sports/hockey-sur-glace/reto-berra-et-mark-streit-rejoignent-la-selection-suisse-pour-les-mondiaux-de-hockey-569-1446687"
-        },
-        "fr-ca.actualites.yahoo.com/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada": {
-            "title": "Presque autant d'amateurs de hockey en Chine qu'au Canada...",
-            "snippet": "La fi\u00e8vre du hockey ne se vit pas seulement qu'au Canada. En Chine, il y a presque autant de t\u00e9l\u00e9spectateurs riv\u00e9s devant leur \u00e9cran lors de chacun des matchs de la Ligue nationale de hockey qu'ici au pays.",
-            "date": "2015-04-12",
-            "categories": "hockey",
-            "tags": "devant,lors,hockey,ligue",
-            "recuweb_url": "http://fr.recuweb.com/hockey/fr-ca.actualites.yahoo.com/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=hockey",
-            "source_url": "http://fr-ca.actualites.yahoo.com/presque-autant-damateurs-hockey-en-chine-quau-canada-121136562.html"
-        },
-        "fr.news.yahoo.com/2015/04/hockey-sur-glace-gap-champion-de-france": {
-            "title": "Hockey sur glace: Gap champion de France...",
-            "snippet": "Gap a \u00e9t\u00e9 sacr\u00e9 champion de France de hockey sur glace dimanche, apr\u00e8s sa victoire domicile contre \u00c9pinal (5-2) dans le septi\u00e8me match de la finale de la Ligue Magnus.",
-            "date": "2015-04-05",
-            "categories": "domicile,hockey",
-            "tags": "ligue,ligue_magnus,magnus,finale,contre,\u00e9t\u00e9,champion,hockey,glace,france,match",
-            "recuweb_url": "http://fr.recuweb.com/hockey/fr.news.yahoo.com/2015/04/hockey-sur-glace-gap-champion-de-france",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=hockey",
-            "source_url": "http://fr.news.yahoo.com/hockey-glace-gap-champion-france-154634668.html"
-        },
-        "fr-ca.actualites.yahoo.com/2015/03/le-hockey-f%C3%A9minin-mise-sur-une-2e-arbitre": {
-            "title": "Le hockey f\u00e9minin mise sur une 2e arbitre...",
-            "snippet": "MALMO, Su\u00e8de - La prolongation lors de la finale du tournoi olympique de hockey f\u00e9minin en 2014 a \u00e9t\u00e9 ponctu\u00e9e de rebondissements et supervis\u00e9e par un seul arbitre.",
-            "date": "2015-03-30",
-            "categories": "hockey",
-            "tags": "\u00e9t\u00e9,seul,lors,finale,mise,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/fr-ca.actualites.yahoo.com/2015/03/le-hockey-f%C3%A9minin-mise-sur-une-2e-arbitre",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=hockey",
-            "source_url": "http://fr-ca.actualites.yahoo.com/le-hockey-f\u00e9minin-mise-sur-une-2e-arbitre-182953725--spt.html"
         }
     }
 }
