@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mouvement-social",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mouvement-social/",
@@ -11,71 +11,53 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mouvement-social/mouvement-social/blogs.json"
     },
     "items": {
-        "atlantico.fr/2015/04/port-de-marseille-lutte-syndicale-pour-le-contr%C3%B4le-des-toilettes": {
-            "title": "Port de Marseille: lutte syndicale pour le contr\u00f4le des toilettes...",
-            "snippet": "Mouvement social de 24 heures l'autre jour sur le port de Marseille, FO et la CGT se disputant l'acc\u00e8s aux toilettes autrefois communes aux deux organisations. FO ayant obtenu davantage de voix aux derni\u00e8res \u00e9lections syndicales, elle s'est...",
-            "date": "2015-04-27",
-            "tags": "voix,deux,jour,lutte,mouvement,social,cgt",
-            "recuweb_url": "http://fr.recuweb.com/atlantico.fr/2015/04/port-de-marseille-lutte-syndicale-pour-le-contr%C3%B4le-des-toilettes",
+        "mediaterre.org/2015/04/agro%C3%A9cologie-intensification-%C3%A9cologique-et-changement-climatique": {
+            "title": "Agro\u00e9cologie, intensification \u00e9cologique et changement climatique...",
+            "snippet": "Pour Pablo Tittonell, lagro\u00e9cologie est une discipline scientifique, une pratique et aussi le r\u00e9sultat dun mouvement social, notamment au Sud, qui repose sur lagriculture familiale. Elle offre les moyens daller vers une agriculture climato...",
+            "date": "2015-04-29",
+            "categories": "discipline",
+            "tags": "changement,mouvement,social",
+            "recuweb_url": "http://fr.recuweb.com/discipline/mediaterre.org/2015/04/agro%C3%A9cologie-intensification-%C3%A9cologique-et-changement-climatique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mouvement%2Bsocial&format=RSS&cc=fr",
-            "source_url": "http://atlantico.fr/rdv/zone-franche/port-marseille-fo-et-cgt-en-guerre-pour-controle-toilettes-2113645.html"
+            "source_url": "http://mediaterre.org/terres/actu,20150429145039,2.html"
         },
-        "lefigaro.fr/2015/04/pourquoi-la-manif-pour-tous-est-elle-devenue-un-parti-politique": {
-            "title": "Pourquoi La Manif pour Tous est-elle devenue un parti politique?",
-            "snippet": "Est-ce un tournant dans la vie du mouvement? Pas du tout. La Manif Pour Tous et le mouvement social qu'elle a initi\u00e9 continue de se mobiliser pour d\u00e9fendre le mariage homme-femme, l'alt\u00e9rit\u00e9 sexuelle, la filiation p\u00e8re-m\u00e8re-enfant et pus...",
-            "date": "2015-04-27",
-            "categories": "politique",
-            "tags": "initi\u00e9,pourquoi,mouvement,social",
-            "recuweb_url": "http://fr.recuweb.com/politique/lefigaro.fr/2015/04/pourquoi-la-manif-pour-tous-est-elle-devenue-un-parti-politique",
+        "sudouest.fr/2015/04/le-patron-dalstom-face-aux-gr%C3%A9vistes": {
+            "title": "Le patron dAlstom face aux gr\u00e9vistes...",
+            "snippet": "Les revendications et dol\u00e9ances portent surtout sur les salaires et l'emploi. Le mouvement social est n\u00e9, spontan\u00e9ment, du bilan des n\u00e9gociations annuelles obligatoires pr\u00e9voyant 1% de hausse salariale pour les ouvriers, 1,5% pour les autres.",
+            "date": "2015-04-29",
+            "categories": "emploi",
+            "tags": "salariale,mouvement,social",
+            "recuweb_url": "http://fr.recuweb.com/emploi/sudouest.fr/2015/04/le-patron-dalstom-face-aux-gr%C3%A9vistes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mouvement%2Bsocial&format=RSS&cc=fr",
-            "source_url": "http://lefigaro.fr/vox/politique/2015/04/27/31001-20150427ARTFIG00205-pourquoi-la-manif-pour-tous-est-elle-devenue-un-parti-politique.php"
+            "source_url": "http://sudouest.fr/2015/04/29/le-patron-d-alstom-face-aux-grevistes-1906785-1238.php"
         },
         "20minutes.fr/2015/04/toulouse-les-vacances-sont-finies-la-gr%C3%A8ve-des-bus-a-repris": {
             "title": "Toulouse: Les vacances sont finies, la gr\u00e8ve des bus a repris...",
             "snippet": "Comme pr\u00e9vu, c'est reparti. Apr\u00e8s deux semaines de gr\u00e8ve, puis deux semaines de tr\u00eave le temps des vacances de printemps, le mouvement social a repris lundi matin dans les transports toulousains. Toulouse: La gr\u00e8ve des bus va faire un break...",
             "date": "2015-04-27",
-            "tags": "deux,gr\u00e8ve,apr\u00e8s,mouvement,social",
+            "tags": "gr\u00e8ve,apr\u00e8s,mouvement,social",
             "recuweb_url": "http://fr.recuweb.com/20minutes.fr/2015/04/toulouse-les-vacances-sont-finies-la-gr%C3%A8ve-des-bus-a-repris",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mouvement%2Bsocial&format=RSS&cc=fr",
             "source_url": "http://20minutes.fr/toulouse/1596135-20150427-toulouse-vacances-finies-greve-bus-repris"
-        },
-        "telerama.fr/2015/04/rassurer-incarner-et-rassembler-olivier-poivre-d-arvor-directeur-de-france": {
-            "title": "Rassurer, incarner et rassembler! Olivier Poivre d'Arvor, directeur de France Culture...",
-            "snippet": "M\u00eame si les directeurs de cha\u00eenes ne sont pas en premi\u00e8re ligne sur les questions budg\u00e9taires et sociales, ce mouvement social a eu une r\u00e9sonance forte en moi. Ma mission aujourd'hui est de rassurer chacun quant aux moyens dont il dispose,...",
-            "date": "2015-04-27",
-            "categories": "culture",
-            "tags": "premi\u00e8re,ligne,france,mouvement,social",
-            "recuweb_url": "http://fr.recuweb.com/culture/telerama.fr/2015/04/rassurer-incarner-et-rassembler-olivier-poivre-d-arvor-directeur-de-france",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mouvement%2Bsocial&format=RSS&cc=fr",
-            "source_url": "http://telerama.fr/radio/rassurer-incarner-et-rassembler-olivier-poivre-d-arvor-directeur-de-france-culture,125811.php"
         },
         "lemonde.fr/2015/04/nous-laur%C3%A9ats-du-prix-livre-inter-soutenons-le-mouvement-social-monde": {
             "title": "Nous Laur\u00e9ats du prix du livre Inter soutenons le mouvement social... - Le Monde...",
             "snippet": "Le MondeNous Laur\u00e9ats du prix du livre Inter soutenons le mouvement social...Le MondeNous avons voulu r\u00e9unir quelques voix, quelques signatures de ceux qui ont eu la chance de recevoir un jour pour un de leurs livres le prix de la radio France...",
             "date": "2015-04-09",
             "categories": "radio",
-            "tags": "jour,voix,mouvement,social,france",
+            "tags": "jour,mouvement,social,france",
             "recuweb_url": "http://fr.recuweb.com/radio/lemonde.fr/2015/04/nous-laur%C3%A9ats-du-prix-livre-inter-soutenons-le-mouvement-social-monde",
             "resource_url": "http://news.google.fr/?hl=fr&q=mouvement%2Bsocial&output=atom&nord=1",
             "source_url": "http://lemonde.fr/idees/article/2015/04/09/nous-laureats-du-prix-du-livre-inter-soutenons-le-mouvement-social-a-radio-france_4613197_3232.html"
         },
-        "fr.news.yahoo.com/2015/04/la-gr%C3%A8ve-des-contr%C3%B4leurs-a%C3%A9riens-agace-les-voyageurs": {
-            "title": "La gr\u00e8ve des contr\u00f4leurs a\u00e9riens agace les voyageurs...",
-            "snippet": "Le mouvement social des aiguilleurs du ciel \u00e9nerve de nombreux voyageurs: ils regrettent d'avoir \u00e9t\u00e9 pr\u00e9venus trop tard ou de ne pas avoir \u00e9t\u00e9 pr\u00e9venus du tout de l'annulation de leur vol.",
-            "date": "2015-04-08",
-            "tags": "gr\u00e8ve,mouvement,social",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/04/la-gr%C3%A8ve-des-contr%C3%B4leurs-a%C3%A9riens-agace-les-voyageurs",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=mouvement%2Bsocial",
-            "source_url": "http://fr.news.yahoo.com/gr\u00e8ve-contr\u00f4leurs-a\u00e9riens-agace-voyageurs-145926644--finance.html"
-        },
-        "fr.news.yahoo.com/2015/03/reine-d-angleterre-le-chteau-de-windsor-menac%C3%A9-par-un-mouvement": {
-            "title": "Reine d'Angleterre - Le chteau de Windsor menac\u00e9 par un mouvement social...",
-            "snippet": "Le personnel du chteau de Windsor, propri\u00e9t\u00e9 de la reine Elizabeth II, menace de mener sa premi\u00e8re action sociale, faute d'augmentation de salaire. Le syndicat des services publics et commerciaux PCS, qui dit repr\u00e9senter 120 des 200 salari\u00e9s du...",
-            "date": "2015-03-31",
-            "tags": "premi\u00e8re,action,mouvement,social,sociale",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/03/reine-d-angleterre-le-chteau-de-windsor-menac%C3%A9-par-un-mouvement",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=mouvement%2Bsocial",
-            "source_url": "http://fr.news.yahoo.com/reine-dangleterre-ch\u00e2teau-windsor-menac\u00e9-mouvement-social-210000572.html"
+        "lorientlejour.com/2015/03/gb-le-chteau-de-windsor-menac%C3%A9-par-un-mouvement-social": {
+            "title": "GB: le chteau de Windsor menac\u00e9 par un mouvement social, une... - L'Orient-Le Jour...",
+            "snippet": "GB: le chteau de Windsor menac\u00e9 par un mouvement social, une...L'Orient-Le Jour\"Il s'agit du premier mouvement de ce type, sp\u00e9cifique aux propri\u00e9t\u00e9s royales, et il intervient apr\u00e8s des ann\u00e9es de limitation salariale qui voit des employ\u00e9s...",
+            "date": "2015-03-30",
+            "tags": "apr\u00e8s,salariale,jour,mouvement,social",
+            "recuweb_url": "http://fr.recuweb.com/lorientlejour.com/2015/03/gb-le-chteau-de-windsor-menac%C3%A9-par-un-mouvement-social",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mouvement%2Bsocial&output=atom&nord=1",
+            "source_url": "http://lorientlejour.com/article/918286/gb-le-chateau-de-windsor-menace-par-un-mouvement-social-une-premiere.html"
         }
     }
 }
