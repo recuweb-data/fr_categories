@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sculpture",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sculpture/",
@@ -11,55 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/blogs.json"
     },
     "items": {
-        "trendsperiodical.fr/2015/04/artzuid-2015-amsterdam-accueille-des-sculptures-monumentales": {
-            "title": "ArtZuid 2015: Amsterdam accueille des sculptures monumentales...",
-            "snippet": "Cette ann\u00e9e, l\u00e9v\u00e9nement ArtZuid pr\u00e9sentera pas moins de 73 sculptures monumentales avec un podium de 18 sculptures dartistes venant du monde entier comme Ai WeiWei, KAWS ou encore Franck Stella. ArtZuid d\u00e9voile pour la quatri\u00e8me fois une...",
-            "date": "2015-04-27",
+        "lavoixdunord.fr/2015/04/fr%C3%A9vent-des-sculptures-animali%C3%A8res-expos%C3%A9es-au-mus%C3%A9e-wintenberger": {
+            "title": "Fr\u00e9vent: des sculptures animali\u00e8res expos\u00e9es au mus\u00e9e Wintenberger...",
+            "snippet": "Lanimatrice du mus\u00e9e Ghislaine Contesoto organisait samedi matin une exposition-vente de sculptures animali\u00e8res r\u00e9alis\u00e9es par Philippe Lepetz. Depuis sa plus jeune enfance, ce dernier est passionn\u00e9 de sculptures. Dans une volont\u00e9 dunir ses...",
+            "date": "2015-04-29",
             "categories": "sculpture",
-            "tags": "comme,monumentales,sculptures",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/trendsperiodical.fr/2015/04/artzuid-2015-amsterdam-accueille-des-sculptures-monumentales",
+            "tags": "exposition,mus\u00e9e,sculptures",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/lavoixdunord.fr/2015/04/fr%C3%A9vent-des-sculptures-animali%C3%A8res-expos%C3%A9es-au-mus%C3%A9e-wintenberger",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
-            "source_url": "http://trendsperiodical.fr/artzuid-2015-amsterdam-accueille-des-sculptures-monumentales-27402/"
+            "source_url": "http://lavoixdunord.fr/region/frevent-des-sculptures-animalieres-exposees-au-musee-ia653b16366n2800182"
         },
-        "24heures.ch/2015/04/les-sculptures-g%C3%A9antes-fleurissent-au-pays-des-iris": {
-            "title": "Les sculptures g\u00e9antes fleurissent au pays des iris...",
-            "snippet": "Dans une semaine, quand les jardins du chteau de Vullierens ouvriront leurs portes pour les soixanti\u00e8mes Floralies, le public aura bien s\u00fbr rendez-vous avec les iris et leur grce naturelle, mais aussi avec des sculptures \u00e9tonnantes, assez...",
-            "date": "2015-04-27",
-            "categories": "sculpture",
-            "tags": "portes,sculptures",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/24heures.ch/2015/04/les-sculptures-g%C3%A9antes-fleurissent-au-pays-des-iris",
+        "leparisien.fr/2015/04/le-plessis-tr%C3%A9vise-des-sculptures-dans-parc-tourelles": {
+            "title": "Le Plessis-Tr\u00e9vise: des sculptures dans le parc des Tourelles...",
+            "snippet": "Lart sexpose au chteau des Tourelles du Plessis-Tr\u00e9vise, un lieu sp\u00e9cialement d\u00e9di\u00e9 aux expositions, et cette fois-ci jusque dans son parc. A partir de jeudi, une exposition th\u00e9matique fait l\u00e9loge de la nature et de labstraction...",
+            "date": "2015-04-29",
+            "categories": "nature,sculpture",
+            "tags": "sculptures",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/leparisien.fr/2015/04/le-plessis-tr%C3%A9vise-des-sculptures-dans-parc-tourelles",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
-            "source_url": "http://24heures.ch/culture/sculptures-geantes-fleurissent-pays-iris/story/10932262"
+            "source_url": "http://leparisien.fr/le-plessis-trevise-94420/le-plessis-trevise-des-sculptures-dans-le-parc-des-tourelles-29-04-2015-4734147.php"
         },
-        "valeursactuelles.com/2015/04/les-ma%C3%AEtres-de-la-sculpture-c%C3%B4te-d-ivoire-valeurs-actuelles": {
-            "title": "Les Ma\u00eetres de la Sculpture de C\u00f4te d'Ivoire - Valeurs Actuelles...",
-            "snippet": "Valeurs ActuellesLes Ma\u00eetres de la Sculpture de C\u00f4te d'IvoireValeurs Actuelles... fonte, tissage pour ne citer qu'elles ainsi que les sp\u00e9cificit\u00e9s de chaque r\u00e9gion, tribu ou sculpteur. La statuaire ivoirienne n'appara\u00eet alors plus comme une...",
-            "date": "2015-04-26",
+        "bati-journal.com/2015/04/entre-architecture-et-sculpture": {
+            "title": "Entre architecture et sculpture...",
+            "snippet": "Process Bois lance Linea Shape, un proc\u00e9d\u00e9 de panneaux en bois massif ajour\u00e9s ou acoustiques pour plafond suspendu et habillage mural. Form\u00e9s de lames courbes constituant une fois assembl\u00e9es une surface ajour\u00e9e multi-performative, paysage...",
+            "date": "2015-04-28",
             "categories": "sculpture",
-            "tags": "comme,aire,sculpture",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/valeursactuelles.com/2015/04/les-ma%C3%AEtres-de-la-sculpture-c%C3%B4te-d-ivoire-valeurs-actuelles",
-            "resource_url": "http://news.google.fr/?hl=fr&q=sculpture%2Bsculpture&output=atom&nord=1",
-            "source_url": "http://valeursactuelles.com/culture-tops/les-maitres-de-la-sculpture-de-cote-divoire-52493"
+            "tags": "bois,sculpture",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/bati-journal.com/2015/04/entre-architecture-et-sculpture",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://bati-journal.com/construction-bois?news=98882895"
         },
-        "fr.news.yahoo.com/2015/03/la-sculpture-de-juan-carlos-qui-bouleverse-l-espagne": {
-            "title": "La sculpture de Juan Carlos qui bouleverse l'Espagne...",
-            "snippet": "ART - Depuis quelques jours, l'Espagne est boulevers\u00e9e par une exposition controvers\u00e9e montrant une sculpture de l'ancien roi d'Espagne, Juan Carlos, en train d'\u00eatre sodomis\u00e9 symboliquement.",
-            "date": "2015-03-23",
-            "categories": "sculpture",
-            "tags": "\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,jours,juan,juan_carlos,carlos,sculpture,espagne,art",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/fr.news.yahoo.com/2015/03/la-sculpture-de-juan-carlos-qui-bouleverse-l-espagne",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sculpture",
-            "source_url": "http://fr.news.yahoo.com/sculpture-juan-carlos-fait-pol\u00e9mique-110640711.html"
-        },
-        "fr-ca.actualites.yahoo.com/2015/03/espagne-un-mus%C3%A9e-expose-une-sculpture-pol%C3%A9mique-du-roi-juan-carlos": {
-            "title": "Espagne: un mus\u00e9e expose une sculpture pol\u00e9mique du roi Juan Carlos...",
-            "snippet": "Une exposition controvers\u00e9e montrant une sculpture de l'ancien roi d'Espagne Juan Carlos en position d'\u00eatre sodomis\u00e9 a finalement ouvert ses portes ce week-end au Mus\u00e9e d'art contemporain de Barcelone (MACBA), son directeur \u00e9tant revenu sur sa...",
-            "date": "2015-03-22",
-            "categories": "sculpture",
-            "tags": "contemporain,\u00eatre,\u00eatre-sodomis\u00e9,sodomis\u00e9,portes,ancien,ancien-roi,roi,exposition,exposition-controvers\u00e9e,exposition-controvers\u00e9e-montrant,controvers\u00e9e,controvers\u00e9e-montrant,montrant,juan,juan_carlos,carlos,espagne,sculpture,art",
-            "recuweb_url": "http://fr.recuweb.com/sculpture/fr-ca.actualites.yahoo.com/2015/03/espagne-un-mus%C3%A9e-expose-une-sculpture-pol%C3%A9mique-du-roi-juan-carlos",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=sculpture",
-            "source_url": "http://fr-ca.actualites.yahoo.com/espagne-un-mus\u00e9e-expose-une-sculpture-pol\u00e9mique-du-134715846.html"
+        "ici.radio-canada.ca/2015/04/sculptures-et-chanson-au-domaine-forget": {
+            "title": "Sculptures et chanson au Domaine Forget...",
+            "snippet": "Le Festival international du Domaine Forget propose plusieurs nouveaut\u00e9s pour sa 37e saison musicale. Le festival introduit cette saison de la musique populaire, mentionne le directeur artistique Paul Fortin. Trois grands artistes qu\u00e9b\u00e9cois,...",
+            "date": "2015-04-28",
+            "categories": "musique,sculpture",
+            "tags": "sculptures,artistes",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/ici.radio-canada.ca/2015/04/sculptures-et-chanson-au-domaine-forget",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://ici.radio-canada.ca/regions/quebec/2015/04/28/010-domaine-forget-programmation-musique-classique.shtml"
         }
     }
 }
