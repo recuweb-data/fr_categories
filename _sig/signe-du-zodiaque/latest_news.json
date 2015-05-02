@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "signe-du-zodiaque",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/signe-du-zodiaque/",
@@ -11,22 +11,12 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/signe-du-zodiaque/signe-du-zodiaque/blogs.json"
     },
     "items": {
-        "tvqc.com/2015/04/etotama-deux-nouvelles-vid%C3%A9os-promos-tvqc": {
-            "title": "Etotama: deux nouvelles vid\u00e9os promos - TVQC...",
-            "snippet": "TVQCEtotama: deux nouvelles vid\u00e9os promosTVQCDepuis la nuit des temps, le Japon a perp\u00e9tu\u00e9 la tradition des douze signes du zodiaque. Les Filles du Zodiaque sont les messag\u00e8res de ces signes. Ces \u00eatres mi-humains mi-animaux font le lien entre...",
-            "date": "2015-04-11",
-            "categories": "tradition,zodiaque",
-            "tags": "font,signes,zodiaque",
-            "recuweb_url": "http://fr.recuweb.com/zodiaque/tvqc.com/2015/04/etotama-deux-nouvelles-vid%C3%A9os-promos-tvqc",
-            "resource_url": "http://news.google.fr/?hl=fr&q=signe%2Bdu%2Bzodiaque&output=atom&nord=1",
-            "source_url": "http://tvqc.com/2015/04/etotama-deux-nouvelles-videos-promos/"
-        },
         "blogs.lexpress.fr/2015/04/v%C3%A9nus-en-g%C3%A9meaux-l%C3%A9ger-l-express": {
             "title": "V\u00e9nus en G\u00e9meaux: l\u00e9ger, l\u00e9ger! - L'Express...",
             "snippet": "V\u00e9nus en G\u00e9meaux: l\u00e9ger, l\u00e9ger!L'ExpressDe demain, dimanche 12 avril, au 8 mai, la belle V\u00e9nus transitera le plus joueur de tous les signes du zodiaque: le G\u00e9meaux. Une bonne p\u00e9riode pour s'amuser, s'\u00e9gailler et papillonner sans trop penser...",
             "date": "2015-04-10",
             "categories": "zodiaque",
-            "tags": "g\u00e9meaux,signes,zodiaque",
+            "tags": "signes,zodiaque",
             "recuweb_url": "http://fr.recuweb.com/zodiaque/blogs.lexpress.fr/2015/04/v%C3%A9nus-en-g%C3%A9meaux-l%C3%A9ger-l-express",
             "resource_url": "http://news.google.fr/?hl=fr&q=signe%2Bdu%2Bzodiaque&output=atom&nord=1",
             "source_url": "http://blogs.lexpress.fr/styles/astrorama/2015/04/10/venus-en-gemeaux-leger-leger/"
@@ -38,7 +28,7 @@
             "categories": "zodiaque",
             "tags": "signes,zodiaque",
             "recuweb_url": "http://fr.recuweb.com/zodiaque/gizmodo.fr/2015/01/ces-signes-du-zodiaque-vont-hanter-vos-cauchemars-gizmodo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=signe%2Bdu%2Bzodiaque&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=signe%2Bdu%2Bzodiaque%2Bsigne%2Bdu%2Bzodiaque&output=atom&nord=1",
             "source_url": "http://gizmodo.fr/2015/01/20/signes-zodiaque-hanter-cauchemars.html"
         }
     }
