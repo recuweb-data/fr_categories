@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,6 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
+        "techniques-ingenieur.fr/2015/04/les-chercheurs-fran%C3%A7ais-n%C3%A9gligent-blogs-scientifiques": {
+            "title": "Les chercheurs fran\u00e7ais n\u00e9gligent les blogs scientifiques...",
+            "snippet": "Malgr\u00e9 lexplosion du blogging dans le monde, la communaut\u00e9 scientifique fran\u00e7aise ne sy int\u00e9resse que mod\u00e9r\u00e9ment, contrairement aux anglosaxons. Il existe plus de 200 millions de blogs dans le monde, et chaque mois 3 millions de nouveaux...",
+            "date": "2015-04-29",
+            "tags": "millions,millions-de-blogs,monde,existe,communaut\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/techniques-ingenieur.fr/2015/04/les-chercheurs-fran%C3%A7ais-n%C3%A9gligent-blogs-scientifiques",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
+            "source_url": "http://techniques-ingenieur.fr/actualite/etre-ingenieur-thematique_89431/les-chercheurs-francais-negligent-les-blogs-scientifiques-article_292814/"
+        },
+        "01net.com/2015/04/une-faille-dans-wordpress-rend-des-millions-de-blogs-vuln%C3%A9rables-01net": {
+            "title": "Une faille dans WordPress rend des millions de blogs vuln\u00e9rables - 01net...",
+            "snippet": "Une faille dans WordPress rend des millions de blogs vuln\u00e9rables01netUn chercheur en s\u00e9curit\u00e9 finnois, Jouko Pynn\u00f6nen, a mis la main sur une jolie faille de s\u00e9curit\u00e9 zero-day dans WordPress, l'un des outils de blog les plus utilis\u00e9 au monde...",
+            "date": "2015-04-28",
+            "categories": "wordpress",
+            "tags": "monde,millions,millions-de-blogs,wordpress",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/01net.com/2015/04/une-faille-dans-wordpress-rend-des-millions-de-blogs-vuln%C3%A9rables-01net",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
+            "source_url": "http://01net.com/editorial/653515/une-faille-dans-wordpress-rend-des-millions-de-blogs-vulnerables/"
+        },
         "blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent": {
             "title": "L'art de rendre visibles ceux qui n'existent plus - Les blogs du Diplo (Blog)...",
             "snippet": "L'art de rendre visibles ceux qui n'existent plusLes blogs du Diplo (Blog)On aurait aim\u00e9 interviewer le r\u00e9alisateur chinois Wang Bing comme il filme ses personnages. Sans question ni r\u00e9ponse. A distance de ce qu'ils sont mais au plus proche de ce...",
@@ -34,7 +53,7 @@
             "title": "Les blogs de la semaine sont Tests & Cie et Vis ma vie de... - Frandroid...",
             "snippet": "FrandroidLes blogs de la semaine sont Tests & Cie et Vis ma vie de...FrandroidDevant leur (r\u00e9-)activit\u00e9, nous souhaitons mettre en avant deux blogueurs parmi ceux qui comptent parmi les plus actifs et pertinents de la communaut\u00e9 FrAndroid. Cette...",
             "date": "2015-04-21",
-            "tags": "blogueurs",
+            "tags": "blogueurs,communaut\u00e9,vie",
             "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://frandroid.com/humanoid/279199_les-blogs-de-la-semaine-sont-tests-cie-et-vis-ma-vie-de-developpeur"
@@ -53,7 +72,7 @@
             "snippet": "La menace terroriste et la fin des blogs persoLe Huffington PostINTERNET - Il y a un peu plus de 10 ans, les blogs ont envahit l'Internet. Des millions de sites Web personnels sont apparus spontan\u00e9ment partout dans le monde. Co-auteur avec Cyril...",
             "date": "2015-04-13",
             "categories": "internet",
-            "tags": "monde,huffington,fin,web",
+            "tags": "monde,millions,huffington,web",
             "recuweb_url": "http://fr.recuweb.com/internet/huffingtonpost.fr/2015/04/la-menace-terroriste-et-fin-des-blogs-perso-le-huffington",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/emily-turrettini/cyberterrorisme-blogs-perso_b_7049294.html"
