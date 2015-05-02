@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "litterature",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/litterature/",
@@ -11,38 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/litterature/litterature/blogs.json"
     },
     "items": {
-        "frequenceterre.com/2015/04/journ%C3%A9es-d-%C3%A9tudes-%C3%A9colije-%C3%A9cologie-et-litt%C3%A9rature-pour-la-jeunesse": {
-            "title": "Journ\u00e9es d'\u00e9tudes \u00e9colije \u00c9cologie et litt\u00e9rature pour la jeunesse...",
-            "snippet": "Journ\u00e9es d'\u00e9tudes \u00e9colije \u00c9cologie et litt\u00e9rature pour la jeunesse. 2 heuresil y a 12 Viewed Robot Automatique Commentaires ferm\u00e9s sur Journ\u00e9es d'\u00e9tudes \u00e9colije \u00c9cologie et litt\u00e9rature pour la jeunesse...",
-            "date": "2015-04-27",
-            "author_name": "Robot Automatique",
-            "categories": "litterature",
-            "tags": "litt\u00e9rature",
-            "recuweb_url": "http://fr.recuweb.com/litterature/frequenceterre.com/2015/04/journ%C3%A9es-d-%C3%A9tudes-%C3%A9colije-%C3%A9cologie-et-litt%C3%A9rature-pour-la-jeunesse",
+        "radiolaser.fr/2015/04/litt%C3%A9rature-le-play-mobile-du-crime-radio-laser": {
+            "title": "Litt\u00e9rature: le (play)mobile du crime - Radio Laser...",
+            "snippet": "F\u00e9lix Boul\u00e9 vous conseille cette semaine de lire L'amour et les for\u00eats, le dernier roman d'Eric Reinhardt, qui d\u00e9peint un couple en plein naufrage.",
+            "date": "2015-04-29",
+            "author_name": "Antoine Barrailler",
+            "categories": "radio,litterature,play",
+            "tags": "dernier,f\u00e9lix,litt\u00e9rature",
+            "recuweb_url": "http://fr.recuweb.com/play/radiolaser.fr/2015/04/litt%C3%A9rature-le-play-mobile-du-crime-radio-laser",
             "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://frequenceterre.com/2015/04/27/journees-detudes-ecolije-ecologie-et-litterature-pour-la-jeunesse/"
+            "source_url": "http://radiolaser.fr/Litterature-le-play-mobile-du-crime_a14193.html"
         },
-        "litteratureaudio.com/2015/04/pen-bron-litterature": {
-            "title": "Pen Bron - Litterature...",
-            "snippet": "T\u00e9l\u00e9chargez gratuitement le livre audio: LOTI, Pierre L'uvre de Pen Bron Veuves de p\u00eacheurs Pays sans nom. Format MP3.",
-            "date": "2015-04-27",
+        "litteratureaudio.com/2015/04/la-dent-d-hercule-petitgris-litterature": {
+            "title": "La Dent d'Hercule Petitgris - Litterature...",
+            "snippet": "T\u00e9l\u00e9chargez gratuitement le livre audio: LEBLANC, Maurice La Dent d'Hercule Petitgris. Format MP3.",
+            "date": "2015-04-29",
             "author_name": "contact@litteratureaudio.com",
             "categories": "litterature",
-            "tags": "gratuitement,litterature,t\u00e9l\u00e9chargez,livre,audio,format",
-            "recuweb_url": "http://fr.recuweb.com/litterature/litteratureaudio.com/2015/04/pen-bron-litterature",
+            "tags": "livre",
+            "recuweb_url": "http://fr.recuweb.com/litterature/litteratureaudio.com/2015/04/la-dent-d-hercule-petitgris-litterature",
             "resource_url": "http://www.google.com/search?q=litterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://litteratureaudio.com/livre-audio-gratuit-mp3/loti-pierre-l\u2019oeuvre-de-pen-bron-veuves-de-pecheurs-pays-sans-nom.html"
-        },
-        "litteratureaudio.com/2015/04/premi%C3%A8re-le%C3%A7on-de-t%C3%A9n%C3%A8bres-litterature": {
-            "title": "Premi\u00e8re Le\u00e7on de t\u00e9n\u00e8bres - Litterature...",
-            "snippet": "T\u00e9l\u00e9chargez gratuitement le livre audio: DEGANDT, Alain Premi\u00e8re Le\u00e7on de t\u00e9n\u00e8bres (Po\u00e8me). Format MP3.",
-            "date": "2015-04-27",
-            "author_name": "contact@litteratureaudio.com",
-            "categories": "litterature",
-            "tags": "gratuitement,litterature,t\u00e9l\u00e9chargez,livre,audio,format",
-            "recuweb_url": "http://fr.recuweb.com/litterature/litteratureaudio.com/2015/04/premi%C3%A8re-le%C3%A7on-de-t%C3%A9n%C3%A8bres-litterature",
-            "resource_url": "http://www.google.com/search?q=litterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://litteratureaudio.com/livre-audio-gratuit-mp3/degandt-alain-premiere-lecon-de-tenebres-poeme.html"
+            "source_url": "http://litteratureaudio.com/livre-audio-gratuit-mp3/leblanc-maurice-la-dent-dhercule-petitgris.html"
         },
         "snes.edu/2015/04/programme-2015-2016-litt%C3%A9rature-terminale-l-snes": {
             "title": "PROGRAMME 2015-2016 Litt\u00e9rature terminale L - SNES...",
@@ -50,7 +39,7 @@
             "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "litterature",
-            "tags": "litt\u00e9rature,terminale",
+            "tags": "programme,litt\u00e9rature,terminale",
             "recuweb_url": "http://fr.recuweb.com/litterature/snes.edu/2015/04/programme-2015-2016-litt%C3%A9rature-terminale-l-snes",
             "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://snes.edu/PROGRAMME-2015-2016-Litterature-terminale-L.html"
@@ -61,21 +50,21 @@
             "date": "2015-04-17",
             "author_name": "Agn\u00e8s Leroy",
             "categories": "litterature",
-            "tags": "lieu,m\u00e9moire,litt\u00e9raire,litt\u00e9rature",
+            "tags": "lieu,litt\u00e9rature",
             "recuweb_url": "http://fr.recuweb.com/litterature/slate.fr/2015/04/quand-l-hypermarch%C3%A9-devient-objet-litt%C3%A9raire",
             "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100507/hypermarche-devient-objet-litteraire"
         },
-        "slate.fr/2015/04/les-meilleures-r%C3%A9f%C3%A9rences-litt%C3%A9raires-dans-mad-men": {
-            "title": "Les meilleures r\u00e9f\u00e9rences litt\u00e9raires dans Mad Men...",
-            "snippet": "Les cr\u00e9ateurs de Mad Men utilisent des r\u00e9f\u00e9rences litt\u00e9raires qui c\u00e9l\u00e8brent la litt\u00e9rature du XXe si\u00e8cle. Billy Parrott, responsable de la collection d'art et d'images de la New York Public Library, a not\u00e9 le sens cach\u00e9 de ces...",
-            "date": "2015-04-07",
-            "author_name": "Myriam L",
-            "categories": "collection,litterature",
-            "tags": "collection,litt\u00e9raires,litt\u00e9rature,si\u00e8cle",
-            "recuweb_url": "http://fr.recuweb.com/litterature/slate.fr/2015/04/les-meilleures-r%C3%A9f%C3%A9rences-litt%C3%A9raires-dans-mad-men",
-            "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/100045/references-litteraires-mad-men"
+        "filfrancophones.com/2015/03/programme-journ%C3%A9es-d-%C3%A9tudes-consacr%C3%A9es-%C3+": {
+            "title": "Programme JOURN\u00c9ES D'\u00c9TUDES CONSACR\u00c9ES \u00c0 LA...",
+            "snippet": "JOURN\u00c9ES D'\u00c9TUDES CONSACR\u00c9ES \u00c0 LA LITT\u00c9RATURE TOGOLAISE Lom\u00e9, les 30 & 31 mars 2015/Organisateurs: D\u00e9partements de Lettres modernes, Allemand, Sciences du langage, Anglais (FLESH/Universit\u00e9 de...",
+            "date": "2015-03-27",
+            "author_name": "filfrancophones",
+            "categories": "langage,litterature,science",
+            "tags": "litt\u00e9rature,programme,universit\u00e9",
+            "recuweb_url": "http://",
+            "resource_url": "http://www.google.com/search?q=litterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://filfrancophones.com/2015/03/27/programme-journees-detudes-consacrees-a-la-litterature-togolaise/"
         }
     }
 }
