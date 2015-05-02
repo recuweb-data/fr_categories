@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "politique",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/politique/",
@@ -11,105 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/politique/politique/blogs.json"
     },
     "items": {
-        "lefigaro.fr/2015/04/arnaud-montebourg-n-oublie-pas-totalement-la-politique": {
-            "title": "Arnaud Montebourg n'oublie pas (totalement) la politique...",
-            "snippet": "LE SCAN POLITIQUE - En retrait de la vie publique, l'ancien ministre de l'\u00c9conomie effectuera n\u00e9anmoins sa traditionnelle ascension du Mont Beuvray, le 25 mai. Il l'a confi\u00e9 r\u00e9cemment devant quelques militants locaux. Arnaud Montebourg fera bien...",
-            "date": "2015-04-28",
+        "humanite.fr/2015/05/beno%C3%AEt-hamon-la-politique-du-gouvernement-augmente-les-l-humanit%C3%A9": {
+            "title": "Beno\u00eet Hamon: La politique du gouvernement augmente les... - L'Humanit\u00e9...",
+            "snippet": "L'Humanit\u00e9Beno\u00eet Hamon: La politique du gouvernement augmente les...L'Humanit\u00e9Il faut distinguer les politiques du gouvernement. Je suis socialiste. Je suis donc satisfait des orientations prises dans le domaine de la justice, de l'\u00e9ducation, de...",
+            "date": "2015-05-01",
             "categories": "politique",
-            "tags": "ministre,vie,scan,scan_politique,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/lefigaro.fr/2015/04/arnaud-montebourg-n-oublie-pas-totalement-la-politique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://lefigaro.fr/politique/le-scan/2015/04/28/25001-20150428ARTFIG00255-arnaud-montebourg-n-oublie-pas-totalement-la-politique.php"
-        },
-        "lepoint.fr/2015/04/ch%C3%B4mage-en-hausse-les-r%C3%A9actions-politiques": {
-            "title": "Ch\u00f4mage en hausse: les r\u00e9actions politiques...",
-            "snippet": "Le ch\u00f4mage a atteint un record historique en mars avec 3,51 millions de demandeurs d'emploi sans activit\u00e9 en m\u00e9tropole, soit 15 400 de plus par rapport au mois de f\u00e9vrier. Ce n'est pas un bon r\u00e9sultat, mais en m\u00eame temps, cela ne change pas...",
-            "date": "2015-04-28",
-            "categories": "emploi,politique",
-            "tags": "politiques,historique",
-            "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/04/ch%C3%B4mage-en-hausse-les-r%C3%A9actions-politiques",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://lepoint.fr/politique/chomage-en-hausse-les-reactions-politiques-28-04-2015-1924784_20.php"
-        },
-        "afrik.com/2015/04/du-r%C3%A8gne-des-partis-uniques-au-probl%C3%A8me-de-lalternance-politique": {
-            "title": "Du r\u00e8gne des partis uniques au probl\u00e8me de lalternance politique...",
-            "snippet": "Le renouveau d\u00e9mocratique des ann\u00e9es 1990 est apparu dans un contexte domin\u00e9 par des d\u00e9cennies de r\u00e8gne du parti unique, la personnalisation du pouvoir, la confusion de lappareil \u00e9tatique, et lincursion fr\u00e9quente de larm\u00e9e dans les...",
-            "date": "2015-04-28",
-            "categories": "politique",
-            "tags": "larm\u00e9e,ann\u00e9es,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/afrik.com/2015/04/du-r%C3%A8gne-des-partis-uniques-au-probl%C3%A8me-de-lalternance-politique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://afrik.com/du-regne-des-partis-uniques-au-probleme-de-l-alternance-politique,47757"
-        },
-        "frequenceterre.com/2015/04/la-politique-climatique-doit-%C3%AAtre-port%C3%A9e-par-le-premier-ministre": {
-            "title": "La politique climatique doit \u00eatre port\u00e9e par le Premier ministre...",
-            "snippet": "2 minutesil y a 2 Viewed Robot Automatique Commentaires ferm\u00e9s sur La politique climatique doit \u00eatre port\u00e9e par le Premier ministre AVERTISSEMENT: Les communiqu\u00e9s de presse publi\u00e9s dans cette rubrique ne sont pas r\u00e9dig\u00e9s par la r\u00e9daction...",
-            "date": "2015-04-28",
-            "categories": "politique",
-            "tags": "politique,premier,ministre",
-            "recuweb_url": "http://fr.recuweb.com/politique/frequenceterre.com/2015/04/la-politique-climatique-doit-%C3%AAtre-port%C3%A9e-par-le-premier-ministre",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://frequenceterre.com/2015/04/28/la-politique-climatique-doit-etre-portee-par-le-premier-ministre-3/"
-        },
-        "latribune.fr/2015/04/pas-de-redynamisation-des-centres-villes-sans-courage-politique": {
-            "title": "Pas de redynamisation des centres-villes sans courage politique - La...",
-            "snippet": "La de redynamisation des centres-villes sans courage politiqueLa des ann\u00e9es, on a fait de la voiture l'ennemi n1 des centres-villes: pi\u00e9tonisation des grandes art\u00e8res commer\u00e7antes, politiques tarifaires agressives en mati\u00e8re de stationnement,...",
-            "date": "2015-04-28",
-            "categories": "politique",
-            "tags": "politiques,politique,ann\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/politique/latribune.fr/2015/04/pas-de-redynamisation-des-centres-villes-sans-courage-politique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
-            "source_url": "http://latribune.fr/opinions/tribunes/pas-de-redynamisation-des-centres-villes-sans-courage-politique-472300.html"
-        },
-        "lefigaro.fr/2015/04/la-mise-en-sc%C3%A8ne-de-vie-politique-critiqu%C3%A9e-par-fran%C3%A7ois-fillon": {
-            "title": "La mise en sc\u00e8ne de la vie politique critiqu\u00e9e par Fran\u00e7ois Fillon - Le Figaro...",
-            "snippet": "Le FigaroLa mise en sc\u00e8ne de la vie politique critiqu\u00e9e par Fran\u00e7ois FillonLe FigaroJe pense qu'il y a une mise en sc\u00e8ne de la vie politique qui va d'ailleurs s'acc\u00e9l\u00e9rant et qui progressivement \u00e9loigne les responsables politiques du fond des...",
-            "date": "2015-04-26",
-            "categories": "politique",
-            "tags": "responsables,politiques,politique,vie,fran\u00e7ois",
-            "recuweb_url": "http://fr.recuweb.com/politique/lefigaro.fr/2015/04/la-mise-en-sc%C3%A8ne-de-vie-politique-critiqu%C3%A9e-par-fran%C3%A7ois-fillon",
+            "tags": "gouvernement,politiques",
+            "recuweb_url": "http://fr.recuweb.com/politique/humanite.fr/2015/05/beno%C3%AEt-hamon-la-politique-du-gouvernement-augmente-les-l-humanit%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
-            "source_url": "http://lefigaro.fr/politique/le-scan/coulisses/2015/04/26/25006-20150426ARTFIG00132-la-mise-en-scene-de-la-vie-politique-critiquee-par-francois-fillon.php"
+            "source_url": "http://humanite.fr/benoit-hamon-la-politique-du-gouvernement-augmente-les-inegalites-572970"
         },
-        "fr.news.yahoo.com/2015/04/christian-paul-trop-souvent-depuis-trois-ans-le-ps-a-laiss%C3%A9": {
-            "title": "Christian Paul: Trop souvent depuis trois ans, le PS a laiss\u00e9 faire...",
-            "snippet": "LE SCAN POLITIQUE - Le d\u00e9put\u00e9 frondeur est le premier signataire de la motion qui r\u00e9unit l'aile gauche du PS. Il d\u00e9taille au Monde sa strat\u00e9gie et d\u00e9clare vouloir instaurer un d\u00e9bat de politique \u00e9conomique.",
-            "date": "2015-04-10",
+        "tempsreel.nouvelobs.com/2015/05/front-national-le-marinisme-du-neuf-avec-vieux": {
+            "title": "Front national: le marinisme? Du neuf avec du vieux...",
+            "snippet": "Lhistorien Nicolas Lebourg met en garde contre une triple confusion, dune part entre un courant politique issu du 19e si\u00e8cle et des r\u00e9gimes du 20e, dautre part entre des mouvements et des Etats, et enfin entre la France dun c\u00f4t\u00e9...",
+            "date": "2015-05-01",
             "categories": "politique",
-            "tags": "d\u00e9put\u00e9,premier,motion,scan,scan_politique,politique,\u00e9conomique",
-            "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/christian-paul-trop-souvent-depuis-trois-ans-le-ps-a-laiss%C3%A9",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
-            "source_url": "http://fr.news.yahoo.com/christian-paul-souvent-depuis-trois-ans-ps-laiss\u00e9-155917311.html"
+            "tags": "contre,nicolas,politique,france",
+            "recuweb_url": "http://fr.recuweb.com/politique/tempsreel.nouvelobs.com/2015/05/front-national-le-marinisme-du-neuf-avec-vieux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://tempsreel.nouvelobs.com/politique/20150429.OBS8176/front-national-le-marinisme-du-neuf-avec-du-vieux.html"
         },
-        "fr.news.yahoo.com/2015/04/didier-guillaume-juge-grave-que-des-frondeurs-dirigent-une-motion": {
-            "title": "Didier Guillaume juge grave que des frondeurs dirigent une motion...",
-            "snippet": "LE SCAN POLITIQUE - Chaque semaine, l'\u00e9mission Parlement Hebdo, sur les cha\u00eenes parlementaires Public S\u00e9nat et LCP, en partenariat avec Le Scan, fait intervenir un invit\u00e9 politique sur l'actualit\u00e9 de la semaine. Aujourd'hui, le pr\u00e9sident du...",
-            "date": "2015-04-10",
+        "jeanmarcmorandini.com/2015/05/sondage-plus-des-deux-tiers-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique": {
+            "title": "Sondage: Plus des deux tiers des Fran\u00e7ais m\u00e9contents de la politique \u00e9conomique et sociale de...",
+            "snippet": "Plus des deux tiers des Fran\u00e7ais (68%) se d\u00e9clarent m\u00e9contents de la politique \u00e9conomique et sociale du gouvernement de Manuel Valls, soit une hausse de deux points depuis f\u00e9vrier, selon un sondage Tilder/LCI/OpinionWay publi\u00e9 jeudi. 41%...",
+            "date": "2015-05-01",
             "categories": "politique",
-            "tags": "semaine,scan,scan_politique,politique,motion,guillaume",
-            "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/didier-guillaume-juge-grave-que-des-frondeurs-dirigent-une-motion",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
-            "source_url": "http://fr.news.yahoo.com/didier-guillaume-cest-grave-frondeurs-dirigent-motion-135609249.html"
+            "tags": "deux,manuel,manuel_valls,valls,\u00e9conomique,gouvernement,m\u00e9contents,fran\u00e7ais,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/jeanmarcmorandini.com/2015/05/sondage-plus-des-deux-tiers-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://jeanmarcmorandini.com/article-336621-sondage-plus-des-deux-tiers-des-francais-mecontents-de-la-politique-economique-et-sociale-de-manuel-valls.html"
         },
-        "fr.news.yahoo.com/2015/04/les-politiques-moquent-le-spectacle-humiliant-auquel-se-livre-la-famille": {
-            "title": "Les politiques moquent le spectacle humiliant auquel se livre la famille Le Pen...",
-            "snippet": "LE SCAN POLITIQUE - Nombre de responsables politique ont d\u00e9nonc\u00e9 le d\u00e9chirement auquel se sont livr\u00e9s cette semaine Marine Le Pen et son p\u00e8re par m\u00e9dias interpos\u00e9s.",
-            "date": "2015-04-10",
-            "categories": "politique",
-            "tags": "semaine,responsables,scan,scan_politique,politiques",
-            "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/les-politiques-moquent-le-spectacle-humiliant-auquel-se-livre-la-famille",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
-            "source_url": "http://fr.news.yahoo.com/politiques-moquent-spectacle-humiliant-auquel-livre-famille-pen-093316889.html"
+        "journaldemontreal.com/2015/05/trouvez-la-politique-plate-blmez-lordinateur-et-richard-nixon": {
+            "title": "Trouvez la politique plate? Blmez lordinateur et Richard Nixon...",
+            "snippet": "Les d\u00e9bats politiques sur lavenir de nos soci\u00e9t\u00e9s ont longtemps carbur\u00e9 aux statistiques. Aujourdhui, les indicateurs comptables semblent balayer tout autant la politique que lavenir. Le choix des chiffres programme nos perceptions, d\u00e9bats...",
+            "date": "2015-05-01",
+            "categories": "perception,politique",
+            "tags": "longtemps,politiques",
+            "recuweb_url": "http://fr.recuweb.com/politique/journaldemontreal.com/2015/05/trouvez-la-politique-plate-blmez-lordinateur-et-richard-nixon",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://journaldemontreal.com/2015/05/01/trouvez-la-politique-plate-blamez-lordinateur-et-richard-nixon"
         },
-        "fr.news.yahoo.com/2015/04/lille-xavier-bertrand-fait-du-canal-seine-nord-europe-son-cheval": {
-            "title": "Lille: Xavier Bertrand fait du canal Seine Nord Europe son cheval de bataille...",
-            "snippet": "POLITIQUE - Le d\u00e9put\u00e9-maire UMP de St Quentin n'imagine pas l'avenir de la future r\u00e9gion Nord-Pas-de-Calais Picardie sans le canal...",
-            "date": "2015-04-10",
+        "lepoint.fr/2015/05/zapping-du-point-le-best-of-de-la-politique": {
+            "title": "Zapping du Point: le best of de la politique...",
+            "snippet": "VID\u00c9O. Manuel Valls s'insurge contre Marion Mar\u00e9chal-Le Pen, Florian Philippot se moque d'Emmanuel Macron... Le best of de l'actu politique en ce 1er mai. La sc\u00e8ne s'est jou\u00e9e au mois de mars dans l'h\u00e9micycle. Manuel Valls, Premier ministre,...",
+            "date": "2015-05-01",
             "categories": "politique",
-            "tags": "politique,d\u00e9put\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/politique/fr.news.yahoo.com/2015/04/lille-xavier-bertrand-fait-du-canal-seine-nord-europe-son-cheval",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=politique",
-            "source_url": "http://fr.news.yahoo.com/lille-xavier-bertrand-fait-canal-seine-nord-europe-151249104.html"
+            "tags": "mois,mai,contre,manuel,manuel_valls,valls,politique,pen,premier,ministre",
+            "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/05/zapping-du-point-le-best-of-de-la-politique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://lepoint.fr/zapping-du-point/zapping-du-point-le-best-of-de-la-politique-01-05-2015-1925636_2470.php"
+        },
+        "lepoint.fr/2015/04/68%-des-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique-valls": {
+            "title": "68% des Fran\u00e7ais m\u00e9contents de la politique \u00e9conomique de Valls...",
+            "snippet": "41% des personnes interrog\u00e9es se disent assez m\u00e9contentes et 27% tr\u00e8s m\u00e9contentes de cette politique men\u00e9e par le Premier ministre. Une large majorit\u00e9 des Fran\u00e7ais est m\u00e9contente de la politique \u00e9conomique de Valls. Yann KORBI/AFP Plus...",
+            "date": "2015-04-30",
+            "categories": "politique",
+            "tags": "\u00e9conomique,m\u00e9contents,fran\u00e7ais,politique,valls,premier,ministre",
+            "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/04/68%-des-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique-valls",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://lepoint.fr/economie/68-des-francais-mecontents-de-la-politique-economique-de-valls-30-04-2015-1925483_28.php"
+        },
+        "lyonne.fr/2015/04/au-fn-un-d%C3%A9fil%C3%A9-du-1er-mai-entre-progr%C3%A8s-%C3%A9lectoraux": {
+            "title": "Au FN, un d\u00e9fil\u00e9 du 1er mai entre progr\u00e8s \u00e9lectoraux et tensions internes...",
+            "snippet": "Pour son 28e d\u00e9fil\u00e9 du 1er mai, Marine Le Pen aurait simplement pu savourer ses bons r\u00e9sultats aux d\u00e9partementales et une conjoncture politique favorable: las, les deux derniers mois ont aussi \u00e9t\u00e9 le th\u00e9tre d'une violente brouille familiale...",
+            "date": "2015-04-29",
+            "categories": "politique",
+            "tags": "deux,mois,\u00e9t\u00e9,pen,mai,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/lyonne.fr/2015/04/au-fn-un-d%C3%A9fil%C3%A9-du-1er-mai-entre-progr%C3%A8s-%C3%A9lectoraux",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique%2Bpolitique&format=RSS&cc=fr",
+            "source_url": "http://lyonne.fr/france-monde/actualites/economie-politique/politique/2015/04/29/au-fn-un-defile-du-1er-mai-entre-progres-electoraux-et-tensions-internes_11423733.html"
+        },
+        "blogs.mediapart.fr/2015/04/gabon-l-upg-et-son-pr%C3%A9sident-ont-salu%C3%A9-la-classe-politique": {
+            "title": "Gabon/L'UPG et son Pr\u00e9sident ont salu\u00e9 la classe politique politique aux fun\u00e9railles de Mr.",
+            "snippet": "Le 28 avril 2015, Mr. Bruno Ben MOUBAMBA le Pr\u00e9sident \u00e9lu de l'UPG le 10 avril, a conduit une forte d\u00e9l\u00e9gation du Parti aux fun\u00e9railles de Mr. Andr\u00e9 MBA OBAME. Apr\u00e8s un accueil chaleureux des populations accourues aux obs\u00e8ques des...",
+            "date": "2015-04-29",
+            "categories": "politique",
+            "tags": "obs\u00e8ques,andr\u00e9,politique,avril",
+            "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2015/04/gabon-l-upg-et-son-pr%C3%A9sident-ont-salu%C3%A9-la-classe-politique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique%2Bpolitique&format=RSS&cc=fr",
+            "source_url": "http://blogs.mediapart.fr/blog/union-du-peuple-gabonais-upg/290415/gabon-lupg-et-son-president-ont-salue-la-classe-politique-politique-aux-funeraille"
         }
     }
 }
