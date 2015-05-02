@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jeux-olympiques",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jeux-olympiques/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeux-olympiques/jeux-olympiques/blogs.json"
     },
     "items": {
-        "huffingtonpost.fr/2015/04/10-id%C3%A9es-pour-des-jo-2024-durables-gilles-lorin-de-reure": {
-            "title": "10 id\u00e9es pour des JO 2024 durables Gilles Lorin de Reure...",
-            "snippet": "JO 2024 - Les signaux sont au vert confirmant l'app\u00e9tit fran\u00e7ais d'une candidature Olympique pour les JO de 2024. Osons aller plus loin, osons inventer une autre recette pour conqu\u00e9rir la plan\u00e8te des Jeux Olympiques....",
-            "date": "2015-04-24",
-            "author_name": "Gilles Lorin de Reure",
-            "categories": "jeux-olympiques",
-            "tags": "jeux,jeux_olympiques,olympiques,plan\u00e8te,loin,candidature,fran\u00e7ais",
-            "recuweb_url": "http://fr.recuweb.com/jeux-olympiques/huffingtonpost.fr/2015/04/10-id%C3%A9es-pour-des-jo-2024-durables-gilles-lorin-de-reure",
-            "resource_url": "http://www.google.com/search?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://huffingtonpost.fr/gilles-lorin-de-reure/jeux-olympiques-2024-pour-le-climat_b_7107552.html"
-        },
         "huffingtonpost.fr/2015/04/jeux-olympiques-le-nouveau-logo-de-l-%C3%A9quipe-france-olympique": {
             "title": "Jeux olympiques: le nouveau logo de l'\u00e9quipe de France olympique...",
             "snippet": "SPORT - Fini le logo qu'arboraient les athl\u00e8tes fran\u00e7ais depuis les Jeux Olympiques d'hiver de Nagano en 1998. Le Comit\u00e9 national olympique et sportif fran\u00e7ais (CNOSF), a d\u00e9voil\u00e9 ce mardi 14 avril le nouvel &...",
             "date": "2015-04-14",
             "author_name": "Romain Herreros",
             "categories": "sport",
-            "tags": "olympiques,fran\u00e7ais,athl\u00e8tes,logo,\u00e9quipe,jeux,france,sport,hiver",
+            "tags": "olympiques,athl\u00e8tes,\u00e9quipe,jeux,sport,hiver",
             "recuweb_url": "http://fr.recuweb.com/sport/huffingtonpost.fr/2015/04/jeux-olympiques-le-nouveau-logo-de-l-%C3%A9quipe-france-olympique",
             "resource_url": "http://www.google.com/search?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://huffingtonpost.fr/2015/04/14/jeux-olympiques-nouveau-logo-equipe-de-france_n_7061440.html"
@@ -38,7 +27,7 @@
             "snippet": "Paris peut d\u00e9sormais r\u00eaver de l'organisation des Jeux olympiques et paralympiques de 2024. En effet, le conseil de la ville a valid\u00e9 la candidature de Paris. Anne Hidalgo l'a annonc\u00e9 ce lundi matin affirmant que cette...",
             "date": "2015-04-13",
             "author_name": "Alexandre Jeziorski",
-            "tags": "annonc\u00e9,conseil,ville,candidature,organisation,peut,jeux,olympiques,paris",
+            "tags": "conseil,ville,candidature,organisation,jeux,olympiques,paris",
             "recuweb_url": "http://fr.recuweb.com/atlantico.fr/2015/04/jeux-olympiques-et-paralympiques-de-2024-la-candidature",
             "resource_url": "http://www.google.com/search?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://atlantico.fr/pepites/jeux-olympiques-et-paralympiques-2024-candidature-paris-validee-conseil-ville-2089799.html"
@@ -49,7 +38,7 @@
             "date": "2015-04-08",
             "author_name": "Paris Match",
             "categories": "sport,jeux-olympiques",
-            "tags": "candidature,paris,jeux,jeux_olympiques,olympiques,conseil",
+            "tags": "candidature,sports,paris,jeux,jeux_olympiques,olympiques,conseil",
             "recuweb_url": "http://fr.recuweb.com/jeux-olympiques/parismatch.com/2015/04/jeux-olympiques-2024-thierry-braillard-paris-a-les-atouts",
             "resource_url": "http://www.google.com/search?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/Actu/Politique/Thierry-Braillard-Paris-a-les-atouts-pour-y-croire-740998"
@@ -69,7 +58,7 @@
             "snippet": "Le biathlon appara\u00eet pour la premi\u00e8re fois au programme des Jeux olympiques d'hiver lors des Jeux olympiques d'hiver de 1960 de Squaw Valley. Une seule \u00e9preuve eut lieu.",
             "date": "2014-02-19",
             "author_name": "edouardbgagnon",
-            "tags": "premi\u00e8re,programme,jeux,olympiques,hiver",
+            "tags": "lors,jeux,olympiques,programme,hiver",
             "recuweb_url": "http://fr.recuweb.com/edouardbgagnon.wordpress.com/2014/02/biathlon-aux-jeux-olympiques",
             "resource_url": "http://fr.search.wordpress.com/?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&f=feed&page=1",
             "source_url": "http://edouardbgagnon.wordpress.com/2014/02/19/biathlon-aux-jeux-olympiques/"
@@ -80,7 +69,7 @@
             "date": "2014-02-07",
             "author_name": "ecolecatholique",
             "categories": "jeux-olympiques",
-            "tags": "\u00e9tait,c\u00e9l\u00e9brer,jeux,jeux_olympiques,olympiques,haut,couleurs,sotchi,apr\u00e8s",
+            "tags": "personnes,\u00e9tait,c\u00e9l\u00e9brer,jeux,jeux_olympiques,olympiques,donn\u00e9,sotchi",
             "recuweb_url": "http://fr.recuweb.com/jeux-olympiques/ecolecatholique.wordpress.com/2014/02/un-rassemblement-haut-en-couleurs-pour-ivanie-blondin",
             "resource_url": "http://fr.search.wordpress.com/?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&f=feed&page=1",
             "source_url": "http://ecolecatholique.wordpress.com/2014/02/07/un-rassemblement-haut-en-couleurs-pour-ivanie-blondin/"
@@ -90,7 +79,7 @@
             "snippet": "Les athl\u00e8tes canadiens qui participeront aux Jeux olympiques de Sotchi 2014 vont c\u00e9l\u00e9brer 90 ans de pr\u00e9sence canadienne sur la sc\u00e8ne des Jeux olympiques dhiver. Les Canadiens ont []...",
             "date": "2014-02-07",
             "author_name": "Le blogue de Biblioth\u00e8que et Archives Canada",
-            "tags": "c\u00e9l\u00e9brer,athl\u00e8tes,neige,\u00eatre,jeux,olympiques,sotchi",
+            "tags": "vont,c\u00e9l\u00e9brer,athl\u00e8tes,\u00eatre,jeux,olympiques,sotchi",
             "recuweb_url": "http://fr.recuweb.com/ledecoublogue.com/2014/02/%C3%AAtre-les-meilleurs-sur-la-neige-et-glace-recenser-accomplissements",
             "resource_url": "http://fr.search.wordpress.com/?q=jeux%2Bolympiques%2Bjeux%2Bolympiques&f=feed&page=1",
             "source_url": "http://ledecoublogue.com/2014/02/07/etre-les-meilleurs-sur-la-neige-et-la-glace-recenser-les-accomplissements-des-athletes-canadiens-aux-olympiques/"
