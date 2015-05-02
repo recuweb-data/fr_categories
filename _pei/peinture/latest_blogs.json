@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "peinture",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/peinture/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/peinture/peinture/blogs.json"
     },
     "items": {
+        "maisoneco.blog.bordeaux.fr/2015/04/atelier-peinture-nature-la-maison-%C3%A9cocitoyenne": {
+            "title": "Atelier Peinture Nature: La Maison \u00e9cocitoyenne...",
+            "snippet": "Le nouvel atelier de ce mois de mai, Peinture Nature, est fait pour vous! Pr\u00e9sentation de peintures et d'enduits 100% naturels, techniques de fabrication et conseils d'application,... Avec ce nouveau rendez-vous anim\u00e9 par...",
+            "date": "2015-04-29",
+            "author_name": "Camille Choplin",
+            "categories": "peinture,nature",
+            "tags": "peintures,peinture,mois,maison",
+            "recuweb_url": "http://fr.recuweb.com/nature/maisoneco.blog.bordeaux.fr/2015/04/atelier-peinture-nature-la-maison-%C3%A9cocitoyenne",
+            "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://maisoneco.blog.bordeaux.fr/archive/2015/04/29/atelier-peinture-nature-3043995.html"
+        },
+        "cotemaison.fr/2015/04/peinture-faut-il-repeindre-soi-m%C3%AAme-c%C3%B4t%C3%A9": {
+            "title": "Peinture: faut-il repeindre soi-m\u00eame? - C\u00f4t\u00e9...",
+            "snippet": "La peinture fait, bien s\u00fbr, partie des enseignements dispens\u00e9s par des pros... du pinceau. Et \u00e7a plait. Ces cours affichent complet. Parce que peindre ou repeindre soi-m\u00eame rev\u00eat toute une palette de significations qui n'ont...",
+            "date": "2015-04-27",
+            "author_name": "inconnu",
+            "categories": "peinture",
+            "tags": "peindre,pinceau,peinture,m\u00eame",
+            "recuweb_url": "http://fr.recuweb.com/peinture/cotemaison.fr/2015/04/peinture-faut-il-repeindre-soi-m%C3%AAme-c%C3%B4t%C3%A9",
+            "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cotemaison.fr/peintures-carrelages-papier-peint/peinture-faut-il-repeindre-soi-meme_24353.html"
+        },
         "lunettesrouges.blog.lemonde.fr/2015/04/deux-expositions-de-peinture-g-andreani-et-d-cabanes-amateur": {
             "title": "Deux expositions de peinture (G. Andreani et D. Cabanes) Amateur...",
             "snippet": "Deux expositions de peinture, deux galeries parisiennes, deux belles exp\u00e9riences au milieu d'une certaine grisaille conformiste picturale. La galerie Ma\u00efa Muller expose encore pour quelques heures (jusqu'au 25 avril) des...",
             "date": "2015-04-23",
             "author_name": "Lunettes Rouges",
             "categories": "peinture",
-            "tags": "deux,peinture,jusqu",
+            "tags": "picturale,deux,peinture,jusqu,avril",
             "recuweb_url": "http://fr.recuweb.com/peinture/lunettesrouges.blog.lemonde.fr/2015/04/deux-expositions-de-peinture-g-andreani-et-d-cabanes-amateur",
             "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lunettesrouges.blog.lemonde.fr/2015/04/23/deux-expositions-de-peinture-g-andreani-et-d-cabanes/"
-        },
-        "amagzine.com/2015/04/mileg-les-sables-s-invitent-en-peinture-amagzine": {
-            "title": "Mileg, les sables s'invitent en peinture - Amagzine...",
-            "snippet": "De ses rencontres, ses voyages, Mileg puise les expressions, l'\u00e9merveillement de la vie simple. De la nature, elle extrait les mati\u00e8res premi\u00e8res qui s'incrustent dans ses r\u00e9alisations.",
-            "date": "2015-04-23",
-            "author_name": "Marguerite La Rochelaise",
-            "categories": "nature,peinture",
-            "tags": "peinture",
-            "recuweb_url": "http://fr.recuweb.com/peinture/amagzine.com/2015/04/mileg-les-sables-s-invitent-en-peinture-amagzine",
-            "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://amagzine.com/mileg-les-sables-sinvitent-en-peinture/"
         },
         "amylee.fr/2015/04/comment-obtenir-une-peinture-filante-amylee": {
             "title": "Comment obtenir une peinture filante? Amylee...",
@@ -39,32 +50,21 @@
             "date": "2015-04-20",
             "author_name": "Amylee",
             "categories": "peinture",
-            "tags": "peut,peinture",
+            "tags": "peinture",
             "recuweb_url": "http://fr.recuweb.com/peinture/amylee.fr/2015/04/comment-obtenir-une-peinture-filante-amylee",
             "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://amylee.fr/2015/04/comment-obtenir-peinture-filante/"
         },
-        "ufunk.net/2015/04/la-peinture-hyperr%C3%A9aliste-par-patrick-kramer": {
-            "title": "La peinture hyperr\u00e9aliste par Patrick Kramer...",
-            "snippet": "Une s\u00e9lection des peintures hyperr\u00e9alistes de l'artiste am\u00e9ricain Patrick Kramer, qui r\u00e9alise de magnifiques portraits ou natures mortes, jouant avec les d\u00e9tails, les lumi\u00e8res et les textures avec beaucoup de finesse et de...",
-            "date": "2015-04-08",
-            "author_name": "ufunk",
-            "categories": "nature,peinture",
-            "tags": "peintures,artiste",
-            "recuweb_url": "http://fr.recuweb.com/peinture/ufunk.net/2015/04/la-peinture-hyperr%C3%A9aliste-par-patrick-kramer",
-            "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ufunk.net/artistes/la-peinture-hyperrealiste-par-patrick-kramer/"
-        },
-        "cotemaison.fr/2015/02/d%C3%A9co-wc-quelle-peinture-choisir-pour-les-toilettes-c%C3%B4t%C3%A9": {
-            "title": "D\u00e9co WC: quelle peinture choisir pour les toilettes? - C\u00f4t\u00e9...",
-            "snippet": "Les toilettes sont devenues le petit coin id\u00e9al pour exprimer sa cr\u00e9ativit\u00e9 d\u00e9co. Mais si choisir la bonne couleur de peinture est essentiel, il convient aussi d'adopter les bonnes formulations et les finitions adapt\u00e9es. Peinture...",
-            "date": "2015-02-26",
+        "lci.tf1.fr/2015/04/les-minions-d%C3%A9sormais-disponibles-en-pot-de-peinture-insolite": {
+            "title": "Les Minions d\u00e9sormais disponibles en pot de peinture - Insolite...",
+            "snippet": "universal, peinture InsoliteLe c\u00e9l\u00e8bre institut de couleurs Pantone a annonc\u00e9 l'arriv\u00e9e d'une toute nouvelle couleur, le jaune Minion. Inspir\u00e9 des petits personnages du film d'animation \"Moi, moche et m\u00e9chant\", il a \u00e9t\u00e9...",
+            "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "peinture",
-            "tags": "finitions,petit,peinture,couleur",
-            "recuweb_url": "http://fr.recuweb.com/peinture/cotemaison.fr/2015/02/d%C3%A9co-wc-quelle-peinture-choisir-pour-les-toilettes-c%C3%B4t%C3%A9",
-            "resource_url": "http://www.google.com/search?q=peinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cotemaison.fr/salle-de-bains/deco-wc-quelle-peinture-choisir-pour-les-toilettes_23228.html"
+            "tags": "petits,peinture",
+            "recuweb_url": "http://fr.recuweb.com/peinture/lci.tf1.fr/2015/04/les-minions-d%C3%A9sormais-disponibles-en-pot-de-peinture-insolite",
+            "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lci.tf1.fr/insolite/les-minions-desormais-disponibles-en-pot-de-peinture-8595578.html"
         },
         "consoglobe.com/2015/02/la-peinture-naturelle-vraiment-meilleure-que-les-autres-consoglobe": {
             "title": "La peinture naturelle: vraiment meilleure que les autres - Consoglobe...",
@@ -72,7 +72,7 @@
             "date": "2015-02-20",
             "author_name": "Sandrine Pouchain",
             "categories": "peinture",
-            "tags": "peintures",
+            "tags": "peintures,peinture",
             "recuweb_url": "http://fr.recuweb.com/peinture/consoglobe.com/2015/02/la-peinture-naturelle-vraiment-meilleure-que-les-autres-consoglobe",
             "resource_url": "http://www.google.com/search?q=peinture%2Bpeinture&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://consoglobe.com/peinture-naturelle-meilleure-cg"
@@ -83,7 +83,7 @@
             "date": "2014-11-18",
             "author_name": "arnaudfrontiere",
             "categories": "peinture",
-            "tags": "main,comme,peintures",
+            "tags": "main,peintures,comme,masques",
             "recuweb_url": "http://fr.recuweb.com/peinture/arnaudfrontiere.wordpress.com/2014/11/peintures-de-singes-2012",
             "resource_url": "http://fr.search.wordpress.com/?q=peinture%2Bpeinture&f=feed&page=1",
             "source_url": "http://arnaudfrontiere.wordpress.com/travaux-historiques/peintures-de-singes-2012/"
@@ -96,8 +96,30 @@
             "categories": "peinture",
             "tags": "page,peinture",
             "recuweb_url": "http://fr.recuweb.com/peinture/truefrenchs.wordpress.com/2014/07/shirley-un-voyage-dans-la-peinture-d-edward-hopper-2014-french",
-            "resource_url": "http://fr.search.wordpress.com/?q=peinture%2Bpeinture&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=peinture&f=feed&page=1",
             "source_url": "http://truefrenchs.wordpress.com/2014/07/24/shirley-un-voyage-dans-la-peinture-dedward-hopper-2014-french-filmtruefrench/"
+        },
+        "entreprisepeinturepascherparis.wordpress.com/2014/07/entreprise-peinture-pas-cher-paris-16": {
+            "title": "Entreprise Peinture Pas Cher Paris 16...",
+            "snippet": "Nous sommes a votre serv ice pour tous vos travaux de peinture interieur et renovation.... Nous sommes des peintres et decorateurs, et nous ne sous-traitons pas votre projet...",
+            "date": "2014-07-09",
+            "author_name": "peintreparis",
+            "categories": "peinture",
+            "tags": "peintres,renovation,travaux,entreprise,entreprise_peinture,peinture,paris",
+            "recuweb_url": "http://fr.recuweb.com/peinture/entreprisepeinturepascherparis.wordpress.com/2014/07/entreprise-peinture-pas-cher-paris-16",
+            "resource_url": "http://fr.search.wordpress.com/?q=peinture&f=feed&page=1",
+            "source_url": "http://entreprisepeinturepascherparis.wordpress.com/2014/07/09/entreprise-peinture-pas-cher-paris-peintres-pas-cher-paris-travaux-peinture-pas-cher-paris111213141516/"
+        },
+        "entreprise2peintureparis.wordpress.com/2014/07/entreprise-peinture-paris-peintres-en-batiment-travaux": {
+            "title": "Entreprise Peinture Paris - Peintres en Batiment Paris - Travaux Peinture Paris...",
+            "snippet": "Notre entreprise des peintres en batiment est a votres service pour realiser tous vos travaux de peinture et renovation sur Paris et Ile-de-France. Notre entreprise de peinture batiment []...",
+            "date": "2014-07-08",
+            "author_name": "peintreparis",
+            "categories": "peinture",
+            "tags": "entreprise,renovation,travaux,peintres,peinture,entreprise_peinture,paris,france",
+            "recuweb_url": "http://fr.recuweb.com/peinture/entreprise2peintureparis.wordpress.com/2014/07/entreprise-peinture-paris-peintres-en-batiment-travaux",
+            "resource_url": "http://fr.search.wordpress.com/?q=peinture%2Bpeinture&f=feed&page=1",
+            "source_url": "http://entreprise2peintureparis.wordpress.com/2014/07/08/entreprise-peinture-paris-peintres-en-batiment-paris-travaux-peinture-paris/"
         }
     }
 }
