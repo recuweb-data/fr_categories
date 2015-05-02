@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "football",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/football/",
@@ -11,27 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football/football/blogs.json"
     },
     "items": {
-        "generation-nt.com/2015/04/football-la-technologie-de-ligne-but-s-invite-dans-ligue-1": {
-            "title": "Football: la technologie de ligne de but s'invite dans la Ligue 1...",
-            "snippet": "La Ligue 1 de football fran\u00e7ais fait un pas de plus vers l'adoption de la vid\u00e9o pour l'arbitrage. Suite aux essais grandeur nature de la Goal Line Technologie lors de la derni\u00e8re coupe du monde au Br\u00e9sil, la LFP a annonc\u00e9...",
+        "madeinfoot.com/2015/04/juventus-turin-allegri-la-violence-premi%C3%A8re-d%C3%A9faite-du-football": {
+            "title": "Juventus Turin - Allegri: \"La violence, premi\u00e8re d\u00e9faite du football\"...",
+            "snippet": "Foot: Le 29/04/2015 11:40, Juventus Turin - Allegri: 'La violence, premi\u00e8re d\u00e9faite du football'. L'entra\u00eeneur de la Juventus Massimiliano Allegri a condamn\u00e9 les violences survenues dimanche...",
+            "date": "2015-04-29",
+            "author_name": "inconnu",
+            "categories": "football",
+            "tags": "violence,juventus,premi\u00e8re,football,foot",
+            "recuweb_url": "http://fr.recuweb.com/football/madeinfoot.com/2015/04/juventus-turin-allegri-la-violence-premi%C3%A8re-d%C3%A9faite-du-football",
+            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://madeinfoot.com/infos/article-juventus-allegri--la-violence--premiere-defaite-du-football--114186.html"
+        },
+        "topmercato.com/2015/04/real-madrid-le-club-tue-une-rumeur-en-vue-du-mercato": {
+            "title": "Real Madrid: le club \"tue\" une rumeur en vue du mercato...",
+            "snippet": "En cinq points, les d\u00e9cideurs de la Casa Blanca ont expliqu\u00e9 que les informations publi\u00e9es sont \"absolument fausses\" comme le justifie l'intervention de la F\u00e9d\u00e9ration espagnole de football qui est mont\u00e9e au cr\u00e9neau pour...",
+            "date": "2015-04-29",
+            "author_name": "inconnu",
+            "categories": "realmadrid,football",
+            "tags": "mont\u00e9e,espagnole,points,vue,real,madrid,club,football",
+            "recuweb_url": "http://fr.recuweb.com/football/topmercato.com/2015/04/real-madrid-le-club-tue-une-rumeur-en-vue-du-mercato",
+            "resource_url": "http://www.google.com/search?q=football&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://topmercato.com/105914,1/real-madrid-le-club-tue-une-rumeur-en-vue-du-mercato.html"
+        },
+        "dzfoot.com/2015/04/discipline-l-arbitre-assistant-bechirene-interdit-d-activit%C3%A9-football": {
+            "title": "Discipline: L'arbitre assistant Bechirene interdit d'activit\u00e9 Football...",
+            "snippet": "L'arbitre assistant Mohamed Chokri Bechirene est interdit d'exercer toute fonction ou activit\u00e9 en relation avec le football, et ce, sans pr\u00e9judice des poursuites judiciaires \u00e9ventuelles, indique aujourd'hui la Ligue du football...",
+            "date": "2015-04-28",
+            "author_name": "Toufik O",
+            "categories": "discipline,football",
+            "tags": "interdit,football,ligue",
+            "recuweb_url": "http://fr.recuweb.com/football/dzfoot.com/2015/04/discipline-l-arbitre-assistant-bechirene-interdit-d-activit%C3%A9-football",
+            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dzfoot.com/2015/04/28/discipline-larbitre-assistant-bechirene-interdit-dactivite-67817.php"
+        },
+        "lci.tf1.fr/2015/04/le-football-belge-sous-choc-un-joueur-fait-une-crise-cardiaque": {
+            "title": "Le football belge sous le choc: un joueur fait une crise cardiaque en...",
+            "snippet": "Le monde du sport est sous le choc: Gregory Mertens, un joueur de football belge, a \u00e9t\u00e9 victime d'une crise cardiaque en plein match lundi soir. Il a \u00e9t\u00e9 plong\u00e9 dans un coma artificiel et est actuellement entre la vie et la mort.",
+            "date": "2015-04-28",
+            "author_name": "inconnu",
+            "categories": "mort,football,sport",
+            "tags": "plein,match,joueur,monde,belge,football,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/lci.tf1.fr/2015/04/le-football-belge-sous-choc-un-joueur-fait-une-crise-cardiaque",
+            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lci.tf1.fr/sport/football-victime-d-une-crise-cardiaque-en-plein-match-un-joueur-8601417.html"
+        },
+        "rmcsport.bfmtv.com/2015/04/riolo-l-incroyable-fiasco-marseillais-rmc-sport": {
+            "title": "Riolo: \"L'incroyable fiasco marseillais\" - RMC Sport...",
+            "snippet": "Si t'es pas content de notre foot, tu te casses. Tu fais.... Le centre de l'OL n'est il pas une exception au paysage du football Fran\u00e7ais?... Et une fois de plus je suis totalement d'accord avec toi sur le constat du football fran\u00e7ais.",
             "date": "2015-04-25",
             "author_name": "inconnu",
-            "categories": "technologie,nature,football",
-            "tags": "lors,coupe,fran\u00e7ais,football,ligue,monde,lfp",
-            "recuweb_url": "http://fr.recuweb.com/football/generation-nt.com/2015/04/football-la-technologie-de-ligne-but-s-invite-dans-ligue-1",
+            "categories": "sport,football",
+            "tags": "accord,paysage,centre,sport,foot,football",
+            "recuweb_url": "http://fr.recuweb.com/football/rmcsport.bfmtv.com/2015/04/riolo-l-incroyable-fiasco-marseillais-rmc-sport",
             "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/football-technologie-ligne-but-ligue-1-france-actualite-1914278.html"
-        },
-        "sofoot.com/2015/04/nedvd-r%C3%A9ussir-pour-le-football-italien-italie-so": {
-            "title": "Nedvd: R\u00e9ussir pour le football italien - Italie - SO...",
-            "snippet": "Nous essaierons de r\u00e9ussir quelque chose de bien pour le football italien. Malheureusement pour les Bianconeri, le Tch\u00e8que ne sera pas sur la pelouse pour donner la victoire aux siens, comme ce fut le cas en 2003. ES.",
-            "date": "2015-04-24",
-            "author_name": "SO FOOT",
-            "categories": "football",
-            "tags": "comme,fut,football",
-            "recuweb_url": "http://fr.recuweb.com/football/sofoot.com/2015/04/nedvd-r%C3%A9ussir-pour-le-football-italien-italie-so",
-            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sofoot.com/nedvd-reussir-pour-le-football-italien-199896.html"
+            "source_url": "http://rmcsport.bfmtv.com/football/riolo-l-incroyable-fiasco-marseillais-880918.html"
         },
         "jeuneafrique.com/2015/04/football-coupe-du-monde-2026-le-retour-en-afrique-jeune": {
             "title": "Football: Coupe du monde 2026, le retour en Afrique - Jeune Afrique...",
@@ -39,9 +72,9 @@
             "date": "2015-04-21",
             "author_name": "inconnu",
             "categories": "football",
-            "tags": "africain,retour,football,coupe,monde,afrique,apr\u00e8s",
+            "tags": "monde,africain,football",
             "recuweb_url": "http://fr.recuweb.com/football/jeuneafrique.com/2015/04/football-coupe-du-monde-2026-le-retour-en-afrique-jeune",
-            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=football&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeuneafrique.com/Article/JA2832p008.xml9/"
         },
         "ectac.over-blog.com/2015/03/ectac-football-la-france-organisera-le-mondial-f%C3%A9minin-en-2019": {
@@ -50,7 +83,7 @@
             "date": "2015-03-20",
             "author_name": "Sylvain.ectac",
             "categories": "football",
-            "tags": "football,france",
+            "tags": "petit,\u00e9quipe,football,france",
             "recuweb_url": "http://fr.recuweb.com/football/ectac.over-blog.com/2015/03/ectac-football-la-france-organisera-le-mondial-f%C3%A9minin-en-2019",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=football%2Bfootball&rss=1&lng=fr",
             "source_url": "http://ectac.over-blog.com/2015/03/football-france-organisera-mondial-feminin-en-2019-ectac-sarah-bouhaddi-gaetane-thiney-corine-franco-petit.html"
@@ -72,7 +105,7 @@
             "date": "2015-01-31",
             "author_name": "maillotsdefootball2015",
             "categories": "football",
-            "tags": "avant,football",
+            "tags": "points,avant,football,juventus",
             "recuweb_url": "http://fr.recuweb.com/football/maillotsdefootball2015.wordpress.com/2015/01/chaussures-de-football-nikechaussures-pas-cher",
             "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
             "source_url": "http://maillotsdefootball2015.wordpress.com/2015/01/31/chaussures-de-football-nikechaussures-de-football-pas-cher/"
@@ -83,43 +116,10 @@
             "date": "2015-01-21",
             "author_name": "MySp0rt",
             "categories": "football,sport",
-            "tags": "\u00e9quipes,football,sport,deux,joueurs",
+            "tags": "football,sport",
             "recuweb_url": "http://fr.recuweb.com/sport/mysp0rt.wordpress.com/2015/01/football-origines-et-institutions",
             "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
             "source_url": "http://mysp0rt.wordpress.com/wiki-sport/football-origines-et-institutions/"
-        },
-        "monclermenscoats.blog.fc2blog.us/2014/12/les-conditions-climatiques-et-l-altitude": {
-            "title": "les conditions climatiques et l'altitude...",
-            "snippet": "Le football est peut - \u00eatre le seul mouvement suiveur, a global plus; et le nom de pi\u00e8ces de jeu simplement?La balle lui - m\u00eame; cela signifie que plus de football, football mieux!- Adidas a travaill\u00e9 pour la FIFA 17 fois officiel de la Coupe du...",
-            "date": "2014-12-20",
-            "author_name": "monclermenscoats",
-            "categories": "football",
-            "tags": "lui,jeu,peut,football,coupe",
-            "recuweb_url": "http://fr.recuweb.com/football/monclermenscoats.blog.fc2blog.us/2014/12/les-conditions-climatiques-et-l-altitude",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=football%2Bfootball&rss=1&lng=fr",
-            "source_url": "http://monclermenscoats.blog.fc2blog.us/blog-entry-182.html"
-        },
-        "jeuxvideoetpcgratuits.wordpress.com/2014/11/football-manager-2015-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct": {
-            "title": "FOOTBALL MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT - Jeu PC Torrent VF et Direct Lien (Direct Download...",
-            "snippet": "FOOTBALL MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT FOOTBALL MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT T\u00e9l\u00e9charger des Jeux PC Gratuits en Version Compl\u00e8te - T\u00e9l\u00e9chargement 100% Gratuit Torrent VF et Lien Direct (Direct Download...",
-            "date": "2014-11-17",
-            "author_name": "octavejean25",
-            "categories": "football",
-            "tags": "lien,version,version_compl\u00e8te,compl\u00e8te,jeux,jeux_pc_gratuits,gratuits,gratuit,t\u00e9l\u00e9charger,direct,direct_lien,t\u00e9l\u00e9chargement,t\u00e9l\u00e9chargement_gratuit,football,football_manager,manager,jeu",
-            "recuweb_url": "http://fr.recuweb.com/football/jeuxvideoetpcgratuits.wordpress.com/2014/11/football-manager-2015-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct",
-            "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
-            "source_url": "http://jeuxvideoetpcgratuits.wordpress.com/2014/11/17/football-manager-2015-telechargement-gratuit/"
-        },
-        "jeuxvideoetpcgratuits.wordpress.com/2014/10/football-manager-2014-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct": {
-            "title": "FOOTBALL MANAGER 2014 T\u00e9l\u00e9chargement GRATUIT - Jeu PC Torrent VF et Direct Lien (Direct Download...",
-            "snippet": "FOOTBALL MANAGER 2014 T\u00e9l\u00e9chargement GRATUIT FOOTBALL MANAGER 2014 T\u00e9l\u00e9chargement GRATUIT T\u00e9l\u00e9charger des Jeux PC Gratuits en Version Compl\u00e8te - T\u00e9l\u00e9chargement 100% Gratuit Torrent VF et Lien Direct (Direct Download...",
-            "date": "2014-10-03",
-            "author_name": "octavejean25",
-            "categories": "football",
-            "tags": "lien,version,version_compl\u00e8te,compl\u00e8te,jeux,jeux_pc_gratuits,gratuits,gratuit,t\u00e9l\u00e9charger,direct,direct_lien,t\u00e9l\u00e9chargement,t\u00e9l\u00e9chargement_gratuit,football,football_manager,manager,jeu",
-            "recuweb_url": "http://fr.recuweb.com/football/jeuxvideoetpcgratuits.wordpress.com/2014/10/football-manager-2014-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct",
-            "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
-            "source_url": "http://jeuxvideoetpcgratuits.wordpress.com/2014/10/03/football-manager-2014-telechargement-gratuit/"
         }
     }
 }
