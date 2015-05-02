@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "religion",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/religion/",
@@ -11,14 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion/religion/blogs.json"
     },
     "items": {
+        "rts.ch/2015/04/l-islam-en-suisse-une-religion-au-pluriel": {
+            "title": "L'Islam en Suisse: une religion au pluriel...",
+            "snippet": "D\u00e8s les d\u00e9buts de l'Islam, la communaut\u00e9 musulmane s'est constitu\u00e9e en grands courants rivaux. Comment les membres de ces branches de l'Islam cohabitent-ils aujourd'hui en Suisse? Les diff\u00e9rentes branches de l'Islam se forment d\u00e8s la mort...",
+            "date": "2015-04-29",
+            "categories": "mort,islam,religion",
+            "tags": "mort,islam,religion",
+            "recuweb_url": "http://fr.recuweb.com/religion/rts.ch/2015/04/l-islam-en-suisse-une-religion-au-pluriel",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=fr",
+            "source_url": "http://rts.ch/espace-2/programmes/babylone/6702657-l-islam-en-suisse-une-religion-au-pluriel-29-04-2015.html"
+        },
+        "news.abidjan.net/2015/04/religion-ferkessedougou-c%C3%A9l%C3%A9bration-des-90-ans-de-l-%C3%A9glise": {
+            "title": "Religion Ferkessedougou c\u00e9l\u00e9bration des 90 ans de l'\u00e9glise de... -...",
+            "snippet": "Ferkessedougou c\u00e9l\u00e9bration des 90 ans de l'\u00e9glise de... Fid\u00e8les chr\u00e9tiens catholiques de l'\u00e9glise Notre Dame de Lourdes du dioc\u00e8se de la ville de Ferkessedougou au Nord de la C\u00f4te d'Ivoire ont c\u00e9l\u00e9br\u00e9s le 26 avril 2015 les 90 ans de...",
+            "date": "2015-04-29",
+            "categories": "religion",
+            "tags": "religion,avril",
+            "recuweb_url": "http://fr.recuweb.com/religion/news.abidjan.net/2015/04/religion-ferkessedougou-c%C3%A9l%C3%A9bration-des-90-ans-de-l-%C3%A9glise",
+            "resource_url": "http://news.google.fr/?hl=fr&q=religion%2Breligion&output=atom&nord=1",
+            "source_url": "http://news.abidjan.net/h/550386.html"
+        },
+        "la-croix.com/2015/04/%C3+-abu-dhabi-des-responsables-musulmans-r%C3%A9unis-contre-lextr%C3%A9misme": {
+            "title": "\u00c0 Abu Dhabi, des responsables musulmans r\u00e9unis contre lextr\u00e9misme...",
+            "snippet": "Il est du devoir, pour chaque personnalit\u00e9 ayant des responsabilit\u00e9s publiques de clarifier la teneur du message de notre religion, religion de paix, damour et de pardon. Violences sur le continent africain En mars 2014, pour la premi\u00e8re...",
+            "date": "2015-04-29",
+            "categories": "religion",
+            "tags": "chaque,musulmans,religion",
+            "recuweb_url": "http://",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=religion%2Breligion&format=RSS&cc=fr",
+            "source_url": "http://la-croix.com/Urbi-et-Orbi/Actualite/Monde/A-Abu-Dhabi-des-responsables-musulmans-reunis-contre-l-extremisme-2015-04-29-1307622"
+        },
         "contrepoints.org/2015/04/%C3%A9ducation-la-nouvelle-religion-de-la%C3%AFcit%C3%A9-contrepoints": {
             "title": "\u00c9ducation: la nouvelle religion de la la\u00efcit\u00e9 - Contrepoints...",
-            "snippet": "Contrepoints\u00c9ducation: la nouvelle religion de la la\u00efcit\u00e9ContrepointsC'est une id\u00e9ologie de la la\u00efcit\u00e9 religion d'\u00c9tat. Manuel Valls l'a proclam\u00e9: La la\u00efcit\u00e9 c'est le ciment m\u00eame de ce qui fait la France. C'est une id\u00e9ologie du citoyen,...",
+            "snippet": "Contrepoints\u00c9ducation: la nouvelle religion de la la\u00efcit\u00e9ContrepointsC'est une id\u00e9ologie de la la\u00efcit\u00e9, religion d'\u00c9tat. Manuel Valls l'a proclam\u00e9: La la\u00efcit\u00e9 c'est le ciment m\u00eame de ce qui fait la France. C'est une id\u00e9ologie du citoyen,...",
             "date": "2015-04-29",
             "categories": "religion",
             "tags": "la\u00efcit\u00e9,religion,france",
             "recuweb_url": "http://fr.recuweb.com/religion/contrepoints.org/2015/04/%C3%A9ducation-la-nouvelle-religion-de-la%C3%AFcit%C3%A9-contrepoints",
-            "resource_url": "http://news.google.fr/?hl=fr&q=religion&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=religion%2Breligion&output=atom&nord=1",
             "source_url": "http://contrepoints.org/2015/04/29/206049-education-la-nouvelle-religion-de-la-laicite"
         },
         "ncr-iran.org/2015/04/sur-la-libert%C3%A9-de-religion-en-iran-avec-le-juriste-musulman": {
@@ -31,16 +61,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=fr",
             "source_url": "http://ncr-iran.org/fr/actualites/iran-resistance/15889-sur-la-liberte-de-religion-en-iran-avec-le-juriste-musulman-sanabargh-zahedi.html"
         },
-        "tdg.ch/2015/04/aucune-religion-ne-permet-de-tuer-des-enfants-tribune-gen%C3%A8ve": {
-            "title": "Aucune religion ne permet de tuer des enfants - Tribune de Gen\u00e8ve...",
-            "snippet": "Tribune de Gen\u00e8veAucune religion ne permet de tuer des enfantsTribune de Gen\u00e8veLe pr\u00e9sident \u00e9lu du Nigeria, Muhammadu Buhari, a promis lundi 27 avril de traiter le groupe islamiste Boko Haram comme des terroristes parce qu'ils ne sont qu'un faux...",
-            "date": "2015-04-27",
-            "categories": "religion",
-            "tags": "comme,terroristes,religion,avril",
-            "recuweb_url": "http://fr.recuweb.com/religion/tdg.ch/2015/04/aucune-religion-ne-permet-de-tuer-des-enfants-tribune-gen%C3%A8ve",
-            "resource_url": "http://news.google.fr/?hl=fr&q=religion&output=atom&nord=1",
-            "source_url": "http://tdg.ch/monde/afrique/centaines-morts-decouverts-nigeria/story/29768957"
-        },
         "bibliobs.nouvelobs.com/2015/04/la-la%C3%AFcit%C3%A9-doit-elle-effacer-religion-de-l-espace-public-obs": {
             "title": "La la\u00efcit\u00e9 doit-elle effacer la religion de l'espace public? - L'Obs...",
             "snippet": "L'ObsLa la\u00efcit\u00e9 doit-elle \"effacer la religion de l'espace public\"?L'ObsCardinal Gerhard M\u00fcller A l'\u00e9poque o\u00f9 les lois de la\u00efcit\u00e9 ont \u00e9t\u00e9 \u00e9labor\u00e9es, il n'existait en France que la religion catholique, devenue l'ennemi absolu des radicaux...",
@@ -48,8 +68,18 @@
             "categories": "religion",
             "tags": "la\u00efcit\u00e9,religion,france",
             "recuweb_url": "http://fr.recuweb.com/religion/bibliobs.nouvelobs.com/2015/04/la-la%C3%AFcit%C3%A9-doit-elle-effacer-religion-de-l-espace-public-obs",
-            "resource_url": "http://news.google.fr/?hl=fr&q=religion&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=religion%2Breligion&output=atom&nord=1",
             "source_url": "http://bibliobs.nouvelobs.com/idees/20150422.OBS7747/la-laicite-doit-elle-effacer-la-religion-de-l-espace-public.html"
+        },
+        "lejsl.com/2015/04/chalon-sur-sa%C3%B4ne-la-religion-face-aux-lyc%C3%A9ens": {
+            "title": "Chalon-sur-Sa\u00f4ne La religion face aux lyc\u00e9ens...",
+            "snippet": "Parler librement de lislam et du christianisme, comprendre chaque religion, d\u00e9couvrir quelques fondements avec les religieux, voici ce que voulaient les lyc\u00e9ens du club Solidarit\u00e9 dHilaire-de-Chardonnet. Avec Open caf\u00e9, cette rencontre a pu...",
+            "date": "2015-04-25",
+            "categories": "christianisme,religion",
+            "tags": "chaque,religion,religieux",
+            "recuweb_url": "http://fr.recuweb.com/religion/lejsl.com/2015/04/chalon-sur-sa%C3%B4ne-la-religion-face-aux-lyc%C3%A9ens",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=religion&format=RSS&cc=fr",
+            "source_url": "http://lejsl.com/edition-de-chalon/2015/04/26/la-religion-face-aux-lyceens"
         },
         "leparisien.fr/2015/04/religion-au-travail-une-sensibilit%C3%A9-accrue-depuis-les-attentats": {
             "title": "Religion au travail: Une sensibilit\u00e9 accrue depuis les attentats de... - Le Parisien...",
@@ -60,26 +90,6 @@
             "recuweb_url": "http://fr.recuweb.com/religion/leparisien.fr/2015/04/religion-au-travail-une-sensibilit%C3%A9-accrue-depuis-les-attentats",
             "resource_url": "http://news.google.fr/?hl=fr&q=religion&output=atom&nord=1",
             "source_url": "http://leparisien.fr/societe/religion-au-travail-une-sensibilite-accrue-depuis-les-attentats-de-janvier-21-04-2015-4711451.php"
-        },
-        "fr.news.yahoo.com/2015/03/joan-smalls-sexy-en-denim-pour-true-religion": {
-            "title": "Joan Smalls: sexy en denim pour True Religion...",
-            "snippet": "Magnifique \u00e9g\u00e9rie de la marque Prabal Gurung, le mannequin Joan Smalls collabore aussi avec True Religion pour une collection capsule tr\u00e8s hot qui est sortie aujourd'hui.",
-            "date": "2015-03-17",
-            "categories": "collection,religion",
-            "tags": "religion",
-            "recuweb_url": "http://fr.recuweb.com/religion/fr.news.yahoo.com/2015/03/joan-smalls-sexy-en-denim-pour-true-religion",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=religion",
-            "source_url": "http://fr.news.yahoo.com/joan-smalls-sexy-denim-true-religion-174057552.html"
-        },
-        "fr.news.yahoo.com/2015/03/les-ventes-de-livres-sur-l-islam-en-forte-hausse-chez": {
-            "title": "Les ventes de livres sur l'islam en forte hausse chez les libraires...",
-            "snippet": "Depuis les attentats de janvier 2015 en France, les livres qui \u00e9voquent la religion musulmane sont tr\u00e8s demand\u00e9s. Une nette augmentation des ventes du Coran est visible partout, sur Amazon comme dans les librairies.",
-            "date": "2015-03-09",
-            "categories": "islam,religion",
-            "tags": "comme,attentats,attentats-de-janvier,janvier,islam,france,religion",
-            "recuweb_url": "http://fr.recuweb.com/religion/fr.news.yahoo.com/2015/03/les-ventes-de-livres-sur-l-islam-en-forte-hausse-chez",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=religion",
-            "source_url": "http://fr.news.yahoo.com/ventes-livres-lislam-forte-hausse-chez-libraires-174231908.html"
         }
     }
 }
