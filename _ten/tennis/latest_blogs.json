@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "tennis",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/tennis/",
@@ -11,38 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/tennis/tennis/blogs.json"
     },
     "items": {
+        "welovetennis.fr/2015/04/la-nouvelle-pub-mercedes-amg-de-federer-we-love-tennis": {
+            "title": "La nouvelle pub Mercedes-AMG de Federer... - We love tennis...",
+            "snippet": "Roger Federer et les publicit\u00e9s, c'est une longue histoire d'amour. Le Suisse a publi\u00e9 sur sa page Facebook sa nouvelle pub pour la derni\u00e8re Mercedes-AMG. Le Blois s'est plut\u00f4t fait plaisir en conduisant la derni\u00e8re GLE63...",
+            "date": "2015-04-29",
+            "author_name": "Lo\u00efc Revol",
+            "categories": "plaisir,tennis,facebook",
+            "tags": "federer,tennis,roger,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/welovetennis.fr/2015/04/la-nouvelle-pub-mercedes-amg-de-federer-we-love-tennis",
+            "resource_url": "http://www.google.com/search?q=tennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://welovetennis.fr/federer/98924-la-nouvelle-pub-mercedes-amg-de-federer"
+        },
         "courrier-picard.fr/2015/04/tennis-constant-lestienne-qualifi%C3%A9-pour-le-tournoi-atp-d-estoril": {
             "title": "TENNIS Constant Lestienne qualifi\u00e9 pour le tournoi ATP d'Estoril...",
             "snippet": "Richard Gasquet, J\u00e9r\u00e9my Chardy, St\u00e9phane Robert et... le Picard Constant Lestienne. Voila le contingent fran\u00e7ais dans le tableau final du tournoi d'EStoril cette semaine. En pleine forme depuis un mois, Lestienne (319e...",
             "date": "2015-04-27",
             "author_name": "Le Courrier picard",
             "categories": "tennis",
-            "tags": "mois,semaine,fran\u00e7ais,picard,qualifi\u00e9,tennis,tournoi,atp",
+            "tags": "semaine,fran\u00e7ais,qualifi\u00e9,tennis,tournoi,atp",
             "recuweb_url": "http://fr.recuweb.com/tennis/courrier-picard.fr/2015/04/tennis-constant-lestienne-qualifi%C3%A9-pour-le-tournoi-atp-d-estoril",
             "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://courrier-picard.fr/region/tennis-constant-lestienne-qualifie-pour-le-tournoi-atp-ia201b0n559600"
-        },
-        "brossac.blogs.charentelibre.fr/2015/04/brossac-les-joueurs-de-tennis-en-herbe-r%C3%A9compens%C3%A9s": {
-            "title": "BROSSAC: Les joueurs de tennis en herbe r\u00e9compens\u00e9s: Brossac...",
-            "snippet": "Ce dernier mardi matin d'avril, la quarantaine d'\u00e9l\u00e8ves des deux classes de cycle 3 de l'\u00e9cole Honor\u00e9 de Balzac sont rassembl\u00e9s sur l'un des courts du club de tennis brossacais pour un petit moment bien sympathique.",
-            "date": "2015-04-26",
-            "author_name": "Moustache",
-            "categories": "tennis",
-            "tags": "petit,moment,courts,mardi,joueurs,tennis,avril,club",
-            "recuweb_url": "http://fr.recuweb.com/tennis/brossac.blogs.charentelibre.fr/2015/04/brossac-les-joueurs-de-tennis-en-herbe-r%C3%A9compens%C3%A9s",
-            "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://brossac.blogs.charentelibre.fr/archive/2015/04/26/brossac-les-joueurs-de-tennis-en-herbe-recompenses-197443.html"
-        },
-        "sudouest.fr/2015/04/tennis-%C3%A7a-s-annonce-ouvert-au-challenger-bordeaux-primrose": {
-            "title": "Tennis: \u00e7a s'annonce ouvert au Challenger Bordeaux-Primrose...",
-            "snippet": "Pas de t\u00eates d'affiche connues du grand public, mais six membres du Top 100, le Girondin de Schepper, le Fran\u00e7ais Mahut ou l'Espagnol Montanes: le tournoi de tennis girondin (9-17 mai) sera...",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
-            "categories": "tennis",
-            "tags": "espagnol,fran\u00e7ais,bordeaux,annonce,tennis,primrose,tournoi,mai",
-            "recuweb_url": "http://fr.recuweb.com/tennis/sudouest.fr/2015/04/tennis-%C3%A7a-s-annonce-ouvert-au-challenger-bordeaux-primrose",
-            "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/22/challenger-bordeaux-primrose-ca-s-annonce-ouvert-1900268-4599.php"
         },
         "parismatch.com/2015/04/ancien-n1-du-tennis-fran%C3%A7ais-patrice-dominguez-est-mort": {
             "title": "Ancien n1 du tennis fran\u00e7ais - Patrice Dominguez est mort...",
@@ -50,7 +39,7 @@
             "date": "2015-04-12",
             "author_name": "Paris Match",
             "categories": "mort,tennis",
-            "tags": "\u00e9tait,f\u00e9d\u00e9ration,f\u00e9d\u00e9ration_fran\u00e7aise,fran\u00e7aise,fran\u00e7ais,tennisman,dimanche,patrice,patrice_dominguez,dominguez,tennis",
+            "tags": "f\u00e9d\u00e9ration,f\u00e9d\u00e9ration_fran\u00e7aise,fran\u00e7aise,fran\u00e7ais,patrice,patrice_dominguez,dominguez,tennis",
             "recuweb_url": "http://fr.recuweb.com/tennis/parismatch.com/2015/04/ancien-n1-du-tennis-fran%C3%A7ais-patrice-dominguez-est-mort",
             "resource_url": "http://www.google.com/search?q=tennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/Actu/Sport/Patrice-Dominguez-est-mort-Le-tennisman-ancien-n-1-francais-et-36e-mondial-743658"
@@ -61,7 +50,7 @@
             "date": "2015-04-12",
             "author_name": "ATP Staff",
             "categories": "tennis",
-            "tags": "international,tennis,patrice,patrice_dominguez,dominguez",
+            "tags": "tennis,patrice,patrice_dominguez,dominguez",
             "recuweb_url": "http://fr.recuweb.com/tennis/atpworldtour.com/2015/04/patrice-dominguez-leading-french-&-international-tennis-figure",
             "resource_url": "http://www.google.com/search?q=tennis%2Btennis&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://atpworldtour.com/News/Tennis/2015/04/14/Patrice-Dominguez-Passes-Away.aspx"
