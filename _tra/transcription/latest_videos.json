@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "transcription",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/transcription/",
@@ -11,25 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/transcription/transcription/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/co-%C3%A9tats-unis-limpasse-budg%C3%A9taire-transcription": {
-            "title": "CO: \u00c9tats-Unis: limpasse budg\u00e9taire (transcription)...",
-            "snippet": "CO: \u00c9tats-Unis: limpasse budg\u00e9taire (transcription) Transcription Fran\u00e7ois Bernard: Des centaines de milliers de fonctionnaires am\u00e9ricains ont \u00e9t\u00e9 forc\u00e9s d'entamer des cong\u00e9s sans solde pour une p\u00e9riode ind\u00e9termin\u00e9e, faute d'accord...",
-            "date": "2015-04-22",
-            "author_name": "Merci Story",
-            "categories": "transcription",
-            "tags": "transcription,fran\u00e7ois,bernard",
-            "recuweb_url": "http://fr.recuweb.com/transcription/youtube.com/2015/04/co-%C3%A9tats-unis-limpasse-budg%C3%A9taire-transcription",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=transcription&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=PjGXwk-A1bE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/PjGXwk-A1bE/0.jpg"
-        },
         "youtube.com/2015/04/co-la-cigarette-%C3%A9lectronique-danger-transcription": {
             "title": "CO: La cigarette \u00e9lectronique, danger? Transcription...",
             "snippet": "CO: La cigarette \u00e9lectronique, danger? Transcription Transcription Fran\u00e7ois Bernard: En France, pr\u00e9sent\u00e9e comme une alternative \u00e0 la cigarette traditionnelle et un moyen de fumer moins, voire d'arr\u00eater de fumer, la cigarette \u00e9lectronique...",
             "date": "2015-04-16",
             "author_name": "Merci Story",
             "categories": "electronique,transcription",
-            "tags": "transcription,fran\u00e7ois,bernard",
+            "tags": "transcription",
             "recuweb_url": "http://fr.recuweb.com/transcription/youtube.com/2015/04/co-la-cigarette-%C3%A9lectronique-danger-transcription",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=transcription%2Btranscription&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ZC6UJOJrSR8&feature=youtube_gdata",
@@ -89,7 +77,7 @@
             "date": "2014-12-15",
             "author_name": "Francais avec Pierre",
             "categories": "transcription",
-            "tags": "fran\u00e7ais,pierre,transcription,facile,podcast",
+            "tags": "fran\u00e7ais,pierre,fran\u00e7ais-avec-transcription,transcription,facile,podcast",
             "recuweb_url": "http://fr.recuweb.com/transcription/youtube.com/2014/12/fran%C3%A7ais-facile-podcast-avec-transcription-cadeau-no%C3%ABl",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=transcription%2Btranscription&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=UvqyTjHwqiY&feature=youtube_gdata",
@@ -125,11 +113,23 @@
             "date": "2014-06-07",
             "author_name": "Francais avec Pierre",
             "categories": "transcription",
-            "tags": "transcription,podcast,fran\u00e7ais,facile,pierre",
+            "tags": "transcription,podcast,fran\u00e7ais,francais,facile,pierre,education",
             "recuweb_url": "http://fr.recuweb.com/transcription/youtube.com/2014/06/fran%C3%A7ais-facile-podcast-exercice-transcription-la-baby-sitter-a2",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=transcription%2Btranscription&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=yi7c6wtsJ_I&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/yi7c6wtsJ_I/0.jpg"
+        },
+        "youtube.com/2014/05/podcast-fran%C3%A7ais-avec-transcription-niv-a2-le-toubib": {
+            "title": "Podcast fran\u00e7ais avec transcription (Niv. A2) LE TOUBIB...",
+            "snippet": "Podcast fran\u00e7ais avec transcription (Niv. A2) LE TOUBIB Podcast en fran\u00e7ais avec transcription (Niv. A2) LE TOUBIB La transcription se trouve sur le blog: From: Francais avec Pierre Views: 5019 53 ratings Time: 03:29 More in Education...",
+            "date": "2014-05-31",
+            "author_name": "Francais avec Pierre",
+            "categories": "transcription",
+            "tags": "transcription,fran\u00e7ais,francais,fran\u00e7ais-avec-transcription,podcast,pierre,education",
+            "recuweb_url": "http://fr.recuweb.com/transcription/youtube.com/2014/05/podcast-fran%C3%A7ais-avec-transcription-niv-a2-le-toubib",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=transcription%2Btranscription&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=yoS7yiiX2Ys&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/yoS7yiiX2Ys/0.jpg"
         }
     }
 }
