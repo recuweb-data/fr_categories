@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pelot",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pelot/",
@@ -11,6 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/blogs.json"
     },
     "items": {
+        "la-croix.com/2015/04/robespierre-en-islande": {
+            "title": "Robespierre en Islande...",
+            "snippet": "Un H majuscule, mais dont la barre centrale \u00e9tait oblique. Cet oblique est le d\u00e9but de questions sans r\u00e9ponse, le petit bout du magma exponentiel, la premi\u00e8re algue de la pelote. Plus tard, autre suicid\u00e9: Henri Masfaur\u00e9, propri\u00e9taire de...",
+            "date": "2015-04-29",
+            "tags": "premi\u00e8re,pelote",
+            "recuweb_url": "http://fr.recuweb.com/la-croix.com/2015/04/robespierre-en-islande",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
+            "source_url": "http://la-croix.com/Culture/Livres-Idees/Livres/Robespierre-en-Islande-2015-04-29-1307638"
+        },
         "htrnews.com/2015/04/tr-grad-pelot-competes-in-austria-herald-times-reporter": {
             "title": "TR grad Pelot competes in Austria - Herald Times Reporter...",
             "snippet": "Herald Times ReporterTR grad Pelot competes in AustriaHerald Times ReporterWRESTLING. Two Rivers grad Pelot competes in Austria Recent Two Rivers graduate Ty Pelot wrestled in the Austria Junior Open Feb. 28 in Gotzis, Austria, as part of Team USA.",
@@ -21,15 +30,6 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=pelot%2Bpelot&output=atom&nord=1",
             "source_url": "http://htrnews.com/story/sports/2015/04/23/tr-grad-pelot-competes-austria/26265693/"
         },
-        "ladepeche.fr/2015/04/40-bougies-pour-le-club-et-un-20e-troph%C3%A9e": {
-            "title": "40 bougies pour le club et un 20e troph\u00e9e...",
-            "snippet": "L'association condomoise de pelote f\u00eate cette ann\u00e9e un double anniversaire. Celui de la cr\u00e9ation du club il y a 40 ans par une bande de copains de la Bouquerie, et la 20 e \u00e9dition du troph\u00e9e Ren\u00e9-Dousdeb\u00e8s, en m\u00e9moire de celui qui fut...",
-            "date": "2015-04-21",
-            "tags": "pelote",
-            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/40-bougies-pour-le-club-et-un-20e-troph%C3%A9e",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/22/2091565-40-bougies-pour-le-club-et-un-20e-trophee.html"
-        },
         "oregonlive.com/2015/04/is-state-liable-for-broken-silver-falls-railing-or-parents-of": {
             "title": "Is state liable for broken Silver Falls railing? Or parents of boy, 10... -...",
             "snippet": "state liable for broken Silver Falls railing? Or parents of boy, 10... Pelot of Southeast Portland is back hiking with his family, but can't shake persistent thoughts of dying and is at risk for future medical complications because of the injuries...",
@@ -39,16 +39,6 @@
             "recuweb_url": "http://fr.recuweb.com/pelot/oregonlive.com/2015/04/is-state-liable-for-broken-silver-falls-railing-or-parents-of",
             "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
             "source_url": "http://oregonlive.com/portland/index.ssf/2015/04/is_state_liable_for_broken_sil.html"
-        },
-        "lamontagne.fr/2015/04/les-poussins-de-l%C3%A9cole-pelote-basque-champions-france": {
-            "title": "Les poussins de l\u00e9cole de pelote basque champions de France!",
-            "snippet": "Les poussins de l\u00e9cole de pelote briviste sont devenus champions de France en individuel et par \u00e9quipes en frontenis. Un bassin de r\u00e9tention deau r\u00e9guli\u00e8rement pollu\u00e9 gche, depuis plusieurs ann\u00e9es, le quotidien des habitants dun...",
-            "date": "2015-04-17",
-            "categories": "pelote-basque",
-            "tags": "pelote,pelote-basque,basque",
-            "recuweb_url": "http://fr.recuweb.com/pelote-basque/lamontagne.fr/2015/04/les-poussins-de-l%C3%A9cole-pelote-basque-champions-france",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
-            "source_url": "http://lamontagne.fr/limousin/actualite/departement/correze/brive/2015/04/18/les-poussins-de-lecole-de-pelote-basque-champions-de-france_11409440.html"
         },
         "yle.fi/2015/04/teerinevalle-suunniteltu-turvetuotanto-nosti-esiin-vanhat-pelot-yle": {
             "title": "Teerinevalle suunniteltu turvetuotanto nosti esiin vanhat pelot... - YLE...",
