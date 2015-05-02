@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "yandex",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/yandex/",
@@ -19,7 +19,7 @@
             "categories": "google,yandex,bing",
             "tags": "google,yandex",
             "recuweb_url": "http://fr.recuweb.com/bing/youtube.com/2014/11/formation-boite2-com-google-et-ces-concurrents-yandex-ask-bing",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=yandex%2Byandex&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Tj9WWM7YGBE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Tj9WWM7YGBE/0.jpg"
         },
