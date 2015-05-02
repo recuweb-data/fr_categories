@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "application-web",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/application-web/",
@@ -11,23 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
     },
     "items": {
-        "marketingperformer.fr/2015/04/limpact-du-responsive-web-design-dans-lentreprise": {
-            "title": "Limpact du Responsive Web Design dans lentreprise...",
-            "snippet": "Les supports sur lesquels votre site ou application web doit fonctionner prolif\u00e8rent et pr\u00e9sentent tous des caract\u00e9ristiques diverses. Les smartphones ou tablettes, par exemple, sont devenus des extensions naturelles du syst\u00e8me dinformation.",
-            "date": "2015-04-27",
-            "tags": "web,application",
-            "recuweb_url": "http://fr.recuweb.com/marketingperformer.fr/2015/04/limpact-du-responsive-web-design-dans-lentreprise",
+        "silicon.fr/2015/04/google-chrome-moins-de-failles-plus-musique": {
+            "title": "Google Chrome: moins de failles, plus de musique...",
+            "snippet": "Cette derni\u00e8re apportera quelques nouveaut\u00e9s int\u00e9ressantes, comme le support des p\u00e9riph\u00e9riques Midi, qui permettra de piloter un synth\u00e9tiseur depuis une application web. Google sappuie ici sur lAPI Web Midi du W3C. En plus des usages en...",
+            "date": "2015-04-29",
+            "categories": "musique,google",
+            "tags": "web,quelques,application",
+            "recuweb_url": "http://fr.recuweb.com/google/silicon.fr/2015/04/google-chrome-moins-de-failles-plus-musique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://marketingperformer.fr/2015/04/limpact-du-responsive-web-design-dans-lentreprise/"
+            "source_url": "http://silicon.fr/google-chrome-de-failles-plus-de-musique-115154.html"
         },
-        "elle.fr/2015/04/la-p%C3%A9pite-du-web-l-appli-myidol-pour-se-cr%C3%A9er": {
-            "title": "La p\u00e9pite du Web: l'appli MyIdol pour se cr\u00e9er le plus funky des... - Elle...",
-            "snippet": "ElleLa p\u00e9pite du Web: l'appli MyIdol pour se cr\u00e9er le plus funky des...ElleMyIdol est une application addictive, chronophage... mais qui va tr\u00e8s probablement conna\u00eetre un succ\u00e8s \u00e9ph\u00e9m\u00e8re il faut l'avouer. L'id\u00e9e est simple: cr\u00e9er son...",
-            "date": "2015-04-24",
-            "tags": "web,cr\u00e9er,application",
-            "recuweb_url": "http://fr.recuweb.com/elle.fr/2015/04/la-p%C3%A9pite-du-web-l-appli-myidol-pour-se-cr%C3%A9er",
-            "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
-            "source_url": "http://elle.fr/Loisirs/High-tech/News/La-pepite-du-Web-l-appli-MyIdol-pour-se-creer-le-plus-funky-des-avatars-2944514"
+        "bulletins-electroniques.com/2015/04/2%C3%A8me-%C3%A9dition-d-innovatives-shs-le-salon-des-sciences-humaines": {
+            "title": "2\u00e8me \u00e9dition d'Innovatives SHS, le salon des Sciences Humaines et Sociales...",
+            "snippet": "ISQVT qui est une application web ludique pour diagnostiquer la qualit\u00e9 de vie au travail, ODR qui est un observatoire du d\u00e9veloppement du monde rural, mais aussi le Jardin th\u00e9rapeutique, un lieu de soin par la nature et la culture, Dessine-moi...",
+            "date": "2015-04-28",
+            "categories": "nature,culture,science",
+            "tags": "monde,application,web",
+            "recuweb_url": "http://fr.recuweb.com/science/bulletins-electroniques.com/2015/04/2%C3%A8me-%C3%A9dition-d-innovatives-shs-le-salon-des-sciences-humaines",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://bulletins-electroniques.com/actualites/78369.htm"
+        },
+        "ladn.eu/2015/04/lonsdale-29-nouveaux-clients": {
+            "title": "Lonsdale: 29 nouveaux clients...",
+            "snippet": "DIGITAL branding: renouvellement de la confiance de BNP Paribas qui confie 6 nouveaux sujets aux \u00e9quipes (aussi bien corporate que BtoC), et par le gain des marques telles que GrDF (site \u00e9v\u00e8nementiel), AIXIA Syst\u00e8mes (site dapplication web pour...",
+            "date": "2015-04-27",
+            "tags": "web",
+            "recuweb_url": "http://fr.recuweb.com/ladn.eu/2015/04/lonsdale-29-nouveaux-clients",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://ladn.eu/actualites/agence,lonsdale-29-nouveaux-clients,29,26142.html"
         },
         "itrnews.com/2015/04/d%C3%A9veloppez-aujourd-hui-les-applications-web-de-demain": {
             "title": "D\u00e9veloppez aujourd'hui les applications web de demain...",
@@ -42,16 +53,16 @@
             "title": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web... - Global Security Mag...",
             "snippet": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web...Global Security MagQualys WAF est d\u00e9ploy\u00e9 en tant qu'image virtuelle devant les applications Web. Ce service s'installe et se configure en quelques minutes seulement, sans...",
             "date": "2015-04-22",
-            "tags": "service,applications,cloud,web",
+            "tags": "quelques,service,applications,cloud,web",
             "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global",
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb%2Bapplication%2Bweb&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451.html"
+            "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451"
         },
         "ladn.eu/2015/04/campagne-fontyou-start-up-sp%C3%A9cialis%C3%A9e-en-typographie": {
             "title": "Campagne Fontyou, start-up sp\u00e9cialis\u00e9e en typographie...",
             "snippet": "Cr\u00e9\u00e9e en janvier 2013, Fontyou est une application web qui permet aux cr\u00e9atifs et aux agences de g\u00e9rer toutes leurs polices de caract\u00e8res en cloud, de d\u00e9couvrir et tester fontes du monde et les derni\u00e8res tendances typographiques. TBWAPARIS et...",
             "date": "2015-04-19",
-            "tags": "d\u00e9couvrir,permet,cloud,application,web",
+            "tags": "d\u00e9couvrir,monde,permet,cloud,application,web",
             "recuweb_url": "http://fr.recuweb.com/ladn.eu/2015/04/campagne-fontyou-start-up-sp%C3%A9cialis%C3%A9e-en-typographie",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://ladn.eu/actualites/marque,campagne-fontyou-start-up-specialisee-typographie,30,25998.html"
@@ -61,19 +72,10 @@
             "snippet": "A croire cette nouvelle application, lapp\u00e9tit vient en regardant. RestoFolio est un nouveau service internet permettant aux consommateurs de partager et d\u00e9couvrir les plats et cartes des restaurants normands.",
             "date": "2015-04-18",
             "categories": "internet",
-            "tags": "service,permettant,d\u00e9couvrir,plats,cartes,cartes-des-restaurants,restaurants,annuaire,application,web,restofolio",
+            "tags": "service,permettant,d\u00e9couvrir,application,web",
             "recuweb_url": "http://fr.recuweb.com/internet/france3-regions.francetvinfo.fr/2015/04/application-web-un-annuaire-de-plats-normands",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://france3-regions.francetvinfo.fr/basse-normandie/2015/04/18/application-web-un-annuaire-de-plats-normands-707401.html"
-        },
-        "cotecaen.fr/2015/04/caen-restofolio-l-annuaire-des-plats-cr%C3%A9%C3%A9-par-un-caennais": {
-            "title": "Caen RestoFolio: l'annuaire des plats cr\u00e9\u00e9 par un Caennais...",
-            "snippet": "Pas besoin de faire la tourn\u00e9e des cartes des restaurants pour savoir o\u00f9 vous allez pouvoir assouvir votre envie. Marc Houssaye a cr\u00e9\u00e9 une application web, RestoFolio, qui r\u00e9pertorie des plats de restaurants.",
-            "date": "2015-04-17",
-            "tags": "plats,restaurants,cartes,cartes-des-restaurants,annuaire,restofolio,application,web",
-            "recuweb_url": "http://fr.recuweb.com/cotecaen.fr/2015/04/caen-restofolio-l-annuaire-des-plats-cr%C3%A9%C3%A9-par-un-caennais",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://cotecaen.fr/33569/restofolio-lannuaire-des-plats-cree-par-un-caennais/"
         },
         "bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news": {
             "title": "Collibris: l'application qui propage la lecture - BSC News...",
@@ -83,15 +85,6 @@
             "recuweb_url": "http://fr.recuweb.com/bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news",
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
             "source_url": "http://bscnews.fr/201504074636/TECH-WEB/collibris-l-application-qui-propage-la-lecture.html"
-        },
-        "fr.news.yahoo.com/2015/04/montpellier-une-application-web-pour-traduire-les-menus-des-restaurants": {
-            "title": "Montpellier: Montpellier: Une application web pour traduire les menus des restaurants aux touristes...",
-            "snippet": "TOURISME - Chaque ann\u00e9e, cinq millions de touristes \u00e9trangers viennent d\u00e9couvrir les joyaux du Languedoc-Roussillon. Et beaucoup ne parlent pas un mot de fran\u00e7ais...",
-            "date": "2015-04-07",
-            "tags": "d\u00e9couvrir,restaurants,application,web",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/04/montpellier-une-application-web-pour-traduire-les-menus-des-restaurants",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=application%2Bweb",
-            "source_url": "http://fr.news.yahoo.com/montpellier-montpellier-application-web-traduire-menus-restaurants-touristes-173224633.html"
         }
     }
 }
