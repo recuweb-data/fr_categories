@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -16,7 +16,7 @@
             "snippet": "Le premier concerne le protocole de communication client/serveur de PostgreSQL. Il permet de bien prendre conscience du dialogue et des possibilit\u00e9s d'\u00e9change entre ces deux entit\u00e9s. Le second aborde la question des...",
             "date": "2015-03-29",
             "author_name": "Guillaume Lelarge",
-            "tags": "permet,possibilit\u00e9s,serveur,communication,client,livre,version,gresql,gleu",
+            "tags": "permet,possibilit\u00e9s,serveur,premier,communication,client,livre,version,gresql,gleu",
             "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/03/version-0-2-de-mon-livre-sur-postgresql-gleu-s-blog",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/03/29/Version-0.2-de-mon-livre-sur-PostgreSQL"
@@ -37,7 +37,7 @@
             "snippet": "PostgreSQL: Documentation: 8.1: CREATE SEQUENCE FAQ: Using Sequences in PostgreSQL How to create a sequence in PostgreSQL postgresql - How to reset sequence in postgres and fill id column with new data? - Stack Overflow auto increment - PostgreSQL...",
             "date": "2015-02-12",
             "author_name": "(Jeff Huang)",
-            "tags": "gres,data,gresql,how",
+            "tags": "gres,gresql,how,data",
             "recuweb_url": "http://fr.recuweb.com/braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and-sequence",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=fr",
             "source_url": "http://braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and.html"
@@ -47,7 +47,7 @@
             "snippet": "I wish I had a PostgreSQL tool like that. I wished enough to eventually build it. I call it pgstat because I couldn't find a better name for it. It's an online command tool that connects to a database and grabs its activity statistics.",
             "date": "2015-01-25",
             "author_name": "Guillaume Lelarge",
-            "tags": "statistics,gresql,gleu",
+            "tags": "gresql,gleu",
             "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/01/25/A-new-vmstat-like-tool-for-PostgreSQL"
@@ -57,7 +57,7 @@
             "snippet": "SOSEDOFF/PGWEB \u00c2 GITHUB pgweb - Web-based PostgreSQL database browser Langue: Tags: gestion postgresql golang Site officiel...",
             "date": "2014-11-15",
             "author_name": "vienergie",
-            "tags": "database,gresql,web,gestion",
+            "tags": "gresql,web,gestion",
             "recuweb_url": "http://fr.recuweb.com/vienergie.wordpress.com/2014/11/pgweb-une-interface-de-gestion-bdd-postgresql-web-based-d%C3%A9velopp%C3%A9e",
             "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://vienergie.wordpress.com/2014/11/15/pgweb-une-interface-de-gestion-de-bdd-postgresql-web-based-developpee-en-go/"
@@ -67,7 +67,7 @@
             "snippet": "Ce petit tutoriel L'installation de PostgreSql L'installation des divers JDBC Des informations sur la base de donn\u00e9es (a venir) Des Liens vers des ressources PostgreSql (a venir) bient\u00f4t Le t\u00e9l\u00e9chargement de PostgreSQL L'installation de...",
             "date": "2014-09-12",
             "author_name": "Duarte TERENCIO",
-            "tags": "informations,installation,gresql,base,donn\u00e9es",
+            "tags": "informations,installation,tutoriel,gresql,base,donn\u00e9es",
             "recuweb_url": "http://fr.recuweb.com/regardsurlecloud.wordpress.com/2014/09/installation-de-postgresql-9-3-sur-mac",
             "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://regardsurlecloud.wordpress.com/2014/09/12/installation-de-postgresql-9-3-sur-mac/"
