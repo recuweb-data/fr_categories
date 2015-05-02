@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "parapente",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/parapente/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/parapente/parapente/blogs.json"
     },
     "items": {
+        "accous.blogs.larepubliquedespyrenees.fr/2015/04/toute-l-actualit%C3%A9-de-la-commune": {
+            "title": "Toute l'actualit\u00e9 de la commune...",
+            "snippet": "C'est le si\u00e8ge de la Communaut\u00e9 des Communes de la vall\u00e9e dAspe (2 780 habitants) et la capitale des sports de nature: randonn\u00e9e ou haute montagne, sports a\u00e9riens (parapente et ULM), skate park. G\u00e9rard Debouverie, correspondant depuis 2006...",
+            "date": "2015-04-29",
+            "categories": "sport,nature,parapente",
+            "tags": "haute,parapente",
+            "recuweb_url": "http://fr.recuweb.com/parapente/accous.blogs.larepubliquedespyrenees.fr/2015/04/toute-l-actualit%C3%A9-de-la-commune",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=parapente&format=RSS&cc=fr",
+            "source_url": "http://accous.blogs.larepubliquedespyrenees.fr/archive/2015/04/29/accous-l-histoire-de-la-presse-bearnaise-24901.html"
+        },
         "quimper.maville.com/2015/04/bapt%C3%AAme-de-parapente-en-l-air-au-dessus-la-pointe-trefeuntec": {
             "title": "Bapt\u00eame de parapente: En l'air au-dessus de la pointe de Trefeuntec...",
             "snippet": "Lors de la premi\u00e8re \u00e9dition de la Breizh Wind les 9 et 10 mai, le public pourra go\u00fbter aux joies du parapente. Le Penn ar Bed vol libre a bien voulu nous faire essayer. Rendez-vous avec le public le dimanche 10 mai sur la plage de Pentrez, o\u00f9...",
             "date": "2015-04-23",
             "categories": "parapente",
-            "tags": "mai,libre,air,parapente,lors,vol,o\u00f9",
+            "tags": "libre,air,parapente,lors,vol,o\u00f9",
             "recuweb_url": "http://fr.recuweb.com/parapente/quimper.maville.com/2015/04/bapt%C3%AAme-de-parapente-en-l-air-au-dessus-la-pointe-trefeuntec",
             "resource_url": "http://www.bing.com/news/search?first=1&q=parapente&format=RSS&cc=fr",
             "source_url": "http://quimper.maville.com/actu/actudet_-bapteme-de-parapente-en-l-air-au-dessus-de-la-pointe-de-trefeuntec_6-2757119_actu.Htm"
@@ -40,16 +50,6 @@
             "recuweb_url": "http://fr.recuweb.com/parapente/ladepeche.fr/2015/04/un-week-end-pour-d%C3%A9couvrir-le-parapente",
             "resource_url": "http://news.google.fr/?hl=fr&q=parapente&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/09/2083734-un-week-end-pour-decouvrir-le-parapente.html"
-        },
-        "fr.news.yahoo.com/2015/02/il-escalade-les-glaciers-du-kilimandjaro-et-la-vue-est-incroyable": {
-            "title": "Il escalade les glaciers du Kilimandjaro (et la vue est incroyable)...",
-            "snippet": "SPORT - Will Gadd est une star dans son domaine. Si ce casse-cou s'est illustr\u00e9 dans des discplines aussi diverses que le ski, le parapente et le kayak, c'est surtout dans l'escalade que le Canadien fait figure de r\u00e9f\u00e9rence. Pas n'importe quelle...",
-            "date": "2015-02-16",
-            "categories": "escalade,ski,sport,parapente",
-            "tags": "parapente",
-            "recuweb_url": "http://fr.recuweb.com/parapente/fr.news.yahoo.com/2015/02/il-escalade-les-glaciers-du-kilimandjaro-et-la-vue-est-incroyable",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=parapente",
-            "source_url": "http://fr.news.yahoo.com/escalade-glaciers-kilimandjaro-vue-incroyable-153702436.html"
         }
     }
 }
