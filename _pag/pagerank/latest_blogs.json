@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pagerank/",
@@ -11,49 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "forum.webrankinfo.com/2015/02/la-page-rank-toujours-d-actualit%C3%A9e-r%C3%A9f%C3%A9rencement-google": {
-            "title": "la page rank toujours d'actualit\u00e9e?: R\u00e9f\u00e9rencement Google...",
-            "snippet": "Bonjour, je vois toujours des sites qui affichent le page rank mais c'est toujours d'actualit\u00e9 ou pas le pr?",
-            "date": "2015-02-02",
-            "author_name": "inconnu",
-            "categories": "google",
-            "tags": "rank,r\u00e9f\u00e9rencement,google,page,bonjour,sites",
-            "recuweb_url": "http://fr.recuweb.com/google/forum.webrankinfo.com/2015/02/la-page-rank-toujours-d-actualit%C3%A9e-r%C3%A9f%C3%A9rencement-google",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/page-rank-toujours-actualitee-t178726.html"
-        },
         "hypertexte.fr/2015/01/google-pagerank-c-est-fini-hypertexte": {
             "title": "Google PageRank: c'est fini! Hypertexte...",
             "snippet": "L'indicateur PageRank de Google a \u00e9t\u00e9 abandonn\u00e9. D\u00e9sormais, la qualit\u00e9 (et non plus le nombre seul) des liens compte plus que tout.",
             "date": "2015-01-26",
             "author_name": "Pascal Maupas",
             "categories": "google,pagerank",
-            "tags": "liens,google,google_pagerank,pagerank",
+            "tags": "google,google_pagerank,pagerank",
             "recuweb_url": "http://fr.recuweb.com/pagerank/hypertexte.fr/2015/01/google-pagerank-c-est-fini-hypertexte",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://hypertexte.fr/blog/google-pagerank-cest-fini/"
-        },
-        "forum.webrankinfo.com/2014/12/comment-augmenter-ma-pagerank-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement": {
-            "title": "comment augmenter ma pageRank: D\u00e9buter en r\u00e9f\u00e9rencement...",
-            "snippet": "bonjour on remarque des nouveaux sites avec une page Rank 3 ou 4, et le mien n'a pas pu d\u00e9passer 0, sachant que j'essaie...",
-            "date": "2014-12-15",
-            "author_name": "inconnu",
-            "categories": "pagerank",
-            "tags": "bonjour,pagerank,r\u00e9f\u00e9rencement,sites,page,rank",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/forum.webrankinfo.com/2014/12/comment-augmenter-ma-pagerank-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement",
-            "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/comment-augmenter-pagerank-t177804.html"
-        },
-        "dsfc.net/2014/10/seo-penguin-pagerank-ou-nofollow-dsfc": {
-            "title": "SEO: Penguin, Pagerank ou nofollow? - Dsfc...",
-            "snippet": "Mon PageRank et mon AuthorRank je fais beaucoup de SMO ont augment\u00e9 concomitamment (???). Troisi\u00e8me hypoth\u00e8se: j'ai r\u00e9cemment pass\u00e9 tous les liens dans mes articles en nofollow. J'ai toujours cru que les liens...",
-            "date": "2014-10-22",
-            "author_name": "Denis Szalkowski",
-            "categories": "pagerank",
-            "tags": "liens,pagerank",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/dsfc.net/2014/10/seo-penguin-pagerank-ou-nofollow-dsfc",
-            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://dsfc.net/internet/referencement-internet/seo-penguin-pagerank-nofollow/"
         },
         "frdmoz.wordpress.com/2014/03/quest-ce-que-le-pagerank-de-google": {
             "title": "Quest ce que le PageRank de Google?",
@@ -66,13 +33,24 @@
             "resource_url": "http://fr.search.wordpress.com/?q=pagerank%2Bpagerank&f=feed&page=1",
             "source_url": "http://frdmoz.wordpress.com/2014/03/10/quest-ce-que-le-pagerank-de-google/"
         },
+        "infowebmaster.fr/2012/05/pagerank-sculpting-explications-infowebmaster": {
+            "title": "PageRank Sculpting: Explications - InfoWebMaster...",
+            "snippet": "Le PageRank Sculpting est une optimisation utilis\u00e9e en r\u00e9f\u00e9rencement pour am\u00e9liorer la fa\u00e7on dont le PageRank circule entre les pages.",
+            "date": "2012-05-17",
+            "author_name": "inconnu",
+            "categories": "pagerank",
+            "tags": "am\u00e9liorer,pagerank,r\u00e9f\u00e9rencement",
+            "recuweb_url": "http://fr.recuweb.com/pagerank/infowebmaster.fr/2012/05/pagerank-sculpting-explications-infowebmaster",
+            "resource_url": "http://www.google.com/search?q=pagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://infowebmaster.fr/75,news-pagerank-sculpting-explications.html"
+        },
         "webmaster-hub.com/2012/05/comment-am%C3%A9liorer-le-pagerank-techniques-de-r%C3%A9f%C3%A9rencement": {
             "title": "Comment am\u00e9liorer le PageRank? - Techniques de R\u00e9f\u00e9rencement...",
             "snippet": "J'aimerai savoir les actions possibles et n\u00e9cessaires pour am\u00e9liorer le PageRank de mon site? et comment faire pour obtenir des BACKLINKS? Modifi\u00e9 par Branco, 17 mai 2012 - 15:23. 0. Votre confort est notre engagement...",
             "date": "2012-05-17",
             "author_name": "inconnu",
             "categories": "pagerank",
-            "tags": "site,savoir,pagerank,r\u00e9f\u00e9rencement",
+            "tags": "site,savoir,am\u00e9liorer,pagerank,r\u00e9f\u00e9rencement",
             "recuweb_url": "http://fr.recuweb.com/pagerank/webmaster-hub.com/2012/05/comment-am%C3%A9liorer-le-pagerank-techniques-de-r%C3%A9f%C3%A9rencement",
             "resource_url": "http://www.google.com/search?q=pagerank%2Bpagerank&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://webmaster-hub.com/topic/53439-comment-ameliorer-le-pagerank/"
