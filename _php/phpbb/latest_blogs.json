@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "phpbb",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/phpbb/",
@@ -11,38 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
     },
     "items": {
-        "forums.phpbb-fr.com/2015/03/int%C3%A9grer-phpbb-sur-mon-site-modifications": {
-            "title": "Int\u00e9grer PHPBB sur mon site: Modifications et...",
-            "snippet": "Bonjour, J'ai installer r\u00e9cemment PHPBB sur mon site internet, apr\u00e8s quelques jours de recherche je n'ai rien trouver qui me permette de r\u00e9aliser correctement...",
-            "date": "2015-03-30",
-            "author_name": "cabot",
-            "categories": "phpbb,internet",
-            "tags": "apr\u00e8s,quelques,int\u00e9grer,phpbb,site,bonjour,installer",
-            "recuweb_url": "http://fr.recuweb.com/internet/forums.phpbb-fr.com/2015/03/int%C3%A9grer-phpbb-sur-mon-site-modifications",
-            "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forums.phpbb-fr.com/styles-modifications-recherche-phpbb31/sujet204243.html"
-        },
         "forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-installation-phpbb-postgresql-9-1-debian": {
             "title": "R\u00e9gl\u00e9 Installation phpBB - postgresql 9.1 - debian...",
             "snippet": "Bonjour (je n'ai pas trouv\u00e9 de fil de pr\u00e9sentation donc je poste mon soucis), J'essaie d'installer phpBB sur mon h\u00e9bergement local sous DEBIAN Wheezy...",
             "date": "2015-03-24",
             "author_name": "totophe56",
             "categories": "phpbb",
-            "tags": "h\u00e9bergement,r\u00e9gl\u00e9,phpbb,bonjour,installer",
+            "tags": "h\u00e9bergement,phpbb,installer",
             "recuweb_url": "http://fr.recuweb.com/phpbb/forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-installation-phpbb-postgresql-9-1-debian",
             "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forums.phpbb-fr.com/support-installation-phpbb31/sujet204179.html"
-        },
-        "forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-reliquats-apr%C3%A8s-nettoyage-dans-la-base": {
-            "title": "R\u00e9gl\u00e9 Reliquats apr\u00e8s nettoyage dans la base de...",
-            "snippet": "Bonjour, Je suis en train de poursuivre les tests en vue d'une migration de notre forum vers phpBB depuis phpBB PL1. Ce matin...",
-            "date": "2015-03-24",
-            "author_name": "Manard",
-            "categories": "phpbb",
-            "tags": "apr\u00e8s,r\u00e9gl\u00e9,bonjour,forum,phpbb",
-            "recuweb_url": "http://fr.recuweb.com/phpbb/forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-reliquats-apr%C3%A8s-nettoyage-dans-la-base",
-            "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forums.phpbb-fr.com/support-mises-a-jour-conversions-phpbb31/sujet204182.html"
         }
     }
 }
