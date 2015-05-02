@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radar",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radar/",
@@ -11,27 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radar/radar/blogs.json"
     },
     "items": {
+        "psk.blog.24heures.ch/2015/04/gripen-c-d-am%C3%A9lioration-du-radar-avia-news": {
+            "title": "Gripen C/D, am\u00e9lioration du radar!: avia news...",
+            "snippet": "La soci\u00e9t\u00e9 de d\u00e9fense et de s\u00e9curit\u00e9 Saab a d\u00e9velopp\u00e9 le une nouvelle version de son radar PS-05, le Mk4, qui donne aux avions de combat Gripen C/D une am\u00e9lioration de la performance et de la plage de fonctionnement.",
+            "date": "2015-04-28",
+            "author_name": "Pascal",
+            "categories": "radar",
+            "tags": "fonctionnement,radar,s\u00e9curit\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/radar/psk.blog.24heures.ch/2015/04/gripen-c-d-am%C3%A9lioration-du-radar-avia-news",
+            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://psk.blog.24heures.ch/archive/2015/04/28/gripen-c-d-amelioration-du-radar-858745.html"
+        },
+        "lapressedarmor.fr/2015/04/binic-pose-son-premier-radar-la-presse-d-armor": {
+            "title": "Binic pose son premier radar - La Presse d'Armor...",
+            "snippet": "Un radar oui mais p\u00e9dagogique! Il vient d'\u00eatre acquis par la commune pour la somme de 3 500, et sera plac\u00e9, successivement, aux endroits jug\u00e9s dangeureux.",
+            "date": "2015-04-23",
+            "author_name": "Nathalie Bot-Jaffray",
+            "categories": "place,radar",
+            "tags": "p\u00e9dagogique,premier,radar",
+            "recuweb_url": "http://fr.recuweb.com/radar/lapressedarmor.fr/2015/04/binic-pose-son-premier-radar-la-presse-d-armor",
+            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lapressedarmor.fr/2015/04/23/prevention-binic-pose-son-premier-radar/"
+        },
+        "air-cosmos.com/2015/04/le-mq-4c-triton-a-vol%C3%A9-avec-son-radar-mfas-air": {
+            "title": "Le MQ-4C Triton a vol\u00e9 avec son radar MFAS - Air et Cosmos...",
+            "snippet": "Le 18 avril, le drone MQ-4C Triton a d\u00e9coll\u00e9 de la base a\u00e9ronavale de Patuxent River pour tester en vol son nouvel \u00e9quipement, le radar MFAS (Multi-Fonction Active Sensor)....",
+            "date": "2015-04-22",
+            "author_name": "Antony Angrand",
+            "categories": "radar",
+            "tags": "fonction,nouvel,radar,avril",
+            "recuweb_url": "http://fr.recuweb.com/radar/air-cosmos.com/2015/04/le-mq-4c-triton-a-vol%C3%A9-avec-son-radar-mfas-air",
+            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://air-cosmos.com/2015/04/22/32820-le-mq-4c-triton-a-vole-avec-son-radar-mfas"
+        },
         "bfmtv.com/2015/04/duflot-sur-valls-l-%C3%A9galit%C3%A9-hommes-femmes-n-appara%C3%AEt": {
             "title": "Duflot sur Valls: \"L'\u00e9galit\u00e9 hommes-femmes n'appara\u00eet pas dans son...",
             "snippet": "Manuel Valls, en revanche, en prend pour son grade: \"L'\u00e9galit\u00e9 hommes-femmes n'appara\u00eet pas dans son \u00e9cran radar comme une priorit\u00e9\", persifle-t-elle. A Lire: Duflot: \"J'ai un d\u00e9saccord politique assez important avec Valls...",
             "date": "2015-04-21",
             "author_name": "inconnu",
             "categories": "politique,radar",
-            "tags": "radar,comme,lire",
+            "tags": "comme,radar,lire",
             "recuweb_url": "http://fr.recuweb.com/radar/bfmtv.com/2015/04/duflot-sur-valls-l-%C3%A9galit%C3%A9-hommes-femmes-n-appara%C3%AEt",
             "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bfmtv.com/politique/duflot-sur-valls-l-egalite-hommes-femmes-n-apparait-pas-dans-son-ecran-radar-comme-une-priorite-879450.html"
-        },
-        "lechodelaboucle.fr/2015/03/regardez-bien-cette-vache-c-est-un-radar-l-%C3%A9cho": {
-            "title": "Regardez bien cette vache: c'est un radar! - l'\u00c9cho de la Boucle...",
-            "snippet": "L'\u00e8re des radars p\u00e9dagogiques semble en partie r\u00e9volue. Tout du moins dans le Doubs, le Jura et en C\u00f4te d'Or; trois d\u00e9partements dans lesquels la Gendarmerie nationale teste actuellement un nouveau type de radar fixe...",
-            "date": "2015-03-07",
-            "author_name": "redac",
-            "categories": "radar",
-            "tags": "radars",
-            "recuweb_url": "http://fr.recuweb.com/radar/lechodelaboucle.fr/2015/03/regardez-bien-cette-vache-c-est-un-radar-l-%C3%A9cho",
-            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lechodelaboucle.fr/2015/03/07/regardez-bien-cette-vache-cest-un-radar/"
         },
         "sciences.blogs.liberation.fr/2015/02/le-retrait-des-glaciers-sous-radar-satellites-sciences": {
             "title": "Le retrait des glaciers sous le radar des satellites - Sciences...",
@@ -39,32 +61,10 @@
             "date": "2015-02-09",
             "author_name": "sylvestre Huet",
             "categories": "radar,science",
-            "tags": "\u00e9quip\u00e9s,radars,nasa",
+            "tags": "premier,\u00e9quip\u00e9s,radars",
             "recuweb_url": "http://fr.recuweb.com/science/sciences.blogs.liberation.fr/2015/02/le-retrait-des-glaciers-sous-radar-satellites-sciences",
             "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sciences.blogs.liberation.fr/home/2015/02/le-retrait-des-glaciers.html"
-        },
-        "aerobuzz.fr/2015/01/un-radar-pour-%C3%A9viter-les-collisions-avec-%C3%A9oliennes-a%C3%A9robuzz": {
-            "title": "Un radar pour \u00e9viter les collisions avec les \u00e9oliennes - A\u00e9roBuzz...",
-            "snippet": "Airbus Defence and Space a d\u00e9velopp\u00e9 un nouveau radar pour \u00e9viter que les avions n'entrent en collision avec les \u00e9oliennes. Le Spexer 500 AC d\u00e9clenche des signaux et avertit le pilote. Le nouveau radar Spexer 500 AC...",
-            "date": "2015-01-03",
-            "author_name": "Aerobuzz.fr",
-            "categories": "radar",
-            "tags": "radar",
-            "recuweb_url": "http://fr.recuweb.com/radar/aerobuzz.fr/2015/01/un-radar-pour-%C3%A9viter-les-collisions-avec-%C3%A9oliennes-a%C3%A9robuzz",
-            "resource_url": "http://www.google.com/search?q=radar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://aerobuzz.fr/industrie/article/un-radar-pour-eviter-les"
-        },
-        "turbo.fr/2014/12/radar-quand-la-police-s-endort": {
-            "title": "Radar: quand la police s'endort... -...",
-            "snippet": "Lorsque les policiers responsables du contr\u00f4le de vitesse font la sieste, le radar dispara\u00eet comme par enchantement.",
-            "date": "2014-12-16",
-            "author_name": "inconnu",
-            "categories": "radar",
-            "tags": "font,police,radar,comme",
-            "recuweb_url": "http://fr.recuweb.com/radar/turbo.fr/2014/12/radar-quand-la-police-s-endort",
-            "resource_url": "http://www.google.com/search?q=radar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://turbo.fr/actualite-automobile/745321-radar-police-endort/"
         },
         "patty0green.wordpress.com/2014/11/sous-mon-radar": {
             "title": "sous mon radar...",
@@ -72,7 +72,7 @@
             "date": "2014-11-10",
             "author_name": "Pattie O'Green",
             "categories": "radar",
-            "tags": "corps,petit,radar",
+            "tags": "petit,radar",
             "recuweb_url": "http://fr.recuweb.com/radar/patty0green.wordpress.com/2014/11/sous-mon-radar",
             "resource_url": "http://fr.search.wordpress.com/?q=radar%2Bradar&f=feed&page=1",
             "source_url": "http://patty0green.wordpress.com/2014/11/10/sous-le-radar/"
@@ -94,7 +94,7 @@
             "date": "2014-06-05",
             "author_name": "chamorin",
             "categories": "radar",
-            "tags": "g\u00e9n\u00e9ration,\u00e9quip\u00e9s,routes,radars,radar",
+            "tags": "g\u00e9n\u00e9ration,\u00e9quip\u00e9s,routes,territoire,radars,radar",
             "recuweb_url": "http://fr.recuweb.com/radar/intensivewebiej.wordpress.com/2014/06/les-radars-vont-fleurir-sur-le-territoire-fran%C3%A7ais",
             "resource_url": "http://fr.search.wordpress.com/?q=radar%2Bradar&f=feed&page=1",
             "source_url": "http://intensivewebiej.wordpress.com/2014/06/05/les-radars-vont-fleurir-sur-le-territoire-francais/"
