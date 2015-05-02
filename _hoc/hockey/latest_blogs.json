@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -11,38 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
+        "hockeylnhnhl.blogspot.com/2015/04/hockey-card-magic-lanny-mcdonald-stanley-cup-moments-1989": {
+            "title": "Hockey card magic - Lanny McDonald Stanley Cup moments 1989...",
+            "snippet": "I like hockey and im a fan of Montreal Canadien! I will make vine about... Christopher T. Kontos (born December 10, 1963 in Toronto, Ontario) is a former National Hockey League forward who is best The hockey unknowns...",
+            "date": "2015-04-29",
+            "author_name": "Philippe Charbonneau",
+            "categories": "hockey",
+            "tags": "league,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/hockeylnhnhl.blogspot.com/2015/04/hockey-card-magic-lanny-mcdonald-stanley-cup-moments-1989",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://hockeylnhnhl.blogspot.com/2015/04/hockey-card-magic-lanny-mcdonald.html"
+        },
+        "dijon-sportnews.fr/2015/04/roller-hockey-1-4-de-finale-n3-pour-le-dijon": {
+            "title": "Roller Hockey: 1/4 de finale N3 pour le Roller Hockey Dijon dijon...",
+            "snippet": "Les Cardinaux du Roller Hockey Dijonnais qui apr\u00e8s une saison r\u00e9guli\u00e8re tr\u00e8s satisfaisante se sont class\u00e9s troisi\u00e8me et se sont qualifi\u00e9s pour les 1/4 de finales de championnat de France nationale 3. Les Cardinaux sont en...",
+            "date": "2015-04-28",
+            "author_name": "Nicolas G.",
+            "categories": "hockey",
+            "tags": "finale,saison,troisi\u00e8me,dijon,roller,hockey,france,nationale",
+            "recuweb_url": "http://fr.recuweb.com/hockey/dijon-sportnews.fr/2015/04/roller-hockey-1-4-de-finale-n3-pour-le-dijon",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dijon-sportnews.fr/2015/04/28/roller-hockey-14-de-finale-n3-pour-le-roller-hockey-dijon/109156/"
+        },
+        "rtbf.be/2015/04/r%C3%A9compense-internationale-pour-la-ligue-francophone-de-hockey": {
+            "title": "R\u00e9compense internationale pour la Ligue Francophone de Hockey...",
+            "snippet": "Prim\u00e9e par le Comit\u00e9 International du Fair Play qui lui remettra prochainement le Troph\u00e9e \"Willi Daume\" dans le cadre de ses \"Fair Play Awards\" 2014, la Ligue Francophone de Hockey devient ainsi la premi\u00e8re f\u00e9d\u00e9ration...",
+            "date": "2015-04-24",
+            "author_name": "mediation@rtbf.be (Communiqu\u00e9)",
+            "categories": "play,hockey",
+            "tags": "play,ligue,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/rtbf.be/2015/04/r%C3%A9compense-internationale-pour-la-ligue-francophone-de-hockey",
+            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rtbf.be/sport/autres/hockey/detail_recompense-internationale-pour-la-ligue-francophone-de-hockey?id=8964422"
+        },
         "blogues.lapresse.ca/2015/04/le-blogue-de-hockey-junior-blogues": {
             "title": "Le blogue de hockey junior - Blogues -...",
             "snippet": "Voici mes pr\u00e9dictions pour la troisi\u00e8me ronde des s\u00e9ries dans la LHJMQ. Et vous, quelles sont les v\u00f4tres? Rimouski (1) contre Val-d'Or (6) L'Oc\u00e9anic est bien repos\u00e9e, contrairement aux Foreurs qui en ont su\u00e9 un coup pour...",
             "date": "2015-04-23",
             "author_name": "Frank_Parenteau",
             "categories": "hockey",
-            "tags": "hockey,contre",
+            "tags": "troisi\u00e8me,hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/blogues.lapresse.ca/2015/04/le-blogue-de-hockey-junior-blogues",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blogues.lapresse.ca/hockey-junior/2015/04/23/demi-finales-lhjmq-les-predictions-de-francois-parenteau/"
         },
-        "lemedia05.com/2015/04/hockey-nicolas-arrossamena-quitte-les-rapaces-de-gap": {
-            "title": "Hockey: Nicolas Arrossamena quitte les Rapaces de Gap pour...",
-            "snippet": "Les Dragons de Rouen annoncent, ce mardi, l'arriv\u00e9e de deux nouveaux internationaux tricolores, les ailiers Yorick Treille (Grenoble) et Nicolas Arrossamena (Gap). L'information est \u00e9galement confirm\u00e9e par le club de Gap,...",
-            "date": "2015-04-21",
-            "author_name": "Jean-Christophe Sarrazin",
+        "coachingdevente.com/2015/04/les-qu%C3%A9b%C3%A9cois-sont-obs%C3%A9d%C3%A9s-par-le-hockey-et-canadiens-de-montr%C3%A9al": {
+            "title": "Les Qu\u00e9b\u00e9cois sont obs\u00e9d\u00e9s par le hockey et les Canadiens de Montr\u00e9al...",
+            "snippet": "C'est Influence communication qui m'a le plus convaincu, dans ses rapports annuels, de l'importance immense que les Qu\u00e9b\u00e9cois accordent au hockey et au Canadiens de Montr\u00e9al. C'est dans son []...",
+            "date": "2015-04-23",
+            "author_name": "coachingdevente",
             "categories": "hockey",
-            "tags": "treille,hockey,rapaces,gap,grenoble,club",
-            "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-nicolas-arrossamena-quitte-les-rapaces-de-gap",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lemedia05.com/2015/21697/hockey-nicolas-arrossamena-quitte-les-rapaces-de-gap-pour-rouen/"
-        },
-        "rmcsport.bfmtv.com/2015/04/hockey-sur-glace-grenoble-invit%C3%A9-en-ligue-des-champions": {
-            "title": "Hockey sur glace: Grenoble invit\u00e9 en Ligue des Champions...",
-            "snippet": "Apr\u00e8s ma d\u00e9fection d'une \u00e9quipe, la F\u00e9d\u00e9ration fran\u00e7aise de hockey sur glace et la Champions Hockey League ont invit\u00e9 les Br\u00fbleurs de Loups de Grenoble, qui avaient termin\u00e9 en t\u00eate de la saison r\u00e9guli\u00e8re en Ligue...",
-            "date": "2015-04-20",
-            "author_name": "inconnu",
-            "categories": "hockey",
-            "tags": "avaient,saison,league,invit\u00e9,hockey,glace,grenoble,ligue,champions,apr\u00e8s,\u00e9quipe",
-            "recuweb_url": "http://fr.recuweb.com/hockey/rmcsport.bfmtv.com/2015/04/hockey-sur-glace-grenoble-invit%C3%A9-en-ligue-des-champions",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://rmcsport.bfmtv.com/divers/hockey-sur-glace-grenoble-invite-en-ligue-des-champions-879297.html"
+            "tags": "hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/coachingdevente.com/2015/04/les-qu%C3%A9b%C3%A9cois-sont-obs%C3%A9d%C3%A9s-par-le-hockey-et-canadiens-de-montr%C3%A9al",
+            "resource_url": "http://fr.search.wordpress.com/?q=hockey&f=feed&page=1",
+            "source_url": "http://coachingdevente.com/2015/04/22/les-quebecois-sont-obsedes-par-le-hockey-et-les-canadiens-de-montreal/"
         },
         "lemedia05.com/2015/04/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik": {
             "title": "Hockey: Anthony Rech (Dijon) signe aux Rapaces de Gap, Dominik...",
@@ -50,7 +72,7 @@
             "date": "2015-04-14",
             "author_name": "Redaction",
             "categories": "recrutement,hockey",
-            "tags": "champions,champion,vue,saison,hockey,dijon,rapaces,gap,ligue,league,club,france",
+            "tags": "champions,champion,vue,prochaine,prochaine-saison,saison,hockey,dijon,rapaces,gap,ligue,league,club,france",
             "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik",
             "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemedia05.com/2015/21310/hockey-anthony-rech-dijon-signe-aux-rapaces-de-gap-dominik-kramar-reconduit/"
@@ -61,7 +83,7 @@
             "date": "2015-04-10",
             "author_name": "inconnu",
             "categories": "hockey",
-            "tags": "pays,nationale,chacun,chacun-des-matchs,matchs,\u00e9cran,autant,autant-de-t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs,t\u00e9l\u00e9spectateurs-riv\u00e9s,riv\u00e9s,vit,vit-pas-seulement,seulement,fi\u00e8vre,canada,amateurs,presque,hockey,chine,devant,lors,ligue",
+            "tags": "nationale,devant,lors,hockey,ligue",
             "recuweb_url": "http://fr.recuweb.com/hockey/ici.radio-canada.ca/2015/04/presque-autant-d-amateurs-de-hockey-en-chine-qu-au-canada",
             "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://ici.radio-canada.ca/nouvelles/International/2015/04/12/004-hockey-chine-television-jeux-olympiques.shtml"
@@ -72,9 +94,9 @@
             "date": "2015-04-07",
             "author_name": "Jean-Christophe Sarrazin",
             "categories": "hockey",
-            "tags": "nationale,vue,hockey,rapaces,gap,barcelone,\u00e9quipe",
+            "tags": "entra\u00eeneur,nationale,vue,premier,hockey,rapaces,gap,barcelone,\u00e9quipe",
             "recuweb_url": "http://fr.recuweb.com/hockey/lemedia05.com/2015/04/hockey-les-rapaces-de-gap-l%C3%A8vent-un-premier-coin-voile",
-            "resource_url": "http://www.google.com/search?q=hockey%2Bhockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lemedia05.com/2015/21006/hockey-les-rapaces-de-gap-levent-un-premier-coin-de-voile-sur-la-saison-2015-2016/"
         },
         "sopdow5570.wordpress.com/2015/03/les-batailles-au-hockey-et-mises-en-%C3%A9chec-sont-elles-vraiment": {
@@ -83,32 +105,10 @@
             "date": "2015-03-25",
             "author_name": "sopdow5570",
             "categories": "sport,hockey",
-            "tags": "grand,sports,sport,bonne,\u00e9chec,hockey",
+            "tags": "grand,sports,bonne,\u00e9chec,hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/sopdow5570.wordpress.com/2015/03/les-batailles-au-hockey-et-mises-en-%C3%A9chec-sont-elles-vraiment",
             "resource_url": "http://fr.search.wordpress.com/?q=hockey%2Bhockey&f=feed&page=1",
             "source_url": "http://sopdow5570.wordpress.com/2015/03/25/les-batailles-au-hockey-et-les-mises-en-echec-sont-elles-vraiment-une-bonne-idee/"
-        },
-        "journaldugeek.com/2015/01/hockey-des-gopro-sur-les-joueurs-de-nhl-le-journal": {
-            "title": "Hockey: Des GoPro sur les joueurs de NHL - Le Journal du Geek...",
-            "snippet": "GoPro vient de signer un partenariat avec la NHL, la ligue am\u00e9ricaine de hockey sur glace, afin de placer ses mini cam\u00e9ras sur les joueurs. Ce partenariat d\u00e9bute aujourd'hui avec le All Star Weekend et permettra aux...",
-            "date": "2015-01-24",
-            "author_name": "Pierre",
-            "categories": "hockey",
-            "tags": "hockey,joueurs,nhl,ligue,glace",
-            "recuweb_url": "http://fr.recuweb.com/hockey/journaldugeek.com/2015/01/hockey-des-gopro-sur-les-joueurs-de-nhl-le-journal",
-            "resource_url": "http://www.google.com/search?q=hockey&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldugeek.com/2015/01/24/hockey-des-gopro-sur-les-joueurs-de-nhl/"
-        },
-        "larrobustimavaphenistre.wordpress.com/2014/07/le-d%C3%A9mon-du-hockey": {
-            "title": "Le d\u00e9mon du hockey...",
-            "snippet": "Le d\u00e9mon du hockey Le d\u00e9mon du hockey by Mathieu Lampron, Claude Auchu, Denis Lord, Richard Suicide, Hicham Absa, Luc Boss\u00e9, Zviane, Philippe Girard====Download here:====Le d\u00e9mon du hockey torrent download []...",
-            "date": "2014-07-20",
-            "author_name": "larrobustimavaphenistre",
-            "categories": "hockey",
-            "tags": "luc,mathieu,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/larrobustimavaphenistre.wordpress.com/2014/07/le-d%C3%A9mon-du-hockey",
-            "resource_url": "http://fr.search.wordpress.com/?q=hockey&f=feed&page=1",
-            "source_url": "http://larrobustimavaphenistre.wordpress.com/2014/07/20/le-demon-du-hockey/"
         }
     }
 }
