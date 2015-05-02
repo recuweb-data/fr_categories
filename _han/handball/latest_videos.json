@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "handball",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/handball/",
@@ -11,17 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/handball/handball/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/handball-psg-24-veszprem-12-04-2015": {
-            "title": "Handball - PSG 24 24 Veszprem - 12/04/2015...",
-            "snippet": "Le PSG entretient l'espoir apr\u00e8s ce match nul d\u00e9croch\u00e9 au buzzer dans ce quart de finale aller de la ligue des championsAuthor: HandnewsTags: \u00c9quipe de France de handball masculin handball hand psg paris narcisse hansen omeyer Posted: 13 April...",
-            "date": "2015-04-12",
+        "dailymotion.com/2015/04/handball-d2-match-nul-entre-ivry-et-chartres": {
+            "title": "Handball D2 - Match nul entre Ivry et Chartres...",
+            "snippet": "Handball D2 - Match nul entre Ivry et ChartresAuthor: MaChaineSportTags: MCS_hand hand Posted: 28 April 2015Rating:: 0...",
+            "date": "2015-04-28",
+            "author_name": "MaChaineSport",
+            "categories": "handball",
+            "tags": "nul,handball,match",
+            "recuweb_url": "http://fr.recuweb.com/handball/dailymotion.com/2015/04/handball-d2-match-nul-entre-ivry-et-chartres",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/handball/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nrfy8_handball-d2-match-nul-entre-ivry-et-chartres_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nrfy8_handball-d2-match-nul-entre-ivry-et-chartres_sport"
+        },
+        "dailymotion.com/2015/04/le-paintball-version-handball": {
+            "title": "Le Paintball version handball!",
+            "snippet": "Le club de handball d'Avignon a test\u00e9 le paintball version handball!Author: HandnewsTags: handball paintball avignon ogahb insolite Posted: 28 April 2015Rating:: 0...",
+            "date": "2015-04-28",
             "author_name": "Handnews",
             "categories": "handball",
-            "tags": "handball,psg,paris,match,match-nul,nul,finale,handnewstags,\u00e9quipe,france",
-            "recuweb_url": "http://fr.recuweb.com/handball/dailymotion.com/2015/04/handball-psg-24-veszprem-12-04-2015",
+            "tags": "handball",
+            "recuweb_url": "http://fr.recuweb.com/handball/dailymotion.com/2015/04/le-paintball-version-handball",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/handball/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mhm27_handball-psg-24-24-veszprem-12-04-2015_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mhm27_handball-psg-24-24-veszprem-12-04-2015_sport"
+            "source_url": "http://dailymotion.com/video/x2oa6je_le-paintball-version-handball_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oa6je_le-paintball-version-handball_sport"
+        },
+        "dailymotion.com/2015/04/nantes-psg-handball-cdf-finale-au-coeur-de-l-exploit": {
+            "title": "Nantes - PSG Handball (CDF - Finale): au coeur de l'exploit...",
+            "snippet": "Plongez au c\u0153ur de l'effectif parisien. \u00c0 l'occasion de la victoire du Paris Saint-Germain Handball en finale de la Coupe de France, revivez les deux journ\u00e9es dans le groupe Rouge et Bleu. D\u00e9couvrez aussi l'ambiance dans les vestiaires apr\u00e8s ce...",
+            "date": "2015-04-28",
+            "author_name": "ParisSaintGermainHandball",
+            "categories": "handball",
+            "tags": "revivez,finale,germain,germain_handball,handball,paris,paris_saint,saint,victoire,psg,psg_handball,nantes,coupe,france",
+            "recuweb_url": "http://fr.recuweb.com/handball/dailymotion.com/2015/04/nantes-psg-handball-cdf-finale-au-coeur-de-l-exploit",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/handball/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2oaev8_nantes-psg-handball-cdf-finale-au-coeur-de-l-exploit_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oaev8_nantes-psg-handball-cdf-finale-au-coeur-de-l-exploit_sport"
         },
         "youtube.com/2015/04/handball-1%C3%A8j-spo-ca-24-20-ess-06-04-2015": {
             "title": "Handball, 1\u00e8J SPO CA 24-20 ESS (06/04/2015)...",
@@ -35,25 +59,13 @@
             "source_url": "http://youtube.com/watch?v=fnHd4Yy0zKc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/fnHd4Yy0zKc/0.jpg"
         },
-        "dailymotion.com/2015/04/bagarre-g%C3%A9n%C3%A9rale-dans-le-championnat-mont%C3%A9n%C3%A9grin-handball": {
-            "title": "Bagarre G\u00e9n\u00e9rale dans le championnat Mont\u00e9n\u00e9grin (handball)...",
-            "snippet": "Une bagarre g\u00e9n\u00e9rale tr\u00e8s violente est survenue lors d'une rencontre du championnat mont\u00e9n\u00e9grin entre Mojkovac et: HandnewsTags: handball Mojkovac Budvanska Mont\u00e9n\u00e9gro Posted: 03 April 2015Rating:: 0...",
-            "date": "2015-04-03",
-            "author_name": "Handnews",
-            "categories": "handball",
-            "tags": "rencontre,championnat,lors,handball,handnewstags",
-            "recuweb_url": "http://fr.recuweb.com/handball/dailymotion.com/2015/04/bagarre-g%C3%A9n%C3%A9rale-dans-le-championnat-mont%C3%A9n%C3%A9grin-handball",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/handball/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lncyy_bagarre-generale-dans-le-championnat-montenegrin-handball_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lncyy_bagarre-generale-dans-le-championnat-montenegrin-handball_sport"
-        },
         "youtube.com/2015/03/toulouse-psg-handball-le-r%C3%A9sum%C3%A9-du-match": {
             "title": "Toulouse - PSG Handball: le r\u00e9sum\u00e9 du match...",
             "snippet": "Toulouse - PSG Handball: le r\u00e9sum\u00e9 du match Revivez les meilleurs moments du match nul entre Toulouse et le Paris Saint-Germain Handball (29-29). From: PSGHANDBALL Views: 3355 45 ratings Time: 02:15 More in Sports...",
             "date": "2015-03-06",
             "author_name": "PSGHANDBALL",
             "categories": "handball,sport",
-            "tags": "germain,germain_handball,handball,paris,paris_saint,saint,meilleurs,meilleurs-moments,moments,match,match-nul,nul,r\u00e9sum\u00e9,r\u00e9sum\u00e9-du-match,psg,psg_handball,psghandball,toulouse,revivez,sports",
+            "tags": "germain,germain_handball,handball,paris,paris_saint,saint,meilleurs,meilleurs-moments,moments,match,nul,r\u00e9sum\u00e9,r\u00e9sum\u00e9-du-match,psg,psg_handball,psghandball,revivez,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/03/toulouse-psg-handball-le-r%C3%A9sum%C3%A9-du-match",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=handball%2Bhandball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=3ooTp1dwxGM&feature=youtube_gdata",
@@ -65,11 +77,23 @@
             "date": "2015-02-03",
             "author_name": "RTL - Toujours avec vous",
             "categories": "handball",
-            "tags": "face,handball,finale,\u00e9quipe,france",
+            "tags": "face,handball,finale,france,qatar",
             "recuweb_url": "http://fr.recuweb.com/handball/youtube.com/2015/02/%C3%A9ric-zemmour-la-france-grande-nation-du-handball",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=handball%2Bhandball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=FUx5Zyaj45M&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/FUx5Zyaj45M/0.jpg"
+        },
+        "youtube.com/2015/02/france-championne-du-monde-handball-2015-face-au-qatar": {
+            "title": "France Championne Du Monde Handball 2015 Face Au Qatar...",
+            "snippet": "France Championne Du Monde Handball 2015 Face Au Qatar France Championne Du Monde Handball 2015 Face Au Qatar La France bat le Qatar 25 a 22 a la finale du championnat du monde handball 2015 a la salle de Lusail, dans la capital qatarienne Doha...",
+            "date": "2015-02-01",
+            "author_name": "Qatar 2015 Handball",
+            "categories": "handball",
+            "tags": "finale,handball,france,face,qatar",
+            "recuweb_url": "http://fr.recuweb.com/handball/youtube.com/2015/02/france-championne-du-monde-handball-2015-face-au-qatar",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=handball%2Bhandball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=WmHMAk0s9qU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/WmHMAk0s9qU/0.jpg"
         },
         "youtube.com/2014/12/nantes-psg-handball-le-r%C3%A9sum%C3%A9-du-match": {
             "title": "Nantes - PSG Handball: le r\u00e9sum\u00e9 du match...",
@@ -83,17 +107,17 @@
             "source_url": "http://youtube.com/watch?v=Qkv-u1TPdto&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Qkv-u1TPdto/0.jpg"
         },
-        "youtube.com/2014/12/s%C3%A9lestat-psg-handball": {
-            "title": "S\u00e9lestat - PSG Handball...",
-            "snippet": "S\u00e9lestat - PSG Handball D\u00e9couvrez les meilleurs moments de la victoire du Paris Saint-Germain Handball face \u00e0 S\u00e9lestat lors de la 13\u00e8me journ\u00e9e de D1. From: PSGHANDBALL Views: 4971 57 ratings Time: 03:35 More in Sports...",
-            "date": "2014-12-15",
+        "youtube.com/2014/11/psg-handball-nantes-coupe-de-la-ligue-le-r%C3%A9sum%C3%A9-du-match": {
+            "title": "PSG Handball - Nantes (Coupe de la Ligue): le r\u00e9sum\u00e9 du match...",
+            "snippet": "PSG Handball - Nantes (Coupe de la Ligue): le r\u00e9sum\u00e9 du match Retrouvez les meilleurs moments du quart de finale de la Coupe de la Ligue entre le Paris Saint-Germain Handball et le HBC Nantes. From: PSGHANDBALL Views: 3364 39 ratings Time: 03:16...",
+            "date": "2014-11-10",
             "author_name": "PSGHANDBALL",
-            "categories": "handball,sport",
-            "tags": "\u00e8me,\u00e8me-journ\u00e9e,journ\u00e9e,lors,face,germain,germain_handball,handball,paris,paris_saint,saint,meilleurs,meilleurs-moments,moments,victoire,psg,psg_handball,psghandball,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/12/s%C3%A9lestat-psg-handball",
+            "categories": "handball",
+            "tags": "germain,germain_handball,handball,paris,paris_saint,saint,meilleurs,meilleurs-moments,moments,finale,r\u00e9sum\u00e9,r\u00e9sum\u00e9-du-match,match,psg,psg_handball,psghandball,nantes,coupe,retrouvez",
+            "recuweb_url": "http://fr.recuweb.com/handball/youtube.com/2014/11/psg-handball-nantes-coupe-de-la-ligue-le-r%C3%A9sum%C3%A9-du-match",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=handball%2Bhandball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=47AtGzEaU0w&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/47AtGzEaU0w/0.jpg"
+            "source_url": "http://youtube.com/watch?v=i3Zc8bJKgKQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/i3Zc8bJKgKQ/0.jpg"
         },
         "youtube.com/2014/10/psg-handball-nantes-le-r%C3%A9sum%C3%A9": {
             "title": "PSG Handball - Nantes: le r\u00e9sum\u00e9...",
@@ -101,35 +125,11 @@
             "date": "2014-10-26",
             "author_name": "PSGHANDBALL",
             "categories": "handball",
-            "tags": "r\u00e9sum\u00e9,rencontre,\u00e8me,\u00e8me-journ\u00e9e,journ\u00e9e,lors,face,germain,germain_handball,handball,paris,paris_saint,saint,psg,psg_handball,psghandball,nantes",
+            "tags": "r\u00e9sum\u00e9,face,germain,germain_handball,handball,paris,paris_saint,saint,psg,psg_handball,psghandball,nantes,retrouvez",
             "recuweb_url": "http://fr.recuweb.com/handball/youtube.com/2014/10/psg-handball-nantes-le-r%C3%A9sum%C3%A9",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=handball%2Bhandball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=vqBE19gYugM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/vqBE19gYugM/0.jpg"
-        },
-        "dailymotion.com/2014/09/handball-le-fenix-toulouse-vise-plus-haut": {
-            "title": "Handball: Le Fenix Toulouse Handball vise plus haut...",
-            "snippet": "Sites webs/blogs, copiez cette vid\u00e9o avec le bouton \"code embed\"! Si vous voulez t\u00e9l\u00e9charger, allez sur. Le club du Fenix Toulouse Handball poursuit sa pr\u00e9paration pour le d\u00e9but du championnat afin de se hisser vers le haut pour cette saison...",
-            "date": "2014-09-04",
-            "author_name": "teletoulouse-wizdeo",
-            "categories": "handball",
-            "tags": "championnat,toulouse,handball",
-            "recuweb_url": "http://fr.recuweb.com/handball/dailymotion.com/2014/09/handball-le-fenix-toulouse-vise-plus-haut",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/handball+handball/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2596mp_handball-le-fenix-toulouse-handball-vise-plus-haut_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2596mp_handball-le-fenix-toulouse-handball-vise-plus-haut_sport"
-        },
-        "youtube.com/2014/07/handball-comment-faire-une-roucoulette": {
-            "title": "Handball - Comment faire une roucoulette...",
-            "snippet": "Handball - Comment faire une roucoulette Cette technique est assez difficile et demande de l'entrainement. C'est une technique de feinte qui est tr\u00e8s utilis\u00e9e pour r\u00e9ussir \u00e0 marquer lorsque le goal ne vous laisse plus de marche... From: Pratiks...",
-            "date": "2014-07-03",
-            "author_name": "Pratiks",
-            "categories": "handball",
-            "tags": "handball",
-            "recuweb_url": "http://fr.recuweb.com/handball/youtube.com/2014/07/handball-comment-faire-une-roucoulette",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=handball%2Bhandball&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=y2nWUsMHfcE&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/y2nWUsMHfcE/0.jpg"
         }
     }
 }
