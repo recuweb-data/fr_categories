@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "facebook",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/facebook/",
@@ -11,6 +11,50 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
     },
     "items": {
+        "jeuneafrique.com/2015/04/censure-burundi-twitter-facebook-et-whatsapp-inaccessibles": {
+            "title": "Censure Burundi: Twitter, Facebook et WhatsApp inaccessibles...",
+            "snippet": "Twitter, Facebook, WhatsApp notamment sont d\u00e9sormais inaccessibles via les r\u00e9seaux de t\u00e9l\u00e9phonie mobile 3G, mais restent, pour l'instant, accessibles sur l'internet fixe. Lire aussi Internet, mobiles, SMS: quand nos \u00c9tats...",
+            "date": "2015-04-29",
+            "author_name": "inconnu",
+            "categories": "internet,twitter,facebook",
+            "tags": "d\u00e9sormais,via,r\u00e9seaux,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/jeuneafrique.com/2015/04/censure-burundi-twitter-facebook-et-whatsapp-inaccessibles",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jeuneafrique.com/Article/ARTJAWEB20150429125335/"
+        },
+        "cnetfrance.fr/2015/04/facebook-messenger-et-maintenant-les-appels-vid%C3%A9o-cnet-france": {
+            "title": "Facebook Messenger: et maintenant les appels vid\u00e9o - CNET France...",
+            "snippet": "Chez Facebook, l'application Messenger pour iOS et Android \u00e9volue en proposant une option d'appels vid\u00e9o et audio entre amis.",
+            "date": "2015-04-28",
+            "author_name": "Eureka Presse",
+            "categories": "facebook",
+            "tags": "amis,facebook,facebook_messenger,messenger,appels,application,android",
+            "recuweb_url": "http://fr.recuweb.com/facebook/cnetfrance.fr/2015/04/facebook-messenger-et-maintenant-les-appels-vid%C3%A9o-cnet-france",
+            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://cnetfrance.fr/news/facebook-messenger-et-maintenant-les-appels-video-39818630.htm"
+        },
+        "geeksjr.wordpress.com/2015/04/appels-vid%C3%A9o-gratuits-sur-facebook-messenger": {
+            "title": "Appels vid\u00e9o gratuits sur Facebook Messenger!",
+            "snippet": "Apr\u00e8s avoir lancer Hello, une nouvelle application Android de gestion de contacts, Facebook frappe encore et introduit les appels vid\u00e9o gratuits sur son application de chat Facebook Messenger. Facebook []...",
+            "date": "2015-04-28",
+            "author_name": "hamdibouafoura",
+            "categories": "facebook",
+            "tags": "application,facebook,facebook_messenger,messenger,appels,android",
+            "recuweb_url": "http://fr.recuweb.com/facebook/geeksjr.wordpress.com/2015/04/appels-vid%C3%A9o-gratuits-sur-facebook-messenger",
+            "resource_url": "http://fr.search.wordpress.com/?q=facebook%2Bfacebook&f=feed&page=1",
+            "source_url": "http://geeksjr.wordpress.com/2015/04/28/appels-video-gratuits-sur-facebook-messenger/"
+        },
+        "begeek.fr/2015/04/facebook-48%-d-employ%C3%A9s-en-plus-un-an-pour-le-r%C3%A9seau": {
+            "title": "Facebook: 48% d'employ\u00e9s en plus en un an pour le r\u00e9seau social...",
+            "snippet": "Facebook tient un rythme de recrutement assez effr\u00e9n\u00e9 puisqu'il aurait gonfl\u00e9 ses rangs de 48% au cours de l'ann\u00e9e pass\u00e9e.",
+            "date": "2015-04-26",
+            "author_name": "Sebastien Veyrier",
+            "categories": "recrutement,facebook",
+            "tags": "ann\u00e9e,r\u00e9seau,r\u00e9seau-social,social,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/begeek.fr/2015/04/facebook-48%-d-employ%C3%A9s-en-plus-un-an-pour-le-r%C3%A9seau",
+            "resource_url": "http://www.google.com/search?q=facebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://begeek.fr/facebook-48-demployes-en-plus-en-un-an-pour-le-reseau-social-167797"
+        },
         "francecrownclown.wordpress.com/2015/04/fb-tl-aaron-kim": {
             "title": "FB-TL Aaron Kim...",
             "snippet": "Joyeux anniversaire frangin. Je taurai dans peu de temps Mi Goreng P.S: Le contenu de cette publication est indisponible Trad fr: Cr\u00e9atrice Ludivine/Via trad ang: CClown120719 Class\u00e9 dans: Autres, Autres, Facebook, Facebook, Photos, Traductions...",
@@ -44,27 +88,16 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
             "source_url": "http://francecrownclown.wordpress.com/2015/04/25/fb-tl-25-04-15-kim-namhyung/"
         },
-        "presse-citron.net/2015/04/facebook-l-application-hello-peut-cr%C3%A9er-des-confusions": {
-            "title": "Facebook: l'application Hello peut cr\u00e9er des confusions...",
-            "snippet": "Le but d'Hello semble aussi de lier les num\u00e9ros de t\u00e9l\u00e9phone de votre r\u00e9pertoire avec les comptes Facebook correspondant et si vous recevez un appel d'un num\u00e9ro de t\u00e9l\u00e9phone que vous ne connaissez pas, Hello peut...",
+        "gizmodo.fr/2015/04/facebook-voici-les-boutons-dont-nous-avons-besoin-gizmodo": {
+            "title": "Facebook,voici les boutons dont nous avons besoin - Gizmodo...",
+            "snippet": "Facebook ne veut rien de n\u00e9gatif sur ses pages et pourtant, nous serions ravis de voir ces 3 nouveaux boutons se pointer.",
             "date": "2015-04-24",
-            "author_name": "Setra",
+            "author_name": "Flo",
             "categories": "facebook",
-            "tags": "comptes,facebook,application,hello",
-            "recuweb_url": "http://fr.recuweb.com/facebook/presse-citron.net/2015/04/facebook-l-application-hello-peut-cr%C3%A9er-des-confusions",
+            "tags": "veut,rien,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/gizmodo.fr/2015/04/facebook-voici-les-boutons-dont-nous-avons-besoin-gizmodo",
             "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/le-genre-de-confusion-que-peut-creer-la-nouvelle-application-hello-de-facebook/"
-        },
-        "presse-citron.net/2015/04/facebook-veut-aussi-dominer-les-appels-voip-presse-citron": {
-            "title": "Facebook veut aussi dominer les appels VOIP - Presse-citron...",
-            "snippet": "En revanche, on est moins \u00e9tonn\u00e9 lorsqu'on sait que Messenger est une application obligatoire pour les utilisateurs de l'appli mobile Facebook qui souhaitent utiliser la fonction de messagerie de celle-ci et qu'actuellement,...",
-            "date": "2015-04-23",
-            "author_name": "Setra",
-            "categories": "facebook",
-            "tags": "utilisateurs,moins,facebook,application",
-            "recuweb_url": "http://fr.recuweb.com/facebook/presse-citron.net/2015/04/facebook-veut-aussi-dominer-les-appels-voip-presse-citron",
-            "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://presse-citron.net/facebook-messenger-cest-deja-10-de-tous-les-appels-voip/"
+            "source_url": "http://gizmodo.fr/2015/04/24/boutons-facebook-besoin.html"
         },
         "siliconvalley.blog.lemonde.fr/2015/04/les-profits-de-facebook-chutent-plomb%C3%A9s-par-d%C3%A9penses-silicon": {
             "title": "Les profits de Facebook chutent, plomb\u00e9s par les d\u00e9penses Silicon...",
@@ -72,7 +105,7 @@
             "date": "2015-04-23",
             "author_name": "J\u00e9r\u00f4me Marin",
             "categories": "facebook",
-            "tags": "facebook,r\u00e9seau,social,contre",
+            "tags": "r\u00e9seau,r\u00e9seau-social,social,facebook,contre",
             "recuweb_url": "http://fr.recuweb.com/facebook/siliconvalley.blog.lemonde.fr/2015/04/les-profits-de-facebook-chutent-plomb%C3%A9s-par-d%C3%A9penses-silicon",
             "resource_url": "http://www.google.com/search?q=facebook%2Bfacebook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://siliconvalley.blog.lemonde.fr/2015/04/23/les-profits-de-facebook-chutent-plombes-par-le-bond-des-depenses/"
@@ -87,17 +120,6 @@
             "recuweb_url": "http://fr.recuweb.com/facebook/michelngwaayi.blogspot.com/2015/04/blondine-hiblot-vous-a-identifi%C3%A9-e-dans-une-publication-sur-facebook",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=facebook%2Bfacebook&rss=1&lng=fr",
             "source_url": "http://michelngwaayi.blogspot.com/2015/04/blondine-hiblot-vous-identifiee-dans.html"
-        },
-        "osalysinfo.wordpress.com/2014/11/facebook-bient%C3%B4t-en-version-pro": {
-            "title": "Facebook bient\u00f4t en version \"pro\"?",
-            "snippet": "\"Facebook at work\" (\"Facebook au travail\")... C'est le nom du dernier projet du c\u00e9l\u00e8bre r\u00e9seau social, d\u00e9voil\u00e9 lundi par le 'Financial Times'. De quoi permettre au groupe fond\u00e9...",
-            "date": "2014-11-17",
-            "author_name": "osalys",
-            "categories": "facebook",
-            "tags": "lundi,dernier,facebook,r\u00e9seau,social",
-            "recuweb_url": "http://fr.recuweb.com/facebook/osalysinfo.wordpress.com/2014/11/facebook-bient%C3%B4t-en-version-pro",
-            "resource_url": "http://fr.search.wordpress.com/?q=facebook%2Bfacebook&f=feed&page=1",
-            "source_url": "http://osalysinfo.wordpress.com/2014/11/17/facebook-bientot-en-version-pro/"
         }
     }
 }
