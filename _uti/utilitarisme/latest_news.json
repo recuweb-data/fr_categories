@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "utilitarisme",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/utilitarisme/",
@@ -11,11 +11,21 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/utilitarisme/utilitarisme/blogs.json"
     },
     "items": {
+        "enquete-debat.fr/2015/04/les-le%C3%A7ons-de-vie-lucien-daly": {
+            "title": "Les le\u00e7ons de vie de Lucien Daly...",
+            "snippet": "Ceci coupe la jeunesse de ses racines en la maintenant dans le carcan rationaliste, sans autre perspective davenir quun utilitarisme \u00e9triqu\u00e9 et d\u00e9risoire ce qui fut mon cas durant les premi\u00e8res ann\u00e9es de mes recherches. 1 LELORD Fran\u00e7ois,...",
+            "date": "2015-04-29",
+            "categories": "utilitarisme",
+            "tags": "recherches,utilitarisme",
+            "recuweb_url": "http://fr.recuweb.com/utilitarisme/enquete-debat.fr/2015/04/les-le%C3%A7ons-de-vie-lucien-daly",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=utilitarisme&format=RSS&cc=fr",
+            "source_url": "http://enquete-debat.fr/archives/les-lecons-de-vie-de-lucien-daly-81806"
+        },
         "philomag.com/2015/04/charit%C3%A9-mal-ordonn%C3%A9e-commence-par-soi-m%C3%AAme": {
             "title": "Charit\u00e9 mal ordonn\u00e9e commence par soi-m\u00eame...",
             "snippet": "Tout d\u00e9pend ici de ce que lon entend par bonne action. Selon lutilitarisme, dont lun des plus c\u00e9l\u00e8bres d\u00e9fenseurs est John Stuart Mill (1806-1873), une action est bonne si elle a des cons\u00e9quences positives pour le bien-\u00eatre global...",
             "date": "2015-04-23",
-            "tags": "bonne,positives,john,stuart,mill,mal,soi",
+            "tags": "positives,john,stuart,mill,mal,soi",
             "recuweb_url": "http://fr.recuweb.com/philomag.com/2015/04/charit%C3%A9-mal-ordonn%C3%A9e-commence-par-soi-m%C3%AAme",
             "resource_url": "http://www.bing.com/news/search?first=1&q=utilitarisme&format=RSS&cc=fr",
             "source_url": "http://philomag.com/jeux/charite-mal-ordonnee-commence-par-soi-meme-11431"
@@ -39,16 +49,6 @@
             "recuweb_url": "http://fr.recuweb.com/utilitarisme/agoravox.fr/2015/04/de-l-utilitarisme-au-trait%C3%A9-transatlantique-tafta-agoravox",
             "resource_url": "http://news.google.fr/?hl=fr&q=utilitarisme&output=atom&nord=1",
             "source_url": "http://agoravox.fr/actualites/societe/article/de-l-utilitarisme-au-traite-165882"
-        },
-        "lefigaro.fr/2015/03/marc-fumaroli-le-latin-est-victime-des-fanatismes-%C3%A9galitaires-et-figaro": {
-            "title": "Marc Fumaroli: Le latin est victime des fanatismes \u00e9galitaires et... - Le Figaro...",
-            "snippet": "Le FigaroMarc Fumaroli: Le latin est victime des fanatismes \u00e9galitaires et...Le FigaroL'anthropologie, belle et bonne science europ\u00e9enne dont Montaigne est l'un des inventeurs, compense par sa g\u00e9n\u00e9rosit\u00e9 cognitive l'utilitarisme colonial et...",
-            "date": "2015-03-31",
-            "categories": "science,utilitarisme",
-            "tags": "bonne,utilitarisme",
-            "recuweb_url": "http://fr.recuweb.com/utilitarisme/lefigaro.fr/2015/03/marc-fumaroli-le-latin-est-victime-des-fanatismes-%C3%A9galitaires-et-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=utilitarisme&output=atom&nord=1",
-            "source_url": "http://lefigaro.fr/vox/societe/2015/03/31/31003-20150331ARTFIG00379-marc-fumaroli-le-latin-est-victime-des-fanatismes-egalitaires-et-utilitaires-12.php"
         }
     }
 }
