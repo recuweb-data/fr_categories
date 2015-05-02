@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wiki",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wiki/",
@@ -11,64 +11,74 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wiki/wiki/blogs.json"
     },
     "items": {
-        "thehindubusinessline.com/2015/04/muthoot-group-ties-up-with-wiki-tech-for-us-india-payment": {
-            "title": "Muthoot Group ties up with Wiki Tech for US-India payment corridor - Hindu Business Line...",
-            "snippet": "Muthoot Group ties up with Wiki Tech for US-India payment corridorHindu Business LineThe association with WikiTechnologies will expand Muthoot Group's reach in the US, while allowing Wiki Technologies to leverage the international money transfer...",
-            "date": "2015-04-27",
-            "categories": "wiki,technologie",
-            "tags": "wiki,will",
-            "recuweb_url": "http://fr.recuweb.com/technologie/thehindubusinessline.com/2015/04/muthoot-group-ties-up-with-wiki-tech-for-us-india-payment",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
-            "source_url": "http://thehindubusinessline.com/industry-and-economy/banking/muthoot-group-ties-up-with-wiki-tech-for-usindia-payment-corridor/article7146992.ece"
+        "lenouvelliste.ch/2015/04/coupe-de-suisse-ajoie-red-ice-au-premier-tour": {
+            "title": "Coupe de Suisse: Ajoie-Red Ice au premier tour...",
+            "snippet": "D\u00fcbendorf-Davos, Forward-Morges - Lausanne, Neuchtel-Gen\u00e8ve Servette, Winterthour-Lugano, Olten-Zoug, Grasshopper-Ambri, Langenthal-Berne, Lyss-Fribourg, Berthoud-Langnau et Wiki M\u00fcnsingen-Bienne. Ce premier tour se d\u00e9roulera le mercredi 30...",
+            "date": "2015-04-29",
+            "categories": "wiki",
+            "tags": "premier,premier-tour,tour,wiki,m\u00fcnsingen,coupe,suisse,bienne",
+            "recuweb_url": "http://fr.recuweb.com/wiki/lenouvelliste.ch/2015/04/coupe-de-suisse-ajoie-red-ice-au-premier-tour",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=fr",
+            "source_url": "http://lenouvelliste.ch/fr/sports/hockey-sur-glace/coupe-de-suisse-ajoie-red-ice-au-premier-tour-484-1451872"
         },
-        "gamingbolt.com/2015/04/trine-3-the-artifacts-of-power-wiki-everything-you-need-to": {
-            "title": "Trine 3: The Artifacts of Power Wiki Everything you need to know... - GamingBolt...",
-            "snippet": "GamingBoltTrine 3: The Artifacts of Power Wiki Everything you need to know...GamingBoltAs mentioned above in the introduction portion of this Wiki, the game currently has no given release date, with only a vague summer release window in place. The...",
-            "date": "2015-04-27",
-            "categories": "place,wiki",
-            "tags": "only,place,currently,this,wiki,everything",
-            "recuweb_url": "http://fr.recuweb.com/wiki/gamingbolt.com/2015/04/trine-3-the-artifacts-of-power-wiki-everything-you-need-to",
+        "rjb.ch/2015/04/duel-bernois-en-coupe-pour-le-hcb": {
+            "title": "Duel bernois en Coupe pour le HCB...",
+            "snippet": "Un adversaire de 1re ligue au menu du HC Bienne. Les Seelandais vont aller d\u00e9fier Wiki-M\u00fcnsingen au premier tour de la Coupe de Suisse 2015/2016 de hockey sur glace. Les Bernois sont vice-champions de Suisse en titre de 1re ligue. La rencontre se...",
+            "date": "2015-04-29",
+            "categories": "hockey,hockey-sur-glace,wiki",
+            "tags": "premier,premier-tour,tour,coupe,bienne,wiki,m\u00fcnsingen,suisse",
+            "recuweb_url": "http://fr.recuweb.com/wiki/rjb.ch/2015/04/duel-bernois-en-coupe-pour-le-hcb",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=fr",
+            "source_url": "http://rjb.ch/rjb/Sports/Hockey/20150429-Duel-bernois-en-Coupe-pour-le-HCB.html"
+        },
+        "ign.com/2015/04/how-to-find-and-defeat-the-battletoads-in-shovel-knight-ign": {
+            "title": "How to Find and Defeat the Battletoads in Shovel Knight - IGN...",
+            "snippet": "How to Find and Defeat the Battletoads in Shovel KnightIGNWelcome. Battletoads - Shovel Knight Wiki Guide - IGN. x.. us. The 9 Best. Hulk vs. Iron Man Fights. Hulk vs. Iron Man Fights The Flash: \"The Trap Review Agents of SHIELD: \"The Dirty Half...",
+            "date": "2015-04-29",
+            "categories": "wiki",
+            "tags": "wiki,how",
+            "recuweb_url": "http://fr.recuweb.com/wiki/ign.com/2015/04/how-to-find-and-defeat-the-battletoads-in-shovel-knight-ign",
             "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
-            "source_url": "http://gamingbolt.com/trine-3-the-artifacts-of-power-wiki"
+            "source_url": "http://ign.com/wikis/shovel-knight/Battletoads"
+        },
+        "hackaday.com/2015/04/hackaday-retro-edition-trs-wiki": {
+            "title": "Hackaday Retro Edition: TRS Wiki - Hackaday...",
+            "snippet": "HackadayHackaday Retro Edition: TRS WikiHackadayPete's TRSWiki is a Wikipedia client for the TRS-80 Model I that is able to look up millions of articles in only uppercase characters, and low resolution (12848) graphics. It's doing this over Ethernet...",
+            "date": "2015-04-28",
+            "categories": "wiki",
+            "tags": "that,articles,wiki,wikipedia",
+            "recuweb_url": "http://fr.recuweb.com/wiki/hackaday.com/2015/04/hackaday-retro-edition-trs-wiki",
+            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
+            "source_url": "http://hackaday.com/2015/04/28/hackaday-retro-edition-trs-wiki/"
+        },
+        "gamingbolt.com/2015/04/rock-band-4-wiki-everything-you-need-to-know-about": {
+            "title": "Rock Band 4 Wiki Everything you need to know about the game - GamingBolt...",
+            "snippet": "Rock Band 4 Wiki Everything you need to know about the gameGamingBoltRock Band 4 is an upcoming and music rhythm video game that is currently being developed by Harmonix, the same studio that found fame with the Guitar Hero and Dance Central series...",
+            "date": "2015-04-28",
+            "categories": "wiki,rock",
+            "tags": "that,music,developed,wiki",
+            "recuweb_url": "http://fr.recuweb.com/rock/gamingbolt.com/2015/04/rock-band-4-wiki-everything-you-need-to-know-about",
+            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
+            "source_url": "http://gamingbolt.com/rock-band-4-wiki-everything-you-need-to-know-about-the-game"
+        },
+        "gizmodo.com/2015/04/the-most-important-wikipedia-pages-from-first-open-wiki-gizmodo": {
+            "title": "The Most Important Wikipedia Pages, From the First Open Wiki... - Gizmodo...",
+            "snippet": "GizmodoThe Most Important Wikipedia Pages, From the First Open Wiki...GizmodoIf you've ever wondered what the most important Wikipedia page wasabout any topicwonder no longer: a team of researchers has developed the first open Wikipedia ranking.",
+            "date": "2015-04-28",
+            "categories": "wiki",
+            "tags": "developed,wikipedia,wiki",
+            "recuweb_url": "http://fr.recuweb.com/wiki/gizmodo.com/2015/04/the-most-important-wikipedia-pages-from-first-open-wiki-gizmodo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=wiki%2Bwiki&output=atom&nord=1",
+            "source_url": "http://gizmodo.com/the-most-important-wikipedia-pages-from-the-first-open-1700609062"
         },
         "avclub.com/2015/04/wikipedia-s-list-of-monoliths-looms-ominously-a-v-club-austin": {
             "title": "Wikipedia's list of monoliths looms ominously - A.V. Club Austin...",
             "snippet": "Wikipedia's list of monoliths looms ominouslyA.V. Club AustinWith more than 4.8 million articles, Wikipedia is an invaluable resource, whether you're throwing a term paper together at the last minute, or want to calculate exactly how far behind...",
             "date": "2015-04-27",
-            "tags": "how,throwing,throwing-term,throwing-term-paper,term,term-paper,term-paper-together,paper,paper-together,together,last,last-minute,minute,whether,invaluable,invaluable-resource,resource,million,million-articles,articles,than,club,wikipedia",
+            "tags": "how,articles,wikipedia",
             "recuweb_url": "http://fr.recuweb.com/avclub.com/2015/04/wikipedia-s-list-of-monoliths-looms-ominously-a-v-club-austin",
             "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
             "source_url": "http://avclub.com/article/wikipedias-list-monoliths-looms-ominously-218428"
-        },
-        "bigbrowser.blog.lemonde.fr/2015/04/apr%C3%A8s-le-s%C3%A9isme-au-n%C3%A9pal-les-recherches-sorganisent-sur-internet": {
-            "title": "Apr\u00e8s le s\u00e9isme au N\u00e9pal, les recherches sorganisent sur Internet...",
-            "snippet": "A partir d'images satellites, elle rep\u00e8re et signale les btiments effondr\u00e9s, les routes coup\u00e9es et les zones d\u00e9gag\u00e9es afin de faciliter le travail des secours. Un wiki a \u00e9t\u00e9 mis en place pour coordonner le travail des internautes.",
-            "date": "2015-04-26",
-            "categories": "place,internet,wiki",
-            "tags": "place,images,wiki",
-            "recuweb_url": "http://fr.recuweb.com/wiki/bigbrowser.blog.lemonde.fr/2015/04/apr%C3%A8s-le-s%C3%A9isme-au-n%C3%A9pal-les-recherches-sorganisent-sur-internet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=fr",
-            "source_url": "http://bigbrowser.blog.lemonde.fr/2015/04/27/apres-le-seisme-au-nepal-les-recherches-sorganisent-sur-internet/"
-        },
-        "ign.com/2015/04/spoiler-free-walkthrough-broken-age-wiki-guide-ign": {
-            "title": "Spoiler-Free Walkthrough - Broken Age Wiki Guide - IGN - IGN...",
-            "snippet": "Spoiler-Free Walkthrough - Broken Age Wiki Guide - IGNIGNThe spoiler-free walkthrough for Broken Age currently only has information from Act 1, but will be updated with everything from Act 2 when the guide is available. How to use this walkthrough.",
-            "date": "2015-04-26",
-            "categories": "wiki",
-            "tags": "this,guide,will,everything,currently,only,wiki,ign,how",
-            "recuweb_url": "http://fr.recuweb.com/wiki/ign.com/2015/04/spoiler-free-walkthrough-broken-age-wiki-guide-ign",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
-            "source_url": "http://ign.com/wikis/broken-age/Spoiler-Free_Walkthrough"
-        },
-        "ocregister.com/2015/04/wiki-the-history-of-little-saigon-and-vietnamese-in-orange-ocregister": {
-            "title": "Wiki: The history of Little Saigon and the Vietnamese in Orange... - OCRegister...",
-            "snippet": "OCRegisterWiki: The history of Little Saigon and the Vietnamese in Orange...OCRegisterIn this 4-square-mile patch of Orange County you'll find more Vietnamese shops, overhear more Vietnamese conversations and find more Vietnamese menus than anywhere...",
-            "date": "2015-04-26",
-            "categories": "wiki",
-            "tags": "than,wiki,this",
-            "recuweb_url": "http://fr.recuweb.com/wiki/ocregister.com/2015/04/wiki-the-history-of-little-saigon-and-vietnamese-in-orange-ocregister",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
-            "source_url": "http://ocregister.com/articles/vietnamese-659434-saigon-little.html"
         },
         "phonandroid.com/2015/04/mise-a-jour-android-v17-sur-wiki-highway-4g-rooter": {
             "title": "mise a jour android v17 sur wiki highway 4G rooter...",
@@ -80,16 +90,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=fr",
             "source_url": "http://phonandroid.com/forum/mise-a-jour-android-v17-sur-wiki-highway-4g-rooter-t120174.html"
         },
-        "ign.com/2015/04/star-wars-2015-ign-wiki-editing-contest-guide": {
-            "title": "Star Wars 2015 IGN Wiki Editing Contest - Star Wars Wiki Guide - IGN - IGN...",
-            "snippet": "Star Wars 2015 IGN Wiki Editing Contest - Star Wars Wiki Guide - IGNIGNFinal custom product will differ somewhat in appearance. Are you a master of the Jedi arts, a Holocron scholar, or a frequenter of wretched hives of scum and villainy? We're...",
-            "date": "2015-04-21",
-            "categories": "wiki,arts",
-            "tags": "will,wiki,guide,ign",
-            "recuweb_url": "http://fr.recuweb.com/arts/ign.com/2015/04/star-wars-2015-ign-wiki-editing-contest-guide",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
-            "source_url": "http://ign.com/wikis/star-wars/Star_Wars_2015_IGN_Wiki_Editing_Contest"
-        },
         "gala.fr/2015/04/ben-affleck-censure-son-pass%C3%A9": {
             "title": "Ben Affleck censure son pass\u00e9...",
             "snippet": "Jeudi dernier, Wikileaks a rendu public 30 287 documents des archives du groupe. Parmi ceux-ci, des \u00e9changes de mails r\u00e9v\u00e8lent que Ben Affleck a tent\u00e9 de dissimuler le pass\u00e9 esclavagiste de l'un de ses anc\u00eatres. L'acteur et r\u00e9alisa...",
@@ -97,15 +97,6 @@
             "recuweb_url": "http://fr.recuweb.com/gala.fr/2015/04/ben-affleck-censure-son-pass%C3%A9",
             "resource_url": "http://www.bing.com/news/search?first=1&q=wiki&format=RSS&cc=fr",
             "source_url": "http://gala.fr/l_actu/news_de_stars/ben_affleck_censure_son_passe_340236"
-        },
-        "avclub.com/2015/04/beware-the-full-moonwikipedia-s-got-werewolves-a-v-club-dc": {
-            "title": "Beware the full moonWikipedia's got werewolves! - A.V. Club DC...",
-            "snippet": "Beware the full moonWikipedia's got werewolves!A.V. Club DCWith more than 4.8 million articles, Wikipedia is an invaluable resource, whether you're throwing a term paper together at the last minute, or re-living the fart battle of Japanese lore. We...",
-            "date": "2015-04-20",
-            "tags": "throwing,throwing-term,throwing-term-paper,term,term-paper,term-paper-together,paper,paper-together,together,last,last-minute,minute,whether,invaluable,invaluable-resource,resource,million,million-articles,articles,than,club,wikipedia",
-            "recuweb_url": "http://fr.recuweb.com/avclub.com/2015/04/beware-the-full-moonwikipedia-s-got-werewolves-a-v-club-dc",
-            "resource_url": "http://news.google.fr/?hl=fr&q=wiki&output=atom&nord=1",
-            "source_url": "http://avclub.com/article/beware-full-moonwikipedias-got-werewolves-218062"
         }
     }
 }
