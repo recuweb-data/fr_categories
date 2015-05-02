@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ordinateur",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ordinateur/",
@@ -11,95 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ordinateur/ordinateur/blogs.json"
     },
     "items": {
-        "commentcamarche.net/2015/04/connecter-un-home-cin%C3%A9ma-5-1-sur-ordinateur-fixe": {
-            "title": "Connecter un home cin\u00e9ma 5.1 sur ordinateur fixe...",
-            "snippet": "voila mon souci en faite y a peut de temps j ai achet\u00e9 un home cin\u00e9ma Samsung HT-E350/ZF et j'ai branch\u00e9 les enceintes en fonction de leurs couleurs j'ai fait des tests tous fonctionne quand je lit un DVD et maintenant je voudrais le branche a...",
-            "date": "2015-04-27",
-            "categories": "ordinateur",
-            "tags": "fonctionne,temps,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/connecter-un-home-cin%C3%A9ma-5-1-sur-ordinateur-fixe",
+        "leparisien.fr/2015/04/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre": {
+            "title": "Apple: des ventes historiques d'ordinateurs ce trimestre...",
+            "snippet": "r\u00e9agir Les chiffres publi\u00e9s par Apple ne prennent pas en compte ses ventes de MacBook Gold, commercialis\u00e9 depuis le 10 avril. Pour la premi\u00e8re fois depuis 2011, Apple a gagn\u00e9 plus d'argent avec ses ordinateurs portables et de bureau qu'avec ses...",
+            "date": "2015-04-29",
+            "categories": "ordinateur,macbook",
+            "tags": "ordinateurs,apple,bureau",
+            "recuweb_url": "http://fr.recuweb.com/macbook/leparisien.fr/2015/04/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31884381-connecter-un-home-cinema-5-1-sur-ordinateur-fixe"
+            "source_url": "http://leparisien.fr/high-tech/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre-28-04-2015-4733933.php"
         },
-        "meltybuzz.fr/2015/04/le-bon-coin-il-pi%C3%A8ge-voleur-de-son-ordinateur-sur-site": {
-            "title": "Le Bon Coin: Il pi\u00e8ge le voleur de son ordinateur sur le site de... - meltyBuzz...",
-            "snippet": "meltyBuzzLe Bon Coin: Il pi\u00e8ge le voleur de son ordinateur sur le site de...meltyBuzzEn d\u00e9but de semaine derni\u00e8re, un homme s'est fait voler son ordinateur. Intelligemment, il a regard\u00e9 les annonces sur Le Bon Coin et a reconnu son mat\u00e9riel.",
-            "date": "2015-04-27",
+        "commentcamarche.net/2015/04/ordinateur-acer-se-mes-en-echec-des-le-demarage": {
+            "title": "Ordinateur acer se mes en echec des le demarage...",
+            "snippet": "PXE-MOF: Exiting PXE ROM qu'il et en mode erreur je n'arive pa non plus a le demarer sous demarage sans erreur, le probkeme et que je les acheter chez un particulier donc aucun moyen de le formater....:(,avabt hier il a bien demarer et a meme...",
+            "date": "2015-04-29",
             "categories": "ordinateur",
-            "tags": "annonces,semaine,ordinateur,homme",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/meltybuzz.fr/2015/04/le-bon-coin-il-pi%C3%A8ge-voleur-de-son-ordinateur-sur-site",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
-            "source_url": "http://meltybuzz.fr/le-bon-coin-il-piege-le-voleur-de-son-ordinateur-sur-le-site-de-petites-annonces-a405245.html"
-        },
-        "commentcamarche.net/2015/04/ordinateur-lent-infect%C3%A9": {
-            "title": "Ordinateur lent. Infect\u00e9?",
-            "snippet": "Je viens vers vous aujourd'hui car mon ordinateur est plus lent qu'avant, surtout que le temps a ce que la connexion s'\u00e9tablisse au d\u00e9marrage est super long depuis peu. Je fais tr\u00e8s attention a mon pc mais je crois que malgr\u00e9 mes effort il soit...",
-            "date": "2015-04-27",
-            "categories": "ordinateur",
-            "tags": "malgr\u00e9,temps,ordinateur,avant",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/ordinateur-lent-infect%C3%A9",
+            "tags": "rom,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/ordinateur-acer-se-mes-en-echec-des-le-demarage",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31890277-ordinateur-lent-infecte"
+            "source_url": "http://commentcamarche.net/forum/affich-31899746-ordinateur-acer-se-mes-en-echec-des-le-demarage"
         },
-        "kulturegeek.fr/2015/04/plus-dun-fran%C3%A7ais-sur-deux-dit-regarder-la-tv": {
-            "title": "Plus dun Fran\u00e7ais sur deux dit regarder la TV tout en utilisant un ordinateur...",
-            "snippet": "De plus en plus d\u00e9crans sont disponibles dans les foyers. Le nombre va continuer daugmenter au fil des ann\u00e9es selon diff\u00e9rents organismes. Le rapport mondial dAccenture intitul\u00e9 Digital Video and the Connected Consumer a voulu en savoir...",
-            "date": "2015-04-27",
-            "categories": "ordinateur",
-            "tags": "selon,ordinateur,savoir",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/kulturegeek.fr/2015/04/plus-dun-fran%C3%A7ais-sur-deux-dit-regarder-la-tv",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://kulturegeek.fr/news-57498/plus-francais-dit-regarder-tv-utilisant-ordinateur"
-        },
-        "service-public.fr/2015/04/60-ans-c-est-l-ge-du-mot-ordinateur-actualit%C3%A9s": {
-            "title": "60 ans: c'est l'ge du mot ordinateur - Actualit\u00e9s...",
-            "snippet": "60 ans: c'est l'ge du mot ordinateur Actualit\u00e9s machine a finalement \u00e9t\u00e9 baptis\u00e9e ordinateur d\u00e8s 1955 et le mot fut rapidement adopt\u00e9 par les utilisateurs. Selon le Centre national de ressources textuelles et lexicales, le mot ordinateur est...",
-            "date": "2015-04-23",
-            "categories": "ordinateur",
-            "tags": "machine,\u00e9t\u00e9,ordinateur,selon",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/service-public.fr/2015/04/60-ans-c-est-l-ge-du-mot-ordinateur-actualit%C3%A9s",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
-            "source_url": "http://service-public.fr/actualites/007829.html"
-        },
-        "tomsguide.fr/2015/04/tirer-sur-son-ordinateur-peut-mener-en-prison-m%C3%AAme-aux-etats": {
-            "title": "Tirer sur son ordinateur peut mener en prison, m\u00eame aux Etats-Unis...",
-            "snippet": "Lucas Hinch, un habitant du Colorado de 37 ans, vient d\u00eatre arr\u00eat\u00e9 apr\u00e8s que des coups de feu ont \u00e9t\u00e9 entendus cette semaine dans sa r\u00e9sidence. La victime a plus tard \u00e9t\u00e9 d\u00e9couverte par les enqu\u00eateurs: son ordinateur a \u00e9t\u00e9 retrouv\u00e9...",
-            "date": "2015-04-23",
-            "categories": "ordinateur",
-            "tags": "\u00e9t\u00e9,semaine,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/tomsguide.fr/2015/04/tirer-sur-son-ordinateur-peut-mener-en-prison-m%C3%AAme-aux-etats",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://tomsguide.fr/actualite/ordinateur-coups-feu,47153.html"
-        },
-        "fr.news.yahoo.com/2015/04/parkinson-bient%C3%B4t-un-clavier-d-ordinateur-pour-d%C3%A9tecter-les-premiers-signes": {
-            "title": "Parkinson: bient\u00f4t un clavier d'ordinateur pour d\u00e9tecter les premiers signes?",
-            "snippet": "Une \u00e9quipe de chercheurs du MIT vient de mettre au point un clavier d'ordinateur bient\u00f4t capable de d\u00e9tecter les premiers sympt\u00f4mes de la maladie de Parkinson.",
-            "date": "2015-04-11",
+        "forum-auto.com/2015/04/ordinateur-de-bord-206cc-d-occasion": {
+            "title": "Ordinateur de bord 206cc d'occasion...",
+            "snippet": "J'ai achet\u00e9 d'occasion une 206CC, date de 1er mise en circulation 13/11/2001. Elle a un ODB avec un afficheur 3 lignes. Elle est \u00e9quip\u00e9e d'un Poste Alpine iDA-X311. L'afficheur ODB indique la date, l'heure et la temp\u00e9rature, et quand il faut, le...",
+            "date": "2015-04-29",
             "categories": "ordinateur",
             "tags": "ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/fr.news.yahoo.com/2015/04/parkinson-bient%C3%B4t-un-clavier-d-ordinateur-pour-d%C3%A9tecter-les-premiers-signes",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=ordinateur",
-            "source_url": "http://fr.news.yahoo.com/parkinson-bient\u00f4t-clavier-dordinateur-d\u00e9tecter-premiers-signes-160000875.html"
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/forum-auto.com/2015/04/ordinateur-de-bord-206cc-d-occasion",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
+            "source_url": "http://forum-auto.com/marques/Peugeot/sujet49550.htm"
         },
-        "fr.news.yahoo.com/2015/04/chromebit-raspberry-paperweight-ces-ordinateurs-qui-tiennent-dans-la-main": {
-            "title": "Chromebit, Raspberry, Paperweight: ces ordinateurs qui tiennent dans la main...",
-            "snippet": "Google a lanc\u00e9 le Chromebit, un ordinateur pas plus gros qu'une cl\u00e9 USB. Grce aux progr\u00e8s de la miniaturisation, les fabricants proposent des produits toujours plus petits et toujours moins chers.",
-            "date": "2015-04-07",
-            "categories": "ordinateur,google",
-            "tags": "moins,ordinateurs,ordinateur,google",
-            "recuweb_url": "http://fr.recuweb.com/google/fr.news.yahoo.com/2015/04/chromebit-raspberry-paperweight-ces-ordinateurs-qui-tiennent-dans-la-main",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=ordinateur",
-            "source_url": "http://fr.news.yahoo.com/chromebit-raspberry-paperweight-ordinateurs-tiennent-main-062042706.html"
+        "commentcamarche.net/2015/04/probl%C3%A8me-d-ordinateur": {
+            "title": "Probl\u00e8me d'ordinateur...",
+            "snippet": "Bonjour, je remercie d'avance les personnes qui me viendront en aide car j'en ai vraiment besoin. Lorsque j'allume mon ordinateur, j'ai l'impression d'avoir perdu mon bureau, plus de barre de tache, plus d'application, \u00e9cran noir je peux...",
+            "date": "2015-04-29",
+            "categories": "ordinateur",
+            "tags": "\u00e9cran,allume,besoin,personnes,ordinateur,bonjour,bureau",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/probl%C3%A8me-d-ordinateur",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31901696-probleme-d-ordinateur"
         },
-        "fr.news.yahoo.com/2015/03/windows-10-prendra-moins-de-place-sur-votre-ordinateur": {
-            "title": "Windows 10 prendra moins de place sur votre ordinateur...",
-            "snippet": "Ce nest pas un secret que les syst\u00e8mes dexploitation prennent beaucoup de place sur votre ordinateur, \u00e9tant donn\u00e9 que le syst\u00e8me dexploitation est consid\u00e9r\u00e9 comme le principal logiciel. Cependant, la bonne nouvelle, cest que si vous avez hte...",
-            "date": "2015-03-18",
-            "categories": "place,ordinateur",
-            "tags": "bonne,logiciel,moins,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/fr.news.yahoo.com/2015/03/windows-10-prendra-moins-de-place-sur-votre-ordinateur",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=ordinateur",
-            "source_url": "http://fr.news.yahoo.com/windows-10-prendra-moins-place-ordinateur-074141809.html"
+        "ginjfo.com/2015/04/ubuntu-comment-installer-cette-distribution-linux-sur-son-pc-ginjfo": {
+            "title": "Ubuntu, Comment installer cette distribution Linux sur son PC? - GinjFo...",
+            "snippet": "GinjFoUbuntu, Comment installer cette distribution Linux sur son PC?GinjFoA pr\u00e9sent ins\u00e9rer dans un port USB ou l'unit\u00e9 DVD-ROM le support d'installation et red\u00e9marrer votre ordinateur. Il est peut-\u00eatre n\u00e9cessaire d'indiquer le support de...",
+            "date": "2015-04-29",
+            "categories": "ordinateur",
+            "tags": "rom,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/ginjfo.com/2015/04/ubuntu-comment-installer-cette-distribution-linux-sur-son-pc-ginjfo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur%2Bordinateur&output=atom&nord=1",
+            "source_url": "http://ginjfo.com/actualites/logiciels/linux/ubuntu/ubuntu-15-04-comment-installer-cette-distribution-linux-sur-son-pc-20150427"
+        },
+        "silicon.fr/2015/04/panasonic-livre-un-ordinateur-portable-durci-2-en-1": {
+            "title": "Panasonic livre un ordinateur portable durci 2 en 1...",
+            "snippet": "Le CF-MX4 de Panasonic est un ordinateur portable convertible en tablette. Son chssis utilise un alliage in\u00e9dit de carbone et de magn\u00e9sium. Une offre originale. La dalle est un mod\u00e8le Full HD IPS tactile dune diagonale de 12,5 pouces, livr\u00e9e...",
+            "date": "2015-04-28",
+            "categories": "ordinateur",
+            "tags": "tactile,ordinateur,portable",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/silicon.fr/2015/04/panasonic-livre-un-ordinateur-portable-durci-2-en-1",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
+            "source_url": "http://silicon.fr/panasonic-livre-ordinateur-portable-2-1-durci-115073.html"
+        },
+        "lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur": {
+            "title": "Rien que vos yeux pour piloter un ordinateur...",
+            "snippet": "VIDEO Les su\u00e9dois John Elvesj\u00f6 et Marten Skog\u00f6 ont d\u00e9velopp\u00e9 un syst\u00e8me de suivi des mouvements des yeux, utilis\u00e9 en marketing, dans des jeux vid\u00e9os et pour contr\u00f4ler son ordinateur. Ils sont finalistes du Prix de l'inventeur europ\u00e9en dans...",
+            "date": "2015-04-28",
+            "categories": "jeux-videos,marketing,ordinateur",
+            "tags": "d\u00e9velopp\u00e9,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
+            "source_url": "http://lesechos.fr/thema/02134005853-rien-que-vos-yeux-pour-piloter-un-ordinateur-1115112.php"
         }
     }
 }
