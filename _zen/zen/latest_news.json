@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "zen",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/zen/",
@@ -11,95 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/zen/zen/blogs.json"
     },
     "items": {
+        "hardware.fr/2015/04/1%C3%A8res-infos-sur-zen-l-archi-x86-amd-de-2016-maj": {
+            "title": "1\u00e8res infos sur Zen, l'archi x86 AMD de 2016? MAJ...",
+            "snippet": "Un utilisateur anonyme inscrit pour l'occasion a post\u00e9 sur le forum Planet3dNow ce qui serait des extraits d'une pr\u00e9sentation que fera AMD aupr\u00e8s des analystes financier le 6 mai prochain. Ces deux extraits parlent de l'architecture AMD Zen...",
+            "date": "2015-04-29",
+            "categories": "zen",
+            "tags": "deux,deux-extraits,deux-extraits-parlent,extraits,extraits-parlent,parlent,mai,mai-prochain,prochain,aupr\u00e8s,aupr\u00e8s-des-analystes,analystes,analystes-financier,financier,pr\u00e9sentation,pr\u00e9sentation-que-fera,fera,serait,serait-des-extraits,forum,occasion,utilisateur,utilisateur-anonyme,utilisateur-anonyme-inscrit,anonyme,anonyme-inscrit,inscrit,archi,zen,amd,planet,architecture",
+            "recuweb_url": "http://fr.recuweb.com/zen/hardware.fr/2015/04/1%C3%A8res-infos-sur-zen-l-archi-x86-amd-de-2016-maj",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
+            "source_url": "http://hardware.fr/news/14192/premieres-infos-zen-archi-x86-amd-2016-html.html"
+        },
+        "android-france.fr/2015/04/asus-zenwatch-2-lancement-en-2016-avec-un-mod%C3%A8le-homme": {
+            "title": "ASUS ZenWatch 2 Lancement en 2016 avec un mod\u00e8le homme et femme...",
+            "snippet": "LAsus ZenWatch 2 est la prochaine version de la montre connect\u00e9e du constructeur asiatique. Ce nouveau mat\u00e9riel sous Android Wear devrait arriver d\u00e9but 2016 avec deux types de mod\u00e8les en fonction du sexe, un mod\u00e8le pour les femmes et un...",
+            "date": "2015-04-29",
+            "categories": "zen",
+            "tags": "femme,deux,devrait,montre,zen",
+            "recuweb_url": "http://fr.recuweb.com/zen/android-france.fr/2015/04/asus-zenwatch-2-lancement-en-2016-avec-un-mod%C3%A8le-homme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
+            "source_url": "http://android-france.fr/2015/04/29/asus-zenwatch-2-2016-homme-femme/"
+        },
+        "hardware.fr/2015/04/premi%C3%A8res-infos-sur-zen-l-archi-x86-amd-de-2016": {
+            "title": "Premi\u00e8res infos sur Zen, l'archi x86 AMD de 2016?",
+            "snippet": "Un utilisateur anonyme inscrit pour l'occasion a post\u00e9 sur le forum Planet3dNow ce qui serait des extraits d'une pr\u00e9sentation que fera AMD aupr\u00e8s des analystes financier le 6 mai prochain. Ces deux extraits parlent de l'architecture AMD Zen...",
+            "date": "2015-04-29",
+            "categories": "zen",
+            "tags": "deux,deux-extraits,deux-extraits-parlent,extraits,extraits-parlent,parlent,mai,mai-prochain,prochain,aupr\u00e8s,aupr\u00e8s-des-analystes,analystes,analystes-financier,financier,pr\u00e9sentation,pr\u00e9sentation-que-fera,fera,serait,serait-des-extraits,forum,occasion,utilisateur,utilisateur-anonyme,utilisateur-anonyme-inscrit,anonyme,anonyme-inscrit,inscrit,archi,zen,amd,planet,architecture",
+            "recuweb_url": "http://fr.recuweb.com/zen/hardware.fr/2015/04/premi%C3%A8res-infos-sur-zen-l-archi-x86-amd-de-2016",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
+            "source_url": "http://hardware.fr/news/14192/premieres-infos-zen-archi-x86-amd-2016.html"
+        },
+        "lelectronique.com/2015/04/des-d%C3%A9tails-sur-les-unit%C3%A9s-zen-cpu-d-amd": {
+            "title": "Des d\u00e9tails sur les unit\u00e9s Zen des CPU d'AMD...",
+            "snippet": "Un document en provenance d?AMD aurait filtr\u00e9 sur le forum Planet 3DNow. Il montre ce qui semble \u00eatre une unit\u00e9 int\u00e9grant quatre cores Zen. Pour m\u00e9moire, AMD devrait sortir une nouvelle architecture processeur connue aujourd?hui sous le nom de...",
+            "date": "2015-04-28",
+            "categories": "zen",
+            "tags": "devrait,architecture,montre,forum,zen,amd,planet",
+            "recuweb_url": "http://fr.recuweb.com/zen/lelectronique.com/2015/04/des-d%C3%A9tails-sur-les-unit%C3%A9s-zen-cpu-d-amd",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
+            "source_url": "http://lelectronique.com/actualite/presse-des_details_sur_les_unites_zen_des_cpu_damd-509032.php"
+        },
         "francemobiles.com/2015/04/zen-mobile-une-plate-forme-e-commerce-qui-permet-d-%C3%A9changer": {
             "title": "Zen Mobile: une plate-forme e-commerce qui permet d'\u00e9changer... - France Mobiles...",
             "snippet": "France MobilesZen Mobile: une plate-forme e-commerce qui permet d'\u00e9changer...France MobilesLanc\u00e9e r\u00e9cemment par 3 jeunes entrepreneurs parisiens, Zen Mobile est une plate-forme e-commerce qui permet d'\u00e9changer facilement son ancien mobile contre...",
             "date": "2015-04-28",
             "categories": "zen",
-            "tags": "france,zen",
+            "tags": "jeunes,permet,zen",
             "recuweb_url": "http://fr.recuweb.com/zen/francemobiles.com/2015/04/zen-mobile-une-plate-forme-e-commerce-qui-permet-d-%C3%A9changer",
             "resource_url": "http://news.google.fr/?hl=fr&q=zen&output=atom&nord=1",
             "source_url": "http://francemobiles.com/actualites/zen-mobile-une-plate-forme-e-commerce-qui-permet-d-echanger-son-ancien-mobile-14814.html"
-        },
-        "jeuxvideo.fr/2015/04/zen-pinball-2-la-table-marvel-avengers-age-of-ultron": {
-            "title": "Zen Pinball 2: La table Marvel Avengers - Age Of Ultron...",
-            "snippet": "Diff\u00e9rentes phases de gameplay sont au programme de cette vid\u00e9o d'un peu plus d'une minute pour Zen Pinball 2 (1 min 30). Cette derni\u00e8re vient mettre en avant la table Marvel Avengers - Age Of Ultron (contenu disponible uniquement en...",
-            "date": "2015-04-24",
-            "categories": "zen",
-            "tags": "avant,table,age,age_of_ultron,ultron,marvel,marvel_avengers,avengers,zen,zen_pinball,pinball",
-            "recuweb_url": "http://fr.recuweb.com/zen/jeuxvideo.fr/2015/04/zen-pinball-2-la-table-marvel-avengers-age-of-ultron",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
-            "source_url": "http://jeuxvideo.fr/jeux/zen-pinball-2/video/video-la-table-marvel-avengers-age-of-ultron-464754.html"
         },
         "contrepoints.org/2015/04/le-parac%C3%A9tamol-rend-zen-qui-l-e%C3%BBt-cru-contrepoints": {
             "title": "Le parac\u00e9tamol rend zen, qui l'e\u00fbt cru! - Contrepoints...",
             "snippet": "ContrepointsLe parac\u00e9tamol rend zen, qui l'e\u00fbt cru!ContrepointsIl est bien connu que quand on a une poussi\u00e8re dans l'\u0153il la moindre contrari\u00e9t\u00e9 est amplifi\u00e9e au point qu'on peut devenir irascible. Une petite douleur nous rend plus sensible...",
             "date": "2015-04-23",
             "categories": "zen",
-            "tags": "peut,zen",
+            "tags": "zen",
             "recuweb_url": "http://fr.recuweb.com/zen/contrepoints.org/2015/04/le-parac%C3%A9tamol-rend-zen-qui-l-e%C3%BBt-cru-contrepoints",
             "resource_url": "http://news.google.fr/?hl=fr&q=zen%2Bzen&output=atom&nord=1",
             "source_url": "http://contrepoints.org/2015/04/23/205478-le-paracetamol-rend-zen-qui-leut-cru"
-        },
-        "cowcotland.com/2015/04/amd-zen-un-cpu-x86-16-cores-compatible-ddr4": {
-            "title": "AMD ZEN: Un CPU X86 16 Cores compatible DDR4...",
-            "snippet": "En 2016, AMD pourrait nous surprendre avec un nouveau processeur, ou plut\u00f4t un nouvel APU, car nous aurons une carte graphique int\u00e9gr\u00e9e dans ce dernier. Ce nouveau processeur se nomme ZEN et devrait normalement \u00eatre grav\u00e9 en 14 nm. Il pourra...",
-            "date": "2015-04-22",
-            "categories": "zen",
-            "tags": "\u00eatre,carte,dernier,zen",
-            "recuweb_url": "http://fr.recuweb.com/zen/cowcotland.com/2015/04/amd-zen-un-cpu-x86-16-cores-compatible-ddr4",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
-            "source_url": "http://cowcotland.com/news/47391/amd-zen-cpu-x86-16-cores-compatible-ddr4.html"
-        },
-        "desinfos.com/2015/04/l-%C3%A9rudit-syrien-sunnite-zen-al-abidine-menace-iran": {
-            "title": "L'\u00e9rudit syrien sunnite Zen Al-Abidine menace l'Iran: Vous n'\u00eates... -...",
-            "snippet": "L'\u00e9rudit syrien sunnite Zen Al-Abidine menace l'Iran: Vous n'\u00eates... '\u00e9rudit islamique syrien en exil Mohammed Surour Zain Al-Abidine glorifie la campagne men\u00e9e par l'Arabie saoudite au Y\u00e9men. S'adressant aux Iraniens, qu'il appelle...",
-            "date": "2015-04-22",
-            "categories": "zen",
-            "tags": "zen",
-            "recuweb_url": "http://fr.recuweb.com/zen/desinfos.com/2015/04/l-%C3%A9rudit-syrien-sunnite-zen-al-abidine-menace-iran",
-            "resource_url": "http://news.google.fr/?hl=fr&q=zen&output=atom&nord=1",
-            "source_url": "http://desinfos.com/spip.php?article47419"
-        },
-        "iookaz.com/2015/04/renault-clio-iv-dci-75-eco2-zen": {
-            "title": "Renault Clio IV dCi 75 eco2 Zen...",
-            "snippet": "Renault Clio IV dCi 75 eco2 Zen, Blanc, 4 cv, 5 portes, Premi\u00e8re mise en circulation le 22/08/2013, Garantie 12 mois, Garantie 12, 75 ch, Kilom\u00e9trage garanti, Boite manuelle, 5 rapports de boite, 3 appuie-t\u00eate arri\u00e8re r\u00e9glables en hauteur,...",
-            "date": "2015-04-20",
-            "categories": "zen",
-            "tags": "rapports,renault,renault_clio,clio,dci,eco,zen",
-            "recuweb_url": "http://fr.recuweb.com/zen/iookaz.com/2015/04/renault-clio-iv-dci-75-eco2-zen",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=zen&format=RSS&cc=fr",
-            "source_url": "http://iookaz.com/Annonce/Auto/Bas-Rhin/Molsheim/Renault-Clio-IV-dCi-75-eco2-Zen-FSTP.html"
         },
         "parismatch.com/2015/04/difficile-de-rester-zen-quand-une-fille-star-devient-femme-paris": {
             "title": "Difficile de rester zen Quand une fille de star devient femme Difficile... - Paris Match...",
             "snippet": "Paris MatchDifficile de rester zen Quand une fille de star devient femme Difficile...Paris MatchMais, quand l'\u00e9closion de cette f\u00e9minit\u00e9 se passe sous les yeux du monde entier, c'est dur de rester zen et joyeuse. On est devenue m\u00e8re, on n'en...",
             "date": "2015-04-13",
             "categories": "zen",
-            "tags": "rester,zen",
+            "tags": "femme,zen",
             "recuweb_url": "http://fr.recuweb.com/zen/parismatch.com/2015/04/difficile-de-rester-zen-quand-une-fille-star-devient-femme-paris",
             "resource_url": "http://news.google.fr/?hl=fr&q=zen%2Bzen&output=atom&nord=1",
             "source_url": "http://parismatch.com/People/Cinema/Difficile-de-rester-zen-743350"
-        },
-        "lapresse.ca/2015/04/martin-brodeur-zen-dans-la-retraite": {
-            "title": "Martin Brodeur zen dans la retraite -...",
-            "snippet": "Brodeur zen dans la que beaucoup consid\u00e8rent comme l'un des meilleurs gardiens de tous les temps, et qui a remport\u00e9 trois fois la Coupe Stanley au cours de ses 21 saisons chez les Devils, se dit zen dans la retraite. Je me suis acharn\u00e9 pour...",
-            "date": "2015-04-09",
-            "categories": "zen",
-            "tags": "zen",
-            "recuweb_url": "http://fr.recuweb.com/zen/lapresse.ca/2015/04/martin-brodeur-zen-dans-la-retraite",
-            "resource_url": "http://news.google.fr/?hl=fr&q=zen%2Bzen&output=atom&nord=1",
-            "source_url": "http://lapresse.ca/sports/hockey/201504/09/01-4859448-martin-brodeur-zen-dans-la-retraite.php"
-        },
-        "fr.news.yahoo.com/2015/02/le-dernier-loup-beau-mais-lassant": {
-            "title": "Le Dernier loup: Beau mais lassant...",
-            "snippet": "En 1969, Chen Zen, \u00e9tudiant chinois de P\u00e9kin, est envoy\u00e9 en Mongolie int\u00e9rieure pour \u00e9duquer une tribu de bergers nomades. Fascin\u00e9 par les rapports quasi mystiques que les populations de ces...",
-            "date": "2015-02-25",
-            "categories": "mystique,zen",
-            "tags": "rapports,zen,dernier",
-            "recuweb_url": "http://fr.recuweb.com/zen/fr.news.yahoo.com/2015/02/le-dernier-loup-beau-mais-lassant",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=zen",
-            "source_url": "http://fr.news.yahoo.com/dernier-loup-beau-lassant-070500213.html"
         }
     }
 }
