@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "surf",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/surf/",
@@ -11,25 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/surf/surf/blogs.json"
     },
     "items": {
+        "surf-report.com/2015/04/surf-report-moliets": {
+            "title": "Surf report Moliets...",
+            "snippet": "Soon Line est un proshop avec \u00e9cole de surf, \u00e9cole de skateboard, location de mat\u00e9riel (surf, body, SUP, skate et v\u00e9lo) et site en ligne. Le magasin est sp\u00e9cialis\u00e9 en v\u00eatements homme, femme et enfants avec ses marques principales: Volcom,...",
+            "date": "2015-04-29",
+            "categories": "surf",
+            "tags": "site,surf,sup",
+            "recuweb_url": "http://fr.recuweb.com/surf/surf-report.com/2015/04/surf-report-moliets",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=surf&format=RSS&cc=fr",
+            "source_url": "http://surf-report.com/surf-report-moliets-12146.html"
+        },
+        "ladn.eu/2015/04/un-costard-taill%C3%A9-pour-le-surf-l-adn": {
+            "title": "Un costard taill\u00e9 pour le surf - L'ADN...",
+            "snippet": "L'ADNUn costard taill\u00e9 pour le surfL'ADNEt pour vous la jouer James Bond de la vague, \u00e7a se passe dans les boutiques Quiksilver de nos amis nippons, ou sur le site d\u00e9di\u00e9 (qui vous donnera aussi des bons plans pour aller surfer)... mais il faudra...",
+            "date": "2015-04-29",
+            "categories": "surf",
+            "tags": "aller,site,vague,surf,surfer",
+            "recuweb_url": "http://fr.recuweb.com/surf/ladn.eu/2015/04/un-costard-taill%C3%A9-pour-le-surf-l-adn",
+            "resource_url": "http://news.google.fr/?hl=fr&q=surf&output=atom&nord=1",
+            "source_url": "http://ladn.eu/actualites/costard-taille-pour-surf,article,26153.html"
+        },
+        "libe.ma/2015/04/le-surf-voudrait-prendre-la-vague-des-jo-de-tokyo-2020": {
+            "title": "Le surf voudrait prendre la vague des JO de Tokyo 2020 - lib\u00e9ration...",
+            "snippet": "lib\u00e9rationLe surf voudrait prendre la vague des JO de Tokyo 2020lib\u00e9rationPersuad\u00e9 qu'il est le sport id\u00e9al pour donner un coup de jeune aux Jeux olympiques d'\u00e9t\u00e9, le surf se d\u00e9m\u00e8ne pour int\u00e9grer le programme des JO, d\u00e8s Tokyo-2020, et...",
+            "date": "2015-04-29",
+            "categories": "sport,surf",
+            "tags": "sport,vague,surf",
+            "recuweb_url": "http://fr.recuweb.com/surf/libe.ma/2015/04/le-surf-voudrait-prendre-la-vague-des-jo-de-tokyo-2020",
+            "resource_url": "http://news.google.fr/?hl=fr&q=surf%2Bsurf&output=atom&nord=1",
+            "source_url": "http://libe.ma/\u200bLe-surf-voudrait-prendre-la-vague-des-JO-de-Tokyo-2020_a61655.html"
+        },
         "e-adrenaline.fr/2015/04/martinique-surf-pro-joshua-moniz-remporte-la-premi%C3%A8re-%C3%A9dition": {
             "title": "Martinique Surf Pro: Joshua Moniz remporte la premi\u00e8re \u00e9dition...",
             "snippet": "C'est sur le spot de Basse-Pointe, en Martinique, que s'est termin\u00e9e samedi la premi\u00e8re \u00e9dition du Martinique Surf Pro. Cest finalement lHawa\u00efen Joshua Moniz (18 ans) qui s'est impos\u00e9 en finale face au Sud-Africain Michael February (21 ans).",
             "date": "2015-04-27",
             "categories": "surf",
-            "tags": "surf",
+            "tags": "spot,surf",
             "recuweb_url": "http://fr.recuweb.com/surf/e-adrenaline.fr/2015/04/martinique-surf-pro-joshua-moniz-remporte-la-premi%C3%A8re-%C3%A9dition",
             "resource_url": "http://www.bing.com/news/search?first=1&q=surf&format=RSS&cc=fr",
             "source_url": "http://e-adrenaline.fr/eau/actualites/martinique-surf-pro-joshua-moniz-remporte-la-premiere-edition/6249"
-        },
-        "ouest-france.fr/2015/04/rennes-elles-enfilent-les-combinaisons-de-surf-pour-voler-ouest-france": {
-            "title": "Rennes. Elles enfilent les combinaisons de surf pour les voler - Ouest-France...",
-            "snippet": "Ouest-FranceRennes. Elles enfilent les combinaisons de surf pour les volerOuest-FranceElles enfilent les combinaisons de surf pour les voler. Chantepie - 10h35. \u00e9couter. Deux Allemandes ont tent\u00e9 de voler des combinaisons de surf, pr\u00e8s de Rennes,...",
-            "date": "2015-04-27",
-            "categories": "surf",
-            "tags": "surf",
-            "recuweb_url": "http://fr.recuweb.com/surf/ouest-france.fr/2015/04/rennes-elles-enfilent-les-combinaisons-de-surf-pour-voler-ouest-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=surf&output=atom&nord=1",
-            "source_url": "http://ouest-france.fr/rennes-elles-enfilent-les-combinaisons-de-surf-pour-les-voler-3362672"
         }
     }
 }
