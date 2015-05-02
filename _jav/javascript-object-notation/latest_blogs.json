@@ -17,7 +17,7 @@
             "date": "2015-02-26",
             "author_name": "St\u00e9phane Bortzmeyer",
             "categories": "javascript,javascript-object-notation",
-            "tags": "texte,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json",
+            "tags": "texte,documents,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2015/02/rfc-7464-javascript-object-notation-json-text-sequences",
             "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bortzmeyer.org/7464.html"
@@ -28,7 +28,7 @@
             "date": "2014-12-29",
             "author_name": "Rinaldo Bonazzo",
             "categories": "javascript,javascript-object-notation,internet",
-            "tags": "javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json",
+            "tags": "object,javascript,javascript_object,javascript_object_notation,object_notation,notation,json",
             "recuweb_url": "http://fr.recuweb.com/internet/rfrombruxelles.blogspot.com/2014/12/how-do-you-work-with-javascript-object-notation-hodentekhelp",
             "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://rfrombruxelles.blogspot.com/2014/12/how-do-you-work-with-javascript-object.html"
@@ -41,8 +41,19 @@
             "categories": "javascript,javascript-object-notation",
             "tags": "format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,st\u00e9phane,st\u00e9phane_bortzmeyer,bortzmeyer,rfc,json",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2013/04/blog-st%C3%A9phane-bortzmeyer-rfc-6902-javascript-object-notation",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bortzmeyer.org/6902.html"
+        },
+        "bortzmeyer.org/2013/04/rfc-6901-javascript-object-notation-json-pointer": {
+            "title": "RFC 6901: JavaScript Object Notation (JSON) Pointer...",
+            "snippet": "JSON (RFC 7159) est un format structur\u00e9 de donn\u00e9es tr\u00e8s populaire sur le Web. Les documents JSON peuvent \u00eatre de taille tr\u00e8s variable et il serait int\u00e9ressant d'avoir une syntaxe formelle pour d\u00e9signer une partie bien...",
+            "date": "2013-04-03",
+            "author_name": "St\u00e9phane Bortzmeyer",
+            "categories": "javascript,javascript-object-notation",
+            "tags": "syntaxe,format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json,documents",
+            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2013/04/rfc-6901-javascript-object-notation-json-pointer",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bortzmeyer.org/6901.html"
         },
         "alsacreations.com/2010/12/le-format-json-ajax-et-jquery-alsacreations": {
             "title": "Le format JSON, AJAX et jQuery - Alsacreations...",
@@ -72,7 +83,7 @@
             "date": "2007-01-13",
             "author_name": "Pascal MARTIN",
             "categories": "javascript,javascript-object-notation",
-            "tags": "javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json,format,rfc,juillet",
+            "tags": "syntaxe,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json,format,rfc,juillet",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/blog.pascal-martin.fr/2007/01/json-javascript-object-notation-pr%C3%A9sentation-pascal-martin",
             "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.pascal-martin.fr/post/json-javascript-object-notation-presentation.html"
