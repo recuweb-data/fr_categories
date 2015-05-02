@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "extensible-markup-language",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/extensible-markup-language/",
@@ -11,6 +11,28 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/blogs.json"
     },
     "items": {
+        "lalist.inist.fr/2015/03/springer-and-universit%C3%A9-joseph-fourier-release-scidetect-to": {
+            "title": "Springer and Universit\u00e9 Joseph Fourier release SciDetect to...",
+            "snippet": "SciDetect scans Extensible Markup Language (XML) and Adobe Portable Document Format (PDF) files and compares them against a corpus of fake scientific papers. SciDetect indicates whether an entire document or its...",
+            "date": "2015-03-26",
+            "author_name": "veille-prospective",
+            "categories": "extensible-markup-language",
+            "tags": "document,format,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
+            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/lalist.inist.fr/2015/03/springer-and-universit%C3%A9-joseph-fourier-release-scidetect-to",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lalist.inist.fr/?p=14698"
+        },
+        "piloter.org/2009/01/qu-est-ce-que-xml-extensible-markup-language": {
+            "title": "Qu'est-ce que XML? eXtensible Markup Language...",
+            "snippet": "XML Le m\u00e9ta langage de description de document. D\u00e9finition XML. XML, eXtensible Markup Language, est un m\u00e9talangage de description de documents et de donn\u00e9es. Particuli\u00e8rement complet et performant, il est adopt\u00e9 par l'ensemble des...",
+            "date": "2009-01-15",
+            "author_name": "inconnu",
+            "categories": "langage,extensible-markup-language",
+            "tags": "documents,document,donn\u00e9es,langage,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
+            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/piloter.org/2009/01/qu-est-ce-que-xml-extensible-markup-language",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://piloter.org/techno/support/xml.htm"
+        },
         "bortzmeyer.org/2008/09/blog-st%C3%A9phane-bortzmeyer-rfc-5261-an-extensible-markup": {
             "title": "Blog St\u00e9phane Bortzmeyer: RFC 5261: An Extensible Markup...",
             "snippet": "De nombreux protocoles IETF s'appuient sur XML, par exemple pour stocker de l'information de configuration. Dans ce cadre, le besoin de modifier de l'information XML sans devoir transporter le fichier entier,...",
@@ -38,7 +60,7 @@
             "date": "2005-07-11",
             "author_name": "DMC",
             "categories": "internet,technologie,langage,hypertext-markup-language",
-            "tags": "donn\u00e9es,data,langage,extensible,markup,markup_language,language,xhtml,xml,microsoft",
+            "tags": "donn\u00e9es,data,langage,extensible,markup,markup_language,language,xhtml,xml",
             "recuweb_url": "http://fr.recuweb.com/hypertext-markup-language/aliasdmc.fr/2005/07/les-termes-lettre-x-xhtml-xml-data-islands-zone-html",
             "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://aliasdmc.fr/terme/zone_html_terme_x.html"
