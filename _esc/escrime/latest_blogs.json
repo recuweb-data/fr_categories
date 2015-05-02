@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "escrime",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/escrime/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escrime/escrime/blogs.json"
     },
     "items": {
+        "prixtel.com/2015/04/l-asbr-escrime-partenaire-de-prixtel-est-championne-d-europe": {
+            "title": "L'ASBR Escrime, partenaire de Prixtel, est championne d'Europe...",
+            "snippet": "Prixtel, partenaire de l'ASBR Escrime, est fier d'annoncer la victoire de l'\u00e9quipe f\u00e9minine de l'ASBR Escrime au championnat d'Europe des clubs le 19 avril.",
+            "date": "2015-04-21",
+            "author_name": "moderation",
+            "categories": "escrime",
+            "tags": "clubs,championnat,\u00e9quipe,victoire,escrime,europe,avril",
+            "recuweb_url": "http://fr.recuweb.com/escrime/prixtel.com/2015/04/l-asbr-escrime-partenaire-de-prixtel-est-championne-d-europe",
+            "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://prixtel.com/decouvrir-PRIXTEL/actualite/news/lasbr-escrime-partenaire-de-prixtel-est-championne-deurope-des-clubs/"
+        },
+        "lepaysdauge.fr/2015/04/lisieux-championnats-de-france-d-escrime-j-4-pour-aider": {
+            "title": "Lisieux. Championnats de France d'escrime: J-4 pour aider les...",
+            "snippet": "Le projet de financement participatif du club d'escrime de Lisieux s'ach\u00e8ve ce samedi 25 avril. L'argent r\u00e9colt\u00e9 servira au d\u00e9placement des \u00e9p\u00e9istes aux championnats de France.",
+            "date": "2015-04-21",
+            "author_name": "Elo\u00efse Aub\u00e9",
+            "categories": "escrime",
+            "tags": "championnats,samedi,club,france,escrime,avril",
+            "recuweb_url": "http://fr.recuweb.com/escrime/lepaysdauge.fr/2015/04/lisieux-championnats-de-france-d-escrime-j-4-pour-aider",
+            "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lepaysdauge.fr/2015/04/21/championnat-de-france-descrime-j-5-pour-aider-les-epeistes/"
+        },
         "directinfo.webmanagercenter.com/2015/04/ines-boubakri-est-la-gagnante-du-championnat-des-clubs-d-escrime": {
             "title": "Ines Boubakri est la gagnante du championnat des clubs d'escrime...",
             "snippet": "Avec son \u00e9quipe le Club D'escrime de Bourge la Reine, l'escrimeuse tunisienne, Ines Boubakri, a remport\u00e9 le championnat d'Europe...",
             "date": "2015-04-20",
             "author_name": "Salma fallah",
             "categories": "escrime",
-            "tags": "\u00e9quipe,clubs,club,escrime",
+            "tags": "championnat,\u00e9quipe,clubs,club,escrime,europe",
             "recuweb_url": "http://fr.recuweb.com/escrime/directinfo.webmanagercenter.com/2015/04/ines-boubakri-est-la-gagnante-du-championnat-des-clubs-d-escrime",
             "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://directinfo.webmanagercenter.com/2015/04/20/ines-boubakri-est-la-gagnante-du-championnat-des-clubs-descrime-en-europe/"
+        },
+        "clichyevenements.fr/2015/04/clichy-%C3%A9v%C3%A9nements-escrime-victoire-de-nathalie": {
+            "title": "Clichy \u00e9v\u00e9nements: Clichy escrime: Victoire de Nathalie...",
+            "snippet": "Nathalie MOELLHAUSEN de Clichy escrime a gagn\u00e9 les championnats panam\u00e9ricains au Chili hier soir! C'est la 1\u00e8re comp\u00e9tition et la seule du continent am\u00e9ricain pour les Jeux de Rio 2016. Elle gagne et se met dans les...",
+            "date": "2015-04-19",
+            "author_name": "Clichy Ev\u00e8nements",
+            "categories": "escrime",
+            "tags": "championnats,escrime,victoire",
+            "recuweb_url": "http://fr.recuweb.com/escrime/clichyevenements.fr/2015/04/clichy-%C3%A9v%C3%A9nements-escrime-victoire-de-nathalie",
+            "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://clichyevenements.fr/2015/04/clichy-escrime-victoire-de-nathalie-moellhausen-aux-championnats-panam\u00e9ricains.html"
         },
         "letregor.fr/2015/04/escrime-l-asptt-lannion-dans-les-meilleurs-clubs-de-bretagne": {
             "title": "Escrime. L'ASPTT Lannion dans les meilleurs clubs de Bretagne...",
@@ -28,21 +61,10 @@
             "date": "2015-04-13",
             "author_name": "kelaouenner",
             "categories": "escrime",
-            "tags": "clubs,escrime,meilleurs,bretagne",
+            "tags": "clubs,meilleurs,escrime,bretagne",
             "recuweb_url": "http://fr.recuweb.com/escrime/letregor.fr/2015/04/escrime-l-asptt-lannion-dans-les-meilleurs-clubs-de-bretagne",
             "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://letregor.fr/2015/04/13/escrime-lasptt-lannion-dans-les-meilleurs-clubs-de-bretagne/"
-        },
-        "kombatsport.lu/2015/04/kombat-sport-se-met-a-l-escrime-avec-le-master": {
-            "title": "kombat sport se met a l'escrime avec le master de fleuret melun val...",
-            "snippet": "Devant les plus de spectateurs de la piste d'escrime de l'Espace Pierre Bachelet, la comp\u00e9tition propose chaque ann\u00e9e un spectacle captivant mettant en sc\u00e8ne les meilleurs escrimeurs de la plan\u00e8te. 6 tireurs du top 10...",
-            "date": "2015-04-09",
-            "author_name": "Kombat Sport",
-            "categories": "sport,escrime",
-            "tags": "master,fleuret,val,sport,escrime,piste,meilleurs",
-            "recuweb_url": "http://fr.recuweb.com/escrime/kombatsport.lu/2015/04/kombat-sport-se-met-a-l-escrime-avec-le-master",
-            "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://kombatsport.lu/kombat-sport-se-met-a-lescrime-avec-le-master-de-fleuret-melun-val-de-seine/"
         },
         "leberry.fr/2015/04/autres-sports-bourges-18000-escrime-yves": {
             "title": "- Autres sports - BOURGES (18000) - Escrime: Yves...",
@@ -50,9 +72,9 @@
             "date": "2015-04-02",
             "author_name": "inconnu",
             "categories": "escrime,discipline,sport",
-            "tags": "escrime,discipline,meilleurs",
+            "tags": "escrime,meilleurs",
             "recuweb_url": "http://fr.recuweb.com/sport/leberry.fr/2015/04/autres-sports-bourges-18000-escrime-yves",
-            "resource_url": "http://www.google.com/search?q=escrime%2Bescrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=escrime&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://leberry.fr/cher/sports/actualite/autres/2015/04/02/escrime-yves-collonge-la-passion-du-sabre_11389022.html"
         }
     }
