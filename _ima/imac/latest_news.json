@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "imac",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/imac/",
@@ -11,15 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/imac/imac/blogs.json"
     },
     "items": {
-        "commentcamarche.net/2015/04/wd-element-incompatible-avec-mon-imac": {
-            "title": "WD Element incompatible avec mon Imac...",
-            "snippet": "Bonjour, Mon disque dur apple est satur\u00e9, et je viens d'acheter un disque externe WD El\u00e9ment de 2 TO qui n'est pas reconnu, je n'ose plus tenter une quelconque intervention de peur de tout bloquer...",
-            "date": "2015-04-25",
-            "categories": "disque-dur,imac",
-            "tags": "imac,apple",
-            "recuweb_url": "http://fr.recuweb.com/imac/commentcamarche.net/2015/04/wd-element-incompatible-avec-mon-imac",
+        "fr.audiofanzine.com/2015/04/controleur-platine-vinyle-imac": {
+            "title": "Controleur Platine vinyle/iMac...",
+            "snippet": "J'aurais besoin de vos lumi\u00e8res concernant mon installation musicale de salon. J'ai un iMac avec un carte son Roland Quad Capture, le son sort sur des enceintes amplifi\u00e9es. Or, je voudrais brancher ma platine vinyle fraichement re\u00e7ue mais il faut...",
+            "date": "2015-04-29",
+            "categories": "imac",
+            "tags": "carte,imac",
+            "recuweb_url": "http://fr.recuweb.com/imac/fr.audiofanzine.com/2015/04/controleur-platine-vinyle-imac",
             "resource_url": "http://www.bing.com/news/search?first=1&q=imac&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31884379-wd-element-incompatible-avec-mon-imac"
+            "source_url": "http://fr.audiofanzine.com/controleur-monitoring/forums/t.593679,controleur-platine-vinyle-imac.html"
         },
         "consomac.fr/2015/04/un-nouvel-imac-dans-moins-de-deux-mois": {
             "title": "Un nouvel iMac dans moins de deux mois?",
@@ -38,7 +38,7 @@
             "categories": "macbook,imac",
             "tags": "imac,deux,ram",
             "recuweb_url": "http://fr.recuweb.com/imac/macplus.net/2015/04/excellents-macbook-air-et-imac-sur-le-refurb-macplus",
-            "resource_url": "http://news.google.fr/?hl=fr&q=imac&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=imac%2Bimac&output=atom&nord=1",
             "source_url": "http://macplus.net/depeche-83493-excellents-macbook-air-et-imac-sur-le-refurb"
         }
     }
