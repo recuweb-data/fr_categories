@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ipod",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ipod/",
@@ -17,7 +17,7 @@
             "date": "2015-04-19",
             "author_name": "Eric",
             "categories": "iphone,ipod,ipad",
-            "tags": "version,touch,\u00e9cran,fonds,iphone,ipod,ipad,retina",
+            "tags": "t\u00e9l\u00e9charger,touch,fonds,iphone,ipod,ipad,retina,version",
             "recuweb_url": "http://fr.recuweb.com/ipad/iphonesoft.fr/2015/04/2-fonds-d-%C3%A9cran-cuir-noir-pour-tous-les-iphone-ipod",
             "resource_url": "http://www.google.com/search?q=ipod%2Bipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://iphonesoft.fr/2015/04/19/2-fonds-ecran-cuir-noir-tous-iphone-ipod-ipad"
@@ -55,16 +55,16 @@
             "resource_url": "http://fr.search.wordpress.com/?q=ipod%2Bipod&f=feed&page=1",
             "source_url": "http://myteddyland.net/2015/01/21/theicollection-video-quel-ipod-choisir/"
         },
-        "lesnumeriques.com/2014/12/apple-accus%C3%A9-d-avoir-effac%C3%A9-des-ipod-la-musique-non-achet%C3%A9e": {
-            "title": "Apple accus\u00e9 d'avoir effac\u00e9 des iPod la musique non achet\u00e9e sur...",
-            "snippet": "Apple est actuellement sur le banc des accus\u00e9s dans le cadre d'un proc\u00e8s pour pratiques anticoncurrentielles sur le march\u00e9 de la musique d\u00e9mat\u00e9rialis\u00e9e. La firme, qui parle de \"mesures de s\u00e9curit\u00e9\", a effac\u00e9 des iPod la...",
-            "date": "2014-12-07",
-            "author_name": "Johann Breton",
-            "categories": "musique,ipod",
-            "tags": "proc\u00e8s,musique,apple,ipod",
-            "recuweb_url": "http://fr.recuweb.com/ipod/lesnumeriques.com/2014/12/apple-accus%C3%A9-d-avoir-effac%C3%A9-des-ipod-la-musique-non-achet%C3%A9e",
-            "resource_url": "http://www.google.com/search?q=ipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lesnumeriques.com/apple-accuse-avoir-efface-ipod-musique-non-achetee-sur-itunes-n37423.html"
+        "anvolnacivat.wordpress.com/2014/12/telecharger-itunes-ipod-gratuit": {
+            "title": "Telecharger itunes ipod gratuit...",
+            "snippet": "Download Telecharger jeux pc gratuit: TOUT SUR LE JEUX VIDEO. Tests et News de jeux et consoles, Videos et reviews pour Xbox 360, PS3, Wii, PC, DS, PSP. T\u00e9l\u00e9charger...",
+            "date": "2014-12-24",
+            "author_name": "anvolnacivat",
+            "categories": "ipod,xbox",
+            "tags": "jeux,t\u00e9l\u00e9charger,itunes,ipod",
+            "recuweb_url": "http://fr.recuweb.com/xbox/anvolnacivat.wordpress.com/2014/12/telecharger-itunes-ipod-gratuit",
+            "resource_url": "http://fr.search.wordpress.com/?q=ipod%2Bipod&f=feed&page=1",
+            "source_url": "http://anvolnacivat.wordpress.com/2014/12/24/telecharger-itunes-ipod-gratuit/"
         },
         "journaldugeek.com/2014/12/proc%C3%A8s-ipod-apple-a-bien-faut%C3%A9-le-journal-du-geek": {
             "title": "Proc\u00e8s iPod: Apple a bien faut\u00e9 - Le Journal du Geek...",
@@ -72,10 +72,21 @@
             "date": "2014-12-04",
             "author_name": "Pierre",
             "categories": "ipod,musique",
-            "tags": "proc\u00e8s,dernier,ipod,apple,musiques",
+            "tags": "dernier,ipod,apple,musiques",
             "recuweb_url": "http://fr.recuweb.com/musique/journaldugeek.com/2014/12/proc%C3%A8s-ipod-apple-a-bien-faut%C3%A9-le-journal-du-geek",
             "resource_url": "http://www.google.com/search?q=ipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldugeek.com/2014/12/04/proces-ipod-apple-a-bien-faute/"
+        },
+        "du-cote-masculin.com/2014/02/moi-et-mon-ipod": {
+            "title": "Moi et mon ipod...",
+            "snippet": "Je ne sais pas si ce genre de post vous plaira mais j'avais vraiment tr\u00e8s envie de vous faire partager mes coups de coeur musicaux du moment. Bon []...",
+            "date": "2014-02-27",
+            "author_name": "dimcka",
+            "categories": "ipod",
+            "tags": "ipod",
+            "recuweb_url": "http://fr.recuweb.com/ipod/du-cote-masculin.com/2014/02/moi-et-mon-ipod",
+            "resource_url": "http://fr.search.wordpress.com/?q=ipod%2Bipod&f=feed&page=1",
+            "source_url": "http://du-cote-masculin.com/2014/02/27/moi-et-mon-ipod/"
         },
         "consomac.fr/2014/01/consomac-l-ipod-recule-mais-il-ne-dispara%C3%AEtra": {
             "title": "Consomac: L'iPod recule, mais il ne dispara\u00eetra pas...",
@@ -85,7 +96,7 @@
             "categories": "ipod,imac",
             "tags": "ipod,apple",
             "recuweb_url": "http://fr.recuweb.com/imac/consomac.fr/2014/01/consomac-l-ipod-recule-mais-il-ne-dispara%C3%AEtra",
-            "resource_url": "http://www.google.com/search?q=ipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=ipod%2Bipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://consomac.fr/news-2412-lipod-recule-mais-il-ne-disparaitra-pas.html"
         }
     }
