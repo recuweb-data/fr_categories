@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "perl",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/perl/",
@@ -11,65 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/perl/perl/blogs.json"
     },
     "items": {
-        "silicon.fr/2015/04/debian-8-jessie-nouvel-arrivant-dans-le-monde-des-os-linux": {
-            "title": "Debian 8 Jessie, nouvel arrivant dans le monde des OS Linux...",
-            "snippet": "Plus de 43 000 paquets logiciels sont accessibles pour Debian 8 Jessie. C\u00f4t\u00e9 serveur, nous retrouvons Apache, Nagios, Perl, PHP, MySQL, MariaDB et PostgreSQL. Le monde des stations de travail nest...",
-            "date": "2015-04-27",
-            "categories": "perl,php,mysql",
-            "tags": "linux,perl,php",
-            "recuweb_url": "http://fr.recuweb.com/mysql/silicon.fr/2015/04/debian-8-jessie-nouvel-arrivant-dans-le-monde-des-os-linux",
+        "boursorama.com/2015/04/nexity-activit%C3%A9-en-hausse-de-13%-au-premier-trimestre": {
+            "title": "NEXITY: activit\u00e9 en hausse de 13% au premier trimestre...",
+            "snippet": "Diversification dans les services limitant le caract\u00e8re cyclique de l'activit\u00e9 (16% des ventes), sous les marques Guy Hoquet et Century 21 pour les r\u00e9seaux, Oralia et Perl dans l'administration de biens (n 2 en France); - Faibles stocks...",
+            "date": "2015-04-29",
+            "categories": "perl",
+            "tags": "ventes,premier,premier-trimestre,trimestre,activit\u00e9,hausse,nexity,oralia,perl,france",
+            "recuweb_url": "http://fr.recuweb.com/perl/boursorama.com/2015/04/nexity-activit%C3%A9-en-hausse-de-13%-au-premier-trimestre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
-            "source_url": "http://silicon.fr/debian-8-jessie-nouvel-arrivant-monde-os-linux-114946.html"
+            "source_url": "http://boursorama.com/actualites/nexity-activite-en-hausse-de-13-au-premier-trimestre-e5ba3fc2dea99741c233873f26bad2fb"
+        },
+        "zonebourse.com/2015/04/nexity-b%C3%A9n%C3%A9ficie-de-la-reprise-l-immobilier-r%C3%A9sidentiel-en-france": {
+            "title": "NEXITY: b\u00e9n\u00e9ficie de la reprise de l'immobilier r\u00e9sidentiel en France...",
+            "snippet": "et par les op\u00e9rations de croissance externe r\u00e9alis\u00e9es dans le courant de l'ann\u00e9e 2014 (29 millions d'euros pour Oralia et PERL). Au final, Nexity a confirm\u00e9 l'ensemble des objectifs annuels donn\u00e9s au march\u00e9 en d\u00e9but d'ann\u00e9e. Le groupe...",
+            "date": "2015-04-29",
+            "categories": "perl",
+            "tags": "march\u00e9,d\u00e9but,euros,millions,nexity,france,oralia,perl",
+            "recuweb_url": "http://fr.recuweb.com/perl/zonebourse.com/2015/04/nexity-b%C3%A9n%C3%A9ficie-de-la-reprise-l-immobilier-r%C3%A9sidentiel-en-france",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
+            "source_url": "http://zonebourse.com/NEXITY-5141/actualite/NEXITY--beneficie-de-la-reprise-de-limmobilier-residentiel-en-France-20275855/"
+        },
+        "saarbruecker-zeitung.de/2015/04/gemeinderat-perl-besch%C3%A4ftigt-sich-mit-haushalt-2015": {
+            "title": "Gemeinderat Perl besch\u00e4ftigt sich mit Haushalt 2015 -...",
+            "snippet": "Gemeinderat Perl besch\u00e4ftigt sich mit Haushalt Klicks f\u00fcr mehr Datenschutz: Erst wenn Sie hier klicken, wird der Button aktiv und Sie k\u00f6nnen Ihre Empfehlung an Facebook senden. Schon beim Aktivieren werden Daten an Dritte \u00fcbertragen siehe i.",
+            "date": "2015-04-28",
+            "categories": "perl,facebook",
+            "tags": "der,hier,perl",
+            "recuweb_url": "http://fr.recuweb.com/facebook/saarbruecker-zeitung.de/2015/04/gemeinderat-perl-besch%C3%A4ftigt-sich-mit-haushalt-2015",
+            "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
+            "source_url": "http://saarbruecker-zeitung.de/saarland/merzig-wadern/perl/perl/Perl-Jahr-2015;art446583,5725710"
+        },
+        "24heures.ch/2015/04/la-start-up-esmart-remporte-le-prix-strategis-hec": {
+            "title": "La start-up eSmart remporte le Prix Strategis-HEC...",
+            "snippet": "Apr\u00e8s les prix PERL et en 2011, la start-up eSmart a remport\u00e9 hier soir le Prix Strategis-HEC ainsi que le ch\u00e8que de 50'000 francs qui accompagne la r\u00e9compense. Cofond\u00e9e par Laurent Fabre et Fabrizio Lo Conte, la start-up longtemps...",
+            "date": "2015-04-28",
+            "categories": "perl",
+            "tags": "hier,perl",
+            "recuweb_url": "http://fr.recuweb.com/perl/24heures.ch/2015/04/la-start-up-esmart-remporte-le-prix-strategis-hec",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
+            "source_url": "http://24heures.ch/economie/startup-esmart-remporte-prix-strategishec/story/14938783"
+        },
+        "cbanque.com/2015/04/nexity-activit%C3%A9-commerciale-et-chiffre-d-affaires-au-t1-2015": {
+            "title": "Nexity: Activit\u00e9 commerciale et chiffre d'affaires au T1 2015...",
+            "snippet": "hors ventes en bloc, Iselection et PERL Nexity poursuit sa politique de lancements commerciaux ma\u00eetris\u00e9e avec une stabilit\u00e9 du nombre de lots lanc\u00e9s au premier trimestre 9 (lots). La part du stock achev\u00e9 dans l'offre commerciale de logements...",
+            "date": "2015-04-28",
+            "categories": "politique,perl",
+            "tags": "logements,part,premier,premier-trimestre,trimestre,perl,ventes,affaires,chiffre,nexity,activit\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/perl/cbanque.com/2015/04/nexity-activit%C3%A9-commerciale-et-chiffre-d-affaires-au-t1-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
+            "source_url": "http://cbanque.com/actu/communique-5778.php"
+        },
+        "boursier.com/2015/04/nexity-le-d%C3%A9but-de-red%C3%A9marrage-du-march%C3%A9-logement-se-confirme": {
+            "title": "Nexity: le d\u00e9but de red\u00e9marrage du march\u00e9 du logement se confirme!",
+            "snippet": "Cette hausse traduit un effet de base favorable par rapport au premier trimestre 2014. Sur le trimestre PERL (Pierre Epargne Retraite Logement) a r\u00e9alis\u00e9 un chiffre d'affaires de 25 millions d'euros, dont 13 millions seulement contribuent au...",
+            "date": "2015-04-28",
+            "categories": "perl",
+            "tags": "millions,affaires,chiffre,trimestre,hausse,premier,premier-trimestre,d\u00e9but,march\u00e9,nexity,perl,euros",
+            "recuweb_url": "http://fr.recuweb.com/perl/boursier.com/2015/04/nexity-le-d%C3%A9but-de-red%C3%A9marrage-du-march%C3%A9-logement-se-confirme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
+            "source_url": "http://boursier.com/actions/actualites/news/nexity-le-debut-de-redemarrage-du-marche-du-logement-se-confirme-626638.html"
         },
         "lagazettedescommunes.com/2015/04/l-usufruit-locatif-social-monte-en-puissance-gazette-des-communes": {
             "title": "L'usufruit locatif social monte en puissance - Gazette des communes...",
             "snippet": "L'usufruit locatif social monte en puissanceGazette des communesLaurent Mogno, directeur g\u00e9n\u00e9ral de PERL, revient, pour la Gazette des communes, sur les nouveaut\u00e9s de la loi ALUR pour d\u00e9velopper la production de logements sociaux via l'usufruit...",
             "date": "2015-04-21",
             "categories": "perl",
-            "tags": "d\u00e9velopper,perl",
+            "tags": "d\u00e9velopper,logements,perl",
             "recuweb_url": "http://fr.recuweb.com/perl/lagazettedescommunes.com/2015/04/l-usufruit-locatif-social-monte-en-puissance-gazette-des-communes",
-            "resource_url": "http://news.google.fr/?hl=fr&q=perl%2Bperl&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=perl&output=atom&nord=1",
             "source_url": "http://lagazettedescommunes.com/351186/lusufruit-locatif-social-monte-en-puissance/"
-        },
-        "lepopulaire.fr/2015/04/accident-mortel-sur-la-rn-147-une-jeune-fille-de-20": {
-            "title": "Accident mortel sur la RN 147: une jeune fille de 20 ans perd la vie...",
-            "snippet": "PERL f\u00eate l'arriv\u00e9e du printemps.. L'association Perl a r\u00e9ussi sa premi\u00e8re table ouverte de l'ann\u00e9e. Chacun avait amen\u00e9 son panier et par une belle journ\u00e9e printani\u00e8re les convives ont pu d\u00e9guster les diff\u00e9rents plats d\u00e9licieux que chacun...",
-            "date": "2015-04-16",
-            "categories": "perl",
-            "tags": "perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/lepopulaire.fr/2015/04/accident-mortel-sur-la-rn-147-une-jeune-fille-de-20",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=perl&format=RSS&cc=fr",
-            "source_url": "http://lepopulaire.fr/limousin/actualite/2015/04/20/accident-mortel-sur-la-rn-147-une-jeune-fille-de-20-ans-perd-la-vie_11407420.html"
         },
         "latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor-latercera": {
             "title": "Los tres repertorios de Perl: de pianista a director y profesor - LaTercera (Registro)...",
             "snippet": "LaTercera (Registro)Los tres repertorios de Perl: de pianista a director y profesorLaTercera (Registro)Si Alfredo Perl (1965) fuera doctor, evitar\u00eda las especialidades. Abierto a tocar de todo y dispuesto a repartir su vida profesional entre el...",
             "date": "2015-04-16",
             "categories": "perl",
-            "tags": "alfredo,perl",
+            "tags": "perl",
             "recuweb_url": "http://fr.recuweb.com/perl/latercera.com/2015/04/los-tres-repertorios-de-perl-pianista-a-director-y-profesor-latercera",
             "resource_url": "http://news.google.fr/?hl=fr&q=perl%2Bperl&output=atom&nord=1",
             "source_url": "http://latercera.com/noticia/cultura/2015/04/1453-625691-9-los-tres-repertorios-de-perl-de-pianista-a-director-y-profesor.shtml"
-        },
-        "radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta": {
-            "title": "Alfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta... - Diario y Radio Uchile...",
-            "snippet": "Diario y Radio UchileAlfredo Perl estrena obra de Andr\u00e9s Maupoint junto a la Orquesta...Diario y Radio UchileEstoy muy feliz de que la Orquesta Sinf\u00f3nica haya decidido contemplar el estreno de esta obra, comenta Alfredo Perl respecto del Concierto...",
-            "date": "2015-04-10",
-            "categories": "radio,perl",
-            "tags": "perl,alfredo",
-            "recuweb_url": "http://fr.recuweb.com/perl/radio.uchile.cl/2015/04/alfredo-perl-estrena-obra-de-andr%C3%A9s-maupoint-junto-a-la-orquesta",
-            "resource_url": "http://news.google.fr/?hl=fr&q=perl%2Bperl&output=atom&nord=1",
-            "source_url": "http://radio.uchile.cl/2015/04/10/alfredo-perl-estrena-obra-de-andres-maupoint-junto-a-la-orquesta-sinfonica"
-        },
-        "computersweden.idg.se/2015/04/tungviktare-funderar-p%C3%A5-s%C3%A4kerhet-i-php-ruby-och-perl": {
-            "title": "Tungviktare funderar p\u00e5 s\u00e4kerhet i PHP, Ruby och Perl -...",
-            "snippet": "funderar p\u00e5 s\u00e4kerhet i PHP, Ruby och handlar diskussionerna om brister i programkod, vilka ibland kan h\u00e4rledas till spr\u00e5ken som anv\u00e4nds f\u00f6r att skriva koden. Eftersom spr\u00e5ken PHP, Ruby och Perl anv\u00e4nds mycket f\u00f6r bland annat webbutveckling...",
-            "date": "2015-04-03",
-            "categories": "php,perl",
-            "tags": "php,perl",
-            "recuweb_url": "http://fr.recuweb.com/perl/computersweden.idg.se/2015/04/tungviktare-funderar-p%C3%A5-s%C3%A4kerhet-i-php-ruby-och-perl",
-            "resource_url": "http://news.google.fr/?hl=fr&q=perl%2Bperl&output=atom&nord=1",
-            "source_url": "http://computersweden.idg.se/2.2683/1.610673/tungviktare-funderar-pa-sakerhet-i-php-ruby-och-perl"
         }
     }
 }
