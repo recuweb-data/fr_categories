@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bibliophilie",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/bibliophilie/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bibliophilie/bibliophilie/blogs.json"
     },
     "items": {
+        "boersenblatt.net/2015/04/maximilian-gesellschaft-vorstand-best%C3%A4tigt-b%C3%B6rsenblatt": {
+            "title": "Maximilian-Gesellschaft: Vorstand best\u00e4tigt - b\u00f6rsenblatt...",
+            "snippet": "Maximilian-Gesellschaft: Vorstand best\u00e4tigtb\u00f6rsenblatt28. April 2015 Bibliophilie. Maximilian-Gesellschaft: Vorstand best\u00e4tigt. Die Mitgliederversammlung der Maximilian-Gesellschaft e. V. f\u00fcr alte und neue Buchkunst hat am 17. April in Gotha den...",
+            "date": "2015-04-28",
+            "categories": "bibliophilie",
+            "tags": "bibliophilie",
+            "recuweb_url": "http://fr.recuweb.com/bibliophilie/boersenblatt.net/2015/04/maximilian-gesellschaft-vorstand-best%C3%A4tigt-b%C3%B6rsenblatt",
+            "resource_url": "http://news.google.fr/?hl=fr&q=bibliophilie&output=atom&nord=1",
+            "source_url": "http://boersenblatt.net/artikel-bibliophilie.958785.html"
+        },
         "politis.fr/2015/04/arts-de-la-parole-r%C3%A9enchanter-le-r%C3%A9el-politis": {
             "title": "Arts de la parole: R\u00e9enchanter le r\u00e9el - Politis...",
             "snippet": "PolitisArts de la parole: R\u00e9enchanter le r\u00e9elPolitisSes trois cr\u00e9ations ou causeries Trait\u00e9 de la boule de cristal (2014), la Visite curieuse et secr\u00e8te (2014) et Histoire spirituelle de la danse (2015) t\u00e9moignent en effet de sa bibliophilie...",
@@ -18,18 +28,8 @@
             "categories": "arts,bibliophilie",
             "tags": "histoire,bibliophilie",
             "recuweb_url": "http://fr.recuweb.com/bibliophilie/politis.fr/2015/04/arts-de-la-parole-r%C3%A9enchanter-le-r%C3%A9el-politis",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bibliophilie%2Bbibliophilie&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=bibliophilie&output=atom&nord=1",
             "source_url": "http://politis.fr/article30910,30910.html"
-        },
-        "rts.ch/2015/04/henry-louis-mermod-%C3%A9diteur-par-go%C3%BBt-et-loisir-5": {
-            "title": "Henry-Louis Mermod, \u00e9diteur par go\u00fbt et par loisir (5/5)...",
-            "snippet": "injustement oubli\u00e9s par le centralisme parisien. Ses caprices \u00e9taient en fait des anticipations fructueuses au service de la bibliophilie.",
-            "date": "2015-04-16",
-            "categories": "bibliophilie",
-            "tags": "bibliophilie",
-            "recuweb_url": "http://fr.recuweb.com/bibliophilie/rts.ch/2015/04/henry-louis-mermod-%C3%A9diteur-par-go%C3%BBt-et-loisir-5",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bibliophilie&format=RSS&cc=fr",
-            "source_url": "http://rts.ch/espace-2/programmes/helvetica/6634931-henry-louis-mermod-editeur-par-gout-et-par-loisir-5-5-17-04-2015.html"
         },
         "lejdc.fr/2015/03/la-collection-knapp-aux-ench%C3%A8res-le-journal-du-centre": {
             "title": "La collection Knapp aux ench\u00e8res - Le Journal du Centre...",
@@ -40,16 +40,6 @@
             "recuweb_url": "http://fr.recuweb.com/bibliophilie/lejdc.fr/2015/03/la-collection-knapp-aux-ench%C3%A8res-le-journal-du-centre",
             "resource_url": "http://news.google.fr/?hl=fr&q=bibliophilie&output=atom&nord=1",
             "source_url": "http://lejdc.fr/nievre/mag/patrimoine/2015/03/04/la-collection-knapp-aux-encheres_11371936.html"
-        },
-        "fabula.org/2015/03/circulations-publicitaires-de-la-litt%C3%A9rature-interf%C3%A9rences-litt%C3%A9raires-fabula": {
-            "title": "Circulations publicitaires de la litt\u00e9rature (Interf\u00e9rences litt\u00e9raires... - Fabula...",
-            "snippet": "Circulations publicitaires de la litt\u00e9rature (Interf\u00e9rences litt\u00e9raires...FabulaLa bibliophilie publicitaire conserve de nombreuses plaquettes, somptueuses, sign\u00e9es Colette (pour Lanvin), Cocteau (pour les montres Universal), Val\u00e9ry (pour...",
-            "date": "2015-03-29",
-            "categories": "litterature,bibliophilie",
-            "tags": "bibliophilie",
-            "recuweb_url": "http://fr.recuweb.com/bibliophilie/fabula.org/2015/03/circulations-publicitaires-de-la-litt%C3%A9rature-interf%C3%A9rences-litt%C3%A9raires-fabula",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bibliophilie&output=atom&nord=1",
-            "source_url": "http://fabula.org/actualites/circulations-publicitaires-de-la-litterature-interferences-litteraires-literaire-interferenties-n_67832.php"
         }
     }
 }
