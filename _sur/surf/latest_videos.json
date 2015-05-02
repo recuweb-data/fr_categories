@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "surf",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/surf/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/surf/surf/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/canap-surfing-hossegor": {
+            "title": "Canap'Surfing - Hossegor...",
+            "snippet": "Canap'Surfing - Hossegor Canap'Surfing - Hossegor L'\u00e9quipe d'AquaBoard-L a d\u00e9cid\u00e9 de ne pas se lever de son canap\u00e9 pour cette session de surf! Avec Julian Reichman, Fred David, Guillaume Mangiarotti, Gildas Love,... From: G9Snow Views: 24049 56...",
+            "date": "2015-04-25",
+            "author_name": "G9Snow",
+            "categories": "surf",
+            "tags": "mangiarotti,fred,fred_david,david,session,surf,surfing",
+            "recuweb_url": "http://fr.recuweb.com/surf/youtube.com/2015/04/canap-surfing-hossegor",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=xdbuOyBDmok&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/xdbuOyBDmok/0.jpg"
+        },
         "dailymotion.com/2015/04/horse-surfing-gouner-team-avril-2015": {
             "title": "Horse Surfing Gouner Team Avril 2015...",
             "snippet": "Teaser d'une saison qui red\u00e9marre!!Author: elzazouTags: Horse surfing wake wakeboard surf horse Posted: 23 April 2015Rating:: 0...",
             "date": "2015-04-23",
             "author_name": "elzazou",
             "categories": "surf",
-            "tags": "surfing,wake,surf",
+            "tags": "surfing,wake,surf,saison",
             "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/horse-surfing-gouner-team-avril-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2np3nr_horse-surfing-gouner-team-avril-2015_sport",
@@ -29,35 +41,11 @@
             "date": "2015-04-18",
             "author_name": "opale-surfing",
             "categories": "bodyboard,surf",
-            "tags": "vagues,mer,surf",
+            "tags": "bodyboard,surf",
             "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/surf-nord-hiver-14-15",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n2z6d_surf-nord-hiver-14-15_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n2z6d_surf-nord-hiver-14-15_sport"
-        },
-        "dailymotion.com/2015/04/faire-du-surf-sur-une-planche-en-%C3%A9tant-assis-chaise": {
-            "title": "Faire du surf sur une planche en \u00e9tant assis sur une chaise...",
-            "snippet": ": mineyannTags: surf planche assis chaise vague eau insolite dr\u00f4le fun wtf Posted: 15 April 2015Rating:: 0...",
-            "date": "2015-04-15",
-            "author_name": "mineyann",
-            "categories": "surf",
-            "tags": "surf,vague",
-            "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/faire-du-surf-sur-une-planche-en-%C3%A9tant-assis-chaise",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2mqghl_faire-du-surf-sur-une-planche-en-etant-assis-sur-une-chaise_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2mqghl_faire-du-surf-sur-une-planche-en-etant-assis-sur-une-chaise_sport"
-        },
-        "dailymotion.com/2015/04/un-slowmotion-de-surf-juste-exceptionnellement-magnifique": {
-            "title": "Un Slowmotion de Surf juste exceptionnellement magnifique!",
-            "snippet": "Je reste sans mots devant ce spectacle!Author: PauseCafeinTags: surf sport de glisse mer Posted: 09 April 2015Rating:: 0...",
-            "date": "2015-04-09",
-            "author_name": "PauseCafein",
-            "categories": "surf,sport,sport-de-glisse",
-            "tags": "surf,sport,mer",
-            "recuweb_url": "http://fr.recuweb.com/sport-de-glisse/dailymotion.com/2015/04/un-slowmotion-de-surf-juste-exceptionnellement-magnifique",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2m5vje_un-slowmotion-de-surf-juste-exceptionnellement-magnifique_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2m5vje_un-slowmotion-de-surf-juste-exceptionnellement-magnifique_sport"
         },
         "dailymotion.com/2015/04/du-surf-sur-une-rivi%C3%A8re-en-crue-dans-les-pyr%C3%A9n%C3%A9es-atlantiques": {
             "title": "Du surf sur une rivi\u00e8re en crue dans les Pyr\u00e9n\u00e9es-Atlantiques...",
@@ -65,7 +53,7 @@
             "date": "2015-04-07",
             "author_name": "adrenaline",
             "categories": "surf",
-            "tags": "surfer,surf",
+            "tags": "surfer,fred,fred_david,david,surf,mangiarotti",
             "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/du-surf-sur-une-rivi%C3%A8re-en-crue-dans-les-pyr%C3%A9n%C3%A9es-atlantiques",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lz7rv_du-surf-sur-une-riviere-en-crue-dans-les-pyrenees-atlantiques_sport",
@@ -89,23 +77,23 @@
             "date": "2015-04-07",
             "author_name": "MisterBuzz",
             "categories": "surf,sport",
-            "tags": "surf,surfer,surfeur,sport,vague,ghost,ghost_surfing,surfing",
+            "tags": "surf,surfer,ghost,ghost_surfing,surfing",
             "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/04/un-gars-surf-derri%C3%A8re-bateau-sans-chauffeur-ghost-surfing",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf+surf/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lyk2c_un-gars-surf-derriere-un-bateau-sans-chauffeur-ghost-surfing_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lyk2c_un-gars-surf-derriere-un-bateau-sans-chauffeur-ghost-surfing_sport"
         },
-        "dailymotion.com/2015/04/surf-dans-une-piscine": {
-            "title": "Surf dans une piscine...",
-            "snippet": "Surf dans une piscine avec des vagues artificiels rouleau rouleaux mer vague surfeur: ArchivesDuNetTags: Piscine surf performance rouleau surf rouleau Posted: 06 April 2015Rating:: 0...",
-            "date": "2015-04-05",
-            "author_name": "ArchivesDuNet",
+        "youtube.com/2015/01/pole-france-surf-guadeloupe-janvier-2015": {
+            "title": "Pole France Surf Guadeloupe Janvier 2015...",
+            "snippet": "Pole France Surf Guadeloupe Janvier 2015 Entra\u00eenement du P\u00f4le France Surf en Guadeloupe pendant la p\u00e9riode hivernale. Beaucoup d'entra\u00eenements, de vid\u00e9o et de s\u00e9ries \u00e0 l'eau pour \u00eatre fin pr\u00eat au d\u00e9but de saison qui arrive... From: JR...",
+            "date": "2015-01-14",
+            "author_name": "JR Vignes",
             "categories": "surf",
-            "tags": "surf,vagues,vague,mer,surfeur",
-            "recuweb_url": "http://fr.recuweb.com/surf/dailymotion.com/2015/04/surf-dans-une-piscine",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ltjoe_surf-dans-une-piscine_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ltjoe_surf-dans-une-piscine_sport"
+            "tags": "saison,surf",
+            "recuweb_url": "http://fr.recuweb.com/surf/youtube.com/2015/01/pole-france-surf-guadeloupe-janvier-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Zikw_hJjtEk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Zikw_hJjtEk/0.jpg"
         },
         "youtube.com/2014/12/pok%C3%A9mon-rubis-om%C3%A9ga-%C3%A9pisode-14-avoir-la-cs-surf-norman-double": {
             "title": "POK\u00c9MON RUBIS OM\u00c9GA \u00c9pisode 14 Avoir la CS SURF! NORMAN! Double Badge! Let's Play Fran\u00e7ais...",
@@ -130,6 +118,18 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=surf%2Bsurf&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Jn8lHZPN5iw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Jn8lHZPN5iw/0.jpg"
+        },
+        "dailymotion.com/2014/11/ile-d-yeu-surf-et-bodyboard-sur-spots-secrets-euskadi-tv": {
+            "title": "Ile d'Yeu - Surf et Bodyboard sur spots secrets - Euskadi Surf TV...",
+            "snippet": "Reportage HD - Euskadi Surf TV - 20 Novembre 2014 - Session de Surf et de Bodyboard sur un spot secret en Vend\u00e9e sur l'Ile d'Yeu au large de l'Ile de Noirmoutier. L'Ile d'Yeu ile tres touristique regorge de spots secrets pour la pratique de la...",
+            "date": "2014-11-23",
+            "author_name": "Euskadi-Surf-TV",
+            "categories": "surf,bodyboard",
+            "tags": "surf,bodyboard,session",
+            "recuweb_url": "http://fr.recuweb.com/bodyboard/dailymotion.com/2014/11/ile-d-yeu-surf-et-bodyboard-sur-spots-secrets-euskadi-tv",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/surf+surf/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2avn2a_ile-d-yeu-surf-et-bodyboard-sur-spots-secrets-euskadi-surf-tv_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2avn2a_ile-d-yeu-surf-et-bodyboard-sur-spots-secrets-euskadi-surf-tv_sport"
         }
     }
 }
