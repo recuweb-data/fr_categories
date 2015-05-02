@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sport-de-raquette",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sport-de-raquette/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sport-de-raquette/sport-de-raquette/blogs.json"
     },
     "items": {
+        "lci.tf1.fr/2015/04/on-a-test%C3%A9-les-nouveaux-sports-en-vogue-tf1": {
+            "title": "On a test\u00e9 les nouveaux sports en vogue - TF1...",
+            "snippet": "TF1On a test\u00e9 les nouveaux sports en vogueTF1(RAQUETTE) Speed badminton. Pour ceux qui s'ennuyaient en pratiquant le badminton, voici une variante... sans filet! Il est aussi appel\u00e9 Speedminton. Tr\u00e8s pratiqu\u00e9 en Allemagne, cette pratique,...",
+            "date": "2015-04-28",
+            "categories": "sport",
+            "tags": "badminton,sports,raquette",
+            "recuweb_url": "http://fr.recuweb.com/sport/lci.tf1.fr/2015/04/on-a-test%C3%A9-les-nouveaux-sports-en-vogue-tf1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bde%2Braquette&output=atom&nord=1",
+            "source_url": "http://lci.tf1.fr/france/societe/on-a-teste-les-nouveaux-sports-en-vogue-8601190.html"
+        },
         "nice.maville.com/2015/04/tendances-quels-sports-pour-le-retour-des-beaux-jours": {
             "title": "Tendances: Quels sports pour le retour des beaux jours?",
             "snippet": "Une participation (1-2) est parfois demand\u00e9e. Un sport de raquette ultra-accessible! Les r\u00e8gles sont simples, pas besoin de notions techniques pour d\u00e9buter, et on peut installer un terrain pour trois fois rien dans le jardin, sur la plage...",
@@ -31,25 +41,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bde%2Braquette&format=RSS&cc=fr",
             "source_url": "http://jactiv.ouest-france.fr/vie-pratique/forme-sante/quels-sports-pratiquer-pour-retour-beaux-jours-46403"
         },
-        "tendanceouestrouen.com/2015/04/le-squash-un-cousin-tr%C3%A8s-physique-du-tennis": {
-            "title": "Le squash, un cousin tr\u00e8s physique du tennis...",
-            "snippet": "Cousin du tennis, le squash est un sport de raquette plut\u00f4t intensif mais tr\u00e8s ludique. Le squash se pratique sur un terrain de 60m 2 entour\u00e9 de murs. Le but principal est de renvoyer la balle et de toucher le mur frontal en s'aidant, ou non,...",
-            "date": "2015-04-17",
-            "categories": "squash,tennis,sport",
-            "tags": "squash,terrain,tennis,sport,raquette",
-            "recuweb_url": "http://fr.recuweb.com/sport/tendanceouestrouen.com/2015/04/le-squash-un-cousin-tr%C3%A8s-physique-du-tennis",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bde%2Braquette&format=RSS&cc=fr",
-            "source_url": "http://tendanceouestrouen.com/actualite-101540-le-squash-cousin-tres-physique-du-tennis.html"
-        },
-        "fr.euronews.com/2015/04/plus-rapide-que-le-gu%C3%A9pard": {
-            "title": "Plus rapide que le gu\u00e9pard!",
-            "snippet": "Le badminton est le sport de raquette le plus rapide qui soit et le smash de coup droit son arme offensive la plus efficace. La vitesse de d\u00e9placement de la raquette au moment de la frappe atteint les 25 m\u00e8tres par seconde. Cest l\u00e9quivalent de...",
+        "fr.euronews.com/2015/04/sports-united-les-de-raquette-en-vedette-euronews": {
+            "title": "Sports United: les sports de raquette en vedette - euronews...",
+            "snippet": "euronewsSports United: les sports de raquette en vedetteeuronewsJoe Allen: Bonjour et bienvenue dans Sports United, notre \u00e9mission hebdomadaire qui vous apporte un autre regard sur tous les sports. Au programme cette semaine: du squash avec le...",
             "date": "2015-04-16",
-            "categories": "sport",
-            "tags": "soit,badminton,sport,raquette",
-            "recuweb_url": "http://fr.recuweb.com/sport/fr.euronews.com/2015/04/plus-rapide-que-le-gu%C3%A9pard",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sport%2Bde%2Braquette&format=RSS&cc=fr",
-            "source_url": "http://fr.euronews.com/2015/04/16/plus-rapide-que-le-guepard/"
+            "categories": "squash,sport",
+            "tags": "squash,sports,raquette",
+            "recuweb_url": "http://fr.recuweb.com/sport/fr.euronews.com/2015/04/sports-united-les-de-raquette-en-vedette-euronews",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sport%2Bde%2Braquette&output=atom&nord=1",
+            "source_url": "http://fr.euronews.com/2015/04/16/sports-united-les-sports-de-raquette-en-vedette/"
         },
         "ladepeche.fr/2015/04/sport-scolaire-raquette-et-raquettes": {
             "title": "Sport scolaire: raquette et raquettes -...",
