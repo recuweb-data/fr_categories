@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "marathon",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/marathon/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/marathon/marathon/blogs.json"
     },
     "items": {
+        "fr.timesofisrael.com/2015/04/une-premi%C3%A8re-un-isra%C3%A9lien-a-couru-le-semi-marathon-de-cor%C3%A9e": {
+            "title": "Une premi\u00e8re: un Isra\u00e9lien a couru le semi-marathon de Cor\u00e9e du... - The Times of Isra\u00ebl...",
+            "snippet": "The Times of Isra\u00eblUne premi\u00e8re: un Isra\u00e9lien a couru le semi-marathon de Cor\u00e9e du...The Times of Isra\u00eblPour la premi\u00e8re fois un Isra\u00e9lien a particip\u00e9 il y a deux semaines au semi-marathon de Cor\u00e9e du Nord avec 600 autres ressortissants...",
+            "date": "2015-04-29",
+            "categories": "marathon",
+            "tags": "deux,semi,marathon",
+            "recuweb_url": "http://fr.recuweb.com/marathon/fr.timesofisrael.com/2015/04/une-premi%C3%A8re-un-isra%C3%A9lien-a-couru-le-semi-marathon-de-cor%C3%A9e",
+            "resource_url": "http://news.google.fr/?hl=fr&q=marathon%2Bmarathon&output=atom&nord=1",
+            "source_url": "http://fr.timesofisrael.com/une-premiere-un-israelien-a-couru-le-semi-marathon-de-coree-du-nord/"
+        },
         "essonneinfo.fr/2015/04/marathon-de-s%C3%A9nart-yohann-diniz-vient-se-frotter-aux-coureurs": {
             "title": "Marathon de S\u00e9nart: Yohann Diniz vient se frotter aux coureurs!",
             "snippet": "Vendredi 1 er mai, plusieurs milliers de coureurs s\u00e9lanceront sur le marathon de S\u00e9nart et son 10 km. Outre une homologation internationale du parcours par des experts, Yohann Diniz viendra apporter son aide aux participants du 10 km. Comme...",
             "date": "2015-04-28",
             "categories": "marathon",
-            "tags": "participants,parcours,plusieurs,coureurs,marathon",
+            "tags": "participants,parcours,coureurs,marathon",
             "recuweb_url": "http://fr.recuweb.com/marathon/essonneinfo.fr/2015/04/marathon-de-s%C3%A9nart-yohann-diniz-vient-se-frotter-aux-coureurs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=marathon&format=RSS&cc=fr",
             "source_url": "http://essonneinfo.fr/91-essonne-info/78375/marathon-de-senart-yohann-diniz-vient-se-frotter-aux-coureurs/"
@@ -26,7 +36,7 @@
             "snippet": "Cette pourfendeuse du dopage avait d\u00fb rendre son record au pr\u00e9texte quil avait \u00e9t\u00e9 \u00e9tabli dans un peloton mixte hommes-femmes, avant que la F\u00e9d\u00e9ration ne lui rende justice et ne le lui restitue. Ce nest ni une m\u00e9daille, ni un record qui...",
             "date": "2015-04-27",
             "categories": "marathon",
-            "tags": "record,d\u00fb,marathon,femmes",
+            "tags": "record,marathon,femmes",
             "recuweb_url": "http://fr.recuweb.com/marathon/la-croix.com/2015/04/marathon-woman-ne-tiendra-plus-jamais-la-distance",
             "resource_url": "http://www.bing.com/news/search?first=1&q=marathon&format=RSS&cc=fr",
             "source_url": "http://la-croix.com/Actualite/Sport/Marathon-woman-ne-tiendra-plus-jamais-la-distance-2015-04-27-1306735"
@@ -36,7 +46,7 @@
             "snippet": "SPORTS 1 809 coureurs au semi-marathon de Thionville: record...Le R\u00e9publicain LorrainEn ce dimanche 26 avril au matin, c'\u00e9tait m\u00eame tr\u00e8s certainement la ville la plus sportive de Moselle, avec 1 149 athl\u00e8tes engag\u00e9s sur le semi-marathon et 660...",
             "date": "2015-04-27",
             "categories": "sport,marathon",
-            "tags": "semi,avril,dimanche,coureurs,sports,marathon,record",
+            "tags": "semi,avril,coureurs,sports,marathon,record",
             "recuweb_url": "http://fr.recuweb.com/marathon/republicain-lorrain.fr/2015/04/sports-1-809-coureurs-au-semi-marathon-de-thionville-record",
             "resource_url": "http://news.google.fr/?hl=fr&q=marathon&output=atom&nord=1",
             "source_url": "http://republicain-lorrain.fr/moselle/2015/04/27/1809-coureurs-record-pulverise"
@@ -58,58 +68,8 @@
             "categories": "marathon",
             "tags": "parcours,marathon",
             "recuweb_url": "http://fr.recuweb.com/marathon/france3-regions.francetvinfo.fr/2015/04/voici-le-parcours-probable-du-marathon-run-in-reims-2015-francetv",
-            "resource_url": "http://news.google.fr/?hl=fr&q=marathon%2Bmarathon&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=marathon&output=atom&nord=1",
             "source_url": "http://france3-regions.francetvinfo.fr/champagne-ardenne/2015/04/27/voici-le-parcours-probable-du-marathon-run-reins-713041.html"
-        },
-        "lequipe.fr/2015/04/marathon-de-londres-kipchoge-s-impose-devant-kipsang-et-kimetto": {
-            "title": "Marathon de Londres Kipchoge s'impose devant Kipsang et Kimetto, pour un tripl\u00e9 k\u00e9nyan...",
-            "snippet": "Le K\u00e9nyan Eliud Kipchoge (30 ans) a remport\u00e9 pour la premi\u00e8re fois de sa carri\u00e8re le marathon de Londres, dimanche en 2h04'42'', devant deux de ses compatriotes, annonc\u00e9s favoris: Wilson Kipsang (2h04'47''), vainqueur l'an dernier, et le...",
-            "date": "2015-04-26",
-            "categories": "marathon",
-            "tags": "vainqueur,deux,dimanche,remport\u00e9,carri\u00e8re,marathon",
-            "recuweb_url": "http://fr.recuweb.com/marathon/lequipe.fr/2015/04/marathon-de-londres-kipchoge-s-impose-devant-kipsang-et-kimetto",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=marathon&format=RSS&cc=fr",
-            "source_url": "http://lequipe.fr/Athletisme/Actualites/Kipchoge-s-impose-devant-kipsang-et-kimetto-pour-un-triple-kenyan/554109"
-        },
-        "fr.news.yahoo.com/2015/03/a-cause-dune-fracture-fran%C3%A7oise-hardy-annule-tous-ses-engagements": {
-            "title": "A cause dune fracture, Fran\u00e7oise Hardy annule tous ses engagements...",
-            "snippet": "Fran\u00e7oise Hardy a d\u00fb annuler le marathon promo de son nouveau livre, Avis non autoris\u00e9s. La chanteuse, g\u00e9e de 71 ans, sest fractur\u00e9 le bras.",
-            "date": "2015-03-20",
-            "categories": "marathon",
-            "tags": "d\u00fb,marathon,chanteuse",
-            "recuweb_url": "http://fr.recuweb.com/marathon/fr.news.yahoo.com/2015/03/a-cause-dune-fracture-fran%C3%A7oise-hardy-annule-tous-ses-engagements",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=marathon",
-            "source_url": "http://fr.news.yahoo.com/cause-d-fracture-fran\u00e7oise-hardy-annule-engagements-082900817.html"
-        },
-        "fr.news.yahoo.com/2015/03/ghosttown-madonna-souriante-et-touchante-en-live-au-jonathan-ross-show": {
-            "title": "\"Ghosttown\": Madonna souriante et touchante en live au \"Jonathan Ross Show\" (vid\u00e9o)...",
-            "snippet": "Madonna continue le marathon promotionnel qui encadre la sortie de son nouvel album \"Rebel Heart\". Apr\u00e8s la France ou l'Italie, la chanteuse s'est envol\u00e9e au Royaume-Uni afin de pr\u00e9senter ses chansons, dont \"Ghosttown\", son nouveau single.",
-            "date": "2015-03-16",
-            "categories": "marathon",
-            "tags": "chanteuse,marathon,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/marathon/fr.news.yahoo.com/2015/03/ghosttown-madonna-souriante-et-touchante-en-live-au-jonathan-ross-show",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=marathon",
-            "source_url": "http://fr.news.yahoo.com/ghosttown-madonna-souriante-touchante-live-au-jonathan-ross-172300997.html"
-        },
-        "fr.news.yahoo.com/2015/03/attentats-du-marathon-de-boston-les-preuves-accablantes-s-accumulent": {
-            "title": "Attentats du marathon de Boston: les preuves accablantes s'accumulent...",
-            "snippet": "Dressant le portrait d'un meurtrier de sang-froid pleinement impliqu\u00e9, l'accusation multiplie les preuves accablantes dans le proc\u00e8s des attentats du marathon de Boston, pour lequel l'accus\u00e9 Djokhar Tsarnaev risque la peine de mort.",
-            "date": "2015-03-12",
-            "categories": "mort,marathon",
-            "tags": "proc\u00e8s,proc\u00e8s-des-attentats,attentats,marathon,boston",
-            "recuweb_url": "http://fr.recuweb.com/marathon/fr.news.yahoo.com/2015/03/attentats-du-marathon-de-boston-les-preuves-accablantes-s-accumulent",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=marathon",
-            "source_url": "http://fr.news.yahoo.com/attentats-marathon-boston-preuves-accablantes-saccumulent-171855221.html"
-        },
-        "fr.news.yahoo.com/2015/03/video-attentats-de-boston-des-images-in%C3%A9dites-montr%C3%A9es-pendant-le-proc%C3%A8s": {
-            "title": "VIDEO. Attentats de Boston: des images in\u00e9dites montr\u00e9es pendant le proc\u00e8s...",
-            "snippet": "Le proc\u00e8s des attentats du marathon de Boston s'est ouvert mercredi, aux Etats-Unis. Plusieurs victimes amput\u00e9es ont t\u00e9moign\u00e9 et fait part de leurs souvenirs du 15 avril 2013. Des images in\u00e9dites...",
-            "date": "2015-03-05",
-            "categories": "marathon",
-            "tags": "proc\u00e8s,proc\u00e8s-des-attentats,attentats,boston,marathon,plusieurs,avril",
-            "recuweb_url": "http://fr.recuweb.com/marathon/fr.news.yahoo.com/2015/03/video-attentats-de-boston-des-images-in%C3%A9dites-montr%C3%A9es-pendant-le-proc%C3%A8s",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=marathon",
-            "source_url": "http://fr.news.yahoo.com/video-attentats-boston-images-in\u00e9dites-montr\u00e9es-pendant-proc\u00e8s-142200418.html"
         }
     }
 }
