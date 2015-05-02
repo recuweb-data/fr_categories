@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "wordpress",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/wordpress/",
@@ -11,35 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/wordpress/wordpress/blogs.json"
     },
     "items": {
-        "pix-geeks.com/2015/04/patchez-imm%C3%A9diatement-wordpress-en-pour-corriger-des-failles-de-vuln%C3%A9rabilit%C3%A9-xss": {
-            "title": "Patchez imm\u00e9diatement WordPress en pour corriger des failles de vuln\u00e9rabilit\u00e9 XSS...",
-            "snippet": "Mais do\u00f9 sort cette horreur? Ce soir en regardant mes stats Google Analytics sur Ta Maison (site lanc\u00e9 il y a une dizaine de jours) jai vu appara\u00eetre un truc affreux que je ne peux pas \u00e9crire en toutes lettres sans que Google ne p\u00e9nalise la...",
-            "date": "2015-04-27",
-            "categories": "google,wordpress",
-            "tags": "google,wordpress,site",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/pix-geeks.com/2015/04/patchez-imm%C3%A9diatement-wordpress-en-pour-corriger-des-failles-de-vuln%C3%A9rabilit%C3%A9-xss",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://pix-geeks.com/patch-wordpress-4-2-1-vulnerabilite-xss/"
-        },
-        "kulturegeek.fr/2015/04/wordpress-4-2-est-disponible-voici-les-nouveaut%C3%A9s": {
-            "title": "WordPress 4.2 est disponible: voici les nouveaut\u00e9s...",
-            "snippet": "Une nouvelle version de WordPress, estampill\u00e9e 4.2, est maintenant disponible au t\u00e9l\u00e9chargement. Pour ceux qui ne le savent pas, WordPress est une plateforme qui propose de cr\u00e9er un blog/site Internet assez facilement. De nombreux sites...",
-            "date": "2015-04-23",
-            "categories": "wordpress,internet",
-            "tags": "site,wordpress,cr\u00e9er,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/kulturegeek.fr/2015/04/wordpress-4-2-est-disponible-voici-les-nouveaut%C3%A9s",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
-            "source_url": "http://kulturegeek.fr/news-57271/wordpress-4-2-disponible-voici-nouveautes"
-        },
-        "fr.news.yahoo.com/2015/04/piratage-le-fbi-met-en-garde-contre-les-attaques-sous-wordpress": {
-            "title": "Piratage: Le FBI met en garde contre les attaques sous Wordpress...",
-            "snippet": "WEB - Le FBI alerte les internautes utilisant Wordpress des menaces d'un groupe de hackers nomm\u00e9 ISIS...",
-            "date": "2015-04-09",
+        "commentcamarche.net/2015/04/migrer-dev-prod-wordpress-r%C3%A9solu": {
+            "title": "Migrer Dev/prod wordpress R\u00e9solu...",
+            "snippet": "Comment faites vous exactement pour d\u00e9velopper en local avec WAmp par ex et migrer en prod facilement? J'ai vu le plugin all in one wp migration mais ne sais pas quel liens text a changer! J ai eu que des probl\u00e8mes a migrer manuellement.. Donc...",
+            "date": "2015-04-28",
             "categories": "wordpress",
-            "tags": "wordpress",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/fr.news.yahoo.com/2015/04/piratage-le-fbi-met-en-garde-contre-les-attaques-sous-wordpress",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=wordpress",
-            "source_url": "http://fr.news.yahoo.com/piratage-fbi-met-garde-contre-attaques-wordpress-125054591.html"
+            "tags": "wordpress,plugin",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/commentcamarche.net/2015/04/migrer-dev-prod-wordpress-r%C3%A9solu",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31894229-migrer-dev-prod-wordpress"
+        },
+        "webzeen.fr/2015/04/wordpress-une-faille-g%C3%AAnante-qui-touche-les-versions-plus-r%C3%A9centes": {
+            "title": "WordPress: Une faille g\u00eanante qui touche les versions les plus r\u00e9centes du CMS...",
+            "snippet": "Mathias 29 avril 2015 Informatique Aucun commentaire sur WordPress: Une faille g\u00eanante qui touche les versions les plus r\u00e9centes du CMS Si vous \u00eates \u00e9diteur de contenus ou cr\u00e9ateur de sites internet, alors vous connaissez sans doute WordPress,...",
+            "date": "2015-04-28",
+            "categories": "internet,wordpress",
+            "tags": "sites,internet,aire,faille,versions,r\u00e9centes,wordpress,cms",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/webzeen.fr/2015/04/wordpress-une-faille-g%C3%AAnante-qui-touche-les-versions-plus-r%C3%A9centes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://webzeen.fr/high-tech/informatique/wordpress-une-faille-genante-qui-touche-les-versions-les-plus-recentes-du-cms/15697"
+        },
+        "zdnet.fr/2015/04/wordpress-une-faille-critique-affecte-plusieurs-versions-r%C3%A9centes": {
+            "title": "Wordpress: une faille critique affecte plusieurs versions r\u00e9centes...",
+            "snippet": "Une faille sur un plugin Wordpress, cela na rien d\u00e9tonnant et les chercheurs d\u00e9couvrent r\u00e9guli\u00e8rement des vuln\u00e9rabilit\u00e9s affectant des plugins populaires pour le CMS. Mais une vuln\u00e9rabilit\u00e9 critique affectant directement le tr\u00e8s...",
+            "date": "2015-04-28",
+            "categories": "wordpress",
+            "tags": "plugins,plugin,faille,versions,r\u00e9centes,wordpress,cms",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/zdnet.fr/2015/04/wordpress-une-faille-critique-affecte-plusieurs-versions-r%C3%A9centes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=wordpress&format=RSS&cc=fr",
+            "source_url": "http://zdnet.fr/actualites/wordpress-une-faille-critique-affecte-plusieurs-versions-recentes-39818620.htm"
+        },
+        "monwindowsphone.com/2015/04/demande-de-t%C3%A9moignage-pour-wordpress-blog": {
+            "title": "Demande de t\u00e9moignage pour Wordpress - (Blog)...",
+            "snippet": "Demande de t\u00e9moignage pour (Blog)Pour commenc\u00e9 j'ai chang\u00e9 le pseudo \"Admin\" qui est par d\u00e9faut sur les sites Wordpress par un autre et j'ai fais en sorte de bannir imm\u00e9diatement toute personne qui cherche a ce connecter en tapant \"Admin\" comme...",
+            "date": "2015-04-18",
+            "categories": "wordpress",
+            "tags": "sites,wordpress",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/monwindowsphone.com/2015/04/demande-de-t%C3%A9moignage-pour-wordpress-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=wordpress&output=atom&nord=1",
+            "source_url": "http://monwindowsphone.com/demande-de-temoignage-pour-wordpress-t104981.html"
         }
     }
 }
