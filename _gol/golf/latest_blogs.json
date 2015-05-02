@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "golf",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/golf/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/golf/golf/blogs.json"
     },
     "items": {
-        "fubiz.net/2015/04/mexican-house-built-into-a-mountainside-in-golf-field-fubiz": {
-            "title": "Mexican House Built into a Mountainside in a Golf Field Fubiz...",
-            "snippet": "A Chihuahua, au Mexique, les architectes Productora ont construit une maison au coeur de la verdure d'une colline de terrain de golf. Cette r\u00e9sidence a.",
-            "date": "2015-04-25",
-            "author_name": "Donnia",
+        "dijon-sportnews.fr/2015/04/quetigny-champion-de-bourgogne-golf-par-%C3%A9quipes-dijon": {
+            "title": "Quetigny: Champion de Bourgogne de golf par \u00e9quipes dijon...",
+            "snippet": "Ce week-end se sont disput\u00e9s les Championnats de Bourgogne par \u00e9quipes au golf de Mcon la Salle. M\u00e9t\u00e9o cl\u00e9mente le samedi malgr\u00e9 un gros orage qui a interrompu le jeu durant une petite heure, et un dimanche plus...",
+            "date": "2015-04-28",
+            "author_name": "Nicolas G.",
             "categories": "golf",
-            "tags": "terrain,golf",
-            "recuweb_url": "http://fr.recuweb.com/golf/fubiz.net/2015/04/mexican-house-built-into-a-mountainside-in-golf-field-fubiz",
+            "tags": "petite,samedi,golf,gros",
+            "recuweb_url": "http://fr.recuweb.com/golf/dijon-sportnews.fr/2015/04/quetigny-champion-de-bourgogne-golf-par-%C3%A9quipes-dijon",
             "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://fubiz.net/2015/04/25/mexican-house-built-into-a-mountainside-in-a-golf-field/"
+            "source_url": "http://dijon-sportnews.fr/2015/04/28/quetigny-champion-de-bourgogne-de-golfpar-equipe/109615/"
+        },
+        "motorlegend.com/2015/04/le-concept-golf-r400-vers-la-production-actualit%C3%A9-automobile": {
+            "title": "Le concept Golf R400 vers la production - actualit\u00e9 automobile...",
+            "snippet": "Pr\u00e9sent\u00e9 l'an dernier par le constructeur de Wolfsburg sur le Salon de P\u00e9kin, le concept Golf R400 sera prochainement d\u00e9clin\u00e9 en une version de production dont la puissance devrait d\u00e9passer les 400 ch. Selon les...",
+            "date": "2015-04-24",
+            "author_name": "inconnu",
+            "categories": "golf",
+            "tags": "production,devrait,concept,golf,pr\u00e9sent\u00e9,dernier,salon,version",
+            "recuweb_url": "http://fr.recuweb.com/golf/motorlegend.com/2015/04/le-concept-golf-r400-vers-la-production-actualit%C3%A9-automobile",
+            "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://motorlegend.com/actualite-automobile/la-golf-r400-bientot-en-production/11885.html"
         },
         "turbo.fr/2015/04/volkswagen-golf-r400-production-confirm%C3%A9e-avec-420-ch": {
             "title": "Volkswagen Golf R400: production confirm\u00e9e avec 420 ch? -...",
@@ -28,10 +39,21 @@
             "date": "2015-04-24",
             "author_name": "inconnu",
             "categories": "golf",
-            "tags": "concept,responsable,production,volkswagen,volkswagen_golf,golf",
+            "tags": "devrait,pr\u00e9sent\u00e9,concept,production,volkswagen,volkswagen_golf,golf,salon",
             "recuweb_url": "http://fr.recuweb.com/golf/turbo.fr/2015/04/volkswagen-golf-r400-production-confirm%C3%A9e-avec-420-ch",
             "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://turbo.fr/actualite-automobile/764490-volkswagen-golf-r400-production-confirmee/"
+        },
+        "golf-zone.com/2015/04/une-partie-de-golf-avec-romain-wattel-aux-ench%C3%A8res-zone": {
+            "title": "Une partie de golf avec Romain Wattel aux ench\u00e8res! - Golf Zone...",
+            "snippet": "Apr\u00e8s un premier \u00e9v\u00e9nement permettant au public de rencontrer la chanteuse Imany lors d'un concert parisien (plus d'informations sur l'\u00e9v\u00e9nement ici), ce mois-ci l'association LUCKYDREAM propose aux amateurs de golf...",
+            "date": "2015-04-23",
+            "author_name": "carolinejdd",
+            "categories": "golf",
+            "tags": "informations,public,golf,golf_zone,zone,apr\u00e8s,premier,association",
+            "recuweb_url": "http://fr.recuweb.com/golf/golf-zone.com/2015/04/une-partie-de-golf-avec-romain-wattel-aux-ench%C3%A8res-zone",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://golf-zone.com/blog/2015/04/23/une-partie-de-golf-avec-romain-wattel-aux-encheres/"
         },
         "journaldemontreal.com/2015/04/poissons-morts-pour-un-golf-le-journal-de-montr%C3%A9al": {
             "title": "Poissons morts pour un golf Le Journal de Montr\u00e9al...",
@@ -39,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "mort,golf",
-            "tags": "avons,golf,journal,jean",
+            "tags": "avons,propri\u00e9taire,golf,journal,jean",
             "recuweb_url": "http://fr.recuweb.com/golf/journaldemontreal.com/2015/04/poissons-morts-pour-un-golf-le-journal-de-montr%C3%A9al",
             "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldemontreal.com/2015/04/17/des-centaines-de-poissons-morts"
@@ -61,7 +83,7 @@
             "date": "2015-04-09",
             "author_name": "carolinejdd",
             "categories": "tradition,magie,golf,plaisir",
-            "tags": "respect,concept,golf",
+            "tags": "respect,concept,golf,golf_zone,zone",
             "recuweb_url": "http://fr.recuweb.com/plaisir/golf-zone.com/2015/04/honma-l-incomparable-plaisir-du-golf-zone",
             "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://golf-zone.com/blog/2015/04/09/honma-lincomparable-plaisir-du-golf-2/"
@@ -76,17 +98,6 @@
             "recuweb_url": "http://fr.recuweb.com/golf/parismatch.com/2015/03/en-floride-un-alligator-g%C3%A9ant-perturbe-tournoi-de-golf",
             "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/Actu/Insolite/Un-alligator-geant-perturbe-un-tournoi-de-golf-725188"
-        },
-        "automobile-magazine.fr/2013/01/essai-volkswagen-golf-1-6-tdi-105-trendline-l-automobile": {
-            "title": "Essai Volkswagen Golf 1.6 TDI 105 Trendline - L'Automobile...",
-            "snippet": "Essais: Volkswagen Golf 1.6 TDI 105 Trendline - Volkswagen Golf 1.6 TDI 105 Confortline - Avec ce diesel 105 ch, la Golf 7 n'offre pas toutes les qualit\u00e9s de confort et d'insonorisation qui lui permettraient de demeurer une...",
-            "date": "2013-01-15",
-            "author_name": "Christophe Congrega avec Ivan Magot",
-            "categories": "golf",
-            "tags": "lui,offre,volkswagen,volkswagen_golf,golf,essais,essai_volkswagen,essai_volkswagen_golf",
-            "recuweb_url": "http://fr.recuweb.com/golf/automobile-magazine.fr/2013/01/essai-volkswagen-golf-1-6-tdi-105-trendline-l-automobile",
-            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://automobile-magazine.fr/essais/volkswagen/volkswagen_golf_1_6_tdi_105_trendline"
         }
     }
 }
