@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "astrologie",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/astrologie/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/astrologie/astrologie/blogs.json"
     },
     "items": {
-        "radiovision2000haiti.net/2015/04/astrologie-du-jour-radio-vision-2000": {
-            "title": "Astrologie du jour - Radio Vision 2000...",
-            "snippet": "Les secteurs d'argent de votre Ciel ne subissent en ce moment l'influence ni de plan\u00e8tes b\u00e9n\u00e9fiques ni d'astres n\u00e9gatifs, ce qui vous promet de la stabilit\u00e9. Cela dit, avec Jupiter en cet aspect, vous pourrez peut-\u00eatre am\u00e9liorer...",
-            "date": "2015-04-15",
-            "author_name": "Daniel Dar\u00e9us",
-            "categories": "radio,astrologie",
-            "tags": "astres,moment,astrologie,ciel,plan\u00e8tes,dit",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/radiovision2000haiti.net/2015/04/astrologie-du-jour-radio-vision-2000",
+        "elisheanaufeminin.terrenouvelle.ca/2015/04/astrologie-horoscope-des-%C3%A9nergies-du-20-au-26-avril-elishean": {
+            "title": "Astrologie Horoscope des \u00e9nergies du 20 au 26 avril ELISHEAN...",
+            "snippet": "M\u00e9t\u00e9o-Astro. Astrologie Horoscope des \u00e9nergies du 20 au 26 avril. 22 avril 2015... du 30 mars au 5 avril Pleine Lune Relation de couple et effet miroir En finir avec l'hypothyro\u00efdie! Tags: astrologie Nouvelle Lune...",
+            "date": "2015-04-22",
+            "author_name": "milena",
+            "categories": "astrologie",
+            "tags": "lune,pleine,pleine_lune,mars,astrologie,horoscope,\u00e9nergies,avril",
+            "recuweb_url": "http://fr.recuweb.com/astrologie/elisheanaufeminin.terrenouvelle.ca/2015/04/astrologie-horoscope-des-%C3%A9nergies-du-20-au-26-avril-elishean",
             "resource_url": "http://www.google.com/search?q=astrologie%2Bastrologie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://radiovision2000haiti.net/public/astrologie-du-jour-309/"
+            "source_url": "http://elisheanaufeminin.terrenouvelle.ca/astrologie-horoscope-des-energies-du-20-au-26-avril/"
+        },
+        "revue3emillenaire.com/2015/04/astrologie-science-chiens-de-fa%C3%AFence-par-solange-mailly-nesle": {
+            "title": "Astrologie/science: chiens de fa\u00efence par Solange De Mailly-Nesle...",
+            "snippet": "(Revue Itin\u00e9rance. No 2. Novembre 1986). Dans l'\u00e9tat actuel de nos connaissances, vouloir prouver l'astrologie par les m\u00e9thodes scientifiques en vigueur me semble aussi incongru que de vouloir prouver la science par...",
+            "date": "2015-04-21",
+            "author_name": "3e mill\u00e9naire",
+            "categories": "science,connaissance,astrologie",
+            "tags": "scientifiques,revue,astrologie",
+            "recuweb_url": "http://fr.recuweb.com/astrologie/revue3emillenaire.com/2015/04/astrologie-science-chiens-de-fa%C3%AFence-par-solange-mailly-nesle",
+            "resource_url": "http://www.google.com/search?q=astrologie%2Bastrologie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://revue3emillenaire.com/blog/astrologiescience-chiens-de-faience-par-solange-de-mailly-nesle/"
         },
         "atlantico.fr/2015/03/astrologie-un-signe-a-%C3%A9t%C3%A9-oubli%C3%A9-dans-le-calendrier-du-zodiaque": {
             "title": "Astrologie: un signe a \u00e9t\u00e9 oubli\u00e9 dans le calendrier du Zodiaque...",
@@ -28,32 +39,21 @@
             "date": "2015-03-27",
             "author_name": "Thomas Leroy",
             "categories": "astrologie,zodiaque",
-            "tags": "signe,moment,astrologique,astrologie",
+            "tags": "signe,moment,naissance,astrologique,astrologie",
             "recuweb_url": "http://fr.recuweb.com/zodiaque/atlantico.fr/2015/03/astrologie-un-signe-a-%C3%A9t%C3%A9-oubli%C3%A9-dans-le-calendrier-du-zodiaque",
             "resource_url": "http://www.google.com/search?q=astrologie%2Bastrologie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://atlantico.fr/atlantico-light/astrologie-signe-ete-oublie-dans-calendrier-zodiaque-2060577.html"
         },
         "public.fr/2015/02/astrologie-th%C3%A8me-astral-de-violet-lively-public": {
-            "title": "Astrologie: th\u00e8me astral de Violet Lively! - Public...",
-            "snippet": "Tout sur le th\u00e8me astral de Violet Lively, la fille de Blake Lively et Ryan Reynolds, par l'astrologue Patricia Laserre.",
+            "title": "Astrologie: Th\u00e8me Astral De Violet Lively! - Public...",
+            "snippet": "Tout sur le th\u00e8me astral de Violet Lively, la fille de Blake Lively et Ryan Reynolds, par l'astrologue Patricia Laserre. Capricorne. Les parents de Violet sont rest\u00e9s tr\u00e8s discrets sur les circonstances de la naissance de leur...",
             "date": "2015-02-03",
             "author_name": "fringuales@gmail.com",
             "categories": "astrologie",
-            "tags": "astrologie,astrologue",
+            "tags": "naissance,astrologie,astrologue",
             "recuweb_url": "http://fr.recuweb.com/astrologie/public.fr/2015/02/astrologie-th%C3%A8me-astral-de-violet-lively-public",
             "resource_url": "http://www.google.com/search?q=astrologie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://public.fr/News/Astrologie-theme-astral-de-Violet-Lively-672242"
-        },
-        "puretrend.com/2014/12/sexe-et-astrologie-qui-aime": {
-            "title": "Sexe et astrologie: qui aime quoi? -...",
-            "snippet": "L'astrologie, on y croit ou on n'y croit pas du tout, pareil pour le sexe. Nous on y croit. Et sachez que votre signe astrologique en dit long sur vos pr\u00e9f\u00e9rences sexuelles. Alors, plut\u00f4t passionnel ou plut\u00f4t doux? La r\u00e9ponse est...",
-            "date": "2014-12-20",
-            "author_name": "inconnu",
-            "categories": "astrologie",
-            "tags": "signe,astrologique,dit,astrologie",
-            "recuweb_url": "http://fr.recuweb.com/astrologie/puretrend.com/2014/12/sexe-et-astrologie-qui-aime",
-            "resource_url": "http://www.google.com/search?q=astrologie&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://puretrend.com/article/sexe-et-astrologie-qui-aime-quoi_a101443/1"
         },
         "lesautresplanetes.wordpress.com/2014/05/qu-est-ce-que-l-astrologie": {
             "title": "Qu'est ce que l'astrologie?",
