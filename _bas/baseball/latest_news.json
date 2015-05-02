@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baseball",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/baseball/",
@@ -11,9 +11,19 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
+        "2kmusic.com/2015/04/major-league-baseball-saison-2015": {
+            "title": "Major League Baseball Saison 2015...",
+            "snippet": "Les \u00e9quipes font chacunes 162 matchs. Chaque vainqueur de division arrive en demie finale de playoffs. Les deux meilleurs deuxi\u00e8mes s'affrontent en barrage. Les demies finales opposent: le meilleur premier face au barragiste vainqueur, et les deux...",
+            "date": "2015-04-29",
+            "categories": "baseball",
+            "tags": "deux,meilleurs,premier,face,\u00e9quipes,baseball,saison,matchs,chaque",
+            "recuweb_url": "http://fr.recuweb.com/baseball/2kmusic.com/2015/04/major-league-baseball-saison-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
+            "source_url": "http://2kmusic.com/fr/topic/major-league-baseball-saison-2015/180774"
+        },
         "intensite.net/2015/04/baseball-deux-nouvelles-d%C3%A9faites-pour-chartres-radio-intensit%C3%A9": {
             "title": "BASEBALL - Deux nouvelles d\u00e9faites pour Chartres - Radio Intensit\u00e9...",
-            "snippet": "BASEBALL - Deux nouvelles d\u00e9faites pour ChartresRadio Intensit\u00e9BASEBALL - Deux nouvelles d\u00e9faites pour Chartres. De Radio Intensit\u00e9 - lun, 27/04/2015 - 18:52. Chartres Actualit\u00e9 Baseball Sports 0Baseball. En base-ball, les French Cubs n'y...",
+            "snippet": "Radio Intensit\u00e9BASEBALL - Deux nouvelles d\u00e9faites pour ChartresRadio Intensit\u00e9BASEBALL - Deux nouvelles d\u00e9faites pour Chartres. De Radio Intensit\u00e9 - lun, 27/04/2015 - 18:52. Chartres Actualit\u00e9 Baseball Sports 0Baseball. En base-ball, les...",
             "date": "2015-04-27",
             "categories": "radio,baseball,sport",
             "tags": "baseball,deux,sports,base,ball",
@@ -26,19 +36,19 @@
             "snippet": "Freddy Lange plonge pour attraper un roulant et effectuer un retrait. Apr\u00e8s avoir pris la t\u00eate de la poule C face aux Huskies de Rouen, les Jimmers effectuaient ce dimanche leur premier d\u00e9placement de la saison pour le compte de la 3eme journ\u00e9e...",
             "date": "2015-04-25",
             "categories": "baseball",
-            "tags": "premier,saison,avoir,deux,baseball,saint,t\u00eate",
+            "tags": "premier,saison,compte,face,avoir,deux,baseball,saint,t\u00eate",
             "recuweb_url": "http://fr.recuweb.com/baseball/saint-lo.maville.com/2015/04/baseball-les-jimmer-s-de-saint-l%C3%B4-remportent-deux-nouvelles-victoires",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
             "source_url": "http://saint-lo.maville.com/actu/actudet_-baseball-les-jimmer-s-de-saint-lo-remportent-deux-nouvelles-victoires._47335-2758034_actu.Htm"
         },
-        "journaldemontreal.com/2015/04/plusieurs-suspensions-dans-le-baseball-majeur": {
-            "title": "Plusieurs suspensions dans le baseball majeur...",
-            "snippet": "NEW YORK Six joueurs ont \u00e9t\u00e9 suspendus pour leur implication dans la bagarre g\u00e9n\u00e9rale qui a \u00e9clat\u00e9 durant le match de jeudi dernier entre les White Sox de Chicago et les Royals de Kansas City. Le lanceur des Royals Yordano Ventura a \u00e9cop\u00e9 de...",
+        "journaldemontreal.com/2015/04/plusieurs-suspensions-dans-le-baseball-majeur-journal-de-montr%C3%A9al": {
+            "title": "Plusieurs suspensions dans le baseball majeur - Le Journal de Montr\u00e9al...",
+            "snippet": "Le Journal de Montr\u00e9alPlusieurs suspensions dans le baseball majeurLe Journal de Montr\u00e9al/sports/baseball. samedi 25 avril 2015 10h11. 7c. Recherche. 1. SCREEN_NAME... EMAIL... Mon compte; D\u00e9connexion. Vos notifications. BADGE_CONTENT. Se...",
             "date": "2015-04-25",
-            "categories": "baseball",
-            "tags": "bagarre,joueurs,baseball,majeur,\u00e9t\u00e9,match",
-            "recuweb_url": "http://fr.recuweb.com/baseball/journaldemontreal.com/2015/04/plusieurs-suspensions-dans-le-baseball-majeur",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
+            "categories": "baseball,sport",
+            "tags": "baseball,sports,compte",
+            "recuweb_url": "http://fr.recuweb.com/sport/journaldemontreal.com/2015/04/plusieurs-suspensions-dans-le-baseball-majeur-journal-de-montr%C3%A9al",
+            "resource_url": "http://news.google.fr/?hl=fr&q=baseball%2Bbaseball&output=atom&nord=1",
             "source_url": "http://journaldemontreal.com/2015/04/25/plusieurs-suspensions-dans-le-baseball-majeur"
         },
         "infodimanche.com/2015/04/baseball-senior-puribec-22-matchs-pour-chaque-%C3%A9quipe": {
@@ -46,20 +56,10 @@
             "snippet": "Rivi\u00e8re-du-Loup - Le calendrier de la 37e saison de la Ligue de baseball senior Puribec est officiel, comptant 77 matchs entre le 16 mai et le 31 juillet. Chacune des 7 \u00e9quipes disputera 22 matchs dans un calendrier non \u00e9quilibr\u00e9, chose rare...",
             "date": "2015-04-24",
             "categories": "baseball",
-            "tags": "saison,baseball",
+            "tags": "matchs,\u00e9quipes,saison,chaque,baseball",
             "recuweb_url": "http://fr.recuweb.com/baseball/infodimanche.com/2015/04/baseball-senior-puribec-22-matchs-pour-chaque-%C3%A9quipe",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
             "source_url": "http://infodimanche.com/actualites/sports/218456/baseball-senior-puribec-22-matchs-pour-chaque-equipe"
-        },
-        "journalexpress.ca/2015/04/l-int%C3%A9r%C3%AAt-des-filles-pour-le-baseball-en-hausse": {
-            "title": "L'int\u00e9r\u00eat des filles pour le baseball en hausse...",
-            "snippet": "Directeur de la division f\u00e9minine de Baseball Drummond, Patrick Matte remarque une \u00e9volution constante au cours des quatre derni\u00e8res ann\u00e9es dans les inscriptions du baseball f\u00e9minin. (Photo TC Media Alexandre Faucher) Publi\u00e9 le 25 avril 2015...",
-            "date": "2015-04-24",
-            "categories": "baseball",
-            "tags": "baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/journalexpress.ca/2015/04/l-int%C3%A9r%C3%AAt-des-filles-pour-le-baseball-en-hausse",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
-            "source_url": "http://journalexpress.ca/Sports/Baseball/2015-04-25/article-4125164/Linteret-des-filles-pour-le-baseball-en-hausse/1"
         },
         "journallenord.com/2015/04/terrain-de-baseball-une-autre-%C3%A9tape-franchie": {
             "title": "Terrain de baseball: une autre \u00e9tape de franchie...",
@@ -80,26 +80,6 @@
             "recuweb_url": "http://fr.recuweb.com/baseball/lequipe.fr/2015/04/baseball-mlb-bein-sports-s-offre-le-l-%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=baseball%2Bbaseball&output=atom&nord=1",
             "source_url": "http://lequipe.fr/Medias/Actualites/Bein-sports-s-offre-le-baseball/548074"
-        },
-        "fr-ca.actualites.yahoo.com/2015/03/tony-clark-aimerait-voir-rose-r%C3%A9int%C3%A9gr%C3%A9": {
-            "title": "Tony Clark aimerait voir Rose r\u00e9int\u00e9gr\u00e9...",
-            "snippet": "LAKELAND, \u00c9tats-Unis - Le dirigeant de l'Association des joueurs du baseball majeur, Tony Clark, aimerait bien voir Pete Rose \u00eatre r\u00e9int\u00e9gr\u00e9 par le baseball.",
-            "date": "2015-03-17",
-            "categories": "baseball",
-            "tags": "joueurs,baseball,majeur",
-            "recuweb_url": "http://fr.recuweb.com/baseball/fr-ca.actualites.yahoo.com/2015/03/tony-clark-aimerait-voir-rose-r%C3%A9int%C3%A9gr%C3%A9",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=baseball",
-            "source_url": "http://fr-ca.actualites.yahoo.com/tony-clark-aimerait-voir-rose-r\u00e9int\u00e9gr\u00e9-225523267--spt.html"
-        },
-        "fr-ca.actualites.yahoo.com/2015/03/baseball-course-automobile-et-croisi%C3%A8res-au-menu-de-coderre": {
-            "title": "Baseball, course automobile et croisi\u00e8res au menu de Coderre...",
-            "snippet": "Le maire de Montr\u00e9al, Denis Coderre, est en Floride pour discuter baseball, course automobile et croisi\u00e8res.",
-            "date": "2015-03-16",
-            "categories": "baseball",
-            "tags": "baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/fr-ca.actualites.yahoo.com/2015/03/baseball-course-automobile-et-croisi%C3%A8res-au-menu-de-coderre",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=baseball",
-            "source_url": "http://fr-ca.actualites.yahoo.com/baseball-course-automobile-et-croisi\u00e8res-au-menu-coderre-143024519.html"
         }
     }
 }
