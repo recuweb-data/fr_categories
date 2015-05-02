@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/magento/",
@@ -11,38 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magento/magento/blogs.json"
     },
     "items": {
-        "community.1and1.com/2015/04/critical-security-vulnerability-in-the-shop-software-magento-update": {
-            "title": "Critical security vulnerability in the shop software Magento Update...",
-            "snippet": "Research of the security company Checkpoint revealed a critical security issue in the shop software Magento. Hackers that exploit this vulnerability can execute malware and manipulate data or gather private information.",
-            "date": "2015-04-23",
-            "author_name": "S\u00f6ren S\u00f6rries",
-            "categories": "magento",
-            "tags": "exploit,this,vulnerability,software,magento,update,checkpoint",
-            "recuweb_url": "http://fr.recuweb.com/magento/community.1and1.com/2015/04/critical-security-vulnerability-in-the-shop-software-magento-update",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://community.1and1.com/magento-critical-security-vulnerability-supee-5344/"
-        },
-        "dnd.fr/2015/04/tout-savoir-sur-magento-2-migration-performances-design": {
-            "title": "Tout savoir sur Magento 2 (Migration, performances, design...",
-            "snippet": "Magento 2 change radicalement au niveau technique, fonctionnel, visuel et ambitionne de devenir ind\u00e9tr\u00f4nable sur l'Agilit\u00e9, l'Innovation et la Scabilit\u00e9.",
-            "date": "2015-04-22",
-            "author_name": "Julien",
-            "categories": "magento",
-            "tags": "technique,savoir,magento",
-            "recuweb_url": "http://fr.recuweb.com/magento/dnd.fr/2015/04/tout-savoir-sur-magento-2-migration-performances-design",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://dnd.fr/2015/04/magento-imagine-2015-tout-savoir-sur-magento-2-migration-performances-design-template/"
-        },
-        "emploi.alsacreations.com/2015/04/developpeur-php5-magento-offres-d-emploi-alsacr%C3%A9ations": {
-            "title": "Developpeur php5 magento - Offres d'emploi - Alsacr\u00e9ations...",
-            "snippet": "Dans le cadre de son d\u00e9veloppement, Tangkoko recherche un d\u00e9veloppeur PHP5/Magento confirm\u00e9 (H/F). VOTRE MISSION Au sein de l'\u00e9quipe technique, bas\u00e9(e) dans nos locaux de Nantes, vous intervenez sur les sites...",
-            "date": "2015-04-10",
+        "magentocommerce.com/2015/04/deprecated-afsstore-on-site-searchandising-magento": {
+            "title": "DEPRECATED AFSStore on-site searchandising - Magento...",
+            "snippet": "This extension is currently unavailable on Magento Connect. Please contact the developer. Install Now. This will install the latest version. You will be re-directed to the developer's website to complete your purchase. You must...",
+            "date": "2015-04-26",
             "author_name": "inconnu",
-            "categories": "php,magento,emploi",
-            "tags": "technique,d\u00e9veloppeur,cadre,d\u00e9veloppement,php,magento,confirm\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/developpeur-php5-magento-offres-d-emploi-alsacr%C3%A9ations",
+            "categories": "magento",
+            "tags": "latest,extension,site,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/magentocommerce.com/2015/04/deprecated-afsstore-on-site-searchandising-magento",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://magentocommerce.com/magento-connect/deprecated-afsatstore-on-site-searchandising.html"
+        },
+        "smile.fr/2015/04/smile-magento-imagine-2015-france": {
+            "title": "Smile - Magento Imagine 2015 - France...",
+            "snippet": "Smile y a remport\u00e9 quatre fois cons\u00e9cutives l'Award Magento du \" Europe Partner of the Year \". Une r\u00e9compense venant distinguer nos nombreuses r\u00e9alisations e-commerce et qui salue notre engagement pour la solution...",
+            "date": "2015-04-22",
+            "author_name": "com@smile.fr (Leslie Martin)",
+            "categories": "magento",
+            "tags": "solution,magento,commerce",
+            "recuweb_url": "http://fr.recuweb.com/magento/smile.fr/2015/04/smile-magento-imagine-2015-france",
+            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://smile.fr/Actualites/Nos-actualites/Magento-imagine-2015"
+        },
+        "hisyl.fr/2015/04/utiliser-redis-pour-le-cache-magento-hisyl": {
+            "title": "Utiliser Redis pour le cache Magento Hisyl...",
+            "snippet": "Pour am\u00e9liorer les performances de Magento il est souvent conseill\u00e9 de changer le backend par d\u00e9faut (base de donn\u00e9es) vers des backend comme le syst\u00e8me de fichier ou memcache. Le second \u00e9tant plus rapide vu que...",
+            "date": "2015-04-22",
+            "author_name": "guidtz",
+            "categories": "magento",
+            "tags": "syst\u00e8me,changer,magento,utiliser",
+            "recuweb_url": "http://fr.recuweb.com/magento/hisyl.fr/2015/04/utiliser-redis-pour-le-cache-magento-hisyl",
             "resource_url": "http://www.google.com/search?q=magento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://emploi.alsacreations.com/offre-560863-Developpeur-php5-magento.html"
+            "source_url": "http://hisyl.fr/utiliser-redis-pour-le-cache-magento/"
         },
         "ciblewebformations.wordpress.com/2015/02/magento-2-que-va-t-il-changer-jdn-web-&-tech": {
             "title": "Magento 2: que va-t-il changer? - JDN Web & Tech; Magent...",
@@ -50,21 +50,10 @@
             "date": "2015-02-26",
             "author_name": "Cibleweb formations",
             "categories": "magento",
-            "tags": "web,magento",
+            "tags": "web,changer,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/ciblewebformations.wordpress.com/2015/02/magento-2-que-va-t-il-changer-jdn-web-&-tech",
             "resource_url": "http://fr.search.wordpress.com/?q=magento%2Bmagento&f=feed&page=1",
             "source_url": "http://ciblewebformations.wordpress.com/2015/02/26/magento-2-que-va-t-il-changer-jdn-web-tech-httpift-tt1ljkwdl-magent/"
-        },
-        "magentocommerce.com/2015/01/deprecated-afsstore-on-site-searchandising-magento": {
-            "title": "DEPRECATED AFSStore on-site searchandising - Magento...",
-            "snippet": "Deprecated version. Community. Platform: Community. Platform: Community. Compatible with:,, 1.5, 1.6,,, 1.7, 1.8,, 1.9. This extension is currently unavailable on Magento Connect. Please contact the developer.",
-            "date": "2015-01-07",
-            "author_name": "inconnu",
-            "categories": "magento",
-            "tags": "extension,site,magento,platform,this",
-            "recuweb_url": "http://fr.recuweb.com/magento/magentocommerce.com/2015/01/deprecated-afsstore-on-site-searchandising-magento",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://magentocommerce.com/magento-connect/deprecated-afsatstore-on-site-searchandising.html"
         },
         "flossiebarnard.wordpress.com/2014/07/pourquoi-magento-est-l-avenir-du-commerce-%C3%A9lectronique": {
             "title": "Pourquoi Magento est l'avenir du commerce \u00e9lectronique...",
@@ -72,7 +61,7 @@
             "date": "2014-07-12",
             "author_name": "flossiebarnard",
             "categories": "magento,electronique",
-            "tags": "peut,site,magento,commerce,web",
+            "tags": "peut,magento,commerce,site,web",
             "recuweb_url": "http://fr.recuweb.com/electronique/flossiebarnard.wordpress.com/2014/07/pourquoi-magento-est-l-avenir-du-commerce-%C3%A9lectronique",
             "resource_url": "http://fr.search.wordpress.com/?q=magento%2Bmagento&f=feed&page=1",
             "source_url": "http://flossiebarnard.wordpress.com/2014/07/12/pourquoi-magento-est-lavenir-du-commerce-electronique/"
@@ -83,7 +72,7 @@
             "date": "2014-06-12",
             "author_name": "tiaratwgi",
             "categories": "magento",
-            "tags": "d\u00e9veloppement,services,meilleures,magento",
+            "tags": "meilleures,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/tiaratwgi.wordpress.com/2014/06/services-de-d%C3%A9veloppement-magento-meilleures-et-rentable-tornade-sociale",
             "resource_url": "http://fr.search.wordpress.com/?q=magento%2Bmagento&f=feed&page=1",
             "source_url": "http://tiaratwgi.wordpress.com/2014/06/12/gay/"
