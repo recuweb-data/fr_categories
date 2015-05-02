@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "olympique-de-marseille",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/olympique-de-marseille/",
@@ -11,14 +11,23 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/olympique-de-marseille/olympique-de-marseille/blogs.json"
     },
     "items": {
-        "goal.com/2015/04/florian-thauvin-l-attaquant-de-olympique-marseille-serait-dans-le-viseur": {
-            "title": "Florian Thauvin, l'attaquant de l'Olympique de Marseille, serait dans le viseur de Tottenham.",
-            "snippet": "Malgr\u00e9 une saison plus que mitig\u00e9e avec l'Olympique de Marseille, Florian Thauvin reste cot\u00e9 sur le march\u00e9 des transferts. L'attaquant de l'OM serait en effet sur les tablettes de Tottenham. Le Daily Mirror indique en effet ce lundi que les...",
-            "date": "2015-04-27",
-            "tags": "olympique,marseille,saison",
-            "recuweb_url": "http://fr.recuweb.com/goal.com/2015/04/florian-thauvin-l-attaquant-de-olympique-marseille-serait-dans-le-viseur",
+        "foot01.com/2015/04/les-jeunes-de-l-om-vaudront-tous-30me-pense-bielsa": {
+            "title": "Les jeunes de l'OM vaudront tous 30ME pense Bielsa...",
+            "snippet": "Faute de moyens financiers \u00e9normes, mais avec quand m\u00eame un gros budget, lOlympique de Marseille a ouvertement d\u00e9cid\u00e9 de recruter quelques-uns des meilleurs espoirs disponibles sur le march\u00e9 fran\u00e7ais, un choix de Vincent Labrune d\u00e9sign\u00e9 sous...",
+            "date": "2015-04-29",
+            "tags": "bielsa,marseille",
+            "recuweb_url": "http://fr.recuweb.com/foot01.com/2015/04/les-jeunes-de-l-om-vaudront-tous-30me-pense-bielsa",
             "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarseille&format=RSS&cc=fr",
-            "source_url": "http://goal.com/fr/news/33/transferts/2015/04/27/11180002/mercato-thauvin-sur-les-tablettes-de-tottenham"
+            "source_url": "http://foot01.com/equipe/marseille/les-jeunes-de-l-om-vaudront-tous-30me-pense-bielsa,175647"
+        },
+        "fr.sports.yahoo.com/2015/04/om-payet-tacle-daniel-rigolo": {
+            "title": "OM: Payet tacle Daniel Rigolo...",
+            "snippet": "Apr\u00e8s la derni\u00e8re d\u00e9faite de l'Olympique de Marseille face au FC Lorient (3-5), Daniel Riolo avait s\u00e9v\u00e8rement critiqu\u00e9 les joueurs phoc\u00e9ens en les qualifiant de \"tocards\" et en expliquant que les Marseillais avaient lch\u00e9 Marcelo Bielsa.",
+            "date": "2015-04-29",
+            "tags": "bielsa,olympique,marseille,lorient",
+            "recuweb_url": "http://fr.recuweb.com/fr.sports.yahoo.com/2015/04/om-payet-tacle-daniel-rigolo",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=olympique%2Bde%2Bmarseille&format=RSS&cc=fr",
+            "source_url": "http://fr.sports.yahoo.com/news/om-payet-tacle-daniel-rigolo-180429125--sow.html"
         },
         "sport24.lefigaro.fr/2015/04/fabrice-olszewski-le-traducteur-gaffeur-de-l-olympique-marseille-figaro": {
             "title": "Fabrice Olszewski, le traducteur gaffeur de l'Olympique de Marseille - Le Figaro...",
