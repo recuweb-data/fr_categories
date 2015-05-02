@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sqlite",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sqlite/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sqlite/sqlite/blogs.json"
     },
     "items": {
+        "korben.info/2015/04/g%C3%A9rez-vos-bases-sqlite-directement-sous-firefox-korben": {
+            "title": "G\u00e9rez vos bases SQLite directement sous Firefox - Korben...",
+            "snippet": "Si vous d\u00e9veloppez/bidouillez un peu et que vous utilisez des bases SQLite, sachez qu'il existe une extension Firefox baptis\u00e9e SQLite Manager qui va vous permettre d'ouvrir et d'\u00e9diter n'importe quelle base SQLite.",
+            "date": "2015-04-24",
+            "author_name": "Korben",
+            "categories": "sqlite",
+            "tags": "bases,base,sqlite",
+            "recuweb_url": "http://fr.recuweb.com/sqlite/korben.info/2015/04/g%C3%A9rez-vos-bases-sqlite-directement-sous-firefox-korben",
+            "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://korben.info/gerez-vos-bases-sqlite-directement-sous-firefox.html"
+        },
         "forum.frandroid.com/2015/04/base-de-donn%C3%A9e-et-interface-connexion-acc%C3%A8s-aux-donn%C3%A9es": {
             "title": "Base de donn\u00e9e et interface de connexion - Acc\u00e8s aux donn\u00e9es...",
             "snippet": "Base de donn\u00e9e et interface de connexion - posted in Acc\u00e8s aux donn\u00e9es (ContentProvider, SQLite...): Bonjour, Je suis actuellement en dernier ann\u00e9e de BTS informatique et jai pour projet de developper une application de...",
             "date": "2015-04-08",
             "author_name": "inconnu",
             "categories": "sqlite",
-            "tags": "suis,suis-actuellement,actuellement,donn\u00e9es,base,acc\u00e8s,contentprovider,sqlite,bonjour,bts,projet,application",
+            "tags": "suis,suis-actuellement,actuellement,donn\u00e9es,interface,base,acc\u00e8s,contentprovider,sqlite,bonjour,bts,projet,application",
             "recuweb_url": "http://fr.recuweb.com/sqlite/forum.frandroid.com/2015/04/base-de-donn%C3%A9e-et-interface-connexion-acc%C3%A8s-aux-donn%C3%A9es",
             "resource_url": "http://www.google.com/search?q=sqlite%2Bsqlite&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.frandroid.com/topic/217740-base-de-donn\u00e9e-et-interface-de-connexion/"
