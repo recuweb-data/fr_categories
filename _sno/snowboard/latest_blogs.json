@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "snowboard",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/snowboard/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
     },
     "items": {
-        "sports-extremes.net/2015/04/dan-brisse-est-au-snowboard-urbain-ce-qu-jim-carrey": {
-            "title": "Dan Brisse est au snowboard urbain ce qu'est Jim Carrey dans The...",
-            "snippet": "Dan Brisse est au snowboard urbain ce qu'est Jim Carrey dans The Mask, il y a certainement d'autres mani\u00e8res de pr\u00e9senter le rider Dan Brisse mais celle-ci me para\u00eet \u00eatre une bonne entr\u00e9e en mati\u00e8re. Il est vrai que d'autres...",
-            "date": "2015-04-27",
-            "author_name": "manu",
-            "tags": "board",
-            "recuweb_url": "http://fr.recuweb.com/sports-extremes.net/2015/04/dan-brisse-est-au-snowboard-urbain-ce-qu-jim-carrey",
+        "topito.com/2015/04/un-petit-chien-roi-du-snowboard-topito": {
+            "title": "Un petit chien roi du snowboard Topito...",
+            "snippet": "Que fait un chien quand on lui donne un snowboard? Bah il en fait et il est m\u00eame beaucoup plus dou\u00e9 que nous.",
+            "date": "2015-04-25",
+            "author_name": "benoi",
+            "tags": "m\u00eame,board",
+            "recuweb_url": "http://fr.recuweb.com/topito.com/2015/04/un-petit-chien-roi-du-snowboard-topito",
             "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sports-extremes.net/2015/04/27/dan-brisse-est-au-snowboard-urbain-ce-quest-jim-carrey-dans-the-mask/?utm_source=rss&utm_medium=rss&utm_campaign=dan-brisse-est-au-snowboard-urbain-ce-quest-jim-carrey-dans-the-mask"
+            "source_url": "http://topito.com/video/petit-chien-roi-de-la-luge"
+        },
+        "sports-extremes.net/2015/04/suite-de-cruise-the-park-la-s%C3%A9rie-freeski-&-snowboard-xsories": {
+            "title": "Suite de Cruise the Park, la s\u00e9rie FreeSki & Snowboard de XSories...",
+            "snippet": "Voici les \u00e9pisodes 3 & 4 de la web s\u00e9rie de XSories et ho5park, avec au programme du FreeSki et du Snowboard dans les parks Ho5. Quatre parks, quatre \u00e9pisodes, apr\u00e8s Oakley Cauterets Park et le WOSP de Saint Gervais.",
+            "date": "2015-04-22",
+            "author_name": "manu",
+            "tags": "board,voici",
+            "recuweb_url": "http://fr.recuweb.com/sports-extremes.net/2015/04/suite-de-cruise-the-park-la-s%C3%A9rie-freeski-&-snowboard-xsories",
+            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://sports-extremes.net/2015/04/22/suite-de-cruise-the-park-la-serie-freeski-snowboard-de-xsories/"
         },
         "nokenny.com/2015/04/snowboard-billy-morgan-place-un-1800-nokenny": {
             "title": "Snowboard: Billy Morgan place un 1800 - NoKenny...",
@@ -37,7 +47,7 @@
             "snippet": "Est-ce que vous rel\u00e8veriez le d\u00e9fi? Il vous reste quelques jours pour tenter d'en faire autant. Jongler et faire du snow en m\u00eame temps ne semble pas facile. Pas facile certes mais quand m\u00eame r\u00e9alisable comme on le voit sur...",
             "date": "2015-04-03",
             "author_name": "Emmanuelle Gayet",
-            "tags": "comme,board",
+            "tags": "m\u00eame,comme,quelques,board",
             "recuweb_url": "http://fr.recuweb.com/france3-regions.blog.francetvinfo.fr/2015/04/il-jongle-tout-en-descendant-les-pistes-sur-un-snowboard",
             "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://france3-regions.blog.francetvinfo.fr/pyrenees/2015/04/03/il-jongle-tout-en-descendant-les-pistes-sur-un-snowboard.html"
@@ -47,21 +57,10 @@
             "snippet": "If you were to ask what kick-started the snowboard renaissance, it would be hard to look past the Robot Food movies of the early 2000s. At a time when tricks were becoming more technical and contests were becoming more...",
             "date": "2015-03-10",
             "author_name": "admin",
-            "tags": "hard,past,board,yobeat,when",
+            "tags": "past,board,yobeat,when",
             "recuweb_url": "http://fr.recuweb.com/yobeat.com/2015/03/the-snowboard-renaissance-yobeat",
             "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://yobeat.com/2015/03/09/the-snowboard-renaissance/"
-        },
-        "gizmodo.fr/2015/01/le-snowboard-est-mort-vive-v%C3%A9lo-gizmodo": {
-            "title": "Le snowboard est mort, vive le v\u00e9lo-snowboard! - Gizmodo...",
-            "snippet": "Allergiques aux sentiers battus, nous vous avons d\u00e9got\u00e9 le gadget ultime qui transformera votre v\u00e9lo en snowboard, ou votre snowboard en v\u00e9lo, c'est selon. Si vous avez pr\u00e9vu de vous rendre aux sports d'hiver, ce pourrait...",
-            "date": "2015-01-27",
-            "author_name": "Flo",
-            "categories": "sport,mort",
-            "tags": "board",
-            "recuweb_url": "http://fr.recuweb.com/mort/gizmodo.fr/2015/01/le-snowboard-est-mort-vive-v%C3%A9lo-gizmodo",
-            "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/01/27/velo-snowboard.html"
         },
         "blog-espritdesign.com/2015/01/rideon-masque-de-r%C3%A9alit%C3%A9-augment%C3%A9e-pour-ski-et-snowboard": {
             "title": "RideOn masque de r\u00e9alit\u00e9 augment\u00e9e pour Ski et Snowboard...",
@@ -69,7 +68,7 @@
             "date": "2015-01-26",
             "author_name": "Vincent - Blog Esprit Design",
             "categories": "technologie,sport,ski",
-            "tags": "ski,board",
+            "tags": "board",
             "recuweb_url": "http://fr.recuweb.com/ski/blog-espritdesign.com/2015/01/rideon-masque-de-r%C3%A9alit%C3%A9-augment%C3%A9e-pour-ski-et-snowboard",
             "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog-espritdesign.com/lifestyle/rideon-le-masque-de-realite-augmentee-pour-ski-et-snowboard-29228"
@@ -80,7 +79,7 @@
             "date": "2015-01-09",
             "author_name": "Brooke Geery",
             "categories": "internet,facebook",
-            "tags": "pretty,past,few,board,yobeat,boarding,facebook",
+            "tags": "past,few,board,yobeat,boarding,facebook",
             "recuweb_url": "http://fr.recuweb.com/facebook/yobeat.com/2015/01/a-long-list-of-dead-snowboard-brands-yobeat",
             "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://yobeat.com/2015/01/09/a-long-list-of-dead-snowboard-brands/"
@@ -90,7 +89,7 @@
             "snippet": "Did you know they are allowed to snowboard? Anyway, while we're being old fashioned, a few feathers have been ruffled by this video. And since we always like to let the people speak, here's a letter from a (former) reader.",
             "date": "2015-01-05",
             "author_name": "Brooke Geery",
-            "tags": "few,being,while,they,women,board,this",
+            "tags": "few,being,while,board,this",
             "recuweb_url": "http://fr.recuweb.com/yobeat.com/2015/01/fan-mail-women-do-not-snowboard-to-be-sexually-harassed",
             "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://yobeat.com/2015/01/05/fan-mail-women-do-not-snowboard-to-be-sexually-harassed/"
@@ -100,7 +99,7 @@
             "snippet": "Dimanche 21 d\u00e9cembre se d\u00e9roulera la 9\u00e8me \u00e9dition du World Snowboard Day, le plus grand \u00e9v\u00e9nement au monde de snowboard. Au total, c'est plus de personnes qui...",
             "date": "2014-12-18",
             "author_name": "Anthony Bonal",
-            "tags": "personnes,board,monde",
+            "tags": "\u00e8me,board,monde",
             "recuweb_url": "http://fr.recuweb.com/powwowmag.com/2014/12/world-snowboard-day-2014",
             "resource_url": "http://fr.search.wordpress.com/?q=snowboard%2Bsnowboard&f=feed&page=1",
             "source_url": "http://powwowmag.com/2014/12/18/world-snowboard-day-2014/"
@@ -111,7 +110,7 @@
             "date": "2014-11-06",
             "author_name": "Vincent - Blog Esprit Design",
             "categories": "surf",
-            "tags": "surf,marque,boards",
+            "tags": "surf,mountain,voici",
             "recuweb_url": "http://fr.recuweb.com/surf/blog-espritdesign.com/2014/11/mountain-surfer-surf-et-snowboard-par-jones-snowboards",
             "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog-espritdesign.com/transport-2/planche-transport-2/mountain-surfer-surf-snowboard-jones-snowboards-27780"
