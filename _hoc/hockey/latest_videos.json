@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -29,7 +29,7 @@
             "date": "2015-01-22",
             "author_name": "channelsport",
             "categories": "hockey",
-            "tags": "glace,vitre,match,hockey",
+            "tags": "glace,match,hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport",
@@ -53,7 +53,7 @@
             "date": "2014-10-27",
             "author_name": "Michel breizh",
             "categories": "hockey,sport",
-            "tags": "hockey,hockey_club,club",
+            "tags": "hockey,hockey_club,club,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/entr%C3%A9e-des-albatros-de-brest-&-lyon-hockey-club",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JmbhRg3Z9hM&feature=youtube_gdata",
@@ -77,23 +77,47 @@
             "date": "2014-09-14",
             "author_name": "Hockey tunisia",
             "categories": "hockey,hockey-sur-glace",
-            "tags": "match,hockey,glace",
+            "tags": "match,hockey,glace,d\u00e9couvrez",
             "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/youtube.com/2014/09/1er-match-de-l-%C3%A9quipe-tunisie-hockey-sur-glace-vid%C3%A9o-officielle",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=5xaHQ7uiFZ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/5xaHQ7uiFZ0/0.jpg"
         },
+        "youtube.com/2014/06/scorpions-hockey-club-film-promo-2014": {
+            "title": "Scorpions Hockey Club - Film promo 2014...",
+            "snippet": "Scorpions Hockey Club - Film promo 2014 D\u00e9j\u00e0 un nouveau d\u00e9fi attends nos sportifs de haut niveau pour la prochaine saison. En attendant d\u00e9couvrez ces quelques images pour vous remettre dans l'ambiance de la superbe saison que... From:...",
+            "date": "2014-06-02",
+            "author_name": "ScorpionsTV",
+            "categories": "hockey",
+            "tags": "d\u00e9couvrez,quelques,hockey,hockey_club,club",
+            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/06/scorpions-hockey-club-film-promo-2014",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=N0aU0OlJGBs&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/N0aU0OlJGBs/0.jpg"
+        },
         "youtube.com/2014/03/rds-hockey-lnh-la-culture-de-violence": {
             "title": "RDS HOCKEY LNH La culture de la violence...",
-            "snippet": "RDS HOCKEY LNH La culture de la violence Vid\u00e9o informative sur la violence au hockey. \u00c0 quand une mort d'homme? Allons-nous voir en direct un joueur d'hockey mourir sur la glace par une mise en \u00e9chec? R\u00e9ponses de quelques personnes:. From:...",
+            "snippet": "RDS HOCKEY LNH La culture de la violence Vid\u00e9o informative sur la violence au hockey. \u00c0 quand une mort d'homme? Allons-nous voir en direct un joueur d'hockey mourir sur la glace par une mise en \u00e9chec? R\u00e9ponses de quelques personnes:... From:...",
             "date": "2014-03-14",
             "author_name": "CHANGEMENT DE CHA\u00ceNE",
             "categories": "hockey,mort,culture",
-            "tags": "personnes,hockey,glace,joueur",
+            "tags": "quelques,personnes,hockey,glace",
             "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2014/03/rds-hockey-lnh-la-culture-de-violence",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=PNyobLZ4zNE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/PNyobLZ4zNE/0.jpg"
+        },
+        "youtube.com/2014/02/tirs-au-but-%C3%A9cole-de-hockey": {
+            "title": "Tirs au but \u00e9cole de hockey...",
+            "snippet": "Tirs au but \u00e9cole de hockey match boxers de bordeaux-chevalier du lac d'Annecy- tirs au but de l'\u00e9cole de hockey Merci a Nico Gov pour cette vid\u00e9o. From: Axel PALEM Views: 1648 7 ratings Time: 06:36 More in Sports...",
+            "date": "2014-02-16",
+            "author_name": "Axel PALEM",
+            "categories": "hockey,sport",
+            "tags": "\u00e9cole,hockey,match,sports",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/02/tirs-au-but-%C3%A9cole-de-hockey",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=huxFvb4H3Ag&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/huxFvb4H3Ag/0.jpg"
         },
         "youtube.com/2014/02/l-%C3%A9cole-du-champion-2-le-slapshot-tir-de-hockey": {
             "title": "L'\u00c9cole du Champion 2: le slapshot, tir de hockey qui fait mal au gardien - Le Figaro...",
@@ -101,35 +125,11 @@
             "date": "2014-02-15",
             "author_name": "Le Figaro",
             "categories": "hockey,sport",
-            "tags": "hockey,sport",
+            "tags": "hockey,\u00e9cole",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/02/l-%C3%A9cole-du-champion-2-le-slapshot-tir-de-hockey",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=kl-bIbfrYCk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/kl-bIbfrYCk/0.jpg"
-        },
-        "dailymotion.com/2014/01/epic-fail-hockey-un-joueur-de-s-explose-tout-seul-contre": {
-            "title": "epic fail hockey - un joueur de hockey s'explose tout seul contre la vitre...",
-            "snippet": "un joueur de hockey voulant venger son co\u00e9quipier fonce sur un adversaire et se prend la vitreAuthor: videosbuzz_orgTags: Posted: 08 January 2014Rating:: 0...",
-            "date": "2014-01-08",
-            "author_name": "videosbuzz_org",
-            "categories": "hockey",
-            "tags": "joueur,hockey,vitre",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2014/01/epic-fail-hockey-un-joueur-de-s-explose-tout-seul-contre",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/x19ebg9_epic-fail-hockey-un-joueur-de-hockey-s-explose-tout-seul-contre-la-vitre_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x19ebg9_epic-fail-hockey-un-joueur-de-hockey-s-explose-tout-seul-contre-la-vitre_sport"
-        },
-        "youtube.com/2013/04/commentateur-de-hockey-fran%C3%A7ois-p%C3%A9russe-qu%C3%A9bec": {
-            "title": "Commentateur de Hockey -- Fran\u00e7ois P\u00e9russe (Qu\u00e9bec)...",
-            "snippet": "Commentateur de Hockey -- Fran\u00e7ois P\u00e9russe (Qu\u00e9bec) Les 2 minutes du peuple de Fran\u00e7ois P\u00e9russe: Commenter un match de Hockey est devenu tout un sport! Abonnez-vous Suivez Fran\u00e7ois sur Twitter \u00e0 franpeuple: twitte... From: LeFrancoisPerusse...",
-            "date": "2013-04-17",
-            "author_name": "LeFrancoisPerusse",
-            "categories": "sport,hockey,twitter",
-            "tags": "sport,match,hockey",
-            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2013/04/commentateur-de-hockey-fran%C3%A7ois-p%C3%A9russe-qu%C3%A9bec",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=w-LYulPY3Rg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/w-LYulPY3Rg/0.jpg"
         }
     }
 }
