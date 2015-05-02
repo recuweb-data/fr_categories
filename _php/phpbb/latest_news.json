@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "phpbb",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/phpbb/",
@@ -11,25 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
     },
     "items": {
-        "infoq.com/2015/04/zerodb-internals-and-end-to-database-encryption": {
-            "title": "ZeroDB Internals and End-To-End Database Encryption -...",
-            "snippet": "ZeroDB Internals and End-To-End Database in a research paper and hosted in GitHub, it claims just 14.5% performance degradation for phpBB and 26% for TPC-C query load compared to unmodified MySQL. CryptDB is in research prototype stage. According to...",
-            "date": "2015-04-10",
-            "categories": "phpbb,mysql",
-            "tags": "load,phpbb",
-            "recuweb_url": "http://fr.recuweb.com/mysql/infoq.com/2015/04/zerodb-internals-and-end-to-database-encryption",
+        "cachem.fr/2015/04/test-nas-wd-my-cloud-ex4100-cachem": {
+            "title": "Test NAS WD My Cloud EX4100 - Cachem...",
+            "snippet": "CachemTest NAS WD My Cloud EX4100CachemComme chez les autres constructeurs, les NAS My Cloud Expert Series peuvent recevoir des applications tierces pour ajouter des fonctionnalit\u00e9s au NAS (aMule, Icecast, Joomla, phpBB, phpMyAdmin, SqueezeCenter,...",
+            "date": "2015-04-28",
+            "categories": "joomla,phpbb",
+            "tags": "nas,autres,phpbb",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/cachem.fr/2015/04/test-nas-wd-my-cloud-ex4100-cachem",
             "resource_url": "http://news.google.fr/?hl=fr&q=phpbb&output=atom&nord=1",
-            "source_url": "http://infoq.com/news/2015/04/Encrypt-Database-CryptDB-ZeroDB"
-        },
-        "breageeknews.fr/2015/04/cin%C3%A9ma-un-trailer-international-pour-a-la-poursuite-de-demain-breageek": {
-            "title": "Cin\u00e9ma Un trailer international pour A la Poursuite de Demain - BreaGeek News...",
-            "snippet": "BreaGeek NewsCin\u00e9ma Un trailer international pour A la Poursuite de DemainBreaGeek NewsphpBB Debug PHP Warning: in file/srv/d_mdcuserv/www/on line 434: simplexml_load_file()::13: parser error: Input is not proper UTF-8, indicate encoding! Bytes:...",
-            "date": "2015-04-03",
-            "categories": "php",
-            "tags": "load",
-            "recuweb_url": "http://fr.recuweb.com/php/breageeknews.fr/2015/04/cin%C3%A9ma-un-trailer-international-pour-a-la-poursuite-de-demain-breageek",
-            "resource_url": "http://news.google.fr/?hl=fr&q=phpbb&output=atom&nord=1",
-            "source_url": "http://breageeknews.fr/news-001368-cinema-un-trailer-international-pour-a-la-poursuite-de-demain.html"
+            "source_url": "http://cachem.fr/test-nas-wd-my-cloud-ex4100/"
         }
     }
 }
