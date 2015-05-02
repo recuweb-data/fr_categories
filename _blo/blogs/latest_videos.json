@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/la-fin-du-regne-des-blogs": {
-            "title": "La fin du regne des blogs...",
-            "snippet": "La fin du regne des blogs Vous pensez \u00e0 lancer votre business en ligne? Je vous explique la nouvelle r\u00e9volution qui est en cours, et pourquoi vous ne devez surtout pas partir sur un blog... From: Antoine Peytavin Views: 51 1 ratings Time: 03:34...",
-            "date": "2015-04-13",
-            "author_name": "Antoine Peytavin",
-            "tags": "devez",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/la-fin-du-regne-des-blogs",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=blogs&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=ABrQ9yFZJeo&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ABrQ9yFZJeo/0.jpg"
-        },
         "youtube.com/2015/03/favoris-fevrier-2015-deco-blogs-instagram": {
             "title": "FAVORIS FEVRIER 2015 DECO BLOGS INSTAGRAM.",
             "snippet": "FAVORIS FEVRIER 2015 DECO BLOGS INSTAGRAM. Hello, voici mes favoris de f\u00e9vrier 2015, je vous parle de mes coups de c\u0153ur d\u00e9co, blogs, instagram N'HESITE PAS DEROULE MOI POUR PLUS D'INFO!... From: L'appartement 9b Views: 72 5 ratings Time: 05:01...",
@@ -62,7 +51,7 @@
             "author_name": "Olivier-Pascal Studio Cigale",
             "tags": "olivier",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/09/blogs-d-entreprises-par-yann-gourvennec",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=blogs%2Bblogs&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=blogs&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=TTzeNeSh3-0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/TTzeNeSh3-0/0.jpg"
         },
@@ -78,11 +67,23 @@
             "source_url": "http://youtube.com/watch?v=q6Yrfg9RIko&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/q6Yrfg9RIko/0.jpg"
         },
+        "youtube.com/2014/06/vlog-blogs-vacances": {
+            "title": "Vlog: blogs, vacances,...",
+            "snippet": "Vlog: blogs, vacances,... Coucou les filles, J'esp\u00e8re que cette vid\u00e9o vous a plu! Merci \u00e0 tous vos abonnement!!! Blog de Louanne: Mon blog: From: Ma vie fa\u00e7on Audrey Views: 114 4 ratings Time: 06:54 More in People & Blogs...",
+            "date": "2014-06-28",
+            "author_name": "Ma vie fa\u00e7on Audrey",
+            "tags": "people",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/06/vlog-blogs-vacances",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=blogs&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=LaRXt2z_57k&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/LaRXt2z_57k/0.jpg"
+        },
         "youtube.com/2014/05/reportage-sur-les-blogs": {
             "title": "Reportage sur les Blogs...",
             "snippet": "Reportage sur les Blogs par Florence et Lorie, avec l'aide de Camille DG, fondatrice et r\u00e9dactrice en chef du blog Le cahier. From: Florence Desmeules Views: 330 1 ratings Time: 03:03 More in People & Blogs...",
             "date": "2014-05-16",
             "author_name": "Florence Desmeules",
+            "tags": "people",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2014/05/reportage-sur-les-blogs",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=blogs%2Bblogs&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=XsYjTN3M9IA&feature=youtube_gdata",
@@ -104,7 +105,6 @@
             "date": "2013-06-23",
             "author_name": "StrategeMarketing",
             "categories": "marketing",
-            "tags": "devez",
             "recuweb_url": "http://fr.recuweb.com/marketing/youtube.com/2013/06/blogs-et-reseaux-sociaux-secrets-des-contenus-contagieux-webmarketing",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=blogs&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=e-NDIJVBo-Q&feature=youtube_gdata",
