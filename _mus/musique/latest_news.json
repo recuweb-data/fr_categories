@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "musique",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/musique/",
@@ -11,105 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/musique/musique/blogs.json"
     },
     "items": {
-        "cherbourg.maville.com/2015/04/en-avant-la-musique": {
-            "title": "En avant la musique...",
-            "snippet": "Exposition sur lhistoire de la musique. Le visiteur d\u00e9couvrira 25 panneaux sur: lhistoire du Monde, la musique et lHomme, les musiques du Monde, etc. Des objets, des instruments, des costumes et des bijoux seront \u00e9galement expos\u00e9s.",
-            "date": "2015-04-27",
-            "categories": "musique",
-            "tags": "musiques,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/cherbourg.maville.com/2015/04/en-avant-la-musique",
+        "tendanceouest.com/2015/04/budget-les-conservatoires-de-musique-seinomarins-haussent": {
+            "title": "Budget: les conservatoires de musique seinomarins haussent le ton...",
+            "snippet": "Les budgets des conservatoires de musique seinomarins sont menac\u00e9s. Certains sont m\u00eame menac\u00e9s de fermeture. La directrice du conservatoire de Grand-Couronne s'inqui\u00e8te. Fin 2014, la ministre de la Culture Fleur Pellerin, lors de son discours...",
+            "date": "2015-04-29",
+            "categories": "culture,musique",
+            "tags": "lors,m\u00eame,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/tendanceouest.com/2015/04/budget-les-conservatoires-de-musique-seinomarins-haussent",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://cherbourg.maville.com/sortir/agenda_details_-voir-visiter-exposition-en-avant-la-musique_5009232-47_agendaDetail.Htm"
+            "source_url": "http://tendanceouest.com/saint-lo/actualite-102698-budget-les-conservatoires-de-musique-seinomarins-haussent-ton.html"
         },
-        "macommune.info/2015/04/festival-de-musique-besan%C3%A7on-franche-comt%C3%A9-le-programme-est-sorti": {
-            "title": "Festival de musique Besan\u00e7on Franche-Comt\u00e9, le programme est sorti...",
-            "snippet": "Recentrer toujours et encore sur la musique symphonique. Jean-Michel Math\u00e9, le directeur du Festival de musique de Besan\u00e7on Franche-Comt\u00e9 na pas chang\u00e9 de credo depuis trois ans. Le mill\u00e9sime 2015 verra donc tous les soirs de ses seize...",
-            "date": "2015-04-27",
-            "categories": "musique",
-            "tags": "donc,trois,festival,musique,comt\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/musique/macommune.info/2015/04/festival-de-musique-besan%C3%A7on-franche-comt%C3%A9-le-programme-est-sorti",
+        "lesechos.fr/2015/04/musique-rock-my-soul-avec-alabama-shakes": {
+            "title": "Musique: rock my soul avec Alabama Shakes...",
+            "snippet": "Le groupe am\u00e9ricain signe un deuxi\u00e8me album de rock-soul torride, Sound & Colour, \u00e9lectris\u00e9 par la voix de sa chanteuse, lincandescente Brittany Howard. Pas de l\u00e9gende obscure ou dor\u00e9e. Sa jeune histoire est presque sans histoires..",
+            "date": "2015-04-29",
+            "categories": "rock,musique",
+            "tags": "howard,chanteuse,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/lesechos.fr/2015/04/musique-rock-my-soul-avec-alabama-shakes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://macommune.info/article/festival-de-musique-besancon-franche-comte-le-programme-est-sorti-122216"
+            "source_url": "http://lesechos.fr/week-end/culture/02135923302-musique-rock-my-soul-avec-alabama-shakes-1115513.php"
         },
-        "france3-regions.francetvinfo.fr/2015/04/festival-de-musique-sully-quand-la-est-bonne-francetv-info": {
-            "title": "Festival de musique de Sully: quand la musique est bonne! - Francetv info...",
-            "snippet": "Francetv infoFestival de musique de Sully: quand la musique est bonne!Francetv infoEn famille ou entre amis, venez d\u00e9couvrir des lieux de patrimoine architectural impressionnant, rythm\u00e9s par la programmation vari\u00e9e du festival. Musique classique,...",
-            "date": "2015-04-27",
+        "larochesuryon.maville.com/2015/04/musiques-actuelles-a-la-roche-lendemains-incertains-pour-le-fuzz-yon": {
+            "title": "Musiques actuelles: A La Roche, lendemains incertains pour le Fuzz'Yon...",
+            "snippet": "La sc\u00e8ne de musiques actuelles tenait mardi son assembl\u00e9e g\u00e9n\u00e9rale. Avec les travaux de destruction programm\u00e9s aux Halles, quid des locaux administratifs et des studios de r\u00e9p\u00e9tition? La Roche aura-t-elle une nouvelle salle de musiques...",
+            "date": "2015-04-29",
             "categories": "musique",
-            "tags": "programmation,festival,lieux,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/france3-regions.francetvinfo.fr/2015/04/festival-de-musique-sully-quand-la-est-bonne-francetv-info",
+            "tags": "salle,musiques,musiques-actuelles,actuelles,assembl\u00e9e,assembl\u00e9e-g\u00e9n\u00e9rale,g\u00e9n\u00e9rale,fuzz,yon,sc\u00e8ne",
+            "recuweb_url": "http://fr.recuweb.com/musique/larochesuryon.maville.com/2015/04/musiques-actuelles-a-la-roche-lendemains-incertains-pour-le-fuzz-yon",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
+            "source_url": "http://larochesuryon.maville.com/actu/actudet_-musiques-actuelles-a-la-roche-lendemains-incertains-pour-le-fuzz-yon_52737-2760132_actu.Htm"
+        },
+        "larochesuryon.maville.com/2015/04/musiques-actuelles-l-agglo-construira-la-nouvelle-salle-du-fuzz-yon": {
+            "title": "Musiques actuelles: L'Agglo construira la nouvelle salle du Fuzz'Yon?",
+            "snippet": "Lors de l'assembl\u00e9e g\u00e9n\u00e9rale du Fuzz'Yon, les \u00e9lus pr\u00e9sents nen ont pas souffl\u00e9 mot. L'avenir de la sc\u00e8ne de musiques actuelles a \u00e9t\u00e9 \u00e9voqu\u00e9 au m\u00eame moment, dans un autre lieu. Lors du conseil communautaire, les \u00e9lus de l'Agglom\u00e9ration...",
+            "date": "2015-04-29",
+            "categories": "musique",
+            "tags": "musiques,musiques-actuelles,actuelles,m\u00eame,moment,assembl\u00e9e,assembl\u00e9e-g\u00e9n\u00e9rale,g\u00e9n\u00e9rale,salle,fuzz,yon,lors,sc\u00e8ne",
+            "recuweb_url": "http://fr.recuweb.com/musique/larochesuryon.maville.com/2015/04/musiques-actuelles-l-agglo-construira-la-nouvelle-salle-du-fuzz-yon",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
+            "source_url": "http://larochesuryon.maville.com/actu/actudet_-musiques-actuelles-l-agglo-construira-la-nouvelle-salle-du-fuzz-yon\u00a0-_52737-2760184_actu.Htm"
+        },
+        "melty.fr/2015/04/parlor-snakes-notre-musique-se-fait-avec-du-punch": {
+            "title": "Parlor Snakes: \"Notre musique se fait avec du punch et les tripes... -...",
+            "snippet": "Snakes: \"Notre musique se fait avec du punch et les tripes... 'histoire de Parlor Snakes remonte aux ann\u00e9es 2000 lorsque Peter le guitariste, tombe amoureux de la meilleure amie d'Eug\u00e9nie la chanteuse. Tr\u00e8s vite, il leur a sembl\u00e9 \u00e9vident...",
+            "date": "2015-04-29",
+            "categories": "musique",
+            "tags": "chanteuse,musique",
+            "recuweb_url": "http://fr.recuweb.com/musique/melty.fr/2015/04/parlor-snakes-notre-musique-se-fait-avec-du-punch",
             "resource_url": "http://news.google.fr/?hl=fr&q=musique%2Bmusique&output=atom&nord=1",
-            "source_url": "http://france3-regions.francetvinfo.fr/centre/2015/04/13/festival-de-musique-de-sully-quand-la-musique-est-bonne-703761.html"
+            "source_url": "http://melty.fr/parlor-snakes-notre-musique-se-fait-avec-du-punch-et-les-tripes-exclu-a405159.html"
         },
-        "quai-baco.com/2015/04/quelle-est-la-musique-de-pub-gdf-suez-devient-engie-quai": {
-            "title": "Quelle est la musique de la pub GDF Suez devient ENGIE? - Quai Baco...",
-            "snippet": "Quai BacoQuelle est la musique de la pub GDF Suez devient ENGIE?Quai BacoGDF Suez change de nom et de logo pour se rebaptiser ENGIE. Cela valait bien une nouvelle campagne publicitaire pour annoncer ce bouleversement aupr\u00e8s du grand public! Et pour...",
-            "date": "2015-04-27",
+        "ladepeche.fr/2015/04/musique-m%C3%A9di%C3%A9vale-au-festival-de-la-pierre": {
+            "title": "Musique m\u00e9di\u00e9vale au festival de la pierre...",
+            "snippet": "Un concert de musique m\u00e9di\u00e9vale va clore le festival de la Pierre de Salles organis\u00e9 par l'association Lou Passadou. Ce moment musical propos\u00e9 par Monesti\u00e9s Village Qualit\u00e9 dans le cadre de sa programmation Musiques pour tous, sera donn\u00e9...",
+            "date": "2015-04-28",
             "categories": "musique",
-            "tags": "musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/quai-baco.com/2015/04/quelle-est-la-musique-de-pub-gdf-suez-devient-engie-quai",
-            "resource_url": "http://news.google.fr/?hl=fr&q=musique%2Bmusique&output=atom&nord=1",
-            "source_url": "http://quai-baco.com/quelle-est-la-musique-de-la-pub-gdf-suez-devient-engie-24114/"
-        },
-        "leparisien.fr/2015/04/saint-cloud-la-musique-de-pink-floyd-se-transporte-au-domaine": {
-            "title": "Saint-Cloud: la musique de Pink Floyd se transporte au Domaine...",
-            "snippet": "r\u00e9agir Illustration. Le spectacle Encore Floyd, programm\u00e9 le 30 mai au Domaine de Saint-Cloud, va habiller la musique de Pink Floyd, interpr\u00e9t\u00e9e par le groupe Encore Floyd, de projections dimages, deffets sp\u00e9ciaux et pyrotechniques (DR...",
-            "date": "2015-04-27",
-            "categories": "musique",
-            "tags": "saint,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/leparisien.fr/2015/04/saint-cloud-la-musique-de-pink-floyd-se-transporte-au-domaine",
+            "tags": "moment,concert,musiques",
+            "recuweb_url": "http://fr.recuweb.com/musique/ladepeche.fr/2015/04/musique-m%C3%A9di%C3%A9vale-au-festival-de-la-pierre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/saint-cloud-92210/saint-cloud-la-musique-de-pink-floyd-se-transporte-au-domaine-27-04-2015-4729143.php"
+            "source_url": "http://ladepeche.fr/article/2015/04/29/2095872-musique-medievale-au-festival-de-la-pierre.html"
         },
         "letelegramme.fr/2015/04/sonerion-consolider-son-%C3%A9cole-de-musique": {
             "title": "Sonerion. Consolider son \u00e9cole de musique...",
             "snippet": "\u00c0 c\u00f4t\u00e9 des concours de bagado\u00f9, la mission premi\u00e8re de Bodadeg ar Sonerion est l'enseignement de la musique. (Re)connue pour l'organisation du championnat des bagado\u00f9, Sonerion, l'assembl\u00e9e des sonneurs (aussi appel\u00e9 BAS pour Bodadeg ar...",
             "date": "2015-04-26",
             "categories": "musique",
-            "tags": "premi\u00e8re,musique",
+            "tags": "assembl\u00e9e,musique",
             "recuweb_url": "http://fr.recuweb.com/musique/letelegramme.fr/2015/04/sonerion-consolider-son-%C3%A9cole-de-musique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=musique%2Bmusique&format=RSS&cc=fr",
             "source_url": "http://letelegramme.fr/bretagne/sonerion-consolider-son-ecole-de-musique-27-04-2015-10608434.php"
-        },
-        "rfimusique.com/2015/04/tal-national-un-niger-en-miniature": {
-            "title": "Tal National, un Niger en miniature!",
-            "snippet": "Privil\u00e8ge r\u00e9serv\u00e9 jusquil y a peu aux seules superstars des musiques africaines, les musiciens de Tal National remplissent des stades entiers au Niger, leur pays. Un succ\u00e8s qui ne leur \u00e9pargne pas le courroux de certains religieux irrit\u00e9s par...",
-            "date": "2015-04-21",
-            "categories": "musique",
-            "tags": "musiques",
-            "recuweb_url": "http://fr.recuweb.com/musique/rfimusique.com/2015/04/tal-national-un-niger-en-miniature",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=musique%2Bmusique&format=RSS&cc=fr",
-            "source_url": "http://rfimusique.com/actu-musique/musique-africaine/album/20150420-tal-national-zoy-zoy"
-        },
-        "fr-ca.actualites.yahoo.com/2015/04/festival-de-musique-baroque-lam%C3%A8que-la-programmation-est-d%C3%A9voil%C3%A9e": {
-            "title": "Festival de Musique Baroque de Lam\u00e8que: la programmation est d\u00e9voil\u00e9e...",
-            "snippet": "La programmation du 40e Festival International de musique Baroque de Lam\u00e8que, au Nouveau-Brunswick a \u00e9t\u00e9 d\u00e9voil\u00e9e ce lundi matin, dans la p\u00e9ninsule acadienne.",
-            "date": "2015-04-14",
-            "categories": "musique",
-            "tags": "programmation,musique,baroque,festival",
-            "recuweb_url": "http://fr.recuweb.com/musique/fr-ca.actualites.yahoo.com/2015/04/festival-de-musique-baroque-lam%C3%A8que-la-programmation-est-d%C3%A9voil%C3%A9e",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=musique",
-            "source_url": "http://fr-ca.actualites.yahoo.com/festival-musique-baroque-lam\u00e8que-la-programmation-est-d\u00e9voil\u00e9e-003730601.html"
-        },
-        "fr.news.yahoo.com/2015/04/les-ventes-mondiales-de-musique-num%C3%A9rique-%C3%A9galent-physiques": {
-            "title": "Les ventes mondiales de musique num\u00e9rique \u00e9galent les ventes physiques...",
-            "snippet": "C'est une premi\u00e8re: profitant de l'essor du streaming, les ventes mondiales de musique num\u00e9rique ont \u00e9gal\u00e9 les ventes de CD et de vinyle en 2014. Et ce dans un contexte de stagnation du march\u00e9 mondial de la musique enregistr\u00e9e.",
-            "date": "2015-04-14",
-            "categories": "musique",
-            "tags": "premi\u00e8re,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/fr.news.yahoo.com/2015/04/les-ventes-mondiales-de-musique-num%C3%A9rique-%C3%A9galent-physiques",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=musique",
-            "source_url": "http://fr.news.yahoo.com/ventes-mondiales-musique-num\u00e9rique-\u00e9galent-ventes-physiques-135949293.html"
-        },
-        "fr-ca.actualites.yahoo.com/2015/04/le-festival-de-la-chaise-dieu-c%C3%A9l%C3%A8bre-1685-donc-bach-haendel": {
-            "title": "Le festival de la Chaise-Dieu c\u00e9l\u00e8bre 1685 donc Bach, Haendel et Scarlatti...",
-            "snippet": "La 49e \u00e9dition du festival de musique sacr\u00e9e de la Chaise-Dieu (Haute-Loire), qui se tiendra du 21 ao\u00fbt au 30 ao\u00fbt, c\u00e9l\u00e9brera l'ann\u00e9e 1685, qui a vu na\u00eetre trois compositeurs majeurs de l'\u00e9poque baroque: Bach, Haendel et Scarlatti.",
-            "date": "2015-04-13",
-            "categories": "musique",
-            "tags": "baroque,trois,festival,donc,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/fr-ca.actualites.yahoo.com/2015/04/le-festival-de-la-chaise-dieu-c%C3%A9l%C3%A8bre-1685-donc-bach-haendel",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=musique",
-            "source_url": "http://fr-ca.actualites.yahoo.com/le-festival-la-chaise-dieu-c\u00e9l\u00e8bre-1685-donc-184959218.html"
         }
     }
 }
