@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,36 +11,56 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
-        "blogs.msdn.com/2015/04/support-de-sql-server-2014-par-configmgr-2012-et-msdn-blogs": {
-            "title": "Support de SQL Server 2014 par ConfigMgr 2012 et... - MSDN Blogs...",
-            "snippet": "Organisation, processus, technologie: JPhD's blog. Jean-Philippe DUPUICH... Mouhamadou Diallo's Blog. SharePoint, Office 365, Azure et autres... Blog d'\u00e9quipe S\u00e9curit\u00e9 & Identit\u00e9 - Microsoft Services. 15 consultants...",
-            "date": "2015-04-27",
-            "author_name": "St\u00e9phane PAPP",
-            "categories": "technologie",
-            "tags": "autres,jean",
-            "recuweb_url": "http://fr.recuweb.com/technologie/blogs.msdn.com/2015/04/support-de-sql-server-2014-par-configmgr-2012-et-msdn-blogs",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blogs.msdn.com/b/spapp/archive/2015/04/27/support-de-sql-server-2014-par-configmgr-2012-et-r-233-cup-233-ration.aspx"
-        },
-        "cafe-sciences.org/2015/04/veille-de-blogs-la-semaine-du-20-04-au-26-2015": {
-            "title": "Veille de blogs de la semaine du 20/04 au 26/04/2015 Caf\u00e9 des...",
-            "snippet": "La semaine pr\u00e9c\u00e9dente, sur le Cf\u00e9 des Sciences L'image de la semaine: Vu sur Philosophie des sciences dans Les objets math\u00e9matiques existent-ils.",
-            "date": "2015-04-26",
-            "author_name": "Dr Eric SIMON",
-            "categories": "science",
-            "tags": "existent,semaine",
-            "recuweb_url": "http://fr.recuweb.com/science/cafe-sciences.org/2015/04/veille-de-blogs-la-semaine-du-20-04-au-26-2015",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cafe-sciences.org/billets/veille-de-blogs-de-la-semaine-du-2004-au-26042015/"
-        },
-        "bruxelles.blogs.liberation.fr/2015/04/le-non-dit-europ%C3%A9en-lit-du-fn-coulisses-de-bruxelles-lib%C3%A9ration": {
-            "title": "Le non-dit europ\u00e9en, le lit du FN - Coulisses de Bruxelles - Lib\u00e9ration...",
+        "bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-il-faut-mettre-fin-au-secret-des-n%C3%A9gociations": {
+            "title": "Coulisses de Bruxelles - Il faut mettre fin au secret des n\u00e9gociations...",
             "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements. Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9. Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
-            "date": "2015-04-15",
+            "date": "2015-04-28",
             "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
-            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/le-non-dit-europ%C3%A9en-lit-du-fn-coulisses-de-bruxelles-lib%C3%A9ration",
+            "tags": "d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,mettre,fin,coulisses,bruxelles,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,lib\u00e9,accueil",
+            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-il-faut-mettre-fin-au-secret-des-n%C3%A9gociations",
             "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/15/le-non-dit-europeen-le-lit-du-fn/"
+            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/27/il-faut-mettre-fin-au-secret-des-negociations-entre-la-grece-et-la-zone-euro/"
+        },
+        "blogs.msdn.com/2015/04/utiliser-visual-studio-avec-unity-ndelabarre-site-msdn-blogs": {
+            "title": "Utiliser Visual Studio avec Unity - ndelabarre - Site... - MSDN Blogs...",
+            "snippet": "Par d\u00e9faut, Unity propose l'installation et l'utilisation d'un \u00e9diteur de d\u00e9veloppement (IDE) d\u00e9nomm\u00e9 MonoDevelop. Ce dernier fournit les briques de base indispensables pour le d\u00e9veloppement de code: compilation,...",
+            "date": "2015-04-28",
+            "author_name": "Nicolas Delabarre",
+            "tags": "studio",
+            "recuweb_url": "http://fr.recuweb.com/blogs.msdn.com/2015/04/utiliser-visual-studio-avec-unity-ndelabarre-site-msdn-blogs",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blogs.msdn.com/b/ndelabarre/archive/2015/04/28/utiliser-visual-studio-pour-votre-projet-unity.aspx"
+        },
+        "blogs.lexpress.fr/2015/04/france-t%C3%A9l%C3%A9visions-didier-quillot-n%C3%A8gre-de-blogs-l-express": {
+            "title": "France T\u00e9l\u00e9visions: Didier Quillot n\u00e8gre de... - Blogs - L'Express...",
+            "snippet": "Pythie du num\u00e9rique, vestale digitale de France T\u00e9l\u00e9visions, dont elle est la nouvelle p\u00e9d\u00e9g\u00e8re, l'ex dirigeante d'Orange France, Delphine Ernotte, a-t-elle entendu des voix avant de r\u00e9diger son projet pour France T\u00e9l\u00e9s,...",
+            "date": "2015-04-27",
+            "author_name": "Renaud Revel",
+            "categories": "television",
+            "tags": "avant",
+            "recuweb_url": "http://fr.recuweb.com/television/blogs.lexpress.fr/2015/04/france-t%C3%A9l%C3%A9visions-didier-quillot-n%C3%A8gre-de-blogs-l-express",
+            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blogs.lexpress.fr/media/2015/04/27/france-televisions-didier-quillot-negre-de-delphine-ernotte/"
+        },
+        "bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-l-ue-une-affaire-politico-m%C3%A9diatique": {
+            "title": "Coulisses de Bruxelles - L'UE, une affaire Politico-m\u00e9diatique...",
+            "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements. Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9. Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
+            "date": "2015-04-21",
+            "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
+            "tags": "d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,coulisses,bruxelles,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,lib\u00e9,accueil",
+            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-l-ue-une-affaire-politico-m%C3%A9diatique",
+            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/21/lue-une-affaire-politico-mediatique/"
+        },
+        "bruxelles.blogs.liberation.fr/2015/04/r%C3%A9fugi%C3%A9s-ceux-qui-condamnent-l-europe-se-trompent-de-cible": {
+            "title": "R\u00e9fugi\u00e9s: \"ceux qui condamnent l'Europe se trompent de cible\"...",
+            "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements. Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9. Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
+            "date": "2015-04-20",
+            "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
+            "tags": "d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,lib\u00e9,coulisses,bruxelles,accueil",
+            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/r%C3%A9fugi%C3%A9s-ceux-qui-condamnent-l-europe-se-trompent-de-cible",
+            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/20/refugies-ceux-qui-condamnent-leurope-se-trompent-de-cible/"
         },
         "knittedart.wordpress.com/2014/08/recommended-blogs-recommand%C3%A9s": {
             "title": "Recommended blogs/Blogs recommand\u00e9s...",
