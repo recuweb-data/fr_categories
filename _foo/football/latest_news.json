@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "football",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/football/",
@@ -11,105 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football/football/blogs.json"
     },
     "items": {
-        "fr.sports.yahoo.com/2015/04/football-lacazette-et-griezmann-ont-confirm%C3%A9-mais-que-sont-devenus": {
-            "title": "Football - Lacazette et Griezmann ont confirm\u00e9, mais que sont devenus les champions dEurope U19...",
-            "snippet": "Apr\u00e8s le coup de sifflet final victorieux au stade Michel-dOrnano, le pr\u00e9sident de la LFP Fr\u00e9d\u00e9ric Thiriez disait que ces Bluets sont lavenir des Bleus. Prononc\u00e9e apr\u00e8s le marasme de Knysna, cette phrase lourde de sens aurait pu briser les...",
-            "date": "2015-04-27",
-            "categories": "football",
-            "tags": "apr\u00e8s,lfp,fr\u00e9d\u00e9ric,fr\u00e9d\u00e9ric_thiriez,thiriez,pr\u00e9sident,champions,football",
-            "recuweb_url": "http://fr.recuweb.com/football/fr.sports.yahoo.com/2015/04/football-lacazette-et-griezmann-ont-confirm%C3%A9-mais-que-sont-devenus",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
-            "source_url": "http://fr.sports.yahoo.com/news/football-lacazette-griezmann-ont-confirm\u00e9-devenus-champions-d-164520016--sow.html"
+        "leparisien.fr/2015/04/football-le-real-d%C3%A9ment-%C3%AAtre-interdit-de-recrutement": {
+            "title": "Football: le Real d\u00e9ment \u00eatre interdit de recrutement...",
+            "snippet": "C'est pourtant le sc\u00e9nario imagin\u00e9 par une radio espagnole, la Cadena Ser, g\u00e9n\u00e9ralement tr\u00e8s bien inform\u00e9e sur les affaires du Real Madrid. L'interdiction signifi\u00e9e au Real proviendrait d'irr\u00e9gularit\u00e9s pr\u00e9sum\u00e9es dans les transferts de...",
+            "date": "2015-04-29",
+            "categories": "radio,recrutement,football",
+            "tags": "imagin\u00e9,football",
+            "recuweb_url": "http://fr.recuweb.com/football/leparisien.fr/2015/04/football-le-real-d%C3%A9ment-%C3%AAtre-interdit-de-recrutement",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/sports/football/football-le-real-dement-etre-interdit-de-recrutement-29-04-2015-4734333.php"
         },
-        "fr.euronews.com/2015/04/football-25%C3%A8me-titre-de-champion-dallemagne-pour-le-bayern-munich": {
-            "title": "Football: 25\u00e8me titre de champion dAllemagne pour le Bayern Munich...",
-            "snippet": "Le Bayern Munich est sacr\u00e9 champion dAllemagne de football pour la 25\u00e8me fois de son histoire. Le club bavarois s\u00e9tait impos\u00e9 ce samedi face au Herta Berlin, 1-0. Et ce dimanche, le deuxi\u00e8me au classement, Wolsburg, a \u00e9t\u00e9 battu 1-0 par...",
-            "date": "2015-04-27",
-            "categories": "football",
-            "tags": "battu,football,club",
-            "recuweb_url": "http://fr.recuweb.com/football/fr.euronews.com/2015/04/football-25%C3%A8me-titre-de-champion-dallemagne-pour-le-bayern-munich",
+        "20minutes.fr/2015/04/football-amateur-le-gers-se-mobilise-contre-l-augmentation": {
+            "title": "Football amateur: Le Gers se mobilise contre l'augmentation de la violence sur les terrains...",
+            "snippet": "Ah, le Gers... Ses doux vallons qui donnent au paysage des airs de Toscane, ses charmantes bastides, sa gastronomie exquise... Toutefois, derri\u00e8re la carte postale popularis\u00e9e par le film Le Bonheur est dans le pr\u00e9, la r\u00e9alit\u00e9 n'est pas...",
+            "date": "2015-04-29",
+            "categories": "football,bonheur",
+            "tags": "football",
+            "recuweb_url": "http://fr.recuweb.com/bonheur/20minutes.fr/2015/04/football-amateur-le-gers-se-mobilise-contre-l-augmentation",
             "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
-            "source_url": "http://fr.euronews.com/2015/04/26/football-25eme-titre-de-champion-d-allemagne-pour-le-bayern-munich/"
+            "source_url": "http://20minutes.fr/toulouse/1598003-20150429-football-amateur-gers-mobilise-contre-augmentation-violence-terrains"
         },
-        "tvmag.lefigaro.fr/2015/04/football-paris-sg-metz": {
-            "title": "Football: Paris-SG/Metz...",
-            "snippet": "Un grand soir pour le football. Ce mercredi 15 avril d\u00e8s 20h05, Canal consacre sa soir\u00e9e au match de quart... Vous \u00eates, cette semaine encore, en haut de l'affiche avec trois plan\u00e8tes dans votre signe et si ceux de mai sont toute...",
-            "date": "2015-04-27",
-            "categories": "football",
-            "tags": "semaine,football,match",
-            "recuweb_url": "http://fr.recuweb.com/football/tvmag.lefigaro.fr/2015/04/football-paris-sg-metz",
+        "blog.lefigaro.fr/2015/04/grandeur-et-d%C3%A9cadence-du-football-des-ann%C3%A9es-2030": {
+            "title": "Grandeur et d\u00e9cadence du football des ann\u00e9es 2030...",
+            "snippet": "Imagin\u00e9 par des \u00e9tudiants anglais du milieu du 19\u00e8me si\u00e8cle, le football a \u00e9pous\u00e9 toutes les grandes transformations de la soci\u00e9t\u00e9: r\u00e9volution industrielle, expansion et construction europ\u00e9enne, r\u00e9volution des m\u00e9dias et mondialisation,...",
+            "date": "2015-04-29",
+            "categories": "mondialisation,construction,football",
+            "tags": "grandes,football,imagin\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/football/blog.lefigaro.fr/2015/04/grandeur-et-d%C3%A9cadence-du-football-des-ann%C3%A9es-2030",
             "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
-            "source_url": "http://tvmag.lefigaro.fr/programme-tv/fiche/canal-+-sport/sport/201960174/football-paris-sg-metz.html"
+            "source_url": "http://blog.lefigaro.fr/sport-business/2015/04/grandeur-et-decadence-du-football-des-annees-2030.html"
+        },
+        "sport24.lefigaro.fr/2015/04/pogba-au-psg-la-presse-italienne-annonce-un-accord-le-figaro": {
+            "title": "Pogba au PSG: la presse italienne annonce un accord - Le Figaro Sport...",
+            "snippet": "Le Figaro SportPogba au PSG: la presse italienne annonce un accordLe Figaro SportRechercher. 10. Menu 10. En ce moment. Suivre Recherche Connexion. Sport R\u00e9sultats Football Tennis Rugby Basket F1 Golf Le Scan Sport Vid\u00e9os Diapo. Menu. Sport. Menu...",
+            "date": "2015-04-29",
+            "categories": "golf,sport,football,tennis,rugby",
+            "tags": "sport,football,presse,psg",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sport24.lefigaro.fr/2015/04/pogba-au-psg-la-presse-italienne-annonce-un-accord-le-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
+            "source_url": "http://sport24.lefigaro.fr/football/transferts/actualites/pogba-au-psg-la-presse-italienne-annonce-un-accord-748032"
+        },
+        "francefootball.fr/2015/04/mon-record-lacazette-ne-le-battra-pas-france-football": {
+            "title": "Mon record, Lacazette ne le battra pas! - France Football...",
+            "snippet": "France FootballMon record, Lacazette ne le battra pas!France FootballAuteur de 222 buts sous le maillot lyonnais entre 1960 et 1974, le Petit Prince de Gerland, Fleury Di Nallo \u00e9voque ses h\u00e9ritiers, et notamment Alexandre Lacazette. Alexandre...",
+            "date": "2015-04-29",
+            "categories": "football",
+            "tags": "football",
+            "recuweb_url": "http://fr.recuweb.com/football/francefootball.fr/2015/04/mon-record-lacazette-ne-le-battra-pas-france-football",
+            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
+            "source_url": "http://francefootball.fr/news/-mon-record-lacazette-ne-le-battra-pas/554619"
+        },
+        "eurosport.fr/2015/04/chelsea-jos%C3%A9-mourinho-n-aime-pas-le-football-de-possession": {
+            "title": "Chelsea: Jos\u00e9 Mourinho n'aime pas le football de possession et n... -...",
+            "snippet": ": Jos\u00e9 Mourinho n'aime pas le football de possession et n... LEAGUE - \"Boring Chelsea\"? Mardi en conf\u00e9rence de presse, Jos\u00e9 Mourinho en a remis une couche et s'en est pris aux esth\u00e8tes qui jugent son \u00e9quipe ennuyeuse. Pour le Portugais, le...",
+            "date": "2015-04-28",
+            "categories": "football",
+            "tags": "presse,football",
+            "recuweb_url": "http://fr.recuweb.com/football/eurosport.fr/2015/04/chelsea-jos%C3%A9-mourinho-n-aime-pas-le-football-de-possession",
+            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
+            "source_url": "http://eurosport.fr/football/premier-league/2014-2015/chelsea-jose-mourinho-n-aime-pas-le-football-de-possession-et-n-est-pas-pres-de-changer-d-avis_sto4697261/story.shtml"
         },
         "leparisien.fr/2015/04/football-arsenal-henry-tacle-giroud": {
             "title": "Football. Arsenal: Henry tacle Giroud...",
             "snippet": "r\u00e9agir Thierry Henry estime qu'Arsenal doit recruter un attaquant de classe mondiale, une cat\u00e9gorie dans laquelle il n'inclut pas Olivier Giroud, l'actuel avant-centre des Gunners. (LP/Fr\u00e9d\u00e9ric Dugit et AFP/Adrian Dennis.) Selon lui, l'actuel...",
             "date": "2015-04-27",
             "categories": "football",
-            "tags": "fr\u00e9d\u00e9ric,football,mondiale,afp",
+            "tags": "football",
             "recuweb_url": "http://fr.recuweb.com/football/leparisien.fr/2015/04/football-arsenal-henry-tacle-giroud",
             "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
             "source_url": "http://leparisien.fr/sports/football/football-arsenal-henry-tacle-giroud-27-04-2015-4728637.php"
-        },
-        "sport24.lefigaro.fr/2015/04/gerrard-m%C3%A9riterait-une-meilleure-fin-le-figaro-sport": {
-            "title": "Gerrard m\u00e9riterait une meilleure fin - Le Figaro Sport...",
-            "snippet": "Le Figaro SportGerrard m\u00e9riterait une meilleure finLe Figaro SportLe football est parfois cruel et en ce jour de printemps, il le fut pour Gerrard. Sur une passe anodine, le milieu de terrain manque son contr\u00f4le puis glisse. Demba Ba en profite,...",
-            "date": "2015-04-27",
-            "categories": "sport,football",
-            "tags": "manque,sport,football,terrain",
-            "recuweb_url": "http://fr.recuweb.com/football/sport24.lefigaro.fr/2015/04/gerrard-m%C3%A9riterait-une-meilleure-fin-le-figaro-sport",
-            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
-            "source_url": "http://sport24.lefigaro.fr/football/etranger/angleterre/actualites/gerrard-meriterait-une-meilleure-fin-747830"
-        },
-        "sofoot.com/2015/04/okocha-juge-le-football-nig%C3%A9rian": {
-            "title": "Okocha juge le football nig\u00e9rian...",
-            "snippet": "La semaine pass\u00e9e, Jay-Jay Okocha, 41 ans, a disput\u00e9 le 12e Match contre la pauvret\u00e9 aux c\u00f4t\u00e9s notamment de Zidane et Ronaldo. De passage en France, l'ancien meneur du jeu du PSG qui compte 73 s\u00e9lections pour 14 buts avec les Super Eagles,...",
-            "date": "2015-04-27",
-            "categories": "football",
-            "tags": "semaine,football,match,psg",
-            "recuweb_url": "http://fr.recuweb.com/football/sofoot.com/2015/04/okocha-juge-le-football-nig%C3%A9rian",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
-            "source_url": "http://sofoot.com/okocha-juge-le-football-nigerian-200055.html"
-        },
-        "lepoint.fr/2015/04/football-ligue-1-lyon-n-a-pas-abdiqu%C3%A9": {
-            "title": "Football - Ligue 1: Lyon n'a pas abdiqu\u00e9...",
-            "snippet": "Les Lyonnais, qui ont domin\u00e9 Reims (4-2), repassent provisoirement en t\u00eate devant le PSG. Les Champenois sont premiers non rel\u00e9gables. Les Lyonnais ont battu Reims (4-2) en cl\u00f4ture de la 34e journ\u00e9e. Fran\u00e7ois NASCIMBENI/AFP Jusqu'au bout, cet...",
-            "date": "2015-04-26",
-            "categories": "football",
-            "tags": "bout,afp,jusqu,battu,devant,football,ligue,psg",
-            "recuweb_url": "http://fr.recuweb.com/football/lepoint.fr/2015/04/football-ligue-1-lyon-n-a-pas-abdiqu%C3%A9",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
-            "source_url": "http://lepoint.fr/sport/football/football-ligue-1-reims-ol-a-suivre-en-direct-des-21-heures-26-04-2015-1924328_1858.php"
-        },
-        "fr.news.yahoo.com/2015/04/football-payet-devant-le-cnosf": {
-            "title": "Football. Payet devant le CNOSF...",
-            "snippet": "L'Olympique de Marseille a d\u00e9cid\u00e9 de saisir le CNOSF (Comit\u00e9 national olympique et sportif fran\u00e7ais) pour contester la suspension de deux matchs visant Dimitri Payet, comme indiqu\u00e9 par le site...",
-            "date": "2015-04-13",
-            "categories": "football",
-            "tags": "deux,devant,football",
-            "recuweb_url": "http://fr.recuweb.com/football/fr.news.yahoo.com/2015/04/football-payet-devant-le-cnosf",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=football",
-            "source_url": "http://fr.news.yahoo.com/football-payet-devant-cnosf-170809471--spt.html"
-        },
-        "fr.news.yahoo.com/2015/04/video-maradona-p%C3%A8te-les-plombs-apr%C3%A8s-un-match-de-la-paix": {
-            "title": "VIDEO. Maradona p\u00e8te les plombs apr\u00e8s un match de la paix...",
-            "snippet": "FOOTBALL - L'ancienne star du football a agress\u00e9 une femme, un journaliste et un stadier apr\u00e8s la rencontre...",
-            "date": "2015-04-13",
-            "categories": "football",
-            "tags": "apr\u00e8s,match,football",
-            "recuweb_url": "http://fr.recuweb.com/football/fr.news.yahoo.com/2015/04/video-maradona-p%C3%A8te-les-plombs-apr%C3%A8s-un-match-de-la-paix",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=football",
-            "source_url": "http://fr.news.yahoo.com/video-maradona-p\u00e8te-plombs-apr\u00e8s-match-paix-034852421--spt.html"
-        },
-        "fr.news.yahoo.com/2015/04/psg-bastia-le-pr%C3%A9sident-bastiais-traite-fr%C3%A9d%C3%A9ric-thiriez-de-raciste-anti": {
-            "title": "PSG-Bastia: Le pr\u00e9sident bastiais traite Fr\u00e9d\u00e9ric Thiriez de raciste anti-corse...",
-            "snippet": "FOOTBALL - Le patron de la LFP n'a pas salu\u00e9 les joueurs des deux \u00e9quipes lors de la finale de la Coupe de la Ligue...",
-            "date": "2015-04-12",
-            "categories": "football",
-            "tags": "deux,fr\u00e9d\u00e9ric,fr\u00e9d\u00e9ric_thiriez,thiriez,pr\u00e9sident,psg,football,lfp,ligue",
-            "recuweb_url": "http://fr.recuweb.com/football/fr.news.yahoo.com/2015/04/psg-bastia-le-pr%C3%A9sident-bastiais-traite-fr%C3%A9d%C3%A9ric-thiriez-de-raciste-anti",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=football",
-            "source_url": "http://fr.news.yahoo.com/psg-bastia-pr\u00e9sident-bastiais-traite-fr\u00e9d\u00e9ric-thiriez-raciste-113820151--spt.html"
         }
     }
 }
