@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drift",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drift/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drift/drift/blogs.json"
     },
     "items": {
-        "limpartial-andelys.fr/2015/04/1re-exposition-auto-autour-du-drift-ce-dimanche-26-avril": {
-            "title": "1re exposition auto autour du drift ce dimanche 26 avril...",
-            "snippet": "Les pneus vont crisser dans la zone du Mont-de-Magny. Dimanche 26 avril, Maximilien Piraud et Yann Maillard proposeront leur premi\u00e8re exposition auto autour du drift. Une passion mal connue du grand public, et qui gagne pourtant chaque ann\u00e9e en...",
+        "larevueautomobile.com/2015/04/la-lexus-lfa-v8-de-drift-s-anime-dans-une-nouvelle": {
+            "title": "La Lexus LFA V8 de drift s'anime dans une nouvelle vid\u00e9o...",
+            "snippet": "La Lexus LFA, c'est une sorte de mythe automobile, une relique qui se conserve religieusement sans y apporter la moindre retouche esth\u00e9tique ou m\u00e9canique. Pourtant, certains doux dingues ont os\u00e9 transfigurer un exemplaire pour le drift. Yoichi...",
+            "date": "2015-04-29",
+            "categories": "drift",
+            "tags": "automobile,drift",
+            "recuweb_url": "http://fr.recuweb.com/drift/larevueautomobile.com/2015/04/la-lexus-lfa-v8-de-drift-s-anime-dans-une-nouvelle",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drift&format=RSS&cc=fr",
+            "source_url": "http://larevueautomobile.com/video/Lexus_LFA-V8-Drift_9094.actu"
+        },
+        "limpartial-andelys.fr/2015/04/1re-exposition-auto-autour-du-drift-ce-dimanche-26-avril-l": {
+            "title": "1re exposition auto autour du drift ce dimanche 26 avril - L'Impartial...",
+            "snippet": "L'Impartial1re exposition auto autour du drift ce dimanche 26 avrilL'ImpartialDimanche 26 avril, Maximilien Piraud et Yann Maillard proposeront leur premi\u00e8re exposition auto autour du drift. Une passion mal connue du grand public, et qui gagne...",
             "date": "2015-04-25",
             "categories": "drift",
-            "tags": "auto,drift",
-            "recuweb_url": "http://fr.recuweb.com/drift/limpartial-andelys.fr/2015/04/1re-exposition-auto-autour-du-drift-ce-dimanche-26-avril",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drift&format=RSS&cc=fr",
+            "tags": "auto,drift,avril",
+            "recuweb_url": "http://fr.recuweb.com/drift/limpartial-andelys.fr/2015/04/1re-exposition-auto-autour-du-drift-ce-dimanche-26-avril-l",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drift%2Bdrift&output=atom&nord=1",
             "source_url": "http://limpartial-andelys.fr/2015/04/25/1re-exposition-auto-autour-du-drift-ce-dimanche-26-avril/"
         },
         "news.moto-journal.fr/2015/04/faire-du-drift-au-guidon-de-victory-cest-possible-vid%C3%A9o": {
@@ -31,14 +41,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=drift&format=RSS&cc=fr",
             "source_url": "http://news.moto-journal.fr/delires/faire-du-drift-au-guidon-de-victory-cest-possible-video"
         },
-        "planete-gt.com/2015/04/vid%C3%A9o-drift-sur-neige-en-toyota-cressida-jzx30": {
-            "title": "Vid\u00e9o: Drift sur neige en Toyota Cressida JZX30...",
-            "snippet": "Quand le pilote Fredrik S\u00f8rlie sort dans la neige avec sa Toyota Cressida JZX30, il se fait suivre par un h\u00e9lico pour une superbe vid\u00e9o! EnFonde6/Fabien est depuis son plus jeune ge un passionn\u00e9 absolu d'automobile dans sa globalit\u00e9: il aime...",
+        "planete-gt.com/2015/04/vid%C3%A9o-drift-sur-neige-en-toyota-cressida-jzx30-plan%C3%A8te-gt": {
+            "title": "Vid\u00e9o: Drift sur neige en Toyota Cressida JZX30 - Plan\u00e8te-GT...",
+            "snippet": "Plan\u00e8te-GTVid\u00e9o: Drift sur neige en Toyota Cressida JZX30Plan\u00e8te-GT... Drift sur neige en Toyota Cressida JZX30. Vid\u00e9o: Drift sur neige en Toyota Cressida JZX30. Par Fabien le 24 avril 2015. Quand le pilote Fredrik S\u00f8rlie sort dans la neige...",
             "date": "2015-04-24",
             "categories": "drift",
-            "tags": "jeune,drift,pilote",
-            "recuweb_url": "http://fr.recuweb.com/drift/planete-gt.com/2015/04/vid%C3%A9o-drift-sur-neige-en-toyota-cressida-jzx30",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drift&format=RSS&cc=fr",
+            "tags": "drift,avril,pilote",
+            "recuweb_url": "http://fr.recuweb.com/drift/planete-gt.com/2015/04/vid%C3%A9o-drift-sur-neige-en-toyota-cressida-jzx30-plan%C3%A8te-gt",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drift%2Bdrift&output=atom&nord=1",
             "source_url": "http://planete-gt.com/2015/04/24/video-drift-sur-neige-en-toyota-cressida-jzx30/"
         },
         "motorlegend.com/2015/04/s%C3%A9ance-de-drift-en-tesla-model": {
@@ -50,6 +60,16 @@
             "recuweb_url": "http://fr.recuweb.com/drift/motorlegend.com/2015/04/s%C3%A9ance-de-drift-en-tesla-model",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drift&format=RSS&cc=fr",
             "source_url": "http://motorlegend.com/actualite-automobile/seance-de-drift-en-tesla-model-s/11874.html"
+        },
+        "directinfo.webmanagercenter.com/2015/04/oilibya-soutient-l-%C3%A9v%C3%A9nement-redbull-car-park-drift-vid%C3%A9o": {
+            "title": "OiLibya soutient l'\u00e9v\u00e9nement ''RedBull Car Park Drift''(vid\u00e9o) -...",
+            "snippet": "soutient l'\u00e9v\u00e9nement ''RedBull Car Park Drift''(vid\u00e9o) ''Le DRIFT est un sport automobile qui s'est rapidement d\u00e9velopp\u00e9 dans la r\u00e9gion arabe et en Afrique, pour devenir un des \u00e9v\u00e9nements de foule les plus pris\u00e9s grce au spectacle...",
+            "date": "2015-04-20",
+            "categories": "sport,drift",
+            "tags": "automobile,drift",
+            "recuweb_url": "http://fr.recuweb.com/drift/directinfo.webmanagercenter.com/2015/04/oilibya-soutient-l-%C3%A9v%C3%A9nement-redbull-car-park-drift-vid%C3%A9o",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drift%2Bdrift&output=atom&nord=1",
+            "source_url": "http://directinfo.webmanagercenter.com/2015/04/20/oilibya-soutient-levenement-redbull-car-park-drift-video/"
         }
     }
 }
