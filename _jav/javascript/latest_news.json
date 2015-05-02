@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -11,22 +11,62 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "theserverside.com/2015/04/how-to-invoke-a-jsf-managed-bean-asynchronously-through-techtarget": {
-            "title": "How to invoke a JSF managed bean asynchronously through... - TechTarget...",
-            "snippet": "How to invoke a JSF managed bean asynchronously through...TechTargetA friend recently posed a development problem to me that had a two prong solution, with the first prong being the invocation of a JSF backing bean through a JavaScript call. You'd...",
+        "avoir-alire.com/2015/04/100-maisons-la-cit%C3%A9-des-abeilles-chronique-bd": {
+            "title": "100 maisons. La cit\u00e9 des abeilles - La chronique bd...",
+            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... Aujourdhui cest lhabitat coop\u00e9ratif qui suscite lenthousiasme, hier c\u00e9tait les maisons Castors. 100 maisons nous immerge dans un...",
+            "date": "2015-04-29",
+            "categories": "javascript",
+            "tags": "fonctionnalit\u00e9s,outil,outil-seront,outil-seront-inactives,seront,seront-inactives,inactives,inactif,navigateur,javascript,certaines",
+            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/04/100-maisons-la-cit%C3%A9-des-abeilles-chronique-bd",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://avoir-alire.com/100-maisons-la-cite-des-abeilles-la-chronique-bd"
+        },
+        "avoir-alire.com/2015/04/blur-le-point-sur-magic-whip-et-retour-des-trublions": {
+            "title": "Blur: le point sur Magic Whip et le retour des trublions de la Britpop...",
+            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... R\u00e9v\u00e9l\u00e9 en France en 1994 avec Girls and boys, Blur revient en 2015 avec leur premier album en 12 ans, depuis Think Tank. Miracle ou mirage...",
+            "date": "2015-04-29",
+            "categories": "javascript",
+            "tags": "premier,fonctionnalit\u00e9s,outil,outil-seront,outil-seront-inactives,seront,seront-inactives,inactives,inactif,navigateur,javascript,certaines",
+            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/04/blur-le-point-sur-magic-whip-et-retour-des-trublions",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://avoir-alire.com/blur-le-point-sur-whip-cream-et-le-retour-des-trublions-de-la-britpop"
+        },
+        "emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-pure-player-web-ecommerce-cdi-paris-h-f": {
+            "title": "D\u00e9veloppeur Javascript pure player web eCommerce CDI Paris H/F...",
+            "snippet": "MR Search est un cabinet de recrutement sp\u00e9cialis\u00e9 dans les nouvelles technologies, le web et le avons une parfaite connaissance du march\u00e9 et s\u00e9lectionnons pour vous les meilleurs offres dans des soci\u00e9t\u00e9s attractives:- 60% de nos...",
+            "date": "2015-04-29",
+            "categories": "connaissance,recrutement,technologie,javascript",
+            "tags": "web,sp\u00e9cialis\u00e9,cdi,d\u00e9veloppeur,d\u00e9veloppeur_javascript,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-pure-player-web-ecommerce-cdi-paris-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/452000/dveloppeur-javascript-pure-player-web-ecommerce-cdi-paris-hf/"
+        },
+        "nextinpact.com/2015/04/microsoft-la-conf%C3%A9rence-build-d%C3%A9bute-sur-du-cloud-avec-azure": {
+            "title": "Microsoft: la conf\u00e9rence BUILD d\u00e9bute sur du cloud avec Azure...",
+            "snippet": "Tous les langages reconnus par.NET seront pris en charge, notamment le JavaScript, le HTML5 et les CSS. Un \u00e9mulateur Android est m\u00eame pr\u00e9sent dans Visual Studio, du moins dans la version utilis\u00e9e dans la d\u00e9monstration. Et pour montrer quil...",
+            "date": "2015-04-29",
+            "categories": "langage,javascript,css",
+            "tags": "seront,charge,cloud,net,javascript,html",
+            "recuweb_url": "http://fr.recuweb.com/css/nextinpact.com/2015/04/microsoft-la-conf%C3%A9rence-build-d%C3%A9bute-sur-du-cloud-avec-azure",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://nextinpact.com/news/93968-la-conference-build-microsoft-retransmise-en-direct.htm"
+        },
+        "techrepublic.com/2015/04/full-stack-javascript-developers-study-these-cloud-age-wonders-in-techrepublic": {
+            "title": "Full-stack JavaScript developers: Study these cloud age wonders in... - TechRepublic...",
+            "snippet": "Full-stack JavaScript developers: Study these cloud age wonders in...TechRepublicAccording to this year's Stack Overflow developer survey, the most common kind of developer is the 20-something full-stack JavaScript developer. That full-stack phrase...",
             "date": "2015-04-28",
             "categories": "javascript",
-            "tags": "javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/theserverside.com/2015/04/how-to-invoke-a-jsf-managed-bean-asynchronously-through-techtarget",
+            "tags": "cloud,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/techrepublic.com/2015/04/full-stack-javascript-developers-study-these-cloud-age-wonders-in-techrepublic",
             "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
-            "source_url": "http://theserverside.com/tutorial/How-to-invoke-a-JSF-managed-bean-asynchronously-through-JavaScript"
+            "source_url": "http://techrepublic.com/article/full-stack-javascript-developers-study-these-cloud-age-wonders-in-the-wild/"
         },
         "commentcamarche.net/2015/04/r%C3%A9cup%C3%A9rer-des-informations-d-un-autre-site-en-javascript": {
             "title": "R\u00e9cup\u00e9rer des informations d'un autre site en Javascript...",
             "snippet": "Je souhaiterais r\u00e9cup\u00e9rer une information sur un autre site en Javascript. Par exemple, si l'autre site affiche 1, le premier site effectue une action, sinon il en effectue une autre etc. J'ai essay\u00e9 avec ce code et avec plusieurs autres trouv\u00e9s...",
             "date": "2015-04-28",
             "categories": "javascript",
-            "tags": "javascript,code",
+            "tags": "code,premier,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/commentcamarche.net/2015/04/r%C3%A9cup%C3%A9rer-des-informations-d-un-autre-site-en-javascript",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://commentcamarche.net/forum/affich-31896836-recuperer-des-informations-d-un-autre-site-en-javascript"
@@ -36,7 +76,7 @@
             "snippet": "J'ai actuellement un probl\u00e8me de programmation d\u00fb au fait que je ne m'y connais pas beaucoup en cookies... J'ai deux pages o\u00f9 l'utilisateur remplit diff\u00e9rents champs avant validation, les champs sont les m\u00eames mais le rendu est diff\u00e9rent...",
             "date": "2015-04-27",
             "categories": "javascript",
-            "tags": "javascript,programmation",
+            "tags": "web,javascript,programmation",
             "recuweb_url": "http://fr.recuweb.com/javascript/commentcamarche.net/2015/04/cookies-et-javascript-sauvegarde-de-champs-entre-pages-web",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://commentcamarche.net/forum/affich-31878359-cookies-et-javascript-sauvegarde-de-champs-entre-pages-web"
@@ -46,7 +86,7 @@
             "snippet": "Pour lun de nos clients grands comptes, nous recherchons un D\u00e9veloppeur PHP confirm\u00e9 JavaScript/jQuery/Angular JSMission/Tches: Sur un projet ambitieux et innovant, le prestataire int\u00e9grera une \u00e9quipe ayant en charge la conception et la...",
             "date": "2015-04-23",
             "categories": "php,javascript,jquery",
-            "tags": "d\u00e9veloppeur,javascript",
+            "tags": "charge,d\u00e9veloppeur,d\u00e9veloppeur_javascript,javascript,cdi",
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-jquery-angular-js-h-f-cdi-st-pierre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/450719/dveloppeur-javascript-jquery-angular-js-hf/"
@@ -56,9 +96,9 @@
             "snippet": ": am\u00e9liorations et d\u00e9pr\u00e9ciation pour la plateforme JavaScriptDeveloppez.com est une plateforme JavaScript construite sur base de. Elle est compatible avec l'\u00e9cosyst\u00e8me npm et avec le moteur V8 qui impl\u00e9mente de nombreuses fonctionnalit\u00e9s de...",
             "date": "2015-04-22",
             "categories": "javascript",
-            "tags": "plateforme,javascript",
+            "tags": "fonctionnalit\u00e9s,plateforme,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/am%C3%A9liorations-et-d%C3%A9pr%C3%A9ciation-pour-la-plateforme-javascript",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
             "source_url": "http://javascript.developpez.com/actu/84153/io-js-1-8-0-ameliorations-et-depreciation-pour-la-plateforme-JavaScript/"
         },
         "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f-presse-citron-blog": {
@@ -68,7 +108,7 @@
             "categories": "javascript",
             "tags": "d\u00e9veloppeur,javascript,d\u00e9veloppement",
             "recuweb_url": "http://fr.recuweb.com/javascript/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f-presse-citron-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Frontend+Javascript+HF/30049"
         }
     }
