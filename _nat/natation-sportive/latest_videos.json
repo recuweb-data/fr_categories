@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "natation-sportive",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/natation-sportive/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/natation-sportive/natation-sportive/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/gym-aquatique-au-lsc-2015": {
+            "title": "GYM AQUATIQUE au LSC 2015...",
+            "snippet": "L'activit\u00e9 Gymnastique Aquatique au Levallois Sporting ClubAuthor: lscvideoTags: Gymnastique Natation sportive Levallois-Perret Gym aquatique Posted: 29 April 2015Rating:: 0...",
+            "date": "2015-04-29",
+            "author_name": "lscvideo",
+            "tags": "natation,sportive",
+            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/04/gym-aquatique-au-lsc-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/natation+sportive/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2of1fd_gym-aquatique-au-lsc-2015_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2of1fd_gym-aquatique-au-lsc-2015_sport"
+        },
         "youtube.com/2015/04/sportive-de-haut-niveau-athl%C3%A9tisme-natation-attention-le-top": {
             "title": "sportive de haut niveau, athl\u00e9tisme natation, attention le top...",
             "snippet": "sportive de haut niveau, athl\u00e9tisme natation, attention le top record d'Europe et du monde \u00e0 gogo avec Miss Sport. From: neven ma Views: 5 0 ratings Time: 01:45 More in Entertainment...",
@@ -43,7 +54,7 @@
             "categories": "radio,television",
             "tags": "guadeloupe,natation,sportive,\u00e8re,inter",
             "recuweb_url": "http://fr.recuweb.com/television/dailymotion.com/2014/10/natation-p%C3%B4le-excellence-sportive-creps-antilles-guyane-guadeloupe-jt-13h-rfo",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/natation+sportive+natation+sportive/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/natation+sportive/0?af=1",
             "source_url": "http://dailymotion.com/video/x273syr_natation-pole-excellence-sportive-creps-antilles-guyane-guadeloupe-jt-13h-rfo-guadeloupe-1ere-france_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x273syr_natation-pole-excellence-sportive-creps-antilles-guyane-guadeloupe-jt-13h-rfo-guadeloupe-1ere-france_sport"
         },
@@ -114,18 +125,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/natation+sportive/0?af=1",
             "source_url": "http://dailymotion.com/video/x167rxq_2013-11-24-competition-natation-3eme-rencontre-sportive-guadeloupe-saison-2013-meeting-cnsf-inter-cl_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x167rxq_2013-11-24-competition-natation-3eme-rencontre-sportive-guadeloupe-saison-2013-meeting-cnsf-inter-cl_sport"
-        },
-        "youtube.com/2013/09/triathlon-natation-comment-prendre-la-vague-drafting-sport": {
-            "title": "Triathlon: Natation - Comment prendre la vague? (drafting) - Sport...",
-            "snippet": "Triathlon: Natation - Comment prendre la vague? (drafting) - Sport Le triathlon est une discipline sportive consistant en l'encha\u00eenement de trois \u00e9preuves: natation, cyclisme et course \u00e0 pied. Les distances varient selon les comp\u00e9titions.",
-            "date": "2013-09-10",
-            "author_name": "Pratiks",
-            "categories": "triathlon,discipline,sport",
-            "tags": "sportive,natation,sport",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2013/09/triathlon-natation-comment-prendre-la-vague-drafting-sport",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=natation%2Bsportive%2Bnatation%2Bsportive&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=dQXOMgLBpyY&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/dQXOMgLBpyY/0.jpg"
         }
     }
 }
