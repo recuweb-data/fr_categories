@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "club-de-foot",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/club-de-foot/",
@@ -11,60 +11,40 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/club-de-foot/club-de-foot/blogs.json"
     },
     "items": {
-        "leparisien.fr/2015/04/les-mureaux-coulisses-agit%C3%A9es-du-club-de-foot": {
-            "title": "Les Mureaux: les coulisses agit\u00e9es du club de foot...",
-            "snippet": "r\u00e9agir Illustration. Meta Biolo, entra\u00eeneur des jeunes, accuse Dominique Gomis, entra\u00eeneur des seniors, de lavoir agress\u00e9. Ce dernier dit, au contraire, s\u00eatre d\u00e9fendu apr\u00e8s que le premier a tent\u00e9 de le frapper. (LP/Icon Sport/Andre Ferreira.",
-            "date": "2015-04-27",
-            "categories": "sport",
-            "tags": "sport,dernier,dominique,club,foot,entra\u00eeneur",
-            "recuweb_url": "http://fr.recuweb.com/sport/leparisien.fr/2015/04/les-mureaux-coulisses-agit%C3%A9es-du-club-de-foot",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=club%2Bde%2Bfoot&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/yvelines-78/les-mureaux-les-coulisses-agitees-du-club-de-foot-27-04-2015-4728903.php"
-        },
-        "courrier-picard.fr/2015/04/amiens-le-club-de-foot-monti%C3%A8res-fait-m%C3%A9nage-courrier-picard": {
-            "title": "AMIENS Le club de foot de Monti\u00e8res fait le m\u00e9nage - Courrier Picard...",
-            "snippet": "AMIENS Le club de foot de Monti\u00e8res fait le m\u00e9nageCourrier PicardPr\u00e9sident du club de football de Monti\u00e8res Etouvie, Dominique Flahaut avait promis de s\u00e9vir au lendemain d'un \u00e9ni\u00e8me incident impliquant l'\u00e9quipe des moins de 18 ans. \u00c0...",
-            "date": "2015-04-24",
+        "courrierdesyvelines.fr/2015/04/les-supporters-du-club-de-foot-sont-ils-trop-enthousiastes": {
+            "title": "Les supporters du club de foot sont-ils trop enthousiastes? - Le Courrier des Yvelines...",
+            "snippet": "Le Courrier des YvelinesLes supporters du club de foot sont-ils trop enthousiastes?Le Courrier des YvelinesLes membres de la Cinqui\u00e8me Colonne, les supporters de l'\u00e9quipe senior du Football club de Saint-Germain (FC Saint-Germain) sont dans le...",
+            "date": "2015-04-29",
             "categories": "football",
-            "tags": "\u00e9quipe,dominique,club,foot,football",
-            "recuweb_url": "http://fr.recuweb.com/football/courrier-picard.fr/2015/04/amiens-le-club-de-foot-monti%C3%A8res-fait-m%C3%A9nage-courrier-picard",
+            "tags": "\u00e9quipe,club,foot,football,saint,germain",
+            "recuweb_url": "http://fr.recuweb.com/football/courrierdesyvelines.fr/2015/04/les-supporters-du-club-de-foot-sont-ils-trop-enthousiastes",
             "resource_url": "http://news.google.fr/?hl=fr&q=club%2Bde%2Bfoot&output=atom&nord=1",
-            "source_url": "http://courrier-picard.fr/region/amiens-le-club-de-foot-de-montieres-fait-le-menage-ia167b0n558155"
+            "source_url": "http://courrierdesyvelines.fr/2015/04/29/les-supporters-du-club-de-foot-sont-ils-trop-enthousiastes/"
+        },
+        "lavoixdunord.fr/2015/04/un-nouveau-club-de-football-est-n%C3%A9-le-fc-maretz-six": {
+            "title": "Un nouveau club de football est n\u00e9: le FC Maretz... Six ans apr\u00e8s! - La Voix du Nord...",
+            "snippet": "La Voix du NordUn nouveau club de football est n\u00e9: le FC Maretz... Six ans apr\u00e8s!La Voix du NordUlt\u00e9rieurement, ils auront lieu au terrain de foot rue des Poilus. Celui-ci ayant \u00e9t\u00e9 abandonn\u00e9, laiss\u00e9 en friches vient d'\u00eatre labour\u00e9 et une...",
+            "date": "2015-04-29",
+            "categories": "football",
+            "tags": "rue,club,football,foot",
+            "recuweb_url": "http://fr.recuweb.com/football/lavoixdunord.fr/2015/04/un-nouveau-club-de-football-est-n%C3%A9-le-fc-maretz-six",
+            "resource_url": "http://news.google.fr/?hl=fr&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/un-nouveau-club-de-football-est-ne-le-fc-maretz-six-ia14b45254n2800043"
         },
         "lebuzz.eurosport.fr/2015/04/connaissez-vous-vraiment-les-logos-de-clubs-foot": {
             "title": "Connaissez-vous vraiment les logos de clubs de foot? -...",
-            "snippet": "vraiment les logos de clubs de foot? me suis tromp\u00e9 sur le club Turc et un club Anglais Bon petit test bien amusant!;). FCBayernSterndesSudens. 15 de 15:D. Nada Snab. 14 sur 15, tromp\u00e9 sur le club turc:s. Mohamed Amine. Trabzonspor. Nass. 15/15...",
+            "snippet": "vraiment les logos de clubs de foot? a peu pr\u00e8s si tu suis le foot tu peux connaitre les 15, ils n'ont pas choisi des clubs de troisi\u00e8me division quand m\u00eame. Nabilinho. A part les faciles j'ai trouv\u00e9 plus difficilement la bonne r\u00e9ponse pour...",
             "date": "2015-04-24",
-            "tags": "vraiment,clubs,club,foot,turc",
+            "tags": "part,division,m\u00eame,choisi,vraiment,clubs,foot,bonne",
             "recuweb_url": "http://fr.recuweb.com/lebuzz.eurosport.fr/2015/04/connaissez-vous-vraiment-les-logos-de-clubs-foot",
-            "resource_url": "http://news.google.fr/?hl=fr&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=club%2Bde%2Bfoot&output=atom&nord=1",
             "source_url": "http://lebuzz.eurosport.fr/football/connaissez-vous-vraiment-les-logos-de-clubs-de-foot-15654/"
-        },
-        "20minutes.fr/2015/04/equateur-un-club-de-foot-enti%C3%A8rement-d%C3%A9valis%C3%A9-pendant-match": {
-            "title": "Equateur: un club de foot enti\u00e8rement d\u00e9valis\u00e9 pendant un match...",
-            "snippet": "Ils ont tout pris: les ordinateurs, les t\u00e9l\u00e9phones portables, des v\u00eatements, de l'argent en liquide qui appartenait aux techniciens et aux joueurs, des chaussures de sport..., a-t-il \u00e9num\u00e9r\u00e9, incr\u00e9dule. Des membres du personnel ont \u00e9t\u00e9...",
-            "date": "2015-04-24",
-            "categories": "sport,ordinateur",
-            "tags": "\u00e9t\u00e9,sport,joueurs,pris,match,club,foot",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/20minutes.fr/2015/04/equateur-un-club-de-foot-enti%C3%A8rement-d%C3%A9valis%C3%A9-pendant-match",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=club%2Bde%2Bfoot&format=RSS&cc=fr",
-            "source_url": "http://20minutes.fr/sport/football/1594459-20150424-equateur-club-foot-entierement-devalise-pendant-match"
-        },
-        "lemag.eurosport.fr/2015/04/gal%C3%A8re-football-club-voyage-au-coeur-des-belles-histoires": {
-            "title": "Gal\u00e8re Football Club: Voyage au coeur des belles histoires du football -...",
-            "snippet": "\u00e8re Football Club: Voyage au coeur des belles histoires du PSG et l'AS Monaco ont \u00e9t\u00e9 \u00e9limin\u00e9s en Ligue des champions cette semaine. Aucun des 11 joueurs qui composent l'\u00e9quipe type de l'ouvrage de Romain Molina Gal\u00e8re Football Club, n'a...",
-            "date": "2015-04-24",
-            "categories": "football",
-            "tags": "\u00e9quipe,joueurs,\u00e9t\u00e9,football,football_club,club,coeur,psg,ligue",
-            "recuweb_url": "http://fr.recuweb.com/football/lemag.eurosport.fr/2015/04/gal%C3%A8re-football-club-voyage-au-coeur-des-belles-histoires",
-            "resource_url": "http://news.google.fr/?hl=fr&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&output=atom&nord=1",
-            "source_url": "http://lemag.eurosport.fr/culture-pop/galere-football-club-voyage-au-coeur-des-belles-histoires-du-football-10288/"
         },
         "sofoot.com/2015/04/un-club-de-foot-%C3%A9quatorien-cambriol%C3%A9": {
             "title": "Un club de foot \u00e9quatorien cambriol\u00e9...",
             "snippet": "Se faire d\u00e9pouiller en plein match, une technique d\u00e9sormais \u00e9prouv\u00e9e. Mercredi soir, alors que le club du Deportivo Quito recevait le Nacional dans un match comptant pour la 14e journ\u00e9e de premi\u00e8re division \u00e9quatorienne, des cambrioleurs...",
             "date": "2015-04-23",
-            "tags": "match,club,foot",
+            "tags": "division,club,foot,match",
             "recuweb_url": "http://fr.recuweb.com/sofoot.com/2015/04/un-club-de-foot-%C3%A9quatorien-cambriol%C3%A9",
             "resource_url": "http://www.bing.com/news/search?first=1&q=club%2Bde%2Bfoot&format=RSS&cc=fr",
             "source_url": "http://sofoot.com/un-club-de-foot-equatorien-cambriole-199860.html"
@@ -73,19 +53,10 @@
             "title": "Saint-Forgeot Belote et rebelote au club de foot...",
             "snippet": "Belote au club de foot. Samedi, au local du club sportif, 16 doublettes se sont retrouv\u00e9es autour du tapis vert, pour le concours de belote organis\u00e9 par Jocelyne Houchard, la pr\u00e9sidente du club, et son \u00e9quipe. La paire Michel et Jeannette a pris...",
             "date": "2015-04-19",
-            "tags": "pris,\u00e9quipe,saint,club,foot,samedi,sportif",
+            "tags": "\u00e9quipe,saint,club,foot,sportif",
             "recuweb_url": "http://fr.recuweb.com/lejsl.com/2015/04/saint-forgeot-belote-et-rebelote-au-club-de-foot",
             "resource_url": "http://www.bing.com/news/search?first=1&q=club%2Bde%2Bfoot&format=RSS&cc=fr",
             "source_url": "http://lejsl.com/edition-autun/2015/04/20/belote-et-rebelote-au-club-de-foot"
-        },
-        "fr.news.yahoo.com/2015/04/video-turquie-le-bus-du-club-de-foot-fenerbah%C3%A7e-victime-tirs": {
-            "title": "VIDEO. Turquie: le bus du club de foot Fenerbah\u00e7e victime de tirs...",
-            "snippet": "Une attaque arm\u00e9e a vis\u00e9 le bus du club de foot turc du Fenerbah\u00e7e Istanbul, dans la nuit de samedi, alors qu'il se trouvait sur l'autoroute. Le chauffeur a \u00e9t\u00e9 bless\u00e9. Les dirigeants stambouliotes exigent que le championnat soit suspendu, le...",
-            "date": "2015-04-05",
-            "tags": "\u00e9t\u00e9,samedi,turc,attaque,club,foot",
-            "recuweb_url": "http://fr.recuweb.com/fr.news.yahoo.com/2015/04/video-turquie-le-bus-du-club-de-foot-fenerbah%C3%A7e-victime-tirs",
-            "resource_url": "http://fr.news.search.yahoo.com/rss?ei=UTF-8&fr=globalnews_sb&p=club%2Bde%2Bfoot",
-            "source_url": "http://fr.news.yahoo.com/video-turquie-bus-club-foot-fenerbah\u00e7e-victime-tirs-143354126--spt.html"
         }
     }
 }
