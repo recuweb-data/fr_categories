@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "triple-saut",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/triple-saut/",
@@ -11,23 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/triple-saut/triple-saut/blogs.json"
     },
     "items": {
-        "malijet.com/2015/04/meeting-international-de-bamako-encore-un-coup-ma%C3%AEtre-pour-la-malijet": {
-            "title": "Meeting international de Bamako: Encore un coup de ma\u00eetre pour la... - Malijet - Actualit\u00e9...",
-            "snippet": "Malijet - Actualit\u00e9 malienne (Communiqu\u00e9 de presse)Meeting international de Bamako: Encore un coup de ma\u00eetre pour la...Malijet - Actualit\u00e9 malienne (Communiqu\u00e9 de presse)Enfin, la valse des m\u00e9dailles prend fin avec le triple saut o\u00f9 Mamadou...",
-            "date": "2015-04-27",
-            "tags": "coup,triple,saut",
-            "recuweb_url": "http://fr.recuweb.com/malijet.com/2015/04/meeting-international-de-bamako-encore-un-coup-ma%C3%AEtre-pour-la-malijet",
+        "ouest-france.fr/2015/04/sports-les-dix-infos-qu-il-ne-fallait-pas-rater-aujourd": {
+            "title": "Sports. Les dix infos qu'il ne fallait pas rater aujourd'hui - Ouest-France...",
+            "snippet": "Ouest-FranceSports. Les dix infos qu'il ne fallait pas rater aujourd'huiOuest-FranceSports. Les dix infos qu'il ne fallait pas rater aujourd'hui. France - 18h54. \u00e9couter. Josh Sheehan a r\u00e9ussi le premier triple saut p\u00e9rilleux de l'histoire en...",
+            "date": "2015-04-29",
+            "categories": "sport",
+            "tags": "p\u00e9rilleux,premier,josh,josh_sheehan,sheehan,france,triple,saut",
+            "recuweb_url": "http://fr.recuweb.com/sport/ouest-france.fr/2015/04/sports-les-dix-infos-qu-il-ne-fallait-pas-rater-aujourd",
             "resource_url": "http://news.google.fr/?hl=fr&q=triple%2Bsaut%2Btriple%2Bsaut&output=atom&nord=1",
-            "source_url": "http://malijet.com/actualite_sportive_au_mali/128245-meeting-international-de-bamako-encore-un-coup-de-ma\u00eetre-pour-la.html"
+            "source_url": "http://ouest-france.fr/les-dix-infos-quil-ne-fallait-pas-rater-aujourdhui-3366782"
         },
-        "lamontagne.fr/2015/04/prise-de-rep%C3%A8res-pour-le-challenge-des-sp%C3%A9cialit%C3%A9s-la-montagne": {
-            "title": "Prise de rep\u00e8res pour le challenge des sp\u00e9cialit\u00e9s - La Montagne...",
-            "snippet": "La MontagnePrise de rep\u00e8res pour le challenge des sp\u00e9cialit\u00e9sLa MontagneIl fallait compter avec le vent, bien g\u00eanant pour les coureurs, favorable pour le triple saut. Aussi, peu de sprinteurs ont tir\u00e9 leur \u00e9pingle du jeu sur 100 m; parmi...",
-            "date": "2015-04-24",
-            "tags": "triple,saut",
-            "recuweb_url": "http://fr.recuweb.com/lamontagne.fr/2015/04/prise-de-rep%C3%A8res-pour-le-challenge-des-sp%C3%A9cialit%C3%A9s-la-montagne",
-            "resource_url": "http://news.google.fr/?hl=fr&q=triple%2Bsaut&output=atom&nord=1",
-            "source_url": "http://lamontagne.fr/limousin/sports/actualite/athletisme/2015/04/24/prise-de-reperes-pour-le-challenge-des-specialites_11416852-6671.html"
+        "rtl.fr/2015/04/vid%C3%A9o-il-r%C3%A9alise-le-premier-triple-backflip-en-motocross": {
+            "title": "VID\u00c9O - Il r\u00e9alise le premier triple backflip en motocross...",
+            "snippet": "Plusieurs cam\u00e9ras ont enregistr\u00e9 l'exploit sous des angles diff\u00e9rents. On voit Josh Sheehan s'\u00e9lancer sur le tremplin pour r\u00e9aliser son triple saut p\u00e9rilleux. L'atterrissage de cet envol est bien amorti, la figure parfaitement r\u00e9alis\u00e9e. Le...",
+            "date": "2015-04-29",
+            "tags": "josh,josh_sheehan,sheehan,premier,triple,saut,p\u00e9rilleux",
+            "recuweb_url": "http://fr.recuweb.com/rtl.fr/2015/04/vid%C3%A9o-il-r%C3%A9alise-le-premier-triple-backflip-en-motocross",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=triple%2Bsaut&format=RSS&cc=fr",
+            "source_url": "http://rtl.fr/sport/sports-extremes/video-il-realise-le-premier-triple-backflip-en-motocross-7777513390"
         },
         "ladepeche.fr/2015/04/acsa-des-podiums-et-titres-au-championnat-d%C3%A9partemental": {
             "title": "ACSA: des podiums et des titres au championnat d\u00e9partemental -...",
@@ -38,15 +39,6 @@
             "recuweb_url": "http://fr.recuweb.com/triathlon/ladepeche.fr/2015/04/acsa-des-podiums-et-titres-au-championnat-d%C3%A9partemental",
             "resource_url": "http://news.google.fr/?hl=fr&q=triple%2Bsaut&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/15/2087221-acsa-des-podiums-et-des-titres-au-championnat-departemental.html"
-        },
-        "larepublique77.fr/2015/03/en-triple-saut-melvin-raffin-vise-toujours-plus-loin-r%C3%A9publique-seine": {
-            "title": "En triple saut, Melvin Raffin vise toujours plus loin - R\u00e9publique Seine-et-Marne...",
-            "snippet": "R\u00e9publique Seine-et-MarneEn triple saut, Melvin Raffin vise toujours plus loinR\u00e9publique Seine-et-MarneChampion de France cadet de triple saut, le Savignien Melvin Raffin a re\u00e7u le troph\u00e9e de l'espoir qui r\u00e9compense les meilleurs jeunes...",
-            "date": "2015-03-30",
-            "tags": "triple,saut,france",
-            "recuweb_url": "http://fr.recuweb.com/larepublique77.fr/2015/03/en-triple-saut-melvin-raffin-vise-toujours-plus-loin-r%C3%A9publique-seine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=triple%2Bsaut%2Btriple%2Bsaut&output=atom&nord=1",
-            "source_url": "http://larepublique77.fr/2015/03/30/en-triple-saut-melvin-raffin-vise-toujours-plus-loin/"
         }
     }
 }
