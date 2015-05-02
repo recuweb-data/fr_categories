@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "portal_name": "religion-en-inde",
+        "language": "fr",
+        "updated": "20150502"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/religion-en-inde/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-en-inde/religion-en-inde/blogs.json"
+    },
+    "items": {
+        "rue89.nouvelobs.com/2015/04/les-sites-matrimoniaux-un-rem%C3%A8de-aux-mariages-arrang%C3%A9s-en-inde-rue89": {
+            "title": "Les sites matrimoniaux, un rem\u00e8de aux mariages arrang\u00e9s en Inde - Rue89...",
+            "snippet": "Les sites matrimoniaux, un rem\u00e8de aux mariages arrang\u00e9s en IndeRue89Mais tandis que l'affinit\u00e9 prime dans les pays occidentaux, les sites de mariage indiens classent leurs membres en fonction de leur caste et de leur religion. Garima Pant,...",
+            "date": "2015-04-29",
+            "categories": "religion",
+            "tags": "religion,inde",
+            "recuweb_url": "http://fr.recuweb.com/religion/rue89.nouvelobs.com/2015/04/les-sites-matrimoniaux-un-rem%C3%A8de-aux-mariages-arrang%C3%A9s-en-inde-rue89",
+            "resource_url": "http://news.google.fr/?hl=fr&q=religion%2Ben%2Binde&output=atom&nord=1",
+            "source_url": "http://rue89.nouvelobs.com/2015/04/29/les-sites-matrimoniaux-remede-mariages-arranges-inde-258899"
+        }
+    }
+}
