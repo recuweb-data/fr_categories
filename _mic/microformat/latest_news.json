@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformat",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microformat/",
@@ -38,7 +38,7 @@
             "categories": "macbook",
             "tags": "micro,format",
             "recuweb_url": "http://fr.recuweb.com/macbook/turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microformat&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
             "source_url": "http://turn-on.de/news/macbook-2015-alle-infos-zum-release-und-erste-tests-22078"
         },
         "abondance.com/2014/06/faut-il-int%C3%A9grer-les-balises-s%C3%A9mantiques-dans-ses-pages-abondance": {
@@ -78,7 +78,7 @@
             "categories": "microformat",
             "tags": "search,search_engine,engine,using,hcard,seo",
             "recuweb_url": "http://fr.recuweb.com/microformat/searchengineland.com/2007/10/the-hcard-microformat-&-local-search-optimization-engine-land-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microformat&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
             "source_url": "http://searchengineland.com/the-hcard-microformat-local-search-optimization-12424"
         }
     }
