@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "powerbook",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150502"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/powerbook/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
     },
     "items": {
-        "time.com/2015/04/here-s-how-much-it-costs-to-be-an-apple-early": {
-            "title": "Here's How Much It Costs to Be an Apple Early Adopter - TIME...",
-            "snippet": "TIMEHere's How Much It Costs to Be an Apple Early AdopterTIMEI didn't consider the Macbook and Macbook Pro to be new products because both were extensions of a previous product linethe iBook and Powerbook, respectivelyand launched at the same price...",
-            "date": "2015-04-24",
-            "categories": "macbook,powerbook",
-            "tags": "pro,were,apple,here,macbook,powerbook",
-            "recuweb_url": "http://fr.recuweb.com/powerbook/time.com/2015/04/here-s-how-much-it-costs-to-be-an-apple-early",
+        "oncevatan.com.tr/2015/04/banu-doan-bilge-g%C3%BCne-%C3%B6nce-vatan-gazetesi": {
+            "title": "Banu DOAN (Bilge G\u00dcNE) - \u00d6nce Vatan Gazetesi...",
+            "snippet": "\u00d6nce Vatan GazetesiBanu DOAN (Bilge G\u00dcNE)\u00d6nce Vatan GazetesiApple 1991 yl sonlarnda iyi bir sat grafii \u00e7izen ilk tanabilir modellerini (PowerBook) sata sundu. Ayn zamanda yeni t\u00fcr bir bilgisayar olan PDA (personel digital assistant) \u00fczerinde...",
+            "date": "2015-04-29",
+            "categories": "powerbook",
+            "tags": "powerbook",
+            "recuweb_url": "http://fr.recuweb.com/powerbook/oncevatan.com.tr/2015/04/banu-doan-bilge-g%C3%BCne-%C3%B6nce-vatan-gazetesi",
             "resource_url": "http://news.google.fr/?hl=fr&q=powerbook%2Bpowerbook&output=atom&nord=1",
-            "source_url": "http://time.com/money/3828674/the-cost-of-being-an-apple-early-adopter/"
+            "source_url": "http://oncevatan.com.tr/applein-tarihcesi-makale,33000.html"
+        },
+        "berliner-zeitung.de/2015/04/kolumne-das-apple-zeitalter-geht-zu-ende-berliner-zeitung": {
+            "title": "Kolumne - Das Apple-Zeitalter geht zu Ende - Berliner Zeitung...",
+            "snippet": "Berliner ZeitungKolumne - Das Apple-Zeitalter geht zu EndeBerliner ZeitungEs war eben etwas ganz anderes, in der gro\u00dfen weiten Welt ein Powerbook auf den Knien zu halten oder eine Plastikdose aus dem Reich von MS-DOS. Was Apple von allen anderen...",
+            "date": "2015-04-29",
+            "categories": "powerbook",
+            "tags": "was,apple,powerbook",
+            "recuweb_url": "http://fr.recuweb.com/powerbook/berliner-zeitung.de/2015/04/kolumne-das-apple-zeitalter-geht-zu-ende-berliner-zeitung",
+            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
+            "source_url": "http://berliner-zeitung.de/meinung/kolumne-das-apple-zeitalter-geht-zu-ende,10808020,30557076.html"
         },
         "latimes.com/2015/04/jason-chung-shows-there-s-no-such-thing-as-giving-up": {
             "title": "Jason Chung shows there's no such thing as giving up - Los Angeles Times...",
@@ -28,7 +38,7 @@
             "categories": "powerbook",
             "tags": "heavy,that,powerbook",
             "recuweb_url": "http://fr.recuweb.com/powerbook/latimes.com/2015/04/jason-chung-shows-there-s-no-such-thing-as-giving-up",
-            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook%2Bpowerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
             "source_url": "http://latimes.com/entertainment/music/la-et-ca-ms-nosaj-thing-jason-chung-review-20150424-column.html"
         },
         "zdnet.com/2015/04/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-zdnet": {
@@ -36,19 +46,27 @@
             "snippet": "ZDNetRefreshed MacBook Pro: Stunningly fast storage, spooky touchpad...ZDNetPowerBook 150, circa 1994 - Image: Dana Sibera CC BY-SA 2.5 Here's an admission: this is the first Mac laptop I've had since my 1994 PowerBook 150. We were a heavy Mac shop...",
             "date": "2015-04-21",
             "categories": "macbook,powerbook",
-            "tags": "were,heavy,macbook,pro,here,mac,laptop,powerbook",
+            "tags": "heavy,macbook,mac,laptop,powerbook",
             "recuweb_url": "http://fr.recuweb.com/powerbook/zdnet.com/2015/04/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-zdnet",
             "resource_url": "http://news.google.fr/?hl=fr&q=powerbook%2Bpowerbook&output=atom&nord=1",
             "source_url": "http://zdnet.com/article/refreshed-macbook-pro-stunningly-fast-storage-spooky-touchpad-delightful-display/"
         },
+        "azernews.az/2015/04/leyla-aliyeva-joins-presentation-of-formula-power-book-azernews": {
+            "title": "Leyla Aliyeva joins presentation of Formula of Power book - AzerNews...",
+            "snippet": "AzerNewsLeyla Aliyeva joins presentation of Formula of Power bookAzerNewsThe third volume of Formula of Power and 65 more interviews book by First Deputy Director General of Russian TASS news agency and well-known journalist, Mikhail Gusman has been...",
+            "date": "2015-04-13",
+            "recuweb_url": "http://fr.recuweb.com/azernews.az/2015/04/leyla-aliyeva-joins-presentation-of-formula-power-book-azernews",
+            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
+            "source_url": "http://azernews.az/culture/80333.html"
+        },
         "geek.com/2015/04/2015-macbook-vs-2005-powerbook-g4-what-a-difference-decade-geek": {
             "title": "2015 MacBook vs. 2005 PowerBook G4: what a difference a decade... - Geek...",
-            "snippet": "Geek2015 MacBook vs. 2005 PowerBook G4: what a difference a decade...GeekSo what difference does a decade make? Quite a lot, actually. Reddit user broostenq has created the graphic you see below, which compares the spec of the PowerBook G4 from 2005...",
+            "snippet": "Geek2015 MacBook vs. 2005 PowerBook G4: what a difference a decade...GeekApple is a company all about regularly scheduled iteration and improvements to its products. You only have to look at how the iPhone has evolved over the years as proof of...",
             "date": "2015-04-06",
-            "categories": "macbook,powerbook",
-            "tags": "make,macbook,powerbook",
-            "recuweb_url": "http://fr.recuweb.com/powerbook/geek.com/2015/04/2015-macbook-vs-2005-powerbook-g4-what-a-difference-decade-geek",
-            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook%2Bpowerbook&output=atom&nord=1",
+            "categories": "macbook,powerbook,iphone",
+            "tags": "only,its,macbook,powerbook",
+            "recuweb_url": "http://fr.recuweb.com/iphone/geek.com/2015/04/2015-macbook-vs-2005-powerbook-g4-what-a-difference-decade-geek",
+            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
             "source_url": "http://geek.com/apple/2015-macbook-vs-2005-powerbook-g4-what-a-difference-a-decade-makes-1619614/"
         },
         "macworld.com/2015/03/ode-to-the-12-inch-powerbook-g4-apple-s-first-desktop": {
@@ -56,7 +74,7 @@
             "snippet": "MacworldOde to the 12-inch PowerBook G4, Apple's first desktop-quality laptopMacworldAt its best, Apple has the ability to make stuff that reaches right around the rational, pragmatic part of your brain to grab your amygdala and squeeze it till the...",
             "date": "2015-03-25",
             "categories": "powerbook",
-            "tags": "make,that,its,laptop,powerbook,apple,macworld",
+            "tags": "that,its,laptop,powerbook,apple,macworld",
             "recuweb_url": "http://fr.recuweb.com/powerbook/macworld.com/2015/03/ode-to-the-12-inch-powerbook-g4-apple-s-first-desktop",
             "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
             "source_url": "http://macworld.com/article/2901437/ode-to-the-12-inch-powerbook-g4-apples-first-desktop-quality-laptop.html"
@@ -66,7 +84,7 @@
             "snippet": "MacworldThe new MacBook is cool, but the PowerBook Duo was coolerMacworldWith all the excitement last week over the new MacBook, it seems only right and proper that today Think Retro turns its attention to Apple's original superlight laptop, the...",
             "date": "2015-03-18",
             "categories": "powerbook,macbook",
-            "tags": "laptop,its,that,powerbook,duo,macbook,macworld,apple",
+            "tags": "laptop,its,only,that,was,powerbook,duo,macbook,macworld,apple",
             "recuweb_url": "http://fr.recuweb.com/macbook/macworld.com/2015/03/the-new-macbook-is-cool-but-powerbook-duo-was-cooler-macworld",
             "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
             "source_url": "http://macworld.com/article/2897715/the-new-macbook-is-cool-but-the-powerbook-duo-was-cooler.html"
@@ -78,7 +96,7 @@
             "categories": "powerbook,ordinateur",
             "tags": "ouvre,ouvre-int\u00e9gralement,int\u00e9gralement,int\u00e9gralement-en-deux,deux,deux-pour-laisser,laisser,laisser-apparaitre,apparaitre,apparaitre-un-clavier,clavier,appareil,appareil-est-tr\u00e8s,compact,conception,conception-est-r\u00e9volutionnaire,r\u00e9volutionnaire,commercialise,powerbook,ordinateur,portable,apple",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/clubic.com/2014/11/retour-sur-le-powerbook-quand-l-ordinateur-portable-devint-clubic",
-            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook%2Bpowerbook&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=powerbook&output=atom&nord=1",
             "source_url": "http://clubic.com/video/antiqui-tech/video-apple-powerbook-en-video-quand-l-ordinateur-portable-devient-portable-457145.html"
         }
     }
