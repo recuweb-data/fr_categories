@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblog",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -71,24 +71,13 @@
             "source_url": "http://dailymotion.com/video/xn7fwk_les-microblogs-vises-par-la-censure-informatique_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xn7fwk_les-microblogs-vises-par-la-censure-informatique_news"
         },
-        "youtube.com/2011/11/un-amour-vache": {
-            "title": "Un amour vache...",
-            "snippet": "Un amour vache Premi\u00e8re vid\u00e9o faite avec GoAnimate!!! D\u00e9sol\u00e9 pour les voix de robots mais je savais pas comment faire pour enregistrer leur voix avec ma voix (avec un micro)!!! Blog Skyrock: dgb9... From: DGB9743323 Views: 1162 3 ratings Time:...",
-            "date": "2011-11-13",
-            "author_name": "DGB9743323",
-            "tags": "micro",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2011/11/un-amour-vache",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Y0E5hOcHDe4&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Y0E5hOcHDe4/0.jpg"
-        },
         "youtube.com/2011/03/tech-24-twitter-5-ans-et-de-grandes-ambitions": {
             "title": "TECH 24: Twitter - 5 ans et de grandes ambitions...",
             "snippet": "TECH 24: Twitter - 5 ans et de grandes ambitions Twitter f\u00eate ses 5 ans. Avec 210 millions d'utilisateurs dans le monde, le petit oiseau bleu est devenu grand. Christophe Ramel, aka Kriisis, d\u00e9crypte l'ascension du site de micro blog sur... From:...",
             "date": "2011-03-24",
             "author_name": "FRANCE 24",
             "categories": "microblog,twitter",
-            "tags": "micro,petit,millions,twitter",
+            "tags": "petit,millions,twitter",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2011/03/tech-24-twitter-5-ans-et-de-grandes-ambitions",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=yHnb88YWcew&feature=youtube_gdata",
@@ -129,6 +118,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x7kcqr_boire-une-biere-coup-sec_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcqr_boire-une-biere-coup-sec_fun"
+        },
+        "dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur": {
+            "title": "le cam\u00e9lion rappeur...",
+            "snippet": "merci pour vos commentaires sur mon microblogAuthor: B1ouB1Tags: cam\u00e9l\u00e9on rap humour dr\u00f4le Posted: 30 November 2008Rating:: 0...",
+            "date": "2008-11-30",
+            "author_name": "B1ouB1",
+            "categories": "humour",
+            "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
+            "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x7kcq8_le-camelion-rappeur_animals",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcq8_le-camelion-rappeur_animals"
         }
     }
 }
