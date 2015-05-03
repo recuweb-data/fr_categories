@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sous-titrage",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sous-titrage/",
@@ -11,24 +11,32 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
     },
     "items": {
+        "geeksandcom.com/2015/05/l-attaque-des-titans-une-nouvelle-bande-annonce": {
+            "title": "L Attaque des Titans: une nouvelle bande-annonce...",
+            "snippet": "Cest par le biais de l\u00e9diteur Madman que nous d\u00e9couvrons la nouvelle bande annonce du film lAttaque des Titans en sous-titrage anglais. Par rapport aux anciennes bandes-annonces, celle-ci nous donne un meilleur aper\u00e7u du casting et des titans.",
+            "date": "2015-05-01",
+            "tags": "titrage",
+            "recuweb_url": "http://fr.recuweb.com/geeksandcom.com/2015/05/l-attaque-des-titans-une-nouvelle-bande-annonce",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
+            "source_url": "http://geeksandcom.com/2015/05/01/lattaque-des-titans-une-nouvelle-bande-annonce"
+        },
         "newswire.ca/2015/04/isabella-federigi-promue-au-poste-de-vice-pr%C3%A9sidente-programmation-et-production": {
             "title": "Isabella Federigi promue au poste de vice-pr\u00e9sidente, programmation et production, AMI-t\u00e9l\u00e9...",
             "snippet": "avec vid\u00e9odescription et sous-titrage cod\u00e9. \u00c0 propos d'AMI Accessibilit\u00e9 M\u00e9dia Inc. (AMI) est un organisme multim\u00e9dia sans but lucratif au service de plus de cinq millions de Canadiens qui sont aveugles, malvoyants, sourds, malentendants...",
             "date": "2015-04-29",
-            "tags": "titrage",
+            "tags": "propos,titrage",
             "recuweb_url": "http://fr.recuweb.com/newswire.ca/2015/04/isabella-federigi-promue-au-poste-de-vice-pr%C3%A9sidente-programmation-et-production",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
             "source_url": "http://newswire.ca/fr/story/1526765/isabella-federigi-promue-au-poste-de-vice-presidente-programmation-et-production-ami-tele"
         },
-        "kulturegeek.fr/2015/04/batman-v-superman-la-bande-annonce-d%C3%A9voil%C3%A9e-avant-lheure-screener": {
-            "title": "Batman v Superman: la bande-annonce d\u00e9voil\u00e9e avant lheure (screener)...",
-            "snippet": "La premi\u00e8re bande annonce de Batman v Superman: Dawn of Justice devait \u00eatre diffus\u00e9e ce lundi 20 avril mais un petit malin (sans doute br\u00e9silien au vu du sous-titrage) a lch\u00e9 dans la nature un screener de ces quelques minutes de pr\u00e9sentation...",
-            "date": "2015-04-19",
-            "categories": "nature",
+        "lanouvellerepublique.fr/2015/04/la-passion-de-luc-pour-l-op%C3%A9ra": {
+            "title": "La passion de Luc pour l'op\u00e9ra...",
+            "snippet": "Avec de gros avantages, le grand \u00e9cran, une sono adapt\u00e9e, le sous-titrage, la d\u00e9couverte des d\u00e9cors du Met', comme disent les initi\u00e9s. Et l'\u00e9num\u00e9ration se poursuit, enthousiaste: J'appr\u00e9cie aussi les jeux de cam\u00e9ras et les gros...",
+            "date": "2015-04-29",
             "tags": "titrage",
-            "recuweb_url": "http://fr.recuweb.com/nature/kulturegeek.fr/2015/04/batman-v-superman-la-bande-annonce-d%C3%A9voil%C3%A9e-avant-lheure-screener",
+            "recuweb_url": "http://fr.recuweb.com/lanouvellerepublique.fr/2015/04/la-passion-de-luc-pour-l-op%C3%A9ra",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
-            "source_url": "http://kulturegeek.fr/news-56728/batman-v-superman-bande-annonce-devoilee-lheure-screener"
+            "source_url": "http://lanouvellerepublique.fr/Loir-et-Cher/Loisirs/24H/n/Contenus/Articles/2015/04/29/La-passion-de-Luc-pour-l-opera-2312242"
         }
     }
 }
