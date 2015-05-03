@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moteur-de-recherche",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -11,23 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
-        "alwihdainfo.com/2015/04/ask-gumundur-le-tout-premier-moteur-de-recherche-humain": {
-            "title": "Ask Gumundur, le tout premier moteur de recherche humain...",
-            "snippet": "REYKJAVIK, Iceland, April 28, 2015/PRNewswire/-- Ce service unique offre une plateforme de recherche personnelle pour d\u00e9couvrir les secrets cach\u00e9s du pays Inspired By Iceland lance Ask Gumundur, le tout premier...",
-            "date": "2015-04-28",
-            "author_name": "inconnu",
-            "tags": "premier,gumundur,moteur,recherche,humain",
-            "recuweb_url": "http://fr.recuweb.com/alwihdainfo.com/2015/04/ask-gumundur-le-tout-premier-moteur-de-recherche-humain",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://alwihdainfo.com/L-Islande-lance-Ask-Gudmundur--le-tout-premier-moteur-de-recherche-humain_a15749.html"
-        },
         "01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche": {
             "title": "Retrouvez votre smartphone Android depuis le moteur de recherche...",
             "snippet": "Vous avez \u00e9gar\u00e9 votre smartphone Android? Pas de panique. Il suffit pour le retrouver de taper une petite phrase magique dans Google...",
             "date": "2015-04-16",
             "author_name": "inconnu",
             "categories": "google",
-            "tags": "suffit,avez,android,moteur,recherche,google",
+            "tags": "suffit,android,moteur,recherche,google",
             "recuweb_url": "http://fr.recuweb.com/google/01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche",
             "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/652388/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche-de-google/"
@@ -41,6 +31,17 @@
             "recuweb_url": "http://fr.recuweb.com/slate.fr/2015/04/un-moteur-de-recherche-ne-devrait-pas-fonder-son-mod%C3%A8le",
             "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100441/brin-page-google-pub"
+        },
+        "presse-citron.net/2015/04/moteur-de-recherche-le-petit-fran%C3%A7ais-qwant-s-offre-un-lifting": {
+            "title": "Moteur de recherche: le petit fran\u00e7ais Qwant s'offre un lifting...",
+            "snippet": "Le petit moteur de recherche fran\u00e7ais Qwant fait son bonhomme de chemin, face au mastodonte Google. Pr\u00e9sent sur le web depuis 2013, il s'offre aujourd'hui une.",
+            "date": "2015-04-14",
+            "author_name": "Manu",
+            "categories": "google",
+            "tags": "moteur,recherche,petit,fran\u00e7ais,qwant,google,web",
+            "recuweb_url": "http://fr.recuweb.com/google/presse-citron.net/2015/04/moteur-de-recherche-le-petit-fran%C3%A7ais-qwant-s-offre-un-lifting",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://presse-citron.net/moteur-de-recherche-le-petit-francais-qwant-soffre-un-lifting/"
         },
         "patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs": {
             "title": "Les moteurs de recherches dimages libres de droit collaboratifs...",
@@ -60,7 +61,7 @@
             "categories": "twitter",
             "tags": "mieux,recherches,recherche,moteur,ligne,permet",
             "recuweb_url": "http://fr.recuweb.com/twitter/formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter",
-            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://formation20.wordpress.com/2014/06/10/snapbird-moteur-de-recherche-pour-twitter/"
         },
         "fenetresur.wordpress.com/2014/04/info-doc-les-moteurs-de-recherche-s%C3%A9ance-9": {
@@ -73,27 +74,6 @@
             "recuweb_url": "http://fr.recuweb.com/discipline/fenetresur.wordpress.com/2014/04/info-doc-les-moteurs-de-recherche-s%C3%A9ance-9",
             "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://fenetresur.wordpress.com/2014/04/16/info-doc-les-moteurs-de-recherche-seance-9/"
-        },
-        "formation20.wordpress.com/2014/02/11-moteurs-de-recherche-pour-rechercher-sans-%C3%AAtre-enregistr%C3%A9": {
-            "title": "11 moteurs de recherche pour rechercher sans \u00eatre enregistr\u00e9...",
-            "snippet": "See on - Time to LearnJai vu passer ces derni\u00e8res semaines plusieurs articles sur des moteurs alternatifs \u00e0 Google qui respectent notre vie priv\u00e9e en nous proposant []...",
-            "date": "2014-02-17",
-            "author_name": "Fr\u00e9d\u00e9ric",
-            "categories": "google",
-            "tags": "plusieurs,moteurs,recherche,\u00eatre,enregistr\u00e9,google",
-            "recuweb_url": "http://fr.recuweb.com/google/formation20.wordpress.com/2014/02/11-moteurs-de-recherche-pour-rechercher-sans-%C3%AAtre-enregistr%C3%A9",
-            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
-            "source_url": "http://formation20.wordpress.com/2014/02/17/11-moteurs-de-recherche-pour-rechercher-sans-etre-enregistre/"
-        },
-        "dedicaces.info/2014/02/egerin-le-premier-moteur-de-recherche-en-langue-kurde": {
-            "title": "Egerin - Le premier moteur de recherche en langue kurde...",
-            "snippet": "Egerin est le premier moteur de recherche kurde. Avec 40 millions de Kurdes vivant dans le monde, Egerin a vu la n\u00e9cessit\u00e9 de fournir un moteur de recherche []...",
-            "date": "2014-02-11",
-            "author_name": "Editions D\u00e9dicaces",
-            "tags": "millions,premier,moteur,recherche",
-            "recuweb_url": "http://fr.recuweb.com/dedicaces.info/2014/02/egerin-le-premier-moteur-de-recherche-en-langue-kurde",
-            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
-            "source_url": "http://dedicaces.info/2014/02/11/egerin-le-premier-moteur-de-recherche-en-langue-kurde/"
         }
     }
 }
