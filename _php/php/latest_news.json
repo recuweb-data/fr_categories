@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -16,7 +16,7 @@
             "snippet": "JDNPHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloudJDNL'enjeu pour Microsoft: offrir un outil qui permettent de tester en front office des applications PHP h\u00e9berg\u00e9es sur Azure. Via une barre de navigation greff\u00e9e dans le...",
             "date": "2015-04-15",
             "categories": "navigation,php",
-            "tags": "applications,cloud,php",
+            "tags": "cloud,php,applications",
             "recuweb_url": "http://fr.recuweb.com/php/journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test",
             "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
             "source_url": "http://journaldunet.com/developpeur/outils/zend-z-ray-pour-microsoft-azure-0415.shtml"
@@ -30,16 +30,6 @@
             "recuweb_url": "http://fr.recuweb.com/php/commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour",
             "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
             "source_url": "http://commentcamarche.net/news/5866376-cloud-php-7-et-workshops-au-programme-du-php-tour-luxembourg-2015"
-        },
-        "globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security": {
-            "title": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de... - Global Security Mag...",
-            "snippet": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de...Global Security MagDESCRIPTION DE LA VULN\u00c9RABILIT\u00c9. La biblioth\u00e8que regexp de Henry Spencer impl\u00e9mente le support des expressions r\u00e9guli\u00e8res. Elle est utilis\u00e9e par PHP et MySQL.",
-            "date": "2015-04-02",
-            "categories": "php,mysql",
-            "tags": "php,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Henry-Spencer-regex-PHP,20150402,52027.html"
         }
     }
 }
