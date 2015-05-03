@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -11,62 +11,82 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "avoir-alire.com/2015/04/100-maisons-la-cit%C3%A9-des-abeilles-chronique-bd": {
-            "title": "100 maisons. La cit\u00e9 des abeilles - La chronique bd...",
-            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... Aujourdhui cest lhabitat coop\u00e9ratif qui suscite lenthousiasme, hier c\u00e9tait les maisons Castors. 100 maisons nous immerge dans un...",
-            "date": "2015-04-29",
+        "sdtimes.com/2015/05/enterprisejs-coalition-aims-for-enterprise-and-javascript": {
+            "title": "EnterpriseJS Coalition aims for enterprise and JavaScript... -...",
+            "snippet": "EnterpriseJS Coalition aims for enterprise and JavaScript... new organization has emerged to spearhead the use of JavaScript and in the enterprise. The EnterpriseJS Coalition is a community, content-sharing platform, and upcoming event series...",
+            "date": "2015-05-02",
             "categories": "javascript",
-            "tags": "fonctionnalit\u00e9s,outil,outil-seront,outil-seront-inactives,seront,seront-inactives,inactives,inactif,navigateur,javascript,certaines",
-            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/04/100-maisons-la-cit%C3%A9-des-abeilles-chronique-bd",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://avoir-alire.com/100-maisons-la-cite-des-abeilles-la-chronique-bd"
+            "tags": "javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/sdtimes.com/2015/05/enterprisejs-coalition-aims-for-enterprise-and-javascript",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
+            "source_url": "http://sdtimes.com/enterprisejs-coalition-aims-for-enterprise-node-js-and-javascript-adoption/"
         },
-        "avoir-alire.com/2015/04/blur-le-point-sur-magic-whip-et-retour-des-trublions": {
-            "title": "Blur: le point sur Magic Whip et le retour des trublions de la Britpop...",
-            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... R\u00e9v\u00e9l\u00e9 en France en 1994 avec Girls and boys, Blur revient en 2015 avec leur premier album en 12 ans, depuis Think Tank. Miracle ou mirage...",
-            "date": "2015-04-29",
-            "categories": "javascript",
-            "tags": "premier,fonctionnalit\u00e9s,outil,outil-seront,outil-seront-inactives,seront,seront-inactives,inactives,inactif,navigateur,javascript,certaines",
-            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/04/blur-le-point-sur-magic-whip-et-retour-des-trublions",
+        "frandroid.com/2015/05/sky-un-langage-de-programmation-bas%C3%A9-sur-dart": {
+            "title": "Sky, un langage de programmation bas\u00e9 sur Dart...",
+            "snippet": "Xposed: l'Alpha 4 est de sortie, sans support d'Android 5.1 Sky est un langage de programmation web venu tout droit de l\u00e9quipe en charge de Chrome V8, un moteur JavaScript libre et open source d\u00e9velopp\u00e9 par Google au Danemark. Il est notamment...",
+            "date": "2015-05-02",
+            "categories": "langage,javascript,google",
+            "tags": "open,web,charge,langage,programmation,javascript,source",
+            "recuweb_url": "http://fr.recuweb.com/google/frandroid.com/2015/05/sky-un-langage-de-programmation-bas%C3%A9-sur-dart",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://avoir-alire.com/blur-le-point-sur-whip-cream-et-le-retour-des-trublions-de-la-britpop"
+            "source_url": "http://frandroid.com/android/developpement/282280_sky-un-langage-de-programmation-base-sur-dart"
+        },
+        "avoir-alire.com/2015/05/un-voisin-trop-parfait-la-critique-du-film": {
+            "title": "Un voisin trop parfait - la critique du film...",
+            "snippet": "Le javascript est inactif sur votre navigateur. Certaines fonctionnalit\u00e9s de cet outil seront inactives... Un thriller domestique d\u00e9lav\u00e9, avec Jennifer Lopez atrophi\u00e9e dans un genre propret destin\u00e9 aux m\u00e9nag\u00e8res en manque de frissons et...",
+            "date": "2015-05-02",
+            "categories": "javascript",
+            "tags": "navigateur,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/avoir-alire.com/2015/05/un-voisin-trop-parfait-la-critique-du-film",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
+            "source_url": "http://avoir-alire.com/un-voisin-trop-parfait-la-critique-du-film"
+        },
+        "infoworld.com/2015/05/microsoft-open-sources-javascript-tools-infoworld": {
+            "title": "Microsoft open-sources JavaScript tools - InfoWorld...",
+            "snippet": "InfoWorldMicrosoft open-sources JavaScript toolsInfoWorldContinuing its overtures toward open source, Microsoft is unveiling technologies for packaging applications and remotely debugging JavaScript. One open source technology, ManifoldJS, helps...",
+            "date": "2015-05-01",
+            "categories": "technologie,javascript",
+            "tags": "technologies,open,microsoft,source,javascript,applications,helps",
+            "recuweb_url": "http://fr.recuweb.com/javascript/infoworld.com/2015/05/microsoft-open-sources-javascript-tools-infoworld",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
+            "source_url": "http://infoworld.com/article/2917441/microsoft-net/microsoft-open-sources-javascript-tools.html"
+        },
+        "thenextweb.com/2015/04/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug": {
+            "title": "Vorlon is a new framework from Microsoft that helps you debug... - The Next Web...",
+            "snippet": "The Next WebVorlon is a new framework from Microsoft that helps you debug...The Next WebAt Microsoft BUILD today, the company announced a new framework, Vorlon, that helps developers debug remote devices running Javascript. Vorlon is a application...",
+            "date": "2015-04-30",
+            "categories": "javascript",
+            "tags": "helps,web,framework,microsoft,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/thenextweb.com/2015/04/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug",
+            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
+            "source_url": "http://thenextweb.com/dd/2015/04/30/vorlon-is-a-new-framework-from-microsoft-that-helps-you-debug-javascript-on-remote-devices/"
         },
         "emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-pure-player-web-ecommerce-cdi-paris-h-f": {
             "title": "D\u00e9veloppeur Javascript pure player web eCommerce CDI Paris H/F...",
             "snippet": "MR Search est un cabinet de recrutement sp\u00e9cialis\u00e9 dans les nouvelles technologies, le web et le avons une parfaite connaissance du march\u00e9 et s\u00e9lectionnons pour vous les meilleurs offres dans des soci\u00e9t\u00e9s attractives:- 60% de nos...",
             "date": "2015-04-29",
             "categories": "connaissance,recrutement,technologie,javascript",
-            "tags": "web,sp\u00e9cialis\u00e9,cdi,d\u00e9veloppeur,d\u00e9veloppeur_javascript,javascript",
+            "tags": "web,sp\u00e9cialis\u00e9,technologies,cdi,d\u00e9veloppeur,d\u00e9veloppeur_javascript,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-pure-player-web-ecommerce-cdi-paris-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/452000/dveloppeur-javascript-pure-player-web-ecommerce-cdi-paris-hf/"
         },
-        "nextinpact.com/2015/04/microsoft-la-conf%C3%A9rence-build-d%C3%A9bute-sur-du-cloud-avec-azure": {
-            "title": "Microsoft: la conf\u00e9rence BUILD d\u00e9bute sur du cloud avec Azure...",
-            "snippet": "Tous les langages reconnus par.NET seront pris en charge, notamment le JavaScript, le HTML5 et les CSS. Un \u00e9mulateur Android est m\u00eame pr\u00e9sent dans Visual Studio, du moins dans la version utilis\u00e9e dans la d\u00e9monstration. Et pour montrer quil...",
+        "1jour1actu.com/2015/04/la-coupe-d-europe-de-rugby-une-sp%C3%A9cialit%C3%A9-fran%C3%A7aise": {
+            "title": "La coupe d'Europe de rugby, une sp\u00e9cialit\u00e9 fran\u00e7aise...",
+            "snippet": "Si l'activit\u00e9 se ne charge pas, essayez de rafra\u00eechir votre navigateur. Cette page n\u00e9cessite aussi Javascript. Veuillez la visiter avec Javascript activ\u00e9.",
             "date": "2015-04-29",
-            "categories": "langage,javascript,css",
-            "tags": "seront,charge,cloud,net,javascript,html",
-            "recuweb_url": "http://fr.recuweb.com/css/nextinpact.com/2015/04/microsoft-la-conf%C3%A9rence-build-d%C3%A9bute-sur-du-cloud-avec-azure",
+            "categories": "rugby,javascript",
+            "tags": "navigateur,charge,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/1jour1actu.com/2015/04/la-coupe-d-europe-de-rugby-une-sp%C3%A9cialit%C3%A9-fran%C3%A7aise",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
-            "source_url": "http://nextinpact.com/news/93968-la-conference-build-microsoft-retransmise-en-direct.htm"
-        },
-        "techrepublic.com/2015/04/full-stack-javascript-developers-study-these-cloud-age-wonders-in-techrepublic": {
-            "title": "Full-stack JavaScript developers: Study these cloud age wonders in... - TechRepublic...",
-            "snippet": "Full-stack JavaScript developers: Study these cloud age wonders in...TechRepublicAccording to this year's Stack Overflow developer survey, the most common kind of developer is the 20-something full-stack JavaScript developer. That full-stack phrase...",
-            "date": "2015-04-28",
-            "categories": "javascript",
-            "tags": "cloud,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/techrepublic.com/2015/04/full-stack-javascript-developers-study-these-cloud-age-wonders-in-techrepublic",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bjavascript&output=atom&nord=1",
-            "source_url": "http://techrepublic.com/article/full-stack-javascript-developers-study-these-cloud-age-wonders-in-the-wild/"
+            "source_url": "http://1jour1actu.com/sport/coupe-europe-rugby-2015/"
         },
         "commentcamarche.net/2015/04/r%C3%A9cup%C3%A9rer-des-informations-d-un-autre-site-en-javascript": {
             "title": "R\u00e9cup\u00e9rer des informations d'un autre site en Javascript...",
             "snippet": "Je souhaiterais r\u00e9cup\u00e9rer une information sur un autre site en Javascript. Par exemple, si l'autre site affiche 1, le premier site effectue une action, sinon il en effectue une autre etc. J'ai essay\u00e9 avec ce code et avec plusieurs autres trouv\u00e9s...",
             "date": "2015-04-28",
             "categories": "javascript",
-            "tags": "code,premier,javascript",
+            "tags": "javascript,code",
             "recuweb_url": "http://fr.recuweb.com/javascript/commentcamarche.net/2015/04/r%C3%A9cup%C3%A9rer-des-informations-d-un-autre-site-en-javascript",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://commentcamarche.net/forum/affich-31896836-recuperer-des-informations-d-un-autre-site-en-javascript"
@@ -90,26 +110,6 @@
             "recuweb_url": "http://fr.recuweb.com/jquery/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-javascript-jquery-angular-js-h-f-cdi-st-pierre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=javascript&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/450719/dveloppeur-javascript-jquery-angular-js-hf/"
-        },
-        "javascript.developpez.com/2015/04/am%C3%A9liorations-et-d%C3%A9pr%C3%A9ciation-pour-la-plateforme-javascript": {
-            "title": ": am\u00e9liorations et d\u00e9pr\u00e9ciation pour la plateforme JavaScript -...",
-            "snippet": ": am\u00e9liorations et d\u00e9pr\u00e9ciation pour la plateforme JavaScriptDeveloppez.com est une plateforme JavaScript construite sur base de. Elle est compatible avec l'\u00e9cosyst\u00e8me npm et avec le moteur V8 qui impl\u00e9mente de nombreuses fonctionnalit\u00e9s de...",
-            "date": "2015-04-22",
-            "categories": "javascript",
-            "tags": "fonctionnalit\u00e9s,plateforme,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/am%C3%A9liorations-et-d%C3%A9pr%C3%A9ciation-pour-la-plateforme-javascript",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
-            "source_url": "http://javascript.developpez.com/actu/84153/io-js-1-8-0-ameliorations-et-depreciation-pour-la-plateforme-JavaScript/"
-        },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f-presse-citron-blog": {
-            "title": "D\u00e9veloppeur Frontend Javascript H/F - Presse-citron (Blog)...",
-            "snippet": "D\u00e9veloppeur Frontend Javascript H/FPresse-citron (Blog)Sp\u00e9cialis\u00e9e dans les solutions interactives pour le monde professionnel, Regards simplifie les apprentissages et accompagne le d\u00e9veloppement des organisations. Nos expertises sont multiples:...",
-            "date": "2015-04-21",
-            "categories": "javascript",
-            "tags": "d\u00e9veloppeur,javascript,d\u00e9veloppement",
-            "recuweb_url": "http://fr.recuweb.com/javascript/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-frontend-javascript-h-f-presse-citron-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript&output=atom&nord=1",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Frontend+Javascript+HF/30049"
         }
     }
 }
