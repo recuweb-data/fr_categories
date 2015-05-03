@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rugby",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rugby/",
@@ -11,16 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
     },
     "items": {
-        "sudouest.fr/2015/04/rugby-f%C3%A9d%C3%A9rale-1-les-huiti%C3%A8mes-de-finale-retour-en-un-coup": {
-            "title": "Rugby - F\u00e9d\u00e9rale 1: les huiti\u00e8mes de finale retour en un coup d'oeil...",
-            "snippet": "Fin des huiti\u00e8mes de finale du troph\u00e9e Jean-Prat. Soyaux-Angoul\u00eame et Auch obtiennent leur ticket pour les quarts de finale tandis que l'aventure s'arr\u00eate pour Tyrosse, Langon et Oloron....",
-            "date": "2015-04-26",
+        "sudouest.fr/2015/04/rugby-bayonne-redouterait-il-le-public-du-stade-rochelais": {
+            "title": "Rugby: Bayonne redouterait-il le public du Stade Rochelais...",
+            "snippet": "Pour le dernier match de la saison de Top 14, l'ASR se d\u00e9placera au Pays basque. A travers une vente priv\u00e9e, Bayonne veut mobiliser ses supporteurs. Rugby: Bayonne redouterait-il le public du Stade Rochelais?",
+            "date": "2015-04-30",
             "author_name": "inconnu",
             "categories": "rugby",
-            "tags": "retour,rugby,finale,oloron",
-            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-f%C3%A9d%C3%A9rale-1-les-huiti%C3%A8mes-de-finale-retour-en-un-coup",
+            "tags": "dernier,match,stade,rugby,saison,top",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-bayonne-redouterait-il-le-public-du-stade-rochelais",
             "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/26/rugby-federale-1-suivez-les-huitiemes-de-finale-retour-en-multiplex-1904040-773.php"
+            "source_url": "http://sudouest.fr/2015/04/30/rugby-bayonne-redouterait-il-le-public-du-stade-rochelais-1908416-4570.php"
+        },
+        "sudouest.fr/2015/04/rugby-semisi-telefoni-va-quitter-le-su-agen": {
+            "title": "Rugby: Semisi Telefoni va quitter le SU Agen -...",
+            "snippet": "Le pilier droit s'est engag\u00e9 pour trois saisons avec le club de Carcassonne. Sorti sur une civi\u00e8re dimanche dernier contre Pau, victime d'une entorse cervicale, Semisi Telefoni, 32 ans, a...",
+            "date": "2015-04-30",
+            "author_name": "inconnu",
+            "categories": "rugby",
+            "tags": "dernier,trois,club,rugby,contre",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-semisi-telefoni-va-quitter-le-su-agen",
+            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/30/telefoni-sur-le-depart-1907692-773.php"
+        },
+        "sudouest.fr/2015/04/tournon-d-agenais-47-le-terrain-de-rugby-vandalis%C3%A9-une-%C3%A9trange": {
+            "title": "Tournon-d'Agenais (47): le terrain de rugby vandalis\u00e9 d'une \u00e9trange...",
+            "snippet": "Des vandales ont r\u00e9pandu un d\u00e9sherbant puissant sur le terrain de Tournon-d'Agenais dont l'\u00e9quipe de rugby est toujours en course pour les phases finales du championnat de France de F\u00e9d\u00e9rale 3. Publicit\u00e9. Les lettres...",
+            "date": "2015-04-30",
+            "author_name": "inconnu",
+            "categories": "rugby",
+            "tags": "finales,\u00e9quipe,puissant,rugby,france",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/tournon-d-agenais-47-le-terrain-de-rugby-vandalis%C3%A9-une-%C3%A9trange",
+            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/30/tournon-d-agenais-47-le-terrain-de-rugby-vandalise-d-une-etrange-maniere-1908523-3703.php"
+        },
+        "sudouest.fr/2015/04/rugby-vers-la-fusion-du-ca-p%C3%A9rigueux-et-sa-tr%C3%A9lissac-sud": {
+            "title": "Rugby: vers la fusion du CA P\u00e9rigueux et du SA Tr\u00e9lissac - Sud Ouest...",
+            "snippet": "SONDAGE L'id\u00e9e d'une fusion entre les deux principaux clubs de rugby de l'agglom\u00e9ration p\u00e9rigourdine a \u00e9t\u00e9 relanc\u00e9e mardi par le pr\u00e9sident du SA Tr\u00e9lissac. Son homologue du CA P\u00e9rigueux ouvre les...",
+            "date": "2015-04-29",
+            "author_name": "inconnu",
+            "categories": "rugby",
+            "tags": "relanc\u00e9e,id\u00e9e,sud,sud_ouest,ouest,rugby,pr\u00e9sident",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-vers-la-fusion-du-ca-p%C3%A9rigueux-et-sa-tr%C3%A9lissac-sud",
+            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://sudouest.fr/2015/04/29/l-union-fait-la-force-1906708-5103.php"
         },
         "sudouest.fr/2015/04/rugby-pro-d2-le-sua-domine-champion-et-prend-la-deuxi%C3%A8me": {
             "title": "Rugby - Pro D2: le SUA domine le champion et prend la deuxi\u00e8me...",
@@ -33,24 +66,13 @@
             "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2015/04/26/rugby-pro-d2-suivez-agen-pau-commente-en-direct-1904005-773.php"
         },
-        "sudouest.fr/2015/04/rugby-top-14-carton-plein-pour-l-ubb-la-rochelle": {
-            "title": "Rugby - Top 14: carton plein pour l'UBB, La Rochelle et Bayonne...",
-            "snippet": "L'Union Bordeaux-B\u00e8gles, le Stade Rochelais et l'Aviron Bayonnais ont gagn\u00e9. Probl\u00e8me, Castres et Brive les ont imit\u00e9s. La lutte pour le maintien sera passionnante jusqu'au bout. Rugby - Top 14: carton plein pour l'UBB, La...",
-            "date": "2015-04-26",
-            "author_name": "inconnu",
-            "categories": "rugby",
-            "tags": "bout,stade,rugby,top",
-            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-top-14-carton-plein-pour-l-ubb-la-rochelle",
-            "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/25/rugby-top-14-carton-plein-pour-l-ubb-bayonne-et-la-rochelle-mais-la-menace-demeure-1903845-4570.php"
-        },
         "sudouest.fr/2015/04/rugby-les-r%C3%A9sultats-et-images-des-finales-r%C3%A9gionales-comit%C3%A9": {
             "title": "Rugby: les r\u00e9sultats et les images des finales r\u00e9gionales comit\u00e9 par...",
             "snippet": "EN IMAGES - Les remises des boucliers dans les comit\u00e9s du Sud Ouest Ce week-end, c'\u00e9tait la f\u00eate du rugby amateur avec les finales r\u00e9gionales, disput\u00e9es un peu partout. Voici les r\u00e9sultats et...",
             "date": "2015-04-26",
             "author_name": "inconnu",
             "categories": "rugby",
-            "tags": "peu,sud,sud_ouest,ouest,rugby,finales",
+            "tags": "peu,finales,sud,sud_ouest,ouest,rugby",
             "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/04/rugby-les-r%C3%A9sultats-et-images-des-finales-r%C3%A9gionales-comit%C3%A9",
             "resource_url": "http://www.google.com/search?q=rugby%2Brugby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sudouest.fr/2015/04/26/rugby-les-finales-regionales-comite-par-comite-1904134-773.php"
