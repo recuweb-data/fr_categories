@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformat",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microformat/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
     },
     "items": {
-        "forum.webrankinfo.com/2015/04/microformat-profile-&-pingback-r%C3%A9daction-web-et-r%C3%A9f%C3%A9rencement": {
-            "title": "Microformat \"profile\" & \"pingback\"?: R\u00e9daction web et r\u00e9f\u00e9rencement...",
-            "snippet": "Bonjour, Un th\u00e8me Wordpress ins\u00e8re le code suivant en en-t\u00eate: link rel=profile href=link rel=pingback href=web- pingbackUrl Est-ce bien utile...",
-            "date": "2015-04-07",
-            "author_name": "inconnu",
-            "categories": "microformat,wordpress",
-            "tags": "code,r\u00e9f\u00e9rencement,microformat,web",
-            "recuweb_url": "http://fr.recuweb.com/wordpress/forum.webrankinfo.com/2015/04/microformat-profile-&-pingback-r%C3%A9daction-web-et-r%C3%A9f%C3%A9rencement",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/microformat-profile-pingback-t180106.html"
-        },
         "veilleseo.wordpress.com/2014/08/structured-data-markup-visualization-validation-and-testing-tools": {
             "title": "Structured Data Markup Visualization, Validation and Testing Tools...",
             "snippet": "Testing and validation tools for structured data markup, rich snippets. Validators for, RDFa, microdata, microformats,: on - Veille SEO - R\u00e9f\u00e9rencement web -...",
             "date": "2014-08-12",
             "author_name": "Ma veille",
             "categories": "microformat",
-            "tags": "seo,rich,tools,rdfa,microdata,microformats,r\u00e9f\u00e9rencement,web",
+            "tags": "seo,rich,tools,rdfa,microdata,microformats,web",
             "recuweb_url": "http://fr.recuweb.com/microformat/veilleseo.wordpress.com/2014/08/structured-data-markup-visualization-validation-and-testing-tools",
             "resource_url": "http://fr.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
             "source_url": "http://veilleseo.wordpress.com/2014/08/12/structured-data-markup-visualization-validation-and-testing-tools/"
@@ -39,7 +28,7 @@
             "date": "2014-08-04",
             "author_name": "Alexis Ravel",
             "categories": "microformat",
-            "tags": "xhtml,microdonn\u00e9es,microformats,comme,html",
+            "tags": "xhtml,microdonn\u00e9es,microformats",
             "recuweb_url": "http://fr.recuweb.com/microformat/blog.netapsys.fr/2014/08/microdonn%C3%A9es-versus-microformats-le-blog-netapsys",
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.netapsys.fr/microdonnees-versus-microformats/"
@@ -55,38 +44,27 @@
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://dictionnaireduweb.com/microformat/"
         },
-        "forum.webrankinfo.com/2013/06/gwt-microformat-et-cannabis-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement": {
-            "title": "GWT, microformat et cannabis: D\u00e9buter en r\u00e9f\u00e9rencement...",
-            "snippet": "Ma question est peu etre risible je suis les deux versions de mon site sur GWT J'ai ajouter des microformats dans le code...",
-            "date": "2013-06-20",
-            "author_name": "inconnu",
-            "categories": "microformat",
-            "tags": "code,r\u00e9f\u00e9rencement,microformats,site",
-            "recuweb_url": "http://fr.recuweb.com/microformat/forum.webrankinfo.com/2013/06/gwt-microformat-et-cannabis-d%C3%A9buter-en-r%C3%A9f%C3%A9rencement",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.webrankinfo.com/gwt-microformat-cannabis-t165804.html"
-        },
         "alsacreations.com/2012/08/microformats-2-alsacreations": {
             "title": "Microformats 2 - Alsacreations...",
             "snippet": "Les Microformats vous sont familiers? Sinon, rendez-vous au tutoriel parlant des Microformats, vous pourr.",
             "date": "2012-08-02",
             "author_name": "jojaba",
             "categories": "microformat",
-            "tags": "tutoriel,microformats",
+            "tags": "tutoriel,microformats,alsacreations",
             "recuweb_url": "http://fr.recuweb.com/microformat/alsacreations.com/2012/08/microformats-2-alsacreations",
             "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://alsacreations.com/actu/lire/1472-microformats-2.html"
         },
-        "web-semantique.developpez.com/2011/07/le-guide-ultime-des-microformats-r%C3%A9f%C3%A9rences-et-exemples": {
-            "title": "Le guide ultime des microformats: r\u00e9f\u00e9rences et exemples...",
-            "snippet": "Parce que les microformats s'appuient sur la syntaxe et les attributs conventionnels du HTML, vous pouvez les utiliser aussi en XHTML. M\u00eame les pages XML (comme les flux RSS ou ATOM) peuvent profiter des microformats.",
-            "date": "2011-07-16",
-            "author_name": "inconnu",
-            "categories": "microformat",
-            "tags": "comme,pages,microformats,html,xhtml",
-            "recuweb_url": "http://fr.recuweb.com/microformat/web-semantique.developpez.com/2011/07/le-guide-ultime-des-microformats-r%C3%A9f%C3%A9rences-et-exemples",
+        "forum.alsacreations.com/2012/05/microformat-hcard-vcard-alsacreations": {
+            "title": "Microformat hCard-vCard - Alsacreations...",
+            "snippet": "(En compl\u00e9ment du tutoriel microformat) Je viens de modifier du XHTML pour obtenir une hCard et j'ai eu quelques surprises chronophages concernant les contenus masqu\u00e9s et l'encodage. (Environnement: XP-SP3/Firefox...",
+            "date": "2012-05-17",
+            "author_name": "sellig",
+            "categories": "microformat,environnement",
+            "tags": "tutoriel,microformat,hcard,vcard,alsacreations,xhtml",
+            "recuweb_url": "http://fr.recuweb.com/environnement/forum.alsacreations.com/2012/05/microformat-hcard-vcard-alsacreations",
             "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://web-semantique.developpez.com/tutoriels/microformats/guide/"
+            "source_url": "http://forum.alsacreations.com/topic-1-61903-1-Microformat-hCard-vCard.html"
         },
         "microformats.org/2007/08/portabilit%C3%A9-de-r%C3%A9seau-social-microformats-wiki": {
             "title": "Portabilit\u00e9 de R\u00e9seau Social Microformats Wiki...",
