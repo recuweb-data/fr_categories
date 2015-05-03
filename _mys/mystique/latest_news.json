@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mystique",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mystique/",
@@ -11,6 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mystique/mystique/blogs.json"
     },
     "items": {
+        "tvmag.lefigaro.fr/2015/05/l-irlande-mystique": {
+            "title": "L'Irlande mystique...",
+            "snippet": "L'Irlande rec\u00e8le de nombreux secrets. Des scientifiques se sont rassembl\u00e9s pour \u00e9claircir les myst\u00e8res des rites irlandais. Des astronomes ont d\u00e9couvert que des pluies de m\u00e9t\u00e9orites ont pu s'abattre au IIIe mill\u00e9naire avant J- C,...",
+            "date": "2015-05-01",
+            "categories": "mystique",
+            "tags": "d\u00e9couvert,nombreux,mystique",
+            "recuweb_url": "http://fr.recuweb.com/mystique/tvmag.lefigaro.fr/2015/05/l-irlande-mystique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
+            "source_url": "http://tvmag.lefigaro.fr/programme-tv/fiche/france-5/documentaire/202696575/l-irlande-mystique.html"
+        },
+        "la-croix.com/2015/04/jeunes-religieux-il-faut-accepter-le-c%C3%B4t%C3%A9-mystique-de-notre-vie": {
+            "title": "Jeunes religieux, il faut accepter le c\u00f4t\u00e9 mystique de notre vie...",
+            "snippet": "C omment avez-vous d\u00e9couvert la vie consacr\u00e9e et la congr\u00e9gation dans laquelle vous vous \u00eates engag\u00e9s? S\u0153ur Nathalie Requin: Enfant, j\u00e9tais fascin\u00e9e par sainte Th\u00e9r\u00e8se de Lisieux. Pour moi, la vie religieuse, c\u00e9tait le carmel.",
+            "date": "2015-04-30",
+            "categories": "mystique",
+            "tags": "vie,d\u00e9couvert,mystique,moi",
+            "recuweb_url": "http://fr.recuweb.com/mystique/la-croix.com/2015/04/jeunes-religieux-il-faut-accepter-le-c%C3%B4t%C3%A9-mystique-de-notre-vie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
+            "source_url": "http://la-croix.com/Religion/Spiritualite/Jeunes-religieux-il-faut-accepter-le-cote-mystique-de-notre-vie-2015-04-30-1308042"
+        },
         "resmusica.com/2015/04/hildegard-von-bingen-et-zad-moultaka-une-m%C3%AAme-ferveur-mystique-resmusica": {
             "title": "Hildegard von Bingen et Zad Moultaka: une m\u00eame ferveur mystique - ResMusica...",
             "snippet": "ResMusicaHildegard von Bingen et Zad Moultaka: une m\u00eame ferveur mystiqueResMusicaHildegard von Bingen (1098-1179): O aeterne Deus; Quia ergo femina mortem instruxit; O tu illustrata; O splendidissima gemma; Ave Maria. Hildegard von Bingen et Zad...",
@@ -18,7 +38,7 @@
             "categories": "mystique",
             "tags": "mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/resmusica.com/2015/04/hildegard-von-bingen-et-zad-moultaka-une-m%C3%AAme-ferveur-mystique-resmusica",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
             "source_url": "http://resmusica.com/2015/04/29/hildegard-von-bingen-et-zad-moultaka-une-meme-ferveur-mystique/"
         },
         "oujdacity.net/2015/04/mystique-et-philosophie-simulacres-confusions": {
@@ -26,20 +46,10 @@
             "snippet": "JADMIRE LA CULTURE GENERALE. Fanfaronnade excessive quand au grade dont on laffuble, large comme un ruban filiforme, marque page de dico, profonde dans sa superficialit\u00e9 comme le marc dune tasse de caf\u00e9 \u00e9clat\u00e9e. Je suis constern\u00e9...",
             "date": "2015-04-28",
             "categories": "culture,mystique",
-            "tags": "comme,culture,mystique",
+            "tags": "mystique,philosophie",
             "recuweb_url": "http://fr.recuweb.com/mystique/oujdacity.net/2015/04/mystique-et-philosophie-simulacres-confusions",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
             "source_url": "http://oujdacity.net/national-article-101278-fr/mystique-et-philosophie-simulacres-et-confusions.html"
-        },
-        "lemag.ma/2015/04/une-troupe-turque-mystique-cl%C3%B4t-en-apoth%C3%A9ose-la-9%C3%A8me-%C3%A9dition": {
-            "title": "Une troupe turque mystique cl\u00f4t en apoth\u00e9ose la 9\u00e8me \u00e9dition du Festival de F\u00e8s de la Culture...",
-            "snippet": "Une troupe turque mystique cl\u00f4t en apoth\u00e9ose la 9\u00e8me \u00e9dition du Festival de F\u00e8s de la Culture...",
-            "date": "2015-04-27",
-            "categories": "mystique,culture",
-            "tags": "mystique,culture",
-            "recuweb_url": "http://fr.recuweb.com/culture/lemag.ma/2015/04/une-troupe-turque-mystique-cl%C3%B4t-en-apoth%C3%A9ose-la-9%C3%A8me-%C3%A9dition",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
-            "source_url": "http://lemag.ma/Une-troupe-turque-mystique-clot-en-apotheose-la-9eme-edition-du-Festival-de-Fes-de-la-Culture-Soufie_a89510.html"
         },
         "melty.fr/2015/04/x-men-apocalypse-nightcrawler-et-mystique-connect%C3%A9s": {
             "title": "X-Men Apocalypse: Nightcrawler et Mystique connect\u00e9s?",
@@ -51,32 +61,22 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
             "source_url": "http://melty.fr/x-men-apocalypse-nightcrawler-et-mystique-connectes-a404879.html"
         },
-        "saphirnews.com/2015/04/la-po%C3%A9sie-mystique": {
-            "title": "La po\u00e9sie mystique -...",
-            "snippet": "La po\u00e9sie po\u00e9sie mystique, c'est la parole qui essaie de l'indicible, d'\u00e9voquer et de convoquer le sacr\u00e9 comme myst\u00e8re qu'on ne peut pas enfermer dans des dogmes, ni dans une v\u00e9rit\u00e9 que l'on pr\u00e9tendrait d\u00e9tenir. En islam comme ailleurs la...",
-            "date": "2015-04-23",
-            "categories": "mystique,islam",
-            "tags": "comme,mystique,peut,islam",
-            "recuweb_url": "http://fr.recuweb.com/islam/saphirnews.com/2015/04/la-po%C3%A9sie-mystique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
-            "source_url": "http://saphirnews.com/agenda/La-poesie-mystique_ae347147.html"
-        },
-        "programme-tv.net/2015/04/l-irlande-mystique": {
-            "title": "L'Irlande mystique...",
-            "snippet": "Des scientifiques se sont rassembl\u00e9s pour \u00e9claircir les myst\u00e8res des rites irlandais. Selon des astronomes, des pluies de m\u00e9t\u00e9orites se seraient abattues sur l'\u00eele au IIIe mill\u00e9naire avant., chamboulant les cultes telluriques en cours.",
-            "date": "2015-04-21",
+        "summonerswar.jeuxonline.info/2015/04/donjon-secret-sorci%C3%A8re-mystique-vent-jeuxonline": {
+            "title": "Donjon Secret: Sorci\u00e8re Mystique Vent - JeuxOnLine...",
+            "snippet": "JeuxOnLineDonjon Secret: Sorci\u00e8re Mystique VentJeuxOnLineLe Donjon Secret est aussi une riche source de mana, ne ratez pas cette occasion! D\u00e9tails. - Le Donjon secret de la Sorci\u00e8re Mystique sera disponible au Donjon Cairos pendant l'\u00e9v\u00e8nement.",
+            "date": "2015-04-09",
             "categories": "mystique",
-            "tags": "mystique",
-            "recuweb_url": "http://fr.recuweb.com/mystique/programme-tv.net/2015/04/l-irlande-mystique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
-            "source_url": "http://programme-tv.net/programme/prog-tv/r295829-l-irlande-mystique/6215376-l-irlande-mystique/"
+            "tags": "riche,mystique",
+            "recuweb_url": "http://fr.recuweb.com/mystique/summonerswar.jeuxonline.info/2015/04/donjon-secret-sorci%C3%A8re-mystique-vent-jeuxonline",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
+            "source_url": "http://summonerswar.jeuxonline.info/actualite/47823/donjon-secret-sorciere-mystique-vent"
         },
         "senenews.com/2015/04/le-mystique-dans-l-ar%C3%A8ne-un-mal-n%C3%A9cessaire": {
             "title": "Le mystique dans l'ar\u00e8ne: Un \"mal\" n\u00e9cessaire? -...",
             "snippet": "mystique dans l'ar\u00e8ne: Un \"mal\" n\u00e9cessaire? La croyance mystique en Afrique s'est fortement ancr\u00e9e dans les diff\u00e9rentes soci\u00e9t\u00e9s et conditionnent la vie de tous les jours. Le recours aux pratiques occultes est omnipr\u00e9sent dans tous les...",
             "date": "2015-04-07",
             "categories": "mystique",
-            "tags": "mal,mystique",
+            "tags": "vie,mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/senenews.com/2015/04/le-mystique-dans-l-ar%C3%A8ne-un-mal-n%C3%A9cessaire",
             "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
             "source_url": "http://senenews.com/2015/04/07/le-mystique-dans-larene-un-mal-necessaire_121249.html"
@@ -86,9 +86,9 @@
             "snippet": "Charles P\u00e9guy et la mystique d'Isra\u00ebl FabulaLes amiti\u00e9s juives de P\u00e9guy (Albert L\u00e9vy, Andr\u00e9 Spire, Blanche Rapha\u00ebl, Julien Benda parmi de nombreux autres) et plus largement l'amiti\u00e9 mystique qu'il entretenait avec le peuple juif, ont chang\u00e9...",
             "date": "2015-04-06",
             "categories": "mystique",
-            "tags": "mystique",
+            "tags": "nombreux,mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/fabula.org/2015/04/charles-p%C3%A9guy-et-la-mystique-d-isra%C3%ABl-fabula",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
             "source_url": "http://fabula.org/actualites/charles-peguy-et-la-mystique-d-israel-colloque-international-des-30-octobre-1er-novembre-2016_68003.php"
         }
     }
