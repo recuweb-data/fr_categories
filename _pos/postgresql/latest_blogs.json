@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
+        "remixjobs.com/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f-paris-incenteev-offre": {
+            "title": "D\u00e9veloppeur Symfony 2/PostgreSQL H/F - Paris - Incenteev: Offre...",
+            "snippet": "Pourquoi? L'arriv\u00e9e de la g\u00e9n\u00e9ration Y dans les entreprises, les nouveaux outils de communication, le business qui s'acc\u00e9l\u00e8re et se complexifie... Tous ces changements importants transforment la mani\u00e8re dont les entreprises doivent motiver...",
+            "date": "2015-04-22",
+            "author_name": "inconnu",
+            "tags": "communication,gresql,offre",
+            "recuweb_url": "http://fr.recuweb.com/remixjobs.com/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f-paris-incenteev-offre",
+            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://remixjobs.com/emploi/Developpement/Developpeur-Symfony-2-PostgreSQL-H-F/30065"
+        },
         "blog.guillaume.lelarge.info/2015/03/version-0-2-de-mon-livre-sur-postgresql-gleu-s-blog": {
             "title": "Version 0.2 de mon livre sur PostgreSQL - gleu's blog...",
             "snippet": "Le premier concerne le protocole de communication client/serveur de PostgreSQL. Il permet de bien prendre conscience du dialogue et des possibilit\u00e9s d'\u00e9change entre ces deux entit\u00e9s. Le second aborde la question des...",
             "date": "2015-03-29",
             "author_name": "Guillaume Lelarge",
-            "tags": "permet,possibilit\u00e9s,serveur,premier,communication,client,livre,version,gresql,gleu",
+            "tags": "serveur,communication,gresql,permet",
             "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/03/version-0-2-de-mon-livre-sur-postgresql-gleu-s-blog",
             "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/03/29/Version-0.2-de-mon-livre-sur-PostgreSQL"
@@ -37,20 +47,10 @@
             "snippet": "PostgreSQL: Documentation: 8.1: CREATE SEQUENCE FAQ: Using Sequences in PostgreSQL How to create a sequence in PostgreSQL postgresql - How to reset sequence in postgres and fill id column with new data? - Stack Overflow auto increment - PostgreSQL...",
             "date": "2015-02-12",
             "author_name": "(Jeff Huang)",
-            "tags": "gres,gresql,how,data",
+            "tags": "gres,gresql,data",
             "recuweb_url": "http://fr.recuweb.com/braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and-sequence",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=fr",
             "source_url": "http://braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and.html"
-        },
-        "blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog": {
-            "title": "A new vmstat-like tool for PostgreSQL - gleu's blog...",
-            "snippet": "I wish I had a PostgreSQL tool like that. I wished enough to eventually build it. I call it pgstat because I couldn't find a better name for it. It's an online command tool that connects to a database and grabs its activity statistics.",
-            "date": "2015-01-25",
-            "author_name": "Guillaume Lelarge",
-            "tags": "gresql,gleu",
-            "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/01/25/A-new-vmstat-like-tool-for-PostgreSQL"
         },
         "vienergie.wordpress.com/2014/11/pgweb-une-interface-de-gestion-bdd-postgresql-web-based-d%C3%A9velopp%C3%A9e": {
             "title": "PGWEB: UNE INTERFACE DE GESTION DE BDD POSTGRESQL WEB-BASED D\u00c9VELOPP\u00c9E EN GO...",
@@ -67,30 +67,10 @@
             "snippet": "Ce petit tutoriel L'installation de PostgreSql L'installation des divers JDBC Des informations sur la base de donn\u00e9es (a venir) Des Liens vers des ressources PostgreSql (a venir) bient\u00f4t Le t\u00e9l\u00e9chargement de PostgreSQL L'installation de...",
             "date": "2014-09-12",
             "author_name": "Duarte TERENCIO",
-            "tags": "informations,installation,tutoriel,gresql,base,donn\u00e9es",
+            "tags": "informations,installation,gresql,base,donn\u00e9es",
             "recuweb_url": "http://fr.recuweb.com/regardsurlecloud.wordpress.com/2014/09/installation-de-postgresql-9-3-sur-mac",
             "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
             "source_url": "http://regardsurlecloud.wordpress.com/2014/09/12/installation-de-postgresql-9-3-sur-mac/"
-        },
-        "binaryhash.wordpress.com/2014/01/how-to-remove-postgresql-from-my-installation": {
-            "title": "How to remove PostgreSQL from my installation?",
-            "snippet": "1. List All Postgres related packages dpkg -l grep postgres postgresql-9.2 postgresql-client-9.2 postgresql-client-common postgresql-common postgresql-contrib-9.2 postgresql-server-dev-9.2 2. Remove all above listed sudo apt-get --purge remove...",
-            "date": "2014-01-09",
-            "author_name": "shyammohankanojia",
-            "tags": "gres,installation,how,gresql,client,server",
-            "recuweb_url": "http://fr.recuweb.com/binaryhash.wordpress.com/2014/01/how-to-remove-postgresql-from-my-installation",
-            "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
-            "source_url": "http://binaryhash.wordpress.com/2014/01/09/how-to-remove-postgresql-from-my-ubuntu12-04-installation/"
-        },
-        "editions-eni.fr/2006/11/livre-postgresql-administration-et-exploitation-de-vos-bases": {
-            "title": "Livre PostgreSQL - Administration et exploitation de vos bases de...",
-            "snippet": "L'administrateur de bases de donn\u00e9es, le technicien d'exploitation et le d\u00e9veloppeur trouveront dans ce livre les informations indispensables pour exploiter au mieux toutes les possibilit\u00e9s de PostgreSQL (en version 9.4 au moment de la...",
-            "date": "2006-11-26",
-            "author_name": "S\u00e9bastien LARDI\u00c8RE",
-            "tags": "version,d\u00e9veloppeur,livre,informations,possibilit\u00e9s,gresql,administration,bases,donn\u00e9es",
-            "recuweb_url": "http://fr.recuweb.com/editions-eni.fr/2006/11/livre-postgresql-administration-et-exploitation-de-vos-bases",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://editions-eni.fr/livres/postgresql-administration-et-exploitation-de-vos-bases-de-donnees-3ieme-edition/.0b024f307c3a54f4697a07b97f737ba6.html"
         }
     }
 }
