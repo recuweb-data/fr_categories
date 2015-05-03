@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "freelance-info.fr/2015/04/d%C3%A9veloppeurs-web-javascript": {
-            "title": "D\u00e9veloppeurs Web JavaScript -...",
-            "snippet": "CS Group Solutions cherche d\u00e9veloppeurs web javascript pour une mission de dur\u00e9e 3 mois renouv. situ\u00e9 Paris.",
-            "date": "2015-04-16",
-            "author_name": "inconnu",
-            "categories": "javascript",
-            "tags": "d\u00e9veloppeurs,solutions,web,javascript,paris",
-            "recuweb_url": "http://fr.recuweb.com/javascript/freelance-info.fr/2015/04/d%C3%A9veloppeurs-web-javascript",
+        "geekhebdo.com/2015/04/comment-afficher-la-m%C3%A9t%C3%A9o-sur-son-site-web-en-javascript": {
+            "title": "Comment afficher la m\u00e9t\u00e9o sur son site web en javascript?",
+            "snippet": "Ce n'est pas tr\u00e8s compliqu\u00e9 d'afficher la m\u00e9t\u00e9o sur son site internet et se prendre pour l'animatrice \u00c9velyne Dh\u00e9liat. Il suffit de quelques lignes de js et html pour y arriver.",
+            "date": "2015-04-28",
+            "author_name": "Guillaume H2O",
+            "categories": "internet,javascript",
+            "tags": "site,web,javascript,html",
+            "recuweb_url": "http://fr.recuweb.com/javascript/geekhebdo.com/2015/04/comment-afficher-la-m%C3%A9t%C3%A9o-sur-son-site-web-en-javascript",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://freelance-info.fr/offre-de-mission_246256.html"
+            "source_url": "http://geekhebdo.com/comment-afficher-la-meteo-sur-son-site-web-en-javascript/"
+        },
+        "larlet.fr/2015/04/javascript-ubiquitaire-david-larlet": {
+            "title": "JavaScript ubiquitaire David Larlet...",
+            "snippet": "Because sometimes your JavaScript just won't work. Be prepared. Everyone has JavaScript, right? (cache). Excellent r\u00e9sum\u00e9 des diff\u00e9rentes raisons pour un utilisateur de ne pas pouvoir interagir avec votre site qui utilise le...",
+            "date": "2015-04-26",
+            "author_name": "David Larlet",
+            "categories": "javascript",
+            "tags": "utilisateur,site,david,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/larlet.fr/2015/04/javascript-ubiquitaire-david-larlet",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://larlet.fr/david/stream/2015/04/26/"
         },
         "blogs.msdn.com/2015/04/javascript-open-day-vid%C3%A9os-&-contenus-david-rousset-html5": {
             "title": "JavaScript Open Day: vid\u00e9os & contenus - David Rousset - HTML5...",
@@ -28,7 +39,7 @@
             "date": "2015-04-03",
             "author_name": "David Rousset",
             "categories": "javascript",
-            "tags": "microsoft,france,avons,javascript,html",
+            "tags": "microsoft,avons,david,javascript,open,html",
             "recuweb_url": "http://fr.recuweb.com/javascript/blogs.msdn.com/2015/04/javascript-open-day-vid%C3%A9os-&-contenus-david-rousset-html5",
             "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blogs.msdn.com/b/davrous/archive/2015/04/03/javascript-open-day-vid-233-os-amp-contenus.aspx"
@@ -39,7 +50,7 @@
             "date": "2014-12-12",
             "author_name": "carbon",
             "categories": "javascript",
-            "tags": "this,javascript",
+            "tags": "use,javascript,source",
             "recuweb_url": "http://fr.recuweb.com/javascript/news.carbon-future.co.uk/2014/12/mourant-ozannes-voted-best-us-offshore-law-firm",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=fr",
             "source_url": "http://news.carbon-future.co.uk/archives/8799?utm_source=rss&utm_medium=rss&utm_campaign=mourant-ozannes-mourant-ozannes-voted-best-us-offshore-law-firm-by"
