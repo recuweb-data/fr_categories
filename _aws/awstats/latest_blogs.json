@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "awstats",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/awstats/",
@@ -39,7 +39,7 @@
             "date": "2012-04-18",
             "author_name": "Johan",
             "categories": "awstats",
-            "tags": "install,configuration,awstats,installation,fix",
+            "tags": "configuration,awstats,installation,fix",
             "recuweb_url": "http://fr.recuweb.com/awstats/em-corporation.fr/2012/04/awstats-installation-et-configuration-pour-postfix-les-m%C3%A9mos-d",
             "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://em-corporation.fr/?p=609"
@@ -61,10 +61,21 @@
             "date": "2010-09-13",
             "author_name": "NicoLargo",
             "categories": "place,awstats",
-            "tags": "server,serveur,analyse,logiciel,logs,web,awstats,apache",
+            "tags": "server,proc\u00e9dure,serveur,analyse,logiciel,logs,web,awstats,apache",
             "recuweb_url": "http://fr.recuweb.com/awstats/blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats-le-blog",
             "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats.html"
+        },
+        "rootslabs.net/2010/08/rootslabs-awstats-exclure-une-ip-des-statistiques": {
+            "title": "RootsLabs AWStats: exclure une IP des statistiques...",
+            "snippet": "AWStats: exclure une IP des statistiques Progi1984 - Commentaires (0) Logiciel Libre. Comment exclure une IP ou un sous r\u00e9seau des statistiques AWStats? Voici la proc\u00e9dure: Ouvrir le fichier de configuration de votre site...",
+            "date": "2010-08-23",
+            "author_name": "Progi1984",
+            "categories": "awstats",
+            "tags": "configuration,site,proc\u00e9dure,statistiques,logiciel,libre,awstats",
+            "recuweb_url": "http://fr.recuweb.com/awstats/rootslabs.net/2010/08/rootslabs-awstats-exclure-une-ip-des-statistiques",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rootslabs.net/blog/56-awstats-exclure-une-ip-des-statistiques"
         },
         "system-linux.eu/2010/04/statistiques-et-analyse-de-log-avec-awstats-postfix-&-apache": {
             "title": "Statistiques et analyse de log avec Awstats (postfix & apache...",
@@ -72,21 +83,10 @@
             "date": "2010-04-06",
             "author_name": "GanGan",
             "categories": "perl,awstats",
-            "tags": "analyse,statistiques,serveur,mail,fix,apache,log,awstats,web",
+            "tags": "analyse,statistiques,serveur,fix,apache,log,awstats,web",
             "recuweb_url": "http://fr.recuweb.com/awstats/system-linux.eu/2010/04/statistiques-et-analyse-de-log-avec-awstats-postfix-&-apache",
             "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://system-linux.eu/index.php?post/2010/04/10/awstats"
-        },
-        "webmaster-hub.com/2006/09/awstats-et-plusieur-fichiers-log-statistiques-du-net-webmaster-hub": {
-            "title": "AWStats et plusieur fichiers log - Statistiques du net - Webmaster Hub...",
-            "snippet": "AWStats et plusieur fichiers log - post\u00e9 dans Statistiques du net: Bonjour, J'ai install\u00e9 AWStats en local et j'ai test\u00e9 l'analyseur. Le probl\u00e8me est que j'ai beaucoup de fichiers logs et non pas un seul. J'ai vu dans la...",
-            "date": "2006-09-06",
-            "author_name": "inconnu",
-            "categories": "awstats",
-            "tags": "awstats,log,statistiques,logs",
-            "recuweb_url": "http://fr.recuweb.com/awstats/webmaster-hub.com/2006/09/awstats-et-plusieur-fichiers-log-statistiques-du-net-webmaster-hub",
-            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://webmaster-hub.com/topic/28176-awstats-et-plusieur-fichiers-log/"
         }
     }
 }
