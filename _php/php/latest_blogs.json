@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
-        "emploi.alsacreations.com/2015/04/4-developpeur-php-hf-offres-d-emploi-alsacr%C3%A9ations": {
-            "title": "4 developpeur php hf - Offres d'emploi - Alsacr\u00e9ations...",
-            "snippet": "NOUS RECHERCHONS 4 DEVELOPPEUR PHP H/F en CDI Montpellier/H\u00e9rault 30 - 40 K euros brut/an. Formation sup\u00e9rieure en informatique 2 ans minimum d'exp\u00e9rience en tant que d\u00e9veloppeur PHP Profil Recherch\u00e9...",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "php,emploi",
-            "tags": "php,d\u00e9veloppeur,cdi,offres,emploi,alsacr\u00e9ations,recherchons,formation",
-            "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/4-developpeur-php-hf-offres-d-emploi-alsacr%C3%A9ations",
+        "wordpress-fr.net/2015/05/le-php-tour-2015-fait-%C3%A9tape-au-luxembourg-wordpress": {
+            "title": "Le PHP Tour 2015 fait \u00e9tape au Luxembourg WordPress...",
+            "snippet": "Nos amis de l'AFUP organisent le PHP Tour. Cette ann\u00e9e, c'est le Luxembourg qui accueillera l'\u00e9v\u00e9nement. L'AFUP nous a demand\u00e9 de diffuser leur communiqu\u00e9 de presse, c'est donc avec plaisir que je m'ex\u00e9cute. En effet...",
+            "date": "2015-05-01",
+            "author_name": "Beno\u00eet",
+            "categories": "plaisir,wordpress,php",
+            "tags": "plaisir,\u00e9tape,php,tour,afup",
+            "recuweb_url": "http://fr.recuweb.com/php/wordpress-fr.net/2015/05/le-php-tour-2015-fait-%C3%A9tape-au-luxembourg-wordpress",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://emploi.alsacreations.com/offre-561093-4-developpeur-php-h-f.html"
+            "source_url": "http://wordpress-fr.net/2015/05/01/le-php-tour-2015-fait-etape-au-luxembourg/"
         },
         "emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-php-symfony-offres-d-emploi-alsacr%C3%A9ations": {
             "title": "D\u00e9veloppeur php symfony - Offres d'emploi - Alsacr\u00e9ations...",
@@ -28,21 +28,10 @@
             "date": "2015-04-23",
             "author_name": "inconnu",
             "categories": "recrutement,php,emploi",
-            "tags": "sein,\u00e9quipe,d\u00e9veloppement,d\u00e9veloppeur,php,offres,emploi,alsacr\u00e9ations",
+            "tags": "sein,recherche,php,d\u00e9veloppement",
             "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-php-symfony-offres-d-emploi-alsacr%C3%A9ations",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.alsacreations.com/offre-561120-Developpeur-php-symfony.html"
-        },
-        "emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-frontend-backend-php-offres-d-emploi-alsacr%C3%A9ations": {
-            "title": "D\u00e9veloppeur frontend/backend php - Offres d'emploi - Alsacr\u00e9ations...",
-            "snippet": "D\u00e9veloppeur frontend/backend php. CDI. Nous recherchons un d\u00e9veloppeur Frontend/Backend pour travailler en \u00e9quipe sur des projets vari\u00e9s au sein de notre entreprise: sites communautaires et e-commerces,...",
-            "date": "2015-04-23",
-            "author_name": "inconnu",
-            "categories": "php,emploi",
-            "tags": "\u00e9quipe,projets,sein,recherchons,d\u00e9veloppeur,php,offres,emploi,alsacr\u00e9ations,cdi",
-            "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-frontend-backend-php-offres-d-emploi-alsacr%C3%A9ations",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://emploi.alsacreations.com/offre-561104-Developpeur-frontend---backend-php.html"
         },
         "blog.pascal-martin.fr/2015/04/php-un-langage-des-utilisateurs-aux-besoins-tr%C3%A8s-diff%C3%A9rents": {
             "title": "PHP: un langage, des utilisateurs aux besoins tr\u00e8s diff\u00e9rents...",
@@ -50,9 +39,9 @@
             "date": "2015-04-20",
             "author_name": "Pascal MARTIN",
             "categories": "php,langage",
-            "tags": "beaucoup,utilisateurs,php,langage,lorsque,autres,d\u00e9veloppeurs",
+            "tags": "beaucoup,autres,d\u00e9veloppeurs,utilisateurs,php,langage,lorsque",
             "recuweb_url": "http://fr.recuweb.com/langage/blog.pascal-martin.fr/2015/04/php-un-langage-des-utilisateurs-aux-besoins-tr%C3%A8s-diff%C3%A9rents",
-            "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=php&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.pascal-martin.fr/post/php-un-langage-des-utilisateurs-aux-besoins-differents.html"
         },
         "forum.alsacreations.com/2015/04/aide-sur-petit-menu-en-php-alsacreations": {
@@ -72,7 +61,7 @@
             "date": "2015-04-17",
             "author_name": "Remi",
             "categories": "php",
-            "tags": "enterprise,enterprise_linux,linux,remi,version,disponibles,d\u00e9p\u00f4t,d\u00e9p\u00f4t-remi,php,rpm,fedora,rhel,centos",
+            "tags": "enterprise,enterprise_linux,linux,remi,version,php,rpm,fedora,rhel,centos",
             "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/04/php-version-et-les-rpm-de-remi-blog",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.famillecollet.com/post/2015/04/17/PHP-version-5.4.40-5.5.24-et-5.6.8"
@@ -88,16 +77,16 @@
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=php%2Bphp&rss=1&lng=fr",
             "source_url": "http://keralaplacements.blogspot.com/2015/04/placement-news-ipsr-kottayam-kerala_14.html"
         },
-        "blog.famillecollet.com/2015/03/php-7-0-en-software-collection-les-rpm-de-remi-blog": {
-            "title": "PHP 7.0 en Software Collection - Les RPM de Remi - Blog...",
-            "snippet": "Les RPM de la prochaine version majeure de PHP 7.0, sont disponibles dans le d\u00e9p\u00f4t remi-test pour Fedora 20, 21, 22 et Enterprise Linux 6, 7 (RHEL, CentOS,...) dans une nouvelle.",
+        "blog.famillecollet.com/2015/03/php-7-0-as-software-collection-les-rpm-de-remi-blog": {
+            "title": "PHP 7.0 as Software Collection - Les RPM de Remi - Blog...",
+            "snippet": "RPM of upcoming major version of PHP 7.0, are available in remi repository for Fedora 20, 21, 22 and Enterprise Linux 6, 7 (RHEL, CentOS,...) in a fresh new Software Collection.",
             "date": "2015-03-25",
             "author_name": "Remi",
             "categories": "collection,php",
-            "tags": "enterprise,enterprise_linux,linux,test,disponibles,d\u00e9p\u00f4t,d\u00e9p\u00f4t-remi,remi,version,php,rpm,fedora,rhel,centos",
-            "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/03/php-7-0-en-software-collection-les-rpm-de-remi-blog",
+            "tags": "enterprise,enterprise_linux,linux,remi,version,php,rpm,fedora,rhel,centos",
+            "recuweb_url": "http://fr.recuweb.com/php/blog.famillecollet.com/2015/03/php-7-0-as-software-collection-les-rpm-de-remi-blog",
             "resource_url": "http://www.google.com/search?q=php%2Bphp&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.famillecollet.com/post/2015/03/25/PHP-7.0-en-Software-Collection"
+            "source_url": "http://blog.famillecollet.com/post/2015/03/25/PHP-7.0-as-Software-Collection"
         },
         "haikajy.wordpress.com/2015/03/php-est-bien-meilleur-que-ce-vous-pensez": {
             "title": "PHP est bien meilleur que ce que vous pensez...",
@@ -116,10 +105,21 @@
             "date": "2015-02-23",
             "author_name": "nanabozo74",
             "categories": "php",
-            "tags": "nginx,php",
+            "tags": "augmenter,nginx,php",
             "recuweb_url": "http://fr.recuweb.com/php/nanabozo74.wordpress.com/2015/02/nginx-augmenter-le-temps-d-ex%C3%A9cution-des-scripts-php",
             "resource_url": "http://fr.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
             "source_url": "http://nanabozo74.wordpress.com/2015/02/23/nginx-augmenter-le-temps-dexecution-des-scripts-php/"
+        },
+        "inertoment.wordpress.com/2015/01/moocweb-langage-php-utiliser-avec-mysql-introduction": {
+            "title": "MOOCWEB: Langage php: Utiliser php avec Mysql: Introduction...",
+            "snippet": "Langage php: Utiliser php avec Mysql: Introduction MOOCWEB: Langage php: Utiliser php avec Mysql: Introduction...",
+            "date": "2015-01-14",
+            "author_name": "inertoment",
+            "categories": "langage,php,mysql",
+            "tags": "langage,php,utiliser,mysql,introduction",
+            "recuweb_url": "http://fr.recuweb.com/mysql/inertoment.wordpress.com/2015/01/moocweb-langage-php-utiliser-avec-mysql-introduction",
+            "resource_url": "http://fr.search.wordpress.com/?q=php%2Bphp&f=feed&page=1",
+            "source_url": "http://inertoment.wordpress.com/2015/01/14/moocweb-langage-php-utiliser-php-avec-mysql-introduction/"
         }
     }
 }
