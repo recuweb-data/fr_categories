@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -11,65 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
+        "commentcamarche.net/2015/05/probl%C3%A8me-avec-les-import-s-java": {
+            "title": "Probl\u00e8me avec les import(s) java...",
+            "snippet": "Les membres obtiennent plus de r\u00e9ponses que les utilisateurs anonymes. Le fait d'\u00eatre membre vous permet d'avoir un suivi d\u00e9taill\u00e9 de vos demandes. Le fait d'\u00eatre membre vous permet d'avoir des options suppl\u00e9mentaires.",
+            "date": "2015-05-02",
+            "categories": "java",
+            "tags": "java",
+            "recuweb_url": "http://fr.recuweb.com/java/commentcamarche.net/2015/05/probl%C3%A8me-avec-les-import-s-java",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31915430-probleme-avec-les-import-s-java"
+        },
+        "emploi.silicon.fr/2015/04/dev-java-pour-la-refonte-globale-dun-des-plus-gros-sites": {
+            "title": "Dev Java Pour La Refonte Globale Dun Des Plus Gros Sites E-commerce Au Monde javaee refactoring...",
+            "snippet": "Ippon Technologies est un cabinet d'expertise et de conseil web et mobile, sp\u00e9cialis\u00e9 dans les architectures Java EE, les portails d'entreprise et les technologies d'int\u00e9gration (ESB, SOA).Compos\u00e9e de consultants de haut niveau, Ippon...",
+            "date": "2015-04-30",
+            "categories": "technologie,java",
+            "tags": "technologies,conseil,cabinet,java",
+            "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/dev-java-pour-la-refonte-globale-dun-des-plus-gros-sites",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/452493/dev-java-pour-la-refonte-globale-dun-des-plus-gros-sites-e-commerce-au-monde-sharpjavaee-sharprefactoring-sharpbigdata-sharpspark-sharpcassandra-hf/"
+        },
         "emploi.silicon.fr/2015/04/artisan-ptissier-logiciel-java-h-f": {
             "title": "Artisan-ptissier Logiciel Java H/F...",
             "snippet": "Arolla est un cabinet de conseil en technologies de linformation qui agit pour redonner ses lettres de noblesse au d\u00e9veloppement. Nous pr\u00f4nons les bonnes pratiques de d\u00e9veloppement (TDD, BDD, DDD, clean code, etc.) ainsi que les m\u00e9thodes agiles.",
             "date": "2015-04-29",
             "categories": "technologie,java",
-            "tags": "d\u00e9veloppement,conseil,java",
+            "tags": "code,cabinet,conseil,technologies,java",
             "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/artisan-ptissier-logiciel-java-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/452005/artisan-ptissier-logiciel-java-hf/"
         },
-        "tennessean.com/2015/04/bongo-java-linked-cafe-smoothie-king-set-for-1821-jefferson-st": {
-            "title": "Bongo Java-linked cafe, Smoothie King set for 1821 Jefferson St. - The Tennessean...",
-            "snippet": "The TennesseanBongo Java-linked cafe, Smoothie King set for 1821 Jefferson TennesseanA Bongo Java-affiliated cafe and Smoothie King will occupy retail space at 1821 Jefferson, the mixed-use building a group that includes two well-known businessmen...",
-            "date": "2015-04-28",
+        "programmez.com/2015/04/build-2015-visual-studio-code-azure-windows-10-objective-et-programmez": {
+            "title": "BUILD 2015: Visual Studio Code, Azure, Windows 10, Objective et... - Programmez!",
+            "snippet": "BUILD 2015: Visual Studio Code, Azure, Windows 10, Objective et...Programmez!La rumeur disait vrai: utiliser des apps Android (et les codes Java et C) sur Windows Phone 10, on aura des d\u00e9tails durant la seconde journ\u00e9e de BUILD. Mais Microsoft...",
+            "date": "2015-04-29",
             "categories": "java",
-            "tags": "will,java",
-            "recuweb_url": "http://fr.recuweb.com/java/tennessean.com/2015/04/bongo-java-linked-cafe-smoothie-king-set-for-1821-jefferson-st",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
-            "source_url": "http://tennessean.com/story/money/real-estate/2015/04/28/bongo-java-smoothie-king-set-jefferson-st/26535903/"
-        },
-        "emploi.silicon.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-java-jee-h-f": {
-            "title": "ING\u00c9NIEUR D\u00c9VELOPPEMENT JAVA/JEE (H/F)...",
-            "snippet": "Fort de pr\u00e8s de 145 000 collaborateurs et pr\u00e9sent dans plus de 40 pays, Capgemini est lun des leaders mondiaux du conseil, des services informatiques et de linfog\u00e9rance. Le Groupe a r\u00e9alis\u00e9 en 2014 un chiffre daffaires de 10,573 milliards d...",
-            "date": "2015-04-28",
-            "categories": "java",
-            "tags": "conseil,d\u00e9veloppement,java",
-            "recuweb_url": "http://fr.recuweb.com/java/emploi.silicon.fr/2015/04/ing%C3%A9nieur-d%C3%A9veloppement-java-jee-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
-            "source_url": "http://emploi.silicon.fr/451923/ingnieur-dveloppement-javajee-hf/"
+            "tags": "code,java,microsoft",
+            "recuweb_url": "http://fr.recuweb.com/java/programmez.com/2015/04/build-2015-visual-studio-code-azure-windows-10-objective-et-programmez",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
+            "source_url": "http://programmez.com/actualites/build-2015-visual-studio-code-azure-windows-10-objective-et-java-sur-visual-studio-22608"
         },
         "developpez.com/2015/04/microsoft-90%-de-pirates-ont-bascul%C3%A9-leurs-attaques-java-vers-flash": {
             "title": "Microsoft: 90% de pirates ont bascul\u00e9 leurs attaques de Java vers Flash...",
             "snippet": "En 2014, de nombreuses \u00e9tudes daccordaient sur le fait que Java \u00e9tait la cible favorite des pirates. Une \u00e9tude de Cisco publi\u00e9e en janvier 2014 faisait, par exemple, savoir que 91% des attaques en ligne exploitaient des failles Java. Cette...",
             "date": "2015-04-28",
             "categories": "java",
-            "tags": "exemple,\u00e9tude,microsoft,java,flash",
+            "tags": "exemple,\u00e9tude,microsoft,java",
             "recuweb_url": "http://fr.recuweb.com/java/developpez.com/2015/04/microsoft-90%-de-pirates-ont-bascul%C3%A9-leurs-attaques-java-vers-flash",
             "resource_url": "http://www.bing.com/news/search?first=1&q=java&format=RSS&cc=fr",
             "source_url": "http://developpez.com/actu/84477/Microsoft-90-pourcent-de-pirates-ont-bascule-leurs-attaques-de-Java-vers-Flash-a-cause-du-blocage-des-versions-obsoletes-de-Java-par-IE/"
-        },
-        "theregister.co.uk/2015/04/ninety-per-cent-of-java-black-hats-migrate-to-footling-flash": {
-            "title": "NINETY PER CENT of Java black hats migrate to footling Flash - The Register...",
-            "snippet": "The RegisterNINETY PER CENT of Java black hats migrate to footling FlashThe RegisterRSA 2015 Almost every Java-hacking black hat is now popping Adobe Flash, after Microsoft's hard-line patch policy made it harder to target software such as Java. The...",
-            "date": "2015-04-27",
-            "categories": "java",
-            "tags": "java,flash,microsoft",
-            "recuweb_url": "http://fr.recuweb.com/java/theregister.co.uk/2015/04/ninety-per-cent-of-java-black-hats-migrate-to-footling-flash",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
-            "source_url": "http://theregister.co.uk/2015/04/27/ninety_percent_of_java_blackhats_now_finger_flash/"
         },
         "streetpress.com/2015/04/jungle-brothers-la-java": {
             "title": "Jungle Brothers La Java -...",
             "snippet": "Brothers La de la fusion rap/jazz, le trio new yorkais (qui compte parmi ses potes de petits groupes sympa comme De La Soul et A Tribe Called Quest, rien que \u00e7a) a marqu\u00e9 l'histoire du hip-hop avec l'album Straight Out Of The Jungle, sorti en...",
             "date": "2015-04-10",
             "categories": "java",
-            "tags": "java",
+            "tags": "java,jazz",
             "recuweb_url": "http://fr.recuweb.com/java/streetpress.com/2015/04/jungle-brothers-la-java",
-            "resource_url": "http://news.google.fr/?hl=fr&q=java&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
             "source_url": "http://streetpress.com/sujet/1428599797-jungle-brothers-la-java"
+        },
+        "soonnight.com/2015/04/%C3%BCberbacken-vendredi-01-mai-2015-soiree-clubbing-au-java-soonnight": {
+            "title": "\u00dcBERBACKEN vendredi 01 mai 2015 - Soiree clubbing au Java - SoonNight...",
+            "snippet": "SoonNight\u00dcBERBACKEN vendredi 01 mai 2015 - Soiree clubbing au JavaSoonNightInvit\u00e9 r\u00e9gulier du Panorama Bar, RICHARD ZEPEZAUER (Nsyde - Berlin) propose une s\u00e9lection toujours juste et sans fronti\u00e8res. Sur son label Nsyde, il a sign\u00e9 des...",
+            "date": "2015-04-03",
+            "categories": "java",
+            "tags": "java",
+            "recuweb_url": "http://fr.recuweb.com/java/soonnight.com/2015/04/%C3%BCberbacken-vendredi-01-mai-2015-soiree-clubbing-au-java-soonnight",
+            "resource_url": "http://news.google.fr/?hl=fr&q=java%2Bjava&output=atom&nord=1",
+            "source_url": "http://soonnight.com/paris/java/vendredi-01-mai-uberbacken,1,889358.html"
         }
     }
 }
