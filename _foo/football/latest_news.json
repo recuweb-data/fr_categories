@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "football",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/football/",
@@ -11,75 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football/football/blogs.json"
     },
     "items": {
+        "sport24.lefigaro.fr/2015/05/lloris-gardien-le-plus-cher-de-l-histoire-du-foot-figaro": {
+            "title": "Lloris, gardien le plus cher de l'histoire du foot? - Le Figaro Sport...",
+            "snippet": "Le Figaro SportLloris, gardien le plus cher de l'histoire du foot?Le Figaro SportRechercher. 10. Menu 10. En ce moment. Suivre Recherche Connexion. Sport R\u00e9sultats Football Tennis Rugby Basket F1 Golf Le Scan Sport Vid\u00e9os Diapo. Menu. Sport. Menu...",
+            "date": "2015-05-02",
+            "categories": "golf,sport,football,tennis,rugby",
+            "tags": "sport,football,histoire,foot",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sport24.lefigaro.fr/2015/05/lloris-gardien-le-plus-cher-de-l-histoire-du-foot-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=football&output=atom&nord=1",
+            "source_url": "http://sport24.lefigaro.fr/football/transferts/actualites/lloris-gardien-le-plus-cher-de-l-histoire-du-foot-748280"
+        },
+        "rtl.fr/2015/04/football-le-real-et-l-atl%C3%A9tico-madrid-pourraient-%C3%AAtre-priv%C3%A9s": {
+            "title": "Football: le Real et l'Atl\u00e9tico Madrid pourraient \u00eatre priv\u00e9s de mercato...",
+            "snippet": "Le Real et l'Atl\u00e9tico Madrid sont dans le viseur de la FIFA. Selon un quotidien espagnol, les deux \u00e9quipes pourraient \u00eatre interdites de recrutement pour le prochain march\u00e9 estival, et peut-\u00eatre, pour le mercato hivernal de janvier 2016. Le...",
+            "date": "2015-04-30",
+            "categories": "recrutement,football",
+            "tags": "peut,\u00eatre,recrutement,madrid,football,real",
+            "recuweb_url": "http://fr.recuweb.com/football/rtl.fr/2015/04/football-le-real-et-l-atl%C3%A9tico-madrid-pourraient-%C3%AAtre-priv%C3%A9s",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
+            "source_url": "http://rtl.fr/sport/football/football-le-real-et-l-atletico-madrid-pourraient-etre-prives-de-mercato-7777516758"
+        },
         "leparisien.fr/2015/04/football-le-real-d%C3%A9ment-%C3%AAtre-interdit-de-recrutement": {
             "title": "Football: le Real d\u00e9ment \u00eatre interdit de recrutement...",
             "snippet": "C'est pourtant le sc\u00e9nario imagin\u00e9 par une radio espagnole, la Cadena Ser, g\u00e9n\u00e9ralement tr\u00e8s bien inform\u00e9e sur les affaires du Real Madrid. L'interdiction signifi\u00e9e au Real proviendrait d'irr\u00e9gularit\u00e9s pr\u00e9sum\u00e9es dans les transferts de...",
             "date": "2015-04-29",
             "categories": "radio,recrutement,football",
-            "tags": "imagin\u00e9,football",
+            "tags": "\u00eatre,recrutement,football,real,madrid",
             "recuweb_url": "http://fr.recuweb.com/football/leparisien.fr/2015/04/football-le-real-d%C3%A9ment-%C3%AAtre-interdit-de-recrutement",
             "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
             "source_url": "http://leparisien.fr/sports/football/football-le-real-dement-etre-interdit-de-recrutement-29-04-2015-4734333.php"
-        },
-        "20minutes.fr/2015/04/football-amateur-le-gers-se-mobilise-contre-l-augmentation": {
-            "title": "Football amateur: Le Gers se mobilise contre l'augmentation de la violence sur les terrains...",
-            "snippet": "Ah, le Gers... Ses doux vallons qui donnent au paysage des airs de Toscane, ses charmantes bastides, sa gastronomie exquise... Toutefois, derri\u00e8re la carte postale popularis\u00e9e par le film Le Bonheur est dans le pr\u00e9, la r\u00e9alit\u00e9 n'est pas...",
-            "date": "2015-04-29",
-            "categories": "football,bonheur",
-            "tags": "football",
-            "recuweb_url": "http://fr.recuweb.com/bonheur/20minutes.fr/2015/04/football-amateur-le-gers-se-mobilise-contre-l-augmentation",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
-            "source_url": "http://20minutes.fr/toulouse/1598003-20150429-football-amateur-gers-mobilise-contre-augmentation-violence-terrains"
-        },
-        "blog.lefigaro.fr/2015/04/grandeur-et-d%C3%A9cadence-du-football-des-ann%C3%A9es-2030": {
-            "title": "Grandeur et d\u00e9cadence du football des ann\u00e9es 2030...",
-            "snippet": "Imagin\u00e9 par des \u00e9tudiants anglais du milieu du 19\u00e8me si\u00e8cle, le football a \u00e9pous\u00e9 toutes les grandes transformations de la soci\u00e9t\u00e9: r\u00e9volution industrielle, expansion et construction europ\u00e9enne, r\u00e9volution des m\u00e9dias et mondialisation,...",
-            "date": "2015-04-29",
-            "categories": "mondialisation,construction,football",
-            "tags": "grandes,football,imagin\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/football/blog.lefigaro.fr/2015/04/grandeur-et-d%C3%A9cadence-du-football-des-ann%C3%A9es-2030",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
-            "source_url": "http://blog.lefigaro.fr/sport-business/2015/04/grandeur-et-decadence-du-football-des-annees-2030.html"
-        },
-        "sport24.lefigaro.fr/2015/04/pogba-au-psg-la-presse-italienne-annonce-un-accord-le-figaro": {
-            "title": "Pogba au PSG: la presse italienne annonce un accord - Le Figaro Sport...",
-            "snippet": "Le Figaro SportPogba au PSG: la presse italienne annonce un accordLe Figaro SportRechercher. 10. Menu 10. En ce moment. Suivre Recherche Connexion. Sport R\u00e9sultats Football Tennis Rugby Basket F1 Golf Le Scan Sport Vid\u00e9os Diapo. Menu. Sport. Menu...",
-            "date": "2015-04-29",
-            "categories": "golf,sport,football,tennis,rugby",
-            "tags": "sport,football,presse,psg",
-            "recuweb_url": "http://fr.recuweb.com/rugby/sport24.lefigaro.fr/2015/04/pogba-au-psg-la-presse-italienne-annonce-un-accord-le-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
-            "source_url": "http://sport24.lefigaro.fr/football/transferts/actualites/pogba-au-psg-la-presse-italienne-annonce-un-accord-748032"
-        },
-        "francefootball.fr/2015/04/mon-record-lacazette-ne-le-battra-pas-france-football": {
-            "title": "Mon record, Lacazette ne le battra pas! - France Football...",
-            "snippet": "France FootballMon record, Lacazette ne le battra pas!France FootballAuteur de 222 buts sous le maillot lyonnais entre 1960 et 1974, le Petit Prince de Gerland, Fleury Di Nallo \u00e9voque ses h\u00e9ritiers, et notamment Alexandre Lacazette. Alexandre...",
-            "date": "2015-04-29",
-            "categories": "football",
-            "tags": "football",
-            "recuweb_url": "http://fr.recuweb.com/football/francefootball.fr/2015/04/mon-record-lacazette-ne-le-battra-pas-france-football",
-            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
-            "source_url": "http://francefootball.fr/news/-mon-record-lacazette-ne-le-battra-pas/554619"
-        },
-        "eurosport.fr/2015/04/chelsea-jos%C3%A9-mourinho-n-aime-pas-le-football-de-possession": {
-            "title": "Chelsea: Jos\u00e9 Mourinho n'aime pas le football de possession et n... -...",
-            "snippet": ": Jos\u00e9 Mourinho n'aime pas le football de possession et n... LEAGUE - \"Boring Chelsea\"? Mardi en conf\u00e9rence de presse, Jos\u00e9 Mourinho en a remis une couche et s'en est pris aux esth\u00e8tes qui jugent son \u00e9quipe ennuyeuse. Pour le Portugais, le...",
-            "date": "2015-04-28",
-            "categories": "football",
-            "tags": "presse,football",
-            "recuweb_url": "http://fr.recuweb.com/football/eurosport.fr/2015/04/chelsea-jos%C3%A9-mourinho-n-aime-pas-le-football-de-possession",
-            "resource_url": "http://news.google.fr/?hl=fr&q=football%2Bfootball&output=atom&nord=1",
-            "source_url": "http://eurosport.fr/football/premier-league/2014-2015/chelsea-jose-mourinho-n-aime-pas-le-football-de-possession-et-n-est-pas-pres-de-changer-d-avis_sto4697261/story.shtml"
-        },
-        "leparisien.fr/2015/04/football-arsenal-henry-tacle-giroud": {
-            "title": "Football. Arsenal: Henry tacle Giroud...",
-            "snippet": "r\u00e9agir Thierry Henry estime qu'Arsenal doit recruter un attaquant de classe mondiale, une cat\u00e9gorie dans laquelle il n'inclut pas Olivier Giroud, l'actuel avant-centre des Gunners. (LP/Fr\u00e9d\u00e9ric Dugit et AFP/Adrian Dennis.) Selon lui, l'actuel...",
-            "date": "2015-04-27",
-            "categories": "football",
-            "tags": "football",
-            "recuweb_url": "http://fr.recuweb.com/football/leparisien.fr/2015/04/football-arsenal-henry-tacle-giroud",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/sports/football/football-arsenal-henry-tacle-giroud-27-04-2015-4728637.php"
         }
     }
 }
