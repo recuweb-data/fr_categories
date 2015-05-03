@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "course-sur-route",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/course-sur-route/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/course-sur-route-hem-marrakech-2015": {
-            "title": "Course sur Route- HEM Marrakech 2015...",
-            "snippet": "Course sur Route- HEM Marrakech 2015 D\u00e9couvrez en vid\u00e9o la Course sur route organis\u00e9e par HEM Marrakech, le dimanche 15 mars 2015. Une \u00e9preuve sportive sur une distance de 6 Km pleinement v\u00e9cue par des HEMistes et des lyc\u00e9ens. From: Groupe HEM...",
-            "date": "2015-04-16",
-            "author_name": "Groupe HEM",
-            "tags": "dimanche,route,course",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/course-sur-route-hem-marrakech-2015",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=3p_JZQZNXqI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/3p_JZQZNXqI/0.jpg"
-        },
         "youtube.com/2015/03/course-v%C3%A9lo-route-2015-saint-simeon-77": {
             "title": "course v\u00e9lo route 2015 SAINT SIMEON 77...",
             "snippet": "course v\u00e9lo route 2015 SAINT SIMEON 77 From: Marc Bonnaud Views: 231 0 ratings Time: 00:23 More in Sports...",
@@ -116,15 +105,27 @@
         },
         "youtube.com/2014/10/marines-course-ufolep-sur-route": {
             "title": "Marines - Course Ufolep sur route...",
-            "snippet": "Marines - Course Ufolep sur route Course Ufolep 4\u00e8me cat\u00e9gorie, arriv\u00e9e des 3\u00e8mes. Marines - Val d'Oise. Dimanche 5 Octobre 2014. From: Club Cycliste du Valois Views: 338 1 ratings Time: 09:03 More in Sports...",
+            "snippet": "Marines - Course Ufolep sur route Course Ufolep 4\u00e8me cat\u00e9gorie, arriv\u00e9e des 3\u00e8mes. Marines - Val d'Oise. Dimanche 5 Octobre 2014. From: Club Cycliste du Valois Views: 368 1 ratings Time: 09:03 More in Sports...",
             "date": "2014-10-05",
             "author_name": "Club Cycliste du Valois",
             "categories": "sport",
-            "tags": "cat\u00e9gorie,route,course,dimanche,sports",
+            "tags": "cat\u00e9gorie,route,course,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/marines-course-ufolep-sur-route",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=j90t60sVTvo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/j90t60sVTvo/0.jpg"
+        },
+        "dailymotion.com/2014/07/course-de-chevaux-sur-route": {
+            "title": "Course de chevaux sur route...",
+            "snippet": "Deux cavaliers vont se lancer dans une course de chevaux sur route, suivis de motos et scooters. Il faut savoir que ce type de course sur route est tr\u00e8s dangereux pour ces animaux et traumatisants pour leurs: mineyannTags: cavaliers course chevaux...",
+            "date": "2014-07-22",
+            "author_name": "mineyann",
+            "categories": "course-sur-route",
+            "tags": "course,route",
+            "recuweb_url": "http://fr.recuweb.com/course-sur-route/dailymotion.com/2014/07/course-de-chevaux-sur-route",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/course+sur+route+course+sur+route/0?af=1",
+            "source_url": "http://dailymotion.com/video/x21wwfx_course-de-chevaux-sur-route_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x21wwfx_course-de-chevaux-sur-route_sport"
         }
     }
 }
