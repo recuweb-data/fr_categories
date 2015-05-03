@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "litterature",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/litterature/",
@@ -11,27 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/litterature/litterature/blogs.json"
     },
     "items": {
-        "radiolaser.fr/2015/04/litt%C3%A9rature-le-play-mobile-du-crime-radio-laser": {
-            "title": "Litt\u00e9rature: le (play)mobile du crime - Radio Laser...",
-            "snippet": "F\u00e9lix Boul\u00e9 vous conseille cette semaine de lire L'amour et les for\u00eats, le dernier roman d'Eric Reinhardt, qui d\u00e9peint un couple en plein naufrage.",
-            "date": "2015-04-29",
-            "author_name": "Antoine Barrailler",
-            "categories": "radio,litterature,play",
-            "tags": "dernier,f\u00e9lix,litt\u00e9rature",
-            "recuweb_url": "http://fr.recuweb.com/play/radiolaser.fr/2015/04/litt%C3%A9rature-le-play-mobile-du-crime-radio-laser",
+        "philomag.com/2015/04/parution-de-l-enfant-la-litt%C3%A9rature-et-philosophie-chez-harmattan": {
+            "title": "Parution de \"L'enfant, la litt\u00e9rature et la philosophie\" chez L'Harmattan...",
+            "snippet": "Votre blogeuse pr\u00e9f\u00e9r\u00e9e de Philosophiemagazine a le plaisir de vous annoncer la sortie de son dernier livre: L'enfant, la litt\u00e9rature et la philosophie chez L'Harmattan. Ce livre est le fruit de plus de 10 ann\u00e9es de r\u00e9flexions, de recherches...",
+            "date": "2015-04-26",
+            "author_name": "echirouter",
+            "categories": "plaisir,litterature",
+            "tags": "livre,chez,litt\u00e9rature",
+            "recuweb_url": "http://fr.recuweb.com/litterature/philomag.com/2015/04/parution-de-l-enfant-la-litt%C3%A9rature-et-philosophie-chez-harmattan",
             "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://radiolaser.fr/Litterature-le-play-mobile-du-crime_a14193.html"
+            "source_url": "http://philomag.com/blogs/dans-la-tete-des-enfants/parution-de-lenfant-la-litterature-et-la-philosophie-chez-lharmattan"
         },
-        "litteratureaudio.com/2015/04/la-dent-d-hercule-petitgris-litterature": {
-            "title": "La Dent d'Hercule Petitgris - Litterature...",
-            "snippet": "T\u00e9l\u00e9chargez gratuitement le livre audio: LEBLANC, Maurice La Dent d'Hercule Petitgris. Format MP3.",
-            "date": "2015-04-29",
-            "author_name": "contact@litteratureaudio.com",
+        "dakaractu.com/2015/04/litt%C3%A9rature-marouba-fall-claque-la-porte-de-l-aes-dakaractu": {
+            "title": "LITT\u00c9RATURE: Marouba Fall claque la porte de l'AES - Dakaractu...",
+            "snippet": "Le front a \u00e9t\u00e9 rouvert par une autre l\u00e9gende de la litt\u00e9rature, Marouba Fall, qui a annonc\u00e9 sa d\u00e9mission, prenant de court le monde litt\u00e9raire domestique. L'ancien proviseur du lyc\u00e9e de L\u00e9opold S\u00e9dar Senghor de Joal-...",
+            "date": "2015-04-25",
+            "author_name": "Dakar actu",
             "categories": "litterature",
-            "tags": "livre",
-            "recuweb_url": "http://fr.recuweb.com/litterature/litteratureaudio.com/2015/04/la-dent-d-hercule-petitgris-litterature",
+            "tags": "litt\u00e9raire,\u00e9t\u00e9,litt\u00e9rature",
+            "recuweb_url": "http://fr.recuweb.com/litterature/dakaractu.com/2015/04/litt%C3%A9rature-marouba-fall-claque-la-porte-de-l-aes-dakaractu",
+            "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dakaractu.com/LITTERATURE-Marouba-Fall-claque-la-porte-de-l-AES_a88705.html"
+        },
+        "alterpresse.org/2015/04/ha%C3%AFti-litt%C3%A9rature-ballade-d-un-amour-inachev%C3%A9-une-fresque": {
+            "title": "Ha\u00efti-Litt\u00e9rature: Ballade d'un amour inachev\u00e9, une fresque...",
+            "snippet": "Le s\u00e9isme du 12 janvier 2010 en Ha\u00efti est une source d'inspiration pour de nombreux \u00e9crivains, ha\u00eftiens ou \u00e9trangers. Cette catastrophe qui n'a pas son \u00e9quivalent dans l'histoire du pays fertilise l'imaginaire des cr\u00e9ateurs qui...",
+            "date": "2015-04-24",
+            "author_name": "inconnu",
+            "categories": "litterature",
+            "tags": "litt\u00e9rature,histoire",
+            "recuweb_url": "http://fr.recuweb.com/litterature/alterpresse.org/2015/04/ha%C3%AFti-litt%C3%A9rature-ballade-d-un-amour-inachev%C3%A9-une-fresque",
             "resource_url": "http://www.google.com/search?q=litterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://litteratureaudio.com/livre-audio-gratuit-mp3/leblanc-maurice-la-dent-dhercule-petitgris.html"
+            "source_url": "http://alterpresse.org/spip.php?article18119"
         },
         "snes.edu/2015/04/programme-2015-2016-litt%C3%A9rature-terminale-l-snes": {
             "title": "PROGRAMME 2015-2016 Litt\u00e9rature terminale L - SNES...",
@@ -39,32 +50,10 @@
             "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "litterature",
-            "tags": "programme,litt\u00e9rature,terminale",
+            "tags": "litt\u00e9rature,terminale",
             "recuweb_url": "http://fr.recuweb.com/litterature/snes.edu/2015/04/programme-2015-2016-litt%C3%A9rature-terminale-l-snes",
             "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://snes.edu/PROGRAMME-2015-2016-Litterature-terminale-L.html"
-        },
-        "slate.fr/2015/04/quand-l-hypermarch%C3%A9-devient-objet-litt%C3%A9raire": {
-            "title": "Quand l'hypermarch\u00e9 devient objet litt\u00e9raire...",
-            "snippet": "Quand la litt\u00e9rature fait du quotidien une exp\u00e9rience, et \u00e9rige un non-lieu en lieu de m\u00e9moire des soci\u00e9t\u00e9s p\u00e9riph\u00e9riques.",
-            "date": "2015-04-17",
-            "author_name": "Agn\u00e8s Leroy",
-            "categories": "litterature",
-            "tags": "lieu,litt\u00e9rature",
-            "recuweb_url": "http://fr.recuweb.com/litterature/slate.fr/2015/04/quand-l-hypermarch%C3%A9-devient-objet-litt%C3%A9raire",
-            "resource_url": "http://www.google.com/search?q=litterature%2Blitterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/100507/hypermarche-devient-objet-litteraire"
-        },
-        "filfrancophones.com/2015/03/programme-journ%C3%A9es-d-%C3%A9tudes-consacr%C3%A9es-%C3+": {
-            "title": "Programme JOURN\u00c9ES D'\u00c9TUDES CONSACR\u00c9ES \u00c0 LA...",
-            "snippet": "JOURN\u00c9ES D'\u00c9TUDES CONSACR\u00c9ES \u00c0 LA LITT\u00c9RATURE TOGOLAISE Lom\u00e9, les 30 & 31 mars 2015/Organisateurs: D\u00e9partements de Lettres modernes, Allemand, Sciences du langage, Anglais (FLESH/Universit\u00e9 de...",
-            "date": "2015-03-27",
-            "author_name": "filfrancophones",
-            "categories": "langage,litterature,science",
-            "tags": "litt\u00e9rature,programme,universit\u00e9",
-            "recuweb_url": "http://",
-            "resource_url": "http://www.google.com/search?q=litterature&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://filfrancophones.com/2015/03/27/programme-journees-detudes-consacrees-a-la-litterature-togolaise/"
         }
     }
 }
