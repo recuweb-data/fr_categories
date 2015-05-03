@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblog",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -11,23 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/blogs.json"
     },
     "items": {
-        "huffingtonpost.com/2015/04/shanghai-models-dress-as-beggars-to-protest-ban-and-sell-huffington": {
-            "title": "Shanghai Models Dress As Beggars To 'Protest'Ban And... Sell... - Huffington Post...",
-            "snippet": "Huffington PostShanghai Models Dress As Beggars To 'Protest'Ban And... Sell...Huffington PostThey then directed fans to the micro-blog account and website of Thin Kung Fu. Representatives of Thin Kung Fu reached by phone said the event was a public...",
-            "date": "2015-04-29",
-            "tags": "said,was,micro",
-            "recuweb_url": "http://fr.recuweb.com/huffingtonpost.com/2015/04/shanghai-models-dress-as-beggars-to-protest-ban-and-sell-huffington",
+        "scmp.com/2015/05/chinese-navy-s-transparency-on-new-microblog-more-a-boon-than": {
+            "title": "Chinese navy's transparency on new microblog more a boon than a... - South China Morning Post...",
+            "snippet": "South China Morning Post (subscription)Chinese navy's transparency on new microblog more a boon than a...South China Morning Post (subscription)But the PLA Navy last week took a small but unusual step in that direction by launching a microblog that...",
+            "date": "2015-05-02",
+            "categories": "microblog",
+            "tags": "week,that,pla,pla_navy,navy,chinese,microblog",
+            "recuweb_url": "http://fr.recuweb.com/microblog/scmp.com/2015/05/chinese-navy-s-transparency-on-new-microblog-more-a-boon-than",
             "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
-            "source_url": "http://huffingtonpost.com/2015/04/29/shanghai-car-models-dress-beggars-protest_n_7169252.html"
+            "source_url": "http://scmp.com/comment/insight-opinion/article/1784304/chinese-navys-transparency-new-microblog-more-boon-bane"
+        },
+        "ilsole24ore.com/2015/04/twitter-la-crescita-delude-e-un-microblog-pirata-lo-affonda-in": {
+            "title": "Twitter, la crescita delude e un microblog pirata lo affonda in Borsa - Il Sole 24 Ore...",
+            "snippet": "Il Sole 24 OreTwitter, la crescita delude e un microblog pirata lo affonda in BorsaIl Sole 24 OreNEW YORK Twitter cresce, ma tradisce malamente le attese. E il titolo viene punito, pesantemente, in Borsa: dopo aver perso in pochi minuti anche il...",
+            "date": "2015-04-29",
+            "categories": "twitter,microblog",
+            "tags": "twitter,microblog",
+            "recuweb_url": "http://fr.recuweb.com/microblog/ilsole24ore.com/2015/04/twitter-la-crescita-delude-e-un-microblog-pirata-lo-affonda-in",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
+            "source_url": "http://ilsole24ore.com/art/finanza-e-mercati/2015-04-29/twitter-crescita-delude-e-microblog-pirata-affonda-borsa-071036.shtml?uuid=ABj0ZeXD"
         },
         "en.yibada.com/2015/04/pla-navy-micro-blog-slowly-gaining-viewers-followers-yibada-english-edition": {
             "title": "PLA Navy Micro Blog Slowly Gaining Viewers, Followers - Yibada (English Edition)...",
             "snippet": "Yibada (English Edition)PLA Navy Micro Blog Slowly Gaining Viewers, FollowersYibada (English Edition)Senior Captain Shen Liqing, director of the publicity department at the navy's Beijing headquarters, said that the micro blog was created to improve...",
             "date": "2015-04-28",
             "categories": "microblog",
-            "tags": "was,said,navy,pla,pla_navy,micro",
+            "tags": "that,micro,navy,pla,pla_navy",
             "recuweb_url": "http://fr.recuweb.com/microblog/en.yibada.com/2015/04/pla-navy-micro-blog-slowly-gaining-viewers-followers-yibada-english-edition",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
             "source_url": "http://en.yibada.com/articles/29812/20150428/pla-navy-micro-blog.htm"
         },
         "br.noticias.yahoo.com/2015/04/resultado-trimestral-do-twitter-vaza-no-microblog-e-a%C3%A7%C3%B5es-da-yahoo": {
@@ -37,7 +48,7 @@
             "categories": "yahoo,twitter,microblog",
             "tags": "yahoo,twitter,microblog",
             "recuweb_url": "http://fr.recuweb.com/microblog/br.noticias.yahoo.com/2015/04/resultado-trimestral-do-twitter-vaza-no-microblog-e-a%C3%A7%C3%B5es-da-yahoo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
             "source_url": "http://br.noticias.yahoo.com/resultado-trimestral-twitter-vaza-microblog-a\u00e7\u00f5es-empresa-caem-205417623.html"
         },
         "ecns.cn/2015/04/pla-navy-launches-official-micro-blog-account-ecns": {
@@ -45,20 +56,10 @@
             "snippet": "PLA Navy launches official micro-blog accountecnsThe Navy of the Chinese People's Liberation Army (PLA) launched its official Internet micro-blog account () on the People's Daily Online (), the first of its kind among all the major units of the...et...",
             "date": "2015-04-24",
             "categories": "internet",
-            "tags": "daily,navy,pla,pla_navy,micro,internet",
+            "tags": "chinese,navy,micro,pla,pla_navy,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/ecns.cn/2015/04/pla-navy-launches-official-micro-blog-account-ecns",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
             "source_url": "http://ecns.cn/military/2015/04-24/162954.shtml"
-        },
-        "french.people.com.cn/2015/04/quand-des-pompiers-du-liaoning-se-font-photographier-fa%C3%A7on-blockbuster-hollywoodien": {
-            "title": "Quand des pompiers du Liaoning se font photographier fa\u00e7on blockbuster hollywoodien...",
-            "snippet": "Le 21 avril, le site Internet du China Daily a publi\u00e9 un ensemble de photos impressionnantes, dignes d'un blockbuster hollywoodien, mises en ligne sur le microblog officiel des pompiers de Chaoyang, dans la Province du Liaoning, mettant en valeur...",
-            "date": "2015-04-21",
-            "categories": "internet,microblog",
-            "tags": "ligne,daily,site,internet,microblog",
-            "recuweb_url": "http://fr.recuweb.com/microblog/french.people.com.cn/2015/04/quand-des-pompiers-du-liaoning-se-font-photographier-fa%C3%A7on-blockbuster-hollywoodien",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=microblog&format=RSS&cc=fr",
-            "source_url": "http://french.people.com.cn/Culture/n/2015/0421/c31358-8881612.html"
         },
         "catracalivre.com.br/2015/04/site-cria-microblog-para-mulheres-confessarem-seus-pecados-catraca-livre": {
             "title": "Site cria microblog para mulheres confessarem seus pecados. - Catraca Livre...",
@@ -67,7 +68,7 @@
             "categories": "microblog,facebook",
             "tags": "site,microblog",
             "recuweb_url": "http://fr.recuweb.com/facebook/catracalivre.com.br/2015/04/site-cria-microblog-para-mulheres-confessarem-seus-pecados-catraca-livre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microblog%2Bmicroblog&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=microblog&output=atom&nord=1",
             "source_url": "http://catracalivre.com.br/geral/dica-digital/indicacao/site-cria-microblog-para-mulheres-confessarem-seus-pecados/"
         }
     }
