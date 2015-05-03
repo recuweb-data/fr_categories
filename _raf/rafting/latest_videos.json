@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rafting",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rafting/",
@@ -11,17 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rafting/rafting/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/le-maroc-avec-oie-rafting": {
+            "title": "Le Maroc avec Oie Oie Oie Rafting...",
+            "snippet": "Le Maroc avec Oie Oie Oie Rafting Envie de d\u00e9couvrir de nouvelles rivi\u00e8res, de nouveaux paysages, de faire de nouvelles rencontres? N'h\u00e9sitez pas \u00e0 aller sur et contacter Michel Bernard GENOVESE... From: Kremer Olivier Views: 71 3 ratings Time:...",
+            "date": "2015-04-30",
+            "author_name": "Kremer Olivier",
+            "categories": "rafting",
+            "tags": "rafting",
+            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2015/04/le-maroc-avec-oie-rafting",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=SS9Cr5dPk4U&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/SS9Cr5dPk4U/0.jpg"
+        },
         "dailymotion.com/2015/04/h2o-rafting-sur-l-is%C3%A8re": {
             "title": "H2o rafting sur l'is\u00e8re...",
             "snippet": "Le centre H2o rafting sous toutes ses formes!Author: h2o-sportsTags: Rafting Hydrospeed Cano\u00eb-kayak Is\u00e8re Savoie h2o sport canyoning outdoor nature sports montagne Posted: 29 April 2015Rating:: 0...",
             "date": "2015-04-29",
             "author_name": "h2o-sports",
             "categories": "sport,nature,rafting",
-            "tags": "sports,savoie,rafting,cano\u00eb,kayak",
+            "tags": "savoie,rafting,cano\u00eb,kayak",
             "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2015/04/h2o-rafting-sur-l-is%C3%A8re",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
             "source_url": "http://dailymotion.com/video/x2oef8e_h2o-rafting-sur-l-isere_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2oef8e_h2o-rafting-sur-l-isere_sport"
+        },
+        "youtube.com/2015/04/rafting-aude-crazy-raft-2015": {
+            "title": "Rafting Aude Crazy Raft 2015...",
+            "snippet": "Rafting Aude Crazy Raft 2015 Rafting Sport Gorges Pierre Lys, Plus d'infos sur Page Facebook: Twitter: Google:... From: Paul Boher Views: 13 3 ratings Time: 01:44 More in People & Blogs...",
+            "date": "2015-04-25",
+            "author_name": "Paul Boher",
+            "categories": "facebook,rafting,sport,twitter,google",
+            "tags": "rafting,gorges",
+            "recuweb_url": "http://fr.recuweb.com/google/youtube.com/2015/04/rafting-aude-crazy-raft-2015",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=agHXwau2nEA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/agHXwau2nEA/0.jpg"
         },
         "dailymotion.com/2015/04/new-women-s-lavacore-lavaskin-board-shorts-black-size-x-small": {
             "title": "New Women's LavaCore LavaSkin Board Shorts - Black (Size X-Small) for Scuba Diving, Surfing...",
@@ -41,7 +65,7 @@
             "date": "2015-04-08",
             "author_name": "Rafting-Cote-dAzur",
             "categories": "rafting",
-            "tags": "rafting,kayak,cano\u00eb",
+            "tags": "rafting,kayak,cano\u00eb,gorges",
             "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2015/04/canoe-kayak-rafting-nice-verdon",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting+rafting/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m1e68_canoe-kayak-rafting-nice-verdon_sport",
@@ -55,7 +79,7 @@
             "categories": "musique,rafting",
             "tags": "savoie,rafting",
             "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2015/04/savoie-rafting-2014",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=nf_qvqr3pJ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/nf_qvqr3pJ0/0.jpg"
         },
@@ -77,23 +101,11 @@
             "date": "2014-11-22",
             "author_name": "MisterBuzz",
             "categories": "rafting",
-            "tags": "kayak,eau,apr\u00e8s,rivi\u00e8re,rafting",
+            "tags": "kayak,apr\u00e8s,rafting",
             "recuweb_url": "http://fr.recuweb.com/rafting/dailymotion.com/2014/11/une-gopro-retrouv%C3%A9e-dans-rivi%C3%A8re-17-mois-apr%C3%A8s-sa-chute-d",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rafting/0?af=1",
             "source_url": "http://dailymotion.com/video/x2aswpu_une-gopro-retrouvee-dans-une-riviere-17-mois-apres-sa-chute-d-un-rafting_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2aswpu_une-gopro-retrouvee-dans-une-riviere-17-mois-apres-sa-chute-d-un-rafting_sport"
-        },
-        "youtube.com/2014/07/rafting-familial-nouveau-monde": {
-            "title": "Rafting Familial Rafting Nouveau Monde...",
-            "snippet": "Rafting Familial Rafting Nouveau Monde Passer une journ\u00e9e avec vos enfants sur l'eau sur la rivi\u00e8re Rouge. From: Rafting Nouveau Monde - New World Rafting Views: 239 1 ratings Time: 02:54 More in Sports...",
-            "date": "2014-07-26",
-            "author_name": "Rafting Nouveau Monde - New World Rafting",
-            "categories": "rafting,sport",
-            "tags": "rafting,eau,rivi\u00e8re,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/07/rafting-familial-nouveau-monde",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=yNz7S29Z_MA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/yNz7S29Z_MA/0.jpg"
         },
         "youtube.com/2014/07/rafting-onride-walygator-parc-2014-bou%C3%A9e-de-8": {
             "title": "Rafting OnRide Walygator Parc 2014 Bou\u00e9e de 8...",
@@ -118,18 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=vk6LjzouSTk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/vk6LjzouSTk/0.jpg"
-        },
-        "youtube.com/2014/03/rafting-gorge-du-tarn-parcours-decouverte-aveyron": {
-            "title": "Rafting Gorge du tarn parcours decouverte AVEYRON RAFTING...",
-            "snippet": "Rafting Gorge du tarn parcours decouverte AVEYRON RAFTING From: Aveyron Rafting Views: 271 0 ratings Time: 03:53 More in People & Blogs...",
-            "date": "2014-03-31",
-            "author_name": "Aveyron Rafting",
-            "categories": "rafting",
-            "tags": "rafting",
-            "recuweb_url": "http://fr.recuweb.com/rafting/youtube.com/2014/03/rafting-gorge-du-tarn-parcours-decouverte-aveyron",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rafting%2Brafting&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=HRI0bHcnlys&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/HRI0bHcnlys/0.jpg"
         }
     }
 }
