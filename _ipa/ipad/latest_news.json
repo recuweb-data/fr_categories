@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ipad",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ipad/",
@@ -11,72 +11,81 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ipad/ipad/blogs.json"
     },
     "items": {
-        "metronews.fr/2015/04/american-airlines-un-bug-des-ipad-pilotes-emp%C3%AAche-dizaines-d-avion": {
-            "title": "American Airlines: un bug des iPad des pilotes emp\u00eache des dizaines d'avion de d\u00e9coller...",
-            "snippet": "Remplacer 20 kg de documentation et de cartes par un iPad. Telle \u00e9tait la bonne id\u00e9e lanc\u00e9e en 2013 par American Airlines pour faciliter la vie de ses pilotes d'avion. Oui mais 20 kg de doc, \u00e7a ne plante pas, alors qu'un iPad (et ses...",
-            "date": "2015-04-29",
-            "categories": "plante,ipad",
-            "tags": "pilotes,documentation,dizaines,bug,american,american_airlines,airlines,ipad,\u00e9tait",
-            "recuweb_url": "http://fr.recuweb.com/ipad/metronews.fr/2015/04/american-airlines-un-bug-des-ipad-pilotes-emp%C3%AAche-dizaines-d-avion",
+        "begeek.fr/2015/05/les-seniors-japonais-vont-b%C3%A9n%C3%A9ficier-dipad-gratuits": {
+            "title": "Les seniors japonais vont b\u00e9n\u00e9ficier diPad gratuits...",
+            "snippet": "La poste japonaise, avec la collaboration d'IBM et Apple, va distribuer des iPads con\u00e7ues sp\u00e9cialement pour le troisi\u00e8me ge aux personnes g\u00e9es au Japon. Jeudi, la poste japonaise, conjointement avec Apple et IBM, annon\u00e7ait que les facteurs...",
+            "date": "2015-05-02",
+            "categories": "ipad",
+            "tags": "troisi\u00e8me,personnes,japonaise,vont,apple",
+            "recuweb_url": "http://fr.recuweb.com/ipad/begeek.fr/2015/05/les-seniors-japonais-vont-b%C3%A9n%C3%A9ficier-dipad-gratuits",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
-            "source_url": "http://metronews.fr/high-tech/american-airlines-un-bug-des-ipad-des-pilotes-empeche-des-dizaines-d-avion-de-decoller/modC!W6Sis61dvOORo/"
+            "source_url": "http://begeek.fr/les-seniors-japonais-vont-beneficier-dipad-gratuits-168467"
         },
-        "20minutes.fr/2015/04/etats-unis-l-ipad-des-pilotes-buggue-plusieurs-dizaines-d-avions": {
-            "title": "Etats-Unis: L'iPad des pilotes buggue, plusieurs dizaines d'avions d'American Airlines clou\u00e9s au...",
-            "snippet": "Etats-Unis: L'iPad des pilotes buggue, plusieurs dizaines d'avions d'American Airlines clou\u00e9s au...",
+        "begeek.fr/2015/05/ipad-pro-la-folie-des-grandeurs": {
+            "title": "iPad Pro: la folie des grandeurs...",
+            "snippet": "Les informations concernant la sortie de la prochaine tablette iPad Pro d'Apple continuent d'arriver au compte-goutte. Cette fois, c'est la taille de son \u00e9cran qui est en centre des d\u00e9bats et il semblerait de cette taille soit pour le moins...",
+            "date": "2015-05-02",
+            "categories": "ipad",
+            "tags": "\u00e9cran,sortie,prochaine,tablette,ipad,ipad_pro,pro,apple",
+            "recuweb_url": "http://fr.recuweb.com/ipad/begeek.fr/2015/05/ipad-pro-la-folie-des-grandeurs",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
+            "source_url": "http://begeek.fr/ipad-pro-la-folie-des-grandeurs-168450"
+        },
+        "iphoneaddict.fr/2015/05/lipad-domine-toujours-le-march%C3%A9-de-la-tablette-mais-sa-part": {
+            "title": "LiPad domine toujours le march\u00e9 de la tablette, mais sa part de march\u00e9 est en baisse...",
+            "snippet": "Les analystes qui glosent sur la fin prochaine de liPad devraient prendre un peu de recul et regarder la derni\u00e8re \u00e9tude dIDC. Il ressort de ce rapport que liPad, m\u00eame avec des ventes plus faibles et m\u00eame avec la concurrence acharn\u00e9e de...",
+            "date": "2015-05-01",
+            "tags": "m\u00eame,ventes,rapport,recul,analystes,prochaine,baisse,tablette,lipad",
+            "recuweb_url": "http://fr.recuweb.com/iphoneaddict.fr/2015/05/lipad-domine-toujours-le-march%C3%A9-de-la-tablette-mais-sa-part",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
+            "source_url": "http://iphoneaddict.fr/post/news-150640-lipad-domine-toujours-marche-tablette-part-marche-baisse"
+        },
+        "nowhereelse.fr/2015/05/ipad-pro-les-dimensions-de-lipad-air-plus-confirm%C3%A9es": {
+            "title": "iPad Pro: Les dimensions de liPad Air Plus confirm\u00e9es par un sch\u00e9ma industriel?",
+            "snippet": "Dapr\u00e8s les chiffres r\u00e9cemment publi\u00e9s par le cabinet dexpertise IDC, les ventes de tablettes tactiles auraient enregistr\u00e9 un recul de lordre de 6% au cours du premier trimestre de lann\u00e9e. Toujours dapr\u00e8s les analystes d...",
+            "date": "2015-05-01",
+            "categories": "ipad",
+            "tags": "analystes,premier,ventes,tablettes,recul,lipad,air,dimensions,ipad,ipad_pro,pro",
+            "recuweb_url": "http://fr.recuweb.com/ipad/nowhereelse.fr/2015/05/ipad-pro-les-dimensions-de-lipad-air-plus-confirm%C3%A9es",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
+            "source_url": "http://nowhereelse.fr/ipad-pro-air-plus-dimensions-schema-industriel-106877/"
+        },
+        "iphonote.com/2015/05/ipad-pro-les-pr%C3%A9tendues-dimensions-et-caract%C3%A9ristiques-au-grand-jour": {
+            "title": "iPad Pro: Les pr\u00e9tendues dimensions et caract\u00e9ristiques au grand jour...",
+            "snippet": "Ces derni\u00e8res semaines, les rumeurs autour de liPad Pro sintensifient et les infos du jour ne vont pas les calmer. On sait depuis un moment que liPad Pro pourrait int\u00e9grer un \u00e9cran de 12,9 pouces ou peut-\u00eatre 12 pouces, mais on navait...",
+            "date": "2015-05-01",
+            "categories": "ipad",
+            "tags": "pouces,peut,\u00e9cran,vont,lipad,pro,dimensions,ipad,ipad_pro",
+            "recuweb_url": "http://fr.recuweb.com/ipad/iphonote.com/2015/05/ipad-pro-les-pr%C3%A9tendues-dimensions-et-caract%C3%A9ristiques-au-grand-jour",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
+            "source_url": "http://iphonote.com/actu/79762/ipad-pro-les-pretendues-dimensions-et-caracteristiques-au-grand-jour"
+        },
+        "actus-telephonie.com/2015/04/lightinthebox-dual-usb-mini-bullet-chargeur-de-voiture-pour-iphone": {
+            "title": "LightInTheBox Dual USB Mini Bullet chargeur de voiture pour iPhone et Samsung (couleurs assorties)...",
+            "snippet": "Mod\u00e8les Compatibles:iPhone 5/5S, Universel, Nano, iPod, Nouvel iPad, iPad 2, iPad, iPhone 3G/3GS, iPad 4, iPhone 4/4S, iPad mini, iTouch 5; Type:Chargeurs; Port:USB; Couleur:Blanc, Noir; Mati\u00e8re:ABS; Entr\u00e9e (V):12-24V; Sortie (V):5V/1A/...",
+            "date": "2015-04-30",
+            "categories": "iphone,ipod,ipad",
+            "tags": "usb,mini,iphone,ipod,nouvel,ipad,port,sortie",
+            "recuweb_url": "http://fr.recuweb.com/ipad/actus-telephonie.com/2015/04/lightinthebox-dual-usb-mini-bullet-chargeur-de-voiture-pour-iphone",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad%2Bipad&format=RSS&cc=fr",
+            "source_url": "http://actus-telephonie.com/lightinthebox-dual-usb-mini-bullet-p31073195.html"
+        },
+        "clubic.com/2015/04/quand-des-plantages-d-une-application-ipad-clouent-avions-american-airlines": {
+            "title": "Quand des plantages d'une application iPad clouent des avions d'American Airlines au sol...",
+            "snippet": "Le plantage d'une application utilis\u00e9e par les pilotes d'American Airlines sur les iPad des cockpits a entra\u00een\u00e9 d'importants retards sur plus de 70 avions mardi et mercredi dernier. La compagnie a\u00e9rienne American Airlines utilise depuis 2012 des...",
             "date": "2015-04-29",
             "categories": "ipad",
-            "tags": "clou\u00e9s,american,american_airlines,airlines,avions,plusieurs,dizaines,pilotes,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/20minutes.fr/2015/04/etats-unis-l-ipad-des-pilotes-buggue-plusieurs-dizaines-d-avions",
+            "tags": "application,ipad",
+            "recuweb_url": "http://fr.recuweb.com/ipad/clubic.com/2015/04/quand-des-plantages-d-une-application-ipad-clouent-avions-american-airlines",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
-            "source_url": "http://20minutes.fr/insolite/1598531-20150429-etats-unis-ipad-pilotes-buggue-plusieurs-dizaines-american-airlines-cloues-sol"
-        },
-        "dailyfx.com/2015/04/le-concours-des-analystes-par-dailyfx-gagnez-un-ipad-air-2": {
-            "title": "Le concours des analystes par DailyFX - Gagnez un iPad Air 2 avec... - DailyFX...",
-            "snippet": "DailyFXLe concours des analystes par DailyFX - Gagnez un iPad Air 2 avec...DailyFXTentez votre chance pour remporter un Ipad Air 2neuf d'une valeur de 605 euros, 1 troph\u00e9e et une rencontre exclusive avec l'\u00e9quipe DailyFX lors d'une journ\u00e9e...",
-            "date": "2015-04-29",
-            "categories": "ipad",
-            "tags": "lors,ipad,ipad_air,air,\u00e9quipe",
-            "recuweb_url": "http://fr.recuweb.com/ipad/dailyfx.com/2015/04/le-concours-des-analystes-par-dailyfx-gagnez-un-ipad-air-2",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ipad%2Bipad&output=atom&nord=1",
-            "source_url": "http://dailyfx.com/actualite_forex_trading/fondamentaux/alertes_de_marches/2015/04/29/Le-concours-des-analystes-par-DailyFX-avec-FXCM-1120.html"
-        },
-        "lefigaro.fr/2015/04/les-avions-d-american-airlines-clou%C3%A9s-au-sol-apr%C3%A8s-un-bug": {
-            "title": "Les avions d'American Airlines clou\u00e9s au sol apr\u00e8s un bug d'iPad...",
-            "snippet": "La compagnie a\u00e9rienne am\u00e9ricaine informe ses pilotes de leurs plans de vol via un logiciel d\u00e9di\u00e9 install\u00e9 sur iPad. Or le syst\u00e8me a enregistr\u00e9 un dysfonctionnement, paralysant les avions et prenant de court les passagers. American Airlines...",
-            "date": "2015-04-29",
-            "categories": "ipad",
-            "tags": "avions,dysfonctionnement,pilotes,clou\u00e9s,clou\u00e9s-au-sol,sol,sol-apr\u00e8s,apr\u00e8s,bug,american,american_airlines,airlines,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/lefigaro.fr/2015/04/les-avions-d-american-airlines-clou%C3%A9s-au-sol-apr%C3%A8s-un-bug",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
-            "source_url": "http://lefigaro.fr/secteur/high-tech/2015/04/29/01007-20150429ARTFIG00068-les-avions-d-american-airlines-cloues-au-sol-apres-un-bug-d-ipad.php"
-        },
-        "itespresso.fr/2015/04/paralysie-chez-american-airlines-un-probl%C3%A8me-dipad": {
-            "title": "Paralysie chez American Airlines: un probl\u00e8me diPad...",
-            "snippet": "Plusieurs appareils Boeing exploit\u00e9s par American Airlines sont rest\u00e9s clou\u00e9s au sol apr\u00e8s un dysfonctionnement des iPad contenant la documentation de bord. Il y a pr\u00e8s de deux ans, American Airlines devenait officiellement la premi\u00e8re...",
-            "date": "2015-04-29",
-            "categories": "ipad",
-            "tags": "deux,documentation,clou\u00e9s,clou\u00e9s-au-sol,sol,sol-apr\u00e8s,apr\u00e8s,dysfonctionnement,american,american_airlines,airlines,chez,plusieurs,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/itespresso.fr/2015/04/paralysie-chez-american-airlines-un-probl%C3%A8me-dipad",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ipad&format=RSS&cc=fr",
-            "source_url": "http://itespresso.fr/paralysie-american-airlines-probleme-ipad-94877.html"
-        },
-        "cnetfrance.fr/2015/04/apple-les-mac-doublent-ipad-cnet-france": {
-            "title": "Apple: les Mac doublent les iPad - CNET France...",
-            "snippet": "CNET FranceApple: les Mac doublent les iPadCNET FranceLa jeune et fougueuse famille iPad (iPad Air et iPad mini) semble s'essouffler face aux marathoniens que sont les Mac (MacBook, iMac, Mac Pro, Mac Mini). Pour le second trimestre 2015, les...",
-            "date": "2015-04-28",
-            "categories": "ipad,macbook,imac",
-            "tags": "air,jeune,apple,ipad,mini,macbook,imac,pro",
-            "recuweb_url": "http://fr.recuweb.com/imac/cnetfrance.fr/2015/04/apple-les-mac-doublent-ipad-cnet-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ipad&output=atom&nord=1",
-            "source_url": "http://cnetfrance.fr/news/apple-les-mac-doublent-les-ipad-39818632.htm"
+            "source_url": "http://clubic.com/mag/transports/actualite-765226-plantages-ipad-clouent-avions-american-airlines-sol.html"
         },
         "next51.net/2015/04/ios-8-4-b%C3%AAta-2-disponible-sur-iphone-ipad-ipod": {
             "title": "iOS 8.4 B\u00eata 2 disponible sur iPhone, iPad, iPod...",
             "snippet": "iPhone 4S, iPhone 5, iPhone 5c, iPhone 5s, iPhone 6, iPhone 6 Plus - iPad Air 2, mini iPad 3, iPad 2, iPad (troisi\u00e8me g\u00e9n\u00e9ration), iPad (de quatri\u00e8me g\u00e9n\u00e9ration), iPad Air, mini iPad, iPad mini avec \u00e9cran Retina...",
             "date": "2015-04-27",
             "categories": "iphone,ipad,ipod",
-            "tags": "ios,iphone,ipad,air,mini,\u00e9cran,retina",
+            "tags": "\u00e9cran,troisi\u00e8me,ios,iphone,ipad,ipod,air,mini",
             "recuweb_url": "http://fr.recuweb.com/ipod/next51.net/2015/04/ios-8-4-b%C3%AAta-2-disponible-sur-iphone-ipad-ipod",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipad%2Bipad&format=RSS&cc=fr",
             "source_url": "http://next51.net/iOS-8-4-Beta-2-disponible-sur-iPhone-iPad-iPod_a12652.html"
@@ -86,7 +95,7 @@
             "snippet": "Lorsqu'elle apprend que son mari la trompe, une jeune japonaise n'h\u00e9site pas et tape dans le tas: Tout y passe... iMac, MacBook Air, MacBook Pro, TimeCapsule, iPad, iPad mini, iPhone dans la baignoire remplie d'eau froide...",
             "date": "2015-04-26",
             "categories": "macbook,imac,ipad,iphone",
-            "tags": "macbook,pro,air,jeune,produits,apple,imac,ipad,mini,iphone",
+            "tags": "pro,air,japonaise,produits,apple,ipad,mini,iphone",
             "recuweb_url": "http://fr.recuweb.com/iphone/next51.net/2015/04/il-trompe-sa-femme-du-coup-elle-jette-tous-ses-produits",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ipad%2Bipad&format=RSS&cc=fr",
             "source_url": "http://next51.net/Il-trompe-sa-femme-du-coup-elle-jette-tous-ses-produits-Apple-dans-la-baignoire_a12648.html"
