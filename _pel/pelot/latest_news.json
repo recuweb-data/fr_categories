@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pelot",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pelot/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pelot/pelot/blogs.json"
     },
     "items": {
-        "la-croix.com/2015/04/robespierre-en-islande": {
-            "title": "Robespierre en Islande...",
-            "snippet": "Un H majuscule, mais dont la barre centrale \u00e9tait oblique. Cet oblique est le d\u00e9but de questions sans r\u00e9ponse, le petit bout du magma exponentiel, la premi\u00e8re algue de la pelote. Plus tard, autre suicid\u00e9: Henri Masfaur\u00e9, propri\u00e9taire de...",
-            "date": "2015-04-29",
-            "tags": "premi\u00e8re,pelote",
-            "recuweb_url": "http://fr.recuweb.com/la-croix.com/2015/04/robespierre-en-islande",
+        "larepubliquedespyrenees.fr/2015/05/poursiugues-boucoue-le-point-jaune-met-paquet-pour-f%C3%AAter-son-10e": {
+            "title": "Poursiugues-Boucoue: le point jaune met le paquet pour f\u00eater son 10e anniversaire...",
+            "snippet": "Ancien champion de France de pelote, cet illustre chanteur ravira ensuite les convives du midi lors du spectacle repas qu'il animera. Uniquement sur r\u00e9servation avant le 10 mai. En guise de digestion, le champion de France de main nue Elite Pro...",
+            "date": "2015-05-02",
+            "tags": "pelote",
+            "recuweb_url": "http://fr.recuweb.com/larepubliquedespyrenees.fr/2015/05/poursiugues-boucoue-le-point-jaune-met-paquet-pour-f%C3%AAter-son-10e",
             "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
-            "source_url": "http://la-croix.com/Culture/Livres-Idees/Livres/Robespierre-en-Islande-2015-04-29-1307638"
+            "source_url": "http://larepubliquedespyrenees.fr/2015/05/02/le-point-jaune-met-le-paquet-pour-feter-son-10e-anniversaire,1248858.php"
+        },
+        "sudouest.fr/2015/04/l%C3%A9lite-de-la-pelote-r%C3%A9unie": {
+            "title": "L\u00e9lite de la pelote r\u00e9unie...",
+            "snippet": "ommenc\u00e9 hier soir, le 10e Tournoi international des Landes (Troph\u00e9e Macs), organis\u00e9 par Pelote Passion et le Pilota Club de Saint-Jean-de-Marsacq et Saubrigues dans le hall des sports saubriguais, offrira demain un programme exceptionnel.",
+            "date": "2015-04-29",
+            "categories": "sport",
+            "tags": "sports,pelote,saint",
+            "recuweb_url": "http://fr.recuweb.com/sport/sudouest.fr/2015/04/l%C3%A9lite-de-la-pelote-r%C3%A9unie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pelot&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/04/30/l-elite-de-la-pelote-reunie-1907839-3521.php"
         },
         "htrnews.com/2015/04/tr-grad-pelot-competes-in-austria-herald-times-reporter": {
             "title": "TR grad Pelot competes in Austria - Herald Times Reporter...",
@@ -27,7 +37,7 @@
             "categories": "pelot",
             "tags": "part,pelot",
             "recuweb_url": "http://fr.recuweb.com/pelot/htrnews.com/2015/04/tr-grad-pelot-competes-in-austria-herald-times-reporter",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pelot%2Bpelot&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
             "source_url": "http://htrnews.com/story/sports/2015/04/23/tr-grad-pelot-competes-austria/26265693/"
         },
         "oregonlive.com/2015/04/is-state-liable-for-broken-silver-falls-railing-or-parents-of": {
@@ -47,8 +57,18 @@
             "categories": "pelot",
             "tags": "pelot",
             "recuweb_url": "http://fr.recuweb.com/pelot/yle.fi/2015/04/teerinevalle-suunniteltu-turvetuotanto-nosti-esiin-vanhat-pelot-yle",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pelot%2Bpelot&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
             "source_url": "http://yle.fi/uutiset/teerinevalle_suunniteltu_turvetuotanto_nosti_esiin_vanhat_pelot_lestijarvella__10_vuotta_valmisteltu_yva-selostus_valmistui/7918659"
+        },
+        "liberation.fr/2014/03/pierre-pelot-voyageur-immobile-lib%C3%A9ration": {
+            "title": "Pierre Pelot, voyageur immobile - Lib\u00e9ration...",
+            "snippet": "Lib\u00e9rationPierre Pelot, voyageur immobileLib\u00e9rationPierre Pelot, Pelot pour petit Pierre, Grosdemange de son vrai nom, n'a pas son permis de conduire. L'ours vosgien a pass\u00e9 sa vie dans ce village au pied du ballon d'Alsace. Cet immobilisme...",
+            "date": "2014-03-04",
+            "categories": "pelot",
+            "tags": "pelot",
+            "recuweb_url": "http://fr.recuweb.com/pelot/liberation.fr/2014/03/pierre-pelot-voyageur-immobile-lib%C3%A9ration",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pelot&output=atom&nord=1",
+            "source_url": "http://liberation.fr/livres/2014/03/03/pierre-pelot-voyageur-immobile_984214"
         }
     }
 }
