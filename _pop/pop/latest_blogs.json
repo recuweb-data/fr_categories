@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pop/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
-        "j-one.com/2015/04/top-c-pop-j-one": {
-            "title": "Top C-Pop J-One...",
-            "snippet": "Go to... HOME, News, Vid\u00e9os, S\u00e9ries, Magazines, GUIDE TV, Concours, S'abonner. Top C-Pop. La r\u00e9dac vous propose une dose de C-Pop, le reste \u00e7a ne d\u00e9pend que de vous C-pop top 2015-04-24. jonefrance. Tags: C-pop top...",
-            "date": "2015-04-24",
-            "author_name": "jonefrance",
+        "info-evangelique.fr/2015/05/le-protestantisme-matrice-de-la-culture-pop-info-evang%C3%A9lique": {
+            "title": "Le protestantisme, matrice de la CULTURE POP? Info Evang\u00e9lique...",
+            "snippet": "Le propos de Mark Alizart, dans un essai stimulant intitul\u00e9 Pop Theologie (PUF, 2015) est pourtant bien plus subtil. Il voit dans le protestantisme, et particuli\u00e8rement les mouvements \u00e9vang\u00e9liques de R\u00e9veil, une matrice forte...",
+            "date": "2015-05-02",
+            "author_name": "Guillaume ANJOU",
+            "categories": "protestantisme,pop,culture",
+            "tags": "pop,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/info-evangelique.fr/2015/05/le-protestantisme-matrice-de-la-culture-pop-info-evang%C3%A9lique",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://info-evangelique.fr/le-protestantisme-matrice-de-la-culture-pop/"
+        },
+        "itunesreleases.co.vu/2015/04/aoa-wanna-be-single-2012-itunes-plus-aac-m4a": {
+            "title": "AOA Wanna Be - Single (2012) iTunes Plus AAC M4A...",
+            "snippet": "Artist: AOA Album: Wanna Be - Single Released: Oct 10, 2012 FNC ENTERTAINMENT Genre: K-Pop, Pop, World Store: iTunes US Language: Korean Bit Rate: 256 kbps (iTunes Plus AAC) Track List: 01 Get Out 02 Happy Ending 03 My Song iTunes Releases Exclusive...",
+            "date": "2015-04-30",
+            "author_name": "John",
             "categories": "pop",
-            "tags": "reste,propose,dose,pop,tags",
-            "recuweb_url": "http://fr.recuweb.com/pop/j-one.com/2015/04/top-c-pop-j-one",
+            "tags": "happy,out,entertainment,album,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/itunesreleases.co.vu/2015/04/aoa-wanna-be-single-2012-itunes-plus-aac-m4a",
+            "resource_url": "http://www.icerocket.com/search?tab=blog&q=pop%2Bpop&rss=1&lng=fr",
+            "source_url": "http://itunesreleases.co.vu/2015/04/aoa-wanna-be-single-2012-itunes-plus.html"
+        },
+        "mediatheques.villeurbanne.fr/2015/04/les-m%C3%A9diath%C3%A8ques-c-est-pop-de-villeurbanne": {
+            "title": "Les m\u00e9diath\u00e8ques, c'est pop! - m\u00e9diath\u00e8ques de Villeurbanne...",
+            "snippet": "Dormir avec une sculpture de C\u00e9sar sur sa table de nuit. Accrocher une \u0153uvre de Roy Lichtenstein dans son salon: c'est pop! En proposant le pr\u00eat d'\u0153uvres d'art au public, l'artoth\u00e8que de la MLIS rend ainsi possible le souhait des artistes...",
+            "date": "2015-04-29",
+            "author_name": "Fanny Cottet-Emard",
+            "categories": "sculpture,pop",
+            "tags": "public,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/mediatheques.villeurbanne.fr/2015/04/les-m%C3%A9diath%C3%A8ques-c-est-pop-de-villeurbanne",
             "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://j-one.com/top-c-pop/"
+            "source_url": "http://mediatheques.villeurbanne.fr/2015/04/les-mediatheques-cest-pop/"
+        },
+        "franceinfo.fr/2015/04/amazing-french-tech-le-gouvernement-s-inspire-encore-de-la-pop": {
+            "title": "\"Amazing French Tech\": le gouvernement s'inspire encore de la pop...",
+            "snippet": "Apr\u00e8s \"Le Hobbit\" et \"Game of Thrones\", le gouvernement s'inspire des super-h\u00e9ros pour promouvoir son action dans le num\u00e9rique.",
+            "date": "2015-04-27",
+            "author_name": "Le 17 / 20 num\u00e9rique",
+            "categories": "pop",
+            "tags": "promouvoir,pop,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/pop/franceinfo.fr/2015/04/amazing-french-tech-le-gouvernement-s-inspire-encore-de-la-pop",
+            "resource_url": "http://www.google.com/search?q=pop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://franceinfo.fr/emission/le-17-20-numerique/2014-2015/amazing-french-tech-le-gouvernement-s-inspire-encore-de-la-pop-culture-pour-faire-sa-com"
+        },
+        "xfinity.comcast.net/2015/04/what-to-watch-renewfotb-and-make-it-pop-xfinity-tv-blog": {
+            "title": "What to Watch: RenewFOTB and 'Make It Pop!'XFINITY TV Blog...",
+            "snippet": "Make It Pop The new Nickelodeon show, which premiered late March, is about high school girls who start a K-pop group. It stars Megan Lee, Louriza Tronco, and Erika Tham, and many are taking its existence as a sign...",
+            "date": "2015-04-23",
+            "author_name": "Ada Tseng",
+            "categories": "pop",
+            "tags": "lee,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/xfinity.comcast.net/2015/04/what-to-watch-renewfotb-and-make-it-pop-xfinity-tv-blog",
+            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://xfinity.comcast.net/blogs/tv/2015/04/23/what-to-watch-renewfotb-and-make-it-pop/"
         },
         "levidepoches.fr/2015/04/le-pype-1-pop-culture-r%C3%A9volution-9-nicolas-obery-anne-horel": {
             "title": "LE PYPE 1/POP CULTURE R\u00e9volution 9/Nicolas Obery, Anne Horel, Philippe Nassif, J\u00e9r\u00e9my Dumont,...",
@@ -28,21 +72,10 @@
             "date": "2015-04-22",
             "author_name": "jeremy dumont, editor",
             "categories": "pop,musique,culture,play",
-            "tags": "pop,musique,pop_culture,culture,premi\u00e8re,avril,programme",
+            "tags": "pop,musique,pop_culture,culture,premi\u00e8re,philippe,avril,programme,play",
             "recuweb_url": "http://fr.recuweb.com/play/levidepoches.fr/2015/04/le-pype-1-pop-culture-r%C3%A9volution-9-nicolas-obery-anne-horel",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=pop%2Bpop&rss=1&lng=fr",
             "source_url": "http://levidepoches.fr/creation/2015/04/le-pype-1-pop-culture-r\u00e9volution-9-nicolas-obery-anne-horel-philippe-nassif-j\u00e9r\u00e9my-dumont-alexis-fer.html"
-        },
-        "puretrend.com/2015/04/iggy-pop-f%C3%AAte-ses-68-ans-10-anecdotes-sur-le-parrain": {
-            "title": "Iggy Pop f\u00eate ses 68 ans: 10 anecdotes sur le parrain du punk...",
-            "snippet": "Consid\u00e9r\u00e9 comme le parrain du mouvement punk, Iggy Pop, de son vrai nom James Newel \u00d6sterberg Jr, a beau avoir plus de cinquante ans de carri\u00e8re derri\u00e8re lui, il reste une v\u00e9ritable l\u00e9gende comme on en fait peu.",
-            "date": "2015-04-21",
-            "author_name": "inconnu",
-            "categories": "pop",
-            "tags": "peu,reste,james,nom,pop,comme",
-            "recuweb_url": "http://fr.recuweb.com/pop/puretrend.com/2015/04/iggy-pop-f%C3%AAte-ses-68-ans-10-anecdotes-sur-le-parrain",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://puretrend.com/article/iggy-pop-fete-ses-68-ans-10-anecdotes-sur-le-parrain-du-punk_a112289/1"
         },
         "fubiz.net/2015/04/volkswagen-ads-prints-borrow-pop-culture-scenes-fubiz": {
             "title": "Volkswagen Ads Prints Borrow Pop Culture Scenes Fubiz...",
@@ -50,7 +83,7 @@
             "date": "2015-04-16",
             "author_name": "Donnia",
             "categories": "pop,culture",
-            "tags": "mod\u00e8le,pop,pop_culture,culture",
+            "tags": "promouvoir,mod\u00e8le,pop,pop_culture,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/fubiz.net/2015/04/volkswagen-ads-prints-borrow-pop-culture-scenes-fubiz",
             "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://fubiz.net/2015/04/16/volkswagen-ads-prints-borrow-pop-culture-scenes/"
@@ -61,32 +94,10 @@
             "date": "2015-01-29",
             "author_name": "Pointman",
             "categories": "pop",
-            "tags": "pop",
+            "tags": "sort,pop",
             "recuweb_url": "http://fr.recuweb.com/pop/thepointman.wordpress.com/2015/01/pop-and-poppety-pointman",
             "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://thepointman.wordpress.com/2015/01/29/pop-pop-and-poppety-pop/"
-        },
-        "journaldugeek.com/2015/01/prise-en-main-withings-activit%C3%A9-pop-le-journal-du-geek": {
-            "title": "Prise en main: Withings Activit\u00e9 Pop Le Journal du Geek...",
-            "snippet": "Apr\u00e8s une premi\u00e8re Withings Activit\u00e9 s\u00e9duisante mais cher, la marque fran\u00e7aise a \u00e9cout\u00e9 les premiers retours des utilisateurs et propose d\u00e9sormais l'Activit\u00e9 Pop, beaucoup plus accessible! En effet, au lieu des 390 de...",
-            "date": "2015-01-12",
-            "author_name": "Anh - NeoAngel",
-            "categories": "pop",
-            "tags": "pop,propose,premi\u00e8re,main,apr\u00e8s,fran\u00e7aise",
-            "recuweb_url": "http://fr.recuweb.com/pop/journaldugeek.com/2015/01/prise-en-main-withings-activit%C3%A9-pop-le-journal-du-geek",
-            "resource_url": "http://www.google.com/search?q=pop%2Bpop&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://journaldugeek.com/tests/preview-withings-activite-pop/"
-        },
-        "oktave.wordpress.com/2014/02/dirty-p%C3%B6p-salement-queer": {
-            "title": "Dirty P\u00d6P/Salement P\u00d6P - QUEER!",
-            "snippet": "Queer. Mot anglais dont la traduction oscille entre \"\u00e9trange\", \"bizarre\" ou \"peu commun\", utilis\u00e9 comme une insulte envers les LGBT avant que ceux-ci s'en empare ironiquement pour qualifier []...",
-            "date": "2014-02-12",
-            "author_name": "Oskar Kermann Cyrus",
-            "categories": "traduction,pop",
-            "tags": "peu,comme",
-            "recuweb_url": "http://fr.recuweb.com/pop/oktave.wordpress.com/2014/02/dirty-p%C3%B6p-salement-queer",
-            "resource_url": "http://fr.search.wordpress.com/?q=pop%2Bpop&f=feed&page=1",
-            "source_url": "http://oktave.wordpress.com/2014/02/12/dirty-pop-salement-pop-queer/"
         }
     }
 }
