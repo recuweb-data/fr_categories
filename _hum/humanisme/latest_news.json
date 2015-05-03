@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "humanisme",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/humanisme/",
@@ -11,24 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/humanisme/humanisme/blogs.json"
     },
     "items": {
-        "infos-dijon.com/2015/04/dijon-des-femmes-c%C3%A9l%C3%A8brent-le-droit-de-vote-70-ans-apr%C3%A8s": {
-            "title": "DIJON: Des femmes c\u00e9l\u00e8brent le droit de vote 70 ans apr\u00e8s...",
-            "snippet": "Pour atteindre cette finalit\u00e9, il est temps dagir, de passer aux actes et de changer les mentalit\u00e9s. LHumanisme, cest mettre lHomme et donc la Femme au centre de toutes les pr\u00e9occupations.",
-            "date": "2015-04-29",
-            "tags": "temps",
-            "recuweb_url": "http://fr.recuweb.com/infos-dijon.com/2015/04/dijon-des-femmes-c%C3%A9l%C3%A8brent-le-droit-de-vote-70-ans-apr%C3%A8s",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=humanisme&format=RSS&cc=fr",
-            "source_url": "http://infos-dijon.com/?p=378427"
-        },
-        "lexpress.fr/2015/04/la-controverse-charlie-hebdo-pour-alain-mabanckou": {
-            "title": "La controverse Charlie Hebdo: pour Alain Mabanckou, il n'y a pas de France sans arrogance...",
-            "snippet": "Il ne s'agit pas de cette propension h\u00e9g\u00e9monique am\u00e9ricaine, mais d'une inclination vers la pr\u00e9\u00e9minence de ce qui fonde notre humanisme et qui devrait l'emporter en tout temps et en tout lieu: la pens\u00e9e dans toute sa libert\u00e9 et la libert\u00e9...",
-            "date": "2015-04-28",
+        "huffingtonpost.fr/2015/05/la-m%C3%A9decine-narrative-et-le-cancer-du-sein-ou-un-plaidoyer": {
+            "title": "La m\u00e9decine narrative et le cancer du sein ou un plaidoyer pour plus d'humanisme...",
+            "snippet": "Le parcours de soins des femmes malades du cancer du sein est jalonn\u00e9 de tr\u00e8s nombreuses consultations de diagnostics et de suivis. La malade rencontre des radiologues, chirurgiens, oncologues, radioth\u00e9rapeutes et des anesth\u00e9sistes et des...",
+            "date": "2015-05-02",
             "categories": "humanisme",
-            "tags": "humanisme,temps",
-            "recuweb_url": "http://fr.recuweb.com/humanisme/lexpress.fr/2015/04/la-controverse-charlie-hebdo-pour-alain-mabanckou",
+            "tags": "nombreuses,humanisme",
+            "recuweb_url": "http://fr.recuweb.com/humanisme/huffingtonpost.fr/2015/05/la-m%C3%A9decine-narrative-et-le-cancer-du-sein-ou-un-plaidoyer",
             "resource_url": "http://www.bing.com/news/search?first=1&q=humanisme&format=RSS&cc=fr",
-            "source_url": "http://lexpress.fr/culture/livre/il-n-y-a-pas-de-france-sans-arrogance_1675426.html"
+            "source_url": "http://huffingtonpost.fr/manuela-wyler/fuck-my-cancer-la-medecine-narrative-et-le-cancer-du-sein-ou-un-plaidoyer-pour-plus-dhumanisme_b_7186964.html"
+        },
+        "news.abidjan.net/2015/05/f%C3%AAte-du-travail-la-centrale-humanisme-plaide-pour-le-r%C3%A9tablissement": {
+            "title": "F\u00eate du travail: la centrale Humanisme plaide pour le r\u00e9tablissement... -...",
+            "snippet": "\u00eate du travail: la centrale Humanisme plaide pour le r\u00e9tablissement... centrale Humanisme qui reconna\u00eet que les dispositions statutaires pr\u00e9voient des retenues sur les salaires en cas de gr\u00e8ve, mais estime que \"le secteur de l'\u00e9ducation est...",
+            "date": "2015-05-01",
+            "categories": "humanisme",
+            "tags": "plaide,centrale,humanisme",
+            "recuweb_url": "http://fr.recuweb.com/humanisme/news.abidjan.net/2015/05/f%C3%AAte-du-travail-la-centrale-humanisme-plaide-pour-le-r%C3%A9tablissement",
+            "resource_url": "http://news.google.fr/?hl=fr&q=humanisme%2Bhumanisme&output=atom&nord=1",
+            "source_url": "http://news.abidjan.net/h/550584.html"
+        },
+        "news.abidjan.net/2015/05/la-centrale-humanisme-plaide-pour-le-retour-de-libert%C3%A9-syndicale": {
+            "title": "La centrale Humanisme plaide pour le retour de la libert\u00e9 syndicale au Port autonome dAbidjan...",
+            "snippet": "Vendredi 30 Janvier 2015 Abidjan. Soro Mamadou, pr\u00e9sident du bureau r\u00e9gional Afrique de lOuest de lUnion Africaine de la mutualit\u00e9 a anim\u00e9 une conf\u00e9rence de presse pour donner les objectifs de son bureau. Soro Mamadou a pour ambition de...",
+            "date": "2015-05-01",
+            "categories": "humanisme",
+            "tags": "conf\u00e9rence,pr\u00e9sident,plaide,centrale,humanisme",
+            "recuweb_url": "http://fr.recuweb.com/humanisme/news.abidjan.net/2015/05/la-centrale-humanisme-plaide-pour-le-retour-de-libert%C3%A9-syndicale",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=humanisme&format=RSS&cc=fr",
+            "source_url": "http://news.abidjan.net/h/550588.html"
+        },
+        "caen.maville.com/2015/04/calvados-ces-jeunes-patrons-concilient-r%C3%A9ussite-%C3%A9conomique": {
+            "title": "Calvados: Ces jeunes patrons concilient r\u00e9ussite \u00e9conomique et... -...",
+            "snippet": ": Ces jeunes patrons concilient r\u00e9ussite \u00e9conomique et... objet est plut\u00f4t d'agir comme une \u00e9cole pour jeunes dirigeants fond\u00e9e sur des valeurs fortes d'humanisme: il y a r\u00e9ussite \u00e9conomique parce qu'il y a r\u00e9ussite sociale et humaine, et...",
+            "date": "2015-04-29",
+            "categories": "humanisme",
+            "tags": "valeurs,comme,humanisme",
+            "recuweb_url": "http://fr.recuweb.com/humanisme/caen.maville.com/2015/04/calvados-ces-jeunes-patrons-concilient-r%C3%A9ussite-%C3%A9conomique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=humanisme%2Bhumanisme&output=atom&nord=1",
+            "source_url": "http://caen.maville.com/actu/actudet_-calvados-ces-jeunes-patrons-concilient-reussite-economique-et-humanisme_52656-2760283_actu.Htm"
         },
         "bienpublic.com/2015/04/c%C3%B4te-d-or-association-habitat-et-humanisme-a-tenu-son-assembl%C3%A9e": {
             "title": "C\u00f4te-d'Or - Association Habitat et humanisme a tenu son assembl\u00e9e... - Bien Public...",
@@ -47,7 +68,7 @@
             "categories": "humanisme",
             "tags": "association,personnes,habitat,humanisme",
             "recuweb_url": "http://fr.recuweb.com/humanisme/mon43.fr/2015/04/habitat-et-humanisme-mobilis%C3%A9s-pour-l-insertion-des-personnes-en-mon43",
-            "resource_url": "http://news.google.fr/?hl=fr&q=humanisme%2Bhumanisme&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=humanisme&output=atom&nord=1",
             "source_url": "http://mon43.fr/actualite-63773-habitat-et-humanisme-mobilises-pour-insertion-des-personnes-en-difficulte.html"
         }
     }
