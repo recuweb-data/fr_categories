@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "handball",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/handball/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/handball/handball/blogs.json"
     },
     "items": {
-        "lanationdj.com/2015/04/stage-d-entraineurs-de-handball-la-majorit%C3%A9-des-stagiaires": {
-            "title": "Stage d'entraineurs de handball: La majorit\u00e9 des stagiaires...",
-            "snippet": "Le stage de formation pour les entraineurs de handball qui avait d\u00e9marr\u00e9 le 11 avril dernier, vient de se terminer et sur la trentaine de stagiaires, 19 ont.",
-            "date": "2015-04-21",
-            "author_name": "Mahad",
+        "africatopsports.com/2015/04/handball-nador-h%C3%B4te-du-37e-championnat-d-afrique-des-clubs": {
+            "title": "Handball: Nador h\u00f4te du 37e Championnat d'Afrique des Clubs...",
+            "snippet": "la ville de nador dans le nord-est du maroc a \u00e9t\u00e9 retenue pour le 37e clubs champions de handball.",
+            "date": "2015-04-27",
+            "author_name": "Benoit DOSSEH",
             "categories": "handball",
-            "tags": "handball",
-            "recuweb_url": "http://fr.recuweb.com/handball/lanationdj.com/2015/04/stage-d-entraineurs-de-handball-la-majorit%C3%A9-des-stagiaires",
+            "tags": "handball,championnat",
+            "recuweb_url": "http://fr.recuweb.com/handball/africatopsports.com/2015/04/handball-nador-h%C3%B4te-du-37e-championnat-d-afrique-des-clubs",
             "resource_url": "http://www.google.com/search?q=handball%2Bhandball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lanationdj.com/stage-dentraineurs-de-handball-la-majorite-des-stagiaires-reussissent-avec-succes/"
+            "source_url": "http://africatopsports.com/2015/04/27/handball-nador-hote-du-37e-championnat-dafrique-des-clubs-champions/"
+        },
+        "guineenews.org/2015/04/handball-la-construction-d-un-gymnase-de-700-places-lanc%C3%A9e": {
+            "title": "Handball: la construction d'un gymnase de 700 places lanc\u00e9e au...",
+            "snippet": "Deux ministres du gouvernement guin\u00e9en et les dirigeants de la f\u00e9d\u00e9ration guin\u00e9enne de handball ont proc\u00e9d\u00e9 ce samedi au lancement des travaux de construction du gymnase du handball, d'une capacit\u00e9 de sept cent...",
+            "date": "2015-04-25",
+            "author_name": "Abdoulaye Bah",
+            "categories": "construction,place,handball",
+            "tags": "handball,deux,samedi",
+            "recuweb_url": "http://fr.recuweb.com/handball/guineenews.org/2015/04/handball-la-construction-d-un-gymnase-de-700-places-lanc%C3%A9e",
+            "resource_url": "http://www.google.com/search?q=handball%2Bhandball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://guineenews.org/handball-la-construction-dun-gymnase-de-700-places-lancee-au-stade-du-28-septembre/"
         },
         "handball.blog.lemonde.fr/2015/01/fran%C3%A7ais-d%C3%A9chirez-les-livres-de-handball-et-la-su%C3%A8de-au-passage": {
             "title": "Fran\u00e7ais, d\u00e9chirez les livres de handball (et la Su\u00e8de, au passage...",
@@ -28,7 +39,7 @@
             "date": "2015-01-24",
             "author_name": "handball",
             "categories": "handball",
-            "tags": "rencontre,avant,handball,\u00e9quipe,france",
+            "tags": "rencontre,handball,\u00e9quipe,france",
             "recuweb_url": "http://fr.recuweb.com/handball/handball.blog.lemonde.fr/2015/01/fran%C3%A7ais-d%C3%A9chirez-les-livres-de-handball-et-la-su%C3%A8de-au-passage",
             "resource_url": "http://www.google.com/search?q=handball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://handball.blog.lemonde.fr/2015/01/24/francais-dechirez-les-livres-de-handball-et-la-suede-au-passage/"
