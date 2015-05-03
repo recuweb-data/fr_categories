@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lifestyle",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lifestyle/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
     },
     "items": {
-        "tukibomp.com/2015/04/potato-head-le-bistronomique-bordelais-tukibomp-blog": {
-            "title": "Potato Head - Le bistronomique bordelais Tukibomp - Blog de...",
-            "snippet": "Tukibomp - Blog de bons plans sur Bordeaux et Lifestyle. Bons plans sur Bordeaux et lifestyle. Navigation. Bordeaux Bonnes Adresses Bons Plans Insolite Food Brunch Food Truck Pause Go\u00fbter Recettes Girly.",
-            "date": "2015-04-29",
-            "author_name": "\u00c9lodie Tukibomp",
-            "categories": "lifestyle,navigation",
-            "tags": "food,recettes,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/navigation/tukibomp.com/2015/04/potato-head-le-bistronomique-bordelais-tukibomp-blog",
-            "resource_url": "http://www.google.com/search?q=lifestyle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://tukibomp.com/2015/04/potato-head-restaurant-bistronomique-bordeaux.html"
+        "topknotandteacups.com/2015/04/blog-lifestyle-la-rochelle-18-top-knot-and-tea-cups": {
+            "title": "Blog Lifestyle La Rochelle 18 Top knot and tea cups...",
+            "snippet": "WLT 18 lifestyle grand livre du ptisser. 1 Papa, maman, je veux devenir ptissi\u00e8re! Ma petite soeur est en reconversion, pour notre plus grand plaisir./My sister on her way to become a professional baker Livre \u00e9ditions...",
+            "date": "2015-04-27",
+            "author_name": "Mathilda",
+            "categories": "plaisir,lifestyle",
+            "tags": "plaisir,petite,lifestyle,top",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/topknotandteacups.com/2015/04/blog-lifestyle-la-rochelle-18-top-knot-and-tea-cups",
+            "resource_url": "http://www.google.com/search?q=lifestyle%2Blifestyle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://topknotandteacups.com/lifestyle-larochelle-18/"
+        },
+        "catster.com/2015/04/i-bought-and-played-music-composed-specifically-for-cats-see": {
+            "title": "I Bought and Played Music Composed Specifically for Cats; See...",
+            "snippet": "Home Lifestyle Next on Lifestyle: Get to Know the Turkish Angora: The Ballerina of the Cat Fancy. Also: Let's Talk Do You Dream About Your Cats? Let's Talk Does the World Welcome Cute Cat Stories More These Days?",
+            "date": "2015-04-09",
+            "author_name": "inconnu",
+            "categories": "lifestyle",
+            "tags": "world,home,lifestyle,music",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/catster.com/2015/04/i-bought-and-played-music-composed-specifically-for-cats-see",
+            "resource_url": "http://www.google.com/search?q=lifestyle%2Blifestyle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://catster.com/lifestyle/cat-behavior-videos-teyus-music-for-cats-reaction"
         },
         "lesnumeriques.com/2015/02/bose-lifestyle-525-s%C3%A9rie-iii-test-complet-les-num%C3%A9riques": {
             "title": "Bose Lifestyle 525 s\u00e9rie III: Test complet - Les Num\u00e9riques...",
@@ -28,7 +39,7 @@
             "date": "2015-02-24",
             "author_name": "Beno\u00eet Campion",
             "categories": "lifestyle",
-            "tags": "lifestyle,jour",
+            "tags": "jour,home,lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/lesnumeriques.com/2015/02/bose-lifestyle-525-s%C3%A9rie-iii-test-complet-les-num%C3%A9riques",
             "resource_url": "http://www.google.com/search?q=lifestyle%2Blifestyle&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesnumeriques.com/enceintes-home-cinema/bose-lifestyle-525-serie-iii-p24367/test.html"
