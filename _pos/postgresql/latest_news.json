@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -11,13 +11,23 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/postgresql/postgresql/blogs.json"
     },
     "items": {
+        "mediacongo.net/2015/05/recrutement-d-une-firme-pour-le-d%C3%A9veloppement-du-registre-national": {
+            "title": "Recrutement d'une firme pour le d\u00e9veloppement du registre national... -...",
+            "snippet": "Recrutement d'une firme pour le d\u00e9veloppement du registre national... personnel devra avoir une connaissance et exp\u00e9rience du processus REDD, tr\u00e8s bonne maitrise des technologies suivantes: HTML, PHP et Javascript, PostgreSQL et PostGIS,...",
+            "date": "2015-05-01",
+            "categories": "technologie,connaissance,recrutement,php,javascript",
+            "tags": "technologies,technologies-suivantes,suivantes,exp\u00e9rience,d\u00e9veloppement,php,gresql,gis",
+            "recuweb_url": "http://fr.recuweb.com/javascript/mediacongo.net/2015/05/recrutement-d-une-firme-pour-le-d%C3%A9veloppement-du-registre-national",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
+            "source_url": "http://mediacongo.net/aofshow.asp?aof=36406"
+        },
         "virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy": {
             "title": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for... - Virtual-Strategy Magazine...",
             "snippet": "First Annual PGConf Silicon Valley PostgreSQL Conference Call for...Virtual-Strategy Magazine (press release)SAN FRANCISCO, CA -- (Marketwired) -- 04/29/15 -- Citus Data, creators of solutions to scale out and extend the analytics capabilities of...",
             "date": "2015-04-29",
             "tags": "solutions,data,press,press-release,release,gresql",
             "recuweb_url": "http://fr.recuweb.com/virtual-strategy.com/2015/04/first-annual-pgconf-silicon-valley-postgresql-conference-call-for-virtual-strategy",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
             "source_url": "http://virtual-strategy.com/2015/04/29/first-annual-pgconf-silicon-valley-postgresql-conference-call-speakers-now-open"
         },
         "emploi.presse-citron.net/2015/04/vp-of-engineering-h-f": {
@@ -25,6 +35,7 @@
             "snippet": "L\u00e9quipe technique travaille en mode lean pour faire \u00e9voluer sans cesse nos applications SaaS et API con\u00e7ues autour des technologies suivantes: Scraper PythonPostgresqlElasticSearchPlay2 ScalaAngularJS h\u00e9berg\u00e9es sur Heroku & AWS. Ce poste est...",
             "date": "2015-04-29",
             "categories": "technologie",
+            "tags": "technologies,technologies-suivantes,suivantes",
             "recuweb_url": "http://fr.recuweb.com/technologie/emploi.presse-citron.net/2015/04/vp-of-engineering-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/VP+of+Engineering+HF/30169"
@@ -53,7 +64,7 @@
             "title": "Responsable de l'\u00e9quipe logiciel des SAE transports.",
             "snippet": "PostgreSQL, Win7).INFORMATIONS COMPL\u00c9MENTAIRES Type de contrat:: Noisy Le grand (93), (RER A Noisy Le Grand Mont d'Est).Horaires: de bureau.R\u00e9mun\u00e9ration: Selon le niveau d'exp\u00e9rience.",
             "date": "2015-04-25",
-            "tags": "bureau,grand,\u00e9quipe,\u00e9quipe-logiciel,logiciel,responsable,sae,transports,gresql,win,noisy",
+            "tags": "bureau,grand,\u00e9quipe,\u00e9quipe-logiciel,logiciel,responsable,sae,transports,gresql,win,noisy,exp\u00e9rience",
             "recuweb_url": "http://fr.recuweb.com/pc-infopratique.com/2015/04/responsable-de-l-%C3%A9quipe-logiciel-des-sae-transports",
             "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
             "source_url": "http://pc-infopratique.com/offre-emploi-JPB0B56ZH4H36GPVZZ7-responsable-de-l-equipe-logiciel-des-sae-transports.html"
@@ -94,17 +105,8 @@
             "date": "2015-04-22",
             "tags": "press,press-release,release,gresql,gis",
             "recuweb_url": "http://fr.recuweb.com/gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th-press-release",
-            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=postgresql%2Bpostgresql&output=atom&nord=1",
             "source_url": "http://gisuser.com/2015/04/call-for-papers-postgresql-session-7-september-24th/"
-        },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f": {
-            "title": "D\u00e9veloppeur Symfony 2/PostgreSQL H/F...",
-            "snippet": "L'arriv\u00e9e de la g\u00e9n\u00e9ration Y dans les entreprises, les nouveaux outils de communication, le business qui s'acc\u00e9l\u00e8re et se complexifie... Tous ces changements importants transforment la mani\u00e8re dont les entreprises doivent motiver, engager,...",
-            "date": "2015-04-22",
-            "tags": "gresql",
-            "recuweb_url": "http://fr.recuweb.com/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=postgresql&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Symfony+2++PostgreSQL+HF/30065"
         }
     }
 }
