@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "facebook",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/facebook/",
@@ -11,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/facebook/facebook/blogs.json"
     },
     "items": {
-        "pro.clubic.com/2015/04/facebook-les-r%C3%A9glementations-europ%C3%A9ennes-poseront-des-freins-technologiques": {
-            "title": "Facebook: les r\u00e9glementations europ\u00e9ennes poseront des freins technologiques...",
-            "snippet": "Pour Facebook, les diff\u00e9rentes r\u00e9gulations dans les pays de l'Union Europ\u00e9enne risquent de poser de s\u00e9rieux freins pour les soci\u00e9t\u00e9s technologiques souhaitant \u00e9tendre leurs activit\u00e9s sur le Vieux Continent. En mati\u00e8re de vie priv\u00e9e ou de...",
-            "date": "2015-04-29",
+        "gizmodo.fr/2015/05/et-si-facebook-supprimait-de-votre-fil-d-actualit%C3%A9": {
+            "title": "Et si Facebook supprimait de votre fil d'actualit\u00e9 tout ce que vous n... - Gizmodo...",
+            "snippet": "Et si Facebook supprimait de votre fil d'actualit\u00e9 tout ce que vous n...GizmodoParmi les nombreuses fonctionnalit\u00e9s offertes par Facebook, il en est une qui fait r\u00e9guli\u00e8rement parler d'elle - mais qui ne sera probablement jamais implant\u00e9e -,...",
+            "date": "2015-05-02",
             "categories": "facebook",
-            "tags": "vie,facebook",
-            "recuweb_url": "http://fr.recuweb.com/facebook/pro.clubic.com/2015/04/facebook-les-r%C3%A9glementations-europ%C3%A9ennes-poseront-des-freins-technologiques",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=facebook&format=RSS&cc=fr",
-            "source_url": "http://pro.clubic.com/technologie-et-politique/actualite-765174-facebook-reglementations-europeennes-poseront-freins-technologiques.html"
+            "tags": "nombreuses,fonctionnalit\u00e9s,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/gizmodo.fr/2015/05/et-si-facebook-supprimait-de-votre-fil-d-actualit%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=facebook&output=atom&nord=1",
+            "source_url": "http://gizmodo.fr/2015/05/02/video-facebook-bouton-dislike.html"
         },
-        "monwindowsphone.com/2015/04/facebook-sur-nokia-lumia-710": {
-            "title": "Facebook sur nokia lumia 710...",
-            "snippet": "Pour vos demandes de support, indiquez un titre clair et en rapport avec votre message. Un bon moyen est de le commencer par Comment ou par Probl\u00e8me. (Comment mettre des sonneries MP3 sur WP7, Probl\u00e8me d'autonomie de mon Windows Phone). amsso a...",
+        "numerama.com/2015/05/s%C3%A9isme-au-n%C3%A9pal-facebook-collecte-10-millions-de-dollars": {
+            "title": "S\u00e9isme au N\u00e9pal: Facebook collecte 10 millions de dollars...",
+            "snippet": "Plus de 10 millions de dollars. C'est la somme que Facebook a pu r\u00e9colter aupr\u00e8s de ses membres au profit de l'ONG International Medical Corps, afin de venir en aide au N\u00e9pal, qui a \u00e9t\u00e9 durement touch\u00e9 la semaine derni\u00e8re par un puissant...",
+            "date": "2015-05-02",
+            "categories": "facebook",
+            "tags": "international,international_medical,international_medical_corps,medical,medical_corps,corps,somme,millions,millions-de-dollars,dollars,n\u00e9pal,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/numerama.com/2015/05/s%C3%A9isme-au-n%C3%A9pal-facebook-collecte-10-millions-de-dollars",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=facebook&format=RSS&cc=fr",
+            "source_url": "http://numerama.com/magazine/32973-seisme-au-nepal-facebook-collecte-10-millions-de-dollars.html"
+        },
+        "journaldugeek.com/2015/05/plus-de-10-millions-dollars-dons-pour-le-n%C3%A9pal-r%C3%A9colt%C3%A9s": {
+            "title": "Plus de 10 millions de dollars de dons pour le N\u00e9pal r\u00e9colt\u00e9s par Facebook...",
+            "snippet": "Facebook et International Medical Corps annoncent avoir r\u00e9colt\u00e9 plus de 10 millions de dollars en 48h pour le N\u00e9pal via la fonctionnalit\u00e9 de don mis en place le 27 avril par le r\u00e9seau social. Facebook compl\u00e9tera cette somme par un don de 2...",
+            "date": "2015-05-01",
+            "categories": "place,facebook",
+            "tags": "somme,r\u00e9seau,r\u00e9seau-social,social,millions,millions-de-dollars,dollars,international,international_medical,international_medical_corps,medical,medical_corps,corps,n\u00e9pal,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/journaldugeek.com/2015/05/plus-de-10-millions-dollars-dons-pour-le-n%C3%A9pal-r%C3%A9colt%C3%A9s",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=facebook%2Bfacebook&format=RSS&cc=fr",
+            "source_url": "http://journaldugeek.com/2015/05/01/plus-de-10-millions-de-dollars-de-dons-pour-le-nepal-recoltes-par-facebook/"
+        },
+        "itespresso.fr/2015/04/donn%C3%A9es-persos-facebook-fustige-le-d%C3%A9sordre-des-autorit%C3%A9s-de-r%C3%A9gulation": {
+            "title": "Donn\u00e9es persos: Facebook fustige le d\u00e9sordre des autorit\u00e9s de r\u00e9gulation en Europe...",
+            "snippet": "Dans une tribune parue dans la presse, un porte-parole de Facebook Europe regrette l\u00e9volution confuse des pratiques de r\u00e9gulation des donn\u00e9es personnelles, mettant en p\u00e9ril l\u00e9conomie. La branche Facebook Europe se montre irrit\u00e9e par les...",
             "date": "2015-04-29",
             "categories": "facebook",
-            "tags": "mettre,message,facebook",
-            "recuweb_url": "http://fr.recuweb.com/facebook/monwindowsphone.com/2015/04/facebook-sur-nokia-lumia-710",
+            "tags": "facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/itespresso.fr/2015/04/donn%C3%A9es-persos-facebook-fustige-le-d%C3%A9sordre-des-autorit%C3%A9s-de-r%C3%A9gulation",
             "resource_url": "http://www.bing.com/news/search?first=1&q=facebook&format=RSS&cc=fr",
-            "source_url": "http://monwindowsphone.com/facebook-sur-nokia-lumia-710-t105262.html"
+            "source_url": "http://itespresso.fr/donnees-persos-facebook-fustige-desordre-autorites-regulation-europe-94896.html"
+        },
+        "blogdumoderateur.com/2015/04/facebook-un-chat-en-ligne-pour-accompagner-40-millions-de-pme": {
+            "title": "Facebook: un chat en ligne pour accompagner 40 millions de PME...",
+            "snippet": "Il y a 40 millions de pages small business sur le r\u00e9seau de Palo Alto. Ces pages sont les identit\u00e9s virtuelles de nombreuses PME qui utilisent Facebook en tant que r\u00e9seau social mais aussi en tant que plateforme marketing. Mais ces PME nont...",
+            "date": "2015-04-29",
+            "categories": "marketing,facebook",
+            "tags": "r\u00e9seau,r\u00e9seau-social,social,nombreuses,millions,ligne,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/blogdumoderateur.com/2015/04/facebook-un-chat-en-ligne-pour-accompagner-40-millions-de-pme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=facebook&format=RSS&cc=fr",
+            "source_url": "http://blogdumoderateur.com/facebook-chat-aide/"
         },
         "usine-digitale.fr/2015/04/avec-les-appels-vid%C3%A9os-sur-messenger-facebook-rattrape-son-retard": {
             "title": "Avec les appels vid\u00e9os sur Messenger, Facebook rattrape son retard sur ses principaux concurrents...",
@@ -46,9 +76,9 @@
             "snippet": "Rue89Comment Facebook vous suit (m\u00eame hors ligne)Rue89Et m\u00eame si vous n'avez pas de compte Facebook, vous n'\u00e9chappez pas au tracking: les carnets d'adresses de vos amis inscrits sur le r\u00e9seau social, dans lesquels sont r\u00e9pertori\u00e9s votre...",
             "date": "2015-04-28",
             "categories": "facebook",
-            "tags": "facebook,compte",
+            "tags": "r\u00e9seau,r\u00e9seau-social,social,ligne,facebook,compte",
             "recuweb_url": "http://fr.recuweb.com/facebook/rue89.nouvelobs.com/2015/04/comment-facebook-vous-suit-m%C3%AAme-hors-ligne-rue89",
-            "resource_url": "http://news.google.fr/?hl=fr&q=facebook%2Bfacebook&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=facebook&output=atom&nord=1",
             "source_url": "http://rue89.nouvelobs.com/2015/04/28/comment-facebook-suit-meme-hors-ligne-258897"
         },
         "infos-mobiles.com/2015/04/facebook-messenger-int%C3%A8gre-d%C3%A9sormais-les-appels-vid%C3%A9o": {
@@ -56,7 +86,7 @@
             "snippet": "La messagerie instantan\u00e9e de Facebook devient de plus en plus compl\u00e8te de jour en jour, le g\u00e9ant am\u00e9ricain des r\u00e9seaux sociaux ne cesse de multiplier les fonctionnalit\u00e9s de ceci pour fid\u00e9liser ses clients qui durant le lancement du service...",
             "date": "2015-04-27",
             "categories": "facebook",
-            "tags": "ceci,appels,facebook,messenger",
+            "tags": "fonctionnalit\u00e9s,ceci,appels,facebook,messenger",
             "recuweb_url": "http://fr.recuweb.com/facebook/infos-mobiles.com/2015/04/facebook-messenger-int%C3%A8gre-d%C3%A9sormais-les-appels-vid%C3%A9o",
             "resource_url": "http://www.bing.com/news/search?first=1&q=facebook%2Bfacebook&format=RSS&cc=fr",
             "source_url": "http://infos-mobiles.com/facebook/facebook-messenger-integre-desormais-les-appels-video/95012"
