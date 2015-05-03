@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "langages-web",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/langages-web/",
@@ -17,7 +17,7 @@
             "date": "2015-04-27",
             "author_name": "OpenClassrooms",
             "categories": "langage,css",
-            "tags": "langages,langages-du-web,web,html,css,education",
+            "tags": "langages,web,html,css,education",
             "recuweb_url": "http://fr.recuweb.com/css/youtube.com/2015/04/html5-css3-les-langages-du-web",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb%2Blangages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=bb850ph6Uls&feature=youtube_gdata",
@@ -29,7 +29,7 @@
             "date": "2015-02-18",
             "author_name": "MisterPatatteuh",
             "categories": "langage,langages-web,css",
-            "tags": "langages,langages-web,web,bases,css,html",
+            "tags": "langages,langages-web,web,bases,css,tuto,html",
             "recuweb_url": "http://fr.recuweb.com/css/youtube.com/2015/02/tuto-html-css-episode-1-logiciels-&-bases",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=dN8rf-WLzx8&feature=youtube_gdata",
@@ -46,18 +46,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb%2Blangages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=h93BmAF1sJE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/h93BmAF1sJE/0.jpg"
-        },
-        "youtube.com/2014/12/applications-web-diffuses-avec-hop-fran%C3%A7ais": {
-            "title": "Applications web diffuses avec HOP (fran\u00e7ais)...",
-            "snippet": "Applications web diffuses avec HOP (fran\u00e7ais) HOP est un environnement pour le d\u00e9veloppement d'applications diffuses,exploitant les protocoles et langages du web (http, html, css, websockets, moteurs JavaScript). From: InriaInnovation Views: 21 0...",
-            "date": "2014-12-18",
-            "author_name": "InriaInnovation",
-            "categories": "langage,environnement,css,javascript",
-            "tags": "langages,langages-du-web,web,html,css",
-            "recuweb_url": "http://fr.recuweb.com/javascript/youtube.com/2014/12/applications-web-diffuses-avec-hop-fran%C3%A7ais",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=02U8qUohWwk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/02U8qUohWwk/0.jpg"
         },
         "youtube.com/2014/11/continuation-en-langages-de-programmation": {
             "title": "Continuation en langages de programmation...",
@@ -95,13 +83,25 @@
             "source_url": "http://youtube.com/watch?v=jKc_vTH87RY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/jKc_vTH87RY/0.jpg"
         },
+        "youtube.com/2014/01/tuto1-html-et-css-deux-langages-pour-cr%C3%A9er-un-site-web": {
+            "title": "Tuto1: HTML et CSS: deux langages pour cr\u00e9er un site web...",
+            "snippet": "Tuto1: HTML et CSS: deux langages pour cr\u00e9er un site web dans Cette Vid\u00e9o on va savoir le fonctionnement de site web (html, CSS) From: DevInfo trucs Views: 17 0 ratings Time: 04:08 More in People & Blogs...",
+            "date": "2014-01-28",
+            "author_name": "DevInfo trucs",
+            "categories": "langage,css",
+            "tags": "savoir,site,site-web,web,langages,tuto,html,css",
+            "recuweb_url": "http://fr.recuweb.com/css/youtube.com/2014/01/tuto1-html-et-css-deux-langages-pour-cr%C3%A9er-un-site-web",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb%2Blangages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=6uvz8Lz2nd8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/6uvz8Lz2nd8/0.jpg"
+        },
         "youtube.com/2013/04/le-langage-web-html": {
             "title": "Le langage Web - Le HTML...",
             "snippet": "Le langage Web - Le HTML Premi\u00e8re vid\u00e9o explicative des diff\u00e9rents langages web. From: C'est Bon A Savoir Views: 769 14 ratings Time: 01:59 More in Comedy...",
             "date": "2013-04-26",
             "author_name": "C'est Bon A Savoir",
             "categories": "langage,langages-web",
-            "tags": "html,langages,langages-web,web",
+            "tags": "html,langages,langages-web,web,savoir",
             "recuweb_url": "http://fr.recuweb.com/langages-web/youtube.com/2013/04/le-langage-web-html",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb%2Blangages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=dAgt95AIJkY&feature=youtube_gdata",
@@ -113,11 +113,23 @@
             "date": "2012-07-23",
             "author_name": "Ben Mousnier",
             "categories": "internet,langage,css,php,facebook",
-            "tags": "formation,bases,langages,html,css,web,education",
+            "tags": "formation,site,bases,langages,html,css,web,education",
             "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2012/07/formation-en-html-css-php-partie-3-introduction-aux-bases",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb%2Blangages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=RUBGn6uJ0Aw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/RUBGn6uJ0Aw/0.jpg"
+        },
+        "youtube.com/2012/07/logiciel-creation-site-web": {
+            "title": "logiciel creation site web...",
+            "snippet": "logiciel creation site web logiciel creation site web impose de consacrer beaucoup de ressource \u00e0 \u00e9tudier en particulier la combinaison des langages. Une pl\u00e9thore de conjonctions de langages est \u00e0 notre disposition... From: johnson Views: 583 4...",
+            "date": "2012-07-07",
+            "author_name": "johnson",
+            "categories": "langage",
+            "tags": "langages,site,site-web,web",
+            "recuweb_url": "http://fr.recuweb.com/langage/youtube.com/2012/07/logiciel-creation-site-web",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=langages%2Bweb&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=tWLATEKL_JI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tWLATEKL_JI/0.jpg"
         }
     }
 }
