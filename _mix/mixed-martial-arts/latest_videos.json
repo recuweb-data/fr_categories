@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mixed-martial-arts",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mixed-martial-arts/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mixed-martial-arts/mixed-martial-arts/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/coke-&-le-sport-mma-plus-jeune-combattant-jon-jones": {
+            "title": "COKE & LE SPORT; MMA: Le plus jeune combattant MMA, Jon Jones est accus\u00e9 d\u00e9lit de fuite...",
+            "snippet": "COKE & LE SPORT; MMA: Le plus jeune combattant MMA, Jon Jones est accus\u00e9 d\u00e9lit de fuite Une jeune star de la MMA est accus\u00e9 de d\u00e9lit de fuite et usage de drogues. Le champions des arts martiaux m\u00e9lang\u00e9s (MMA, mixed martial arts), Jon...",
+            "date": "2015-04-28",
+            "author_name": "TomoNews France",
+            "categories": "mixed-martial-arts,arts,sport",
+            "tags": "mixed,martial,arts,mma",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/04/coke-&-le-sport-mma-plus-jeune-combattant-jon-jones",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mixed%2Bmartial%2Barts%2Bmixed%2Bmartial%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=NFKpXq7KKys&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NFKpXq7KKys/0.jpg"
+        },
         "dailymotion.com/2015/03/filipino-martial-arts-single-stick-intermediate-learn-the-with-rick-young": {
             "title": "Filipino Martial Arts - Single Stick Intermediate - Learn the Filipino martial arts with Rick Young...",
             "snippet": "Filipino Martial Arts - Single Stick Intermediate - Learn the Filipino martial arts with Rick YoungIn this programme, the concepts of immobilising, offsetting and pre-emptimg the opponent are discuss...: bande-annonce-filmTags: Posted: 21 March...",
@@ -83,25 +95,13 @@
             "source_url": "http://dailymotion.com/video/x2jum4s_filipino-martial-arts-stick-and-dagger-learn-the-filipino-martial-arts-with-rick-young_shortfilms",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2jum4s_filipino-martial-arts-stick-and-dagger-learn-the-filipino-martial-arts-with-rick-young_shortfilms"
         },
-        "youtube.com/2015/01/documentaire-corps-esprit-et-arts-martiaux-1": {
-            "title": "Documentaire Corps, esprit et arts martiaux 1...",
-            "snippet": "Documentaire Corps, esprit et arts martiaux 1 Les Secrets de la Boxe Tha\u00eflandaise - documentaire fr arts martiaux, art martial, bruce lee, free fight, boxe anglaise, boxe tha\u00ef, free fight, mma, ufc, pri.... Les Secrets de la Boxe... From: Darin...",
-            "date": "2015-01-11",
-            "author_name": "Darin Grim",
-            "categories": "boxe-anglaise,art-martial,arts",
-            "tags": "martial,arts,mma",
-            "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2015/01/documentaire-corps-esprit-et-arts-martiaux-1",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mixed%2Bmartial%2Barts%2Bmixed%2Bmartial%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=FD7smLbe5QM&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/FD7smLbe5QM/0.jpg"
-        },
         "youtube.com/2014/11/s%C3%A9ance-de-mixed-martial-arts-%C3%A9ducatif-association-yoksutha%C3%AF-pouillon-les-landes": {
             "title": "S\u00e9ance de Mixed Martial Arts \u00e9ducatif. Association Yoksutha\u00ef. Pouillon, Les Landes.",
             "snippet": "S\u00e9ance de Mixed Martial Arts \u00e9ducatif. Association Yoksutha\u00ef. Pouillon, Les Landes. Le Mixed Martial Arts \u00e9ducatif, c'est quoi? R\u00e9ponse en images avec des extraits vid\u00e9os d'une s\u00e9ance r\u00e9alis\u00e9e avec des enfants de 8/11 ans \u00e9voluant au sein...",
             "date": "2014-11-27",
             "author_name": "Pascal Delente",
             "categories": "mixed-martial-arts,arts",
-            "tags": "mixed,mixed_martial,martial,martial_arts,arts",
+            "tags": "mixed,mixed_martial,mixed_martial_arts,martial,martial_arts,arts",
             "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2014/11/s%C3%A9ance-de-mixed-martial-arts-%C3%A9ducatif-association-yoksutha%C3%AF-pouillon-les-landes",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mixed%2Bmartial%2Barts%2Bmixed%2Bmartial%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=NwvY6NgTlIc&feature=youtube_gdata",
@@ -119,17 +119,17 @@
             "source_url": "http://youtube.com/watch?v=wQffl4nEs-E&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/wQffl4nEs-E/0.jpg"
         },
-        "youtube.com/2014/04/de-la-guerre-au-mma": {
-            "title": "De la guerre au MMA...",
-            "snippet": "De la guerre au MMA Bless\u00e9s de guerre en Afghanistan, ces soldats fran\u00e7ais se reconstruisent peu \u00e0 peu grce au MMA (Mixed martial arts). Une fa\u00e7on pour eux de se fixer de nouveaux objectifs et de r\u00e9apprendre... From: Francetv Sport Views: 18839...",
-            "date": "2014-04-14",
-            "author_name": "Francetv Sport",
-            "categories": "sport,arts",
-            "tags": "martial,arts,mma,mixed",
-            "recuweb_url": "http://fr.recuweb.com/arts/youtube.com/2014/04/de-la-guerre-au-mma",
+        "youtube.com/2014/03/a-thouars-on-s-est-pris-de-passion-pour-le-mixed": {
+            "title": "A Thouars, on s'est pris de passion pour le Mixed Martial Arts...",
+            "snippet": "A Thouars, on s'est pris de passion pour le Mixed Martial Arts En perte d'adh\u00e9rents ces derni\u00e8res ann\u00e9es, le Judo club thouarsais (JCT) a d\u00e9cid\u00e9 de proposer une section MMA en 2011. De 250, ses licenci\u00e9s sont pass\u00e9s \u00e0 400. Un succ\u00e8s qui ne...",
+            "date": "2014-03-20",
+            "author_name": "Florent Bouteiller",
+            "categories": "mixed-martial-arts,arts,judo",
+            "tags": "mixed,mixed_martial,mixed_martial_arts,martial,martial_arts,arts,mma",
+            "recuweb_url": "http://fr.recuweb.com/judo/youtube.com/2014/03/a-thouars-on-s-est-pris-de-passion-pour-le-mixed",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=mixed%2Bmartial%2Barts%2Bmixed%2Bmartial%2Barts&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=9OlYB_JBE6o&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/9OlYB_JBE6o/0.jpg"
+            "source_url": "http://youtube.com/watch?v=WlNT_fPhFMI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/WlNT_fPhFMI/0.jpg"
         }
     }
 }
