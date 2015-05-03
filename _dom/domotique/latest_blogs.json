@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "domotique",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/domotique/",
@@ -11,16 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
     },
     "items": {
-        "blog.eavs-groupe.com/2015/04/la-domotique-c-est-quoi-blog-eavs-groupe": {
-            "title": "La Domotique, c'est quoi? - Blog Eavs Groupe...",
-            "snippet": "Nous reproduisons ici une s\u00e9rie d'articles concoct\u00e9s par C\u00e9dric Locqueneux, auteur du blog Maison et Domotique, qui \"baigne\" dans le monde de la Domotique.",
-            "date": "2015-04-17",
-            "author_name": "Thomas",
+        "planete-domotique.com/2015/04/le-thermostat-smartwares-un-compatible-homewizard": {
+            "title": "Le Thermostat smartwares: un thermostat compatible HomeWizard...",
+            "snippet": "... syst\u00e8me de programmation interne, mais qui peut \u00e9galement \u00eatre pilot\u00e9e en 433 MHz. Cela la rend compatible avec certaines t\u00e9l\u00e9commandes (Chacon ou HomeEasy), mais \u00e9galement avec la box domotique HomeWizard.",
+            "date": "2015-04-27",
+            "author_name": "Pierre",
             "categories": "domotique",
-            "tags": "s\u00e9rie,domotique,maison",
-            "recuweb_url": "http://fr.recuweb.com/domotique/blog.eavs-groupe.com/2015/04/la-domotique-c-est-quoi-blog-eavs-groupe",
-            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.eavs-groupe.com/actualite-de-nos-metiers/la-domotique-cest-quoi/"
+            "tags": "peut,\u00eatre,pilot\u00e9e,syst\u00e8me,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/planete-domotique.com/2015/04/le-thermostat-smartwares-un-compatible-homewizard",
+            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://planete-domotique.com/blog/2015/04/27/le-thermostat-smartwares-un-thermostat-compatible-homewizard-et-telecommandes/"
+        },
+        "blog.domoconcept2b.fr/2015/04/l-apple-watch-et-la-domotique-domoconcept-blog": {
+            "title": "L'Apple Watch et la domotique Domoconcept, Blog Domotique...",
+            "snippet": "En quoi cet outil peut \u00eatre utile dans le cas d'une installation domotique? Une montre peut elle avoir un r\u00e9el aspect pratique dans ce genre d'utilisation? Vous trouverez des \u00e9l\u00e9ments de r\u00e9ponse dans l'article Domotique sur...",
+            "date": "2015-04-25",
+            "author_name": "domoconcept",
+            "categories": "domotique",
+            "tags": "peut,\u00eatre,domotique,apple,installation",
+            "recuweb_url": "http://fr.recuweb.com/domotique/blog.domoconcept2b.fr/2015/04/l-apple-watch-et-la-domotique-domoconcept-blog",
+            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.domoconcept2b.fr/2015/04/lapple-watch-et-la-domotique/"
+        },
+        "planete-domotique.com/2015/04/le-web-energie-superviseur-%C3%A9volue-afficheur-lcd-version-2": {
+            "title": "Le Web Energie Superviseur \u00e9volue: afficheur LCD, version 2, et...",
+            "snippet": "Plan\u00e8te-Domotique: Le Blog::.. Le Web Energie Superviseur.... La domotique est pour moi un moyen incontournable pour se faciliter la vie, et ses usages n'ont pas fini de nous surprendre! Pr\u00e9c\u00e9dent: Retour sur le SIdO...",
+            "date": "2015-04-21",
+            "author_name": "Pierre",
+            "categories": "domotique",
+            "tags": "web,domotique,retour",
+            "recuweb_url": "http://fr.recuweb.com/domotique/planete-domotique.com/2015/04/le-web-energie-superviseur-%C3%A9volue-afficheur-lcd-version-2",
+            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://planete-domotique.com/blog/2015/04/21/le-web-energie-superviseur-evolue-afficheur-lcd-version-2-et-mise-a-jour-firmware-0-52/"
         },
         "worldissmall.fr/2015/04/wwdc-2015-une-apple-tv-et-un-syst%C3%A8me-de-domotique": {
             "title": "WWDC 2015: une Apple TV et un syst\u00e8me de domotique?",
@@ -28,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "Martin",
             "categories": "domotique",
-            "tags": "annonc\u00e9,syst\u00e8me,domotique",
+            "tags": "annonc\u00e9,apple,syst\u00e8me,domotique",
             "recuweb_url": "http://fr.recuweb.com/domotique/worldissmall.fr/2015/04/wwdc-2015-une-apple-tv-et-un-syst%C3%A8me-de-domotique",
             "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://worldissmall.fr/2015/04/15/wwdc-2015-une-apple-tv-et-un-systeme-de-domotique/"
@@ -50,7 +72,7 @@
             "date": "2015-03-11",
             "author_name": "Goufalite",
             "categories": "domotique",
-            "tags": "vid\u00e9osurveillance,plusieurs,informatique,cam\u00e9ra,domotiques,contr\u00f4le,solutions",
+            "tags": "solutions,solutions-domotiques,domotiques,domotique,vid\u00e9osurveillance,informatique,web,contr\u00f4le",
             "recuweb_url": "http://fr.recuweb.com/domotique/blog.goufastyle.org/2015/03/domotique-minimale-partie-5-contr%C3%B4le-de-la-cam%C3%A9ra",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
             "source_url": "http://blog.goufastyle.org/article/domotique-minimale-partie-5-controle-de-la-camera"
