@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "internet",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -11,27 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
+        "rslnmag.fr/2015/04/rsln-internet-les-ados-fran%C3%A7ais-y-passent-plus-de-13h": {
+            "title": "RSLN Internet: les ados fran\u00e7ais y passent plus de 13h par semaine...",
+            "snippet": "Mobilit\u00e9, r\u00e9seaux sociaux et nouveaux usages Quels rapports les moins de 20 ans entretiennent-ils avec Internet? Une r\u00e9cente \u00e9tude men\u00e9e par l'institut Ipsos fait le point. 13h30 par semaine. C'est le temps que passent,...",
+            "date": "2015-04-30",
+            "author_name": "Samuel Azoulay",
+            "categories": "internet",
+            "tags": "\u00e9tude,moins,r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,fran\u00e7ais,internet,ipsos",
+            "recuweb_url": "http://fr.recuweb.com/internet/rslnmag.fr/2015/04/rsln-internet-les-ados-fran%C3%A7ais-y-passent-plus-de-13h",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rslnmag.fr/post/2015/04/30/Internet-les-ados-francais-y-passent-plus-de-13h-par-semaine-.aspx"
+        },
+        "gizmodo.fr/2015/04/quand-le-gouvernement-fran%C3%A7ais-rencontre-les-dirigeants-d-internet": {
+            "title": "Quand le gouvernement fran\u00e7ais rencontre \"les dirigeants d'Internet\"...",
+            "snippet": "Vous saviez qu'Internet avait ses propres dirigeants? Moi non plus. Pourtant, le gouvernement fran\u00e7ais les a rencontr\u00e9s, pas plus tard que ce mercredi. De quoi ont-ils bien pu parler? Comme l'indique l'intitul\u00e9 du...",
+            "date": "2015-04-29",
+            "author_name": "Morgan",
+            "categories": "internet\",internet",
+            "tags": "fran\u00e7ais,internet,comme",
+            "recuweb_url": "http://fr.recuweb.com/internet/gizmodo.fr/2015/04/quand-le-gouvernement-fran%C3%A7ais-rencontre-les-dirigeants-d-internet",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/29/gouvernement-francais-rencontre-dirigeants-dinternet.html"
+        },
+        "gizmodo.fr/2015/04/combien-de-feuilles-papier-pour-imprimer-tout-internet-gizmodo": {
+            "title": "Combien de feuilles de papier pour imprimer tout Internet? - Gizmodo...",
+            "snippet": "Par extrapolation, en prenant en compte le fait que l'Internet compte la bagatelle de 4,5 milliards de pages, il faudrait au bas mot pr\u00e8s de 68 milliards de feuilles A4. Mais ce chiffre serait en r\u00e9alit\u00e9 loin du compte puisque,...",
+            "date": "2015-04-28",
+            "author_name": "Morgan",
+            "categories": "internet",
+            "tags": "compte,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/gizmodo.fr/2015/04/combien-de-feuilles-papier-pour-imprimer-tout-internet-gizmodo",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gizmodo.fr/2015/04/28/combien-feuilles-papier-imprimer-internet.html"
+        },
         "bullesdeculture.com/2015/04/television-internet-la-pollution-cach%C3%A9e-2013-&-les-nouveaux-loups": {
             "title": "TELEVISION: Internet, la pollution cach\u00e9e (2013) & Les Nouveaux Loups de Wall Street (2015)...",
             "snippet": "Par/by Antoine Corte R\u00e9dacteur/Editor Bulles de Culture a s\u00e9lectionn\u00e9 deux documentaires coup de c\u0153ur sur Internet: Internet, la pollution cach\u00e9e de Coline Tison et Laurent Lichtenstein - le film sortira en DVD aux \u00c9ditions Montparnasse - et...",
             "date": "2015-04-28",
             "author_name": "(Antoine Corte)",
             "categories": "pollution,television,internet,culture",
-            "tags": "laurent,deux,c\u0153ur,internet",
+            "tags": "laurent,deux,internet",
             "recuweb_url": "http://fr.recuweb.com/culture/bullesdeculture.com/2015/04/television-internet-la-pollution-cach%C3%A9e-2013-&-les-nouveaux-loups",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=internet%2Binternet&rss=1&lng=fr",
             "source_url": "http://bullesdeculture.com/2015/04/television-dvd-internet-la-pollution.html"
         },
-        "bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfm": {
-            "title": "Leclerc: \"nous allons investir des milliards sur Internet\" - BFM...",
-            "snippet": "\"Demain nos enfants iront d'abord chercher les marques sur internet et une fois la marque trouv\u00e9e, ils regarderont o\u00f9 elle est. Donc, il faut construire un grand portail internet\", a expliqu\u00e9 Michel-Edouard Leclerc.",
-            "date": "2015-04-15",
-            "author_name": "inconnu",
+        "bigbrowser.blog.lemonde.fr/2015/04/apr%C3%A8s-le-s%C3%A9isme-au-n%C3%A9pal-les-recherches-s-organisent-sur-internet": {
+            "title": "Apr\u00e8s le s\u00e9isme au N\u00e9pal, les recherches s'organisent sur Internet...",
+            "snippet": "Apr\u00e8s le s\u00e9isme au N\u00e9pal, les recherches s'organisent sur Internet. ISHAN TANKHA POUR \"LE MONDE\". Apr\u00e8s le choc, l'incertitude et l'inqui\u00e9tude. Deux jours apr\u00e8s le violent s\u00e9isme qui a touch\u00e9 le N\u00e9pal, samedi 25 avril,...",
+            "date": "2015-04-27",
+            "author_name": "faq",
             "categories": "internet",
-            "tags": "internet,o\u00f9,donc",
-            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/04/leclerc-nous-allons-investir-des-milliards-sur-internet-bfm",
-            "resource_url": "http://www.google.com/search?q=internet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/leclerc-nous-allons-investir-des-milliards-sur-internet-877653.html"
+            "tags": "monde,apr\u00e8s,internet,deux,avril",
+            "recuweb_url": "http://fr.recuweb.com/internet/bigbrowser.blog.lemonde.fr/2015/04/apr%C3%A8s-le-s%C3%A9isme-au-n%C3%A9pal-les-recherches-s-organisent-sur-internet",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bigbrowser.blog.lemonde.fr/2015/04/27/apres-le-seisme-au-nepal-les-recherches-sorganisent-sur-internet/"
         },
         "witroubtfransen.wordpress.com/2014/10/m%C3%AAme-sans-internet": {
             "title": "M\u00eame sans internet...",
@@ -39,10 +72,21 @@
             "date": "2014-10-12",
             "author_name": "witroubtfransen",
             "categories": "ordinateur,radio,internet",
-            "tags": "internet",
+            "tags": "peut,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/witroubtfransen.wordpress.com/2014/10/m%C3%AAme-sans-internet",
             "resource_url": "http://fr.search.wordpress.com/?q=internet%2Binternet&f=feed&page=1",
             "source_url": "http://witroubtfransen.wordpress.com/2014/10/12/meme-sans-internet/"
+        },
+        "dossierfamilial.com/2012/09/comment-prot%C3%A9ger-ses-donn%C3%A9es-personnelles-sur-internet": {
+            "title": "Comment prot\u00e9ger ses donn\u00e9es personnelles sur Internet...",
+            "snippet": "Elle est constitu\u00e9e de votre adresse IP, pour Internet Protocol (identifiant de l'ordinateur sur le r\u00e9seau), vos adresses de courriels, vos comptes sur les r\u00e9seaux sociaux, sur les sites d'achats, vos certificats, comme celui qui vous est...",
+            "date": "2012-09-12",
+            "author_name": "MDD",
+            "categories": "ordinateur,internet",
+            "tags": "r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,internet,comme",
+            "recuweb_url": "http://fr.recuweb.com/internet/dossierfamilial.com/2012/09/comment-prot%C3%A9ger-ses-donn%C3%A9es-personnelles-sur-internet",
+            "resource_url": "http://www.google.com/search?q=internet%2Binternet&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dossierfamilial.com/consommation/technologies/comment-proteger-ses-donnees-personnelles-sur-internet-55914"
         }
     }
 }
