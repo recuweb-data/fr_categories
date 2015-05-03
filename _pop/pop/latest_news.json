@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pop",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pop/",
@@ -11,35 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pop/pop/blogs.json"
     },
     "items": {
-        "lyonne.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t": {
-            "title": "Apr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le... - L'Yonne R\u00e9publicaine...",
-            "snippet": "L'Yonne R\u00e9publicaineApr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le...L'Yonne R\u00e9publicaineParmi les moments applaudis de cette 39e \u00e9dition: l'\u00e9nergie du groupe pop-rock libanais Mashrou'Leila, les brillants automates de...",
-            "date": "2015-04-29",
-            "categories": "rock,pop",
-            "tags": "brillants,brillants-automates,automates,rock,rock-libanais,libanais,\u00e9nergie,\u00e9nergie-du-groupe,groupe,\u00e9dition,moments,moments-applaudis,applaudis,greco,cl\u00f4t,rel\u00e8ve,rel\u00e8ve-f\u00e9minine,f\u00e9minine,ouverture,apr\u00e8s,apr\u00e8s_greco,pop,mashrou,leila",
-            "recuweb_url": "http://fr.recuweb.com/pop/lyonne.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pop%2Bpop&output=atom&nord=1",
-            "source_url": "http://lyonne.fr/yonne/mag/culture/musique/2015/04/29/apres-greco-en-ouverture-la-releve-feminine-de-la-pop-clot-le-printemps-de-bourges_11424713.html"
-        },
-        "lepoint.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t": {
-            "title": "Apr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le... - Le Point...",
-            "snippet": "Le PointApr\u00e8s Greco en ouverture, la rel\u00e8ve f\u00e9minine de la pop cl\u00f4t le...Le PointParmi les moments applaudis de cette 39e \u00e9dition: l'\u00e9nergie du groupe pop-rock libanais Mashrou'Leila, les brillants automates de l'inventif St\u00e9phane Eicher, les...",
-            "date": "2015-04-29",
-            "categories": "rock,pop",
-            "tags": "brillants,brillants-automates,automates,rock,rock-libanais,libanais,\u00e9nergie,\u00e9nergie-du-groupe,groupe,\u00e9dition,moments,moments-applaudis,applaudis,greco,cl\u00f4t,rel\u00e8ve,rel\u00e8ve-f\u00e9minine,f\u00e9minine,ouverture,apr\u00e8s,apr\u00e8s_greco,pop,mashrou,leila",
-            "recuweb_url": "http://fr.recuweb.com/pop/lepoint.fr/2015/04/apr%C3%A8s-greco-en-ouverture-la-rel%C3%A8ve-f%C3%A9minine-de-pop-cl%C3%B4t",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
-            "source_url": "http://lepoint.fr/culture/la-releve-feminine-de-la-pop-clot-le-printemps-de-bourges-29-04-2015-1925096_3.php"
-        },
-        "lesoir.be/2015/04/kate-middleton-un-accouchement-tr%C3%A8s-pop-british-le-soir": {
-            "title": "Kate Middleton, un accouchement tr\u00e8s pop british - Le Soir...",
-            "snippet": "Le SoirKate Middleton, un accouchement tr\u00e8s pop britishLe SoirPoint d'op\u00e9ra ou de longues balades au Stradivarius, Kate Middleton a pr\u00e9vu du pop, du moderne, britannique bien s\u00fbr. Du James Blunt pour commencer, avec son titre You're Beautiful.",
-            "date": "2015-04-29",
+        "leparisien.fr/2015/05/burning-peacocks-le-groupe-pop-d-alma-jodorowsky-prend-son-envol": {
+            "title": "Burning Peacocks, le groupe pop d'Alma Jodorowsky prend son envol - Le Parisien...",
+            "snippet": "Le ParisienBurning Peacocks, le groupe pop d'Alma Jodorowsky prend son envolLe ParisienBurning Peacocks, le groupe pop d'Alma Jodorowsky prend son envol. Ronan T\u00e9sori\u00e8re 01 Mai 2015, 15h10 MAJ: 01 Mai 2015, 18h27. Tweeter. r\u00e9agir Alma Jodorowsky...",
+            "date": "2015-05-02",
             "categories": "pop",
-            "tags": "titre,pop",
-            "recuweb_url": "http://fr.recuweb.com/pop/lesoir.be/2015/04/kate-middleton-un-accouchement-tr%C3%A8s-pop-british-le-soir",
+            "tags": "pop,mai",
+            "recuweb_url": "http://fr.recuweb.com/pop/leparisien.fr/2015/05/burning-peacocks-le-groupe-pop-d-alma-jodorowsky-prend-son-envol",
             "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
-            "source_url": "http://lesoir.be/864492/article/soirmag/actu-soirmag/2015-04-29/kate-middleton-un-accouchement-tres-pop-british"
+            "source_url": "http://leparisien.fr/laparisienne/societe/culture/burning-peacocks-le-groupe-pop-d-alma-jodorowsky-prend-son-envol-01-05-2015-4738131.php"
+        },
+        "msn.com/2015/05/crabes-g%C3%A9ants-pop-sirupeuse-et-ambitions-pr%C3%A9sidentielles-l-incroyable-histoire": {
+            "title": "Crabes g\u00e9ants, pop sirupeuse et ambitions pr\u00e9sidentielles: l'incroyable histoire du boxeur Manny...",
+            "snippet": "Crabes g\u00e9ants, pop sirupeuse et ambitions pr\u00e9sidentielles: l'incroyable histoire du boxeur Manny...",
+            "date": "2015-05-02",
+            "categories": "pop",
+            "tags": "pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/msn.com/2015/05/crabes-g%C3%A9ants-pop-sirupeuse-et-ambitions-pr%C3%A9sidentielles-l-incroyable-histoire",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
+            "source_url": "http://msn.com/fr-fr/actualite/sport/crabes-g\u00e9ants-pop-sirupeuse-et-ambitions-pr\u00e9sidentielles-lincroyable-histoire-du-boxeur-manny-pacquiao/ar-BBj3ssM"
+        },
+        "rtl2.fr/2015/05/marina-kaye-s-empare-de-la-t%C3%AAte-pop-rock-list": {
+            "title": "Marina Kaye s'empare de la t\u00eate de la Pop-Rock List du 2 mai -...",
+            "snippet": "Kaye s'empare de la t\u00eate de la Pop-Rock List du 2 \u00c9OS - \u00c9coutez ou r\u00e9\u00e9coutez la Pop-Rock List du samedi 2 mai et d\u00e9couvrez la playlist de Mike pour la semaine \u00e9coul\u00e9e. La page de l'\u00e9mission: RTL2 Pop-Rock List. Marina Kaye annonce la...",
+            "date": "2015-05-02",
+            "categories": "play,pop,rock",
+            "tags": "semaine,mai,samedi,pop",
+            "recuweb_url": "http://fr.recuweb.com/rock/rtl2.fr/2015/05/marina-kaye-s-empare-de-la-t%C3%AAte-pop-rock-list",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "source_url": "http://rtl2.fr/actu/marina-kaye-s-empare-de-la-tete-de-la-pop-rock-list-du-2-mai-7777525669"
+        },
+        "ladepeche.fr/2015/05/premier-acte-sc%C3%A8ne-vii-la-v%C3%A9rit%C3%A9-par-cie-th%C3%A9tre-toulousain": {
+            "title": "Premier acte sc\u00e8ne VII: la v\u00e9rit\u00e9, par la Cie Th\u00e9tre toulousain... -...",
+            "snippet": "acte sc\u00e8ne VII: la v\u00e9rit\u00e9, par la Cie Th\u00e9tre toulousain... Th\u00e9tre toulousain Pop'Hilare a vu le jour le 27 octobre 2006. Compagnie de th\u00e9tre amateur, pr\u00e9sid\u00e9e par Philippe Merlane, elle a fait le choix de faire rire le public en puisant...",
+            "date": "2015-05-02",
+            "categories": "pop",
+            "tags": "premier,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/ladepeche.fr/2015/05/premier-acte-sc%C3%A8ne-vii-la-v%C3%A9rit%C3%A9-par-cie-th%C3%A9tre-toulousain",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/05/02/2097497-premier-acte-scene-vii-verite-cie-theatre-toulousain-pop-hilare.html"
+        },
+        "labaule.maville.com/2015/05/a-pornichet-le-mauvais-temps-perturbe-la-festimer": {
+            "title": "A Pornichet: Le mauvais temps perturbe la FestiMer...",
+            "snippet": "Les animations seront maintenues sauf les courses de bateaux pop pop. Les r\u00e9gates des bateaux planants se d\u00e9rouleront entre 14 h et 18 h le samedi et entre 11 h et 15 h 30 le dimanche. Les d\u00e9parts se feront devant la digue nord du port.",
+            "date": "2015-05-01",
+            "categories": "regate,pop",
+            "tags": "samedi,bateaux,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/labaule.maville.com/2015/05/a-pornichet-le-mauvais-temps-perturbe-la-festimer",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop%2Bpop&format=RSS&cc=fr",
+            "source_url": "http://labaule.maville.com/actu/actudet_-a-pornichet-le-mauvais-temps-perturbe-la-festi-mer_52722-2760885_actu.Htm"
+        },
+        "grazia.fr/2015/05/flavien-berger-le-nouveau-prince-noir-de-la-pop-fran%C3%A7aise-grazia": {
+            "title": "Flavien Berger, le nouveau prince noir de la pop fran\u00e7aise - Grazia...",
+            "snippet": "GraziaFlavien Berger, le nouveau prince noir de la pop fran\u00e7aiseGraziaSur les rails d'Alan Vega et de S\u00e9bastien Tellier, le jeune Fran\u00e7ais sort un premier album. Et nous emm\u00e8ne sur ses montagnes russes \"psych\u00e9lectroniques\". Flavien Berger, le...",
+            "date": "2015-05-01",
+            "categories": "pop",
+            "tags": "premier,pop,fran\u00e7aise",
+            "recuweb_url": "http://fr.recuweb.com/pop/grazia.fr/2015/05/flavien-berger-le-nouveau-prince-noir-de-la-pop-fran%C3%A7aise-grazia",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pop&output=atom&nord=1",
+            "source_url": "http://grazia.fr/culture/news/flavien-berger-le-nouveau-prince-noir-de-la-pop-francaise-756522"
+        },
+        "actu.orange.fr/2015/04/en-cor%C3%A9e-du-sud-les-tatas-de-la-k-pop-revendiquent": {
+            "title": "En Cor\u00e9e du Sud, les tatas de la K-pop revendiquent leur passion...",
+            "snippet": "Elles n'ont pas le profil type des fans de boys band, mais les tatas quadrag\u00e9naires de la K-pop de Cor\u00e9e du Sud sont tout aussi obs\u00e9d\u00e9es par leurs idoles que les groupies adolescentes. A S\u00e9oul, les murs de l'appartement de Lee Un-Young sont...",
+            "date": "2015-04-30",
+            "categories": "pop",
+            "tags": "passion,pop",
+            "recuweb_url": "http://fr.recuweb.com/pop/actu.orange.fr/2015/04/en-cor%C3%A9e-du-sud-les-tatas-de-la-k-pop-revendiquent",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=pop&format=RSS&cc=fr",
+            "source_url": "http://actu.orange.fr/societe/en-coree-du-sud-les-tatas-de-la-k-pop-revendiquent-leur-passion-afp_CNT0000009DRKM.html"
         },
         "vogue.fr/2015/04/la-collection-pop-de-lancel": {
             "title": "La collection Pop de Lancel -...",
@@ -56,20 +96,10 @@
             "snippet": "bateaux pop-pop en comp\u00e9 passion, patience, habilet\u00e9 et talent se conjuguent avec une bonne dose d'humour et de l\u00e9g\u00e8ret\u00e9, le r\u00e9sultat ne peut qu'\u00eatre qu'original avec un petit brin de folie. Cela donne des bateaux pop-pop (du nom du bruit...",
             "date": "2015-04-18",
             "categories": "humour,pop",
-            "tags": "peut,pop",
+            "tags": "bateaux,pop,passion",
             "recuweb_url": "http://fr.recuweb.com/pop/ladepeche.fr/2015/04/les-bateaux-pop-en-comp%C3%A9tition",
             "resource_url": "http://news.google.fr/?hl=fr&q=pop%2Bpop&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/18/2089539-les-bateaux-pop-pop-en-competition.html"
-        },
-        "staragora.com/2015/04/parisa-la-bookeuse-des-marseillais-en-tha%C3%AFlande-met-le-feu": {
-            "title": "Parisa, la bookeuse des Marseillais en Tha\u00eflande, met le feu au clip de Lacrim!",
-            "snippet": "Parisa a m\u00eame fait un clip pour son titre entra\u00eenant Pop Pop Kudu. Et on peut aussi la voir dans un clip d'une star fran\u00e7aise: Lacrim! Eh oui, Parisa appara\u00eet aux bras du rappeur au d\u00e9but du clip vid\u00e9o de D'o\u00f9 je viens tu connais.",
-            "date": "2015-04-18",
-            "categories": "clip,pop",
-            "tags": "fran\u00e7aise,peut,pop,titre",
-            "recuweb_url": "http://fr.recuweb.com/pop/staragora.com/2015/04/parisa-la-bookeuse-des-marseillais-en-tha%C3%AFlande-met-le-feu",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=pop%2Bpop&format=RSS&cc=fr",
-            "source_url": "http://staragora.com/news/parisa-la-bookeuse-des-marseillais-en-thailande-met-le-feu-au-clip-de-lacrim/510671"
         }
     }
 }
