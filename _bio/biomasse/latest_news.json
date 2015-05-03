@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "biomasse",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/biomasse/",
@@ -11,14 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/biomasse/biomasse/blogs.json"
     },
     "items": {
+        "rewmi.com/2015/05/productions-fourrageres-a-linguere-94-51-tonnes-de-rewmi": {
+            "title": "PRODUCTIONS FOURRAGERES A LINGUERE: 94,51 tonnes de... - rewmi...",
+            "snippet": "rewmiPRODUCTIONS FOURRAGERES A LINGUERE: 94,51 tonnes de...rewmiEn effet, les productions fourrag\u00e8res ont enregistr\u00e9 une production totale de 94,51 tonnes de biomasse s\u00e8che. Ce qui a permis aux populations de constituer d'importantes r\u00e9serves...",
+            "date": "2015-05-02",
+            "categories": "biomasse",
+            "tags": "r\u00e9serves,production,biomasse",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/rewmi.com/2015/05/productions-fourrageres-a-linguere-94-51-tonnes-de-rewmi",
+            "resource_url": "http://news.google.fr/?hl=fr&q=biomasse&output=atom&nord=1",
+            "source_url": "http://rewmi.com/productions-fourrageres-a-linguere-9451-tonnes-de-biomasse-seche-a-thiel.html"
+        },
+        "objectif-languedoc-roussillon.latribune.fr/2015/04/une-nouvelle-centrale-biomasse-de-7-8-m-pour-arjowiggins": {
+            "title": "Une nouvelle centrale biomasse de 7,8 M pour ArjoWiggins...",
+            "snippet": "Le leader mondial de la fabrication de papiers et subtrats poreux pour l'emballage de st\u00e9rilisation de dispositifs m\u00e9dicaux, ArjoWiggins Healthcare (filiale du groupe ArjoWiggins, 4000 collaborateurs, 1 Mds de CA en 2014) a inaugur\u00e9 jeudi 30...",
+            "date": "2015-04-30",
+            "categories": "biomasse",
+            "tags": "centrale,biomasse",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/objectif-languedoc-roussillon.latribune.fr/2015/04/une-nouvelle-centrale-biomasse-de-7-8-m-pour-arjowiggins",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=biomasse&format=RSS&cc=fr",
+            "source_url": "http://objectif-languedoc-roussillon.latribune.fr/entreprises/industrie/2015-04-30/une-nouvelle-centrale-biomasse-de-7-8-m-pour-arjowiggins.html"
+        },
+        "usinenouvelle.com/2015/04/une-chaudi%C3%A8re-biomasse-pour-pierre-fabre": {
+            "title": "Une chaudi\u00e8re biomasse pour Pierre Fabre...",
+            "snippet": "Pour fabriquer ses produits dermo-cosm\u00e9tiques (Klorane, Ren\u00e9 Furterer), Pierre Fabre r\u00e9colte et utilise des plantes du monde entier, dont il extrait le principe actif sur son site de Gaillac (Tarn). Dans son usine historique de Soual, qui...",
+            "date": "2015-04-29",
+            "categories": "plante,biomasse",
+            "tags": "usine,monde,chaudi\u00e8re,biomasse",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/usinenouvelle.com/2015/04/une-chaudi%C3%A8re-biomasse-pour-pierre-fabre",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=biomasse&format=RSS&cc=fr",
+            "source_url": "http://usinenouvelle.com/article/une-chaudiere-biomasse-pour-pierre-fabre.N327032"
+        },
         "ladepeche.fr/2015/04/une-chaufferie-biomasse-inaugur%C3%A9e-chez-saudel": {
             "title": "Une chaufferie biomasse inaugur\u00e9e chez Saudel -...",
             "snippet": "chaufferie biomasse inaugur\u00e9e chez 'engin, la chaudi\u00e8re biomasse, est impressionnant! Une machine de 12 t, disposant d'une r\u00e9serve de biomasse (d\u00e9chets de bois provenant de la fili\u00e8re locale) de 60 m3 permettant une autonomie de plusieurs...",
             "date": "2015-04-28",
             "categories": "biomasse",
-            "tags": "d\u00e9chets,chaudi\u00e8re,inaugur\u00e9e,chaufferie,biomasse,bois,locale",
+            "tags": "bois,chaudi\u00e8re,chaufferie,biomasse,d\u00e9chets,locale",
             "recuweb_url": "http://fr.recuweb.com/biomasse/ladepeche.fr/2015/04/une-chaufferie-biomasse-inaugur%C3%A9e-chez-saudel",
-            "resource_url": "http://news.google.fr/?hl=fr&q=biomasse%2Bbiomasse&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=biomasse&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/28/2095326-une-chaufferie-biomasse-inauguree-chez-saudel.html"
         },
         "lyonne.fr/2015/04/le-chantier-de-la-chaufferie-biomasse-termine-une-phase-spectaculaire-terrassement": {
@@ -30,16 +60,6 @@
             "recuweb_url": "http://fr.recuweb.com/biomasse/lyonne.fr/2015/04/le-chantier-de-la-chaufferie-biomasse-termine-une-phase-spectaculaire-terrassement",
             "resource_url": "http://www.bing.com/news/search?first=1&q=biomasse&format=RSS&cc=fr",
             "source_url": "http://lyonne.fr/yonne/actualite/pays/auxerrois/2015/04/22/le-chantier-de-la-chaufferie-biomasse-termine-une-phase-spectaculaire-de-terrassement_11413520.html"
-        },
-        "lelezard.com/2015/04/biomasse-foresti%C3%A8re-une-aide-financi%C3%A8re-de-pr%C3%A8s-800-000": {
-            "title": "Biomasse foresti\u00e8re - Une aide financi\u00e8re de pr\u00e8s de 800 000 pour Les Entreprises Claudelaine...",
-            "snippet": "QU\u00c9BEC, le 20 avril 2015/CNW Telbec/- Le ministre des For\u00eats, de la Faune et des Parcs et ministre responsable du Centre-du-Qu\u00e9bec, M. Laurent Lessard, annonce au nom du ministre de l'\u00c9nergie et des Ressources naturelles, ministre responsable du...",
-            "date": "2015-04-20",
-            "categories": "biomasse",
-            "tags": "biomasse,\u00e9nergie,ressources",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/lelezard.com/2015/04/biomasse-foresti%C3%A8re-une-aide-financi%C3%A8re-de-pr%C3%A8s-800-000",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=biomasse&format=RSS&cc=fr",
-            "source_url": "http://lelezard.com/communique-6785592.html"
         }
     }
 }
