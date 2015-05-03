@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "snowboard",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/snowboard/",
@@ -11,21 +11,21 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
     },
     "items": {
-        "beachbrother.com/2015/04/airblaster-board-games-2015-beach-brother": {
-            "title": "AIRBLASTER BOARD GAMES 2015 - Beach Brother...",
-            "snippet": "Beach BrotherAIRBLASTER BOARD GAMES 2015Beach BrotherSURF; SKATE; SNOWBOARD; LIFESTYLE; SHOPPING; JEU. Facebook Twitter RSS Instagram. Beachbrother - Magazine Surf, skate & snowboard./JEU CONCOURS NITRO CIRCUS LIVE. AIRBLASTER BOARD GAMES 2015. le...",
-            "date": "2015-04-28",
+        "beachbrother.com/2015/04/in-pursuit-of-slush-beach-brother": {
+            "title": "IN PURSUIT OF SLUSH - Beach Brother...",
+            "snippet": "Beach BrotherIN PURSUIT OF SLUSHBeach BrotherSURF; SKATE; SNOWBOARD; LIFESTYLE; SHOPPING; JEU. Facebook Twitter RSS Instagram. Beachbrother - Magazine Surf, skate & snowboard./JEU CONCOURS NITRO CIRCUS LIVE. IN PURSUIT OF SLUSH. le 30 avr 2015 par...",
+            "date": "2015-04-30",
             "categories": "surf,facebook,twitter,lifestyle",
-            "tags": "board,games",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/beachbrother.com/2015/04/airblaster-board-games-2015-beach-brother",
+            "tags": "board",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/beachbrother.com/2015/04/in-pursuit-of-slush-beach-brother",
             "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
-            "source_url": "http://beachbrother.com/2015/04/airblaster-board-games-2015/"
+            "source_url": "http://beachbrother.com/2015/04/in-pursuit-of-slush/"
         },
         "ledauphine.com/2015/04/snowboard-blessure-grimal-cest-pas-le-pied": {
             "title": "SNOWBOARD/BLESSURE Grimal, cest pas le pied...",
             "snippet": "La rideuse de Chamrousse souffre des deux pieds et devrait se diriger vers l'op\u00e9ration. Cl\u00e9mence Grimal sen serait bien pass\u00e9e. G\u00ean\u00e9e quotidiennement par des douleurs persistantes aux deux pieds, la m\u00e9daill\u00e9e de bronze en halfpipe lors des...",
             "date": "2015-04-28",
-            "tags": "deux,cest,board,halfpipe",
+            "tags": "board,halfpipe",
             "recuweb_url": "http://fr.recuweb.com/ledauphine.com/2015/04/snowboard-blessure-grimal-cest-pas-le-pied",
             "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
             "source_url": "http://ledauphine.com/skichrono/2015/04/27/grimal-c-est-pas-le-pied"
@@ -34,35 +34,17 @@
             "title": "Fin de saison sur les podiums pour les snowboarders ax\u00e9ens...",
             "snippet": "Le snowboard ari\u00e9geois a termin\u00e9 la saison par les Banks slaloms (trac\u00e9 de g\u00e9ant avec virages relev\u00e9s, ruptures de pente et sauts type boardercross) de Piau Engaly. Les membres de la Familha Snowboard, club de Guzet, et du Snowboard-Club Ax...",
             "date": "2015-04-27",
-            "tags": "saison,boarders,board",
+            "tags": "board",
             "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/fin-de-saison-sur-les-podiums-pour-snowboarders-ax%C3%A9ens",
             "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
             "source_url": "http://ladepeche.fr/article/2015/04/28/2095405-fin-de-saison-sur-les-podiums-pour-les-snowboarders-axeens.html"
-        },
-        "beachbrother.com/2015/04/the-impaler-video-montana": {
-            "title": "THE IMPALER VIDEO: MONTANA...",
-            "snippet": "Cest un peu comme un p\u00e8lerinage, un retour aux sources qui permet doublier la routine quotidienne! Un retour au snowboard quon aime, avec de la poudre, des potes et quelques bi\u00e8res! Les riders Micah Hoogeveen, Kael Martin, Kyle Miller...",
-            "date": "2015-04-27",
-            "tags": "cest,board,riders",
-            "recuweb_url": "http://fr.recuweb.com/beachbrother.com/2015/04/the-impaler-video-montana",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
-            "source_url": "http://beachbrother.com/2015/04/the-impaler-video-montana/"
-        },
-        "ladepeche.fr/2015/04/bons-d%C3%A9buts-des-riders-aux-championnats-de-france": {
-            "title": "Bons d\u00e9buts des riders aux championnats de France...",
-            "snippet": "Les r\u00e9sultats du groupe durant la saison sont bons. En coupe des Pyr\u00e9n\u00e9es, un circuit Snowboard Generation en dix \u00e9tapes, les jeunes du Couserans ont ramen\u00e9 deux titres de champion avec Naoya Pordi\u00e9 en microbe, Rapha\u00ebl Lafitte en benjamins...",
-            "date": "2015-04-26",
-            "tags": "deux,saison,riders,board",
-            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/04/bons-d%C3%A9buts-des-riders-aux-championnats-de-france",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
-            "source_url": "http://ladepeche.fr/article/2015/04/27/2094397-bons-debuts-des-riders-aux-championnats-de-france.html"
         },
         "france3-regions.francetvinfo.fr/2015/04/video-record-du-monde-de-vitesse-en-snowboard-203275-km-h": {
             "title": "VIDEO: record du Monde de Vitesse en Snowboard: 203275 km/h - Francetv info...",
             "snippet": "Francetv infoVIDEO: record du Monde de Vitesse en Snowboard: 203275 km/hFrancetv infoEdmond Plawczyk, ancien recordman du monde de vitesse en Snowboard reprend sa place d'homme le plus rapide dans cette cat\u00e9gorie. Bien que les conditions m\u00e9t\u00e9o...",
             "date": "2015-04-04",
             "categories": "place",
-            "tags": "vitesse,plawczyk,record,monde,board",
+            "tags": "monde,record,board",
             "recuweb_url": "http://fr.recuweb.com/place/france3-regions.francetvinfo.fr/2015/04/video-record-du-monde-de-vitesse-en-snowboard-203275-km-h",
             "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
             "source_url": "http://france3-regions.francetvinfo.fr/provence-alpes/2015/04/04/video-record-du-monde-de-vitesse-en-snowboard-203275-kmh-698073.html"
