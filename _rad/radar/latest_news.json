@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radar",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radar/",
@@ -11,85 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radar/radar/blogs.json"
     },
     "items": {
-        "20minutes.fr/2015/04/paris-le-p%C3%A9riph%C3%A9rique-soffre-deux-nouveaux-radars": {
-            "title": "Paris: Le p\u00e9riph\u00e9rique soffre deux nouveaux radars...",
-            "snippet": "Il y a d\u00e9sormais 18 radars sur le p\u00e9riph\u00e9rique parisien. Les abords de la sortie du quai dIvry (13e) se sont dot\u00e9s de deux nouveaux bo\u00eetiers, un dans chaque sens de circulation, rapporte Le Parisien ce mercredi. Des \u00e9quipements qui...",
-            "date": "2015-04-29",
+        "laliberte.ch/2015/05/a9-quatre-radars-sur-le-viaduc-de-chillon-et-un-fly": {
+            "title": "A9: quatre radars sur le viaduc de Chillon et un sur le fly-over...",
+            "snippet": "Quatre radars ont \u00e9t\u00e9 install\u00e9s sur le viaduc de Chillon (VD) et un sur le fly-over afin de garantir la s\u00e9curit\u00e9 des ouvriers sur les chantiers de l'A9. Des contr\u00f4les mobiles et discrets compl\u00e8tent le dispositif, avertit la police vaudoise.",
+            "date": "2015-05-01",
             "categories": "radar",
-            "tags": "parisien,deux,deux-nouveaux,p\u00e9riph\u00e9rique,paris,radars",
-            "recuweb_url": "http://fr.recuweb.com/radar/20minutes.fr/2015/04/paris-le-p%C3%A9riph%C3%A9rique-soffre-deux-nouveaux-radars",
+            "tags": "avertit,avertit-la-police,police,police-vaudoise,vaudoise,contr\u00f4les,contr\u00f4les-mobiles,mobiles,mobiles-et-discrets,discrets,discrets-compl\u00e8tent,compl\u00e8tent,compl\u00e8tent-le-dispositif,dispositif,garantir,garantir-la-s\u00e9curit\u00e9,s\u00e9curit\u00e9,s\u00e9curit\u00e9-des-ouvriers,ouvriers,chantiers,\u00e9t\u00e9,\u00e9t\u00e9-install\u00e9s,install\u00e9s,viaduc,fly,quatre,radars,chillon",
+            "recuweb_url": "http://fr.recuweb.com/radar/laliberte.ch/2015/05/a9-quatre-radars-sur-le-viaduc-de-chillon-et-un-fly",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
-            "source_url": "http://20minutes.fr/paris/1597959-20150429-paris-peripherique-offre-deux-nouveaux-radars"
+            "source_url": "http://laliberte.ch/news-agence/detail/a9-quatre-radars-sur-le-viaduc-de-chillon-et-un-sur-le-fly-over/283058"
         },
-        "france3-regions.francetvinfo.fr/2015/04/paris-toujours-plus-de-radars-sur-le-p%C3%A9riph": {
-            "title": "Paris: toujours plus de radars sur le p\u00e9riph...",
-            "snippet": "C'est notre confr\u00e8re Le Parisien qui l'annonce dans ses colonnes: la pr\u00e9fecture de police de Paris vient de faire installer deux nouveaux radars sur le p\u00e9riph\u00e9rique. Les deux machines se trouvent presque en face l'une de l'autre, sur le pont...",
-            "date": "2015-04-29",
+        "laliberte.ch/2015/05/les-radars-veillent-au-grain": {
+            "title": "Les radars veillent au grain...",
+            "snippet": "Quatre radars ont \u00e9t\u00e9 install\u00e9s sur le viaduc de Chillon et un sur le fly-over afin de garantir la s\u00e9curit\u00e9 des ouvriers sur les chantiers de lA9. Des contr\u00f4les mobiles et discrets compl\u00e8tent le dispositif, avertit la police vaudoise.",
+            "date": "2015-05-01",
             "categories": "radar",
-            "tags": "deux,p\u00e9riph\u00e9rique,deux-nouveaux,police,paris,radars,parisien",
-            "recuweb_url": "http://fr.recuweb.com/radar/france3-regions.francetvinfo.fr/2015/04/paris-toujours-plus-de-radars-sur-le-p%C3%A9riph",
+            "tags": "avertit,avertit-la-police,police,police-vaudoise,vaudoise,contr\u00f4les,contr\u00f4les-mobiles,mobiles,mobiles-et-discrets,discrets,discrets-compl\u00e8tent,compl\u00e8tent,compl\u00e8tent-le-dispositif,dispositif,garantir,garantir-la-s\u00e9curit\u00e9,s\u00e9curit\u00e9,s\u00e9curit\u00e9-des-ouvriers,ouvriers,chantiers,fly,\u00e9t\u00e9,\u00e9t\u00e9-install\u00e9s,install\u00e9s,viaduc,radars,quatre,chillon",
+            "recuweb_url": "http://fr.recuweb.com/radar/laliberte.ch/2015/05/les-radars-veillent-au-grain",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
-            "source_url": "http://france3-regions.francetvinfo.fr/paris-ile-de-france/2015/04/29/paris-toujours-plus-de-radars-sur-le-periph-714577.html"
+            "source_url": "http://laliberte.ch/news/international/les-radars-veillent-au-grain-283149"
         },
-        "dhnet.be/2015/04/pas-de-radar-tron%C3%A7on-avant-2016-en-wallonie": {
-            "title": "Pas de radar-tron\u00e7on avant 2016 en Wallonie -...",
-            "snippet": "de radar-tron\u00e7on avant 2016 en \"Une enveloppe de 1,750 million d'euros est r\u00e9serv\u00e9e sur le budget de cette ann\u00e9e 2015 pour le placement de radars. Au vu du nombre des demandes identifi\u00e9es, il s'agira essentiellement de l'implantation de radars...",
-            "date": "2015-04-29",
+        "lavoixdunord.fr/2015/04/aubers-la-commune-se-dote-de-son-premier-radar-p%C3%A9dagogique-voix": {
+            "title": "Aubers: la commune se dote de son premier radar p\u00e9dagogique - La Voix du Nord...",
+            "snippet": "La Voix du NordAubers: la commune se dote de son premier radar p\u00e9dagogiqueLa Voix du NordIl \u00e9tait attendu depuis plusieurs ann\u00e9es. C'est chose faite d\u00e9sormais. Un radar p\u00e9dagogique (le premier dans la commune) a \u00e9t\u00e9 install\u00e9 rue des...",
+            "date": "2015-04-30",
             "categories": "radar",
-            "tags": "radars",
-            "recuweb_url": "http://fr.recuweb.com/radar/dhnet.be/2015/04/pas-de-radar-tron%C3%A7on-avant-2016-en-wallonie",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radar&output=atom&nord=1",
-            "source_url": "http://dhnet.be/actu/faits/pas-de-radar-troncon-avant-2016-en-wallonie-553fb27a3570fde9b2f44947"
+            "tags": "\u00e9t\u00e9,premier,radar",
+            "recuweb_url": "http://fr.recuweb.com/radar/lavoixdunord.fr/2015/04/aubers-la-commune-se-dote-de-son-premier-radar-p%C3%A9dagogique-voix",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radar%2Bradar&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/aubers-la-commune-se-dote-de-son-premier-radar-pedagogique-ia21b49747n2802341"
         },
-        "lejdc.fr/2015/04/la-police-municipale-de-cosne-met-en-place-un-radar": {
-            "title": "La police municipale de Cosne met en place un radar...",
-            "snippet": "Pr\u00e9vention et r\u00e9pression. Avec leur nouvel appareil-radar, le cin\u00e9mom\u00e8tre, les policiers municipaux seront sur le terrain lundi 4 mai. L'appareil-radar en fonction lundi 4 mai Rue de Donzy, rue du colonel Rabier, rue Lafayette, rue des Fr\u00e8res...",
-            "date": "2015-04-28",
-            "categories": "place,radar",
-            "tags": "seront,police,radar",
-            "recuweb_url": "http://fr.recuweb.com/radar/lejdc.fr/2015/04/la-police-municipale-de-cosne-met-en-place-un-radar",
+        "news.autoplus.fr/2015/04/les-jumelles-radar-fixe-ou-mobile": {
+            "title": "Les jumelles: radar fixe ou mobile?",
+            "snippet": "Cette semaine dans la Minute Anti-PV, Lo\u00efc demande s'il peut contester un PV sur lequel est not\u00e9 radar fixe alors qu'il a \u00e9t\u00e9 flash\u00e9 aux jumelles. Chaque vendredi dans la rubrique Minute Anti-PV, notre sp\u00e9cialiste du droit routier Pascale...",
+            "date": "2015-04-30",
+            "categories": "radar",
+            "tags": "routier,\u00e9t\u00e9,jumelles,fixe,not\u00e9,contester,demande,anti,fixe-ou-mobile,mobile,radar",
+            "recuweb_url": "http://fr.recuweb.com/radar/news.autoplus.fr/2015/04/les-jumelles-radar-fixe-ou-mobile",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
-            "source_url": "http://lejdc.fr/nievre/actualite/pays/val-de-loire/2015/04/28/la-police-municipale-de-cosne-met-en-place-un-radar_11421833.html"
-        },
-        "lavoixdunord.fr/2015/04/obrechies-teste-le-radar-p%C3%A9dagogique-la-voix-du-nord": {
-            "title": "Obrechies teste le radar p\u00e9dagogique - La Voix du Nord...",
-            "snippet": "La Voix du NordObrechies teste le radar p\u00e9dagogiqueLa Voix du NordCe radar provisoire est pr\u00eat\u00e9 par la Communaut\u00e9 d'agglom\u00e9ration Maubeuge val de Sambre. Les donn\u00e9es seront analys\u00e9es, indique le maire. L'objectif est d'am\u00e9liorer la...",
-            "date": "2015-04-28",
-            "categories": "radar",
-            "tags": "seront,radar",
-            "recuweb_url": "http://fr.recuweb.com/radar/lavoixdunord.fr/2015/04/obrechies-teste-le-radar-p%C3%A9dagogique-la-voix-du-nord",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radar&output=atom&nord=1",
-            "source_url": "http://lavoixdunord.fr/region/obrechies-teste-le-radar-pedagogique-ia23b44391n2799081"
+            "source_url": "http://news.autoplus.fr/news/1493353/PV-exc\u00e8s-de-vitesse-radar-laser-pistolet-jumelles"
         },
         "zoomdici.fr/2015/04/sembadel-le-radar-m%C3%A9t%C3%A9orologique-occult%C3%A9-par-un-masque-forestier": {
             "title": "Sembadel: le radar m\u00e9t\u00e9orologique occult\u00e9 par un masque forestier -...",
             "snippet": "Sembadel: le radar m\u00e9t\u00e9orologique occult\u00e9 par un masque radar m\u00e9t\u00e9orologique de Sembadel, d'une port\u00e9e de 200 km, rev\u00eat une importance de premier plan en terme de s\u00e9curit\u00e9 civile pour le territoire, notamment pour les pr\u00e9visions de crues...",
             "date": "2015-04-28",
             "categories": "radar",
-            "tags": "s\u00e9curit\u00e9,radar",
+            "tags": "premier,s\u00e9curit\u00e9,radar",
             "recuweb_url": "http://fr.recuweb.com/radar/zoomdici.fr/2015/04/sembadel-le-radar-m%C3%A9t%C3%A9orologique-occult%C3%A9-par-un-masque-forestier",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radar&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radar%2Bradar&output=atom&nord=1",
             "source_url": "http://zoomdici.fr/actualite/Sembadel-le-radar-meteorologique-occulte-par-un-masque-forestier-id143597.html"
         },
         "abcmoteur.fr/2015/04/voici-les-voitures-radar-pour-vous-verbaliser-incognito": {
             "title": "Voici les voitures radar pour vous verbaliser incognito...",
             "snippet": "Depuis 2013, la S\u00e9curit\u00e9 Routi\u00e8re a un nouveau jouet qui se montre redoutable: les radars mobiles mobiles. Ces radars embarqu\u00e9s de nouvelle g\u00e9n\u00e9ration (RMNG) ont pour but de ne pas se faire remarquer des automobilistes afin de flasher sans...",
-            "date": "2015-04-27",
+            "date": "2015-04-26",
             "categories": "radar",
-            "tags": "automobi,s\u00e9curit\u00e9,routi\u00e8re,voici,radars",
+            "tags": "automobi,mobiles,s\u00e9curit\u00e9,routi\u00e8re,voici,radars",
             "recuweb_url": "http://fr.recuweb.com/radar/abcmoteur.fr/2015/04/voici-les-voitures-radar-pour-vous-verbaliser-incognito",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
             "source_url": "http://abcmoteur.fr/pratique/tous-les-modeles-de-voiture-radar-invisible/"
         },
-        "lamontagne.fr/2015/04/les-sapins-perturbent-le-radar-m%C3%A9t%C3%A9o": {
-            "title": "Les sapins perturbent le radar m\u00e9t\u00e9o...",
-            "snippet": "Exploitant le principe de la r\u00e9tro diffusion d'une onde radio\u00e9lectrique par les gouttes d'eau, les radars m\u00e9t\u00e9orologiques permettent de localiser les zones de pr\u00e9cipitations et d'en \u00e9valuer leur intensit\u00e9. Les radars d\u00e9tectent les...",
-            "date": "2015-04-26",
+        "ladepeche.fr/2015/04/matabiau-le-jackpot-du-radar-feu-rouge": {
+            "title": "Matabiau: le jackpot du radar feu rouge -...",
+            "snippet": ": le jackpot du radar feu est la ville fran\u00e7aise poss\u00e9dant le plus grand nombre de radars feu rouge, avec 15 installations. Si aucune nouvelle implantation de ces radars dans la Ville rose n'est pr\u00e9vue en 2015, c'est sans doute parce que l'un...",
+            "date": "2015-04-06",
             "categories": "radar",
-            "tags": "radars",
-            "recuweb_url": "http://fr.recuweb.com/radar/lamontagne.fr/2015/04/les-sapins-perturbent-le-radar-m%C3%A9t%C3%A9o",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radar&format=RSS&cc=fr",
-            "source_url": "http://lamontagne.fr/auvergne/actualite/2015/04/27/les-sapins-perturbent-le-radar-meteo_11420250.html"
+            "tags": "feu,feu-rouge,rouge,radars",
+            "recuweb_url": "http://fr.recuweb.com/radar/ladepeche.fr/2015/04/matabiau-le-jackpot-du-radar-feu-rouge",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radar%2Bradar&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/04/06/2081701-matabiau-le-radar-feu-jackpot.html"
         }
     }
 }
