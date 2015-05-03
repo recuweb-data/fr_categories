@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
+        "remixjobs.com/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f-paris-accommodata": {
+            "title": "D\u00e9veloppeur Confirm\u00e9 Drupal 7 H/F - Paris - ACCOMMODATA...",
+            "snippet": "Notre structure Accommodata d\u00e9veloppe depuis plus de 2 ans un CRM sur Drupal 7. Le lancement est pr\u00e9vu pour le 1er Janvier 2016, avec une version Beta au 31 septembre 2014. Notre outil regroupe un grand nombre de...",
+            "date": "2015-04-23",
+            "author_name": "inconnu",
+            "categories": "drupal",
+            "tags": "outil,lancement,lancement-est-pr\u00e9vu,pr\u00e9vu,d\u00e9veloppe,d\u00e9veloppeur,d\u00e9veloppeur_confirm\u00e9,d\u00e9veloppeur_confirm\u00e9_drupal,confirm\u00e9,confirm\u00e9_drupal,drupal,paris,accommodata,structure,crm,janvier,version,beta,septembre",
+            "recuweb_url": "http://fr.recuweb.com/drupal/remixjobs.com/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f-paris-accommodata",
+            "resource_url": "http://www.google.com/search?q=drupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://remixjobs.com/emploi/Developpement/Developpeur-Confirme-Drupal-7-H-F/30089"
+        },
         "blog.netapsys.fr/2015/04/drupal-8-partie-1-les-nouvelles-fonctionnalit%C3%A9s-le-blog-netapsys": {
             "title": "Drupal 8 partie 1: les nouvelles fonctionnalit\u00e9s Le blog Netapsys...",
             "snippet": "Drupal 8, actuellement en beta 9, devrait sortir en version stable cet \u00e9t\u00e9. La version actuelle se rapproche donc fortement du produit final. Nous pouvons donc examiner sans plus attendre ce que nous r\u00e9serve le nouveau...",
             "date": "2015-04-22",
             "author_name": "Alexis Ravel",
             "categories": "drupal",
-            "tags": "actuelle,beta,drupal,version,\u00e9t\u00e9",
+            "tags": "actuelle,beta,fonctionnalit\u00e9s,drupal,version,\u00e9t\u00e9",
             "recuweb_url": "http://fr.recuweb.com/drupal/blog.netapsys.fr/2015/04/drupal-8-partie-1-les-nouvelles-fonctionnalit%C3%A9s-le-blog-netapsys",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.netapsys.fr/drupal-8-partie-1-les-nouvelles-fonctionnalites-2/"
@@ -28,21 +39,21 @@
             "date": "2015-04-20",
             "author_name": "M\u00e9lanie Olivier",
             "categories": "drupal",
-            "tags": "drupal",
+            "tags": "drupal,developer",
             "recuweb_url": "http://fr.recuweb.com/drupal/blog.kaliop.com/2015/04/les-meilleures-moments-du-drupal-developer-days-2015",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.kaliop.com/blog/2015/04/20/les-meilleurs-moments-drupal-developer-days/"
         },
-        "webmaster-hub.com/2015/03/drupal-multilinguisme-et-wamp-syst%C3%A8mes-de-publication": {
-            "title": "Drupal, multilinguisme et wamp - Syst\u00e8mes de publication...",
-            "snippet": "Drupal, multilinguisme et wamp - post\u00e9 dans Syst\u00e8mes de publication: Bonjour, Mon probl\u00e8me: avec Drupal 7 et tous les modules qui vont avec, notamment ceux permettant le multilinguisme, jai une extension.fr pour le...",
-            "date": "2015-03-23",
-            "author_name": "inconnu",
+        "core-techs.fr/2014/12/le-blog-de-core-techs": {
+            "title": "Le blog de Core-Techs Core-Techs...",
+            "snippet": "L'impact de Drupal 8 sur vos projets: Comment et quand utiliser Symfony, comment utiliser les API et les Webservices, quels impacts du nouveau moteur de template Twig, Drupal 7 ou Drupal 8? Quand faut-il migrer...",
+            "date": "2014-12-17",
+            "author_name": "Marine",
             "categories": "drupal",
-            "tags": "modules,drupal,syst\u00e8mes,notamment",
-            "recuweb_url": "http://fr.recuweb.com/drupal/webmaster-hub.com/2015/03/drupal-multilinguisme-et-wamp-syst%C3%A8mes-de-publication",
+            "tags": "core,techs,drupal,projets,symfony,api,twig",
+            "recuweb_url": "http://fr.recuweb.com/drupal/core-techs.fr/2014/12/le-blog-de-core-techs",
             "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://webmaster-hub.com/topic/55697-drupal-multilinguisme-et-wamp/"
+            "source_url": "http://core-techs.fr/blog/sortie-du-portail-muzeofr"
         },
         "ciblewebformations.wordpress.com/2014/11/8-extensions-drupal-incontournables-jdn-web-&-tech-ex": {
             "title": "8 extensions Drupal incontournables - JDN Web & Tech; 8 ex...",
@@ -55,13 +66,24 @@
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://ciblewebformations.wordpress.com/2014/11/28/8-extensions-drupal-incontournables-jdn-web-tech-httpift-tt1rwom0b-8-ex/"
         },
+        "ciblewebformations.wordpress.com/2014/11/8-extensions-drupal-incontournables-jdn-web-&-tech": {
+            "title": "8 extensions Drupal incontournables - JDN Web & Tech...",
+            "snippet": "8 extensions Drupal incontournables - JDN Web & Tech extensions Drupal incontournables - JDN Web & Tech V\u00eda CibleWeb Formations - Google Posts...",
+            "date": "2014-11-28",
+            "author_name": "Cibleweb formations",
+            "categories": "drupal,google",
+            "tags": "jdn,jdn_web,web,extensions,drupal,incontournables,tech",
+            "recuweb_url": "http://fr.recuweb.com/google/ciblewebformations.wordpress.com/2014/11/8-extensions-drupal-incontournables-jdn-web-&-tech",
+            "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
+            "source_url": "http://ciblewebformations.wordpress.com/2014/11/28/8-extensions-drupal-incontournables-jdn-web-tech-httpow-lyeqefm/"
+        },
         "wmn24.wordpress.com/2014/11/les-8-extensions-drupal-incontournables": {
             "title": "Les 8 extensions Drupal incontournables...",
             "snippet": "Si Drupal est l'un des CMS open source les plus populaires, il ne d\u00e9montre toute sa puissance qu'au travers des nombreux modules que sa communaut\u00e9 a d\u00e9velopp\u00e9s. []...",
             "date": "2014-11-24",
             "author_name": "la r\u00e9daction",
             "categories": "drupal",
-            "tags": "modules,communaut\u00e9,extensions,drupal,incontournables,cms,open,source",
+            "tags": "modules,open,open-source,source,extensions,drupal,incontournables,cms",
             "recuweb_url": "http://fr.recuweb.com/drupal/wmn24.wordpress.com/2014/11/les-8-extensions-drupal-incontournables",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://wmn24.wordpress.com/2014/11/24/les-8-extensions-drupal-incontournables/"
@@ -77,16 +99,27 @@
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
             "source_url": "http://ciblewebformations.wordpress.com/2014/11/10/10-distributions-drupal-pour-creer-votre-site-jdn-web-tech-httpow-lyd/"
         },
-        "weickmann.wordpress.com/2014/03/mars-2014-meetup-drupal": {
-            "title": "Mars 2014: Meetup Drupal...",
-            "snippet": "Meetup DrupalJeudi 27 mars 2014, le Meetup Drupal r\u00e9unissait ses utilisateurs. Cyril nous a de nouveau montrer quelques caract\u00e9ristiques de la future version 8 du CMS, beaucoup de []...",
-            "date": "2014-03-30",
-            "author_name": "weickmann",
-            "categories": "drupal",
-            "tags": "drupal,version,cms",
-            "recuweb_url": "http://fr.recuweb.com/drupal/weickmann.wordpress.com/2014/03/mars-2014-meetup-drupal",
+        "ciblewebformations.wordpress.com/2014/10/wordpress-drupal-et-joomla-les-attentes-des-communaut%C3%A9s-at": {
+            "title": "WordPress, Drupal et Joomla: les attentes des communaut\u00e9s: WordPress: les at...",
+            "snippet": "WordPress, Drupal et Joomla: les attentes des communaut\u00e9s: WordPress: les attentes de la communaut\u00e9 - JDN Web & Tech - WordPress, Drupal []...",
+            "date": "2014-10-10",
+            "author_name": "Cibleweb formations",
+            "categories": "wordpress,drupal,joomla",
+            "tags": "jdn,jdn_web,web,wordpress,drupal,tech",
+            "recuweb_url": "http://fr.recuweb.com/joomla/ciblewebformations.wordpress.com/2014/10/wordpress-drupal-et-joomla-les-attentes-des-communaut%C3%A9s-at",
             "resource_url": "http://fr.search.wordpress.com/?q=drupal%2Bdrupal&f=feed&page=1",
-            "source_url": "http://weickmann.wordpress.com/2014/03/30/mars-2014-meetup-drupal/"
+            "source_url": "http://ciblewebformations.wordpress.com/2014/10/10/wordpress-drupal-et-joomla-les-attentes-des-communautes-wordpress-les-at/"
+        },
+        "core-techs.fr/2014/06/les-nouveaut%C3%A9s-de-drupal-8-core-techs": {
+            "title": "Les nouveaut\u00e9s de Drupal 8! Core-Techs...",
+            "snippet": "Tout d\u00e9veloppeur utilisant r\u00e9guli\u00e8rement Drupal vous dira que certains modules, permettant d'ajouter des fonctionnalit\u00e9s avec une simple installation, sont devenus incontournables et int\u00e9gr\u00e9s sur la quasi-totalit\u00e9 des sites.",
+            "date": "2014-06-12",
+            "author_name": "Romain Letremy",
+            "categories": "drupal",
+            "tags": "incontournables,fonctionnalit\u00e9s,modules,drupal,core,techs,d\u00e9veloppeur,ajouter,installation",
+            "recuweb_url": "http://fr.recuweb.com/drupal/core-techs.fr/2014/06/les-nouveaut%C3%A9s-de-drupal-8-core-techs",
+            "resource_url": "http://www.google.com/search?q=drupal%2Bdrupal&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://core-techs.fr/blog/nouveautes-drupal-8"
         }
     }
 }
