@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "art-environnemental",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/art-environnemental/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-environnemental/art-environnemental/blogs.json"
     },
     "items": {
+        "youtube.com/2015/04/mireille-fulpius-en-r%C3%A9sidence-au-coll%C3%A8ge-victor-hugo-de-caudebec-caux": {
+            "title": "Mireille Fulpius en r\u00e9sidence au coll\u00e8ge Victor Hugo de Caudebec en Caux. OEUVRE FINALE...",
+            "snippet": "Mireille Fulpius en r\u00e9sidence au coll\u00e8ge Victor Hugo de Caudebec en Caux. OEUVRE FINALE Au coll\u00e8ge Victor Hugo de Caudebec en Caux, en pr\u00e9figuration de la manifestation d'art contemporain environnemental A ciel ouvert qui aura lieu \u00e0 l'Abbaye...",
+            "date": "2015-04-21",
+            "author_name": "D\u00e9partement de Seine-Maritime",
+            "tags": "art,environnemental",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2015/04/mireille-fulpius-en-r%C3%A9sidence-au-coll%C3%A8ge-victor-hugo-de-caudebec-caux",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=OMHCxAAUoR8&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/OMHCxAAUoR8/0.jpg"
+        },
         "youtube.com/2014/03/la-question-environnementale-dans-cr%C3%A9ation-artistique-interview-de-lorenzo-fiaschi": {
             "title": "La question environnementale dans la cr\u00e9ation artistique//Interview de Lorenzo Fiaschi...",
             "snippet": "La question environnementale dans la cr\u00e9ation artistique//Interview de Lorenzo Fiaschi Le collectif Dans Quelle Vie Tu Monde(s) (DQVTM) vous pr\u00e9sente la 5\u00e8me des 6 parties de l'interview de Lorenzo Fiaschi, co-fondateur de la Galleria Continua,...",
@@ -116,17 +127,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=YnKmR7fPsjw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/YnKmR7fPsjw/0.jpg"
-        },
-        "youtube.com/2012/02/rencontres-de-l-affichage-environnemental-nantes-janvier-2012": {
-            "title": "Rencontres de l'Affichage Environnemental - Nantes - Janvier 2012...",
-            "snippet": "Rencontres de l'Affichage Environnemental - Nantes - Janvier 2012 Ev\u00e9nement organis\u00e9 par EVEA, Terra 21 et EVEA Tourisme au Lieu Unique. R\u00e9alisation vid\u00e9o: L'Art en bo\u00eete -. From: L'art en bo\u00eete Views: 95 2 ratings Time: 04:57 More in News &...",
-            "date": "2012-02-11",
-            "author_name": "L'art en bo\u00eete",
-            "tags": "art,environnemental",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/02/rencontres-de-l-affichage-environnemental-nantes-janvier-2012",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=art%2Benvironnemental%2Bart%2Benvironnemental&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=JPt0phicu1o&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/JPt0phicu1o/0.jpg"
         }
     }
 }
