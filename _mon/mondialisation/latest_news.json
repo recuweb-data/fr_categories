@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mondialisation",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mondialisation/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mondialisation/mondialisation/blogs.json"
     },
     "items": {
+        "monde-diplomatique.fr/2015/04/la-langue-fran%C3%A7aise-une-arme-d-%C3%A9quilibre-de-mondialisation-monde-diplomatique": {
+            "title": "La langue fran\u00e7aise: une arme d'\u00e9quilibre de la mondialisation - Monde Diplomatique...",
+            "snippet": "La langue fran\u00e7aise: une arme d'\u00e9quilibre de la mondialisationMonde DiplomatiqueSp\u00e9cialistes de g\u00e9opolitique, Yves Montenay et Damien Soupart abordent la question de la francophonie sous un angle nouveau: pourquoi, malgr\u00e9 un pass\u00e9 glorieux,...",
+            "date": "2015-04-30",
+            "categories": "mondialisation",
+            "tags": "question,monde,fran\u00e7aise,mondialisation",
+            "recuweb_url": "http://fr.recuweb.com/mondialisation/monde-diplomatique.fr/2015/04/la-langue-fran%C3%A7aise-une-arme-d-%C3%A9quilibre-de-mondialisation-monde-diplomatique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation&output=atom&nord=1",
+            "source_url": "http://monde-diplomatique.fr/2015/05/LAPEYROUX/52940"
+        },
         "frontnational.com/2015/04/gdf-suez-rebaptis%C3%A9-engie-la-mondialisation-jusque-dans-les-mots": {
             "title": "GDF - Suez rebaptis\u00e9 Engie: la mondialisation jusque dans les mots...",
             "snippet": "Les dirigeants du groupe GDF Suez ont annonc\u00e9 vendredi dernier le changement de nom de leur groupe pour le rebaptiser Engie, sans quaucune op\u00e9ration de cession ou dacquisition ne le justifie en modifiant le p\u00e9rim\u00e8tre ou la nature de ses...",
             "date": "2015-04-28",
             "categories": "nature,mondialisation",
-            "tags": "mots,mondialisation",
+            "tags": "mondialisation",
             "recuweb_url": "http://fr.recuweb.com/mondialisation/frontnational.com/2015/04/gdf-suez-rebaptis%C3%A9-engie-la-mondialisation-jusque-dans-les-mots",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mondialisation&format=RSS&cc=fr",
             "source_url": "http://frontnational.com/2015/04/gdf-suez-rebaptise-engie-la-mondialisation-jusque-dans-les-mots/"
@@ -26,20 +36,10 @@
             "snippet": "1er Mai, recherche, \u00e9ducation, mondialisation... (II)Courrier International Blogs (Blog)A l'approche du 1er Mai, un \u00e9tonnant silence r\u00e8gne dans les textes intersyndicaux en ce qui concerne la mondialisation du capitalisme, la strat\u00e9gie de...",
             "date": "2015-04-27",
             "categories": "capitalisme,mondialisation",
-            "tags": "capitalisme,silence,international,mai,recherche,\u00e9ducation,mondialisation",
+            "tags": "capitalisme,silence,mai,recherche,\u00e9ducation,mondialisation",
             "recuweb_url": "http://fr.recuweb.com/mondialisation/science21.blogs.courrierinternational.com/2015/04/1er-mai-recherche-%C3%A9ducation-mondialisation-ii-courrier-international-blogs-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation%2Bmondialisation&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation&output=atom&nord=1",
             "source_url": "http://science21.blogs.courrierinternational.com/archive/2015/04/26/1er-mai-recherche-education-mondialisation-ii-50844.html"
-        },
-        "letelegramme.fr/2015/04/conf%C3%A9rence-le-japon-dans-la-mondialisation-ib%C3%A9rique-demain-t%C3%A9l%C3%A9gramme": {
-            "title": "Conf\u00e9rence. Le Japon dans la mondialisation ib\u00e9rique demain - Le T\u00e9l\u00e9gramme...",
-            "snippet": "Conf\u00e9rence. Le Japon dans la mondialisation ib\u00e9rique demainLe T\u00e9l\u00e9grammeCe ph\u00e9nom\u00e8ne de mondialisation, dans lequel fut pris le Japon, fut cependant source de tensions entre les Portugais, install\u00e9s en Inde, et les Espagnols de Manille: la...",
-            "date": "2015-04-27",
-            "categories": "mondialisation",
-            "tags": "mondialisation",
-            "recuweb_url": "http://fr.recuweb.com/mondialisation/letelegramme.fr/2015/04/conf%C3%A9rence-le-japon-dans-la-mondialisation-ib%C3%A9rique-demain-t%C3%A9l%C3%A9gramme",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation%2Bmondialisation&output=atom&nord=1",
-            "source_url": "http://letelegramme.fr/morbihan/lorient/conference-le-japon-dans-la-mondialisation-iberique-demain-27-04-2015-10609141.php"
         },
         "science21.blogs.courrierinternational.com/2015/04/1er-mai-recherche-%C3%A9ducation-mondialisation": {
             "title": "1er Mai, recherche, \u00e9ducation, mondialisation... (I)...",
@@ -56,9 +56,9 @@
             "snippet": "Le FigaroLa mondialisation du commerce marque un coup d'arr\u00eat selon le...Le FigaroLe pot de yaourt est devenu l'un des objets symboles de la mondialisation. Il lui faut parcourir des milliers de kilom\u00e8tres pour aller du pis de la vache fran\u00e7aise...",
             "date": "2015-04-20",
             "categories": "mondialisation",
-            "tags": "vache,commerce,marque,mondialisation",
+            "tags": "vache,fran\u00e7aise,commerce,marque,mondialisation",
             "recuweb_url": "http://fr.recuweb.com/mondialisation/lefigaro.fr/2015/04/la-mondialisation-du-commerce-marque-un-coup-d-arr%C3%AAt-selon",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation%2Bmondialisation&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation&output=atom&nord=1",
             "source_url": "http://lefigaro.fr/conjoncture/2015/04/20/20002-20150420ARTFIG00062-la-mondialisation-du-commerce-marque-un-coup-d-arret-selon-le-fmi-et-l-omc.php"
         },
         "finance.blog.lemonde.fr/2015/04/la-mondialisation-financi%C3%A8re-est-elle-incontr%C3%B4lable": {
@@ -71,15 +71,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=mondialisation&format=RSS&cc=fr",
             "source_url": "http://finance.blog.lemonde.fr/2015/04/20/la-mondialisation-financiere-est-elle-incontrolable/"
         },
-        "latribune.fr/2015/04/la-mondialisation-booste-l-industrie-du-cin%C3%A9ma-en-ile-de-france": {
-            "title": "La mondialisation booste l'industrie du cin\u00e9ma en Ile-de-France - La...",
-            "snippet": "La mondialisation booste l'industrie du cin\u00e9ma en Ile-de-FranceLa audiovisuelle La s\u00e9rie Versailles pour Canal est l'une des rares productions visant l'international (Cr\u00e9dits: Canal) Jean-Pierre Gonguet 18/04/2015, 9:00 - 801 mots La production...",
-            "date": "2015-04-18",
+        "lesechos.fr/2015/04/royaume-uni-la-mondialisation-sans-peine-les-%C3%A9chos": {
+            "title": "Royaume-Uni: la mondialisation sans peine - Les \u00c9chos...",
+            "snippet": "Les \u00c9chosRoyaume-Uni: la mondialisation sans peineLes \u00c9chosDe quoi attirer les joueurs stars et favoriser ses ambitions europ\u00e9ennes. Revers de la m\u00e9daille: l'\u00e9quipe d'Angleterre fait ple figure. Retrouvez l'int\u00e9gralit\u00e9 de l'enqu\u00eate de 40...",
+            "date": "2015-04-03",
             "categories": "mondialisation",
-            "tags": "mondialisation,france,international,mots",
-            "recuweb_url": "http://fr.recuweb.com/mondialisation/latribune.fr/2015/04/la-mondialisation-booste-l-industrie-du-cin%C3%A9ma-en-ile-de-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation%2Bmondialisation&output=atom&nord=1",
-            "source_url": "http://latribune.fr/technos-medias/medias/la-mondialisation-booste-l-industrie-du-cinema-en-ile-de-france-470073.html"
+            "tags": "mondialisation",
+            "recuweb_url": "http://fr.recuweb.com/mondialisation/lesechos.fr/2015/04/royaume-uni-la-mondialisation-sans-peine-les-%C3%A9chos",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mondialisation&output=atom&nord=1",
+            "source_url": "http://lesechos.fr/enjeux/dossiers/Angleterre-economie/index.php"
         }
     }
 }
