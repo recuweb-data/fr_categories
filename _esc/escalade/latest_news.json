@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "escalade",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/escalade/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/escalade/escalade/blogs.json"
     },
     "items": {
-        "sudouest.fr/2015/04/la-rochelle-le-mur-d-escalade-se-construit-au-dessus": {
-            "title": "La Rochelle: le mur d'escalade se construit au-dessus du bassin... - Sud Ouest...",
-            "snippet": "Sud OuestLa Rochelle: le mur d'escalade se construit au-dessus du bassin...Sud OuestLe succ\u00e8s de la premi\u00e8re \u00e9dition d'une comp\u00e9tition d'escalade organis\u00e9e au-dessus du bassin des Chalutiers est de bon augure pour les organisateurs rochelais.",
-            "date": "2015-04-22",
+        "adiac-congo.com/2015/05/burundi-l-onu-s-inqui%C3%A8te-de-escalade-la-r%C3%A9pression-agence-d": {
+            "title": "Burundi: l'ONU s'inqui\u00e8te de l'escalade de la r\u00e9pression... - Agence d'Information d'Afrique...",
+            "snippet": "Burundi: l'ONU s'inqui\u00e8te de l'escalade de la r\u00e9pression...Agence d'Information d'Afrique Centrale\u00c0 l'approche du lancement de la campagne \u00e9lectorale, qui doit commencer officiellement dans quelques jours, le Haut-Commissariat des Nations unies...",
+            "date": "2015-05-02",
             "categories": "escalade",
-            "tags": "mur,escalade",
-            "recuweb_url": "http://fr.recuweb.com/escalade/sudouest.fr/2015/04/la-rochelle-le-mur-d-escalade-se-construit-au-dessus",
+            "tags": "escalade,haut",
+            "recuweb_url": "http://fr.recuweb.com/escalade/adiac-congo.com/2015/05/burundi-l-onu-s-inqui%C3%A8te-de-escalade-la-r%C3%A9pression-agence-d",
             "resource_url": "http://news.google.fr/?hl=fr&q=escalade&output=atom&nord=1",
-            "source_url": "http://sudouest.fr/2015/04/22/la-rochelle-le-mur-d-escalade-se-construit-au-dessus-du-bassin-des-chalutiers-1900090-1391.php"
+            "source_url": "http://adiac-congo.com/content/burundi-lonu-sinquiete-de-lescalade-de-la-repression-gouvernementale-31718"
+        },
+        "liberation.fr/2015/04/la-fable-du-cannabis-escalade-vers-d-autres-drogues-lib%C3%A9ration": {
+            "title": "La fable du cannabis, escalade vers d'autres drogues - Lib\u00e9ration...",
+            "snippet": "La fable du cannabis, escalade vers d'autres droguesLib\u00e9rationIl est vrai que de nombreux h\u00e9ro\u00efnomanes ont consomm\u00e9 auparavant d'autres drogues, alcool ou cannabis compris. Mais cela n'implique pas que les consommateurs de cannabis vont tous...",
+            "date": "2015-04-28",
+            "categories": "escalade",
+            "tags": "autres,escalade",
+            "recuweb_url": "http://fr.recuweb.com/escalade/liberation.fr/2015/04/la-fable-du-cannabis-escalade-vers-d-autres-drogues-lib%C3%A9ration",
+            "resource_url": "http://news.google.fr/?hl=fr&q=escalade%2Bescalade&output=atom&nord=1",
+            "source_url": "http://liberation.fr/societe/2015/04/28/la-fable-du-cannabis-escalade-vers-d-autres-drogues_1274325"
         }
     }
 }
