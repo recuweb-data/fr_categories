@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "culture-populaire",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture-populaire/",
@@ -11,6 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture-populaire/culture-populaire/blogs.json"
     },
     "items": {
+        "lyon-info.fr/2015/05/a-la-d%C3%A9couverte-de-mondes-inconnus": {
+            "title": "A la d\u00e9couverte de mondes inconnus...",
+            "snippet": "Comme cette projection dun extrait de la musique Happy and Free (Boo Junfeng), issue de la culture populaire singapourienne - dirait-on kitsch qui nest pas sans rappeler les musiques traditionnelles fran\u00e7aises dun Claude Fran\u00e7ois.",
+            "date": "2015-05-02",
+            "categories": "musique,culture",
+            "tags": "musiques,musiques-traditionnelles,traditionnelles,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/culture/lyon-info.fr/2015/05/a-la-d%C3%A9couverte-de-mondes-inconnus",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
+            "source_url": "http://lyon-info.fr/?A-la-decouverte-de-mondes-inconnus"
+        },
+        "rtl.fr/2015/05/vid%C3%A9o-may-the-4th-les-r%C3%A9pliques-cultes-de-star-wars": {
+            "title": "VID\u00c9O - May the 4th: les r\u00e9pliques cultes de Star Wars...",
+            "snippet": "Du Je suis ton p\u00e8re de Dark Vador au C'est un pi\u00e8ge de l'Amiral Ackbar, nombre de r\u00e9pliques prononc\u00e9e au cours des films sont rest\u00e9es dans la culture populaire, au point d'\u00eatre omnipr\u00e9sentes sur Internet et les r\u00e9seaux sociaux, reprises...",
+            "date": "2015-05-02",
+            "categories": "culture,internet",
+            "tags": "point,films,culture,populaire",
+            "recuweb_url": "http://fr.recuweb.com/internet/rtl.fr/2015/05/vid%C3%A9o-may-the-4th-les-r%C3%A9pliques-cultes-de-star-wars",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
+            "source_url": "http://rtl.fr/culture/arts-spectacles/video-may-the-4th-les-repliques-cultes-de-star-wars-7777524492"
+        },
         "booska-p.com/2015/04/gimmick-la-saga-dragon-ball-reprend-du-service-video": {
             "title": "Gimmick: La saga Dragon Ball reprend du service! VIDEO...",
             "snippet": "D\u00e9couvrez le meilleur de la culture populaire en quelques minutes dans l'\u00e9pisode 25 de la saison 02. Les actualit\u00e9s les plus chaudes seront pass\u00e9es au crible dans ce nouveau volet... Au menu de cet \u00e9pisode de Gimmick: Eden Hazard \u00e9lu meilleur...",
@@ -21,45 +41,15 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
             "source_url": "http://booska-p.com/new-gimmick-la-saga-dragon-ball-reprend-du-service-video-n46481.html"
         },
-        "lexpress.fr/2015/04/le-r%C3%A8gne-fleuve-d-henry-vi": {
-            "title": "Le r\u00e8gne fleuve d'Henry VI...",
-            "snippet": "Aujourd'hui, l'\u00e9cran partag\u00e9 de 24 Heures chrono est pass\u00e9 dans la culture populaire, ce qui est pratique. Pourquoi cette pi\u00e8ce n'a-t-elle jamais \u00e9t\u00e9 mont\u00e9e dans son int\u00e9gralit\u00e9 auparavant? Elle ne correspond pas aux canons de la...",
-            "date": "2015-04-30",
-            "categories": "culture",
-            "tags": "culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/lexpress.fr/2015/04/le-r%C3%A8gne-fleuve-d-henry-vi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://lexpress.fr/culture/scene/le-regne-fleuve-d-henry-vi_1676317.html"
-        },
         "lanouvellerepublique.fr/2015/04/musicalies-en-sologne": {
             "title": "Musicalies en Sologne...",
             "snippet": "LUnion pour la Culture Populaire en Sologne vous pr\u00e9sente ses 29\u00e8mes Musicalies en Sologne: un rdv incontournable, le festival des musiques traditionnelles! Sur tout un week-end, le village de Pierrefitte sur Sauldre se transforme au rythme des...",
             "date": "2015-04-30",
             "categories": "musique,culture,culture-populaire",
-            "tags": "festival,culture,culture_populaire,populaire",
+            "tags": "festival,musiques,musiques-traditionnelles,traditionnelles,culture,culture_populaire,populaire",
             "recuweb_url": "http://fr.recuweb.com/culture-populaire/lanouvellerepublique.fr/2015/04/musicalies-en-sologne",
             "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
             "source_url": "http://lanouvellerepublique.fr/Toute-zone/Loisirs/Agenda/n/Contenus/Spectacles/Musicalies-en-Sologne-2293488"
-        },
-        "journaldugeek.com/2015/04/obama-remercie-le-japon-pour-les-manga-karaok%C3%A9-et-emojis": {
-            "title": "Obama remercie le Japon pour les manga, le karaok\u00e9 et les emojis...",
-            "snippet": "Comme le karat\u00e9 et le karaok\u00e9. Les mangas et les anim\u00e9s. Et bien s\u00fbr, les emojis. Il va sen dire que les emojis ont inond\u00e9 la culture populaire et pas seulement am\u00e9ricaines. Depuis leur invention par le japonais Shigetaka Kurita et leur...",
-            "date": "2015-04-30",
-            "categories": "culture",
-            "tags": "culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/journaldugeek.com/2015/04/obama-remercie-le-japon-pour-les-manga-karaok%C3%A9-et-emojis",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://journaldugeek.com/2015/04/30/obama-remercie-le-japon-pour-les-mangas-le-karaoke-et-les-emojis/"
-        },
-        "ecranlarge.com/2015/04/yoda-est-en-deuil-de-jean-lescot-sa-voix-fran%C3%A7aise": {
-            "title": "Yoda est en deuil de Jean Lescot, sa voix fran\u00e7aise a disparu...",
-            "snippet": "Paradoxalement, cest son r\u00f4le qui constitue sur le papier sa contribution sans doute la plus modeste au 7 \u00e8me Art qui va sans doute rester dans toutes les m\u00e9moires et demeurer au panth\u00e9on de la Culture populaire. En effet, cest Jean Lescot qui...",
-            "date": "2015-04-29",
-            "categories": "culture",
-            "tags": "r\u00f4le,culture,populaire",
-            "recuweb_url": "http://fr.recuweb.com/culture/ecranlarge.com/2015/04/yoda-est-en-deuil-de-jean-lescot-sa-voix-fran%C3%A7aise",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=culture%2Bpopulaire&format=RSS&cc=fr",
-            "source_url": "http://ecranlarge.com/films/news/939275-yoda-est-en-deuil-de-jean-lescot-sa-voix-francaise-a-disparu"
         },
         "lhebdojournal.com/2015/04/un-regard-chaleureux-pos%C3%A9-sur-la-d%C3%A9ficience": {
             "title": "Un regard chaleureux pos\u00e9 sur la d\u00e9ficience...",
@@ -76,7 +66,7 @@
             "snippet": "PolitisHerv\u00e9 Kempf/Paul Ari\u00e8s: Les cultures populaires, une chance pour...PolitisDans \u00c9cologie et cultures populaires, qui vient de para\u00eetre 2, Paul Ari\u00e8s, conteste ce point de vue. Si l'impact environnemental des milieux populaires reste plus...",
             "date": "2015-04-18",
             "categories": "culture",
-            "tags": "cultures",
+            "tags": "point,cultures",
             "recuweb_url": "http://fr.recuweb.com/culture/politis.fr/2015/04/herv%C3%A9-kempf-paul-ari%C3%A8s-les-cultures-populaires-une-chance-pour-politis",
             "resource_url": "http://news.google.fr/?hl=fr&q=culture%2Bpopulaire%2Bculture%2Bpopulaire&output=atom&nord=1",
             "source_url": "http://politis.fr/Herve-Kempf-Paul-Aries-Les,30800.html"
