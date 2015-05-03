@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "course-sur-route",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/course-sur-route/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
     },
     "items": {
+        "laroutedulouvre.fr/2015/04/la-route-du-louvre-une-course-propre": {
+            "title": "La Route du Louvre: Une course propre La Route Du Louvre...",
+            "snippet": "La Route du Louvre: Une course propre. Avec des voitures \u00e9lectriques, les organisateurs et La R\u00e9gion Nord-Pas de Calais prouvent que la 10\u00e8 \u00e9dition est une \u00e9dition propre et qu'ils s'engagent pour le respect de...",
+            "date": "2015-04-27",
+            "author_name": "Fanny Pruvost",
+            "tags": "route,course,\u00e9dition",
+            "recuweb_url": "http://fr.recuweb.com/laroutedulouvre.fr/2015/04/la-route-du-louvre-une-course-propre",
+            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://laroutedulouvre.fr/la-route-du-louvre-une-course-propre/"
+        },
         "jsdcourse.com/2015/04/la-foul%C3%A9e-farl%C3%A9doise-2015-renseignements-jsd-course-sur-route": {
             "title": "La foul\u00e9e farl\u00e9doise 2015 (renseignements) JSD Course sur route...",
             "snippet": "Nom de l'\u00e9preuve: La Foul\u00e9e Farl\u00e9doise Anciennet\u00e9: 6\u00e8me \u00e9dition Date: Le vendredi 26 juin 2015 Distance: 10km500, (Courses Enfants) 700m et 1km500 D\u00e9nivel\u00e9: Le profil ci-dessous: Course 10km500 Plus grand Clic sur...",
             "date": "2015-04-23",
             "author_name": "jsdcourse",
-            "tags": "courses,course,courses_enfants,enfants,anciennet\u00e9,jsd,jsd_course,renseignements,route,nom,\u00e9preuve,\u00e8me,\u00e9dition,date,juin,distance,d\u00e9nivel\u00e9,dessous,grand",
+            "tags": "courses,course,foul\u00e9e,anciennet\u00e9,jsd,jsd_course,renseignements,route,nom,\u00e9preuve,\u00e8me,\u00e9dition,date,vendredi,juin,distance,d\u00e9nivel\u00e9,grand",
             "recuweb_url": "http://fr.recuweb.com/jsdcourse.com/2015/04/la-foul%C3%A9e-farl%C3%A9doise-2015-renseignements-jsd-course-sur-route",
             "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jsdcourse.com/2015/04/23/la-foulee-farledoise-2015-renseignements/"
@@ -27,7 +37,7 @@
             "date": "2015-04-22",
             "author_name": "jsdcourse",
             "categories": "course-sur-route",
-            "tags": "jsd,jsd_course,course,route,trail,renseignements,nom,\u00e9preuve,anciennet\u00e9,\u00e8me,\u00e9dition,date,dimanche,juin,distance,d\u00e9nivel\u00e9",
+            "tags": "jsd,jsd_course,course,route,renseignements,nom,\u00e9preuve,anciennet\u00e9,\u00e8me,\u00e9dition,date,dimanche,juin,distance,d\u00e9nivel\u00e9",
             "recuweb_url": "http://fr.recuweb.com/course-sur-route/jsdcourse.com/2015/04/trail-de-la-cerise-2015-renseignements-jsd-course-sur-route",
             "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jsdcourse.com/2015/04/22/trail-de-la-cerise-2015-renseignements/"
@@ -42,33 +52,22 @@
             "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jsdcourse.com/2015/04/17/le-bol-dair-barbenais-2015-renseignements/"
         },
-        "jsdcourse.com/2015/04/trail-des-%C3%A9crins-2015-renseignements-jsd-course-sur-route": {
-            "title": "Trail des \u00e9crins 2015 (renseignements) JSD Course sur route...",
-            "snippet": "Nom de l'\u00e9preuve: Trail des Ecrins. La Trans'Ecrins (80km). Mara'Trail des Ecrins (42km). Le Trail du Fournel (23km). La Vallouisette (12km). Les Courses Enfants. Anciennet\u00e9: 8\u00e8me \u00e9dition. Date: Le samedi 20 juin...",
-            "date": "2015-04-13",
-            "author_name": "jsdcourse",
-            "tags": "courses,course,courses_enfants,enfants,jsd,jsd_course,trail,renseignements,route,nom,\u00e9preuve,anciennet\u00e9,\u00e8me,\u00e9dition,date,juin",
-            "recuweb_url": "http://fr.recuweb.com/jsdcourse.com/2015/04/trail-des-%C3%A9crins-2015-renseignements-jsd-course-sur-route",
-            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://jsdcourse.com/2015/04/13/trail-des-ecrins-2015-renseignements/"
-        },
-        "delore.over-blog.com/2015/04/livre-running-course-sur-route-nature-3%C3%A8me-edition": {
-            "title": "LIVRE \"RUNNING course sur route - course nature\": 3\u00e8me EDITION...",
-            "snippet": "LIVRE \"RUNNING course sur route - course nature\": 3\u00e8me EDITION! Le succ\u00e8s de mon livre \"RUNNING\" (Ed. Amphora) va en s'amplifiant. Une 3\u00e8me \u00e9dition vient de sortir apr\u00e8s parution de la 1\u00e8re en octobre 2012. Il s'agit...",
-            "date": "2015-04-03",
-            "author_name": "inconnu",
-            "categories": "nature\"",
-            "tags": "octobre,course,route,\u00e8me,\u00e9dition,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/nature%22/delore.over-blog.com/2015/04/livre-running-course-sur-route-nature-3%C3%A8me-edition",
-            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://delore.over-blog.com/article-livre-running-course-sur-route-course-nature-3eme-edition-125665030.html"
+        "ententenordloire44.wordpress.com/2015/03/r%C3%A9sultats-course-sur-route": {
+            "title": "R\u00e9sultats course sur route...",
+            "snippet": "Pour la 8\u00e8me Edition de L'ECOTRAIL DE PARIS, divers distances \u00e9taient au programme.G\u00e9raldine HEUZE s'est align\u00e9e sur le 80 kms avec un d\u00e9nivel\u00e9 de 1500 m, elle termine 7\u00e8me f\u00e9minine en 8h00'04.",
+            "date": "2015-03-23",
+            "author_name": "ententenordloire44",
+            "tags": "\u00e8me,termine,d\u00e9nivel\u00e9,programme,course,route",
+            "recuweb_url": "http://fr.recuweb.com/ententenordloire44.wordpress.com/2015/03/r%C3%A9sultats-course-sur-route",
+            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&f=feed&page=1",
+            "source_url": "http://ententenordloire44.wordpress.com/2015/03/23/resultats-course-sur-route/"
         },
         "ffmc71.wordpress.com/2014/05/north-west-200-d%C3%A9c%C3%A8s-du-pilote-simon-andrews": {
             "title": "North West 200: d\u00e9c\u00e8s du pilote Simon Andrews...",
             "snippet": "Triste nouvelle au North West 200, course de moto sur route qui avait lieu du 10 au 17 mai en Irlande. Le pilote anglais Simon Andrews a succomb\u00e9 []...",
             "date": "2014-05-21",
             "author_name": "ffmc71",
-            "tags": "mai,lieu,simon,course,route",
+            "tags": "mai,course,route,lieu",
             "recuweb_url": "http://fr.recuweb.com/ffmc71.wordpress.com/2014/05/north-west-200-d%C3%A9c%C3%A8s-du-pilote-simon-andrews",
             "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&f=feed&page=1",
             "source_url": "http://ffmc71.wordpress.com/2014/05/21/north-west-200-deces-du-pilote-simon-andrews/"
@@ -78,7 +77,7 @@
             "snippet": "Je vous jure que je me suis mis un coup de pied au derri\u00e8re pour aller faire le supermarch\u00e9! En effet, je vous raconte pas les courses pour...",
             "date": "2014-05-02",
             "author_name": "bypimprenelle",
-            "tags": "suis,route,courses,effet",
+            "tags": "courses,coup,route",
             "recuweb_url": "http://fr.recuweb.com/cinquanteansetalors.com/2014/05/en-route-pour-les-courses",
             "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&f=feed&page=1",
             "source_url": "http://cinquanteansetalors.com/2014/05/02/en-route-pour-les-courses/"
