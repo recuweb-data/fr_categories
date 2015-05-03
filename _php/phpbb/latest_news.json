@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "phpbb",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/phpbb/",
@@ -11,15 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
     },
     "items": {
+        "informatica.we-news.com/2015/05/hosting-joomla-1-5-basso-prezzo-we-news": {
+            "title": "Hosting Joomla 1.5 - Hosting basso prezzo - We-News...",
+            "snippet": "We-NewsHosting Joomla 1.5 - Hosting basso prezzoWe-News(da noi testato), CMS drupal, WordPress, SimpleMachine, PhpBB, e tanti altri (tutti testati veramente da noi che in questo siamo \"pignolissimi\" Risatona). - 2 account FTP; - 2 database MySQL -...",
+            "date": "2015-05-01",
+            "categories": "joomla,drupal,wordpress,phpbb,mysql",
+            "tags": "joomla,phpbb",
+            "recuweb_url": "http://fr.recuweb.com/mysql/informatica.we-news.com/2015/05/hosting-joomla-1-5-basso-prezzo-we-news",
+            "resource_url": "http://news.google.fr/?hl=fr&q=phpbb%2Bphpbb&output=atom&nord=1",
+            "source_url": "http://informatica.we-news.com/49-web-server/hosting/733-hosting-joomla-15-hosting-basso-prezzo"
+        },
         "cachem.fr/2015/04/test-nas-wd-my-cloud-ex4100-cachem": {
             "title": "Test NAS WD My Cloud EX4100 - Cachem...",
             "snippet": "CachemTest NAS WD My Cloud EX4100CachemComme chez les autres constructeurs, les NAS My Cloud Expert Series peuvent recevoir des applications tierces pour ajouter des fonctionnalit\u00e9s au NAS (aMule, Icecast, Joomla, phpBB, phpMyAdmin, SqueezeCenter,...",
             "date": "2015-04-28",
             "categories": "joomla,phpbb",
-            "tags": "nas,autres,phpbb",
+            "tags": "nas,autres,joomla,phpbb",
             "recuweb_url": "http://fr.recuweb.com/phpbb/cachem.fr/2015/04/test-nas-wd-my-cloud-ex4100-cachem",
             "resource_url": "http://news.google.fr/?hl=fr&q=phpbb&output=atom&nord=1",
             "source_url": "http://cachem.fr/test-nas-wd-my-cloud-ex4100/"
+        },
+        "heise.de/2014/12/phpbb-webserver-geknackt-zugangsdaten-kopiert-heise-newsticker": {
+            "title": "PhpBB-Webserver geknackt, Zugangsdaten kopiert - Heise Newsticker...",
+            "snippet": "PhpBB-Webserver geknackt, Zugangsdaten kopiertHeise NewstickerDie Webseite der beliebten freien Forensoftware PhpBB ist seit dem Wochenende offline. Die Betreiber des Projektes haben nun mitgeteilt, dass Angreifer es geschafft haben, \u00fcber den...",
+            "date": "2014-12-18",
+            "categories": "phpbb",
+            "tags": "phpbb",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/heise.de/2014/12/phpbb-webserver-geknackt-zugangsdaten-kopiert-heise-newsticker",
+            "resource_url": "http://news.google.fr/?hl=fr&q=phpbb&output=atom&nord=1",
+            "source_url": "http://heise.de/security/meldung/PhpBB-Webserver-geknackt-Zugangsdaten-kopiert-2499688.html"
         }
     }
 }
