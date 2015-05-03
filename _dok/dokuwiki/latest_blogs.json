@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "dokuwiki",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/dokuwiki/",
@@ -32,17 +32,6 @@
             "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/03/cr%C3%A9ation-de-deux-wiki-dokuwiki-user-forum",
             "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/12326"
-        },
-        "laurent-napias.com/2015/01/playbooks-complexes-restauration-dokuwiki-le-blog-de-laurent": {
-            "title": "Playbooks complexes Restauration DokuWiki - Le blog de Laurent...",
-            "snippet": "On a vu dans l'article pr\u00e9c\u00e9dent l'installation d'un DokuWiki avec Ansible, voyons maintenant la restauration. Utilisation du playbook: ansible-playbook -e 'host=SRV-NEW'Utilit\u00e9 du playbook: Installer...",
-            "date": "2015-01-31",
-            "author_name": "Cascador",
-            "categories": "dokuwiki",
-            "tags": "installation,dokuwiki",
-            "recuweb_url": "http://fr.recuweb.com/dokuwiki/laurent-napias.com/2015/01/playbooks-complexes-restauration-dokuwiki-le-blog-de-laurent",
-            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://laurent-napias.com/post/2015/01/31/playbooks-complexes-restauration-dokuwiki"
         }
     }
 }
