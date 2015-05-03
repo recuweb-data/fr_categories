@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "empire",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/empire/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/empire/empire/blogs.json"
     },
     "items": {
-        "android-france.fr/2015/04/anno-btissez-un-empire-a-vous-la-strat%C3%A9gie": {
-            "title": "ANNO: Btissez un empire A vous la strat\u00e9gie!",
-            "snippet": "ANNO: Btissez un empire est un jeu de strat\u00e9gie, dans lequel vous devez construire votre propre m\u00e9tropole, g\u00e9rer les \u00e9change de ressources, le tout en usant de strat\u00e9gie. Les principales fonctionnalit\u00e9s du jeu ANNO Btissez un empire:...",
-            "date": "2015-04-29",
+        "france3-regions.francetvinfo.fr/2015/05/r%C3%A9tro-zap-d%C3%A9fil%C3%A9-du-1er-mai-1945-l-empire-state-building": {
+            "title": "R\u00e9tro Zap: d\u00e9fil\u00e9 du 1er mai 1945, l'Empire State Building inaugur\u00e9... - Francetv info...",
+            "snippet": "Francetv infoR\u00e9tro Zap: d\u00e9fil\u00e9 du 1er mai 1945, l'Empire State Building inaugur\u00e9...Francetv infoLe pr\u00e9sident des Etats-Unis Herbert Hoover inaugure l'Empire State Building, le plus grand gratte-ciel du monde. Son architecture art-d\u00e9co, ses 381...",
+            "date": "2015-05-01",
             "categories": "empire",
-            "tags": "jeu,devez,empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/android-france.fr/2015/04/anno-btissez-un-empire-a-vous-la-strat%C3%A9gie",
+            "tags": "empire",
+            "recuweb_url": "http://fr.recuweb.com/empire/france3-regions.francetvinfo.fr/2015/05/r%C3%A9tro-zap-d%C3%A9fil%C3%A9-du-1er-mai-1945-l-empire-state-building",
+            "resource_url": "http://news.google.fr/?hl=fr&q=empire&output=atom&nord=1",
+            "source_url": "http://france3-regions.francetvinfo.fr/2015/05/01/retro-zap-defile-du-1er-mai-1945-l-empire-state-building-inaugure-essai-nucleaire-francais-695881.html"
+        },
+        "melty.fr/2015/04/empire-saison-2-lil-kim-en-guest-star-taraji-p-henson": {
+            "title": "Empire Saison 2: Lil Kim en guest-star? Taraji P. Henson y travaille!",
+            "snippet": "Taraji P. Henson a souvent dit s'inspirer de Lil Kim pour son personnage de Cookie dans Empire. D'ailleurs, la rappeuse aimerait beaucoup faire une apparition dans la saison 2 de la s\u00e9rie! Elle peut notamment compter sur le soutien de l'actrice.",
+            "date": "2015-04-30",
+            "categories": "empire",
+            "tags": "s\u00e9rie,beaucoup,empire,star",
+            "recuweb_url": "http://fr.recuweb.com/empire/melty.fr/2015/04/empire-saison-2-lil-kim-en-guest-star-taraji-p-henson",
             "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://android-france.fr/2015/04/29/anno-batissez-un-empire/"
+            "source_url": "http://melty.fr/empire-saison-2-lil-kim-en-guest-star-taraji-p-henson-y-travaille-a406375.html"
         },
         "podcastjournal.net/2015/04/empire-of-sound-rode-son-album-out-the-norm-sur-sc%C3%A8ne": {
             "title": "Empire of Sound rode son album Out of the Norm sur sc\u00e8ne...",
@@ -31,24 +41,24 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
             "source_url": "http://podcastjournal.net/Empire-of-Sound-rode-son-album-Out-of-the-Norm-sur-scene_a19191.html"
         },
-        "lyricis.fr/2015/04/jurassic-world-indominus-rex-en-couverture-dempire": {
-            "title": "JURASSIC WORLD: Indominus Rex en couverture dEmpire...",
-            "snippet": "Apr\u00e8s les \u00e9v\u00e9nements tragiques survenus il y a plus de vingt ans, un nouveau Jurassic Park a ouvert ses portes au large du Costa Rica; non plus dirig\u00e9 par le milliardaire excentrique John Hammond mais par Patel Corporation. Cest plus de vingt...",
-            "date": "2015-04-28",
-            "tags": "portes",
-            "recuweb_url": "http://fr.recuweb.com/lyricis.fr/2015/04/jurassic-world-indominus-rex-en-couverture-dempire",
+        "newsducamer.com/2015/04/turquie-le-r%C3%A9veil-spectaculaire-de-lempire-ottoman": {
+            "title": "Turquie: Le r\u00e9veil spectaculaire de lempire ottoman...",
+            "snippet": "Visite guid\u00e9e d'Istanbul, ville n\u00e9e sous les cendres de Contantinople. La ville a conserv\u00e9 les vestiges des six civilisations qui se sont relay\u00e9es sur les terres de l'actuelle Turquie. 1299-1923. Pr\u00e8s de sept si\u00e8cles qua dur\u00e9 lempire...",
+            "date": "2015-04-29",
+            "tags": "si\u00e8cles,ville,ottoman",
+            "recuweb_url": "http://fr.recuweb.com/newsducamer.com/2015/04/turquie-le-r%C3%A9veil-spectaculaire-de-lempire-ottoman",
             "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
-            "source_url": "http://lyricis.fr/cinema-serie-tv/jurassic-world-indominus-rex-en-couverture-dempire-116378/"
+            "source_url": "http://newsducamer.com/index.php/actualite/item/4608-turquie-le-r\u00e9veil-spectaculaire-de-l\u2019empire-ottoman"
         },
-        "purebreak.com/2015/04/test-assassin-s-creed-chronicles-china-bienvenue-dans-l-empire-purebreak": {
-            "title": "Test Assassin's Creed Chronicles - China: bienvenue dans l'Empire... - PureBreak...",
-            "snippet": "PureBreakTest Assassin's Creed Chronicles - China: bienvenue dans l'Empire...PureBreakD\u00e9couvrez notre test d'Assassin's Creed Chronicles - China, disponible sur PC, Xbox One et PS4 depuis le 22 avril 2015. Que vaut cette visite vid\u00e9oludique du...",
+        "android-france.fr/2015/04/anno-btissez-un-empire-a-vous-la-strat%C3%A9gie": {
+            "title": "ANNO: Btissez un empire A vous la strat\u00e9gie!",
+            "snippet": "ANNO: Btissez un empire est un jeu de strat\u00e9gie, dans lequel vous devez construire votre propre m\u00e9tropole, g\u00e9rer les \u00e9change de ressources, le tout en usant de strat\u00e9gie. Les principales fonctionnalit\u00e9s du jeu ANNO Btissez un empire:...",
             "date": "2015-04-28",
-            "categories": "xbox,empire",
+            "categories": "empire",
             "tags": "empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/purebreak.com/2015/04/test-assassin-s-creed-chronicles-china-bienvenue-dans-l-empire-purebreak",
-            "resource_url": "http://news.google.fr/?hl=fr&q=empire&output=atom&nord=1",
-            "source_url": "http://purebreak.com/news/test-assassin-s-creed-chronicles-china-bienvenue-dans-l-empire-du-milieu/85509"
+            "recuweb_url": "http://fr.recuweb.com/empire/android-france.fr/2015/04/anno-btissez-un-empire-a-vous-la-strat%C3%A9gie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
+            "source_url": "http://android-france.fr/2015/04/29/anno-batissez-un-empire/"
         },
         "liberation.fr/2015/04/iran-d%C3%A9sir-d-empire-lib%C3%A9ration": {
             "title": "Iran: d\u00e9sir d'empire? - Lib\u00e9ration...",
@@ -65,30 +75,10 @@
             "snippet": "Le r\u00e9alisateur trash et provoc de Precious est devenu lhomme fort de la t\u00e9l\u00e9 am\u00e9ricaine. Invit\u00e9 dhonneur du festival parisien S\u00e9ries Mania (qui ferme ses portes ce week-end), Lee Daniels revient sur lextraordinaire carton de Empire, son...",
             "date": "2015-04-25",
             "categories": "empire",
-            "tags": "portes,am\u00e9ricaine,empire",
+            "tags": "am\u00e9ricaine,beaucoup,empire",
             "recuweb_url": "http://fr.recuweb.com/empire/series-tv.premiere.fr/2015/04/lee-daniels-pour-empire-j-ai-d%C3%BB-m-adapter-au-format",
             "resource_url": "http://www.bing.com/news/search?first=1&q=empire&format=RSS&cc=fr",
             "source_url": "http://series-tv.premiere.fr/News-Series/Lee-Daniels-Pour-Empire-j-ai-du-m-adapter-au-format-tele-et-je-n-ai-pas-beaucoup-aime-ca-4170346"
-        },
-        "france3-regions.francetvinfo.fr/2015/04/vichy-s-habille-aux-couleurs-et-saveurs-du-second-empire-francetv": {
-            "title": "Vichy s'habille aux couleurs et aux saveurs du Second Empire - Francetv info...",
-            "snippet": "Francetv infoVichy s'habille aux couleurs et aux saveurs du Second EmpireFrancetv infoles loisirs du Second Empire au Grand Casino. Une jeune aristocrate slave en vill\u00e9giature fera notamment visiter la cit\u00e9 thermale au gr\u00e9 de ses confidences et...",
-            "date": "2015-04-25",
-            "categories": "empire",
-            "tags": "cit\u00e9,empire,couleurs",
-            "recuweb_url": "http://fr.recuweb.com/empire/france3-regions.francetvinfo.fr/2015/04/vichy-s-habille-aux-couleurs-et-saveurs-du-second-empire-francetv",
-            "resource_url": "http://news.google.fr/?hl=fr&q=empire%2Bempire&output=atom&nord=1",
-            "source_url": "http://france3-regions.francetvinfo.fr/auvergne/2015/04/25/vichy-s-habille-aux-couleurs-et-aux-saveurs-du-second-empire-712217.html"
-        },
-        "melty.fr/2015/04/empire-les-stars-de-la-s%C3%A9rie-se-produiront-aux-billboard-music": {
-            "title": "Empire: Les stars de la s\u00e9rie se produiront aux Billboard Music... -...",
-            "snippet": ": Les stars de la s\u00e9rie se produiront aux Billboard Music... de cet entretien, l'actrice d'Empire s'est confi\u00e9e sur la deuxi\u00e8me saison du show. \"Peut-\u00eatre que Cookie a tu\u00e9 quelqu'un en prison\" a r\u00e9v\u00e9l\u00e9 Taraji P. Henson. Si l'actrice ne sait...",
-            "date": "2015-04-23",
-            "categories": "empire",
-            "tags": "s\u00e9rie,empire",
-            "recuweb_url": "http://fr.recuweb.com/empire/melty.fr/2015/04/empire-les-stars-de-la-s%C3%A9rie-se-produiront-aux-billboard-music",
-            "resource_url": "http://news.google.fr/?hl=fr&q=empire%2Bempire&output=atom&nord=1",
-            "source_url": "http://melty.fr/empire-les-stars-de-la-serie-se-produiront-aux-billboard-music-awards-2015-a404148.html"
         }
     }
 }
