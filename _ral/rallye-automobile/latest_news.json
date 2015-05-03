@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rallye-automobile",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rallye-automobile/",
@@ -11,6 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rallye-automobile/rallye-automobile/blogs.json"
     },
     "items": {
+        "ledauphine.com/2015/04/automobile-rallye-du-beaufortain-sylvain-michel-ouvrira-avec-la-le-dauphin%C3%A9": {
+            "title": "AUTOMOBILE Rallye du Beaufortain: Sylvain Michel ouvrira avec la... - Le Dauphin\u00e9 Lib\u00e9r\u00e9...",
+            "snippet": "Le Dauphin\u00e9 Lib\u00e9r\u00e9AUTOMOBILE Rallye du Beaufortain: Sylvain Michel ouvrira avec la...Le Dauphin\u00e9 Lib\u00e9r\u00e9Le pilote savoyard Sylvain Michel, actuel troisi\u00e8me du Championnat de France asphalte des rallyes apr\u00e8s deux manches et deux arriv\u00e9es...",
+            "date": "2015-04-30",
+            "tags": "rallye,apr\u00e8s,troisi\u00e8me,automobile",
+            "recuweb_url": "http://fr.recuweb.com/ledauphine.com/2015/04/automobile-rallye-du-beaufortain-sylvain-michel-ouvrira-avec-la-le-dauphin%C3%A9",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
+            "source_url": "http://ledauphine.com/savoie/2015/04/30/rallye-du-beaufortain-sylvain-michel-ouvrira-avec-la-porsche-gt2"
+        },
         "le360.ma/2015/04/rallye-les-femmes-entrepreneures-jouent-gazelles": {
             "title": "Rallye: Les femmes entrepreneures jouent les gazelles...",
             "snippet": "Sous la pr\u00e9sidence de la princesse Lalla Meryem, lAssociation des femmes chefs d'entreprises du Maroc (AFEM) organise pour ses adh\u00e9rentes, un rallye automobile du 14 au 17 mai 2015. Comme pour le rallye A\u00efcha des Gazelles, ces femmes...",
@@ -26,23 +35,14 @@
             "date": "2015-04-27",
             "tags": "rallye,automobile,\u00e9dition",
             "recuweb_url": "http://fr.recuweb.com/automobile-propre.com/2015/04/vid%C3%A9o-automobile-propre-et-la-zo%C3%A9-au-rallye-zenn-2015",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
             "source_url": "http://automobile-propre.com/breves/video-automobile-propre-zoe-rallye-zenn-2015/"
-        },
-        "charentelibre.fr/2015/04/que-faire-ce-dimanche-en-charente-les-bons-plans-de-cl": {
-            "title": "Que faire ce dimanche en Charente: les bons plans de CL...",
-            "snippet": "Jauldes, Salle des f\u00eates. Rallye automobile de 120km (40km chrono en 3 sp\u00e9ciales). Samedi et dimanche matin, mairie de M\u00e9rignac: s\u00e9ance de d\u00e9dicaces de Brigitte V\u00e9pierre pour son ouvrage Dans l'enfer des pistes (\u00e9galement dimanche apr\u00e8s-midi...",
-            "date": "2015-04-26",
-            "tags": "dimanche,apr\u00e8s,matin,rallye,automobile",
-            "recuweb_url": "http://fr.recuweb.com/charentelibre.fr/2015/04/que-faire-ce-dimanche-en-charente-les-bons-plans-de-cl",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
-            "source_url": "http://charentelibre.fr/2015/04/25/que-faire-ce-dimanche-en-charente-les-bons-plans-de-cl,1952222.php"
         },
         "bluewin.ch/2015/04/violent-crash-de-david-nalbandian-en-rallye": {
             "title": "Violent crash de David Nalbandian en rallye!",
             "snippet": "Depuis qu'il s'est retir\u00e9 des courts en 2012, l'ancien num\u00e9ro 3 mondial s'est d\u00e9couvert une passion pour le rallye automobile. Nalbandian prenait le d\u00e9part de son rallye national pour la troisi\u00e8me fois.",
             "date": "2015-04-25",
-            "tags": "rallye,automobile",
+            "tags": "troisi\u00e8me,rallye,automobile",
             "recuweb_url": "http://fr.recuweb.com/bluewin.ch/2015/04/violent-crash-de-david-nalbandian-en-rallye",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
             "source_url": "http://bluewin.ch/fr/sport/tennis/2015/articles-teleclub/violente-sortie-de-piste-de-david-nalbandian-en-rallye.html"
@@ -55,16 +55,6 @@
             "recuweb_url": "http://fr.recuweb.com/lamanchelibre.fr/2015/04/grave-accident-au-rallye-automobile-de-coutances",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rallye%2Bautomobile&format=RSS&cc=fr",
             "source_url": "http://lamanchelibre.fr/coutances/actualite-58582--grave-accident-au-rallye-automobile-coutances.html?xtmc=accident&xtcr=17"
-        },
-        "lemans.maville.com/2015/04/1er-rallye-auto-tintin-les-vieilles-bielles-ont-atteint-cheverny": {
-            "title": "1er rallye auto Tintin: Les vieilles bielles ont atteint Cheverny -...",
-            "snippet": "rallye auto Tintin: Les vieilles bielles ont atteint chteau de Cheverny a accueilli ce matin le rallye auto Tintin Le Mans-Cheverny. Les quarante automobiles parties de la Sarthe ont fait le bonheur du public. Apr\u00e8s 150 kilom\u00e8tres de routes et...",
-            "date": "2015-04-19",
-            "categories": "bonheur",
-            "tags": "accueilli,matin,chteau,rallye,auto,tintin,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/bonheur/lemans.maville.com/2015/04/1er-rallye-auto-tintin-les-vieilles-bielles-ont-atteint-cheverny",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
-            "source_url": "http://lemans.maville.com/actu/actudet_-1er-rallye-auto-tintin-les-vieilles-bielles-ont-atteint-cheverny_52734-2755002_actu.Htm"
         },
         "lepaysdauge.fr/2015/04/automobile-eric-brunson-renonce-au-rallye-de-lyon-charbonni%C3%A8res-le-pays": {
             "title": "Automobile - Eric Brunson renonce au rallye de Lyon-Charbonni\u00e8res - Le Pays d'Auge...",
@@ -79,19 +69,10 @@
             "title": "Rallye Tintin: des passionn\u00e9s d'automobile en route pour le chteau... - Francetv info...",
             "snippet": "Francetv infoRallye Tintin: des passionn\u00e9s d'automobile en route pour le chteau...Francetv infoLe 18 avril prochain, une trentaine de v\u00e9hicules, que des mod\u00e8les dessin\u00e9s par Herg\u00e9 dans ses albums (car le dessinateur, soucieux de r\u00e9alisme, ne...",
             "date": "2015-04-14",
-            "tags": "v\u00e9hicules,tintin,route,chteau,rallye,automobile",
+            "tags": "v\u00e9hicules,route,rallye,automobile",
             "recuweb_url": "http://fr.recuweb.com/france3-regions.francetvinfo.fr/2015/04/rallye-tintin-des-passionn%C3%A9s-d-automobile-en-route-pour-le-chteau",
-            "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile&output=atom&nord=1",
-            "source_url": "http://france3-regions.francetvinfo.fr/basse-normandie/2015/04/14/rallye-tintin-des-passionnes-d-automobile-en-route-pour-le-chateau-de-moulinsart-704755.html"
-        },
-        "lanouvellerepublique.fr/2015/04/automobile-rallye-autocourse-de-bl%C3%A9r%C3%A9-la-nouvelle-r%C3%A9publique": {
-            "title": "AUTOMOBILE Rallye Autocourse de Bl\u00e9r\u00e9 - la Nouvelle R\u00e9publique...",
-            "snippet": "AUTOMOBILE Rallye Autocourse de Bl\u00e9r\u00e9la Nouvelle R\u00e9publiqueQuatre-vingt-deux pilotes sont engag\u00e9s sur le rallye de Bl\u00e9r\u00e9 ce week-end. Si l'habituel favori Jean-Luc Roch\u00e9 sera sur le rallye de la Foug\u00e8re dans le Bordelais, il reste du beau...",
-            "date": "2015-04-12",
-            "tags": "week,automobile,rallye,end",
-            "recuweb_url": "http://fr.recuweb.com/lanouvellerepublique.fr/2015/04/automobile-rallye-autocourse-de-bl%C3%A9r%C3%A9-la-nouvelle-r%C3%A9publique",
             "resource_url": "http://news.google.fr/?hl=fr&q=rallye%2Bautomobile%2Brallye%2Bautomobile&output=atom&nord=1",
-            "source_url": "http://lanouvellerepublique.fr/Loir-et-Cher/Sport/Autres-Sports/n/Contenus/Articles/2015/04/11/AUTOMOBILE-Rallye-Autocourse-de-Blere-2290337"
+            "source_url": "http://france3-regions.francetvinfo.fr/basse-normandie/2015/04/14/rallye-tintin-des-passionnes-d-automobile-en-route-pour-le-chateau-de-moulinsart-704755.html"
         }
     }
 }
