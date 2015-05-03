@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jquery",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jquery/",
@@ -11,13 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jquery/jquery/blogs.json"
     },
     "items": {
+        "youtube.com/2014/09/tutoriel-jquery-la-fonction": {
+            "title": "Tutoriel jQuery: La fonction on()...",
+            "snippet": "Tutoriel jQuery: La fonction on() Abonnez-vous \u00e0 Grafikart: Dans ce tutoriel je vous propose de d\u00e9couvrir la fonction on() de jQuery en profondeur. Retrouvez un concentr\u00e9 du web autour du monde du... From: Views: 6226 85 ratings Time: 14:34 More...",
+            "date": "2014-09-12",
+            "author_name": "Grafikart.fr",
+            "categories": "jquery",
+            "tags": "tutoriel,jquery,retrouvez",
+            "recuweb_url": "http://fr.recuweb.com/jquery/youtube.com/2014/09/tutoriel-jquery-la-fonction",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=VZ0yG4IFxfM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/VZ0yG4IFxfM/0.jpg"
+        },
         "dailymotion.com/2014/09/tutoriel-vid%C3%A9o-owl-carousel-2-un-plugin-jquery": {
             "title": "Tutoriel vid\u00e9o: Owl Carousel 2 un plugin jQuery...",
             "snippet": "Retrouvez tous mes tutoriels vid\u00e9o sur Commentez ou posez vos questions sur le site. MerciAuthor: hp_infofreeTags: Posted: 01 September 2014Rating:: 0...",
             "date": "2014-09-01",
             "author_name": "hp_infofree",
             "categories": "jquery",
-            "tags": "tutoriel,jquery",
+            "tags": "tutoriel,jquery,retrouvez",
             "recuweb_url": "http://fr.recuweb.com/jquery/dailymotion.com/2014/09/tutoriel-vid%C3%A9o-owl-carousel-2-un-plugin-jquery",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/jquery/0?af=1",
             "source_url": "http://dailymotion.com/video/x250zdd_tutoriel-video-owl-carousel-2-un-plugin-jquery_tech",
@@ -65,23 +77,11 @@
             "date": "2014-07-08",
             "author_name": "developpement-facile",
             "categories": "langage,jquery",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,jquery,jquery_mobile,mobile,utiliser,\u00e9v\u00e9nements,framework,cr\u00e9ez",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,jquery,jquery_mobile,mobile,\u00e9v\u00e9nements,framework,cr\u00e9ez",
             "recuweb_url": "http://fr.recuweb.com/jquery/dailymotion.com/2014/07/comment-utiliser-les-%C3%A9v%C3%A9nements-du-framework-jquery-mobile",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/jquery/0?af=1",
             "source_url": "http://dailymotion.com/video/x2120jy_comment-utiliser-les-evenements-du-framework-jquery-mobile_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2120jy_comment-utiliser-les-evenements-du-framework-jquery-mobile_tech"
-        },
-        "dailymotion.com/2014/07/les-m%C3%A9thodes-et-propri%C3%A9t%C3%A9s-plus-importantes-du-framework-jquery-mobile": {
-            "title": "Les m\u00e9thodes et les propri\u00e9t\u00e9s les plus importantes du framework jQuery Mobile...",
-            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
-            "date": "2014-07-08",
-            "author_name": "developpement-facile",
-            "categories": "langage,jquery",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,jquery,jquery_mobile,mobile,framework,cr\u00e9ez",
-            "recuweb_url": "http://fr.recuweb.com/jquery/dailymotion.com/2014/07/les-m%C3%A9thodes-et-propri%C3%A9t%C3%A9s-plus-importantes-du-framework-jquery-mobile",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/jquery/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2121pb_les-methodes-et-les-proprietes-les-plus-importantes-du-framework-jquery-mobile_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2121pb_les-methodes-et-les-proprietes-les-plus-importantes-du-framework-jquery-mobile_tech"
         },
         "dailymotion.com/2014/06/comment-ajouter-un-formulaire-avec-le-framework-jquery-mobile": {
             "title": "Comment ajouter un formulaire avec le framework jQuery Mobile...",
@@ -95,41 +95,41 @@
             "source_url": "http://dailymotion.com/video/x20idli_comment-ajouter-un-formulaire-avec-le-framework-jquery-mobile_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x20idli_comment-ajouter-un-formulaire-avec-le-framework-jquery-mobile_tech"
         },
+        "dailymotion.com/2014/06/comment-cr%C3%A9er-un-menu-d%C3%A9roulant-avec-le-framework-jquery-mobile": {
+            "title": "Comment cr\u00e9er un menu d\u00e9roulant avec le framework jQuery Mobile...",
+            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
+            "date": "2014-06-29",
+            "author_name": "developpement-facile",
+            "categories": "langage,jquery",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,jquery,jquery_mobile,mobile,framework,cr\u00e9ez",
+            "recuweb_url": "http://fr.recuweb.com/jquery/dailymotion.com/2014/06/comment-cr%C3%A9er-un-menu-d%C3%A9roulant-avec-le-framework-jquery-mobile",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/jquery/0?af=1",
+            "source_url": "http://dailymotion.com/video/x20ibs7_comment-creer-un-menu-deroulant-avec-le-framework-jquery-mobile_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x20ibs7_comment-creer-un-menu-deroulant-avec-le-framework-jquery-mobile_tech"
+        },
+        "dailymotion.com/2014/06/d%C3%A9couvrez-la-puissance-des-animations-du-framework-javascript-jquery-ui": {
+            "title": "D\u00e9couvrez la puissance des animations du Framework JavaScript jQuery UI...",
+            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
+            "date": "2014-06-02",
+            "author_name": "developpement-facile",
+            "categories": "langage,javascript,jquery",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,framework,jquery,cr\u00e9ez",
+            "recuweb_url": "http://fr.recuweb.com/jquery/dailymotion.com/2014/06/d%C3%A9couvrez-la-puissance-des-animations-du-framework-javascript-jquery-ui",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/jquery/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1y1k7k_decouvrez-la-puissance-des-animations-du-framework-javascript-jquery-ui_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1y1k7k_decouvrez-la-puissance-des-animations-du-framework-javascript-jquery-ui_tech"
+        },
         "youtube.com/2014/05/la-m%C3%A9thode-de-gestion-avanc%C3%A9e-des-%C3%A9v%C3%A9nements-avec-le-framework-jquery": {
             "title": "La m\u00e9thode de gestion avanc\u00e9e des \u00e9v\u00e9nements avec le Framework jQuery...",
             "snippet": "La m\u00e9thode de gestion avanc\u00e9e des \u00e9v\u00e9nements avec le Framework jQuery Apprenez la gestion avanc\u00e9e des \u00e9v\u00e9nements avec le Framework jQuery. Passez au niveau suivant en d\u00e9couvrant... From: D\u00e9veloppement Facile Views: 60 1 ratings Time: 04:39...",
             "date": "2014-05-08",
             "author_name": "D\u00e9veloppement Facile",
             "categories": "jquery",
-            "tags": "d\u00e9veloppement,facile,\u00e9v\u00e9nements,framework,jquery",
+            "tags": "d\u00e9veloppement,\u00e9v\u00e9nements,framework,jquery",
             "recuweb_url": "http://fr.recuweb.com/jquery/youtube.com/2014/05/la-m%C3%A9thode-de-gestion-avanc%C3%A9e-des-%C3%A9v%C3%A9nements-avec-le-framework-jquery",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=wjujqQx92dM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/wjujqQx92dM/0.jpg"
-        },
-        "youtube.com/2014/04/comment-le-framework-javascript-jquery-peut-simplifier-votre-d%C3%A9veloppement": {
-            "title": "Comment le Framework JavaScript jQuery peut Simplifier votre D\u00e9veloppement...",
-            "snippet": "Comment le Framework JavaScript jQuery peut Simplifier votre D\u00e9veloppement Apr\u00e8s vos nombreuses demandes, cette nouvelle formation est d\u00e9di\u00e9e au Framework JavaScript jQuery! D\u00e9couvrez... From: D\u00e9veloppement Facile Views: 1018 2 ratings Time:...",
-            "date": "2014-04-19",
-            "author_name": "D\u00e9veloppement Facile",
-            "categories": "javascript,jquery",
-            "tags": "framework,jquery,peut,d\u00e9veloppement,facile",
-            "recuweb_url": "http://fr.recuweb.com/jquery/youtube.com/2014/04/comment-le-framework-javascript-jquery-peut-simplifier-votre-d%C3%A9veloppement",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=jquery%2Bjquery&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=kj0R8BkCkZ0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/kj0R8BkCkZ0/0.jpg"
-        },
-        "dailymotion.com/2014/03/comment-utiliser-les-evenements-avec-le-framework-jquery": {
-            "title": "Comment utiliser les evenements avec le framework jquery...",
-            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
-            "date": "2014-03-31",
-            "author_name": "developpement-facile",
-            "categories": "langage,jquery",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,utiliser,framework,jquery,cr\u00e9ez",
-            "recuweb_url": "http://fr.recuweb.com/jquery/dailymotion.com/2014/03/comment-utiliser-les-evenements-avec-le-framework-jquery",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/jquery/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1ktqbq_comment-utiliser-les-evenements-avec-le-framework-jquery_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1ktqbq_comment-utiliser-les-evenements-avec-le-framework-jquery_tech"
         }
     }
 }
