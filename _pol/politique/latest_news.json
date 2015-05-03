@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "politique",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/politique/",
@@ -11,35 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/politique/politique/blogs.json"
     },
     "items": {
+        "blogs.mediapart.fr/2015/05/un-moment-politique-contre-le-motus-vivendi-mediapart": {
+            "title": "Un moment politique contre le motus vivendi - Mediapart...",
+            "snippet": "Un moment politique contre le motus vivendiMediapartUn signe majeur de l'absence de d\u00e9mocratie, la marque \u00e9vidente d'un r\u00e9gime oppressif, c'est l'imposition du mutisme au plus grand nombre. La parole est confisqu\u00e9e par des professionnels qui en...",
+            "date": "2015-05-02",
+            "categories": "politique",
+            "tags": "grand,marque,contre,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2015/05/un-moment-politique-contre-le-motus-vivendi-mediapart",
+            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
+            "source_url": "http://blogs.mediapart.fr/edition/camedia/article/020515/un-moment-politique-contre-le-motus-vivendi"
+        },
         "humanite.fr/2015/05/beno%C3%AEt-hamon-la-politique-du-gouvernement-augmente-les-l-humanit%C3%A9": {
             "title": "Beno\u00eet Hamon: La politique du gouvernement augmente les... - L'Humanit\u00e9...",
             "snippet": "L'Humanit\u00e9Beno\u00eet Hamon: La politique du gouvernement augmente les...L'Humanit\u00e9Il faut distinguer les politiques du gouvernement. Je suis socialiste. Je suis donc satisfait des orientations prises dans le domaine de la justice, de l'\u00e9ducation, de...",
             "date": "2015-05-01",
             "categories": "politique",
-            "tags": "gouvernement,politiques",
+            "tags": "politiques",
             "recuweb_url": "http://fr.recuweb.com/politique/humanite.fr/2015/05/beno%C3%AEt-hamon-la-politique-du-gouvernement-augmente-les-l-humanit%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
             "source_url": "http://humanite.fr/benoit-hamon-la-politique-du-gouvernement-augmente-les-inegalites-572970"
-        },
-        "tempsreel.nouvelobs.com/2015/05/front-national-le-marinisme-du-neuf-avec-vieux": {
-            "title": "Front national: le marinisme? Du neuf avec du vieux...",
-            "snippet": "Lhistorien Nicolas Lebourg met en garde contre une triple confusion, dune part entre un courant politique issu du 19e si\u00e8cle et des r\u00e9gimes du 20e, dautre part entre des mouvements et des Etats, et enfin entre la France dun c\u00f4t\u00e9...",
-            "date": "2015-05-01",
-            "categories": "politique",
-            "tags": "contre,nicolas,politique,france",
-            "recuweb_url": "http://fr.recuweb.com/politique/tempsreel.nouvelobs.com/2015/05/front-national-le-marinisme-du-neuf-avec-vieux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://tempsreel.nouvelobs.com/politique/20150429.OBS8176/front-national-le-marinisme-du-neuf-avec-du-vieux.html"
-        },
-        "jeanmarcmorandini.com/2015/05/sondage-plus-des-deux-tiers-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique": {
-            "title": "Sondage: Plus des deux tiers des Fran\u00e7ais m\u00e9contents de la politique \u00e9conomique et sociale de...",
-            "snippet": "Plus des deux tiers des Fran\u00e7ais (68%) se d\u00e9clarent m\u00e9contents de la politique \u00e9conomique et sociale du gouvernement de Manuel Valls, soit une hausse de deux points depuis f\u00e9vrier, selon un sondage Tilder/LCI/OpinionWay publi\u00e9 jeudi. 41%...",
-            "date": "2015-05-01",
-            "categories": "politique",
-            "tags": "deux,manuel,manuel_valls,valls,\u00e9conomique,gouvernement,m\u00e9contents,fran\u00e7ais,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/jeanmarcmorandini.com/2015/05/sondage-plus-des-deux-tiers-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://jeanmarcmorandini.com/article-336621-sondage-plus-des-deux-tiers-des-francais-mecontents-de-la-politique-economique-et-sociale-de-manuel-valls.html"
         },
         "journaldemontreal.com/2015/05/trouvez-la-politique-plate-blmez-lordinateur-et-richard-nixon": {
             "title": "Trouvez la politique plate? Blmez lordinateur et Richard Nixon...",
@@ -52,41 +42,21 @@
             "source_url": "http://journaldemontreal.com/2015/05/01/trouvez-la-politique-plate-blamez-lordinateur-et-richard-nixon"
         },
         "lepoint.fr/2015/05/zapping-du-point-le-best-of-de-la-politique": {
-            "title": "Zapping du Point: le best of de la politique...",
-            "snippet": "VID\u00c9O. Manuel Valls s'insurge contre Marion Mar\u00e9chal-Le Pen, Florian Philippot se moque d'Emmanuel Macron... Le best of de l'actu politique en ce 1er mai. La sc\u00e8ne s'est jou\u00e9e au mois de mars dans l'h\u00e9micycle. Manuel Valls, Premier ministre,...",
+            "title": "Zapping du Point: le best of de la politique - Le Point...",
+            "snippet": "Le PointZapping du \"Point\": le best of de la politiqueLe PointVID\u00c9O. Manuel Valls s'insurge contre Marion Mar\u00e9chal-Le Pen, Florian Philippot se moque d'Emmanuel Macron... Le best of de l'actu politique en ce 1er mai. Le. La sc\u00e8ne s'est jou\u00e9e au...",
             "date": "2015-05-01",
             "categories": "politique",
-            "tags": "mois,mai,contre,manuel,manuel_valls,valls,politique,pen,premier,ministre",
+            "tags": "contre,zapping,politique,pen",
             "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/05/zapping-du-point-le-best-of-de-la-politique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
             "source_url": "http://lepoint.fr/zapping-du-point/zapping-du-point-le-best-of-de-la-politique-01-05-2015-1925636_2470.php"
-        },
-        "lepoint.fr/2015/04/68%-des-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique-valls": {
-            "title": "68% des Fran\u00e7ais m\u00e9contents de la politique \u00e9conomique de Valls...",
-            "snippet": "41% des personnes interrog\u00e9es se disent assez m\u00e9contentes et 27% tr\u00e8s m\u00e9contentes de cette politique men\u00e9e par le Premier ministre. Une large majorit\u00e9 des Fran\u00e7ais est m\u00e9contente de la politique \u00e9conomique de Valls. Yann KORBI/AFP Plus...",
-            "date": "2015-04-30",
-            "categories": "politique",
-            "tags": "\u00e9conomique,m\u00e9contents,fran\u00e7ais,politique,valls,premier,ministre",
-            "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/04/68%-des-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique-valls",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://lepoint.fr/economie/68-des-francais-mecontents-de-la-politique-economique-de-valls-30-04-2015-1925483_28.php"
-        },
-        "lyonne.fr/2015/04/au-fn-un-d%C3%A9fil%C3%A9-du-1er-mai-entre-progr%C3%A8s-%C3%A9lectoraux": {
-            "title": "Au FN, un d\u00e9fil\u00e9 du 1er mai entre progr\u00e8s \u00e9lectoraux et tensions internes...",
-            "snippet": "Pour son 28e d\u00e9fil\u00e9 du 1er mai, Marine Le Pen aurait simplement pu savourer ses bons r\u00e9sultats aux d\u00e9partementales et une conjoncture politique favorable: las, les deux derniers mois ont aussi \u00e9t\u00e9 le th\u00e9tre d'une violente brouille familiale...",
-            "date": "2015-04-29",
-            "categories": "politique",
-            "tags": "deux,mois,\u00e9t\u00e9,pen,mai,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/lyonne.fr/2015/04/au-fn-un-d%C3%A9fil%C3%A9-du-1er-mai-entre-progr%C3%A8s-%C3%A9lectoraux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique%2Bpolitique&format=RSS&cc=fr",
-            "source_url": "http://lyonne.fr/france-monde/actualites/economie-politique/politique/2015/04/29/au-fn-un-defile-du-1er-mai-entre-progres-electoraux-et-tensions-internes_11423733.html"
         },
         "blogs.mediapart.fr/2015/04/gabon-l-upg-et-son-pr%C3%A9sident-ont-salu%C3%A9-la-classe-politique": {
             "title": "Gabon/L'UPG et son Pr\u00e9sident ont salu\u00e9 la classe politique politique aux fun\u00e9railles de Mr.",
             "snippet": "Le 28 avril 2015, Mr. Bruno Ben MOUBAMBA le Pr\u00e9sident \u00e9lu de l'UPG le 10 avril, a conduit une forte d\u00e9l\u00e9gation du Parti aux fun\u00e9railles de Mr. Andr\u00e9 MBA OBAME. Apr\u00e8s un accueil chaleureux des populations accourues aux obs\u00e8ques des...",
             "date": "2015-04-29",
             "categories": "politique",
-            "tags": "obs\u00e8ques,andr\u00e9,politique,avril",
+            "tags": "obs\u00e8ques,andr\u00e9,ben,politique,apr\u00e8s",
             "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2015/04/gabon-l-upg-et-son-pr%C3%A9sident-ont-salu%C3%A9-la-classe-politique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=politique%2Bpolitique&format=RSS&cc=fr",
             "source_url": "http://blogs.mediapart.fr/blog/union-du-peuple-gabonais-upg/290415/gabon-lupg-et-son-president-ont-salue-la-classe-politique-politique-aux-funeraille"
