@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "biomasse",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/biomasse/",
@@ -17,11 +17,23 @@
             "date": "2015-03-27",
             "author_name": "MINESParisTech",
             "categories": "biomasse",
-            "tags": "biomasse,source,renouvelable,combustibles,\u00e9nergie",
+            "tags": "biomasse,source,renouvelable,\u00e9nergie",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2015/03/cr%C3%A9er-la-biomasse-du-futur",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=PeLtqB1LZMM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/PeLtqB1LZMM/0.jpg"
+        },
+        "youtube.com/2015/03/c-est-quoi-la-biomasse": {
+            "title": "C'est quoi la biomasse?",
+            "snippet": "C'est quoi la biomasse? La biomasse comprend une grande vari\u00e9t\u00e9 de mati\u00e8res organiques, pour la plupart en fin de vie pouvant \u00eatre valoris\u00e9es sous forme \u00e9nerg\u00e9tique. C'est une sorte de 2\u00e8me vie pour les d\u00e9chets. From: EDORA Views: 249 1...",
+            "date": "2015-03-20",
+            "author_name": "EDORA",
+            "categories": "biomasse",
+            "tags": "d\u00e9chets,biomasse",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2015/03/c-est-quoi-la-biomasse",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=ROIw-B3otDA&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ROIw-B3otDA/0.jpg"
         },
         "youtube.com/2015/01/%C3%A9nergies-renouvelables-le-retour-de-la-biomasse": {
             "title": "\u00c9nergies renouvelables: le retour de la biomasse...",
@@ -41,23 +53,11 @@
             "date": "2014-11-06",
             "author_name": "SITA FRANCE",
             "categories": "biomasse",
-            "tags": "industriels,\u00e9nergie,\u00e9nergie-verte,verte,verte-et-locale,locale,alimenter,bois,l\u00e9nergie,biomasse",
+            "tags": "industriels,\u00e9nergie,\u00e9nergie-verte,verte,verte-et-locale,locale,alimenter,d\u00e9chets,biomasse",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/11/sita-robin-valoriser-l%C3%A9nergie-de-ressources-biomasse-jusqualors-inexploit%C3%A9es",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=0mIvJ9EaRpg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/0mIvJ9EaRpg/0.jpg"
-        },
-        "dailymotion.com/2014/04/inauguration-de-la-chaufferie-biomasse-lens": {
-            "title": "Inauguration de la chaufferie biomasse de Lens...",
-            "snippet": "La chaufferie biomasse de Lens a \u00e9t\u00e9 inaugur\u00e9e ce vendredi 6 d\u00e9cembre. Grce \u00e0 l\u00e9nergie bois, elle permet dalimenter le r\u00e9seau de chaleur qui dessert 3 000 logements, lh\u00f4pital, des \u00e9quipements publics Elle est entr\u00e9e en service il y a un:...",
-            "date": "2014-04-17",
-            "author_name": "lavoixdunord",
-            "categories": "biomasse",
-            "tags": "r\u00e9seau-de-chaleur,chaleur,l\u00e9nergie,bois,chaufferie,chaufferie-biomasse,biomasse",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/dailymotion.com/2014/04/inauguration-de-la-chaufferie-biomasse-lens",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/biomasse/0?af=1",
-            "source_url": "http://dailymotion.com/video/x1p1hqh_inauguration-de-la-chaufferie-biomasse-de-lens_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x1p1hqh_inauguration-de-la-chaufferie-biomasse-de-lens_news"
         },
         "youtube.com/2014/02/biomasse-et-r%C3%A9seaux-de-chaleur": {
             "title": "Biomasse et r\u00e9seaux de chaleur...",
@@ -65,7 +65,7 @@
             "date": "2014-02-26",
             "author_name": "Cofely R\u00e9seaux, diffuseur de chaleur renouvelable",
             "categories": "biomasse",
-            "tags": "biomasse,renouvelable,\u00e9nergie,chaufferie,alimenter,r\u00e9seau-de-chaleur,chaleur,cofely",
+            "tags": "biomasse,renouvelable,\u00e9nergie,chaufferie,alimenter,cofely",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/02/biomasse-et-r%C3%A9seaux-de-chaleur",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=dKpm1T_CN2g&feature=youtube_gdata",
@@ -77,7 +77,7 @@
             "date": "2014-02-19",
             "author_name": "Cofely GDF SUEZ",
             "categories": "biomasse",
-            "tags": "\u00e9nerg\u00e9tiques,\u00e9nergie,\u00e9nergie-verte,verte,verte-et-locale,locale,biomasse,cofely,services,chaufferie,chaufferie-biomasse",
+            "tags": "\u00e9nerg\u00e9tiques,\u00e9nergie,\u00e9nergie-verte,verte,verte-et-locale,locale,biomasse,cofely,services,chaufferie",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/02/installation-d-une-chaufferie-biomasse-pour-valab-par-cofely-services",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ibtPEPaRoiY&feature=youtube_gdata",
@@ -95,6 +95,18 @@
             "source_url": "http://youtube.com/watch?v=LitPimE-64Q&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/LitPimE-64Q/0.jpg"
         },
+        "youtube.com/2014/01/chaufferie-biomasse-dalkia-tours": {
+            "title": "Chaufferie biomasse Dalkia Tours...",
+            "snippet": "Chaufferie biomasse Dalkia Tours Pr\u00e9sentation de la chaufferie pour son inauguration en 2013 R\u00e9alisation G\u00e9rard Binse. From: G\u00e9rard Binse Views: 770 0 ratings Time: 03:50 More in People & Blogs...",
+            "date": "2014-01-29",
+            "author_name": "G\u00e9rard Binse",
+            "categories": "biomasse",
+            "tags": "chaufferie,biomasse,people",
+            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2014/01/chaufferie-biomasse-dalkia-tours",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=99v3Ne5m4Eo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/99v3Ne5m4Eo/0.jpg"
+        },
         "youtube.com/2013/10/biomasse-financement-innovant-pour-une-nouvelle-centrale": {
             "title": "Biomasse: financement innovant pour une nouvelle centrale...",
             "snippet": "Biomasse: financement innovant pour une nouvelle centrale La construction de cette centrale de cog\u00e9n\u00e9ration biomasse fera date en Picardie. Mise au point par Akuo Energy et financ\u00e9e par un pool bancaire conduit par la Caisse d'Epargne Picardie...",
@@ -107,25 +119,13 @@
             "source_url": "http://youtube.com/watch?v=SMMlPnuOqlY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/SMMlPnuOqlY/0.jpg"
         },
-        "youtube.com/2013/09/operation-et-fabrication-d-une-chaudi%C3%A8re-biomasse-passat-oonyx-renowood": {
-            "title": "Operation et fabrication d'une chaudi\u00e8re biomasse Passat - Oonyx - Renowood...",
-            "snippet": "Operation et fabrication d'une chaudi\u00e8re biomasse Passat - Oonyx - Renowood La chaudi\u00e8re Passat est de tr\u00e8s haute qualit\u00e9 (5 \u00e9toiles aux normes europ\u00e9ennes) et parfaite pour l'utilisation de combustibles comme les granul\u00e9s de bois, sarments...",
-            "date": "2013-09-09",
-            "author_name": "oonyxfr",
-            "categories": "biomasse",
-            "tags": "combustibles,bois,biomasse",
-            "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2013/09/operation-et-fabrication-d-une-chaudi%C3%A8re-biomasse-passat-oonyx-renowood",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=kNTRtE4w9xk&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/kNTRtE4w9xk/0.jpg"
-        },
         "youtube.com/2013/04/la-biomasse-c-est-pas-sorcier": {
             "title": "La biomasse - C'est pas sorcier...",
             "snippet": "La biomasse - C'est pas sorcier Avec Tom, Marabou, Ju'et Cl\u00e9ment;) b\u00eatisier dans l'adresse ci desous: From: Cl\u00e9ment Lebrun Views: 2840 19 ratings Time: 04:49 More in People & Blogs...",
             "date": "2013-04-18",
             "author_name": "Cl\u00e9ment Lebrun",
             "categories": "biomasse",
-            "tags": "biomasse",
+            "tags": "biomasse,people",
             "recuweb_url": "http://fr.recuweb.com/biomasse/youtube.com/2013/04/la-biomasse-c-est-pas-sorcier",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=biomasse%2Bbiomasse&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=v5AB7DO4kgI&feature=youtube_gdata",
