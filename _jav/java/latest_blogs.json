@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -11,27 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "freelance-info.fr/2015/04/lyon-d%C3%A9veloppeur-java-a515003-38": {
-            "title": "Lyon-D\u00e9veloppeur Java-A515003/38 -...",
-            "snippet": "TEAM Consulting cherche lyon-d\u00e9veloppeur java-a515003/38 pour une mission de dur\u00e9e 3 Mois situ\u00e9 Lyon.",
-            "date": "2015-04-28",
+        "zenika.developpez.com/2015/04/tutoriel-sur-des-patterns-d-impl%C3%A9mentation-avec-les-enums-java": {
+            "title": "Tutoriel sur des patterns d'impl\u00e9mentation avec les enums Java...",
+            "snippet": "Bien que les enums soient apparues en Java 5, elles restent relativement m\u00e9connues. Voyons donc quelques patterns d'impl\u00e9mentation. On commence par quelques points techniques (avertissement: certains sont plus des...",
+            "date": "2015-04-24",
             "author_name": "inconnu",
             "categories": "java",
-            "tags": "mission,mission-de-dur\u00e9e,dur\u00e9e,cherche,d\u00e9veloppeur,d\u00e9veloppeur_java,java,mois,situ\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/java/freelance-info.fr/2015/04/lyon-d%C3%A9veloppeur-java-a515003-38",
-            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://freelance-info.fr/offre-de-mission_247048.html"
-        },
-        "freelance-info.fr/2015/04/d%C3%A9veloppeur-java-j2ee": {
-            "title": "D\u00e9veloppeur JAVA J2EE -...",
-            "snippet": "WorldWide People cherche d\u00e9veloppeur java j2ee pour une mission de dur\u00e9e 6 mois renouvelables situ\u00e9 Paris (75).",
-            "date": "2015-04-25",
-            "author_name": "inconnu",
-            "categories": "java",
-            "tags": "mois,situ\u00e9,mission,mission-de-dur\u00e9e,dur\u00e9e,cherche,d\u00e9veloppeur,people,d\u00e9veloppeur_java,java",
-            "recuweb_url": "http://fr.recuweb.com/java/freelance-info.fr/2015/04/d%C3%A9veloppeur-java-j2ee",
+            "tags": "commence,donc,java",
+            "recuweb_url": "http://fr.recuweb.com/java/zenika.developpez.com/2015/04/tutoriel-sur-des-patterns-d-impl%C3%A9mentation-avec-les-enums-java",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://freelance-info.fr/offre-de-mission_246656.html"
+            "source_url": "http://zenika.developpez.com/tutoriels/java/patterns-implementation-enum/"
         },
         "emploi.alsacreations.com/2015/04/d%C3%A9v-senior-architecte-java-core-editeur-offre-d-emploi-cdi": {
             "title": "D\u00e9v senior - architecte java core editeur - Offre d'emploi CDI...",
@@ -39,7 +28,7 @@
             "date": "2015-04-23",
             "author_name": "inconnu",
             "categories": "java,emploi",
-            "tags": "logiciel,java",
+            "tags": "donc,logiciel,sp\u00e9cialis\u00e9,java",
             "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/d%C3%A9v-senior-architecte-java-core-editeur-offre-d-emploi-cdi",
             "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.alsacreations.com/offre-561101-Dev-senior---architecte-java-core--editeur.html"
@@ -61,7 +50,7 @@
             "date": "2015-03-30",
             "author_name": "shaverhood5n",
             "categories": "musique,java",
-            "tags": "applications,savoir,java",
+            "tags": "musique,applications,savoir,android,java",
             "recuweb_url": "http://fr.recuweb.com/java/shaverhood5n.wordpress.com/2015/03/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
             "source_url": "http://shaverhood5n.wordpress.com/2015/03/30/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir-sur/"
@@ -72,7 +61,7 @@
             "date": "2015-03-16",
             "author_name": "michel",
             "categories": "langage,java",
-            "tags": "programmation,objet,java",
+            "tags": "programmation,objet,java,windows",
             "recuweb_url": "http://fr.recuweb.com/java/mediaforma.com/2015/03/java-un-langage-orient%C3%A9-objet",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
             "source_url": "http://mediaforma.com/java-java-un-langage-oriente-objet/"
