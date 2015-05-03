@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moto-cross",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moto-cross/",
@@ -11,76 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/blogs.json"
     },
     "items": {
-        "nokenny.com/2015/04/triple-backflip-en-motocross-nokenny": {
-            "title": "Triple backflip en motocross - NoKenny...",
-            "snippet": "Un chien fait de la motocross dans le d\u00e9sert. 1 commentaire. Connectez-vous ou Ouvrez un compte pour commenter. Albert 2 points. J'aimerai pas me farcir le poids des ces couilles toute la journ\u00e9e... R\u00e9pondre Il y a 1...",
+        "motoverte.com/2015/04/vid%C3%A9o-triple-flip-sheehan-l-a-fait-motocross-actuas-sur-moto": {
+            "title": "Vid\u00e9o: Triple Flip, Sheehan l'a fait! - motocross - Actuas sur Moto...",
+            "snippet": "Josh Sheehan et l'equipe de Nitro Circus l'avaient annonce: le pilote americain serait le premier a tenter un triple backflip. L'actions'est deroulee le 28 mars a Pastranaland. Le reste est histoire...",
+            "date": "2015-04-30",
+            "author_name": "Julien Leroy",
+            "tags": "histoire,pilote,premier,triple,triple-backflip,backflip,nitro,sheehan,motocross,actuas,moto,josh",
+            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/vid%C3%A9o-triple-flip-sheehan-l-a-fait-motocross-actuas-sur-moto",
+            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://motoverte.com/site/video-triple-flip-sheehan-l-a-fait--86531.html"
+        },
+        "zap-actu.fr/2015/04/motocross-le-triple-backflip-de-josh-sheehan-zap-actu": {
+            "title": "Motocross: le triple backflip de Josh Sheehan Zap-actu...",
+            "snippet": "Apr\u00e8s un an de pr\u00e9paration, le pilote australien Josh Sheehan a r\u00e9alis\u00e9 une premi\u00e8re mondiale: le premier triple backflip de l'histoire de la motocross (FMX).",
             "date": "2015-04-29",
-            "author_name": "FilipMauris",
-            "tags": "journ\u00e9e,d\u00e9sert,triple,backflip,motocross",
-            "recuweb_url": "http://fr.recuweb.com/nokenny.com/2015/04/triple-backflip-en-motocross-nokenny",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://nokenny.com/triple-backflip-en-motocross.html"
+            "author_name": "Zap-actu",
+            "tags": "histoire,premier,triple,triple-backflip,backflip,josh,sheehan,pilote,motocross,apr\u00e8s,premi\u00e8re",
+            "recuweb_url": "http://fr.recuweb.com/zap-actu.fr/2015/04/motocross-le-triple-backflip-de-josh-sheehan-zap-actu",
+            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://zap-actu.fr/2015/04/30/motocross-le-triple-backflip-de-josh-sheehan/"
         },
-        "motoverte.com/2015/04/musquin-en-450-avec-ktm-motocross-br%C3%A8ves-sur-moto-verte": {
-            "title": "Musquin en 450 avec KTM - motocross - Br\u00e8ves sur Moto Verte...",
-            "snippet": "Des son titre SX Lites East acquis, Marvin Musquin a annonce qu'il venait de resigner avec KTM pour deux saisons supplementaires en 2016 et 2017. Marvin fera donc ses grands debuts en 450 sur une machine orange...",
+        "motoverte.com/2015/04/l-appel-de-james-stewart-rejet%C3%A9-motocross-actuas-sur-moto-verte": {
+            "title": "L'appel de James Stewart rejet\u00e9! - motocross - Actuas sur Moto Verte...",
+            "snippet": "Apres de longs mois de procedures, l'appel de JS7 a finalement ete rejete par le TAS. Le pilote Suzuki est donc prive d'outdoor et ne reviendra pas en course avant cet automne...",
+            "date": "2015-04-29",
+            "author_name": "Olivier De Vaulx",
+            "tags": "course,avant,moto,moto_verte,verte,motocross,actuas,pilote,suzuki",
+            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/l-appel-de-james-stewart-rejet%C3%A9-motocross-actuas-sur-moto-verte",
+            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://motoverte.com/site/l-appel-de-james-stewart-rejete--86483.html"
+        },
+        "motoverte.com/2015/04/pourcel-et-hva-c-est-sign%C3%A9-motocross-actuas-sur-moto-verte": {
+            "title": "Pourcel et HVA, c'est sign\u00e9! - motocross - Actuas sur Moto Verte...",
+            "snippet": "Les premieres images de Christophe Pourcel sur la 450 HVA du team Rockstar Energy donnaient bon espoir de revoir le \"Crafty Frenchman\" derriere les grilles de depart du championnat AMA. C'est a present officiel, CP377...",
             "date": "2015-04-27",
-            "author_name": "Julien Leroy",
-            "tags": "deux,moto,moto_verte,verte,motocross,donc",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/musquin-en-450-avec-ktm-motocross-br%C3%A8ves-sur-moto-verte",
+            "author_name": "Jordan Labb\u00e9",
+            "tags": "moto,moto_verte,verte,motocross,actuas,championnat",
+            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/pourcel-et-hva-c-est-sign%C3%A9-motocross-actuas-sur-moto-verte",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/musquin-en-450-avec-ktm-86351.html"
+            "source_url": "http://motoverte.com/site/pourcel-et-hva-c-est-signe--86391.html"
         },
-        "motoverte.com/2015/04/paulin-confiant-toujours-motocross-interviews-sur-moto-verte": {
-            "title": "Paulin: \"Confiant, toujours!\" - motocross - Interviews sur Moto Verte...",
-            "snippet": "Alors que le doute commencait a s'installer chez les observateurs, Gautier Paulin et le HRC ont frappe fort a Valkenswaard: trois courses, trois victoires pour une domination totale! Une premiere pour GP21 en MXGP que...",
-            "date": "2015-04-27",
-            "author_name": "Julien Leroy",
-            "tags": "fort,moto,moto_verte,verte,paulin,motocross,gautier,valkenswaard,mxgp",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/paulin-confiant-toujours-motocross-interviews-sur-moto-verte",
+        "larep.fr/2015/04/une-62e-%C3%A9dition-du-motocross-de-saint-aignan-le-jaillard-sera": {
+            "title": "Une 62e \u00e9dition du motocross de Saint-Aignan-le-Jaillard sera relev\u00e9e...",
+            "snippet": "Le traditionnel motocross de Saint-Aignan-le-Jaillard proposera une manche du championnat de France National MX 1, et la quatri\u00e8me du championnat de Ligue 125.",
+            "date": "2015-04-25",
+            "author_name": "inconnu",
+            "tags": "france,national,manche,\u00e9dition,motocross,saint,championnat,ligue",
+            "recuweb_url": "http://fr.recuweb.com/larep.fr/2015/04/une-62e-%C3%A9dition-du-motocross-de-saint-aignan-le-jaillard-sera",
             "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/paulin-confiant-toujours--86331.html"
-        },
-        "motoverte.com/2015/04/vid%C3%A9o-le-r%C3%A9sum%C3%A9-du-gp-d-europe-motocross-actuas-sur-moto": {
-            "title": "Vid\u00e9o: le r\u00e9sum\u00e9 du GP d'Europe - motocross - Actuas sur Moto Verte...",
-            "snippet": "Retour en images sur les doubles imparables de Gautier Paulin et Jeffrey Herlings respectivement en MXGP et MX2 a Valkenswaard pour le GP d'Europe. Les deux pilotes ont tout simplement ecrase la concurrence sur un...",
-            "date": "2015-04-27",
-            "author_name": "Julien Leroy",
-            "tags": "deux,pilotes,concurrence,jeffrey,herlings,gautier,paulin,moto,moto_verte,verte,r\u00e9sum\u00e9,europe,motocross,actuas,retour,mxgp,valkenswaard",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/vid%C3%A9o-le-r%C3%A9sum%C3%A9-du-gp-d-europe-motocross-actuas-sur-moto",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/video-le-resume-du-gp-d-europe-86329.html"
-        },
-        "motoverte.com/2015/04/vid%C3%A9o-r%C3%A9sum%C3%A9-de-l-emx125-et-250-motocross-actuas-sur-moto": {
-            "title": "Vid\u00e9o: r\u00e9sum\u00e9 de l'EMX125 et 250 - motocross - Actuas sur Moto...",
-            "snippet": "Le sable de Valkenswaard n'aura pas ete tendre avec nos jeunes pilotes francais pour le second rendez-vosu de l'Europe. Arrives en leaders de l'EMX125 et 250, les deux Maxime, Renaux et Desprey, y ont perdu leur...",
-            "date": "2015-04-27",
-            "author_name": "Julien Leroy",
-            "tags": "deux,jeunes,pilotes,rendez,r\u00e9sum\u00e9,motocross,actuas,moto,valkenswaard,europe",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/vid%C3%A9o-r%C3%A9sum%C3%A9-de-l-emx125-et-250-motocross-actuas-sur-moto",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/video-resume-de-l-emx125-et-250-86361.html"
-        },
-        "motoverte.com/2015/04/herlings-x6-podium-pour-tixier-motocross-actuas-sur-moto-verte": {
-            "title": "Herlings x6, podium pour Tixier - motocross - Actuas sur Moto Verte...",
-            "snippet": "En s'imposant cette annee encore a Valkenswaard, Jeffrey Herlings signe son sixieme succes a domicile, et creuse d'autant plus l'ecart au championnat que Dylan Ferrandis a ete penalise de dix places en seconde manche.",
-            "date": "2015-04-26",
-            "author_name": "Pascal Haudiquert",
-            "categories": "place,domicile",
-            "tags": "moto,moto_verte,verte,herlings,motocross,actuas,valkenswaard,jeffrey,championnat,manche",
-            "recuweb_url": "http://fr.recuweb.com/domicile/motoverte.com/2015/04/herlings-x6-podium-pour-tixier-motocross-actuas-sur-moto-verte",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/herlings-x6-podium-pour-tixier-86325.html"
-        },
-        "motoverte.com/2015/04/chris-pourcel-le-retour-motocross-actuas-sur-moto-verte": {
-            "title": "Chris Pourcel, le retour - motocross - Actuas sur Moto Verte...",
-            "snippet": "Des photos diffusees par VitalMX de Christophe Pourcel en pleine seance de testing avec Husqvarna sur la FC 450 et en presence d'un certain Roger De Coster a de quoi eveiller l'attention CP377 est de retour en...",
-            "date": "2015-04-22",
-            "author_name": "Julien Leroy",
-            "tags": "retour,moto,moto_verte,verte,motocross,actuas",
-            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/04/chris-pourcel-le-retour-motocross-actuas-sur-moto-verte",
-            "resource_url": "http://www.google.com/search?q=moto%2Bcross%2Bmoto%2Bcross&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://motoverte.com/site/chris-pourcel-le-retour--86209.html"
+            "source_url": "http://larep.fr/loiret/sports/actualite/auto-moto/2015/04/25/une-62e-edition-du-motocross-de-saint-aignan-le-jaillard-sera-relevee_11418164.html"
         },
         "phetholatnoe.wordpress.com/2014/12/telecharger-jeu-de-moto-cross-pc": {
             "title": "Telecharger jeu de moto cross pc...",
@@ -111,6 +90,26 @@
             "recuweb_url": "http://fr.recuweb.com/sappprohitpolci.wordpress.com/2014/12/telecharger-jeu-de-moto-cross-3d",
             "resource_url": "http://fr.search.wordpress.com/?q=moto%2Bcross%2Bmoto%2Bcross&f=feed&page=1",
             "source_url": "http://sappprohitpolci.wordpress.com/2014/12/23/telecharger-jeu-de-moto-cross-3d/"
+        },
+        "athinsourlandkon.wordpress.com/2014/12/telecharger-jeux-de-moto-cross-nitro": {
+            "title": "Telecharger jeux de moto cross nitro...",
+            "snippet": "T\u00e9l\u00e9charger Jeu gratuit Motocross Nitro, jou\u00e9 325 383 fois 1 Joueur Conduite Moto Arr\u00eats Jeux en races and freestyle competitions as you show off your best tricks and...",
+            "date": "2014-12-23",
+            "author_name": "athinsourlandkon",
+            "tags": "moto,jeux,motocross,nitro,t\u00e9l\u00e9charger,jeu,cross,gratuit",
+            "recuweb_url": "http://fr.recuweb.com/athinsourlandkon.wordpress.com/2014/12/telecharger-jeux-de-moto-cross-nitro",
+            "resource_url": "http://fr.search.wordpress.com/?q=moto%2Bcross%2Bmoto%2Bcross&f=feed&page=1",
+            "source_url": "http://athinsourlandkon.wordpress.com/2014/12/23/telecharger-jeux-de-moto-cross-nitro/"
+        },
+        "minhlamsao434.wordpress.com/2014/10/mini-moto-zoom": {
+            "title": "Mini moto: Zoom...",
+            "snippet": "Mini moto: Zoom rajout\u00e9 sur Mini moto: Zoom Vous \u00e9prouvez une passion pour le moto-cross? Avant de vous y lancer, pourquoi ne pas essayer la mini moto?",
+            "date": "2014-10-28",
+            "author_name": "minhlamsao434",
+            "tags": "moto,cross,avant",
+            "recuweb_url": "http://fr.recuweb.com/minhlamsao434.wordpress.com/2014/10/mini-moto-zoom",
+            "resource_url": "http://fr.search.wordpress.com/?q=moto%2Bcross%2Bmoto%2Bcross&f=feed&page=1",
+            "source_url": "http://minhlamsao434.wordpress.com/2014/10/28/mini-moto-zoom/"
         }
     }
 }
