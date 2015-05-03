@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "robotique",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/robotique/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/robotique/robotique/blogs.json"
     },
     "items": {
+        "europarl.europa.eu/2015/04/mady-delvaux-je-suis-persuad%C3%A9e-que-la-robotique-sera": {
+            "title": "Mady Delvaux: je suis persuad\u00e9e que la robotique sera une...",
+            "snippet": "Mady Delvaux, d\u00e9put\u00e9e d\u00e9mocrate-socialiste luxembourgeoise et responsable de la r\u00e9daction du rapport pour le Parlement europ\u00e9en, nous a parl\u00e9 du nouveau groupe de travail et de la robotique. Un robot ne peut pas...",
+            "date": "2015-04-22",
+            "author_name": "inconnu",
+            "categories": "robotique",
+            "tags": "parl\u00e9,robotique,robot",
+            "recuweb_url": "http://fr.recuweb.com/robotique/europarl.europa.eu/2015/04/mady-delvaux-je-suis-persuad%C3%A9e-que-la-robotique-sera",
+            "resource_url": "http://www.google.com/search?q=robotique%2Brobotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://europarl.europa.eu/news/fr/news-room/content/20150422STO43701"
+        },
         "atelier.net/2015/04/le-hackathon-d-amazon-ou-la-robotique-au-c%C5%93ur-de-gestion": {
             "title": "Le hackathon d'Amazon ou la robotique au c\u0153ur de la gestion des...",
             "snippet": "Le g\u00e9ant am\u00e9ricain Amazon organise au mois de mai un hackathon d\u00e9di\u00e9 aux robots d'entrep\u00f4ts. Plus pr\u00e9cis, plus intelligents, plus performants: ces robots peuvent \u00eatre la cl\u00e9 pour rendre le service de livraison encore plus...",
             "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "robotique",
-            "tags": "robots,intelligents,organise,robotique",
+            "tags": "intelligents,organise,robotique,robots",
             "recuweb_url": "http://fr.recuweb.com/robotique/atelier.net/2015/04/le-hackathon-d-amazon-ou-la-robotique-au-c%C5%93ur-de-gestion",
             "resource_url": "http://www.google.com/search?q=robotique%2Brobotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://atelier.net/trends/articles/hackaton-amazon-robotique-coeur-de-gestion-entrepots_435016"
@@ -28,7 +39,7 @@
             "date": "2014-09-22",
             "author_name": "Andrea Collo",
             "categories": "robotique",
-            "tags": "organise,jeunes,chercheurs,robotique",
+            "tags": "organise,robotique",
             "recuweb_url": "http://fr.recuweb.com/robotique/andreacollo.wordpress.com/2014/09/journ%C3%A9es-nationales-du-gdr-robotique-&-journ%C3%A9e-des-jeunes-chercheurs",
             "resource_url": "http://fr.search.wordpress.com/?q=robotique%2Brobotique&f=feed&page=1",
             "source_url": "http://andreacollo.wordpress.com/2014/09/22/journees-nationales-du-gdr-robotique-journee-des-jeunes-chercheurs-en-robotique/"
