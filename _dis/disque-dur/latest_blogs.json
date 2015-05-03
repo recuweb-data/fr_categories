@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "disque-dur",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/disque-dur/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/blogs.json"
     },
     "items": {
-        "nas-forum.com/2015/04/remplacer-un-disque-dur-sur-une-grappe-shr-sans-risques": {
-            "title": "Remplacer Un Disque Dur Sur Une Grappe Shr Sans Risques...",
-            "snippet": "Ma question est la suivante: j'ai acheter un dd 4 TO WD RED pour remplacer celui de 3 TO afin d'avoir 5 disques identiques, comment puis-je remplacer ce-dernier sans perdre ou endommager mon Syst\u00e8me RAID SHR1 (car...",
-            "date": "2015-04-29",
-            "author_name": "inconnu",
-            "categories": "disque-dur",
-            "tags": "disques,disque_dur,dur,avoir",
-            "recuweb_url": "http://fr.recuweb.com/disque-dur/nas-forum.com/2015/04/remplacer-un-disque-dur-sur-une-grappe-shr-sans-risques",
-            "resource_url": "http://www.google.com/search?q=disque%2Bdur%2Bdisque%2Bdur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://nas-forum.com/forum/topic/47166-remplacer-un-disque-dur-sur-une-grappe-shr-sans-risques/"
-        },
         "bhmag.fr/2015/04/mini-station-extreme-nfc-un-disque-dur-s%C3%A9curis%C3%A9-qui-mise": {
             "title": "Mini Station Extreme NFC: un disque dur s\u00e9curis\u00e9 qui mise sur la...",
             "snippet": "Le \"Mini Station Extreme NFC\" est un disque dur portable USB 3.0 de 2,5 pouces dont le ma\u00eetre mot est la s\u00e9curit\u00e9. Tout d'abord, d'un point de vue physique puisque le disque dur dispose d'une coque renforc\u00e9e capable de...",
@@ -32,33 +21,42 @@
             "resource_url": "http://www.google.com/search?q=disque%2Bdur%2Bdisque%2Bdur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bhmag.fr/actualites/mini-station-extreme-nfc-disque-dur-securise-qui-mise-technologie-nfc-maj-27361"
         },
-        "androidpit.fr/2015/04/comment-brancher-une-clef-usb-ou-un-disque-dur-sur-smartphone": {
-            "title": "Comment brancher une clef USB ou un disque dur sur smartphone...",
-            "snippet": "Plus de place m\u00e9moire? Pas de microSD? Voici comment connecter un disque dur ou une clef USB sur tablette et smartphone Android.",
-            "date": "2015-04-24",
-            "author_name": "Quentin Ducreux L.",
-            "categories": "place",
-            "tags": "smartphone,usb,disque,dur,android",
-            "recuweb_url": "http://fr.recuweb.com/place/androidpit.fr/2015/04/comment-brancher-une-clef-usb-ou-un-disque-dur-sur-smartphone",
+        "erenumerique.fr/2015/04/ministation-extr%C3%AAme-le-disque-dur-portable-des-baroudeurs": {
+            "title": "MiniStation Extr\u00eame, le disque dur portable des baroudeurs...",
+            "snippet": "La MiniStation Extr\u00eame de Buffalo Technology est une solution de stockage mobile USB 3.0. Le disque dur est \u00e9quip\u00e9 d'un chssis antichoc compos\u00e9 d'\u00e9l\u00e9ments en caoutchouc qui prot\u00e8gent la MiniStation des chutes et...",
+            "date": "2015-04-27",
+            "author_name": "inconnu",
+            "tags": "chssis,buffalo,buffalo_technology,technology,ministation,ministation_extr\u00eame,extr\u00eame,disque,dur,portable,stockage,usb,chutes",
+            "recuweb_url": "http://fr.recuweb.com/erenumerique.fr/2015/04/ministation-extr%C3%AAme-le-disque-dur-portable-des-baroudeurs",
             "resource_url": "http://www.google.com/search?q=disque%2Bdur%2Bdisque%2Bdur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://androidpit.fr/comment-connecter-cle-usb-disque-dur-android"
+            "source_url": "http://erenumerique.fr/ministation_extreme_le_disque_dur_portable_des_baroudeurs_-article-11752-1.html"
         },
         "lesnumeriques.com/2015/02/buffalo-technology-mini-station-ddr-test-complet-les-num%C3%A9riques": {
             "title": "Buffalo Technology Mini Station DDR: Test complet - Les Num\u00e9riques...",
             "snippet": "La promesse faite par Buffalo de rendre un disque dur m\u00e9canique aussi rapide qu'un SSD est partiellement tenue puisque ces d\u00e9bits ne sont valables qu'avec des petits fichiers. Pour les plus gros (plus de 1 Go), les d\u00e9bits...",
             "date": "2015-02-15",
             "author_name": "B\u00e9nigne Milli\u00e8re",
-            "tags": "petits,puisque,buffalo,mini,mini_station,station,ddr,test,complet,disque,dur,ssd",
+            "tags": "petits,fichiers,puisque,buffalo,buffalo_technology,technology,mini,mini_station,station,ddr,test,complet,disque,dur",
             "recuweb_url": "http://fr.recuweb.com/lesnumeriques.com/2015/02/buffalo-technology-mini-station-ddr-test-complet-les-num%C3%A9riques",
             "resource_url": "http://www.google.com/search?q=disque%2Bdur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesnumeriques.com/disque-dur-externe/buffalo-technology-mini-station-ddr-p24303/test.html"
+        },
+        "lesnumeriques.com/2015/01/fiabilit%C3%A9-des-disques-durs-une-%C3%A9tude-r%C3%A9alis%C3%A9e-sur-41-000-unit%C3%A9s": {
+            "title": "Fiabilit\u00e9 des disques durs: une \u00e9tude r\u00e9alis\u00e9e sur 41 000 unit\u00e9s...",
+            "snippet": "BackBlaze est un prestataire proposant du stockage en ligne illimit\u00e9 pour les entreprises. Son infrastructure de plus de 41 000 disques durs lui permet de proposer p\u00e9riodiquement des statistiques sur la dur\u00e9e de vie de ces...",
+            "date": "2015-01-24",
+            "author_name": "R\u00e9gis Jehl",
+            "tags": "durs,permet,dur\u00e9e,dur\u00e9e-de-vie,vie,disques,stockage",
+            "recuweb_url": "http://fr.recuweb.com/lesnumeriques.com/2015/01/fiabilit%C3%A9-des-disques-durs-une-%C3%A9tude-r%C3%A9alis%C3%A9e-sur-41-000-unit%C3%A9s",
+            "resource_url": "http://www.google.com/search?q=disque%2Bdur%2Bdisque%2Bdur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lesnumeriques.com/disque-dur-interne/fiabilite-disques-durs-etude-realisee-sur-41-000-unites-n38879.html"
         },
         "rabtibara.wordpress.com/2015/01/telecharger-pilote-disque-dur-verbatim": {
             "title": "Telecharger pilote disque dur verbatim...",
             "snippet": "Download pilote disque dur externe verbatim windows 7, Telecharger pilote disque dur externe verbatim windows 7 gratuitement en francais, telechargement pilote disque dur En cherchant de l'aide pour...",
             "date": "2015-01-22",
             "author_name": "rabtibara",
-            "tags": "pilote,windows,telecharger,disque,dur,externe",
+            "tags": "pilote,telecharger,disque,dur,externe",
             "recuweb_url": "http://fr.recuweb.com/rabtibara.wordpress.com/2015/01/telecharger-pilote-disque-dur-verbatim",
             "resource_url": "http://fr.search.wordpress.com/?q=disque%2Bdur%2Bdisque%2Bdur&f=feed&page=1",
             "source_url": "http://rabtibara.wordpress.com/2015/01/22/telecharger-pilote-disque-dur-verbatim/"
@@ -79,7 +77,7 @@
             "date": "2015-01-22",
             "author_name": "settthusecphy",
             "categories": "disque-dur",
-            "tags": "disque,disque_dur,dur,pilote,telecharger",
+            "tags": "toshiba,disque,disque_dur,dur,pilote,telecharger",
             "recuweb_url": "http://fr.recuweb.com/disque-dur/settthusecphy.wordpress.com/2015/01/telecharger-pilote-pour-disque-dur-toshiba",
             "resource_url": "http://fr.search.wordpress.com/?q=disque%2Bdur%2Bdisque%2Bdur&f=feed&page=1",
             "source_url": "http://settthusecphy.wordpress.com/2015/01/22/telecharger-pilote-pour-disque-dur-toshiba/"
@@ -99,7 +97,7 @@
             "snippet": "cherchez-vous pour la meilleur Multifonction portable Apple Disque dur Caddy w/19cm Cble USB - Argent? Ici je recommand\u00e9 un de la DealExtreme Compagnie, une entreprise de...",
             "date": "2014-08-24",
             "author_name": "yjfrdxlelwgadgets",
-            "tags": "recommand\u00e9,meilleur,usb,disque,portable,dur,cherchez",
+            "tags": "recommand\u00e9,meilleur,argent,cble,usb,disque,portable,dur,cherchez",
             "recuweb_url": "http://fr.recuweb.com/yjfrdxlelwgadgets.wordpress.com/2014/08/multifonction-portable-apple-disque-dur-caddy-w-19cm-cble-usb-argent",
             "resource_url": "http://fr.search.wordpress.com/?q=disque%2Bdur%2Bdisque%2Bdur&f=feed&page=1",
             "source_url": "http://yjfrdxlelwgadgets.wordpress.com/2014/08/24/multifunctional-apple-notebook-hard-disk-caddy-w-19cm-usb-cable-silver-320130/"
@@ -109,7 +107,7 @@
             "snippet": "Stocker ses donn\u00e9es n'a jamais \u00e9t\u00e9 aussi simple depuis l'av\u00e8nement des cl\u00e9s USB, des disques dur externes et autres cartes m\u00e9moires. Cependant, le probl\u00e8me persistant est la dur\u00e9e []...",
             "date": "2014-07-14",
             "author_name": "atioj",
-            "tags": "probl\u00e8me,\u00e9t\u00e9,disques,dur,usb",
+            "tags": "dur\u00e9e,externes,dur\u00e9e-de-vie,vie,disques,dur,stocker,usb,probl\u00e8me",
             "recuweb_url": "http://fr.recuweb.com/atioj.wordpress.com/2014/07/un-disque-dur-avec-une-dur%C3%A9e-de-vie-d-million-ann%C3%A9es",
             "resource_url": "http://fr.search.wordpress.com/?q=disque%2Bdur%2Bdisque%2Bdur&f=feed&page=1",
             "source_url": "http://atioj.wordpress.com/2014/07/14/un-disque-dur-avec-une-duree-de-vie-dun-million-dannees/"
