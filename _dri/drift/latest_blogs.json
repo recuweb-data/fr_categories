@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drift",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drift/",
@@ -11,16 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drift/drift/blogs.json"
     },
     "items": {
-        "sports-extremes.net/2015/04/drift-et-burnouts-pour-les-red-bull-car-park-2015-sports": {
-            "title": "Drift et Burnouts pour les Red Bull Car Park Drift 2015 Sports...",
-            "snippet": "Fan de drift, burn ou donuts, vous pouvez vous r\u00e9jouir car le Red Bull Car Park Drift est de retour avec comme premi\u00e8re \u00e9tape la ville de Ras el Kha\u00efmah qui fait partie des \u00c9mirats arabes unis. La Tunisie sera la seconde...",
-            "date": "2015-04-27",
-            "author_name": "manu",
-            "categories": "drift,sport",
-            "tags": "retour,premi\u00e8re,car,park,drift",
-            "recuweb_url": "http://fr.recuweb.com/sport/sports-extremes.net/2015/04/drift-et-burnouts-pour-les-red-bull-car-park-2015-sports",
+        "vindjeu.eu/2015/04/xia-legends-of-a-drift-system-vin-d-jeu": {
+            "title": "Xia: Legends of a Drift System - Vin d'jeu...",
+            "snippet": "SwatSh: 7,5/10. Xia est un jeu issu du financement participatif et \u00e7a se voit! Et pas qu'un peu! C'est un peu \u00e7a le financement participatif. Les pledgeurs n'investissent pas (ou peu) sur base d'une m\u00e9canique qu'ils ne...",
+            "date": "2015-04-30",
+            "author_name": "SwatSh",
+            "categories": "drift",
+            "tags": "m\u00e9canique,peu,jeu,drift",
+            "recuweb_url": "http://fr.recuweb.com/drift/vindjeu.eu/2015/04/xia-legends-of-a-drift-system-vin-d-jeu",
             "resource_url": "http://www.google.com/search?q=drift%2Bdrift&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://sports-extremes.net/2015/04/27/drift-et-burnouts-pour-les-red-bull-car-park-drift-2015/?utm_source=rss&utm_medium=rss&utm_campaign=drift-et-burnouts-pour-les-red-bull-car-park-drift-2015"
+            "source_url": "http://vindjeu.eu/2015/04/30/xia-legends-of-a-drift-system/"
+        },
+        "planete-gt.com/2015/04/vid%C3%A9o-drift-sur-neige-en-toyota-cressida-jzx30-plan%C3%A8": {
+            "title": "Vid\u00e9o: Drift sur neige en Toyota Cressida JZX30 Plan\u00e8...",
+            "snippet": "Quand le pilote Fredrik S\u00f8rlie sort dans la neige avec sa Cressida JZX30, il se fait suivre par un h\u00e9lico pour une superbe vid\u00e9o!",
+            "date": "2015-04-24",
+            "author_name": "Fabien",
+            "categories": "drift",
+            "tags": "drift,pilote",
+            "recuweb_url": "http://fr.recuweb.com/drift/planete-gt.com/2015/04/vid%C3%A9o-drift-sur-neige-en-toyota-cressida-jzx30-plan%C3%A8",
+            "resource_url": "http://www.google.com/search?q=drift%2Bdrift&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://planete-gt.com/2015/04/24/video-drift-sur-neige-en-toyota-cressida-jzx30/"
         },
         "hodiho.fr/2015/04/drift-en-tricycle-nouvelle-z%C3%A9lande-hodiho": {
             "title": "Drift en tricycle en Nouvelle-Z\u00e9lande - Hodiho...",
@@ -28,7 +39,7 @@
             "date": "2015-04-23",
             "author_name": "Ma\u00ef\u00bf\u00bdtre Miyagi",
             "categories": "plaisir,drift",
-            "tags": "session,drift",
+            "tags": "session,lors,drift",
             "recuweb_url": "http://fr.recuweb.com/drift/hodiho.fr/2015/04/drift-en-tricycle-nouvelle-z%C3%A9lande-hodiho",
             "resource_url": "http://www.google.com/search?q=drift%2Bdrift&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://hodiho.fr/2015/04/drift-en-tricycle-en-nouvelle-zelande.html"
@@ -44,14 +55,14 @@
             "resource_url": "http://www.google.com/search?q=drift%2Bdrift&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jeux.tablette.com/ipad/mega-drift-ipad.html"
         },
-        "news.sportauto.fr/2015/04/video-de-drift-en-passat-pour-tanner-foust": {
-            "title": "VIDEO DE DRIFT EN PASSAT POUR TANNER FOUST...",
+        "news.sportauto.fr/2015/04/video-de-drift-en-passat-pour-tanner-foust-actu-auto": {
+            "title": "VIDEO DE DRIFT EN PASSAT POUR TANNER FOUST - actu auto...",
             "snippet": "Apr\u00e8s le teaser, d\u00e9couvrez la vid\u00e9o compl\u00e8te de Tanner Foust, c\u00e9l\u00e9brant son retour au drift, au volant d'un bolide de 900 chevaux!",
             "date": "2015-04-16",
             "author_name": "Mael Pilven",
             "categories": "drift",
-            "tags": "volant,retour,drift",
-            "recuweb_url": "http://fr.recuweb.com/drift/news.sportauto.fr/2015/04/video-de-drift-en-passat-pour-tanner-foust",
+            "tags": "volant,drift,auto",
+            "recuweb_url": "http://fr.recuweb.com/drift/news.sportauto.fr/2015/04/video-de-drift-en-passat-pour-tanner-foust-actu-auto",
             "resource_url": "http://www.google.com/search?q=drift%2Bdrift&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://news.sportauto.fr/news/1492934/Drift-Tanner-Foust-Vid\u00e9o-Volkswagen-Passat"
         },
@@ -83,7 +94,7 @@
             "date": "2014-09-09",
             "author_name": "vxfrdxlelvgadgets",
             "categories": "drift",
-            "tags": "cam\u00e9ra,drift",
+            "tags": "drift,cam\u00e9ra",
             "recuweb_url": "http://fr.recuweb.com/drift/vxfrdxlelvgadgets.wordpress.com/2014/09/dste-drift-hd170-full-d%C3%A9cod%C3%A9-2100mah-li-ion-batterie-pour-stealth",
             "resource_url": "http://fr.search.wordpress.com/?q=drift%2Bdrift&f=feed&page=1",
             "source_url": "http://vxfrdxlelvgadgets.wordpress.com/2014/09/09/dste-drift-hd170-full-decoded-2100mah-li-ion-battery-for-drift-hd170-stealth-helmet-camera-271208/"
@@ -94,7 +105,7 @@
             "date": "2014-06-30",
             "author_name": "maitrisepuissance",
             "categories": "drift",
-            "tags": "hui,drift,aujourd,bmw",
+            "tags": "hui,peu,drift,aujourd,bmw",
             "recuweb_url": "http://fr.recuweb.com/drift/sansmaitriselapuissancenestrien.wordpress.com/2014/06/video-une-m4-akrapovic-en-drift",
             "resource_url": "http://fr.search.wordpress.com/?q=drift%2Bdrift&f=feed&page=1",
             "source_url": "http://sansmaitriselapuissancenestrien.wordpress.com/2014/06/30/video-une-m4-akrapovic-en-drift/"
