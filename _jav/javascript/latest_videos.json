@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -11,17 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript/javascript/blogs.json"
     },
     "items": {
-        "youtube.com/2015/02/javascript-pour-les-d%C3%A9veloppeurs": {
-            "title": "Javascript pour les d\u00e9veloppeurs C...",
-            "snippet": "Javascript pour les d\u00e9veloppeurs C De loin, ca ressemble \u00e0 du C ou du java. Pourtant, JavaScript est un langage totalement diff\u00e9rent, avec ses richesses, et ses aspects \u00e0 \u00e9viter. Durant cette session, nous verrons ce qui... From: TeamMS...",
+        "dailymotion.com/2015/02/d%C3%A9couvrez-le-code-source-comment%C3%A9-d-un-nouveau-jeu-tetris-html5": {
+            "title": "D\u00e9couvrez le code source comment\u00e9 d'un nouveau jeu Tetris! HTML5 et JavaScript...",
+            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
             "date": "2015-02-24",
-            "author_name": "TeamMS D\u00e9veloppeurs",
-            "categories": "langage,java,javascript",
-            "tags": "langage,javascript",
-            "recuweb_url": "http://fr.recuweb.com/javascript/youtube.com/2015/02/javascript-pour-les-d%C3%A9veloppeurs",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bjavascript&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=oLopoqVQD7w&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/oLopoqVQD7w/0.jpg"
+            "author_name": "developpement-facile",
+            "categories": "langage,javascript",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,jeu,code,code-source,source,html,javascript,cr\u00e9ez",
+            "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2015/02/d%C3%A9couvrez-le-code-source-comment%C3%A9-d-un-nouveau-jeu-tetris-html5",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i0c15_decouvrez-le-code-source-commente-d-un-nouveau-jeu-tetris-html5-et-javascript_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i0c15_decouvrez-le-code-source-commente-d-un-nouveau-jeu-tetris-html5-et-javascript_tech"
+        },
+        "dailymotion.com/2015/02/cr%C3%A9ez-le-fameux-jeu-2048-en-javascript-html5-avec-code-source": {
+            "title": "Cr\u00e9ez le fameux jeu 2048 en JavaScript HTML5 avec le code source complet et comment\u00e9...",
+            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
+            "date": "2015-02-21",
+            "author_name": "developpement-facile",
+            "categories": "langage,javascript",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,code,code-source,source,javascript,javascript_html,html,jeu,cr\u00e9ez",
+            "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2015/02/cr%C3%A9ez-le-fameux-jeu-2048-en-javascript-html5-avec-code-source",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2hqa57_creez-le-fameux-jeu-2048-en-javascript-html5-avec-le-code-source-complet-et-commente_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2hqa57_creez-le-fameux-jeu-2048-en-javascript-html5-avec-le-code-source-complet-et-commente_tech"
+        },
+        "dailymotion.com/2015/01/comment-cr%C3%A9er-un-jeu-de-plateforme-avec-le-framework-javascript-html5": {
+            "title": "Comment cr\u00e9er un jeu de plateforme avec le Framework JavaScript HTML5 Phaser...",
+            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
+            "date": "2015-01-21",
+            "author_name": "developpement-facile",
+            "categories": "langage,javascript",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,framework,javascript,javascript_html,html,jeu,jeu-de-plateforme,plateforme,phaser,cr\u00e9ez",
+            "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2015/01/comment-cr%C3%A9er-un-jeu-de-plateforme-avec-le-framework-javascript-html5",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2f8rxt_comment-creer-un-jeu-de-plateforme-avec-le-framework-javascript-html5-phaser_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2f8rxt_comment-creer-un-jeu-de-plateforme-avec-le-framework-javascript-html5-phaser_tech"
         },
         "youtube.com/2015/01/tutoriel-javascript-discret-unobtrusive": {
             "title": "Tutoriel Javascript - Javascript Discret (Unobtrusive Javascript)...",
@@ -29,7 +53,7 @@
             "date": "2015-01-18",
             "author_name": "LES TEACHERS DU NET",
             "categories": "javascript",
-            "tags": "technique,javascript",
+            "tags": "code,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/youtube.com/2015/01/tutoriel-javascript-discret-unobtrusive",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bjavascript&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=GRFrSoLuJtM&feature=youtube_gdata",
@@ -65,7 +89,7 @@
             "date": "2014-12-15",
             "author_name": "developpement-facile",
             "categories": "langage,javascript",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,canvas,jeu,cr\u00e9ez,html,javascript,phaser",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,canvas,jeu,jeu-de-plateforme,plateforme,cr\u00e9ez,html,javascript,phaser",
             "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2014/12/cr%C3%A9ez-un-jeu-de-plateforme-html5-javascript-avec-des-classes-poo",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cm0af_creez-un-jeu-de-plateforme-html5-javascript-avec-des-classes-poo-avec-phaser-canvas-webgl_tech",
@@ -89,7 +113,7 @@
             "date": "2014-12-13",
             "author_name": "developpement-facile",
             "categories": "langage,javascript",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,api,api_canvas,canvas,ajouter,javascript,cr\u00e9ez",
+            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,api,api_canvas,canvas,javascript,cr\u00e9ez",
             "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2014/12/comment-ajouter-des-animations-javascript-avec-les-tweens-dans-l-api",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cgo3e_comment-ajouter-des-animations-javascript-avec-les-tweens-dans-l-api-canvas_tech",
@@ -106,30 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
             "source_url": "http://dailymotion.com/video/x2cgnwl_comment-utiliser-le-clavier-avec-javascript-et-l-api-canvas-keyboard-clavier_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2cgnwl_comment-utiliser-le-clavier-avec-javascript-et-l-api-canvas-keyboard-clavier_tech"
-        },
-        "dailymotion.com/2014/12/la-technique-pour-mise-en-place-de-vos-interfaces-graphiques-javascript": {
-            "title": "La technique pour la mise en place de vos interfaces graphiques en JavaScript avec l'API Canvas...",
-            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
-            "date": "2014-12-13",
-            "author_name": "developpement-facile",
-            "categories": "langage,place,javascript",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,api,api_canvas,canvas,technique,javascript,cr\u00e9ez",
-            "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2014/12/la-technique-pour-mise-en-place-de-vos-interfaces-graphiques-javascript",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2cgo97_la-technique-pour-la-mise-en-place-de-vos-interfaces-graphiques-en-javascript-avec-l-api-canvas_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cgo97_la-technique-pour-la-mise-en-place-de-vos-interfaces-graphiques-en-javascript-avec-l-api-canvas_tech"
-        },
-        "dailymotion.com/2014/11/comment-ajouter-des-ombres-transformations-et-lignes-avec-api-javascript-canvas": {
-            "title": "Comment ajouter des ombres des transformations et des lignes avec API JavaScript Canvas...",
-            "snippet": "Devenez Expert en D\u00e9veloppement Applicatif et Cr\u00e9ez des Applications Performantes dans votre langage de programmation!Vous aussi, vous pouvez vaincre les bugs de vos applications;)Un Expert en D\u00e9veloppement r\u00e9v\u00e8le tous ses secrets pour cr\u00e9er...",
-            "date": "2014-11-10",
-            "author_name": "developpement-facile",
-            "categories": "langage,javascript",
-            "tags": "r\u00e9v\u00e8le,secrets,secrets-pour-cr\u00e9er,cr\u00e9er,pouvez,pouvez-vaincre,vaincre,vaincre-les-bugs,bugs,applications,langage,langage-de-programmation,programmation,applications_performantes,performantes,d\u00e9veloppement,d\u00e9veloppement_applicatif,applicatif,devenez,devenez_expert,expert,api,javascript,canvas,ajouter,cr\u00e9ez",
-            "recuweb_url": "http://fr.recuweb.com/javascript/dailymotion.com/2014/11/comment-ajouter-des-ombres-transformations-et-lignes-avec-api-javascript-canvas",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/javascript/0?af=1",
-            "source_url": "http://dailymotion.com/video/x29uhg9_comment-ajouter-des-ombres-des-transformations-et-des-lignes-avec-api-javascript-canvas_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x29uhg9_comment-ajouter-des-ombres-des-transformations-et-des-lignes-avec-api-javascript-canvas_tech"
         }
     }
 }
