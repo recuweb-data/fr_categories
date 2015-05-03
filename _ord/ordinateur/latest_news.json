@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ordinateur",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ordinateur/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ordinateur/ordinateur/blogs.json"
     },
     "items": {
+        "commentcamarche.net/2015/05/plus-aucun-ordinateur-ne-d%C3%A9tecte-mon-ipod-touch": {
+            "title": "Plus aucun ordinateur ne d\u00e9tecte mon Ipod Touch...",
+            "snippet": "Depuis quelques semaines, mon iPod Touch n'est plus reconnu par mon ordinateur. J'ai tout essay\u00e9 en ce qui concerne l'assistance Apple (r\u00e9installation de iTunes, recherche du pilote Apple Mobile Device, etc), rien ne fonctionne. Ce n'est pas un...",
+            "date": "2015-05-02",
+            "categories": "ipod,ordinateur",
+            "tags": "rien,fonctionne,mobile,ordinateur,apple",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/05/plus-aucun-ordinateur-ne-d%C3%A9tecte-mon-ipod-touch",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31915363-plus-aucun-ordinateur-ne-detecte-mon-ipod-touch"
+        },
         "leparisien.fr/2015/04/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre": {
             "title": "Apple: des ventes historiques d'ordinateurs ce trimestre...",
             "snippet": "r\u00e9agir Les chiffres publi\u00e9s par Apple ne prennent pas en compte ses ventes de MacBook Gold, commercialis\u00e9 depuis le 10 avril. Pour la premi\u00e8re fois depuis 2011, Apple a gagn\u00e9 plus d'argent avec ses ordinateurs portables et de bureau qu'avec ses...",
@@ -20,46 +30,6 @@
             "recuweb_url": "http://fr.recuweb.com/macbook/leparisien.fr/2015/04/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
             "source_url": "http://leparisien.fr/high-tech/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre-28-04-2015-4733933.php"
-        },
-        "commentcamarche.net/2015/04/ordinateur-acer-se-mes-en-echec-des-le-demarage": {
-            "title": "Ordinateur acer se mes en echec des le demarage...",
-            "snippet": "PXE-MOF: Exiting PXE ROM qu'il et en mode erreur je n'arive pa non plus a le demarer sous demarage sans erreur, le probkeme et que je les acheter chez un particulier donc aucun moyen de le formater....:(,avabt hier il a bien demarer et a meme...",
-            "date": "2015-04-29",
-            "categories": "ordinateur",
-            "tags": "rom,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/ordinateur-acer-se-mes-en-echec-des-le-demarage",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31899746-ordinateur-acer-se-mes-en-echec-des-le-demarage"
-        },
-        "forum-auto.com/2015/04/ordinateur-de-bord-206cc-d-occasion": {
-            "title": "Ordinateur de bord 206cc d'occasion...",
-            "snippet": "J'ai achet\u00e9 d'occasion une 206CC, date de 1er mise en circulation 13/11/2001. Elle a un ODB avec un afficheur 3 lignes. Elle est \u00e9quip\u00e9e d'un Poste Alpine iDA-X311. L'afficheur ODB indique la date, l'heure et la temp\u00e9rature, et quand il faut, le...",
-            "date": "2015-04-29",
-            "categories": "ordinateur",
-            "tags": "ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/forum-auto.com/2015/04/ordinateur-de-bord-206cc-d-occasion",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://forum-auto.com/marques/Peugeot/sujet49550.htm"
-        },
-        "commentcamarche.net/2015/04/probl%C3%A8me-d-ordinateur": {
-            "title": "Probl\u00e8me d'ordinateur...",
-            "snippet": "Bonjour, je remercie d'avance les personnes qui me viendront en aide car j'en ai vraiment besoin. Lorsque j'allume mon ordinateur, j'ai l'impression d'avoir perdu mon bureau, plus de barre de tache, plus d'application, \u00e9cran noir je peux...",
-            "date": "2015-04-29",
-            "categories": "ordinateur",
-            "tags": "\u00e9cran,allume,besoin,personnes,ordinateur,bonjour,bureau",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/04/probl%C3%A8me-d-ordinateur",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31901696-probleme-d-ordinateur"
-        },
-        "ginjfo.com/2015/04/ubuntu-comment-installer-cette-distribution-linux-sur-son-pc-ginjfo": {
-            "title": "Ubuntu, Comment installer cette distribution Linux sur son PC? - GinjFo...",
-            "snippet": "GinjFoUbuntu, Comment installer cette distribution Linux sur son PC?GinjFoA pr\u00e9sent ins\u00e9rer dans un port USB ou l'unit\u00e9 DVD-ROM le support d'installation et red\u00e9marrer votre ordinateur. Il est peut-\u00eatre n\u00e9cessaire d'indiquer le support de...",
-            "date": "2015-04-29",
-            "categories": "ordinateur",
-            "tags": "rom,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/ginjfo.com/2015/04/ubuntu-comment-installer-cette-distribution-linux-sur-son-pc-ginjfo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur%2Bordinateur&output=atom&nord=1",
-            "source_url": "http://ginjfo.com/actualites/logiciels/linux/ubuntu/ubuntu-15-04-comment-installer-cette-distribution-linux-sur-son-pc-20150427"
         },
         "silicon.fr/2015/04/panasonic-livre-un-ordinateur-portable-durci-2-en-1": {
             "title": "Panasonic livre un ordinateur portable durci 2 en 1...",
@@ -71,14 +41,14 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
             "source_url": "http://silicon.fr/panasonic-livre-ordinateur-portable-2-1-durci-115073.html"
         },
-        "lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur": {
-            "title": "Rien que vos yeux pour piloter un ordinateur...",
-            "snippet": "VIDEO Les su\u00e9dois John Elvesj\u00f6 et Marten Skog\u00f6 ont d\u00e9velopp\u00e9 un syst\u00e8me de suivi des mouvements des yeux, utilis\u00e9 en marketing, dans des jeux vid\u00e9os et pour contr\u00f4ler son ordinateur. Ils sont finalistes du Prix de l'inventeur europ\u00e9en dans...",
+        "lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur-les-%C3%A9chos": {
+            "title": "Rien que vos yeux pour piloter un ordinateur - Les \u00c9chos...",
+            "snippet": "Les \u00c9chosRien que vos yeux pour piloter un ordinateurLes \u00c9chos VIDEO Les su\u00e9dois John Elvesj\u00f6 et Marten Skog\u00f6 ont d\u00e9velopp\u00e9 un syst\u00e8me de suivi des mouvements des yeux, utilis\u00e9 en marketing, dans des jeux vid\u00e9os et pour contr\u00f4ler son...",
             "date": "2015-04-28",
             "categories": "jeux-videos,marketing,ordinateur",
-            "tags": "d\u00e9velopp\u00e9,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
+            "tags": "d\u00e9velopp\u00e9,rien,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur-les-%C3%A9chos",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
             "source_url": "http://lesechos.fr/thema/02134005853-rien-que-vos-yeux-pour-piloter-un-ordinateur-1115112.php"
         }
     }
