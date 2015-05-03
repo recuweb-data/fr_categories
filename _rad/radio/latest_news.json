@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radio",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radio/",
@@ -11,95 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/radio/radio/blogs.json"
     },
     "items": {
-        "boursorama.com/2015/04/gr%C3%A8ce-la-radio-t%C3%A9l%C3%A9vision-publique-r%C3%A9tablie": {
-            "title": "Gr\u00e8ce: la radio-t\u00e9l\u00e9vision publique r\u00e9tablie...",
-            "snippet": "Brutalement ferm\u00e9e il y a deux ans dans le cadre de la politique d'aust\u00e9rit\u00e9 du pr\u00e9c\u00e9dent gouvernement de centre-droit, la radio-t\u00e9l\u00e9vision publique grecque ERT va rouvrir. Le r\u00e9tablissement de la ERT \u00e9tait l'une des promesses \u00e9lectorales...",
-            "date": "2015-04-29",
-            "categories": "television,politique,radio",
-            "tags": "t\u00e9l\u00e9vision,t\u00e9l\u00e9vision-publique,t\u00e9l\u00e9vision-publique-grecque,publique,publique-grecque,grecque,centre,ferm\u00e9e,cadre,r\u00e9tablie,radio,ert",
-            "recuweb_url": "http://fr.recuweb.com/radio/boursorama.com/2015/04/gr%C3%A8ce-la-radio-t%C3%A9l%C3%A9vision-publique-r%C3%A9tablie",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
-            "source_url": "http://boursorama.com/actualites/grece-la-radio-television-publique-retablie-c0279689d41972811153f7629ac4753a"
+        "ici.radio-canada.ca/2015/05/kucherov-place-le-lightning-en-avant-radio-canada": {
+            "title": "Kucherov place le Lightning en avant - Radio-Canada...",
+            "snippet": "Radio-CanadaKucherov place le Lightning en avantRadio-CanadaPriv\u00e9 d'un but au d\u00e9but de la premi\u00e8re p\u00e9riode de prolongation, Nikita Kucherov s'est repris au d\u00e9but de la seconde et le Lightning de Tampa Bay a remport\u00e9 le premier match de la...",
+            "date": "2015-05-02",
+            "categories": "place,radio",
+            "tags": "radio,canada",
+            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/05/kucherov-place-le-lightning-en-avant-radio-canada",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio%2Bradio&output=atom&nord=1",
+            "source_url": "http://ici.radio-canada.ca/sports/series2015/2015/05/01/004-lnh-lightning-canadien-price-bishop-subban-stamkos.shtml"
+        },
+        "fr.radiovaticana.va/2015/05/quinze-jours-pour-prier-avec-marie-au-c%C5%93ur-de-ses-apparitions": {
+            "title": "Quinze jours pour prier avec Marie au c\u0153ur de ses apparitions - Radio Vatican...",
+            "snippet": "Radio Vatican Quinze jours pour prier avec Marie au c\u0153ur de ses apparitions Radio Vatican(RV) Entretien - Pour commencer ce mois de mai que l'Eglise appelle mois de Marie, s\u0153ur Catherine Aubin a choisi de pr\u00e9senter Quinze jours pour prier avec...",
+            "date": "2015-05-02",
+            "categories": "radio",
+            "tags": "mai,radio,marie",
+            "recuweb_url": "http://fr.recuweb.com/radio/fr.radiovaticana.va/2015/05/quinze-jours-pour-prier-avec-marie-au-c%C5%93ur-de-ses-apparitions",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
+            "source_url": "http://fr.radiovaticana.va/news/2015/05/02/\u00ab_quinze_jours_pour_prier_avec_marie_au_c\u0153ur_de_ses_apparitions_\u00bb_/1141290"
+        },
+        "leprogres.fr/2015/05/le-fn-accuse-une-radio-st%C3%A9phanoise-d-avoir-fait-la-promotion": {
+            "title": "Le FN accuse une radio st\u00e9phanoise d'avoir fait la promotion d'un... - Le Progr\u00e8s...",
+            "snippet": "Le Progr\u00e8sLe FN accuse une radio st\u00e9phanoise d'avoir fait la promotion d'un...Le Progr\u00e8sLes \u00e9lus du groupe d'opposition municipale Rassemblement Bleu Marine (Front national) accusent Radio Dio d'avoir fait la promotion de la Rencontre nationale...",
+            "date": "2015-05-01",
+            "categories": "radio",
+            "tags": "radio,front,national",
+            "recuweb_url": "http://fr.recuweb.com/radio/leprogres.fr/2015/05/le-fn-accuse-une-radio-st%C3%A9phanoise-d-avoir-fait-la-promotion",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
+            "source_url": "http://leprogres.fr/loire/2015/05/01/saint-etienne-le-fn-accuse-une-radio-locale-d-avoir-fait-la-promotion-d-un-evenement-insultant-pour-la-france"
+        },
+        "france3-regions.francetvinfo.fr/2015/05/une-radio-qui-parle-aux-d%C3%A9tenus-francetv-info": {
+            "title": "Une radio qui parle aux d\u00e9tenus - Francetv info...",
+            "snippet": "Francetv infoUne radio qui parle aux d\u00e9tenusFrancetv infoLes familles les amis, les amours t\u00e9l\u00e9phonent, les messages sont diffus\u00e9s en direct et, dans la prison de Vivonne comme dans celle de Niort, les d\u00e9tenus collent leur oreille au poste de...",
+            "date": "2015-05-01",
+            "categories": "radio",
+            "tags": "direct,parle,radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/france3-regions.francetvinfo.fr/2015/05/une-radio-qui-parle-aux-d%C3%A9tenus-francetv-info",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
+            "source_url": "http://france3-regions.francetvinfo.fr/poitou-charentes/2015/05/01/une-radio-qui-parle-aux-detenus-716183.html"
         },
         "lemonde.fr/2015/04/la-po%C3%A9sie-rock-de-radio-elvis-au-printemps-bourges-le-monde": {
             "title": "La po\u00e9sie rock de Radio Elvis au Printemps de Bourges - Le Monde...",
             "snippet": "Le MondeLa po\u00e9sie rock de Radio Elvis au Printemps de BourgesLe MondeDans la lign\u00e9e des groupes Fauve ou Feu! Chatterton, le trio Radio Elvis s'impose par sa po\u00e9sie planante et la voix grave de son chanteur, Pierre Gu\u00e9nard. Inspir\u00e9 par...",
-            "date": "2015-04-29",
+            "date": "2015-04-30",
             "categories": "radio,rock",
-            "tags": "voix,radio,rock",
+            "tags": "trio,radio,rock",
             "recuweb_url": "http://fr.recuweb.com/rock/lemonde.fr/2015/04/la-po%C3%A9sie-rock-de-radio-elvis-au-printemps-bourges-le-monde",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radio%2Bradio&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
             "source_url": "http://lemonde.fr/culture/video/2015/04/29/la-poesie-rock-de-radio-elvis-au-printemps-de-bourges_4625120_3246.html"
         },
-        "lopinion.fr/2015/04/les-grecs-vont-pouvoir-se-rebrancher-sur-leur-radio-t%C3%A9l%C3%A9-publique": {
-            "title": "Les Grecs vont pouvoir se rebrancher sur leur radio-t\u00e9l\u00e9 publique d... - L'Opinion...",
-            "snippet": "L'OpinionLes Grecs vont pouvoir se rebrancher sur leur radio-t\u00e9l\u00e9 publique d...L'OpinionL'Opinion est un m\u00e9dia nouvelle g\u00e9n\u00e9ration, pr\u00e9sent sur tous les supports: Web, smartphones et tablettes, vid\u00e9o et quotidien papier. L'Opinion couvre...",
-            "date": "2015-04-29",
+        "ad-exchange.fr/2015/04/radio-les-d%C3%A9fis-et-id%C3%A9es-re%C3%A7ues-du-audio-programmatique": {
+            "title": "Radio: les d\u00e9fis et les id\u00e9es re\u00e7ues du audio programmatique...",
+            "snippet": "Alors que lon vous parle de plus en plus dinitiatives dint\u00e9gration des m\u00e9thodes automatis\u00e9es doffre despace et dachat de publicit\u00e9s audio (lire par exemple notre article le plus r\u00e9cent sur ce sujet), des professionnels am\u00e9ricains de...",
+            "date": "2015-04-30",
             "categories": "radio",
-            "tags": "grecs,t\u00e9l\u00e9,publique,vont,radio",
-            "recuweb_url": "http://fr.recuweb.com/radio/lopinion.fr/2015/04/les-grecs-vont-pouvoir-se-rebrancher-sur-leur-radio-t%C3%A9l%C3%A9-publique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radio&output=atom&nord=1",
-            "source_url": "http://lopinion.fr/29-avril-2015/grecs-vont-pouvoir-se-rebrancher-leur-radio-tele-publique-d-antan-23805"
-        },
-        "bfmbusiness.bfmtv.com/2015/04/retour-de-la-controvers%C3%A9e-radio-t%C3%A9l%C3%A9vision-publique-grecque": {
-            "title": "Retour de la controvers\u00e9e radio-t\u00e9l\u00e9vision publique grecque...",
-            "snippet": "Ferm\u00e9e dans le cadre des mesures de rigueur en juin 2013, la ERT va \u00eatre r\u00e9tablie. Plus de anciens employ\u00e9s pourraient \u00eatre r\u00e9int\u00e9gr\u00e9s. Les Grecs vont retrouver leur radio et t\u00e9l\u00e9vision publiques. Le Parlement grec a vot\u00e9 dans la nuit...",
-            "date": "2015-04-29",
-            "categories": "television,radio",
-            "tags": "grecs,t\u00e9l\u00e9vision,t\u00e9l\u00e9vision-publique,publique,vont,r\u00e9tablie,cadre,t\u00e9l\u00e9vision-publique-grecque,publique-grecque,grecque,radio,ferm\u00e9e,ert",
-            "recuweb_url": "http://fr.recuweb.com/radio/bfmbusiness.bfmtv.com/2015/04/retour-de-la-controvers%C3%A9e-radio-t%C3%A9l%C3%A9vision-publique-grecque",
+            "tags": "parle,radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/ad-exchange.fr/2015/04/radio-les-d%C3%A9fis-et-id%C3%A9es-re%C3%A7ues-du-audio-programmatique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
-            "source_url": "http://bfmbusiness.bfmtv.com/monde/retour-de-la-controversee-radio-television-publique-grecque-882041.html"
+            "source_url": "http://ad-exchange.fr/radio-les-defis-et-des-idees-recues-du-programmatique-audio-24100/"
         },
-        "lalettre.pro/2015/04/sun-radio-lance-mysun-business": {
-            "title": "SUN Radio lance MySUN Business...",
-            "snippet": "Soucieuse de r\u00e9pondre aux nouveaux usages et dexp\u00e9rimenter diff\u00e9rents modes d\u00e9coute de la radio, SUN entend renforcer la proximit\u00e9 avec ses auditeurs et partenaires, en mettant au centre les valeurs dinteraction et de partage. Cest dans...",
-            "date": "2015-04-28",
+        "virginradio.fr/2015/04/rapha%C3%ABl-zara-larsson-et-kid-wise-dans-le-lab-virgin-radio": {
+            "title": "Rapha\u00ebl, Zara Larsson et Kid Wise dans le Lab Virgin Radio dimanche...",
+            "snippet": "Ce weekend dans le Lab Virgin Radio, Lionel re\u00e7oit un trio d'artistes dans son \u00e9mission. vous en dit plus. Un long weekend commence cette semaine grce au 1er mai, mais n'oublions pas pour autant votre rendez-vous musical du weekend: le...",
+            "date": "2015-04-30",
             "categories": "radio",
-            "tags": "centre,radio",
-            "recuweb_url": "http://fr.recuweb.com/radio/lalettre.pro/2015/04/sun-radio-lance-mysun-business",
+            "tags": "mai,\u00e9mission,trio,virgin,virgin_radio,radio",
+            "recuweb_url": "http://fr.recuweb.com/radio/virginradio.fr/2015/04/rapha%C3%ABl-zara-larsson-et-kid-wise-dans-le-lab-virgin-radio",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radio&format=RSS&cc=fr",
-            "source_url": "http://lalettre.pro/SUN-Radio-lance-MySUN-Business_a7260.html"
-        },
-        "telerama.fr/2015/04/je-refuse-la-radio-miroir-pr%C3%A9f%C3%A8re-fen%C3%AAtre-paroles-d-t%C3%A9l%C3%A9": {
-            "title": "Je refuse la radio miroir, je pr\u00e9f\u00e8re la radio fen\u00eatre, paroles d... - T\u00e9l\u00e9...",
-            "snippet": "T\u00e9l\u00e9 refuse la radio miroir, je pr\u00e9f\u00e8re la radio fen\u00eatre, paroles d...T\u00e9l\u00e9 vous avons demand\u00e9 de nous parler de ce que repr\u00e9sentait pour vous les diff\u00e9rentes stations de Radio France, au moment o\u00f9 les voix s'\u00e9taient tues, pendant la plus...",
-            "date": "2015-04-28",
-            "categories": "radio",
-            "tags": "voix,radio,radio_france,france,t\u00e9l\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/radio/telerama.fr/2015/04/je-refuse-la-radio-miroir-pr%C3%A9f%C3%A8re-fen%C3%AAtre-paroles-d-t%C3%A9l%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=radio%2Bradio&output=atom&nord=1",
-            "source_url": "http://telerama.fr/radio/je-refuse-la-radio-miroir-je-prefere-la-radio-fenetre-paroles-d-internautes-sur-radio-france,125836.php"
-        },
-        "telerama.fr/2015/04/radio-france-mathieu-gallet-blanchi-par-l-inspection-g%C3%A9n%C3%A9rale-des-finances": {
-            "title": "Radio France: Mathieu Gallet blanchi par l'Inspection g\u00e9n\u00e9rale des Finances...",
-            "snippet": "Ni la r\u00e9novation du fameux bureau, ni le changement de voiture, ni le contrat du conseiller en communication n'ont constitu\u00e9 de caract\u00e8re abusif, estime un rapport de l'IgF. la r\u00e9novation du bureau du pdg Mathieu Gallet pour 104 000 (dont 68...",
-            "date": "2015-04-21",
-            "categories": "radio",
-            "tags": "radio,radio_france,france",
-            "recuweb_url": "http://fr.recuweb.com/radio/telerama.fr/2015/04/radio-france-mathieu-gallet-blanchi-par-l-inspection-g%C3%A9n%C3%A9rale-des-finances",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=fr",
-            "source_url": "http://telerama.fr/radio/radio-france-mathieu-gallet-blanchi-par-l-inspection-generale-des-finances,125565.php"
+            "source_url": "http://virginradio.fr/raphael-zara-larsson-et-kid-wise-dans-le-lab-virgin-radio-dimanche-a406164.html"
         },
         "fr.canoe.ca/2015/04/sociofinancement-ulule-d%C3%A9barque-au-canada": {
             "title": "Sociofinancement: Ulule d\u00e9barque au Canada...",
             "snippet": "Aussi sur: R\u00e9ussir sa campagne de sociofinancement Le site de sociofinancement Kickstarter pirat\u00e9 Radio Radio tente le sociofinancement avec son nouvel album...",
             "date": "2015-04-21",
             "categories": "radio",
-            "tags": "radio,site,canada",
+            "tags": "radio,canada,site",
             "recuweb_url": "http://fr.recuweb.com/radio/fr.canoe.ca/2015/04/sociofinancement-ulule-d%C3%A9barque-au-canada",
             "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=fr",
             "source_url": "http://fr.canoe.ca/techno/internet/archives/2015/04/20150421-180302.html"
-        },
-        "ici.radio-canada.ca/2015/04/spectacle-de-la-f%C3%AAte-nationale-l-acadie-radio-canada-s-associe": {
-            "title": "Spectacle de la f\u00eate nationale de l'Acadie: Radio-Canada s'associe au Festival de Clare...",
-            "snippet": "Le spectacle de cette ann\u00e9e se fera donc sous le signe de la r\u00e9jouissance! Radio Radio, Caroline Savoie, Grand D\u00e9rangement, Cy, Arthur Comeau, Marcel Aymar, Monique Comeau, la troupe de danse la Baie en joie et la Chorale de la Baie Sainte-Marie...",
-            "date": "2015-04-21",
-            "categories": "radio",
-            "tags": "acadie,radio,canada,marie",
-            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/spectacle-de-la-f%C3%AAte-nationale-l-acadie-radio-canada-s-associe",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=radio%2Bradio&format=RSS&cc=fr",
-            "source_url": "http://ici.radio-canada.ca/regions/atlantique/2015/04/21/005-15-aout-festival-acadien-radio-canada.shtml"
         },
         "sxminfo.fr/2015/04/athl%C3%A9tisme-14%C3%A8me-%C3%A9dition-du-meeting-des-jeunes-davenir-sportif-club": {
             "title": "Athl\u00e9tisme 14\u00e8me \u00e9dition du meeting des jeunes dAvenir Sportif Club de Saint-Martin...",
