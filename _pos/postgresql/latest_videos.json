@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -39,7 +39,7 @@
             "snippet": "Cette D\u00e9mo montre comment l'outil de migration SQLWays convertit la base de donn\u00e9es Microsoft SQL Server vers PostgreSQL. Pour en savoir plus: ispirer_systemsTags: Microsoft SQL Server Data migration base de donn\u00e9es PostreSQL migration de...",
             "date": "2014-11-26",
             "author_name": "ispirer_systems",
-            "tags": "base,base-de-donn\u00e9es,donn\u00e9es,gresql,montre",
+            "tags": "base,base-de-donn\u00e9es,donn\u00e9es,gresql",
             "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2014/11/d%C3%A9mo-de-migration-base-donn%C3%A9es-ms-sql-server-vers-postgresql",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/postgresql+postgresql/0?af=1",
             "source_url": "http://dailymotion.com/video/x2b40y5_demo-de-migration-de-base-de-donnees-ms-sql-server-vers-postgresql_tech",
@@ -106,22 +106,22 @@
             "snippet": "Postgresql Tutorial 41: Cr\u00e9er une table au sein d'une base de donn\u00e9es La cr\u00e9ation de table permet l'incorporation de donn\u00e9es num\u00e9rique ou textuelles. C'est \u00e0 partir des tables que l'on d\u00e9finit les cl\u00e9s primaires et \u00e9trang\u00e8res, les...",
             "date": "2012-08-14",
             "author_name": "TutorielGeo : Geomatic Tutorial / GIS Tutorial / Webmapping tutorial",
-            "tags": "donn\u00e9es,cr\u00e9ation,base,base-de-donn\u00e9es,gresql,tutorial,cr\u00e9er",
+            "tags": "tables,donn\u00e9es,cr\u00e9ation,permet,base,base-de-donn\u00e9es,gresql,tutorial",
             "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/08/postgresql-tutorial-41-cr%C3%A9er-une-table-au-sein-d-base",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=e8jujOyG6T0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/e8jujOyG6T0/0.jpg"
         },
-        "youtube.com/2012/05/postgresql-tutorial-10-cr%C3%A9ation-d-une-base-de-donn%C3%A9es": {
-            "title": "Postgresql Tutorial 10: Cr\u00e9ation d'une base de donn\u00e9es...",
-            "snippet": "Postgresql Tutorial 10: Cr\u00e9ation d'une base de donn\u00e9es Voici un tutoriel sur Postgre avec sa composante spatiale Postgis. Ce premier tutoriel rapide vous montre comment cr\u00e9er une base de donn\u00e9es. Il faut rendre \u00e0 C\u00e9sar ce qui appartient \u00e0...",
-            "date": "2012-05-25",
+        "youtube.com/2012/08/postgresql-tutorial-43-cr%C3%A9ation-d-une-cl%C3%A9-primaire": {
+            "title": "Postgresql Tutorial 43: Cr\u00e9ation d'une cl\u00e9 primaire...",
+            "snippet": "Postgresql Tutorial 43: Cr\u00e9ation d'une cl\u00e9 primaire La cl\u00e9 primaire est un champ qui d\u00e9termine une valeur unique propre \u00e0 chaque donn\u00e9es. Elle permet en autre la mise en relation de diff\u00e9rentes tables. From: TutorielGeo: Geomatic Tutorial/GIS...",
+            "date": "2012-08-14",
             "author_name": "TutorielGeo : Geomatic Tutorial / GIS Tutorial / Webmapping tutorial",
-            "tags": "cr\u00e9er,base,base-de-donn\u00e9es,donn\u00e9es,montre,gresql,tutorial,cr\u00e9ation",
-            "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/05/postgresql-tutorial-10-cr%C3%A9ation-d-une-base-de-donn%C3%A9es",
+            "tags": "permet,tables,donn\u00e9es,gresql,tutorial,cr\u00e9ation",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2012/08/postgresql-tutorial-43-cr%C3%A9ation-d-une-cl%C3%A9-primaire",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=postgresql%2Bpostgresql&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=2GafNlGKKDc&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/2GafNlGKKDc/0.jpg"
+            "source_url": "http://youtube.com/watch?v=nJu2lJ49ZYs&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/nJu2lJ49ZYs/0.jpg"
         }
     }
 }
