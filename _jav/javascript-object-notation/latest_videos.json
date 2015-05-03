@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "portal_name": "javascript-object-notation",
+        "language": "fr",
+        "updated": "20150503"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/blogs.json"
+    },
+    "items": {
+        "youtube.com/2013/11/tronc-commun-core-javascript-objets-objects": {
+            "title": "tronc commun: core JavaScript - objets Objects...",
+            "snippet": "tronc commun: core JavaScript - objets Objects Object est en fait un conteneur global qui dispose de tr\u00e8s peu de m\u00e9thodes int\u00e9ressantes. ----------------------------------------- ----------------------------------------- Web Joomla!... From:...",
+            "date": "2013-11-11",
+            "author_name": "Driss Boumlik",
+            "categories": "joomla,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/youtube.com/2013/11/tronc-commun-core-javascript-objets-objects",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=RJ68eFk5cXY&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/RJ68eFk5cXY/0.jpg"
+        }
+    }
+}
