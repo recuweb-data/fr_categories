@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "monoplace",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/monoplace/",
@@ -11,55 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/monoplace/monoplace/blogs.json"
     },
     "items": {
-        "lejdc.fr/2015/04/la-fausse-catastrophe-sous-contr%C3%B4le": {
-            "title": "La fausse catastrophe sous contr\u00f4le...",
-            "snippet": "Les Neversois affronteront Bagn\u00e8res-de-Bigorre en huiti\u00e8me de finale. Olivier Panis a test\u00e9 pour la premi\u00e8re fois la monoplace Spark-Renault SRT-S01, 100% \u00e9lectrique, sur la piste club du circuit de Magny-Cours. Marcel St\u00e9phan (FN),...",
-            "date": "2015-04-29",
+        "ladepeche.fr/2015/05/les-lavardacais-r%C3%A9pondent-pr%C3%A9sents": {
+            "title": "Les Lavardacais r\u00e9pondent pr\u00e9sents...",
+            "snippet": "Celui qui ram\u00e8ne un titre de champion d\u00e9partemental au CKVA, c'est Thomas Bisetto en cano\u00eb monoplace junior en r\u00e9alisant une seconde manche parfaite, sans touche et avec des trajectoires pr\u00e9cises. Lanc\u00e9 comme un boulet dans la comp\u00e9tition...",
+            "date": "2015-05-02",
             "categories": "monoplace",
-            "tags": "piste,\u00e9lectrique,renault,premi\u00e8re,monoplace,circuit",
-            "recuweb_url": "http://fr.recuweb.com/monoplace/lejdc.fr/2015/04/la-fausse-catastrophe-sous-contr%C3%B4le",
+            "tags": "comme,comp\u00e9tition,monoplace,manche",
+            "recuweb_url": "http://fr.recuweb.com/monoplace/ladepeche.fr/2015/05/les-lavardacais-r%C3%A9pondent-pr%C3%A9sents",
             "resource_url": "http://www.bing.com/news/search?first=1&q=monoplace&format=RSS&cc=fr",
-            "source_url": "http://lejdc.fr/accueil/brightcove/2015/04/29/la-fausse-catastrophe-sous-controle_94204271255001.html"
+            "source_url": "http://ladepeche.fr/article/2015/05/02/2097323-les-lavardacais-repondent-presents.html"
         },
-        "msn.com/2015/04/premier-succ%C3%A8s-au-volant-dune-monoplace-pour-le-fils-de-schumacher": {
-            "title": "Premier succ\u00e8s au volant dune monoplace pour le fils de Schumacher...",
-            "snippet": "Mick Schumacher, le fils du septuple champion de Formule 1 Michael Schumacher, a remport\u00e9 la toute premi\u00e8re course de monoplace de sa jeune carri\u00e8re, d\u00e9but\u00e9e cette saison en Formule 4. Un succ\u00e8s pr\u00e9coce pour le pilote, tout juste g\u00e9 de 16...",
-            "date": "2015-04-29",
-            "categories": "monoplace,formule",
-            "tags": "pilote,premi\u00e8re,course,fils,fils-du-septuple,septuple,septuple-champion,champion,premier,monoplace,schumacher,mick,formule,michael",
-            "recuweb_url": "http://fr.recuweb.com/formule/msn.com/2015/04/premier-succ%C3%A8s-au-volant-dune-monoplace-pour-le-fils-de-schumacher",
+        "canalplus.fr/2015/05/mclaren-va-modifier-sa-livr%C3%A9e": {
+            "title": "McLaren va modifier sa livr\u00e9e...",
+            "snippet": "L\u00e9quipe na donc nullement lintention de repeindre enti\u00e8rement ses monoplaces en orange, par exemple, ce qui aurait pourtant ravi ses fans.",
+            "date": "2015-05-02",
+            "categories": "monoplace",
+            "tags": "monoplaces,l\u00e9quipe",
+            "recuweb_url": "http://fr.recuweb.com/monoplace/canalplus.fr/2015/05/mclaren-va-modifier-sa-livr%C3%A9e",
             "resource_url": "http://www.bing.com/news/search?first=1&q=monoplace&format=RSS&cc=fr",
-            "source_url": "http://msn.com/fr-ca/actualites/sport/premier-succ\u00e8s-au-volant-d\u2019une-monoplace-pour-le-fils-de-schumacher/ar-BBiMp2U?srcref=rss"
+            "source_url": "http://canalplus.fr/c-sport/c-autres-sports/c-f1/c-f1-news/cid1257898-mclaren-va-modifier-sa-livree.html"
+        },
+        "fr.sports.yahoo.com/2015/05/pas-de-nouvelle-manor-cette-saison": {
+            "title": "Pas de nouvelle Manor cette saison?",
+            "snippet": "Manor pourrait ne pas introduire de nouvelle monoplace cette saison. L\u00e9quipe britannique utilise pour le moment un chssis 2014 modifi\u00e9, propuls\u00e9 par un V6 turbo hybride Ferrari de lann\u00e9e derni\u00e8re. Son objectif \u00e9tait de finir la conception...",
+            "date": "2015-05-02",
+            "categories": "monoplace",
+            "tags": "\u00e9tait,monoplace,l\u00e9quipe",
+            "recuweb_url": "http://fr.recuweb.com/monoplace/fr.sports.yahoo.com/2015/05/pas-de-nouvelle-manor-cette-saison",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=monoplace&format=RSS&cc=fr",
+            "source_url": "http://fr.sports.yahoo.com/news/nouvelle-manor-saison-080145129.html"
         },
         "fr.autoblog.com/2015/04/d%C3%A9buts-tonitruants-en-monoplace-pour-le-fils-de-schumacher": {
             "title": "D\u00e9buts tonitruants en monoplace pour le fils de Schumacher!",
             "snippet": "Ce sont des d\u00e9buts qui ont fait grand bruit, en Allemagne comme ailleurs: le fils de Michael Schumacher, Mick, s'est impos\u00e9 d\u00e8s sa troisi\u00e8me course en monopalce. C'\u00e9tait le week-end dernier sur le circuit d'Oschersleben. Engag\u00e9 dans le...",
             "date": "2015-04-28",
             "categories": "monoplace",
-            "tags": "end,\u00e9tait,week,course,fils,michael,comme,d\u00e9buts,monoplace,schumacher,grand,allemagne,mick,circuit,oschersleben",
+            "tags": "end,\u00e9tait,week,course,comme,monoplace,grand,circuit",
             "recuweb_url": "http://fr.recuweb.com/monoplace/fr.autoblog.com/2015/04/d%C3%A9buts-tonitruants-en-monoplace-pour-le-fils-de-schumacher",
             "resource_url": "http://www.bing.com/news/search?first=1&q=monoplace&format=RSS&cc=fr",
             "source_url": "http://fr.autoblog.com/2015/04/28/debuts-tonitruants-en-monoplace-pour-le-fils-de-schumacher/"
-        },
-        "autohebdo.fr/2015/04/mugello-r%C3%A9sum%C3%A9-du-challenge-monoplaces": {
-            "title": "Mugello: R\u00e9sum\u00e9 du Challenge Monoplaces V de V...",
-            "snippet": "\u00c0 lextinction des feux, Alexey Chulkin bondissait en t\u00eate, ce qui avait le don de r\u00e9veiller le poleman Suisse qui r\u00e9alisait un deuxi\u00e8me tour extraordinaire en 146149 contre 147994 au Russe. D\u00e8s lors, les choses \u00e9taient entendues...",
-            "date": "2015-04-28",
-            "categories": "monoplace",
-            "tags": "monoplaces,tour",
-            "recuweb_url": "http://fr.recuweb.com/monoplace/autohebdo.fr/2015/04/mugello-r%C3%A9sum%C3%A9-du-challenge-monoplaces",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=monoplace&format=RSS&cc=fr",
-            "source_url": "http://autohebdo.fr/v-de-v/v-de-v/article-55-55-32923/280415-mugello-r\u00e9sum\u00e9-du-challenge-monoplaces-v-de-v"
-        },
-        "lepoint.fr/2015/04/mick-schumacher-et-sa-premi%C3%A8re-victoire-en-monoplace": {
-            "title": "Mick Schumacher et sa premi\u00e8re victoire en monoplace...",
-            "snippet": "Mick Schumacher, fils du septuple champion du monde de F1 Michael Schumacher, a sign\u00e9 sa premi\u00e8re victoire en monoplace en remportant la 3e course de ses d\u00e9buts en Formule 4, samedi sur le circuit d'Oschersleben (nord de l'Allemagne). C'est...",
-            "date": "2015-04-27",
-            "categories": "monoplace,formule",
-            "tags": "course,d\u00e9buts,premi\u00e8re,michael,schumacher,fils,fils-du-septuple,septuple,septuple-champion,champion,monde,mick,monoplace,formule,circuit,oschersleben,allemagne",
-            "recuweb_url": "http://fr.recuweb.com/formule/lepoint.fr/2015/04/mick-schumacher-et-sa-premi%C3%A8re-victoire-en-monoplace",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=monoplace&format=RSS&cc=fr",
-            "source_url": "http://lepoint.fr/automobile/actualites/mick-schumacher-et-sa-1ere-victoire-en-monoplace-26-04-2015-1924407_683.php"
         },
         "dna.fr/2015/04/circuit-tom-dillmann-revient-en-monoplace-retour-aux-affaires-dna-derni%C3%A8res": {
             "title": "Circuit - Tom Dillmann revient en monoplace Retour aux affaires - DNA - Derni\u00e8res Nouvelles...",
@@ -76,7 +66,7 @@
             "snippet": "US RACINGS\u00e9bastien Bourdais: 'Ma monoplace pour l'Indy 500 est abim\u00e9e'US RACINGAu meilleur de la situation nous \u00e9tions quatri\u00e8me, la monoplace \u00e9tait bonne avec les pneumatiques pr\u00e9vus pour la pluie, mais aussi lorsque la piste s'ass\u00e9chait.",
             "date": "2015-04-13",
             "categories": "monoplace",
-            "tags": "piste,\u00e9tait,monoplace",
+            "tags": "\u00e9tait,monoplace",
             "recuweb_url": "http://fr.recuweb.com/monoplace/us-racing.com/2015/04/s%C3%A9bastien-bourdais-ma-monoplace-pour-l-indy-500-est-abim%C3%A9e-us",
             "resource_url": "http://news.google.fr/?hl=fr&q=monoplace&output=atom&nord=1",
             "source_url": "http://us-racing.com/Info-2015-04-13-sebastien-bourdais-ma-monoplace-pour-l-indy-500-est-abimee.html"
@@ -86,7 +76,7 @@
             "snippet": "francetv sportM\u00eame \u00e9lectrique, cette monoplace en a sous le capotfrancetv sportDe l'ext\u00e9rieur, on dirait une Formule 1 classique, avec chassis et freins en carbone. A l'int\u00e9rieur, un concentr\u00e9 de technologie. Equip\u00e9e d'une \u00e9norme batterie, la...",
             "date": "2015-04-07",
             "categories": "technologie,sport,monoplace,formule",
-            "tags": "\u00e9lectrique,monoplace,formule",
+            "tags": "monoplace,formule",
             "recuweb_url": "http://fr.recuweb.com/formule/francetvsport.fr/2015/04/m%C3%AAme-%C3%A9lectrique-cette-monoplace-en-a-sous-le-capot-francetv-sport",
             "resource_url": "http://news.google.fr/?hl=fr&q=monoplace&output=atom&nord=1",
             "source_url": "http://francetvsport.fr/meme-electrique-cette-monoplace-en-a-sous-le-capot-273337"
