@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mysql/",
@@ -17,10 +17,21 @@
             "date": "2015-04-29",
             "author_name": "(Bob)",
             "categories": "mysql",
-            "tags": "lien,mysql",
+            "tags": "root,lien,mysql",
             "recuweb_url": "http://fr.recuweb.com/mysql/techno-net.blogspot.com/2015/04/syntaxe-lien-symbolique-sous-linux",
             "resource_url": "http://www.icerocket.com/search?tab=blog&q=mysql%2Bmysql&rss=1&lng=fr",
             "source_url": "http://techno-net.blogspot.com/2015/04/syntaxe-lien-symbolique-sous-linux.html"
+        },
+        "blog.yves-astier.fr/2015/04/le-bl0g-d-un-g33k-mysql-reset-mot-de-passe-perdu": {
+            "title": "Le bl0g d'un g33k! - Mysql: reset un mot de passe perdu pour le root!",
+            "snippet": "Rien de plus d\u00e9sagr\u00e9able que de perdre son mot de passe root surtout quand on doit faire en urgence une installation d'un projet pour un client (ahah!), et c'est ce qui vient de m'arriver! Apr\u00e8s avoir relu la doc de MySQL...",
+            "date": "2015-04-21",
+            "author_name": "Draeli",
+            "categories": "mysql",
+            "tags": "avoir,client,mot,mot-de-passe,root,installation,mysql,projet",
+            "recuweb_url": "http://fr.recuweb.com/mysql/blog.yves-astier.fr/2015/04/le-bl0g-d-un-g33k-mysql-reset-mot-de-passe-perdu",
+            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.yves-astier.fr/fr/933/mysql-reset-un-mot-de-passe-perdu-pour-le-root"
         },
         "forum.alsacreations.com/2015/04/r%C3%A9solu-creation-d-une-table-mysql-chez-ovh-alsacreations": {
             "title": "R\u00c9SOLU -Creation d'une table mysql chez ovh - Alsacreations...",
@@ -28,7 +39,7 @@
             "date": "2015-04-18",
             "author_name": "kodjoed",
             "categories": "mysql",
-            "tags": "connecter,table,mysql,base,site",
+            "tags": "connecter,table,mysql,bonjour,base,site",
             "recuweb_url": "http://fr.recuweb.com/mysql/forum.alsacreations.com/2015/04/r%C3%A9solu-creation-d-une-table-mysql-chez-ovh-alsacreations",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.alsacreations.com/topic-20-75500-1.html"
@@ -39,7 +50,7 @@
             "date": "2015-04-15",
             "author_name": "inconnu",
             "categories": "php,mysql,emploi",
-            "tags": "fin,recherchons,d\u00e9veloppeur,web,php,mysql,offres,d\u00e9veloppement",
+            "tags": "fin,d\u00e9veloppeur,web,php,mysql,offres,d\u00e9veloppement",
             "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/d%C3%A9veloppeur-web-php-mysql-offres-d-emploi-alsacr%C3%A9ations",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.alsacreations.com/offre-560865-Developpeur-web-php-mysql.html"
@@ -50,21 +61,21 @@
             "date": "2015-04-14",
             "author_name": "John LEBRUMENT",
             "categories": "mysql",
-            "tags": "savoir,installer,serveur,installation,lamp,apache,mysql,web",
+            "tags": "savoir,installer,serveur,jeu,installation,lamp,apache,mysql,web",
             "recuweb_url": "http://fr.recuweb.com/mysql/lebrument.free.fr/2015/04/installation-et-configuration-de-lamp-sur-ubuntu-apache-mysql",
             "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lebrument.free.fr/wordpress/wordpressfr/?p=410"
         },
-        "endormitoire.wordpress.com/2015/04/mysql-et-squeak-pharo-l-endormitoire": {
-            "title": "MySQL et Squeak et Pharo L'Endormitoire...",
-            "snippet": "Dans l'\u00e9ventualit\u00e9 d'une r\u00e9\u00e9criture du driver de MySQL pour Squeak et Pharo, j'aimerais avoir une id\u00e9e de ce que les gens utilisent! R\u00e9pondez aux sondages svp! Versions de Squeak et Pharo. Versions de MySQL.",
-            "date": "2015-04-05",
-            "author_name": "endormitoire",
+        "glpi-project.org/2015/03/mysql-process-bloqu%C3%A9-aux-alentour-des-99%-page-1-plugin": {
+            "title": "mysql process bloqu\u00e9 aux alentour des 99% (Page 1) Plugin...",
+            "snippet": "mysql process bloqu\u00e9 aux alentour des 99% (Page 1) Plugin FusionInventory Forum GLPI-Project Forum du projet GLPI - Glpi-project's Forum.",
+            "date": "2015-03-28",
+            "author_name": "ser_glpi",
             "categories": "mysql",
-            "tags": "avoir,driver,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/endormitoire.wordpress.com/2015/04/mysql-et-squeak-pharo-l-endormitoire",
-            "resource_url": "http://www.google.com/search?q=mysql%2Bmysql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://endormitoire.wordpress.com/2015/04/05/mysql-et-squeak-et-pharo/"
+            "tags": "mysql,projet",
+            "recuweb_url": "http://fr.recuweb.com/mysql/glpi-project.org/2015/03/mysql-process-bloqu%C3%A9-aux-alentour-des-99%-page-1-plugin",
+            "resource_url": "http://www.google.com/search?q=mysql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://glpi-project.org/forum/viewtopic.php?id=47303"
         },
         "triccapfooterb.wordpress.com/2015/03/telecharger-le-pilote-jdbc-mysql": {
             "title": "Telecharger le pilote jdbc mysql...",
@@ -72,7 +83,7 @@
             "date": "2015-03-14",
             "author_name": "triccapfooterb",
             "categories": "mysql",
-            "tags": "driver,mysql,telecharger",
+            "tags": "mysql,telecharger",
             "recuweb_url": "http://fr.recuweb.com/mysql/triccapfooterb.wordpress.com/2015/03/telecharger-le-pilote-jdbc-mysql",
             "resource_url": "http://fr.search.wordpress.com/?q=mysql%2Bmysql&f=feed&page=1",
             "source_url": "http://triccapfooterb.wordpress.com/2015/03/14/telecharger-le-pilote-jdbc-mysql/"
@@ -83,7 +94,7 @@
             "date": "2015-01-27",
             "author_name": "cobaltnightsky",
             "categories": "php,mysql",
-            "tags": "installation,service,server,apache,ligne,ligne-de-commande,commande,serveur,installer,lamp,pratique,php,mysql",
+            "tags": "installation,server,apache,ligne,ligne-de-commande,commande,serveur,installer,lamp,pratique,php,mysql",
             "recuweb_url": "http://fr.recuweb.com/mysql/macgyvertoolbelt.wordpress.com/2015/01/installer-un-serveur-lamp-en-une-ligne-debian",
             "resource_url": "http://fr.search.wordpress.com/?q=mysql%2Bmysql&f=feed&page=1",
             "source_url": "http://macgyvertoolbelt.wordpress.com/2015/01/27/installer-un-serveur-lamp-en-une-ligne-debian/"
@@ -94,7 +105,7 @@
             "date": "2014-09-05",
             "author_name": "mahdidjebarri",
             "categories": "mysql",
-            "tags": "modifier,mysql,ligne,ligne-de-commande,commande,peut,pratique,utiliser",
+            "tags": "modifier,mot,mot-de-passe,mysql,ligne,ligne-de-commande,commande,pratique,utiliser",
             "recuweb_url": "http://fr.recuweb.com/mysql/mahdidjebarri.wordpress.com/2014/09/utiliser-mysql-en-ligne-de-commande",
             "resource_url": "http://fr.search.wordpress.com/?q=mysql%2Bmysql&f=feed&page=1",
             "source_url": "http://mahdidjebarri.wordpress.com/2014/09/05/utiliser-mysql-en-ligne-de-commande/"
@@ -105,7 +116,7 @@
             "date": "2014-05-04",
             "author_name": "atmon3r",
             "categories": "mysql",
-            "tags": "connecter,databases,commande,bases,donn\u00e9es,mysql,sql",
+            "tags": "connecter,commande,bases,donn\u00e9es,mysql,sql,databases",
             "recuweb_url": "http://fr.recuweb.com/mysql/atmon3r.wordpress.com/2014/05/lister-les-base-de-donn%C3%A9es-mysql",
             "resource_url": "http://fr.search.wordpress.com/?q=mysql%2Bmysql&f=feed&page=1",
             "source_url": "http://atmon3r.wordpress.com/2014/05/04/lister-les-base-de-donnees-mysql/"
