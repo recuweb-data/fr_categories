@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "natation-sportive",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/natation-sportive/",
@@ -11,14 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/natation-sportive/natation-sportive/blogs.json"
     },
     "items": {
+        "amis-sportifs.com/2015/04/la-natation-amis-sportifs": {
+            "title": "La natation Amis Sportifs...",
+            "snippet": "La natation sportive regroupe en r\u00e9alit\u00e9 plusieurs types de disciplines qui peuvent \u00eatre pratiqu\u00e9es par les nageurs.... La natation sportive peu s'effectuer en \u00e9quipe de 4 nageurs ou bien en individuel selon les comp\u00e9titions.",
+            "date": "2015-04-28",
+            "author_name": "florian",
+            "categories": "discipline",
+            "tags": "nageurs,individuel,sportifs,natation,sportive,disciplines",
+            "recuweb_url": "http://fr.recuweb.com/discipline/amis-sportifs.com/2015/04/la-natation-amis-sportifs",
+            "resource_url": "http://www.google.com/search?q=natation%2Bsportive&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://amis-sportifs.com/article-20-la-natation-html"
+        },
         "rns-cen.com/2015/04/r%C3%A9sultats-rns-2015-natation-rencontre-nationale-sportive": {
             "title": "R\u00e9sultats RNS 2015 Natation Rencontre Nationale Sportive...",
             "snippet": "Rencontre Nationale Sportive et Activit\u00e9s Culturelles de la communaut\u00e9 malagasy en Europe. Accueil; Pr\u00e9sentation. RNS... Les r\u00e9sultats complets de la Natation pour l'\u00e9dition 2015 sont ici natation. Partager l'article sur.",
             "date": "2015-04-10",
             "author_name": "Administrateur",
-            "tags": "rencontre,sportive,natation,europe,pr\u00e9sentation,partager",
+            "tags": "rencontre,sportive,natation,europe,pr\u00e9sentation",
             "recuweb_url": "http://fr.recuweb.com/rns-cen.com/2015/04/r%C3%A9sultats-rns-2015-natation-rencontre-nationale-sportive",
-            "resource_url": "http://www.google.com/search?q=natation%2Bsportive&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=natation%2Bsportive%2Bnatation%2Bsportive&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://rns-cen.com/2015/04/resultats-rns-2015-natation/"
         },
         "collegejoba.wordpress.com/2015/03/la-section-sportive-natation": {
@@ -30,17 +41,6 @@
             "recuweb_url": "http://fr.recuweb.com/collegejoba.wordpress.com/2015/03/la-section-sportive-natation",
             "resource_url": "http://fr.search.wordpress.com/?q=natation%2Bsportive%2Bnatation%2Bsportive&f=feed&page=1",
             "source_url": "http://collegejoba.wordpress.com/la-section-sportive-natation/"
-        },
-        "ententelouviers.wordpress.com/2015/02/la-natation-sportive-entente-louviers": {
-            "title": "La natation sportive Entente Natation Louviers...",
-            "snippet": "La natation sportive. Publi\u00e9 le 22 f\u00e9vrier 2015 par lauramauchosse. Partager: Twitter Facebook Google. J'aime: J'aime chargement Sur le m\u00eame th\u00e8me. L'\u00e9cole de natation. Dans \"Non class\u00e9\"...",
-            "date": "2015-02-22",
-            "author_name": "lauramauchosse",
-            "categories": "twitter,facebook,google",
-            "tags": "natation,sportive,f\u00e9vrier,partager",
-            "recuweb_url": "http://fr.recuweb.com/google/ententelouviers.wordpress.com/2015/02/la-natation-sportive-entente-louviers",
-            "resource_url": "http://www.google.com/search?q=natation%2Bsportive&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://ententelouviers.wordpress.com/2015/02/22/la-natation-sportive/"
         },
         "collegejoba.wordpress.com/2015/02/la-section-sportive-natation": {
             "title": "La section sportive Natation...",
@@ -69,7 +69,7 @@
             "date": "2014-04-13",
             "author_name": "laubugemaialenn",
             "categories": "sport",
-            "tags": "aquatique,natation,sportive,sport,piscine",
+            "tags": "aquatique,individuel,natation,sportive,sport,piscine",
             "recuweb_url": "http://fr.recuweb.com/sport/lessportsnautiques.wordpress.com/2014/04/la-natation-sportive",
             "resource_url": "http://fr.search.wordpress.com/?q=natation%2Bsportive%2Bnatation%2Bsportive&f=feed&page=1",
             "source_url": "http://lessportsnautiques.wordpress.com/la-natation-sportive/"
