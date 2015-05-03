@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "drupal",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/drupal/",
@@ -11,24 +11,64 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/drupal/drupal/blogs.json"
     },
     "items": {
-        "emploi.handicap.fr/2015/04/cv-23055-informatique-administration-de-site-web": {
-            "title": "CV 23055 - Informatique, Administration de site Web...",
-            "snippet": "CM S: Joomla, Drupal, Prestashop, OS-Commerce SGBD: SQL, MySQL, Access. Traitement dimage: Photoshop, Illustrator, Flash. Outils et M\u00e9thodologies: SVN Tortoise, Agile (UP), R\u00e9f\u00e9rencement SEO.",
-            "date": "2015-04-25",
-            "categories": "joomla,drupal,mysql,traitement",
-            "tags": "site,web,joomla,drupal,flash",
-            "recuweb_url": "http://fr.recuweb.com/traitement/emploi.handicap.fr/2015/04/cv-23055-informatique-administration-de-site-web",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
-            "source_url": "http://emploi.handicap.fr/cv-emploi-handicap-23055.php"
+        "opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem": {
+            "title": "How containers will shape the Drupal ecosystem -...",
+            "snippet": "containers will shape the Drupal recently had the opportunity to interview David Strauss about how Pantheon uses containers to isolate many Drupal applications from development to production environments. His upcoming DrupalCon talk, PHP Containers...",
+            "date": "2015-05-01",
+            "categories": "php,drupal",
+            "tags": "php,development,will,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/opensource.com/2015/05/how-containers-will-shape-the-drupal-ecosystem",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/5/how-containers-will-shape-drupal-ecosystem"
         },
-        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f": {
-            "title": "D\u00e9veloppeur Confirm\u00e9 Drupal 7 H/F...",
-            "snippet": "Notre structure Accommodata d\u00e9veloppe depuis plus de 2 ans un CRM sur Drupal 7. Le lancement est pr\u00e9vu pour le 1er Janvier 2016, avec une version Beta au 31 septembre 2014. Notre outil regroupe un grand nombre de fonctionnalit\u00e9 de Drupal Notre...",
+        "pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket": {
+            "title": "Web Developer (Drupal & PHP) - Pocket...",
+            "snippet": "Web Developer (Drupal & PHP)Pocket will have a strong background in PHP Development, have been part of several Drupal 6/7 implementation or upgrade projects, and have experience with integrating Drupal with external API's. You will demonstrate an...",
+            "date": "2015-05-01",
+            "categories": "drupal,php",
+            "tags": "will,web,drupal,php,development",
+            "recuweb_url": "http://fr.recuweb.com/php/pocketgamer.biz/2015/05/web-developer-drupal-&-php-pocket",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "source_url": "http://pocketgamer.biz/jobs/advert/391/web-developer-drupal-and-php/"
+        },
+        "opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs": {
+            "title": "Building better pages in Drupal with Paragraphs -...",
+            "snippet": "better pages in Drupal with of content management systems like Drupal have a number of options that allow them to create very attractive, very usable layouts. That's one factor that drew Murray Woodman to Drupal. He co-founded Morpht, a...",
+            "date": "2015-04-30",
+            "categories": "management,drupal",
+            "tags": "content,management,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/opensource.com/2015/04/building-better-pages-in-drupal-with-paragraphs",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
+            "source_url": "http://opensource.com/business/15/4/interview-Murray-Woodman-Morpht"
+        },
+        "emploi.silicon.fr/2015/04/concepteur-d%C3%A9veloppeur-digital-confirm%C3%A9-h-f": {
+            "title": "CONCEPTEUR D\u00c9VELOPPEUR DIGITAL CONFIRM\u00c9 (H/F)...",
+            "snippet": "Une exp\u00e9rience en pilotage de projet et avant-vente ainsi que lamaitrise de solutions telles que MAGENTO, DRUPAL, PRESTASHOP, JALIOS sont des plus. Curieux, autonome, impliqu\u00e9 et dot\u00e9 d un bon relationnel vous souhaitez rejoindre une \u00e9quipe...",
+            "date": "2015-04-30",
+            "categories": "magento,drupal",
+            "tags": "avant,d\u00e9veloppeur,confirm\u00e9,solutions,magento,drupal,prestashop",
+            "recuweb_url": "http://fr.recuweb.com/drupal/emploi.silicon.fr/2015/04/concepteur-d%C3%A9veloppeur-digital-confirm%C3%A9-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/452581/concepteur-dveloppeur-digital-confirm-hf/"
+        },
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-web-drupal-paris-centre-h-f": {
+            "title": "D\u00e9veloppeur Web Drupal Paris centre - H/F...",
+            "snippet": "Pour soutenir notre forte croissance, nous avons besoin de nous appuyer sur les plus grands talents. En collaboration avec les fondateurs de la soci\u00e9t\u00e9 vous serez en charge, en toute autonomie, des clefs du d\u00e9veloppement de projets web ambitieux...",
+            "date": "2015-04-30",
+            "categories": "drupal",
+            "tags": "projets,web,d\u00e9veloppeur,drupal,paris",
+            "recuweb_url": "http://fr.recuweb.com/drupal/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-web-drupal-paris-centre-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Web+Drupal+Paris+centre+-+HF/30178"
+        },
+        "emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f-presse-citron-blog": {
+            "title": "D\u00e9veloppeur Confirm\u00e9 Drupal 7 H/F - Presse-citron (Blog)...",
+            "snippet": "D\u00e9veloppeur Confirm\u00e9 Drupal 7 H/FPresse-citron (Blog)Notre structure Accommodata d\u00e9veloppe depuis plus de 2 ans un CRM sur Drupal 7. Le lancement est pr\u00e9vu pour le 1er Janvier 2016, avec une version Beta au 31 septembre 2014. Notre outil...",
             "date": "2015-04-23",
             "categories": "drupal",
-            "tags": "version,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
+            "tags": "version,d\u00e9veloppeur,confirm\u00e9,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/emploi.presse-citron.net/2015/04/d%C3%A9veloppeur-confirm%C3%A9-drupal-7-h-f-presse-citron-blog",
+            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Confirm\u00e9+Drupal+7+HF/30089"
         },
         "developpez.com/2015/04/smile-pr%C3%A9pare-la-sortie-de-drupal-8": {
@@ -36,7 +76,7 @@
             "snippet": "Drupal est un CMS (Content Management System, ou syst\u00e8me de gestion de contenu) open source, qui permet de publier facilement, de g\u00e9rer et dorganiser des contenus sur le Web. Loutil jouit dune grande popularit\u00e9 et figure parmi les meilleurs...",
             "date": "2015-04-23",
             "categories": "management,drupal",
-            "tags": "contenu,open,open-source,source,gestion,content,management,system,drupal,cms,web",
+            "tags": "contenu,gestion,content,management,drupal,cms,web",
             "recuweb_url": "http://fr.recuweb.com/drupal/developpez.com/2015/04/smile-pr%C3%A9pare-la-sortie-de-drupal-8",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://developpez.com/actu/84293/Smile-prepare-la-sortie-de-Drupal-8-le-groupe-lance-un-portail-dedie-a-la-prochaine-version-majeure-du-CMS-open-source/"
@@ -46,70 +86,30 @@
             "snippet": "Vous avez une bonne connaissance des technologies digitales et vous avez id\u00e9alement travaill\u00e9 sur des CMS (Magento, Wordpress, Drupal) par votre fonction actuelle commerciale et/ou management de projets. Vous savez mettre en perspective les...",
             "date": "2015-04-22",
             "categories": "management,connaissance,technologie,magento,wordpress,drupal",
-            "tags": "management,cms,magento,wordpress,drupal",
+            "tags": "management,projets,cms,magento,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/distributique.com/2015/04/account-manager-h-f-agence-digitale",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://distributique.com/actualites/lire-account-manager-h-f-agence-digitale-23175.html"
-        },
-        "lemondeinformatique.fr/2015/04/oxalide-recrute-plus-de-30-ing%C3%A9nieurs-syst%C3%A8mes-et-r%C3%A9seaux": {
-            "title": "Oxalide recrute plus de 30 ing\u00e9nieurs syst\u00e8mes et r\u00e9seaux...",
-            "snippet": "Depuis sa cr\u00e9ation en 2000, Oxalide a construit sa r\u00e9ussite sur une double expertise applicative (Varnish, Magento, Drupal, hybris, EZ Publish, etc.) et syst\u00e8mes/r\u00e9seaux, pour optimiser, en continu, les plateformes web de ses clients. Cloud...",
-            "date": "2015-04-21",
-            "categories": "magento,drupal",
-            "tags": "web,magento,drupal,etc",
-            "recuweb_url": "http://fr.recuweb.com/drupal/lemondeinformatique.fr/2015/04/oxalide-recrute-plus-de-30-ing%C3%A9nieurs-syst%C3%A8mes-et-r%C3%A9seaux",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
-            "source_url": "http://lemondeinformatique.fr/actualites/lire-oxalide-recrute-plus-de-30-ingenieurs-systemes-et-reseaux-60912.html"
         },
         "directioninformatique.com/2015/04/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout": {
             "title": "Les chiffres ne mentent pas: le logiciel libre est partout...",
             "snippet": "Pour conclure, je citerai Dries Buytaert, fondateur du gestionnaire de contenu libre Drupal utilis\u00e9 par la STM, la Ville de Montr\u00e9al, Guardian Life, Los Angeles, Pfizer, NBC, BBC, etc.: Les chiffres ne mentent pas. Cette ann\u00e9e a une nouvelle...",
             "date": "2015-04-19",
             "categories": "drupal",
-            "tags": "contenu,drupal,etc",
+            "tags": "contenu,drupal",
             "recuweb_url": "http://fr.recuweb.com/drupal/directioninformatique.com/2015/04/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout",
             "resource_url": "http://www.bing.com/news/search?first=1&q=drupal&format=RSS&cc=fr",
             "source_url": "http://directioninformatique.com/blogue/les-chiffres-ne-mentent-pas-le-logiciel-libre-est-partout/35320"
         },
-        "computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia": {
-            "title": "govCMS to release its own Drupal distribution - Computerworld Australia...",
-            "snippet": "Computerworld AustraliagovCMS to release its own Drupal distributionComputerworld AustraliaThe government's govCMS project will make its own Drupal distribution publicly available for download, it announced today. The distribution will be a fork of...",
-            "date": "2015-04-16",
-            "categories": "drupal",
-            "tags": "drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/computerworld.com.au/2015/04/govcms-to-release-its-own-drupal-distribution-computerworld-australia",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal%2Bdrupal&output=atom&nord=1",
-            "source_url": "http://computerworld.com.au/article/572793/govcms-release-its-own-drupal-distribution/"
-        },
-        "pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine": {
-            "title": "WordPress Vs Drupal Vs Joomla - PC Tech Magazine...",
-            "snippet": "PC Tech MagazineWordPress Vs Drupal Vs JoomlaPC Tech MagazineIn case you have decided to create a website and you are wondering which content management system (CMS) is the best choice for you. This post is going to look at three of the most...",
-            "date": "2015-04-13",
-            "categories": "management,drupal,wordpress,joomla",
-            "tags": "content,management,system,drupal,wordpress,joomla,cms",
-            "recuweb_url": "http://fr.recuweb.com/joomla/pctechmag.com/2015/04/wordpress-vs-drupal-joomla-pc-tech-magazine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
-            "source_url": "http://pctechmag.com/2015/04/wordpress-vs-joomla-vs-drupal/"
-        },
-        "linux.com/2015/04/git-success-stories-and-tips-from-drupal-core-committer-angie-byron": {
-            "title": "Git Success Stories and Tips from Drupal Core Committer Angie Byron - (blog)...",
-            "snippet": "Git Success Stories and Tips from Drupal Core Committer Angie (blog)Angie Byron Drupal The Git revision control system is at the center of Drupal's hyper-collaborative community says Drupal core committer Angie Byron. The open source content...",
+        "globalsecuritymag.fr/2015/04/vigilnce-drupal-ubercart-webform-checkout-pane-cross-site-global-security-mag": {
+            "title": "Vigilnce - Drupal Ubercart Webform Checkout Pane: Cross Site... - Global Security Mag...",
+            "snippet": "Vigilnce - Drupal Ubercart Webform Checkout Pane: Cross Site...Global Security MagLe module Ubercart Webform Checkout Pane peut \u00eatre install\u00e9 sur Drupal. Cependant, les donn\u00e9es re\u00e7ues ne sont pas filtr\u00e9es avant d'\u00eatre ins\u00e9r\u00e9es dans les...",
             "date": "2015-04-09",
             "categories": "drupal",
-            "tags": "open,open-source,source,content,system,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/linux.com/2015/04/git-success-stories-and-tips-from-drupal-core-committer-angie-byron",
+            "tags": "avant,site,drupal",
+            "recuweb_url": "http://fr.recuweb.com/drupal/globalsecuritymag.fr/2015/04/vigilnce-drupal-ubercart-webform-checkout-pane-cross-site-global-security-mag",
             "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
-            "source_url": "http://linux.com/news/featured-blogs/200-libby-clark/822227-git-success-stories-and-tips-from-drupal-core-committer-angie-byron"
-        },
-        "globalsecuritymag.fr/2015/04/vigilnce-drupal-webform-multiple-file-upload-cross-site-global-security-mag": {
-            "title": "Vigilnce - Drupal Webform Multiple File Upload: Cross Site... - Global Security Mag...",
-            "snippet": "Vigilnce - Drupal Webform Multiple File Upload: Cross Site...Global Security MagLe module Webform Multiple File Upload peut \u00eatre install\u00e9 sur Drupal. Cependant, l'origine des requ\u00eates n'est pas valid\u00e9e. Elles peuvent par exemple provenir d'une...",
-            "date": "2015-04-09",
-            "categories": "drupal",
-            "tags": "site,drupal",
-            "recuweb_url": "http://fr.recuweb.com/drupal/globalsecuritymag.fr/2015/04/vigilnce-drupal-webform-multiple-file-upload-cross-site-global-security-mag",
-            "resource_url": "http://news.google.fr/?hl=fr&q=drupal&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Drupal-Webform-Multiple,20150410,52192.html"
+            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Drupal-Ubercart-Webform,20150410,52194.html"
         }
     }
 }
