@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "adwords",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/adwords/",
@@ -35,18 +35,6 @@
             "source_url": "http://dailymotion.com/video/x2k3ss1_teaser-de-la-formation-video-apprendre-adwords-2015-pour-le-search-elephorm_school",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2k3ss1_teaser-de-la-formation-video-apprendre-adwords-2015-pour-le-search-elephorm_school"
         },
-        "dailymotion.com/2014/07/qu-est-ce-que-google-adwords": {
-            "title": "Qu'est-ce que Google Adwords?",
-            "snippet": "Adwords est la plateforme publicitaire de Google, le c\u00e9l\u00e8bre moteur de recherche Am\u00e9ricain utilis\u00e9 par plus de 9 internautes Fran\u00e7ais sur 10. Adwords est un outil puissant mais complexe pour obtenir des visiteurs int\u00e9ress\u00e9s par vos produits...",
-            "date": "2014-07-13",
-            "author_name": "elseecom",
-            "categories": "moteur-de-recherche,google,adwords",
-            "tags": "google,google_adwords,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/dailymotion.com/2014/07/qu-est-ce-que-google-adwords",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/adwords/0?af=1",
-            "source_url": "http://dailymotion.com/video/x21ejbe_qu-est-ce-que-google-adwords_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x21ejbe_qu-est-ce-que-google-adwords_tech"
-        },
         "youtube.com/2014/04/formation-google-adwords-astuce-keyword-video-hd": {
             "title": "Formation Google Adwords - Astuce Google Adwords keyword - Video HD...",
             "snippet": "Formation Google Adwords - Astuce Google Adwords keyword - Video HD Bienvenue dans une nouvelle formation google adwords - Sur ce tutoriel adwords sera consacr\u00e9 \u00e0 une astuce lors de l'\u00e9dition de vos annonces adwords, il s'agit de l'astuce Google...",
@@ -65,7 +53,7 @@
             "date": "2014-03-03",
             "author_name": "Amayes Sadeg",
             "categories": "google,adwords",
-            "tags": "tutoriel,cr\u00e9er,campagne,hui,google,google_adwords,adwords,consacr\u00e9,aujourd,lors",
+            "tags": "tutoriel,cr\u00e9er,campagne,hui,google,google_adwords,adwords,consacr\u00e9,tutoriel_adwords,aujourd,lors",
             "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2014/03/tutoriel-adwords-cr%C3%A9ation-d-une-campagne-hd",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=yNze1rzEJEU&feature=youtube_gdata",
@@ -125,11 +113,23 @@
             "date": "2013-09-17",
             "author_name": "PumpUp",
             "categories": "internet,google,adwords",
-            "tags": "google,google_adwords,adwords",
+            "tags": "site,google,google_adwords,adwords",
             "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2013/09/pourquoi-utiliser-google-adwords-pour-r%C3%A9f%C3%A9rencer-mon-site",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=snd798Q1ku4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/snd798Q1ku4/0.jpg"
+        },
+        "youtube.com/2013/08/tutoriel-adwords-1-2": {
+            "title": "Tutoriel AdWords 1/2...",
+            "snippet": "Tutoriel AdWords 1/2 Abonnez vous \u00e0 High Tech Discovery: Cr\u00e9er une campagne publicitaire avec Google AdWords et positionner son site en premi\u00e8re place des r\u00e9sultats de recherches.... From: HighTechDiscovery Views: 718 4 ratings Time: 19:09 More...",
+            "date": "2013-08-28",
+            "author_name": "HighTechDiscovery",
+            "categories": "place,google,adwords",
+            "tags": "site,google,google_adwords,adwords,campagne,tutoriel,tutoriel_adwords,cr\u00e9er",
+            "recuweb_url": "http://fr.recuweb.com/adwords/youtube.com/2013/08/tutoriel-adwords-1-2",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=adwords%2Badwords&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=VtRRuPcpEZQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/VtRRuPcpEZQ/0.jpg"
         }
     }
 }
