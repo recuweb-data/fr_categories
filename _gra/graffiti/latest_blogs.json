@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "graffiti",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/graffiti/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/graffiti/graffiti/blogs.json"
     },
     "items": {
+        "federation16.blogspot.com/2015/04/f%C3%A9d%C3%A9ration-16-tricot-graffiti": {
+            "title": "F\u00e9d\u00e9ration 16: Tricot graffiti...",
+            "snippet": "Bient\u00f4t, des objets et du mobilier de 450 municipalit\u00e9s du Qu\u00e9bec seront emmitoufl\u00e9s de tricots. Ce sont les Cercles des fermi\u00e8res de la province qui organisent cette activit\u00e9 originale qu'elles nomment Tricot Graffiti.",
+            "date": "2015-04-22",
+            "author_name": "la m\u00f4man",
+            "categories": "graffiti",
+            "tags": "graffiti",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/federation16.blogspot.com/2015/04/f%C3%A9d%C3%A9ration-16-tricot-graffiti",
+            "resource_url": "http://www.google.com/search?q=graffiti%2Bgraffiti&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://federation16.blogspot.com/2015/04/tricot-graffiti.html"
+        },
         "allcityblog.fr/2015/04/all-city-s-graffiti-bbq-117-blog": {
             "title": "All City's Graffiti BBQ 117 - City Blog...",
             "snippet": "Chaque jour, la page Facebook All City publie une s\u00e9lection exclusive de photos ou de vid\u00e9os tri\u00e9es sur le volet: du graffiti de tr\u00e8s haut.",
@@ -50,7 +61,7 @@
             "date": "2015-03-27",
             "author_name": "ntribak5408",
             "categories": "graffiti",
-            "tags": "pris,street,street_art,art,ville,graffitis,\u00e9t\u00e9",
+            "tags": "street,street_art,art,\u00e9t\u00e9,graffitis",
             "recuweb_url": "http://fr.recuweb.com/graffiti/noratribak.wordpress.com/2015/03/graffitis-en-ville",
             "resource_url": "http://fr.search.wordpress.com/?q=graffiti%2Bgraffiti&f=feed&page=1",
             "source_url": "http://noratribak.wordpress.com/2015/03/27/happy-lama/"
