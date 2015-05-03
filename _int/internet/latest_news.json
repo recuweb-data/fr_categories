@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "internet",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -11,105 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
+        "vivre-a-chalon.com/2015/05/apr%C3%A8s-exc%C3%A8s-et-drames-le-livre-qui-dit-tout-sur-internet": {
+            "title": "Apr\u00e8s exc\u00e8s et drames... le livre qui dit tout sur internet!",
+            "snippet": "Internet? Mais cest un lieu de libert\u00e9 totale, de cr\u00e9ation, de communication et beaucoup de jeunes ne voient pas pourquoi les adultes parents et enseignants en particulier se posent tant de questions, veulent tant de r\u00e8gles, posent tant d...",
+            "date": "2015-05-02",
+            "categories": "internet",
+            "tags": "cest,apr\u00e8s,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/vivre-a-chalon.com/2015/05/apr%C3%A8s-exc%C3%A8s-et-drames-le-livre-qui-dit-tout-sur-internet",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
+            "source_url": "http://vivre-a-chalon.com/lire_Apres-exces-et-drames...-le-livre-qui-dit-tout-sur-internet-_,2303df19a7bdd222ec7bbc3ca2c481a0b630b268.html"
+        },
+        "generation-nt.com/2015/05/savez-vous-%C3%A9valuer-votre-consommation-d-internet-mobile": {
+            "title": "Savez-vous \u00e9valuer votre consommation d'Internet mobile?",
+            "snippet": "L'Internet mobile - et l'enveloppe de data qui va avec - est devenu un crit\u00e8re diff\u00e9renciant pour les forfaits propos\u00e9s par les op\u00e9rateurs, et ce d'autant plus avec la 4G. Mais d'apr\u00e8s une \u00e9tude Ipsos r\u00e9alis\u00e9e pour Prixtel, il semble que...",
+            "date": "2015-05-02",
+            "categories": "internet",
+            "tags": "apr\u00e8s,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/generation-nt.com/2015/05/savez-vous-%C3%A9valuer-votre-consommation-d-internet-mobile",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://generation-nt.com/internet-mobile-consommation-etude-ipsos-prixtel-smartphone-actualite-1914524.html"
+        },
         "la-croix.com/2015/05/adieu-internet-explorer-bonjour-microsoft-edge": {
             "title": "Adieu Internet Explorer, bonjour Microsoft Edge...",
             "snippet": "Adieu petit logo e bleu et dor\u00e9. Microsoft a d\u00e9finitivement enterr\u00e9 Internet Explorer, son navigateur phare, en pr\u00e9sentant son successeur, le 29 avril. Pr\u00e9sent depuis le milieu des ann\u00e9es 1990 et la fin de Netscape Navigator, Internet...",
             "date": "2015-05-01",
             "categories": "internet",
-            "tags": "fin,ann\u00e9es,internet,internet_explorer,explorer,microsoft,avril",
+            "tags": "fin,internet,internet_explorer,explorer,petit,microsoft,edge,adieu,adieu_internet,adieu_internet_explorer,bonjour,avril",
             "recuweb_url": "http://fr.recuweb.com/internet/la-croix.com/2015/05/adieu-internet-explorer-bonjour-microsoft-edge",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
             "source_url": "http://la-croix.com/Culture/Nouvelles-technologies/Adieu-Internet-Explorer-bonjour-Microsoft-Edge-2015-05-01-1308323"
         },
-        "franceinter.fr/2015/05/internet-au-service-des-disparus-n%C3%A9pal-france-inter": {
-            "title": "Internet au service des disparus au N\u00e9pal - France Inter...",
-            "snippet": "France InterInternet au service des disparus au N\u00e9palFrance InterDepuis le d\u00e9but de la semaine, les disparus se comptent par centaines. Le tremblement de terre a coup\u00e9 de nombreuses communications de t\u00e9l\u00e9phone et d'internet, d'o\u00f9 la...",
+        "infos-mobiles.com/2015/05/adieu-internet-explorer-bonjour-edge": {
+            "title": "Adieu Internet Explorer, bonjour Edge...",
+            "snippet": "Cest un rituel chez les g\u00e9ants am\u00e9ricains dorganiser une conf\u00e9rence d\u00e9di\u00e9e aux d\u00e9veloppeurs dont le Google I/O pour Google qui se tiendra le 28 et le 29 mai prochain, le WWDC pour Apple qui se d\u00e9roulera le 8 et le 9 juin prochain et le...",
             "date": "2015-05-01",
-            "categories": "internet",
-            "tags": "france,france_inter,inter,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/franceinter.fr/2015/05/internet-au-service-des-disparus-n%C3%A9pal-france-inter",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
-            "source_url": "http://franceinter.fr/emission-net-plus-ultra-internet-au-service-des-disparus-au-nepal"
-        },
-        "nordeclair.fr/2015/05/l-association-neuville-tiers-monde-a-son-site-internet-nord": {
-            "title": "L'association Neuville Tiers Monde a son site internet - Nord...",
-            "snippet": "Nord 'association Neuville Tiers Monde a son site internetNord oin de bousculer tout le travail effectu\u00e9 pendant des ann\u00e9es, le pr\u00e9sident avait n\u00e9anmoins dans ses objectifs la cr\u00e9ation d'un site internet. Une vitrine pour que les (futurs)...",
-            "date": "2015-05-01",
-            "categories": "internet",
-            "tags": "pr\u00e9sident,n\u00e9anmoins,ann\u00e9es,monde,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/nordeclair.fr/2015/05/l-association-neuville-tiers-monde-a-son-site-internet-nord",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
-            "source_url": "http://nordeclair.fr/info-locale/l-association-neuville-tiers-monde-a-son-site-internet-ia51b1957n721095"
-        },
-        "transeet.fr/2015/05/tour-despagne-en-direct-live-voir-vuelta-sur-internet": {
-            "title": "Tour dEspagne en direct live: voir Vuelta sur Internet...",
-            "snippet": "Tour dEspagne en direct live: voir Vuelta sur Internet Cliquez ici pour regarder le tour dEspagne en direct live et suivre la Vuelta sur Internet. vuelta albertocontador cyclisme Ainsi, un mois apr\u00e8s le tour de France, cest le Tour d...",
-            "date": "2015-05-01",
-            "categories": "internet",
-            "tags": "suivre,internet,france",
-            "recuweb_url": "http://fr.recuweb.com/internet/transeet.fr/2015/05/tour-despagne-en-direct-live-voir-vuelta-sur-internet",
+            "categories": "internet,google",
+            "tags": "adieu,adieu_internet,adieu_internet_explorer,internet,internet_explorer,explorer,bonjour,edge,cest,google,apple",
+            "recuweb_url": "http://fr.recuweb.com/google/infos-mobiles.com/2015/05/adieu-internet-explorer-bonjour-edge",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://transeet.fr/2015/05/01/tour-espagne-direct-live-vuelta-internet.html"
-        },
-        "blogs.lexpress.fr/2015/04/comment-internet-a-tu%C3%A9-lironie": {
-            "title": "Comment Internet a tu\u00e9 lironie...",
-            "snippet": "On a retrouv\u00e9 une inscription en lettres de sang sur le mur Facebook de lIronie: Internet ma tuer. Enqu\u00eate au c\u0153ur dun meurtre digital. Balotelli condamn\u00e9 par un monde sans ironie Fin 2014, Mario Balotelli (mb459), le joueur italien de...",
-            "date": "2015-04-30",
-            "categories": "internet,facebook",
-            "tags": "monde,internet,fin",
-            "recuweb_url": "http://fr.recuweb.com/facebook/blogs.lexpress.fr/2015/04/comment-internet-a-tu%C3%A9-lironie",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://blogs.lexpress.fr/pantheon-foot/2015/04/30/comment-internet-a-tue-lironie/"
-        },
-        "lefigaro.fr/2015/04/congr%C3%A8s-du-ps-la-bataille-est-lanc%C3%A9e-sur-internet-le-figaro": {
-            "title": "Congr\u00e8s du PS: la bataille est lanc\u00e9e sur Internet - Le Figaro...",
-            "snippet": "Le FigaroCongr\u00e8s du PS: la bataille est lanc\u00e9e sur InternetLe FigaroSi la demande du d\u00e9put\u00e9 de la Ni\u00e8vre Christian Paul n'a pas \u00e9t\u00e9 accept\u00e9e par le premier secr\u00e9taire du PS, le d\u00e9bat s'anime n\u00e9anmoins sur Internet et les r\u00e9seaux sociaux.",
-            "date": "2015-04-30",
-            "categories": "internet",
-            "tags": "n\u00e9anmoins,d\u00e9bat,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/lefigaro.fr/2015/04/congr%C3%A8s-du-ps-la-bataille-est-lanc%C3%A9e-sur-internet-le-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
-            "source_url": "http://lefigaro.fr/politique/le-scan/2015/04/30/25001-20150430ARTFIG00075-congres-du-ps-la-bataille-est-lancee-sur-internet.php"
+            "source_url": "http://infos-mobiles.com/microsoft/adieu-internet-explorer-bonjour-edge/95303"
         },
         "generation-nt.com/2015/04/internet-explorer-microsoft-chasse-les-pubs-trompeuses": {
             "title": "Internet Explorer: Microsoft chasse les pubs trompeuses...",
             "snippet": "Selon le centre de protection anti-malware de Microsoft, il existe actuellement une recrudescence du nombre de publicit\u00e9s en ligne dont la nature est trompeuse. De telles publicit\u00e9s tentent g\u00e9n\u00e9ralement de convaincre un internaute de consulter...",
             "date": "2015-04-30",
             "categories": "nature,chasse,internet",
-            "tags": "convaincre,existe,internet,internet_explorer,explorer,microsoft,selon",
+            "tags": "g\u00e9n\u00e9ralement,convaincre,existe,internet,internet_explorer,explorer,microsoft",
             "recuweb_url": "http://fr.recuweb.com/internet/generation-nt.com/2015/04/internet-explorer-microsoft-chasse-les-pubs-trompeuses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
             "source_url": "http://generation-nt.com/internet-explorer-publicite-trompeuse-microsoft-edge-actualite-1914612.html"
         },
-        "blogdumoderateur.com/2015/04/dessine-moi-internet-the-mapping-project-blog-du-mod%C3%A9rateur": {
-            "title": "Dessine-moi Internet: The Internet Mapping Project - Blog du Mod\u00e9rateur (Blog)...",
-            "snippet": "Blog du Mod\u00e9rateur (Blog)Dessine-moi Internet: The Internet Mapping ProjectBlog du Mod\u00e9rateur (Blog)Si vous deviez dessiner Internet, par quoi commenceriez-vous? Certains mettraient l'accent sur les sp\u00e9cificit\u00e9s techniques du r\u00e9seau, d'autres...",
-            "date": "2015-04-29",
+        "rue89.nouvelobs.com/2015/04/un-cble-sous-marin-arrive-au-b%C3%A9nin-fin-de-la-gal%C3%A8re": {
+            "title": "Un cble sous-marin arrive au B\u00e9nin: fin de la gal\u00e8re internet? - Rue89...",
+            "snippet": "Un cble sous-marin arrive au B\u00e9nin: fin de la gal\u00e8re internet?Rue89\u00c7a peut para\u00eetre anodin, mais pour un petit pays d'Afrique de l'Ouest comme le B\u00e9nin, c'est \u00e9norme: un second cble sous-marin venu d'Europe a \u00e9t\u00e9 raccord\u00e9 d\u00e9but avril au...",
+            "date": "2015-04-30",
             "categories": "internet",
-            "tags": "moi,internet,autres",
-            "recuweb_url": "http://fr.recuweb.com/internet/blogdumoderateur.com/2015/04/dessine-moi-internet-the-mapping-project-blog-du-mod%C3%A9rateur",
+            "tags": "\u00e9t\u00e9,avril,comme,petit,fin,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/rue89.nouvelobs.com/2015/04/un-cble-sous-marin-arrive-au-b%C3%A9nin-fin-de-la-gal%C3%A8re",
             "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
-            "source_url": "http://blogdumoderateur.com/internet-mapping-project/"
+            "source_url": "http://rue89.nouvelobs.com/2015/04/30/cable-sous-marin-arrive-benin-fin-galere-internet-258929"
         },
-        "lexpansion.lexpress.fr/2015/04/la-gal%C3%A8re-d-andy-dont-photo-est-reprise-partout-sur-internet": {
-            "title": "La gal\u00e8re d'Andy, dont la photo est reprise partout sur internet - L'Express...",
-            "snippet": "L'ExpressLa gal\u00e8re d'Andy, dont la photo est reprise partout sur internetL'ExpressSur Internet. Le pauvre Andy a eu le malheur de voir sa photo figurer tr\u00e8s haut dans les r\u00e9sultats de recherche de Google images, sur la requ\u00eate \"profile pic\"...",
-            "date": "2015-04-29",
-            "categories": "internet,google",
-            "tags": "internet,google",
-            "recuweb_url": "http://fr.recuweb.com/google/lexpansion.lexpress.fr/2015/04/la-gal%C3%A8re-d-andy-dont-photo-est-reprise-partout-sur-internet",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
-            "source_url": "http://lexpansion.lexpress.fr/high-tech/la-galere-d-andy-dont-la-photo-est-reprise-partout-sur-internet_1676065.html"
-        },
-        "gizmodo.fr/2015/04/quand-le-gouvernement-fran%C3%A7ais-rencontre-les-dirigeants-d-internet-gizmodo": {
-            "title": "Quand le gouvernement fran\u00e7ais rencontre les dirigeants d'Internet - Gizmodo...",
-            "snippet": "GizmodoQuand le gouvernement fran\u00e7ais rencontre les dirigeants d'Internet GizmodoVous saviez qu'Internet avait ses propres dirigeants? Moi non plus. Pourtant, le gouvernement fran\u00e7ais les a rencontr\u00e9s, pas plus tard que ce mercredi. De quoi...",
-            "date": "2015-04-29",
+        "paris.fr/2015/04/un-nouveau-site-internet-pour-le-m%C3%A9diateur-de-la-ville": {
+            "title": "Un nouveau site internet pour le M\u00e9diateur de la Ville...",
+            "snippet": "Les services du M\u00e9diateur de la Ville de Paris viennent de lancer un nouveau site internet internet d\u00e9di\u00e9:. Cet espace interactif permet aux Parisiens de s'informer sur leurs droits et propose notamment un formulaire de...",
+            "date": "2015-04-28",
             "categories": "internet",
-            "tags": "internet,moi",
-            "recuweb_url": "http://fr.recuweb.com/internet/gizmodo.fr/2015/04/quand-le-gouvernement-fran%C3%A7ais-rencontre-les-dirigeants-d-internet-gizmodo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/29/gouvernement-francais-rencontre-dirigeants-dinternet.html"
+            "tags": "internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/paris.fr/2015/04/un-nouveau-site-internet-pour-le-m%C3%A9diateur-de-la-ville",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
+            "source_url": "http://paris.fr/accueil/actualites-municipales/un-nouveau-site-internet-pour-le-mediateur-de-la-ville/rub_9656_actu_155429_port_23785"
+        },
+        "agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook": {
+            "title": "Internet - Internet - Le Paysan Tarnais franchit de nouveaux caps sur Facebook et Twitter!",
+            "snippet": "La foire agricole de R\u00e9almont est d\u00e9cidemment un grand \u00e9v\u00e9nement pour lagriculture tarnaise et le Tarn plus g\u00e9n\u00e9ralement. La couverture de la manifestation sur nos r\u00e9seaux sociaux (photos, palmar\u00e8s) a \u00e9t\u00e9 tr\u00e8s suivie et nous a permis d...",
+            "date": "2015-04-23",
+            "categories": "internet,facebook,twitter",
+            "tags": "\u00e9t\u00e9,g\u00e9n\u00e9ralement,internet,facebook,twitter",
+            "recuweb_url": "http://fr.recuweb.com/twitter/agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
+            "source_url": "http://agriculteur-normand.com/actualites/internet-internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook-et-twitter:8M39O8ZA.html"
         }
     }
 }
