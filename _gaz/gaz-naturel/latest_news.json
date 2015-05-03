@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "gaz-naturel",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/gaz-naturel/",
@@ -11,16 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/gaz-naturel/gaz-naturel/blogs.json"
     },
     "items": {
-        "wk-transport-logistique.fr/2015/04/navigation-int%C3%A9rieure-un-guide-en-cas-d-incident-li%C3%A9-au-gaz": {
-            "title": "Navigation int\u00e9rieure: un guide en cas d'incident li\u00e9 au gaz naturel... - WK Transport-Logistique...",
-            "snippet": "WK Transport-LogistiqueNavigation int\u00e9rieure: un guide en cas d'incident li\u00e9 au gaz naturel...WK Transport-LogistiqueNavigation int\u00e9rieure: un guide en cas d'incident li\u00e9 au gaz naturel liqu\u00e9fi\u00e9. Un guide pr\u00e9cise comment intervenir en cas...",
-            "date": "2015-04-29",
-            "categories": "navigation",
-            "tags": "gaz,naturel,logistique,liqu\u00e9fi\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/navigation/wk-transport-logistique.fr/2015/04/navigation-int%C3%A9rieure-un-guide-en-cas-d-incident-li%C3%A9-au-gaz",
-            "resource_url": "http://news.google.fr/?hl=fr&q=gaz%2Bnaturel&output=atom&nord=1",
-            "source_url": "http://wk-transport-logistique.fr/actualites/detail/84718/navigation-interieure-un-guide-en-cas-d-incident-lie-au-gaz-naturel-liquefie.html"
-        },
         "lepaysbriard.fr/2015/04/val-br%C3%A9on-bient%C3%B4t-une-station-service-proposant-du-gaz-naturel": {
             "title": "Val-Br\u00e9on: bient\u00f4t une station-service proposant du gaz naturel?",
             "snippet": "Cest le nouveau pari du Val-Br\u00e9on! Lors du vote du budget, les \u00e9lus de lintercommunalit\u00e9 ont valid\u00e9 le lancement de plusieurs \u00e9tudes pr\u00e9liminaires (pour 50 000 euros) concernant la cr\u00e9ation dune station-service distribuant du gaz naturel...",
@@ -30,25 +20,35 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=gaz%2Bnaturel&format=RSS&cc=fr",
             "source_url": "http://lepaysbriard.fr/val-breon-bientot-une-station-service-proposant-du-gaz-naturel-17627/"
         },
+        "wk-transport-logistique.fr/2015/04/navigation-int%C3%A9rieure-un-guide-en-cas-d-incident-li%C3%A9-au-gaz": {
+            "title": "Navigation int\u00e9rieure: un guide en cas d'incident li\u00e9 au gaz naturel liqu\u00e9fi\u00e9...",
+            "snippet": "Un guide pr\u00e9cise comment intervenir en cas d'incident li\u00e9 au gaz naturel liqu\u00e9fi\u00e9 (GNL) sur les voies de navigation int\u00e9rieures. Il a \u00e9t\u00e9 publi\u00e9 le 15 avril 2015 dans le cadre du plan strat\u00e9gique pour le Rhin-Main-Danube. Les ports de...",
+            "date": "2015-04-28",
+            "categories": "navigation",
+            "tags": "gaz,naturel,liqu\u00e9fi\u00e9,gnl",
+            "recuweb_url": "http://fr.recuweb.com/navigation/wk-transport-logistique.fr/2015/04/navigation-int%C3%A9rieure-un-guide-en-cas-d-incident-li%C3%A9-au-gaz",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=gaz%2Bnaturel&format=RSS&cc=fr",
+            "source_url": "http://wk-transport-logistique.fr/actualites/detail/84718/navigation-interieure-un-guide-en-cas-d-incident-lie-au-gaz-naturel-liquefie.html"
+        },
         "futura-sciences.com/2015/04/%C3%A9nergie-tout-savoir-sur-le-gaz-naturel": {
             "title": "\u00c9nergie: tout savoir sur le gaz naturel...",
             "snippet": "Le gaz naturel est la troisi\u00e8me source d'\u00e9nergie utilis\u00e9e dans le monde. Pr\u00e9sent naturellement dans la nature, ce combustible fossile peut \u00eatre utilis\u00e9 pour le chauffage, l'eau chaude sanitaire et poss\u00e8de \u00e9galement des applications dans le...",
             "date": "2015-04-28",
             "categories": "nature",
-            "tags": "gaz,naturel",
+            "tags": "monde,gaz,naturel",
             "recuweb_url": "http://fr.recuweb.com/nature/futura-sciences.com/2015/04/%C3%A9nergie-tout-savoir-sur-le-gaz-naturel",
             "resource_url": "http://www.bing.com/news/search?first=1&q=gaz%2Bnaturel&format=RSS&cc=fr",
             "source_url": "http://futura-sciences.com/magazines/environnement/infos/dossiers/d/environnement-energie-tout-savoir-gaz-naturel-1971/"
         },
-        "ici.radio-canada.ca/2015/04/bonification-des-pr%C3%AAts-pour-le-gaz-naturel-radio-canada": {
-            "title": "Bonification des pr\u00eats pour le gaz naturel - Radio-Canada...",
-            "snippet": "Radio-CanadaBonification des pr\u00eats pour le gaz naturelRadio-CanadaLe Pr\u00eat pour l'acc\u00e8s au gaz naturel est bonifi\u00e9 de 200 millions de dollars et la Subvention pour le d\u00e9veloppement \u00e9conomique du gaz naturel de 30 millions de dollars. Selon le...",
-            "date": "2015-04-24",
-            "categories": "radio",
+        "quebechebdo.com/2015/04/gaz-naturel-dans-bellechasse-ottawa-annonce-son-soutien-au-projet": {
+            "title": "Gaz naturel dans Bellechasse: Ottawa annonce son soutien au projet...",
+            "snippet": "BELLECHASSE. Le projet de gaz naturel dans Bellechasse pourra finalement aller de l'avant, Ottawa ayant finalement annonc\u00e9 qu'il supporterait la mise en place d'une desserte en gaz naturel dans Bellechasse. Accompagn\u00e9 de son coll\u00e8gue ministre...",
+            "date": "2015-04-27",
+            "categories": "place",
             "tags": "gaz,naturel",
-            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/bonification-des-pr%C3%AAts-pour-le-gaz-naturel-radio-canada",
-            "resource_url": "http://news.google.fr/?hl=fr&q=gaz%2Bnaturel%2Bgaz%2Bnaturel&output=atom&nord=1",
-            "source_url": "http://ici.radio-canada.ca/regions/ontario/2015/04/24/005-gaz-naturel-duguid.shtml"
+            "recuweb_url": "http://fr.recuweb.com/place/quebechebdo.com/2015/04/gaz-naturel-dans-bellechasse-ottawa-annonce-son-soutien-au-projet",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=gaz%2Bnaturel&format=RSS&cc=fr",
+            "source_url": "http://quebechebdo.com/Actualites/2015-04-27/article-4125679/Gaz-naturel-dans-Bellechasse-:-Ottawa-annonce-son-soutien-au-projet/1"
         }
     }
 }
