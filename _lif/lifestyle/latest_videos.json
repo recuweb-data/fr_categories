@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lifestyle",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lifestyle/",
@@ -54,7 +54,7 @@
             "categories": "sport,lifestyle",
             "tags": "lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/healthy-lifestyle-conseils-de-lecture-recettes-&-sport",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=rbUzdR1cuek&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rbUzdR1cuek/0.jpg"
         },
@@ -70,25 +70,13 @@
             "source_url": "http://youtube.com/watch?v=PipUxkVtYgY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/PipUxkVtYgY/0.jpg"
         },
-        "youtube.com/2015/03/lifestyle-le-mondial-du-tatouage-2015-mon-compte-rendu": {
-            "title": "Lifestyle Le mondial du tatouage 2015: Mon compte rendu...",
-            "snippet": "Lifestyle Le mondial du tatouage 2015: Mon compte rendu D\u00c9ROULE LA BARRE POUR PLUS D'INFO N'h\u00e9sitez pas \u00e0 vous abonner, \u00e0 liker et partager Feel yourself... From: Pink Republik Views: 496 2 ratings Time: 02:30 More in People & Blogs...",
-            "date": "2015-03-15",
-            "author_name": "Pink Republik",
-            "categories": "tatouage,lifestyle",
-            "tags": "lifestyle,people",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/lifestyle-le-mondial-du-tatouage-2015-mon-compte-rendu",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Dl0wjLi0obI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Dl0wjLi0obI/0.jpg"
-        },
         "youtube.com/2015/03/antikbelgium-fashion-meet-lifestyle": {
             "title": "ANTIKBELGIUM FASHION MEET LIFESTYLE...",
             "snippet": "ANTIKBELGIUM FASHION MEET LIFESTYLE ANTIK Belgium: New Blogpost more information on the blog Photography: henriphotography musique: Black Skinhead - Kanye West. From: ANTIK BELGIUM Views: 58 4 ratings Time: 00:52 More in People & Blogs...",
             "date": "2015-03-03",
             "author_name": "ANTIK BELGIUM",
             "categories": "musique,lifestyle",
-            "tags": "lifestyle,people",
+            "tags": "lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/antikbelgium-fashion-meet-lifestyle",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=liuMMbXoSOc&feature=youtube_gdata",
@@ -123,11 +111,23 @@
             "date": "2015-02-01",
             "author_name": "JLawl3578",
             "categories": "lifestyle",
-            "tags": "lifestyle",
+            "tags": "drop,drop_ship,drop_ship_lifestyle,ship,ship_lifestyle,ship_lifestyle_until,lifestyle,lifestyle_until,until,until_you_read,read,alert,jlawl,tags",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/dailymotion.com/2015/02/anton-kraly-of-drop-ship-lifestyle-travel-the-world",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle+lifestyle/0?af=1",
             "source_url": "http://dailymotion.com/video/x2g46v7_anton-kraly-of-drop-ship-lifestyle-travel-the-world-on-a-drop-ship-lifestyle_shortfilms",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2g46v7_anton-kraly-of-drop-ship-lifestyle-travel-the-world-on-a-drop-ship-lifestyle_shortfilms"
+        },
+        "dailymotion.com/2015/02/drop-ship-lifestyle-review-is-worth-it": {
+            "title": "Drop Ship Lifestyle Review - Is Drop Ship Lifestyle Worth It...",
+            "snippet": "ALERT! Dont Buy Drop Ship LifeStyle Until You Read: JLawl3578Tags: Posted: 01 February 2015Rating:: 0...",
+            "date": "2015-02-01",
+            "author_name": "JLawl3578",
+            "categories": "lifestyle",
+            "tags": "drop,drop_ship,drop_ship_lifestyle,ship,ship_lifestyle,ship_lifestyle_until,lifestyle,lifestyle_until,until,until_you_read,read,alert,jlawl,tags",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/dailymotion.com/2015/02/drop-ship-lifestyle-review-is-worth-it",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle+lifestyle/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2g474k_drop-ship-lifestyle-review-is-drop-ship-lifestyle-worth-it_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2g474k_drop-ship-lifestyle-review-is-drop-ship-lifestyle-worth-it_news"
         }
     }
 }
