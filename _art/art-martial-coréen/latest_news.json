@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "art-martial-cor\u00e9en",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/art-martial-cor\u00e9en/",
@@ -10,25 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-martial-cor%C3%A9en/art-martial-cor%C3%A9en/blogs.json"
     },
     "items": {
-        "paris-normandie.fr/2015/03/un-art-en-plein-essor-paris-normandie-inscription": {
-            "title": "Un art en plein essor - Paris Normandie (Inscription)...",
-            "snippet": "Paris Normandie (Inscription)Un art en plein essorParis Normandie (Inscription)Ils ont ainsi pu approfondir leurs connaissances et leur compr\u00e9hension de cet art martial en plein essor. Ces connaissances pourront ainsi \u00eatre transmises aux membres...",
-            "date": "2015-03-06",
-            "categories": "connaissance",
-            "tags": "ainsi,paris,art,martial",
-            "recuweb_url": "http://fr.recuweb.com/connaissance/paris-normandie.fr/2015/03/un-art-en-plein-essor-paris-normandie-inscription",
+        "ladepeche.fr/2015/05/d%C3%A9couvrir-le-sonmudo": {
+            "title": "D\u00e9couvrir le sonmudo -...",
+            "snippet": "\u00e9couvrir le fait d\u00e9sormais la 7e saison que le sonmudo (ou sunmudo) est pratiqu\u00e9 dans la Bastide. Il est consid\u00e9r\u00e9 comme l'un des plus anciens arts martiaux cor\u00e9ens, connu avant 1984 sous le nom de kum kan yung kwan. C'est un art interne...",
+            "date": "2015-05-03",
+            "categories": "arts",
+            "tags": "martiaux,cor\u00e9ens,arts,art",
+            "recuweb_url": "http://fr.recuweb.com/arts/ladepeche.fr/2015/05/d%C3%A9couvrir-le-sonmudo",
             "resource_url": "http://news.google.fr/?hl=fr&q=art%2Bmartial%2Bcor%C3%A9en%2Bart%2Bmartial%2Bcor%C3%A9en&output=atom&nord=1",
-            "source_url": "http://paris-normandie.fr/detail_communes/articles/2682316/un-art-en-plein-essor"
-        },
-        "lemondedesreligions.fr/2015/02/la-voie-jedi-une-nouvelle-religion-le-monde-des-religions": {
-            "title": "La Voie Jedi, une nouvelle religion? - Le Monde des Religions...",
-            "snippet": "Le Monde des ReligionsLa Voie Jedi, une nouvelle religion?Le Monde des ReligionsPendant longtemps, l'art physique se bornait au taekwondo (art martial d'origine sud-cor\u00e9en) et au dulon (combat au sabre laser). M\u00eame chose pour la m\u00e9ditation: tu...",
-            "date": "2015-02-23",
-            "categories": "religion,taekwondo",
-            "tags": "sabre,art,taekwondo,martial,origine,cor\u00e9en,combat",
-            "recuweb_url": "http://fr.recuweb.com/taekwondo/lemondedesreligions.fr/2015/02/la-voie-jedi-une-nouvelle-religion-le-monde-des-religions",
-            "resource_url": "http://news.google.fr/?hl=fr&q=art%2Bmartial%2Bcor%C3%A9en%2Bart%2Bmartial%2Bcor%C3%A9en&output=atom&nord=1",
-            "source_url": "http://lemondedesreligions.fr/actualite/la-voie-jedi-une-nouvelle-religion-23-02-2015-4577_118.php"
+            "source_url": "http://ladepeche.fr/article/2015/05/03/2097776-decouvrir-le-sonmudo.html"
         }
     }
 }
