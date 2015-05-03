@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mysql/",
@@ -11,15 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
-        "webrankinfo.com/2015/04/agence-digitale-sp%C3%A9cialis%C3%A9e-dans-la-cr%C3%A9ation-de-site-web": {
-            "title": "Agence digitale sp\u00e9cialis\u00e9e dans la cr\u00e9ation de site web...",
-            "snippet": "Notre \u00e9quipe experte de d\u00e9veloppeurs, int\u00e9grateurs et graphistes assurera la cr\u00e9ation et la r\u00e9alisation de votre projet web: de la cr\u00e9ation d'un logo au d\u00e9veloppement qualifi\u00e9 PHP/MySQL en passant par la mise en place d'une charte graphique...",
-            "date": "2015-04-29",
-            "categories": "place,php,mysql",
-            "tags": "\u00e9quipe,d\u00e9veloppeurs,site,web,projet,d\u00e9veloppement,php,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/webrankinfo.com/2015/04/agence-digitale-sp%C3%A9cialis%C3%A9e-dans-la-cr%C3%A9ation-de-site-web",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
-            "source_url": "http://webrankinfo.com/annuaire/site-117870.htm"
+        "theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register": {
+            "title": "Oracle paltry patch opens MySQL man-in-the-middle diddle - The Register...",
+            "snippet": "The RegisterOracle paltry patch opens MySQL man-in-the-middle diddleThe RegisterAdam Goodman of Duo Security has found a vulnerability in the 'vast majority'of Oracle MySQL databases that allows SSL to be stripped, exposing sensitive data to...",
+            "date": "2015-05-01",
+            "categories": "mysql",
+            "tags": "data,databases,that,that-allows,allows,vulnerability,duo,duo_security,security,oracle,mysql,ssl",
+            "recuweb_url": "http://fr.recuweb.com/mysql/theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
+            "source_url": "http://theregister.co.uk/2015/05/01/mysql_popped/"
+        },
+        "scmagazine.com/2015/05/vulnerability-enables-downgrading-of-mysql-ssl-tls-connections-sc-magazine": {
+            "title": "Vulnerability enables downgrading of MySQL SSL/TLS connections - SC Magazine...",
+            "snippet": "SC MagazineVulnerability enables downgrading of MySQL SSL/TLS connectionsSC MagazineA researcher with Duo Security has identified a vulnerability in MySQL client libraries, as well as forks such as MariaDB and Percona, that could enable an attacker...",
+            "date": "2015-05-01",
+            "categories": "mysql",
+            "tags": "that,attacker,identified,vulnerability,duo,duo_security,security,mysql,ssl,tls,connections",
+            "recuweb_url": "http://fr.recuweb.com/mysql/scmagazine.com/2015/05/vulnerability-enables-downgrading-of-mysql-ssl-tls-connections-sc-magazine",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
+            "source_url": "http://scmagazine.com/vulnerability-enables-downgrading-of-mysql-ssltls-connections/article/412558/"
+        },
+        "abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1": {
+            "title": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) 1. -...",
+            "snippet": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) l\u00e1nek je uren pedev\u00edm za\u00e1ten\u00edkm. Nejprve bych chtl popsat p\u00e1r z\u00e1kladn\u00edch funkc\u00ed pro komunikaci a pr\u00e1ci s datab\u00e1zemi MySQL, kter\u00e9 se pou\u00edvaj\u00ed v PHP. Jsou u jist vem dobe zn\u00e1my, ale opakov\u00e1n\u00ed je matka...",
+            "date": "2015-04-30",
+            "categories": "mysql,php",
+            "tags": "mysql,php",
+            "recuweb_url": "http://fr.recuweb.com/php/abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mysql%2Bmysql&output=atom&nord=1",
+            "source_url": "http://abclinuxu.cz/clanky/maly-mysql-manual-ale-po-svem-1"
+        },
+        "threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections-threatpost": {
+            "title": "MySQL Bug Can Strip SSL Protection From Connections - Threatpost...",
+            "snippet": "ThreatpostMySQL Bug Can Strip SSL Protection From ConnectionsThreatpostResearchers have identified a serious vulnerability in some versions of Oracle's MySQL database product that allows an attacker to strip SSL/TLS connections of their security...",
+            "date": "2015-04-30",
+            "categories": "mysql",
+            "tags": "connections,security,database,that,that-allows,allows,attacker,identified,vulnerability,mysql,ssl,oracle,tls",
+            "recuweb_url": "http://fr.recuweb.com/mysql/threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections-threatpost",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
+            "source_url": "http://threatpost.com/mysql-bug-can-strip-ssl-protection-from-connections/112513"
         },
         "commentcamarche.net/2015/04/question-sur-les-moteurs-mysql": {
             "title": "Question sur les moteurs MySQL...",
@@ -36,7 +66,7 @@
             "snippet": "Rattach\u00e9 au responsable technique au sein dune \u00e9quipe de d\u00e9veloppeurs exp\u00e9riment\u00e9s, vous aurez en charge la conception et le d\u00e9veloppement dapplications Web. Au quotidien, vous assurez la maintenance applicative en d\u00e9veloppant des actions...",
             "date": "2015-04-27",
             "categories": "php,mysql",
-            "tags": "technique,\u00e9quipe,d\u00e9veloppeurs,d\u00e9veloppeur,web,php,mysql,d\u00e9veloppement",
+            "tags": "sein,d\u00e9veloppeur,web,php,mysql,d\u00e9veloppement",
             "recuweb_url": "http://fr.recuweb.com/mysql/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-web-php-mysql-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/451544/dveloppeur-web-php-mysql-hf/"
@@ -46,7 +76,7 @@
             "snippet": "eWeekDeep Engine Brings Enterprise-Level Performance to MySQL...eWeekDeep Information Sciences has launched Deep Engine, a plug-and-play storage engine that brings scale and performance to MySQL databases, without the need for recoding or...",
             "date": "2015-04-24",
             "categories": "play,science,mysql",
-            "tags": "mysql",
+            "tags": "that,mysql,databases",
             "recuweb_url": "http://fr.recuweb.com/mysql/eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-eweek",
             "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
             "source_url": "http://eweek.com/database/slideshows/deep-engine-brings-enterprise-level-performance-to-mysql-databases.html"
@@ -56,40 +86,30 @@
             "snippet": "Le monde des bases de donn\u00e9es Open Source est tr\u00e8s actif, avec des offres comme MySQL, PostgreSQL ou encore SQLite. Connaissez-vous ce march\u00e9? Quiz! Dautres solutions existent cependant, avec chacune son histoire, son parcours et son public.",
             "date": "2015-04-24",
             "categories": "mysql,sqlite",
-            "tags": "bases,sql,donn\u00e9es,mysql",
+            "tags": "bases,donn\u00e9es,mysql",
             "recuweb_url": "http://fr.recuweb.com/sqlite/silicon.fr/2015/04/quiz-10-questions-sur-les-bases-de-donn%C3%A9es-sql-open-source",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
             "source_url": "http://silicon.fr/quiz-silicon-fr-10-questions-bases-de-donnees-sql-open-source-114831.html"
         },
-        "emploi.presse-citron.net/2015/04/expert-tech-lead-dev-full-stack-symfony-backbone-mysql-presse-citron": {
-            "title": "Expert Tech Lead Dev Full Stack - Symfony Backbone MySQL - Presse-citron (Blog)...",
-            "snippet": "Expert Tech Lead Dev Full Stack - Symfony Backbone MySQLPresse-citron (Blog)Nous recherchons un(e) Lead Dev, Expert Technique Full-Stack, Symfony 2-Backbone- MySQL exp\u00e9riment\u00e9(e) et motiv\u00e9(e). Contrat de type CDI, avec possibilit\u00e9 d'ind\u00e9pendant...",
-            "date": "2015-04-22",
-            "categories": "mysql",
-            "tags": "expert,technique,mysql,presse,citron",
-            "recuweb_url": "http://fr.recuweb.com/mysql/emploi.presse-citron.net/2015/04/expert-tech-lead-dev-full-stack-symfony-backbone-mysql-presse-citron",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Expert+Tech+Lead+Dev+Full+Stack+-+Symfony+Backbone+MySQL/30070"
+        "weblife.fr/2015/04/wordpress-4-2-powell-les-nouveaut%C3%A9s-du-cms-en-d%C3%A9tails": {
+            "title": "WordPress 4.2 Powell: Les nouveaut\u00e9s du CMS en d\u00e9tails...",
+            "snippet": "Techniquement, le stockage de ces caract\u00e8res compos\u00e9s de quatre octets au sein de la base de donn\u00e9es est rendu possible par un changement du jeu de caract\u00e8res des tables MySQL. Le charset utf8 est remplac\u00e9 par de lutf8mb4. Changement de th\u00e8me...",
+            "date": "2015-04-24",
+            "categories": "wordpress,mysql",
+            "tags": "sein,base,donn\u00e9es,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/weblife.fr/2015/04/wordpress-4-2-powell-les-nouveaut%C3%A9s-du-cms-en-d%C3%A9tails",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
+            "source_url": "http://weblife.fr/actus/wordpress-4-2-powell-les-nouveautes-du-cms-en-details"
         },
         "emploi.presse-citron.net/2015/04/apprentissage-d%C3%A9veloppeur-php-mysql-h-f-presse-citron-blog": {
             "title": "Apprentissage D\u00e9veloppeur PHP/MySQL (H/F) - Presse-citron (Blog)...",
             "snippet": "Apprentissage D\u00e9veloppeur PHP/MySQL (H/F)Presse-citron (Blog)AssurOne Group est un cabinet de courtage en assurances moderne et innovant, tourn\u00e9 vers l'avenir. En ayant mis Internet au c\u0153ur de notre strat\u00e9gie depuis 1996, AssurOne Group propose...",
             "date": "2015-04-07",
             "categories": "assurance,php,mysql,internet",
-            "tags": "d\u00e9veloppeur,php,mysql,presse,citron",
+            "tags": "d\u00e9veloppeur,php,mysql",
             "recuweb_url": "http://fr.recuweb.com/internet/emploi.presse-citron.net/2015/04/apprentissage-d%C3%A9veloppeur-php-mysql-h-f-presse-citron-blog",
             "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
             "source_url": "http://emploi.presse-citron.net/emploi/informatique/R\u00e9seau/Apprentissage+D\u00e9veloppeur+PHPMySQL+(HF)/29823"
-        },
-        "globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security": {
-            "title": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de... - Global Security Mag...",
-            "snippet": "Vigilnce - Henry Spencer regex, PHP, MySQL: buffer overflow de...Global Security MagUn attaquant peut provoquer un buffer overflow dans la fonction regcomp() de Henry Spencer regex, afin de mener un d\u00e9ni de service, et \u00e9ventuellement d'ex\u00e9cuter...",
-            "date": "2015-04-02",
-            "categories": "php,mysql",
-            "tags": "php,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/globalsecuritymag.fr/2015/04/vigilnce-henry-spencer-regex-php-mysql-buffer-overflow-de-global-security",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Vigil-nce-Henry-Spencer-regex-PHP,20150402,52027.html"
         }
     }
 }
