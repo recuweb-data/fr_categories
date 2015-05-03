@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ipod",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ipod/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ipod/ipod/blogs.json"
     },
     "items": {
-        "iphonesoft.fr/2015/04/2-fonds-d-%C3%A9cran-cuir-noir-pour-tous-les-iphone-ipod": {
-            "title": "2 fonds d'\u00e9cran cuir noir pour tous les iPhone, iPod et iPad...",
-            "snippet": "Fonds d'\u00e9cran iPhone iPod iPad retina Ce week-end, rien que pour vous, 2 fonds d'\u00e9cran de cuir noir pour tous les iPhone, iPod Touch et iPad. Pour t\u00e9l\u00e9charger votre wallpaper favori, il vous faudra la derni\u00e8re version de...",
-            "date": "2015-04-19",
-            "author_name": "Eric",
-            "categories": "iphone,ipod,ipad",
-            "tags": "t\u00e9l\u00e9charger,touch,fonds,iphone,ipod,ipad,retina,version",
-            "recuweb_url": "http://fr.recuweb.com/ipad/iphonesoft.fr/2015/04/2-fonds-d-%C3%A9cran-cuir-noir-pour-tous-les-iphone-ipod",
-            "resource_url": "http://www.google.com/search?q=ipod%2Bipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://iphonesoft.fr/2015/04/19/2-fonds-ecran-cuir-noir-tous-iphone-ipod-ipad"
-        },
         "trendyslemag.com/2015/03/quand-votre-ipod-pr%C3%A9f%C3%A8re-des-%C3%A9couteurs-branch%C3%A9s": {
             "title": "Quand votre ipod pr\u00e9f\u00e8re des \u00e9couteurs branch\u00e9s...",
             "snippet": "Pour la Saint Valentin, j'ai re\u00e7u un Ipod, le dernier d'Apple. Sublime. Mais un ipod n'est jamais mieux port\u00e9 qu'avec des \u00e9couteurs design. Comme ceux de Sudio. Je vous...",
@@ -61,10 +50,21 @@
             "date": "2014-12-24",
             "author_name": "anvolnacivat",
             "categories": "ipod,xbox",
-            "tags": "jeux,t\u00e9l\u00e9charger,itunes,ipod",
+            "tags": "itunes,ipod",
             "recuweb_url": "http://fr.recuweb.com/xbox/anvolnacivat.wordpress.com/2014/12/telecharger-itunes-ipod-gratuit",
             "resource_url": "http://fr.search.wordpress.com/?q=ipod%2Bipod&f=feed&page=1",
             "source_url": "http://anvolnacivat.wordpress.com/2014/12/24/telecharger-itunes-ipod-gratuit/"
+        },
+        "minutebuzz.com/2014/12/le-saviez-vous-votre-vieil-ipod-pourrait-rapporter": {
+            "title": "Le saviez-vous? Votre vieil iPod pourrait vous rapporter!",
+            "snippet": "Apple a annonc\u00e9 qu'il cessait la production des fameux iPod Classic... Leur prix flambe sur la Toile.",
+            "date": "2014-12-11",
+            "author_name": "Romain Duvivier",
+            "categories": "ipod",
+            "tags": "prix,ipod,apple,classic",
+            "recuweb_url": "http://fr.recuweb.com/ipod/minutebuzz.com/2014/12/le-saviez-vous-votre-vieil-ipod-pourrait-rapporter",
+            "resource_url": "http://www.google.com/search?q=ipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://minutebuzz.com/geek--le-savez-vous-votre-vieil-ipod-pourrait-vous-rapporter-90000/"
         },
         "journaldugeek.com/2014/12/proc%C3%A8s-ipod-apple-a-bien-faut%C3%A9-le-journal-du-geek": {
             "title": "Proc\u00e8s iPod: Apple a bien faut\u00e9 - Le Journal du Geek...",
@@ -76,17 +76,6 @@
             "recuweb_url": "http://fr.recuweb.com/musique/journaldugeek.com/2014/12/proc%C3%A8s-ipod-apple-a-bien-faut%C3%A9-le-journal-du-geek",
             "resource_url": "http://www.google.com/search?q=ipod&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldugeek.com/2014/12/04/proces-ipod-apple-a-bien-faute/"
-        },
-        "du-cote-masculin.com/2014/02/moi-et-mon-ipod": {
-            "title": "Moi et mon ipod...",
-            "snippet": "Je ne sais pas si ce genre de post vous plaira mais j'avais vraiment tr\u00e8s envie de vous faire partager mes coups de coeur musicaux du moment. Bon []...",
-            "date": "2014-02-27",
-            "author_name": "dimcka",
-            "categories": "ipod",
-            "tags": "ipod",
-            "recuweb_url": "http://fr.recuweb.com/ipod/du-cote-masculin.com/2014/02/moi-et-mon-ipod",
-            "resource_url": "http://fr.search.wordpress.com/?q=ipod%2Bipod&f=feed&page=1",
-            "source_url": "http://du-cote-masculin.com/2014/02/27/moi-et-mon-ipod/"
         },
         "consomac.fr/2014/01/consomac-l-ipod-recule-mais-il-ne-dispara%C3%AEtra": {
             "title": "Consomac: L'iPod recule, mais il ne dispara\u00eetra pas...",
