@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "kitesurf",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/kitesurf/",
@@ -11,6 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/kitesurf/kitesurf/blogs.json"
     },
     "items": {
+        "videos.tf1.fr/2015/04/a-la-d%C3%A9couverte-du-kitesurf-discipline-o%C3%B9-l-on-vole": {
+            "title": "A la d\u00e9couverte du kitesurf, la discipline o\u00f9 l'on vole au-dessus de l... - TF1...",
+            "snippet": "TF1A la d\u00e9couverte du kitesurf, la discipline o\u00f9 l'on vole au-dessus de l...TF1Encore quelques jours de vacances pour les zones B et C. Dans la baie de la Baule, c'est l'occasion de d\u00e9couvrir les joies de la mer et de s'initier au kitesurf.",
+            "date": "2015-04-30",
+            "categories": "discipline,kitesurf",
+            "tags": "d\u00e9couvrir,quelques,quelques-jours,jours,zones,discipline,kitesurf",
+            "recuweb_url": "http://fr.recuweb.com/kitesurf/videos.tf1.fr/2015/04/a-la-d%C3%A9couverte-du-kitesurf-discipline-o%C3%B9-l-on-vole",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kitesurf%2Bkitesurf&output=atom&nord=1",
+            "source_url": "http://videos.tf1.fr/jt-13h/2015/a-la-decouverte-du-kitesurf-la-discipline-ou-l-on-vole-au-dessus-8602476.html"
+        },
+        "e-adrenaline.fr/2015/04/clio-pajczer-a-test%C3%A9-le-kite-surf-avec-paul-serin-e": {
+            "title": "Clio Pajczer a test\u00e9 le kite surf avec Paul Serin! - e-adrenaline...",
+            "snippet": "e-adrenalineClio Pajczer a test\u00e9 le kite surf avec Paul Serin!e-adrenalineC'est au Mondial du Vent 2015 que Clio Pajczer a test\u00e9 pour la premi\u00e8re fois le kite surf en compagnie du Fran\u00e7ais Paul Serin. Encore quelques jours d'entra\u00eenement seront...",
+            "date": "2015-04-28",
+            "categories": "surf",
+            "tags": "entra\u00eenement,entra\u00eenement-seront,seront,quelques,quelques-jours,jours,surf,surf-en-compagnie,compagnie,compagnie-du-fran\u00e7ais,fran\u00e7ais,test\u00e9,premi\u00e8re,pajczer,paul,paul_serin,serin,clio,clio_pajczer,kite,mondial,vent",
+            "recuweb_url": "http://fr.recuweb.com/surf/e-adrenaline.fr/2015/04/clio-pajczer-a-test%C3%A9-le-kite-surf-avec-paul-serin-e",
+            "resource_url": "http://news.google.fr/?hl=fr&q=kitesurf%2Bkitesurf&output=atom&nord=1",
+            "source_url": "http://e-adrenaline.fr/eau/actualites/clio-pajczer-a-teste-le-kite-surf-avec-paul-serin/6259"
+        },
         "actu-mag.fr/2015/04/paris-antoine-auriol-stopp%C3%A9-par-la-police-apr%C3%A8s-avoir": {
             "title": "Paris: Antoine Auriol, stopp\u00e9 par la police apr\u00e8s avoir fait du Kitesurf dans une fontaine du...",
             "snippet": "Son nom ne vous dit peut \u00eatre rien, mais Antoine Auriol, ce champion du monde de Kitesurf est tr\u00e8s connu du monde de la glisse. Il y a quelques jours, ce sportif de haut niveau sest lanc\u00e9 un d\u00e9fis. Son objectif, faire du Kite devant le plus...",
@@ -26,30 +46,20 @@
             "snippet": "Antoine Auriol est un athl\u00e8te fran\u00e7ais qui excelle en kitesurf. Le 18 avril dernier, il s'est lanc\u00e9 un d\u00e9fi: surfer sur la fontaine du Trocad\u00e9ro en face de la Tour Eiffel. Pari r\u00e9ussi bien qu'il se soit vite fait arr\u00eater par la police. Il y...",
             "date": "2015-04-24",
             "categories": "kitesurf",
-            "tags": "soit,police,tour,face,lanc\u00e9,dernier,athl\u00e8te,antoine,antoine_auriol,auriol,kitesurf,fontaine,trocad\u00e9ro,fran\u00e7ais",
+            "tags": "police,tour,face,lanc\u00e9,antoine,antoine_auriol,auriol,kitesurf,fontaine,trocad\u00e9ro,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/kitesurf/jactiv.ouest-france.fr/2015/04/vid%C3%A9o-il-fait-du-kitesurf-sur-la-fontaine-trocad%C3%A9ro",
             "resource_url": "http://www.bing.com/news/search?first=1&q=kitesurf&format=RSS&cc=fr",
             "source_url": "http://jactiv.ouest-france.fr/actualites/insolite/video-il-fait-kitesurf-sur-fontaine-trocadero-46892"
         },
-        "blog.lefigaro.fr/2015/04/le-kitesurf-est-nouveau-sport-des-dirigeants-et-entrepreneurs-figaro": {
-            "title": "Le kitesurf est le nouveau sport des dirigeants et des entrepreneurs - Le Figaro...",
-            "snippet": "Le kitesurf est le nouveau sport des dirigeants et des entrepreneursLe FigaroJohn Kerry, Laurence Parisot, Nicolas Hulot et Richard Bronson ont un point commun. Ces personnalit\u00e9s partagent une m\u00eame passion pour le kitesurf, un sport de glisse de...",
-            "date": "2015-04-23",
+        "blog.lefigaro.fr/2015/04/le-kitesurf-est-nouveau-sport-des-dirigeants-et-entrepreneurs": {
+            "title": "Le kitesurf est le nouveau sport des dirigeants et des entrepreneurs...",
+            "snippet": "John Kerry, Laurence Parisot, Nicolas Hulot et Richard Bronson ont un point commun. Ces personnalit\u00e9s partagent une m\u00eame passion pour le kitesurf, un sport de glisse de plus en plus tendance dans le milieu des entrepreneurs. Laurent Houitte,...",
+            "date": "2015-04-22",
             "categories": "sport,sport-de-glisse,kitesurf",
             "tags": "glisse,m\u00eame,kitesurf",
-            "recuweb_url": "http://fr.recuweb.com/kitesurf/blog.lefigaro.fr/2015/04/le-kitesurf-est-nouveau-sport-des-dirigeants-et-entrepreneurs-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=kitesurf%2Bkitesurf&output=atom&nord=1",
-            "source_url": "http://blog.lefigaro.fr/legales/2015/04/le-kitesurf-est-le-nouveau-sport-des-dirigeants-et-des-entrepreneurs.html"
-        },
-        "fr.sports.yahoo.com/2015/04/kitesurf-chris-ballois-seul-athl%C3%A8te-handisport-lors-de-ce-mondial": {
-            "title": "Kitesurf: Chris Ballois, seul athl\u00e8te handisport lors de ce Mondial du Vent...",
-            "snippet": "Chris Ballois recordman de vitesse handisport en kitesurf, participe au Mondial du Vent. Recordman de Vitesse En octobre dernier, Chris Ballois bat le record de vitesse handisport en kitesurf avec une vitesse moyenne de 42,92 n\u0153uds sur 500m soit...",
-            "date": "2015-04-21",
-            "categories": "kitesurf",
-            "tags": "soit,n\u0153uds,dernier,seul,athl\u00e8te,kitesurf,mondial,vent",
-            "recuweb_url": "http://fr.recuweb.com/kitesurf/fr.sports.yahoo.com/2015/04/kitesurf-chris-ballois-seul-athl%C3%A8te-handisport-lors-de-ce-mondial",
+            "recuweb_url": "http://fr.recuweb.com/kitesurf/blog.lefigaro.fr/2015/04/le-kitesurf-est-nouveau-sport-des-dirigeants-et-entrepreneurs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=kitesurf&format=RSS&cc=fr",
-            "source_url": "http://fr.sports.yahoo.com/blogs/harold-quinquis/kitesurf-chris-ballois-seul-athlete-handisport-100639725.html"
+            "source_url": "http://blog.lefigaro.fr/legales/2015/04/le-kitesurf-est-le-nouveau-sport-des-dirigeants-et-des-entrepreneurs.html"
         }
     }
 }
