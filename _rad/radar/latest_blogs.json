@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radar",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radar/",
@@ -28,7 +28,7 @@
             "date": "2015-04-23",
             "author_name": "Nathalie Bot-Jaffray",
             "categories": "place,radar",
-            "tags": "p\u00e9dagogique,premier,radar",
+            "tags": "commune,p\u00e9dagogique,premier,radar",
             "recuweb_url": "http://fr.recuweb.com/radar/lapressedarmor.fr/2015/04/binic-pose-son-premier-radar-la-presse-d-armor",
             "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lapressedarmor.fr/2015/04/23/prevention-binic-pose-son-premier-radar/"
@@ -39,21 +39,10 @@
             "date": "2015-04-22",
             "author_name": "Antony Angrand",
             "categories": "radar",
-            "tags": "fonction,nouvel,radar,avril",
+            "tags": "radar,avril",
             "recuweb_url": "http://fr.recuweb.com/radar/air-cosmos.com/2015/04/le-mq-4c-triton-a-vol%C3%A9-avec-son-radar-mfas-air",
             "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://air-cosmos.com/2015/04/22/32820-le-mq-4c-triton-a-vole-avec-son-radar-mfas"
-        },
-        "bfmtv.com/2015/04/duflot-sur-valls-l-%C3%A9galit%C3%A9-hommes-femmes-n-appara%C3%AEt": {
-            "title": "Duflot sur Valls: \"L'\u00e9galit\u00e9 hommes-femmes n'appara\u00eet pas dans son...",
-            "snippet": "Manuel Valls, en revanche, en prend pour son grade: \"L'\u00e9galit\u00e9 hommes-femmes n'appara\u00eet pas dans son \u00e9cran radar comme une priorit\u00e9\", persifle-t-elle. A Lire: Duflot: \"J'ai un d\u00e9saccord politique assez important avec Valls...",
-            "date": "2015-04-21",
-            "author_name": "inconnu",
-            "categories": "politique,radar",
-            "tags": "comme,radar,lire",
-            "recuweb_url": "http://fr.recuweb.com/radar/bfmtv.com/2015/04/duflot-sur-valls-l-%C3%A9galit%C3%A9-hommes-femmes-n-appara%C3%AEt",
-            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bfmtv.com/politique/duflot-sur-valls-l-egalite-hommes-femmes-n-apparait-pas-dans-son-ecran-radar-comme-une-priorite-879450.html"
         },
         "sciences.blogs.liberation.fr/2015/02/le-retrait-des-glaciers-sous-radar-satellites-sciences": {
             "title": "Le retrait des glaciers sous le radar des satellites - Sciences...",
@@ -61,9 +50,9 @@
             "date": "2015-02-09",
             "author_name": "sylvestre Huet",
             "categories": "radar,science",
-            "tags": "premier,\u00e9quip\u00e9s,radars",
+            "tags": "d\u00e9monstration,\u00e9quip\u00e9s,radars,premier",
             "recuweb_url": "http://fr.recuweb.com/science/sciences.blogs.liberation.fr/2015/02/le-retrait-des-glaciers-sous-radar-satellites-sciences",
-            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=radar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sciences.blogs.liberation.fr/home/2015/02/le-retrait-des-glaciers.html"
         },
         "patty0green.wordpress.com/2014/11/sous-mon-radar": {
@@ -72,10 +61,21 @@
             "date": "2014-11-10",
             "author_name": "Pattie O'Green",
             "categories": "radar",
-            "tags": "petit,radar",
+            "tags": "radar,jai",
             "recuweb_url": "http://fr.recuweb.com/radar/patty0green.wordpress.com/2014/11/sous-mon-radar",
             "resource_url": "http://fr.search.wordpress.com/?q=radar%2Bradar&f=feed&page=1",
             "source_url": "http://patty0green.wordpress.com/2014/11/10/sous-le-radar/"
+        },
+        "radiomonitoring.wordpress.com/2014/10/canadian-meteor-orbit-radar-cmor": {
+            "title": "Canadian Meteor Orbit Radar (CMOR)...",
+            "snippet": "Long time I have not seen the 3 frequencies simultaneously on my receiver Antenna is my LPDA bearing 300 deg (Toronto, Canada area) reference: &linkz...",
+            "date": "2014-10-26",
+            "author_name": "linkz",
+            "categories": "radar",
+            "tags": "radar",
+            "recuweb_url": "http://fr.recuweb.com/radar/radiomonitoring.wordpress.com/2014/10/canadian-meteor-orbit-radar-cmor",
+            "resource_url": "http://fr.search.wordpress.com/?q=radar%2Bradar&f=feed&page=1",
+            "source_url": "http://radiomonitoring.wordpress.com/2014/10/26/canadian-meteor-orbit-radar-cmor/"
         },
         "videopantherbvi.wordpress.com/2014/09/d%C3%A9tecteur-de-radar-brouilleur": {
             "title": "D\u00e9tecteur de radar, brouilleur de radar...",
@@ -94,10 +94,21 @@
             "date": "2014-06-05",
             "author_name": "chamorin",
             "categories": "radar",
-            "tags": "g\u00e9n\u00e9ration,\u00e9quip\u00e9s,routes,territoire,radars,radar",
+            "tags": "g\u00e9n\u00e9ration,\u00e9quip\u00e9s,routes,territoire,radars,radar,mobile,\u00e9t\u00e9",
             "recuweb_url": "http://fr.recuweb.com/radar/intensivewebiej.wordpress.com/2014/06/les-radars-vont-fleurir-sur-le-territoire-fran%C3%A7ais",
             "resource_url": "http://fr.search.wordpress.com/?q=radar%2Bradar&f=feed&page=1",
             "source_url": "http://intensivewebiej.wordpress.com/2014/06/05/les-radars-vont-fleurir-sur-le-territoire-francais/"
+        },
+        "dossierfamilial.com/2004/01/radars-automatiques-ce-qu-il-faut-savoir-dossier-familial": {
+            "title": "Radars automatiques: ce qu'il faut savoir Dossier Familial...",
+            "snippet": "Les radars automatiques envoient automatiquement un PV aux conducteurs ayant commis un exc\u00e8s de vitesse...",
+            "date": "2004-01-10",
+            "author_name": "Webmaster",
+            "categories": "radar",
+            "tags": "exc\u00e8s,exc\u00e8s-de-vitesse,vitesse,radars",
+            "recuweb_url": "http://fr.recuweb.com/radar/dossierfamilial.com/2004/01/radars-automatiques-ce-qu-il-faut-savoir-dossier-familial",
+            "resource_url": "http://www.google.com/search?q=radar%2Bradar&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dossierfamilial.com/consommation/vehicules/radars-automatiques-ce-qu-il-faut-savoir-56732"
         }
     }
 }
