@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "joomla",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/joomla/",
@@ -11,6 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/joomla/joomla/blogs.json"
     },
     "items": {
+        "joomla.fr/2015/03/printemps-2016-fusion-des-cms-joomla-et-wordpress": {
+            "title": "Printemps 2016: fusion des CMS Joomla! et Wordpress -...",
+            "snippet": "Les \u00e9quipes de d\u00e9veloppements internationaux de Wordpress et de Joomla! ont d\u00e9cid\u00e9 d'unifier leurs efforts dans la recherche du CMS optimal.",
+            "date": "2015-03-31",
+            "author_name": "jollant.patrick@hotmail.fr (Patrick JOLLANT)",
+            "categories": "joomla,wordpress",
+            "tags": "cms,joomla,wordpress",
+            "recuweb_url": "http://fr.recuweb.com/wordpress/joomla.fr/2015/03/printemps-2016-fusion-des-cms-joomla-et-wordpress",
+            "resource_url": "http://www.google.com/search?q=joomla&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://joomla.fr/actualites/news-des-adherents/item/1495-printemps-2016-fusion-des-cms-joomla-et-wordpress"
+        },
         "magazine.joomla.org/2015/03/utilisez-avec-pr%C3%A9caution-les-tags-dans-joomla": {
             "title": "Utilisez avec pr\u00e9caution les Tags dans Joomla!",
             "snippet": "Les tags sont une nouvelle fonctionnalit\u00e9 de Joomla! mais une utilisation abusive ou mal contr\u00f4l\u00e9e peut avoir un impact sur le r\u00e9f\u00e9rencement du site i...",
@@ -61,13 +72,13 @@
             "date": "2015-02-28",
             "author_name": "no_reply_magazine@joomla.org (Simon Grange)",
             "categories": "joomla",
-            "tags": "syst\u00e8me,permet,fonctionnalit\u00e9s,version,joomla",
+            "tags": "permet,fonctionnalit\u00e9s,version,joomla",
             "recuweb_url": "http://fr.recuweb.com/joomla/magazine.joomla.org/2015/02/secret-joomla-seo-gestionnaire-de-redirection-com-redirect",
             "resource_url": "http://www.google.com/search?q=joomla%2Bjoomla&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://magazine.joomla.org/international-stories-all/articles-in-french-all/secret-joomla-seo-gestionnaire-de-redirection-com-redirect"
         },
         "joomla.fr/2014/07/joomla-est-disponible": {
-            "title": "Joomla est disponible...",
+            "title": "Joomla est disponible -...",
             "snippet": "MISE \u00c0 JOUR: La communaut\u00e9 Joomla! vient d'annoncer la disponibilit\u00e9 de Joomla!. Il s'agit d'une version de maintenance r\u00e9solvant plusieurs probl\u00e8mes et erreurs depuis la parution de Joomla en juin 2014 et...",
             "date": "2014-07-25",
             "author_name": "opware2000",
