@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
+        "huffingtonpost.fr/2015/05/onpc-avant-la-diffusion-de-leur-clash-fourest-et-caron": {
+            "title": "ONPC: avant la diffusion de leur clash, Fourest et Caron s'\u00e9charpent par blogs interpos\u00e9s...",
+            "snippet": "M\u00c9DIAS - Si dialogue de sourds il y a eu sur le plateau d'On n'est pas couch\u00e9 lors de l'enregistrement de l'\u00e9mission de ce samedi 2 mai, l'aper\u00e7u qui en est donn\u00e9 sur Internet par les deux protagonistes y ressemble fortement. Au d\u00e9part, il y a...",
+            "date": "2015-05-02",
+            "categories": "internet",
+            "tags": "deux,avant,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/huffingtonpost.fr/2015/05/onpc-avant-la-diffusion-de-leur-clash-fourest-et-caron",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
+            "source_url": "http://huffingtonpost.fr/2015/05/02/onpc-caroline-fourest-aymeric-caron-clash-blogs_n_7195476.html"
+        },
         "techniques-ingenieur.fr/2015/04/les-chercheurs-fran%C3%A7ais-n%C3%A9gligent-blogs-scientifiques": {
             "title": "Les chercheurs fran\u00e7ais n\u00e9gligent les blogs scientifiques...",
             "snippet": "Malgr\u00e9 lexplosion du blogging dans le monde, la communaut\u00e9 scientifique fran\u00e7aise ne sy int\u00e9resse que mod\u00e9r\u00e9ment, contrairement aux anglosaxons. Il existe plus de 200 millions de blogs dans le monde, et chaque mois 3 millions de nouveaux...",
@@ -27,24 +37,14 @@
             "categories": "wordpress",
             "tags": "monde,millions,millions-de-blogs,wordpress",
             "recuweb_url": "http://fr.recuweb.com/wordpress/01net.com/2015/04/une-faille-dans-wordpress-rend-des-millions-de-blogs-vuln%C3%A9rables-01net",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
-            "source_url": "http://01net.com/editorial/653515/une-faille-dans-wordpress-rend-des-millions-de-blogs-vulnerables/"
-        },
-        "blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent": {
-            "title": "L'art de rendre visibles ceux qui n'existent plus - Les blogs du Diplo (Blog)...",
-            "snippet": "L'art de rendre visibles ceux qui n'existent plusLes blogs du Diplo (Blog)On aurait aim\u00e9 interviewer le r\u00e9alisateur chinois Wang Bing comme il filme ses personnages. Sans question ni r\u00e9ponse. A distance de ce qu'ils sont mais au plus proche de ce...",
-            "date": "2015-04-25",
-            "categories": "bing",
-            "tags": "r\u00e9ponse,comme,r\u00e9alisateur",
-            "recuweb_url": "http://fr.recuweb.com/bing/blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
-            "source_url": "http://blog.mondediplo.net/2015-04-25-L-art-de-rendre-visibles-ceux-qui-n-existent-plus"
+            "source_url": "http://01net.com/editorial/653515/une-faille-dans-wordpress-rend-des-millions-de-blogs-vulnerables/"
         },
         "gamekult.com/2015/04/derniers-articles-de-blogs": {
             "title": "Derniers articles de blogs...",
             "snippet": "Bonsoir tout le monde, comme vous le savez peut-\u00eatre, les jeux vid\u00e9o sont une passion que j'ai depuis plus de 20 ans et j'avais ouvert ce blog GK pour vous faire partager mon avis sur l'actualit\u00e9 et les jeux sur lesquels je jouais. Attendant...",
             "date": "2015-04-24",
-            "tags": "comme,monde",
+            "tags": "monde,\u00eatre",
             "recuweb_url": "http://fr.recuweb.com/gamekult.com/2015/04/derniers-articles-de-blogs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
             "source_url": "http://gamekult.com/blog/members/1219677-clorgen/"
@@ -53,9 +53,9 @@
             "title": "Les blogs de la semaine sont Tests & Cie et Vis ma vie de... - Frandroid...",
             "snippet": "FrandroidLes blogs de la semaine sont Tests & Cie et Vis ma vie de...FrandroidDevant leur (r\u00e9-)activit\u00e9, nous souhaitons mettre en avant deux blogueurs parmi ceux qui comptent parmi les plus actifs et pertinents de la communaut\u00e9 FrAndroid. Cette...",
             "date": "2015-04-21",
-            "tags": "blogueurs,communaut\u00e9,vie",
+            "tags": "avant,deux,blogueurs,communaut\u00e9",
             "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
             "source_url": "http://frandroid.com/humanoid/279199_les-blogs-de-la-semaine-sont-tests-cie-et-vis-ma-vie-de-developpeur"
         },
         "huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent-le-huffington": {
@@ -64,7 +64,7 @@
             "date": "2015-04-16",
             "tags": "blogueurs,saison,huffington,web",
             "recuweb_url": "http://fr.recuweb.com/huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent-le-huffington",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/noel-cambessedes/golden-blogs-award_b_7077468.html"
         },
         "huffingtonpost.fr/2015/04/la-menace-terroriste-et-fin-des-blogs-perso-le-huffington": {
@@ -72,18 +72,10 @@
             "snippet": "La menace terroriste et la fin des blogs persoLe Huffington PostINTERNET - Il y a un peu plus de 10 ans, les blogs ont envahit l'Internet. Des millions de sites Web personnels sont apparus spontan\u00e9ment partout dans le monde. Co-auteur avec Cyril...",
             "date": "2015-04-13",
             "categories": "internet",
-            "tags": "monde,millions,huffington,web",
+            "tags": "monde,millions,huffington,internet,web",
             "recuweb_url": "http://fr.recuweb.com/internet/huffingtonpost.fr/2015/04/la-menace-terroriste-et-fin-des-blogs-perso-le-huffington",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/emily-turrettini/cyberterrorisme-blogs-perso_b_7049294.html"
-        },
-        "madame.lefigaro.fr/2015/03/les-plus-beaux-blogs-de-voyage-au-f%C3%A9minin-madame-figaro": {
-            "title": "Les plus beaux blogs de voyage au f\u00e9minin - Madame Figaro...",
-            "snippet": "Madame FigaroLes plus beaux blogs de voyage au f\u00e9mininMadame FigaroDe plus en plus de blogs de voyage voient le jour et en la mati\u00e8re, la gent f\u00e9minine s'av\u00e8re particuli\u00e8rement dou\u00e9e. Nous avons donc cherch\u00e9, cliqu\u00e9, pass\u00e9 en revue bon...",
-            "date": "2015-03-31",
-            "recuweb_url": "http://fr.recuweb.com/madame.lefigaro.fr/2015/03/les-plus-beaux-blogs-de-voyage-au-f%C3%A9minin-madame-figaro",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
-            "source_url": "http://madame.lefigaro.fr/evasion/baroudeuses-courageuses-audacieuses-nos-20-blogueuses-voyage-preferees-300315-95745"
         }
     }
 }
