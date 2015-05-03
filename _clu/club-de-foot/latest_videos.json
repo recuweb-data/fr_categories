@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "club-de-foot",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/club-de-foot/",
@@ -11,25 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/club-de-foot/club-de-foot/blogs.json"
     },
     "items": {
-        "youtube.com/2015/04/un-club-de-foot-est-une-entreprise-comme-autre-mehdi-bayat": {
-            "title": "Un club de foot est une entreprise comme une autre Mehdi Bayat, Sporting Charleroi...",
-            "snippet": "\"Un club de foot est une entreprise comme une autre\" Mehdi Bayat, Sporting Charleroi \"Un club de foot est une entreprise comme une autre\" Mehdi Bayat, Sporting Charleroi SD Worx: a perfect match! From: SDWorxBelgium Views: 13 0 ratings Time: 01:14...",
-            "date": "2015-04-27",
-            "author_name": "SDWorxBelgium",
-            "categories": "club-de-foot",
-            "tags": "match,club,club-de-foot,foot,comme",
-            "recuweb_url": "http://fr.recuweb.com/club-de-foot/youtube.com/2015/04/un-club-de-foot-est-une-entreprise-comme-autre-mehdi-bayat",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=wWFMr4t0ALs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/wWFMr4t0ALs/0.jpg"
-        },
         "youtube.com/2015/04/le-meilleur-du-canal-football-club-kurt-zouma-19-04-2015": {
             "title": "Le meilleur du Canal Football Club - Kurt Zouma (19/04/2015)...",
             "snippet": "Le meilleur du Canal Football Club - Kurt Zouma (19/04/2015) Le meilleur du CFC avec comme invit\u00e9, le defenseur central fran\u00e7ais de Chelsea, Kurt Zouma. From: MrHardy2002 Views: 26 1 ratings Time: 08:05 More in Sports...",
             "date": "2015-04-22",
             "author_name": "MrHardy2002",
             "categories": "football,sport",
-            "tags": "fran\u00e7ais,comme,canal,canal_football,canal_football_club,football,football_club,club,meilleur,cfc",
+            "tags": "fran\u00e7ais,canal,canal_football,canal_football_club,football,football_club,club,meilleur,cfc,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/04/le-meilleur-du-canal-football-club-kurt-zouma-19-04-2015",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JUXo_6Gtx4o&feature=youtube_gdata",
@@ -53,11 +41,23 @@
             "date": "2015-04-08",
             "author_name": "rmcsport-podcast",
             "categories": "sport,radio,football",
-            "tags": "foot,football,clubs,fran\u00e7ais,top",
+            "tags": "foot,sport,football,jour,clubs,fran\u00e7ais,top",
             "recuweb_url": "http://fr.recuweb.com/football/dailymotion.com/2015/04/rmc-07-04-le-top-de-luis-attaque-les-pr%C3%A9sidents",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot+club+de+foot/0?af=1",
             "source_url": "http://dailymotion.com/video/x2m326a_rmc-07-04-le-top-de-luis-attaque-les-presidents-des-grands-clubs-francais-sont-ils-en-train-de-ridic_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2m326a_rmc-07-04-le-top-de-luis-attaque-les-presidents-des-grands-clubs-francais-sont-ils-en-train-de-ridic_sport"
+        },
+        "youtube.com/2015/04/enquete-de-foot-jesus-football-club": {
+            "title": "Enquete de foot: Jesus Football Club...",
+            "snippet": "Enquete de foot: Jesus Football Club Enquete de foot: Jesus Football Club. From: Match En Direct 2 Views: 3728 24 ratings Time: 25:31 More in Sports...",
+            "date": "2015-04-04",
+            "author_name": "Match En Direct 2",
+            "categories": "football,sport",
+            "tags": "football,football_club,club,foot,sports",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/04/enquete-de-foot-jesus-football-club",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=_IyfVb73QDo&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/_IyfVb73QDo/0.jpg"
         },
         "dailymotion.com/2015/03/top-10-des-clubs-de-foot-qui-g%C3%A9n%C3%A8rent-le-plus-revenus": {
             "title": "Top 10 des clubs de foot qui g\u00e9n\u00e8rent le plus de revenus...",
@@ -73,7 +73,7 @@
         },
         "youtube.com/2015/02/le-meilleur-du-canal-football-club-extraits-cfc-08-02-15": {
             "title": "LE MEILLEUR DU Canal Football Club Extraits du CFC du 08 02 15...",
-            "snippet": "LE MEILLEUR DU Canal Football Club Extraits du CFC du 08 02 15 From: Thomas FUT Views: 4811 9 ratings Time: 08:58 More in People & Blogs...",
+            "snippet": "LE MEILLEUR DU Canal Football Club Extraits du CFC du 08 02 15 From: Thomas FUT Views: 5641 9 ratings Time: 08:58 More in People & Blogs...",
             "date": "2015-02-10",
             "author_name": "Thomas FUT",
             "categories": "football",
@@ -89,7 +89,7 @@
             "date": "2015-02-09",
             "author_name": "euronews (en fran\u00e7ais)",
             "categories": "club-de-foot",
-            "tags": "stade,club,club-de-foot,foot",
+            "tags": "club,club-de-foot,foot",
             "recuweb_url": "http://fr.recuweb.com/club-de-foot/youtube.com/2015/02/egypte-mourir-pour-un-club-de-foot",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=_cL3CAzHi4Q&feature=youtube_gdata",
@@ -107,28 +107,29 @@
             "source_url": "http://youtube.com/watch?v=iObrU0RQZxY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/iObrU0RQZxY/0.jpg"
         },
+        "youtube.com/2015/01/africa24-football-club-du-260115-le-dossier-la-tunisie-attendue": {
+            "title": "AFRICA24 FOOTBALL CLUB du 260115, Le dossier - La Tunisie attendue ce jour...",
+            "snippet": "AFRICA24 FOOTBALL CLUB du 260115, Le dossier - La Tunisie attendue ce jour Sport, Pr\u00e9sentation du groupe B: Cap Vert/Zambie et RDC/Tunisie Abonnez-vous \u00e0 la chaine: Like notre page Facebook: Suivez... From: Africa 24 Views: 112 0 ratings Time:...",
+            "date": "2015-01-26",
+            "author_name": "Africa 24",
+            "categories": "football,sport,facebook",
+            "tags": "jour,football,football_club,club,sport",
+            "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2015/01/africa24-football-club-du-260115-le-dossier-la-tunisie-attendue",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=club%2Bde%2Bfoot%2Bclub%2Bde%2Bfoot&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=dG1hTpn1TIk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/dG1hTpn1TIk/0.jpg"
+        },
         "dailymotion.com/2015/01/foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur": {
             "title": "FOOT - L1 - OM - Anigo: Mendy a choisi son club de coeur!",
             "snippet": "VIDEO L1 MERCATO - Pr\u00e9sent\u00e9 en m\u00eame temps que Dimitri Payet, le jeune d\u00e9fenseur Benjamin Mendy sera un vrai plus pour Marseille selon son tout nouveau directeur sportif Jos\u00e9: lequipeTags: 2013-2014 mendy football anigo marseille ligue 1 Posted:...",
             "date": "2015-01-24",
             "author_name": "lequipe",
             "categories": "football",
-            "tags": "football,marseille,club,foot",
+            "tags": "football,club,foot",
             "recuweb_url": "http://fr.recuweb.com/football/dailymotion.com/2015/01/foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fhw0l_foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2fhw0l_foot-l1-om-anigo-mendy-a-choisi-son-club-de-coeur_sport"
-        },
-        "dailymotion.com/2015/01/foot-l1-om-baup-un-club-de-passion%C3%A9s": {
-            "title": "FOOT - L1 - OM - Baup: Un club de passion\u00e9s...",
-            "snippet": "VIDEO FOOT - Avant de recevoir Reims au stade V\u00e9lodrome pour le dernier match de la saison, l'entra\u00eeneur de l'Olympique de Marseille, Elie Baup, revient sur son club, sa relation avec les m\u00e9dias et les trois ans de coupure qui ont pr\u00e9c\u00e9d\u00e9 son...",
-            "date": "2015-01-24",
-            "author_name": "lequipe",
-            "tags": "club,match,stade,foot,marseille",
-            "recuweb_url": "http://fr.recuweb.com/dailymotion.com/2015/01/foot-l1-om-baup-un-club-de-passion%C3%A9s",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/club+de+foot/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fhtia_foot-l1-om-baup-un-club-de-passiones_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fhtia_foot-l1-om-baup-un-club-de-passiones_sport"
         }
     }
 }
