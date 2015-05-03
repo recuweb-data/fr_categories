@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/renaissance-tv2-apprenez-le-java-replay": {
+            "title": "Renaissance TV2 - Apprenez le JAVA (REPLAY)...",
+            "snippet": "Aujourd'hui on commence a apprendre le JAVA dans la joie et la bonne humeurAuthor: Renaissance-TVTags: renaissance-TV1 Wow raid guilde brf black hand Java programation JAVA Posted: 01 May 2015Rating:: 0...",
+            "date": "2015-05-01",
+            "author_name": "Renaissance-TV",
+            "categories": "java",
+            "tags": "apprendre,java",
+            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/05/renaissance-tv2-apprenez-le-java-replay",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java+java/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ook9c_renaissance-tv2-apprenez-le-java-replay_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ook9c_renaissance-tv2-apprenez-le-java-replay_videogames"
+        },
         "dailymotion.com/2015/04/introduction-to-java-programming-learn-1": {
             "title": "Introduction to Java Programming - Learn Java 1...",
             "snippet": "SUBSCRIBE!: Java is an upcoming tutorial series where DevFactor will be comprehensively covering the entire language and its nuances. Each video will be broken into short 5 minute or less segments, making it optimal for anyone looking to learn Java...",
@@ -22,6 +34,18 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java+java/0?af=1",
             "source_url": "http://dailymotion.com/video/x2lykc3_introduction-to-java-programming-learn-java-1_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2lykc3_introduction-to-java-programming-learn-java-1_fun"
+        },
+        "dailymotion.com/2015/02/karaoke-claude-nougaro-le-jazz-et-la-java": {
+            "title": "KARAOKE CLAUDE NOUGARO - Le jazz et la java...",
+            "snippet": "CLAUDE NOUGARO \"Le jazz et la java\" [Version KARAOK\u00c9]Author: KaRaoKeWoRLDTags: Karaoke Karaok\u00e9 Claude Nougaro Le Jazz et la Java Musique instrumentale lyrics toulouse Posted: 27 February 2015Rating:: 0...",
+            "date": "2015-02-27",
+            "author_name": "KaRaoKeWoRLD",
+            "categories": "java,musique",
+            "tags": "java",
+            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2015/02/karaoke-claude-nougaro-le-jazz-et-la-java",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2i8c4w_karaoke-claude-nougaro-le-jazz-et-la-java_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i8c4w_karaoke-claude-nougaro-le-jazz-et-la-java_music"
         },
         "dailymotion.com/2015/02/la-java-de-broadway-michel-sardou": {
             "title": "La java de broadway Michel Sardou...",
@@ -106,30 +130,6 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=XFK1fLxVgxU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XFK1fLxVgxU/0.jpg"
-        },
-        "youtube.com/2014/12/07-la-java-de-broadway-ma%C3%AEtrise-des-hauts-seine": {
-            "title": "07 - La java de Broadway - La ma\u00eetrise des Hauts de Seine...",
-            "snippet": "07 - La java de Broadway - La ma\u00eetrise des Hauts de Seine La famille B\u00e9lier 2014 (Reprise Michel Sardou) From: Florent D Views: 572700 1865 ratings Time: 02:00 More in Music...",
-            "date": "2014-12-21",
-            "author_name": "Florent D",
-            "categories": "java",
-            "tags": "michel,michel_sardou,sardou,java,broadway",
-            "recuweb_url": "http://fr.recuweb.com/java/youtube.com/2014/12/07-la-java-de-broadway-ma%C3%AEtrise-des-hauts-seine",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=dHyILM-zQ9o&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/dHyILM-zQ9o/0.jpg"
-        },
-        "youtube.com/2014/11/java-interm%C3%A9diaire-8-le-constructeur": {
-            "title": "JAVA (Interm\u00e9diaire) - 8 - Le constructeur...",
-            "snippet": "JAVA (Interm\u00e9diaire) - 8 - Le constructeur Qu'est-ce qu'un constructeur? La r\u00e9ponse dans cette vid\u00e9o... From: LES TEACHERS DU NET Views: 2065 21 ratings Time: 14:47 More in Education...",
-            "date": "2014-11-23",
-            "author_name": "LES TEACHERS DU NET",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/youtube.com/2014/11/java-interm%C3%A9diaire-8-le-constructeur",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=cGpJ0o9z5GQ&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/cGpJ0o9z5GQ/0.jpg"
         }
     }
 }
