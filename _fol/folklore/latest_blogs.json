@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "folklore",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150503"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/folklore/",
@@ -11,13 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/folklore/folklore/blogs.json"
     },
     "items": {
+        "lefaso.net/2015/04/la-journ%C3%A9e-nationale-au-paysan-un-folklore-l": {
+            "title": "La journ\u00e9e Nationale au Paysan, un folklore? -, l...",
+            "snippet": "Cette ann\u00e9e, c'est la capitale de la Boucle du Mouhoun, D\u00e9dougou, qui a l'honneur d'abriter la 18e \u00e9dition de la journ\u00e9e Nationale du Paysan (JNP) (...)...",
+            "date": "2015-04-23",
+            "author_name": "Lefaso.net",
+            "categories": "folklore",
+            "tags": "\u00e9dition,folklore,ann\u00e9e",
+            "recuweb_url": "http://fr.recuweb.com/folklore/lefaso.net/2015/04/la-journ%C3%A9e-nationale-au-paysan-un-folklore-l",
+            "resource_url": "http://www.google.com/search?q=folklore%2Bfolklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://lefaso.net/spip.php?article64365"
+        },
         "radioh2o.ca/2015/04/confortablement-to%C3%A9-s01e11-folklore-radioh2o": {
             "title": "Confortablement To\u00e9 S01E11 Folklore RadioH2O...",
             "snippet": "Cette semaine: Avec Fax on remonte les racines d'un qu\u00e9b\u00e9cois franc parl\u00e9, Raf d\u00e9construit le folklore pour mieux le reconstruire et Max nous raconte nowel chez les nazi pendant la 2e guerre. Tout \u00e7a et bien plus avec de la...",
             "date": "2015-04-21",
             "author_name": "The Les Jovialistes Show",
             "categories": "folklore",
-            "tags": "chez,folklore",
+            "tags": "folklore",
             "recuweb_url": "http://fr.recuweb.com/folklore/radioh2o.ca/2015/04/confortablement-to%C3%A9-s01e11-folklore-radioh2o",
             "resource_url": "http://www.google.com/search?q=folklore%2Bfolklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://radioh2o.ca/confortablement-toe-s01e11-folklore/"
@@ -28,21 +39,10 @@
             "date": "2015-03-27",
             "author_name": "noelbarbe",
             "categories": "folklore",
-            "tags": "folklore,avril",
+            "tags": "comme,folklore,avril",
             "recuweb_url": "http://fr.recuweb.com/folklore/aprasa.hypotheses.org/2015/03/le-folklore-comme-collage-archives-et-pratiques-savantes",
             "resource_url": "http://www.google.com/search?q=folklore%2Bfolklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://aprasa.hypotheses.org/235"
-        },
-        "libe.ma/2015/03/election-des-pr%C3%A9sidents-d-universit%C3%A9-un-v%C3%A9ritable-folklore": {
-            "title": "Election des pr\u00e9sidents d'universit\u00e9, un v\u00e9ritable folklore!",
-            "snippet": "Assur\u00e9ment, il ne faut pas attendre le moindre miracle qui soit de la fameuse r\u00e9forme de l'enseignement sup\u00e9rieur qui a cr\u00e9\u00e9 une forte attente chez la majorit\u00e9 de la population aigrie par un...",
-            "date": "2015-03-26",
-            "author_name": "Par Allal El Maleh",
-            "categories": "folklore",
-            "tags": "chez,folklore",
-            "recuweb_url": "http://fr.recuweb.com/folklore/libe.ma/2015/03/election-des-pr%C3%A9sidents-d-universit%C3%A9-un-v%C3%A9ritable-folklore",
-            "resource_url": "http://www.google.com/search?q=folklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://libe.ma/\u200bElection-des-presidents-d-universite-un-veritable-folklore-_a60424.html"
         },
         "geopolis.francetvinfo.fr/2015/03/bruxelles-folklore-g%C3%A9n%C3%A9rosit%C3%A9-oucolonialisme-le-blog": {
             "title": "Bruxelles: folklore, g\u00e9n\u00e9rosit\u00e9 oucolonialisme? Le blog du...",
@@ -50,7 +50,7 @@
             "date": "2015-03-18",
             "author_name": "Fran\u00e7ois Beaudonnet",
             "categories": "tradition,folklore",
-            "tags": "noirauds,issus,folklore,folklorique,monde,ann\u00e9e",
+            "tags": "noirauds,issus,monde,folklore,folklorique,ann\u00e9e",
             "recuweb_url": "http://fr.recuweb.com/folklore/geopolis.francetvinfo.fr/2015/03/bruxelles-folklore-g%C3%A9n%C3%A9rosit%C3%A9-oucolonialisme-le-blog",
             "resource_url": "http://www.google.com/search?q=folklore%2Bfolklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://geopolis.francetvinfo.fr/bureau-bruxelles-france2/2015/03/18/bruxelles-folklore-generosite-oucolonialisme.html"
@@ -61,21 +61,21 @@
             "date": "2015-03-18",
             "author_name": "mediation@rtbf.be (pca)",
             "categories": "folklore",
-            "tags": "noirauds,folklore,france",
+            "tags": "bruxellois,noirauds,folklore,france",
             "recuweb_url": "http://fr.recuweb.com/folklore/rtbf.be/2015/03/les-noirauds-du-folklore-bruxellois-aux-relents-racistes-france-2",
             "resource_url": "http://www.google.com/search?q=folklore%2Bfolklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://rtbf.be/info/regions/detail_les-noirauds-du-folklore-bruxellois-aux-relents-racistes-france-2-s-interroge?id=8934673"
         },
-        "lamaisondannag.blogspot.com/2015/03/la-maison-d-anna-g-bloggers-tour-london-folklore": {
-            "title": "La maison d'Anna G.: Bloggers Tour London: Folklore...",
-            "snippet": "To start with, I want to share a few pictures that we took at Folklore, a beautiful and very inspiring little shop in Islington. I could seriously have walked away with more or less everything in that shop! We had the nice task of...",
-            "date": "2015-03-12",
-            "author_name": "Anna G.",
+        "brussels-star.com/2014/08/ce-samedi-9-le-meyboom-passera-aussi-par-schaerbeek": {
+            "title": "Ce samedi 9, le Meyboom passera aussi par Schaerbeek...",
+            "snippet": "Le Meyboom, est un des plus anciens \u00e9v\u00e9nements du folklore bruxellois!, comme le rappelle l\u00e9chevin du Folklore schaerbeekois Etienne NO\u00cbL. Cette ann\u00e9e encore, apr\u00e8s avoir \u00e9t\u00e9 choisi []...",
+            "date": "2014-08-08",
+            "author_name": "brusselsdiplomatic",
             "categories": "folklore",
-            "tags": "folklore",
-            "recuweb_url": "http://fr.recuweb.com/folklore/lamaisondannag.blogspot.com/2015/03/la-maison-d-anna-g-bloggers-tour-london-folklore",
-            "resource_url": "http://www.google.com/search?q=folklore%2Bfolklore&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://lamaisondannag.blogspot.com/2015/03/blog-tour-london-folklore-shop.html"
+            "tags": "apr\u00e8s,no\u00ebl,comme,folklore,bruxellois,ann\u00e9e",
+            "recuweb_url": "http://fr.recuweb.com/folklore/brussels-star.com/2014/08/ce-samedi-9-le-meyboom-passera-aussi-par-schaerbeek",
+            "resource_url": "http://fr.search.wordpress.com/?q=folklore%2Bfolklore&f=feed&page=1",
+            "source_url": "http://brussels-star.com/2014/08/08/ce-samedi-9-le-meyboom-passera-aussi-par-schaerbeek/"
         }
     }
 }
