@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformat",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microformat/",
@@ -11,26 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microformat/microformat/blogs.json"
     },
     "items": {
-        "searchenginejournal.com/2015/04/seo-101-make-your-site-stand-out-in-serps-with-rich": {
-            "title": "SEO 101: Make Your Site Stand Out in SERPs With Rich Snippet Mark-Up - Search Engine Journal...",
-            "snippet": "Search Engine JournalSEO 101: Make Your Site Stand Out in SERPs With Rich Snippet Mark-UpSearch Engine Journal1. Pick a Mark-Up Format. Google suggests using microdata, but microdata, microformats, and RDFa are the three accepted formats. 2. Mark up...",
-            "date": "2015-04-25",
-            "categories": "google,microformat",
-            "tags": "are,format,microdata,using,engine,search,search_engine,your,your_site,site,seo,microformats,rdfa",
-            "recuweb_url": "http://fr.recuweb.com/microformat/searchenginejournal.com/2015/04/seo-101-make-your-site-stand-out-in-serps-with-rich",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://searchenginejournal.com/seo-101-make-site-stand-serps-rich-snippet-mark/129552/"
-        },
-        "webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews": {
-            "title": "Bing: New Image Search Means More Traffic For You - WebProNews...",
-            "snippet": "WebProNewsBing: New Image Search Means More Traffic For YouWebProNewsBing says to use and OpenGraph, but notes that Microdata, Microformats, and RDFa are also supported. When Bing crawlers fetch your page content, these schemas are utilized to...",
-            "date": "2015-04-10",
-            "categories": "bing,microformat",
-            "tags": "are,your,use,search,microdata,microformats,rdfa",
-            "recuweb_url": "http://fr.recuweb.com/microformat/webpronews.com/2015/04/bing-new-image-search-means-more-traffic-for-you-webpronews",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://webpronews.com/bing-new-image-search-means-more-traffic-for-you-2015-04"
-        },
         "turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn": {
             "title": "MacBook 2015: Alle Infos zum Release und erste Tests - TURN ON...",
             "snippet": "TURN ONMacBook 2015: Alle Infos zum Release und erste TestsTURN ONNeben dem kombinierten Audio-Port verf\u00fcgt der Flachmann lediglich \u00fcber einen USB-C-Anschluss im Micro-Format wof\u00fcr Apple-Nutzer aber keine passende Peripherie haben, weshalb...",
@@ -40,16 +20,6 @@
             "recuweb_url": "http://fr.recuweb.com/macbook/turn-on.de/2015/04/macbook-2015-alle-infos-zum-release-und-erste-tests-turn",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat&output=atom&nord=1",
             "source_url": "http://turn-on.de/news/macbook-2015-alle-infos-zum-release-und-erste-tests-22078"
-        },
-        "abondance.com/2014/06/faut-il-int%C3%A9grer-les-balises-s%C3%A9mantiques-dans-ses-pages-abondance": {
-            "title": "Faut-il int\u00e9grer les balises s\u00e9mantiques dans ses pages? - Abondance...",
-            "snippet": "AbondanceFaut-il int\u00e9grer les balises s\u00e9mantiques dans ses pages?AbondanceLes balises, format introduit par les 3 moteurs majeurs en 2011, pour unifier les diff\u00e9rents standards existants jusqu'alors (microdonn\u00e9es, RDFa, microformats). On...",
-            "date": "2014-06-27",
-            "categories": "microformat",
-            "tags": "format,rdfa,microformats",
-            "recuweb_url": "http://fr.recuweb.com/microformat/abondance.com/2014/06/faut-il-int%C3%A9grer-les-balises-s%C3%A9mantiques-dans-ses-pages-abondance",
-            "resource_url": "http://news.google.fr/?hl=fr&q=microformat%2Bmicroformat&output=atom&nord=1",
-            "source_url": "http://abondance.com/actualites/20140627-14046-faut-il-integrer-les-balises-semantiques-schema-org-ses-pages.html"
         },
         "crn.de/2014/06/vollwertige-pcs-im-micro-format": {
             "title": "Vollwertige PCs im Micro-Format -...",
@@ -66,7 +36,7 @@
             "snippet": "4 Easy-to-Use Microformat Tools to Beef Up Your SiteSitePointThe two most widely used microformats are the hCard and hCalendar microformats, each modeled after the preexisting vCard and vCalendar specifications, respectively. vCard files and thus...",
             "date": "2008-12-09",
             "categories": "microformat",
-            "tags": "are,your,your_site,site,use,microformats,hcard",
+            "tags": "microformats,hcard",
             "recuweb_url": "http://fr.recuweb.com/microformat/sitepoint.com/2008/12/4-easy-to-use-microformat-tools-beef-up-your-site-sitepoint",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat&output=atom&nord=1",
             "source_url": "http://sitepoint.com/4-easy-to-use-microformat-tools-to-beef-up-your-site/"
@@ -76,7 +46,7 @@
             "snippet": "The hCard Microformat & Local Search OptimizationSearch Engine Land (blog)Last year in a blog post on tips for local SEO, I recommended using the hCard microformat as a component of local search engine optimization. I believe I was first to...",
             "date": "2007-10-17",
             "categories": "microformat",
-            "tags": "search,search_engine,engine,using,hcard,seo",
+            "tags": "hcard",
             "recuweb_url": "http://fr.recuweb.com/microformat/searchengineland.com/2007/10/the-hcard-microformat-&-local-search-optimization-engine-land-blog",
             "resource_url": "http://news.google.fr/?hl=fr&q=microformat&output=atom&nord=1",
             "source_url": "http://searchengineland.com/the-hcard-microformat-local-search-optimization-12424"
