@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "pagerank",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/pagerank/",
@@ -11,15 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/pagerank/pagerank/blogs.json"
     },
     "items": {
-        "slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare": {
-            "title": "The Dangers of Letting Algorithms Decide Who Is Eligible for Welfare - Slate Magazine...",
-            "snippet": "Slate MagazineThe Dangers of Letting Algorithms Decide Who Is Eligible for WelfareSlate MagazineGoogle's much-debated PageRank algorithm, for example, calculates the relative importance of Web sources by counting the number and quality of links to...",
-            "date": "2015-04-30",
-            "categories": "pagerank",
-            "tags": "importance,algorithm,pagerank,web",
-            "recuweb_url": "http://fr.recuweb.com/pagerank/slate.com/2015/04/the-dangers-of-letting-algorithms-decide-who-is-eligible-for-welfare",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank%2Bpagerank&output=atom&nord=1",
-            "source_url": "http://slate.com/articles/technology/future_tense/2015/04/the_dangers_of_letting_algorithms_enforce_policy.html"
+        "radar.oreilly.com/2015/05/on-the-evolution-of-machine-learning-o-reilly-radar": {
+            "title": "On the evolution of machine learning - O'Reilly Radar...",
+            "snippet": "On the evolution of machine learningO'Reilly RadarThe machine learning tools were simpler than what we're using today; they include things like logistic regression, SVMs (support vector machines), kernels with SVMs, and PageRank. Google became...",
+            "date": "2015-05-03",
+            "categories": "radar,pagerank,google",
+            "tags": "pagerank,google",
+            "recuweb_url": "http://fr.recuweb.com/google/radar.oreilly.com/2015/05/on-the-evolution-of-machine-learning-o-reilly-radar",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
+            "source_url": "http://radar.oreilly.com/2015/05/on-the-evolution-of-machine-learning.html"
         },
         "itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou": {
             "title": "Google upravuje PageRank, zv\u00fdhodnen\u00e9 bud\u00fa str\u00e1nky s mobilnou... -...",
@@ -28,7 +28,7 @@
             "categories": "internet,google,pagerank",
             "tags": "internet,google,pagerank",
             "recuweb_url": "http://fr.recuweb.com/pagerank/itnews.sk/2015/04/google-upravuje-pagerank-zv%C3%BDhodnen%C3%A9-bud%C3%BA-str%C3%A1nky-s-mobilnou",
-            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank%2Bpagerank&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
             "source_url": "http://itnews.sk/spravy/internet/2015-04-22/c168630-google-upravuje-pagerank-zvyhodnene-budu-stranky-s-mobilnou-verziou"
         },
         "technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit": {
@@ -36,7 +36,7 @@
             "snippet": "Pagerank Algorithm Reveals World's All-Time Top Soccer TeamMIT Technology Review (blog)Today, Verica Lazova and Lasko Basnarkov at Cyril and Methodius University in Macedonia have found another use for the Pagerank algorithm. These guys have used it...",
             "date": "2015-03-13",
             "categories": "pagerank",
-            "tags": "pagerank,algorithm",
+            "tags": "pagerank",
             "recuweb_url": "http://fr.recuweb.com/pagerank/technologyreview.com/2015/03/pagerank-algorithm-reveals-world-s-all-time-top-soccer-team-mit",
             "resource_url": "http://news.google.fr/?hl=fr&q=pagerank&output=atom&nord=1",
             "source_url": "http://technologyreview.com/view/535861/pagerank-algorithm-reveals-worlds-all-time-top-soccer-team/"
