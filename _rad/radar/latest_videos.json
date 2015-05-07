@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "radar",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/radar/",
@@ -17,9 +17,9 @@
             "date": "2015-04-30",
             "author_name": "autoplus",
             "categories": "radar",
-            "tags": "radar,laser",
+            "tags": "radar",
             "recuweb_url": "http://fr.recuweb.com/radar/dailymotion.com/2015/04/les-jumelles-est-ce-un-radar-fixe-ou-mobile",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/radar+radar/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/radar/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ojue7_les-jumelles-est-ce-un-radar-fixe-ou-mobile_auto",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2ojue7_les-jumelles-est-ce-un-radar-fixe-ou-mobile_auto"
         },
@@ -41,9 +41,9 @@
             "date": "2015-04-15",
             "author_name": "prefecturedepolice",
             "categories": "radar",
-            "tags": "radars",
+            "tags": "radars,s\u00e9curit\u00e9,routi\u00e8re",
             "recuweb_url": "http://fr.recuweb.com/radar/dailymotion.com/2015/04/s%C3%A9curit%C3%A9-routi%C3%A8re-radars-contr%C3%B4les-d%C3%A9pistages",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/radar+radar/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/radar/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mrful_securite-routiere-radars-controles-depistages_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2mrful_securite-routiere-radars-controles-depistages_news"
         },
@@ -71,41 +71,53 @@
             "source_url": "http://dailymotion.com/video/x2kfom6_crash-a320-digne-decouvrez-la-trajectoire-de-l-avion-sur-les-radars_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2kfom6_crash-a320-digne-decouvrez-la-trajectoire-de-l-avion-sur-les-radars_news"
         },
-        "youtube.com/2015/02/d%C3%A9tecteur-radar-larges-bandes-d%C3%A9monstration": {
-            "title": "D\u00e9tecteur radar larges bandes, D\u00e9monstration...",
-            "snippet": "D\u00e9tecteur radar larges bandes, D\u00e9monstration Ultra simple d'utilisation, juste un branchement sur l'allume cigare, de la dimension d'une souris d'ordinateur. D\u00e9tecte les bandes K Band, Ka Band, Laser, X Band, NEW K Band, Ku Band, VG-2. From: Stop...",
-            "date": "2015-02-08",
-            "author_name": "Stop flashy",
-            "categories": "radar,ordinateur",
-            "tags": "radar,d\u00e9tecteur,laser",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/youtube.com/2015/02/d%C3%A9tecteur-radar-larges-bandes-d%C3%A9monstration",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radar%2Bradar&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=eyI92U1RDxs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/eyI92U1RDxs/0.jpg"
-        },
         "youtube.com/2015/01/le-radar-de-feu": {
             "title": "Le radar de feu...",
             "snippet": "Le radar de feu Voici en vid\u00e9o, les explications sur le fonctionnement du radar de feu et sur les r\u00e8gles du code de la route qui r\u00e9gissent \"le feu rouge\", \"le feu orange\" et \"le feu vert\". N'oubliez pas... From: Stage R\u00e9cup\u00e9ration 4 Points...",
             "date": "2015-01-27",
             "author_name": "Stage R\u00e9cup\u00e9ration 4 Points",
             "categories": "radar",
-            "tags": "radar,route,points",
+            "tags": "radar,points",
             "recuweb_url": "http://fr.recuweb.com/radar/youtube.com/2015/01/le-radar-de-feu",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radar%2Bradar&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radar&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Q44tmY1cNAE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Q44tmY1cNAE/0.jpg"
         },
-        "youtube.com/2014/11/chauffards-anti-radars-enqu%C3%AAte-sur-les-nouveaux-pirates-de-la-route": {
-            "title": "Chauffards, anti radars enqu\u00eate sur les nouveaux pirates de la route 90 Minutes Enquete TMC 2014...",
-            "snippet": "Chauffards, anti radars enqu\u00eate sur les nouveaux pirates de la route 90 Minutes Enquete TMC 2014 REPORTAGE 2014 90 MINUTES ENQUETES SOLEIL BAGARRES ET GO FAST UN ETE SUR LA COTE BASQUE EPISODE COMPMLET. Obtenez le meilleur WhatsApp fonds...",
-            "date": "2014-11-18",
-            "author_name": "tertol mukar",
+        "dailymotion.com/2015/01/le-radar-de-l-obs-la-voiture-intelligente-mercedes-pr%C3%A9sent%C3%A9e": {
+            "title": "LE RADAR DE L'OBS. La voiture intelligente de Mercedes pr\u00e9sent\u00e9e au CES...",
+            "snippet": "Elles conduisent sans chauffeur, ne polluent plus et communiquent via internet avec votre montre. Les voitures du futur se d\u00e9voilent actuellement au salon CES de Las Vegas. Parmi les constructeurs a faire sensation, Mercedes-Benz a pr\u00e9sent\u00e9 le...",
+            "date": "2015-01-07",
+            "author_name": "LeNouvelObservateur",
+            "categories": "internet,radar",
+            "tags": "voiture,radar,obs",
+            "recuweb_url": "http://fr.recuweb.com/radar/dailymotion.com/2015/01/le-radar-de-l-obs-la-voiture-intelligente-mercedes-pr%C3%A9sent%C3%A9e",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+radar/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2e6n7m_le-radar-de-l-obs-la-voiture-intelligente-de-mercedes-presentee-au-ces_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2e6n7m_le-radar-de-l-obs-la-voiture-intelligente-de-mercedes-presentee-au-ces_news"
+        },
+        "dailymotion.com/2015/01/le-radar-de-l-obs-impressionnante-explosion-dans-une-usine-feux": {
+            "title": "LE RADAR DE L'OBS. Impressionnante explosion dans une usine de feux d'artifice...",
+            "snippet": "L'accident survenu dimanche pr\u00e8s de la capitale colombienne a caus\u00e9 deux: LeNouvelObservateurTags: Posted: 05 January 2015Rating:: 0...",
+            "date": "2015-01-05",
+            "author_name": "LeNouvelObservateur",
             "categories": "radar",
-            "tags": "radars,route",
-            "recuweb_url": "http://fr.recuweb.com/radar/youtube.com/2014/11/chauffards-anti-radars-enqu%C3%AAte-sur-les-nouveaux-pirates-de-la-route",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radar%2Bradar&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=fj3Tu6-b4WI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/fj3Tu6-b4WI/0.jpg"
+            "tags": "deux,radar,obs",
+            "recuweb_url": "http://fr.recuweb.com/radar/dailymotion.com/2015/01/le-radar-de-l-obs-impressionnante-explosion-dans-une-usine-feux",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+radar/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2e1fs1_le-radar-de-l-obs-impressionnante-explosion-dans-une-usine-de-feux-d-artifice_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2e1fs1_le-radar-de-l-obs-impressionnante-explosion-dans-une-usine-de-feux-d-artifice_news"
+        },
+        "dailymotion.com/2014/12/video-le-radar-invisible-des-gendarmes-sillonne-loir-et-cher": {
+            "title": "VIDEO. Le radar invisible des gendarmes sillonne le Loir-et-Cher...",
+            "snippet": "L'Escadron d\u00e9partementale de s\u00e9curit\u00e9 routi\u00e8re dispose depuis mars 2013 d'une voiture banalis\u00e9e \u00e9quip\u00e9e d'un radar capable d'enregistrer des infractions dans les deux sens de circulation. Une Renault M\u00e9gane comme les autres, pas de flash,...",
+            "date": "2014-12-02",
+            "author_name": "lanouvellerepublique",
+            "categories": "radar",
+            "tags": "deux,radar,voiture,s\u00e9curit\u00e9,routi\u00e8re",
+            "recuweb_url": "http://fr.recuweb.com/radar/dailymotion.com/2014/12/video-le-radar-invisible-des-gendarmes-sillonne-loir-et-cher",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+radar/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2bknwx_video-le-radar-invisible-des-gendarmes-sillonne-le-loir-et-cher_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2bknwx_video-le-radar-invisible-des-gendarmes-sillonne-le-loir-et-cher_news"
         },
         "youtube.com/2014/09/sacha-judaszko-38-le-radar-qui-insulte-les-automobilistes-ondar": {
             "title": "Sacha Judaszko 38 Le radar qui insulte les automobilistes ONDAR...",
@@ -115,21 +127,9 @@
             "categories": "radar",
             "tags": "radar,points",
             "recuweb_url": "http://fr.recuweb.com/radar/youtube.com/2014/09/sacha-judaszko-38-le-radar-qui-insulte-les-automobilistes-ondar",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radar%2Bradar&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=radar&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=-LWKq5gVf_o&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/-LWKq5gVf_o/0.jpg"
-        },
-        "dailymotion.com/2014/07/avertisseur-de-radar-detecteur-mini-coyote": {
-            "title": "Avertisseur de radar detecteur de radar Mini Coyote Plus...",
-            "snippet": "d\u00e9tecteur de radar avertisseur de radar mini coyote plus pour achat et information SUR: RADARPLUSTags: Posted: 17 July 2014Rating:: 0...",
-            "date": "2014-07-17",
-            "author_name": "RADARPLUS",
-            "categories": "radar",
-            "tags": "d\u00e9tecteur,radar",
-            "recuweb_url": "http://fr.recuweb.com/radar/dailymotion.com/2014/07/avertisseur-de-radar-detecteur-mini-coyote",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/radar+radar/0?af=1",
-            "source_url": "http://dailymotion.com/video/x21mjv6_avertisseur-de-radar-detecteur-de-radar-mini-coyote-plus_auto",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x21mjv6_avertisseur-de-radar-detecteur-de-radar-mini-coyote-plus_auto"
         }
     }
 }
