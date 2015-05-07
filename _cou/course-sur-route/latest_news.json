@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "course-sur-route",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/course-sur-route/",
@@ -11,23 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
     },
     "items": {
+        "tahiti-infos.com/2015/05/v%C3%A9lo-sur-route-la-ronde-tahitienne-4%C3%A8me-%C3%A9dition-dune-course-ambitieuse": {
+            "title": "V\u00e9lo sur route La Ronde Tahitienne: La 4\u00e8me \u00e9dition dune course ambitieuse pr\u00e9vue le 31 mai.",
+            "snippet": "Le VCT, le v\u00e9lo club de Tahiti, fond\u00e9 en 1983, propose la 4 \u00e8me \u00e9dition de la Ronde Tahitienne, une course de v\u00e9lo sur route autour de l\u00eele de... il pr\u00e9voit de faire passer des images sur France T\u00e9l\u00e9vision comme lann\u00e9e derni\u00e8re.",
+            "date": "2015-05-06",
+            "categories": "television",
+            "tags": "derni\u00e8re,france,v\u00e9lo,\u00e8me,\u00e9dition,club,route,course,images",
+            "recuweb_url": "http://fr.recuweb.com/television/tahiti-infos.com/2015/05/v%C3%A9lo-sur-route-la-ronde-tahitienne-4%C3%A8me-%C3%A9dition-dune-course-ambitieuse",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bcourse%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://tahiti-infos.com/Velo-sur-route-La-Ronde-Tahitienne-La-4eme-edition-d-une-course-ambitieuse-prevue-le-31-mai_a127115.html"
+        },
+        "ladepeche.fr/2015/05/un-conducteur-de-64-ans-se-tue-sur-la-route-fronton": {
+            "title": "Un conducteur de 64 ans se tue sur la route de Fronton...",
+            "snippet": "Un ciel d\u00e9gag\u00e9. Une Renault Sc\u00e9nic roulant seule sur la voie de droite vers Fronton Que s'est-il pass\u00e9 pour que, subitement, l'automobile perde le contr\u00f4le, bascule de l'autre c\u00f4t\u00e9 de la route et finisse sa course sur le toit, dans le...",
+            "date": "2015-05-05",
+            "tags": "route,course",
+            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/05/un-conducteur-de-64-ans-se-tue-sur-la-route-fronton",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bcourse%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/05/05/2099120-conducteur-64-ans-tue-route-fronton.html"
+        },
+        "cyclismerevue.blogs.sudinfo.be/2015/05/bradley-wiggins-en-d%C3%A9fil%C3%A9-au-yorkshire-avec-le-record-de-l": {
+            "title": "Bradley Wiggins en d\u00e9fil\u00e9 au Yorkshire, avec le record de l'Heure en vue: Je commence une...",
+            "snippet": "Premier Tour de Yorkshire, derni\u00e8re course sur route de Bradley Wiggins. Dieu vivant de tout un peuple et de la Reine, Sir Brad respire la d\u00e9contraction dans le comt\u00e9. Maillot \u00e9ponyme sur les \u00e9paules, il p\u00e9dale, peinard. Appelez-le,...",
+            "date": "2015-05-03",
+            "tags": "premier,record,derni\u00e8re,course,route",
+            "recuweb_url": "http://fr.recuweb.com/cyclismerevue.blogs.sudinfo.be/2015/05/bradley-wiggins-en-d%C3%A9fil%C3%A9-au-yorkshire-avec-le-record-de-l",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://cyclismerevue.blogs.sudinfo.be/archive/2015/05/02/bradley-wiggins-en-defile-au-yorkshire-je-commence-une-nouvelle-carriere.html"
+        },
         "letelegramme.fr/2015/05/niyonkuru-sans-forcer-le-t%C3%A9l%C3%A9gramme": {
             "title": "Niyonkuru sans forcer - Le T\u00e9l\u00e9gramme...",
             "snippet": "Le T\u00e9l\u00e9grammeNiyonkuru sans forcerLe T\u00e9l\u00e9grammeSur la route, Abraham Niyonkuru n'a pas battu de record mais a domin\u00e9 la concurrence. Parti dans la foul\u00e9e des Kenyans, Jackson Onami et David Ch\u00e9g\u00e9, le Burandais a attendu la mi-course pour...",
             "date": "2015-05-02",
-            "tags": "route,course",
+            "tags": "record,route,course",
             "recuweb_url": "http://fr.recuweb.com/letelegramme.fr/2015/05/niyonkuru-sans-forcer-le-t%C3%A9l%C3%A9gramme",
             "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
             "source_url": "http://letelegramme.fr/course-sur-route/niyonkuru-sans-forcer-02-05-2015-10614790.php"
-        },
-        "tendanceouest.com/2015/05/sortie-de-route-le-v%C3%A9hicule-termine-sa-course-dans-une-rivi%C3%A8re": {
-            "title": "Sortie de route: le v\u00e9hicule termine sa course dans une rivi\u00e8re - Tendance Ouest...",
-            "snippet": "Tendance OuestSortie de route: le v\u00e9hicule termine sa course dans une rivi\u00e8reTendance OuestUne femme g\u00e9e de 82 ans, a fait une sortie de route, au niveau de la Haute-Chapelle ce vendredi 01 mai, un peu avant 17h00, sur la RD 907 lieu-dit Le Val...",
-            "date": "2015-05-02",
-            "tags": "ouest,route,course,lieu,val",
-            "recuweb_url": "http://fr.recuweb.com/tendanceouest.com/2015/05/sortie-de-route-le-v%C3%A9hicule-termine-sa-course-dans-une-rivi%C3%A8re",
-            "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
-            "source_url": "http://tendanceouest.com/actualite-102986-sortie-de-route-le-vehicule-termine-sa-course-dans-une-riviere.html"
         },
         "virginradio.fr/2015/05/course-croisi%C3%A8re-edhec-en-route-pour-la-soir%C3%A9e-de-cl%C3%B4ture": {
             "title": "Course Croisi\u00e8re EDHEC: En route pour la soir\u00e9e de cl\u00f4ture avec... - Virgin Radio...",
@@ -48,12 +67,21 @@
             "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
             "source_url": "http://cyclismactu.net/news-route-du-sud-le-parcours-de-la-course-devoile-49241.html"
         },
+        "lamontagne.fr/2015/04/un-titre-de-champion-france-sur-10-km-route": {
+            "title": "Un titre de champion de France sur 10 km route...",
+            "snippet": "Les semaines pass\u00e9es ont vu se succ\u00e9der une grosse participation sur les diff\u00e9rentes courses et dexcellents r\u00e9sultats densemble avec victoires et podiums pour CLF. En point dorgue, le titre de champion de France, le premier pour le club,...",
+            "date": "2015-04-29",
+            "tags": "premier,club,courses,france,route",
+            "recuweb_url": "http://fr.recuweb.com/lamontagne.fr/2015/04/un-titre-de-champion-france-sur-10-km-route",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bcourse%2Bsur%2Broute&format=RSS&cc=fr",
+            "source_url": "http://lamontagne.fr/auvergne/actualite/departement/puy-de-dome/ambert/2015/04/30/un-titre-de-champion-de-france-sur-10-km-route_11424958.html"
+        },
         "leprogres.fr/2015/04/course-sur-route-10-km-chassieu-ribeiro-20-ans-apr%C3%A8s": {
             "title": "Course sur route 10 km chassieu. Ribeiro 20 ans apr\u00e8s...",
             "snippet": "Au lieu de la pluie annonc\u00e9e par M\u00e9t\u00e9o France depuis une semaine, cest finalement un beau soleil qui a accompagn\u00e9 les 552 participants au 10km de Chassieu dimanche matin pour le plus grand plaisir de lorganisatrice du club de Chassieu...",
             "date": "2015-04-26",
             "categories": "plaisir",
-            "tags": "dimanche,grand,club,participants,france,lieu,apr\u00e8s,course,route",
+            "tags": "dimanche,grand,club,participants,france,course,route",
             "recuweb_url": "http://fr.recuweb.com/plaisir/leprogres.fr/2015/04/course-sur-route-10-km-chassieu-ribeiro-20-ans-apr%C3%A8s",
             "resource_url": "http://www.bing.com/news/search?first=1&q=course%2Bsur%2Broute&format=RSS&cc=fr",
             "source_url": "http://leprogres.fr/rhone/2015/04/27/ribeiro-20-ans-apres"
@@ -62,7 +90,7 @@
             "title": "Course sur route. Premi\u00e8re ensoleill\u00e9e pour le Touloki court - Ouest-France...",
             "snippet": "Ouest-FranceCourse sur route. Premi\u00e8re ensoleill\u00e9e pour le Touloki courtOuest-FranceCette premi\u00e8re \u00e9dition du Touloki court voyait deux courses partir en m\u00eame temps, l'une pour une boucle de 5 km, l'autre pour deux boucles avec une arriv\u00e9e sur...",
             "date": "2015-04-05",
-            "tags": "deux,arriv\u00e9e,course,\u00e9dition,route,ouest,france",
+            "tags": "arriv\u00e9e,courses,course,\u00e9dition,route,france",
             "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/04/course-sur-route-premi%C3%A8re-ensoleill%C3%A9e-pour-le-touloki-court-ouest-france",
             "resource_url": "http://news.google.fr/?hl=fr&q=course%2Bsur%2Broute&output=atom&nord=1",
             "source_url": "http://ouest-france.fr/course-sur-route-premiere-ensoleillee-pour-le-touloki-court-3310967"
