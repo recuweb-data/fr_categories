@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "bing",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/bing/",
@@ -11,51 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/bing/bing/blogs.json"
     },
     "items": {
-        "philly.com/2015/05/bing-dim-sum": {
-            "title": "Bing Bing Dim Sum -...",
-            "snippet": "Bing Dim chef behind the irrepressibly likable and unabashedly inauthentic Cheu Noodle Bar was determined to get serious training in authentic dumpling craft before opening Bing Bing Dim Sum, his latest riff on Asian street food in collaboration...",
-            "date": "2015-05-02",
-            "categories": "bing",
-            "tags": "collaboration,was,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/philly.com/2015/05/bing-dim-sum",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://philly.com/philly/food/20150503_LaBan_review_Bing_Bing_Dim_Sum.html"
-        },
-        "winbeta.org/2015/05/microsoft-continues-platform-pitch-with-new-apis-and-sdks-for-bing": {
-            "title": "Microsoft continues platform pitch with new APIs and SDKs for Bing - WinBeta...",
-            "snippet": "WinBetaMicrosoft continues platform pitch with new APIs and SDKs for BingWinBetaDuring the conference developers and attendees of Build were introduced to new tech and data sources that transform Bing beyond a simple desktop search engine. Now...",
-            "date": "2015-05-01",
-            "categories": "bing",
-            "tags": "search,that,microsoft,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/winbeta.org/2015/05/microsoft-continues-platform-pitch-with-new-apis-and-sdks-for-bing",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://winbeta.org/news/microsoft-continues-platform-pitch-new-apis-and-sdks-bing"
-        },
         "nextinpact.com/2015/05/solocal-pagesjaunes-compte-sur-bing-et-google-pour-relever-la-t%C3%AAte": {
             "title": "Solocal (PagesJaunes) compte sur Bing et Google pour relever la t\u00eate...",
             "snippet": "Le groupe Solocal, propri\u00e9taire du site, a profit\u00e9 de la pr\u00e9sentation de ses derniers r\u00e9sultats pour annoncer deux partenariats d'envergure. Le premier avec Google, pour des offres publicitaires communes, le second avec Microsoft, pour l...",
             "date": "2015-05-01",
             "categories": "bing,google",
-            "tags": "bing,google,microsoft",
+            "tags": "bing,google",
             "recuweb_url": "http://fr.recuweb.com/google/nextinpact.com/2015/05/solocal-pagesjaunes-compte-sur-bing-et-google-pour-relever-la-t%C3%AAte",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
             "source_url": "http://nextinpact.com/news/93952-pagesjaunes-compte-sur-bing-et-google-pour-relever-tete.htm"
-        },
-        "news.asiaone.com/2015/04/17-years-since-princess-pearl-drama-are-fan-bingbing-ruby-lin": {
-            "title": "17 years since 'Princess Pearl'drama: Are Fan Bingbing, Ruby Lin... - AsiaOne...",
-            "snippet": "AsiaOne17 years since 'Princess Pearl'drama: Are Fan Bingbing, Ruby Lin...AsiaOneMainland China artiste Fan Bingbing was invited to the programme, Sze U Tonight, hosted by Johnson Lee. She wore a green outfit and greeted audiences, who returned her...",
-            "date": "2015-04-27",
-            "tags": "was,fan,fan_bingbing,bingbing,china,since,drama,asiaone,artiste",
-            "recuweb_url": "http://fr.recuweb.com/news.asiaone.com/2015/04/17-years-since-princess-pearl-drama-are-fan-bingbing-ruby-lin",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://news.asiaone.com/news/showbiz/17-years-princess-pearl-drama-are-fan-bingbing-ruby-lin-and-vicki-zhao-still-friends"
         },
         "telecharger.itespresso.fr/2015/04/browser-cleaner-1-2": {
             "title": "Browser Cleaner 1.2...",
             "snippet": "Browser Cleaner supprime toutes les barres doutils, applications, modules compl\u00e9mentaires, et plug-ins comme les barres doutils Ask, Babylon, Bing ou MSN. Vous pouvez s\u00e9lectionner les barres doutils que vous souhaitez supprimer. Browser Cleaner...",
             "date": "2015-04-27",
             "categories": "bing",
-            "tags": "supprimer,comme,bing",
+            "tags": "comme,bing",
             "recuweb_url": "http://fr.recuweb.com/bing/telecharger.itespresso.fr/2015/04/browser-cleaner-1-2",
             "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
             "source_url": "http://telecharger.itespresso.fr/31964/browser-cleaner/"
@@ -65,48 +36,30 @@
             "snippet": "L'art de rendre visibles ceux qui n'existent plusLes blogs du Diplo (Blog)On aurait aim\u00e9 interviewer le r\u00e9alisateur chinois Wang Bing comme il filme ses personnages. Sans question ni r\u00e9ponse. A distance de ce qu'ils sont mais au plus proche de ce...",
             "date": "2015-04-25",
             "categories": "bing",
-            "tags": "comme,wang,wang_bing,bing,art",
+            "tags": "comme,wang,wang_bing,bing,inter,art",
             "recuweb_url": "http://fr.recuweb.com/bing/blog.mondediplo.net/2015/04/l-art-de-rendre-visibles-ceux-qui-n-existent",
             "resource_url": "http://news.google.fr/?hl=fr&q=bing&output=atom&nord=1",
             "source_url": "http://blog.mondediplo.net/2015-04-25-L-art-de-rendre-visibles-ceux-qui-n-existent-plus"
-        },
-        "filmdeculte.com/2015/04/ever-since-we-love-premi%C3%A8res-images-du-nouveau-carton": {
-            "title": "EVER SINCE WE LOVE: premi\u00e8res images du nouveau carton... -...",
-            "snippet": "EVER SINCE WE LOVE: premi\u00e8res images du nouveau carton... Since We Love est sa nouvelle collaboration avec son actrice f\u00e9tiche Fan Bingbing (qui, ces derni\u00e8res ann\u00e9es, s'est aventur\u00e9e sur quelques blockbusters am\u00e9ricains comme X-Men: Days of...",
-            "date": "2015-04-22",
-            "tags": "comme,fan,fan_bingbing,bingbing,collaboration,since",
-            "recuweb_url": "http://fr.recuweb.com/filmdeculte.com/2015/04/ever-since-we-love-premi%C3%A8res-images-du-nouveau-carton",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://filmdeculte.com/cinema/actualite/EVER-SINCE-WE-LOVE-premieres-images-du-nouveau-carton-chinois-de-Fan-Bingbing-21272.html"
-        },
-        "siliconvalley.blog.lemonde.fr/2015/04/yahoo-saffranchit-enfin-de-microsoft-dans-la-recherche-en-ligne": {
-            "title": "Yahoo saffranchit enfin de Microsoft dans la recherche en ligne...",
-            "snippet": "L'ancienne employ\u00e9e vedette de Google n'a jamais cach\u00e9 qu'elle souhaitait s'affranchir de cet accord pr\u00e9voyant que les recherches effectu\u00e9es sur les sites de Yahoo soient r\u00e9alis\u00e9es par Bing, le moteur de Microsoft. En \u00e9change, le portail...",
-            "date": "2015-04-22",
-            "categories": "yahoo,google,bing",
-            "tags": "moteur,recherche,microsoft,google,bing",
-            "recuweb_url": "http://fr.recuweb.com/bing/siliconvalley.blog.lemonde.fr/2015/04/yahoo-saffranchit-enfin-de-microsoft-dans-la-recherche-en-ligne",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=bing&format=RSS&cc=fr",
-            "source_url": "http://siliconvalley.blog.lemonde.fr/2015/04/22/yahoo-saffranchit-enfin-de-microsoft-dans-la-recherche-en-ligne/"
-        },
-        "news.asiaone.com/2015/04/empress-of-china-to-be-aired-here-but-fan-bingbing": {
-            "title": "Empress Of China to be aired here, but Fan Bingbing's cleavage will... - AsiaOne...",
-            "snippet": "Empress Of China to be aired here, but Fan Bingbing's cleavage will...AsiaOneThe Empress Of China, the Tang dynasty drama that drew flak in China for baring the cleavages of female characters in the palace, will premiere on Sunday (April 26) in...",
-            "date": "2015-04-21",
-            "tags": "drama,that,fan,fan_bingbing,bingbing,china,asiaone",
-            "recuweb_url": "http://fr.recuweb.com/news.asiaone.com/2015/04/empress-of-china-to-be-aired-here-but-fan-bingbing",
-            "resource_url": "http://news.google.fr/?hl=fr&q=bing%2Bbing&output=atom&nord=1",
-            "source_url": "http://news.asiaone.com/news/showbiz/empress-china-be-aired-here-fan-bingbings-cleavage-will-be-covered-digitally"
         },
         "ginjfo.com/2015/04/bing-l-impossible-se-r%C3%A9alise-le-moteur-devient-percutant-ginjfo": {
             "title": "Bing, l'impossible se r\u00e9alise? le moteur devient percutant - GinjFo...",
             "snippet": "GinjFoBing, l'impossible se r\u00e9alise? le moteur devient percutantGinjFoEn mati\u00e8re de recherche sur Internet, le moteur de Google est une r\u00e9f\u00e9rence surtout en Europe o\u00f9 son taux d'utilisation bat des records absolus. Il y a pourtant de la...",
             "date": "2015-04-17",
             "categories": "bing,internet,google",
-            "tags": "moteur,recherche,bing,internet,google",
+            "tags": "bing,google",
             "recuweb_url": "http://fr.recuweb.com/google/ginjfo.com/2015/04/bing-l-impossible-se-r%C3%A9alise-le-moteur-devient-percutant-ginjfo",
             "resource_url": "http://news.google.fr/?hl=fr&q=bing&output=atom&nord=1",
             "source_url": "http://ginjfo.com/actualites/politique-et-economie/bing-limpossible-se-realise-le-moteur-devient-percutant-20150417"
+        },
+        "journaldugeek.com/2013/08/icann-pas-de-noms-domaine-sans-points-pour-google-le-journal": {
+            "title": "ICANN: pas de noms de domaine sans points pour Google - Le Journal du Geek...",
+            "snippet": "ICANN: pas de noms de domaine sans points pour GoogleLe Journal du GeekCes NDD ne poss\u00e9dant pas de point quelque chose (dotless), les utilisateurs auraient eu le choix de la destination finale, par exemple Yahoo ou Bing pour search, l'AppStore ou...",
+            "date": "2013-08-18",
+            "categories": "google,yahoo,bing",
+            "tags": "search,google,bing",
+            "recuweb_url": "http://fr.recuweb.com/bing/journaldugeek.com/2013/08/icann-pas-de-noms-domaine-sans-points-pour-google-le-journal",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bbing&output=atom&nord=1",
+            "source_url": "http://journaldugeek.com/2013/08/18/icann-pas-de-noms-de-domaine-sans-points-pour-google/"
         }
     }
 }
