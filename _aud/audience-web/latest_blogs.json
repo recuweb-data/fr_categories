@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "audience-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/audience-web/",
@@ -16,18 +16,18 @@
             "snippet": "Les marques de presse affichent une progression de leur audience globale de 4% selon l'\u00e9tude One Global, qui mesure l'audience sur les supports print et web (fixe et...",
             "date": "2015-04-09",
             "author_name": "patricecoudyser14",
-            "tags": "mesure,selon,progression,web,audience",
+            "tags": "mesure,global,marques,progression,web,audience,selon",
             "recuweb_url": "http://fr.recuweb.com/patricecoudyser14.wordpress.com/2015/04/etude-one-global-le-web-tire-la-croissance-de-presse",
-            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bweb%2Baudience%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bweb&f=feed&page=1",
             "source_url": "http://patricecoudyser14.wordpress.com/2015/04/09/etude-one-global-le-web-tire-la-croissance-de-la-presse/"
         },
         "webmarketing-com.com/2015/04/mieux-comprendre-les-int%C3%A9r%C3%AAts-de-son-audience-grce-aux-groupes": {
             "title": "Mieux comprendre les int\u00e9r\u00eats de son audience grce aux groupes...",
-            "snippet": "Actualit\u00e9 des Moteurs Web Analytics 08 avril 2015 7 commentaires. Mieux comprendre les int\u00e9r\u00eats de son audience grce aux groupes de contenus Google Analytics. Savez-vous que sur Google Analytics, vous pouvez cr\u00e9er des...",
+            "snippet": "Mieux comprendre les int\u00e9r\u00eats de son audience grce aux groupes de contenus Google Analytics Actualit\u00e9 des Moteurs Web Analytics 08 avril 2015 7 commentaires. Mieux comprendre les int\u00e9r\u00eats de son audience grce aux groupes...",
             "date": "2015-04-08",
             "author_name": "Sylvain Lembert",
             "categories": "google",
-            "tags": "grce,contenus,web,audience",
+            "tags": "web,grce,contenus,audience",
             "recuweb_url": "http://fr.recuweb.com/google/webmarketing-com.com/2015/04/mieux-comprendre-les-int%C3%A9r%C3%AAts-de-son-audience-grce-aux-groupes",
             "resource_url": "http://www.google.com/search?q=audience%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://webmarketing-com.com/2015/04/08/36868-mieux-comprendre-les-interets-de-son-audience-grace-aux-groupes-de-contenus-google-analytics"
@@ -38,9 +38,9 @@
             "date": "2015-02-23",
             "author_name": "Super User",
             "categories": "internet",
-            "tags": "analyse,web,audience,mesure",
+            "tags": "web,audience,internet,mesure",
             "recuweb_url": "http://fr.recuweb.com/internet/jflaroucheweb.com/2015/02/strat%C3%A9gie-web-analyse-d-audience-internet-et-services-conseils",
-            "resource_url": "http://www.google.com/search?q=audience%2Bweb%2Baudience%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=audience%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jflaroucheweb.com/fr/services/analyse-audience"
         },
         "autoveille.info/2015/02/comment-fid%C3%A9liser-son-audience-sur-le-web-infographie-seo": {
@@ -50,7 +50,7 @@
             "author_name": "\u00a9 AUTOVEILLE",
             "tags": "audience,web,site",
             "recuweb_url": "http://fr.recuweb.com/autoveille.info/2015/02/comment-fid%C3%A9liser-son-audience-sur-le-web-infographie-seo",
-            "resource_url": "http://www.google.com/search?q=audience%2Bweb%2Baudience%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=audience%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://autoveille.info/2015/02/09/comment-fideliser-son-audience-sur-le-web-infographie-seo-sea-smo/"
         },
         "instructionaldesignfrance.wordpress.com/2014/07/elargissez-votre-audience-grce-aux-micro-contenus": {
@@ -59,10 +59,21 @@
             "date": "2014-07-24",
             "author_name": "Ahmed Sfaxi",
             "categories": "twitter",
-            "tags": "grce,audience,contenus,twitter,web",
+            "tags": "grce,audience,contenus,twitter,sites,web",
             "recuweb_url": "http://fr.recuweb.com/twitter/instructionaldesignfrance.wordpress.com/2014/07/elargissez-votre-audience-grce-aux-micro-contenus",
-            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bweb%2Baudience%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bweb&f=feed&page=1",
             "source_url": "http://instructionaldesignfrance.wordpress.com/2014/07/24/elargissez-votre-audience-grace-aux-micro-contenus/"
+        },
+        "tech.mozfr.org/2012/06/browserid-impl%C3%A9mentation-en-java-c%C3%B4t%C3%A9-serveur-bidouilleux-d-web": {
+            "title": "BrowserID, impl\u00e9mentation en Java c\u00f4t\u00e9 serveur - Bidouilleux d'Web...",
+            "snippet": "setParameter(\"audience\", \"localhost\");//Indiquez ici votre serveur (\"Content-type\", \"application/x-www-form-urlencoded\"); HttpResponse res=();//Bien s\u00fbr, ce n'est pas comme \u00e7a qu'on parse du JSon...",
+            "date": "2012-06-19",
+            "author_name": "Flaburgan",
+            "categories": "java",
+            "tags": "web,www",
+            "recuweb_url": "http://fr.recuweb.com/java/tech.mozfr.org/2012/06/browserid-impl%C3%A9mentation-en-java-c%C3%B4t%C3%A9-serveur-bidouilleux-d-web",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tech.mozfr.org/post/2012/06/19/BrowserID--implementation-en-Java-cote-serveur"
         }
     }
 }
