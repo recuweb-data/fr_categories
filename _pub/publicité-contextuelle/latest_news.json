@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "portal_name": "publicit\u00e9-contextuelle",
+        "language": "fr",
+        "updated": "20150507"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/publicit\u00e9-contextuelle/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/publicit%C3%A9-contextuelle/publicit%C3%A9-contextuelle/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/publicit%C3%A9-contextuelle/publicit%C3%A9-contextuelle/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/publicit%C3%A9-contextuelle/publicit%C3%A9-contextuelle/blogs.json"
+    },
+    "items": {
+        "journaldunet.com/2015/05/ibm-et-facebook-nouent-un-partenariat-pour-am%C3%A9liorer-le-ciblage-publicitaire": {
+            "title": "IBM et Facebook nouent un partenariat pour am\u00e9liorer le ciblage publicitaire...",
+            "snippet": "le contenu des achats d'un e-commer\u00e7ant qui utilise les outils de Facebook pour rendre les publicit\u00e9s plus pertinentes et contextuelles. Dans le m\u00eame temps, Facebook rejoint IBM Commerce THINKLab, un environnement de recherche et de collaboration...",
+            "date": "2015-05-07",
+            "categories": "environnement,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/journaldunet.com/2015/05/ibm-et-facebook-nouent-un-partenariat-pour-am%C3%A9liorer-le-ciblage-publicitaire",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bpublicit%C3%A9%2Bcontextuelle&format=RSS&cc=fr",
+            "source_url": "http://journaldunet.com/ebusiness/publicite/ibm-et-facebook-partenariat-publicitaire-0515.shtml"
+        }
+    }
+}
