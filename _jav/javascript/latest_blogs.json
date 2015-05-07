@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript/",
@@ -19,7 +19,7 @@
             "categories": "internet,javascript",
             "tags": "site,web,javascript,html",
             "recuweb_url": "http://fr.recuweb.com/javascript/geekhebdo.com/2015/04/comment-afficher-la-m%C3%A9t%C3%A9o-sur-son-site-web-en-javascript",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://geekhebdo.com/comment-afficher-la-meteo-sur-son-site-web-en-javascript/"
         },
         "larlet.fr/2015/04/javascript-ubiquitaire-david-larlet": {
@@ -30,8 +30,19 @@
             "categories": "javascript",
             "tags": "utilisateur,site,david,javascript",
             "recuweb_url": "http://fr.recuweb.com/javascript/larlet.fr/2015/04/javascript-ubiquitaire-david-larlet",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://larlet.fr/david/stream/2015/04/26/"
+        },
+        "developpementfacile.wordpress.com/2015/04/les-tableaux-javascript-array-n-auront-plus-de-secret": {
+            "title": "Les tableaux JavaScript array n'auront plus de secret pour vous...",
+            "snippet": "Et voici un concept essentiel en JavaScript, il s'agit de l'utilisation des tableaux. D\u00e9couvrez toutes les possibilit\u00e9s des tableaux (ou array) avec JavaScript. Le cours vid\u00e9o, ci-dessous, vous...",
+            "date": "2015-04-10",
+            "author_name": "Matthieu",
+            "categories": "javascript",
+            "tags": "cours,javascript,d\u00e9couvrez",
+            "recuweb_url": "http://fr.recuweb.com/javascript/developpementfacile.wordpress.com/2015/04/les-tableaux-javascript-array-n-auront-plus-de-secret",
+            "resource_url": "http://fr.search.wordpress.com/?q=javascript&f=feed&page=1",
+            "source_url": "http://developpementfacile.wordpress.com/2015/04/10/les-tableaux-javascript-array-nauront-plus-de-secret-pour-vous/"
         },
         "blogs.msdn.com/2015/04/javascript-open-day-vid%C3%A9os-&-contenus-david-rousset-html5": {
             "title": "JavaScript Open Day: vid\u00e9os & contenus - David Rousset - HTML5...",
@@ -39,21 +50,54 @@
             "date": "2015-04-03",
             "author_name": "David Rousset",
             "categories": "javascript",
-            "tags": "microsoft,avons,david,javascript,open,html",
+            "tags": "r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,microsoft,avons,dernier,david,javascript,html",
             "recuweb_url": "http://fr.recuweb.com/javascript/blogs.msdn.com/2015/04/javascript-open-day-vid%C3%A9os-&-contenus-david-rousset-html5",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blogs.msdn.com/b/davrous/archive/2015/04/03/javascript-open-day-vid-233-os-amp-contenus.aspx"
         },
-        "news.carbon-future.co.uk/2014/12/mourant-ozannes-voted-best-us-offshore-law-firm": {
-            "title": "Mourant Ozannes Mourant Ozannes voted best US Offshore Law Firm by...",
-            "snippet": "Please enable Javascript Javascript is required in order to use this service please enable. Article source:...",
-            "date": "2014-12-12",
-            "author_name": "carbon",
+        "javascriipt.blogspot.com/2015/02/javascript-angularjs-localhost-and-cors-errors-when-loading": {
+            "title": "javascript: AngularJS, Localhost, and CORS errors when loading a...",
+            "snippet": "AngularJS, Localhost, and CORS errors when loading a template... Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource. The url in my...",
+            "date": "2015-02-07",
+            "author_name": "Chebli yassine",
             "categories": "javascript",
-            "tags": "use,javascript,source",
-            "recuweb_url": "http://fr.recuweb.com/javascript/news.carbon-future.co.uk/2014/12/mourant-ozannes-voted-best-us-offshore-law-firm",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=javascript%2Bjavascript&rss=1&lng=fr",
-            "source_url": "http://news.carbon-future.co.uk/archives/8799?utm_source=rss&utm_medium=rss&utm_campaign=mourant-ozannes-mourant-ozannes-voted-best-us-offshore-law-firm-by"
+            "tags": "errors,javascript,localhost",
+            "recuweb_url": "http://fr.recuweb.com/javascript/javascriipt.blogspot.com/2015/02/javascript-angularjs-localhost-and-cors-errors-when-loading",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://javascriipt.blogspot.com/2015/02/angularjs-localhost-and-cors-errors.html"
+        },
+        "forum.icescrum.org/2013/02/dashboard-not-working-in-6-1-javascript-errors-forums-icescrum": {
+            "title": "Dashboard not working in 6.1 (javascript errors) - Forums - IceScrum...",
+            "snippet": "09:51: Error in parsing value for 'filter'. Declaration dropped. localhost:8080/agile/static/09:51: Unknown property '-moz-border-radius-topleft'. Declaration...",
+            "date": "2013-02-20",
+            "author_name": "mpaxtonabcd",
+            "categories": "javascript",
+            "tags": "not,javascript,errors,forums,localhost",
+            "recuweb_url": "http://fr.recuweb.com/javascript/forum.icescrum.org/2013/02/dashboard-not-working-in-6-1-javascript-errors-forums-icescrum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.icescrum.org/viewtopic.php?t=2971&p=7327"
+        },
+        "forum.joomla.fr/2011/01/erreur-javascript-dans-modifier-un-lien-de-menu-forums": {
+            "title": "Erreur javascript dans 'modifier un lien de menu'- Forums...",
+            "snippet": "Bonjour, J'ai une erreur dans la page de modification d'un lien de menu, l'enregistrement devient impossible. Voila les erreur: is not a function localhost/media/system/js/Line 164.",
+            "date": "2011-01-19",
+            "author_name": "sam76",
+            "categories": "javascript",
+            "tags": "not,localhost,javascript,forums",
+            "recuweb_url": "http://fr.recuweb.com/javascript/forum.joomla.fr/2011/01/erreur-javascript-dans-modifier-un-lien-de-menu-forums",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.joomla.fr/showthread.php?139444-Erreur-javascript-dans-modifier-un-lien-de-menu"
+        },
+        "forum.alsacreations.com/2010/10/r%C3%A9solu-probl%C3%A8me-de-float-et-clear-sur-mes-alsacreations": {
+            "title": "R\u00c9SOLU Probl\u00e8me de \"float\" et de \"clear\" sur mes - Alsacreations...",
+            "snippet": "if IE 6 link href=\"localhost/naos_solidarite/common/css/\" rel=\"stylesheet\" type=\"text/css\" media=\"screen\"/!.... sur les r\u00e9seaux sociaux\" style=\"border:0\"//a script type=\"text/javascript\" src=\"=xa-4cb1f815683db69d\"/script ul lia...",
+            "date": "2010-10-30",
+            "author_name": "Adel1982",
+            "categories": "javascript,css",
+            "tags": "javascript,r\u00e9seaux,r\u00e9seaux-sociaux,sociaux,probl\u00e8me",
+            "recuweb_url": "http://fr.recuweb.com/css/forum.alsacreations.com/2010/10/r%C3%A9solu-probl%C3%A8me-de-float-et-clear-sur-mes-alsacreations",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjavascript&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.alsacreations.com/topic-4-51940-1-Probleme-de-float-et-de-clear-sur-mes-div-.html"
         }
     }
 }
