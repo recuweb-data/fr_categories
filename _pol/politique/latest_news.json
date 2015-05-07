@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "politique",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/politique/",
@@ -11,55 +11,85 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/politique/politique/blogs.json"
     },
     "items": {
-        "blogs.mediapart.fr/2015/05/un-moment-politique-contre-le-motus-vivendi-mediapart": {
-            "title": "Un moment politique contre le motus vivendi - Mediapart...",
-            "snippet": "Un moment politique contre le motus vivendiMediapartUn signe majeur de l'absence de d\u00e9mocratie, la marque \u00e9vidente d'un r\u00e9gime oppressif, c'est l'imposition du mutisme au plus grand nombre. La parole est confisqu\u00e9e par des professionnels qui en...",
+        "lejdd.fr/2015/05/le-bureau-politique-de-l-ump-la-bagarre-pour-vrai-pouvoir": {
+            "title": "Le bureau politique de l'UMP, la bagarre pour le (vrai) pouvoir...",
+            "snippet": "Derri\u00e8re le bras de fer autour du futur nom de l'UMP, qui sera Les R\u00e9publicains, se tient une autre bagarre: celle pour la composition du futur bureau politique du parti, donc pour le pouvoir. Avec les nouveaux statuts, le BP doit \u00eatre...",
+            "date": "2015-05-03",
+            "categories": "politique",
+            "tags": "doit,parti,futur,bureau,politique,ump,derri\u00e8re,r\u00e9publicains",
+            "recuweb_url": "http://fr.recuweb.com/politique/lejdd.fr/2015/05/le-bureau-politique-de-l-ump-la-bagarre-pour-vrai-pouvoir",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://lejdd.fr/Politique/A-l-UMP-la-bagarre-pour-le-vrai-pouvoir-se-joue-au-sein-du-bureau-politique-730672"
+        },
+        "lelab.europe1.fr/2015/05/le-multiplex-politique-du-3-mai-avec-florian-philippot-g%C3%A9rard-lelab": {
+            "title": "Le multiplex politique du 3 mai avec Florian Philippot, G\u00e9rard... - LeLab Europe1...",
+            "snippet": "LeLab Europe1Le multiplex politique du 3 mai avec Florian Philippot, G\u00e9rard...LeLab Europe1MULTIPLEXPOLITIQUE - Au programme des interviews dominicales du 3 mai, Eric Woerth dans C politique sur France 5, Florian Philippot dans BFM politique,...",
+            "date": "2015-05-03",
+            "categories": "politique",
+            "tags": "eric,eric_woerth,woerth,florian,florian_philippot,philippot,politique,mai,france",
+            "recuweb_url": "http://fr.recuweb.com/politique/lelab.europe1.fr/2015/05/le-multiplex-politique-du-3-mai-avec-florian-philippot-g%C3%A9rard-lelab",
+            "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
+            "source_url": "http://lelab.europe1.fr/le-multiplex-politique-du-3-mai-avec-florian-philippot-gerard-larcher-eric-woerth-et-christian-paul-937702"
+        },
+        "presseocean.fr/2015/05/politique-retailleau-ump-la-majorit%C3%A9-r%C3%A9gionale-doit-assumer-son-bilan": {
+            "title": "Politique Retailleau (UMP): La majorit\u00e9 r\u00e9gionale doit assumer son bilan...",
+            "snippet": "Ce week-end, les militants \u00e9cologistes des Pays de la Loire se sont prononc\u00e9s pour une liste \u00e9cologiste autonome aux \u00e9lections r\u00e9gionales avec un ralliement aux socialistes au second tour. Pour Bruno Retailleau, chef de file UMP aux...",
+            "date": "2015-05-03",
+            "categories": "politique",
+            "tags": "bruno,r\u00e9gionale,doit,politique,ump",
+            "recuweb_url": "http://fr.recuweb.com/politique/presseocean.fr/2015/05/politique-retailleau-ump-la-majorit%C3%A9-r%C3%A9gionale-doit-assumer-son-bilan",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://presseocean.fr/actualite/politique-retailleau-ump-la-majorite-regionale-doit-assumer-son-bilan-03-05-2015-157981"
+        },
+        "la-croix.com/2015/05/pour-le-pape-fran%C3%A7ois-on-peut-devenir-saint-en-faisant": {
+            "title": "Pour le pape Fran\u00e7ois, on peut devenir saint en faisant de la... - La Croix...",
+            "snippet": "La CroixPour le pape Fran\u00e7ois, on peut devenir saint en faisant de la...La CroixEn revanche, se m\u00ealer de politique n'est pas seulement une possibilit\u00e9, une option pour les catholiques, mais un devoir. Un catholique ne peut se contenter de...",
+            "date": "2015-05-03",
+            "categories": "politique",
+            "tags": "fran\u00e7ois,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/la-croix.com/2015/05/pour-le-pape-fran%C3%A7ois-on-peut-devenir-saint-en-faisant",
+            "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
+            "source_url": "http://la-croix.com/Religion/Actualite/Pour-le-pape-Francois-on-peut-devenir-saint-en-faisant-de-la-politique-2015-05-03-1308744"
+        },
+        "jeanmarcmorandini.com/2015/05/sondage-plus-des-deux-tiers-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique": {
+            "title": "Sondage: Plus des deux tiers des Fran\u00e7ais m\u00e9contents de la politique \u00e9conomique et sociale de...",
+            "snippet": "Plus des deux tiers des Fran\u00e7ais (68%) se d\u00e9clarent m\u00e9contents de la politique \u00e9conomique et sociale du gouvernement de Manuel Valls, soit une hausse de deux points depuis f\u00e9vrier, selon un sondage Tilder/LCI/OpinionWay publi\u00e9 jeudi. 41%...",
+            "date": "2015-05-03",
+            "categories": "politique",
+            "tags": "\u00e9conomique,gouvernement,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/jeanmarcmorandini.com/2015/05/sondage-plus-des-deux-tiers-fran%C3%A7ais-m%C3%A9contents-de-la-politique-%C3%A9conomique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
+            "source_url": "http://jeanmarcmorandini.com/article-336621-sondage-plus-des-deux-tiers-des-francais-mecontents-de-la-politique-economique-et-sociale-de-manuel-valls.html"
+        },
+        "u-m-p.org/2015/05/la-famille-politique-de-l-ump-est-fille-r%C3%A9publique": {
+            "title": "La famille politique de l'UMP est fille de la r\u00e9publique -...",
+            "snippet": "La famille politique de l'UMP est fille de la r\u00e9 parti a toute l\u00e9gitimit\u00e9 de se renommer Les R\u00e9publicains. Il r\u00e9affirme ainsi les valeurs d\u00e9fendues par la droite depuis le g\u00e9n\u00e9ral de Gaulle. C'est aussi vouloir leur donner une nouvelle...",
             "date": "2015-05-02",
             "categories": "politique",
-            "tags": "grand,marque,contre,politique",
-            "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2015/05/un-moment-politique-contre-le-motus-vivendi-mediapart",
-            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
-            "source_url": "http://blogs.mediapart.fr/edition/camedia/article/020515/un-moment-politique-contre-le-motus-vivendi"
+            "tags": "parti,politique,ump,r\u00e9publicains",
+            "recuweb_url": "http://fr.recuweb.com/politique/u-m-p.org/2015/05/la-famille-politique-de-l-ump-est-fille-r%C3%A9publique",
+            "resource_url": "http://news.google.fr/?hl=fr&q=politique&output=atom&nord=1",
+            "source_url": "http://u-m-p.org/actualites/a-la-une/la-famille-politique-de-lump-est-fille-de-la-republique-12003305"
         },
-        "humanite.fr/2015/05/beno%C3%AEt-hamon-la-politique-du-gouvernement-augmente-les-l-humanit%C3%A9": {
-            "title": "Beno\u00eet Hamon: La politique du gouvernement augmente les... - L'Humanit\u00e9...",
-            "snippet": "L'Humanit\u00e9Beno\u00eet Hamon: La politique du gouvernement augmente les...L'Humanit\u00e9Il faut distinguer les politiques du gouvernement. Je suis socialiste. Je suis donc satisfait des orientations prises dans le domaine de la justice, de l'\u00e9ducation, de...",
-            "date": "2015-05-01",
+        "blogs.mediapart.fr/2014/09/le-racisme-qu-est-ce-les-racistes-qui-mediapart": {
+            "title": "Le racisme, qu'est-ce? Les racistes, qui? - Mediapart...",
+            "snippet": "Le racisme, qu'est-ce? Les racistes, qui?MediapartSourceURL:filelocalhost/Users/apple/Desktop/Le racisme racisme, qu'est-ce?... L'Occident, derri\u00e8re les USA, avec l'aval d'une part significative du monde de l'argent pers\u00e9v\u00e8re dans une politique...",
+            "date": "2014-09-24",
             "categories": "politique",
-            "tags": "politiques",
-            "recuweb_url": "http://fr.recuweb.com/politique/humanite.fr/2015/05/beno%C3%AEt-hamon-la-politique-du-gouvernement-augmente-les-l-humanit%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
-            "source_url": "http://humanite.fr/benoit-hamon-la-politique-du-gouvernement-augmente-les-inegalites-572970"
+            "tags": "derri\u00e8re,monde,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2014/09/le-racisme-qu-est-ce-les-racistes-qui-mediapart",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bpolitique&output=atom&nord=1",
+            "source_url": "http://blogs.mediapart.fr/blog/charles-jan/240914/le-racisme-quest-ce-les-racistes-qui"
         },
-        "journaldemontreal.com/2015/05/trouvez-la-politique-plate-blmez-lordinateur-et-richard-nixon": {
-            "title": "Trouvez la politique plate? Blmez lordinateur et Richard Nixon...",
-            "snippet": "Les d\u00e9bats politiques sur lavenir de nos soci\u00e9t\u00e9s ont longtemps carbur\u00e9 aux statistiques. Aujourdhui, les indicateurs comptables semblent balayer tout autant la politique que lavenir. Le choix des chiffres programme nos perceptions, d\u00e9bats...",
-            "date": "2015-05-01",
-            "categories": "perception,politique",
-            "tags": "longtemps,politiques",
-            "recuweb_url": "http://fr.recuweb.com/politique/journaldemontreal.com/2015/05/trouvez-la-politique-plate-blmez-lordinateur-et-richard-nixon",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique&format=RSS&cc=fr",
-            "source_url": "http://journaldemontreal.com/2015/05/01/trouvez-la-politique-plate-blamez-lordinateur-et-richard-nixon"
-        },
-        "lepoint.fr/2015/05/zapping-du-point-le-best-of-de-la-politique": {
-            "title": "Zapping du Point: le best of de la politique - Le Point...",
-            "snippet": "Le PointZapping du \"Point\": le best of de la politiqueLe PointVID\u00c9O. Manuel Valls s'insurge contre Marion Mar\u00e9chal-Le Pen, Florian Philippot se moque d'Emmanuel Macron... Le best of de l'actu politique en ce 1er mai. Le. La sc\u00e8ne s'est jou\u00e9e au...",
-            "date": "2015-05-01",
-            "categories": "politique",
-            "tags": "contre,zapping,politique,pen",
-            "recuweb_url": "http://fr.recuweb.com/politique/lepoint.fr/2015/05/zapping-du-point-le-best-of-de-la-politique",
-            "resource_url": "http://news.google.fr/?hl=fr&q=politique%2Bpolitique&output=atom&nord=1",
-            "source_url": "http://lepoint.fr/zapping-du-point/zapping-du-point-le-best-of-de-la-politique-01-05-2015-1925636_2470.php"
-        },
-        "blogs.mediapart.fr/2015/04/gabon-l-upg-et-son-pr%C3%A9sident-ont-salu%C3%A9-la-classe-politique": {
-            "title": "Gabon/L'UPG et son Pr\u00e9sident ont salu\u00e9 la classe politique politique aux fun\u00e9railles de Mr.",
-            "snippet": "Le 28 avril 2015, Mr. Bruno Ben MOUBAMBA le Pr\u00e9sident \u00e9lu de l'UPG le 10 avril, a conduit une forte d\u00e9l\u00e9gation du Parti aux fun\u00e9railles de Mr. Andr\u00e9 MBA OBAME. Apr\u00e8s un accueil chaleureux des populations accourues aux obs\u00e8ques des...",
-            "date": "2015-04-29",
-            "categories": "politique",
-            "tags": "obs\u00e8ques,andr\u00e9,ben,politique,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/politique/blogs.mediapart.fr/2015/04/gabon-l-upg-et-son-pr%C3%A9sident-ont-salu%C3%A9-la-classe-politique",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=politique%2Bpolitique&format=RSS&cc=fr",
-            "source_url": "http://blogs.mediapart.fr/blog/union-du-peuple-gabonais-upg/290415/gabon-lupg-et-son-president-ont-salue-la-classe-politique-politique-aux-funeraille"
+        "01net.com/2012/06/retour-vers-le-futur-nous-avons-essay%C3%A9-tout-ipv6-01net": {
+            "title": "Retour vers le futur, nous avons essay\u00e9 le tout IPv6 - 01net...",
+            "snippet": "Retour vers le futur, nous avons essay\u00e9 le tout IPv601netPour la chose publique qu'est Internet, l'enjeu est politique. Les utilisateurs doivent savoir le r\u00f4le qu'ils peuvent jouer dans l'adoption de IPv6, dont d\u00e9pend le d\u00e9veloppement futur de...",
+            "date": "2012-06-18",
+            "categories": "internet,politique",
+            "tags": "futur,politique",
+            "recuweb_url": "http://fr.recuweb.com/politique/01net.com/2012/06/retour-vers-le-futur-nous-avons-essay%C3%A9-tout-ipv6-01net",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bpolitique&output=atom&nord=1",
+            "source_url": "http://01net.com/editorial/568379/retour-vers-le-futur-nous-avons-essaye-le-tout-ipv6/"
         }
     }
 }
