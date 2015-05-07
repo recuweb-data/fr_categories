@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "robotique",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/robotique/",
@@ -17,9 +17,9 @@
             "date": "2015-04-22",
             "author_name": "inconnu",
             "categories": "robotique",
-            "tags": "parl\u00e9,robotique,robot",
+            "tags": "peut,parl\u00e9,groupe,robotique,robot",
             "recuweb_url": "http://fr.recuweb.com/robotique/europarl.europa.eu/2015/04/mady-delvaux-je-suis-persuad%C3%A9e-que-la-robotique-sera",
-            "resource_url": "http://www.google.com/search?q=robotique%2Brobotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=robotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://europarl.europa.eu/news/fr/news-room/content/20150422STO43701"
         },
         "atelier.net/2015/04/le-hackathon-d-amazon-ou-la-robotique-au-c%C5%93ur-de-gestion": {
@@ -28,9 +28,9 @@
             "date": "2015-04-17",
             "author_name": "inconnu",
             "categories": "robotique",
-            "tags": "intelligents,organise,robotique,robots",
+            "tags": "organise,robotique",
             "recuweb_url": "http://fr.recuweb.com/robotique/atelier.net/2015/04/le-hackathon-d-amazon-ou-la-robotique-au-c%C5%93ur-de-gestion",
-            "resource_url": "http://www.google.com/search?q=robotique%2Brobotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=robotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://atelier.net/trends/articles/hackaton-amazon-robotique-coeur-de-gestion-entrepots_435016"
         },
         "andreacollo.wordpress.com/2014/09/journ%C3%A9es-nationales-du-gdr-robotique-&-journ%C3%A9e-des-jeunes-chercheurs": {
@@ -39,10 +39,32 @@
             "date": "2014-09-22",
             "author_name": "Andrea Collo",
             "categories": "robotique",
-            "tags": "organise,robotique",
+            "tags": "organise,jeunes,robotique",
             "recuweb_url": "http://fr.recuweb.com/robotique/andreacollo.wordpress.com/2014/09/journ%C3%A9es-nationales-du-gdr-robotique-&-journ%C3%A9e-des-jeunes-chercheurs",
-            "resource_url": "http://fr.search.wordpress.com/?q=robotique%2Brobotique&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=robotique&f=feed&page=1",
             "source_url": "http://andreacollo.wordpress.com/2014/09/22/journees-nationales-du-gdr-robotique-journee-des-jeunes-chercheurs-en-robotique/"
+        },
+        "forums.fedora-fr.org/2013/12/pour-passer-du-bureau-gnome-3-au-kde-sous-f19-fedora": {
+            "title": "Pour passer du bureau gnome 3 au bureau kde sous f19... - Fedora-Fr...",
+            "snippet": "RPM Development Tools Robotique Serveurs de r\u00e9seau. Son et vid\u00e9o. \u00c9diteurs Effectu\u00e9. puis on tape: yum groupinstall \"KDE Plasma Workspaces\". et \u00e7a donne la suite. rootlocalhost xxxxx yum groupinstall \"KDE Plasma...",
+            "date": "2013-12-06",
+            "author_name": "dummy@example.com (masansan2921)",
+            "categories": "robotique",
+            "tags": "robotique",
+            "recuweb_url": "http://fr.recuweb.com/robotique/forums.fedora-fr.org/2013/12/pour-passer-du-bureau-gnome-3-au-kde-sous-f19-fedora",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Brobotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.fedora-fr.org/viewtopic.php?id=61190"
+        },
+        "macon.labo-robotique.com/2013/09/parce-que-robotique-rime-avec-domotique-macon": {
+            "title": "Parce que robotique rime avec domotique Macon...",
+            "snippet": "grammar version=\"1.0\" xml:lang=\"fr-FR\" mode=\"voice\" root=\"ruleLight\" xmlns=\" \" tag-format=\"semantics/1.0\" rule id=\"ruleLight\" scope=\"public\" exampleAmanda, allume la lampe/example tagout. action=new Object();/tag item weight=\".2\"AMANDA/item....",
+            "date": "2013-09-30",
+            "author_name": "alasseur",
+            "categories": "domotique,robotique",
+            "tags": "robotique",
+            "recuweb_url": "http://fr.recuweb.com/robotique/macon.labo-robotique.com/2013/09/parce-que-robotique-rime-avec-domotique-macon",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Brobotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://macon.labo-robotique.com/2013/09/30/parce-que-robotique-rime-avec-domotique/"
         }
     }
 }
