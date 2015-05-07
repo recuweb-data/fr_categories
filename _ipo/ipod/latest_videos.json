@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ipod",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ipod/",
@@ -13,13 +13,13 @@
     "items": {
         "youtube.com/2014/12/swagg-man-se-fait-voler-son-ipod": {
             "title": "Swagg Man se fait voler son iPod!!",
-            "snippet": "Swagg Man se fait voler son iPod!! ABONNE-TOI \u00c0 LA CHA\u00ceNE ICI: Facebook: Twitter: Site: Swagg Man se fait voler son iPod... From: Guillaume Pley Views: 169666 2638 ratings Time: 03:03 More in Comedy...",
+            "snippet": "Swagg Man se fait voler son iPod!! ABONNE-TOI \u00c0 LA CHA\u00ceNE ICI: Facebook: Twitter: Site: Swagg Man se fait voler son iPod... From: Guillaume Pley Views: 170281 2643 ratings Time: 03:03 More in Comedy...",
             "date": "2014-12-17",
             "author_name": "Guillaume Pley",
             "categories": "ipod,facebook,twitter",
-            "tags": "ipod",
+            "tags": "ipod,facebook",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2014/12/swagg-man-se-fait-voler-son-ipod",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=FCErsVLzWZ4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/FCErsVLzWZ4/0.jpg"
         },
@@ -31,7 +31,7 @@
             "categories": "ipod",
             "tags": "ipod",
             "recuweb_url": "http://fr.recuweb.com/ipod/youtube.com/2014/11/pr%C3%A9sentation-du-mod-eye-un-ipod-dans-minecraft",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=BG8nWXRwsQ8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/BG8nWXRwsQ8/0.jpg"
         },
@@ -41,35 +41,59 @@
             "date": "2014-09-26",
             "author_name": "mensquare",
             "categories": "ipod,iphone,ipad",
-            "tags": "mini,ipod,ipod_touch,touch,installer,ios,iphone,ipad",
+            "tags": "mini,ipod,ipod_touch,touch,ios,iphone,ipad",
             "recuweb_url": "http://fr.recuweb.com/ipad/dailymotion.com/2014/09/comment-installer-ios-sur-un-iphone-ipad-et-ipod-touch",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/ipod/0?af=1",
             "source_url": "http://dailymotion.com/video/x26nul9_comment-installer-ios-8-0-2-sur-un-iphone-ipad-et-ipod-touch_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x26nul9_comment-installer-ios-8-0-2-sur-un-iphone-ipad-et-ipod-touch_tech"
         },
-        "dailymotion.com/2014/07/how-to-jailbreak-ios-ipod-touch-5th-generation-iphone-ipad": {
-            "title": "How To Jailbreak iOS iPod touch (5th generation) iPhone iPod Touch iPad...",
-            "snippet": "iOS Untethered Jailbreak Released iPhone iPad iPod All Devices, ios,, jailbreak, untethered, news, untethered, tech, untethered, developerios jailbreak, jailbreak, untethered, ios7iOS 7- iPhone 5 5s 5ciPhone 4S 4iPhone 4GSM ModeliPod Touch 3rd...",
-            "date": "2014-07-05",
-            "author_name": "pinda-gordan-999",
-            "categories": "iphone,ipad,ipod",
-            "tags": "gsm,touch,jailbreak,ios,untethered,iphone,ipad,ipod,ipod_touch,generation,how,how_to_jailbreak,tech,ciphone",
-            "recuweb_url": "http://fr.recuweb.com/ipod/dailymotion.com/2014/07/how-to-jailbreak-ios-ipod-touch-5th-generation-iphone-ipad",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/ipod+ipod/0?af=1",
-            "source_url": "http://dailymotion.com/video/x20ug7f_how-to-jailbreak-ios-7-1-2-ipod-touch-5th-generation-iphone-ipod-touch-ipad_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x20ug7f_how-to-jailbreak-ios-7-1-2-ipod-touch-5th-generation-iphone-ipod-touch-ipad_tech"
+        "youtube.com/2014/07/top-10-les-meilleurs-jeux-de-l-appstore-iphone-ipod-ipad": {
+            "title": "Top 10 Les meilleurs jeux de l'Appstore! iPhone/iPod/iPad...",
+            "snippet": "Top 10 Les meilleurs jeux de l'Appstore! iPhone/iPod/iPad Nouvelle page Facebook: Hey! On se retrouve aujourd'hui pour un Top 10 des meilleurs jeux de l'Appstore! Il n'y a pas de... From: JDGame Views: 53373 408 ratings Time: 07:42 More in Gaming...",
+            "date": "2014-07-18",
+            "author_name": "JDGame",
+            "categories": "iphone,ipod,ipad,facebook",
+            "tags": "retrouve,iphone,ipod,ipad,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2014/07/top-10-les-meilleurs-jeux-de-l-appstore-iphone-ipod-ipad",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=XT9nacKWY_c&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/XT9nacKWY_c/0.jpg"
         },
-        "dailymotion.com/2014/06/how-to-jailbreak-ios-ipod-touch-5th-generation-iphone-ipad": {
-            "title": "How To Jailbreak IOS iPod touch (5th generation) iPhone iPod Touch iPad...",
-            "snippet": "Evasion New iOS Jailbreak Untethered ios jailbreak evasion, ios untethered jailbreakios, ios jailbreak, ios untetheredios, ios jailbreak, tech, untetheredios, untethered, apple, jailbreak 7iPad Mini/AirApple TViPhone 5 5s 5ciPhone 4S 4iPhone 4GSM...",
-            "date": "2014-06-27",
-            "author_name": "biyainlahore",
+        "dailymotion.com/2014/07/easy-ios-untethered-jailbreak-iphone-5-4s-4-3gs-ipod-&": {
+            "title": "EASY iOS UNTETHERED Jailbreak - iPhone 5,4S,4,3Gs iPod 5,4 & iPad mini,4,3,2...",
+            "snippet": "How to Jailbreak iOS 7.1 - using evasion on iPhone, iPad, iPod on WindowsDownload Jailbreak Tool: with all iPhone, iPod touch, iPad and iPad mini models running iOS 7.0 through (Devices that have been updated Over The Air OTA should be restored with...",
+            "date": "2014-07-05",
+            "author_name": "iphone-ipad-ipod",
+            "categories": "iphone,ipod,ipad",
+            "tags": "should,should-be-restored,restored,air,air_ota,ota,that,updated,mini,mini-models,mini-models-running,models,models-running,running,using,using-evasion,evasion,ios,untethered,jailbreak,iphone,ipod,ipad,how,windows,tool,touch,through,devices",
+            "recuweb_url": "http://fr.recuweb.com/ipad/dailymotion.com/2014/07/easy-ios-untethered-jailbreak-iphone-5-4s-4-3gs-ipod-&",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+ipod/0?af=1",
+            "source_url": "http://dailymotion.com/video/x20w4q1_easy-ios-7-1-2-7-untethered-jailbreak-iphone-5-4s-4-3gs-ipod-5-4-ipad-mini-4-3-2_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x20w4q1_easy-ios-7-1-2-7-untethered-jailbreak-iphone-5-4s-4-3gs-ipod-5-4-ipad-mini-4-3-2_tech"
+        },
+        "dailymotion.com/2014/07/new-jailbreak-untethered-ios-evasion-iphone-5s-5c-4s-4-ipod": {
+            "title": "NEW Jailbreak Untethered iOS Evasion iPhone 5S,5C,4S,4,iPod Touch 5 & iPad Mini 2...",
+            "snippet": "How to Jailbreak iOS 7.1 - using evasion on iPhone, iPad, iPod on WindowsDownload Jailbreak Tool: with all iPhone, iPod touch, iPad and iPad mini models running iOS 7.0 through (Devices that have been updated Over The Air OTA should be restored with...",
+            "date": "2014-07-05",
+            "author_name": "iphone-ipad-ipod",
             "categories": "ipad,ipod,iphone",
-            "tags": "ipad,mini,ios,jailbreak,untethered,touch,generation,how,how_to_jailbreak,ipod,iphone,tech,ciphone,gsm",
-            "recuweb_url": "http://fr.recuweb.com/iphone/dailymotion.com/2014/06/how-to-jailbreak-ios-ipod-touch-5th-generation-iphone-ipad",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/ipod+ipod/0?af=1",
-            "source_url": "http://dailymotion.com/video/x20e45y_how-to-jailbreak-ios-7-1-1-ipod-touch-5th-generation-iphone-ipod-touch-ipad_tech",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x20e45y_how-to-jailbreak-ios-7-1-1-ipod-touch-5th-generation-iphone-ipod-touch-ipad_tech"
+            "tags": "should,should-be-restored,restored,air,air_ota,ota,that,updated,mini,mini-models,mini-models-running,models,models-running,running,using,using-evasion,evasion,ipad,ipod,ipod_touch,touch,ios,iphone,jailbreak,jailbreak_untethered,untethered,how,windows,tool,through,devices",
+            "recuweb_url": "http://fr.recuweb.com/iphone/dailymotion.com/2014/07/new-jailbreak-untethered-ios-evasion-iphone-5s-5c-4s-4-ipod",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+ipod/0?af=1",
+            "source_url": "http://dailymotion.com/video/x20w5y2_new-jailbreak-7-1-2-untethered-ios-7-1-2-evasion-iphone-5s-5c-4s-4-ipod-touch-5-ipad-mini-2-air-4-3_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x20w5y2_new-jailbreak-7-1-2-untethered-ios-7-1-2-evasion-iphone-5s-5c-4s-4-ipod-touch-5-ipad-mini-2-air-4-3_tech"
+        },
+        "dailymotion.com/2014/07/ios-jailbreak-untethered-development-iphone-ipod-touch-ipad": {
+            "title": "iOS Jailbreak Untethered Development iPhone iPod Touch iPad...",
+            "snippet": "How to Jailbreak iOS 7.1 - using evasion on iPhone, iPad, iPod on WindowsDownload Jailbreak Tool: with all iPhone, iPod touch, iPad and iPad mini models running iOS 7.0 through (Devices that have been updated Over The Air OTA should be restored with...",
+            "date": "2014-07-05",
+            "author_name": "iphone-ipad-ipod",
+            "categories": "iphone,ipod,ipad",
+            "tags": "should,should-be-restored,restored,air,air_ota,ota,that,updated,mini,mini-models,mini-models-running,models,models-running,running,using,using-evasion,evasion,ios,jailbreak,jailbreak_untethered,untethered,iphone,ipod,ipod_touch,touch,ipad,how,windows,tool,through,devices",
+            "recuweb_url": "http://fr.recuweb.com/ipad/dailymotion.com/2014/07/ios-jailbreak-untethered-development-iphone-ipod-touch-ipad",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+ipod/0?af=1",
+            "source_url": "http://dailymotion.com/video/x20w2uv_ios-7-1-2-jailbreak-untethered-development-iphone-ipod-touch-ipad_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x20w2uv_ios-7-1-2-jailbreak-untethered-development-iphone-ipod-touch-ipad_tech"
         },
         "youtube.com/2014/06/comment-mettre-des-musiques-sur-iphone-ipod-ipad-avec-itunes": {
             "title": "Comment mettre des musiques sur iphone, ipod, ipad avec itunes...",
@@ -77,11 +101,23 @@
             "date": "2014-06-11",
             "author_name": "Theman Tuto",
             "categories": "ipad,musique,iphone,ipod",
-            "tags": "tuto,montre,ipad,iphone,ipod",
+            "tags": "retrouve,tuto,ipad,iphone,ipod",
             "recuweb_url": "http://fr.recuweb.com/ipod/youtube.com/2014/06/comment-mettre-des-musiques-sur-iphone-ipod-ipad-avec-itunes",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=_pcwFk_XrI4&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/_pcwFk_XrI4/0.jpg"
+        },
+        "dailymotion.com/2014/05/tuto-ipod-touch-5-remplacer-la-vitre-et-le-lcd-d%C3%A9montage": {
+            "title": "Tuto: iPod Touch 5 remplacer la vitre et le LCD d\u00e9montage remontage HD...",
+            "snippet": "10% de remise code YOUTUBE remplacer la vitre bris\u00e9e de votre iPod Touch 5 en suivant notre guide complet de r\u00e9paration qui vous permets de d\u00e9monter et remonter votre iPod touch 5. lien direct vers les produits utilis\u00e9s dans la vid\u00e9o:...",
+            "date": "2014-05-27",
+            "author_name": "brico-phone",
+            "categories": "ipod",
+            "tags": "remplacer,ipod,ipod_touch,touch,tuto",
+            "recuweb_url": "http://fr.recuweb.com/ipod/dailymotion.com/2014/05/tuto-ipod-touch-5-remplacer-la-vitre-et-le-lcd-d%C3%A9montage",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/ipod/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1x2x4v_tuto-ipod-touch-5-remplacer-la-vitre-et-le-lcd-demontage-remontage-hd_tech",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1x2x4v_tuto-ipod-touch-5-remplacer-la-vitre-et-le-lcd-demontage-remontage-hd_tech"
         },
         "dailymotion.com/2014/04/qu-est-ce-que-le-pono-l-ipod-killer-de-neil": {
             "title": "Qu'est-ce que le Pono, l'iPod-killer de Neil Young?",
@@ -89,47 +125,11 @@
             "date": "2014-04-18",
             "author_name": "chroniques2geeks",
             "categories": "rock,ipod",
-            "tags": "ipod",
+            "tags": "remplacer,ipod",
             "recuweb_url": "http://fr.recuweb.com/ipod/dailymotion.com/2014/04/qu-est-ce-que-le-pono-l-ipod-killer-de-neil",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/ipod/0?af=1",
             "source_url": "http://dailymotion.com/video/x1paz1k_qu-est-ce-que-le-pono-l-ipod-killer-de-neil-young_tech",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x1paz1k_qu-est-ce-que-le-pono-l-ipod-killer-de-neil-young_tech"
-        },
-        "youtube.com/2013/09/ios-7-astuces-et-fonctions-cach%C3%A9es-sur-iphone-ipod-touch-ipad": {
-            "title": "iOS 7: Astuces et fonctions cach\u00e9es sur iPhone, iPod touch et iPad...",
-            "snippet": "iOS 7: Astuces et fonctions cach\u00e9es sur iPhone, iPod touch et iPad Voici une s\u00e9rie de trucs, astuces et fonctions cach\u00e9es d'iOS 7 sur iPhone, iPod touch et iPad. Toujours utile \u00e0 savoir:) Tous mes fonds d'\u00e9cran: Top 10 des meilleurs... From:...",
-            "date": "2013-09-29",
-            "author_name": "73Steven",
-            "categories": "iphone,ipod,ipad",
-            "tags": "utile,touch,ios,iphone,ipod,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/youtube.com/2013/09/ios-7-astuces-et-fonctions-cach%C3%A9es-sur-iphone-ipod-touch-ipad",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=EOZLvyyoRAg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/EOZLvyyoRAg/0.jpg"
-        },
-        "youtube.com/2013/08/d%C3%A9v%C3%A9rouiller-son-iphone-ipod-si-l-on-a-perdu-le-mot": {
-            "title": "D\u00e9v\u00e9rouiller son Iphone, Ipod si l'on a perdu le mot de passe de d\u00e9v\u00e9rouillage - tuto 1...",
-            "snippet": "D\u00e9v\u00e9rouiller son Iphone, Ipod si l'on a perdu le mot de passe de d\u00e9v\u00e9rouillage - tuto 1 Mettez un pouce vert si \u00e7a vous \u00e0 \u00e9t\u00e9 utile et abonnez vous! musique d'intro: Pendulum-Tarantula musique vid\u00e9o et fin: Uppermost-Mistakes affichage...",
-            "date": "2013-08-04",
-            "author_name": "Taymor",
-            "categories": "musique,iphone,ipod",
-            "tags": "utile,iphone,ipod,tuto",
-            "recuweb_url": "http://fr.recuweb.com/ipod/youtube.com/2013/08/d%C3%A9v%C3%A9rouiller-son-iphone-ipod-si-l-on-a-perdu-le-mot",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod%2Bipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=zdDFUtn8UW8&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/zdDFUtn8UW8/0.jpg"
-        },
-        "youtube.com/2013/06/installer-gratuitement-ios-7-b%C3%AAta-6-et-gm-sur-iphone-ipod": {
-            "title": "Installer gratuitement iOS 7 B\u00eata 6 et GM sur iPhone/iPod touch & iPad sans compte Dev!",
-            "snippet": "Installer gratuitement iOS 7 B\u00eata 6 et GM sur iPhone/iPod touch & iPad sans compte Dev! Dans cette vid\u00e9o, je vous montre comment installer l'iOS 7 b\u00eata 1/2/3/4/5 et 6! Cette m\u00e9thode fonctionne et fonctionnera avec toutes les autres b\u00eata; elle...",
-            "date": "2013-06-13",
-            "author_name": "ITJailbreak",
-            "categories": "iphone,ipod,ipad",
-            "tags": "installer,montre,touch,ios,iphone,ipod,ipad",
-            "recuweb_url": "http://fr.recuweb.com/ipad/youtube.com/2013/06/installer-gratuitement-ios-7-b%C3%AAta-6-et-gm-sur-iphone-ipod",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=ipod&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=nC2bBc2IJHA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/nC2bBc2IJHA/0.jpg"
         }
     }
 }
