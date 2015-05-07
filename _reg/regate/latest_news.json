@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "regate",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/regate/",
@@ -11,44 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/regate/regate/blogs.json"
     },
     "items": {
-        "lavoixdunord.fr/2015/04/aviron-dix-clubs-pr%C3%A9sents-pour-les-r%C3%A9gates-de-cambrai-la-voix": {
-            "title": "Aviron: dix clubs pr\u00e9sents pour les R\u00e9gates de Cambrai - La Voix du Nord...",
-            "snippet": "La Voix du NordAviron: dix clubs pr\u00e9sents pour les R\u00e9gates de CambraiLa Voix du NordComme chaque ann\u00e9e, 1er mai va rimer avec R\u00e9gate de Cambrai. Une manifestation organis\u00e9e par l'Union nautique de Cambrai et qui va, cette ann\u00e9e, donner le coup...",
-            "date": "2015-04-30",
+        "tntv.pf/2015/05/derni%C3%A8re-%C3%A9tape-pour-la-tahiti-pearl-regatta": {
+            "title": "Derni\u00e8re \u00e9tape pour la Tahiti Pearl Regatta...",
+            "snippet": "La Tahiti Pearl Regatta est plus grande r\u00e9gate du Pacifique. Elle a rassemble une vingtaine de voiliers pour rallier les \u00eeles de Raiatea, Huahine et Tahaa pendant cinq jours. Pour la derni\u00e8re \u00e9tape de la r\u00e9gate, deux courses sont pr\u00e9vues:...",
+            "date": "2015-05-02",
             "categories": "regate",
-            "tags": "coup,nautique,organis\u00e9e,chaque,dix,aviron,r\u00e9gates,r\u00e9gate",
-            "recuweb_url": "http://fr.recuweb.com/regate/lavoixdunord.fr/2015/04/aviron-dix-clubs-pr%C3%A9sents-pour-les-r%C3%A9gates-de-cambrai-la-voix",
-            "resource_url": "http://news.google.fr/?hl=fr&q=regate&output=atom&nord=1",
-            "source_url": "http://lavoixdunord.fr/region/aviron-dix-clubs-presents-pour-les-regates-de-cambrai-ia13b0n2801181"
-        },
-        "ouest-france.fr/2015/04/centre-nautique-moment-de-frayeur-dans-la-r%C3%A9gate-ouest-france": {
-            "title": "Centre nautique: moment de frayeur dans la r\u00e9gate - Ouest-France...",
-            "snippet": "Ouest-FranceCentre nautique: moment de frayeur dans la r\u00e9gateOuest-FranceC'est sur le plan d'eau de l'Aber-Wrac'h que treize licenci\u00e9s du CNPK ont navigu\u00e9 ce dimanche 26 avril. Pour les cat\u00e9gories Optimist et Laser, il s'agissait d'une simple...",
-            "date": "2015-04-30",
-            "categories": "regate",
-            "tags": "dimanche,centre,nautique,r\u00e9gate,ouest,france",
-            "recuweb_url": "http://fr.recuweb.com/regate/ouest-france.fr/2015/04/centre-nautique-moment-de-frayeur-dans-la-r%C3%A9gate-ouest-france",
-            "resource_url": "http://news.google.fr/?hl=fr&q=regate%2Bregate&output=atom&nord=1",
-            "source_url": "http://ouest-france.fr/centre-nautique-moment-de-frayeur-dans-la-regate-3367579"
-        },
-        "sudouest.fr/2015/04/la-rochelle-ils-vivent-course-en-bateau-depuis-lh%C3%B4pital": {
-            "title": "La Rochelle: ils vivent la course en bateau depuis lh\u00f4pital...",
-            "snippet": "oguer sur l'oc\u00e9an Atlantique au milieu d'un \u00e9quipage d'\u00e9tudiants sans quitter son lit d'h\u00f4pital. C'est l'initiative propos\u00e9e par des \u00e9tudiants de l'Edhec, l'\u00e9cole de commerce qui organise la r\u00e9gate qui tourne autour de La Rochelle cette...",
-            "date": "2015-04-29",
-            "categories": "regate",
-            "tags": "\u00e9quipage,r\u00e9gate",
-            "recuweb_url": "http://fr.recuweb.com/regate/sudouest.fr/2015/04/la-rochelle-ils-vivent-course-en-bateau-depuis-lh%C3%B4pital",
+            "tags": "deux,r\u00e9gate",
+            "recuweb_url": "http://fr.recuweb.com/regate/tntv.pf/2015/05/derni%C3%A8re-%C3%A9tape-pour-la-tahiti-pearl-regatta",
             "resource_url": "http://www.bing.com/news/search?first=1&q=regate&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/04/30/ils-vivent-la-course-en-bateau-depuis-l-hopitalpetite-histoire-de-ce-casque-360-1907956-1391.php"
+            "source_url": "http://tntv.pf/Derniere-etape-pour-la-Tahiti-Pearl-Regatta_a5788.html"
+        },
+        "lavoixdunord.fr/2015/04/aviron-dix-clubs-pr%C3%A9sents-pour-les-r%C3%A9gates-de-cambrai": {
+            "title": "Aviron: dix clubs pr\u00e9sents pour les R\u00e9gates de Cambrai...",
+            "snippet": "Malgr\u00e9 la concurrence avec dautres manifestations, les dirigeants de lUNC esp\u00e8rent faire de leur rendez-vous une r\u00e9ussite, tant populaire que sportive. Dix clubs seront repr\u00e9sent\u00e9s. Ceux de la r\u00e9gion, bien s\u00fbr (Cambrai, Lille, Valenciennes...",
+            "date": "2015-04-28",
+            "categories": "regate",
+            "tags": "dix,aviron,r\u00e9gates",
+            "recuweb_url": "http://fr.recuweb.com/regate/lavoixdunord.fr/2015/04/aviron-dix-clubs-pr%C3%A9sents-pour-les-r%C3%A9gates-de-cambrai",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=regate&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/aviron-dix-clubs-presents-pour-les-regates-de-cambrai-ia13b0n2801181"
         },
         "ouest-france.fr/2015/04/une-superbe-r%C3%A9gate-dimanche-sur-le-lac-de-ty-colo-ouest": {
             "title": "Une superbe r\u00e9gate, dimanche, sur le lac de Ty-Colo - Ouest-France...",
             "snippet": "Ouest-FranceUne superbe r\u00e9gate, dimanche, sur le lac de Ty-ColoOuest-FranceLa r\u00e9gate FFV de Classes M organis\u00e9e par le Centre nautique du Relecq-Kerhuon (CNRK) a vu la participation de dix bateaux qui ont couru dimanche sur le lac de Ty-Colo. Un...",
             "date": "2015-04-26",
             "categories": "regate",
-            "tags": "dix,dimanche,nautique,organis\u00e9e,r\u00e9gate,ouest,france,centre",
+            "tags": "dix,r\u00e9gate",
             "recuweb_url": "http://fr.recuweb.com/regate/ouest-france.fr/2015/04/une-superbe-r%C3%A9gate-dimanche-sur-le-lac-de-ty-colo-ouest",
-            "resource_url": "http://news.google.fr/?hl=fr&q=regate%2Bregate&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=regate&output=atom&nord=1",
             "source_url": "http://ouest-france.fr/une-superbe-regate-dimanche-sur-le-lac-de-ty-colo-3358835"
         },
         "digischool.fr/2015/04/la-r%C3%A9gate-des-iut-mer-n-a-pas-d%C3%A9mont%C3%A9-joie-%C3%A9quipages": {
@@ -66,9 +56,9 @@
             "snippet": "Sud Vend\u00e9e InfoNouvelle \u00e9dition de la r\u00e9gate \"Le Trait de Jupiter\": L'Aiguillon-sur...Sud Vend\u00e9e InfoSymboliquement, la r\u00e9gate avait pour but de rejoindre les deux communes de chaque extr\u00e9mit\u00e9 du d\u00e9partement par la mer. Le projet a pris...",
             "date": "2015-04-23",
             "categories": "regate",
-            "tags": "chaque,vend\u00e9e,r\u00e9gate,mer",
+            "tags": "deux,vend\u00e9e,r\u00e9gate,mer",
             "recuweb_url": "http://fr.recuweb.com/regate/sudvendeeinfo.tv/2015/04/nouvelle-%C3%A9dition-de-la-r%C3%A9gate-le-trait-jupiter-l-aiguillon",
-            "resource_url": "http://news.google.fr/?hl=fr&q=regate%2Bregate&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=regate&output=atom&nord=1",
             "source_url": "http://sudvendeeinfo.tv/Nouvelle-edition-de-la-regate-Le-Trait-de-Jupiter-L-Aiguillon-sur-Mer-Noirmoutier_a1645.html"
         }
     }
