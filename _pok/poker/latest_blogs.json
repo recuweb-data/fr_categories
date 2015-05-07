@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "poker",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/poker/",
@@ -11,27 +11,27 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/poker/poker/blogs.json"
     },
     "items": {
-        "fr.pokerstrategy.com/2015/05/news-ne-faites-pas-comme-ce-joueur-c-est-la-meilleure": {
-            "title": "News: Ne faites pas comme ce joueur, c'est la meilleure fa\u00e7on de...",
-            "snippet": "D\u00e9couvrez pourquoi Marcel 'urubu111'Freire est connu dans le monde du poker comme \u00e9tant le roi du tilt.",
-            "date": "2015-05-02",
-            "author_name": "inconnu",
-            "categories": "poker",
-            "tags": "roi,connu,monde,joueur,poker",
-            "recuweb_url": "http://fr.recuweb.com/poker/fr.pokerstrategy.com/2015/05/news-ne-faites-pas-comme-ce-joueur-c-est-la-meilleure",
-            "resource_url": "http://www.google.com/search?q=poker%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://fr.pokerstrategy.com/news/content/Ne-faites-pas-comme-ce-joueur,-c-est-la-meilleure-fa\u00e7on-de-perdre-votre-bankroll_90059/"
-        },
         "clubpoker.net/2015/04/julien-cazarre-d%C3%A9barque-dans-le-multiplex-poker-de-winamax": {
             "title": "Julien Cazarre d\u00e9barque dans le Multiplex Poker de Winamax...",
             "snippet": "Julien Cazarre d\u00e9barque dans le Multiplex Poker de Winamax - Roi des chansons parodiques sur RMC et des faux doublages sur Canal, Julien Cazarre est aujourd'hui l'humoriste fran\u00e7ais num\u00e9ro 1 d\u00e8s lors qu'il est...",
             "date": "2015-04-29",
             "author_name": "inconnu",
             "categories": "doublage,poker",
-            "tags": "lors,fran\u00e7ais,hui,aujourd,poker,winamax,roi",
+            "tags": "fran\u00e7ais,hui,aujourd,poker,winamax",
             "recuweb_url": "http://fr.recuweb.com/poker/clubpoker.net/2015/04/julien-cazarre-d%C3%A9barque-dans-le-multiplex-poker-de-winamax",
-            "resource_url": "http://www.google.com/search?q=poker%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=poker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://clubpoker.net/julien-cazarre-debarque-multiplex-poker-winamax/n-10688"
+        },
+        "clubpoker.net/2015/04/winamax-live-sessions-cash-game-people-et-petites-poker": {
+            "title": "Winamax Live Sessions: cash game, people et petites... - Poker...",
+            "snippet": "En visionnant le teaser des Winamax Live Sessions, difficile de ne pas se rem\u00e9morer quelques bons souvenirs datant de l'\u00e9mission culte High Stakes Poker. La filiation saute aux yeux, les z\u00e9ros en moins. Dans le format...",
+            "date": "2015-04-29",
+            "author_name": "inconnu",
+            "categories": "poker",
+            "tags": "winamax,live,poker",
+            "recuweb_url": "http://fr.recuweb.com/poker/clubpoker.net/2015/04/winamax-live-sessions-cash-game-people-et-petites-poker",
+            "resource_url": "http://www.google.com/search?q=poker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://clubpoker.net/winamax-live-sessions-cash-game-people-petites-sacoches/n-10687"
         },
         "afrik.com/2015/04/c%C3%B4te-d-ivoire-poker-menteur-autour-des-primes": {
             "title": "C\u00f4te d'Ivoire: Poker menteur autour des primes de la CAN -...",
@@ -39,9 +39,9 @@
             "date": "2015-04-28",
             "author_name": "Mansour Loum",
             "categories": "poker,sport",
-            "tags": "argent,avoir,poker,joueurs",
+            "tags": "poker,joueurs",
             "recuweb_url": "http://fr.recuweb.com/sport/afrik.com/2015/04/c%C3%B4te-d-ivoire-poker-menteur-autour-des-primes",
-            "resource_url": "http://www.google.com/search?q=poker%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=poker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://afrik.com/cote-d-ivoire-poker-menteur-autour-des-primes-de-la-can"
         },
         "clubpoker.net/2015/04/grande-finale-ept-monte-carlo-le-gratin-du-poker": {
@@ -50,9 +50,9 @@
             "date": "2015-04-28",
             "author_name": "inconnu",
             "categories": "poker",
-            "tags": "hui,aujourd,grand,poker,festival,tournois",
+            "tags": "hui,aujourd,grand,festival,poker,finale,tournois",
             "recuweb_url": "http://fr.recuweb.com/poker/clubpoker.net/2015/04/grande-finale-ept-monte-carlo-le-gratin-du-poker",
-            "resource_url": "http://www.google.com/search?q=poker%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=poker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://clubpoker.net/grande-finale-ept-monte-carlo-gratin-poker-rocher-monegasque/n-10679"
         },
         "clubpoker.net/2015/04/bpt-deauville-le-poker-garde-la-cote-en-normandie": {
@@ -61,65 +61,65 @@
             "date": "2015-04-24",
             "author_name": "inconnu",
             "categories": "poker",
-            "tags": "casino,poker",
+            "tags": "poker",
             "recuweb_url": "http://fr.recuweb.com/poker/clubpoker.net/2015/04/bpt-deauville-le-poker-garde-la-cote-en-normandie",
-            "resource_url": "http://www.google.com/search?q=poker%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=poker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://clubpoker.net/bpt-deauville-poker-garde-cote-normandie/n-10668"
         },
-        "ray30-famille.blogspot.com/2015/03/jeux-flash-gratuit-en-ligne": {
-            "title": "jeux flash gratuit, jeux en ligne gratuit...",
-            "snippet": "jeux flash gratuit, jeux en ligne gratuit Goodgame Poker: poker en ligne jouet avec des centaine d'autre joueur...",
-            "date": "2015-03-01",
-            "author_name": "bric a brac2",
+        "le-nouveau-redacteur.com/2015/03/le-poker-plus-quun-jeu": {
+            "title": "Le poker, plus quun jeu?",
+            "snippet": "Il y a encore quelque temps, la seule \u00e9vocation du mot poker vous faisait passer pour un escroc sillonnant les tripots glauques et enfum\u00e9s, une liasse de billets...",
+            "date": "2015-03-30",
+            "author_name": "Romain",
             "categories": "poker",
-            "tags": "joueur,ligne,poker",
-            "recuweb_url": "http://fr.recuweb.com/poker/ray30-famille.blogspot.com/2015/03/jeux-flash-gratuit-en-ligne",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=poker%2Bpoker&rss=1&lng=fr",
-            "source_url": "http://ray30-famille.blogspot.com/2015/03/jeux-flash-gratuit-jeux-en-ligne-gratuit.html"
+            "tags": "mot,jeu,poker",
+            "recuweb_url": "http://fr.recuweb.com/poker/le-nouveau-redacteur.com/2015/03/le-poker-plus-quun-jeu",
+            "resource_url": "http://fr.search.wordpress.com/?q=poker&f=feed&page=1",
+            "source_url": "http://le-nouveau-redacteur.com/2015/03/30/le-poker-plus-quun-jeu/"
         },
-        "imaginelayout.com/2015/02/powerpoint-template-pp01430": {
-            "title": "PowerPoint template PP01430...",
-            "snippet": "Dealer Casino PowerPoint templates More About: Casino club game learn poker play casino play poker poker strategy...",
-            "date": "2015-02-12",
-            "author_name": "ImagineLayout.com",
-            "categories": "poker,play",
-            "tags": "poker,poker-strategy,strategy,play,play-casino,play-casino-play,casino,casino-play,game,game-learn,learn,powerpoint,templates,about,club",
-            "recuweb_url": "http://fr.recuweb.com/play/imaginelayout.com/2015/02/powerpoint-template-pp01430",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=poker%2Bpoker&rss=1&lng=fr",
-            "source_url": "http://imaginelayout.com/powerpoint-template-5841/"
+        "blog.idleman.fr/2012/07/raspberry-pi-04-configurer-en-serveur-idleblog": {
+            "title": "Raspberry PI 04: Configurer en serveur IdleBlog...",
+            "snippet": "Pas sans modifier l\u00e9g\u00e8rement les sources de pour pouvoir d\u00e9finir au lancement de l'ex\u00e9cutable la source audio d'entr\u00e9e, cela dit ce n'est pas une grosse modif:), je t'encourage a poker le concepteur de SARAH: Jean philippe Encausse... Ce matin...",
+            "date": "2012-07-31",
+            "author_name": "Idleman",
+            "categories": "poker",
+            "tags": "configurer,poker",
+            "recuweb_url": "http://fr.recuweb.com/poker/blog.idleman.fr/2012/07/raspberry-pi-04-configurer-en-serveur-idleblog",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.idleman.fr/raspberry-pi-4-configurer-en-serveur/"
         },
-        "imaginelayout.com/2015/02/powerpoint-template-pp01431": {
-            "title": "PowerPoint template PP01431...",
-            "snippet": "Casino Bones PowerPoint templates More About: Casino club game learn poker play casino play poker poker strategy...",
-            "date": "2015-02-12",
-            "author_name": "ImagineLayout.com",
-            "categories": "poker,play",
-            "tags": "poker,poker-strategy,strategy,play,play-casino,play-casino-play,casino,casino-play,game,game-learn,learn,powerpoint,templates,about,club",
-            "recuweb_url": "http://fr.recuweb.com/play/imaginelayout.com/2015/02/powerpoint-template-pp01431",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=poker%2Bpoker&rss=1&lng=fr",
-            "source_url": "http://imaginelayout.com/powerpoint-template-5842/"
+        "poker-academie.com/2011/08/re-holdem-manager-db-sur-nas-synology-poker-academie": {
+            "title": "Re:Holdem manager DB sur NAS (synology) - Poker Academie...",
+            "snippet": "Car si c'est le cas je peux commencer maintenant. Une fois postgres install\u00e9 et les tables cr\u00e9es il suffira de parametrerHM pour qu'il aille se connecter a postgres non pas sur le localhost mais sur le nas. R\u00e9pondre Citer...",
+            "date": "2011-08-14",
+            "author_name": "ratounet07",
+            "categories": "poker",
+            "tags": "localhost,poker,poker_academie,academie,manager",
+            "recuweb_url": "http://fr.recuweb.com/poker/poker-academie.com/2011/08/re-holdem-manager-db-sur-nas-synology-poker-academie",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://poker-academie.com/forum/holdem-manager/395835-holdem-manager-db-sur-nas-synology.html"
         },
-        "imaginelayout.com/2015/02/powerpoint-template-pp01416": {
-            "title": "PowerPoint template PP01416...",
-            "snippet": "Casino Card Game PowerPoint templates More About: Casino club Gambling game jackpot las vegas learn poker play casino play poker poker strategy...",
-            "date": "2015-02-03",
-            "author_name": "ImagineLayout.com",
-            "categories": "poker,play",
-            "tags": "poker,poker-strategy,strategy,play,play-casino,play-casino-play,casino,casino-play,game,learn,powerpoint,templates,about,club",
-            "recuweb_url": "http://fr.recuweb.com/play/imaginelayout.com/2015/02/powerpoint-template-pp01416",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=poker%2Bpoker&rss=1&lng=fr",
-            "source_url": "http://imaginelayout.com/powerpoint-template-5811/"
+        "poker-academie.com/2011/04/sujet-holdhem-manager-avec-parallels-sur-mac-poker-academie": {
+            "title": "SUJET: HoldHem Manager avec parallels sur Mac - Poker Academie...",
+            "snippet": "Bonjour, en gal\u00e8re pour configurer SQLdb... demande de mot de passe mais pas de mot de passe... localhost etc.. C'est un peu du chinois pour moi! Connaissez vous une video de config...",
+            "date": "2011-04-25",
+            "author_name": "azerty67",
+            "categories": "poker",
+            "tags": "moi,localhost,mot,configurer,poker,poker_academie,academie,manager",
+            "recuweb_url": "http://fr.recuweb.com/poker/poker-academie.com/2011/04/sujet-holdhem-manager-avec-parallels-sur-mac-poker-academie",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://poker-academie.com/forum/logiciels-mods-et-scripts/347560-holdhem-manager-avec-parallels-sur-mac.html"
         },
-        "imaginelayout.com/2015/02/powerpoint-template-pp01417": {
-            "title": "PowerPoint template PP01417...",
-            "snippet": "Way to Win at Cards PowerPoint templates More About: Casino club game learn poker play casino play poker poker strategy...",
-            "date": "2015-02-03",
-            "author_name": "ImagineLayout.com",
-            "categories": "poker,play",
-            "tags": "poker,poker-strategy,strategy,play,play-casino,play-casino-play,casino,casino-play,game,game-learn,learn,powerpoint,templates,about,club",
-            "recuweb_url": "http://fr.recuweb.com/play/imaginelayout.com/2015/02/powerpoint-template-pp01417",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=poker%2Bpoker&rss=1&lng=fr",
-            "source_url": "http://imaginelayout.com/powerpoint-template-5812/"
+        "wsop.over-blog.com/2009/07/antoine-saout-est-il-le-messie-du-poker-fran%C3%A7ais-en-route": {
+            "title": "Antoine Saout est-il le messie du poker Fran\u00e7ais? - En route pour...",
+            "snippet": "Antoine Saout est au centre de beaucoup de d\u00e9bats depuis sa qualification pour la table finale des WSOP du main event 2009. Certains comme moi pensent que le nouveau millionaire du poker fran\u00e7ais va permettre au...",
+            "date": "2009-07-19",
+            "author_name": "inconnu",
+            "categories": "poker",
+            "tags": "fran\u00e7ais,moi,finale,poker",
+            "recuweb_url": "http://fr.recuweb.com/poker/wsop.over-blog.com/2009/07/antoine-saout-est-il-le-messie-du-poker-fran%C3%A7ais-en-route",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpoker&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://wsop.over-blog.com/article-33981663.html"
         }
     }
 }
