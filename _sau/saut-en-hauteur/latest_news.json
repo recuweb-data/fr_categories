@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "saut-en-hauteur",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/saut-en-hauteur/",
@@ -11,12 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/saut-en-hauteur/saut-en-hauteur/blogs.json"
     },
     "items": {
+        "fr.sports.yahoo.com/2015/05/base-jump-un-saut-totalement-insane": {
+            "title": "BASE JUMP: UN SAUT TOTALEMENT INSANE!",
+            "snippet": "Tim Howell a r\u00e9alis\u00e9 un saut en BASE jump cingl\u00e9 du plus haut mur artificiel descalade au monde, le Luzzon Dam en Suisse, une hauteur de 165 m\u00e8tres... en sautant dun pont plut\u00f4t safe en France avec un terrain datterrissage large.",
+            "date": "2015-05-07",
+            "tags": "jump,haut,saut,monde,hauteur,m\u00e8tres,france",
+            "recuweb_url": "http://fr.recuweb.com/fr.sports.yahoo.com/2015/05/base-jump-un-saut-totalement-insane",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsaut%2Ben%2Bhauteur&format=RSS&cc=fr",
+            "source_url": "http://fr.sports.yahoo.com/blogs/harold-quinquis/base-jump-un-saut-totalement-insane-091708063.html"
+        },
+        "lindependant.fr/2015/05/grande-premi%C3%A8re-en-sports-extr%C3%AAmes-le-6-juin-ils-sauteront": {
+            "title": "Grande premi\u00e8re en sports extr\u00eames le 6 juin: ils sauteront depuis le chteau de Peyrepertuse, 816...",
+            "snippet": "Ils ont d\u00e9cid\u00e9 de faire encore plus fort en r\u00e9alisant pour la premi\u00e8re fois un saut depuis un site historique. Ils s'\u00e9lanceront du haut du chteau de Peyrepertuse, qui affiche 816 m\u00e8tres de hauteur. En g\u00e9n\u00e9ral, ces artistes de lextr\u00eame...",
+            "date": "2015-05-07",
+            "categories": "sport",
+            "tags": "m\u00e8tres,haut,premi\u00e8re,sports,saut,hauteur",
+            "recuweb_url": "http://fr.recuweb.com/sport/lindependant.fr/2015/05/grande-premi%C3%A8re-en-sports-extr%C3%AAmes-le-6-juin-ils-sauteront",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsaut%2Ben%2Bhauteur&format=RSS&cc=fr",
+            "source_url": "http://lindependant.fr/2015/05/07/peyrepertuse-hommes-volants-et-sports-extremes-le-6-juin-video,2027455.php"
+        },
+        "francetvinfo.fr/2015/05/le-saut-de-cascade-en-kayak-un-sport-vogue": {
+            "title": "Le saut de cascade en kayak, un sport en vogue...",
+            "snippet": "Descendre une cascade de 18 m\u00e8tres de hauteur, pas de quoi faire peur aux kayakistes de... Parmi eux, un Fran\u00e7ais, \u00c9ric Deguil, que France 2 a retrouv\u00e9 dans les Pyr\u00e9n\u00e9es. L'homme combat la force du torrent et slalome entre les rochers.",
+            "date": "2015-05-06",
+            "categories": "sport",
+            "tags": "m\u00e8tres,saut,hauteur,france,homme",
+            "recuweb_url": "http://fr.recuweb.com/sport/francetvinfo.fr/2015/05/le-saut-de-cascade-en-kayak-un-sport-vogue",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsaut%2Ben%2Bhauteur&format=RSS&cc=fr",
+            "source_url": "http://francetvinfo.fr/sports/le-saut-de-cascade-en-kayak-un-sport-en-vogue_896765.html"
+        },
+        "lanouvellerepublique.fr/2015/05/les-patineurs-ont-fait-leur-show": {
+            "title": "Les patineurs ont fait leur show...",
+            "snippet": "slalom vitesse et hauteur pure, les organisateurs thouarsais avaient innov\u00e9 cette ann\u00e9e en proposant une comp\u00e9tition open de sauts en longueur, non r\u00e9pertori\u00e9e au niveau f\u00e9d\u00e9ral, et une autre de skatecross, inscrite aux championnats de...",
+            "date": "2015-05-06",
+            "tags": "comp\u00e9tition,vitesse,hauteur,championnats",
+            "recuweb_url": "http://fr.recuweb.com/lanouvellerepublique.fr/2015/05/les-patineurs-ont-fait-leur-show",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsaut%2Ben%2Bhauteur&format=RSS&cc=fr",
+            "source_url": "http://lanouvellerepublique.fr/Deux-Sevres/Loisirs/Sports-et-loisirs/n/Contenus/Articles/2015/05/07/Les-patineurs-ont-fait-leur-show-2320641"
+        },
+        "herault-tribune.com/2015/05/sports-vias-premier-concours-de-saut-en-hauteur-dorian-lairi-passe": {
+            "title": "SPORTS - VIAS: VIAS - Premier concours de saut en hauteur Dorian LAIRI passe la barre des M!!",
+            "snippet": "Premier concours de saut en hauteur Dorian LAIRI passe la barre des M... de prendre la premi\u00e8re place du concours et de se qualifi\u00e9 pour les championnats de France Cadets juniors qui se d\u00e9rouleront a ALBI en juillet prochain.",
+            "date": "2015-05-04",
+            "categories": "place,sport",
+            "tags": "france,premi\u00e8re,barre,sports,saut,hauteur,championnats",
+            "recuweb_url": "http://fr.recuweb.com/sport/herault-tribune.com/2015/05/sports-vias-premier-concours-de-saut-en-hauteur-dorian-lairi-passe",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsaut%2Ben%2Bhauteur&format=RSS&cc=fr",
+            "source_url": "http://herault-tribune.com/articles/27868/vias-premier-concours-de-saut-en-hauteur-dorian-lairi-passe-la-barre-des-2-00-m/"
+        },
         "ladepeche.fr/2015/04/moisson-de-podiums-chez-les-pompiers": {
             "title": "Moisson de podiums chez les Pompiers -...",
             "snippet": "Moisson de podiums chez les disciplines athl\u00e9tiques compl\u00e8tent le parcours avec du saut en hauteur, courses de vitesse et demi-fond, lancer du poids. Nos repr\u00e9sentants ont rafl\u00e9 de nombreuses m\u00e9dailles: l'or pour Bernard Chavernac et Yacine au...",
             "date": "2015-04-30",
             "categories": "discipline",
-            "tags": "saut,hauteur",
+            "tags": "vitesse,saut,hauteur",
             "recuweb_url": "http://fr.recuweb.com/discipline/ladepeche.fr/2015/04/moisson-de-podiums-chez-les-pompiers",
             "resource_url": "http://news.google.fr/?hl=fr&q=saut%2Ben%2Bhauteur&output=atom&nord=1",
             "source_url": "http://ladepeche.fr/article/2015/04/30/2096584-moisson-de-podiums-chez-les-pompiers.html"
@@ -25,7 +73,7 @@
             "title": "L'histoire jamais racont\u00e9e de Pape Gallo Thiam, le champion des champions de la France...",
             "snippet": "A 2 m\u00e8tres 03, il na pas seulement d\u00e9pass\u00e9 la barre du saut en hauteur lors des championnats de France, mais il a aussi fait voler en \u00e9clats quatre si\u00e8cles de st\u00e9r\u00e9otypes et de pr\u00e9jug\u00e9s raciaux. Son nom ne vous dit peut-\u00eatre rien. Mais...",
             "date": "2015-04-27",
-            "tags": "peut,m\u00e8tres,saut,hauteur,lors,championnats",
+            "tags": "peut,barre,france,m\u00e8tres,saut,hauteur,lors,championnats",
             "recuweb_url": "http://fr.recuweb.com/seneweb.com/2015/04/l-histoire-jamais-racont%C3%A9e-de-pape-gallo-thiam-le-champion",
             "resource_url": "http://www.bing.com/news/search?first=1&q=saut%2Ben%2Bhauteur&format=RSS&cc=fr",
             "source_url": "http://seneweb.com/news/People/l-histoire-jamais-racontee-de-pape-gallo_n_153613.html"
