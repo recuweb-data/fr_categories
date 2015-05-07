@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rink-hockey",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rink-hockey/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rink-hockey/rink-hockey/blogs.json"
     },
     "items": {
+        "lavoixdunord.fr/2015/05/rink-hockey-le-scra-a-fait-ce-quil-fallait": {
+            "title": "Rink Hockey: le SCRA a fait ce quil fallait...",
+            "snippet": "Infligeant un 12 6 qui donne des regrets aux rouges et blancs sur le reste de leur saison, signant un retour fracassant au Brockus apr\u00e8s deux mois dabsence. Sur une interception de milieu de terrain, G\u00e9rard Teixido marquait d\u00e8s la 1eminute.",
+            "date": "2015-05-01",
+            "categories": "rink-hockey,hockey",
+            "tags": "retour,rink,rink_hockey,hockey,scra,saison",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/05/rink-hockey-le-scra-a-fait-ce-quil-fallait",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rink%2Bhockey&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/rink-hockey-le-scra-a-fait-ce-qu-il-fallait-ia37b0n2806611"
+        },
         "ouest-france.fr/2015/04/espace-jeunes-des-activit%C3%A9s-tr%C3%A8s-diversifi%C3%A9es": {
             "title": "Espace-jeunes: des activit\u00e9s tr\u00e8s diversifi\u00e9es...",
             "snippet": "De m\u00eame, l'initiation au rink-hockey, en pr\u00e9sence d'Anthony Leroux, s\u00e9lectionn\u00e9 dans l'\u00e9quipe de France, a rencontr\u00e9 un franc succ\u00e8s. De l'insolite \u00c0 ces activit\u00e9s sportives s'ajoutent des sorties culturelles qui, elles aussi, ont su...",
@@ -18,15 +28,25 @@
             "categories": "hockey",
             "tags": "\u00e9quipe,rink,hockey,france",
             "recuweb_url": "http://fr.recuweb.com/hockey/ouest-france.fr/2015/04/espace-jeunes-des-activit%C3%A9s-tr%C3%A8s-diversifi%C3%A9es",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rink%2Bhockey&format=RSS&cc=fr",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Brink%2Bhockey&format=RSS&cc=fr",
             "source_url": "http://ouest-france.fr/espace-jeunes-des-activites-tres-diversifiees-3360764"
+        },
+        "lavoixdunord.fr/2015/04/rink-hockey-n1-le-r%C3%A9alisme-de-saint-omer-leur-permet": {
+            "title": "Rink-hockey N1: le r\u00e9alisme de Saint-Omer leur permet de... - La Voix du Nord...",
+            "snippet": "La Voix du NordRink-hockey N1: le r\u00e9alisme de Saint-Omer leur permet de...La Voix du NordRink-hockey N1: le r\u00e9alisme de Saint-Omer leur permet de d\u00e9crocher un nul (6-6). Par la r\u00e9daction pour La Voix du Nord, Publi\u00e9 le 26/04/2015. La Voix du...",
+            "date": "2015-04-26",
+            "categories": "hockey",
+            "tags": "rink,hockey,saint,omer,voix,nord,nordrink",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/04/rink-hockey-n1-le-r%C3%A9alisme-de-saint-omer-leur-permet",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
+            "source_url": "http://lavoixdunord.fr/region/rink-hockey-n1-le-realisme-de-saint-omer-leur-permet-ia37b0n2794342"
         },
         "lavoixdunord.fr/2015/04/rink-hockey-nationale-1-ce-ne-sera-pas-simple-pour-saint": {
             "title": "Rink-hockey - Nationale 1: ce ne sera pas simple pour Saint-Omer... - La Voix du Nord...",
             "snippet": "La Voix du NordRink-hockey - Nationale 1: ce ne sera pas simple pour Saint-Omer...La Voix du NordApr\u00e8s sa d\u00e9sillusion du 18 avril en Final Four de la Coupe de France, Saint-Omer doit vite se replonger dans le championnat, car les quatre derniers...",
             "date": "2015-04-25",
             "categories": "hockey",
-            "tags": "final,final_four,rink,hockey,saint,omer,voix,nord,nordrink,coupe,france,championnat",
+            "tags": "final,final_four,rink,hockey,nationale,saint,omer,voix,nord,nordrink,coupe,france,championnat",
             "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/04/rink-hockey-nationale-1-ce-ne-sera-pas-simple-pour-saint",
             "resource_url": "http://news.google.fr/?hl=fr&q=rink%2Bhockey&output=atom&nord=1",
             "source_url": "http://lavoixdunord.fr/region/rink-hockey-nationale-1-ce-ne-sera-pas-simple-pour-ia37b0n2792434"
