@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "recherche-s\u00e9mantique",
         "language": "fr",
-        "updated": "20150429"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/recherche-s\u00e9mantique/",
@@ -11,14 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/recherche-s%C3%A9mantique/recherche-s%C3%A9mantique/blogs.json"
     },
     "items": {
-        "connectionivoirienne.net/2015/04/c%C3%B4te-d-ivoire-%C3%A9lection-et-violence-diagnostic-propositions": {
-            "title": "C\u00f4te-d'Ivoire \"\u00e9lection et violence\" - Diagnostic et propositions du... -...",
-            "snippet": "C\u00f4te-d'Ivoire \"\u00e9lection et violence\" - Diagnostic et propositions du... reste, n'est-ce pas parce que l'on a peur de la crise que l'on recherche la paix? C'est ainsi que la paix peut se d\u00e9finir comme la... Du point de vue s\u00e9mantique, l'\u00e9lection...",
-            "date": "2015-04-27",
+        "usine-digitale.fr/2015/05/xerox-est-un-poids-lourd-des-services-big-data": {
+            "title": "Xerox est un poids lourd des services big data, mais qui le sait?",
+            "snippet": "Pour ses services de gestion documentaires, les centres de recherche de Xerox, notamment celui de Grenoble, ont d\u00e9velopp\u00e9 une grande expertise dans les logiciels et algorithmes de traitement dimage, danalyse s\u00e9mantique, de traduction...",
+            "date": "2015-05-04",
+            "categories": "traduction,traitement",
             "tags": "recherche,s\u00e9mantique",
-            "recuweb_url": "http://fr.recuweb.com/connectionivoirienne.net/2015/04/c%C3%B4te-d-ivoire-%C3%A9lection-et-violence-diagnostic-propositions",
-            "resource_url": "http://news.google.fr/?hl=fr&q=recherche%2Bs%C3%A9mantique&output=atom&nord=1",
-            "source_url": "http://connectionivoirienne.net/109696/cote-divoire-crise-angoisses-passions-et-incertitude-les-propositions-du-pr-ouraga-obou"
+            "recuweb_url": "http://fr.recuweb.com/traitement/usine-digitale.fr/2015/05/xerox-est-un-poids-lourd-des-services-big-data",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Brecherche%2Bs%C3%A9mantique&format=RSS&cc=fr",
+            "source_url": "http://usine-digitale.fr/editorial/xerox-est-un-poids-lourd-des-services-big-data-mais-qui-le-sait.N328109"
         }
     }
 }
