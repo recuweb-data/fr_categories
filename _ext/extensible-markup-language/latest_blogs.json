@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "extensible-markup-language",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/extensible-markup-language/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/extensible-markup-language/extensible-markup-language/blogs.json"
     },
     "items": {
-        "stm-publishing.com/2015/03/springer-and-universit%C3%A9-joseph-fourier-release-scidetect-to": {
-            "title": "Springer and Universit\u00e9 Joseph Fourier release SciDetect to...",
-            "snippet": "SciDetect scans Extensible Markup Language (XML) and Adobe Portable Document Format (PDF) files and compares them against a corpus of fake scientific papers. SciDetect indicates whether an entire document or its...",
-            "date": "2015-03-24",
-            "author_name": "James Douglas",
-            "categories": "extensible-markup-language",
-            "tags": "document,portable,format,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
-            "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/stm-publishing.com/2015/03/springer-and-universit%C3%A9-joseph-fourier-release-scidetect-to",
-            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://stm-publishing.com/springer-and-universite-joseph-fourier-release-scidetect-to-discover-fake-scientific-papers/"
-        },
         "lilianchavernac.wordpress.com/2014/11/le-langage-html": {
             "title": "Le langage HTML...",
             "snippet": "LHypertext Markup Language, g\u00e9n\u00e9ralement abr\u00e9g\u00e9 HTML, est le format de donn\u00e9es con\u00e7u pour repr\u00e9senter les pages web. Cest un langage de balisage permettant d\u00e9crire de lhypertexte, do\u00f9 son []...",
@@ -30,8 +19,19 @@
             "categories": "langage",
             "tags": "langage,format,donn\u00e9es,web,markup,markup_language,language,html",
             "recuweb_url": "http://fr.recuweb.com/langage/lilianchavernac.wordpress.com/2014/11/le-langage-html",
-            "resource_url": "http://fr.search.wordpress.com/?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=extensible%2Bmarkup%2Blanguage&f=feed&page=1",
             "source_url": "http://lilianchavernac.wordpress.com/2014/11/05/html/"
+        },
+        "blog.chezmaman.com/2011/03/spalding-on-the-boat-new-model-regimental": {
+            "title": "SPALDING ON THE BOAT NEW MODEL REGIMENTAL...",
+            "snippet": "I'm looking for a free or cheap webhost to move my Joomla website to from my localhost. I want a webhost...... This made me snigger for an extended time...... carmine 6s... the 1960s, GML (Generalized Markup Language) was created at.",
+            "date": "2011-03-16",
+            "author_name": "eva",
+            "categories": "joomla",
+            "tags": "was,markup,markup_language,language,this",
+            "recuweb_url": "http://fr.recuweb.com/joomla/blog.chezmaman.com/2011/03/spalding-on-the-boat-new-model-regimental",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.chezmaman.com/?p=4864"
         },
         "piloter.org/2009/01/qu-est-ce-que-xml-extensible-markup-language": {
             "title": "Qu'est-ce que XML? eXtensible Markup Language...",
@@ -39,7 +39,7 @@
             "date": "2009-01-15",
             "author_name": "inconnu",
             "categories": "langage,extensible-markup-language",
-            "tags": "documents,document,donn\u00e9es,langage,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
+            "tags": "documents,donn\u00e9es,langage,extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,xml",
             "recuweb_url": "http://fr.recuweb.com/extensible-markup-language/piloter.org/2009/01/qu-est-ce-que-xml-extensible-markup-language",
             "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://piloter.org/techno/support/xml.htm"
@@ -51,8 +51,18 @@
             "author_name": "St\u00e9phane Bortzmeyer",
             "tags": "extensible,extensible_markup,markup,xml",
             "recuweb_url": "http://fr.recuweb.com/bortzmeyer.org/2008/09/blog-st%C3%A9phane-bortzmeyer-rfc-5261-an-extensible-markup",
-            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bortzmeyer.org/5261.html"
+        },
+        "ericmery.fr/2008/03/ethereal-soft-pour-debug-trace-test-de-vos-web-services-soap": {
+            "title": "Ethereal: soft pour debug/trace/test de vos web services SOAP...",
+            "snippet": "S\u00e9lectionnez une requ\u00eate HTTP SOAP et dans la fen\u00eatre du bas, affichez les infos de la ligne 'extensible Markup Language'. Vous allez pouvoir visualiser le body de vos requ\u00eates et r\u00e9ponses SOAP. Remarque: dans le cas...",
+            "date": "2008-03-18",
+            "author_name": "admin",
+            "tags": "markup,markup_language,language,web,services,debug,extensible",
+            "recuweb_url": "http://fr.recuweb.com/ericmery.fr/2008/03/ethereal-soft-pour-debug-trace-test-de-vos-web-services-soap",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ericmery.fr/blog/ethereal-debugtracetest-de-votre-web-service-soap/"
         },
         "journaldunet.com/2006/09/xml-le-nouvel-%C3%A9lan-des-standards-du-web-jdn-d%C3%A9veloppeurs": {
             "title": "XML: Le nouvel \u00e9lan des standards du Web - JDN D\u00e9veloppeurs...",
@@ -60,7 +70,7 @@
             "date": "2006-09-26",
             "author_name": "inconnu",
             "categories": "extensible-markup-language,langage",
-            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,langage,donn\u00e9es,standards,standard,xml,web,xhtml",
+            "tags": "extensible,extensible_markup,extensible_markup_language,markup,markup_language,language,langage,donn\u00e9es,standard,xml,web,services,xhtml",
             "recuweb_url": "http://fr.recuweb.com/langage/journaldunet.com/2006/09/xml-le-nouvel-%C3%A9lan-des-standards-du-web-jdn-d%C3%A9veloppeurs",
             "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldunet.com/developpeur/tutoriel/xml/guide-pratique-xml/0.shtml"
@@ -71,9 +81,9 @@
             "date": "2005-07-11",
             "author_name": "DMC",
             "categories": "internet,technologie,langage,hypertext-markup-language",
-            "tags": "donn\u00e9es,data,langage,extensible,markup,markup_language,language,html,xhtml,xml,microsoft",
+            "tags": "donn\u00e9es,data,langage,extensible,hypertext,hypertext_markup,hypertext_markup_language,markup,markup_language,language,html,xhtml,xml,microsoft",
             "recuweb_url": "http://fr.recuweb.com/hypertext-markup-language/aliasdmc.fr/2005/07/les-termes-lettre-x-xhtml-xml-data-islands-zone-html",
-            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage%2Bextensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=extensible%2Bmarkup%2Blanguage&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://aliasdmc.fr/terme/zone_html_terme_x.html"
         }
     }
