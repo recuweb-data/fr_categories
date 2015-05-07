@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey-sur-gazon",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey-sur-gazon/",
@@ -11,14 +11,44 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey-sur-gazon/hockey-sur-gazon/blogs.json"
     },
     "items": {
+        "sportquick.com/2015/05/en-savoir-plus-hockey-sur-gazon": {
+            "title": "En savoir plus Hockey sur gazon...",
+            "snippet": "Record de titres: 43 pour le Stade Fran\u00e7ais Copyright Sportquick/Promedi... R\u00e9sultat: Hockey sur gazon - Championnat de France - Par \u00e9quipes - 2015 - Hommes - Article du: 07/05/2015 11:46 Le Championnat de France se dispute depuis 1899...",
+            "date": "2015-05-07",
+            "categories": "hockey",
+            "tags": "stade,fran\u00e7ais,hockey,gazon,championnat,france,\u00e9quipes,hommes",
+            "recuweb_url": "http://fr.recuweb.com/hockey/sportquick.com/2015/05/en-savoir-plus-hockey-sur-gazon",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bhockey%2Bsur%2Bgazon&format=RSS&cc=fr",
+            "source_url": "http://sportquick.com/savoirplus/hockey-sur-gazon-000046/evenement-championnat-de-france-000803/discipline-tout-000000/resultat-000000/sexe-1/annee-/"
+        },
+        "lavoixdunord.fr/2015/05/hockey-sur-gazon-%C3%A9lite-les-joueurs-de-l%C3%A9quipe-1-du-tac": {
+            "title": "Hockey-sur-gazon (\u00c9lite): les joueurs de l\u00e9quipe 1 du TAC savourent leur saison historique...",
+            "snippet": "Je crois quon a largement rempli notre mission sourit Bernard Coisne, vice-pr\u00e9sident du TAC hockey. Et pour cause: l\u00e9quipe... se targuer davoir battu deux fois le Racing club de France, champion de France. Ce sont leurs seules d\u00e9faites...",
+            "date": "2015-05-04",
+            "categories": "hockey",
+            "tags": "club,deux,joueurs,l\u00e9quipe,hockey,gazon,france",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lavoixdunord.fr/2015/05/hockey-sur-gazon-%C3%A9lite-les-joueurs-de-l%C3%A9quipe-1-du-tac",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bhockey%2Bsur%2Bgazon&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/hockey-sur-gazon-elite-les-joueurs-de-l-equipe-1-du-ia36b0n2809762"
+        },
+        "france3-regions.francetvinfo.fr/2015/05/les-grandes-heures-du-stade-chaban-delmas": {
+            "title": "Les grandes heures du Stade Chaban-Delmas...",
+            "snippet": "Diff\u00e9rents \u00e9v\u00e9nements sportifs y sont organis\u00e9s: arriv\u00e9es du Tour de France, championnat de boxe, matches de hockey sur gazon, phases finales du championnat de France de rugby. Et bien s\u00fbr, des matches de football... Le Parc Lescure est devenu...",
+            "date": "2015-05-03",
+            "categories": "football,rugby,hockey",
+            "tags": "championnat,stade,france,hockey,gazon",
+            "recuweb_url": "http://fr.recuweb.com/hockey/france3-regions.francetvinfo.fr/2015/05/les-grandes-heures-du-stade-chaban-delmas",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey%2Bsur%2Bgazon&format=RSS&cc=fr",
+            "source_url": "http://france3-regions.francetvinfo.fr/aquitaine/2015/05/03/les-grandes-heures-du-stade-chaban-delmas-717417.html"
+        },
         "libertebonhomme.fr/2015/05/hockey-sur-gazon-les-caennaises-sans-pression": {
             "title": "Hockey-sur-gazon. Les Caennaises sans pression...",
-            "snippet": "Les calendriers des comp\u00e9titions sont parfois \u00e9tablis en d\u00e9pit du bon sens. Les hockeyeuses caennaises peuvent en t\u00e9moigner: elles accueillent ce week-end la premi\u00e8re phase des play-offs daccession en N1, et d\u00e9plorent de nombreuses absences.",
+            "snippet": "Les calendriers des comp\u00e9titions sont parfois \u00e9tablis en d\u00e9pit du bon sens. Les hockeyeuses caennaises peuvent en t\u00e9moigner: elles accueillent ce week-end la premi\u00e8re phase des play-offs daccession en N1, et d\u00e9plorent de nombreuses absences...",
             "date": "2015-05-01",
             "categories": "play,hockey",
             "tags": "end,week,hockey,gazon",
             "recuweb_url": "http://fr.recuweb.com/hockey/libertebonhomme.fr/2015/05/hockey-sur-gazon-les-caennaises-sans-pression",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey%2Bsur%2Bgazon&format=RSS&cc=fr",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bhockey%2Bsur%2Bgazon&format=RSS&cc=fr",
             "source_url": "http://libertebonhomme.fr/2015/05/01/hockey-sur-gazon-les-caennaises-sans-pression/"
         },
         "metro-sports.fr/2015/04/hcg-sessions-decouverte-du-hockey-sur-gazon": {
@@ -26,20 +56,10 @@
             "snippet": "Les beaux jours reviennent et le hockey reprend en ext\u00e9rieur: sur gazon! Afin de faire d\u00e9couvrir au plus grand nombre ce sport, le Hockey Club de Grenoble organise de sessions d\u00e9couverte gratuites, pour toutes ses cat\u00e9gories. Ces sessions...",
             "date": "2015-04-30",
             "categories": "hockey,sport",
-            "tags": "sessions,d\u00e9couverte,decouverte,hockey,hockey_club,club,d\u00e9couvrir,grand,grand-nombre,nombre,reprend,reprend-en-ext\u00e9rieur,ext\u00e9rieur,beaux,beaux-jours,beaux-jours-reviennent,jours,jours-reviennent,reviennent,hcg,gazon,sport,grenoble",
+            "tags": "d\u00e9couverte,hockey,club,jours,gazon,sport",
             "recuweb_url": "http://fr.recuweb.com/sport/metro-sports.fr/2015/04/hcg-sessions-decouverte-du-hockey-sur-gazon",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey%2Bsur%2Bgazon&format=RSS&cc=fr",
             "source_url": "http://metro-sports.fr/hockey/hockey-club-grenoble/8567-hcg-sessions-decouverte-du-hockey-sur-gazon.html"
-        },
-        "metro-sports.fr/2015/04/hcg-sessions-decouverte-du-hockey-sur-gazon-m%C3%A9tro-sports": {
-            "title": "HCG - sessions DECOUVERTE du hockey-sur-gazon - M\u00e9tro-Sports...",
-            "snippet": "HCG - sessions DECOUVERTE du hockey-sur-gazonM\u00e9tro-Sportsaffiche-dcouverte-hcg-2015-ok Les beaux jours reviennent et le hockey reprend en ext\u00e9rieur: sur gazon! Afin de faire d\u00e9couvrir au plus grand nombre ce sport, le Hockey Club de Grenoble...",
-            "date": "2015-04-30",
-            "categories": "hockey,sport",
-            "tags": "hockey,hockey_club,club,d\u00e9couvrir,grand,grand-nombre,nombre,reprend,reprend-en-ext\u00e9rieur,ext\u00e9rieur,beaux,beaux-jours,beaux-jours-reviennent,jours,jours-reviennent,reviennent,hcg,sessions,decouverte,gazon,sports,sport,grenoble",
-            "recuweb_url": "http://fr.recuweb.com/sport/metro-sports.fr/2015/04/hcg-sessions-decouverte-du-hockey-sur-gazon-m%C3%A9tro-sports",
-            "resource_url": "http://news.google.fr/?hl=fr&q=hockey%2Bsur%2Bgazon&output=atom&nord=1",
-            "source_url": "http://metro-sports.fr/hockey/autres/8567-hcg-sessions-decouverte-du-hockey-sur-gazon.html"
         },
         "lavoixdunord.fr/2015/04/hockey-sur-gazon-les-douaisiennes-conservent-leur-cinqui%C3%A8me-la-voix": {
             "title": "Hockey-sur-Gazon: les Douaisiennes conservent leur cinqui\u00e8me... - La Voix du Nord...",
@@ -56,7 +76,7 @@
             "snippet": "(Inscription)Unibet parie sur le hockey sur gazon (Inscription)La comp\u00e9tition regroupe les hommes et les femmes pour un total de 40 matchs \u00e9tal\u00e9s sur 10 jours. Selon la F\u00e9d\u00e9ration anglaise de hockey sur gazon, l'audience potentielle cumul\u00e9e...",
             "date": "2015-04-17",
             "categories": "hockey",
-            "tags": "matchs,comp\u00e9tition,hockey,gazon,jours",
+            "tags": "matchs,comp\u00e9tition,hommes,hockey,gazon,jours",
             "recuweb_url": "http://fr.recuweb.com/hockey/sportstrategies.com/2015/04/unibet-parie-sur-le-hockey-gazon-inscription",
             "resource_url": "http://news.google.fr/?hl=fr&q=hockey%2Bsur%2Bgazon&output=atom&nord=1",
             "source_url": "http://sportstrategies.com/actualites/sponsoring/248402-unibet-parie-sur-le-hockey-sur-gazon"
