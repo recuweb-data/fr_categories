@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "olympique-lyonnais",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/olympique-lyonnais/",
@@ -11,24 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/olympique-lyonnais/olympique-lyonnais/blogs.json"
     },
     "items": {
-        "olympique-et-lyonnais.com/2015/05/ol-lyon-ne-lche-pas-l-affaire-olympique-&-lyonnais": {
-            "title": "OL: Lyon ne lche pas l'affaire! Olympique & Lyonnais...",
-            "snippet": "A Lyon, on ne l'entend pas de cette oreille et l'\u00e9quipe entra\u00een\u00e9e par Hubert Fournier a en tout cas, la volont\u00e9 farouche de terminer sa saison par une s\u00e9rie de victoires. Samedi apr\u00e8s-midi, face au 18e de Ligue 1, l'OL a...",
+        "goal.com/2015/05/lyon-gonalons-on-peut-r%C3%AAver": {
+            "title": "Lyon, Gonalons: \"on peut r\u00eaver\" -...",
+            "snippet": "Le capitaine de l'Olympique Lyonnais n'a pas cach\u00e9 sa satisfaction apr\u00e8s le succ\u00e8s des siens contre Evian (2-0), ce samedi.",
             "date": "2015-05-02",
-            "author_name": "Razik Brikh",
-            "tags": "olympique,lyonnais,saison,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/olympique-et-lyonnais.com/2015/05/ol-lyon-ne-lche-pas-l-affaire-olympique-&-lyonnais",
-            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais%2Bolympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://olympique-et-lyonnais.com/ol-lyon-ne-lache-pas-laffaire,100630.html"
+            "author_name": "inconnu",
+            "categories": "olympique-lyonnais",
+            "tags": "olympique,olympique_lyonnais,lyonnais,evian,samedi",
+            "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/goal.com/2015/05/lyon-gonalons-on-peut-r%C3%AAver",
+            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://goal.com/fr/news/29/ligue-1/2015/05/02/11348452/lyon-gonalons-on-peut-r\u00eaver"
+        },
+        "olympique-et-lyonnais.com/2015/04/ol-evian-duhamel-pense-que-fekir-est-exceptionnel-olympique": {
+            "title": "OL - Evian: Duhamel pense que Fekir est exceptionnel Olympique...",
+            "snippet": "Mathieu Duhamel joue le maintien avec Evian. Il livre son analyse sur l'attaque de l'Olympique lyonnais.",
+            "date": "2015-04-30",
+            "author_name": "S\u00e9bastien Girard",
+            "tags": "attaque,evian,olympique,lyonnais",
+            "recuweb_url": "http://fr.recuweb.com/olympique-et-lyonnais.com/2015/04/ol-evian-duhamel-pense-que-fekir-est-exceptionnel-olympique",
+            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://olympique-et-lyonnais.com/ol-evian-duhamel-pense-que-fekir-est-exceptionnel,100543.html"
         },
         "olympique-et-lyonnais.com/2015/04/ol-clinton-njie-leader-d-attaque-olympique-&-lyonnais": {
             "title": "OL: Clinton Njie leader d'attaque Olympique & Lyonnais...",
             "snippet": "L'Olympique lyonnais s'est trouv\u00e9 un nouveau leader offensif: Clinton Njie. Le jeune camerounais est en forme.",
             "date": "2015-04-30",
             "author_name": "S\u00e9bastien Girard",
-            "tags": "clinton,clinton_njie,njie,olympique,lyonnais",
+            "tags": "jeune,clinton,clinton_njie,njie,attaque,olympique,lyonnais",
             "recuweb_url": "http://fr.recuweb.com/olympique-et-lyonnais.com/2015/04/ol-clinton-njie-leader-d-attaque-olympique-&-lyonnais",
-            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais%2Bolympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://olympique-et-lyonnais.com/ol-clinton-njie-leader-dattaque,100521.html"
         },
         "metronews.fr/2015/04/l-olympique-lyonnais-boycotte-le-num%C3%A9ro-42-pour-son-nouveau": {
@@ -37,9 +48,9 @@
             "date": "2015-04-21",
             "author_name": "inconnu",
             "categories": "humour,olympique-lyonnais",
-            "tags": "derby,olympique,olympique_lyonnais,lyonnais,saint,etienne,dimanche",
+            "tags": "dernier,derby,olympique,olympique_lyonnais,lyonnais,dimanche",
             "recuweb_url": "http://fr.recuweb.com/olympique-lyonnais/metronews.fr/2015/04/l-olympique-lyonnais-boycotte-le-num%C3%A9ro-42-pour-son-nouveau",
-            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais%2Bolympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=olympique%2Blyonnais&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://metronews.fr/sport/l-olympique-lyonnais-boycotte-le-numero-42-pour-son-nouveau-stade/modu!yNXIVOekHAtBc/"
         }
     }
