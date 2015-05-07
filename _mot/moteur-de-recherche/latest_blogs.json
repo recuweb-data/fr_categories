@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moteur-de-recherche",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moteur-de-recherche/",
@@ -11,25 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moteur-de-recherche/moteur-de-recherche/blogs.json"
     },
     "items": {
-        "01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche": {
-            "title": "Retrouvez votre smartphone Android depuis le moteur de recherche...",
-            "snippet": "Vous avez \u00e9gar\u00e9 votre smartphone Android? Pas de panique. Il suffit pour le retrouver de taper une petite phrase magique dans Google...",
-            "date": "2015-04-16",
-            "author_name": "inconnu",
+        "presse-citron.net/2015/04/android-et-le-moteur-de-recherche-google": {
+            "title": "Android et le moteur de recherche de Google sont de plus en plus...",
+            "snippet": "Google serait-il en train de transformer son moteur de recherche en centre de contr\u00f4le pour smartphone fonctionnant sous Android?",
+            "date": "2015-04-28",
+            "author_name": "Manu",
             "categories": "google",
-            "tags": "suffit,android,moteur,recherche,google",
-            "recuweb_url": "http://fr.recuweb.com/google/01net.com/2015/04/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://01net.com/editorial/652388/retrouvez-votre-smartphone-android-depuis-le-moteur-de-recherche-de-google/"
+            "tags": "moteur,recherche,google",
+            "recuweb_url": "http://fr.recuweb.com/google/presse-citron.net/2015/04/android-et-le-moteur-de-recherche-google",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://presse-citron.net/android-et-le-moteur-de-recherche-de-google-sont-de-plus-en-plus-intimes/"
         },
         "slate.fr/2015/04/un-moteur-de-recherche-ne-devrait-pas-fonder-son-mod%C3%A8le": {
             "title": "Un moteur de recherche ne devrait pas fonder son mod\u00e8le sur la...",
             "snippet": "Actuellement, le business model pr\u00e9dominant pour des moteurs de recherche commerciaux est la publicit\u00e9. Les buts de la publicit\u00e9 ne sont pas toujours synonymes d'une recherche de qualit\u00e9 pour les utilisateurs. Cette...",
             "date": "2015-04-16",
             "author_name": "Gr\u00e9gor Brandy",
-            "tags": "utilisateurs,business,mod\u00e8le,moteurs,recherche",
+            "tags": "utilisateurs,business,devrait,mod\u00e8le,moteurs,recherche",
             "recuweb_url": "http://fr.recuweb.com/slate.fr/2015/04/un-moteur-de-recherche-ne-devrait-pas-fonder-son-mod%C3%A8le",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100441/brin-page-google-pub"
         },
         "presse-citron.net/2015/04/moteur-de-recherche-le-petit-fran%C3%A7ais-qwant-s-offre-un-lifting": {
@@ -40,17 +40,28 @@
             "categories": "google",
             "tags": "moteur,recherche,petit,fran\u00e7ais,qwant,google,web",
             "recuweb_url": "http://fr.recuweb.com/google/presse-citron.net/2015/04/moteur-de-recherche-le-petit-fran%C3%A7ais-qwant-s-offre-un-lifting",
-            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=moteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://presse-citron.net/moteur-de-recherche-le-petit-francais-qwant-soffre-un-lifting/"
+        },
+        "blog.smile.fr/2015/03/smile-blog-pertinence-de-la-recherche-fulltext-et-ecommerce": {
+            "title": "Smile - Blog Pertinence de la recherche fulltext et eCommerce...",
+            "snippet": "Si vous suivez notre actualit\u00e9 Magento et eCommerce, il ne vous aura pas \u00e9chapp\u00e9 que nous avons r\u00e9cemment mis en ligne un nouveau moteur de recherche bas\u00e9 sur ElasticSearch.... curl -XPOST \"localhost:9200/my_index/product/mon- super-product\" -d...",
+            "date": "2015-03-31",
+            "author_name": "com@smile.fr (Gr\u00e9gory B\u00e9cue)",
+            "categories": "magento",
+            "tags": "ligne,recherche,moteur",
+            "recuweb_url": "http://fr.recuweb.com/magento/blog.smile.fr/2015/03/smile-blog-pertinence-de-la-recherche-fulltext-et-ecommerce",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.smile.fr/Pertinence-de-la-recherche-fulltext-et-ecommerce"
         },
         "patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs": {
             "title": "Les moteurs de recherches dimages libres de droit collaboratifs...",
             "snippet": "Pour ce qui est des moteurs de recherches d'images libres, il est pr\u00e9f\u00e9rable de les utiliser si nous voulons publier une image puisque celles-ci sont public et nous...",
             "date": "2015-03-23",
             "author_name": "andreaminville",
-            "tags": "utiliser,recherches,moteurs",
+            "tags": "moteurs,recherches,utiliser",
             "recuweb_url": "http://fr.recuweb.com/patinageartistiqueandrea.wordpress.com/2015/03/les-moteurs-de-recherches-dimages-libres-droit-collaboratifs",
-            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://patinageartistiqueandrea.wordpress.com/2015/03/23/les-moteurs-de-recherches-dimages-libres-de-droit-collaboratifs/"
         },
         "formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter": {
@@ -59,9 +70,9 @@
             "date": "2014-06-10",
             "author_name": "Fr\u00e9d\u00e9ric",
             "categories": "twitter",
-            "tags": "mieux,recherches,recherche,moteur,ligne,permet",
+            "tags": "mieux,ligne,moteur,recherches,twitter,permet",
             "recuweb_url": "http://fr.recuweb.com/twitter/formation20.wordpress.com/2014/06/snapbird-moteur-de-recherche-pour-twitter",
-            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://formation20.wordpress.com/2014/06/10/snapbird-moteur-de-recherche-pour-twitter/"
         },
         "fenetresur.wordpress.com/2014/04/info-doc-les-moteurs-de-recherche-s%C3%A9ance-9": {
@@ -70,10 +81,21 @@
             "date": "2014-04-16",
             "author_name": "Fenetresur",
             "categories": "discipline",
-            "tags": "moteurs,recherche",
+            "tags": "fin,moteurs,recherche",
             "recuweb_url": "http://fr.recuweb.com/discipline/fenetresur.wordpress.com/2014/04/info-doc-les-moteurs-de-recherche-s%C3%A9ance-9",
-            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche%2Bmoteur%2Bde%2Brecherche&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=moteur%2Bde%2Brecherche&f=feed&page=1",
             "source_url": "http://fenetresur.wordpress.com/2014/04/16/info-doc-les-moteurs-de-recherche-seance-9/"
+        },
+        "tekiano.com/2013/01/nouveau-service-d-h%C3%A9bergement-100%-tunisien-tekiano": {
+            "title": ", nouveau service d'h\u00e9bergement 100% tunisien - Tekiano...",
+            "snippet": "Cette navigation am\u00e9lior\u00e9e permet instantan\u00e9ment aux portails qui y sont h\u00e9berg\u00e9s, de gagner des places suppl\u00e9mentaires dans le r\u00e9f\u00e9rencement sur les moteurs de recherche, notamment sur. permet...",
+            "date": "2013-01-02",
+            "author_name": "inconnu",
+            "categories": "place,navigation",
+            "tags": "gagner,permet,moteurs,recherche",
+            "recuweb_url": "http://fr.recuweb.com/navigation/tekiano.com/2013/01/nouveau-service-d-h%C3%A9bergement-100%-tunisien-tekiano",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmoteur%2Bde%2Brecherche&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://tekiano.com/2013/01/02/localhosttn-nouveau-service-dhebergement-100-tunisien/"
         }
     }
 }
