@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -17,9 +17,9 @@
             "date": "2015-04-24",
             "author_name": "inconnu",
             "categories": "java",
-            "tags": "commence,donc,java",
+            "tags": "quelques,donc,java",
             "recuweb_url": "http://fr.recuweb.com/java/zenika.developpez.com/2015/04/tutoriel-sur-des-patterns-d-impl%C3%A9mentation-avec-les-enums-java",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://zenika.developpez.com/tutoriels/java/patterns-implementation-enum/"
         },
         "emploi.alsacreations.com/2015/04/d%C3%A9v-senior-architecte-java-core-editeur-offre-d-emploi-cdi": {
@@ -28,9 +28,9 @@
             "date": "2015-04-23",
             "author_name": "inconnu",
             "categories": "java,emploi",
-            "tags": "donc,logiciel,sp\u00e9cialis\u00e9,java",
+            "tags": "donc,logiciel,sp\u00e9cialis\u00e9,java,offre",
             "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/04/d%C3%A9v-senior-architecte-java-core-editeur-offre-d-emploi-cdi",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.alsacreations.com/offre-561101-Dev-senior---architecte-java-core--editeur.html"
         },
         "blog.netapsys.fr/2015/04/nouveaut%C3%A9s-java-8-optional-is-needed-au-revoir-les-npe": {
@@ -41,41 +41,74 @@
             "categories": "java",
             "tags": "m\u00e9thodes,comme,java,etc,exemple",
             "recuweb_url": "http://fr.recuweb.com/java/blog.netapsys.fr/2015/04/nouveaut%C3%A9s-java-8-optional-is-needed-au-revoir-les-npe",
-            "resource_url": "http://www.google.com/search?q=java%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=java&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.netapsys.fr/nouveautes-java-8-optional-is-needed-au-revoir-les-npe/"
         },
-        "shaverhood5n.wordpress.com/2015/03/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir": {
-            "title": "Les questions sans rCponse sur Waptrick sonneries que vous devez savoir sur...",
-            "snippet": "Les questions sans rCponse sur Waptrick sonneries que vous devez savoir sur Chansons chansons de musique des chansons des applications vid?(C)o mp Waptrick mp sonneries Android java mp et t?(C)l?(C)charger wapdam gp mobiles wapdam vid?(C)os mp mp...",
-            "date": "2015-03-30",
-            "author_name": "shaverhood5n",
-            "categories": "musique,java",
-            "tags": "musique,applications,savoir,android,java",
-            "recuweb_url": "http://fr.recuweb.com/java/shaverhood5n.wordpress.com/2015/03/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
-            "source_url": "http://shaverhood5n.wordpress.com/2015/03/30/les-questions-sans-rcponse-sur-waptrick-sonneries-que-vous-devez-savoir-sur/"
-        },
-        "mediaforma.com/2015/03/java-un-langage-orient%C3%A9-objet": {
-            "title": "Java Java, un langage orient\u00e9 objet...",
-            "snippet": "Depuis lav\u00e8nement de Windows, les langages objet connaissent un v\u00e9ritable succ\u00e8s. Si la programmation traditionnelle Read more...",
-            "date": "2015-03-16",
-            "author_name": "michel",
-            "categories": "langage,java",
-            "tags": "programmation,objet,java,windows",
-            "recuweb_url": "http://fr.recuweb.com/java/mediaforma.com/2015/03/java-un-langage-orient%C3%A9-objet",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
-            "source_url": "http://mediaforma.com/java-java-un-langage-oriente-objet/"
-        },
-        "downloads.zdnet.com/2015/03/development-kit-8-documentation-for-java": {
-            "title": "Development Kit 8 Documentation for Java...",
-            "snippet": "Development Kit 8 Documentation for Java -Java Platform, Standard Edition (Java SE) lets you develop and deploy Java applications...",
-            "date": "2015-03-12",
-            "author_name": "Hopeful",
+        "blog.glm-webdesign.com/2014/11/error-1045-28000-access-denied-for-user-root-localhost": {
+            "title": "ERROR 1045 (28000): Access denied for user 'root''localhost...",
+            "snippet": "ERROR 1045 (28000): Access denied for user 'root''localhost'(using password: YES)... Expertise: rchitecture Logicielle & D\u00e9veloppement JAVA/JEE/Gestion de Projet. Skip to content. Bonnes pratiques Subversion...",
+            "date": "2014-11-19",
+            "author_name": "ghislain",
             "categories": "java",
-            "tags": "java,applications",
-            "recuweb_url": "http://fr.recuweb.com/java/downloads.zdnet.com/2015/03/development-kit-8-documentation-for-java",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=java%2Bjava&rss=1&lng=fr",
-            "source_url": "http://downloads.zdnet.com/product/18495-75935435/"
+            "tags": "d\u00e9veloppement,java,using,password,localhost,expertise,gestion,projet,bonnes,pratiques",
+            "recuweb_url": "http://fr.recuweb.com/java/blog.glm-webdesign.com/2014/11/error-1045-28000-access-denied-for-user-root-localhost",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.glm-webdesign.com/?p=470"
+        },
+        "linuxcore.fr/2013/03/java-rpm-linuxcore": {
+            "title": "Java Rpm - LinuxCore...",
+            "snippet": "Si tout s'est bien pass\u00e9, voici ce que vous obtenez: javafed1. Java install\u00e9 sous Fedora. 3. Installer Java sous Mageia 2. [rvlocalhost T\u00e9l\u00e9chargements] whereis java java:/usr/bin/java/etc/java/usr/lib/java/usr/share/java [rvlocalhost...",
+            "date": "2013-03-23",
+            "author_name": "progamat",
+            "categories": "java",
+            "tags": "install\u00e9,java,linuxcore,voici,usr,bin,etc,lib,share",
+            "recuweb_url": "http://fr.recuweb.com/java/linuxcore.fr/2013/03/java-rpm-linuxcore",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://linuxcore.fr/2013/03/java-rpm/"
+        },
+        "linuxcore.fr/2013/03/java-debian-linuxcore": {
+            "title": "Java Debian - LinuxCore...",
+            "snippet": "rvrv-lm cd/usr rvrv-lm/usr ls bin games include lib local sbin share src rvrv-lm/usr sudo mkdir java sudo password for rv: rvrv-lm/usr ls bin games include java lib local sbin share src rvrv-lm/usr cd... marielocalhost ls. Bureau/.5 Musique/C:.1.6...",
+            "date": "2013-03-21",
+            "author_name": "progamat",
+            "categories": "java,musique",
+            "tags": "usr,lib,share,bin,password,java,linuxcore",
+            "recuweb_url": "http://fr.recuweb.com/musique/linuxcore.fr/2013/03/java-debian-linuxcore",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://linuxcore.fr/2013/03/java-debian/"
+        },
+        "w3blog.fr/2011/04/l-outil-sonar-ne-se-lance-pas-en-localhost": {
+            "title": "L'outil Sonar ne se lance pas en localhost avec ma base MySQL...",
+            "snippet": "Sonar est un outil open-source qui permet d'obtenir des statistiques avanc\u00e9s sur l'\u00e9tat de votre projet (Java le plus souvent). Il utilise pour cela les rapports g\u00e9n\u00e9r\u00e9s par les diff\u00e9rents plugins de report utilis\u00e9s par votre projet...",
+            "date": "2011-04-22",
+            "author_name": "Thibaut",
+            "categories": "mysql,java",
+            "tags": "localhost,mysql,projet,java",
+            "recuweb_url": "http://fr.recuweb.com/java/w3blog.fr/2011/04/l-outil-sonar-ne-se-lance-pas-en-localhost",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://w3blog.fr/2011/04/22/loutil-sonar-ne-se-lance-pas-en-localhost-avec-ma-base-mysql/"
+        },
+        "forum.joomla.fr/2011/04/probl%C3%A8me-phoca-gallery-etr-mulitple-add-forums": {
+            "title": "[Probl\u00e8me] Phoca Gallery etr \"mulitple add\" - Forums...",
+            "snippet": "basic: Chargement de l'applet basic: Initialisation de l'applet network: Entr\u00e9e de cache introuvable URL: localhost:8888/joomla/components/com_phocagallery/assets/java/jupload/, version: null...",
+            "date": "2011-04-21",
+            "author_name": "Fanfouet",
+            "categories": "joomla,java",
+            "tags": "url,localhost,java",
+            "recuweb_url": "http://fr.recuweb.com/java/forum.joomla.fr/2011/04/probl%C3%A8me-phoca-gallery-etr-mulitple-add-forums",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.joomla.fr/showthread.php?146717-Phoca-Gallery-etr-mulitple-add"
+        },
+        "dev.af83.com/2010/11/mini-howto-using-the-replica-set-of-mongodb-in-java-af83": {
+            "title": "Mini-howto: using the replica set of MongoDB in Java - af83...",
+            "snippet": "String url=\"localhost:27017,localhost:27018\"; ArrayListServerAddress addr=new ArrayListServerAddress(); for (String s: (\",\")) (new ServerAddress(s)); Mongo mongo=new Mongo(addr);. Then, you...",
+            "date": "2010-11-02",
+            "author_name": "Bruno Michel",
+            "categories": "java",
+            "tags": "using,java,url,localhost",
+            "recuweb_url": "http://fr.recuweb.com/java/dev.af83.com/2010/11/mini-howto-using-the-replica-set-of-mongodb-in-java-af83",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjava&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dev.af83.com/2010/11/02/mini-howto-using-the-replica-set-of-mongodb-in-java.html"
         }
     }
 }
