@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -11,58 +11,49 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/blogs/blogs/blogs.json"
     },
     "items": {
+        "webmarketing-com.com/2015/05/blog-14-outils-pour-%C3%AAtre-plus-efficace": {
+            "title": "Blog: 14 outils pour \u00eatre plus efficace...",
+            "snippet": "Il est loin le temps o\u00f9 les seuls blogs qui fleurissaient sur internet faisaient office de journaux intimes \u00e9lectroniques o\u00f9 les adolescents y d\u00e9versaient leurs exp\u00e9riences, leurs sourires et leurs larmes. Le blogging est devenu en quelques...",
+            "date": "2015-05-04",
+            "categories": "electronique,internet",
+            "tags": "outils,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/webmarketing-com.com/2015/05/blog-14-outils-pour-%C3%AAtre-plus-efficace",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
+            "source_url": "http://webmarketing-com.com/2015/05/04/37395-blog-14-outils-pour-etre-plus-efficace"
+        },
+        "famili.fr/2015/05/blogs-de-parents-2015-maman-cl%C3%A9mentine-finaliste-d-avril": {
+            "title": "Blogs de parents 2015: Maman Cl\u00e9mentine, finaliste d'avril...",
+            "snippet": "En avril 2015, c'est le blog Maman Cl\u00e9mentine qui a su s\u00e9duire la r\u00e9daction de famili! Son blog color\u00e9 et plein de jouets a fait l'unanimit\u00e9 aupr\u00e8s du jury. Carole et ses puces Cl\u00e9mentine et Victoire remportent 200 euros de bijoux...",
+            "date": "2015-05-04",
+            "recuweb_url": "http://fr.recuweb.com/famili.fr/2015/05/blogs-de-parents-2015-maman-cl%C3%A9mentine-finaliste-d-avril",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
+            "source_url": "http://famili.fr/,blogs-de-parents-2015-maman-clementine-finaliste-d-avril,469146.asp"
+        },
         "huffingtonpost.fr/2015/05/onpc-avant-la-diffusion-de-leur-clash-fourest-et-caron": {
             "title": "ONPC: avant la diffusion de leur clash, Fourest et Caron s'\u00e9charpent par blogs interpos\u00e9s...",
             "snippet": "M\u00c9DIAS - Si dialogue de sourds il y a eu sur le plateau d'On n'est pas couch\u00e9 lors de l'enregistrement de l'\u00e9mission de ce samedi 2 mai, l'aper\u00e7u qui en est donn\u00e9 sur Internet par les deux protagonistes y ressemble fortement. Au d\u00e9part, il y a...",
             "date": "2015-05-02",
             "categories": "internet",
-            "tags": "deux,avant,internet",
+            "tags": "\u00e9mission,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/huffingtonpost.fr/2015/05/onpc-avant-la-diffusion-de-leur-clash-fourest-et-caron",
             "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
             "source_url": "http://huffingtonpost.fr/2015/05/02/onpc-caroline-fourest-aymeric-caron-clash-blogs_n_7195476.html"
-        },
-        "techniques-ingenieur.fr/2015/04/les-chercheurs-fran%C3%A7ais-n%C3%A9gligent-blogs-scientifiques": {
-            "title": "Les chercheurs fran\u00e7ais n\u00e9gligent les blogs scientifiques...",
-            "snippet": "Malgr\u00e9 lexplosion du blogging dans le monde, la communaut\u00e9 scientifique fran\u00e7aise ne sy int\u00e9resse que mod\u00e9r\u00e9ment, contrairement aux anglosaxons. Il existe plus de 200 millions de blogs dans le monde, et chaque mois 3 millions de nouveaux...",
-            "date": "2015-04-29",
-            "tags": "millions,millions-de-blogs,monde,existe,communaut\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/techniques-ingenieur.fr/2015/04/les-chercheurs-fran%C3%A7ais-n%C3%A9gligent-blogs-scientifiques",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
-            "source_url": "http://techniques-ingenieur.fr/actualite/etre-ingenieur-thematique_89431/les-chercheurs-francais-negligent-les-blogs-scientifiques-article_292814/"
         },
         "01net.com/2015/04/une-faille-dans-wordpress-rend-des-millions-de-blogs-vuln%C3%A9rables-01net": {
             "title": "Une faille dans WordPress rend des millions de blogs vuln\u00e9rables - 01net...",
             "snippet": "Une faille dans WordPress rend des millions de blogs vuln\u00e9rables01netUn chercheur en s\u00e9curit\u00e9 finnois, Jouko Pynn\u00f6nen, a mis la main sur une jolie faille de s\u00e9curit\u00e9 zero-day dans WordPress, l'un des outils de blog les plus utilis\u00e9 au monde...",
             "date": "2015-04-28",
             "categories": "wordpress",
-            "tags": "monde,millions,millions-de-blogs,wordpress",
+            "tags": "outils,monde,main,millions",
             "recuweb_url": "http://fr.recuweb.com/wordpress/01net.com/2015/04/une-faille-dans-wordpress-rend-des-millions-de-blogs-vuln%C3%A9rables-01net",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
             "source_url": "http://01net.com/editorial/653515/une-faille-dans-wordpress-rend-des-millions-de-blogs-vulnerables/"
-        },
-        "gamekult.com/2015/04/derniers-articles-de-blogs": {
-            "title": "Derniers articles de blogs...",
-            "snippet": "Bonsoir tout le monde, comme vous le savez peut-\u00eatre, les jeux vid\u00e9o sont une passion que j'ai depuis plus de 20 ans et j'avais ouvert ce blog GK pour vous faire partager mon avis sur l'actualit\u00e9 et les jeux sur lesquels je jouais. Attendant...",
-            "date": "2015-04-24",
-            "tags": "monde,\u00eatre",
-            "recuweb_url": "http://fr.recuweb.com/gamekult.com/2015/04/derniers-articles-de-blogs",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=blogs&format=RSS&cc=fr",
-            "source_url": "http://gamekult.com/blog/members/1219677-clorgen/"
-        },
-        "frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis": {
-            "title": "Les blogs de la semaine sont Tests & Cie et Vis ma vie de... - Frandroid...",
-            "snippet": "FrandroidLes blogs de la semaine sont Tests & Cie et Vis ma vie de...FrandroidDevant leur (r\u00e9-)activit\u00e9, nous souhaitons mettre en avant deux blogueurs parmi ceux qui comptent parmi les plus actifs et pertinents de la communaut\u00e9 FrAndroid. Cette...",
-            "date": "2015-04-21",
-            "tags": "avant,deux,blogueurs,communaut\u00e9",
-            "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
-            "source_url": "http://frandroid.com/humanoid/279199_les-blogs-de-la-semaine-sont-tests-cie-et-vis-ma-vie-de-developpeur"
         },
         "huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent-le-huffington": {
             "title": "Blogs qui rient, blogs qui pleurent! - Le Huffington Post...",
             "snippet": "Blogs qui rient, blogs qui pleurent!Le Huffington PostWEB - A l'aube de notre sixi\u00e8me saison, Les Golden Blog Awards vont cette ann\u00e9e encore c\u00e9l\u00e9brer les blogueurs, ces cr\u00e9ateurs digitaux, aussi divers que fondamentalement originaux: blog...",
             "date": "2015-04-16",
-            "tags": "blogueurs,saison,huffington,web",
+            "tags": "ann\u00e9e,huffington,web",
             "recuweb_url": "http://fr.recuweb.com/huffingtonpost.fr/2015/04/blogs-qui-rient-pleurent-le-huffington",
             "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/noel-cambessedes/golden-blogs-award_b_7077468.html"
@@ -72,9 +63,9 @@
             "snippet": "La menace terroriste et la fin des blogs persoLe Huffington PostINTERNET - Il y a un peu plus de 10 ans, les blogs ont envahit l'Internet. Des millions de sites Web personnels sont apparus spontan\u00e9ment partout dans le monde. Co-auteur avec Cyril...",
             "date": "2015-04-13",
             "categories": "internet",
-            "tags": "monde,millions,huffington,internet,web",
+            "tags": "monde,millions,huffington,fin,fin-des-blogs,internet,web",
             "recuweb_url": "http://fr.recuweb.com/internet/huffingtonpost.fr/2015/04/la-menace-terroriste-et-fin-des-blogs-perso-le-huffington",
-            "resource_url": "http://news.google.fr/?hl=fr&q=blogs%2Bblogs&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=blogs&output=atom&nord=1",
             "source_url": "http://huffingtonpost.fr/emily-turrettini/cyberterrorisme-blogs-perso_b_7049294.html"
         }
     }
