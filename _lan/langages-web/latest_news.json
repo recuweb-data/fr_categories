@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "langages-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/langages-web/",
@@ -11,25 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/langages-web/langages-web/blogs.json"
     },
     "items": {
+        "atlantico.fr/2015/05/lhistoire-de-la-musique-en-3-r%C3%A9volutions-majeures": {
+            "title": "Lhistoire de la musique en 3 r\u00e9volutions majeures...",
+            "snippet": "Ainsi une grande majorit\u00e9 du public ne suit plus depuis longtemps les multiples \u00e9volutions des langages des compositeurs... d'un flux unilat\u00e9ral impos\u00e9 par une radio (hertzienne ou web) et une maison de disque avec matraquage publicitaire est...",
+            "date": "2015-05-07",
+            "categories": "radio,musique,langage",
+            "tags": "langages,web",
+            "recuweb_url": "http://fr.recuweb.com/langage/atlantico.fr/2015/05/lhistoire-de-la-musique-en-3-r%C3%A9volutions-majeures",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Blangages%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://atlantico.fr/decryptage/histoire-musique-en-3-revolutions-majeures-olivier-carillo-2130886.html"
+        },
+        "emploi.silicon.fr/2015/05/chef-de-projet-webmarketing-h-f-cdd-paris": {
+            "title": "CHEF DE PROJET WEBMARKETING (H/F) - CDD - Paris...",
+            "snippet": "Directement rattach\u00e9(e) au Directeur Marketing, vous \u00eates en charge de promouvoir et de d\u00e9velopper limage et la marque de la soci\u00e9t\u00e9 sur le web. A ce titre... de connaissances des principaux langages HTML/CSS, PHP et Javascript et vous avez...",
+            "date": "2015-05-06",
+            "categories": "connaissance,marketing,langage,css,php,javascript",
+            "tags": "soci\u00e9t\u00e9,web,langages,html,css,php,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/emploi.silicon.fr/2015/05/chef-de-projet-webmarketing-h-f-cdd-paris",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Blangages%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/453938/chef-de-projet-webmarketing-hf/"
+        },
+        "emploi.presse-citron.net/2015/05/d%C3%A9veloppeur-web-php-la-mission-s-effectue-en-fran%C3%A7ais": {
+            "title": "D\u00e9veloppeur Web - PHP (la mission s'effectue en fran\u00e7ais)...",
+            "snippet": "Declicmedia est la soci\u00e9t\u00e9 qui \u00e9dite le service web et mobile. Leader en France, Popcarte est un service de... Comp\u00e9tences techniques souhait\u00e9es: Langages: PHP5, Javascript/Ajax/JQuery, HTML5, CSS3 Base de donn\u00e9es: langage...",
+            "date": "2015-05-06",
+            "categories": "php,langage,javascript,jquery,css",
+            "tags": "techniques,mobile,soci\u00e9t\u00e9,web,php,langages,langage,javascript,html,css",
+            "recuweb_url": "http://fr.recuweb.com/css/emploi.presse-citron.net/2015/05/d%C3%A9veloppeur-web-php-la-mission-s-effectue-en-fran%C3%A7ais",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Blangages%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Web+-+PHP+(la+mission+s'effectue+en+fran\u00e7ais)/30268"
+        },
+        "trendsperiodical.fr/2015/05/web-design-point-sur-les-tendances-2015": {
+            "title": "Web Design: point sur les tendances 2015...",
+            "snippet": "Le One Page pour une navigation simple et ergonomique! Larriv\u00e9e du HTML 5 et du CSS3 comme nouveaux langages web a permis plus de libert\u00e9s dans la cr\u00e9ation des sites internet. De plus, nos habitudes de navigation ont chang\u00e9 avec les r\u00e9seaux...",
+            "date": "2015-05-06",
+            "categories": "navigation,internet,css,langage",
+            "tags": "sites,internet,page,web,html,css,langages",
+            "recuweb_url": "http://fr.recuweb.com/langage/trendsperiodical.fr/2015/05/web-design-point-sur-les-tendances-2015",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Blangages%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://trendsperiodical.fr/web-design-point-sur-les-tendances-2015-27940/"
+        },
         "pix-geeks.com/2015/05/5-phrases-pour-impressionner-lors-d-un-entretien-embauche-en-pix": {
             "title": "5 phrases pour impressionner lors d'un entretien d'embauche en... - PIX GEEKS...",
             "snippet": "PIX GEEKS5 phrases pour impressionner lors d'un entretien d'embauche en...PIX GEEKS5 phrases pour impressionner lors d'un entretien dembauche en startup. Dans une startup web, il est n\u00e9cessaire de comprendre les diff\u00e9rents langages techniques et...",
             "date": "2015-05-01",
             "categories": "langage",
-            "tags": "diff\u00e9rents,web,comprendre,langages",
+            "tags": "techniques,diff\u00e9rents,web,comprendre,langages",
             "recuweb_url": "http://fr.recuweb.com/langage/pix-geeks.com/2015/05/5-phrases-pour-impressionner-lors-d-un-entretien-embauche-en-pix",
             "resource_url": "http://news.google.fr/?hl=fr&q=langages%2Bweb&output=atom&nord=1",
             "source_url": "http://pix-geeks.com/entretien-embauche-startup/"
-        },
-        "mac4ever.com/2015/04/microsoft-pr%C3%A9sente-visual-studio-code-pour-mac": {
-            "title": "Microsoft pr\u00e9sente Visual Studio Code pour Mac!",
-            "snippet": "On peut donc d\u00e9velopper en 5/C, avec TypeScript et JavaScript ainsi que les langages web classiques que sont HTML, CSS, LESS, SASS, et JSON. iMac Retina 10/2014 2599 L'iMac Retina est sorti le 16 octobre, et cette machine ne devrait...",
-            "date": "2015-04-29",
-            "categories": "imac,javascript,langage,css",
-            "tags": "langages,web,html,css",
-            "recuweb_url": "http://fr.recuweb.com/css/mac4ever.com/2015/04/microsoft-pr%C3%A9sente-visual-studio-code-pour-mac",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=langages%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://mac4ever.com/actu/100590_microsoft-presente-visual-studio-code-pour-mac"
         }
     }
 }
