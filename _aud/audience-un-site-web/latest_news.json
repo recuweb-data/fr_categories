@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "audience-un-site-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/audience-un-site-web/",
@@ -11,31 +11,90 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-un-site-web/audience-un-site-web/blogs.json"
     },
     "items": {
+        "atlasinfo.fr/2015/05/france-huit-ans-de-prison-pour-un-cyberjihadiste-tunisien": {
+            "title": "France: huit ans de prison pour un cyberjihadiste tunisien...",
+            "snippet": "d'un autre site web jihadiste. Choumoukh al-islam (fiert\u00e9 de l'islam) avait re\u00e7u l'agr\u00e9ment d'Al-Fajr, la branche m\u00e9diatique d'Al-Qa\u00efda, et \u00e9tait un forum jihadiste, islamiste, qui d\u00e9fend les valeurs de l'islam, selon les mots de M. Amdouni.",
+            "date": "2015-05-07",
+            "categories": "islam",
+            "tags": "selon,france,site,web",
+            "recuweb_url": "http://fr.recuweb.com/islam/atlasinfo.fr/2015/05/france-huit-ans-de-prison-pour-un-cyberjihadiste-tunisien",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bun%2Bsite%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://atlasinfo.fr/France-huit-ans-de-prison-pour-un-cyberjihadiste-tunisien_a61913.html"
+        },
+        "latribune.fr/2015/05/radio-france-mouv-a-18-mois-pour-trouver-son-public": {
+            "title": "Radio France: Mouv'a 18 mois pour trouver son public... ou devenir une webradio...",
+            "snippet": "Cr\u00e9\u00e9e en 1997, la radio musicale destin\u00e9e aux jeunes n'a jamais trouv\u00e9 son public et affiche moins de 0,5% de part d'audience... 2015 un budget en d\u00e9ficit de 21,3 millions d'euros. Le PDG a r\u00e9affirm\u00e9 que pour redresser ses comptes, Radio...",
+            "date": "2015-05-07",
+            "categories": "radio",
+            "tags": "redresser,redresser-ses-comptes,comptes,budget,d\u00e9ficit,part,trouv\u00e9,public,affiche,moins,radio,destin\u00e9e,webradio,mois,radio_france,france,mouv,audience,millions",
+            "recuweb_url": "http://fr.recuweb.com/radio/latribune.fr/2015/05/radio-france-mouv-a-18-mois-pour-trouver-son-public",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bun%2Bsite%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://latribune.fr/technos-medias/medias/radio-france-mouv-a-18-mois-pour-trouver-son-public-ou-devenir-une-webradio-474824.html"
+        },
+        "lexpress.fr/2015/05/radio-france-mouv-bient%C3%B4t-une-webradio": {
+            "title": "Radio France: Mouv'bient\u00f4t une webradio?",
+            "snippet": "A l'heure actuelle, la station affiche m\u00eame moins de 0,5% de part d'audience. Un fardeau financier pour Radio France, qui accuse un d\u00e9ficit de 21,3 millions dans son budget 2015. D'ailleurs, pour redresser ses comptes, le groupe du service public...",
+            "date": "2015-05-07",
+            "categories": "radio",
+            "tags": "public,redresser,redresser-ses-comptes,comptes,budget,d\u00e9ficit,part,affiche,moins,webradio,radio,radio_france,france,mouv,audience,millions",
+            "recuweb_url": "http://fr.recuweb.com/radio/lexpress.fr/2015/05/radio-france-mouv-bient%C3%B4t-une-webradio",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bun%2Bsite%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://lexpress.fr/actualite/medias/radio-france-mouv-bientot-une-webradio_1678255.html"
+        },
+        "zebulon.fr/2015/05/pr%C3%A8s-de-la-moiti%C3%A9-des-internautes-consultent-sites-sport": {
+            "title": "Pr\u00e8s de la moiti\u00e9 des internautes consultent des sites de sport...",
+            "snippet": "20,1 millions d'internautes fran\u00e7ais ont consult\u00e9 au moins un site de sport en mars 2015, selon les derni\u00e8res donn\u00e9es de l'audience de l'Internet en France de M\u00e9diam\u00e9trie... leur vie priv\u00e9e sur le Web Il existe un d\u00e9calage entre...",
+            "date": "2015-05-04",
+            "categories": "sport,internet",
+            "tags": "audience,selon,donn\u00e9es,internautes,consult\u00e9,moins,sites,site,millions,internet,france,m\u00e9diam\u00e9trie,web",
+            "recuweb_url": "http://fr.recuweb.com/internet/zebulon.fr/2015/05/pr%C3%A8s-de-la-moiti%C3%A9-des-internautes-consultent-sites-sport",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bun%2Bsite%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://zebulon.fr/actualites/14178-pres-de-la-moitie-des-internautes-consultent-des-sites-de-sport.html"
+        },
+        "frenchweb.fr/2015/04/l-audience-de-la-presse-am%C3%A9ricaine-plus-en-mobile-first": {
+            "title": "L'audience de la presse am\u00e9ricaine de plus en plus mobile-first -...",
+            "snippet": "'audience de la presse am\u00e9ricaine de plus en plus le d\u00e9but de l'ann\u00e9e 2015, sur les 50 premiers sites d'information am\u00e9ricains, 39 ont cristallis\u00e9 davantage d'audience provenant du mobile que d'ordinateur. Et sur les 25 premiers sites, 19 ont...",
+            "date": "2015-04-30",
+            "categories": "ordinateur",
+            "tags": "sites,audience,presse",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/frenchweb.fr/2015/04/l-audience-de-la-presse-am%C3%A9ricaine-plus-en-mobile-first",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
+            "source_url": "http://frenchweb.fr/laudience-de-la-presse-americaine-de-plus-en-plus-mobile-first/192861"
+        },
         "tdg.ch/2015/04/la-tribune-de-gen%C3%A8ve-a-gagn%C3%A9-5000-lecteurs": {
             "title": "La Tribune de Gen\u00e8ve a gagn\u00e9 5000 lecteurs - Tribune de Gen\u00e8ve...",
-            "snippet": "Tribune de Gen\u00e8veLa Tribune de Gen\u00e8ve a gagn\u00e9 5000 lecteursTribune de Gen\u00e8veM\u00e9diasLes audiences des journaux sur papier et sur le Web sont publi\u00e9es ce mardi. La Tribune de Gen\u00e8ve compte... Total audience additionne les \u00e9tudes Mach Basic...",
+            "snippet": "Tribune de Gen\u00e8veLa Tribune de Gen\u00e8ve a gagn\u00e9 5000 lecteursTribune de Gen\u00e8veLa Tribune de Gen\u00e8ve compte 119 000 lecteurs sur papier (5000) et 58 000 pour son site Web.... Ces donn\u00e9es sont tir\u00e9es de l'\u00e9tude Total audience, d\u00e9voil\u00e9e...",
             "date": "2015-04-28",
-            "tags": "audience,web",
+            "tags": "donn\u00e9es,site,web,audience",
             "recuweb_url": "http://fr.recuweb.com/tdg.ch/2015/04/la-tribune-de-gen%C3%A8ve-a-gagn%C3%A9-5000-lecteurs",
-            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
             "source_url": "http://tdg.ch/economie/tribune-geneve-gagne-5000-lecteurs/story/26689576"
+        },
+        "courrier-picard.fr/2015/04/sondage-le-courrier-picard-meilleure-progression-de-la-presse": {
+            "title": "SONDAGE Le Courrier picard meilleure progression de la presse en... - Courrier Picard...",
+            "snippet": "SONDAGE Le Courrier picard meilleure progression de la presse en...Courrier PicardEnfin, dans une \u00e9poque d\u00e9sormais multim\u00e9dias, la marque Courrier picard (journal site web applications mobiles surt tablettes et smartphones) conna\u00eet aussi une...",
+            "date": "2015-04-09",
+            "tags": "progression,presse,site,web",
+            "recuweb_url": "http://fr.recuweb.com/courrier-picard.fr/2015/04/sondage-le-courrier-picard-meilleure-progression-de-la-presse",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
+            "source_url": "http://courrier-picard.fr/region/sondage-le-courrier-picard-meilleure-progression-de-la-ia201b0n549497"
         },
         "20minutes.fr/2015/04/allocin%C3%A9-l-audience-progresse-de-10-6%-en-f%C3%A9vrier": {
             "title": "AlloCin\u00e9: L'audience progresse de 10,6% en f\u00e9vrier sur le Web -...",
             "snippet": "\u00e9: L'audience progresse de 10,6% en f\u00e9vrier sur le site d'actualit\u00e9 cin\u00e9matographique s'est notamment hiss\u00e9 dans le top 20 du classement, et a surtout \u00e9t\u00e9 le site ayant connu la plus forte progression par rapport au mois de janvier: 10,6%...",
             "date": "2015-04-07",
-            "tags": "mois,f\u00e9vrier,audience,web,site",
+            "tags": "progression,mois,f\u00e9vrier,audience,web,site",
             "recuweb_url": "http://fr.recuweb.com/20minutes.fr/2015/04/allocin%C3%A9-l-audience-progresse-de-10-6%-en-f%C3%A9vrier",
-            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
             "source_url": "http://20minutes.fr/economie/1580531-20150407-allocine-audience-progresse-106-fevrier-web"
         },
         "cbanque.com/2015/04/audience-des-banques-sur-le-web-cr%C3%A9dit-agricole-en-t%C3%AAte-devant": {
             "title": "Audience des banques sur le web: le Cr\u00e9dit Agricole en t\u00eate devant... -...",
             "snippet": "des banques sur le web: le Cr\u00e9dit Agricole en t\u00eate devant... internaute sur deux a consult\u00e9 un site bancaire au cours du mois de f\u00e9vrier 2015, en France, selon M\u00e9diam\u00e9trie, soit 23,6 millions d'internautes. Quelle banque draine le plus de...",
             "date": "2015-04-07",
-            "tags": "mois,f\u00e9vrier,audience,web,site,france",
+            "tags": "mois,f\u00e9vrier,internautes,consult\u00e9,audience,web,site,france,selon,m\u00e9diam\u00e9trie,millions",
             "recuweb_url": "http://fr.recuweb.com/cbanque.com/2015/04/audience-des-banques-sur-le-web-cr%C3%A9dit-agricole-en-t%C3%AAte-devant",
-            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bun%2Bsite%2Bweb&output=atom&nord=1",
             "source_url": "http://cbanque.com/actu/51478/audience-des-banques-sur-le-web-le-credit-agricole-en-tete-devant-la-banque-postale"
         }
     }
