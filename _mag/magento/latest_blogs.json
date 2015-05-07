@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magento",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/magento/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magento/magento/blogs.json"
     },
     "items": {
-        "magentocommerce.com/2015/04/deprecated-afsstore-on-site-searchandising-magento": {
-            "title": "DEPRECATED AFSStore on-site searchandising - Magento...",
-            "snippet": "This extension is currently unavailable on Magento Connect. Please contact the developer. Install Now. This will install the latest version. You will be re-directed to the developer's website to complete your purchase. You must...",
-            "date": "2015-04-29",
-            "author_name": "inconnu",
-            "categories": "magento",
-            "tags": "latest,extension,site,magento",
-            "recuweb_url": "http://fr.recuweb.com/magento/magentocommerce.com/2015/04/deprecated-afsstore-on-site-searchandising-magento",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://magentocommerce.com/magento-connect/deprecated-afsatstore-on-site-searchandising.html"
-        },
         "smile.fr/2015/04/smile-magento-imagine-2015-france": {
             "title": "Smile - Magento Imagine 2015 - France...",
             "snippet": "Smile y a remport\u00e9 quatre fois cons\u00e9cutives l'Award Magento du \" Europe Partner of the Year \". Une r\u00e9compense venant distinguer nos nombreuses r\u00e9alisations e-commerce et qui salue notre engagement pour la solution...",
@@ -30,7 +19,7 @@
             "categories": "magento",
             "tags": "magento,commerce,solution",
             "recuweb_url": "http://fr.recuweb.com/magento/smile.fr/2015/04/smile-magento-imagine-2015-france",
-            "resource_url": "http://www.google.com/search?q=magento%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=magento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://smile.fr/Actualites/Nos-actualites/Magento-imagine-2015"
         },
         "ciblewebformations.wordpress.com/2015/02/magento-2-que-va-t-il-changer-jdn-web-&-tech": {
@@ -41,7 +30,7 @@
             "categories": "magento",
             "tags": "web,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/ciblewebformations.wordpress.com/2015/02/magento-2-que-va-t-il-changer-jdn-web-&-tech",
-            "resource_url": "http://fr.search.wordpress.com/?q=magento%2Bmagento&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=magento&f=feed&page=1",
             "source_url": "http://ciblewebformations.wordpress.com/2015/02/26/magento-2-que-va-t-il-changer-jdn-web-tech-httpift-tt1ljkwdl-magent/"
         },
         "flossiebarnard.wordpress.com/2014/07/pourquoi-magento-est-l-avenir-du-commerce-%C3%A9lectronique": {
@@ -52,7 +41,7 @@
             "categories": "magento,electronique",
             "tags": "peut,pourquoi,magento,commerce,site,web",
             "recuweb_url": "http://fr.recuweb.com/electronique/flossiebarnard.wordpress.com/2014/07/pourquoi-magento-est-l-avenir-du-commerce-%C3%A9lectronique",
-            "resource_url": "http://fr.search.wordpress.com/?q=magento%2Bmagento&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=magento&f=feed&page=1",
             "source_url": "http://flossiebarnard.wordpress.com/2014/07/12/pourquoi-magento-est-lavenir-du-commerce-electronique/"
         },
         "tiaratwgi.wordpress.com/2014/06/services-de-d%C3%A9veloppement-magento-meilleures-et-rentable-tornade-sociale": {
@@ -61,10 +50,65 @@
             "date": "2014-06-12",
             "author_name": "tiaratwgi",
             "categories": "magento",
-            "tags": "meilleures,magento",
+            "tags": "services,meilleures,magento",
             "recuweb_url": "http://fr.recuweb.com/magento/tiaratwgi.wordpress.com/2014/06/services-de-d%C3%A9veloppement-magento-meilleures-et-rentable-tornade-sociale",
-            "resource_url": "http://fr.search.wordpress.com/?q=magento%2Bmagento&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=magento&f=feed&page=1",
             "source_url": "http://tiaratwgi.wordpress.com/2014/06/12/gay/"
+        },
+        "nosy-mena.com/2012/04/passage-de-param%C3%A8tres-entre-contr%C3%B4leur-et-block-nosy-mena": {
+            "title": "Passage de param\u00e8tres entre Contr\u00f4leur et Block - Nosy Mena...",
+            "snippet": "localhost/magento/helloworld/index/index/message/message transmis en parametre. Nous allons voir dans cet article qu'il existe diff\u00e9rentes mani\u00e8res de communiquer des donn\u00e9es d'un Contr\u00f4leur vers un...",
+            "date": "2012-04-18",
+            "author_name": "administrateur",
+            "categories": "magento",
+            "tags": "existe,communiquer,localhost,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/nosy-mena.com/2012/04/passage-de-param%C3%A8tres-entre-contr%C3%B4leur-et-block-nosy-mena",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://nosy-mena.com/blog/passage-de-parametres-entre-controleur-block/"
+        },
+        "ph2m.com/2012/01/installer-et-configurer-store-manager-for-magento-ph2m-agence": {
+            "title": "Installer et configurer Store Manager for Magento PH2M - Agence...",
+            "snippet": "Installation et configuration du Store Manager for Magento pour \u00e9diter sa boutique plus rapidement et plus efficacement.... Magento Configurer Store Manager for Magento (et Prestashop) sur un serveur d\u00e9di\u00e9. Post\u00e9 le 13 jan 2012 0 commentaire.",
+            "date": "2012-01-13",
+            "author_name": "Vincent MARMIESSE",
+            "categories": "magento",
+            "tags": "serveur,installer,magento,agence,installation,prestashop",
+            "recuweb_url": "http://fr.recuweb.com/magento/ph2m.com/2012/01/installer-et-configurer-store-manager-for-magento-ph2m-agence",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ph2m.com/magento-configurer-store-manager-for-magento-et-prestashop-sur-un-serveur-dedie/"
+        },
+        "blog.octo.com/2011/04/comment-faire-communiquer-openerp-et-magento-octo-talks": {
+            "title": "Comment faire communiquer OpenERP et Magento OCTO talks!",
+            "snippet": "Location: adresse URL de Magento (exemple localhost/magento); Cliquer sur Reload Referential Mapping Templates; Dans l'onglet Authentication, saisir les User Name et Password de l'utilisateur des Web Services...",
+            "date": "2011-04-19",
+            "author_name": "Ahmed Mseddi",
+            "categories": "magento",
+            "tags": "web,services,localhost,magento,communiquer,url",
+            "recuweb_url": "http://fr.recuweb.com/magento/blog.octo.com/2011/04/comment-faire-communiquer-openerp-et-magento-octo-talks",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.octo.com/comment-faire-communiquer-openerp-et-magento/"
+        },
+        "groups.gandi.net/2009/05/installation-magento-gandi-ai-groups": {
+            "title": "Installation Magento - Gandi AI - Groups...",
+            "snippet": "Bonjour, je souhaite intaller magento mais lorsque je dois remplir le champs \"nom du serveur de base de donn\u00e9e\" je ne sais pas quoi mettre. Merci de m'aiguiller sur la marche a suivre. Ou est situ\u00e9... Le 07-05-2009, C\u00e9line Crespy a \u00e9crit:...",
+            "date": "2009-05-07",
+            "author_name": "C\u00e9line Crespy",
+            "categories": "magento",
+            "tags": "serveur,mettre,installation,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/groups.gandi.net/2009/05/installation-magento-gandi-ai-groups",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://groups.gandi.net/fr/topic/gandi.fr.hebergement.autoinstall/20753"
+        },
+        "blog.creaone.fr/2008/09/url-dans-magento": {
+            "title": "Url dans Magento -...",
+            "snippet": "Pour obtenir une url correcte dans Magento, il existe this-getUrl('') renvoyant g\u00e9n\u00e9ralement localhost/NomProjet/. Je dis g\u00e9n\u00e9ralement car si vous n'avez pas activ\u00e9 dans l'admin l'\u00e9criture d'url et plac\u00e9 le.htaccess...",
+            "date": "2008-09-26",
+            "author_name": "Samuel MARTIN",
+            "categories": "place,magento",
+            "tags": "url,localhost,existe,magento",
+            "recuweb_url": "http://fr.recuweb.com/magento/blog.creaone.fr/2008/09/url-dans-magento",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmagento&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.creaone.fr/post/2008/09/26/Url-dans-Magento"
         }
     }
 }
