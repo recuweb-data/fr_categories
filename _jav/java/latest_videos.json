@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "java",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/java/",
@@ -11,41 +11,17 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/java/java/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/05/renaissance-tv2-apprenez-le-java-replay": {
-            "title": "Renaissance TV2 - Apprenez le JAVA (REPLAY)...",
-            "snippet": "Aujourd'hui on commence a apprendre le JAVA dans la joie et la bonne humeurAuthor: Renaissance-TVTags: renaissance-TV1 Wow raid guilde brf black hand Java programation JAVA Posted: 01 May 2015Rating:: 0...",
-            "date": "2015-05-01",
-            "author_name": "Renaissance-TV",
-            "categories": "java",
-            "tags": "apprendre,java",
-            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/05/renaissance-tv2-apprenez-le-java-replay",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java+java/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2ook9c_renaissance-tv2-apprenez-le-java-replay_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ook9c_renaissance-tv2-apprenez-le-java-replay_videogames"
-        },
-        "dailymotion.com/2015/04/introduction-to-java-programming-learn-1": {
-            "title": "Introduction to Java Programming - Learn Java 1...",
-            "snippet": "SUBSCRIBE!: Java is an upcoming tutorial series where DevFactor will be comprehensively covering the entire language and its nuances. Each video will be broken into short 5 minute or less segments, making it optimal for anyone looking to learn Java...",
-            "date": "2015-04-07",
-            "author_name": "spreadthelovexoxoxo",
-            "categories": "java",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/04/introduction-to-java-programming-learn-1",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java+java/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2lykc3_introduction-to-java-programming-learn-java-1_fun",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2lykc3_introduction-to-java-programming-learn-java-1_fun"
-        },
-        "dailymotion.com/2015/02/karaoke-claude-nougaro-le-jazz-et-la-java": {
-            "title": "KARAOKE CLAUDE NOUGARO - Le jazz et la java...",
-            "snippet": "CLAUDE NOUGARO \"Le jazz et la java\" [Version KARAOK\u00c9]Author: KaRaoKeWoRLDTags: Karaoke Karaok\u00e9 Claude Nougaro Le Jazz et la Java Musique instrumentale lyrics toulouse Posted: 27 February 2015Rating:: 0...",
-            "date": "2015-02-27",
-            "author_name": "KaRaoKeWoRLD",
-            "categories": "java,musique",
-            "tags": "java",
-            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2015/02/karaoke-claude-nougaro-le-jazz-et-la-java",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2i8c4w_karaoke-claude-nougaro-le-jazz-et-la-java_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2i8c4w_karaoke-claude-nougaro-le-jazz-et-la-java_music"
+        "dailymotion.com/2015/03/java-heat-film-complet-en-fran%C3%A7ais": {
+            "title": "Java Heat Film Complet en Fran\u00e7ais...",
+            "snippet": "Author: peoplenowTags: Java Heat Film daction Cin\u00e9ma Science-fiction Terreur film dhorreur Posted: 10 March 2015Rating:: 0...",
+            "date": "2015-03-10",
+            "author_name": "peoplenow",
+            "categories": "science,java",
+            "tags": "java,people,tags",
+            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/03/java-heat-film-complet-en-fran%C3%A7ais",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+java/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2j5nj0_java-heat-film-complet-en-francais_shortfilms",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2j5nj0_java-heat-film-complet-en-francais_shortfilms"
         },
         "dailymotion.com/2015/02/la-java-de-broadway-michel-sardou": {
             "title": "La java de broadway Michel Sardou...",
@@ -53,9 +29,9 @@
             "date": "2015-02-16",
             "author_name": "daniel-jean-13210",
             "categories": "java",
-            "tags": "java,michel,michel_sardou,sardou,broadway",
+            "tags": "java,michel,michel_sardou,sardou,broadway,jean,tags",
             "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/02/la-java-de-broadway-michel-sardou",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+java/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hantq_la-java-de-broadway-michel-sardou_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hantq_la-java-de-broadway-michel-sardou_music"
         },
@@ -65,23 +41,11 @@
             "date": "2015-01-30",
             "author_name": "vsn",
             "categories": "java",
-            "tags": "michel,michel_sardou,sardou,java,broadway",
+            "tags": "michel,michel_sardou,sardou,sardou_la_java,java,broadway",
             "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2015/01/michel-sardou-et-patrick-bruel-la-java-de-broadway-duo",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fzwj2_michel-sardou-et-patrick-bruel-la-java-de-broadway-duo_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2fzwj2_michel-sardou-et-patrick-bruel-la-java-de-broadway-duo_music"
-        },
-        "youtube.com/2015/01/mohamed-youssfi-td-poo-java-gestion-des-appels": {
-            "title": "Mohamed Youssfi TD POO Java Gestion des appels...",
-            "snippet": "Mohamed Youssfi TD POO Java Gestion des appels Pour ceux qui ne ma\u00eetrisent pas encore le conception et la programmation orient\u00e9e objet Java (Objet, Classes, H\u00e9ritage, Encapsulation, Polymorphisme, Collections, Exceptions), voir un exemple...",
-            "date": "2015-01-19",
-            "author_name": "mohamedYoussfi",
-            "categories": "java,collection",
-            "tags": "java,gestion",
-            "recuweb_url": "http://fr.recuweb.com/collection/youtube.com/2015/01/mohamed-youssfi-td-poo-java-gestion-des-appels",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=0wJXXHDecr0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/0wJXXHDecr0/0.jpg"
         },
         "dailymotion.com/2015/01/la-java-du-diable": {
             "title": "La Java Du Diable...",
@@ -97,13 +61,13 @@
         },
         "youtube.com/2015/01/partie-2-projet-fin-d-%C3%A9tude-application-de-gestion-stock-java": {
             "title": "partie 2 projet fin d'\u00e9tude application de gestion stock JAVA MYSQL...",
-            "snippet": "partie 2 projet fin d'\u00e9tude application de gestion stock JAVA MYSQL faire j aime ou abonneeeeeeer voici le projet dans ce lien: ou pour le wampserver pour le netbeans From: apprendre (java,php,html,css..) par tutorials Views: 5528 25 ratings Time:...",
+            "snippet": "partie 2 projet fin d'\u00e9tude application de gestion stock JAVA MYSQL faire j aime ou abonneeeeeeer voici le projet dans ce lien: ou pour le wampserver pour le netbeans From: apprendre (java,php,html,css..) par tutorials Views: 6561 25 ratings Time:...",
             "date": "2015-01-16",
             "author_name": "apprendre (java,php,html,css..) par tutorials",
             "categories": "java,mysql,php,css",
             "tags": "tutorials,wampserver,aime,aime-ou-abonneeeeeeer,abonneeeeeeer,abonneeeeeeer-voici,voici,voici-le-projet,projet,lien,java,java_mysql,mysql,\u00e9tude,\u00e9tude-application,application,application-de-gestion,gestion,gestion-stock,stock,projet-fin,fin,apprendre,php,html,css",
             "recuweb_url": "http://fr.recuweb.com/css/youtube.com/2015/01/partie-2-projet-fin-d-%C3%A9tude-application-de-gestion-stock-java",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=5jSCzAwZY5g&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/5jSCzAwZY5g/0.jpg"
         },
@@ -113,7 +77,7 @@
             "date": "2015-01-08",
             "author_name": "Toi Moi",
             "categories": "java",
-            "tags": "java,java_du_diable,diable,cabu",
+            "tags": "java,java_du_diable,diable,cabu,people",
             "recuweb_url": "http://fr.recuweb.com/java/youtube.com/2015/01/cabu-&-mano-solo-la-java-du-diable",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=sYFJX36iO3I&feature=youtube_gdata",
@@ -121,15 +85,51 @@
         },
         "youtube.com/2015/01/partie-1-projet-fin-d-%C3%A9tude-application-de-gestion-stock-java": {
             "title": "partie 1 projet fin d'\u00e9tude application de gestion stock JAVA MYSQL...",
-            "snippet": "partie 1 projet fin d'\u00e9tude application de gestion stock JAVA MYSQL la deuxi\u00e8me partie: faire j aime ou abonneeeeeeer voici le projet dans ce lien: ou pour le wampserver... From: apprendre (java,php,html,css..) par tutorials Views: 12871 27...",
+            "snippet": "partie 1 projet fin d'\u00e9tude application de gestion stock JAVA MYSQL la deuxi\u00e8me partie: faire j aime ou abonneeeeeeer voici le projet dans ce lien: ou pour le wampserver... From: apprendre (java,php,html,css..) par tutorials Views: 14192 28...",
             "date": "2015-01-04",
             "author_name": "apprendre (java,php,html,css..) par tutorials",
             "categories": "java,mysql,php,css",
             "tags": "tutorials,wampserver,aime,aime-ou-abonneeeeeeer,abonneeeeeeer,abonneeeeeeer-voici,voici,voici-le-projet,projet,lien,java,java_mysql,mysql,\u00e9tude,\u00e9tude-application,application,application-de-gestion,gestion,gestion-stock,stock,projet-fin,fin,apprendre,php,html,css",
             "recuweb_url": "http://fr.recuweb.com/css/youtube.com/2015/01/partie-1-projet-fin-d-%C3%A9tude-application-de-gestion-stock-java",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java%2Bjava&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=XFK1fLxVgxU&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/XFK1fLxVgxU/0.jpg"
+        },
+        "youtube.com/2014/11/java-interm%C3%A9diaire-8-le-constructeur": {
+            "title": "JAVA (Interm\u00e9diaire) - 8 - Le constructeur...",
+            "snippet": "JAVA (Interm\u00e9diaire) - 8 - Le constructeur Qu'est-ce qu'un constructeur? La r\u00e9ponse dans cette vid\u00e9o... From: LES TEACHERS DU NET Views: 2065 21 ratings Time: 14:47 More in Education...",
+            "date": "2014-11-23",
+            "author_name": "LES TEACHERS DU NET",
+            "categories": "java",
+            "tags": "java",
+            "recuweb_url": "http://fr.recuweb.com/java/youtube.com/2014/11/java-interm%C3%A9diaire-8-le-constructeur",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=java&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=cGpJ0o9z5GQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/cGpJ0o9z5GQ/0.jpg"
+        },
+        "dailymotion.com/2014/04/michel-sardou-la-java-de-broadway-live-officiel-archive-ina": {
+            "title": "Michel Sardou La Java de Broadway (live officiel) - Archive INA...",
+            "snippet": "Michel Sardou chante \" La java de Broadway \"Author: inaTags: Archive Michel Sardou Institut national de laudiovisuel La Java de Broadway Interpr\u00e9tation Vari\u00e9t\u00e9s Posted: 24 April 2014Rating:: 0...",
+            "date": "2014-04-24",
+            "author_name": "ina",
+            "categories": "java",
+            "tags": "interpr\u00e9tation,vari\u00e9t\u00e9s,java,chante,michel,michel_sardou,sardou,sardou_la_java,broadway,inatags",
+            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2014/04/michel-sardou-la-java-de-broadway-live-officiel-archive-ina",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+java/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1qwpoq_michel-sardou-la-java-de-broadway-live-officiel-archive-ina_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1qwpoq_michel-sardou-la-java-de-broadway-live-officiel-archive-ina_music"
+        },
+        "dailymotion.com/2014/04/serge-reggiani-la-java-des-bombes-atomiques": {
+            "title": "Serge Reggiani La java des bombes atomiques...",
+            "snippet": "Devant le public de l'\u00e9mission, Serge REGGIANI chante en direct La java des bombes atomiques accompagn\u00e9 par l'orchestre de Jean: inaTags: Interpr\u00e9tation Vari\u00e9t\u00e9s Posted: 24 April 2014Rating:: 0...",
+            "date": "2014-04-24",
+            "author_name": "ina",
+            "categories": "java",
+            "tags": "interpr\u00e9tation,vari\u00e9t\u00e9s,java,chante,jean,inatags",
+            "recuweb_url": "http://fr.recuweb.com/java/dailymotion.com/2014/04/serge-reggiani-la-java-des-bombes-atomiques",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/java/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1qwr6t_serge-reggiani-la-java-des-bombes-atomiques_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1qwr6t_serge-reggiani-la-java-des-bombes-atomiques_music"
         }
     }
 }
