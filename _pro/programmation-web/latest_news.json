@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "programmation-web",
         "language": "fr",
-        "updated": "20150427"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/programmation-web/",
@@ -11,25 +11,42 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/programmation-web/programmation-web/blogs.json"
     },
     "items": {
-        "ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation-radio": {
-            "title": "Un salon du livre 2.0: d\u00e9voilement de la programmation - Radio-Canada...",
-            "snippet": "Radio-CanadaUn salon du livre 2.0: d\u00e9voilement de la programmationRadio-CanadaObjectif de 5000 selfies, conf\u00e9rences-web, SLATCaching, cr\u00e9ation d'un livre num\u00e9rique... le comit\u00e9 du 39e Salon du livre de l'Abitibi-T\u00e9miscamingue ne manque pas...",
-            "date": "2015-04-23",
-            "categories": "radio",
-            "tags": "cr\u00e9ation,programmation,web",
-            "recuweb_url": "http://fr.recuweb.com/radio/ici.radio-canada.ca/2015/04/un-salon-du-livre-2-0-d%C3%A9voilement-de-la-programmation-radio",
-            "resource_url": "http://news.google.fr/?hl=fr&q=programmation%2Bweb%2Bprogrammation%2Bweb&output=atom&nord=1",
-            "source_url": "http://ici.radio-canada.ca/regions/abitibi/2015/04/23/005-salon-du-livre-abitibi-temiscamingue-programmation.shtml"
+        "emploi.presse-citron.net/2015/05/d%C3%A9veloppeur-web-php-la-mission-s-effectue-en-fran%C3%A7ais": {
+            "title": "D\u00e9veloppeur Web - PHP (la mission s'effectue en fran\u00e7ais)...",
+            "snippet": "Declicmedia est la soci\u00e9t\u00e9 qui \u00e9dite le service web et mobile. Leader en France, Popcarte est un service de... Vous ma\u00eetrisez la programmation orient\u00e9e objet. Comp\u00e9tences techniques souhait\u00e9es: Langages: PHP5, Javascript/Ajax...",
+            "date": "2015-05-06",
+            "categories": "php,langage,javascript",
+            "tags": "techniques,mobile,fran\u00e7ais,d\u00e9veloppeur,web,france,programmation,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/emploi.presse-citron.net/2015/05/d%C3%A9veloppeur-web-php-la-mission-s-effectue-en-fran%C3%A7ais",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bprogrammation%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/D\u00e9veloppeur+Web+-+PHP+(la+mission+s'effectue+en+fran\u00e7ais)/30268"
         },
-        "macplus.net/2015/04/sparkle-corrige-ses-bogues-et-sam%C3%A9liore": {
-            "title": "Sparkle corrige ses bogues et sam\u00e9liore...",
-            "snippet": "Pour les d\u00e9\u00e7us diWeb (quApple ne maintient plus depuis des ann\u00e9es) et d\u00e9sirant un logiciel performant pour monter un site web sans connaissances particuli\u00e8res des rouages de la programmation web, Sparkle remplit cet objectif avec brio.",
-            "date": "2015-04-15",
-            "categories": "connaissance",
-            "tags": "sans,site,web,programmation",
-            "recuweb_url": "http://fr.recuweb.com/connaissance/macplus.net/2015/04/sparkle-corrige-ses-bogues-et-sam%C3%A9liore",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=programmation%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://macplus.net/depeche-83456-sparkle-corrige-ses-bogues-et-s-ameliore"
+        "lefigaro.fr/2015/05/les-entrepreneurs-sociaux-investissent-bercy": {
+            "title": "Les entrepreneurs sociaux investissent Bercy...",
+            "snippet": "Co, une \u00e9cole qui propose des formations intensives pour devenir d\u00e9veloppeur web/mobile en France, en Roumanie et en Afrique. Son objectif? Utiliser les m\u00e9tiers techniques du num\u00e9rique, notamment la programmation informatique, comme levier...",
+            "date": "2015-05-06",
+            "tags": "comme,techniques,mobile,d\u00e9veloppeur,sociaux,web,france,programmation,informatique",
+            "recuweb_url": "http://fr.recuweb.com/lefigaro.fr/2015/05/les-entrepreneurs-sociaux-investissent-bercy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bprogrammation%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://lefigaro.fr/conjoncture/2015/05/05/20002-20150505ARTFIG00082-les-entrepreneurs-sociaux-investissent-bercy.php"
+        },
+        "silicon.fr/2015/05/windows-10-signe-la-fin-des-patch-tuesday-sauf": {
+            "title": "Windows 10 signe la fin des Patch Tuesday sauf pour les entreprises...",
+            "snippet": "Esp\u00e9rons toutefois que ce d\u00e9calage avec l\u00e9dition grand public de Windows 10 ne se transformera pas en une opportunit\u00e9 pour les pirates du web. Ces derniers pourront... sujets de fond des th\u00e8mes comme la programmation, le calcul de haute...",
+            "date": "2015-05-06",
+            "tags": "comme,grand,web,programmation",
+            "recuweb_url": "http://fr.recuweb.com/silicon.fr/2015/05/windows-10-signe-la-fin-des-patch-tuesday-sauf",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bprogrammation%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://silicon.fr/windows-10-signe-fin-patch-tuesday-115563.html"
+        },
+        "gameblog.fr/2015/05/unreal-engine-4-s%C3%A9rie-de-livres-en-fran%C3%A7ais": {
+            "title": "Unreal Engine 4: S\u00e9rie de livres en fran\u00e7ais...",
+            "snippet": "et m\u00eame directement vers le web en HML5/WebGL. Unreal Engine poss\u00e8de une documentation... Au sommaire: les fonctions de mod\u00e9lisation de l'\u00e9diteur, la cr\u00e9ation de composants, la programmation Blueprints, l'\u00e9diteur de cin\u00e9matique Matinee, la...",
+            "date": "2015-05-03",
+            "tags": "cr\u00e9ation,fran\u00e7ais,s\u00e9rie,web,sommaire,programmation",
+            "recuweb_url": "http://fr.recuweb.com/gameblog.fr/2015/05/unreal-engine-4-s%C3%A9rie-de-livres-en-fran%C3%A7ais",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bprogrammation%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://gameblog.fr/article-lecteur_2585_unreal-engine-4-serie-de-livres-en-francais"
         }
     }
 }
