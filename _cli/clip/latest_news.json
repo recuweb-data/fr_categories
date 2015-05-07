@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "clip",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/clip/",
@@ -11,32 +11,52 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/clip/clip/blogs.json"
     },
     "items": {
-        "teleobs.nouvelobs.com/2015/05/christophe-willem-d%C3%A9voile-le-clip-apr%C3%A8s": {
-            "title": "Christophe Willem d\u00e9voile le clip Apr\u00e8s Toi...",
-            "snippet": "(Relaxnews) - L'ex-r\u00e9v\u00e9lation de la Nouvelle Star a compil\u00e9 des images capt\u00e9es durant sa derni\u00e8re tourn\u00e9e pour son nouveau clip. La chanson Apr\u00e8s toi a \u00e9t\u00e9 \u00e9crite par Jean-Jacques Goldman. Youtube (Relaxnews) - L'ex-r\u00e9v\u00e9lation de la...",
-            "date": "2015-05-02",
+        "reggae.fr/2015/05/i&i-et-raging-fyah-live-it-le-clip": {
+            "title": "I&I et Raging Fyah: 'Live It'le clip...",
+            "snippet": "Les membres de Raging Fyah sont r\u00e9cemment pass\u00e9s par la Nouvelle Cal\u00e9donie lors de leur derni\u00e8re tourn\u00e9e. Ils en ont profit\u00e9 pour enregistrer un titre et tourner un clip avec le groupe local I&I. D\u00e9couvrez les images de Live It.",
+            "date": "2015-05-03",
             "categories": "clip",
-            "tags": "images,star,d\u00e9voile,clip,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/clip/teleobs.nouvelobs.com/2015/05/christophe-willem-d%C3%A9voile-le-clip-apr%C3%A8s",
+            "tags": "images,groupe,titre,derni\u00e8re,derni\u00e8re-tourn\u00e9e,tourn\u00e9e,live,clip,d\u00e9couvrez",
+            "recuweb_url": "http://fr.recuweb.com/clip/reggae.fr/2015/05/i&i-et-raging-fyah-live-it-le-clip",
             "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
-            "source_url": "http://teleobs.nouvelobs.com/actualites/20150430.OBS8276/christophe-willem-devoile-le-clip-apres-toi.html"
+            "source_url": "http://reggae.fr/lire-news/10679_201505_I-I-et-Raging-Fyah----Live-It--le-clip.html"
         },
-        "eparsa.com/2015/05/le-clip-complet-et-officiel-de-five-more-hours-deorro": {
-            "title": "Le clip complet et officiel de Five More Hours de Deorro avec Chris... - Eparsa Magazine...",
-            "snippet": "Eparsa MagazineLe clip complet et officiel de \"Five More Hours\" de Deorro avec Chris...Eparsa MagazineChris Brown est en vedette du nouveau clip de \"Five More Hours\" de Deorro. Le clip commence avec la star de R&B et Travi Scott en direction de...",
-            "date": "2015-05-02",
+        "thewebtape.net/2015/05/insomnia-le-nouveau-clip-de-kamelot": {
+            "title": "Insomnia: le nouveau clip de Kamelot...",
+            "snippet": "Dans le but de promouvoir au mieux la parution prochaine de son dernier album, Haven, Kamelot vient de r\u00e9v\u00e9ler une autre de ses chansons apr\u00e8s le premier titre Veil Of Elysium. Cette nouvelle composition a fait lobjet dun clip plut\u00f4t ax\u00e9...",
+            "date": "2015-05-03",
             "categories": "clip",
-            "tags": "star,clip,officiel",
-            "recuweb_url": "http://fr.recuweb.com/clip/eparsa.com/2015/05/le-clip-complet-et-officiel-de-five-more-hours-deorro",
+            "tags": "apr\u00e8s,premier,titre,mieux,dernier,clip,album",
+            "recuweb_url": "http://fr.recuweb.com/clip/thewebtape.net/2015/05/insomnia-le-nouveau-clip-de-kamelot",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
+            "source_url": "http://thewebtape.net/insomnia-clip-kamelot/46926"
+        },
+        "chartsinfrance.net/2015/05/les-5-clips-de-la-semaine-mika-calogero-christophe-willem-charts": {
+            "title": "Les 5 clips de la semaine: Mika, Calogero, Christophe Willem... - Charts in France...",
+            "snippet": "Charts in FranceLes 5 clips de la semaine: Mika, Calogero, Christophe in FranceMika d\u00e9voile le clip de son nouveau single \"Talk About You\", extrait de son quatri\u00e8me album \"No Place In Heaven\" bient\u00f4t dans les bacs. C'est le bon timing pour mettre...",
+            "date": "2015-05-03",
+            "categories": "place,clip",
+            "tags": "bient\u00f4t,bacs,single,d\u00e9voile,christophe,christophe_willem,willem,clips,clip,semaine,extrait,album",
+            "recuweb_url": "http://fr.recuweb.com/clip/chartsinfrance.net/2015/05/les-5-clips-de-la-semaine-mika-calogero-christophe-willem-charts",
             "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
-            "source_url": "http://eparsa.com/index.php/toutes-les-news/item/5508-le-clip-complet-et-officiel-de-five-more-hours-de-deorro-avec-chris-brown.html"
+            "source_url": "http://chartsinfrance.net/actualite/news-97019.html"
+        },
+        "senego.com/2015/05/nouveau-clip-du-rappeur-s%C3%A9n%C3%A9galais-shady-deloussil": {
+            "title": "Nouveau clip du rappeur s\u00e9n\u00e9galais Shady, Deloussil...",
+            "snippet": "Le rappeur s\u00e9n\u00e9galais, Mouhamet Aliou Diallo dit Shady, bas\u00e9 au Royaume-Uni et g\u00e9 dune vingtaine dann\u00e9es, vient de sortir un nouveau clip: Deloussil en featuring avec Jean Diarra. Il travaille actuellement sur son album qui sera bient\u00f4t...",
+            "date": "2015-05-03",
+            "categories": "clip",
+            "tags": "bient\u00f4t,clip,album",
+            "recuweb_url": "http://fr.recuweb.com/clip/senego.com/2015/05/nouveau-clip-du-rappeur-s%C3%A9n%C3%A9galais-shady-deloussil",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
+            "source_url": "http://senego.com/2015/05/03/nouveau-clip-du-rapport-senegalais-shady-deloussil_237142.html"
         },
         "programme.tv/2015/05/le-clip-de-la-semaine-dead-inside-muse-video-t%C3%A9l%C3%A9-2": {
             "title": "Le clip de la semaine: Dead Inside de Muse (VIDEO) - T\u00e9l\u00e9 2 Semaines...",
             "snippet": "T\u00e9l\u00e9 2 SemainesLe clip de la semaine: Dead Inside de Muse (VIDEO)T\u00e9l\u00e9 2 SemainesMuse a choisi le titre Dead Inside comme premier single officiel issu de Drones, leur prochain album qui sera dans les bacs le 8 juin pour son dernier clip. Dans...",
             "date": "2015-05-02",
             "categories": "clip",
-            "tags": "dernier,single,titre,dead,dead_inside,inside,clip,muse,officiel,drones,album",
+            "tags": "dernier,bacs,prochain,premier,single,titre,dead,dead_inside,inside,clip,muse,officiel,drones,album",
             "recuweb_url": "http://fr.recuweb.com/clip/programme.tv/2015/05/le-clip-de-la-semaine-dead-inside-muse-video-t%C3%A9l%C3%A9-2",
             "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
             "source_url": "http://programme.tv/news/actu/138866-le-clip-de-la-semaine-dead-inside-de-muse-video/"
@@ -46,40 +66,50 @@
             "snippet": "ElleLe clip de la semaine: Blouson noir d'AaRONElleVirage r\u00e9solument sombre et \u00e9lectro pour AaRON. Le duo franco-am\u00e9ricain, compos\u00e9 de Simon Buret et d'Olivier Coursier, s'\u00e9tait fait discret depuis leur dernier album paru en 2010. La raison?",
             "date": "2015-05-02",
             "categories": "clip",
-            "tags": "dernier,clip,album",
+            "tags": "\u00e9tait,dernier,semaine,clip,album",
             "recuweb_url": "http://fr.recuweb.com/clip/elle.fr/2015/05/le-clip-de-la-semaine-blouson-noir-d-aaron",
             "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
             "source_url": "http://elle.fr/Loisirs/Musique/News/Le-clip-de-la-semaine-Blouson-noir-d-AaRON-2946412"
         },
-        "actus-telephonie.com/2015/05/support-pda-clip-sur-grilles-d-aeration-pour-hp-ipaq-1930": {
-            "title": "Support PDA Clip sur grilles d'aeration pour HP Ipaq 1930...",
-            "snippet": "Kit fixation universel pour stores concept EASY Kit biturbo KTE 152 acc\u00e9l\u00e9rateur de convection pour chemin\u00e9es Supra La redoute essentiels - Kit suspension pour rideaux Transmetteur FM et Kit Mains Libre Bluetooth avec ports USB et SD COQUE...",
-            "date": "2015-05-02",
+        "chartsinfrance.net/2015/04/clip-de-apr%C3%A8s-toi-christophe-willem-pr%C3%A9sente-le-film-les-nuits": {
+            "title": "Clip de Apr\u00e8s toi: Christophe Willem pr\u00e9sente le film Les Nuits Para\u00eet-il...",
+            "snippet": "Pour accompagner la sortie de son nouveau single Apr\u00e8s toi, le troisi\u00e8me extrait de son disque Para\u00eet-il (2014), Christophe Willem a compil\u00e9 des images capt\u00e9es durant sa derni\u00e8re tourn\u00e9e Les Nuits Para\u00eet-il, organis\u00e9e dans diff\u00e9rents...",
+            "date": "2015-04-30",
             "categories": "clip",
-            "tags": "clip",
-            "recuweb_url": "http://fr.recuweb.com/clip/actus-telephonie.com/2015/05/support-pda-clip-sur-grilles-d-aeration-pour-hp-ipaq-1930",
+            "tags": "images,derni\u00e8re,derni\u00e8re-tourn\u00e9e,tourn\u00e9e,troisi\u00e8me,sortie,single,christophe,christophe_willem,willem,clip,apr\u00e8s,extrait",
+            "recuweb_url": "http://fr.recuweb.com/clip/chartsinfrance.net/2015/04/clip-de-apr%C3%A8s-toi-christophe-willem-pr%C3%A9sente-le-film-les-nuits",
             "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
-            "source_url": "http://actus-telephonie.com/hr-support-pda-clip-hp-p28957452.html"
-        },
-        "chartsinfrance.net/2015/05/clip-de-black-lake-bj%C3%B6rk-toujours-sur-la-voie-gu%C3%A9rison-charts": {
-            "title": "Clip de Black Lake: Bj\u00f6rk toujours sur la voie de la gu\u00e9rison - Charts in France...",
-            "snippet": "Charts in FranceClip de \"Black Lake\": Bj\u00f6rk toujours sur la voie de la gu\u00e9risonCharts in FranceApr\u00e8s avoir expliqu\u00e9 dans diff\u00e9rents magazines la gen\u00e8se de son projet de neuf titres inspir\u00e9 par sa rupture avec Matthew Barney, la chanteuse...",
-            "date": "2015-05-01",
-            "categories": "clip",
-            "tags": "titres,clip",
-            "recuweb_url": "http://fr.recuweb.com/clip/chartsinfrance.net/2015/05/clip-de-black-lake-bj%C3%B6rk-toujours-sur-la-voie-gu%C3%A9rison-charts",
-            "resource_url": "http://news.google.fr/?hl=fr&q=clip&output=atom&nord=1",
-            "source_url": "http://chartsinfrance.net/Bjork/news-96395.html"
+            "source_url": "http://chartsinfrance.net/Christophe-Willem/news-96974.html"
         },
         "melty.fr/2015/04/muse-dead-inside-leur-nouveau-clip-%C3%A9tonnant": {
             "title": "Muse: Dead Inside, leur nouveau clip \u00e9tonnant!",
             "snippet": "Trois ans apr\u00e8s le succ\u00e8s de l'album The 2nd Law en 2012, le groupe Muse annonce la sortie de son nouvel opus, Drones. Un retour fulgurant initi\u00e9 par la sortie du clip Dead Inside. Le groupe Muse, qui a annonc\u00e9 de nouvelles dates de concert, n'a...",
             "date": "2015-04-29",
             "categories": "clip",
-            "tags": "dates,nouvel,apr\u00e8s,dead,dead_inside,inside,muse,clip,album,drones",
+            "tags": "dates,sortie,nouvel,groupe,apr\u00e8s,dead,dead_inside,inside,muse,clip,album,drones",
             "recuweb_url": "http://fr.recuweb.com/clip/melty.fr/2015/04/muse-dead-inside-leur-nouveau-clip-%C3%A9tonnant",
             "resource_url": "http://www.bing.com/news/search?first=1&q=clip&format=RSS&cc=fr",
             "source_url": "http://melty.fr/muse-dead-inside-leur-nouveau-clip-etonnant-a405776.html"
+        },
+        "fool.ca/2015/03/is-sierra-wireless-inc-a-falling-knife-the-motley-fool-canada": {
+            "title": "Is Sierra Wireless Inc. a Falling Knife? - The Motley Fool Canada...",
+            "snippet": "Is Sierra Wireless Inc. a Falling Knife?The Motley Fool CanadaThe machine-to-machine (M2M) market, as it is known, is growing at a rapid clip. Sierra's... One reason for the run up in the stock is the strong sales over the past two years.... Our TOP...",
+            "date": "2015-03-13",
+            "categories": "clip",
+            "tags": "stock,past,motley,motley_fool,fool,motley_fool_canada,fool_canada,canada,inc,clip",
+            "recuweb_url": "http://fr.recuweb.com/clip/fool.ca/2015/03/is-sierra-wireless-inc-a-falling-knife-the-motley-fool-canada",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bclip&output=atom&nord=1",
+            "source_url": "http://fool.ca/2015/03/13/is-sierra-wireless-inc-a-falling-knife/"
+        },
+        "fool.ca/2015/02/which-is-a-better-stock-for-dividend-investors-agrium-inc-or": {
+            "title": "Which Is a Better Stock for Dividend Investors: Agrium Inc or Potash... - The Motley Fool Canada...",
+            "snippet": "Which Is a Better Stock for Dividend Investors: Agrium Inc or Potash...The Motley Fool CanadaAgrium has increased its distribution at a stunning 30% compounded annual clip over the past decade. That's incredible, but it's not as good as Potash/Corp.",
+            "date": "2015-02-16",
+            "categories": "clip",
+            "tags": "past,motley,motley_fool,fool,motley_fool_canada,fool_canada,canada,inc,stock,clip",
+            "recuweb_url": "http://fr.recuweb.com/clip/fool.ca/2015/02/which-is-a-better-stock-for-dividend-investors-agrium-inc-or",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bclip&output=atom&nord=1",
+            "source_url": "http://fool.ca/2015/02/16/which-is-a-better-stock-for-dividend-investors-agrium-inc-or-potash-corp-saskatchewan/"
         }
     }
 }
