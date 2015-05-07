@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "religion-orientale",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/religion-orientale/",
@@ -10,15 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/religion-orientale/religion-orientale/blogs.json"
     },
     "items": {
-        "lemondedesreligions.fr/2015/03/le-blasph%C3%A8me-un-outil-pour-pouvoir-religieux-monde-des-religions": {
-            "title": "Le blasph\u00e8me, un outil pour le pouvoir religieux - Le Monde des Religions...",
-            "snippet": "Le Monde des Religions\"Le blasph\u00e8me, un outil pour le pouvoir religieux\"Le Monde des ReligionsFran\u00e7oise Smyth-Florentin, th\u00e9ologienne sp\u00e9cialiste de l'Ancien Testament et des langues de l'Antiquit\u00e9 proche-orientale et \u00e9gyptienne, animait la...",
-            "date": "2015-03-04",
-            "categories": "religion",
-            "tags": "orientale,religieux,religions",
-            "recuweb_url": "http://fr.recuweb.com/religion/lemondedesreligions.fr/2015/03/le-blasph%C3%A8me-un-outil-pour-pouvoir-religieux-monde-des-religions",
-            "resource_url": "http://news.google.fr/?hl=fr&q=religion%2Borientale&output=atom&nord=1",
-            "source_url": "http://lemondedesreligions.fr/actualite/le-blaspheme-un-outil-pour-le-pouvoir-religieux-04-03-2015-4586_118.php"
+        "lefigaro.fr/2015/05/quand-les-ic%C3%B4nes-de-l-am%C3%A9rique-fustigent-le-consum%C3%A9risme": {
+            "title": "Quand les ic\u00f4nes de l'Am\u00e9rique fustigent le consum\u00e9risme...",
+            "snippet": "La collection du couple d'entrepreneurs Fisher s'exporte (uniquement) en France lors des travaux du San Francisco... L'ordre pour fuir le chaos du quotidien. Cette mordue de religion orientale consid\u00e9rait ses toiles comme ses seuls moments de...",
+            "date": "2015-05-06",
+            "categories": "religion,religion-orientale,collection",
+            "tags": "religion,orientale",
+            "recuweb_url": "http://fr.recuweb.com/collection/lefigaro.fr/2015/05/quand-les-ic%C3%B4nes-de-l-am%C3%A9rique-fustigent-le-consum%C3%A9risme",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Breligion%2Borientale&format=RSS&cc=fr",
+            "source_url": "http://lefigaro.fr/arts-expositions/2015/05/05/03015-20150505ARTFIG00272-quand-les-icones-de-l-amerique-fustigent-le-consumerisme.php"
         }
     }
 }
