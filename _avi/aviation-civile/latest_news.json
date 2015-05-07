@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "aviation-civile",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/aviation-civile/",
@@ -11,44 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/aviation-civile/aviation-civile/blogs.json"
     },
     "items": {
+        "latribune.fr/2015/05/qatar-airways-aura-bien-des-nouveaux-vols-en-france": {
+            "title": "Qatar Airways aura bien des nouveaux vols en France...",
+            "snippet": "Le Qatar a bel et bien obtenu l'engagement de la France que Qatar Airways disposera de droits... les r\u00e8gles de l'OACI (organisation internationale de l'aviation civile) qui r\u00e9gissent le transport a\u00e9rien mondial, interdissent de lier...",
+            "date": "2015-05-07",
+            "tags": "aura,france,aviation,civile",
+            "recuweb_url": "http://fr.recuweb.com/latribune.fr/2015/05/qatar-airways-aura-bien-des-nouveaux-vols-en-france",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baviation%2Bcivile&format=RSS&cc=fr",
+            "source_url": "http://latribune.fr/entreprises-finance/services/transport-logistique/qatar-airways-aura-bien-des-nouveaux-vols-en-france-474505.html"
+        },
+        "boursier.com/2015/05/contrats-20-projets-entre-paris-et-ryad": {
+            "title": "Contrats: 20 projets entre Paris et Ryad...",
+            "snippet": "() Armement, aviation civile, \u00e9nergie... La France esp\u00e8re signer des contrats avec Ryad dans les prochains mois, et a multipli\u00e9 les \u00e9changes avec les dirigeants du pays ces derni\u00e8res heures, au lendemain de la signature du contrat de...",
+            "date": "2015-05-05",
+            "tags": "\u00e9changes,projets,paris,aviation,civile,france",
+            "recuweb_url": "http://fr.recuweb.com/boursier.com/2015/05/contrats-20-projets-entre-paris-et-ryad",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baviation%2Bcivile&format=RSS&cc=fr",
+            "source_url": "http://boursier.com/actualites/economie/contrats-20-projets-entre-paris-et-ryad-27866.html"
+        },
+        "air-journal.fr/2015/05/la-faa-recommande-de-red%C3%A9marrer-r%C3%A9guli%C3%A8rement-les-g%C3%A9n%C3%A9rateurs-du-787": {
+            "title": "La FAA recommande de red\u00e9marrer r\u00e9guli\u00e8rement les g\u00e9n\u00e9rateurs du 787 pour \u00e9viter la panne...",
+            "snippet": "La Federal Aviation Administration (FAA), agence gouvernementale charg\u00e9e des r\u00e8glementations et des contr\u00f4les concernant laviation civile aux Etats-Unis, a ordonn\u00e9 une \u00e9ni\u00e8me mesure corrective concernant le 787. En effet, il a \u00e9t\u00e9...",
+            "date": "2015-05-03",
+            "tags": "ordonn\u00e9,concernant,agence,laviation,aviation,faa,civile",
+            "recuweb_url": "http://fr.recuweb.com/air-journal.fr/2015/05/la-faa-recommande-de-red%C3%A9marrer-r%C3%A9guli%C3%A8rement-les-g%C3%A9n%C3%A9rateurs-du-787",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aviation%2Bcivile&format=RSS&cc=fr",
+            "source_url": "http://air-journal.fr/2015-05-03-la-faa-recommande-de-redemarrer-regulierement-les-generateurs-du-787-pour-eviter-la-panne-5143674.html"
+        },
+        "presseocean.fr/2015/05/nd-des-landes-la-dgac-recherche-un-juriste-pour-le-transfert": {
+            "title": "ND-des-Landes La DGAC recherche un juriste pour le transfert de l'a\u00e9roport...",
+            "snippet": "L'appel d'offres en date du 29 avril en a surpris plus d'un. La direction g\u00e9n\u00e9rale de l'aviation civile (DGAC) recherche un juriste pour des prestations de conseil juridique et strat\u00e9gique relatif au projet de transfert de l'a\u00e9roport de...",
+            "date": "2015-05-03",
+            "tags": "recherche,direction,g\u00e9n\u00e9rale,avril,dgac,aviation,civile",
+            "recuweb_url": "http://fr.recuweb.com/presseocean.fr/2015/05/nd-des-landes-la-dgac-recherche-un-juriste-pour-le-transfert",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aviation%2Bcivile&format=RSS&cc=fr",
+            "source_url": "http://presseocean.fr/actualite/nd-des-landes-la-dgac-recherche-un-juriste-pour-le-transfert-de-laeroport-03-05-2015-15794"
+        },
+        "numerama.com/2015/05/il-faut-rebooter-les-boeing-787-dreamliner-tous-248-jours": {
+            "title": "Il faut rebooter les Boeing 787 Dreamliner tous les 248 jours...",
+            "snippet": "Un \u00e9trange bug a\u00e9ronautique vient d\u00eatre d\u00e9couvert par la FAA (autorit\u00e9 am\u00e9ricaine de laviation civile) concernant les Boeing 787 Dreamliner.",
+            "date": "2015-05-02",
+            "categories": "aeronautique",
+            "tags": "concernant,autorit\u00e9,autorit\u00e9-am\u00e9ricaine,am\u00e9ricaine,laviation,bug,bug-a\u00e9ronautique,a\u00e9ronautique,boeing,faa,civile",
+            "recuweb_url": "http://fr.recuweb.com/aeronautique/numerama.com/2015/05/il-faut-rebooter-les-boeing-787-dreamliner-tous-248-jours",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=aviation%2Bcivile&format=RSS&cc=fr",
+            "source_url": "http://numerama.com/f/137556-t-il-faut-rebooter-les-boeing-787-dreamliner-tous-les-248-jours.html"
+        },
         "aerobuzz.fr/2015/04/9%C3%A8me-rencontre-aviation-civile-militaire": {
             "title": "9\u00e8me Rencontre Aviation Civile Aviation Militaire -...",
             "snippet": "\u00e8me Rencontre Aviation Civile Aviation risque a\u00e9ronautique sera au centre des pr\u00e9occupations de la 9\u00e8me Rencontre Aviation Civile Aviation Militaire (RACAM) dont l'objectif est de favoriser les \u00e9changes autour des probl\u00e9matiques communes que...",
             "date": "2015-04-30",
             "categories": "aeronautique,aviation-civile",
-            "tags": "a\u00e9ronautique,aviation,aviation_civile,civile",
+            "tags": "\u00e9changes,a\u00e9ronautique,aviation,aviation_civile,civile",
             "recuweb_url": "http://fr.recuweb.com/aviation-civile/aerobuzz.fr/2015/04/9%C3%A8me-rencontre-aviation-civile-militaire",
             "resource_url": "http://news.google.fr/?hl=fr&q=aviation%2Bcivile&output=atom&nord=1",
             "source_url": "http://aerobuzz.fr/defense/breve/9eme-rencontre-aviation-civile-4809"
-        },
-        "koaci.com/2015/04/ghana-togo-benin-droit-de-survol-mahama-faure-et-yayi": {
-            "title": "Ghana-Togo-Benin: Droit de survol: Mahama, Faure et Yayi s'accordent...",
-            "snippet": "Jeudi 30 avril 2015 LAutorit\u00e9 de lAviation Civile Ghan\u00e9enne (GCAA) va continuer par g\u00e9rer les espaces a\u00e9riens du Togo Search Togo et du Benin Search Benin et bien sur celui du Ghana. Les fonds g\u00e9n\u00e9r\u00e9s seront d\u00e9sormais...",
-            "date": "2015-04-30",
-            "tags": "a\u00e9riens,civile,jeudi,avril",
-            "recuweb_url": "http://fr.recuweb.com/koaci.com/2015/04/ghana-togo-benin-droit-de-survol-mahama-faure-et-yayi",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=aviation%2Bcivile&format=RSS&cc=fr",
-            "source_url": "http://koaci.com/ghana-togo-benin-droit-survol-mahama-faure-yayi-saccordent-101041.html"
         },
         "slate.fr/2015/04/l-%C3%A9tonnant-bug-qui-pourrait-priver-un-boeing-787-de-courant": {
             "title": "L'\u00e9tonnant bug qui pourrait priver un Boeing 787 de courant en plein vol...",
             "snippet": "C'est un \u00e9tonnant (et, potentiellement, un peu inqui\u00e9tant) bug a\u00e9ronautique que rapportent plusieurs m\u00e9dias am\u00e9ricains: la FAA, l'autorit\u00e9 am\u00e9ricaine de l'aviation civile, a ordonn\u00e9, jeudi 30 avril, aux compagnies op\u00e9rant des Boeing 787...",
             "date": "2015-04-30",
             "categories": "aeronautique",
-            "tags": "a\u00e9ronautique,aviation,civile,jeudi,avril",
+            "tags": "ordonn\u00e9,autorit\u00e9,autorit\u00e9-am\u00e9ricaine,am\u00e9ricaine,bug,bug-a\u00e9ronautique,a\u00e9ronautique,boeing,faa,aviation,civile,avril",
             "recuweb_url": "http://fr.recuweb.com/aeronautique/slate.fr/2015/04/l-%C3%A9tonnant-bug-qui-pourrait-priver-un-boeing-787-de-courant",
             "resource_url": "http://www.bing.com/news/search?first=1&q=aviation%2Bcivile&format=RSS&cc=fr",
             "source_url": "http://slate.fr/story/101101/bug-boeing-787-courant"
-        },
-        "adiac-congo.com/2015/04/agence-nationale-de-l-aviation-civile-28-inspecteurs-pr%C3%AAtent-serment-d": {
-            "title": "Agence nationale de l'aviation civile: 28 inspecteurs pr\u00eatent serment - Agence d'Information...",
-            "snippet": "Agence d'Information d'Afrique CentraleAgence nationale de l'aviation civile: 28 inspecteurs pr\u00eatent sermentAgence d'Information d'Afrique CentraleLa fonction d'inspecteur au sein de l'agence nationale de l'aviation civile (Anac) a toujours...",
-            "date": "2015-04-18",
-            "categories": "serment",
-            "tags": "agence,nationale,aviation,civile",
-            "recuweb_url": "http://fr.recuweb.com/serment/adiac-congo.com/2015/04/agence-nationale-de-l-aviation-civile-28-inspecteurs-pr%C3%AAtent-serment-d",
-            "resource_url": "http://news.google.fr/?hl=fr&q=aviation%2Bcivile%2Baviation%2Bcivile&output=atom&nord=1",
-            "source_url": "http://adiac-congo.com/content/agence-nationale-de-laviation-civile-28-inspecteurs-pretent-serment-30973"
         }
     }
 }
