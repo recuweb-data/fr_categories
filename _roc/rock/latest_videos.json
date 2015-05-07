@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rock",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rock/",
@@ -17,7 +17,7 @@
             "date": "2015-04-28",
             "author_name": "Cynthia Dulude",
             "categories": "rock",
-            "tags": "s\u00e9rie,retrouve,rock",
+            "tags": "comme,rock",
             "recuweb_url": "http://fr.recuweb.com/rock/youtube.com/2015/04/premi%C3%A8res-impressions-mascara-miss-manga-rock-de-l-or%C3%A9al",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JPHX3vVZLEk&feature=youtube_gdata",
@@ -29,7 +29,7 @@
             "date": "2015-03-27",
             "author_name": "ouifmrocksessions",
             "categories": "rock,facebook",
-            "tags": "album,dailymotion,dailymotion_studio,studio,o\u00fci,o\u00fci_fm_rock,rock,rock_sessions,rock_session,sessions,episode,guest,show,paris",
+            "tags": "dailymotion,dailymotion_studio,studio,o\u00fci,o\u00fci_fm_rock,rock,rock_sessions,rock_session,sessions,episode,guest,show,paris,facebook",
             "recuweb_url": "http://fr.recuweb.com/facebook/dailymotion.com/2015/03/o%C3%BCi-fm-rock-session-5-moodo%C3%AFd-full-episode",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock/0?af=1",
             "source_url": "http://dailymotion.com/video/x2ksyd3_oui-fm-rock-session-5-moodoid-full-episode_music",
@@ -59,30 +59,6 @@
             "source_url": "http://dailymotion.com/video/x2f8a8y_oui-fm-rock-session-3-charlie-winston-full-episode_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2f8a8y_oui-fm-rock-session-3-charlie-winston-full-episode_music"
         },
-        "youtube.com/2015/01/m%C3%A8re-et-fille-rugbywomen-let-s-rock-au-placard-the-best": {
-            "title": "M\u00e8re et fille - Rugbywomen, Let's Rock, Au placard, The best mom in the world...",
-            "snippet": "M\u00e8re et fille - \"Rugbywomen\", \"Let's Rock\", \"Au placard\", \"The best mom in the world\" D\u00e9couvre quatre nouveaux sketchs de ta s\u00e9rie M\u00e8re et Fille avec Isa et Lubna! Retrouve tous tes h\u00e9ros Disney Channel: - sur le site officiel: - sur...",
-            "date": "2015-01-13",
-            "author_name": "Disney Channel FR",
-            "categories": "rock",
-            "tags": "officiel,s\u00e9rie,rock,retrouve",
-            "recuweb_url": "http://fr.recuweb.com/rock/youtube.com/2015/01/m%C3%A8re-et-fille-rugbywomen-let-s-rock-au-placard-the-best",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=7V1B4wCtFII&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/7V1B4wCtFII/0.jpg"
-        },
-        "dailymotion.com/2014/12/hollysiz-come-back-to-me-o%C3%BCi-fm-rock-sessions": {
-            "title": "HOLLYSIZ - Come back to me O\u00dcI FM ROCK SESSIONS...",
-            "snippet": "HollySiz interpr\u00e8te pour la premi\u00e8re fois une version acoustique de Come back to me sur le plateau des O\u00dbI FM ROCK SESSIONS au Dailymotion: ouifmrocksessionsTags: Musique acoustique O\u00dcI FM C\u00e9cile Cassel HollySiz Rock Rock Sessions Posted: 15...",
-            "date": "2014-12-15",
-            "author_name": "ouifmrocksessions",
-            "categories": "rock,musique",
-            "tags": "rock,rock_sessions,sessions,o\u00fci,o\u00fci_fm_rock,dailymotion,ouifmrocksessionstags,musique",
-            "recuweb_url": "http://fr.recuweb.com/musique/dailymotion.com/2014/12/hollysiz-come-back-to-me-o%C3%BCi-fm-rock-sessions",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2cm7d6_hollysiz-come-back-to-me-oui-fm-rock-sessions_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2cm7d6_hollysiz-come-back-to-me-oui-fm-rock-sessions_music"
-        },
         "dailymotion.com/2014/11/roots-rock-reggae": {
             "title": "Roots Rock Reggae...",
             "snippet": "Bob Marley raconte l\u00e9volution de sa musique, du ska au: lemondefrTags: Bob Marley Posted: 20 November 2014Rating:: 0...",
@@ -95,41 +71,65 @@
             "source_url": "http://dailymotion.com/video/x2anfcy_roots-rock-reggae_music",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2anfcy_roots-rock-reggae_music"
         },
-        "youtube.com/2014/11/le-couleur-concerto-rock-clip-officiel": {
-            "title": "Le Couleur - Concerto Rock (clip officiel)...",
-            "snippet": "Le Couleur - Concerto Rock (clip officiel) Abonnez-vous \u00e0 la cha\u00eene! Le Couleur - Concerto Rock (videoclip officiel) extrait de l'album \"Dolce D\u00e9sir\" disponible le 17 f\u00e9vrier 2015 sur Lisbon Lux Records.... From: Le Couleur Views: 7104 81...",
+        "dailymotion.com/2014/11/le-couleur-concerto-rock": {
+            "title": "Le Couleur Concerto Rock...",
+            "snippet": "Le trio de Montr\u00e9al Le Couleur d\u00e9voile en exclusivit\u00e9 pour Konbini le clip de \"Concerto Rock\", morceau pop d\u00e9licieusement r\u00e9tro. Facebook: Twitter:: konbiniTags: Le Couleur Montr\u00e9al Canada musique electro pop Posted: 17 November 2014Rating:: 0...",
             "date": "2014-11-17",
-            "author_name": "Le Couleur",
-            "categories": "clip,rock",
-            "tags": "album,officiel,rock",
-            "recuweb_url": "http://fr.recuweb.com/rock/youtube.com/2014/11/le-couleur-concerto-rock-clip-officiel",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock%2Brock&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=FdMBZQQN5Bw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/FdMBZQQN5Bw/0.jpg"
+            "author_name": "konbini",
+            "categories": "musique,pop,clip,rock,facebook,twitter",
+            "tags": "musique,clip,rock,facebook",
+            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2014/11/le-couleur-concerto-rock",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2aeni5_le-couleur-concerto-rock_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2aeni5_le-couleur-concerto-rock_music"
         },
-        "dailymotion.com/2014/10/one-ok-rock-decision-in-fool-cool-vosten": {
-            "title": "ONE OK ROCK Decision in Fool Cool Rock VOSTEn...",
-            "snippet": "subtitle and translation created by asia fansub sous-titre et traduction cr\u00e9e par asia fansubAuthor: asiafansubTags: One Ok Rock Fool Cool Rock One Ok Rock Documentary Film Jinsei Boku=Beam of Light Zeitakuby Decision VOSTEN asia fansub Posted: 20...",
-            "date": "2014-10-20",
-            "author_name": "asiafansub",
-            "categories": "rock,traduction",
-            "tags": "light,decision,rock,rock_fool,rock_fool_cool,fool,fool_cool,fool_cool_rock,cool,cool_rock,cool_rock_one,rock_one,rock_documentary,rock_documentary_film,documentary,documentary_film,film,jinsei,jinsei_boku,boku,rock_decision,asiafansubtags,beam",
-            "recuweb_url": "http://fr.recuweb.com/traduction/dailymotion.com/2014/10/one-ok-rock-decision-in-fool-cool-vosten",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock+rock/0?af=1",
-            "source_url": "http://dailymotion.com/video/x28b38m_one-ok-rock-decision-in-fool-cool-rock-vosten_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x28b38m_one-ok-rock-decision-in-fool-cool-rock-vosten_music"
-        },
-        "dailymotion.com/2014/10/one-ok-rock-decision-in-fool-cool-vostfr": {
-            "title": "ONE OK ROCK Decision in Fool Cool Rock VOSTFR...",
-            "snippet": "Author: asiafansubTags: One Ok Rock Fool Cool Rock One Ok Rock Documentary Film Hiroyuki Nakano Jinsei Boku=Beam of Light VOSTFR Decision Fool Cool Rock one ok rock Posted: 20 October 2014Rating:: 0...",
-            "date": "2014-10-20",
-            "author_name": "asiafansub",
+        "dailymotion.com/2014/08/la-route-du-rock-en-10-objets": {
+            "title": "La Route du Rock en 10 objets...",
+            "snippet": "Parmi les campeurs de La Route du Rock, il y avait les habitu\u00e9s, et les petits nouveaux. Les premiers avaient pr\u00e9vu leurs bottes et K-Way, les seconds se d\u00e9merdaient comme ils pouvaient. Un festival se joue sur la dur\u00e9e, et la survie en camping...",
+            "date": "2014-08-20",
+            "author_name": "konbini",
             "categories": "rock",
-            "tags": "rock,light,decision,fool,fool_cool,fool_cool_rock,cool,cool_rock,rock_fool,rock_fool_cool,cool_rock_one,rock_one,rock_documentary,rock_documentary_film,documentary,documentary_film,film,jinsei,jinsei_boku,boku,rock_decision,asiafansubtags,beam",
-            "recuweb_url": "http://fr.recuweb.com/rock/dailymotion.com/2014/10/one-ok-rock-decision-in-fool-cool-vostfr",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock+rock/0?af=1",
-            "source_url": "http://dailymotion.com/video/x28b394_one-ok-rock-decision-in-fool-cool-rock-vostfr_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x28b394_one-ok-rock-decision-in-fool-cool-rock-vostfr_music"
+            "tags": "comme,rock",
+            "recuweb_url": "http://fr.recuweb.com/rock/dailymotion.com/2014/08/la-route-du-rock-en-10-objets",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock/0?af=1",
+            "source_url": "http://dailymotion.com/video/x245735_la-route-du-rock-en-10-objets_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x245735_la-route-du-rock-en-10-objets_music"
+        },
+        "dailymotion.com/2014/07/blanc-d%C3%A9sir-le-1er-groupe-rock-de-rap-fran%C3%A7ais-clip-officiel": {
+            "title": "Blanc D\u00e9sir - Le 1er Groupe Rock de Rap Fran\u00e7ais (Clip Officiel)...",
+            "snippet": "Blanc D\u00e9sir avec le titre ''La mer noire''Le 1er clip du 1er titre du 1er Groupe Rock de Rap Fran\u00e7ais Pour les insultes, d\u00e9dicaces,... c'est ici:: DoctorChrisOfficielTags: Rap Rock Vid\u00e9o doctor chris blanc d\u00e9sir rap fran\u00e7ais humour buzz la mer...",
+            "date": "2014-07-31",
+            "author_name": "DoctorChrisOfficiel",
+            "categories": "humour,rock,clip",
+            "tags": "rock,clip",
+            "recuweb_url": "http://fr.recuweb.com/clip/dailymotion.com/2014/07/blanc-d%C3%A9sir-le-1er-groupe-rock-de-rap-fran%C3%A7ais-clip-officiel",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/rock/0?af=1",
+            "source_url": "http://dailymotion.com/video/x22j5a6_blanc-desir-le-1er-groupe-rock-de-rap-francais-clip-officiel_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x22j5a6_blanc-desir-le-1er-groupe-rock-de-rap-francais-clip-officiel_music"
+        },
+        "dailymotion.com/2014/05/hot-rock-s01-ep11-the-beautiful-people": {
+            "title": "HOT ROCK - S01 EP11 - The Beautiful People...",
+            "snippet": "Hot Rock Episode 11: The beautiful People. Ecrit par Vincent Merino et Damien Leiter. R\u00e9alis\u00e9 par YR et Damien Leiter. Direction de la photographie par YR. Avec: Benjamin Marchini, Tobias Lune,C\u00e9dric Charlier, Rodrigue Flamand, Vincent Merino,...",
+            "date": "2014-05-24",
+            "author_name": "Hot-Rock",
+            "categories": "photographie,rock",
+            "tags": "rock,episode",
+            "recuweb_url": "http://fr.recuweb.com/rock/dailymotion.com/2014/05/hot-rock-s01-ep11-the-beautiful-people",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+rock/0?af=1",
+            "source_url": "http://dailymotion.com/video/x1we4tx_hot-rock-s01-ep11-the-beautiful-people_fun",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x1we4tx_hot-rock-s01-ep11-the-beautiful-people_fun"
+        },
+        "youtube.com/2014/03/william-sheller-dans-un-vieux-rock-n-roll": {
+            "title": "William Sheller Dans un vieux Rock'N Roll...",
+            "snippet": "William Sheller Dans un vieux Rock'N Roll From: damienrjdarbonville Views: 23380 60 ratings Time: 03:49 More in Music...",
+            "date": "2014-03-16",
+            "author_name": "damienrjdarbonville",
+            "categories": "rock",
+            "tags": "rock",
+            "recuweb_url": "http://fr.recuweb.com/rock/youtube.com/2014/03/william-sheller-dans-un-vieux-rock-n-roll",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=rock&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=ZAmYgLakJGQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/ZAmYgLakJGQ/0.jpg"
         }
     }
 }
