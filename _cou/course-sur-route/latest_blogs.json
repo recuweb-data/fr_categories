@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "course-sur-route",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/course-sur-route/",
@@ -11,36 +11,46 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/course-sur-route/course-sur-route/blogs.json"
     },
     "items": {
-        "laroutedulouvre.fr/2015/04/la-route-du-louvre-une-course-propre": {
-            "title": "La Route du Louvre: Une course propre La Route Du Louvre...",
-            "snippet": "La Route du Louvre: Une course propre. Avec des voitures \u00e9lectriques, les organisateurs et La R\u00e9gion Nord-Pas de Calais prouvent que la 10\u00e8 \u00e9dition est une \u00e9dition propre et qu'ils s'engagent pour le respect de...",
-            "date": "2015-04-27",
-            "author_name": "Fanny Pruvost",
-            "tags": "route,course,\u00e9dition",
-            "recuweb_url": "http://fr.recuweb.com/laroutedulouvre.fr/2015/04/la-route-du-louvre-une-course-propre",
-            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://laroutedulouvre.fr/la-route-du-louvre-une-course-propre/"
+        "jsdcourse.com/2015/04/grand-raid-du-queyras-2015-renseignements-jsd-course-sur-route": {
+            "title": "Grand raid du queyras 2015 (renseignements) JSD Course sur route...",
+            "snippet": "Nom de l'\u00e9preuve: Grand Raid du Queyras - Le Queyras D\u00e9couverte (22km) - Le Raid Queyras (60km) Date: Le samedi 27 juin 2015 Distance: 22km et 60km D\u00e9nivel\u00e9: 1200m (Course 22km) et 3800m (Course 60km).",
+            "date": "2015-04-26",
+            "author_name": "jsdcourse",
+            "tags": "jsd,jsd_course,course,grand,renseignements,route,nom,\u00e9preuve,date,samedi,juin,distance,d\u00e9nivel\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/jsdcourse.com/2015/04/grand-raid-du-queyras-2015-renseignements-jsd-course-sur-route",
+            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jsdcourse.com/2015/04/26/grand-raid-du-queyras-2015-renseignements/"
         },
         "jsdcourse.com/2015/04/la-foul%C3%A9e-farl%C3%A9doise-2015-renseignements-jsd-course-sur-route": {
             "title": "La foul\u00e9e farl\u00e9doise 2015 (renseignements) JSD Course sur route...",
             "snippet": "Nom de l'\u00e9preuve: La Foul\u00e9e Farl\u00e9doise Anciennet\u00e9: 6\u00e8me \u00e9dition Date: Le vendredi 26 juin 2015 Distance: 10km500, (Courses Enfants) 700m et 1km500 D\u00e9nivel\u00e9: Le profil ci-dessous: Course 10km500 Plus grand Clic sur...",
             "date": "2015-04-23",
             "author_name": "jsdcourse",
-            "tags": "courses,course,foul\u00e9e,anciennet\u00e9,jsd,jsd_course,renseignements,route,nom,\u00e9preuve,\u00e8me,\u00e9dition,date,vendredi,juin,distance,d\u00e9nivel\u00e9,grand",
+            "tags": "courses,course,foul\u00e9e,anciennet\u00e9,jsd,jsd_course,renseignements,route,nom,\u00e9preuve,\u00e8me,\u00e9dition,date,juin,distance,d\u00e9nivel\u00e9,grand",
             "recuweb_url": "http://fr.recuweb.com/jsdcourse.com/2015/04/la-foul%C3%A9e-farl%C3%A9doise-2015-renseignements-jsd-course-sur-route",
-            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jsdcourse.com/2015/04/23/la-foulee-farledoise-2015-renseignements/"
         },
         "jsdcourse.com/2015/04/trail-de-la-cerise-2015-renseignements-jsd-course-sur-route": {
             "title": "Trail de la cerise 2015 (renseignements) JSD Course sur route...",
-            "snippet": "JSD COURSE SUR ROUTE. Nom de l'\u00e9preuve: Trail de la Cerise. Anciennet\u00e9: 6\u00e8me \u00e9dition. Date: Le dimanche 21 juin 2015. Distance: 10km200 et 17km. D\u00e9nivel\u00e9: 250m (Course 10km200) et 600m (Course 17km).",
+            "snippet": "Trail de la cerise 2015 (renseignements). d\u00e9partement 84 bonnieux JSD COURSE SUR ROUTE. Nom de l'\u00e9preuve: Trail de la Cerise. Anciennet\u00e9: 6\u00e8me \u00e9dition. Date: Le dimanche 21 juin 2015. Distance: 10km200 et 17km.",
             "date": "2015-04-22",
             "author_name": "jsdcourse",
             "categories": "course-sur-route",
-            "tags": "jsd,jsd_course,course,route,renseignements,nom,\u00e9preuve,anciennet\u00e9,\u00e8me,\u00e9dition,date,dimanche,juin,distance,d\u00e9nivel\u00e9",
+            "tags": "jsd,jsd_course,course,route,renseignements,nom,\u00e9preuve,anciennet\u00e9,\u00e8me,\u00e9dition,date,dimanche,juin,distance",
             "recuweb_url": "http://fr.recuweb.com/course-sur-route/jsdcourse.com/2015/04/trail-de-la-cerise-2015-renseignements-jsd-course-sur-route",
-            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jsdcourse.com/2015/04/22/trail-de-la-cerise-2015-renseignements/"
+        },
+        "parismatch.com/2015/04/elle-part-favorite-dans-la-course-supr%C3%AAme-hillary-clinton-en-route": {
+            "title": "Elle part favorite dans la course supr\u00eame - Hillary Clinton, en route...",
+            "snippet": "Le coup d'envoi est donn\u00e9. Apr\u00e8s des mois de faux suspense, Hillary Clinton, 67 ans, a annonc\u00e9 sa candidature le 12 avril. Un simple Tweet sign\u00e9 d'un H pour Hillary. Avocate brillante, ancienne s\u00e9natrice de New York et...",
+            "date": "2015-04-18",
+            "author_name": "Paris Match",
+            "tags": "envoi,donn\u00e9,coup,course,route,apr\u00e8s,avril",
+            "recuweb_url": "http://fr.recuweb.com/parismatch.com/2015/04/elle-part-favorite-dans-la-course-supr%C3%AAme-hillary-clinton-en-route",
+            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://parismatch.com/Actu/International/Hillary-Clinton-en-route-pour-la-Maison-Blanche-745334"
         },
         "jsdcourse.com/2015/04/le-bol-d-air-barbenais-2015-renseignements-jsd-course-sur-route": {
             "title": "Le bol d'air barbenais 2015 (renseignements) JSD Course sur route...",
@@ -49,7 +59,7 @@
             "author_name": "jsdcourse",
             "tags": "anciennet\u00e9,jsd,jsd_course,course,renseignements,route,nom,\u00e9preuve,\u00e8me,\u00e9dition,date,dimanche,juin,distance,d\u00e9nivel\u00e9",
             "recuweb_url": "http://fr.recuweb.com/jsdcourse.com/2015/04/le-bol-d-air-barbenais-2015-renseignements-jsd-course-sur-route",
-            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=course%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jsdcourse.com/2015/04/17/le-bol-dair-barbenais-2015-renseignements/"
         },
         "ententenordloire44.wordpress.com/2015/03/r%C3%A9sultats-course-sur-route": {
@@ -57,9 +67,9 @@
             "snippet": "Pour la 8\u00e8me Edition de L'ECOTRAIL DE PARIS, divers distances \u00e9taient au programme.G\u00e9raldine HEUZE s'est align\u00e9e sur le 80 kms avec un d\u00e9nivel\u00e9 de 1500 m, elle termine 7\u00e8me f\u00e9minine en 8h00'04.",
             "date": "2015-03-23",
             "author_name": "ententenordloire44",
-            "tags": "\u00e8me,termine,d\u00e9nivel\u00e9,programme,course,route",
+            "tags": "d\u00e9nivel\u00e9,programme,r\u00e9sultats,course,route,\u00e8me",
             "recuweb_url": "http://fr.recuweb.com/ententenordloire44.wordpress.com/2015/03/r%C3%A9sultats-course-sur-route",
-            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute&f=feed&page=1",
             "source_url": "http://ententenordloire44.wordpress.com/2015/03/23/resultats-course-sur-route/"
         },
         "ffmc71.wordpress.com/2014/05/north-west-200-d%C3%A9c%C3%A8s-du-pilote-simon-andrews": {
@@ -67,9 +77,9 @@
             "snippet": "Triste nouvelle au North West 200, course de moto sur route qui avait lieu du 10 au 17 mai en Irlande. Le pilote anglais Simon Andrews a succomb\u00e9 []...",
             "date": "2014-05-21",
             "author_name": "ffmc71",
-            "tags": "mai,course,route,lieu",
+            "tags": "mai,lieu,course,route",
             "recuweb_url": "http://fr.recuweb.com/ffmc71.wordpress.com/2014/05/north-west-200-d%C3%A9c%C3%A8s-du-pilote-simon-andrews",
-            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute&f=feed&page=1",
             "source_url": "http://ffmc71.wordpress.com/2014/05/21/north-west-200-deces-du-pilote-simon-andrews/"
         },
         "cinquanteansetalors.com/2014/05/en-route-pour-les-courses": {
@@ -77,10 +87,30 @@
             "snippet": "Je vous jure que je me suis mis un coup de pied au derri\u00e8re pour aller faire le supermarch\u00e9! En effet, je vous raconte pas les courses pour...",
             "date": "2014-05-02",
             "author_name": "bypimprenelle",
-            "tags": "courses,coup,route",
+            "tags": "coup,route,courses",
             "recuweb_url": "http://fr.recuweb.com/cinquanteansetalors.com/2014/05/en-route-pour-les-courses",
-            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute%2Bcourse%2Bsur%2Broute&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=course%2Bsur%2Broute&f=feed&page=1",
             "source_url": "http://cinquanteansetalors.com/2014/05/02/en-route-pour-les-courses/"
+        },
+        "networklife.net/2010/01/bsci-lab-eigrp-load-balancing-networklife": {
+            "title": "BSCI: LAB EIGRP Load Balancing NetworkLife...",
+            "snippet": "Author: Benoit GONCALVES Course: BSCI - EIGRP - Load balancing Version: 1.1 autostart=True localhost:7200 7200 ROUTER R1 image=..... Table topologique. La table topologique contient une vue de la topologie avoisinante, et nous pouvons voir toutes...",
+            "date": "2010-01-13",
+            "author_name": "Benoit",
+            "tags": "vue,topologie,benoit,benoit_goncalves,goncalves,course,lab,lab_eigrp,eigrp,networklife,bsci,version,autostart,true,localhost,router,image",
+            "recuweb_url": "http://fr.recuweb.com/networklife.net/2010/01/bsci-lab-eigrp-load-balancing-networklife",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://networklife.net/2010/01/bsci-lab-eigrp-load-balancing/"
+        },
+        "networklife.net/2010/01/bsci-lab-eigrp-configuration-networklife": {
+            "title": "BSCI: LAB EIGRP Configuration NetworkLife...",
+            "snippet": "Fichier de topologie Dynagen.net Course: BSCI - EIGRP Author: Benoit GONCALVES Version: 1.1 autostart=True localhost:7200 7200 ROUTER R1 image=..... YES manual up up FastEthernet0/1 unassigned YES unset administratively down down Serial1/0 YES...",
+            "date": "2010-01-12",
+            "author_name": "Benoit",
+            "tags": "benoit,benoit_goncalves,goncalves,version,eigrp,topologie,lab,lab_eigrp,networklife,bsci,course,autostart,true,localhost,router,image",
+            "recuweb_url": "http://fr.recuweb.com/networklife.net/2010/01/bsci-lab-eigrp-configuration-networklife",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bcourse%2Bsur%2Broute&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://networklife.net/2010/01/bsci-lab-eigrp-configuration/"
         }
     }
 }
