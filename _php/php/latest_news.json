@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "php",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/php/",
@@ -11,14 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/php/php/blogs.json"
     },
     "items": {
+        "emploi.afjv.com/2015/05/d%C3%A9veloppeur-php-pour-jeux-mobiles-agence-fran%C3%A7aise-le-jeu-vid%C3%A9o": {
+            "title": "D\u00e9veloppeur PHP pour jeux mobiles - Agence Fran\u00e7aise pour le Jeu Vid\u00e9o...",
+            "snippet": "D\u00e9veloppeur PHP pour jeux mobilesAgence Fran\u00e7aise pour le Jeu Vid\u00e9oMob in Life, Jeune Entreprise Innovante cr\u00e9\u00e9e en 2011, est sp\u00e9cialiste du jeu social mobile (iOS-Android). Forte de trois premiers succ\u00e8s, avec Phone Fight (le premier jeu de...",
+            "date": "2015-05-04",
+            "categories": "php",
+            "tags": "fran\u00e7aise,php",
+            "recuweb_url": "http://fr.recuweb.com/php/emploi.afjv.com/2015/05/d%C3%A9veloppeur-php-pour-jeux-mobiles-agence-fran%C3%A7aise-le-jeu-vid%C3%A9o",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "source_url": "http://emploi.afjv.com/emploi-jeux-video/SDEV447-8437"
+        },
+        "emploi.presse-citron.net/2015/05/lead-developer-php-zend-framework-h-f-presse-citron": {
+            "title": "Lead developer PHP/Zend Framework H/F - Presse-citron...",
+            "snippet": "Lead developer PHP/Zend Framework H/FPresse-citronQapa met en relation les bons candidats avec les bons recruteurs en temps r\u00e9el. Bas\u00e9 sur une technologie de matching et machine learning, Qapa permet d'apporter une exp\u00e9rience utilisateurs unique...",
+            "date": "2015-05-01",
+            "categories": "technologie,php",
+            "tags": "utilisateurs,temps,zend,php",
+            "recuweb_url": "http://fr.recuweb.com/php/emploi.presse-citron.net/2015/05/lead-developer-php-zend-framework-h-f-presse-citron",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
+            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Lead+developer+PHP++Zend+Framework+HF/30209"
+        },
         "journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test": {
             "title": "PHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloud - JDN...",
             "snippet": "JDNPHP: Zend fait entrer Microsoft Azure dans l'\u00e8re du test en mode cloudJDNL'enjeu pour Microsoft: offrir un outil qui permettent de tester en front office des applications PHP h\u00e9berg\u00e9es sur Azure. Via une barre de navigation greff\u00e9e dans le...",
             "date": "2015-04-15",
             "categories": "navigation,php",
-            "tags": "cloud,php,applications",
+            "tags": "cloud,php,zend,applications",
             "recuweb_url": "http://fr.recuweb.com/php/journaldunet.com/2015/04/php-zend-fait-entrer-microsoft-azure-dans-l-%C3%A8re-du-test",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
             "source_url": "http://journaldunet.com/developpeur/outils/zend-z-ray-pour-microsoft-azure-0415.shtml"
         },
         "commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour": {
@@ -26,9 +46,9 @@
             "snippet": "Cloud, PHP 7 et workshops au programme du PHP Tour... aura le plaisir d'accueillir l'\u00e9tape annuelle du cycle de conf\u00e9rences itin\u00e9rant de l'AFUP (Association Fran\u00e7aise des Utilisateurs de PHP), les 12 et 13 mai, au sein de la prestigieuse abbaye...",
             "date": "2015-04-10",
             "categories": "plaisir,php",
-            "tags": "cloud,php",
+            "tags": "fran\u00e7aise,cloud,php,utilisateurs",
             "recuweb_url": "http://fr.recuweb.com/php/commentcamarche.net/2015/04/cloud-php-7-et-workshops-au-programme-du-tour",
-            "resource_url": "http://news.google.fr/?hl=fr&q=php%2Bphp&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=php&output=atom&nord=1",
             "source_url": "http://commentcamarche.net/news/5866376-cloud-php-7-et-workshops-au-programme-du-php-tour-luxembourg-2015"
         }
     }
