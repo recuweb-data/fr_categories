@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "snowboard",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/snowboard/",
@@ -11,15 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
     },
     "items": {
-        "beachbrother.com/2015/04/in-pursuit-of-slush-beach-brother": {
-            "title": "IN PURSUIT OF SLUSH - Beach Brother...",
-            "snippet": "Beach BrotherIN PURSUIT OF SLUSHBeach BrotherSURF; SKATE; SNOWBOARD; LIFESTYLE; SHOPPING; JEU. Facebook Twitter RSS Instagram. Beachbrother - Magazine Surf, skate & snowboard./JEU CONCOURS NITRO CIRCUS LIVE. IN PURSUIT OF SLUSH. le 30 avr 2015 par...",
-            "date": "2015-04-30",
-            "categories": "surf,facebook,twitter,lifestyle",
-            "tags": "board",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/beachbrother.com/2015/04/in-pursuit-of-slush-beach-brother",
-            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
-            "source_url": "http://beachbrother.com/2015/04/in-pursuit-of-slush/"
+        "midilibre.fr/2015/05/ces-dingues-de-surf-au-dessus-du-cercle-polaire-arctique": {
+            "title": "Ces dingues de surf au-dessus du cercle polaire arctique...",
+            "snippet": "explique Tommy Olsen, un Viking de 45 ans, dont une vingtaine sur les planches. En 24 heures, on peut vivre toute une s\u00e9rie d'exp\u00e9riences formidables: faire du snowboard dans la journ\u00e9e, surfer le soir, puis admirer les aurores bor\u00e9ales la...",
+            "date": "2015-05-03",
+            "categories": "surf",
+            "tags": "explique,board",
+            "recuweb_url": "http://fr.recuweb.com/surf/midilibre.fr/2015/05/ces-dingues-de-surf-au-dessus-du-cercle-polaire-arctique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=snowboard&format=RSS&cc=fr",
+            "source_url": "http://midilibre.fr/2015/05/03/ces-dingues-de-surf-au-dessus-du-cercle-polaire-arctique,1156593.php"
         },
         "ledauphine.com/2015/04/snowboard-blessure-grimal-cest-pas-le-pied": {
             "title": "SNOWBOARD/BLESSURE Grimal, cest pas le pied...",
@@ -46,7 +46,7 @@
             "categories": "place",
             "tags": "monde,record,board",
             "recuweb_url": "http://fr.recuweb.com/place/france3-regions.francetvinfo.fr/2015/04/video-record-du-monde-de-vitesse-en-snowboard-203275-km-h",
-            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard%2Bsnowboard&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=snowboard&output=atom&nord=1",
             "source_url": "http://france3-regions.francetvinfo.fr/provence-alpes/2015/04/04/video-record-du-monde-de-vitesse-en-snowboard-203275-kmh-698073.html"
         }
     }
