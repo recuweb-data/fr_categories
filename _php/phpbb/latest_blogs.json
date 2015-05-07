@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "phpbb",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/phpbb/",
@@ -11,16 +11,60 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/phpbb/phpbb/blogs.json"
     },
     "items": {
-        "forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-installation-phpbb-postgresql-9-1-debian": {
-            "title": "R\u00e9gl\u00e9 Installation phpBB - postgresql 9.1 - debian...",
-            "snippet": "Bonjour (je n'ai pas trouv\u00e9 de fil de pr\u00e9sentation donc je poste mon soucis), J'essaie d'installer phpBB sur mon h\u00e9bergement local sous DEBIAN Wheezy...",
-            "date": "2015-03-24",
-            "author_name": "totophe56",
+        "forums.phpbb-fr.com/2015/04/r%C3%A9gl%C3%A9-zone-partenaire-modifications-et-recherche": {
+            "title": "R\u00e9gl\u00e9 Zone partenaire: Modifications et recherche...",
+            "snippet": "Bonjour Avec l'ancien th\u00e8me de mon forum j'avais mis en place une zone de partenariat (styles-modifications-recherche-phpbb31/) Depuis j'ai chang\u00e9 de style et J'aimerai...",
+            "date": "2015-04-28",
+            "author_name": "cabot",
+            "categories": "place,phpbb",
+            "tags": "th\u00e8me,r\u00e9gl\u00e9,bonjour,forum,styles,style,phpbb",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/forums.phpbb-fr.com/2015/04/r%C3%A9gl%C3%A9-zone-partenaire-modifications-et-recherche",
+            "resource_url": "http://www.google.com/search?q=phpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.phpbb-fr.com/styles-modifications-recherche-phpbb31/sujet204562.html"
+        },
+        "phpbb-seo.com/2013/11/resolu-htaccess-mod-rewrite-r%C3%A9%C3%A9criture-url-avanc%C3%A9e-fr": {
+            "title": "[RESOLU].htaccess mod rewrite: R\u00e9\u00e9criture URL Avanc\u00e9e - fr...",
+            "snippet": "le forum phpbb est install\u00e9 dans le dossier \"decon-13\": Code: Tout s\u00e9lectionner: localhost/decon-13/C:wampwwwdecon-13. j'ai plac\u00e9 le.htaccess dans le dossier \"decon-13\" configur\u00e9 comme suit (les premi\u00e8res...",
+            "date": "2013-11-15",
+            "author_name": "elsa23",
+            "categories": "place,phpbb",
+            "tags": "install\u00e9,r\u00e9\u00e9criture,url,mod,rewrite,forum,phpbb,localhost,comme",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/phpbb-seo.com/2013/11/resolu-htaccess-mod-rewrite-r%C3%A9%C3%A9criture-url-avanc%C3%A9e-fr",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://phpbb-seo.com/fr/reecriture-url-avancee/sujet6889.html"
+        },
+        "phpbb-seo.com/2011/04/erreur-404-mod-rewrite-phpbb-fr-seo": {
+            "title": "Erreur 404: mod Rewrite phpBB - fr - phpBB SEO...",
+            "snippet": "localhost/phpBB3/?lang=fr&sid=4e59d75713f344745ceaabd88c5b5f70. La re-ecriture est activ\u00e9e dans acp. Le mode rewrite est activ\u00e9 dans xampp (---LoadModule...",
+            "date": "2011-04-25",
+            "author_name": "jameson",
+            "categories": "xampp,phpbb",
+            "tags": "rewrite,acp,erreur,mod,phpbb,seo,localhost",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/phpbb-seo.com/2011/04/erreur-404-mod-rewrite-phpbb-fr-seo",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://phpbb-seo.com/fr/mod-rewrite-phpbb/sujet6158.html"
+        },
+        "phpbb-seo.com/2011/01/probl%C3%A8me-installation-premod-sur-forum-phpbb3-phpbb-seo": {
+            "title": "Probl\u00e8me installation premod sur forum phpbb3... - phpBB SEO...",
+            "snippet": "Lorsque je clique sur mon premier forum: localhost:8888/phpbb3/?f=2 j'obtiens ceci: En r\u00e9\u00e9criture simple: localhost:8888/phpbb3/. The requested URL/phpbb3/was not found on this...",
+            "date": "2011-01-30",
+            "author_name": "geeketchic",
             "categories": "phpbb",
-            "tags": "h\u00e9bergement,phpbb,installer",
-            "recuweb_url": "http://fr.recuweb.com/phpbb/forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-installation-phpbb-postgresql-9-1-debian",
-            "resource_url": "http://www.google.com/search?q=phpbb%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forums.phpbb-fr.com/support-installation-phpbb31/sujet204179.html"
+            "tags": "not,r\u00e9\u00e9criture,phpbb,seo,premod,forum,localhost,url",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/phpbb-seo.com/2011/01/probl%C3%A8me-installation-premod-sur-forum-phpbb3-phpbb-seo",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://phpbb-seo.com/fr/premod-phpbb-seo/sujet6041.html"
+        },
+        "forums.phpbb-fr.com/2010/10/r%C3%A9gl%C3%A9-mod%C3%A8les-de-message-erreur": {
+            "title": "R\u00e9gl\u00e9 Mod\u00e8les de message Erreur...",
+            "snippet": "Bonjour, dans la console d'erreur, j'ai constat\u00e9 cette erreur: Erreur: is not a function Fichier Source: http://localhost/phpBB3/styles/prosilve... Ligne: 3973 Ligne en...",
+            "date": "2010-10-07",
+            "author_name": "eric6779",
+            "categories": "phpbb",
+            "tags": "not,erreur,message,r\u00e9gl\u00e9,bonjour,localhost,phpbb,styles",
+            "recuweb_url": "http://fr.recuweb.com/phpbb/forums.phpbb-fr.com/2010/10/r%C3%A9gl%C3%A9-mod%C3%A8les-de-message-erreur",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bphpbb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.phpbb-fr.com/mods-de-la-base-de-donnees/sujet177407.html"
         }
     }
 }
