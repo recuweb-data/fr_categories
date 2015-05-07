@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "golf",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/golf/",
@@ -11,26 +11,48 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/golf/golf/blogs.json"
     },
     "items": {
+        "blogautomobile.fr/2015/05/volkswagen-golf-r400-elle-va-rugir-blog-automobile": {
+            "title": "Volkswagen Golf R400, elle va rugir! - Blog Automobile...",
+            "snippet": "L'an dernier lors du Salon de P\u00e9kin, Volkswagen faisait sensation avec son concept de la Golf R400, une version aussi survitamin\u00e9e que bodybuild\u00e9e de la fameuse compacte. Sous le capot de ce concept se cachait un...",
+            "date": "2015-05-01",
+            "author_name": "contact@blogautomobile.fr (BlogAutomobile.fr)",
+            "categories": "golf",
+            "tags": "capot,concept,version,compacte,dernier,volkswagen,volkswagen_golf,golf,salon",
+            "recuweb_url": "http://fr.recuweb.com/golf/blogautomobile.fr/2015/05/volkswagen-golf-r400-elle-va-rugir-blog-automobile",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blogautomobile.fr/golf-r400-va-rugir-260245"
+        },
+        "intergolf.net/2015/04/journ%C3%A9es-portes-ouvertes-au-golf-h%C3%B4tel-de-montgriffon-les-16-17": {
+            "title": "Journ\u00e9es Portes ouvertes au golf-h\u00f4tel de Montgriffon les 16-17 mai...",
+            "snippet": "Journ\u00e9es Portes ouvertes au golf-h\u00f4tel de Montgriffon les 16-17 mai. Les 16 et 17 mai, portes ouvertes et animations au golf de Montgriffon. Ateliers ludiques, initiations gratuites, concerts, barcebue, feu d'artifice, snack sucr\u00e9...",
+            "date": "2015-04-30",
+            "author_name": "administrateur",
+            "categories": "golf",
+            "tags": "golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/intergolf.net/2015/04/journ%C3%A9es-portes-ouvertes-au-golf-h%C3%B4tel-de-montgriffon-les-16-17",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://intergolf.net/journees-porte-ouvertes-au-golf-de-montgriffon-16-17-mai/"
+        },
         "quechoisir.org/2015/04/golf-alltrack-premi%C3%A8res-impressions-ufc-que-choisir": {
             "title": "Golf Alltrack - Premi\u00e8res impressions - UFC Que Choisir...",
             "snippet": "La Volkswagen Golf est d\u00e9sormais d\u00e9clin\u00e9e en version Alltrack, une voiture rehauss\u00e9e disposant de quatre roues motrices. Un mod\u00e8le qui impose un effort financier si on veut se l'offrir.",
             "date": "2015-04-29",
             "author_name": "inconnu",
             "categories": "golf",
-            "tags": "volkswagen,volkswagen_golf,golf,golf_alltrack,alltrack,version",
+            "tags": "version,volkswagen,volkswagen_golf,golf,golf_alltrack,alltrack",
             "recuweb_url": "http://fr.recuweb.com/golf/quechoisir.org/2015/04/golf-alltrack-premi%C3%A8res-impressions-ufc-que-choisir",
-            "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://quechoisir.org/auto/actualite-golf-alltrack-premieres-impressions"
         },
         "turbo.fr/2015/04/essai-volkswagen-golf-alltrack-2015-test-auto": {
             "title": "Essai Volkswagen Golf Alltrack (2015) - Test auto...",
-            "snippet": "Chez Volkswagen, la famille Golf n'a jamais \u00e9t\u00e9 aussi compl\u00e8te. La compacte officie maintenant chez les breaks baroudeurs avec la Alltrack, bas\u00e9e sur le...",
+            "snippet": "Chez Volkswagen, la famille Golf n'a jamais \u00e9t\u00e9 aussi compl\u00e8te. La compacte officie maintenant chez les breaks baroudeurs avec la Alltrack, bas\u00e9e sur le break SW. Chssis rehauss\u00e9, transmission int\u00e9grale La Golf n'est...",
             "date": "2015-04-28",
             "author_name": "inconnu",
             "categories": "golf",
-            "tags": "volkswagen,volkswagen_golf,golf,golf_alltrack,alltrack,auto",
+            "tags": "int\u00e9grale,compacte,\u00e9t\u00e9,volkswagen,volkswagen_golf,golf,golf_alltrack,alltrack,auto",
             "recuweb_url": "http://fr.recuweb.com/golf/turbo.fr/2015/04/essai-volkswagen-golf-alltrack-2015-test-auto",
-            "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://turbo.fr/volkswagen/volkswagen-golf-7/essai-auto/764818-essai-volkswagen-golf-7/"
         },
         "turbo.fr/2015/04/volkswagen-golf-r400-production-confirm%C3%A9e-avec-420-ch": {
@@ -39,9 +61,9 @@
             "date": "2015-04-24",
             "author_name": "inconnu",
             "categories": "golf",
-            "tags": "\u00eatre,pr\u00e9sent\u00e9,concept,responsable,production,volkswagen,volkswagen_golf,golf,salon",
+            "tags": "capot,\u00eatre,pr\u00e9sent\u00e9,concept,volkswagen,volkswagen_golf,golf,salon",
             "recuweb_url": "http://fr.recuweb.com/golf/turbo.fr/2015/04/volkswagen-golf-r400-production-confirm%C3%A9e-avec-420-ch",
-            "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://turbo.fr/actualite-automobile/764490-volkswagen-golf-r400-production-confirmee/"
         },
         "caradisiac.com/2015/04/2-000-km-en-volkswagen-golf-gte-faut-il-profiter": {
@@ -50,9 +72,9 @@
             "date": "2015-04-13",
             "author_name": "inconnu",
             "categories": "golf",
-            "tags": "semaine,volkswagen,volkswagen_golf,golf,golf_gte,gte,france,premier,auto",
+            "tags": "avons,semaine,volkswagen,volkswagen_golf,golf,golf_gte,gte,france,premier,auto",
             "recuweb_url": "http://fr.recuweb.com/golf/caradisiac.com/2015/04/2-000-km-en-volkswagen-golf-gte-faut-il-profiter",
-            "resource_url": "http://www.google.com/search?q=golf%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://caradisiac.com/2-000-km-en-VW-Golf-GTE-faut-il-profiter-du-superbonus-pour-acheter-un-hybride-rechargeable-101905.htm"
         },
         "parismatch.com/2015/03/en-floride-un-alligator-g%C3%A9ant-perturbe-tournoi-de-golf": {
@@ -61,10 +83,32 @@
             "date": "2015-03-13",
             "author_name": "Paris Match",
             "categories": "golf",
-            "tags": "\u00e9tait,semaine,tournoi,golf,parcours",
+            "tags": "\u00e9tait,semaine,parcours,tournoi,golf",
             "recuweb_url": "http://fr.recuweb.com/golf/parismatch.com/2015/03/en-floride-un-alligator-g%C3%A9ant-perturbe-tournoi-de-golf",
             "resource_url": "http://www.google.com/search?q=golf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://parismatch.com/Actu/Insolite/Un-alligator-geant-perturbe-un-tournoi-de-golf-725188"
+        },
+        "saidia2011.blogspot.com/2011/07/franklyn-sa%C3%AFdia-morocco-saidia-maroc": {
+            "title": "Franklyn Sa\u00efdia, Morocco Saidia Maroc...",
+            "snippet": "This boutique resort enjoys a privileged location overlooking the Championship golf course and lake and is just moments from the picturesque medina and marina. Each of the Mediterranean-Arab styled villas boasts stunning views of the neighbouring...",
+            "date": "2011-07-21",
+            "author_name": "MS Timicha",
+            "categories": "golf",
+            "tags": "course,maroc,golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/saidia2011.blogspot.com/2011/07/franklyn-sa%C3%AFdia-morocco-saidia-maroc",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://saidia2011.blogspot.com/2011/07/franklyn-saidia-morocco.html"
+        },
+        "georezo.net/2009/03/openlayers-probl%C3%A8me-couche-wfs-avec-google-map-georezo": {
+            "title": "Openlayers Probl\u00e8me Couche WFS avec Google Map - GeoRezo...",
+            "snippet": "J'ai un Shapefile couvrant une parti des c\u00f4tes du golf persique. (EPSG:3439) J'ai fait pour Mapserver un.map... (\"ArabianGulf\", \"localhost:8080/cgi-bin/?MAP=C:/ms4w/wfs/&\",...",
+            "date": "2009-03-25",
+            "author_name": "Ren\u00e9-Luc D'Hont",
+            "categories": "google,golf",
+            "tags": "probl\u00e8me,golf",
+            "recuweb_url": "http://fr.recuweb.com/golf/georezo.net/2009/03/openlayers-probl%C3%A8me-couche-wfs-avec-google-map-georezo",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bgolf&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://georezo.net/forum/viewtopic.php?id=60045"
         }
     }
 }
