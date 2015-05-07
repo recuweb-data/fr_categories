@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "empire",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/empire/",
@@ -42,7 +42,7 @@
             "categories": "empire",
             "tags": "empire",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/02/l-empire-ottoman-quelques-enseignements-hassan-iquioussen",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=TOHwKxZTJlA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/TOHwKxZTJlA/0.jpg"
         },
@@ -52,7 +52,7 @@
             "date": "2015-01-30",
             "author_name": "hothbricks",
             "categories": "empire",
-            "tags": "empire",
+            "tags": "empire,star,star_wars,wars",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2015/01/lego-star-wars-empire-take-over-kickoff",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x2fza5g_lego-star-wars-empire-take-over-kickoff_videogames",
@@ -66,7 +66,7 @@
             "categories": "empire",
             "tags": "films,empire,\u00e9pisode",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/01/l-empire-britannique-en-couleurs-1-3-le-temps-des-colonies",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Y0FpLmXc5x8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Y0FpLmXc5x8/0.jpg"
         },
@@ -78,7 +78,7 @@
             "categories": "construction,empire",
             "tags": "capitale,empire",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2015/01/l-empire-perse",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=ZPql6iRjV4c&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/ZPql6iRjV4c/0.jpg"
         },
@@ -90,7 +90,7 @@
             "categories": "empire",
             "tags": "capitale,empire,\u00e9pisode",
             "recuweb_url": "http://fr.recuweb.com/empire/youtube.com/2014/12/ottomans-contre-chr%C3%A9tiens-1-3-les-btisseurs-de-l-empire",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire%2Bempire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=empire&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=OGhSeZnX9m8&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/OGhSeZnX9m8/0.jpg"
         },
@@ -100,11 +100,23 @@
             "date": "2014-10-29",
             "author_name": "romstation",
             "categories": "empire",
-            "tags": "empire,gameplay,arcade,romstationtags",
+            "tags": "empire,gameplay,romstationtags",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/empire-city-1931-gameplay-arcade",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x28w3fb_empire-city-1931-gameplay-arcade_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x28w3fb_empire-city-1931-gameplay-arcade_videogames"
+        },
+        "dailymotion.com/2014/10/star-wars-shadows-of-the-empire-gameplay-n64": {
+            "title": "Star Wars: Shadows of the Empire - Gameplay - n64...",
+            "snippet": "Wars: Shadows of the Empire est un jeu d'action sur Nintendo 64. Le soft est divis\u00e9 en quatre parties diff\u00e9rentes qui retracent toutes des parties des divers films Star Wars. Vous incarnez Dash Rendar et vous devez, en compagnie de Luke...",
+            "date": "2014-10-29",
+            "author_name": "romstation",
+            "categories": "empire",
+            "tags": "films,action,star,star_wars,wars,empire,gameplay",
+            "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/star-wars-shadows-of-the-empire-gameplay-n64",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+empire/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28wby8_star-wars-shadows-of-the-empire-gameplay-n64_videogames",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28wby8_star-wars-shadows-of-the-empire-gameplay-n64_videogames"
         },
         "dailymotion.com/2014/10/steel-empire-gameplay-gba": {
             "title": "Steel Empire - Gameplay - gba...",
@@ -112,23 +124,11 @@
             "date": "2014-10-29",
             "author_name": "romstation",
             "categories": "empire",
-            "tags": "empire,gameplay,game,romstationtags",
+            "tags": "empire,gameplay,action,romstationtags",
             "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/steel-empire-gameplay-gba",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
             "source_url": "http://dailymotion.com/video/x28wb68_steel-empire-gameplay-gba_videogames",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x28wb68_steel-empire-gameplay-gba_videogames"
-        },
-        "dailymotion.com/2014/10/the-empire-strikes-back-gameplay-arcade": {
-            "title": "The Empire Strikes Back - Gameplay - arcade...",
-            "snippet": "third arcade outing based on the legendary trilogy of films; \"Empire Strikes Back\" eschews Jedi's Zaxxon-inspired gameplay and returns once more to the 3D vector graphics of the first game. Empire features four stages of play, with the first two...",
-            "date": "2014-10-29",
-            "author_name": "romstation",
-            "categories": "play,empire",
-            "tags": "game,gameplay,empire,arcade,films",
-            "recuweb_url": "http://fr.recuweb.com/empire/dailymotion.com/2014/10/the-empire-strikes-back-gameplay-arcade",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/empire/0?af=1",
-            "source_url": "http://dailymotion.com/video/x28w3rz_the-empire-strikes-back-gameplay-arcade_videogames",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x28w3rz_the-empire-strikes-back-gameplay-arcade_videogames"
         }
     }
 }
