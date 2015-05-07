@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "rugby",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/rugby/",
@@ -11,25 +11,95 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/rugby/rugby/blogs.json"
     },
     "items": {
-        "lemonde.fr/2015/05/rugby-toulon-remporte-son-troisi%C3%A8me-titre-europ%C3%A9en": {
-            "title": "Rugby: Toulon remporte son troisi\u00e8me titre europ\u00e9en...",
-            "snippet": "Plus puissant, plus r\u00e9aliste, plus incisif que Clermont (24-18), le Rugby club toulonnais (RCT) vient de r\u00e9ussir un tour de force unique en son genre. Le club varois a remport\u00e9 son troisi\u00e8me titre d'affil\u00e9e en Coupe d'Europe, samedi 2 mai,...",
-            "date": "2015-05-02",
+        "francetvinfo.fr/2015/05/direct-rugby-revivez-la-finale-de-coupe-deurope-entre-clermont": {
+            "title": "DIRECT. Rugby: revivez la finale de la coupe dEurope entre Clermont et Toulon...",
+            "snippet": "C'est du jamais vu: trois titres cons\u00e9cutifs de champion d'Europe pour le club de rugby de Toulon. Dans l'antre londonien de Twickenham, samedi 2 mai, les hommes de Bernard Laporte ont battu l'\u00e9quipe de Clermont (24-18), dans un remake de la...",
+            "date": "2015-05-03",
             "categories": "rugby",
-            "tags": "troisi\u00e8me,titre,r\u00e9ussir,force,rugby,toulon,clermont,rct,coupe,europe,samedi,mai",
-            "recuweb_url": "http://fr.recuweb.com/rugby/lemonde.fr/2015/05/rugby-toulon-remporte-son-troisi%C3%A8me-titre-europ%C3%A9en",
+            "tags": "trois,champion,rugby,finale,coupe,deurope,clermont,toulon,europe,samedi,\u00e9quipe",
+            "recuweb_url": "http://fr.recuweb.com/rugby/francetvinfo.fr/2015/05/direct-rugby-revivez-la-finale-de-coupe-deurope-entre-clermont",
             "resource_url": "http://www.bing.com/news/search?first=1&q=rugby&format=RSS&cc=fr",
-            "source_url": "http://lemonde.fr/sport/article/2015/05/02/rugby-toulon-remporte-un-troiseme-titre-europeen-historique_4626477_3242.html"
+            "source_url": "http://francetvinfo.fr/sports/rugby/direct-rugby-regardez-la-finale-de-la-coupe-deurope-entre-clermont-et-toulon_892111.html"
         },
-        "francetvinfo.fr/2015/05/rugby-vis-ma-vie-de-supporter-clermont-loser-jusqu-au-bout": {
-            "title": "Rugby: vis ma vie de supporter de Clermont, loser jusqu'au bout des ongles...",
-            "snippet": "Vingt-sept finales, vingt d\u00e9faites. Le ratio des Clermontois dans les moments d\u00e9cisifs est calamiteux. N'emp\u00eache: leurs supporters y croient dur comme fer. Cette finale de Coupe d'Europe contre Toulon, samedi 2 mai, c'est la bonne. Un supporter...",
-            "date": "2015-05-02",
+        "ouest-france.fr/2015/05/dinan-l-%C3%A9quipe-de-rugby-f%C3%AAte-son-titre-champion-bretagne": {
+            "title": "Dinan. L'\u00e9quipe de rugby f\u00eate son titre de champion de Bretagne...",
+            "snippet": "Les rugbymen dinannais ont gagn\u00e9 contre Landivisiau. Ils joueront dimanche prochain leur qualification pour le championnat de France. Larriv\u00e9e des joueurs de rugby sest fait entendre, ce dimanche soir vers 20 h, sur la place Duguesclin. Un vrai...",
+            "date": "2015-05-03",
+            "categories": "place,rugby",
+            "tags": "place,contre,titre,champion,\u00e9quipe,rugby,france",
+            "recuweb_url": "http://fr.recuweb.com/rugby/ouest-france.fr/2015/05/dinan-l-%C3%A9quipe-de-rugby-f%C3%AAte-son-titre-champion-bretagne",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rugby&format=RSS&cc=fr",
+            "source_url": "http://ouest-france.fr/lequipe-de-rugby-fete-son-titre-de-champion-de-bretagne-3375063"
+        },
+        "sudouest.fr/2015/05/rugby-pas-de-miracle-pour-l-us-dax-rel%C3%A9gu%C3%A9e-en-f%C3%A9d%C3%A9rale": {
+            "title": "Rugby: pas de miracle pour l'US Dax, rel\u00e9gu\u00e9e en F\u00e9d\u00e9rale 1...",
+            "snippet": "Gilbert Ponteins: \"On a pris le taureau par les cornes beaucoup trop tard\" Gilbert Ponteins, dirigeant de l'US Dax et ancien pr\u00e9sident de l'US Dax: \"Aujourdhui, jai le c\u0153ur gros car cest une organisation de plus de 100 ans qui tombe.",
+            "date": "2015-05-03",
             "categories": "rugby",
-            "tags": "finale,rugby,clermont,emp\u00eache,coupe,europe,contre,toulon,samedi,mai",
-            "recuweb_url": "http://fr.recuweb.com/rugby/francetvinfo.fr/2015/05/rugby-vis-ma-vie-de-supporter-clermont-loser-jusqu-au-bout",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=rugby%2Brugby&format=RSS&cc=fr",
-            "source_url": "http://francetvinfo.fr/sports/rugby/rugby-vis-ma-vie-de-supporter-de-clermont-loser-jusqu-au-bout-des-ongles_890187.html"
+            "tags": "gros,ancien,pr\u00e9sident,rugby",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sudouest.fr/2015/05/rugby-pas-de-miracle-pour-l-us-dax-rel%C3%A9gu%C3%A9e-en-f%C3%A9d%C3%A9rale",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=rugby&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/05/03/rugby-pro-d2-pas-de-miracle-pour-l-us-dax-releguee-en-federale-1-1910098-3452.php"
+        },
+        "sport24.lefigaro.fr/2015/05/les-notes-de-clermont-toulon-le-figaro-sport": {
+            "title": "Les notes de Clermont-Toulon - Le Figaro Sport...",
+            "snippet": "Le Figaro SportLes notes de Clermont-ToulonLe Figaro SportJANCAP. La puissance artificielle des mammouths a compl\u00e8tement d\u00e9natur\u00e9 le rugby. Apr\u00e8s la conqu\u00eate, la destruction a remplac\u00e9 l'\u00e9vitement et la subtilit\u00e9. Ceux qui ont longtemps...",
+            "date": "2015-05-02",
+            "categories": "sport,rugby",
+            "tags": "destruction,clermont,toulon,rugby,apr\u00e8s",
+            "recuweb_url": "http://fr.recuweb.com/rugby/sport24.lefigaro.fr/2015/05/les-notes-de-clermont-toulon-le-figaro-sport",
+            "resource_url": "http://news.google.fr/?hl=fr&q=rugby&output=atom&nord=1",
+            "source_url": "http://sport24.lefigaro.fr/rugby/coupes-d-europe2/actualites/les-notes-de-clermont-toulon-748522"
+        },
+        "fool.com.au/2015/04/top-stock-picks-for-april-motley-fool-australia": {
+            "title": "Top stock picks for April - Motley Fool Australia...",
+            "snippet": "Top stock picks for AprilMotley Fool Australiamost of Australia's top sporting teams as customers, including all AFL, NRL and every Super Rugby team, Catapult is growing exposure internationally, including into US basketball, National Football...",
+            "date": "2015-04-04",
+            "categories": "football,rugby",
+            "tags": "football,including,super,super_rugby,rugby,every,including-all,top,sporting,teams,team,fool,motley,motley_fool,motley_fool_australia,fool_australia,australia,stock,afl,nrl,catapult",
+            "recuweb_url": "http://fr.recuweb.com/rugby/fool.com.au/2015/04/top-stock-picks-for-april-motley-fool-australia",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Brugby&output=atom&nord=1",
+            "source_url": "http://fool.com.au/2015/04/07/top-stock-picks-for-april-2/"
+        },
+        "fool.com.au/2015/01/why-catapult-group-international-ltd-is-one-stock-to-watch-motley": {
+            "title": "Why Catapult Group International Ltd is one stock to watch - Motley Fool Australia...",
+            "snippet": "Why Catapult Group International Ltd is one stock to watchMotley Fool AustraliaA recent listing on the ASX, Catapult has a huge range of clients, including all AFL teams, all NRL teams every Super Rugby team, Australia's cricketers, Wallabies and...",
+            "date": "2015-01-21",
+            "categories": "rugby",
+            "tags": "super,super_rugby,rugby,teams,team,every,including,including-all,motley,motley_fool,fool,motley_fool_australia,fool_australia,australia,stock,catapult,group,asx,afl,nrl",
+            "recuweb_url": "http://fr.recuweb.com/rugby/fool.com.au/2015/01/why-catapult-group-international-ltd-is-one-stock-to-watch-motley",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Brugby&output=atom&nord=1",
+            "source_url": "http://fool.com.au/2015/01/21/why-catapult-group-international-ltd-is-one-stock-to-watch/"
+        },
+        "fool.com.au/2015/01/3-stocks-that-will-benefit-from-australia-s-sporting-obsession-motley": {
+            "title": "3 stocks that will benefit from Australia's sporting obsession - Motley Fool Australia...",
+            "snippet": "3 stocks that will benefit from Australia's sporting obsessionMotley Fool AustraliaThe company is the leader in the market for sporting goods from golf clubs to rugby boots, and has invested strongly in its online offering. It is investigating...",
+            "date": "2015-01-20",
+            "categories": "golf,rugby",
+            "tags": "company,market,sporting,fool,motley,stocks,australia,rugby",
+            "recuweb_url": "http://fr.recuweb.com/rugby/fool.com.au/2015/01/3-stocks-that-will-benefit-from-australia-s-sporting-obsession-motley",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Brugby&output=atom&nord=1",
+            "source_url": "http://fool.com.au/2015/01/21/3-stocks-that-will-benefit-from-australias-sporting-obsession/"
+        },
+        "fool.com.au/2014/09/3-cheap-stocks-to-buy-in-a-falling-market-motley-fool": {
+            "title": "3 cheap stocks to buy in a falling market - Motley Fool Australia...",
+            "snippet": "3 cheap stocks to buy in a falling marketMotley Fool AustraliaNot unlike a wall of rugby players, you have to make sure you're positioned right to stop the market going through your portfolio like a dose of the salts. Destruction! It's never pretty,...",
+            "date": "2014-09-28",
+            "categories": "rugby",
+            "tags": "market,fool,stocks,motley,motley_fool,motley_fool_australia,fool_australia,australia,rugby,destruction",
+            "recuweb_url": "http://fr.recuweb.com/rugby/fool.com.au/2014/09/3-cheap-stocks-to-buy-in-a-falling-market-motley-fool",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Brugby&output=atom&nord=1",
+            "source_url": "http://fool.com.au/2014/09/29/3-cheap-stocks-to-buy-in-a-falling-market/"
+        },
+        "fool.com.au/2014/05/investing-state-of-origin-queensland-versus-nsw-the-motley-fool": {
+            "title": "Investing State of Origin: Queensland versus NSW - The Motley Fool...",
+            "snippet": "Investing State of Origin: Queensland versus NSWThe Motley FoolSuncorp Group Limited (ASX: SUN) sponsors Queensland Rugby League and was looking hot until it announced a 500 million write-down. The insurance company... Definitely a player in...",
+            "date": "2014-05-28",
+            "categories": "rugby",
+            "tags": "company,rugby,motley,group,motley_fool,fool,asx",
+            "recuweb_url": "http://fr.recuweb.com/rugby/fool.com.au/2014/05/investing-state-of-origin-queensland-versus-nsw-the-motley-fool",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Brugby&output=atom&nord=1",
+            "source_url": "http://fool.com.au/2014/05/28/investing-state-of-origin-queensland-versus-nsw/"
         }
     }
 }
