@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "judo",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/judo/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/judo/judo/blogs.json"
     },
     "items": {
+        "rmcsport.bfmtv.com/2015/04/judo-riner-forfait-pour-bakou-rmc-sport": {
+            "title": "Judo: Riner forfait pour Bakou - RMC Sport...",
+            "snippet": "On a appris ce lundi que le septuple champion du monde de judo ferait \u00e9galement l'impasse sur le rendez-vous az\u00e9ri. Sa prochaine \u00e9ch\u00e9ance sera normalement le Masters, qui r\u00e9unit les huit meilleurs mondiaux par...",
+            "date": "2015-04-28",
+            "author_name": "inconnu",
+            "categories": "sport,judo",
+            "tags": "mondiaux,lundi,monde,sport,judo",
+            "recuweb_url": "http://fr.recuweb.com/judo/rmcsport.bfmtv.com/2015/04/judo-riner-forfait-pour-bakou-rmc-sport",
+            "resource_url": "http://www.google.com/search?q=judo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://rmcsport.bfmtv.com/judo/judo-riner-forfait-pour-bakou-881670.html"
+        },
         "senesport.info/2015/04/judo-championnat-d-afrique-de-libreville-2015-belle": {
             "title": "JUDO: CHAMPIONNAT D'AFRIQUE DE LIBREVILLE 2015: Belle...",
             "snippet": "JUDO REMISE DU DRAPEAU SENEGAL A HORTENSE DIEDHIOU, Infos B. Wade de Libreville: A la derni\u00e8re journ\u00e9e des championnats d'Afrique qui ont \u00e9t\u00e9 boucl\u00e9s ce dimanche, le S\u00e9n\u00e9gal est revenu...",
             "date": "2015-04-26",
             "author_name": "La Redaction",
             "categories": "judo",
-            "tags": "\u00e9t\u00e9,championnats,championnat,afrique,libreville,judo,journ\u00e9e",
+            "tags": "\u00e9t\u00e9,journ\u00e9e,championnats,championnat,afrique,libreville,judo",
             "recuweb_url": "http://fr.recuweb.com/judo/senesport.info/2015/04/judo-championnat-d-afrique-de-libreville-2015-belle",
-            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=judo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://senesport.info/main/judo-champinnat-dafrique-de-libreville-2015-belle-performance-des-lions-qui-se-classent-3eme-en-equipes/"
         },
         "gabonactu.com/2015/04/championnat-d-afrique-de-judo-gabon-1-petite-m%C3%A9daille-alg%C3%A9rie-15": {
@@ -28,21 +39,10 @@
             "date": "2015-04-26",
             "author_name": "Mod\u00e9rateur",
             "categories": "judo",
-            "tags": "championnat,judokas,comp\u00e9tition,afrique,judo,libreville",
+            "tags": "\u00e8me,championnat,judokas,afrique,judo,libreville",
             "recuweb_url": "http://fr.recuweb.com/judo/gabonactu.com/2015/04/championnat-d-afrique-de-judo-gabon-1-petite-m%C3%A9daille-alg%C3%A9rie-15",
-            "resource_url": "http://www.google.com/search?q=judo%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gabonactu.com/2015/04/championnat-dafrique-de-judo-gabon-1-petite-medaille-algerie-15/"
-        },
-        "huffingtonpost.fr/2015/03/le-judo-et-son-%C3%A9volution-g%C3%A9vrise-%C3%A9mane-huffington": {
-            "title": "Le judo et son \u00e9volution G\u00e9vrise \u00c9mane - Huffington Post...",
-            "snippet": "SPORT - La grande question qui se pose aujourd'hui au niveau des grandes instances c'est de savoir ce qu'on peut faire pour le judo sans comp\u00e9tition. Ne devrions-nous pas d\u00e9tecter les talents plus t\u00f4t?...",
-            "date": "2015-03-31",
-            "author_name": "G\u00e9vrise \u00c9mane",
-            "categories": "judo,sport",
-            "tags": "comp\u00e9tition,niveau,judo",
-            "recuweb_url": "http://fr.recuweb.com/sport/huffingtonpost.fr/2015/03/le-judo-et-son-%C3%A9volution-g%C3%A9vrise-%C3%A9mane-huffington",
             "resource_url": "http://www.google.com/search?q=judo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://huffingtonpost.fr/gevrise-emane/regles-judo_b_6976816.html"
+            "source_url": "http://gabonactu.com/2015/04/championnat-dafrique-de-judo-gabon-1-petite-medaille-algerie-15/"
         },
         "davidplet.wordpress.com/2015/01/kagami-biraki-2015-c%C3%A9r%C3%A9monie-de-la-ligue-picardie-judo-groupe-club": {
             "title": "KAGAMI BIRAKI 2015, c\u00e9r\u00e9monie de la ligue Picardie Judo (groupe judo club de Grandvilliers)...",
@@ -52,8 +52,19 @@
             "categories": "judo",
             "tags": "lors,judokas,judo,club",
             "recuweb_url": "http://fr.recuweb.com/judo/davidplet.wordpress.com/2015/01/kagami-biraki-2015-c%C3%A9r%C3%A9monie-de-la-ligue-picardie-judo-groupe-club",
-            "resource_url": "http://fr.search.wordpress.com/?q=judo%2Bjudo&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=judo&f=feed&page=1",
             "source_url": "http://davidplet.wordpress.com/2015/01/26/kagami-biraki-2015-ceremonie-de-la-ligue-picardie-judo-groupe-judo-club-de-grandvilliers/"
+        },
+        "jujitsu-jsr17.over-blog.com/2015/01/la-biographie-de-roger-cadi%C3%A8re-professeur-6eme-dan-judo-jujitsu": {
+            "title": "La biographie de Roger Cadi\u00e8re, professeur 6eme Dan Judo-Jujitsu...",
+            "snippet": "Renseignements Contact: Tel. 05 46 41 68 89. Cours et stages de... Examen d'entr\u00e9e formation de l'\u00e9cole Nationale des professeurs de Judo de l'Institut National des Sports 1969/1970 Major de Promotion: dipl\u00f4me d'Etat de professeur de Judo et...",
+            "date": "2015-01-17",
+            "author_name": "inconnu",
+            "categories": "judo,sport",
+            "tags": "renseignements,renseignements_contact,contact,dan,dan_judo,judo,roger,roger_cadi\u00e8re,cadi\u00e8re,biographie,jujitsu,tel,cours,examen",
+            "recuweb_url": "http://fr.recuweb.com/sport/jujitsu-jsr17.over-blog.com/2015/01/la-biographie-de-roger-cadi%C3%A8re-professeur-6eme-dan-judo-jujitsu",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jujitsu-jsr17.over-blog.com/article-la-biographie-de-roger-cadiere-professeur-6eme-dan-judo-sport-rochelais-125394117.html"
         },
         "dojoleonbressanalgrange.wordpress.com/2015/01/nouveau-comit%C3%A9-depuis-d%C3%A9cembre-2014": {
             "title": "Nouveau comit\u00e9 depuis d\u00e9cembre 2014...",
@@ -61,10 +72,32 @@
             "date": "2015-01-11",
             "author_name": "stephanemasson2015",
             "categories": "judo",
-            "tags": "judo,pr\u00e9sident,comit\u00e9",
+            "tags": "judo,roger,luc",
             "recuweb_url": "http://fr.recuweb.com/judo/dojoleonbressanalgrange.wordpress.com/2015/01/nouveau-comit%C3%A9-depuis-d%C3%A9cembre-2014",
-            "resource_url": "http://fr.search.wordpress.com/?q=judo%2Bjudo&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=judo&f=feed&page=1",
             "source_url": "http://dojoleonbressanalgrange.wordpress.com/2015/01/11/nouveau-comite-depuis-decembre-2014/"
+        },
+        "jujitsu-jsr17.over-blog.com/2014/03/le-double-talent-de-s%C3%A9verine-n%C3%A9bie-judo-sport-rochelais-overblog": {
+            "title": "Le double talent de S\u00e9verine N\u00e9bie - Judo Sport Rochelais - Overblog...",
+            "snippet": "Renseignements Contact: Tel.... Au JUDO SPORT ROCHELAIS - DOJO BONPLAND RUE GAMBETTA LA ROCHELLE LE LUNDI 19H00-20H30... Le double talent de S\u00e9verine N\u00e9bie (Judo & Jujitsu).",
+            "date": "2014-03-14",
+            "author_name": "inconnu",
+            "categories": "judo,sport",
+            "tags": "lundi,renseignements,renseignements_contact,contact,judo,sport,tel,jujitsu",
+            "recuweb_url": "http://fr.recuweb.com/sport/jujitsu-jsr17.over-blog.com/2014/03/le-double-talent-de-s%C3%A9verine-n%C3%A9bie-judo-sport-rochelais-overblog",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jujitsu-jsr17.over-blog.com/article-le-double-talent-de-severine-nebie-judo-jujitsu-122953855.html"
+        },
+        "jujitsu-jsr17.over-blog.com/2007/09/efficacite-du-ju-jitsu-traditionnel-en-self-defense": {
+            "title": "EFFICACITE DU JU JITSU TRADITIONNEL EN SELF-DEFENSE...",
+            "snippet": "Publi\u00e9 par () Cours avec Roger Cadi\u00e8re 6\u00e8me dan Judo-Jujitsu Liens vers: BIOGRAPHIE DE ROGER CADIERE 6\u00e8me DAN JUDO-JUJITSU au J S R depuis 1973 Les enseignants Jujitsu au...",
+            "date": "2007-09-08",
+            "author_name": "inconnu",
+            "categories": "judo",
+            "tags": "dan,dan_judo,judo,biographie,roger,roger_cadi\u00e8re,cadi\u00e8re,jujitsu,\u00e8me,cours,enseignants",
+            "recuweb_url": "http://fr.recuweb.com/judo/jujitsu-jsr17.over-blog.com/2007/09/efficacite-du-ju-jitsu-traditionnel-en-self-defense",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjudo&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jujitsu-jsr17.over-blog.com/article-efficacite-du-ju-jitsu-traditionnel-en-self-defense-37683258.html"
         }
     }
 }
