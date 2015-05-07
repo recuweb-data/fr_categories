@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "application-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/application-web/",
@@ -11,16 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
     },
     "items": {
-        "espresso-jobs.com/2015/04/programmeur-analyste-applications-web-php-espresso-jobs": {
-            "title": "Programmeur-analyste (applications Web PHP) - Espresso Jobs...",
-            "snippet": "Programmeur-analyste (applications Web PHP) Postuler Favoris. som62. Entreprise SOM Type Temps plein Ville Qu\u00e9bec Status Poste disponible Exp\u00e9rience de travail Junior Date de publication 24 avr 2015. Imprimer. Share on twitter Share...",
-            "date": "2015-04-24",
-            "author_name": "SOM",
-            "categories": "twitter,php",
-            "tags": "twitter,temps,web,applications,disponible,exp\u00e9rience",
-            "recuweb_url": "http://fr.recuweb.com/php/espresso-jobs.com/2015/04/programmeur-analyste-applications-web-php-espresso-jobs",
-            "resource_url": "http://www.google.com/search?q=application%2Bweb%2Bapplication%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://espresso-jobs.com/emplois/som-programmeur-analyste-applications-web-php/"
+        "gnomelibre.fr/2015/04/transformer-un-site-web-en-application-avec-gnome-libre": {
+            "title": "Transformer un site web en application avec Web:) GNOME Libre...",
+            "snippet": "Web, le navigateur du projet GNOME, permet de transformer un site web en application, ce qui permet de pouvoir ensuite rechercher le site depuis le shell, ou de l'ajouter dans le dash, avec vos applications favorites.",
+            "date": "2015-04-25",
+            "author_name": "Okki",
+            "tags": "ensuite,site,projet,web,applications,navigateur",
+            "recuweb_url": "http://fr.recuweb.com/gnomelibre.fr/2015/04/transformer-un-site-web-en-application-avec-gnome-libre",
+            "resource_url": "http://www.google.com/search?q=application%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://gnomelibre.fr/2015/04/transformer-un-site-web-en-application-avec-web/"
         },
         "freelance-info.fr/2015/04/d%C3%A9veloppeur-application-web-mission-client-final-h-f-freelance": {
             "title": "D\u00e9veloppeur Application Web (Mission Client Final) (h/f) - Freelance...",
@@ -39,7 +38,7 @@
             "date": "2015-04-17",
             "author_name": "WordPress.tv",
             "categories": "wordpress",
-            "tags": "comme,d\u00e9veloppement,d\u00e9veloppeurs,tant,application,web",
+            "tags": "application,comme,base,d\u00e9veloppement,web",
             "recuweb_url": "http://fr.recuweb.com/wordpress/wordpress.tv/2015/04/julien-lamb%C3%A9-wordpress-en-tant-que-framework-d-application",
             "resource_url": "http://www.google.com/search?q=application%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://wordpress.tv/2015/04/17/julien-lambe-wordpress-en-tant-que-framework-dapplication-developper-des-applications-web-avec-wordpress-et/"
@@ -49,30 +48,19 @@
             "snippet": "Diff\u00e9rence entre un site web et une application web... Tout \u00e7a parce que des commerciaux vendent du r\u00eave aux clients en ajoutant dans le contrant: appli RH full SAS compatible avec IE6. T_T Rhaaaaaa PS: mon site...",
             "date": "2015-04-09",
             "author_name": "Luc",
-            "tags": "clients,site,web,application",
+            "tags": "site,clients,web,application",
             "recuweb_url": "http://fr.recuweb.com/luc-damas.fr/2015/04/diff%C3%A9rence-entre-un-site-web-et-une-application-humeurs",
             "resource_url": "http://www.google.com/search?q=application%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://luc-damas.fr/humeurs/difference-entre-un-site-web-et-une-application-web/"
-        },
-        "tuxboard.com/2015/04/facebook-lance-la-version-web-de-son-application-messenger": {
-            "title": "Facebook lance la version Web de son application Messenger...",
-            "snippet": "Facebook a lanc\u00e9 ce mercredi 8 avril 2015 une version Web de son application de messagerie Messenger qui est d\u00e9sormais ind\u00e9pendante du r\u00e9seau social de Mark.",
-            "date": "2015-04-09",
-            "author_name": "Polo",
-            "categories": "facebook",
-            "tags": "lance,facebook,web,application",
-            "recuweb_url": "http://fr.recuweb.com/facebook/tuxboard.com/2015/04/facebook-lance-la-version-web-de-son-application-messenger",
-            "resource_url": "http://www.google.com/search?q=application%2Bweb%2Bapplication%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://tuxboard.com/facebook-version-web-application-messenger/"
         },
         "hammouani.wordpress.com/2015/04/architecture-des-applications-web": {
             "title": "Architecture des applications web...",
             "snippet": "Pattern architectural Un pattern architectural est lexpression dun sch\u00e9ma fondamental dorganisation pour des syst\u00e8mes logiciels. Il inclut un ensemble de soussyst\u00e8mes pr\u00e9d\u00e9finis, pr\u00e9cise leurs responsabilit\u00e9s et prescrit des r\u00e8gles et des...",
             "date": "2015-04-07",
             "author_name": "rachidhammouani",
-            "tags": "syst\u00e8mes,applications,web",
+            "tags": "pr\u00e9cise,syst\u00e8mes,applications,web",
             "recuweb_url": "http://fr.recuweb.com/hammouani.wordpress.com/2015/04/architecture-des-applications-web",
-            "resource_url": "http://fr.search.wordpress.com/?q=application%2Bweb%2Bapplication%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=application%2Bweb&f=feed&page=1",
             "source_url": "http://hammouani.wordpress.com/2015/04/07/architecture-des-applications-web/"
         },
         "intellicamfr.com/2015/03/application-web-&-mobile": {
@@ -80,31 +68,10 @@
             "snippet": "Nous sommes INTELLICAM Une combinaison unique de savoir-faire humains pour concevoir et r\u00e9aliser vos applications Web et mobiles. Mission INTELLICAM est une soci\u00e9t\u00e9 d'int\u00e9gration et de d\u00e9veloppement informatique bas\u00e9e dans []...",
             "date": "2015-03-17",
             "author_name": "sangothinktank",
-            "tags": "int\u00e9gration,d\u00e9veloppement,mission,mobile,applications,web",
+            "tags": "mission,mobile,applications,web,d\u00e9veloppement",
             "recuweb_url": "http://fr.recuweb.com/intellicamfr.com/2015/03/application-web-&-mobile",
-            "resource_url": "http://fr.search.wordpress.com/?q=application%2Bweb%2Bapplication%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=application%2Bweb&f=feed&page=1",
             "source_url": "http://intellicamfr.com/2015/03/17/application/"
-        },
-        "frandroid.com/2015/03/twitter-un-navigateur-web-interne-en-test-dans-l-application": {
-            "title": "Twitter: un navigateur web interne en test dans l'application...",
-            "snippet": "Depuis quelques jours, l'application Android de Twitter ouvre les liens contenus dans des tweets sur un navigateur interne. Une fonctionnalit\u00e9s pour l'inst.",
-            "date": "2015-03-05",
-            "author_name": "Ga\u00ebl",
-            "categories": "twitter",
-            "tags": "twitter,navigateur,web,application,quelques",
-            "recuweb_url": "http://fr.recuweb.com/twitter/frandroid.com/2015/03/twitter-un-navigateur-web-interne-en-test-dans-l-application",
-            "resource_url": "http://www.google.com/search?q=application%2Bweb%2Bapplication%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://frandroid.com/applications/272326_twitter-un-navigateur-interne-en-test-dans-lapplication"
-        },
-        "generation-nt.com/2015/03/windows-10-des-web-apps-dop%C3%A9es-dans-le-store": {
-            "title": "Windows 10: des Web Apps dop\u00e9es dans le Store...",
-            "snippet": "Windows 10 va permettre aux d\u00e9veloppeurs de proposer des applications Web dans le Windows Store. Elles auront acc\u00e8s aux APIs universelles.",
-            "date": "2015-03-05",
-            "author_name": "inconnu",
-            "tags": "d\u00e9veloppeurs,web,store,applications",
-            "recuweb_url": "http://fr.recuweb.com/generation-nt.com/2015/03/windows-10-des-web-apps-dop%C3%A9es-dans-le-store",
-            "resource_url": "http://www.google.com/search?q=application%2Bweb%2Bapplication%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://generation-nt.com/windows-10-store-web-apps-hosted-application-universelle-actualite-1912766.html"
         },
         "forum.alsacreations.com/2015/03/we-snow-application-web-alsacreations": {
             "title": "We Snow (application web) - Alsacreations...",
@@ -112,10 +79,40 @@
             "date": "2015-03-04",
             "author_name": "WeSnow",
             "categories": "internet",
-            "tags": "d\u00e9veloppement,application,web,site,internet,mobile",
+            "tags": "o\u00f9,site,internet,autres,application,web,d\u00e9veloppement,mobile",
             "recuweb_url": "http://fr.recuweb.com/internet/forum.alsacreations.com/2015/03/we-snow-application-web-alsacreations",
             "resource_url": "http://www.google.com/search?q=application%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.alsacreations.com/topic-18-75021-1-We-Snow-application-web.html"
+        },
+        "jflaroucheweb.com/2015/02/d%C3%A9veloppement-application-web-jflarouche": {
+            "title": "D\u00e9veloppement application Web jfLarouche...",
+            "snippet": "D\u00e9veloppement d'application sp\u00e9cialis\u00e9e Web. Application de gestion Web, formulaire d'adh\u00e9sion complexe, calculatrice. Service complet.",
+            "date": "2015-02-23",
+            "author_name": "Super User",
+            "tags": "gestion,d\u00e9veloppement,application,web",
+            "recuweb_url": "http://fr.recuweb.com/jflaroucheweb.com/2015/02/d%C3%A9veloppement-application-web-jflarouche",
+            "resource_url": "http://www.google.com/search?q=application%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://jflaroucheweb.com/fr/services/application-web"
+        },
+        "manyce.wordpress.com/2014/11/application-web-de-gestion-stock": {
+            "title": "application web de gestion de stock...",
+            "snippet": "Je commercialise en ce moment une application web de gestion des stock D\u00e9tail de l'application: gestion des produit (ajout/modification ou suppression); gestion des achats gestion des ventes impression du rapport (mensuelle...",
+            "date": "2014-11-11",
+            "author_name": "manyce",
+            "tags": "gestion,rapport,application,web",
+            "recuweb_url": "http://fr.recuweb.com/manyce.wordpress.com/2014/11/application-web-de-gestion-stock",
+            "resource_url": "http://fr.search.wordpress.com/?q=application%2Bweb&f=feed&page=1",
+            "source_url": "http://manyce.wordpress.com/2014/11/11/application-web-de-gestion-de-stock/"
+        },
+        "frebiblio.org/2014/10/un-jour-livre-l-application-web": {
+            "title": "\"Un jour, un livre\", l'application web...",
+            "snippet": "Pour f\u00eater les 25 ans de l'\u00e9mission \"Un jour, un livre\", France TV nouvelles \u00e9critures, France 3 et Cultureboxe nous offrent une application web de recommandations de lecture. Comment []...",
+            "date": "2014-10-31",
+            "author_name": "angeliquejoye",
+            "tags": "lecture,application,web,france",
+            "recuweb_url": "http://fr.recuweb.com/frebiblio.org/2014/10/un-jour-livre-l-application-web",
+            "resource_url": "http://fr.search.wordpress.com/?q=application%2Bweb&f=feed&page=1",
+            "source_url": "http://frebiblio.org/2014/10/31/un-jour-un-livre-lapplication-web/"
         }
     }
 }
