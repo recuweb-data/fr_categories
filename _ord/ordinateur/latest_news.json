@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ordinateur",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ordinateur/",
@@ -11,45 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ordinateur/ordinateur/blogs.json"
     },
     "items": {
-        "commentcamarche.net/2015/05/plus-aucun-ordinateur-ne-d%C3%A9tecte-mon-ipod-touch": {
-            "title": "Plus aucun ordinateur ne d\u00e9tecte mon Ipod Touch...",
-            "snippet": "Depuis quelques semaines, mon iPod Touch n'est plus reconnu par mon ordinateur. J'ai tout essay\u00e9 en ce qui concerne l'assistance Apple (r\u00e9installation de iTunes, recherche du pilote Apple Mobile Device, etc), rien ne fonctionne. Ce n'est pas un...",
-            "date": "2015-05-02",
-            "categories": "ipod,ordinateur",
-            "tags": "rien,fonctionne,mobile,ordinateur,apple",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/05/plus-aucun-ordinateur-ne-d%C3%A9tecte-mon-ipod-touch",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31915363-plus-aucun-ordinateur-ne-detecte-mon-ipod-touch"
-        },
-        "leparisien.fr/2015/04/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre": {
-            "title": "Apple: des ventes historiques d'ordinateurs ce trimestre...",
-            "snippet": "r\u00e9agir Les chiffres publi\u00e9s par Apple ne prennent pas en compte ses ventes de MacBook Gold, commercialis\u00e9 depuis le 10 avril. Pour la premi\u00e8re fois depuis 2011, Apple a gagn\u00e9 plus d'argent avec ses ordinateurs portables et de bureau qu'avec ses...",
-            "date": "2015-04-29",
-            "categories": "ordinateur,macbook",
-            "tags": "ordinateurs,apple,bureau",
-            "recuweb_url": "http://fr.recuweb.com/macbook/leparisien.fr/2015/04/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/high-tech/apple-des-ventes-historiques-d-ordinateurs-ce-trimestre-28-04-2015-4733933.php"
-        },
-        "silicon.fr/2015/04/panasonic-livre-un-ordinateur-portable-durci-2-en-1": {
-            "title": "Panasonic livre un ordinateur portable durci 2 en 1...",
-            "snippet": "Le CF-MX4 de Panasonic est un ordinateur portable convertible en tablette. Son chssis utilise un alliage in\u00e9dit de carbone et de magn\u00e9sium. Une offre originale. La dalle est un mod\u00e8le Full HD IPS tactile dune diagonale de 12,5 pouces, livr\u00e9e...",
-            "date": "2015-04-28",
+        "commentcamarche.net/2015/05/ecran-ne-d%C3%A9tecte-plus-le-signal-de-l-ordinateur": {
+            "title": "Ecran ne d\u00e9tecte plus le signal de l'ordinateur...",
+            "snippet": "J'ai d\u00e9branch\u00e9 mon \u00e9cran afin de l'utiliser avec un pc portable comme second \u00e9cran. Avant cela, tout fonctionnait parfaitement. Mais depuis, lorsque je le rebranche et que j'allume ma tour, l'\u00e9cran se met imm\u00e9diatement en mode veille (loupiote...",
+            "date": "2015-05-06",
             "categories": "ordinateur",
-            "tags": "tactile,ordinateur,portable",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/silicon.fr/2015/04/panasonic-livre-un-ordinateur-portable-durci-2-en-1",
+            "tags": "\u00e9cran,allume,tour,ordinateur,avant,cela",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/05/ecran-ne-d%C3%A9tecte-plus-le-signal-de-l-ordinateur",
             "resource_url": "http://www.bing.com/news/search?first=1&q=ordinateur&format=RSS&cc=fr",
-            "source_url": "http://silicon.fr/panasonic-livre-ordinateur-portable-2-1-durci-115073.html"
+            "source_url": "http://commentcamarche.net/forum/affich-31934455-ecran-ne-detecte-plus-le-signal-de-l-ordinateur"
         },
-        "lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur-les-%C3%A9chos": {
-            "title": "Rien que vos yeux pour piloter un ordinateur - Les \u00c9chos...",
-            "snippet": "Les \u00c9chosRien que vos yeux pour piloter un ordinateurLes \u00c9chos VIDEO Les su\u00e9dois John Elvesj\u00f6 et Marten Skog\u00f6 ont d\u00e9velopp\u00e9 un syst\u00e8me de suivi des mouvements des yeux, utilis\u00e9 en marketing, dans des jeux vid\u00e9os et pour contr\u00f4ler son...",
-            "date": "2015-04-28",
-            "categories": "jeux-videos,marketing,ordinateur",
-            "tags": "d\u00e9velopp\u00e9,rien,ordinateur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/lesechos.fr/2015/04/rien-que-vos-yeux-pour-piloter-un-ordinateur-les-%C3%A9chos",
+        "silicon.fr/2015/05/ordinateur-quantique-ibm-fait-une-perc%C3%A9e-silicon": {
+            "title": "Ordinateur quantique: IBM fait une perc\u00e9e - Silicon...",
+            "snippet": "SiliconOrdinateur quantique: IBM fait une perc\u00e9eSiliconEt les qubits se montrent tr\u00e8s sensibles aux \u00e9l\u00e9ments ext\u00e9rieurs (chaleur, radiations \u00e9lectromagn\u00e9tiques). R\u00e9aliser un ordinateur quantique tol\u00e9rant aux erreurs est un d\u00e9fi important...",
+            "date": "2015-05-06",
+            "categories": "ordinateur",
+            "tags": "quantique,important,ordinateur,silicon",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/silicon.fr/2015/05/ordinateur-quantique-ibm-fait-une-perc%C3%A9e-silicon",
             "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
-            "source_url": "http://lesechos.fr/thema/02134005853-rien-que-vos-yeux-pour-piloter-un-ordinateur-1115112.php"
+            "source_url": "http://silicon.fr/ordinateur-quantique-ibm-percee-terres-qubit-115605.html"
+        },
+        "aruco.com/2015/05/l-ordinateur-%C3%A9ducatif-en-kit-kano-l%C3%A8ve-15-m-pour-apprendre": {
+            "title": "L'ordinateur \u00e9ducatif en kit Kano l\u00e8ve 15 M pour apprendre aux... - Aruco...",
+            "snippet": "ArucoL'ordinateur \u00e9ducatif en kit Kano l\u00e8ve 15 M pour apprendre aux...ArucoLa soci\u00e9t\u00e9 Kano s'est fait connaitre avec le produit \u00e9ponyme, un mini ordinateur DIY (Do It Yourself) accompagn\u00e9 d'une plateforme logicielle bas\u00e9e sur le Raspberry Pi...",
+            "date": "2015-05-05",
+            "categories": "ordinateur",
+            "tags": "ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/aruco.com/2015/05/l-ordinateur-%C3%A9ducatif-en-kit-kano-l%C3%A8ve-15-m-pour-apprendre",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
+            "source_url": "http://aruco.com/2015/05/kano-ordinateur-diy-enfants/"
+        },
+        "silicon.fr/2015/05/mazyar-mirrahimi-inria-un-ordinateur-quantique-dans-dix-ans-silicon": {
+            "title": "Mazyar Mirrahimi, Inria: Un ordinateur quantique dans dix ans... - Silicon...",
+            "snippet": "SiliconMazyar Mirrahimi, Inria: Un ordinateur quantique dans dix ans...SiliconSaint Graal, utopie, devenir de l'informatique: l'ordinateur quantique est l'objet de beaucoup de fantasmes. Que se cache-t-il derri\u00e8re cette appellation? Quels sont les...",
+            "date": "2015-05-05",
+            "categories": "ordinateur",
+            "tags": "quantique,ordinateur,silicon,informatique",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/silicon.fr/2015/05/mazyar-mirrahimi-inria-un-ordinateur-quantique-dans-dix-ans-silicon",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
+            "source_url": "http://silicon.fr/mazyar-mirrahimi-inria-ordinateur-quantique-dix-ans-impossible-affirmer-115492.html"
+        },
+        "atlantico.fr/2015/05/la-m%C3%A9decine-bient%C3%B4t-sans-m%C3%A9decin-l-ordinateur-ce-nouveau": {
+            "title": "La m\u00e9decine bient\u00f4t sans m\u00e9decin? L'ordinateur, ce nouveau... -...",
+            "snippet": "m\u00e9decine bient\u00f4t sans m\u00e9decin? L'ordinateur, ce nouveau... grande mutation qui se profi le est celle de l'ordinateur, assistant m\u00e9dical capable de choisir et de d\u00e9cider. Proc\u00e9dant par algorithmes con\u00e7us pour traiter des milliers...",
+            "date": "2015-05-04",
+            "categories": "ordinateur",
+            "tags": "ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/atlantico.fr/2015/05/la-m%C3%A9decine-bient%C3%B4t-sans-m%C3%A9decin-l-ordinateur-ce-nouveau",
+            "resource_url": "http://news.google.fr/?hl=fr&q=ordinateur&output=atom&nord=1",
+            "source_url": "http://atlantico.fr/decryptage/medecine-bientot-sans-medecin-ordinateur-nouveau-praticien-synthese-bonnes-feuilles-medecine-sans-medecin-guy-vallancien-2121957.html"
+        },
+        "thd.tn/2014/12/lenovo-cordons-d-alimentation-ac-pour-ordinateurs-portables-tunisie-haut-d%C3%A9bit": {
+            "title": "Lenovo cordons d'alimentation AC pour ordinateurs portables... - Tunisie Haut D\u00e9bit...",
+            "snippet": "Lenovo cordons d'alimentation AC pour ordinateurs portables...Tunisie Haut D\u00e9bitCe rappel volontaire implique certaines LS- 15 cordons d'alimentation distribu\u00e9s avec les ordinateurs portables IdeaPad, vendus entre f\u00e9vrier 2011 et Juin 2012. Les...",
+            "date": "2014-12-23",
+            "categories": "ordinateur",
+            "tags": "ordinateurs",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/thd.tn/2014/12/lenovo-cordons-d-alimentation-ac-pour-ordinateurs-portables-tunisie-haut-d%C3%A9bit",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bordinateur&output=atom&nord=1",
+            "source_url": "http://thd.tn/index.php?option=com_content&view=article&id=4334:tunisie-lenovo-fait-un-rappel-immediat-des-cordons-d-alimentation-ls-15-pour-cause-de-defaillances&catid=63&Itemid=316"
         }
     }
 }
