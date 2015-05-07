@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "flickr",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/flickr/",
@@ -11,15 +11,45 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/flickr/flickr/blogs.json"
     },
     "items": {
+        "futura-sciences.com/2015/05/ces-cellules-souches-qui-r%C3%A9parent-naturellement-nos-dents": {
+            "title": "Ces cellules souches qui r\u00e9parent naturellement nos dents...",
+            "snippet": "Pourra-t-on bient\u00f4t r\u00e9parer les dents avec des cellules souches? Ahmed Al Masaood, Flickr, cc by nc nd 2.0 La dent est un organe min\u00e9ralis\u00e9, implant\u00e9 dans la bouche par une racine. La partie vivante de la dent ou cavit\u00e9 dentaire est...",
+            "date": "2015-05-03",
+            "categories": "flickr",
+            "tags": "flickr",
+            "recuweb_url": "http://fr.recuweb.com/flickr/futura-sciences.com/2015/05/ces-cellules-souches-qui-r%C3%A9parent-naturellement-nos-dents",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=fr",
+            "source_url": "http://futura-sciences.com/magazines/sante/infos/actu/d/dents-ces-cellules-souches-reparent-naturellement-nos-dents-58095/"
+        },
+        "slate.fr/2015/05/dialogue-social-patrons-et-syndicats-encore-un-effort": {
+            "title": "Dialogue social: patrons et syndicats, encore un effort!",
+            "snippet": "Handshake man-woman. Flazingo Photos via Flickr CC License by. Il est de bon ton de dire que le projet de loi Rebsamen sur le dialogue social ne fche personne et ne changera pas grand-chose. Mais appartient-il au gouvernement dimposer des...",
+            "date": "2015-05-03",
+            "categories": "flickr",
+            "tags": "flickr,license,photos,via",
+            "recuweb_url": "http://fr.recuweb.com/flickr/slate.fr/2015/05/dialogue-social-patrons-et-syndicats-encore-un-effort",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=fr",
+            "source_url": "http://slate.fr/story/100861/dialogue-social-patrons-syndicats-effort"
+        },
         "slate.fr/2015/05/des-labyrinthes-sont-utilis%C3%A9s-comme-outils-th%C3%A9rapeutiques-dans-plusieurs-prisons": {
             "title": "Des labyrinthes sont utilis\u00e9s comme outils th\u00e9rapeutiques dans plusieurs prisons et h\u00f4pitaux...",
             "snippet": "A l'h\u00f4pital pour enfants d'Indianapolis, via Flickr Riley Children's Hospital Labyrinth Dedication par wplynn Les \u00e9tudes scientifiques r\u00e9alis\u00e9es sur les b\u00e9n\u00e9fices des labyrinthes sont pour l'instant assez limit\u00e9es, mais l'une d'entre elles...",
             "date": "2015-05-02",
             "categories": "flickr",
-            "tags": "flickr",
+            "tags": "flickr,via",
             "recuweb_url": "http://fr.recuweb.com/flickr/slate.fr/2015/05/des-labyrinthes-sont-utilis%C3%A9s-comme-outils-th%C3%A9rapeutiques-dans-plusieurs-prisons",
             "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=fr",
             "source_url": "http://slate.fr/story/101103/etats-unis-labyrinthes"
+        },
+        "nbcbayarea.com/2015/05/flickr-founder-wants-to-challenge-work-email-nbc-bay-area": {
+            "title": "Flickr Founder Wants to Challenge Work Email - NBC Bay Area...",
+            "snippet": "NBC Bay AreaFlickr Founder Wants to Challenge Work EmailNBC Bay AreaMost people may know Stewart Butterfield as one of the founders of Flickr, who sold the company off to Yahoo for 25 million in 2005. Now his new company, Slack, a new team...",
+            "date": "2015-05-02",
+            "categories": "flickr,yahoo",
+            "tags": "people,flickr,yahoo",
+            "recuweb_url": "http://fr.recuweb.com/yahoo/nbcbayarea.com/2015/05/flickr-founder-wants-to-challenge-work-email-nbc-bay-area",
+            "resource_url": "http://news.google.fr/?hl=fr&q=flickr&output=atom&nord=1",
+            "source_url": "http://nbcbayarea.com/news/local/Flickr-Founder-Wants-to-Challenge-Work-Email-302266411.html"
         },
         "meltyfood.fr/2015/05/jean-nidetch-la-cr%C3%A9atrice-de-weight-watchers-est-d%C3%A9c%C3%A9d%C3%A9e": {
             "title": "Jean Nidetch, la cr\u00e9atrice de Weight Watchers est d\u00e9c\u00e9d\u00e9e...",
@@ -41,16 +71,6 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=flickr&format=RSS&cc=fr",
             "source_url": "http://youphil.com/fr/article/07950-seisme-nepal-tremblement-terre-urgence-aide-humanitaire-secteur-prive-dons?ypcli=ano"
         },
-        "automatiseringgids.nl/2015/05/flickr-wijst-weg-naar-beste-fotoplekjes-automatisering-gids": {
-            "title": "Flickr wijst weg naar beste fotoplekjes - Automatisering Gids...",
-            "snippet": "Automatisering GidsFlickr wijst weg naar beste fotoplekjesAutomatisering GidsMapbox heeft foto's van de afgelopen 10 jaar van Flickr gebruikt als uitgangsmateriaal voor de analyse. Het bedrijf gaat met zijn interactieve kaarten de concurrentie aan...",
-            "date": "2015-05-01",
-            "categories": "flickr",
-            "tags": "flickr",
-            "recuweb_url": "http://fr.recuweb.com/flickr/automatiseringgids.nl/2015/05/flickr-wijst-weg-naar-beste-fotoplekjes-automatisering-gids",
-            "resource_url": "http://news.google.fr/?hl=fr&q=flickr%2Bflickr&output=atom&nord=1",
-            "source_url": "http://automatiseringgids.nl/nieuws/2015/18/flickr-wijst-weg-naar-beste-fotoplekjes"
-        },
         "bournemouthecho.co.uk/2015/04/14-of-our-favourite-pictures-from-flickr-in-april-bournemouth-echo": {
             "title": "14 of our favourite pictures from Flickr in April - Bournemouth Echo...",
             "snippet": "Bournemouth Echo14 of our favourite pictures from Flickr in AprilBournemouth EchoIT'S the end of another month and that means it's time for a round-up of our favourite pictures from our Echo Year 2015 Flickr group. You can see our gallery of...",
@@ -58,7 +78,7 @@
             "categories": "flickr",
             "tags": "our,pictures,flickr,group",
             "recuweb_url": "http://fr.recuweb.com/flickr/bournemouthecho.co.uk/2015/04/14-of-our-favourite-pictures-from-flickr-in-april-bournemouth-echo",
-            "resource_url": "http://news.google.fr/?hl=fr&q=flickr%2Bflickr&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=flickr&output=atom&nord=1",
             "source_url": "http://bournemouthecho.co.uk/news/12920651.14_of_our_favourite_pictures_from_Flickr_in_April/"
         },
         "futura-sciences.com/2015/04/les-abeilles-addictes-aux-pesticides": {
@@ -86,30 +106,10 @@
             "snippet": "Daily Post North WalesLOOK: Daily Post Flickr group's top pictures of April 2015Daily Post North WalesSince the Daily Post launched a Flickr group in 2008, more than 51,000 images from across North Wales have been uploaded by enthusiastic...",
             "date": "2015-04-29",
             "categories": "flickr",
-            "tags": "uploaded,group,pictures,flickr,images",
+            "tags": "group,pictures,flickr,images",
             "recuweb_url": "http://fr.recuweb.com/flickr/dailypost.co.uk/2015/04/look-daily-post-flickr-group-s-top-pictures-of-april-2015",
-            "resource_url": "http://news.google.fr/?hl=fr&q=flickr%2Bflickr&output=atom&nord=1",
-            "source_url": "http://dailypost.co.uk/news/local-news/look-daily-post-flickr-groups-9142289"
-        },
-        "citylab.com/2015/04/mapping-every-city-s-most-scenic-routes-one-photo-at": {
-            "title": "Mapping Every City's Most Scenic Routes, One Photo at a Time - CityLab...",
-            "snippet": "CityLabMapping Every City's Most Scenic Routes, One Photo at a TimeCityLabMapbox's Eric Fischer has been working on the \"Geotaggers'World Atlas\" for five years, using locations of photos uploaded on Flickr over a decade. In his city maps, which now...",
-            "date": "2015-04-29",
-            "categories": "flickr",
-            "tags": "uploaded,photos,using,flickr",
-            "recuweb_url": "http://fr.recuweb.com/flickr/citylab.com/2015/04/mapping-every-city-s-most-scenic-routes-one-photo-at",
-            "resource_url": "http://news.google.fr/?hl=fr&q=flickr%2Bflickr&output=atom&nord=1",
-            "source_url": "http://citylab.com/tech/2015/04/mapping-every-citys-most-scenic-routes-one-photo-at-a-time/391775/"
-        },
-        "theverge.com/2015/04/the-best-way-to-manage-your-photos-online-in-2015-verge": {
-            "title": "The best way to manage your photos online in 2015 - The Verge...",
-            "snippet": "The VergeThe best way to manage your photos online in 2015The VergeTwo years ago, Flickr appeared to be making a comeback. Fresh off a redesign and an offer of 1 TB in free storage, Yahoo's venerable photo solution had fresh appeal for both amateur...",
-            "date": "2015-04-29",
-            "categories": "flickr,yahoo",
-            "tags": "photos,solution,free,your,flickr,yahoo",
-            "recuweb_url": "http://fr.recuweb.com/yahoo/theverge.com/2015/04/the-best-way-to-manage-your-photos-online-in-2015-verge",
             "resource_url": "http://news.google.fr/?hl=fr&q=flickr&output=atom&nord=1",
-            "source_url": "http://theverge.com/2015/4/29/8467289/cloud-photo-storage-comparison-dropbox-icloud-flickr-onedrive-free"
+            "source_url": "http://dailypost.co.uk/news/local-news/look-daily-post-flickr-groups-9142289"
         }
     }
 }
