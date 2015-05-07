@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "domotique",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/domotique/",
@@ -11,38 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
     },
     "items": {
-        "planete-domotique.com/2015/04/le-thermostat-smartwares-un-compatible-homewizard": {
-            "title": "Le Thermostat smartwares: un thermostat compatible HomeWizard...",
-            "snippet": "... syst\u00e8me de programmation interne, mais qui peut \u00e9galement \u00eatre pilot\u00e9e en 433 MHz. Cela la rend compatible avec certaines t\u00e9l\u00e9commandes (Chacon ou HomeEasy), mais \u00e9galement avec la box domotique HomeWizard.",
-            "date": "2015-04-27",
-            "author_name": "Pierre",
+        "myesmart.ch/2015/04/esmart-en-partenariat-avec-speec-sa-domotique-et-automatisme": {
+            "title": "eSMART en partenariat avec SPEEC SA Domotique et automatisme...",
+            "snippet": "La question de la gestion intelligente de l'habitat est dans tous les esprits. Confort, s\u00e9curit\u00e9, \u00e9conomies d'\u00e9nergie et \u00e9volutivit\u00e9, la domotique a su avancer pour permettre des fonctionnalit\u00e9s toujours plus performantes et utiles...",
+            "date": "2015-04-23",
+            "author_name": "eSMART",
             "categories": "domotique",
-            "tags": "peut,\u00eatre,pilot\u00e9e,syst\u00e8me,domotique",
-            "recuweb_url": "http://fr.recuweb.com/domotique/planete-domotique.com/2015/04/le-thermostat-smartwares-un-compatible-homewizard",
-            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://planete-domotique.com/blog/2015/04/27/le-thermostat-smartwares-un-thermostat-compatible-homewizard-et-telecommandes/"
-        },
-        "blog.domoconcept2b.fr/2015/04/l-apple-watch-et-la-domotique-domoconcept-blog": {
-            "title": "L'Apple Watch et la domotique Domoconcept, Blog Domotique...",
-            "snippet": "En quoi cet outil peut \u00eatre utile dans le cas d'une installation domotique? Une montre peut elle avoir un r\u00e9el aspect pratique dans ce genre d'utilisation? Vous trouverez des \u00e9l\u00e9ments de r\u00e9ponse dans l'article Domotique sur...",
-            "date": "2015-04-25",
-            "author_name": "domoconcept",
-            "categories": "domotique",
-            "tags": "peut,\u00eatre,domotique,apple,installation",
-            "recuweb_url": "http://fr.recuweb.com/domotique/blog.domoconcept2b.fr/2015/04/l-apple-watch-et-la-domotique-domoconcept-blog",
-            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://blog.domoconcept2b.fr/2015/04/lapple-watch-et-la-domotique/"
-        },
-        "planete-domotique.com/2015/04/le-web-energie-superviseur-%C3%A9volue-afficheur-lcd-version-2": {
-            "title": "Le Web Energie Superviseur \u00e9volue: afficheur LCD, version 2, et...",
-            "snippet": "Plan\u00e8te-Domotique: Le Blog::.. Le Web Energie Superviseur.... La domotique est pour moi un moyen incontournable pour se faciliter la vie, et ses usages n'ont pas fini de nous surprendre! Pr\u00e9c\u00e9dent: Retour sur le SIdO...",
-            "date": "2015-04-21",
-            "author_name": "Pierre",
-            "categories": "domotique",
-            "tags": "web,domotique,retour",
-            "recuweb_url": "http://fr.recuweb.com/domotique/planete-domotique.com/2015/04/le-web-energie-superviseur-%C3%A9volue-afficheur-lcd-version-2",
-            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://planete-domotique.com/blog/2015/04/21/le-web-energie-superviseur-evolue-afficheur-lcd-version-2-et-mise-a-jour-firmware-0-52/"
+            "tags": "performantes,\u00e9nergie,habitat,question,domotique,confort,s\u00e9curit\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/domotique/myesmart.ch/2015/04/esmart-en-partenariat-avec-speec-sa-domotique-et-automatisme",
+            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://myesmart.ch/esmart-en-partenariat-avec-speec-sa-domotique-et-automatisme/"
         },
         "worldissmall.fr/2015/04/wwdc-2015-une-apple-tv-et-un-syst%C3%A8me-de-domotique": {
             "title": "WWDC 2015: une Apple TV et un syst\u00e8me de domotique?",
@@ -50,32 +28,43 @@
             "date": "2015-04-15",
             "author_name": "Martin",
             "categories": "domotique",
-            "tags": "annonc\u00e9,apple,syst\u00e8me,domotique",
+            "tags": "annonc\u00e9,syst\u00e8me,domotique",
             "recuweb_url": "http://fr.recuweb.com/domotique/worldissmall.fr/2015/04/wwdc-2015-une-apple-tv-et-un-syst%C3%A8me-de-domotique",
-            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://worldissmall.fr/2015/04/15/wwdc-2015-une-apple-tv-et-un-systeme-de-domotique/"
         },
-        "whitecert.wordpress.com/2015/04/domotique-news-n298-eclairage-connect%C3%A9-2-0-dans-les-smart-maison": {
-            "title": "Domotique News n298: Eclairage connect\u00e9 2.0 dans les Smart Maison et Domotique...",
-            "snippet": "Maison et Domotique Domotique News n298: Eclairage connect\u00e9 2.0 dans les Smart Maison et Domotique Reconnaissons que les \u00e9volutions r\u00e9glementaires (RT 2012) ont renforc\u00e9 les exigences (en particulier sur la mesure de l'\u00e9nergie), le contrat de...",
-            "date": "2015-04-03",
-            "author_name": "whitecert",
-            "categories": "domotique",
-            "tags": "maison,domotique",
-            "recuweb_url": "http://fr.recuweb.com/domotique/whitecert.wordpress.com/2015/04/domotique-news-n298-eclairage-connect%C3%A9-2-0-dans-les-smart-maison",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
-            "source_url": "http://whitecert.wordpress.com/2015/04/03/domotique-news-n298-eclairage-connecte-2-0-dans-les-smart-maison-et-domotique/"
-        },
-        "blog.goufastyle.org/2015/03/domotique-minimale-partie-5-contr%C3%B4le-de-la-cam%C3%A9ra": {
-            "title": "Domotique Domotique minimale - Partie 5: Contr\u00f4le de la cam\u00e9ra...",
-            "snippet": "Interface web de la cam\u00e9ra div Un serveur autonome, un parc informatique g\u00e9r\u00e9,... Il ne reste plus qu'une (ou plusieurs) cam\u00e9ra(s) afin de faire un peu de vid\u00e9osurveillance. Pilotable sans logiciel Toutes les solutions domotiques affichent avec...",
-            "date": "2015-03-11",
+        "blog.goufastyle.org/2015/03/domotique-minimale-partie-3-cygwin-et-apache-goufablog": {
+            "title": "Domotique minimale - Partie 3: Cygwin et Apache - Goufablog...",
+            "snippet": "VirtualHost:81 Allow override all DocumentRoot F:/www/applis ServerName localhost ErrorLog \"logs/\" CustomLog \"logs/\" common/VirtualHost VirtualHost:80 Allow override all DocumentRoot...",
+            "date": "2015-03-09",
             "author_name": "Goufalite",
             "categories": "domotique",
-            "tags": "solutions,solutions-domotiques,domotiques,domotique,vid\u00e9osurveillance,informatique,web,contr\u00f4le",
-            "recuweb_url": "http://fr.recuweb.com/domotique/blog.goufastyle.org/2015/03/domotique-minimale-partie-5-contr%C3%B4le-de-la-cam%C3%A9ra",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=domotique%2Bdomotique&rss=1&lng=fr",
-            "source_url": "http://blog.goufastyle.org/article/domotique-minimale-partie-5-controle-de-la-camera"
+            "tags": "domotique,localhost",
+            "recuweb_url": "http://fr.recuweb.com/domotique/blog.goufastyle.org/2015/03/domotique-minimale-partie-3-cygwin-et-apache-goufablog",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.goufastyle.org/article/domotique-minimale-partie-3-cygwin-et-apache"
+        },
+        "blog.guiguiabloc.fr/2014/08/domotique-et-intelligence-la-communication-guiguiabloc": {
+            "title": "Domotique et Intelligence: la communication GuiguiAbloc...",
+            "snippet": "Quelques mois plus t\u00f4t, j'avais \u00e9voqu\u00e9 la n\u00e9cessit\u00e9 de la connaissance pour un environnement domotique (cf.).... conn=('localhost', 'mabase', 'login', 'motdepasse') cur=() (\"SELECT sensorValue from sensor where sensorRoom='%s'ORDER BY idx DESC...",
+            "date": "2014-08-13",
+            "author_name": "guiguiabloc",
+            "categories": "connaissance,environnement,domotique",
+            "tags": "domotique,quelques,localhost,order",
+            "recuweb_url": "http://fr.recuweb.com/domotique/blog.guiguiabloc.fr/2014/08/domotique-et-intelligence-la-communication-guiguiabloc",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.guiguiabloc.fr/index.php/2014/08/13/domotique-et-intelligence-la-communication/"
+        },
+        "blog.domadoo.fr/2014/05/domoticz-utilisation-de-fhem-comme-passerelle-enocean-news": {
+            "title": "Domoticz: utilisation de FHEM comme passerelle EnOcean - News...",
+            "snippet": "FHEM est utilis\u00e9 dans cet article en tant que passerelle EnOcean vers le logiciel domotique Domoticz.... curl -s localhost:8080/?type=command&param=switchlight&idx=1&switchcmd=2. Ne pas oublier de...",
+            "date": "2014-05-23",
+            "author_name": "Laurent",
+            "categories": "domotique",
+            "tags": "localhost,comme,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/blog.domadoo.fr/2014/05/domoticz-utilisation-de-fhem-comme-passerelle-enocean-news",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.domadoo.fr/2014/05/23/domoticz-utilisation-fhem-passerelle-enocean/"
         },
         "jacquemartfairuz.wordpress.com/2014/05/la-domotique-en-quelques-mots": {
             "title": "La domotique en quelques mots...",
@@ -83,9 +72,9 @@
             "date": "2014-05-06",
             "author_name": "faifai09",
             "categories": "telecommunications,domotique,electronique",
-            "tags": "permet,contr\u00f4le,informatique,quelques,domotique",
+            "tags": "permet,quelques,domotique,contr\u00f4le",
             "recuweb_url": "http://fr.recuweb.com/electronique/jacquemartfairuz.wordpress.com/2014/05/la-domotique-en-quelques-mots",
-            "resource_url": "http://fr.search.wordpress.com/?q=domotique%2Bdomotique&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=domotique&f=feed&page=1",
             "source_url": "http://jacquemartfairuz.wordpress.com/2014/05/06/la-domotique-en-quelques-mots/"
         },
         "maison-et-domotique.com/2012/07/zibase-2-et-zwave-maison-domotique": {
@@ -94,10 +83,43 @@
             "date": "2012-07-04",
             "author_name": "C\u00e9dric Locqueneux",
             "categories": "domotique",
-            "tags": "annonc\u00e9,quelques,maison,domotique",
+            "tags": "annonc\u00e9,quelques,maison,domotique,comme",
             "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2012/07/zibase-2-et-zwave-maison-domotique",
-            "resource_url": "http://www.google.com/search?q=domotique%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://maison-et-domotique.com/10943-zibase-2-et-zwave/"
+        },
+        "domolio.fr/2012/04/installation-de-eibd-et-eibnetmux-sur-wheezy-domolio": {
+            "title": "Installation de eibd et de eibnetmux sur Wheezy Domolio, la...",
+            "snippet": "by Lionel. PATH=/sbin:/usr/sbin:/bin:/usr/bin. NAME=eibnetmux. DAEMON=/usr/local/bin/eibnetmux. DAEMON_ARGS=\"-s -t -u -e -d --pidfile=/var/run/\". PIDFILE=/var/run/eibnetmux.pid.... Je vois que tu as ouvert un topic sur le Group domotique-EIB:....",
+            "date": "2012-04-15",
+            "author_name": "Lionel",
+            "categories": "domotique",
+            "tags": "installation,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/domolio.fr/2012/04/installation-de-eibd-et-eibnetmux-sur-wheezy-domolio",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://domolio.fr/installation-de-eibd-et-de-eibnetmux-sur-wheezy/"
+        },
+        "debian-fr.org/2012/04/mysql-fail-support-debian-le-forum": {
+            "title": "Mysql fail: Support Debian - Le forum...",
+            "snippet": "rootdebian: mysql -h \"localhost\" -D \"domotique\" -u \"root\" -p \"xxxxxx\" -e \"SELECT FROM modules_x10 ORDER BY '1'ASC LIMIT 0, 1\" Enter password: ERROR 1049 (42000): Unknown database 'xxxxxx'rootdebian:...",
+            "date": "2012-04-12",
+            "author_name": "xunil2003",
+            "categories": "mysql",
+            "tags": "localhost,order",
+            "recuweb_url": "http://fr.recuweb.com/mysql/debian-fr.org/2012/04/mysql-fail-support-debian-le-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdomotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://debian-fr.org/mysql-fail-t38342.html"
+        },
+        "maison-et-domotique.com/2012/04/crestron-et-amx-pionniers-de-la-domotique-maison": {
+            "title": "Crestron et AMX, pionniers de la domotique - Maison et Domotique...",
+            "snippet": "Deux marques am\u00e9ricaines qui ont toutes les deux plus de 25 ans d'exp\u00e9rience dans le domaine, et proposent des solutions compl\u00e8tes, fiables et tr\u00e8s performantes pour des installations domotiques tr\u00e8s \u00e9volu\u00e9es. J'ai choisi...",
+            "date": "2012-04-02",
+            "author_name": "Vincent PREMEL",
+            "categories": "domotique",
+            "tags": "choisi,performantes,domotiques,domotique,solutions,maison",
+            "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2012/04/crestron-et-amx-pionniers-de-la-domotique-maison",
+            "resource_url": "http://www.google.com/search?q=domotique&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://maison-et-domotique.com/5529-crestron-et-amx-pionniers-de-la-domotique/"
         }
     }
 }
