@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "football",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/football/",
@@ -11,71 +11,38 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football/football/blogs.json"
     },
     "items": {
-        "afrik.com/2015/04/jacques-faty-amateurisme-et-corruption-retardent-le-football-africain": {
-            "title": "Jacques Faty: \"Amateurisme et corruption retardent le football africain\"...",
-            "snippet": "D\u00e9sormais en Australie, o\u00f9 il va prendre part aux play-offs avec son club de Sydney FC, Jacques Faty garde un \u0153il avis\u00e9 sur le monde du ballon rond malgr\u00e9 la distance. Invit\u00e9 de \"L'Entretien du mois\" sur Afrik-Foot, l'ancien...",
+        "dzfoot.com/2015/05/le-mo-b%C3%A9jaia-remporte-la-coupe-d-alg%C3%A9rie-2015-football-alg%C3%A9rien": {
+            "title": "Le MO B\u00e9jaia remporte la Coupe d'Alg\u00e9rie 2015 Football Alg\u00e9rien...",
+            "snippet": "Le MO Bejaia s'est adjug\u00e9 la Coupe d'Alg\u00e9rie Seniors de football pour la premi\u00e8re fois de son histoire en battant le RC Arba (1-0) en finale in\u00e9dite de la 51e \u00e9dition disput\u00e9e samedi au stade Mustapha-Tchaker de Blida en...",
+            "date": "2015-05-02",
+            "author_name": "HMF",
+            "categories": "football",
+            "tags": "stade,finale,football,coupe,alg\u00e9rie,histoire",
+            "recuweb_url": "http://fr.recuweb.com/football/dzfoot.com/2015/05/le-mo-b%C3%A9jaia-remporte-la-coupe-d-alg%C3%A9rie-2015-football-alg%C3%A9rien",
+            "resource_url": "http://www.google.com/search?q=football&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://dzfoot.com/2015/05/02/finale-coupe-dalgerie-mo-bejaia-rc-arbaa-en-live-tweet-68047.php"
+        },
+        "fr.fifa.com/2015/04/apps-fifa-le-football-sur-bout-des-doigts": {
+            "title": "Apps FIFA: le football sur le bout des doigts -...",
+            "snippet": "L'App FIFA a fait peau neuve pour continuer de vous fournir les actualit\u00e9s les plus r\u00e9centes sur les plus grands \u00e9v\u00e9nements du football mondial, tandis que les formidables reportages de FIFA Weekly tiennent maintenant dans...",
             "date": "2015-04-30",
-            "author_name": "Mansour Loum",
-            "categories": "play,football",
-            "tags": "monde,football,club,foot",
-            "recuweb_url": "http://fr.recuweb.com/football/afrik.com/2015/04/jacques-faty-amateurisme-et-corruption-retardent-le-football-africain",
-            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://afrik.com/jacques-faty-amateurisme-et-corruption-retardent-le-football-africain"
-        },
-        "francetvinfo.fr/2015/04/football-les-histoires-d-amour-avec-marcelo-bielsa-finissent-mal": {
-            "title": "Football: les histoires d'amour avec Marcelo Bielsa finissent mal, en...",
-            "snippet": "La fin de saison en eau de boudin de l'Olympique de Marseille \u00e9clabousse son entra\u00eeneur, l'Argentin Marcelo Bielsa. Un technicien g\u00e9nial, mais peu enclin au compromis, et qui a l'habitude de claquer la porte.",
-            "date": "2015-04-29",
             "author_name": "inconnu",
             "categories": "football",
-            "tags": "compromis,technicien,football",
-            "recuweb_url": "http://fr.recuweb.com/football/francetvinfo.fr/2015/04/football-les-histoires-d-amour-avec-marcelo-bielsa-finissent-mal",
+            "tags": "football",
+            "recuweb_url": "http://fr.recuweb.com/football/fr.fifa.com/2015/04/apps-fifa-le-football-sur-bout-des-doigts",
             "resource_url": "http://www.google.com/search?q=football&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://francetvinfo.fr/sports/foot/football-les-histoires-d-amour-avec-marcelo-bielsa-finissent-mal-en-general_889203.html"
+            "source_url": "http://fr.fifa.com/about-fifa/news/y=2015/m=4/news=apps-fifa-le-football-sur-le-bout-des-doigts-2595258.html"
         },
-        "canal-supporters.com/2015/04/le-mercato-du-psg-par-france-football-canal-supporters": {
-            "title": "Le mercato du PSG par France Football Canal Supporters...",
-            "snippet": "A quoi va ressembler le mercato du PSG l'\u00e9t\u00e9 prochain? France Football se lance ce mercredi et annonce trois priorit\u00e9s: Pogba, Di Maria et Lloris. \u00c0 elle seule, cette triplette est valoris\u00e9e entre 150 et 170M sur le march\u00e9.",
+        "blog.lefigaro.fr/2015/04/l-avenir-du-psg-s-appelle-t-il-verratti-pastore": {
+            "title": "L'avenir du PSG s'appelle-t-il Verratti, Pastore et Cavani plus qu...",
+            "snippet": "En football comme ailleurs, les absents ont toujours tort. C'est la r\u00e9flexion qui s'impose au lendemain de la victoire du PSG contre Metz (3-1), victoire qui permet au club de la capitale de remettre les pendules du classement...",
             "date": "2015-04-29",
-            "author_name": "Marc Alvarez",
+            "author_name": "Bruno Roger-Petit",
             "categories": "football",
-            "tags": "march\u00e9,annonce,france,football,prochain,mercato,psg,lloris",
-            "recuweb_url": "http://fr.recuweb.com/football/canal-supporters.com/2015/04/le-mercato-du-psg-par-france-football-canal-supporters",
-            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://canal-supporters.com/2015/04/le-mercato-du-psg-par-france-football/"
-        },
-        "jeuneafrique.com/2015/04/football-coupe-du-monde-2026-le-retour-en-afrique-jeune": {
-            "title": "Football: Coupe du monde 2026, le retour en Afrique - Jeune Afrique...",
-            "snippet": "Apr\u00e8s l'Afrique du Sud en 2010, un autre pays africain accueillera-t-il la Coupe du monde de football en 2026?",
-            "date": "2015-04-21",
-            "author_name": "inconnu",
-            "categories": "football",
-            "tags": "monde,africain,retour,football,coupe,afrique,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/football/jeuneafrique.com/2015/04/football-coupe-du-monde-2026-le-retour-en-afrique-jeune",
-            "resource_url": "http://www.google.com/search?q=football%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://jeuneafrique.com/Article/JA2832p008.xml9/"
-        },
-        "latta.blog.lemonde.fr/2015/04/comment-le-football-est-presque-devenu-un-sport-individuel": {
-            "title": "Comment le football est (presque) devenu un sport individuel Une...",
-            "snippet": "Sport collectif par nature, le football a assez vite, au cours de son histoire, fait c\u00e9l\u00e9brer des individualit\u00e9s. D\u00e8s l'apr\u00e8s-guerre, la liste de ces figures qui sortent du rang s'allonge, en parall\u00e8le de l'\u00e9volution de ce sport vers un...",
-            "date": "2015-04-03",
-            "author_name": "J\u00e9r\u00f4me Latta",
-            "categories": "nature,football,sport",
-            "tags": "collectif,football,sport,histoire,apr\u00e8s",
-            "recuweb_url": "http://fr.recuweb.com/sport/latta.blog.lemonde.fr/2015/04/comment-le-football-est-presque-devenu-un-sport-individuel",
+            "tags": "comme,psg,football,club",
+            "recuweb_url": "http://fr.recuweb.com/football/blog.lefigaro.fr/2015/04/l-avenir-du-psg-s-appelle-t-il-verratti-pastore",
             "resource_url": "http://www.google.com/search?q=football&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://latta.blog.lemonde.fr/2015/04/03/comment-le-football-est-presque-devenu-un-sport-individuel/"
-        },
-        "ectac.over-blog.com/2015/03/ectac-football-la-france-organisera-le-mondial-f%C3%A9minin-en-2019": {
-            "title": "Ectac - Football: La France organisera le Mondial f\u00e9minin en 2019 -...",
-            "snippet": "20/03/2015 - Personnalit\u00e9s de l'\u00e9quipe de France f\u00e9minine: Sarah Bouhaddi, Ga\u00ebtane Thiney et Corine Franco (Corine Petit), Football: la France organisera le Mondial f\u00e9minin en 2019 20/03/2015 - La...",
-            "date": "2015-03-20",
-            "author_name": "Sylvain.ectac",
-            "categories": "football",
-            "tags": "football,france",
-            "recuweb_url": "http://fr.recuweb.com/football/ectac.over-blog.com/2015/03/ectac-football-la-france-organisera-le-mondial-f%C3%A9minin-en-2019",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=football%2Bfootball&rss=1&lng=fr",
-            "source_url": "http://ectac.over-blog.com/2015/03/football-france-organisera-mondial-feminin-en-2019-ectac-sarah-bouhaddi-gaetane-thiney-corine-franco-petit.html"
+            "source_url": "http://blog.lefigaro.fr/football/bruno_roger-petit/2015/04/lavenir-du-psg-sappelle-t-il-verratti-pastore-et-cavani.html"
         },
         "williamazolson1986.wordpress.com/2015/02/american-footballshop-schweiz": {
             "title": "American Footballshop Schweiz...",
@@ -85,7 +52,7 @@
             "categories": "football",
             "tags": "football",
             "recuweb_url": "http://fr.recuweb.com/football/williamazolson1986.wordpress.com/2015/02/american-footballshop-schweiz",
-            "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=football&f=feed&page=1",
             "source_url": "http://williamazolson1986.wordpress.com/2015/02/07/american-footballshop-schweiz/"
         },
         "maillotsdefootball2015.wordpress.com/2015/01/chaussures-de-football-nikechaussures-pas-cher": {
@@ -94,9 +61,9 @@
             "date": "2015-01-31",
             "author_name": "maillotsdefootball2015",
             "categories": "football",
-            "tags": "cher,football",
+            "tags": "football",
             "recuweb_url": "http://fr.recuweb.com/football/maillotsdefootball2015.wordpress.com/2015/01/chaussures-de-football-nikechaussures-pas-cher",
-            "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=football&f=feed&page=1",
             "source_url": "http://maillotsdefootball2015.wordpress.com/2015/01/31/chaussures-de-football-nikechaussures-de-football-pas-cher/"
         },
         "mysp0rt.wordpress.com/2015/01/football-origines-et-institutions": {
@@ -104,22 +71,55 @@
             "snippet": "D\u00e9finition: Le football (ou Soccer en Am\u00e9rique du Nord) est un sport collectif opposant deux \u00e9quipes de 11 joueurs (10 joueurs 1 gardien). Le berceau du football []...",
             "date": "2015-01-21",
             "author_name": "MySp0rt",
-            "categories": "football,sport",
-            "tags": "collectif,deux,deux-\u00e9quipes,\u00e9quipes,football,sport,gardien",
-            "recuweb_url": "http://fr.recuweb.com/sport/mysp0rt.wordpress.com/2015/01/football-origines-et-institutions",
-            "resource_url": "http://fr.search.wordpress.com/?q=football%2Bfootball&f=feed&page=1",
+            "categories": "sport,football",
+            "tags": "sport,football,soccer,joueurs",
+            "recuweb_url": "http://fr.recuweb.com/football/mysp0rt.wordpress.com/2015/01/football-origines-et-institutions",
+            "resource_url": "http://fr.search.wordpress.com/?q=football&f=feed&page=1",
             "source_url": "http://mysp0rt.wordpress.com/wiki-sport/football-origines-et-institutions/"
         },
-        "monclermenscoats.blog.fc2blog.us/2014/12/les-conditions-climatiques-et-l-altitude": {
-            "title": "les conditions climatiques et l'altitude...",
-            "snippet": "Le football est peut - \u00eatre le seul mouvement suiveur, a global plus; et le nom de pi\u00e8ces de jeu simplement?La balle lui - m\u00eame; cela signifie que plus de football, football mieux!- Adidas a travaill\u00e9 pour la FIFA 17 fois officiel de la Coupe du...",
-            "date": "2014-12-20",
-            "author_name": "monclermenscoats",
+        "jeuxvideoetpcgratuits.wordpress.com/2014/11/football-manager-2015-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct": {
+            "title": "FOOTBALL MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT - Jeu PC Torrent VF et Direct Lien (Direct Download...",
+            "snippet": "FOOTBALL MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT FOOTBALL MANAGER 2015 T\u00e9l\u00e9chargement GRATUIT T\u00e9l\u00e9charger des Jeux PC Gratuits en Version Compl\u00e8te - T\u00e9l\u00e9chargement 100% Gratuit Torrent VF et Lien Direct (Direct Download...",
+            "date": "2014-11-17",
+            "author_name": "octavejean25",
             "categories": "football",
-            "tags": "football,peut,\u00eatre,fifa,coupe",
-            "recuweb_url": "http://fr.recuweb.com/football/monclermenscoats.blog.fc2blog.us/2014/12/les-conditions-climatiques-et-l-altitude",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=football%2Bfootball&rss=1&lng=fr",
-            "source_url": "http://monclermenscoats.blog.fc2blog.us/blog-entry-182.html"
+            "tags": "lien,version,version_compl\u00e8te,compl\u00e8te,jeux,jeux_pc_gratuits,gratuits,gratuit,t\u00e9l\u00e9charger,direct,direct_lien,t\u00e9l\u00e9chargement,t\u00e9l\u00e9chargement_gratuit,football,football_manager,manager,jeu",
+            "recuweb_url": "http://fr.recuweb.com/football/jeuxvideoetpcgratuits.wordpress.com/2014/11/football-manager-2015-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct",
+            "resource_url": "http://fr.search.wordpress.com/?q=football&f=feed&page=1",
+            "source_url": "http://jeuxvideoetpcgratuits.wordpress.com/2014/11/17/football-manager-2015-telechargement-gratuit/"
+        },
+        "jeuxvideoetpcgratuits.wordpress.com/2014/10/football-manager-2014-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct": {
+            "title": "FOOTBALL MANAGER 2014 T\u00e9l\u00e9chargement GRATUIT - Jeu PC Torrent VF et Direct Lien (Direct Download...",
+            "snippet": "FOOTBALL MANAGER 2014 T\u00e9l\u00e9chargement GRATUIT FOOTBALL MANAGER 2014 T\u00e9l\u00e9chargement GRATUIT T\u00e9l\u00e9charger des Jeux PC Gratuits en Version Compl\u00e8te - T\u00e9l\u00e9chargement 100% Gratuit Torrent VF et Lien Direct (Direct Download...",
+            "date": "2014-10-03",
+            "author_name": "octavejean25",
+            "categories": "football",
+            "tags": "lien,version,version_compl\u00e8te,compl\u00e8te,jeux,jeux_pc_gratuits,gratuits,gratuit,t\u00e9l\u00e9charger,direct,direct_lien,t\u00e9l\u00e9chargement,t\u00e9l\u00e9chargement_gratuit,football,football_manager,manager,jeu",
+            "recuweb_url": "http://fr.recuweb.com/football/jeuxvideoetpcgratuits.wordpress.com/2014/10/football-manager-2014-t%C3%A9l%C3%A9chargement-gratuit-jeu-pc-torrent-vf-et-direct",
+            "resource_url": "http://fr.search.wordpress.com/?q=football&f=feed&page=1",
+            "source_url": "http://jeuxvideoetpcgratuits.wordpress.com/2014/10/03/football-manager-2014-telechargement-gratuit/"
+        },
+        "forum.alsacreations.com/2013/10/r%C3%A9solu-encodage-uft-8-avec-json-encode-alsacreations": {
+            "title": "R\u00e9solu Encodage UFT-8 avec json_encode - Alsacreations...",
+            "snippet": "texte=file('localhost/football2/sallesDesMachines/?NumeroRencontre='escape(numero)); file(texte); myJsonObj=(texte); Erreur: SyntaxError:: unexpected character. Ligne: 3...",
+            "date": "2013-10-14",
+            "author_name": "ledisciple1",
+            "categories": "football",
+            "tags": "localhost,football",
+            "recuweb_url": "http://fr.recuweb.com/football/forum.alsacreations.com/2013/10/r%C3%A9solu-encodage-uft-8-avec-json-encode-alsacreations",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.alsacreations.com/topic-1-69283-1-Encodage-UFT-8-avec-jsonencode.html"
+        },
+        "moustikseblog.over-blog.com/2013/09/le-blog-de-seb-overblog": {
+            "title": "Le Blog de Seb - Overblog...",
+            "snippet": "a title=\"sondage finira premier musbie football games 2008\"href=\"localhost/sondages/\"mce_href=\"www H\u00e9berg\u00e9 par OverBlog.",
+            "date": "2013-09-10",
+            "author_name": "inconnu",
+            "categories": "football",
+            "tags": "football",
+            "recuweb_url": "http://fr.recuweb.com/football/moustikseblog.over-blog.com/2013/09/le-blog-de-seb-overblog",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bfootball&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://moustikseblog.over-blog.com/article-29792804.html"
         }
     }
 }
