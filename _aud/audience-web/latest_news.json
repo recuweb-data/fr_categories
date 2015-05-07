@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "audience-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/audience-web/",
@@ -11,42 +11,101 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-web/audience-web/blogs.json"
     },
     "items": {
-        "tubefilter.com/2015/05/indie-spotlight-la-beer-will-be-first-web-series-filmed-in": {
-            "title": "Indie Spotlight: 'LA Beer'Will Be First Web Series Filmed In Front Of... - Tubefilter...",
-            "snippet": "TubefilterIndie Spotlight: 'LA Beer'Will Be First Web Series Filmed In Front Of...TubefilterFilming sitcoms in front of live audiences isn't a new phenomenon for the world of television. But until now, this same production method has been rare on...",
-            "date": "2015-05-01",
-            "categories": "television",
-            "tags": "web,live",
-            "recuweb_url": "http://fr.recuweb.com/television/tubefilter.com/2015/05/indie-spotlight-la-beer-will-be-first-web-series-filmed-in",
-            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bweb&output=atom&nord=1",
-            "source_url": "http://tubefilter.com/2015/05/01/indie-spotlight-l-a-beer-live-studio-audience/"
+        "lalettre.pro/2015/05/le-grand-loft-de-contact-fm": {
+            "title": "Le Grand Loft de Contact FM...",
+            "snippet": "Alors que le r\u00e9seau du Nord enregistre depuis plusieurs semaines une hausse importante de son audience digitale et apr\u00e8s... 1 pour la fr\u00e9quentation du portail avec 230 586 visites (eStatWeb M\u00e9diam\u00e9trie).",
+            "date": "2015-05-07",
+            "tags": "m\u00e9diam\u00e9trie,audience",
+            "recuweb_url": "http://fr.recuweb.com/lalettre.pro/2015/05/le-grand-loft-de-contact-fm",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://lalettre.pro/Le-Grand-Loft-de-Contact-FM_a7349.html"
         },
-        "capcampus.com/2015/04/assistant-webmarketing-h-f-t%C3%A9l%C3%A9magazine": {
-            "title": "Assistant Webmarketing H_F T\u00e9l\u00e9Magazine...",
-            "snippet": "Description du poste: La/Le stagiaire aura pour missions sur la marque web et mobile T\u00e9l\u00e9 Magazine by planning TV - Suivi de laudience mobile, web et optimisations: Analyse et reporting sur laudience web, les canaux dacquisition, le contenu...",
-            "date": "2015-04-22",
-            "tags": "web",
-            "recuweb_url": "http://fr.recuweb.com/capcampus.com/2015/04/assistant-webmarketing-h-f-t%C3%A9l%C3%A9magazine",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=audience%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://capcampus.com/emploi-629/assistant-webmarketing-h-f-telemagazine-e903888.htm"
+        "latribune.fr/2015/05/radio-france-mouv-a-18-mois-pour-trouver-son-public": {
+            "title": "Radio France: Mouv'a 18 mois pour trouver son public... ou devenir une webradio...",
+            "snippet": "Cr\u00e9\u00e9e en 1997, la radio musicale destin\u00e9e aux jeunes n'a jamais trouv\u00e9 son public et affiche moins de 0,5% de part d'audience. Le PDG de Radio France Mathieu Gallet a indiqu\u00e9 jeudi 7 mai qu'il n'excluait pas de transformer Mouv'en radio...",
+            "date": "2015-05-07",
+            "categories": "radio",
+            "tags": "radio,excluait,transformer,mai,mathieu,gallet,indiqu\u00e9,jeudi,jamais,moins,destin\u00e9e,destin\u00e9e-aux-jeunes,jeunes,devenir,devenir-une-webradio,webradio,mois,radio_france,france,mouv,audience,pdg",
+            "recuweb_url": "http://fr.recuweb.com/radio/latribune.fr/2015/05/radio-france-mouv-a-18-mois-pour-trouver-son-public",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://latribune.fr/technos-medias/medias/radio-france-mouv-a-18-mois-pour-trouver-son-public-ou-devenir-une-webradio-474824.html"
+        },
+        "actu.orange.fr/2015/05/radio-france-mouv-pourrait-devenir-une-webradio": {
+            "title": "Radio France: Mouv'pourrait devenir une webradio...",
+            "snippet": "Si jamais l'audience de la radio Mouv'restait faible, Mathieu Gallet pourrait transformer la station en webradio, a-t-il fait savoir ce jeudi. Le PDG de Radio France Mathieu Gallet a indiqu\u00e9 ce jeudi 7 mai qu'il n'excluait pas de transformer la...",
+            "date": "2015-05-07",
+            "categories": "radio",
+            "tags": "excluait,transformer,mai,indiqu\u00e9,jeudi,pourrait,station,webradio,mathieu,mathieu_gallet,gallet,radio,jamais,devenir,devenir-une-webradio,radio_france,france,mouv,audience,pdg",
+            "recuweb_url": "http://fr.recuweb.com/radio/actu.orange.fr/2015/05/radio-france-mouv-pourrait-devenir-une-webradio",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://actu.orange.fr/france/radio-france-mouv-pourrait-devenir-une-webradio-afp-s_CNT0000009P47y.html"
+        },
+        "lexpress.fr/2015/05/radio-france-mouv-bient%C3%B4t-une-webradio": {
+            "title": "Radio France: Mouv'bient\u00f4t une webradio?",
+            "snippet": "Auditionn\u00e9 au S\u00e9nat ce jeudi, le PDG de Radio France, Mathieu Gallet, a avou\u00e9 qu'il pourrait abandonner la diffusion en FM de Mouv'si l'audience de la station destin\u00e9e aux jeunes ne d\u00e9collait pas. La fin de Mouv'sur les ondes est-elle...",
+            "date": "2015-05-07",
+            "categories": "radio",
+            "tags": "station,destin\u00e9e,destin\u00e9e-aux-jeunes,jeunes,pourrait,mathieu,mathieu_gallet,gallet,jeudi,webradio,radio,radio_france,france,mouv,pdg,audience",
+            "recuweb_url": "http://fr.recuweb.com/radio/lexpress.fr/2015/05/radio-france-mouv-bient%C3%B4t-une-webradio",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://lexpress.fr/actualite/medias/radio-france-mouv-bientot-une-webradio_1678255.html"
+        },
+        "france3-regions.francetvinfo.fr/2015/05/les-r%C3%A9sistances-un-documentaire-in%C3%A9dit-sur-des-h%C3%A9ros-inconnus": {
+            "title": "Les R\u00e9sistances, un documentaire in\u00e9dit sur des h\u00e9ros inconnus...",
+            "snippet": "FRANCE 3 HAUTE-NORMANDIE Ils sont les derniers t\u00e9moins d'une histoire de plus de 70 ans. Notre web documentaire... Dans ces r\u00e9gions o\u00f9 la BBC atteint des audiences record, des milliers de jeunes se sont port\u00e9s volontaires pour combattre aux...",
+            "date": "2015-05-06",
+            "tags": "jeunes,audiences,web,france",
+            "recuweb_url": "http://fr.recuweb.com/france3-regions.francetvinfo.fr/2015/05/les-r%C3%A9sistances-un-documentaire-in%C3%A9dit-sur-des-h%C3%A9ros-inconnus",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://france3-regions.francetvinfo.fr/haute-normandie/2015/05/06/les-resistances-un-documentaire-inedit-sur-des-heros-inconnus-719929.html"
+        },
+        "buzzmedias.net/2015/05/audiences-tv-tf1-largement-devant-france-2-5-d%C3%A9passe-le-million": {
+            "title": "Audiences TV: TF1 largement devant France 2, France 5 d\u00e9passe le million...",
+            "snippet": "Web entrepreneur, il collabore au site depuis 2012. Il partage son temps entre la r\u00e9daction d'articles, de chroniques et d'autres projets sur le: jocel1languille...",
+            "date": "2015-05-05",
+            "tags": "site,audiences,france,web",
+            "recuweb_url": "http://fr.recuweb.com/buzzmedias.net/2015/05/audiences-tv-tf1-largement-devant-france-2-5-d%C3%A9passe-le-million",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://buzzmedias.net/audiences-tv-tf1-largement-devant-france-2-france-5-depasse-le-million-a81706.html"
+        },
+        "lepopulaire.fr/2015/05/trajets-quotidiens-les-fran%C3%A7ais-en-qu%C3%AAte-de-connectivit%C3%A9-et-voitures-autonomes": {
+            "title": "Trajets quotidiens: les Fran\u00e7ais en qu\u00eate de connectivit\u00e9 et de voitures autonomes...",
+            "snippet": "(Relaxnews) - 20,1 millions d'internautes fran\u00e7ais ont consult\u00e9 au moins un site de sport en mars 2015, selon les derni\u00e8res donn\u00e9es de l'audience de l'Internet en France de M\u00e9diam\u00e9trie... digitales (Global Web Index GWI) montrent que le...",
+            "date": "2015-05-05",
+            "categories": "sport,internet",
+            "tags": "web,selon,selon-les-derni\u00e8res,derni\u00e8res,derni\u00e8res-donn\u00e9es,donn\u00e9es,internautes,internautes-fran\u00e7ais,fran\u00e7ais,fran\u00e7ais-ont-consult\u00e9,consult\u00e9,consult\u00e9-au-moins,moins,moins-un-site,site,site-de-sport,sport,sport-en-mars,mars,millions,audience,internet,france,m\u00e9diam\u00e9trie",
+            "recuweb_url": "http://fr.recuweb.com/internet/lepopulaire.fr/2015/05/trajets-quotidiens-les-fran%C3%A7ais-en-qu%C3%AAte-de-connectivit%C3%A9-et-voitures-autonomes",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://lepopulaire.fr/france-monde/actualites/societe/techno/2015/05/05/trajets-quotidiens-les-francais-en-quete-de-connectivite-et-de-voitures-autonomes_11430243.html"
+        },
+        "stephanelarue.com/2015/05/meilleur-classement-historique-pour-france-t%C3%A9l%C3%A9visions-sur-le-web-en-mars": {
+            "title": "Meilleur classement historique pour France T\u00e9l\u00e9visions sur le Web en mars 2015...",
+            "snippet": "France T\u00e9l\u00e9vision continue daffirmer son leadership des marques audiovisuelles sur Internet en se classant au 13e rang des marques les plus fr\u00e9quent\u00e9es sur le web en mars 2015... de visiteurs uniques, son audience a progress\u00e9 de 52% en 1 mois.",
+            "date": "2015-05-04",
+            "categories": "television,internet",
+            "tags": "web,mars,france,classement,internet,audience,mois",
+            "recuweb_url": "http://fr.recuweb.com/internet/stephanelarue.com/2015/05/meilleur-classement-historique-pour-france-t%C3%A9l%C3%A9visions-sur-le-web-en-mars",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://stephanelarue.com/Meilleur-classement-historique-pour-France-Televisions-sur-le-Web-en-mars-2015_a14080.html"
+        },
+        "zebulon.fr/2015/05/pr%C3%A8s-de-la-moiti%C3%A9-des-internautes-consultent-sites-sport": {
+            "title": "Pr\u00e8s de la moiti\u00e9 des internautes consultent des sites de sport...",
+            "snippet": "20,1 millions d'internautes fran\u00e7ais ont consult\u00e9 au moins un site de sport en mars 2015, selon les derni\u00e8res donn\u00e9es de l'audience de l'Internet en France de M\u00e9diam\u00e9trie... leur vie priv\u00e9e sur le Web Il existe un d\u00e9calage entre...",
+            "date": "2015-05-04",
+            "categories": "sport,internet",
+            "tags": "selon,selon-les-derni\u00e8res,derni\u00e8res,derni\u00e8res-donn\u00e9es,donn\u00e9es,internautes,internautes-fran\u00e7ais,fran\u00e7ais,fran\u00e7ais-ont-consult\u00e9,consult\u00e9,consult\u00e9-au-moins,moins,moins-un-site,site-de-sport,sport,sport-en-mars,mars,millions,audience,internet,france,m\u00e9diam\u00e9trie,web",
+            "recuweb_url": "http://fr.recuweb.com/internet/zebulon.fr/2015/05/pr%C3%A8s-de-la-moiti%C3%A9-des-internautes-consultent-sites-sport",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Baudience%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://zebulon.fr/actualites/14178-pres-de-la-moitie-des-internautes-consultent-des-sites-de-sport.html"
         },
         "20minutes.fr/2015/04/allocin%C3%A9-l-audience-progresse-de-10-6%-en-f%C3%A9vrier": {
             "title": "AlloCin\u00e9: L'audience progresse de 10,6% en f\u00e9vrier sur le Web -...",
             "snippet": "\u00e9: L'audience progresse de 10,6% en f\u00e9vrier sur le site d'actualit\u00e9 cin\u00e9matographique s'est notamment hiss\u00e9 dans le top 20 du classement, et a surtout \u00e9t\u00e9 le site ayant connu la plus forte progression par rapport au mois de janvier: 10,6%...",
             "date": "2015-04-07",
-            "tags": "site,mois,f\u00e9vrier,audience,web",
+            "tags": "site,mois,classement,audience,web",
             "recuweb_url": "http://fr.recuweb.com/20minutes.fr/2015/04/allocin%C3%A9-l-audience-progresse-de-10-6%-en-f%C3%A9vrier",
             "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bweb&output=atom&nord=1",
             "source_url": "http://20minutes.fr/economie/1580531-20150407-allocine-audience-progresse-106-fevrier-web"
-        },
-        "cbanque.com/2015/04/audience-des-banques-sur-le-web-cr%C3%A9dit-agricole-en-t%C3%AAte-devant": {
-            "title": "Audience des banques sur le web: le Cr\u00e9dit Agricole en t\u00eate devant... -...",
-            "snippet": "des banques sur le web: le Cr\u00e9dit Agricole en t\u00eate devant... internaute sur deux a consult\u00e9 un site bancaire au cours du mois de f\u00e9vrier 2015, en France, selon M\u00e9diam\u00e9trie, soit 23,6 millions d'internautes. Quelle banque draine le plus de...",
-            "date": "2015-04-07",
-            "tags": "site,mois,f\u00e9vrier,web,audience",
-            "recuweb_url": "http://fr.recuweb.com/cbanque.com/2015/04/audience-des-banques-sur-le-web-cr%C3%A9dit-agricole-en-t%C3%AAte-devant",
-            "resource_url": "http://news.google.fr/?hl=fr&q=audience%2Bweb&output=atom&nord=1",
-            "source_url": "http://cbanque.com/actu/51478/audience-des-banques-sur-le-web-le-credit-agricole-en-tete-devant-la-banque-postale"
         }
     }
 }
