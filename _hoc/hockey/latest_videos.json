@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -11,17 +11,29 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/sun-sports-30-avril-2015-hcnantes": {
-            "title": "SUN Sports - 30 avril 2015 - HCNantes...",
-            "snippet": "Sullivan Lefeuvre, en direct de nos studios pour nous parler de hockey sur: lesonuniqueTags: Nantes Sport Sun Sports hockey hockey sur gazon lesonunique sun Posted: 30 April 2015Rating:: 0...",
-            "date": "2015-04-30",
-            "author_name": "lesonunique",
-            "categories": "hockey,hockey-sur-gazon,sport",
-            "tags": "hockey,sports",
-            "recuweb_url": "http://fr.recuweb.com/sport/dailymotion.com/2015/04/sun-sports-30-avril-2015-hcnantes",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2oic3x_sun-sports-30-avril-2015-hcnantes_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2oic3x_sun-sports-30-avril-2015-hcnantes_sport"
+        "dailymotion.com/2015/05/hockey-sur-glace-chm-henderson-on-a-toujours-dit-qu-se": {
+            "title": "Hockey sur glace - ChM: Henderson On a toujours dit qu'on se battait pour le maintien...",
+            "snippet": "VIDEO HOCKEY SUR GLACE - Le s\u00e9lectionneur des Bleus \u00e9tait d\u00e9\u00e7u apr\u00e8s la d\u00e9faite de son \u00e9quipe contre la Suisse, dimanche, au championnat du monde (1-3).Author: lequipeTags: Hockey sur glace Championnats du monde Dave Henderson Equipe de...",
+            "date": "2015-05-04",
+            "author_name": "lequipe",
+            "categories": "hockey,hockey-sur-glace",
+            "tags": "\u00e9quipe,hockey,glace,bleus,dimanche",
+            "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/dailymotion.com/2015/05/hockey-sur-glace-chm-henderson-on-a-toujours-dit-qu-se",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+hockey/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2p1i0t_hockey-sur-glace-chm-henderson-on-a-toujours-dit-qu-on-se-battait-pour-le-maintien_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2p1i0t_hockey-sur-glace-chm-henderson-on-a-toujours-dit-qu-on-se-battait-pour-le-maintien_sport"
+        },
+        "youtube.com/2015/04/hockey-sur-glace-les-bleus-montent-en-puissance-avant-le-mondial": {
+            "title": "Hockey sur glace: les Bleus montent en puissance avant le Mondial...",
+            "snippet": "Hockey sur glace: les Bleus montent en puissance avant le Mondial Les Fran\u00e7ais poursuivent leur pr\u00e9paration pour le Mondial de Hockey sur glace, qui se d\u00e9roulera d\u00e9but mai en R\u00e9publique Tch\u00e8que. Dimanche, l'\u00e9quipe de France a remport\u00e9 une...",
+            "date": "2015-04-27",
+            "author_name": "Francetv Sport",
+            "categories": "hockey",
+            "tags": "\u00e9quipe,fran\u00e7ais,glace,hockey,bleus,dimanche,france",
+            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2015/04/hockey-sur-glace-les-bleus-montent-en-puissance-avant-le-mondial",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=yC-m7Ty-4nM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/yC-m7Ty-4nM/0.jpg"
         },
         "youtube.com/2015/04/belairdirect-hockey-qu%C3%A9bec-par-strobosketch": {
             "title": "belairdirect - Hockey Qu\u00e9bec par Strobosketch...",
@@ -29,9 +41,9 @@
             "date": "2015-04-15",
             "author_name": "belairdirect | Official",
             "categories": "hockey,humour",
-            "tags": "saison,hockey,d\u00e9couvrez",
+            "tags": "hockey,qu\u00e9bec,d\u00e9couvrez",
             "recuweb_url": "http://fr.recuweb.com/humour/youtube.com/2015/04/belairdirect-hockey-qu%C3%A9bec-par-strobosketch",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=bscJojlW_kg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/bscJojlW_kg/0.jpg"
         },
@@ -41,47 +53,11 @@
             "date": "2015-04-13",
             "author_name": "payetoncaf",
             "categories": "hockey",
-            "tags": "hockey",
+            "tags": "personnes,hockey",
             "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/04/le-handi-hockey-outil-de-mixit%C3%A9",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey/0?af=1",
             "source_url": "http://dailymotion.com/video/x2miunf_le-handi-hockey-outil-de-mixite_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2miunf_le-handi-hockey-outil-de-mixite_sport"
-        },
-        "dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise": {
-            "title": "Hockey father breaking mirror Hockey sur glace - Un p\u00e8re \u00e9nerv\u00e9 brise une vitre lors du match...",
-            "snippet": "Hockey sur glace - Un p\u00e8re \u00e9nerv\u00e9 brise une vitre lors du match de son fils: channelsportTags: Hockey Buzz P\u00e8re \u00e9nerv\u00e9 brise glace Posted: 22 January 2015Rating:: 0...",
-            "date": "2015-01-22",
-            "author_name": "channelsport",
-            "categories": "hockey",
-            "tags": "glace,match,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport"
-        },
-        "dailymotion.com/2015/01/hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-club": {
-            "title": "Hockey D3 - 2014-12-20 Interview Luc Tardif Jr Massilia Hockey Club...",
-            "snippet": "Hockey sur Glace 2014-12-20 Interview de Luc Tardif Jr Coach du Massilia Hockey ClubAuthor: HockeyhebdoTags: Posted: 02 January 2015Rating:: 0...",
-            "date": "2015-01-02",
-            "author_name": "Hockeyhebdo",
-            "categories": "hockey",
-            "tags": "hockey,hockey_club,club,glace",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-club",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+hockey/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2dwjlu_hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-hockey-club_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2dwjlu_hockey-d3-2014-12-20-interview-luc-tardif-jr-massilia-hockey-club_sport"
-        },
-        "youtube.com/2014/12/le-vent-du-nord-la-soir%C3%A9e-hockey": {
-            "title": "Le Vent du Nord - La soir\u00e9e du hockey...",
-            "snippet": "Le Vent du Nord - La soir\u00e9e du hockey Le Vent du Nord tient \u00e0 remercier les artisans du costumier de Radio-Canada. La soir\u00e9e du hockey, une pi\u00e8ce instrumentale festive qui figure sur Tromper le temps (2012). Le Vent du Nord:... From: ICI Musique...",
-            "date": "2014-12-15",
-            "author_name": "ICI Musique",
-            "categories": "musique,hockey,radio",
-            "tags": "hockey",
-            "recuweb_url": "http://fr.recuweb.com/radio/youtube.com/2014/12/le-vent-du-nord-la-soir%C3%A9e-hockey",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=7CbnmcuROKI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/7CbnmcuROKI/0.jpg"
         },
         "youtube.com/2014/10/entr%C3%A9e-des-albatros-de-brest-&-lyon-hockey-club": {
             "title": "Entr\u00e9e des Albatros de Brest & de Lyon Hockey Club...",
@@ -89,23 +65,11 @@
             "date": "2014-10-27",
             "author_name": "Michel breizh",
             "categories": "hockey,sport",
-            "tags": "hockey,hockey_club,club,sports",
+            "tags": "hockey,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/10/entr%C3%A9e-des-albatros-de-brest-&-lyon-hockey-club",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JmbhRg3Z9hM&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/JmbhRg3Z9hM/0.jpg"
-        },
-        "youtube.com/2014/09/ecole-d-hockey-sur-glace-les-aiglons-du-hogly-vend%C3%A9e": {
-            "title": "Ecole d'Hockey sur glace: Les Aiglons du HOGLY (Vend\u00e9e)...",
-            "snippet": "Ecole d'Hockey sur glace: Les Aiglons du HOGLY (Vend\u00e9e) Sites webs/blogs, copiez cette vid\u00e9o avec le bouton \"Int\u00e9grer\"! Si vous voulez t\u00e9l\u00e9charger, allez sur. Direction la patinoire Arago de La Roche-sur-Yon... From: TVvendee Views: 3600 5...",
-            "date": "2014-09-29",
-            "author_name": "TVvendee",
-            "categories": "hockey",
-            "tags": "glace,hockey",
-            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/09/ecole-d-hockey-sur-glace-les-aiglons-du-hogly-vend%C3%A9e",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=Xbu3YKr5kN0&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/Xbu3YKr5kN0/0.jpg"
         },
         "youtube.com/2014/09/1er-match-de-l-%C3%A9quipe-tunisie-hockey-sur-glace-vid%C3%A9o-officielle": {
             "title": "1er match de l'\u00e9quipe de Tunisie de Hockey sur glace - Vid\u00e9o officielle...",
@@ -113,23 +77,59 @@
             "date": "2014-09-14",
             "author_name": "Hockey tunisia",
             "categories": "hockey,hockey-sur-glace",
-            "tags": "match,hockey,glace,d\u00e9couvrez",
+            "tags": "match,\u00e9quipe,hockey,glace,d\u00e9couvrez,france",
             "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/youtube.com/2014/09/1er-match-de-l-%C3%A9quipe-tunisie-hockey-sur-glace-vid%C3%A9o-officielle",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=5xaHQ7uiFZ0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/5xaHQ7uiFZ0/0.jpg"
         },
-        "youtube.com/2014/06/scorpions-hockey-club-film-promo-2014": {
-            "title": "Scorpions Hockey Club - Film promo 2014...",
-            "snippet": "Scorpions Hockey Club - Film promo 2014 D\u00e9j\u00e0 un nouveau d\u00e9fi attends nos sportifs de haut niveau pour la prochaine saison. En attendant d\u00e9couvrez ces quelques images pour vous remettre dans l'ambiance de la superbe saison que... From:...",
-            "date": "2014-06-02",
-            "author_name": "ScorpionsTV",
-            "categories": "hockey",
-            "tags": "saison,d\u00e9couvrez,hockey,hockey_club,club",
-            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/06/scorpions-hockey-club-film-promo-2014",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bhockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=N0aU0OlJGBs&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/N0aU0OlJGBs/0.jpg"
+        "youtube.com/2014/03/rds-hockey-lnh-la-culture-de-violence": {
+            "title": "RDS HOCKEY LNH La culture de la violence...",
+            "snippet": "RDS HOCKEY LNH La culture de la violence Vid\u00e9o informative sur la violence au hockey. \u00c0 quand une mort d'homme? Allons-nous voir en direct un joueur d'hockey mourir sur la glace par une mise en \u00e9chec? R\u00e9ponses de quelques personnes:. From:...",
+            "date": "2014-03-14",
+            "author_name": "CHANGEMENT DE CHA\u00ceNE",
+            "categories": "hockey,mort,culture",
+            "tags": "personnes,hockey,glace",
+            "recuweb_url": "http://fr.recuweb.com/culture/youtube.com/2014/03/rds-hockey-lnh-la-culture-de-violence",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=PNyobLZ4zNE&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/PNyobLZ4zNE/0.jpg"
+        },
+        "youtube.com/2014/02/tirs-au-but-%C3%A9cole-de-hockey": {
+            "title": "Tirs au but \u00e9cole de hockey...",
+            "snippet": "Tirs au but \u00e9cole de hockey match boxers de bordeaux-chevalier du lac d'Annecy- tirs au but de l'\u00e9cole de hockey Merci a Nico Gov pour cette vid\u00e9o. From: Axel PALEM Views: 1694 8 ratings Time: 06:36 More in Sports...",
+            "date": "2014-02-16",
+            "author_name": "Axel PALEM",
+            "categories": "hockey,sport",
+            "tags": "\u00e9cole,hockey,match,sports",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/02/tirs-au-but-%C3%A9cole-de-hockey",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=huxFvb4H3Ag&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/huxFvb4H3Ag/0.jpg"
+        },
+        "youtube.com/2014/02/l-%C3%A9cole-du-champion-2-le-slapshot-tir-de-hockey": {
+            "title": "L'\u00c9cole du Champion 2: le slapshot, tir de hockey qui fait mal au gardien - Le Figaro...",
+            "snippet": "L'\u00c9cole du Champion 2: le slapshot, tir de hockey \"qui fait mal au gardien\" - Le Figaro Apprenez les gestes techniques des champions avec la nouvelle s\u00e9rie Sport du Figaro. Pour ce 2e \u00e9pisode, les Fran\u00e7ais Volants de Paris nous pr\u00e9sentent le...",
+            "date": "2014-02-15",
+            "author_name": "Le Figaro",
+            "categories": "hockey,sport",
+            "tags": "fran\u00e7ais,hockey,\u00e9cole,sport",
+            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/02/l-%C3%A9cole-du-champion-2-le-slapshot-tir-de-hockey",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=kl-bIbfrYCk&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/kl-bIbfrYCk/0.jpg"
+        },
+        "youtube.com/2013/04/commentateur-de-hockey-fran%C3%A7ois-p%C3%A9russe-qu%C3%A9bec": {
+            "title": "Commentateur de Hockey -- Fran\u00e7ois P\u00e9russe (Qu\u00e9bec)...",
+            "snippet": "Commentateur de Hockey -- Fran\u00e7ois P\u00e9russe (Qu\u00e9bec) Les 2 minutes du peuple de Fran\u00e7ois P\u00e9russe: Commenter un match de Hockey est devenu tout un sport! Abonnez-vous Suivez Fran\u00e7ois sur Twitter \u00e0 franpeuple: twitte... From: LeFrancoisPerusse...",
+            "date": "2013-04-17",
+            "author_name": "LeFrancoisPerusse",
+            "categories": "sport,hockey,twitter",
+            "tags": "sport,match,hockey,qu\u00e9bec",
+            "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2013/04/commentateur-de-hockey-fran%C3%A7ois-p%C3%A9russe-qu%C3%A9bec",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=w-LYulPY3Rg&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/w-LYulPY3Rg/0.jpg"
         }
     }
 }
