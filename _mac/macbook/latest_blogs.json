@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "macbook",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/macbook/",
@@ -11,16 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/macbook/macbook/blogs.json"
     },
     "items": {
-        "cnetfrance.fr/2015/04/asus-zenbook-pro-ux501-un-monstre-de-puissance-cach%C3%A9": {
-            "title": "Asus ZenBook Pro UX501: un monstre de puissance cach\u00e9 dans un...",
-            "snippet": "Asus commercialise son ZenBook Pro UX501, un PC portable de 15,6 pouces reprenant le design et la finesse du MacBook Pro d'Apple. A l'int\u00e9rieur, l'ordinateur est dot\u00e9e d'une configuration muscl\u00e9e avec un \u00e9cran Full HD,...",
-            "date": "2015-04-29",
-            "author_name": "Eureka Presse",
-            "categories": "ordinateur,macbook",
-            "tags": "\u00e9cran,ordinateur,macbook,macbook_pro,pro,design,puissance,portable,pouces,apple",
-            "recuweb_url": "http://fr.recuweb.com/macbook/cnetfrance.fr/2015/04/asus-zenbook-pro-ux501-un-monstre-de-puissance-cach%C3%A9",
+        "macaficionados.com/2015/04/akitio-thunder-dock-station-thunderbolt-pour-le-nouveau-macbook": {
+            "title": "Akitio Thunder Dock: station Thunderbolt pour le nouveau MacBook...",
+            "snippet": "Jamais le moment n'aura \u00e9t\u00e9 aussi bien propice pour passer en revue la station d'accueil Akitio Thunder Dock, avec la commercialisation du nouveau MacBook 2015. Mac Aficionados remercie chaleureusement Akitio de...",
+            "date": "2015-04-28",
+            "author_name": "OGenius",
+            "categories": "macbook",
+            "tags": "moment,macbook,accueil",
+            "recuweb_url": "http://fr.recuweb.com/macbook/macaficionados.com/2015/04/akitio-thunder-dock-station-thunderbolt-pour-le-nouveau-macbook",
             "resource_url": "http://www.google.com/search?q=macbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://cnetfrance.fr/news/asus-zenbook-pro-ux501-un-monstre-de-puissance-cache-dans-un-chassis-de-macbook-pro-39818692.htm"
+            "source_url": "http://macaficionados.com/2015/04/28/akitio-thunder-dock-station-accueil-thunderbolt-pour-nouveau-macbook-87600/"
         },
         "01net.com/2015/04/apple-macbook-l-ultraslim-du-fran%C3%A7ais-thomson-computing": {
             "title": "Apple MacBook: l'UltraSlim du fran\u00e7ais Thomson Computing est-il...",
@@ -28,10 +28,21 @@
             "date": "2015-04-16",
             "author_name": "inconnu",
             "categories": "macbook",
-            "tags": "fran\u00e7ais,grand,apple,apple_macbook,macbook,retour",
+            "tags": "fran\u00e7ais,retour,apple,apple_macbook,macbook",
             "recuweb_url": "http://fr.recuweb.com/macbook/01net.com/2015/04/apple-macbook-l-ultraslim-du-fran%C3%A7ais-thomson-computing",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=macbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://01net.com/editorial/652448/apple-macbook-lultraslim-du-francais-thomson-computing-est-il-un-concurrent-serieux/"
+        },
+        "01net.com/2015/04/macbook-pro-13-retina-contre-air-lequel-choisir": {
+            "title": "MacBook Pro 13''Retina contre MacBook Air 13'': lequel choisir?",
+            "snippet": "Il est loin le temps o\u00f9 le MacBook Air (MBA) \u00e9tait le portable de choix du voyageur connect\u00e9. Le temps o\u00f9 l'ultraportable qui p\u00e8se tout de m\u00eame 1,35 Kg paraissait beaucoup plus fin et l\u00e9ger que son fr\u00e8re plus puissant et plus...",
+            "date": "2015-04-10",
+            "author_name": "inconnu",
+            "categories": "macbook",
+            "tags": "beaucoup,fin,fr\u00e8re,ultraportable,\u00e9tait,macbook,macbook_air,air,macbook_pro,pro,retina,portable",
+            "recuweb_url": "http://fr.recuweb.com/macbook/01net.com/2015/04/macbook-pro-13-retina-contre-air-lequel-choisir",
+            "resource_url": "http://www.google.com/search?q=macbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://01net.com/editorial/651877/macbook-pro-13-contre-macbook-air-13-quel-portable-apple-choisir-en-2015/"
         },
         "lesnumeriques.com/2015/03/apple-macbook-pro-13-3-pouces-2015-test-complet": {
             "title": "Apple MacBook Pro 13,3 pouces 2015: Test complet...",
@@ -39,32 +50,10 @@
             "date": "2015-03-27",
             "author_name": "B\u00e9nigne Milli\u00e8re",
             "categories": "macbook",
-            "tags": "processeurs,\u00e9cran,macbook,macbook_pro,pro,gamme,apple,apple_macbook,apple_macbook_pro,pouces,test,retina,intel",
+            "tags": "processeurs,\u00e9cran,chssis,aluminium,macbook,macbook_pro,pro,gamme,apple,apple_macbook,apple_macbook_pro,pouces,test,ann\u00e9e,retina,intel",
             "recuweb_url": "http://fr.recuweb.com/macbook/lesnumeriques.com/2015/03/apple-macbook-pro-13-3-pouces-2015-test-complet",
-            "resource_url": "http://www.google.com/search?q=macbook%2Bmacbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=macbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lesnumeriques.com/ordinateur-portable/apple-macbook-pro-13-3-pouces-2015-p25239/test.html"
-        },
-        "journaldugeek.com/2015/03/macbook-plus-de-windows-7-avec-boot-camp": {
-            "title": "MacBook: plus de Windows 7 avec Boot Camp...",
-            "snippet": "Apple vient de retirer la possibilit\u00e9 de faire tourner Windows 7 via Boot Camp sur lensemble de ses derniers MacBook. En effet, les nouveaux MacBook, MacBook Pro Retina 13/15 pouces et MacBook Air 11/13 pouces ne supporteront plus que Windows 8 en...",
-            "date": "2015-03-23",
-            "author_name": "Greg",
-            "categories": "macbook",
-            "tags": "pro,retina,macbook,apple,pouces,air",
-            "recuweb_url": "http://fr.recuweb.com/macbook/journaldugeek.com/2015/03/macbook-plus-de-windows-7-avec-boot-camp",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=macbook%2Bmacbook&rss=1&lng=fr",
-            "source_url": "http://journaldugeek.com/2015/03/23/macbook-plus-de-windows-7-avec-boot-camp/"
-        },
-        "nobuggsm.com/2015/01/nous-sauvons-votre-mac-chez-france-mobile-a-m%C3%A2con-71000": {
-            "title": "NOUS SAUVONS VOTRE MAC CHEZ FRANCE MOBILE A M\u00c2CON 71000...",
-            "snippet": "Vous trouverez sur notre site une large gamme de r\u00e9parations au meilleurs prix pour votre MAC: - MACBOOK - MACBOOK PRO - MACBOOK AIR - MAC MINI - IMAC - MAC PRO - POWERBOOK Nos interventions sont r\u00e9alis\u00e9es rapidement dans notre centre de...",
-            "date": "2015-01-19",
-            "author_name": "nobuggsm",
-            "categories": "macbook,imac,powerbook",
-            "tags": "gamme,mac,chez,prix,macbook,pro,air",
-            "recuweb_url": "http://fr.recuweb.com/powerbook/nobuggsm.com/2015/01/nous-sauvons-votre-mac-chez-france-mobile-a-m%C3%A2con-71000",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=macbook%2Bmacbook&rss=1&lng=fr",
-            "source_url": "http://nobuggsm.com/2015/01/19/nous-sauvons-votre-mac-chez-france-mobile-a-macon-71000/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/%C3%A9tui-rigide-enkay-mat-pour-macbook-air-11-6-blanc-avis": {
             "title": "\u00c9tui rigide Enkay mat pour MacBook Air 11,6 \"- Blanc Avis...",
@@ -74,7 +63,7 @@
             "categories": "macbook",
             "tags": "entreprise,concentrer,concentrer-professionnel,professionnel,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,avis,macbook,macbook_air,air,mat,\u00e9tui,cherchez",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/%C3%A9tui-rigide-enkay-mat-pour-macbook-air-11-6-blanc-avis",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/26/enkay-matte-protective-hard-case-for-macbook-air-11-6-white-301211/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-etui-protection-pour-macbook-air-11-6-gris-avis": {
@@ -85,7 +74,7 @@
             "categories": "macbook",
             "tags": "entreprise,concentrer,concentrer-professionnel,professionnel,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,macbook,macbook_air,air,protection,paul,mat,etui,avis,cherchez",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-etui-protection-pour-macbook-air-11-6-gris-avis",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-matte-hard-protective-case-for-macbook-air-11-6-grey-301210/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-etui-protection-pour-macbook-air-11-6-rose-avis": {
@@ -96,7 +85,7 @@
             "categories": "macbook",
             "tags": "entreprise,concentrer,concentrer-professionnel,professionnel,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,macbook,macbook_air,air,protection,paul,mat,etui,avis,cherchez",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-etui-protection-pour-macbook-air-11-6-rose-avis",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-matte-hard-protective-case-for-macbook-air-11-6-pink-301925/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-apple-macbook-air-11": {
@@ -107,7 +96,7 @@
             "categories": "macbook",
             "tags": "entreprise,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,apple,apple_macbook,apple_macbook_air,macbook,macbook_air,air,mat,mat-dur,mat-dur-\u00e9tui,dur,dur-\u00e9tui,\u00e9tui,\u00e9tui-de-protection,protection,paul,avis,cherchez",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-apple-macbook-air-11",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-protective-matte-hard-case-for-apple-macbook-air-11-6-green-302029/"
         },
         "swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-macbook-air-11-6": {
@@ -118,8 +107,19 @@
             "categories": "macbook",
             "tags": "entreprise,dealextreme,dealextreme_compagnie,compagnie,recommand\u00e9,meilleur,macbook,macbook_air,air,mat,mat-dur,mat-dur-\u00e9tui,dur,dur-\u00e9tui,\u00e9tui,\u00e9tui-de-protection,protection,paul,avis,cherchez",
             "recuweb_url": "http://fr.recuweb.com/macbook/swfrdxlelvgadgets.wordpress.com/2014/08/paul-mat-dur-%C3%A9tui-de-protection-pour-macbook-air-11-6",
-            "resource_url": "http://fr.search.wordpress.com/?q=macbook%2Bmacbook&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook&f=feed&page=1",
             "source_url": "http://swfrdxlelvgadgets.wordpress.com/2014/08/21/enkay-protective-matte-hard-case-for-macbook-air-11-6-red-302030/"
+        },
+        "pourbatterie.wordpress.com/2014/08/batterie-pour-apple-13-macbook-air-series-a1245-37wh": {
+            "title": "Batterie pour Apple 13\" Macbook Air Series A1245 37Wh...",
+            "snippet": "Accueil Batterie PC Portable Batterie Ordinateur Portable APPLE Batterie pour APPLE A1245 R\u00e9f\u00e9rence: LAP016Batterie A1245 compatible pour Apple 13\" Macbook Air Series 37Wh30%...",
+            "date": "2014-08-04",
+            "author_name": "lucy2008fr",
+            "categories": "ordinateur,macbook",
+            "tags": "ordinateur,ordinateur-portable,portable,apple,macbook,macbook_air,air,accueil",
+            "recuweb_url": "http://fr.recuweb.com/macbook/pourbatterie.wordpress.com/2014/08/batterie-pour-apple-13-macbook-air-series-a1245-37wh",
+            "resource_url": "http://fr.search.wordpress.com/?q=macbook&f=feed&page=1",
+            "source_url": "http://pourbatterie.wordpress.com/2014/08/04/batterie-pour-apple-13-macbook-air-series-a1245-37wh/"
         }
     }
 }
