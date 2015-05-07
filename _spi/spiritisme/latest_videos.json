@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "spiritisme",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/spiritisme/",
@@ -11,18 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/spiritisme/spiritisme/blogs.json"
     },
     "items": {
-        "youtube.com/2014/10/le-cercle-de-la-lune-s%C3%A9ance-spiritisme-partie-1": {
-            "title": "Le Cercle de la Lune s\u00e9ance de spiritisme partie 1...",
-            "snippet": "Le Cercle de la Lune s\u00e9ance de spiritisme partie 1 vid\u00e9o d'une s\u00e9ance de spiritisme organis\u00e9e par le cercle de la lune, site sur le paranormal. la partie 2 arrive prochainement. From: BoxRecordzProduction Views: 1027 16 ratings Time: 41:53 More...",
-            "date": "2014-10-31",
-            "author_name": "BoxRecordzProduction",
-            "categories": "spiritisme",
-            "tags": "paranormal,s\u00e9ance,s\u00e9ance-de-spiritisme,spiritisme,cercle",
-            "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2014/10/le-cercle-de-la-lune-s%C3%A9ance-spiritisme-partie-1",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=nn8_21tbQqI&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/nn8_21tbQqI/0.jpg"
-        },
         "youtube.com/2014/10/s%C3%A9ance-de-spiritisme-avec-un-verre-video-choc": {
             "title": "s\u00e9ance de spiritisme avec un verre video choc...",
             "snippet": "s\u00e9ance de spiritisme avec un verre video choc ph\u00e9nom\u00e8ne paranormal. From: Remouche la mouche Views: 12880 54 ratings Time: 22:00 More in People & Blogs...",
@@ -31,9 +19,21 @@
             "categories": "spiritisme",
             "tags": "s\u00e9ance,s\u00e9ance-de-spiritisme,spiritisme,verre,paranormal,people",
             "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2014/10/s%C3%A9ance-de-spiritisme-avec-un-verre-video-choc",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=JUndfTk7isI&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/JUndfTk7isI/0.jpg"
+        },
+        "youtube.com/2014/08/grenoble-paranormal-s%C3%A9ance-de-spiritisme-ouija-ghost-box-echovox": {
+            "title": "Grenoble Paranormal - S\u00e9ance de spiritisme - Ouija, Ghost box, Echovox...",
+            "snippet": "Grenoble Paranormal - S\u00e9ance de spiritisme - Ouija, Ghost box, Echovox Lien vers la cha\u00eene de Bryan: Comme toujours, il n'y a aucun trucage et ce que vous voyez est 100% authentique. As usual, there is... From: Grenoble Paranormal Views: 29749 198...",
+            "date": "2014-08-23",
+            "author_name": "Grenoble Paranormal",
+            "categories": "spiritisme",
+            "tags": "spiritisme,paranormal,s\u00e9ance,ouija",
+            "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2014/08/grenoble-paranormal-s%C3%A9ance-de-spiritisme-ouija-ghost-box-echovox",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=HBZTU07daFU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/HBZTU07daFU/0.jpg"
         },
         "youtube.com/2014/06/spiritisme-comment-invoquer-les-esprits": {
             "title": "Spiritisme comment invoquer les esprits...",
@@ -43,7 +43,7 @@
             "categories": "spiritisme",
             "tags": "esprits,spiritisme,verre,people",
             "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2014/06/spiritisme-comment-invoquer-les-esprits",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=9AYvDsjJg9c&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/9AYvDsjJg9c/0.jpg"
         },
@@ -71,27 +71,15 @@
             "source_url": "http://youtube.com/watch?v=SIJVgudsti0&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/SIJVgudsti0/0.jpg"
         },
-        "youtube.com/2014/01/spiritisme-47-peut-on-%C3%AAtre-spirite-et-catholique": {
-            "title": "Spiritisme 47 Peut-on \u00eatre spirite et catholique?",
-            "snippet": "Spiritisme 47 Peut-on \u00eatre spirite et catholique? VI- Dialogue avec les nouvelles religions Spiritisme 47 Peut-on \u00eatre spirite et catholique? (45 mn). L'origine du spiritisme. La th\u00e9ologie du spiritisme par Alan Kardec et Victor Hugo.... From:...",
-            "date": "2014-01-14",
-            "author_name": "Arnaud Dumouch",
-            "categories": "spiritisme,religion",
-            "tags": "kardec,spiritisme,spirite",
-            "recuweb_url": "http://fr.recuweb.com/religion/youtube.com/2014/01/spiritisme-47-peut-on-%C3%AAtre-spirite-et-catholique",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=BZ85uMfxxdg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/BZ85uMfxxdg/0.jpg"
-        },
         "youtube.com/2014/01/s%C3%A9ance-de-spiritisme-dans-le-88": {
             "title": "S\u00e9ance de spiritisme dans le 88...",
             "snippet": "S\u00e9ance de spiritisme dans le 88 Voici un montage des meilleurs passage de 2 s\u00e9ances de spiritisme. Si vous n'y croyez pas ce n'est pas grave, l'important ce que tout ceux qui ont essaye y crois maintenant:) D\u00e9sol\u00e9 si... From: Boby Wann Views:...",
             "date": "2014-01-06",
             "author_name": "Boby Wann",
             "categories": "spiritisme",
-            "tags": "maintenant,s\u00e9ance,spiritisme,passage",
+            "tags": "maintenant,s\u00e9ance,spiritisme,meilleurs,passage",
             "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2014/01/s%C3%A9ance-de-spiritisme-dans-le-88",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=59Na4Ffnp8w&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/59Na4Ffnp8w/0.jpg"
         },
@@ -103,7 +91,7 @@
             "categories": "spiritisme",
             "tags": "\u00e8me,jean,spiritisme,s\u00e9ance",
             "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2013/12/spiritisme-avec-anne-tuffigo-et-jean-didier-sur-btlv",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=4P_JdiM7gnA&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/4P_JdiM7gnA/0.jpg"
         },
@@ -115,7 +103,7 @@
             "categories": "spiritisme",
             "tags": "spiritisme,spirite,cercle,allan,allan_kardec,kardec",
             "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2013/11/spiritisme-le-cercle-spirite-allan-kardec-sur-fr%C3%A9quence-evasion",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=TZV3d9M8zfg&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/TZV3d9M8zfg/0.jpg"
         },
@@ -125,11 +113,23 @@
             "date": "2013-11-13",
             "author_name": "K\u00e9vin Paranormal",
             "categories": "spiritisme",
-            "tags": "s\u00e9ance,\u00e8me,s\u00e9ance-de-spiritisme,spiritisme",
+            "tags": "s\u00e9ance,\u00e8me,s\u00e9ance-de-spiritisme,spiritisme,ouija",
             "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2013/11/s%C3%A9ance-de-ouija-qui-tourne-mal-spiritisme-avec-un-esprit-%C3%A9teint",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme%2Bspiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=NMFfyqeWRUQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/NMFfyqeWRUQ/0.jpg"
+        },
+        "youtube.com/2013/10/le-d%C3%A9lire-de-spiritisme-avec-mes-meilleur-amies": {
+            "title": "le d\u00e9lire de spiritisme avec mes meilleur amies...",
+            "snippet": "le d\u00e9lire de spiritisme avec mes meilleur amies un petit d\u00e9lire avec mes meilleurs amies;D. From: Soon-Kyu Sonioshida Views: 2932 23 ratings Time: 02:18 More in People & Blogs...",
+            "date": "2013-10-20",
+            "author_name": "Soon-Kyu Sonioshida",
+            "categories": "spiritisme",
+            "tags": "spiritisme,meilleurs,people",
+            "recuweb_url": "http://fr.recuweb.com/spiritisme/youtube.com/2013/10/le-d%C3%A9lire-de-spiritisme-avec-mes-meilleur-amies",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=spiritisme&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=JO5nM8DL0fM&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/JO5nM8DL0fM/0.jpg"
         }
     }
 }
