@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblog",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -17,9 +17,9 @@
             "date": "2013-08-22",
             "author_name": "euronews-fr",
             "categories": "microblog",
-            "tags": "microblogs,presse,autorit\u00e9s,autorit\u00e9s-chinoises,chinoises,chine",
+            "tags": "microblogs,autorit\u00e9s,autorit\u00e9s-chinoises,chinoises,chine",
             "recuweb_url": "http://fr.recuweb.com/microblog/dailymotion.com/2013/08/chine-d%C3%A9but-du-proc%C3%A8s-de-bo-xilai-le-prince-rouge",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x13h1q6_chine-debut-du-proces-de-bo-xilai-le-prince-rouge_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x13h1q6_chine-debut-du-proces-de-bo-xilai-le-prince-rouge_news"
         },
@@ -31,7 +31,7 @@
             "categories": "microblog",
             "tags": "microblog,comme,petit",
             "recuweb_url": "http://fr.recuweb.com/microblog/dailymotion.com/2013/05/bombasse-et-triple-a-les-nouveaux-mots-du-dico",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x10a3c3_bombasse-et-triple-a-les-nouveaux-mots-du-dico_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x10a3c3_bombasse-et-triple-a-les-nouveaux-mots-du-dico_news"
         },
@@ -43,21 +43,9 @@
             "categories": "moteur-de-recherche,microblog,yahoo,tumblr",
             "tags": "millions,contre,microblog,comme",
             "recuweb_url": "http://fr.recuweb.com/tumblr/dailymotion.com/2013/05/yahoo-s-offre-tumblr",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x10232x_yahoo-s-offre-tumblr_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x10232x_yahoo-s-offre-tumblr_news"
-        },
-        "youtube.com/2012/02/les-internautes-refusent-de-donner-leur-identit%C3%A9-en-ligne": {
-            "title": "Les internautes refusent de donner leur identit\u00e9 en ligne...",
-            "snippet": "Les internautes refusent de donner leur identit\u00e9 en ligne R\u00e9cemment, le Bureau de la presse du conseil d'\u00e9tat communiste chinois a exig\u00e9 que les internautes utilisent leur v\u00e9ritable identit\u00e9 pour s'inscrire sur les microblogs comme Weibo.",
-            "date": "2012-02-04",
-            "author_name": "NTDFrench",
-            "categories": "microblog",
-            "tags": "microblogs,comme,presse",
-            "recuweb_url": "http://fr.recuweb.com/microblog/youtube.com/2012/02/les-internautes-refusent-de-donner-leur-identit%C3%A9-en-ligne",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=LrNa2Xwn8Gg&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/LrNa2Xwn8Gg/0.jpg"
         },
         "dailymotion.com/2011/12/les-microblogs-vis%C3%A9s-par-la-censure-informatique": {
             "title": "Les microblogs vis\u00e9s par la censure informatique...",
@@ -67,7 +55,7 @@
             "categories": "microblog,internet",
             "tags": "microblogs,autorit\u00e9s,autorit\u00e9s-chinoises,chinoises,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/dailymotion.com/2011/12/les-microblogs-vis%C3%A9s-par-la-censure-informatique",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/xn7fwk_les-microblogs-vises-par-la-censure-informatique_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/xn7fwk_les-microblogs-vises-par-la-censure-informatique_news"
         },
@@ -79,7 +67,7 @@
             "categories": "microblog,twitter",
             "tags": "petit,millions,twitter",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2011/03/tech-24-twitter-5-ans-et-de-grandes-ambitions",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=yHnb88YWcew&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/yHnb88YWcew/0.jpg"
         },
@@ -91,7 +79,7 @@
             "categories": "microblog,internet,twitter",
             "tags": "microblogs,microblog,chine,internet,comme,twitter",
             "recuweb_url": "http://fr.recuweb.com/twitter/youtube.com/2011/02/un-microblog-pour-enfants-kidnapp%C3%A9s-en-chine",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog%2Bmicroblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=microblog&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=6WSeVk-TgUE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/6WSeVk-TgUE/0.jpg"
         },
@@ -103,7 +91,7 @@
             "categories": "humour",
             "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,contre,microblogauthor,oub,tags",
             "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/pittbull-contre-une-branche-d-arbre",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x7kcsy_pittbull-contre-une-branche-d-arbre_animals",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcsy_pittbull-contre-une-branche-d-arbre_animals"
         },
@@ -115,7 +103,7 @@
             "categories": "humour",
             "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
             "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/boire-une-bi%C3%A8re-coup-sec",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x7kcqr_boire-une-biere-coup-sec_fun",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcqr_boire-une-biere-coup-sec_fun"
         },
@@ -127,9 +115,21 @@
             "categories": "humour",
             "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
             "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/le-cam%C3%A9lion-rappeur",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog+microblog/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
             "source_url": "http://dailymotion.com/video/x7kcq8_le-camelion-rappeur_animals",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x7kcq8_le-camelion-rappeur_animals"
+        },
+        "dailymotion.com/2008/11/premier-jeu-pour-chat": {
+            "title": "premier jeu pour chat...",
+            "snippet": "J'ai mis au point le premier jeu pour chat merci pour vos commentaires sur mon microblogAuthor: B1ouB1Tags: chat humour dr\u00f4le Posted: 30 November 2008Rating:: 0...",
+            "date": "2008-11-30",
+            "author_name": "B1ouB1",
+            "categories": "humour",
+            "tags": "humour,humour-dr\u00f4le,dr\u00f4le,aires,merci,microblogauthor,oub,tags",
+            "recuweb_url": "http://fr.recuweb.com/humour/dailymotion.com/2008/11/premier-jeu-pour-chat",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/microblog/0?af=1",
+            "source_url": "http://dailymotion.com/video/x7kco6_premier-jeu-pour-chat_animals",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x7kco6_premier-jeu-pour-chat_animals"
         }
     }
 }
