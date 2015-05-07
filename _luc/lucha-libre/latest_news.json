@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lucha-libre",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lucha-libre/",
@@ -11,63 +11,71 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lucha-libre/lucha-libre/blogs.json"
     },
     "items": {
-        "boursorama.com/2015/05/top-10-cuauht%C3%A9moc-crapaud-blanco-boursorama": {
-            "title": "Top 10: Cuauht\u00e9moc Crapaud Blanco - Boursorama...",
-            "snippet": "BoursoramaTop 10: Cuauht\u00e9moc \"Crapaud\" BlancoBoursoramaUn geste d'enfant des bas-fonds de Mexico, biberonn\u00e9 au burlesque des combats de Lucha Libre. Blanco retentera son geste, baptis\u00e9 Cuauhtemi\u00f1a, ou saut du crapaud, pour sa version fran\u00e7aise,...",
+        "paginasiete.bo/2015/05/el-cicl%C3%B3n-%C3%ADcono-de-lucha-libre-conquista-cine-argentino-diario-pagina": {
+            "title": "El Cicl\u00f3n, el \u00edcono de lucha libre, conquista el cine argentino - Diario Pagina Siete...",
+            "snippet": "Diario Pagina SieteEl Cicl\u00f3n, el \u00edcono de lucha libre, conquista el cine argentinoDiario Pagina SieteY es que esta visita tiene un significado muy especial para El Cicl\u00f3n, \u00edcono de la lucha libre boliviana y que vive en Argentina, porque...",
+            "date": "2015-05-05",
+            "tags": "para,lucha,libre",
+            "recuweb_url": "http://fr.recuweb.com/paginasiete.bo/2015/05/el-cicl%C3%B3n-%C3%ADcono-de-lucha-libre-conquista-cine-argentino-diario-pagina",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
+            "source_url": "http://paginasiete.bo/cultura/2015/5/5/ciclon-icono-lucha-libre-conquista-cine-argentino-55540.html"
+        },
+        "peru.com/2015/05/glow-recuerda-a-las-hermosas-damas-de-la-lucha-libre-fotos": {
+            "title": "Glow: Recuerda a las hermosas damas de la lucha libre (FOTOS) - Per\u00fa.com...",
+            "snippet": "Per\u00fa.comGlow: Recuerda a las hermosas damas de la lucha libre (FOTOS)Per\u00fa.comEn los a\u00f1os 80 sub\u00edan al ring y su objetivo era ser la mejor del Gorgeous Ladies of Wrestling. Actualmente muchas de ellas ya son madres. \u00bfLas recuerdas? pinteres.",
+            "date": "2015-05-05",
+            "tags": "del,lucha,libre,fotos,per\u00fa",
+            "recuweb_url": "http://fr.recuweb.com/peru.com/2015/05/glow-recuerda-a-las-hermosas-damas-de-la-lucha-libre-fotos",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
+            "source_url": "http://peru.com/deportes/deportes/glow-recuerda-hermosas-damas-lucha-libre-fotos-noticia-353259"
+        },
+        "espanol.rfi.fr/2015/05/la-lucha-libre-pasi%C3%B3n-mexicana-rfi": {
+            "title": "La lucha libre, pasi\u00f3n mexicana - RFI...",
+            "snippet": "RFILa lucha libre, pasi\u00f3n mexicanaRFIHoy conectamos con M\u00e9xico para descubrir toda una pasi\u00f3n del pa\u00eds: la lucha libre. Acrobacias, m\u00e1scaras y personajes con historias incre\u00edbles en un espect\u00e1culo que mueve masas en M\u00e9xico, a medio camino...",
+            "date": "2015-05-05",
+            "tags": "con,para,una,del,lucha,libre",
+            "recuweb_url": "http://fr.recuweb.com/espanol.rfi.fr/2015/05/la-lucha-libre-pasi%C3%B3n-mexicana-rfi",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
+            "source_url": "http://espanol.rfi.fr/americas/20150504-la-lucha-libre-pasion-mexicana"
+        },
+        "dailyuw.com/2015/05/lucha-libre-adds-mexican-tradition-to-taco-truck-showdown-dailyuw": {
+            "title": "Lucha libre adds Mexican tradition to Taco Libre Truck Showdown - Dailyuw...",
+            "snippet": "DailyuwLucha libre adds Mexican tradition to Taco Libre Truck ShowdownDailyuwThough it began as an event centered around Mexican-inspired dishes from Seattle street vendors, Reiter hopes to incorporate more traditional Mexican heritage into the...",
+            "date": "2015-05-05",
+            "categories": "tradition",
+            "tags": "libre,lucha",
+            "recuweb_url": "http://fr.recuweb.com/tradition/dailyuw.com/2015/05/lucha-libre-adds-mexican-tradition-to-taco-truck-showdown-dailyuw",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
+            "source_url": "http://dailyuw.com/arts_and_leisure/article_645e0576-f2de-11e4-ab34-b70d279a9018.html"
+        },
+        "peru.com/2015/05/wwe-star-wars-lleg%C3%B3-a-la-lucha-libre-fotos-per%C3%BA": {
+            "title": "WWE: Star Wars lleg\u00f3 a la lucha libre (FOTOS) - Per\u00fa.com...",
+            "snippet": "Per\u00fa.comWWE: Star Wars lleg\u00f3 a la lucha libre (FOTOS)Per\u00fa.comLa empresa de lucha libre WWE no es ajena a la fiebre que viene ocurriendo en todos lados tras el lanzamiento del trailer de la zaga de Star Wars. Incluso superestrellas como...",
+            "date": "2015-05-04",
+            "tags": "del,wwe,lucha,libre,fotos,per\u00fa",
+            "recuweb_url": "http://fr.recuweb.com/peru.com/2015/05/wwe-star-wars-lleg%C3%B3-a-la-lucha-libre-fotos-per%C3%BA",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
+            "source_url": "http://peru.com/deportes/wwe/wwe-star-wars-llego-lucha-libre-fotos-noticia-352722"
+        },
+        "boursorama.com/2015/05/top-10-cuauht%C3%A9moc-crapaud-blanco": {
+            "title": "Top 10: Cuauht\u00e9moc Crapaud Blanco...",
+            "snippet": "Un geste technique de cour d'\u00e9cole r\u00e9alis\u00e9 en pleine Coupe du monde. Un geste d'enfant des bas-fonds de Mexico, biberonn\u00e9 au burlesque des combats de Lucha Libre. Blanco retentera son geste, baptis\u00e9 Cuauhtemi\u00f1a, ou saut du crapaud, pour sa...",
             "date": "2015-05-02",
             "categories": "lucha-libre",
-            "tags": "lucha,lucha_libre,libre,mexico",
-            "recuweb_url": "http://fr.recuweb.com/lucha-libre/boursorama.com/2015/05/top-10-cuauht%C3%A9moc-crapaud-blanco-boursorama",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
+            "tags": "lucha,lucha_libre,libre,monde,r\u00e9alis\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/lucha-libre/boursorama.com/2015/05/top-10-cuauht%C3%A9moc-crapaud-blanco",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lucha%2Blibre&format=RSS&cc=fr",
             "source_url": "http://boursorama.com/actualites/top-10-cuauhtemoc-crapaud-blanco-cb40286d50c235396c69ee4ca15340b8"
         },
-        "inquisitr.com/2015/05/exclusive-joel-gertner-talks-lucha-underground-legacy-of-ecw-the-inquisitr": {
-            "title": "Exclusive: Joel Gertner Talks Lucha Underground, Legacy Of ECW... - The Inquisitr...",
-            "snippet": "The InquisitrExclusive: Joel Gertner Talks Lucha Underground, Legacy Of ECW...The InquisitrThe 39-year-old native of Brooklyn, New York, sits at a table, donned in his trademark fur coat as part of the Lucha Libre Extravaganza event, interacting...",
-            "date": "2015-05-01",
-            "categories": "lucha-libre",
-            "tags": "lucha,lucha_libre,libre",
-            "recuweb_url": "http://fr.recuweb.com/lucha-libre/inquisitr.com/2015/05/exclusive-joel-gertner-talks-lucha-underground-legacy-of-ecw-the-inquisitr",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://inquisitr.com/2057759/exclusive-joel-gertner-talks-lucha-underground-legacy-of-ecw-favorite-moments/"
-        },
-        "lacronica.com/2015/05/festejan-a-ni%C3%B1os-con-lucha-libre": {
-            "title": "Festejan a ni\u00f1os con lucha libre -...",
-            "snippet": "a ni\u00f1os con lucha libre a ni\u00f1os con lucha libre. Con motivo al d\u00eda del ni\u00f1o luchadores profesionales de Mexicali y Tijuana se dieron cita el jueves al Gimnasio de Mexicali con el af\u00e1n de consentir a los ni\u00f1os cachanillas y a su vez contribuir...",
-            "date": "2015-05-01",
-            "tags": "del,luchadores,lucha,libre",
-            "recuweb_url": "http://fr.recuweb.com/lacronica.com/2015/05/festejan-a-ni%C3%B1os-con-lucha-libre",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://lacronica.com/EdicionEnLinea/Notas/DeportesLocal/01052015/966356-Festejan-a-ninos-con-lucha-libre.html"
-        },
-        "seattleglobalist.com/2015/05/lucha-libre-has-a-grip-on-northwest-wrestling-fans-seattle-globalist": {
-            "title": "Lucha Libre has a grip on Northwest wrestling fans - Seattle Globalist...",
-            "snippet": "Seattle GlobalistLucha Libre has a grip on Northwest wrestling fansSeattle GlobalistThis is the unique world of lucha libre, a traditional style of Mexican wrestling which translates in English to free fight. Recently, one of the most popular sports...",
-            "date": "2015-05-01",
-            "categories": "sport,lucha-libre",
-            "tags": "wrestling,fans,lucha,lucha_libre,libre",
-            "recuweb_url": "http://fr.recuweb.com/lucha-libre/seattleglobalist.com/2015/05/lucha-libre-has-a-grip-on-northwest-wrestling-fans-seattle-globalist",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://seattleglobalist.com/2015/04/30/lucha-libre-volcanica-mexican-wrestling/36215"
-        },
-        "mediotiempo.com/2015/04/falleci%C3%B3-el-promotor-de-lucha-libre-carlos-m%C3%A1ynez-medio": {
-            "title": "Falleci\u00f3 el promotor de lucha libre Carlos M\u00e1ynez - Medio...",
-            "snippet": "Medio \u00f3 el promotor de lucha libre Carlos M\u00e1ynezMedio vez m\u00e1s la lucha libre mexicana est\u00e1 de luto, pues falleci\u00f3 uno de los promotores m\u00e1s emblem\u00e1ticos del pancracio nacional en los \u00faltimos 30 a\u00f1os, Carlos M\u00e1ynez. Participe de la \u00e9poca...",
-            "date": "2015-04-30",
-            "tags": "del,lucha,libre",
-            "recuweb_url": "http://fr.recuweb.com/mediotiempo.com/2015/04/falleci%C3%B3-el-promotor-de-lucha-libre-carlos-m%C3%A1ynez-medio",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://mediotiempo.com/mas-deportes/lucha-libre/noticias/2015/04/30/fallecio-el-promotor-de-lucha-libre-carlos-maynez"
-        },
-        "deportes.starmedia.com/2015/04/gana-un-boleto-doble-para-ir-a-la-lucha-libre-starmedia": {
-            "title": "\u00a1Gana un boleto doble para ir a la Lucha Libre! - StarMedia...",
-            "snippet": "StarMedia\u00a1Gana un boleto doble para ir a la Lucha Libre!StarMedia2. Entra a nuestra cuenta de Twitter (OrangestarMedia) y dale RT al siguiente tuit: \"Da RT y gana un boleto doble para una funci\u00f3n de Lucha Libre. 3. Env\u00eda un tuit a OrangestarMedia...",
-            "date": "2015-04-29",
-            "categories": "lucha-libre,twitter",
-            "tags": "lucha,lucha_libre,libre",
-            "recuweb_url": "http://fr.recuweb.com/twitter/deportes.starmedia.com/2015/04/gana-un-boleto-doble-para-ir-a-la-lucha-libre-starmedia",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lucha%2Blibre%2Blucha%2Blibre&output=atom&nord=1",
-            "source_url": "http://deportes.starmedia.com/mas-deportes/gana-boleto-doble-para-ir-lucha-libre.html"
+        "nodo9.com/2012/01/notas-de-producci%C3%B3n-viaje-2-la-isla-misteriosa": {
+            "title": "Notas de producci\u00f3n: Viaje 2 La isla misteriosa -...",
+            "snippet": "Notas de producci\u00f3n: Viaje 2 La isla 2011, renov\u00f3 su relaci\u00f3n con la WWE, llevando al personaje de 'The Rock'a una nueva generaci\u00f3n de fans de la lucha libre. Fue anfitri\u00f3n de WrestleMania XXVII y el evento principal de la Survivor Series de la...",
+            "date": "2012-01-12",
+            "categories": "rock",
+            "tags": "una,fans,con,wwe,lucha,libre",
+            "recuweb_url": "http://fr.recuweb.com/rock/nodo9.com/2012/01/notas-de-producci%C3%B3n-viaje-2-la-isla-misteriosa",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Blucha%2Blibre&output=atom&nord=1",
+            "source_url": "http://nodo9.com/2012/01/10/notas-de-produccin-viaje-2-la-isla-misteriosa/"
         }
     }
 }
