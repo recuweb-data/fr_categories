@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "moto-cross",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/moto-cross/",
@@ -11,23 +11,96 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/moto-cross/moto-cross/blogs.json"
     },
     "items": {
-        "lanouvellerepublique.fr/2015/05/le-motocross-du-mcc-annul%C3%A9-dimanche": {
-            "title": "Le motocross du MCC annul\u00e9 dimanche...",
-            "snippet": "Le MCC et son pr\u00e9sident, J\u00e9r\u00f4me Pernin, se faisaient une joie d'organiser la premi\u00e8re manche du championnat r\u00e9gional Ufolep de motocross sur le circuit des Tourneix, ce dimanche. H\u00e9las, la pluie tomb\u00e9e en cette fin de semaine a rendu...",
-            "date": "2015-05-01",
-            "tags": "semaine,circuit,premi\u00e8re,motocross,championnat,ufolep",
-            "recuweb_url": "http://fr.recuweb.com/lanouvellerepublique.fr/2015/05/le-motocross-du-mcc-annul%C3%A9-dimanche",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bcross&format=RSS&cc=fr",
-            "source_url": "http://lanouvellerepublique.fr/Indre/Sport/Auto-Moto/Cross-enduro/n/Contenus/Articles/2015/05/02/Le-motocross-du-MCC-annule-dimanche-2314998"
+        "moto.caradisiac.com/2015/05/ffm-un-nouvel-embl%C3%A8me-pour-les-%C3%A9quipes-de-france": {
+            "title": "FFM: un nouvel embl\u00e8me pour les \u00e9quipes de France...",
+            "snippet": "La FFM pr\u00e9sente un nouveau logo qui accompagnera les diff\u00e9rentes \u00e9quipes de France en Motocross, Enduro, Trial, Supermotard, Side-Car, Quad, Moto-Ball et Long-Track. Les dream team frenchy sont habitu\u00e9es aux podiums, pour les accompagner la FFM...",
+            "date": "2015-05-07",
+            "tags": "ffm,france,motocross,enduro,side,car,quad,moto",
+            "recuweb_url": "http://fr.recuweb.com/moto.caradisiac.com/2015/05/ffm-un-nouvel-embl%C3%A8me-pour-les-%C3%A9quipes-de-france",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://moto.caradisiac.com/FFM-un-nouvel-embleme-pour-les-equipes-de-France-249"
+        },
+        "ladepeche.fr/2015/05/un-trac%C3%A9-new-look-pour-la-finale-%C3%A9lite-de-moto-cross": {
+            "title": "Un trac\u00e9 new-look pour la finale \u00e9lite de moto-cross...",
+            "snippet": "Une fois de plus, la FFM a confi\u00e9 l'organisation de la finale du Championnat de France Elite Inter MX1-MX2 au Toulouse Moto Sport qui se disputera le dimanche 7 juin. Et comme chaque ann\u00e9e, les b\u00e9n\u00e9voles sont mobilis\u00e9s depuis plusieurs semaines...",
+            "date": "2015-05-04",
+            "categories": "sport",
+            "tags": "chaque,chaque-ann\u00e9e,ann\u00e9e,dimanche,moto,france,france_elite,cross,ffm,championnat",
+            "recuweb_url": "http://fr.recuweb.com/sport/ladepeche.fr/2015/05/un-trac%C3%A9-new-look-pour-la-finale-%C3%A9lite-de-moto-cross",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/05/05/2099040-trace-new-look-finale-elite-moto-cross.html"
+        },
+        "lamontagne.fr/2015/05/le-moto-cross-de-saint-menoux-%C3%A9court%C3%A9-par-la-pluie": {
+            "title": "Le moto-cross de Saint-Menoux \u00e9court\u00e9 par la pluie...",
+            "snippet": "Apr\u00e8s une matin\u00e9e d'essais et de qualifications pour la 4e manche r\u00e9gionale du championnat de la Ligue d'Auvergne, il \u00e9tait presque impossible de diff\u00e9rencier les concurrents, cet apr\u00e8s-midi sur le terrain de moto-cross de Saint-Menoux, tant...",
+            "date": "2015-05-03",
+            "tags": "terrain,manche,essais,moto,cross,saint,championnat,ligue,tant",
+            "recuweb_url": "http://fr.recuweb.com/lamontagne.fr/2015/05/le-moto-cross-de-saint-menoux-%C3%A9court%C3%A9-par-la-pluie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://lamontagne.fr/auvergne/actualite/departement/allier/moulins/2015/05/03/le-moto-cross-de-saint-menoux-ecourte-par-la-pluie_11427905.html"
+        },
+        "france3-regions.francetvinfo.fr/2015/05/moto-cross-de-plomion-bain-boue-pour-les-coureurs": {
+            "title": "Moto-cross de Plomion: bain de boue pour les coureurs...",
+            "snippet": "Pour cette comp\u00e9tition, d'importantes modifications ont \u00e9t\u00e9 apport\u00e9es tant au circuit qu'aux infrastructures. Un d\u00e9fi pour les coureurs et un spectacle assur\u00e9 pour les spectateurs. Les bosses sont plus nombreuses, le circuit est plus technique...",
+            "date": "2015-05-03",
+            "tags": "circuit,\u00e9t\u00e9,tant,moto,cross,plomion",
+            "recuweb_url": "http://fr.recuweb.com/france3-regions.francetvinfo.fr/2015/05/moto-cross-de-plomion-bain-boue-pour-les-coureurs",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://france3-regions.francetvinfo.fr/picardie/2015/05/03/moto-cross-de-plomion-bain-de-boue-pour-les-coureurs-717739.html"
+        },
+        "motoverte.com/2015/05/motocross-actuas-sx-us-250-450-jackpot-pour-ktm-moto-verte": {
+            "title": "motocross Actuas SX US 250/450: Jackpot pour KTM! - Moto Verte...",
+            "snippet": "Moto Vertemotocross Actuas SX US 250/450: Jackpot pour KTM!Moto VerteCarton plein pour KTM qui s'offre le doubl\u00e9 et la confrontation Est/Ouest! ODV. left. SX US 250/450: Jackpot pour KTM! right. Traditionnellement, Las Vegas accueille les finales...",
+            "date": "2015-05-03",
+            "tags": "accueille,moto,motocross,ktm",
+            "recuweb_url": "http://fr.recuweb.com/motoverte.com/2015/05/motocross-actuas-sx-us-250-450-jackpot-pour-ktm-moto-verte",
+            "resource_url": "http://news.google.fr/?hl=fr&q=moto%2Bcross&output=atom&nord=1",
+            "source_url": "http://motoverte.com/site/sx-us-250-450-jackpot-pour-ktm--86553.html"
         },
         "paris-normandie.fr/2015/05/les-pichon-font-la-loi-paris-normandie": {
             "title": "Les Pichon font la loi - Paris Normandie...",
             "snippet": "Paris NormandieLes Pichon font la loiParis NormandieHier, lors de la 59e \u00e9dition du motocross de Sainte-Austreberthe les Pichon p\u00e8re et fils ont tout rafl\u00e9. Micka\u00ebl s'est impos\u00e9 dans la course des inters et Zacharie en championnat de Normandie...",
             "date": "2015-05-01",
-            "tags": "motocross,championnat",
+            "tags": "course,motocross,championnat",
             "recuweb_url": "http://fr.recuweb.com/paris-normandie.fr/2015/05/les-pichon-font-la-loi-paris-normandie",
             "resource_url": "http://news.google.fr/?hl=fr&q=moto%2Bcross&output=atom&nord=1",
             "source_url": "http://paris-normandie.fr/detail_sport/articles/3080262/les-pichon-font-la-loi-1"
+        },
+        "courrier-picard.fr/2015/05/motocross-la-comtesse-accueille-l%C3%A9lite": {
+            "title": "MOTOCROSS La Comtesse accueille l\u00e9lite...",
+            "snippet": "Les saisons passent et une constante demeure: chaque ann\u00e9e, d\u00e9but mai, le circuit de Plomion, pr\u00e8s de Vervins, devient le lieu du rendez-vous le plus pris\u00e9 de la saison picarde. Le club axonais a ainsi accueilli le Mondial 500cc, le Mondial MX3,...",
+            "date": "2015-05-01",
+            "tags": "club,lieu,rendez,circuit,mai,chaque,chaque-ann\u00e9e,ann\u00e9e,accueille,motocross,plomion",
+            "recuweb_url": "http://fr.recuweb.com/courrier-picard.fr/2015/05/motocross-la-comtesse-accueille-l%C3%A9lite",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=moto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://courrier-picard.fr/sports/motocross-la-comtesse-accueille-l-elite-ia202b0n561775"
+        },
+        "lavoixdunord.fr/2015/04/vendredi-nouveau-rendez-vous-du-moto-cross-au-quesnoy": {
+            "title": "Vendredi, nouveau rendez-vous du moto-cross au Quesnoy...",
+            "snippet": "Le motocross ne d\u00e9grade-t-il pas les remparts? \u00c7a a \u00e9t\u00e9 le cas jusque dans les ann\u00e9es 2000. Par manque dentretien, le passage des motos avait \u00e9rod\u00e9 les... dun architecte des Btiments de France. Elle aura lieu en septembre.",
+            "date": "2015-04-28",
+            "tags": "lieu,moto,\u00e9t\u00e9,rendez,cross,motocross,france",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/04/vendredi-nouveau-rendez-vous-du-moto-cross-au-quesnoy",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/vendredi-nouveau-rendez-vous-du-moto-cross-au-quesnoy-ia23b44378n2799704"
+        },
+        "ouest-france.fr/2015/04/moto-cross-championnat-d%C3%A9partemental-ufolep": {
+            "title": "Moto-cross: championnat d\u00e9partemental Ufolep...",
+            "snippet": "Le moto-club de Vue organise, dimanche, sur son terrain de la Ch\u00e9paudi\u00e8re, la premi\u00e8re course du championnat d\u00e9partemental Ufolep. Les champions du d\u00e9partement s'affronteront dans les cat\u00e9gories 125 cm 3 et 250 cm 3. Les plus jeunes motards...",
+            "date": "2015-04-27",
+            "tags": "premi\u00e8re,course,terrain,club,moto,cross,championnat,ufolep,dimanche",
+            "recuweb_url": "http://fr.recuweb.com/ouest-france.fr/2015/04/moto-cross-championnat-d%C3%A9partemental-ufolep",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&format=RSS&cc=fr",
+            "source_url": "http://ouest-france.fr/moto-cross-championnat-departemental-ufolep-3357079"
+        },
+        "niederlausitz-aktuell.de/2015/03/start-in-die-neue-motorsportsaison-niederlausitz-aktuell": {
+            "title": "Start in die neue Motorsportsaison - NIEDERLAUSITZ aktuell...",
+            "snippet": "NIEDERLAUSITZ aktuellStart in die neue MotorsportsaisonNIEDERLAUSITZ aktuellAuch Traditionsveranstaltungen wie der Motocross in H\u00e4hnchen (26. April), das ADAC MX Masters in F\u00fcrstlich Drehna (. April) und die ADAC-GT-Masters (. Juli) werden 2015...",
+            "date": "2015-03-30",
+            "tags": "motocross",
+            "recuweb_url": "http://fr.recuweb.com/niederlausitz-aktuell.de/2015/03/start-in-die-neue-motorsportsaison-niederlausitz-aktuell",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmoto%2Bcross&output=atom&nord=1",
+            "source_url": "http://niederlausitz-aktuell.de/oberspreewald-lausitz/schipkau/item/49567-start-in-die-neue-motorsportsaison.html"
         }
     }
 }
