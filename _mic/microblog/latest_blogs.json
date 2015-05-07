@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microblog",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microblog/",
@@ -11,15 +11,26 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/microblog/microblog/blogs.json"
     },
     "items": {
+        "citedesmetiers-valdemarne.fr/2015/04/connaissez-vous-le-tumblr-micro-blog-de-l-enseignement": {
+            "title": "Connaissez-vous le tumblr (micro blog) de l'enseignement...",
+            "snippet": "Connaissez-vous le tumblr (micro blog) de l'enseignement sup\u00e9rieur et de la recherche? 15 avril 2015 dans Enseignement, formation, conseil, recherche. Mots-cl\u00e9s:M\u00e9tiers de l'enseignement, M\u00e9tiers de l'enseignement sup\u00e9rieur, M\u00e9tiers...",
+            "date": "2015-04-15",
+            "author_name": "Cit\u00e9 des m\u00e9tiers du Val-de-Marne",
+            "categories": "tumblr",
+            "tags": "recherche,tumblr,micro,mots",
+            "recuweb_url": "http://fr.recuweb.com/tumblr/citedesmetiers-valdemarne.fr/2015/04/connaissez-vous-le-tumblr-micro-blog-de-l-enseignement",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://citedesmetiers-valdemarne.fr/ressources/connaissez-vous-le-tumblr-micro-blog-de-lenseignement-superieur-et-de-la-recherche/"
+        },
         "blog.seboss666.info/2015/02/microblog-poster-permet-maintenant-de-republier-d-anciens-articles": {
             "title": "Microblog Poster permet maintenant de republier d'anciens articles...",
             "snippet": "Peu de temps apr\u00e8s l'ouverture du blog, j'avais pr\u00e9sent\u00e9 l'extension Microblog Poster pour WordPress, qui permet de publier directement sur les r\u00e9seaux sociaux les nouveaux articles lors de leur parution. Derni\u00e8rement, ils...",
             "date": "2015-02-23",
             "author_name": "seboss666",
             "categories": "microblog,wordpress",
-            "tags": "microblog",
+            "tags": "lors,microblog",
             "recuweb_url": "http://fr.recuweb.com/wordpress/blog.seboss666.info/2015/02/microblog-poster-permet-maintenant-de-republier-d-anciens-articles",
-            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.seboss666.info/2015/02/microblog-poster-permet-maintenant-de-republier-danciens-articles/"
         },
         "formation20.wordpress.com/2014/04/inkgrph-cr%C3%A9er-un-blog-en-quelques-minutes": {
@@ -28,9 +39,9 @@
             "date": "2014-04-08",
             "author_name": "Fr\u00e9d\u00e9ric",
             "categories": "microblog",
-            "tags": "utilisateurs,microblogs",
+            "tags": "web,utilisateurs,microblogs",
             "recuweb_url": "http://fr.recuweb.com/microblog/formation20.wordpress.com/2014/04/inkgrph-cr%C3%A9er-un-blog-en-quelques-minutes",
-            "resource_url": "http://fr.search.wordpress.com/?q=microblog%2Bmicroblog&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=microblog&f=feed&page=1",
             "source_url": "http://formation20.wordpress.com/2014/04/08/inkgrph-creer-un-blog-en-quelques-minutes/"
         },
         "okeanews.fr/2013/05/gr%C3%A8ce-okeanews-meilleur-microblog-francophone-des-bobs-2013": {
@@ -41,7 +52,7 @@
             "categories": "microblog,twitter",
             "tags": "meilleur,microblog,compte,twitter",
             "recuweb_url": "http://fr.recuweb.com/twitter/okeanews.fr/2013/05/gr%C3%A8ce-okeanews-meilleur-microblog-francophone-des-bobs-2013",
-            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://okeanews.fr/20130508-okeanews-meilleur-microblog-francophone-des-bobs-2013-de-la-deutsche-welle"
         },
         "en.rsf.org/2012/04/tv-presenter-suspended-after-microblog-warning-about-tainted": {
@@ -52,7 +63,7 @@
             "categories": "microblog",
             "tags": "microblog,chinese",
             "recuweb_url": "http://fr.recuweb.com/microblog/en.rsf.org/2012/04/tv-presenter-suspended-after-microblog-warning-about-tainted",
-            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://en.rsf.org/china-tv-presenter-suspended-after-25-04-2012,42367.html"
         },
         "business-internet-chine.com/2010/09/chine-publie-son-premier-livre-blanc-de-microblog": {
@@ -61,10 +72,43 @@
             "date": "2010-09-27",
             "author_name": "inconnu",
             "categories": "microblog",
-            "tags": "raison,meilleur,livre,chine,microblog",
+            "tags": "raison,meilleur,premier,livre,chine,microblog",
             "recuweb_url": "http://fr.recuweb.com/microblog/business-internet-chine.com/2010/09/chine-publie-son-premier-livre-blanc-de-microblog",
             "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://business-internet-chine.com/instant-messenger/sina-publie-son-premier-livre-blanc-de-microblog.php"
+        },
+        "frederic.logier.org/2010/07/nodecast-architecture-d-une-application-web-fredix": {
+            "title": "Nodecast: architecture d'une application web fredix...",
+            "snippet": "Lors d'une pr\u00e9c\u00e9dente exp\u00e9rience professionnelle en 2007 (AF83) j'avais mis en oeuvre des techniques de r\u00e9partition de charge via des traitements asynchrones pour le d\u00e9veloppement d'un microblog/chat web.",
+            "date": "2010-07-21",
+            "author_name": "fredix",
+            "categories": "traitement,application-web,microblog",
+            "tags": "chat,web,mis,lors,microblog",
+            "recuweb_url": "http://fr.recuweb.com/microblog/frederic.logier.org/2010/07/nodecast-architecture-d-une-application-web-fredix",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://frederic.logier.org/2010/07/21/nodecast-architecture-dune-application-web/"
+        },
+        "boogees.com/2010/06/boogee-s-le-blog-rock-du-au-micro": {
+            "title": "BooGee'S: Le Blog Rock Du blog au micro-blog...",
+            "snippet": "Quoi?! T'es encore en train de chercher un bon blog rock sur google? Te fatigues pas plus et viens te d\u00e9tendre les oreilles chez BooGee'S.",
+            "date": "2010-06-25",
+            "author_name": "boogees",
+            "categories": "rock,google",
+            "tags": "micro",
+            "recuweb_url": "http://fr.recuweb.com/google/boogees.com/2010/06/boogee-s-le-blog-rock-du-au-micro",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://boogees.com/2010/06/du-blog-au-micro-blog/"
+        },
+        "fredcavazza.net/2009/07/comment-le-microblog-a-boulevers%C3%A9-les-pratiques-de-blog": {
+            "title": "Comment le microblog a boulevers\u00e9 les pratiques de blog...",
+            "snippet": "Il y a une logique derri\u00e8re cette \u00e9volution: le blog n'est plus le support de pr\u00e9dilection pour de l'information chaude, il a \u00e9t\u00e9 supplant\u00e9 par le microblog. Illustration la semaine derni\u00e8re avec l'annonce du lancement de Chrome...",
+            "date": "2009-07-17",
+            "author_name": "Fr\u00e9d\u00e9ric CAVAZZA",
+            "categories": "microblog",
+            "tags": "derni\u00e8re,\u00e9t\u00e9,microblog",
+            "recuweb_url": "http://fr.recuweb.com/microblog/fredcavazza.net/2009/07/comment-le-microblog-a-boulevers%C3%A9-les-pratiques-de-blog",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://fredcavazza.net/2009/07/17/comment-le-microblog-a-bouleverse-les-pratiques-de-blog/"
         },
         "contrib.spip.net/2009/05/microblog-spip-contrib": {
             "title": "Microblog - SPIP-Contrib...",
@@ -74,7 +118,7 @@
             "categories": "twitter,microblog",
             "tags": "twitter,sites,offre,microblog,micro,messages,comme",
             "recuweb_url": "http://fr.recuweb.com/microblog/contrib.spip.net/2009/05/microblog-spip-contrib",
-            "resource_url": "http://www.google.com/search?q=microblog%2Bmicroblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microblog&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://contrib.spip.net/Microblog"
         }
     }
