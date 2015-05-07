@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "jeux-videos",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/jeux-videos/",
@@ -11,11 +11,21 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/jeux-videos/jeux-videos/blogs.json"
     },
     "items": {
+        "jeuxvideo.fr/2015/05/kirby-et-le-pinceau-arc-en-ciel-sortie-du-jeu": {
+            "title": "Kirby Et Le Pinceau Arc-en-ciel: Sortie du jeu...",
+            "snippet": "Retrouvez l'actualit\u00e9 de tous les jeux vid\u00e9o PC et Console que vous pr\u00e9f\u00e9rez sur le magazine gratuit Jeux. Retrouvez ainsi les avis, tests, vid\u00e9os, t\u00e9l\u00e9chargements et d\u00e9mos sur PC, Xbox 360, PS3, PS Vita, PSP, 3DS, DS, Wii U... Grce aux...",
+            "date": "2015-05-07",
+            "categories": "xbox",
+            "tags": "jeu,retrouvez,jeux,xbox",
+            "recuweb_url": "http://fr.recuweb.com/xbox/jeuxvideo.fr/2015/05/kirby-et-le-pinceau-arc-en-ciel-sortie-du-jeu",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bjeux%2Bvideos&format=RSS&cc=fr",
+            "source_url": "http://jeuxvideo.fr/jeux/kirby-2015/video/video-sortie-du-jeu-465172.html"
+        },
         "francebleu.fr/2015/05/pourquoi-l-etat-va-t-il-subventionner-les-jeux-vid%C3%A9os-interdits": {
             "title": "Pourquoi l'Etat va-t-il subventionner les jeux vid\u00e9os interdits aux moins de 18 ans?",
             "snippet": "Qu'est-ce qu'un jeu interdit aux moins de 18 ans? Il est en r\u00e9alit\u00e9 un peu excessif de parler de jeux interdits aux moins de 18 ans: il est impossible d'interdire formellement la vente de certains jeux vid\u00e9o aux mineurs. Comme avec la...",
             "date": "2015-05-02",
-            "tags": "parler,jeux,comme",
+            "tags": "impossible,parler,jeu,jeux,comme",
             "recuweb_url": "http://fr.recuweb.com/francebleu.fr/2015/05/pourquoi-l-etat-va-t-il-subventionner-les-jeux-vid%C3%A9os-interdits",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jeux%2Bvideos&format=RSS&cc=fr",
             "source_url": "http://francebleu.fr/societe/jeux-video/pourquoi-l-etat-va-t-il-subventionner-les-jeux-videos-interdits-aux-moins-de-18-ans-2324631"
@@ -25,28 +35,20 @@
             "snippet": "Quel trentenaire na pas gard\u00e9 la nostalgie de ces jeux vid\u00e9os, tels Super Mario ou Street Fighter 2 (et ses bruitages inou\u00efs), qui tournaient sur les consoles Nintendo NES, Sega Mega Drive, PlayStation ou Gameboy? Sans parler du (tr\u00e8s...",
             "date": "2015-04-30",
             "categories": "rock,playstation",
-            "tags": "parler,consoles,jeux",
+            "tags": "parler,consoles,jeux,playstation",
             "recuweb_url": "http://fr.recuweb.com/playstation/ledemocratevernonnais.fr/2015/04/gasny-rock-m%C3%A9tal-et-jeux-vid%C3%A9os-r%C3%A9tro",
             "resource_url": "http://www.bing.com/news/search?first=1&q=jeux%2Bvideos&format=RSS&cc=fr",
             "source_url": "http://ledemocratevernonnais.fr/2015/04/30/rock-metal\u00a0et-jeux-videos-retro\u00a0/"
         },
-        "fr.sports.yahoo.com/2015/04/jeux-vid%C3%A9os-fifa-15-l-%C3%A9quipe-de-la-semaine": {
-            "title": "Jeux vid\u00e9os FIFA 15 - L'\u00e9quipe de la semaine...",
-            "snippet": "On se retrouve aujourd'hui pour la pr\u00e9sentation de l'\u00e9quipe de la semaine du 22 Avril, en partenariat avec le journal l'Equipe, avec plusieurs joueurs de tr\u00e8s haut niveau, surtout les futiens! On se retrouve aujourd'hui comme tous...",
-            "date": "2015-04-22",
-            "tags": "comme,semaine,jeux,retrouve,aujourd,hui",
-            "recuweb_url": "http://fr.recuweb.com/fr.sports.yahoo.com/2015/04/jeux-vid%C3%A9os-fifa-15-l-%C3%A9quipe-de-la-semaine",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=jeux%2Bvideos&format=RSS&cc=fr",
-            "source_url": "http://fr.sports.yahoo.com/news/jeux-vid\u00e9os-fifa-15-l\u00e9quipe-semaine-161511782--sow.html"
-        },
-        "lesechos.fr/2015/04/les-vrais-risques-li%C3%A9s-aux-jeux-vid%C3%A9o-%C3%A9chos": {
-            "title": "Les vrais risques li\u00e9s aux jeux vid\u00e9o - Les \u00c9chos...",
-            "snippet": "Les \u00c9chosLes vrais risques li\u00e9s aux jeux vid\u00e9oLes \u00c9chosBonnes et mauvaises nouvelles sur les jeux vid\u00e9o: ils stimulent les capacit\u00e9s cognitives et visuelles mais jouer trop longtemps peut provoquer des probl\u00e8mes de comportement, selon deux...",
-            "date": "2015-04-05",
-            "tags": "jeux",
-            "recuweb_url": "http://fr.recuweb.com/lesechos.fr/2015/04/les-vrais-risques-li%C3%A9s-aux-jeux-vid%C3%A9o-%C3%A9chos",
-            "resource_url": "http://news.google.fr/?hl=fr&q=jeux%2Bvideos&output=atom&nord=1",
-            "source_url": "http://lesechos.fr/idees-debats/sciences-prospective/0204274498720-les-vrais-risques-lies-aux-jeux-video-1108542.php"
+        "booska-p.com/2015/03/age-of-ultron-livre-son-troisi%C3%A8me-trailer-video-booska-p": {
+            "title": "Age Of Ultron livre son troisi\u00e8me trailer! VIDEO - Booska-p...",
+            "snippet": "Booska-pAge Of Ultron livre son troisi\u00e8me trailer! VIDEOBooska-page of ultron trailer 3 de Avengers 2. Connexion impossible: Access denied for user 'booskap''localhost'(using password: YES)... Geek & Jeux Vid\u00e9os Actu Jeux Vid\u00e9os Iphone 6 GTA Fifa...",
+            "date": "2015-03-05",
+            "categories": "jeux-videos,iphone",
+            "tags": "jeux,jeux_vid\u00e9os,impossible",
+            "recuweb_url": "http://fr.recuweb.com/iphone/booska-p.com/2015/03/age-of-ultron-livre-son-troisi%C3%A8me-trailer-video-booska-p",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bjeux%2Bvideos&output=atom&nord=1",
+            "source_url": "http://booska-p.com/cinema/new-age-of-ultron-livre-son-troisia-me-trailer-video-n43579.html"
         }
     }
 }
