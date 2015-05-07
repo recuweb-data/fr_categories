@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "internet",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/internet/",
@@ -11,85 +11,75 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/internet/internet/blogs.json"
     },
     "items": {
-        "vivre-a-chalon.com/2015/05/apr%C3%A8s-exc%C3%A8s-et-drames-le-livre-qui-dit-tout-sur-internet": {
-            "title": "Apr\u00e8s exc\u00e8s et drames... le livre qui dit tout sur internet!",
-            "snippet": "Internet? Mais cest un lieu de libert\u00e9 totale, de cr\u00e9ation, de communication et beaucoup de jeunes ne voient pas pourquoi les adultes parents et enseignants en particulier se posent tant de questions, veulent tant de r\u00e8gles, posent tant d...",
-            "date": "2015-05-02",
+        "bfmbusiness.bfmtv.com/2015/05/aux-etats-unis-le-streaming-sur-internet-bat-la-t%C3%A9l%C3%A9vision-classique": {
+            "title": "Aux Etats-Unis, le streaming sur Internet bat la t\u00e9l\u00e9vision classique...",
+            "snippet": "Plus de la moiti\u00e9 des Am\u00e9ricains regardent des films ou des programmes de t\u00e9l\u00e9vision en streaming sur Internet. Autant de temps en moins pass\u00e9 sur les cha\u00eenes classiques. Le t\u00e9l\u00e9viseur traditionnel est de moins en moins utilis\u00e9 au profit...",
+            "date": "2015-05-03",
+            "categories": "television,internet",
+            "tags": "moins,etats,unis,internet,autant",
+            "recuweb_url": "http://fr.recuweb.com/internet/bfmbusiness.bfmtv.com/2015/05/aux-etats-unis-le-streaming-sur-internet-bat-la-t%C3%A9l%C3%A9vision-classique",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
+            "source_url": "http://bfmbusiness.bfmtv.com/entreprise/aux-etats-unis-le-streaming-sur-internet-bat-la-television-classique-883115.html"
+        },
+        "france3-regions.blog.francetvinfo.fr/2015/05/bernard-magrez-redessine-son-site-internet-ce-que-je-veux": {
+            "title": "Bernard Magrez redessine son site internet: ce que je veux, c'est... - Francetv info...",
+            "snippet": "Francetv infoBernard Magrez redessine son site internet: ce que je veux, c'est...Francetv infoLe plus grand propri\u00e9taire de chteaux au monde, Bernard Magrez, possesseur de plus de 40 domaines, vient de relooker son site internet. Sobri\u00e9t\u00e9,...",
+            "date": "2015-05-03",
             "categories": "internet",
-            "tags": "cest,apr\u00e8s,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/vivre-a-chalon.com/2015/05/apr%C3%A8s-exc%C3%A8s-et-drames-le-livre-qui-dit-tout-sur-internet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://vivre-a-chalon.com/lire_Apres-exces-et-drames...-le-livre-qui-dit-tout-sur-internet-_,2303df19a7bdd222ec7bbc3ca2c481a0b630b268.html"
+            "tags": "site,monde,internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/france3-regions.blog.francetvinfo.fr/2015/05/bernard-magrez-redessine-son-site-internet-ce-que-je-veux",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
+            "source_url": "http://france3-regions.blog.francetvinfo.fr/cote-chateaux/2015/05/03/bernard-magrez-redessine-son-site-internet-ce-que-je-veux-cest-transmettre-lexcellence.html"
+        },
+        "tvmag.lefigaro.fr/2015/05/disparue-menez-l-enqu%C3%AAte-sur-internet-le-figaro": {
+            "title": "Disparue: menez l'enqu\u00eate sur Internet - Le Figaro...",
+            "snippet": "Le FigaroDisparue: menez l'enqu\u00eate sur InternetLe FigaroLes t\u00e9l\u00e9spectateurs captiv\u00e9s par la s\u00e9rie Disparue, sur France 2, peuvent mener leur propre enqu\u00eate en consultant le dispositif mis en place sur le site Internet de la cha\u00eene. De...",
+            "date": "2015-05-03",
+            "categories": "place,internet",
+            "tags": "peuvent,place,site,internet,france",
+            "recuweb_url": "http://fr.recuweb.com/internet/tvmag.lefigaro.fr/2015/05/disparue-menez-l-enqu%C3%AAte-sur-internet-le-figaro",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
+            "source_url": "http://tvmag.lefigaro.fr/programme-tv/article/serie/86720/disparue-menez-l-enquete-sur-internet.html"
+        },
+        "dna.fr/2015/05/strasbourg-il-retrouve-son-v%C3%A9lo-vol%C3%A9-en-vente-sur-internet-dna": {
+            "title": "Strasbourg Il retrouve son v\u00e9lo vol\u00e9 en vente sur internet - DNA - Derni\u00e8res Nouvelles d'Alsace...",
+            "snippet": "Strasbourg Il retrouve son v\u00e9lo vol\u00e9 en vente sur internet - DNA - Derni\u00e8res Nouvelles d'Alsace...",
+            "date": "2015-05-03",
+            "categories": "internet",
+            "tags": "internet",
+            "recuweb_url": "http://fr.recuweb.com/internet/dna.fr/2015/05/strasbourg-il-retrouve-son-v%C3%A9lo-vol%C3%A9-en-vente-sur-internet-dna",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
+            "source_url": "http://dna.fr/edition-de-strasbourg/2015/05/03/il-retrouve-son-velo-vole-en-vente-sur-internet"
+        },
+        "rue89.nouvelobs.com/2015/05/internet-d%C3%A9truit-la-litt%C3%A9rature-et-c-est-une-bonne-chose-rue89": {
+            "title": "Internet d\u00e9truit la litt\u00e9rature et c'est une bonne chose - Rue89...",
+            "snippet": "Rue89 Internet d\u00e9truit la litt\u00e9rature et c'est une bonne chose Rue89Goldsmith est aux Etats-Unis l'un des champions d'un mouvement r\u00e9cent de po\u00e9sie post-Internet: des formes qui utilisent Google, les moteurs de recherche, les blogs, et font de...",
+            "date": "2015-05-03",
+            "categories": "litterature,internet,google",
+            "tags": "mouvement,internet,etats,unis,google",
+            "recuweb_url": "http://fr.recuweb.com/google/rue89.nouvelobs.com/2015/05/internet-d%C3%A9truit-la-litt%C3%A9rature-et-c-est-une-bonne-chose-rue89",
+            "resource_url": "http://news.google.fr/?hl=fr&q=internet&output=atom&nord=1",
+            "source_url": "http://rue89.nouvelobs.com/rue89-culture/2015/05/03/internet-detruit-litterature-cest-bonne-chose-258951"
         },
         "generation-nt.com/2015/05/savez-vous-%C3%A9valuer-votre-consommation-d-internet-mobile": {
             "title": "Savez-vous \u00e9valuer votre consommation d'Internet mobile?",
             "snippet": "L'Internet mobile - et l'enveloppe de data qui va avec - est devenu un crit\u00e8re diff\u00e9renciant pour les forfaits propos\u00e9s par les op\u00e9rateurs, et ce d'autant plus avec la 4G. Mais d'apr\u00e8s une \u00e9tude Ipsos r\u00e9alis\u00e9e pour Prixtel, il semble que...",
             "date": "2015-05-02",
             "categories": "internet",
-            "tags": "apr\u00e8s,internet",
+            "tags": "autant,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/generation-nt.com/2015/05/savez-vous-%C3%A9valuer-votre-consommation-d-internet-mobile",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
             "source_url": "http://generation-nt.com/internet-mobile-consommation-etude-ipsos-prixtel-smartphone-actualite-1914524.html"
-        },
-        "la-croix.com/2015/05/adieu-internet-explorer-bonjour-microsoft-edge": {
-            "title": "Adieu Internet Explorer, bonjour Microsoft Edge...",
-            "snippet": "Adieu petit logo e bleu et dor\u00e9. Microsoft a d\u00e9finitivement enterr\u00e9 Internet Explorer, son navigateur phare, en pr\u00e9sentant son successeur, le 29 avril. Pr\u00e9sent depuis le milieu des ann\u00e9es 1990 et la fin de Netscape Navigator, Internet...",
-            "date": "2015-05-01",
-            "categories": "internet",
-            "tags": "fin,internet,internet_explorer,explorer,petit,microsoft,edge,adieu,adieu_internet,adieu_internet_explorer,bonjour,avril",
-            "recuweb_url": "http://fr.recuweb.com/internet/la-croix.com/2015/05/adieu-internet-explorer-bonjour-microsoft-edge",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://la-croix.com/Culture/Nouvelles-technologies/Adieu-Internet-Explorer-bonjour-Microsoft-Edge-2015-05-01-1308323"
-        },
-        "infos-mobiles.com/2015/05/adieu-internet-explorer-bonjour-edge": {
-            "title": "Adieu Internet Explorer, bonjour Edge...",
-            "snippet": "Cest un rituel chez les g\u00e9ants am\u00e9ricains dorganiser une conf\u00e9rence d\u00e9di\u00e9e aux d\u00e9veloppeurs dont le Google I/O pour Google qui se tiendra le 28 et le 29 mai prochain, le WWDC pour Apple qui se d\u00e9roulera le 8 et le 9 juin prochain et le...",
-            "date": "2015-05-01",
-            "categories": "internet,google",
-            "tags": "adieu,adieu_internet,adieu_internet_explorer,internet,internet_explorer,explorer,bonjour,edge,cest,google,apple",
-            "recuweb_url": "http://fr.recuweb.com/google/infos-mobiles.com/2015/05/adieu-internet-explorer-bonjour-edge",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
-            "source_url": "http://infos-mobiles.com/microsoft/adieu-internet-explorer-bonjour-edge/95303"
         },
         "generation-nt.com/2015/04/internet-explorer-microsoft-chasse-les-pubs-trompeuses": {
             "title": "Internet Explorer: Microsoft chasse les pubs trompeuses...",
             "snippet": "Selon le centre de protection anti-malware de Microsoft, il existe actuellement une recrudescence du nombre de publicit\u00e9s en ligne dont la nature est trompeuse. De telles publicit\u00e9s tentent g\u00e9n\u00e9ralement de convaincre un internaute de consulter...",
             "date": "2015-04-30",
             "categories": "nature,chasse,internet",
-            "tags": "g\u00e9n\u00e9ralement,convaincre,existe,internet,internet_explorer,explorer,microsoft",
+            "tags": "existe,ligne,internet",
             "recuweb_url": "http://fr.recuweb.com/internet/generation-nt.com/2015/04/internet-explorer-microsoft-chasse-les-pubs-trompeuses",
             "resource_url": "http://www.bing.com/news/search?first=1&q=internet&format=RSS&cc=fr",
             "source_url": "http://generation-nt.com/internet-explorer-publicite-trompeuse-microsoft-edge-actualite-1914612.html"
-        },
-        "rue89.nouvelobs.com/2015/04/un-cble-sous-marin-arrive-au-b%C3%A9nin-fin-de-la-gal%C3%A8re": {
-            "title": "Un cble sous-marin arrive au B\u00e9nin: fin de la gal\u00e8re internet? - Rue89...",
-            "snippet": "Un cble sous-marin arrive au B\u00e9nin: fin de la gal\u00e8re internet?Rue89\u00c7a peut para\u00eetre anodin, mais pour un petit pays d'Afrique de l'Ouest comme le B\u00e9nin, c'est \u00e9norme: un second cble sous-marin venu d'Europe a \u00e9t\u00e9 raccord\u00e9 d\u00e9but avril au...",
-            "date": "2015-04-30",
-            "categories": "internet",
-            "tags": "\u00e9t\u00e9,avril,comme,petit,fin,internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/rue89.nouvelobs.com/2015/04/un-cble-sous-marin-arrive-au-b%C3%A9nin-fin-de-la-gal%C3%A8re",
-            "resource_url": "http://news.google.fr/?hl=fr&q=internet%2Binternet&output=atom&nord=1",
-            "source_url": "http://rue89.nouvelobs.com/2015/04/30/cable-sous-marin-arrive-benin-fin-galere-internet-258929"
-        },
-        "paris.fr/2015/04/un-nouveau-site-internet-pour-le-m%C3%A9diateur-de-la-ville": {
-            "title": "Un nouveau site internet pour le M\u00e9diateur de la Ville...",
-            "snippet": "Les services du M\u00e9diateur de la Ville de Paris viennent de lancer un nouveau site internet internet d\u00e9di\u00e9:. Cet espace interactif permet aux Parisiens de s'informer sur leurs droits et propose notamment un formulaire de...",
-            "date": "2015-04-28",
-            "categories": "internet",
-            "tags": "internet",
-            "recuweb_url": "http://fr.recuweb.com/internet/paris.fr/2015/04/un-nouveau-site-internet-pour-le-m%C3%A9diateur-de-la-ville",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://paris.fr/accueil/actualites-municipales/un-nouveau-site-internet-pour-le-mediateur-de-la-ville/rub_9656_actu_155429_port_23785"
-        },
-        "agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook": {
-            "title": "Internet - Internet - Le Paysan Tarnais franchit de nouveaux caps sur Facebook et Twitter!",
-            "snippet": "La foire agricole de R\u00e9almont est d\u00e9cidemment un grand \u00e9v\u00e9nement pour lagriculture tarnaise et le Tarn plus g\u00e9n\u00e9ralement. La couverture de la manifestation sur nos r\u00e9seaux sociaux (photos, palmar\u00e8s) a \u00e9t\u00e9 tr\u00e8s suivie et nous a permis d...",
-            "date": "2015-04-23",
-            "categories": "internet,facebook,twitter",
-            "tags": "\u00e9t\u00e9,g\u00e9n\u00e9ralement,internet,facebook,twitter",
-            "recuweb_url": "http://fr.recuweb.com/twitter/agriculteur-normand.com/2015/04/internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=internet%2Binternet&format=RSS&cc=fr",
-            "source_url": "http://agriculteur-normand.com/actualites/internet-internet-le-paysan-tarnais-franchit-de-nouveaux-caps-sur-facebook-et-twitter:8M39O8ZA.html"
         }
     }
 }
