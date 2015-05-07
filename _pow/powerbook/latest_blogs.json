@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "powerbook",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/powerbook/",
@@ -11,26 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/powerbook/powerbook/blogs.json"
     },
     "items": {
-        "macplus.net/2015/01/powerbook-apple-g3-233mhz-mod%C3%A8le-m4753-%C3%A9cran-14p-macplus": {
-            "title": "PowerBook Apple G3 233Mhz, mod\u00e8le M4753, \u00e9cran 14p. - MacPlus...",
-            "snippet": "Description: Vends PowerBook Apple G3 233Mhz, mod\u00e8le M4753, \u00e9cran 14p. fonctionne impeccablement. PowerPC 750, bus 66MHz, Disque dur 80Go, RAM 160Mo, \u00e9cran 14p., lecteur CD-DVD Connectique VGA, S-Video,...",
-            "date": "2015-01-09",
-            "author_name": "inconnu",
-            "categories": "powerbook",
-            "tags": "powerbook,apple,mod\u00e8le,disque,dur,ram",
-            "recuweb_url": "http://fr.recuweb.com/powerbook/macplus.net/2015/01/powerbook-apple-g3-233mhz-mod%C3%A8le-m4753-%C3%A9cran-14p-macplus",
-            "resource_url": "http://www.google.com/search?q=powerbook%2Bpowerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://macplus.net/annonces/detail.php?id=22677"
-        },
         "journaldulapin.com/2015/01/prototype-powerbook-2300c-le-journal-du-lapin": {
             "title": "Prototype PowerBook 2300c Le journal du lapin...",
             "snippet": "La note a \u00e9t\u00e9 tagg\u00e9e PowerBook, Prototype. Post\u00e9 le... Vu chez Henry Plain, un prototype de PowerBook 2300c. La pi\u00e8ce... Ce PowerBook G3 n'accepte pas Mac OS X, contrairement aux mod\u00e8les qui le suivront. 23/10/2012.",
             "date": "2015-01-02",
             "author_name": "Pierre Dandumont",
             "categories": "powerbook",
-            "tags": "powerbook,mac",
+            "tags": "accepte,powerbook,mac",
             "recuweb_url": "http://fr.recuweb.com/powerbook/journaldulapin.com/2015/01/prototype-powerbook-2300c-le-journal-du-lapin",
-            "resource_url": "http://www.google.com/search?q=powerbook%2Bpowerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=powerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://journaldulapin.com/2015/01/02/prototype-powerbook-2300c/"
         },
         "forums.macg.co/2014/09/ecran-noir-sur-mon-powerbook-g4-17-pouces-alu-les-forums": {
@@ -39,10 +28,32 @@
             "date": "2014-09-12",
             "author_name": "errroc",
             "categories": "powerbook,imac",
-            "tags": "powerbook,pouces,mod\u00e8le",
+            "tags": "powerbook,pouces",
             "recuweb_url": "http://fr.recuweb.com/imac/forums.macg.co/2014/09/ecran-noir-sur-mon-powerbook-g4-17-pouces-alu-les-forums",
-            "resource_url": "http://www.google.com/search?q=powerbook%2Bpowerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=powerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forums.macg.co/threads/ecran-noir-sur-mon-powerbook-g4-17-pouces-alu.1251104/"
+        },
+        "mar1e.fr/2007/08/afficher-les-fichiers-cach%C3%A9s-sous-mac-mar1e-another-seo-blog": {
+            "title": "Afficher les fichiers cach\u00e9s sous Mac - Mar1e - Another SEO blog...",
+            "snippet": "localhost: myUserName vi/Users/myUserName/Desktop/.htaccess... Marie: merci pour cette petite astuce bien pratique sur un vieux Powerbook qui n'accepte plus les derni\u00e8res versions de TinkerTool et consorts.",
+            "date": "2007-08-15",
+            "author_name": "Marie",
+            "categories": "powerbook",
+            "tags": "accepte,mac,desktop,powerbook",
+            "recuweb_url": "http://fr.recuweb.com/powerbook/mar1e.fr/2007/08/afficher-les-fichiers-cach%C3%A9s-sous-mac-mar1e-another-seo-blog",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpowerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://mar1e.fr/afficher-les-fichiers-caches-sous-mac-5"
+        },
+        "marchal.frederic.free.fr/2007/05/nut-sous-gentoo-monitoring-d-un-syst%C3%A8me-ups-merlin-gerin": {
+            "title": "Nut sous Gentoo: monitoring d'un syst\u00e8me UPS Merlin Gerin...",
+            "snippet": "Enable support for iBook/PowerBook special keys Force feedback support... USE=- ssl usb emerge sys-power/nut vi/etc/nut/... vi/etc/nut/. MONITOR ellipselocalhost 1 monuser pwd master.",
+            "date": "2007-05-20",
+            "author_name": "Fr\u00e9d\u00e9ric Marchal",
+            "categories": "powerbook",
+            "tags": "powerbook,power",
+            "recuweb_url": "http://fr.recuweb.com/powerbook/marchal.frederic.free.fr/2007/05/nut-sous-gentoo-monitoring-d-un-syst%C3%A8me-ups-merlin-gerin",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpowerbook&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://marchal.frederic.free.fr/?p=5"
         }
     }
 }
