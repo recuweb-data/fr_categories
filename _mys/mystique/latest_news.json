@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mystique",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mystique/",
@@ -11,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mystique/mystique/blogs.json"
     },
     "items": {
-        "tvmag.lefigaro.fr/2015/05/l-irlande-mystique": {
+        "bibliobs.nouvelobs.com/2015/05/jack-lang-ministre-des-farces-et-attrapes-muray-ou-l-art": {
+            "title": "Jack Lang, ministre des farces et attrapes: Muray ou l'art de l'\u00e9pith\u00e8te hom\u00e9rique...",
+            "snippet": "Sauveur du monde, Commissaire principal de la brigade des n\u00e9o-m\u0153urs, am\u00e9liorateur chafouin de la condition humaine, Marionnette terrorisante du bien-\u00eatre, Trompette de lint\u00e9r\u00eat g\u00e9n\u00e9ral devenu Corps mystique Hue...",
+            "date": "2015-05-03",
+            "categories": "mystique",
+            "tags": "humaine,art,mystique",
+            "recuweb_url": "http://fr.recuweb.com/mystique/bibliobs.nouvelobs.com/2015/05/jack-lang-ministre-des-farces-et-attrapes-muray-ou-l-art",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
+            "source_url": "http://bibliobs.nouvelobs.com/essais/20150430.OBS8280/jack-lang-ministre-des-farces-et-attrapes-muray-ou-l-art-de-l-epithete-homerique.html"
+        },
+        "toutelatele.com/2015/05/l-irlande-mystique": {
             "title": "L'Irlande mystique...",
             "snippet": "L'Irlande rec\u00e8le de nombreux secrets. Des scientifiques se sont rassembl\u00e9s pour \u00e9claircir les myst\u00e8res des rites irlandais. Des astronomes ont d\u00e9couvert que des pluies de m\u00e9t\u00e9orites ont pu s'abattre au IIIe mill\u00e9naire avant J- C,...",
-            "date": "2015-05-01",
+            "date": "2015-05-02",
             "categories": "mystique",
-            "tags": "d\u00e9couvert,nombreux,mystique",
-            "recuweb_url": "http://fr.recuweb.com/mystique/tvmag.lefigaro.fr/2015/05/l-irlande-mystique",
+            "tags": "mill\u00e9naire,mill\u00e9naire-avant,avant,astronomes,astronomes-ont-d\u00e9couvert,d\u00e9couvert,pluies,pluies-de-m\u00e9t\u00e9orites,m\u00e9t\u00e9orites,scientifiques,rassembl\u00e9s,rassembl\u00e9s-pour-\u00e9claircir,\u00e9claircir,\u00e9claircir-les-myst\u00e8res,myst\u00e8res,rites,rites-irlandais,irlandais,nombreux,irlande,mystique,iiie",
+            "recuweb_url": "http://fr.recuweb.com/mystique/toutelatele.com/2015/05/l-irlande-mystique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
-            "source_url": "http://tvmag.lefigaro.fr/programme-tv/fiche/france-5/documentaire/202696575/l-irlande-mystique.html"
+            "source_url": "http://toutelatele.com/progTv/fiche.php?id=1121604&date=2015-05-02"
         },
         "la-croix.com/2015/04/jeunes-religieux-il-faut-accepter-le-c%C3%B4t%C3%A9-mystique-de-notre-vie": {
             "title": "Jeunes religieux, il faut accepter le c\u00f4t\u00e9 mystique de notre vie...",
@@ -38,7 +48,7 @@
             "categories": "mystique",
             "tags": "mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/resmusica.com/2015/04/hildegard-von-bingen-et-zad-moultaka-une-m%C3%AAme-ferveur-mystique-resmusica",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
             "source_url": "http://resmusica.com/2015/04/29/hildegard-von-bingen-et-zad-moultaka-une-meme-ferveur-mystique/"
         },
         "oujdacity.net/2015/04/mystique-et-philosophie-simulacres-confusions": {
@@ -46,10 +56,20 @@
             "snippet": "JADMIRE LA CULTURE GENERALE. Fanfaronnade excessive quand au grade dont on laffuble, large comme un ruban filiforme, marque page de dico, profonde dans sa superficialit\u00e9 comme le marc dune tasse de caf\u00e9 \u00e9clat\u00e9e. Je suis constern\u00e9...",
             "date": "2015-04-28",
             "categories": "culture,mystique",
-            "tags": "mystique,philosophie",
+            "tags": "culture,mystique,philosophie",
             "recuweb_url": "http://fr.recuweb.com/mystique/oujdacity.net/2015/04/mystique-et-philosophie-simulacres-confusions",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
             "source_url": "http://oujdacity.net/national-article-101278-fr/mystique-et-philosophie-simulacres-et-confusions.html"
+        },
+        "lemag.ma/2015/04/une-troupe-turque-mystique-cl%C3%B4t-en-apoth%C3%A9ose-la-9%C3%A8me-%C3%A9dition": {
+            "title": "Une troupe turque mystique cl\u00f4t en apoth\u00e9ose la 9\u00e8me \u00e9dition du Festival de F\u00e8s de la Culture...",
+            "snippet": "Une troupe turque mystique cl\u00f4t en apoth\u00e9ose la 9\u00e8me \u00e9dition du Festival de F\u00e8s de la Culture...",
+            "date": "2015-04-27",
+            "categories": "mystique,culture",
+            "tags": "mystique,culture",
+            "recuweb_url": "http://fr.recuweb.com/culture/lemag.ma/2015/04/une-troupe-turque-mystique-cl%C3%B4t-en-apoth%C3%A9ose-la-9%C3%A8me-%C3%A9dition",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
+            "source_url": "http://lemag.ma/Une-troupe-turque-mystique-clot-en-apotheose-la-9eme-edition-du-Festival-de-Fes-de-la-Culture-Soufie_a89510.html"
         },
         "melty.fr/2015/04/x-men-apocalypse-nightcrawler-et-mystique-connect%C3%A9s": {
             "title": "X-Men Apocalypse: Nightcrawler et Mystique connect\u00e9s?",
@@ -61,34 +81,34 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=mystique&format=RSS&cc=fr",
             "source_url": "http://melty.fr/x-men-apocalypse-nightcrawler-et-mystique-connectes-a404879.html"
         },
-        "summonerswar.jeuxonline.info/2015/04/donjon-secret-sorci%C3%A8re-mystique-vent-jeuxonline": {
-            "title": "Donjon Secret: Sorci\u00e8re Mystique Vent - JeuxOnLine...",
-            "snippet": "JeuxOnLineDonjon Secret: Sorci\u00e8re Mystique VentJeuxOnLineLe Donjon Secret est aussi une riche source de mana, ne ratez pas cette occasion! D\u00e9tails. - Le Donjon secret de la Sorci\u00e8re Mystique sera disponible au Donjon Cairos pendant l'\u00e9v\u00e8nement.",
-            "date": "2015-04-09",
+        "television.telerama.fr/2015/04/l-irlande-mystique-t%C3%A9l%C3%A9": {
+            "title": "L'Irlande mystique - T\u00e9l\u00e9...",
+            "snippet": "T\u00e9l\u00e9 'Irlande mystiqueT\u00e9l\u00e9 scientifiques se sont rassembl\u00e9s pour \u00e9claircir les myst\u00e8res entourant les rites irlandais. Parmi eux, des astronomes ont d\u00e9couvert que des pluies de m\u00e9t\u00e9orites se seraient abattues, au IIIe mill\u00e9naire avant J-...",
+            "date": "2015-04-12",
             "categories": "mystique",
-            "tags": "riche,mystique",
-            "recuweb_url": "http://fr.recuweb.com/mystique/summonerswar.jeuxonline.info/2015/04/donjon-secret-sorci%C3%A8re-mystique-vent-jeuxonline",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
-            "source_url": "http://summonerswar.jeuxonline.info/actualite/47823/donjon-secret-sorciere-mystique-vent"
-        },
-        "senenews.com/2015/04/le-mystique-dans-l-ar%C3%A8ne-un-mal-n%C3%A9cessaire": {
-            "title": "Le mystique dans l'ar\u00e8ne: Un \"mal\" n\u00e9cessaire? -...",
-            "snippet": "mystique dans l'ar\u00e8ne: Un \"mal\" n\u00e9cessaire? La croyance mystique en Afrique s'est fortement ancr\u00e9e dans les diff\u00e9rentes soci\u00e9t\u00e9s et conditionnent la vie de tous les jours. Le recours aux pratiques occultes est omnipr\u00e9sent dans tous les...",
-            "date": "2015-04-07",
-            "categories": "mystique",
-            "tags": "vie,mystique",
-            "recuweb_url": "http://fr.recuweb.com/mystique/senenews.com/2015/04/le-mystique-dans-l-ar%C3%A8ne-un-mal-n%C3%A9cessaire",
+            "tags": "mill\u00e9naire,mill\u00e9naire-avant,avant,astronomes,astronomes-ont-d\u00e9couvert,d\u00e9couvert,pluies,pluies-de-m\u00e9t\u00e9orites,m\u00e9t\u00e9orites,scientifiques,rassembl\u00e9s,rassembl\u00e9s-pour-\u00e9claircir,\u00e9claircir,\u00e9claircir-les-myst\u00e8res,myst\u00e8res,rites,rites-irlandais,irlandais,irlande,mystique,parmi,iiie",
+            "recuweb_url": "http://fr.recuweb.com/mystique/television.telerama.fr/2015/04/l-irlande-mystique-t%C3%A9l%C3%A9",
             "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
-            "source_url": "http://senenews.com/2015/04/07/le-mystique-dans-larene-un-mal-necessaire_121249.html"
+            "source_url": "http://television.telerama.fr/tele/programmes-tv/l-irlande-mystique,91844868.php"
+        },
+        "recordonline.com/2015/04/no-phone-policy-forces-break-from-social-media-times-herald-record": {
+            "title": "No-phone policy forces break from social media - Times Herald-Record...",
+            "snippet": "No-phone policy forces break from social mediaTimes Herald-Record\"It's part of the mystique of this place,\" said Jeff Nelson of Rockford, Ill. \"Everybody knows there's no phones, so that becomes part of the whole cool thing. It's like we know we...",
+            "date": "2015-04-09",
+            "categories": "place,mystique",
+            "tags": "mystique",
+            "recuweb_url": "http://fr.recuweb.com/mystique/recordonline.com/2015/04/no-phone-policy-forces-break-from-social-media-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmystique&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150408/SPORTS/150409423/101124/SPORTS"
         },
         "fabula.org/2015/04/charles-p%C3%A9guy-et-la-mystique-d-isra%C3%ABl-fabula": {
             "title": "Charles P\u00e9guy et la mystique d'Isra\u00ebl - Fabula...",
             "snippet": "Charles P\u00e9guy et la mystique d'Isra\u00ebl FabulaLes amiti\u00e9s juives de P\u00e9guy (Albert L\u00e9vy, Andr\u00e9 Spire, Blanche Rapha\u00ebl, Julien Benda parmi de nombreux autres) et plus largement l'amiti\u00e9 mystique qu'il entretenait avec le peuple juif, ont chang\u00e9...",
             "date": "2015-04-06",
             "categories": "mystique",
-            "tags": "nombreux,mystique",
+            "tags": "parmi,nombreux,mystique",
             "recuweb_url": "http://fr.recuweb.com/mystique/fabula.org/2015/04/charles-p%C3%A9guy-et-la-mystique-d-isra%C3%ABl-fabula",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mystique%2Bmystique&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=mystique&output=atom&nord=1",
             "source_url": "http://fabula.org/actualites/charles-peguy-et-la-mystique-d-israel-colloque-international-des-30-octobre-1er-novembre-2016_68003.php"
         }
     }
