@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lifestyle",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lifestyle/",
@@ -11,6 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/beck-blackbird-chain-lifestyle-communities-pavilion-evergig": {
+            "title": "Beck Blackbird Chain - Lifestyle Communities Pavilion - Evergig...",
+            "snippet": "Beck live (Lifestyle Communities Pavilion) Blackbird ChainWatch the full concert on our website: concerts from Beck: on: www./videos/HdVZRzoO6WWant to watch a specific concert? Go to www., create your own!Like us on Facebook: us on Twitter::...",
+            "date": "2015-04-30",
+            "author_name": "evergig-rock",
+            "categories": "lifestyle,facebook,twitter",
+            "tags": "lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2015/04/beck-blackbird-chain-lifestyle-communities-pavilion-evergig",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+lifestyle/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ohuue_beck-blackbird-chain-lifestyle-communities-pavilion-evergig_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ohuue_beck-blackbird-chain-lifestyle-communities-pavilion-evergig_music"
+        },
+        "dailymotion.com/2015/04/midi-ensemble-partie-4-lifestyle": {
+            "title": "Midi Ensemble Partie 4 - Lifestyle...",
+            "snippet": "Gastronomie, voyage, \u00e9ducation, nouvelles technologies, nos chroniqueurs vous d\u00e9voilent toutes les derni\u00e8res: i24news-frTags: midi-ensemble News Posted: 28 April 2015Rating:: 0...",
+            "date": "2015-04-28",
+            "author_name": "i24news-fr",
+            "categories": "technologie,lifestyle",
+            "tags": "lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/dailymotion.com/2015/04/midi-ensemble-partie-4-lifestyle",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+lifestyle/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2o9mxl_midi-ensemble-partie-4-lifestyle_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o9mxl_midi-ensemble-partie-4-lifestyle_news"
+        },
         "youtube.com/2015/04/swap-avec-andreia-bonheur-mignonneries-lifestyle-encore-merci": {
             "title": "Swap avec Andreia: bonheur, mignonneries, lifestyle... encore MERCI!",
             "snippet": "Swap avec Andreia: bonheur, mignonneries, lifestyle... encore MERCI! Un immense MERCI \u00e0 Andreia que vous pouvez retrouver sur son blog: Mes derniers articles sur le blog: Mes \u00e9tiquettes de jardin en perles \u00e0 repasser:... From: MissTerre Views:...",
@@ -19,20 +43,9 @@
             "categories": "bonheur,lifestyle",
             "tags": "articles,lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/04/swap-avec-andreia-bonheur-mignonneries-lifestyle-encore-merci",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=5yUQEKVwsqQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/5yUQEKVwsqQ/0.jpg"
-        },
-        "youtube.com/2015/04/infopreneur-lifestylers-webmarketing-copywriting-interview-gregory-lagrange": {
-            "title": "Infopreneur - Lifestylers webmarketing copywriting interview gregory lagrange...",
-            "snippet": "Infopreneur - Lifestylers webmarketing copywriting interview gregory lagrange Cliquez ici pour decouvrir le site de Gregory Lagrange Dans cette interview d'expert infopreneur, j'ai le plaisir de recevoir Gregory... From: Jerome Montigny Views: 186 2...",
-            "date": "2015-04-10",
-            "author_name": "Jerome Montigny",
-            "categories": "plaisir",
-            "recuweb_url": "http://fr.recuweb.com/plaisir/youtube.com/2015/04/infopreneur-lifestylers-webmarketing-copywriting-interview-gregory-lagrange",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=qp1E0y0ij9U&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/qp1E0y0ij9U/0.jpg"
         },
         "youtube.com/2015/04/usa-sports-lifestyle-s%C3%A9jours-sportifs-en-floride": {
             "title": "USA SPORTS LIFESTYLE S\u00e9jours sportifs en Floride...",
@@ -42,7 +55,7 @@
             "categories": "sport,lifestyle",
             "tags": "lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/04/usa-sports-lifestyle-s%C3%A9jours-sportifs-en-floride",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=KzxGkbWC_kk&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/KzxGkbWC_kk/0.jpg"
         },
@@ -54,7 +67,7 @@
             "categories": "sport,lifestyle",
             "tags": "lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/healthy-lifestyle-conseils-de-lecture-recettes-&-sport",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=rbUzdR1cuek&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/rbUzdR1cuek/0.jpg"
         },
@@ -66,9 +79,21 @@
             "categories": "football,lifestyle",
             "tags": "lifestyle",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/lcdc-freestyle-my-lifestyle",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=PipUxkVtYgY&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/PipUxkVtYgY/0.jpg"
+        },
+        "youtube.com/2015/03/lifestyle-le-mondial-du-tatouage-2015-mon-compte-rendu": {
+            "title": "Lifestyle Le mondial du tatouage 2015: Mon compte rendu...",
+            "snippet": "Lifestyle Le mondial du tatouage 2015: Mon compte rendu D\u00c9ROULE LA BARRE POUR PLUS D'INFO N'h\u00e9sitez pas \u00e0 vous abonner, \u00e0 liker et partager Feel yourself... From: Pink Republik Views: 512 3 ratings Time: 02:30 More in People & Blogs...",
+            "date": "2015-03-15",
+            "author_name": "Pink Republik",
+            "categories": "tatouage,lifestyle",
+            "tags": "lifestyle,people",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/lifestyle-le-mondial-du-tatouage-2015-mon-compte-rendu",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Dl0wjLi0obI&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Dl0wjLi0obI/0.jpg"
         },
         "youtube.com/2015/03/antikbelgium-fashion-meet-lifestyle": {
             "title": "ANTIKBELGIUM FASHION MEET LIFESTYLE...",
@@ -76,9 +101,9 @@
             "date": "2015-03-03",
             "author_name": "ANTIK BELGIUM",
             "categories": "musique,lifestyle",
-            "tags": "lifestyle",
+            "tags": "lifestyle,people",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/03/antikbelgium-fashion-meet-lifestyle",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle%2Blifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=liuMMbXoSOc&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/liuMMbXoSOc/0.jpg"
         },
@@ -90,44 +115,21 @@
             "categories": "lifestyle",
             "tags": "lifestyle,articles",
             "recuweb_url": "http://fr.recuweb.com/lifestyle/dailymotion.com/2015/02/lifestyle-le-gateau-qui-s-ouvre-tel-une-fleur",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle+lifestyle/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle/0?af=1",
             "source_url": "http://dailymotion.com/video/x2hztpa_lifestyle-le-gateau-qui-s-ouvre-tel-une-fleur_lifestyle",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2hztpa_lifestyle-le-gateau-qui-s-ouvre-tel-une-fleur_lifestyle"
         },
-        "dailymotion.com/2015/02/boring-lifestyles-south-central-remix": {
-            "title": "Boring Lifestyles - Boring Lifestyles (South Central Remix)...",
-            "snippet": "Buy on iTunes: Taken from Twisted Charm Boring Lifestyles Subscribe to Because Music Channel: Facebook: Twitter: Instagram: Because MusicAuthor: BECAUSE_MUSICTags: Posted: 13 February 2015Rating:: 0...",
-            "date": "2015-02-13",
-            "author_name": "BECAUSE_MUSIC",
-            "categories": "lifestyle,facebook,twitter",
-            "recuweb_url": "http://fr.recuweb.com/twitter/dailymotion.com/2015/02/boring-lifestyles-south-central-remix",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle+lifestyle/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2h2ne2_boring-lifestyles-boring-lifestyles-south-central-remix_music",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2h2ne2_boring-lifestyles-boring-lifestyles-south-central-remix_music"
-        },
-        "dailymotion.com/2015/02/anton-kraly-of-drop-ship-lifestyle-travel-the-world": {
-            "title": "Anton Kraly of Drop Ship Lifestyle - Travel The World On a Drop Ship Lifestyle...",
-            "snippet": "ALERT! Dont Buy Drop Ship LifeStyle Until You Read: JLawl3578Tags: Posted: 01 February 2015Rating:: 0...",
-            "date": "2015-02-01",
-            "author_name": "JLawl3578",
+        "youtube.com/2015/01/les-tendances-de-l-hiver-que-on-aime-mode-beaut%C3%A9-lifestyle": {
+            "title": "Les tendances de l'hiver que l'on aime (mode, beaut\u00e9, lifestyle) M&E...",
+            "snippet": "Les tendances de l'hiver que l'on aime (mode, beaut\u00e9, lifestyle) M&E Bienvenue sur notre cha\u00eene Si vous appr\u00e9ciez nos vid\u00e9os, nous vous invitons \u00e0 nous soutenir en vous abonnant \u00e0 notre chaine et en nous suivant sur les r\u00e9seaux... From: M&E -...",
+            "date": "2015-01-12",
+            "author_name": "M&E - La cha\u00eene mode et beaut\u00e9",
             "categories": "lifestyle",
-            "tags": "drop,drop_ship,drop_ship_lifestyle,ship,ship_lifestyle,ship_lifestyle_until,lifestyle,lifestyle_until,until,until_you_read,read,alert,jlawl,tags",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/dailymotion.com/2015/02/anton-kraly-of-drop-ship-lifestyle-travel-the-world",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle+lifestyle/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2g46v7_anton-kraly-of-drop-ship-lifestyle-travel-the-world-on-a-drop-ship-lifestyle_shortfilms",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2g46v7_anton-kraly-of-drop-ship-lifestyle-travel-the-world-on-a-drop-ship-lifestyle_shortfilms"
-        },
-        "dailymotion.com/2015/02/drop-ship-lifestyle-review-is-worth-it": {
-            "title": "Drop Ship Lifestyle Review - Is Drop Ship Lifestyle Worth It...",
-            "snippet": "ALERT! Dont Buy Drop Ship LifeStyle Until You Read: JLawl3578Tags: Posted: 01 February 2015Rating:: 0...",
-            "date": "2015-02-01",
-            "author_name": "JLawl3578",
-            "categories": "lifestyle",
-            "tags": "drop,drop_ship,drop_ship_lifestyle,ship,ship_lifestyle,ship_lifestyle_until,lifestyle,lifestyle_until,until,until_you_read,read,alert,jlawl,tags",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/dailymotion.com/2015/02/drop-ship-lifestyle-review-is-worth-it",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/lifestyle+lifestyle/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2g474k_drop-ship-lifestyle-review-is-drop-ship-lifestyle-worth-it_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2g474k_drop-ship-lifestyle-review-is-drop-ship-lifestyle-worth-it_news"
+            "tags": "lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/youtube.com/2015/01/les-tendances-de-l-hiver-que-on-aime-mode-beaut%C3%A9-lifestyle",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=lifestyle&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=sabOycUl-i4&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/sabOycUl-i4/0.jpg"
         }
     }
 }
