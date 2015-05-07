@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "ing\u00e9nierie-et-technologie-spatiale",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ing\u00e9nierie-et-technologie-spatiale/",
@@ -10,15 +11,25 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ing%C3%A9nierie-et-technologie-spatiale/ing%C3%A9nierie-et-technologie-spatiale/blogs.json"
     },
     "items": {
-        "lemonde.fr/2015/02/le-sparadrap-qui-recharge-votre-montre-grand-prix-netexplo-2015-monde": {
-            "title": "Le sparadrap qui recharge votre montre, Grand Prix Netexplo 2015 - Le Monde...",
-            "snippet": "Le MondeLe sparadrap qui recharge votre montre, Grand Prix Netexplo 2015Le MondeCette innovation est issue de l'Institut sup\u00e9rieur cor\u00e9en de science et de technologie (Kaist), et Byung Jin Cho, professeur au d\u00e9partement d'ing\u00e9nierie \u00e9lectrique,...",
-            "date": "2015-02-04",
-            "categories": "science,technologie,ingenierie",
-            "tags": "grand,grand_prix,prix,innovation,technologie,ing\u00e9nierie",
-            "recuweb_url": "http://fr.recuweb.com/ingenierie/lemonde.fr/2015/02/le-sparadrap-qui-recharge-votre-montre-grand-prix-netexplo-2015-monde",
-            "resource_url": "http://news.google.fr/?hl=fr&q=ing%C3%A9nierie%2Bet%2Btechnologie%2Bspatiale%2Bing%C3%A9nierie%2Bet%2Btechnologie%2Bspatiale&output=atom&nord=1",
-            "source_url": "http://lemonde.fr/pixels/article/2015/02/04/le-sparadrap-qui-recharge-votre-montre-grand-prix-netexplo-2015_4569596_4408996.html"
+        "lexpress.mu/2015/05/tosha-churitter-nembhard-un-g%C3%A9nie-des-maths-qui-a-la-t%C3%AAte": {
+            "title": "Tosha Churitter Nembhard: un g\u00e9nie des maths qui a la t\u00eate dans les \u00e9toiles...",
+            "snippet": "A luniversit\u00e9, Tosha Churitter Nembhard a plusieurs responsabilit\u00e9s: la conception des cours, leur compilation et leur enseignement. Elle est aussi directrice de cours pour les programmes de technologie spatiale. Jenseigne pour des programmes...",
+            "date": "2015-05-07",
+            "categories": "technologie",
+            "tags": "technologie,spatiale",
+            "recuweb_url": "http://fr.recuweb.com/technologie/lexpress.mu/2015/05/tosha-churitter-nembhard-un-g%C3%A9nie-des-maths-qui-a-la-t%C3%AAte",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bing%C3%A9nierie%2Bet%2Btechnologie%2Bspatiale&format=RSS&cc=fr",
+            "source_url": "http://lexpress.mu/article/262224/tosha-churitter-nembhard-un-genie-maths-qui-tete-dans-etoiles"
+        },
+        "programmez.com/2015/05/offre-d-emploi": {
+            "title": "Offre d'emploi...",
+            "snippet": "Avec pr\u00e8s de 3000 collaborateurs en France et plus de 20 ans d'existence, SOGETI High Tech, filiale du groupe Capgemini, fait partie des leaders fran\u00e7ais sur le march\u00e9 de l'Ing\u00e9nierie et du Conseil en Technologies... du spatial, de la...",
+            "date": "2015-05-06",
+            "categories": "emploi,ingenierie,technologie",
+            "tags": "groupe,france,ing\u00e9nierie,conseil,technologies",
+            "recuweb_url": "http://fr.recuweb.com/technologie/programmez.com/2015/05/offre-d-emploi",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bing%C3%A9nierie%2Bet%2Btechnologie%2Bspatiale&format=RSS&cc=fr",
+            "source_url": "http://programmez.com/emploi-detail/J3F7MQ6WVCMG5FMQWJT"
         }
     }
 }
