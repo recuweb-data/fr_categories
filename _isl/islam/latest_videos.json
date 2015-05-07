@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "islam",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/islam/",
@@ -17,9 +17,9 @@
             "date": "2015-04-30",
             "author_name": "franceinter",
             "categories": "politique",
-            "tags": "politique,blasph\u00e8me,journa,avril",
+            "tags": "politique,journa,avril",
             "recuweb_url": "http://fr.recuweb.com/politique/dailymotion.com/2015/04/caroline-fourest-d%C3%A9fions-nous-de-ceux-qui-utilisent-lislam-pour-diviser",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/islam/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+islam/0?af=1",
             "source_url": "http://dailymotion.com/video/x2oiiww_caroline-fourest-defions-nous-de-ceux-qui-utilisent-l-islam-pour-diviser-et-asservir_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2oiiww_caroline-fourest-defions-nous-de-ceux-qui-utilisent-l-islam-pour-diviser-et-asservir_news"
         },
@@ -41,23 +41,11 @@
             "date": "2015-04-28",
             "author_name": "i24news-fr",
             "categories": "religion,islam",
-            "tags": "musulmans,violence,islam,frtags,newsfr",
+            "tags": "musulmans,islam,frtags,newsfr",
             "recuweb_url": "http://fr.recuweb.com/islam/dailymotion.com/2015/04/usa-obama-l-islam-n-est-pas-une-religion-de-violence",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/islam/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o9njm_usa-obama-l-039-islam-n-039-est-pas-une-religion-de-violence_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2o9njm_usa-obama-l-039-islam-n-039-est-pas-une-religion-de-violence_news"
-        },
-        "dailymotion.com/2015/04/apostasie-en-islam-faut-il-tuer-celui-qui-quitte-l": {
-            "title": "Apostasie en Islam, Faut-il tuer celui qui quitte l'Islam?",
-            "snippet": "Apostasie, antis\u00e9mitisme, blasph\u00e8me et violence en Islam?Author: aghilestTags: Terrorisme Bible Coran lapostasie Djihad Jihad Islam Daech Croyance violence Posted: 19 April 2015Rating:: 0...",
-            "date": "2015-04-19",
-            "author_name": "aghilest",
-            "categories": "islam",
-            "tags": "violence,blasph\u00e8me,islam,faut",
-            "recuweb_url": "http://fr.recuweb.com/islam/dailymotion.com/2015/04/apostasie-en-islam-faut-il-tuer-celui-qui-quitte-l",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/islam+islam/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2n4lze_apostasie-en-islam-faut-il-tuer-celui-qui-quitte-l-islam_webcam",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2n4lze_apostasie-en-islam-faut-il-tuer-celui-qui-quitte-l-islam_webcam"
         },
         "dailymotion.com/2015/04/l-islam-a-aussi-sa-guerre-de-religions-d%C3%A9crypte-%C3%A9ric-zemmour": {
             "title": "L'Islam a aussi sa guerre de religions, d\u00e9crypte \u00c9ric Zemmour...",
@@ -101,7 +89,7 @@
             "date": "2015-04-10",
             "author_name": "islam-aujourdhui",
             "categories": "capitalisme,islam",
-            "tags": "islam,faut",
+            "tags": "islam",
             "recuweb_url": "http://fr.recuweb.com/islam/dailymotion.com/2015/04/islam-et-capitalisme-faut-il-imiter-les-chr%C3%A9tiens-sud-am%C3%A9ricains",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/islam/0?af=1",
             "source_url": "http://dailymotion.com/video/x2mab8e_islam-et-capitalisme-faut-il-imiter-les-chretiens-sud-americains_news",
@@ -109,7 +97,7 @@
         },
         "youtube.com/2015/04/la-sorcellerie-en-islam-hassan-iquioussen": {
             "title": "La sorcellerie en Islam - Hassan Iquioussen...",
-            "snippet": "La sorcellerie en Islam - Hassan Iquioussen Qu'en est-il de la sorcellerie en Islam? Quelles sont ses effets? Comment s'en pr\u00e9munir? R\u00e9ponse du professeur Hassan Iquioussen dans cette intervention. From: Hassan Iquioussen Views: 11479 135 ratings...",
+            "snippet": "La sorcellerie en Islam - Hassan Iquioussen Qu'en est-il de la sorcellerie en Islam? Quelles sont ses effets? Comment s'en pr\u00e9munir? R\u00e9ponse du professeur Hassan Iquioussen dans cette intervention. From: Hassan Iquioussen Views: 11693 139 ratings...",
             "date": "2015-04-08",
             "author_name": "Hassan Iquioussen",
             "categories": "islam",
@@ -130,6 +118,17 @@
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=islam&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=Ifh6DKqpxWw&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/Ifh6DKqpxWw/0.jpg"
+        },
+        "youtube.com/2015/02/les-grandes-questions-y-a-t-il-un-islam": {
+            "title": "Les grandes questions Y a-t-il un islam ou des islams?",
+            "snippet": "Les grandes questions Y a-t-il un islam ou des islams? Dur\u00e9e: 54:37:16 - Franz-Olivier Giesbert/Pr\u00e9sentateur Mazarine Pingeot/Pr\u00e9sentateur G\u00e9raldine Muhlmann/Pr\u00e9sentateur Eliette Ab\u00e9cassis/Pr\u00e9sentateur Ghaleb... From: Beurk BeurkMan Views:...",
+            "date": "2015-02-21",
+            "author_name": "Beurk BeurkMan",
+            "categories": "islam",
+            "recuweb_url": "http://fr.recuweb.com/islam/youtube.com/2015/02/les-grandes-questions-y-a-t-il-un-islam",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=islam&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Kh-6wPZrlb0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Kh-6wPZrlb0/0.jpg"
         }
     }
 }
