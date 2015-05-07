@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "adwords",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/adwords/",
@@ -11,22 +11,62 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/adwords/adwords/blogs.json"
     },
     "items": {
-        "commentcamarche.net/2015/05/que-faire-pour-conna%C3%AEtre-ma-boutique-en-ligne-r%C3%A9solu": {
-            "title": "Que faire pour faire conna\u00eetre ma boutique en ligne R\u00e9solu...",
-            "snippet": "Donc meme en postant a tour de bras sur les r\u00e9seaux sociaux et en faisant des campagnes adwords (qui peut revenir tr\u00e8s cher si il n'y a rien derri\u00e8re) c'est presque certain que ce ne se transformera pas en ventes...",
-            "date": "2015-05-02",
-            "categories": "adwords",
-            "tags": "campagnes,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/commentcamarche.net/2015/05/que-faire-pour-conna%C3%AEtre-ma-boutique-en-ligne-r%C3%A9solu",
+        "dynamique-mag.com/2015/05/7-id%C3%A9es-re%C3%A7ues-sur-la-strat%C3%A9gie-marketing": {
+            "title": "7 id\u00e9es re\u00e7ues sur la strat\u00e9gie marketing...",
+            "snippet": "6. Imaginer qu'une campagne de Google Adwords suffit comme strat\u00e9gie marketing Cette id\u00e9e est largement r\u00e9pandue dans le monde professionnel. Il convient de l'\u00e9carter sans d\u00e9lai. 70% des internautes ne consultent pas les annonces payantes...",
+            "date": "2015-05-04",
+            "categories": "marketing,google,adwords",
+            "tags": "internautes,annonces,marketing,google,google_adwords,adwords,campagne",
+            "recuweb_url": "http://fr.recuweb.com/adwords/dynamique-mag.com/2015/05/7-id%C3%A9es-re%C3%A7ues-sur-la-strat%C3%A9gie-marketing",
             "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31912005-que-faire-pour-faire-connaitre-ma-boutique-en-ligne"
+            "source_url": "http://dynamique-mag.com/article/idees-recues-strategies-marketing.6482"
+        },
+        "commentcamarche.net/2015/05/co%C3%BBt-mots-cl%C3%A9s-adwords-sans-concurrence-r%C3%A9solu": {
+            "title": "Co\u00fbt mots-cl\u00e9s Adwords sans concurrence R\u00e9solu...",
+            "snippet": "Logiquement si il n'y a pas d'autre concurrent, tu est certain d'\u00eatre le premier, non? apr\u00e8s, une ench\u00e8re trop basse c'est pas forc\u00e9ment mieux car adsense va t'afficher au mieux sur les sites th\u00e9matiques apr\u00e8s les pubs qui payent le mieux...",
+            "date": "2015-05-04",
+            "categories": "adwords",
+            "tags": "pubs,mots,cl\u00e9s,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/commentcamarche.net/2015/05/co%C3%BBt-mots-cl%C3%A9s-adwords-sans-concurrence-r%C3%A9solu",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31920784-cout-mots-cles-adwords-sans-concurrence"
+        },
+        "es.gizmodo.com/2015/05/google-actualiza-adwords-tras-el-grave-error-sobre-pornograf%C3%ADa-infantil-gizmodo": {
+            "title": "Google actualiza AdWords tras el grave error sobre pornograf\u00eda infantil - Gizmodo en Espa\u00f1ol...",
+            "snippet": "Gizmodo en Espa\u00f1olGoogle actualiza AdWords tras el grave error sobre pornograf\u00eda infantilGizmodo en Espa\u00f1olLa semana pasada Gizmodo en Espa\u00f1ol dio a conocer un inexplicable error en Google AdWords: la herramienta mostraba y suger\u00eda palabras...",
+            "date": "2015-05-04",
+            "categories": "google,adwords",
+            "tags": "google,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/es.gizmodo.com/2015/05/google-actualiza-adwords-tras-el-grave-error-sobre-pornograf%C3%ADa-infantil-gizmodo",
+            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
+            "source_url": "http://es.gizmodo.com/google-actualiza-adwords-tras-el-grave-error-sobre-porn-1701969310"
+        },
+        "journaldunet.com/2015/05/google-mobile-friendly-ce-qui-se-cache-derri%C3%A8re": {
+            "title": "Google mobile friendly: ce qui se cache derri\u00e8re...",
+            "snippet": "L\u00e8re du tout, tout de suite et ici. Vous \u00eates au courant. C\u00f4t\u00e9 r\u00e9f\u00e9rencement payant, on ne va plus seulement faire des campagnes Adwords sur ordinateur, le lien sponsoris\u00e9 se d\u00e9veloppe aussi sur mobile. Les annonces sur mobile cibl\u00e9es...",
+            "date": "2015-05-04",
+            "categories": "ordinateur,google,adwords",
+            "tags": "annonces,mobile,friendly,google,campagnes,adwords",
+            "recuweb_url": "http://fr.recuweb.com/adwords/journaldunet.com/2015/05/google-mobile-friendly-ce-qui-se-cache-derri%C3%A8re",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
+            "source_url": "http://journaldunet.com/solutions/expert/60813/google-mobile-friendly---ce-qui-se-cache-derriere.shtml"
+        },
+        "searchengineland.com/2015/05/sneak-peek-into-adwords-new-multidimensional-reports-search-engine-land": {
+            "title": "Sneak Peek Into AdWords'New Multidimensional Reports - Search Engine Land...",
+            "snippet": "Search Engine LandSneak Peek Into AdWords'New Multidimensional ReportsSearch Engine LandJust over a year ago (April 22, 2014), during a livestream about upcoming AdWords features, Google announced it would be rolling out advanced reporting for...",
+            "date": "2015-05-04",
+            "categories": "adwords,google",
+            "tags": "out,livestream,about,upcoming,reportssearch,reportssearch_engine,engine,search,search_engine,adwords,search_engine_land,engine_land,land,reports,google",
+            "recuweb_url": "http://fr.recuweb.com/google/searchengineland.com/2015/05/sneak-peek-into-adwords-new-multidimensional-reports-search-engine-land",
+            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
+            "source_url": "http://searchengineland.com/sneak-peek-adwords-new-multidimensional-reports-219982"
         },
         "wordstream.com/2015/05/everything-you-need-to-know-about-the-adwords-changes-coming-wordstream": {
             "title": "Everything You Need to Know About the AdWords Changes Coming... - WordStream (blog)...",
-            "snippet": "Everything You Need to Know About the AdWords Changes Coming...WordStream (blog)Google is always making changes to the AdWords platform. Although these changes are great news for advertisers, keeping up with the pace of development at AdWords can be...",
+            "snippet": "WordStream (blog)Everything You Need to Know About the AdWords Changes Coming...WordStream (blog)Google is always making changes to the AdWords platform. Although these changes are great news for advertisers, keeping up with the pace of development...",
             "date": "2015-05-01",
             "categories": "adwords,google",
-            "tags": "great,adwords,about,wordstream,google",
+            "tags": "great,adwords,about,google",
             "recuweb_url": "http://fr.recuweb.com/google/wordstream.com/2015/05/everything-you-need-to-know-about-the-adwords-changes-coming-wordstream",
             "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
             "source_url": "http://wordstream.com/blog/ws/2015/05/01/adwords-changes-2015"
@@ -36,67 +76,27 @@
             "snippet": "3 AdWords Reports That Every Search Marketer Needs To Stay...Search Engine LandWhile we'll cover reports in AdWords, many important learnings can be applied to organic search as well. This article breaks out key takeaways from each report, defined...",
             "date": "2015-04-29",
             "categories": "adwords",
-            "tags": "reports,out,search,well,search_engine,engine,search_engine_land,engine_land,land,adwords,that,this",
+            "tags": "reports,out,search,search_engine,engine,search_engine_land,engine_land,land,adwords,that",
             "recuweb_url": "http://fr.recuweb.com/adwords/searchengineland.com/2015/04/3-adwords-reports-that-every-search-marketer-needs-to-stay-engine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=adwords%2Badwords&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
             "source_url": "http://searchengineland.com/3-adwords-reports-every-search-marketer-needs-stay-competitive-219598"
-        },
-        "marketingland.com/2015/04/google-s-surojit-chatterjee-here-why-you-should-trust-adwords-marketing": {
-            "title": "Google's Surojit Chatterjee: Here's Why You Should Trust AdWords... - Marketing Land...",
-            "snippet": "Marketing LandGoogle's Surojit Chatterjee: Here's Why You Should Trust AdWords...Marketing LandEarlier this month, when Xad launched its in-store visits technology, Blueprints, Google reached out to Marketing Land to offer more detail on how their...",
-            "date": "2015-04-27",
-            "categories": "marketing,adwords,google",
-            "tags": "offer,detail,out,its,this,month,marketing,landgoogle,land,adwords,google",
-            "recuweb_url": "http://fr.recuweb.com/google/marketingland.com/2015/04/google-s-surojit-chatterjee-here-why-you-should-trust-adwords-marketing",
-            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://marketingland.com/googles-surojit-chatterjee-heres-why-you-should-trust-adwords-estimated-store-visits-126491"
-        },
-        "journaldunet.com/2015/04/4-conseils-pratiques-pour-bien-recruter-son-chef-de-projet": {
-            "title": "4 conseils pratiques pour bien recruter son chef de projet en r\u00e9f\u00e9rencement...",
-            "snippet": "Premier \u00e9l\u00e9ment, et dimportance: naccordez quune importance relative aux certifications Google Adwords. Cette accr\u00e9ditation professionnelle d\u00e9livr\u00e9e par Google est cens\u00e9ment accord\u00e9e aux individus qui ont prouv\u00e9 leur ma\u00eetrise des...",
-            "date": "2015-04-23",
-            "categories": "google,adwords",
-            "tags": "google,google_adwords,adwords",
-            "recuweb_url": "http://fr.recuweb.com/adwords/journaldunet.com/2015/04/4-conseils-pratiques-pour-bien-recruter-son-chef-de-projet",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=adwords&format=RSS&cc=fr",
-            "source_url": "http://journaldunet.com/solutions/expert/60720/4-conseils-pratiques-pour-bien-recruter-son-chef-de-projet-en-referencement.shtml"
-        },
-        "wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples": {
-            "title": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples) - WordStream (blog)...",
-            "snippet": "7 Ways to Write Super-Effective AdWords Ads (with Real Examples)WordStream (blog)Today we're featuring a post that originally appeared on the Unbounce blog. In addition, we're partnering with Unbounce to offer a free webinar this Thursday, 3 Steps...",
-            "date": "2015-04-21",
-            "categories": "adwords",
-            "tags": "offer,this,that,adwords,adwords_ads,ads,ways,wordstream",
-            "recuweb_url": "http://fr.recuweb.com/adwords/wordstream.com/2015/04/7-ways-to-write-super-effective-adwords-ads-with-real-examples",
-            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://wordstream.com/blog/ws/2015/04/21/adwords-ads"
         },
         "searchengineland.com/2015/04/spotted-mobile-friendly-tag-showing-for-adwords-ads-search-engine-land": {
             "title": "Spotted: Mobile Friendly Tag Showing For AdWords Ads - Search Engine Land...",
             "snippet": "Search Engine LandSpotted: Mobile Friendly Tag Showing For AdWords AdsSearch Engine LandOf course today marks the launch of Google's Mobile Friendly Update, but the The SEM Post spotted a mobile friendly tag within AdWords ads. The example occurred...",
             "date": "2015-04-21",
             "categories": "adwords,google",
-            "tags": "adwords,engine,search,search_engine,search_engine_land,engine_land,land,adwords_ads,ads,google",
+            "tags": "mobile,friendly,adwords,engine,search,search_engine,search_engine_land,engine_land,land,google",
             "recuweb_url": "http://fr.recuweb.com/google/searchengineland.com/2015/04/spotted-mobile-friendly-tag-showing-for-adwords-ads-search-engine-land",
             "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
             "source_url": "http://searchengineland.com/spotted-mobile-friendly-tag-showing-for-adwords-219419"
-        },
-        "searchengineland.com/2015/04/new-adwords-campaign-detail-reporting-options-give-x-ray-search-engine": {
-            "title": "New AdWords Campaign Detail Reporting Options Give X-Ray... - Search Engine Land...",
-            "snippet": "Search Engine LandNew AdWords Campaign Detail Reporting Options Give X-Ray...Search Engine LandPaid search professionals routinely talk about wrangling reports in AdWords in order to get the most pertinent data. Well so the days of wrestling with...",
-            "date": "2015-04-20",
-            "categories": "adwords",
-            "tags": "search,about,reports,search_engine,engine,adwords,detail,search_engine_land,engine_land,land,well",
-            "recuweb_url": "http://fr.recuweb.com/adwords/searchengineland.com/2015/04/new-adwords-campaign-detail-reporting-options-give-x-ray-search-engine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
-            "source_url": "http://searchengineland.com/new-adwords-campaign-detail-reporting-options-give-x-ray-vision-inisght-into-campaigns-219358"
         },
         "searchengineland.com/2015/04/6-adwords-optimizations-using-dimensions-reports-search-engine-land": {
             "title": "6 AdWords Optimizations Using Dimensions Reports - Search Engine Land...",
             "snippet": "Search Engine Land6 AdWords Optimizations Using Dimensions ReportsSearch Engine LandLast month, Pauline Jakober wrote a great column about some of the awesome ways to use the AdWords Dimensions tab to improve account performance. That post inspired...",
             "date": "2015-04-15",
             "categories": "adwords",
-            "tags": "adwords,great,about,ways,engine,search,search_engine,search_engine_land,engine_land,land,reports,month,that",
+            "tags": "adwords,great,about,reportssearch,reportssearch_engine,engine,search,search_engine,search_engine_land,engine_land,land,reports,that",
             "recuweb_url": "http://fr.recuweb.com/adwords/searchengineland.com/2015/04/6-adwords-optimizations-using-dimensions-reports-search-engine-land",
             "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
             "source_url": "http://searchengineland.com/6-adwords-optimizations-using-dimensions-reports-218357"
@@ -106,7 +106,7 @@
             "snippet": "Google's Annual AdWords Livestream Set For May 5thSearch Engine LandGoogle has set the date for its (now) annual AdWords livestream to announce upcoming product launches. Mark your calendar for 9:30am Pacific Time/12:30pm Eastern Time on May 5,...",
             "date": "2015-04-09",
             "categories": "adwords,google",
-            "tags": "its,engine,landgoogle,search,search_engine,search_engine_land,engine_land,land,adwords,google",
+            "tags": "livestream,upcoming,engine,search,search_engine,search_engine_land,engine_land,land,adwords,google",
             "recuweb_url": "http://fr.recuweb.com/google/searchengineland.com/2015/04/google-s-annual-adwords-livestream-set-for-may-5th-search-engine",
             "resource_url": "http://news.google.fr/?hl=fr&q=adwords&output=atom&nord=1",
             "source_url": "http://searchengineland.com/googles-annual-adwords-livestream-set-for-may-5th-218289"
