@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "postgresql",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/postgresql/",
@@ -18,7 +18,7 @@
             "author_name": "inconnu",
             "tags": "communication,gresql,offre",
             "recuweb_url": "http://fr.recuweb.com/remixjobs.com/2015/04/d%C3%A9veloppeur-symfony-2-postgresql-h-f-paris-incenteev-offre",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://remixjobs.com/emploi/Developpement/Developpeur-Symfony-2-PostgreSQL-H-F/30065"
         },
         "blog.guillaume.lelarge.info/2015/03/version-0-2-de-mon-livre-sur-postgresql-gleu-s-blog": {
@@ -26,9 +26,9 @@
             "snippet": "Le premier concerne le protocole de communication client/serveur de PostgreSQL. Il permet de bien prendre conscience du dialogue et des possibilit\u00e9s d'\u00e9change entre ces deux entit\u00e9s. Le second aborde la question des...",
             "date": "2015-03-29",
             "author_name": "Guillaume Lelarge",
-            "tags": "serveur,communication,gresql,permet",
+            "tags": "serveur,communication,gresql,gleu,permet",
             "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/03/version-0-2-de-mon-livre-sur-postgresql-gleu-s-blog",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/03/29/Version-0.2-de-mon-livre-sur-PostgreSQL"
         },
         "forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-installation-phpbb-postgresql-9-1-debian": {
@@ -37,30 +37,61 @@
             "date": "2015-03-24",
             "author_name": "totophe56",
             "categories": "phpbb,mysql",
-            "tags": "debian,local,pr\u00e9sentation,installation,gresql,installer,mysql,gres",
+            "tags": "debian,local,pr\u00e9sentation,donc,installation,gresql,installer,mysql,gres",
             "recuweb_url": "http://fr.recuweb.com/mysql/forums.phpbb-fr.com/2015/03/r%C3%A9gl%C3%A9-installation-phpbb-postgresql-9-1-debian",
-            "resource_url": "http://www.google.com/search?q=postgresql%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forums.phpbb-fr.com/support-installation-phpbb31/sujet204179.html"
         },
-        "braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and-sequence": {
-            "title": "PostgreSQL auto incresement, SERIAL, and SEQUENCE...",
-            "snippet": "PostgreSQL: Documentation: 8.1: CREATE SEQUENCE FAQ: Using Sequences in PostgreSQL How to create a sequence in PostgreSQL postgresql - How to reset sequence in postgres and fill id column with new data? - Stack Overflow auto increment - PostgreSQL...",
-            "date": "2015-02-12",
-            "author_name": "(Jeff Huang)",
-            "tags": "gres,gresql,data",
-            "recuweb_url": "http://fr.recuweb.com/braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and-sequence",
-            "resource_url": "http://www.icerocket.com/search?tab=blog&q=postgresql%2Bpostgresql&rss=1&lng=fr",
-            "source_url": "http://braveo.blogspot.com/2015/02/postgresql-auto-incresement-serial-and.html"
+        "blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog": {
+            "title": "A new vmstat-like tool for PostgreSQL - gleu's blog...",
+            "snippet": "I wish I had a PostgreSQL tool like that. I wished enough to eventually build it. I call it pgstat because I couldn't find a better name for it. It's an online command tool that connects to a database and grabs its activity statistics.",
+            "date": "2015-01-25",
+            "author_name": "Guillaume Lelarge",
+            "tags": "gresql,gleu",
+            "recuweb_url": "http://fr.recuweb.com/blog.guillaume.lelarge.info/2015/01/a-new-vmstat-like-tool-for-postgresql-gleu-s-blog",
+            "resource_url": "http://www.google.com/search?q=postgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.guillaume.lelarge.info/index.php/post/2015/01/25/A-new-vmstat-like-tool-for-PostgreSQL"
+        },
+        "forums.postgresql.fr/2015/01/probl%C3%A8me-lancement-serveur-postgresql-9-4-sous-osx-yosemite": {
+            "title": "Probl\u00e8me lancement serveur postgresql 9.4 sous osx Yosemite...",
+            "snippet": "J'ai install\u00e9 postgre afin de faire fonctionner le logiciel de gestion commerciale openconcerto. installation Open concerto ok. Installation postgresql ok insertion du dump pour faire fonctionner openconcerto sur postgresql ok creation du role et...",
+            "date": "2015-01-06",
+            "author_name": "antoine33",
+            "tags": "gestion,serveur,probl\u00e8me,gresql,logiciel,installation,open",
+            "recuweb_url": "http://fr.recuweb.com/forums.postgresql.fr/2015/01/probl%C3%A8me-lancement-serveur-postgresql-9-4-sous-osx-yosemite",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.postgresql.fr/viewtopic.php?id=3412"
+        },
+        "forums.postgresql.fr/2014/12/serveur-postgresql-page-1-g%C3%A9n%C3%A9ral-forums": {
+            "title": "Serveur postgresql (Page 1)/G\u00e9n\u00e9ral/Forums...",
+            "snippet": "Allow replication connections from localhost, by a user with the replication privilege. local replication postgres peer local replication qualite peer host replication qualite md5 host replication qualite...",
+            "date": "2014-12-11",
+            "author_name": "ruizsebastien",
+            "tags": "replication,gres,local,serveur,gresql,page,forums,localhost",
+            "recuweb_url": "http://fr.recuweb.com/forums.postgresql.fr/2014/12/serveur-postgresql-page-1-g%C3%A9n%C3%A9ral-forums",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.postgresql.fr/viewtopic.php?id=3396"
         },
         "vienergie.wordpress.com/2014/11/pgweb-une-interface-de-gestion-bdd-postgresql-web-based-d%C3%A9velopp%C3%A9e": {
             "title": "PGWEB: UNE INTERFACE DE GESTION DE BDD POSTGRESQL WEB-BASED D\u00c9VELOPP\u00c9E EN GO...",
             "snippet": "SOSEDOFF/PGWEB \u00c2 GITHUB pgweb - Web-based PostgreSQL database browser Langue: Tags: gestion postgresql golang Site officiel...",
             "date": "2014-11-15",
             "author_name": "vienergie",
-            "tags": "gresql,web,gestion",
+            "tags": "gresql,web,gestion,bdd",
             "recuweb_url": "http://fr.recuweb.com/vienergie.wordpress.com/2014/11/pgweb-une-interface-de-gestion-bdd-postgresql-web-based-d%C3%A9velopp%C3%A9e",
-            "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=postgresql&f=feed&page=1",
             "source_url": "http://vienergie.wordpress.com/2014/11/15/pgweb-une-interface-de-gestion-de-bdd-postgresql-web-based-developpee-en-go/"
+        },
+        "forums.postgresql.fr/2014/09/update-la-table-dans-postgresql-avec-php-forums": {
+            "title": "update la table dans postgresql avec php - Forums...",
+            "snippet": "s'il vous plait j'ai un probleme je viens de modifier les champs dans bdd postgresql,en cliquant sur modifier, le resultat me donne connexion OK, modification avec succ\u00e9s mais rien ne change dans ma bdd, aidez moi svp...",
+            "date": "2014-09-27",
+            "author_name": "zohit",
+            "categories": "php",
+            "tags": "bdd,table,gresql,php,forums",
+            "recuweb_url": "http://fr.recuweb.com/php/forums.postgresql.fr/2014/09/update-la-table-dans-postgresql-avec-php-forums",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.postgresql.fr/viewtopic.php?id=3318"
         },
         "regardsurlecloud.wordpress.com/2014/09/installation-de-postgresql-9-3-sur-mac": {
             "title": "Installation de PostgreSQL 9.3 sur Mac...",
@@ -69,8 +100,18 @@
             "author_name": "Duarte TERENCIO",
             "tags": "informations,installation,gresql,base,donn\u00e9es",
             "recuweb_url": "http://fr.recuweb.com/regardsurlecloud.wordpress.com/2014/09/installation-de-postgresql-9-3-sur-mac",
-            "resource_url": "http://fr.search.wordpress.com/?q=postgresql%2Bpostgresql&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=postgresql&f=feed&page=1",
             "source_url": "http://regardsurlecloud.wordpress.com/2014/09/12/installation-de-postgresql-9-3-sur-mac/"
+        },
+        "forums.postgresql.fr/2014/08/probl%C3%A8me-dacc%C3%A8s-au-serveur-et-aux-bases-cr%C3%A9es-page-1-psql": {
+            "title": "probl\u00e8me dacc\u00e8s au serveur et aux bases cr\u00e9es (Page 1)/PSQL...",
+            "snippet": "Au d\u00e9part il y a dans pgAdmin un serveur par d\u00e9faut PostgreSQL 9.3 (x86) (localhost 5432) J'ai donc cr\u00e9e un autre serveur que j'ai appel\u00e9 mon serveur. j'y ai cr\u00e9e une base de donn\u00e9es puis ensuite j'ai voulu utiliser pgsql...",
+            "date": "2014-08-21",
+            "author_name": "trauqnej",
+            "tags": "serveur,donc,d\u00e9faut,probl\u00e8me,bases,base,page,gresql,localhost,donn\u00e9es",
+            "recuweb_url": "http://fr.recuweb.com/forums.postgresql.fr/2014/08/probl%C3%A8me-dacc%C3%A8s-au-serveur-et-aux-bases-cr%C3%A9es-page-1-psql",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bpostgresql&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.postgresql.fr/viewtopic.php?id=3259"
         }
     }
 }
