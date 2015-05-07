@@ -1,7 +1,8 @@
 {
     "meta": {
         "portal_name": "source-chaude",
-        "language": "fr"
+        "language": "fr",
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/source-chaude/",
@@ -10,32 +11,51 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/source-chaude/source-chaude/blogs.json"
     },
     "items": {
-        "routard.com/2015/02/sjour-avec-enfant": {
-            "title": "Sjour avec enfant...",
-            "snippet": "j'ai souvenir d'avoir fait une balade dans le haut de ste rose des douches aussi source chaude. Pour l'horaire vous vous r\u00e9veillerez super t\u00f4t avec le d\u00e9calage et c'est mieux pour les balades aussi et pour les petits bouts il fait moins chaud...",
-            "date": "2015-02-24",
-            "tags": "aussi,source,chaude",
-            "recuweb_url": "http://fr.recuweb.com/routard.com/2015/02/sjour-avec-enfant",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=source%2Bchaude&format=RSS&cc=fr",
-            "source_url": "http://routard.com/forum_message/3820296/sjour_avec_enfant.htm"
+        "nordeclair.fr/2015/05/un-incendie-et-bruit-d-explosion-font-fermer-le-flunch": {
+            "title": "Un incendie et un bruit d'explosion font fermer le Flunch de Leers...",
+            "snippet": "Pr\u00e8s de 400 personnes, selon une source, auraient ainsi vues leurs d\u00e9jeuner \u00e9court\u00e9s. Selon les premiers \u00e9l\u00e9ments recueillis sur les lieux, ce bruit dexplosion pourrait provenir dun d\u00e9but dincendie autour dun ballon deau chaude...",
+            "date": "2015-05-07",
+            "tags": "pourrait,pourrait-provenir,provenir,provenir-dun-d\u00e9but,d\u00e9but,d\u00e9but-dincendie,d\u00e9but-dincendie-autour,dincendie,dincendie-autour,ballon,ballon-deau,deau,premiers,premiers-\u00e9l\u00e9ments,premiers-\u00e9l\u00e9ments-recueillis,\u00e9l\u00e9ments,\u00e9l\u00e9ments-recueillis,recueillis,lieux,auraient,auraient-ainsi,auraient-ainsi-vues,ainsi,ainsi-vues,vues,vues-leurs-d\u00e9jeuner,d\u00e9jeuner,d\u00e9jeuner-\u00e9court\u00e9s,\u00e9court\u00e9s,selon,explosion,fermer,flunch,leers,pr\u00e8s,personnes,source,chaude",
+            "recuweb_url": "http://fr.recuweb.com/nordeclair.fr/2015/05/un-incendie-et-bruit-d-explosion-font-fermer-le-flunch",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsource%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://nordeclair.fr/info-locale/un-incendie-et-un-bruit-d-explosion-font-fermer-le-flunch-jna60b0n726634"
         },
-        "lalibre.be/2015/02/elle-vit-sans-eau-chaude-ni-gaz-depuis-deux-mois": {
-            "title": "Elle vit sans eau chaude ni gaz depuis deux mois -...",
-            "snippet": "vit sans eau chaude ni gaz depuis deux si l'\u00e9lectricit\u00e9 fonctionne, lui permettant de chauffer son eau, les factures envoy\u00e9es par son fournisseur Lampiris sont devenues une source de stress suppl\u00e9mentaire. Celles-ci ont en effet litt\u00e9ralement...",
-            "date": "2015-02-23",
-            "tags": "effet,eau,chaude,source",
-            "recuweb_url": "http://fr.recuweb.com/lalibre.be/2015/02/elle-vit-sans-eau-chaude-ni-gaz-depuis-deux-mois",
-            "resource_url": "http://news.google.fr/?hl=fr&q=source%2Bchaude&output=atom&nord=1",
-            "source_url": "http://lalibre.be/regions/bruxelles/elle-vit-sans-eau-chaude-ni-gaz-depuis-deux-mois-54e7ad4935700d7522b2196e"
+        "ladepeche.fr/2015/05/idrissa-peintre-du-sahel": {
+            "title": "Idrissa, peintre du Sahel...",
+            "snippet": "Depuis quelques jours en France, et plus pr\u00e9cis\u00e9ment... dans sa peinture traduisent la p\u00e9riode chaude que le Sahel conna\u00eet actuellement. Tout comme le Sahel, ma peinture n'est pas fig\u00e9e mais \u00e9volue. Ma source d'inspiration est en Dieu,...",
+            "date": "2015-05-06",
+            "categories": "peinture",
+            "tags": "comme,chaude,source",
+            "recuweb_url": "http://fr.recuweb.com/peinture/ladepeche.fr/2015/05/idrissa-peintre-du-sahel",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsource%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/05/07/2100138-idrissa-peintre-du-sahel.html"
         },
-        "sudouest.fr/2015/02/les-dessous-de-lea-u-mer": {
-            "title": "Les dessous de lea u de mer...",
-            "snippet": "Lorsqu'elle est livr\u00e9e au client, l'eau de mer est aussi claire que de l'eau de source, chaude comme celle d'un geyser et saine comme l'entend l'Agence r\u00e9gionale de sant\u00e9. En effet, on ne plaisante pas avec l'hygi\u00e8ne: un laboratoire...",
-            "date": "2015-02-17",
-            "tags": "aussi,eau,source,chaude,effet",
-            "recuweb_url": "http://fr.recuweb.com/sudouest.fr/2015/02/les-dessous-de-lea-u-mer",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=source%2Bchaude&format=RSS&cc=fr",
-            "source_url": "http://sudouest.fr/2015/02/18/les-dessous-de-l-ea-u-de-mer-1833414-3944.php"
+        "metronews.fr/2015/05/on-a-go%C3%BBt%C3%A9-le-soda-made-in-cannes-invent%C3%A9": {
+            "title": "On a go\u00fbt\u00e9 le soda made in Cannes invent\u00e9 par des Franco-Russes...",
+            "snippet": "A l'eau de source Deux ans plus tard, ils lan\u00e7aient leur Russia Cola. Pourquoi Russia? Nous sommes partis de la recette russe du Zavarka, qui est un concentr\u00e9 de th\u00e9 noir tr\u00e8s fort, auquel on ajoute de l'eau chaude pour le boire. Nous avons...",
+            "date": "2015-05-06",
+            "tags": "tard,eau,source,chaude",
+            "recuweb_url": "http://fr.recuweb.com/metronews.fr/2015/05/on-a-go%C3%BBt%C3%A9-le-soda-made-in-cannes-invent%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsource%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://metronews.fr/nice-cannes/on-a-goute-le-soda-made-in-cannes-invente-par-des-franco-russes/moef!HkZ6ra6ifGSM/"
+        },
+        "lavoixdunord.fr/2015/05/une-explosion-fait-fermer-le-flunch-de-leers": {
+            "title": "Une explosion fait fermer le Flunch de Leers...",
+            "snippet": "Pr\u00e8s de 400 personnes, selon une source, auraient ainsi vues leurs d\u00e9jeuner \u00e9court\u00e9s. Selon les premiers \u00e9l\u00e9ments recueillis sur les lieux, lexplosion pourrait provenir dun d\u00e9but dincendie autour dun ballon deau chaude install\u00e9 dans...",
+            "date": "2015-05-06",
+            "tags": "pourrait,pourrait-provenir,provenir,provenir-dun-d\u00e9but,d\u00e9but,d\u00e9but-dincendie,d\u00e9but-dincendie-autour,dincendie,dincendie-autour,ballon,ballon-deau,deau,premiers,premiers-\u00e9l\u00e9ments,premiers-\u00e9l\u00e9ments-recueillis,\u00e9l\u00e9ments,\u00e9l\u00e9ments-recueillis,recueillis,lieux,auraient,auraient-ainsi,auraient-ainsi-vues,ainsi,ainsi-vues,vues,vues-leurs-d\u00e9jeuner,d\u00e9jeuner,d\u00e9jeuner-\u00e9court\u00e9s,\u00e9court\u00e9s,selon,explosion,fermer,flunch,leers,pr\u00e8s,personnes,source,chaude",
+            "recuweb_url": "http://fr.recuweb.com/lavoixdunord.fr/2015/05/une-explosion-fait-fermer-le-flunch-de-leers",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsource%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://lavoixdunord.fr/region/une-explosion-fait-fermer-le-flunch-de-leers-ia24b58795n2812773"
+        },
+        "leparisien.fr/2015/05/imp%C3%B4ts-2015-les-principaux-changements": {
+            "title": "Imp\u00f4ts 2015: les principaux changements...",
+            "snippet": "Le cr\u00e9dit dimp\u00f4t accord\u00e9 pour les \u00e9quipements de production d\u00e9lectricit\u00e9, deau chaude ou de chauffage utilisant une source d\u00e9nergie renouvelable - \u00e9olien, hydraulique ou solaire - est au taux unique de 30%. Paiement en esp\u00e8ces: 300...",
+            "date": "2015-05-05",
+            "tags": "deau,chaude,source",
+            "recuweb_url": "http://fr.recuweb.com/leparisien.fr/2015/05/imp%C3%B4ts-2015-les-principaux-changements",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsource%2Bchaude&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/economie/impots/impots-2015-les-principaux-changements-05-05-2015-4747909.php"
         }
     }
 }
