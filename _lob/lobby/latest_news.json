@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lobby",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lobby/",
@@ -11,22 +11,12 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lobby/lobby/blogs.json"
     },
     "items": {
-        "lalettrea.fr/2015/04/le-lobby-du-gaz-a-tir%C3%A9-profit-de-la-loi-%C3%A9nergie": {
-            "title": "Le lobby du gaz a tir\u00e9 profit de la loi \u00e9nergie - La Lettre A (Abonnement)...",
-            "snippet": "Le lobby du gaz a tir\u00e9 profit de la loi \u00e9nergieLa Lettre A (Abonnement)L'offensive de l'Association fran\u00e7aise du gaz (AFG), le syndicat qui repr\u00e9sente notamment Total, Engie et ses filiales GrDF et GRTgaz, a port\u00e9 ses fruits. La commission...",
-            "date": "2015-04-30",
-            "categories": "lobby",
-            "tags": "gaz,loi,lobby,association",
-            "recuweb_url": "http://fr.recuweb.com/lobby/lalettrea.fr/2015/04/le-lobby-du-gaz-a-tir%C3%A9-profit-de-la-loi-%C3%A9nergie",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lobby&output=atom&nord=1",
-            "source_url": "http://lalettrea.fr/action-publique/2015/04/30/le-lobby-du-gaz-a-tire-profit-de-la-loi-energie,108071437-ARL"
-        },
         "ledevoir.com/2015/04/les-lobbys-saffrontent-autour-de-la-voiture-%C3%A9lectrique": {
             "title": "Les lobbys saffrontent autour de la voiture \u00e9lectrique...",
             "snippet": "Les partisans de la voiture \u00e9lectrique (VE) veulent faire contrepoids au lobby automobile. Les constructeurs refusent doffrir tous les mod\u00e8les de VE, comme le-Golf et la Honda Fit, font-ils valoir, et Qu\u00e9bec doit les forcer par une loi. Tandis...",
             "date": "2015-04-27",
             "categories": "lobby,golf",
-            "tags": "loi,lobbys,lobby",
+            "tags": "lobbys,lobby",
             "recuweb_url": "http://fr.recuweb.com/golf/ledevoir.com/2015/04/les-lobbys-saffrontent-autour-de-la-voiture-%C3%A9lectrique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=fr",
             "source_url": "http://ledevoir.com/politique/quebec/438431/sur-la-route-choc-des-lobbys-autour-de-la-voiture-electrique"
@@ -36,7 +26,7 @@
             "snippet": "d\u00e9fendre limage dIsra\u00ebl lorsquelle est diffam\u00e9e 1. Cette association, qui travaille sous couvert de lutte contre lantis\u00e9mitisme, est en r\u00e9alit\u00e9 une officine proche du gouvernement dextr\u00eame-droite isra\u00e9lien. Elle lexprime elle...",
             "date": "2015-04-26",
             "categories": "lobby",
-            "tags": "lobby,association",
+            "tags": "lobby",
             "recuweb_url": "http://fr.recuweb.com/lobby/egaliteetreconciliation.fr/2015/04/en-suisse-aussi-le-lobby-isra%C3%A9lien-lutte-contre-la-libert%C3%A9-dexpression",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lobby&format=RSS&cc=fr",
             "source_url": "http://egaliteetreconciliation.fr/En-Suisse-aussi-le-lobby-israelien-lutte-contre-la-liberte-d-expression-32564.html"
@@ -56,10 +46,20 @@
             "snippet": "EurActiv FranceLe lobby du gaz de schiste noyaute un groupe d'experts de la...EurActiv FranceLe 15 avril, l'ONG des Amis de la Terre a cependant accus\u00e9 l'organisation d'\u00eatre en fait un lobby interne pour le gaz de schiste dans la strat\u00e9gie...",
             "date": "2015-04-16",
             "categories": "lobby",
-            "tags": "gaz,lobby,avril,\u00eatre",
+            "tags": "\u00eatre,groupe,lobby,avril",
             "recuweb_url": "http://fr.recuweb.com/lobby/euractiv.fr/2015/04/le-lobby-du-gaz-de-schiste-noyaute-un-groupe-d-experts",
             "resource_url": "http://news.google.fr/?hl=fr&q=lobby&output=atom&nord=1",
             "source_url": "http://euractiv.fr/sections/energie/le-lobby-du-gaz-de-schiste-noyaute-un-groupe-dexpert-de-la-commission-313836"
+        },
+        "recordonline.com/2015/02/a-throwback-to-the-past-needs-some-sprucing-up-times-herald": {
+            "title": "A throwback to the past needs some sprucing up - Times Herald-Record...",
+            "snippet": "A throwback to the past needs some sprucing upTimes Herald-RecordBinkowski is prepared to lobby big-time basketball power brokers, Cleveland Cavaliers owner Dan Gilbert and Dallas Mavericks owner Mark Cuban, to see if they'll offer any financial...",
+            "date": "2015-02-22",
+            "categories": "lobby",
+            "tags": "lobby",
+            "recuweb_url": "http://fr.recuweb.com/lobby/recordonline.com/2015/02/a-throwback-to-the-past-needs-some-sprucing-up-times-herald",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Blobby&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150222/SPORTS/150229837/101124/SPORTS"
         }
     }
 }
