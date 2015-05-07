@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "litterature",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/litterature/",
@@ -11,25 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/litterature/litterature/blogs.json"
     },
     "items": {
+        "bienpublic.com/2015/05/france-litt%C3%A9rature-guillaume-musso-je-suis-un-raconteur-dhistoires": {
+            "title": "France - Litt\u00e9rature Guillaume Musso: Je suis un raconteur dhistoires...",
+            "snippet": "Votre dernier livre, Linstant pr\u00e9sent, d\u00e9bute comme un roman fantastique, mais on oublie vite le surnaturel pour se concentrer sur les relations entre les personnages. Lhumain, cest lessentiel? Le surnaturel est un pr\u00e9texte. Cest...",
+            "date": "2015-05-03",
+            "categories": "surnaturel,litterature",
+            "tags": "vite,litt\u00e9rature,france,livre",
+            "recuweb_url": "http://fr.recuweb.com/litterature/bienpublic.com/2015/05/france-litt%C3%A9rature-guillaume-musso-je-suis-un-raconteur-dhistoires",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=litterature&format=RSS&cc=fr",
+            "source_url": "http://bienpublic.com/actualite/2015/05/03/guillaume-musso-je-suis-un-raconteur-d-histoires"
+        },
         "lejsl.com/2015/05/saint-vallier-tout-savoir-sur-la-litt%C3%A9rature-jeunesse-le-jsl": {
             "title": "Saint-Vallier Tout savoir sur la litt\u00e9rature jeunesse - Le JSL...",
             "snippet": "Saint-Vallier Tout savoir sur la litt\u00e9rature jeunesseLe JSLComme chaque ann\u00e9e, la biblioth\u00e8que d\u00e9partementale de Sa\u00f4ne-et-Loire et la biblioth\u00e8que municipale de Saint-Vallier organisent une journ\u00e9e de formation sur la litt\u00e9rature jeunesse.",
             "date": "2015-05-02",
             "categories": "litterature",
-            "tags": "journ\u00e9e,litt\u00e9rature",
+            "tags": "journ\u00e9e,ann\u00e9e,savoir,litt\u00e9rature,jeunesse",
             "recuweb_url": "http://fr.recuweb.com/litterature/lejsl.com/2015/05/saint-vallier-tout-savoir-sur-la-litt%C3%A9rature-jeunesse-le-jsl",
-            "resource_url": "http://news.google.fr/?hl=fr&q=litterature%2Blitterature&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=litterature&output=atom&nord=1",
             "source_url": "http://lejsl.com/edition-montceau/2015/05/02/tout-savoir-sur-la-litterature-jeunesse"
         },
-        "acadienouvelle.com/2015/05/le-festival-frye-honore-la-litt%C3%A9rature-acadienne-acadie-nouvelle-abonnement": {
-            "title": "Le Festival Frye honore la litt\u00e9rature acadienne - Acadie Nouvelle (Abonnement)...",
-            "snippet": "Acadie Nouvelle (Abonnement)Le Festival Frye honore la litt\u00e9rature acadienneAcadie Nouvelle (Abonnement)MONCTON Peut-on discuter de litt\u00e9rature acadienne en \u00e9vitant l'enjeu linguistique? Cette incontournable question a \u00e9t\u00e9 au c\u0153ur des...",
-            "date": "2015-05-01",
-            "categories": "linguistique,litterature",
-            "tags": "litt\u00e9rature",
-            "recuweb_url": "http://fr.recuweb.com/litterature/acadienouvelle.com/2015/05/le-festival-frye-honore-la-litt%C3%A9rature-acadienne-acadie-nouvelle-abonnement",
-            "resource_url": "http://news.google.fr/?hl=fr&q=litterature%2Blitterature&output=atom&nord=1",
-            "source_url": "http://acadienouvelle.com/arts-et-spectacles/2015/05/01/le-festival-frye-honore-la-litterature-acadienne/"
+        "fabula.org/2015/05/%C3%A9tudes-litt%C3%A9raires-45-2-montr%C3%A9al-paris-marseille-la-ville-dans-fabula": {
+            "title": "\u00c9tudes litt\u00e9raires, 45.2: Montr\u00e9al, Paris, Marseille: la ville dans la... - Fabula...",
+            "snippet": "\u00c9tudes litt\u00e9raires, 45.2: Montr\u00e9al, Paris, Marseille: la ville dans la...FabulaR\u00e9f\u00e9rence bibliographique: Revue \u00c9tudes litt\u00e9raires, vol. 45.2 Montr\u00e9al, Paris, Marseille: la ville dans la litt\u00e9rature et le cin\u00e9ma contemporains. Plus vite...",
+            "date": "2015-05-02",
+            "categories": "litterature",
+            "tags": "paris,litt\u00e9rature,vite",
+            "recuweb_url": "http://fr.recuweb.com/litterature/fabula.org/2015/05/%C3%A9tudes-litt%C3%A9raires-45-2-montr%C3%A9al-paris-marseille-la-ville-dans-fabula",
+            "resource_url": "http://news.google.fr/?hl=fr&q=litterature&output=atom&nord=1",
+            "source_url": "http://fabula.org/actualites/revue-etudes-litterairesvol-452-montreal-paris-marseille-la-ville-dans-la-litterature-et-le-cinema_68342.php"
         }
     }
 }
