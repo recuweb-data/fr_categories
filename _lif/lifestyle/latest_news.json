@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lifestyle",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lifestyle/",
@@ -11,45 +11,55 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lifestyle/lifestyle/blogs.json"
     },
     "items": {
-        "varmatin.com/2015/05/l-annuaire-du-var-votre-nouveau-magazine-lifestyle": {
-            "title": "L'annuaire du Var, votre nouveau... magazine lifestyle...",
-            "snippet": "Un nouveau magazine lifestyle doit bient\u00f4t para\u00eetre dans le Var. PagesJaunes Vivre Ici, lanc\u00e9 par l'annuaire du m\u00eame nom, doit mettre en avant artisans, producteurs et commer\u00e7ants locaux. Mettre en avant les artisans, producteurs et...",
-            "date": "2015-05-01",
-            "categories": "lifestyle",
-            "tags": "pagesjaunes,magazine,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/varmatin.com/2015/05/l-annuaire-du-var-votre-nouveau-magazine-lifestyle",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=fr",
-            "source_url": "http://varmatin.com/var/lannuaire-du-var-votre-nouveau-magazine-lifestyle.2133495.html"
-        },
-        "20min.ch/2015/05/surfeurs-de-l-extr%C3%AAme-au-nord-du-cercle-arctique-20-minutes": {
-            "title": "Surfeurs de l'extr\u00eame au nord du cercle arctique - 20 Minutes...",
-            "snippet": "Surfeurs de l'extr\u00eame au nord du cercle arctique20 MinutesLifestyle Tendances Auto Horoscope Dossier Cuisine Cellier Musique News Clip du jour Concerts & parties Festivals Agenda Dossiers Cin\u00e9ma Actualit\u00e9s Dossier 20 minutes movie. Plus. M\u00e9t\u00e9o...",
-            "date": "2015-05-01",
+        "20min.ch/2015/05/alerte-sur-les-produits-amincissants-dangereux-20-minutes": {
+            "title": "Alerte sur les produits amincissants dangereux - 20 Minutes...",
+            "snippet": "20 MinutesAlerte sur les produits amincissants dangereux20 MinutesLifestyle Tendances Auto Horoscope Dossier Cuisine Cellier Musique News Clip du jour Concerts & parties Festivals Agenda Dossiers Cin\u00e9ma Actualit\u00e9s Dossier 20 minutes movie. Plus.",
+            "date": "2015-05-05",
             "categories": "musique,clip",
-            "tags": "tendances,cuisine,musique",
-            "recuweb_url": "http://fr.recuweb.com/clip/20min.ch/2015/05/surfeurs-de-l-extr%C3%AAme-au-nord-du-cercle-arctique-20-minutes",
+            "tags": "tendances,cuisine,musique,concerts",
+            "recuweb_url": "http://fr.recuweb.com/clip/20min.ch/2015/05/alerte-sur-les-produits-amincissants-dangereux-20-minutes",
             "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://20min.ch/ro/life/lifestyle/story/Surfeurs-de-l-extr-me-au-nord-du-cercle-arctique-13856146"
+            "source_url": "http://20min.ch/ro/life/lifestyle/story/Alerte-sur-les-produits-amincissants-dangereux-14497039"
         },
-        "parisbouge.com/2015/04/foire-de-paris-2015-le-rendez-vous-food-d%C3%A9co-et-lifestyle": {
-            "title": "Foire de Paris 2015: le rendez-vous food, d\u00e9co et lifestyle - ParisBouge...",
-            "snippet": "Foire de Paris 2015: le rendez-vous food, d\u00e9co et lifestyleParisBougeCette ann\u00e9e pour sa 111\u00e8me \u00e9dition, la Foire de Paris se d\u00e9roulera du 29 avril au 10 mai au parc des expositions de Versailles. Avec 3500 exposants sur 220 000 m\u00e8tres...",
-            "date": "2015-04-24",
-            "categories": "lifestyle",
-            "tags": "lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/parisbouge.com/2015/04/foire-de-paris-2015-le-rendez-vous-food-d%C3%A9co-et-lifestyle",
-            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
-            "source_url": "http://parisbouge.com/mag/articles/foire-de-paris-2015-le-rendez-vous-food-deco-et-lifestyle-2129"
-        },
-        "ladn.eu/2015/04/pagesjaunes-lance-un-magazine-gratuit-lifestyle": {
-            "title": "PagesJaunes lance un magazine gratuit lifestyle...",
-            "snippet": "Tous les jours, faire passer l'actualit\u00e9 de la com'Rep\u00e9rer ce qui change, souffler sur ce qui bouge, souligner les tendances, faire le plein de contacts. Pour avoir de l'esprit, il faut de la matiere Tous les jours, l'essentiel de la com', les...",
-            "date": "2015-04-21",
-            "categories": "lifestyle",
-            "tags": "tendances,passer,magazine,pagesjaunes,lifestyle",
-            "recuweb_url": "http://fr.recuweb.com/lifestyle/ladn.eu/2015/04/pagesjaunes-lance-un-magazine-gratuit-lifestyle",
+        "zonebourse.com/2015/05/kering-todd-hymel-est-nomm%C3%A9-ceo-des-marques-daction-sports": {
+            "title": "KERING: Todd Hymel est nomm\u00e9 CEO des marques dAction Sports...",
+            "snippet": "De nationalit\u00e9 franco-am\u00e9ricaine, Todd Hymel a rejoint Kering en 2008 en tant que Directeur adjoint Fusions & Acquisitions avant d'\u00eatre nomm\u00e9 Chief Operating Officer du p\u00f4le Sport & Lifestyle en janvier 2012. Il est membre du Conseil...",
+            "date": "2015-05-05",
+            "categories": "sport,lifestyle",
+            "tags": "avant,sports,sport,lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/zonebourse.com/2015/05/kering-todd-hymel-est-nomm%C3%A9-ceo-des-marques-daction-sports",
             "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=fr",
-            "source_url": "http://ladn.eu/actualites/media,pagesjaunes-lance-magazine-gratuit-lifestyle,31,26024.html"
+            "source_url": "http://zonebourse.com/KERING-4683/actualite/KERING--Todd-Hymel-est-nomme-CEO-des-marques-drsquoAction-Sports-20319190/"
+        },
+        "fr.audiofanzine.com/2015/05/bose-lifestyle-5-piste-center-ne-marche": {
+            "title": "Bose - Lifestyle 5 - Piste Center ne marche pas?",
+            "snippet": "Je me suis rendu compte que l'enceinte centrale de mon syst\u00e8me Bose Lifestyle 5.1 ne marchait plus. J'ai pris le cble et l'enceinte centrale que j'ai mis sur la piste left. Ces deux \u00e9l\u00e9ments semblent parfaitement fonctionnels lorsque je les...",
+            "date": "2015-05-03",
+            "categories": "lifestyle",
+            "tags": "rendu,compte,lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/fr.audiofanzine.com/2015/05/bose-lifestyle-5-piste-center-ne-marche",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=lifestyle&format=RSS&cc=fr",
+            "source_url": "http://fr.audiofanzine.com/sono/forums/t.594017,bose-lifestyle-5-piste-quot-center-quot-ne-marche-pas.html"
+        },
+        "peopleinside.fr/2015/05/jennifer-lopez-lance-lifestyle-bodylab-faire-des-%C3%A9carts": {
+            "title": "Jennifer Lopez lance lifestyle BodyLab: Faire des \u00e9carts dans un... -...",
+            "snippet": "Lopez lance lifestyle BodyLab: Faire des \u00e9carts dans un.... La chanteuse se paye les meilleurs entra\u00eeneurs et elle a envie de partager ses secrets en lan\u00e7ant sa marque lifestyle BodyLab. Jennifer Lopez propose un d\u00e9fi BeTheGirl. L'\u00e9t\u00e9 arrive,...",
+            "date": "2015-05-03",
+            "categories": "lifestyle",
+            "tags": "partager,lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/peopleinside.fr/2015/05/jennifer-lopez-lance-lifestyle-bodylab-faire-des-%C3%A9carts",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
+            "source_url": "http://peopleinside.fr/jennifer-lopez-lance-lifestyle-bodylab-faire-des-ecarts-dans-un-regime-cest-tout-a-fait-normal/news/87604"
+        },
+        "varmatin.com/2015/05/l-annuaire-du-var-votre-nouveau-magazine-lifestyle-matin": {
+            "title": "L'annuaire du Var, votre nouveau... magazine lifestyle - Var-Matin...",
+            "snippet": "L'annuaire du Var, votre nouveau... magazine lifestyleVar-MatinMettre en avant les artisans, producteurs et commer\u00e7ants locaux: c'est le fil rouge d'un nouveau magazine lifestyle, qui doit bient\u00f4t para\u00eetre dans le Var. PagesJaunes Vivre Ici est...",
+            "date": "2015-05-01",
+            "categories": "lifestyle",
+            "tags": "avant,lifestyle",
+            "recuweb_url": "http://fr.recuweb.com/lifestyle/varmatin.com/2015/05/l-annuaire-du-var-votre-nouveau-magazine-lifestyle-matin",
+            "resource_url": "http://news.google.fr/?hl=fr&q=lifestyle&output=atom&nord=1",
+            "source_url": "http://varmatin.com/var/lannuaire-du-var-votre-nouveau-magazine-lifestyle.2133495.html"
         }
     }
 }
