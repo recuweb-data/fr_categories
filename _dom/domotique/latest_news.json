@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "domotique",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/domotique/",
@@ -11,12 +11,22 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/domotique/domotique/blogs.json"
     },
     "items": {
+        "batipresse.com/2015/05/premier-anniversaire-et-nouveau-design-pour-construire-tendance": {
+            "title": "Premier anniversaire et nouveau design pour Construire Tendance...",
+            "snippet": "Une fa\u00e7on comme une autre de se faire conna\u00eetre du grand public. Et bien \u00e9videmment, les communiqu\u00e9s de presse des entreprises du secteur des mat\u00e9riaux et \u00e9quipements du btiment, de la d\u00e9coration et de la domotique sont les bienvenus.",
+            "date": "2015-05-03",
+            "categories": "domotique",
+            "tags": "comme,public,domotique",
+            "recuweb_url": "http://fr.recuweb.com/domotique/batipresse.com/2015/05/premier-anniversaire-et-nouveau-design-pour-construire-tendance",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
+            "source_url": "http://batipresse.com/2015/05/03/premier-anniversaire-et-nouveau-design-pour-construire-tendance/"
+        },
         "lemoniteur.fr/2015/04/a-toulouse-une-r%C3%A9sidence-mixte-accueillant-seniors-et-personnes-en-situation": {
             "title": "A Toulouse, une r\u00e9sidence mixte accueillant seniors et personnes en situation de handicap...",
             "snippet": "Habitat Toulouse, principal bailleur social de la ville rose, a inaugur\u00e9 le 29 avril une op\u00e9ration de 28 logements, dont 12 \u00e9quip\u00e9s de domotique pour accueillir des handicap\u00e9s moteur. Loffice public de lhabitat a \u00e9labor\u00e9 le projet en...",
             "date": "2015-04-30",
             "categories": "handicap,domotique",
-            "tags": "projet,\u00e9quip\u00e9s,ville,logements,domotique",
+            "tags": "public,projet,\u00e9quip\u00e9s,ville,logements,domotique",
             "recuweb_url": "http://fr.recuweb.com/domotique/lemoniteur.fr/2015/04/a-toulouse-une-r%C3%A9sidence-mixte-accueillant-seniors-et-personnes-en-situation",
             "resource_url": "http://www.bing.com/news/search?first=1&q=domotique&format=RSS&cc=fr",
             "source_url": "http://lemoniteur.fr/article/a-toulouse-une-residence-mixte-accueillant-seniors-et-personnes-en-situation-de-handicap-28413543"
@@ -30,6 +40,16 @@
             "recuweb_url": "http://fr.recuweb.com/domotique/maison-et-domotique.com/2015/04/chiffrez-le-cout-de-votre-installation-domotique-maison",
             "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
             "source_url": "http://maison-et-domotique.com/54968-smarthome-fr-chiffrez-le-cout-de-votre-installation-domotique/"
+        },
+        "batirama.com/2015/04/l-avenir-de-la-domotique-c-est-commande-vocale": {
+            "title": "L'avenir de la domotique, c'est la commande vocale! -...",
+            "snippet": "'avenir de la domotique, c'est la commande vocale! un syst\u00e8me domotique, on trouve plusieurs parties. Celle que l'on voit tout de suite est le contr\u00f4le-commande, le moyen par lequel on donne des ordres au syst\u00e8me et on v\u00e9rifie son...",
+            "date": "2015-04-14",
+            "categories": "domotique",
+            "tags": "contr\u00f4le,domotique,syst\u00e8me",
+            "recuweb_url": "http://fr.recuweb.com/domotique/batirama.com/2015/04/l-avenir-de-la-domotique-c-est-commande-vocale",
+            "resource_url": "http://news.google.fr/?hl=fr&q=domotique&output=atom&nord=1",
+            "source_url": "http://batirama.com/article/10840-l-avenir-de-la-domotique-c-est-la-commande-vocale.html"
         }
     }
 }
