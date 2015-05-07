@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "blogs",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/blogs/",
@@ -16,9 +16,9 @@
             "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements. Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9. Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
             "date": "2015-04-28",
             "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
-            "tags": "mettre,fin",
+            "tags": "d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,mettre,coulisses,bruxelles,fin,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,lib\u00e9,accueil",
             "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/04/coulisses-de-bruxelles-il-faut-mettre-fin-au-secret-des-n%C3%A9gociations",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/27/il-faut-mettre-fin-au-secret-des-negociations-entre-la-grece-et-la-zone-euro/"
         },
         "cafe-sciences.org/2015/04/veille-de-blogs-la-semaine-du-20-04-au-26-2015": {
@@ -27,10 +27,30 @@
             "date": "2015-04-26",
             "author_name": "Dr Eric SIMON",
             "categories": "science",
-            "tags": "semaine",
+            "tags": "image,semaine,veille",
             "recuweb_url": "http://fr.recuweb.com/science/cafe-sciences.org/2015/04/veille-de-blogs-la-semaine-du-20-04-au-26-2015",
-            "resource_url": "http://www.google.com/search?q=blogs%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://cafe-sciences.org/billets/veille-de-blogs-de-la-semaine-du-2004-au-26042015/"
+        },
+        "frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis": {
+            "title": "Les blogs de la semaine sont... Tests & Cie et Vis ma vie... - FrAndroid...",
+            "snippet": "Devant leur (r\u00e9-)activit\u00e9, nous souhaitons mettre en avant deux blogueurs parmi ceux qui comptent parmi les plus actifs et pertinents de la communaut\u00e9 FrAndroid. Cette semaine, parlons du blog Tests & Cie tenu par David et...",
+            "date": "2015-04-21",
+            "author_name": "alban",
+            "tags": "mettre,avant,deux,blogueurs,semaine",
+            "recuweb_url": "http://fr.recuweb.com/frandroid.com/2015/04/les-blogs-de-la-semaine-sont-tests-&-cie-et-vis",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://frandroid.com/humanoid/279199_les-blogs-de-la-semaine-sont-tests-cie-et-vis-ma-vie-de-developpeur"
+        },
+        "bruxelles.blogs.liberation.fr/2015/03/le-monolinguisme-anglophone-une-mauvaise-action-contre-l-europe": {
+            "title": "Le monolinguisme anglophone, une mauvaise action contre l'Europe...",
+            "snippet": "... Vous D\u00e9sintox Tchats Forums th\u00e9matiques \u00c9v\u00e9nements. Se d\u00e9connecter Se connecter S'inscrire La une Lib\u00e9. Coulisses de Bruxelles. Coulisses de Bruxelles. Accueil;; Blogs;; Coulisses de Bruxelles...",
+            "date": "2015-03-31",
+            "author_name": "j.quatremer@libe.fr (Jean Quatremer)",
+            "tags": "d\u00e9sintox,d\u00e9sintox_tchats,d\u00e9sintox_tchats_forums,tchats,tchats_forums,forums,th\u00e9matiques,\u00e9v\u00e9nements,d\u00e9connecter,connecter,inscrire,lib\u00e9,coulisses,bruxelles,accueil",
+            "recuweb_url": "http://fr.recuweb.com/bruxelles.blogs.liberation.fr/2015/03/le-monolinguisme-anglophone-une-mauvaise-action-contre-l-europe",
+            "resource_url": "http://www.google.com/search?q=blogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://bruxelles.blogs.liberation.fr/2015/04/01/le-monolinguisme-anglophone-une-mauvaise-action-contre-leurope/"
         },
         "knittedart.wordpress.com/2014/08/recommended-blogs-recommand%C3%A9s": {
             "title": "Recommended blogs/Blogs recommand\u00e9s...",
@@ -38,8 +58,18 @@
             "date": "2014-08-06",
             "author_name": "lamaisonbisoux",
             "recuweb_url": "http://fr.recuweb.com/knittedart.wordpress.com/2014/08/recommended-blogs-recommand%C3%A9s",
-            "resource_url": "http://fr.search.wordpress.com/?q=blogs%2Bblogs&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=blogs&f=feed&page=1",
             "source_url": "http://knittedart.wordpress.com/2014/08/06/recommended-blogs-blogs-recommandes-9/"
+        },
+        "forum.dotclear.org/2012/08/recopie-d-un-blog-sur-site-distant-vers-local-localhost-page": {
+            "title": "recopie d'un blog sur site distant vers site local (localhost) (Page 1...",
+            "snippet": "Bonjour. J'ai un multiblog qui fonctionne - presque - comme je veux (). Je voudrais en avoir une image en local (localhost). J'ai essay\u00e9 plein de trucs et rien ne marche. Comment faire? Merci. nb: - apache et pg ok...",
+            "date": "2012-08-01",
+            "author_name": "bofy",
+            "tags": "plein,image,comme,presque",
+            "recuweb_url": "http://fr.recuweb.com/forum.dotclear.org/2012/08/recopie-d-un-blog-sur-site-distant-vers-local-localhost-page",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bblogs&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dotclear.org/viewtopic.php?id=46374"
         }
     }
 }
