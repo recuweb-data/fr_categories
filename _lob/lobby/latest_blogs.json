@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "lobby",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/lobby/",
@@ -11,17 +11,6 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/lobby/lobby/blogs.json"
     },
     "items": {
-        "slate.fr/2015/03/plong%C3%A9e-dans-le-monde-fascinant-du-lobby-de-la-pizza-aupr%C3%A8s": {
-            "title": "Plong\u00e9e dans le monde fascinant du lobby de la pizza aupr\u00e8s des...",
-            "snippet": "A Washington, les fabricants de pizzas, qui \u00e9coulent l'\u00e9quivalent de 41 millions de parts par jour aux Etats-Unis, ont leur propre lobby, l'American Pizza Community, active depuis 2010. Rep\u00e9r\u00e9 par Reader, un article...",
-            "date": "2015-03-06",
-            "author_name": "jlcassely",
-            "categories": "lobby",
-            "tags": "article,monde,lobby",
-            "recuweb_url": "http://fr.recuweb.com/lobby/slate.fr/2015/03/plong%C3%A9e-dans-le-monde-fascinant-du-lobby-de-la-pizza-aupr%C3%A8s",
-            "resource_url": "http://www.google.com/search?q=lobby%2Blobby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://slate.fr/story/98773/lobby-chaines-pizza-americaines"
-        },
         "ivision18000.wordpress.com/2015/02/dale-chihuly-glass-sculpture-lobby-of-the-atlantis-dubai": {
             "title": "Dale Chihuly, glass sculpture. Lobby of The Atlantis, Dubai.",
             "snippet": "New blog post from Rich on Tumblr! Dale Chihuly, glass sculpture. Lobby of The Atlantis, Dubai. green_messageSource:/green_message Follow me on Facebook at...",
@@ -30,8 +19,19 @@
             "categories": "sculpture,lobby,tumblr,facebook",
             "tags": "lobby,facebook",
             "recuweb_url": "http://fr.recuweb.com/facebook/ivision18000.wordpress.com/2015/02/dale-chihuly-glass-sculpture-lobby-of-the-atlantis-dubai",
-            "resource_url": "http://fr.search.wordpress.com/?q=lobby%2Blobby&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=lobby&f=feed&page=1",
             "source_url": "http://ivision18000.wordpress.com/2015/02/07/dale-chihuly-glass-sculpture-lobby-of-the-atlantis-dubai/"
+        },
+        "serveur2jeu.info/2014/11/minecraft-installation-de-bungeecord-serveur2jeu": {
+            "title": "Minecraft Installation de BungeeCord Serveur2Jeu...",
+            "snippet": "lobby: address: localhost:25565 restricted: false motd: '&1Just another BungeeCord - Forced Host'. Remplacer par: Serveur Minecraft Spigot: Alpha alpha: address: restricted: false motd: '&1Serveur...",
+            "date": "2014-11-16",
+            "author_name": "administrateur",
+            "categories": "lobby",
+            "tags": "jeu,lobby,localhost",
+            "recuweb_url": "http://fr.recuweb.com/lobby/serveur2jeu.info/2014/11/minecraft-installation-de-bungeecord-serveur2jeu",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Blobby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://serveur2jeu.info/minecraft-installation-de-bungeecord/"
         },
         "elaquitaine.wordpress.com/2014/11/le-lobby-agrolimentaire": {
             "title": "Le Lobby agrolimentaire.",
@@ -41,7 +41,7 @@
             "categories": "lobby",
             "tags": "lobby",
             "recuweb_url": "http://fr.recuweb.com/lobby/elaquitaine.wordpress.com/2014/11/le-lobby-agrolimentaire",
-            "resource_url": "http://fr.search.wordpress.com/?q=lobby%2Blobby&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=lobby&f=feed&page=1",
             "source_url": "http://elaquitaine.wordpress.com/2014/11/13/le-lobby-agrolimentaire/"
         },
         "netromain.wordpress.com/2014/06/le-lobby-gay": {
@@ -50,10 +50,54 @@
             "date": "2014-06-17",
             "author_name": "netromain",
             "categories": "lobby,facebook",
-            "tags": "article,contre,lobby,facebook",
+            "tags": "contre,page,lobby,facebook",
             "recuweb_url": "http://fr.recuweb.com/facebook/netromain.wordpress.com/2014/06/le-lobby-gay",
-            "resource_url": "http://fr.search.wordpress.com/?q=lobby%2Blobby&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=lobby&f=feed&page=1",
             "source_url": "http://netromain.wordpress.com/2014/06/17/le-lobby-gay/"
+        },
+        "forum.crystal-serv.com/2014/04/plugin-skywars-page-1-les-plugins-forum": {
+            "title": "Plugin SkyWars (Page 1)/Les plugins/Forum...",
+            "snippet": "lobby: world: spawn spawn: radius: 0 score: per-kill: 3 per-win: 10 on-death: -1 on-leave: -1 groups: example: per-kill: 3 per-win: 10 on-death: -1 on-leave: -1 schematics: schematic-name: min-players: 2 timer: 11... data-storage: FILE database:...",
+            "date": "2014-04-06",
+            "author_name": "gaugau29350",
+            "categories": "lobby",
+            "tags": "page,lobby",
+            "recuweb_url": "http://fr.recuweb.com/lobby/forum.crystal-serv.com/2014/04/plugin-skywars-page-1-les-plugins-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Blobby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.crystal-serv.com/viewtopic.php?id=2418"
+        },
+        "securelogmein.blogspot.com/2013/04/secure-keyges-and-cracks-microsoft-office-proplus-vl-x64": {
+            "title": "Secure Keyges And Cracks: Microsoft Office ProPlus VL (x64...",
+            "snippet": "lorsque vous installez Office 2013 sur Windows 7; lorsque vous installez... T\u00c9L\u00c9CHARGER MAINTENANT. Posted by lobby smith at 20:28 Email ThisBlogThis!",
+            "date": "2013-04-28",
+            "author_name": "lobby smith",
+            "categories": "lobby",
+            "tags": "lobby",
+            "recuweb_url": "http://fr.recuweb.com/lobby/securelogmein.blogspot.com/2013/04/secure-keyges-and-cracks-microsoft-office-proplus-vl-x64",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Blobby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://securelogmein.blogspot.com/2013/04/microsoft-office-proplus-vl-x64.html"
+        },
+        "blog.rom1v.com/2009/09/apt-get-install-hadopi-om-s-blog": {
+            "title": "apt-get install hadopi om's blog...",
+            "snippet": "R\u00e9ception de: 1 lobby/control lib-bypass-constitution-fra ncaise r\u00e9ceptionn\u00e9s en 1s R\u00e9ception de: 2 lobby/control lobby-vivendi r\u00e9ceptionn\u00e9s en 1s R\u00e9ception de: 3 lobby/control lib- propagande r\u00e9ceptionn\u00e9s en 1s R\u00e9ception de: 4.....",
+            "date": "2009-09-21",
+            "author_name": "\u00aeom",
+            "categories": "lobby",
+            "tags": "lobby",
+            "recuweb_url": "http://fr.recuweb.com/lobby/blog.rom1v.com/2009/09/apt-get-install-hadopi-om-s-blog",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Blobby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.rom1v.com/2009/09/apt-get-install-hadopi/"
+        },
+        "didiersanz.blogspot.com/2005/12/les-nouvelles-de-localhost-logiciels-libres-ill%C3%A9gaux": {
+            "title": "Les Nouvelles de \"localhost\": Les logiciels libres ill\u00e9gaux?",
+            "snippet": "C'est d\u00e9sormais aux simples consommateurs de livres, de musique et de vid\u00e9o en ligne que s'attaquent non pas un lobby ou une grosse soci\u00e9t\u00e9, mais le gouvernement fran\u00e7ais, vraisemblablement sous la pression des...",
+            "date": "2005-12-07",
+            "author_name": "DS",
+            "categories": "musique,lobby",
+            "tags": "gouvernement,localhost,lobby",
+            "recuweb_url": "http://fr.recuweb.com/lobby/didiersanz.blogspot.com/2005/12/les-nouvelles-de-localhost-logiciels-libres-ill%C3%A9gaux",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Blobby&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://didiersanz.blogspot.com/2005/12/les-logiciels-libres-illgaux.html"
         }
     }
 }
