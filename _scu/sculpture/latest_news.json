@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sculpture",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sculpture/",
@@ -11,12 +11,52 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sculpture/sculpture/blogs.json"
     },
     "items": {
+        "froggydelight.com/2015/05/les-ma%C3%AEtres-de-la-sculpture-c%C3%B4te-d-ivoire-froggy-s-delight": {
+            "title": "Les ma\u00eetres de la sculpture de C\u00f4te d'Ivoire - Froggy's Delight...",
+            "snippet": "Froggy's DelightLes ma\u00eetres de la sculpture de C\u00f4te d'IvoireFroggy's DelightEn accueillant, apr\u00e8s Zurich et Bonn, l'exposition \"Les Ma\u00eetres de la sculpture de C\u00f4te d'Ivoire\" organis\u00e9e par le Rietberg Museum de Z\u00fcrich, le Mus\u00e9e du Quai Branly...",
+            "date": "2015-05-03",
+            "categories": "sculpture",
+            "tags": "exposition,sculpture,apr\u00e8s,mus\u00e9e",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/froggydelight.com/2015/05/les-ma%C3%AEtres-de-la-sculpture-c%C3%B4te-d-ivoire-froggy-s-delight",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sculpture&output=atom&nord=1",
+            "source_url": "http://froggydelight.com/article-16104-Les_maitres_de_la_sculpture_de_Cote_d_Ivoire.html"
+        },
+        "quimper.maville.com/2015/05/m%C3%A9moires-des-esclavages-la-sculpture-va-quitter-quimper": {
+            "title": "M\u00e9moires des esclavages: La sculpture va quitter Quimper...",
+            "snippet": "Ce dimanche, dans l'enceinte du chantier de Marc Morvan, les derni\u00e8res soudures ont \u00e9t\u00e9 r\u00e9alis\u00e9es avant le d\u00e9part de la sculpture M\u00e9moires des esclavages pour Brest, ce lundi. Ouest-France La sculpture M\u00e9moires des esclavages sera...",
+            "date": "2015-05-03",
+            "categories": "sculpture",
+            "tags": "esclavages,derni\u00e8res,derni\u00e8res-soudures,soudures,soudures-ont-\u00e9t\u00e9,\u00e9t\u00e9,\u00e9t\u00e9-r\u00e9alis\u00e9es,\u00e9t\u00e9-r\u00e9alis\u00e9es-avant,r\u00e9alis\u00e9es,r\u00e9alis\u00e9es-avant,avant,avant-le-d\u00e9part,d\u00e9part,marc,marc_morvan,morvan,enceinte,enceinte-du-chantier,chantier,quitter,m\u00e9moires,sculpture,quimper,dimanche,ouest,france",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/quimper.maville.com/2015/05/m%C3%A9moires-des-esclavages-la-sculpture-va-quitter-quimper",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://quimper.maville.com/actu/actudet_-memoires-des-esclavages-la-sculpture-va-quitter-quimper_52689-2761854_actu.Htm"
+        },
+        "ouest-france.fr/2015/05/m%C3%A9moires-des-esclavages-la-sculpture-va-quitter-quimper-ouest-france": {
+            "title": "M\u00e9moires des esclavages. La sculpture va quitter Quimper - Ouest-France...",
+            "snippet": "Ouest-FranceM\u00e9moires des esclavages. La sculpture va quitter QuimperOuest-FranceCe dimanche, dans l'enceinte du chantier de Marc Morvan, les derni\u00e8res soudures ont \u00e9t\u00e9 r\u00e9alis\u00e9es avant le d\u00e9part de la sculpture M\u00e9moires des esclavages pour...",
+            "date": "2015-05-03",
+            "categories": "sculpture",
+            "tags": "esclavages,derni\u00e8res,derni\u00e8res-soudures,soudures,soudures-ont-\u00e9t\u00e9,\u00e9t\u00e9,\u00e9t\u00e9-r\u00e9alis\u00e9es,\u00e9t\u00e9-r\u00e9alis\u00e9es-avant,r\u00e9alis\u00e9es,r\u00e9alis\u00e9es-avant,avant,avant-le-d\u00e9part,d\u00e9part,marc,marc_morvan,morvan,enceinte,enceinte-du-chantier,chantier,quitter,m\u00e9moires,sculpture,quimper,ouest,france,dimanche",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/ouest-france.fr/2015/05/m%C3%A9moires-des-esclavages-la-sculpture-va-quitter-quimper-ouest-france",
+            "resource_url": "http://news.google.fr/?hl=fr&q=sculpture&output=atom&nord=1",
+            "source_url": "http://ouest-france.fr/la-sculpture-va-quitter-quimper-3375036"
+        },
+        "ladepeche.fr/2015/05/exposition-de-sculptures-%C3%A9quines": {
+            "title": "Exposition de sculptures \u00e9quines...",
+            "snippet": "L'office de tourisme accueille une exposition de c\u00e9ramiques de Coralie Miotto-Ellers. Toutes les sculptures de cette exposition, qui en compte une trentaine, sont n\u00e9es de la rencontre de deux passions de l'artiste: la terre et les chevaux. Son...",
+            "date": "2015-05-02",
+            "categories": "sculpture",
+            "tags": "terre,rencontre,exposition,sculptures",
+            "recuweb_url": "http://fr.recuweb.com/sculpture/ladepeche.fr/2015/05/exposition-de-sculptures-%C3%A9quines",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/05/03/2097787-exposition-de-sculptures-equines.html"
+        },
         "lavoixdunord.fr/2015/04/fr%C3%A9vent-des-sculptures-animali%C3%A8res-expos%C3%A9es-au-mus%C3%A9e-wintenberger": {
             "title": "Fr\u00e9vent: des sculptures animali\u00e8res expos\u00e9es au mus\u00e9e Wintenberger...",
             "snippet": "Lanimatrice du mus\u00e9e Ghislaine Contesoto organisait samedi matin une exposition-vente de sculptures animali\u00e8res r\u00e9alis\u00e9es par Philippe Lepetz. Depuis sa plus jeune enfance, ce dernier est passionn\u00e9 de sculptures. Dans une volont\u00e9 dunir ses...",
             "date": "2015-04-29",
             "categories": "sculpture",
-            "tags": "sculptures",
+            "tags": "r\u00e9alis\u00e9es,vente,exposition,mus\u00e9e,sculptures",
             "recuweb_url": "http://fr.recuweb.com/sculpture/lavoixdunord.fr/2015/04/fr%C3%A9vent-des-sculptures-animali%C3%A8res-expos%C3%A9es-au-mus%C3%A9e-wintenberger",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
             "source_url": "http://lavoixdunord.fr/region/frevent-des-sculptures-animalieres-exposees-au-musee-ia653b16366n2800182"
@@ -30,6 +70,16 @@
             "recuweb_url": "http://fr.recuweb.com/sculpture/leparisien.fr/2015/04/le-plessis-tr%C3%A9vise-des-sculptures-dans-parc-tourelles",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sculpture&format=RSS&cc=fr",
             "source_url": "http://leparisien.fr/le-plessis-trevise-94420/le-plessis-trevise-des-sculptures-dans-le-parc-des-tourelles-29-04-2015-4734147.php"
+        },
+        "recordonline.com/2015/04/exhibits-and-galleries-calendar-times-herald-record": {
+            "title": "Exhibits and galleries calendar - Times Herald-Record...",
+            "snippet": "Times Herald-RecordExhibits and galleries calendarTimes Herald-RecordKleinert/James Center for the Arts: Spring in Bloom fashion show, 36 Tinker St., Woodstock. 5:30 to 7:30 p.m. April 25. Also: Manuel Bromberg: Cliff Sculptures, May 1 to June 7.",
+            "date": "2015-04-24",
+            "categories": "sculpture,arts",
+            "tags": "sculptures",
+            "recuweb_url": "http://fr.recuweb.com/arts/recordonline.com/2015/04/exhibits-and-galleries-calendar-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bsculpture&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150424/ENTERTAINMENTLIFE/150429590/101162/ENTERTAINMENT"
         }
     }
 }
