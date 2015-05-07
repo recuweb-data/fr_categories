@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "parachutisme",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/parachutisme/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/parachutisme/parachutisme/blogs.json"
     },
     "items": {
-        "abeilleparachutisme.fr/2015/04/que-fait-on-apr%C3%A8s-un-saut-en-parachute-abeille-parachutisme": {
-            "title": "Que fait-on apr\u00e8s un saut en parachute - Abeille-Parachutisme...",
-            "snippet": "On parle souvent du saut en parachute comme d'un moment de vie inoubliable. Mais une fois les pieds pos\u00e9s au sol, que se passe-t-il apr\u00e8s le saut en parachute? Savourer l'instant. \u00c7a y est, vous avez fait le grand saut.",
-            "date": "2015-04-02",
-            "author_name": "admin-abeille-parachutisme",
-            "categories": "parachutisme",
-            "tags": "saut,parachute,parachutisme",
-            "recuweb_url": "http://fr.recuweb.com/parachutisme/abeilleparachutisme.fr/2015/04/que-fait-on-apr%C3%A8s-un-saut-en-parachute-abeille-parachutisme",
-            "resource_url": "http://www.google.com/search?q=parachutisme%2Bparachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://abeilleparachutisme.fr/blog/que-fait-on-apres-un-saut-en-parachute"
-        },
         "saut-parachutisme.com/2015/03/les-chillflying-en-parachute-au-maroc-parachutisme": {
             "title": "Les Chillflying en parachute au Maroc - Parachutisme...",
             "snippet": "Bienvenue au Maroc! Les parachutistes de Chillflying sont partis au Maghreb pour se faire quelques sessions de sauts et le rendu est plut\u00f4t pas mal.",
             "date": "2015-03-06",
             "author_name": "Va\u00ef Iperty",
             "categories": "parachutisme",
-            "tags": "parachutistes,parachute,maroc,parachutisme",
+            "tags": "quelques,parachute,parachutisme",
             "recuweb_url": "http://fr.recuweb.com/parachutisme/saut-parachutisme.com/2015/03/les-chillflying-en-parachute-au-maroc-parachutisme",
             "resource_url": "http://www.google.com/search?q=parachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://saut-parachutisme.com/autour-parachutisme/chillflying-parachute-au-maroc.html"
@@ -39,7 +28,7 @@
             "date": "2015-02-17",
             "author_name": "Mahad",
             "categories": "parachutisme",
-            "tags": "centre,dernier,parachutiste,parachutisme",
+            "tags": "centre,dernier,parachutisme",
             "recuweb_url": "http://fr.recuweb.com/parachutisme/lanationdj.com/2015/02/amia-la-6%C3%A8me-promotion-brevet%C3%A9e-en-parachutisme-nation",
             "resource_url": "http://www.google.com/search?q=parachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://lanationdj.com/amia-la-6eme-promotion-brevetee-en-parachutisme/"
@@ -52,8 +41,52 @@
             "categories": "discipline,parachutisme",
             "tags": "parachutisme",
             "recuweb_url": "http://fr.recuweb.com/parachutisme/unjourunmetierpilotedavion.wordpress.com/2014/11/%C3%A9toile-des-airs",
-            "resource_url": "http://fr.search.wordpress.com/?q=parachutisme%2Bparachutisme&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=parachutisme&f=feed&page=1",
             "source_url": "http://unjourunmetierpilotedavion.wordpress.com/2014/11/11/etoile-des-airs/"
+        },
+        "ablogjeanfloch.over-blog.com/2014/05/parachutages-et-politique-en-bretagne-histoires": {
+            "title": "Parachutages et politique en Bretagne - Histoires de Bretagne...",
+            "snippet": "En Bretagne, d'une mani\u00e8re g\u00e9n\u00e9rale, le parachutage semble difficile, m\u00eame si notre histoire politique ne manque pas d'exemples parfois \u00e9tonnants. En sport, le parachutisme se d\u00e9finit comme un art de la chute; en politique...",
+            "date": "2014-05-26",
+            "author_name": "ECLF",
+            "categories": "politique,sport,parachutisme",
+            "tags": "chute,m\u00eame,sport,parachutisme",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/ablogjeanfloch.over-blog.com/2014/05/parachutages-et-politique-en-bretagne-histoires",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bparachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ablogjeanfloch.over-blog.com/2014/05/version-1-0-starthtml-0000000226-endhtml-0000013799-startfragment-0000002511-endfragment-0000013763-sourceurl-file-localhost-users-e"
+        },
+        "ariege360.fr/2013/03/serveur-dedie-monitoring-munin-ariege360-st%C3%A9phane": {
+            "title": "SERVEUR DEDIE MONITORING MUNIN Ariege360 - St\u00e9phane...",
+            "snippet": "J'avoue ne pas avoir compris pourquoi dans le fichier on a localhost? Je pensais... Order allow,deny Allow from localhost/8::1 Options None... Parachutisme au centre de Pamiers - Tandem.",
+            "date": "2013-03-28",
+            "author_name": "St\u00e9phane Meurisse",
+            "categories": "parachutisme",
+            "tags": "centre,localhost,parachutisme,tandem",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/ariege360.fr/2013/03/serveur-dedie-monitoring-munin-ariege360-st%C3%A9phane",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bparachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://ariege360.fr/blog/2013/03/28/serveur-dedie-monitoring-munin/"
+        },
+        "forum.pcastuces.com/2011/11/lmde-d%C3%A9marrage-al%C3%A9atoire-forum-pcastuces": {
+            "title": "LMDE: d\u00e9marrage al\u00e9atoire... - Forum PCAstuces...",
+            "snippet": "C'est quand on est vieux qu'on devrait faire des conneries pour en profiter un max. Tiens, je me demande si je ne vais pas me remettre au parachutisme..... The following lines are desirable for IPv6 capable hosts::1 ip6-localhost ip6-loopback...",
+            "date": "2011-11-07",
+            "author_name": "Mimile",
+            "categories": "parachutisme",
+            "tags": "localhost,vais,parachutisme",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/forum.pcastuces.com/2011/11/lmde-d%C3%A9marrage-al%C3%A9atoire-forum-pcastuces",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bparachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.pcastuces.com/sujet.asp?f=8&s=13261"
+        },
+        "code18.blogspot.com/2009/04/code-18-injection-sur-postgresql": {
+            "title": "Code 18: Injection sur PostgreSQL...",
+            "snippet": "... page web Installer APC sur Windows Encore une fois Vid\u00e9otron... Shazam et SnapTell Citation no. 24 sur le parachutisme D\u00e9finir une s\u00e9quence PostgreSQL Pro PHP J is null dans Prototype Poisson d'avril 2009.",
+            "date": "2009-04-21",
+            "author_name": "infinite loop",
+            "categories": "php,parachutisme",
+            "tags": "s\u00e9quence,parachutisme",
+            "recuweb_url": "http://fr.recuweb.com/parachutisme/code18.blogspot.com/2009/04/code-18-injection-sur-postgresql",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bparachutisme&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://code18.blogspot.com/2009/04/injection-sur-postgresql.html"
         }
     }
 }
