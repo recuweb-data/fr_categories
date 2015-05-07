@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "services-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/services-web/",
@@ -11,11 +11,29 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/services-web/services-web/blogs.json"
     },
     "items": {
+        "android-mt.com/2015/05/3-mai-2025-la-vie-priv%C3%A9e-va-bien-merci": {
+            "title": "3 mai 2025: la vie priv\u00e9e va bien, merci pour elle! - Android-MT...",
+            "snippet": "Android-MT3 mai 2025: la vie priv\u00e9e va bien, merci pour elle!Android-MTConvaincue de l'importance de prot\u00e9ger ses donn\u00e9es personnelles, mais ne d\u00e9sirant pas se couper du Web et de ses services, Laura a install\u00e9 sur son smartphone et son...",
+            "date": "2015-05-03",
+            "tags": "android,web,services",
+            "recuweb_url": "http://fr.recuweb.com/android-mt.com/2015/05/3-mai-2025-la-vie-priv%C3%A9e-va-bien-merci",
+            "resource_url": "http://news.google.fr/?hl=fr&q=services%2Bweb&output=atom&nord=1",
+            "source_url": "http://android-mt.com/news/3-mai-2025-la-vie-privee-va-bien-merci-pour-elle-38375"
+        },
+        "zdnet.com/2015/05/amazon-web-services-test-driving-tesla-batteries-in-data-centers-zdnet": {
+            "title": "Amazon Web Services test driving Tesla batteries in data centers - ZDNet...",
+            "snippet": "ZDNetAmazon Web Services test driving Tesla batteries in data centersZDNetAmong those already sampling Tesla's battery innovations is none other than one of the largest data center managers worldwide: Amazon Web Services, recently boasted to be a 5...",
+            "date": "2015-05-01",
+            "tags": "web,web_services,services,amazon,amazon_web,amazon_web_services",
+            "recuweb_url": "http://fr.recuweb.com/zdnet.com/2015/05/amazon-web-services-test-driving-tesla-batteries-in-data-centers-zdnet",
+            "resource_url": "http://news.google.fr/?hl=fr&q=services%2Bweb&output=atom&nord=1",
+            "source_url": "http://zdnet.com/article/amazon-web-services-test-driving-tesla-batteries-in-data-centers/"
+        },
         "emploi.silicon.fr/2015/05/ing%C3%A9nieur-windows-8-phone-confirm%C3%A9-h-f": {
             "title": "Ing\u00e9nieur Windows 8/Windows Phone 8 Confirm\u00e9 H/F...",
             "snippet": "Backelite est le leader en France du design, de la conception et du d\u00e9veloppement de services web, mobiles et objets connect\u00e9s pour les plus grandes marques. Avec plus de 100 collaborateurs experts en exp\u00e9rience utilisateur pour les nouveaux...",
             "date": "2015-05-01",
-            "tags": "mobiles,d\u00e9veloppement,france,services,web",
+            "tags": "mobiles,d\u00e9veloppement,design,france,services,web",
             "recuweb_url": "http://fr.recuweb.com/emploi.silicon.fr/2015/05/ing%C3%A9nieur-windows-8-phone-confirm%C3%A9-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=services%2Bweb&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/452925/ingnieur-windows-8-windows-phone-8-confirm-hf/"
@@ -43,10 +61,20 @@
             "snippet": "vous apportez des solutions informatiques et g\u00e9rez des projets ding\u00e9nierie logicielle: d\u00e9finition du projet, planification, suivi des \u00e9tapes. Vous ma\u00eetrisez des langages de programmation, des services WEB et des serveurs dapplication.",
             "date": "2015-04-28",
             "categories": "langage,java,ingenierie",
-            "tags": "suivi,solutions,services,web",
+            "tags": "suivi,solutions,java,services,web",
             "recuweb_url": "http://fr.recuweb.com/ingenierie/emploi.silicon.fr/2015/04/responsable-en-ing%C3%A9nierie-des-logiciels-java-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=services%2Bweb&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/451606/responsable-en-ingnierie-des-logiciels-java-hf/"
+        },
+        "metronews.fr/2015/04/google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile": {
+            "title": "Google devient op\u00e9rateur de t\u00e9l\u00e9phonie mobile...",
+            "snippet": "Mais o\u00f9 Google va s'arr\u00eater? Apr\u00e8s les services web (moteur de recherche Google, courrier Gmail, Google maps), les t\u00e9l\u00e9phones et tablettes (Android, Nexus, Chromecast), les ordinateurs (Chromebooks), les voitures autonomes (Google cars), les...",
+            "date": "2015-04-23",
+            "categories": "ordinateur,moteur-de-recherche,google",
+            "tags": "services,web,android",
+            "recuweb_url": "http://fr.recuweb.com/google/metronews.fr/2015/04/google-devient-op%C3%A9rateur-de-t%C3%A9l%C3%A9phonie-mobile",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=services%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://metronews.fr/high-tech/google-devient-operateur-de-telephonie-mobile/modw!Lb36vITqEj8RI/"
         },
         "emploi.presse-citron.net/2015/04/chef-de-produit-web-marketing-services-mobiles-h-f-presse-citron": {
             "title": "Chef de Produit Web Marketing - Services Mobiles H/F - Presse-citron (Blog)...",
@@ -62,9 +90,9 @@
             "title": "Amazon Web Services va enregistrer des pertes en 2015 - JDN...",
             "snippet": "JDNAmazon Web Services va enregistrer des pertes en 2015JDNAmazon Web Services a donn\u00e9 le coup d'envoi de la r\u00e9volution du cloud computing, service grce auquel les entreprises peuvent utiliser des ressources en ligne pour leurs infrastructures...",
             "date": "2015-04-07",
-            "tags": "services,peuvent,utiliser,web,web_services",
+            "tags": "peuvent,utiliser,web,web_services,services,service,amazon,amazon_web,amazon_web_services",
             "recuweb_url": "http://fr.recuweb.com/journaldunet.com/2015/04/amazon-web-services-va-enregistrer-des-pertes-en-2015-jdn",
-            "resource_url": "http://news.google.fr/?hl=fr&q=services%2Bweb%2Bservices%2Bweb&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=services%2Bweb&output=atom&nord=1",
             "source_url": "http://journaldunet.com/solutions/cloud-computing/1152540-amazon-web-services-perdra-6-6-milliards-de-dollars-de-chiffre-d-affaires-en-2015/"
         }
     }
