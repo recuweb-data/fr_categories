@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "ordinateur",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/ordinateur/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/ordinateur/ordinateur/blogs.json"
     },
     "items": {
-        "gizmodo.fr/2015/04/ras-le-bol-de-votre-ordinateur-executez-au-9mm-et-passez": {
-            "title": "Ras-le-bol de votre ordinateur? Executez-le au 9mm (et passez par...",
-            "snippet": "Exc\u00e9d\u00e9 de voir son ordinateur lui donner des \u00e9crans bleus de la mort, un Am\u00e9ricain a d\u00e9cid\u00e9 d'aller l'ex\u00e9cuter, purement et simplement, avec un 9 mm.",
-            "date": "2015-04-27",
-            "author_name": "Morgan",
-            "categories": "mort,ordinateur",
-            "tags": "lui,ordinateur,am\u00e9ricain",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/gizmodo.fr/2015/04/ras-le-bol-de-votre-ordinateur-executez-au-9mm-et-passez",
-            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://gizmodo.fr/2015/04/27/ordinateur-pistolet-execution.html"
-        },
         "slate.fr/2015/04/fatigu%C3%A9-par-les-bugs-un-am%C3%A9ricain-tire-sur-son-ordinateur": {
             "title": "Fatigu\u00e9 par les bugs, un Am\u00e9ricain tire sur son ordinateur...",
             "snippet": "Heureusement, la victime de ce crime passionnel n'est que la tour de l'ordinateur Dell du bourreau, pourtant paisible commer\u00e7ant sp\u00e9cialis\u00e9 dans la m\u00e9decine par les plantes. La police, alert\u00e9e au sujet des coups de feu, lui a...",
             "date": "2015-04-22",
             "author_name": "rbnverner",
             "categories": "plante,ordinateur",
-            "tags": "lui,tour,am\u00e9ricain,ordinateur",
+            "tags": "m\u00e9decine,ordinateur,tour",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/slate.fr/2015/04/fatigu%C3%A9-par-les-bugs-un-am%C3%A9ricain-tire-sur-son-ordinateur",
             "resource_url": "http://www.google.com/search?q=ordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://slate.fr/story/100683/bugs-un-americain-tire-sur-son-ordinateur"
@@ -39,9 +28,9 @@
             "date": "2015-04-14",
             "author_name": "inconnu",
             "categories": "ordinateur",
-            "tags": "livre,ordinateur",
+            "tags": "ordinateur,ibm",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/bfmbusiness.bfmtv.com/2015/04/l-ordinateur-d-ibm-qui-r%C3%A9invente-les-recettes-de-cuisine-bfm",
-            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=ordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bfmbusiness.bfmtv.com/entreprise/cuisine-quand-un-ordinateur-ecrit-son-propre-livre-de-recettes-877291.html"
         },
         "futura-sciences.com/2015/04/actualit%C3%A9-chromebit-un-ordinateur-chrome-os-dans-une-cl%C3%A9-hdmi": {
@@ -50,21 +39,21 @@
             "date": "2015-04-02",
             "author_name": "webmaster@futura-sciences.com (Futura-Sciences)",
             "categories": "ordinateur,google",
-            "tags": "portables,syst\u00e8me,ordinateurs,google,parmi",
+            "tags": "portables,ordinateurs,chrome,google,parmi",
             "recuweb_url": "http://fr.recuweb.com/google/futura-sciences.com/2015/04/actualit%C3%A9-chromebit-un-ordinateur-chrome-os-dans-une-cl%C3%A9-hdmi",
             "resource_url": "http://www.google.com/search?q=ordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://futura-sciences.com/magazines/high-tech/infos/actu/d/pc-chromebit-ordinateur-chrome-os-cle-hdmi-57720/"
         },
-        "materiel.net/2015/04/m15-rider-pc-gamer-ordinateur-achat-vente": {
-            "title": "M15 Rider [PC Gamer] - Ordinateur - Achat/Vente sur...",
-            "snippet": "Ordinateur M15 Rider PC Gamer PC de jeu, 138 pts Matbench, Processeur Intel Core i5 4690, NVIDIA GeForce GTX 960, SSD 120 Go, 8 Go DDR3, Aucun OS. OFFRE SPECIALE. Ordinateur M15 Rider PC Gamer.",
-            "date": "2015-04-02",
-            "author_name": "inconnu",
-            "categories": "ordinateur",
-            "tags": "offre,ordinateur,aucun",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/materiel.net/2015/04/m15-rider-pc-gamer-ordinateur-achat-vente",
-            "resource_url": "http://www.google.com/search?q=ordinateur%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://materiel.net/ordinateur/materiel-net-m15-rider-pc-gamer-114903.html"
+        "forums.fedora-fr.org/2014/07/r%C3%A9solu-probl%C3%A8me-avec-le-nom-de-domaine-localhost-fedora-fr": {
+            "title": "R\u00e9solu Probl\u00e8me avec le nom de domaine (localhost... - Fedora-Fr...",
+            "snippet": "6098:6098:0709/194836:ERROR: (309) Le profil semble \u00eatre utilis\u00e9 dans le cadre d'un autre processus Google Chrome (5706) sur un autre ordinateur (). Le profil a \u00e9t\u00e9...",
+            "date": "2014-07-09",
+            "author_name": "dummy@example.com (FedUp)",
+            "categories": "google,ordinateur",
+            "tags": "google,chrome,\u00eatre,nom,probl\u00e8me,localhost,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/forums.fedora-fr.org/2014/07/r%C3%A9solu-probl%C3%A8me-avec-le-nom-de-domaine-localhost-fedora-fr",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.fedora-fr.org/viewtopic.php?id=62294"
         },
         "touscanci.com/2014/05/gallery-voici-la-salle-num%C3%A9rique-pour-les-%C3%A9tud": {
             "title": "gallery VOICI LA SALLE NUM\u00c9RIQUE POUR LES \u00c9TUD...",
@@ -72,10 +61,54 @@
             "date": "2014-05-16",
             "author_name": "touscanci",
             "categories": "ordinateur",
-            "tags": "ordinateurs,voici",
+            "tags": "ordinateurs",
             "recuweb_url": "http://fr.recuweb.com/ordinateur/touscanci.com/2014/05/gallery-voici-la-salle-num%C3%A9rique-pour-les-%C3%A9tud",
-            "resource_url": "http://fr.search.wordpress.com/?q=ordinateur%2Bordinateur&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=ordinateur&f=feed&page=1",
             "source_url": "http://touscanci.com/2014/05/16/voici-la-salle-numerique-pour-les-etudiants-cafop/"
+        },
+        "forum.joomla.fr/2011/12/discussion-heberger-un-site-cr%C3%A9%C3%A9-en-localhost-forums": {
+            "title": "Discussion: Heberger un site cr\u00e9\u00e9 en localhost - Forums...",
+            "snippet": "Bonjour Je poste ici mon premier message sur votre forum! Etant d\u00e9butant, j'ai pr\u00e9f\u00e9r\u00e9 r\u00e9aliser le site pour mon fr\u00e8re en \"Localhost\" avec Joomla! 1.7. Le site se trouve dans mon ordinateur en suivant le chemin: C:.",
+            "date": "2011-12-01",
+            "author_name": "Renardeau",
+            "categories": "joomla,ordinateur",
+            "tags": "r\u00e9aliser,localhost,message,forums,bonjour,joomla,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/forum.joomla.fr/2011/12/discussion-heberger-un-site-cr%C3%A9%C3%A9-en-localhost-forums",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.joomla.fr/showthread.php?160770-Heberger-un-site-cr\u00e9\u00e9-en-localhost"
+        },
+        "forum.joomla.fr/2010/12/probl%C3%A8me-d-installation-du-localhost-sur-mac-forums": {
+            "title": "Probl\u00e8me d'installation du localhost sur MAC - Forums...",
+            "snippet": "J'ai voulu y apporter des am\u00e9liorations. J'ai donc voulu installer sur mon ordinateur (Mac OS X) l'application Joomla en local. J'ai suivi le \"tutoriel installation Joomla_15_Mamp sur localhost\" trouv\u00e9 par le forum.",
+            "date": "2010-12-17",
+            "author_name": "Artii",
+            "categories": "ordinateur,joomla",
+            "tags": "localhost,forums,local,installer,probl\u00e8me,ordinateur,joomla",
+            "recuweb_url": "http://fr.recuweb.com/joomla/forum.joomla.fr/2010/12/probl%C3%A8me-d-installation-du-localhost-sur-mac-forums",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.joomla.fr/showthread.php?137292-Probl\u00e8me-d-installation-du-localhost-sur-MAC"
+        },
+        "phareperdu.free.fr/2009/01/cr%C3%A9er-plusieurs-serveurs-virtuels-sur-son-ordinateur-phare-perdu": {
+            "title": "Cr\u00e9er plusieurs serveurs virtuels sur son ordinateur - Phare perdu...",
+            "snippet": "For example: source server x client host localhost. D'apr\u00e8s cet exemple, je vais avoir acc\u00e8s aux...",
+            "date": "2009-01-15",
+            "author_name": "tadkozh",
+            "categories": "ordinateur",
+            "tags": "apr\u00e8s,exemple,localhost,ordinateur",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/phareperdu.free.fr/2009/01/cr%C3%A9er-plusieurs-serveurs-virtuels-sur-son-ordinateur-phare-perdu",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://phareperdu.free.fr/?2009/01/15/86-creer-plusieurs-serveurs-virtuels-sur-son-ordinateur"
+        },
+        "forums.futura-sciences.com/2008/10/base-de-donn%C3%A9e-localhost-forums-futura-sciences": {
+            "title": "Base de donn\u00e9e, localhost. - Forums Futura-Sciences...",
+            "snippet": "... de me familiariser avec les bases donn\u00e9es mysql. Je lis souvent le terme \"localhost\", d'apr\u00e8s ce que je comprends, c'est l'ordinateur local, mais peut-on par exemple remplacer ce nom par l'adresse ip de l'ordinateur?",
+            "date": "2008-10-15",
+            "author_name": "Bruno",
+            "categories": "mysql,science,ordinateur",
+            "tags": "exemple,nom,apr\u00e8s,localhost,forums,ordinateur,local",
+            "recuweb_url": "http://fr.recuweb.com/ordinateur/forums.futura-sciences.com/2008/10/base-de-donn%C3%A9e-localhost-forums-futura-sciences",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bordinateur&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forums.futura-sciences.com/internet-reseau-securite-generale/254382-base-de-donnee-localhost.html"
         }
     }
 }
