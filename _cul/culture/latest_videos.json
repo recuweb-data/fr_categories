@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "culture",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/culture/",
@@ -11,6 +11,18 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/culture/culture/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/05/culture-30-04-2015": {
+            "title": "Culture - 30/04/2015...",
+            "snippet": "Le jazz cest \u00e7a! LUNESCO ouvre sa 4e journ\u00e9e internationale du jazz. En plateau, son repr\u00e9sentant isra\u00e9lien, Gilad Chatsav. Tablettes du Maghreb: lAlg\u00e9rie fond pour le: i24news-frTags: culture-fr News Posted: 04 May 2015Rating:: 0...",
+            "date": "2015-05-03",
+            "author_name": "i24news-fr",
+            "categories": "culture",
+            "tags": "culture,plateau,frtags",
+            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/05/culture-30-04-2015",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2ozl81_culture-30-04-2015_news",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2ozl81_culture-30-04-2015_news"
+        },
         "dailymotion.com/2015/05/africa-news-room-afrique-culture-la-r%C3%A9mun%C3%A9ration-des-artistes": {
             "title": "AFRICA NEWS ROOM - Afrique, Culture: La r\u00e9mun\u00e9ration des artistes...",
             "snippet": "Culture, La r\u00e9mun\u00e9ration des artistes, avec Jim Michel Gabriel AvocatLa premi\u00e8re cha\u00eene mondiale d'information pour l'Afrique. Les infos d'Afrique pour le monde, les infos du monde pour l': AFRICA24Tags: africa 24 Culture AFRICA24 Africa24...",
@@ -65,7 +77,7 @@
             "date": "2015-04-28",
             "author_name": "i24news-fr",
             "categories": "culture",
-            "tags": "art,art_contemporain,contemporain,culture,isra\u00ebl,frtags",
+            "tags": "art,art_contemporain,contemporain,culture,frtags",
             "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/culture-26-05-2014",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o9rva_culture-26-05-2014_news",
@@ -89,7 +101,7 @@
             "date": "2015-04-28",
             "author_name": "i24news-fr",
             "categories": "culture",
-            "tags": "f\u00eate,culture,entretien",
+            "tags": "f\u00eate,culture",
             "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/culture-21-04-2014",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o9scw_culture-21-04-2014_news",
@@ -118,18 +130,6 @@
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
             "source_url": "http://dailymotion.com/video/x2o9utn_fr-culture-72_news",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2o9utn_fr-culture-72_news"
-        },
-        "dailymotion.com/2015/04/fr-culture-80": {
-            "title": "FR Culture, 80...",
-            "snippet": "Dhafer Youssef, portrait dun jazzman au Oud. XBox One vs PS4: les fans sont fous. Femmes en prison en Isra\u00ebl: entretien avec Liat Mer. Et enfin Julio Iglesias, le latin lover charme les tel aviviennesAuthor: i24news-frTags: culture-fr News Posted:...",
-            "date": "2015-04-28",
-            "author_name": "i24news-fr",
-            "categories": "xbox,culture",
-            "tags": "entretien,portrait,culture,isra\u00ebl,frtags",
-            "recuweb_url": "http://fr.recuweb.com/culture/dailymotion.com/2015/04/fr-culture-80",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/culture/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2o9ulk_fr-culture-80_news",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2o9ulk_fr-culture-80_news"
         }
     }
 }
