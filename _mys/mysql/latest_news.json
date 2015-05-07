@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "mysql",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/mysql/",
@@ -11,6 +11,36 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/mysql/mysql/blogs.json"
     },
     "items": {
+        "haberahval.com/2015/05/localhost-u-%C3%A7altrmak-haberi11-8-haberahval-haber-i-ve-yaam-portal": {
+            "title": "Localhost'u \u00c7altrmak haberi11-8 - Haberahval! Haber, i ve yaam portal...",
+            "snippet": "Haberahval! Haber, i ve yaam portalLocalhost'u \u00c7altrmak haberi11-8Haberahval! Haber, i ve yaam portalBunlar \u00f6zetle php, mysql ve apache ilemlerinde \u00e7alma ortam salayarak size yardm eder. te bu nedenle localhosta nasl girilir bilmeniz gereklidir.",
+            "date": "2015-05-06",
+            "categories": "php,mysql",
+            "tags": "localhost,php,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/haberahval.com/2015/05/localhost-u-%C3%A7altrmak-haberi11-8-haberahval-haber-i-ve-yaam-portal",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmysql&output=atom&nord=1",
+            "source_url": "http://haberahval.com/nedir-1177030-localhostu-calistirmak-haberi11"
+        },
+        "zonebourse.com/2015/05/derni%C3%A8res-actualit%C3%A9s-sur-o2i": {
+            "title": "Derni\u00e8res actualit\u00e9s sur O2I...",
+            "snippet": "webmastergo2i', 'GR02i0184%', Array) 1/var/home/webmastergo2i/domains/(45): DoctrineDBALDriverPDOConnection-__construct('mysql:host=mysq...', 'webmastergo2i', 'GR02i0184...",
+            "date": "2015-05-03",
+            "categories": "mysql",
+            "tags": "mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/zonebourse.com/2015/05/derni%C3%A8res-actualit%C3%A9s-sur-o2i",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
+            "source_url": "http://zonebourse.com/O2I-168589/actualite/O2I--Comptes-consolides-2014-au-27042015-20304932/"
+        },
+        "emploi.silicon.fr/2015/05/webdesigner-d%C3%A9veloppeur-se-web-h-f-cdi-orl%C3%A9ans": {
+            "title": "WEBDESIGNER/D\u00c9VELOPPEUR(SE) WEB (H/F) - CDI - Orl\u00e9ans...",
+            "snippet": "Vous ma\u00cetrisez les langages de programmation HTML/CSS et PHP et la base de donn\u00e9es MySQL. Vous ma\u00eetrisez les principaux outils de maquettage web (Axure, Balsamiq, Dreamweaver). Vous savez organis\u00e9 vos d\u00e9veloppements selon le pattern MVC.",
+            "date": "2015-05-02",
+            "categories": "langage,css,php,mysql",
+            "tags": "web,langages,d\u00e9veloppeur,programmation,html,css,php,base,donn\u00e9es,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/emploi.silicon.fr/2015/05/webdesigner-d%C3%A9veloppeur-se-web-h-f-cdi-orl%C3%A9ans",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/452998/webdesignerdveloppeurse-web-hf/"
+        },
         "theregister.co.uk/2015/05/oracle-paltry-patch-opens-mysql-man-in-the-middle-diddle-register": {
             "title": "Oracle paltry patch opens MySQL man-in-the-middle diddle - The Register...",
             "snippet": "The RegisterOracle paltry patch opens MySQL man-in-the-middle diddleThe RegisterAdam Goodman of Duo Security has found a vulnerability in the 'vast majority'of Oracle MySQL databases that allows SSL to be stripped, exposing sensitive data to...",
@@ -33,12 +63,12 @@
         },
         "abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1": {
             "title": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) 1. -...",
-            "snippet": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) l\u00e1nek je uren pedev\u00edm za\u00e1ten\u00edkm. Nejprve bych chtl popsat p\u00e1r z\u00e1kladn\u00edch funkc\u00ed pro komunikaci a pr\u00e1ci s datab\u00e1zemi MySQL, kter\u00e9 se pou\u00edvaj\u00ed v PHP. Jsou u jist vem dobe zn\u00e1my, ale opakov\u00e1n\u00ed je matka...",
+            "snippet": "Mal\u00fd Mysql manu\u00e1l (ale po sv\u00e9m) snad peci jen ano, tak parametr sever je jm\u00e9no serveru, ke kter\u00e9mu se chcete pipojit (implicitn nastaven na localhost), parametr uivatel je jm\u00e9no uivatele (implicitn nastaveno na uivatele, pod kter\u00fdm b\u00ed tento...",
             "date": "2015-04-30",
-            "categories": "mysql,php",
-            "tags": "mysql,php",
-            "recuweb_url": "http://fr.recuweb.com/php/abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mysql%2Bmysql&output=atom&nord=1",
+            "categories": "mysql",
+            "tags": "localhost,mysql",
+            "recuweb_url": "http://fr.recuweb.com/mysql/abclinuxu.cz/2015/04/mal%C3%BD-mysql-manu%C3%A1l-ale-po-sv%C3%A9m-1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmysql&output=atom&nord=1",
             "source_url": "http://abclinuxu.cz/clanky/maly-mysql-manual-ale-po-svem-1"
         },
         "threatpost.com/2015/04/mysql-bug-can-strip-ssl-protection-from-connections-threatpost": {
@@ -66,7 +96,7 @@
             "snippet": "Rattach\u00e9 au responsable technique au sein dune \u00e9quipe de d\u00e9veloppeurs exp\u00e9riment\u00e9s, vous aurez en charge la conception et le d\u00e9veloppement dapplications Web. Au quotidien, vous assurez la maintenance applicative en d\u00e9veloppant des actions...",
             "date": "2015-04-27",
             "categories": "php,mysql",
-            "tags": "sein,d\u00e9veloppeur,web,php,mysql,d\u00e9veloppement",
+            "tags": "d\u00e9veloppement,d\u00e9veloppeur,web,php,mysql",
             "recuweb_url": "http://fr.recuweb.com/mysql/emploi.silicon.fr/2015/04/d%C3%A9veloppeur-web-php-mysql-h-f",
             "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
             "source_url": "http://emploi.silicon.fr/451544/dveloppeur-web-php-mysql-hf/"
@@ -80,36 +110,6 @@
             "recuweb_url": "http://fr.recuweb.com/mysql/eweek.com/2015/04/deep-engine-brings-enterprise-level-performance-to-mysql-eweek",
             "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
             "source_url": "http://eweek.com/database/slideshows/deep-engine-brings-enterprise-level-performance-to-mysql-databases.html"
-        },
-        "silicon.fr/2015/04/quiz-10-questions-sur-les-bases-de-donn%C3%A9es-sql-open-source": {
-            "title": "Quiz 10 questions sur les bases de donn\u00e9es SQL Open Source...",
-            "snippet": "Le monde des bases de donn\u00e9es Open Source est tr\u00e8s actif, avec des offres comme MySQL, PostgreSQL ou encore SQLite. Connaissez-vous ce march\u00e9? Quiz! Dautres solutions existent cependant, avec chacune son histoire, son parcours et son public.",
-            "date": "2015-04-24",
-            "categories": "mysql,sqlite",
-            "tags": "bases,donn\u00e9es,mysql",
-            "recuweb_url": "http://fr.recuweb.com/sqlite/silicon.fr/2015/04/quiz-10-questions-sur-les-bases-de-donn%C3%A9es-sql-open-source",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
-            "source_url": "http://silicon.fr/quiz-silicon-fr-10-questions-bases-de-donnees-sql-open-source-114831.html"
-        },
-        "weblife.fr/2015/04/wordpress-4-2-powell-les-nouveaut%C3%A9s-du-cms-en-d%C3%A9tails": {
-            "title": "WordPress 4.2 Powell: Les nouveaut\u00e9s du CMS en d\u00e9tails...",
-            "snippet": "Techniquement, le stockage de ces caract\u00e8res compos\u00e9s de quatre octets au sein de la base de donn\u00e9es est rendu possible par un changement du jeu de caract\u00e8res des tables MySQL. Le charset utf8 est remplac\u00e9 par de lutf8mb4. Changement de th\u00e8me...",
-            "date": "2015-04-24",
-            "categories": "wordpress,mysql",
-            "tags": "sein,base,donn\u00e9es,mysql",
-            "recuweb_url": "http://fr.recuweb.com/mysql/weblife.fr/2015/04/wordpress-4-2-powell-les-nouveaut%C3%A9s-du-cms-en-d%C3%A9tails",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=mysql&format=RSS&cc=fr",
-            "source_url": "http://weblife.fr/actus/wordpress-4-2-powell-les-nouveautes-du-cms-en-details"
-        },
-        "emploi.presse-citron.net/2015/04/apprentissage-d%C3%A9veloppeur-php-mysql-h-f-presse-citron-blog": {
-            "title": "Apprentissage D\u00e9veloppeur PHP/MySQL (H/F) - Presse-citron (Blog)...",
-            "snippet": "Apprentissage D\u00e9veloppeur PHP/MySQL (H/F)Presse-citron (Blog)AssurOne Group est un cabinet de courtage en assurances moderne et innovant, tourn\u00e9 vers l'avenir. En ayant mis Internet au c\u0153ur de notre strat\u00e9gie depuis 1996, AssurOne Group propose...",
-            "date": "2015-04-07",
-            "categories": "assurance,php,mysql,internet",
-            "tags": "d\u00e9veloppeur,php,mysql",
-            "recuweb_url": "http://fr.recuweb.com/internet/emploi.presse-citron.net/2015/04/apprentissage-d%C3%A9veloppeur-php-mysql-h-f-presse-citron-blog",
-            "resource_url": "http://news.google.fr/?hl=fr&q=mysql&output=atom&nord=1",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/R\u00e9seau/Apprentissage+D\u00e9veloppeur+PHPMySQL+(HF)/29823"
         }
     }
 }
