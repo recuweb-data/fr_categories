@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript-object-notation",
         "language": "fr",
-        "updated": "20150502"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
@@ -11,25 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/javascript-object-notation/javascript-object-notation/blogs.json"
     },
     "items": {
-        "informationweek.com/2015/04/google-adds-to-bigquery-big-data-capabilities-informationweek": {
-            "title": "Google Adds To BigQuery Big Data Capabilities - InformationWeek...",
-            "snippet": "InformationWeekGoogle Adds To BigQuery Big Data CapabilitiesInformationWeekBigQuery works with large structured data sets for SQL analytics similar to a relational database system, or with loosely structured data assembled as JSON (JavaScript Object...",
-            "date": "2015-04-28",
-            "categories": "javascript,google",
-            "tags": "javascript,javascript_object,object,data,sql,json",
-            "recuweb_url": "http://fr.recuweb.com/google/informationweek.com/2015/04/google-adds-to-bigquery-big-data-capabilities-informationweek",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&output=atom&nord=1",
-            "source_url": "http://informationweek.com/messages.asp?piddl_msgthreadid=23478&piddl_msgid=291939&piddl_msgtocontent=yes"
-        },
-        "visualstudiomagazine.com/2015/04/azure-service-fabric-unveiled-visual-studio-magazine": {
-            "title": "Azure Service Fabric Unveiled - Visual Studio Magazine...",
-            "snippet": "Visual Studio MagazineAzure Service Fabric UnveiledVisual Studio MagazineIt stores data in the JavaScript Object Notation (JSON) format, but it lets users instigate their queries using SQL commands. Microsoft announced other various Azure cloud...",
-            "date": "2015-04-23",
-            "categories": "javascript,javascript-object-notation",
-            "tags": "javascript,javascript_object,object,data,json,sql",
-            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/visualstudiomagazine.com/2015/04/azure-service-fabric-unveiled-visual-studio-magazine",
-            "resource_url": "http://news.google.fr/?hl=fr&q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&output=atom&nord=1",
-            "source_url": "http://visualstudiomagazine.com/articles/2015/04/21/azure-service-fabric-unveiled.aspx"
+        "lemondeinformatique.fr/2015/05/barom%C3%A8tre-hitechpros-le-m%C3%A9tier-de-d%C3%A9veloppeur-garde-la-1%C3%A8re-place": {
+            "title": "Barom\u00e8tre HiTechPros: le m\u00e9tier de d\u00e9veloppeur garde la 1\u00e8re place...",
+            "snippet": "En troisi\u00e8me position nous retrouvons la comp\u00e9tence HTML/JavaScript avec 8,3... A l'inverse, les comp\u00e9tences Business Objects/BI/BA et Linux affichent une sensible baisse et repr\u00e9sentent chacun 1,1% des demandes ce trimestre...",
+            "date": "2015-05-03",
+            "categories": "place,javascript",
+            "tags": "objects,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/lemondeinformatique.fr/2015/05/barom%C3%A8tre-hitechpros-le-m%C3%A9tier-de-d%C3%A9veloppeur-garde-la-1%C3%A8re-place",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bjavascript%2Bobject%2Bnotation&format=RSS&cc=fr",
+            "source_url": "http://lemondeinformatique.fr/actualites/lire-barometre-hitechpros-le-metier-de-developpeur-garde-la-1ere-place-61035.html"
         }
     }
 }
