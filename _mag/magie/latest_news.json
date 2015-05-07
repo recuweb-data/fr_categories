@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "magie",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/magie/",
@@ -11,44 +11,34 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/magie/magie/blogs.json"
     },
     "items": {
-        "tvmag.lefigaro.fr/2015/05/barbie-et-la-magie-de-mode": {
-            "title": "Barbie et la magie de la mode...",
-            "snippet": "Barbie et son chien Sequin partent visiter Paris afin d'y d\u00e9couvrir la fabuleuse maison de couture de tante Millie. H\u00e9las, son s\u00e9jour ne sera pas de tout repos car elle s'aper\u00e7oit vite que celle-ci risque la fermeture! Mais heureusement, apr\u00e8s...",
+        "vosgesmatin.fr/2015/05/la-magie-des-oiseaux-chanteurs": {
+            "title": "La magie des oiseaux chanteurs...",
+            "snippet": "UUn oiseau multicolore au plumage \u00e9clatant sanime dans une belle cage dor\u00e9e. Il bat des ailes, tourne sur lui-m\u00eame, piaffe, siffle et tr\u00e9pigne en symbiose. Sauf que cet oiseau nest pas un oiseau, mais un automate. Un objet exceptionnel,...",
             "date": "2015-05-02",
             "categories": "magie",
-            "tags": "barbie,magie,heureusement",
-            "recuweb_url": "http://fr.recuweb.com/magie/tvmag.lefigaro.fr/2015/05/barbie-et-la-magie-de-mode",
+            "tags": "exceptionnel,lui,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/vosgesmatin.fr/2015/05/la-magie-des-oiseaux-chanteurs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=magie&format=RSS&cc=fr",
-            "source_url": "http://tvmag.lefigaro.fr/programme-tv/fiche/gulli/telefilm/202644491/barbie-et-la-magie-de-la-mode.html"
+            "source_url": "http://vosgesmatin.fr/art-et-culture/2015/05/03/la-magie-des-oiseaux-chanteurs"
         },
         "toutelatele.com/2015/05/barbie-et-la-magie-des-perles": {
             "title": "Barbie et la magie des perles...",
             "snippet": "Dans cette nouvelle aventure Barbie est Lumina, une sir\u00e8ne qui r\u00eave de devenir une princesse. Lumina a un pouvoir magique exceptionnel depuis son plus jeune ge: elle peut faire danser et scintiller les perles! Lumina et sa meilleure amie Kuda,...",
             "date": "2015-05-01",
             "categories": "magie",
-            "tags": "magique,barbie,magie",
+            "tags": "perles,magique,exceptionnel,barbie,magie",
             "recuweb_url": "http://fr.recuweb.com/magie/toutelatele.com/2015/05/barbie-et-la-magie-des-perles",
             "resource_url": "http://www.bing.com/news/search?first=1&q=magie&format=RSS&cc=fr",
             "source_url": "http://toutelatele.com/progTv/fiche.php?id=1121139&date=2015-05-01"
-        },
-        "larep.fr/2015/05/visite-dans-lunivers-des-vaches-laiti%C3%A8res": {
-            "title": "Visite dans lunivers des vaches laiti\u00e8res...",
-            "snippet": "La propri\u00e9taire, Nicole Cordier, organise des visites pendant les vacances... Une vingtaine de personnes d\u00e9couvrent l'art de la magie. La journ\u00e9e d\u00e9couverte des arts de la magie organis\u00e9e, dimanche, par l'association Mental art magie de...",
-            "date": "2015-05-01",
-            "categories": "arts,magie",
-            "tags": "art,magie",
-            "recuweb_url": "http://fr.recuweb.com/magie/larep.fr/2015/05/visite-dans-lunivers-des-vaches-laiti%C3%A8res",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=magie&format=RSS&cc=fr",
-            "source_url": "http://larep.fr/loiret/actualite/pays/loire-sologne/2015/05/02/visite-dans-lunivers-des-vaches-laitieres_11426896.html"
         },
         "lesoir.be/2015/04/l-art-et-les-tout-petits-mini-public-pour-maxi-magie": {
             "title": "L'art et les tout-petits: mini-public pour maxi-magie - Le Soir...",
             "snippet": "Le SoirL'art et les tout-petits: mini-public pour maxi-magieLe SoirPour la troisi\u00e8me \u00e9dition de son festival May Baby, le mus\u00e9e d'art contemporain distille toutes sortes d'ateliers d'exp\u00e9rimentation artistique et sensorielle: un tapis magique...",
             "date": "2015-04-29",
             "categories": "magie",
-            "tags": "magique,art,magie",
+            "tags": "magique,public,magie",
             "recuweb_url": "http://fr.recuweb.com/magie/lesoir.be/2015/04/l-art-et-les-tout-petits-mini-public-pour-maxi-magie",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magie%2Bmagie&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magie&output=atom&nord=1",
             "source_url": "http://lesoir.be/864764/article/culture/scenes/2015-04-29/l-art-et-tout-petits-mini-public-pour-maxi-magie"
         },
         "allocine.fr/2015/04/harrison-ford-bluff%C3%A9-par-un-tour-de-magie-allocin%C3%A9": {
@@ -58,18 +48,68 @@
             "categories": "magie",
             "tags": "lui,tour,magie,cartes",
             "recuweb_url": "http://fr.recuweb.com/magie/allocine.fr/2015/04/harrison-ford-bluff%C3%A9-par-un-tour-de-magie-allocin%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magie%2Bmagie&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=magie&output=atom&nord=1",
             "source_url": "http://allocine.fr/video/video-19553063/"
         },
-        "telerama.fr/2015/04/bruno-podalyd%C3%A8s-je-con%C3%A7ois-un-tour-de-magie-comme-film-t%C3%A9l%C3%A9": {
-            "title": "Bruno Podalyd\u00e8s: Je con\u00e7ois un tour de magie comme un film... - T\u00e9l\u00e9...",
-            "snippet": "T\u00e9l\u00e9 Podalyd\u00e8s: Je con\u00e7ois un tour de magie comme un film...T\u00e9l\u00e9 \u00e8s t\u00f4t, enfant. Le premier spectacle m'a tout de suite fascin\u00e9. Je ne comprenais pas la moiti\u00e9 des tours mais j'avais l'\u00e9trange impression que chaque objet \u00e9tait dou\u00e9 d'un...",
-            "date": "2015-04-22",
+        "telerama.fr/2015/04/bruno-podalyd%C3%A8s-je-con%C3%A7ois-un-tour-de-magie-comme-film": {
+            "title": "Bruno Podalyd\u00e8s: Je con\u00e7ois un tour de magie comme un film, avec son histoire, et ses personnages...",
+            "snippet": "Le r\u00e9alisateur de Libert\u00e9-Ol\u00e9ron s'est entich\u00e9 de prestidigitation. Pas celle qui fait dispara\u00eetre la tour Eiffel, celle, subtile, d'un tour de passe-passe. Comment avez-vous d\u00e9couvert la magie? Tr\u00e8s t\u00f4t, enfant. Le premier spectacle m'a...",
+            "date": "2015-04-23",
             "categories": "magie",
-            "tags": "film,tours,magie",
-            "recuweb_url": "http://fr.recuweb.com/magie/telerama.fr/2015/04/bruno-podalyd%C3%A8s-je-con%C3%A7ois-un-tour-de-magie-comme-film-t%C3%A9l%C3%A9",
-            "resource_url": "http://news.google.fr/?hl=fr&q=magie%2Bmagie&output=atom&nord=1",
+            "tags": "comme,film,tour,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/telerama.fr/2015/04/bruno-podalyd%C3%A8s-je-con%C3%A7ois-un-tour-de-magie-comme-film",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=magie&format=RSS&cc=fr",
             "source_url": "http://telerama.fr/sortir/bruno-podalydes-je-concois-un-tour-de-magie-comme-un-film-avec-son-histoire-et-ses-personnages,125770.php"
+        },
+        "cosmopolitan.ro/2015/04/de-ce-relatia-voastra-are-nevoie-revizie-cosmopolitan": {
+            "title": "De ce relatia voastra are nevoie de revizie - Cosmopolitan...",
+            "snippet": "CosmopolitanDe ce relatia voastra are nevoie de revizieCosmopolitan... multe cazuri, pe cele existente, sporind satisfacia relaiei de iubire. Nu vreau ca oamenii s cread c aceast strategie le va soluiona problemele ca prin minune. Nu e magie, dar...",
+            "date": "2015-04-05",
+            "categories": "magie",
+            "tags": "prin,cosmopolitan,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/cosmopolitan.ro/2015/04/de-ce-relatia-voastra-are-nevoie-revizie-cosmopolitan",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmagie&output=atom&nord=1",
+            "source_url": "http://cosmopolitan.ro/love-sex/de-ce-relatia-voastra-are-nevoie-de-revizie-2158773"
+        },
+        "femeia.ro/2015/04/interviu-cezar-ouatu": {
+            "title": "Interviu: Cezar Ouatu -...",
+            "snippet": ": Cezar cred c acest contrast dintre prezena mea masculin i vocea mea senzual, aerat creeaz acea magie pe care eu mizez i care vd c funcioneaz. Piesa cu care particip la Eurovision a avut un impact foarte mare la public, de care, sincer, m-am mirat.",
+            "date": "2015-04-02",
+            "categories": "magie",
+            "tags": "care,public,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/femeia.ro/2015/04/interviu-cezar-ouatu",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmagie&output=atom&nord=1",
+            "source_url": "http://femeia.ro/vedete/interviu-cezar-ouatu-2158506/"
+        },
+        "cosmopolitan.ro/2015/03/7-lucruri-pe-care-trebuie-sa-le-stii-despre-filmul-cenusareasa": {
+            "title": "7 lucruri pe care trebuie sa le stii despre filmul Cenusareasa - Cosmopolitan...",
+            "snippet": "Cosmopolitan7 lucruri pe care trebuie sa le stii despre filmul CenusareasaCosmopolitan... Golden Compass). Related Items. Previous Story (P) Urmarit in Noapte. Next Story Cenusareasa, un film despre curaj, bunatate si magie... Cosmo trend.",
+            "date": "2015-03-11",
+            "categories": "magie",
+            "tags": "film,care,cosmopolitan,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/cosmopolitan.ro/2015/03/7-lucruri-pe-care-trebuie-sa-le-stii-despre-filmul-cenusareasa",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmagie&output=atom&nord=1",
+            "source_url": "http://cosmopolitan.ro/cosmo-fun/7-lucruri-pe-care-trebuie-sa-le-stii-despre-filmul-cenusareasa-2157941"
+        },
+        "femeia.ro/2015/01/de-ce-esti-mai-trista-iarna": {
+            "title": "De ce esti mai trista iarna -...",
+            "snippet": "ce esti mai trista... pentru somn), s se deregleze! Spaiul geografic, genetica sau propria chimie a creierului contribuie, de asemenea, la declanarea acestei rupturi de ritm care provoac astenia sezonier. Acum \u00eenelegi de ce, ca prin magie, renati...",
+            "date": "2015-01-09",
+            "categories": "chimie,magie",
+            "tags": "prin,care,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/femeia.ro/2015/01/de-ce-esti-mai-trista-iarna",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmagie&output=atom&nord=1",
+            "source_url": "http://femeia.ro/sanatate/de-ce-esti-mai-trista-iarna-2155650/"
+        },
+        "generation-nt.com/2009/04/internet-explorer-8-solution-pour-la-lenteur-des-onglets-g%C3%A9n%C3%A9ration-nt": {
+            "title": "Internet Explorer 8: solution pour la lenteur des onglets - G\u00e9n\u00e9ration NT...",
+            "snippet": "Internet Explorer 8: solution pour la lenteur des ongletsG\u00e9n\u00e9ration NTPetit tour de magie possible en remplissant la liste des sites bloqu\u00e9s qui est propre aux navigateurs avec une quantit\u00e9 importante d'entr\u00e9es de sites identifi\u00e9s comme...",
+            "date": "2009-04-03",
+            "categories": "internet,magie",
+            "tags": "comme,tour,magie",
+            "recuweb_url": "http://fr.recuweb.com/magie/generation-nt.com/2009/04/internet-explorer-8-solution-pour-la-lenteur-des-onglets-g%C3%A9n%C3%A9ration-nt",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bmagie&output=atom&nord=1",
+            "source_url": "http://generation-nt.com/ie8-spybot-ouverture-onglets-lenteur-actualite-258721.html"
         }
     }
 }
