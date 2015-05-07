@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "judo",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/judo/",
@@ -11,29 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/judo/judo/blogs.json"
     },
     "items": {
+        "dailymotion.com/2015/04/bo-deal-intro-prod-by-judo": {
+            "title": "Bo Deal - Intro Prod By Judo...",
+            "snippet": "Bo Deal - Intro [Prod By Judo]Author: RemixRecordsTags: Bo Deal - Intro Prod By Judo Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "RemixRecords",
+            "categories": "judo",
+            "tags": "prod,prod_by_judo,judo,deal,remixrecordstags",
+            "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2015/04/bo-deal-intro-prod-by-judo",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+judo/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2no9si_bo-deal-intro-prod-by-judo_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2no9si_bo-deal-intro-prod-by-judo_music"
+        },
+        "dailymotion.com/2015/04/bo-deal-real-vs-fake-prod-by-judo": {
+            "title": "Bo Deal - Real Vs Fake Prod By Judo...",
+            "snippet": "Bo Deal - Real Vs Fake [Prod By Judo]Author: RemixRecordsTags: Bo Deal - Real Vs Fake Prod By Judo Posted: 23 April 2015Rating:: 0...",
+            "date": "2015-04-23",
+            "author_name": "RemixRecords",
+            "categories": "judo",
+            "tags": "prod,prod_by_judo,judo,deal,remixrecordstags",
+            "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2015/04/bo-deal-real-vs-fake-prod-by-judo",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+judo/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2nob41_bo-deal-real-vs-fake-prod-by-judo_music",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2nob41_bo-deal-real-vs-fake-prod-by-judo_music"
+        },
         "dailymotion.com/2015/04/une-journ%C3%A9e-consacr%C3%A9e-au-handi-judo-lille": {
             "title": "Une journ\u00e9e consacr\u00e9e au handi judo (Lille)...",
             "snippet": "Sites webs/blogs, copiez cette vid\u00e9o avec le bouton \"code embed\"! Si vous voulez t\u00e9l\u00e9charger, allez sur. Entretien avec Fran\u00e7ois-Joseph Malaize, chef de projet handisport. Plus d'infos sur. Pour exploitation TV, droits r\u00e9serv\u00e9s, nous contacter...",
             "date": "2015-04-18",
             "author_name": "GrandLilleTv",
             "categories": "judo",
-            "tags": "droits,journ\u00e9e,judo",
+            "tags": "judo",
             "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2015/04/une-journ%C3%A9e-consacr%C3%A9e-au-handi-judo-lille",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/judo/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+judo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2n49jv_une-journee-consacree-au-handi-judo-lille_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2n49jv_une-journee-consacree-au-handi-judo-lille_sport"
-        },
-        "youtube.com/2015/04/vismonsport-marie-et-arthur-d%C3%A9couvrent-le-judo-avec-sandrine-auri%C3%A8res-martinet": {
-            "title": "Vismonsport - Marie et Arthur d\u00e9couvrent le judo avec Sandrine Auri\u00e8res-Martinet...",
-            "snippet": "Vismonsport - Marie et Arthur d\u00e9couvrent le judo avec Sandrine Auri\u00e8res-Martinet Dans le cadre de la web s\u00e9rie Vismonsport, 8 jeunes de 10 \u00e0 25 ans ont eu la chance de partager une journ\u00e9e hors du commun avec des champions en situation de...",
-            "date": "2015-04-13",
-            "author_name": "HarmonieMutuelle",
-            "categories": "judo",
-            "tags": "journ\u00e9e,situation,judo",
-            "recuweb_url": "http://fr.recuweb.com/judo/youtube.com/2015/04/vismonsport-marie-et-arthur-d%C3%A9couvrent-le-judo-avec-sandrine-auri%C3%A8res-martinet",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo%2Bjudo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=I5I-yst-tvw&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/I5I-yst-tvw/0.jpg"
         },
         "dailymotion.com/2015/04/championnats-du-monde-judo-v%C3%A9t%C3%A9ran-2014-w-lacombe3": {
             "title": "Championnats du monde judo v\u00e9t\u00e9ran 2014. W Lacombe3...",
@@ -53,59 +65,23 @@
             "date": "2015-03-31",
             "author_name": "carolus800",
             "categories": "judo",
-            "tags": "club,judo,mars,tags",
+            "tags": "judo",
             "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2015/03/judo-club-pont%C3%A9valois-rumilly-29-mars-2015",
             "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/judo/0?af=1",
             "source_url": "http://dailymotion.com/video/x2l7uhv_judo-club-pontevalois-rumilly-29-mars-2015_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2l7uhv_judo-club-pontevalois-rumilly-29-mars-2015_sport"
         },
-        "dailymotion.com/2015/03/comp%C3%A9tition-judo-charny-2015": {
-            "title": "Comp\u00e9tition Judo Charny 2015...",
-            "snippet": "Comp\u00e9tition Charny 2015 Gymnase de Charny \" derri\u00e8re la mairie au 1er niveau \" 77400 Charny 15 mars 2015 Moyens Audiovisuels Sony HDR PJ790 Gopro H\u00e9ro 4 Montage Swallow Multim\u00e9diaAuthor: swallowzTags: Posted: 24 March 2015Rating:: 0...",
-            "date": "2015-03-24",
-            "author_name": "swallowz",
-            "categories": "judo",
-            "tags": "judo,mars",
-            "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2015/03/comp%C3%A9tition-judo-charny-2015",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/judo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2kguk5_competition-judo-charny-2015_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2kguk5_competition-judo-charny-2015_sport"
-        },
-        "dailymotion.com/2015/03/beginning-judo-learn-with-british-coach-mike-liptrot": {
-            "title": "Beginning Judo - Learn with British Judo coach, Mike Liptrot...",
-            "snippet": "Beginning Judo - Learn with British Judo coach, Mike LiptrotTake downs, pins, chokes, bars, atemi and defences from the kneeling position, under his all-fours o...: bande-annonce-filmTags: Posted: 19 March 2015Rating:: 0...",
-            "date": "2015-03-19",
-            "author_name": "bande-annonce-film",
-            "categories": "judo",
+        "youtube.com/2014/09/judo-sensation-veterans": {
+            "title": "Judo Sensation Veterans...",
+            "snippet": "Judo Sensation Veterans Les judokas v\u00e9t\u00e9rans prolongent le plaisir sur les tatamis en comp\u00e9 Judo & MAA95 Hafid Khiar, Mohamed El Marzouki, Ludivine Javelle, Moussa Galoul, Nadir Beztout, Kamel Ouarti,... From: Judo On Line Views: 2049 8 ratings...",
+            "date": "2014-09-20",
+            "author_name": "Judo On Line",
+            "categories": "plaisir,judo",
             "tags": "judo",
-            "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2015/03/beginning-judo-learn-with-british-coach-mike-liptrot",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/judo+judo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2jz077_beginning-judo-learn-with-british-judo-coach-mike-liptrot_shortfilms",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2jz077_beginning-judo-learn-with-british-judo-coach-mike-liptrot_shortfilms"
-        },
-        "dailymotion.com/2014/10/judo-officiel-perso-fan": {
-            "title": "judo officiel perso fan de judo...",
-            "snippet": "Author: lucky76400Tags: Judo Teddy Riner Lucie D\u00e9cosse David Douillet Automne Pavia Posted: 17 October 2014Rating:: 0...",
-            "date": "2014-10-17",
-            "author_name": "lucky76400",
-            "categories": "judo",
-            "tags": "judo,tags",
-            "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2014/10/judo-officiel-perso-fan",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/judo+judo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2841yt_judo-officiel-perso-fan-de-judo_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2841yt_judo-officiel-perso-fan-de-judo_sport"
-        },
-        "dailymotion.com/2014/08/judo-tour-littoral-2014-cours-de-par-barbara-harel": {
-            "title": "Judo Tour Littoral 2014: cours de judo par Barbara Harel...",
-            "snippet": "Musique: MrJuan - Wonderful Land (musique libre de droits)Author: FFJudoTags: Posted: 03 August 2014Rating:: 0...",
-            "date": "2014-08-03",
-            "author_name": "FFJudo",
-            "categories": "musique,judo",
-            "tags": "droits,judo",
-            "recuweb_url": "http://fr.recuweb.com/judo/dailymotion.com/2014/08/judo-tour-littoral-2014-cours-de-par-barbara-harel",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/judo+judo/0?af=1",
-            "source_url": "http://dailymotion.com/video/x22q6pz_judo-tour-littoral-2014-cours-de-judo-par-barbara-harel_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x22q6pz_judo-tour-littoral-2014-cours-de-judo-par-barbara-harel_sport"
+            "recuweb_url": "http://fr.recuweb.com/judo/youtube.com/2014/09/judo-sensation-veterans",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=NYdGZLtlfuU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/NYdGZLtlfuU/0.jpg"
         },
         "youtube.com/2014/07/l-esprit-du-judo-n51-les-in%C3%A9dits-mag-ne-waza-renversements": {
             "title": "L'Esprit du Judo n51 - Les in\u00e9dits du mag - Ne-waza - Renversements par les jambes...",
@@ -113,23 +89,45 @@
             "date": "2014-07-23",
             "author_name": "lespritdujudo",
             "categories": "judo",
-            "tags": "situation,judo",
+            "tags": "judo",
             "recuweb_url": "http://fr.recuweb.com/judo/youtube.com/2014/07/l-esprit-du-judo-n51-les-in%C3%A9dits-mag-ne-waza-renversements",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo%2Bjudo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=zo37mrY23AQ&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/zo37mrY23AQ/0.jpg"
         },
-        "youtube.com/2014/05/departement-poussins-judo-club-nazairien": {
-            "title": "Departement Poussins - Judo Club Nazairien...",
-            "snippet": "Departement Poussins - Judo Club Nazairien D\u00e9partement Poussins le 25 Mai au dojo d\u00e9partemental du Croissant \u00e0 Nantes - Judo Club Nazairien. From: JudoClubNazairien Views: 326 2 ratings Time: 04:51 More in Sports...",
-            "date": "2014-05-27",
-            "author_name": "JudoClubNazairien",
-            "categories": "judo,sport",
-            "tags": "judo,club",
-            "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/05/departement-poussins-judo-club-nazairien",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo%2Bjudo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=O9cTIhYH7dA&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/O9cTIhYH7dA/0.jpg"
+        "youtube.com/2014/01/david-douillet-vs-mokhtar-le-match-de-judo-tpmp-08-01": {
+            "title": "David Douillet vs. Mokhtar, le match de judo - TPMP - 08/01/2014...",
+            "snippet": "David Douillet vs. Mokhtar, le match de judo - TPMP - 08/01/2014 Pour l'op\u00e9ration Pi\u00e8ces Jaunes, David Douillet donne de sa personne, et c'est Mokhtar qui prend cher! Ce qu'il ne fallait pas rater dans Touche pas \u00e0 mon poste! avec Cyril Hanouna...",
+            "date": "2014-01-21",
+            "author_name": "D8",
+            "categories": "judo",
+            "tags": "judo",
+            "recuweb_url": "http://fr.recuweb.com/judo/youtube.com/2014/01/david-douillet-vs-mokhtar-le-match-de-judo-tpmp-08-01",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=-SfjhJD8QzU&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/-SfjhJD8QzU/0.jpg"
+        },
+        "youtube.com/2013/10/kinshasa-judo-onatra-vs-ngiri": {
+            "title": "Kinshasa JUDO: ONATRA vs NGIRI-NGIRI...",
+            "snippet": "Kinshasa JUDO: ONATRA vs NGIRI-NGIRI Kinshasa JUDO: ONATRA vs NGIRI-NGIRI, Kinshasa, Kinois FIER De L'etre. From: Kinois FIER De L'etre Views: 1548 6 ratings Time: 09:57 More in People & Blogs...",
+            "date": "2013-10-17",
+            "author_name": "Kinois FIER De L'etre",
+            "categories": "judo",
+            "tags": "judo",
+            "recuweb_url": "http://fr.recuweb.com/judo/youtube.com/2013/10/kinshasa-judo-onatra-vs-ngiri",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=jWGgsq1Yzg0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/jWGgsq1Yzg0/0.jpg"
+        },
+        "youtube.com/2013/06/jeff-se-fait-defoncer-par-judoka-haut-classe-c-cauet": {
+            "title": "Jeff se fait defoncer par judoka haut-classe! - C'Cauet sur NRJ...",
+            "snippet": "Jeff se fait defoncer par judoka haut-classe! - C'Cauet sur NRJ Jeff se fait d\u00e9foncer par judoka haut-class\u00e9! C'Cauet sur NRJ de 21h minuit! Pour plus de kiff, abonne-toi! Retrouve... From: Cauet Views: 161667 2532 ratings Time: 05:24 More in...",
+            "date": "2013-06-12",
+            "author_name": "Cauet",
+            "recuweb_url": "http://fr.recuweb.com/youtube.com/2013/06/jeff-se-fait-defoncer-par-judoka-haut-classe-c-cauet",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=judo&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=tfetYURlrss&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/tfetYURlrss/0.jpg"
         }
     }
 }
