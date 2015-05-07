@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "dokuwiki",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/dokuwiki/",
@@ -17,9 +17,9 @@
             "date": "2015-04-14",
             "author_name": "no_email@example.com (jonas)",
             "categories": "dokuwiki,wiki",
-            "tags": "souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,bonjour,wiki",
+            "tags": "pages,page,fonctionne,souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,bonjour,wiki",
             "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/04/edition-de-page-dokuwiki-user-forum",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/12472"
         },
         "forum.dokuwiki.org/2015/03/cr%C3%A9ation-de-deux-wiki-dokuwiki-user-forum": {
@@ -28,10 +28,65 @@
             "date": "2015-03-04",
             "author_name": "no_email@example.com (lpawel)",
             "categories": "dokuwiki,wiki",
-            "tags": "installation,souhaite,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,wiki,bonjour",
+            "tags": "souhaite,cr\u00e9er,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,wiki,bonjour",
             "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2015/03/cr%C3%A9ation-de-deux-wiki-dokuwiki-user-forum",
-            "resource_url": "http://www.google.com/search?q=dokuwiki%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=dokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.dokuwiki.org/thread/12326"
+        },
+        "forum.dokuwiki.org/2011/09/lien-dans-mails-dokuwikiurl-dokuwiki-user-forum": {
+            "title": "lien dans mails, DOKUWIKIURL - DokuWiki User Forum...",
+            "snippet": "Tu as bien du indiquer localhost quelque part? A tout hasard, regarde dans le fichier de config au niveau de la variable DOKUWIKIURL. Nickko Ergonome/Usability expert...",
+            "date": "2011-09-20",
+            "author_name": "no_email@example.com (PierreDubarry)",
+            "categories": "dokuwiki",
+            "tags": "fichier,localhost,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/forum.dokuwiki.org/2011/09/lien-dans-mails-dokuwikiurl-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/7413"
+        },
+        "forum.dokuwiki.org/2011/05/cr%C3%A9er-une-map-visuelle-du-wiki-dokuwiki-user-forum": {
+            "title": "cr\u00e9er une map visuelle du wiki - DokuWiki User Forum...",
+            "snippet": "localhost/dokuwiki-2010-11-07a/... Je fais cette proc\u00e9dure car j'ai trouv\u00e9 cette page::cli qui explique que les fichiers php dans le bin doivent etre execut\u00e9s depuis une ligne de commande.",
+            "date": "2011-05-29",
+            "author_name": "no_email@example.com (mmi)",
+            "categories": "php,dokuwiki,wiki",
+            "tags": "php,ligne,page,dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,cr\u00e9er,wiki,localhost",
+            "recuweb_url": "http://fr.recuweb.com/wiki/forum.dokuwiki.org/2011/05/cr%C3%A9er-une-map-visuelle-du-wiki-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/7043"
+        },
+        "forum.dokuwiki.org/2009/11/administration-dokuwiki-user-forum": {
+            "title": "Administration - DokuWiki User Forum...",
+            "snippet": "http://localhost:8800/?do=login. Enfin de rajouter:?do=login. T'as av\u00ec dit, que n'i a pas nada estela. I a pas sonque lo movement deus astres e totas la causas. Lo mon c\u00f2r? Non. Son tremolar.",
+            "date": "2009-11-21",
+            "author_name": "no_email@example.com (gretay)",
+            "categories": "dokuwiki",
+            "tags": "dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,administration,localhost",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/forum.dokuwiki.org/2009/11/administration-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/4562"
+        },
+        "forum.dokuwiki.org/2009/06/impossible-de-se-connecter-r%C3%A9solu-dokuwiki-user-forum": {
+            "title": "impossible de se connecter r\u00e9solu - DokuWiki User Forum...",
+            "snippet": "avant de me connecter j'ai un cookie (qui s'appelle DokuWiki) et apr\u00e8s un cookie en plus a \u00e9t\u00e9 cr\u00e9\u00e9. Nom DW4de72365a75c... Contenu cm9vdHx8bFBwW... H\u00f4te localhost. Chemin/Nouveau dossier/dokuwiki-2009-02-14/...",
+            "date": "2009-06-17",
+            "author_name": "no_email@example.com (nmss)",
+            "categories": "dokuwiki",
+            "tags": "dokuwiki,dokuwiki_user,dokuwiki_user_forum,user,user_forum,forum,localhost",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/forum.dokuwiki.org/2009/06/impossible-de-se-connecter-r%C3%A9solu-dokuwiki-user-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/3877"
+        },
+        "forum.dokuwiki.org/2009/03/pb-insertion-d-image-lorsque-l-url-contient-un-getfile-dokuwiki": {
+            "title": "Pb insertion d'image lorsque l'URL contient un getfile - DokuWiki...",
+            "snippet": "localhost/tata/?getfile=4444 ne fonctionne pas \u00e7a m'affiche localhost/tata/au lieu de l'image 4444 est l'id du fichier dans ma... au lieu de l'image.:imagesimages_dynamiques...",
+            "date": "2009-03-18",
+            "author_name": "no_email@example.com (patrick38)",
+            "categories": "dokuwiki",
+            "tags": "fichier,localhost,fonctionne,dokuwiki",
+            "recuweb_url": "http://fr.recuweb.com/dokuwiki/forum.dokuwiki.org/2009/03/pb-insertion-d-image-lorsque-l-url-contient-un-getfile-dokuwiki",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bdokuwiki&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.dokuwiki.org/thread/3510"
         }
     }
 }
