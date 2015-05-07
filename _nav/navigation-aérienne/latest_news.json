@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "navigation-a\u00e9rienne",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/navigation-a\u00e9rienne/",
@@ -11,14 +11,24 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/navigation-a%C3%A9rienne/navigation-a%C3%A9rienne/blogs.json"
     },
     "items": {
+        "camer.be/2015/05/compagnie-nationale-de-navigation-a%C3%A9rienne-je-suis-camerounais-mais-ne-prends": {
+            "title": "COMPAGNIE NATIONALE DE NAVIGATION A\u00c9RIENNE: Je suis Camerounais, mais je ne prends pas Camair-Co::...",
+            "snippet": "COMPAGNIE NATIONALE DE NAVIGATION A\u00c9RIENNE: Je suis Camerounais, mais je ne prends pas Camair-Co::...",
+            "date": "2015-05-06",
+            "categories": "navigation",
+            "tags": "compagnie,nationale,navigation,navigation_a\u00e9rienne,a\u00e9rienne,camair",
+            "recuweb_url": "http://fr.recuweb.com/navigation/camer.be/2015/05/compagnie-nationale-de-navigation-a%C3%A9rienne-je-suis-camerounais-mais-ne-prends",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bnavigation%2Ba%C3%A9rienne&format=RSS&cc=fr",
+            "source_url": "http://camer.be/41932/11:1/compagnie-nationale-de-navigation-aerienne-je-suis-camerounais-mais-je-ne-prends-pas-camair-co-cameroon.html"
+        },
         "camer.be/2015/05/navigation-a%C3%A9rienne-le-cameroun-et-la-malchance-des-avions": {
             "title": "Navigation A\u00e9rienne: Le Cameroun et la malchance des avions... -...",
             "snippet": "Navigation A\u00e9rienne: Le Cameroun et la malchance des avions...,aerienne,cameroun,malchance,des,avions,cameroon,Navigation A\u00e9rienne De l'\u00e9pop\u00e9e inachev\u00e9e de la Cameroon Airlines aux balbutiements de la Camair-Co. Revue de bilans et histoires...",
             "date": "2015-05-02",
             "categories": "navigation",
-            "tags": "airlines,avions,navigation,navigation_a\u00e9rienne,a\u00e9rienne",
+            "tags": "airlines,avions,navigation,navigation_a\u00e9rienne,a\u00e9rienne,camair",
             "recuweb_url": "http://fr.recuweb.com/navigation/camer.be/2015/05/navigation-a%C3%A9rienne-le-cameroun-et-la-malchance-des-avions",
-            "resource_url": "http://news.google.fr/?hl=fr&q=navigation%2Ba%C3%A9rienne%2Bnavigation%2Ba%C3%A9rienne&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=navigation%2Ba%C3%A9rienne&output=atom&nord=1",
             "source_url": "http://camer.be/41805/11:1/navigation-aerienne-le-cameroun-et-la-malchance-des-avions-cameroon.html"
         }
     }
