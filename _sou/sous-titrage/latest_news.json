@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "sous-titrage",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/sous-titrage/",
@@ -11,20 +11,30 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/sous-titrage/sous-titrage/blogs.json"
     },
     "items": {
-        "geeksandcom.com/2015/05/l-attaque-des-titans-une-nouvelle-bande-annonce": {
-            "title": "L Attaque des Titans: une nouvelle bande-annonce...",
-            "snippet": "Cest par le biais de l\u00e9diteur Madman que nous d\u00e9couvrons la nouvelle bande annonce du film lAttaque des Titans en sous-titrage anglais. Par rapport aux anciennes bandes-annonces, celle-ci nous donne un meilleur aper\u00e7u du casting et des titans.",
-            "date": "2015-05-01",
-            "tags": "titrage",
-            "recuweb_url": "http://fr.recuweb.com/geeksandcom.com/2015/05/l-attaque-des-titans-une-nouvelle-bande-annonce",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
-            "source_url": "http://geeksandcom.com/2015/05/01/lattaque-des-titans-une-nouvelle-bande-annonce"
+        "syrie.blog.lemonde.fr/2015/05/saraqeb-en-s%C3%A9rie": {
+            "title": "Saraqeb en s\u00e9rie...",
+            "snippet": "Nous vous en proposons deux en traduction. Pour acc\u00e9der au sous-titrage, cliquer sur CC. Au fil de l\u00e9volution de la situation politique, les amis du groupe initial ont adopt\u00e9 des strat\u00e9gies diff\u00e9rentes: certains ont rejoint les rangs de...",
+            "date": "2015-05-05",
+            "categories": "politique,traduction",
+            "tags": "diff\u00e9rentes,traduction,titrage",
+            "recuweb_url": "http://fr.recuweb.com/traduction/syrie.blog.lemonde.fr/2015/05/saraqeb-en-s%C3%A9rie",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsous%2Btitrage&format=RSS&cc=fr",
+            "source_url": "http://syrie.blog.lemonde.fr/2015/05/05/saraqeb-en-serie/"
+        },
+        "gamekult.com/2015/05/d4-se-d%C3%A9taille-sur-pc": {
+            "title": "D4 se d\u00e9taille sur PC...",
+            "snippet": "L'interface a donc \u00e9t\u00e9 repens\u00e9e pour le mulot, alors que le jeu tourne d\u00e9sormais en 60 images par seconde et propose diff\u00e9rentes options graphiques (d\u00e9finition, plein \u00e9cran, VSync, ombres dynamiques, sous-titrage fran\u00e7ais) ainsi que des...",
+            "date": "2015-05-04",
+            "tags": "\u00e9cran,diff\u00e9rentes,\u00e9t\u00e9,titrage,fran\u00e7ais",
+            "recuweb_url": "http://fr.recuweb.com/gamekult.com/2015/05/d4-se-d%C3%A9taille-sur-pc",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsous%2Btitrage&format=RSS&cc=fr",
+            "source_url": "http://gamekult.com/actu/d4-se-detaille-sur-pc-A147065.html"
         },
         "newswire.ca/2015/04/isabella-federigi-promue-au-poste-de-vice-pr%C3%A9sidente-programmation-et-production": {
             "title": "Isabella Federigi promue au poste de vice-pr\u00e9sidente, programmation et production, AMI-t\u00e9l\u00e9...",
             "snippet": "avec vid\u00e9odescription et sous-titrage cod\u00e9. \u00c0 propos d'AMI Accessibilit\u00e9 M\u00e9dia Inc. (AMI) est un organisme multim\u00e9dia sans but lucratif au service de plus de cinq millions de Canadiens qui sont aveugles, malvoyants, sourds, malentendants...",
             "date": "2015-04-29",
-            "tags": "propos,titrage",
+            "tags": "titrage,sourds,malentendants",
             "recuweb_url": "http://fr.recuweb.com/newswire.ca/2015/04/isabella-federigi-promue-au-poste-de-vice-pr%C3%A9sidente-programmation-et-production",
             "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
             "source_url": "http://newswire.ca/fr/story/1526765/isabella-federigi-promue-au-poste-de-vice-presidente-programmation-et-production-ami-tele"
@@ -33,10 +43,19 @@
             "title": "La passion de Luc pour l'op\u00e9ra...",
             "snippet": "Avec de gros avantages, le grand \u00e9cran, une sono adapt\u00e9e, le sous-titrage, la d\u00e9couverte des d\u00e9cors du Met', comme disent les initi\u00e9s. Et l'\u00e9num\u00e9ration se poursuit, enthousiaste: J'appr\u00e9cie aussi les jeux de cam\u00e9ras et les gros...",
             "date": "2015-04-29",
-            "tags": "titrage",
+            "tags": "\u00e9cran,titrage",
             "recuweb_url": "http://fr.recuweb.com/lanouvellerepublique.fr/2015/04/la-passion-de-luc-pour-l-op%C3%A9ra",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=sous%2Btitrage&format=RSS&cc=fr",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsous%2Btitrage&format=RSS&cc=fr",
             "source_url": "http://lanouvellerepublique.fr/Loir-et-Cher/Loisirs/24H/n/Contenus/Articles/2015/04/29/La-passion-de-Luc-pour-l-opera-2312242"
+        },
+        "paris-normandie.fr/2015/04/la-s%C3%A9lection-dvd-de-r%C3%A9daction-les-h%C3%A9ritiers-et-famille-b%C3%A9lier": {
+            "title": "La s\u00e9lection DVD de la r\u00e9daction: Les h\u00e9ritiers et La famille B\u00e9lier...",
+            "snippet": "Peu de bonus finalement, si ce nest une rencontre avec les protagonistes. \u00c0 noter, le film est disponible avec le sous-titrage pour sourds et malentendants. Le contraire eut \u00e9t\u00e9 surprenant...",
+            "date": "2015-04-28",
+            "tags": "\u00e9t\u00e9,sourds,malentendants,titrage",
+            "recuweb_url": "http://fr.recuweb.com/paris-normandie.fr/2015/04/la-s%C3%A9lection-dvd-de-r%C3%A9daction-les-h%C3%A9ritiers-et-famille-b%C3%A9lier",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bsous%2Btitrage&format=RSS&cc=fr",
+            "source_url": "http://paris-normandie.fr/detail_article/articles/3108625/la-selection-dvd-de-la-redaction-5"
         }
     }
 }
