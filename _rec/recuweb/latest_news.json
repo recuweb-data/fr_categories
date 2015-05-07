@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "portal_name": "recuweb",
+        "language": "fr",
+        "updated": "20150507"
+    },
+    "schema": {
+        "html:portal": "http://fr.recuweb.com/recuweb/",
+        "graph:videos": "http://fr.recuweb.com/graph/v1.0/recuweb/vid%C3%A9os.json",
+        "graph:news": "http://fr.recuweb.com/graph/v1.0/recuweb/actualit%C3%A9s.json",
+        "graph:blogs": "http://fr.recuweb.com/graph/v1.0/recuweb/blogs.json"
+    },
+    "items": {
+        "powned.tv/2013/05/meeuwen-voeren-2-maanden-celstraf-powned": {
+            "title": "Meeuwen voeren=2 maanden celstraf - PowNed...",
+            "snippet": "PowNedMeeuwen voeren=2 maanden celstrafPowNedrecuweb: RT Socialmedia_age: Social media in less than an hour a week social media struggleMeeuwenhour user coach week bianca t.c 2 dagen geleden. mar_socialmedia: RT Socialmedia_age: Social media in less...",
+            "date": "2013-05-15",
+            "recuweb_url": "http://fr.recuweb.com/powned.tv/2013/05/meeuwen-voeren-2-maanden-celstraf-powned",
+            "resource_url": "http://news.google.fr/?hl=fr&q=recuweb&output=atom&nord=1",
+            "source_url": "http://powned.tv/nieuws/politiek/2013/05/meeuwen_voeren_2_maanden_celst.html"
+        }
+    }
+}
