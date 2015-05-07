@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "baseball",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/baseball/",
@@ -11,15 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/baseball/baseball/blogs.json"
     },
     "items": {
-        "lapresse.ca/2015/05/les-blue-jays-rach%C3%A8tent-contrats-de-copeland-et-carrera": {
-            "title": "Les Blue Jays rach\u00e8tent les contrats de Copeland et Carrera -...",
-            "snippet": "Blue Jays rach\u00e8tent les contrats de Copeland et Course auto Football Golf Hockey Hockey junior Ski et surf Soccer Sports de combat Tennis Autres sports Pools Accueil; Sports; Baseball; Les Blue Jays rach\u00e8tent les contrats de Copeland et Carrera.",
-            "date": "2015-05-02",
-            "categories": "tennis,sport,surf,football,golf,hockey,ski,baseball",
-            "tags": "sports,baseball",
-            "recuweb_url": "http://fr.recuweb.com/baseball/lapresse.ca/2015/05/les-blue-jays-rach%C3%A8tent-contrats-de-copeland-et-carrera",
+        "lapresse.ca/2015/05/royals-cain-abdique-il-purgera-sa-suspension": {
+            "title": "Royals: Cain abdique, il purgera sa suspension -...",
+            "snippet": ": Cain abdique, il purgera sa devait \u00eatre entendu par les Ligues majeures de baseball lundi, mais on lui a indiqu\u00e9 qu'il n'avait aucune chance d'avoir gain de cause. En cons\u00e9quence, en plus de rater le match de dimanche contre les Tigers, il...",
+            "date": "2015-05-03",
+            "categories": "baseball",
+            "tags": "dimanche,baseball,match",
+            "recuweb_url": "http://fr.recuweb.com/baseball/lapresse.ca/2015/05/royals-cain-abdique-il-purgera-sa-suspension",
             "resource_url": "http://news.google.fr/?hl=fr&q=baseball&output=atom&nord=1",
-            "source_url": "http://lapresse.ca/sports/baseball/201505/02/01-4866329-les-blue-jays-rachetent-les-contrats-de-copeland-et-carrera.php"
+            "source_url": "http://lapresse.ca/sports/baseball/201505/03/01-4866507-royals-cain-abdique-il-purgera-sa-suspension.php"
         },
         "quebec.huffingtonpost.ca/2015/04/baltimore-voici-de-quoi-a-l-air-un-match-baseball-professionnel": {
             "title": "Baltimore: Voici de quoi a l'air un match de baseball professionnel... - Le Huffington Post Quebec...",
@@ -36,10 +36,20 @@
             "snippet": "Qui a dit que le baseball n'\u00e9tait pas un sport dangereux? Aux Etats-Unis, l'un des sports rois a offert mardi soir l'une des images les lus impressionnantes lors du match entre les Colorado Rockies et Arizona Diamondsback. Dans la deuxi\u00e8me...",
             "date": "2015-04-29",
             "categories": "sport,baseball",
-            "tags": "lors,sports,sport,baseball,match,re\u00e7oit,balle,plein",
+            "tags": "lors,sport,baseball,match,re\u00e7oit,balle,plein",
             "recuweb_url": "http://fr.recuweb.com/baseball/metronews.fr/2015/04/vid%C3%A9o-baseball-lors-d-un-match-de-nbl-il-re%C3%A7oit",
             "resource_url": "http://www.bing.com/news/search?first=1&q=baseball&format=RSS&cc=fr",
             "source_url": "http://metronews.fr/sport/video-baseball-lors-d-un-match-de-nbl-il-recoit-une-balle-en-plein-visage/modC!5B65KiJb7rNB/"
+        },
+        "recordonline.com/2015/04/letter-so-called-victims-pushing-their-agenda-times-herald-record": {
+            "title": "Letter: So-called 'victims'pushing their agenda - Times Herald-Record...",
+            "snippet": "Letter: So-called 'victims'pushing their agendaTimes Herald-RecordThis is a joke, like saying that the hot dog vendor at Yankee Stadium is participating in the baseball game... and I don't remember hearing that the florist or pizza man were actually...",
+            "date": "2015-04-23",
+            "categories": "baseball",
+            "tags": "baseball",
+            "recuweb_url": "http://fr.recuweb.com/baseball/recordonline.com/2015/04/letter-so-called-victims-pushing-their-agenda-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bbaseball&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150423/OPINION/150429667/101134/OPINION"
         }
     }
 }
