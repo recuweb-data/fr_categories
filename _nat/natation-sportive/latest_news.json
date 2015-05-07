@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "natation-sportive",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/natation-sportive/",
@@ -11,24 +11,23 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/natation-sportive/natation-sportive/blogs.json"
     },
     "items": {
-        "lexpress.fr/2015/04/championnats-d-europe-de-natation-l-express": {
-            "title": "Championnats d'Europe de natation - L'Express...",
-            "snippet": "L'ExpressChampionnats d'Europe de natationL'ExpressTous les deux ans depuis 1926, les nageurs d'Europe s'affrontent sur cinq disciplines: la Nage en eau libre, la Natation sportive, la Natation synchronis\u00e9e, le Plongeon et le Water-polo. Il existe...",
-            "date": "2015-04-24",
-            "categories": "discipline",
-            "tags": "eau,eau-libre,libre,cinq,cinq-disciplines,disciplines,deux,championnats,europe,natation,express,expresschampionnats,natationl,nage,sportive",
-            "recuweb_url": "http://fr.recuweb.com/discipline/lexpress.fr/2015/04/championnats-d-europe-de-natation-l-express",
-            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive&output=atom&nord=1",
-            "source_url": "http://lexpress.fr/actualite/sport/natation/natation-championnats-europe_1674588.html"
+        "francebleu.fr/2015/04/strasbourg-pressentie-pour-accueillir-les-championnats-de-france-natation": {
+            "title": "Strasbourg pressentie pour accueillir les championnats de France de natation...",
+            "snippet": "Le directeur technique national a pu constater que tous les moyens sont mis en \u0153uvre pour d\u00e9velopper les performances sportives et nous accueillerons les championnats de France de natation dhiver, fin novembre. Cest une belle r\u00e9compense pour...",
+            "date": "2015-04-30",
+            "tags": "novembre,national,championnats,france,natation",
+            "recuweb_url": "http://fr.recuweb.com/francebleu.fr/2015/04/strasbourg-pressentie-pour-accueillir-les-championnats-de-france-natation",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bnatation%2Bsportive&format=RSS&cc=fr",
+            "source_url": "http://francebleu.fr/sports/piscine/strasbourg-pressentie-pour-accueillir-les-championnats-de-france-de-natation-2322351"
         },
         "lexpress.fr/2015/04/championnats-du-monde-de-natation-l-express": {
             "title": "Championnats du monde de natation - L'Express...",
             "snippet": "L'ExpressChampionnats du monde de natationL'ExpressTout comme les Championnats d'Europe, les Championnats du Monde de natation ont lieu tous les deux ans. 65 \u00e9preuves divis\u00e9es en cinq disciplines (Nage libre, Natation sportive, Natation...",
             "date": "2015-04-24",
             "categories": "discipline",
-            "tags": "cinq,cinq-disciplines,disciplines,deux,monde,championnats,natation,express,expresschampionnats,natationl,europe,nage,libre,sportive",
+            "tags": "monde,championnats,natation,europe,libre,sportive",
             "recuweb_url": "http://fr.recuweb.com/discipline/lexpress.fr/2015/04/championnats-du-monde-de-natation-l-express",
-            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive%2Bnatation%2Bsportive&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=natation%2Bsportive&output=atom&nord=1",
             "source_url": "http://lexpress.fr/actualite/sport/natation/natation-championnats-monde_1674595.html"
         }
     }
