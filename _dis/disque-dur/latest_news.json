@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "disque-dur",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/disque-dur/",
@@ -11,34 +11,50 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/disque-dur/disque-dur/blogs.json"
     },
     "items": {
-        "commentcamarche.net/2015/05/disque-dur-externe": {
-            "title": "Disque dur externe...",
-            "snippet": "Veuillez m'aider car j'ai un probl\u00e8me s\u00e9rieux avec mon disque dur externe de 500 Go marque TOSHIBA, chaque fois que je le branche sur un ordinateur (PC ou Desk) \u00e7a me demande le formatage hors beaucoup de mes fichiers se trouvent dedans. Comment...",
-            "date": "2015-05-02",
-            "categories": "ordinateur",
-            "tags": "\u00e7a,ordinateur,externe,probl\u00e8me,disque,dur,toshiba",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/05/disque-dur-externe",
+        "pc-boost.com/2015/05/un-disque-dur-externe-de-5-to-pour-159-99": {
+            "title": "Un disque dur externe de 5 To pour 159,99!",
+            "snippet": "Vous pouvez de plus commander sans risque, Nierle et un revendeur allemand tr\u00e9s s\u00e9rieux qui vous livrera an France sans probl\u00e8me par envoi postal ou transporteur. Toshiba STOR.E Canvio Disque dur 3.5 externe, USB 3.0, 5 To, Noir INTELLIGENT.",
+            "date": "2015-05-07",
+            "tags": "noir,disque,externe,dur,france,usb",
+            "recuweb_url": "http://fr.recuweb.com/pc-boost.com/2015/05/un-disque-dur-externe-de-5-to-pour-159-99",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bdisque%2Bdur&format=RSS&cc=fr",
+            "source_url": "http://pc-boost.com/pages/news_1430987652_un-disque-dur-externe-de-5-to-pour-159-99.html"
+        },
+        "silicon.fr/2015/05/le-malware-rombertik-d%C3%A9truit-les-pc-quand-il-est-d%C3%A9tect%C3%A9": {
+            "title": "Le malware Rombertik d\u00e9truit les PC quand il est d\u00e9tect\u00e9...",
+            "snippet": "Lors dune tentative de d\u00e9tection par un logiciel danalyse, le programme malveillant Rombertik peut d\u00e9truire le premier secteur de d\u00e9marrage dun disque dur pour rendre le PC inutilisable. Rombertik peut sint\u00e9grer au navigateur de l...",
+            "date": "2015-05-06",
+            "tags": "disque,dur",
+            "recuweb_url": "http://fr.recuweb.com/silicon.fr/2015/05/le-malware-rombertik-d%C3%A9truit-les-pc-quand-il-est-d%C3%A9tect%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bdisque%2Bdur&format=RSS&cc=fr",
+            "source_url": "http://silicon.fr/malware-rombertik-detruit-pc-disque-dur-115590.html"
+        },
+        "commentcamarche.net/2015/05/disque-dur-externe-storex-non-reconnu": {
+            "title": "Disque dur externe storex non reconnu...",
+            "snippet": "Si le disque n'a pas de lettre, tu pourrais lui attribuer une lettre - clic droit sur le disque en question - 'Modifier la lettre de lecteur et les chemins d'acc\u00e8s':... faq/39851-disque-dur-etat-de-sante-et...",
+            "date": "2015-05-04",
+            "tags": "externe,disque,dur",
+            "recuweb_url": "http://fr.recuweb.com/commentcamarche.net/2015/05/disque-dur-externe-storex-non-reconnu",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bdisque%2Bdur&format=RSS&cc=fr",
+            "source_url": "http://commentcamarche.net/forum/affich-31924075-disque-dur-externe-storex-non-reconnu"
+        },
+        "commentcamarche.net/2015/05/disque-dur-asus-g51j-qui-ne-se-lance": {
+            "title": "Disque dur ASUS G51J qui ne se lance plus...",
+            "snippet": "Comme indiqu\u00e9 dans le titre, lorsque je mets le portable en marche, le bouton power s'allume, le disque dur ne se lance pas et l'\u00e9cran reste noir. Pourtant, le disque dur fonctionne car je viens de le tester avec un cble SATA et toutes les...",
+            "date": "2015-05-03",
+            "tags": "\u00e9cran,lance,disque,dur,asus,portable,noir",
+            "recuweb_url": "http://fr.recuweb.com/commentcamarche.net/2015/05/disque-dur-asus-g51j-qui-ne-se-lance",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31915011-disque-dur-externe"
+            "source_url": "http://commentcamarche.net/forum/affich-31918968-disque-dur-asus-g51j-qui-ne-se-lance-plus"
         },
         "lesnumeriques.com/2015/05/buffalo-ministation-extreme-disque-dur-externe-r%C3%A9sistant-aux-chutes": {
             "title": "Buffalo MiniStation Extreme: disque dur externe r\u00e9sistant aux chutes...",
             "snippet": "D'apparence, le MiniStation Extreme (HD-PZFU3) de Buffalo est un disque dur externe classique. Avec 14,1 cm de long, 9 de large et 2,1 de haut pour 277 grammes, il est plut\u00f4t dans la moyenne du march\u00e9 des HDD externes 2,5. Il se veut n\u00e9anmoins...",
             "date": "2015-05-01",
-            "tags": "n\u00e9anmoins,ministation,externe-r\u00e9sistant,r\u00e9sistant,chutes,buffalo,buffalo_ministation,disque,dur,hdd",
+            "tags": "n\u00e9anmoins,haut,ministation,ministation_extreme,extreme,externe-r\u00e9sistant,r\u00e9sistant,chutes,buffalo,buffalo_ministation,disque,dur,hdd",
             "recuweb_url": "http://fr.recuweb.com/lesnumeriques.com/2015/05/buffalo-ministation-extreme-disque-dur-externe-r%C3%A9sistant-aux-chutes",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
             "source_url": "http://lesnumeriques.com/disque-dur-externe/buffalo-ministation-extreme-disque-dur-externe-resistant-chutes-n41687.html"
-        },
-        "commentcamarche.net/2015/05/probl%C3%A8me-disque-dur-aidez-moi-s-il-vous-pla%C3%AEt": {
-            "title": "Probl\u00e8me disque dur, aidez moi s'il vous pla\u00eet!",
-            "snippet": "mon fr\u00e8re a r\u00e9cup\u00e9r\u00e9 le disque dur de son ordinateur qui ne marchait plus, il s'en servait pour stocker des donn\u00e9e (avec un cble sp\u00e9cial). je l'ai utilis\u00e9 pour sauvegarder tous mes fichier avant de formater mon ordinateur et il marchait...",
-            "date": "2015-05-01",
-            "categories": "ordinateur",
-            "tags": "ordinateur,probl\u00e8me,disque,dur",
-            "recuweb_url": "http://fr.recuweb.com/ordinateur/commentcamarche.net/2015/05/probl%C3%A8me-disque-dur-aidez-moi-s-il-vous-pla%C3%AEt",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
-            "source_url": "http://commentcamarche.net/forum/affich-31913727-probleme-disque-dur-aidez-moi-s-il-vous-plait"
         },
         "zone-numerique.com/2015/04/ministation-extr%C3%AAme-un-disque-dur-externe-r%C3%A9sistant-aux-chocs-et-chutes": {
             "title": "MiniStation Extr\u00eame: un disque dur externe r\u00e9sistant aux chocs et aux chutes...",
@@ -53,19 +69,38 @@
             "title": "Buffalo MiniStation Extr\u00eame, un disque dur externe r\u00e9sistant aux chocs...",
             "snippet": "Le disque dur 2.5 externe MiniStation Extr\u00eame de Buffalo est d\u00e9sormais disponible. Sous la r\u00e9f\u00e9rence HD-PZF, il est disponible en capacit\u00e9s de 1To et 2To, avec une connectique USB 3.0 et un chssis anti-choc r\u00e9pondant aux normes IP5X et IPX3...",
             "date": "2015-04-27",
-            "tags": "chocs,ministation,ministation_extr\u00eame,extr\u00eame,externe,externe-r\u00e9sistant,r\u00e9sistant,r\u00e9sistant-aux-chocs,buffalo,buffalo_ministation,disque,dur,usb",
+            "tags": "chocs,disponible,ministation,ministation_extr\u00eame,extr\u00eame,externe,externe-r\u00e9sistant,r\u00e9sistant,r\u00e9sistant-aux-chocs,buffalo,buffalo_ministation,disque,dur,usb",
             "recuweb_url": "http://fr.recuweb.com/cowcotland.com/2015/04/buffalo-ministation-extr%C3%AAme-un-disque-dur-externe-r%C3%A9sistant-aux-chocs",
             "resource_url": "http://www.bing.com/news/search?first=1&q=disque%2Bdur&format=RSS&cc=fr",
             "source_url": "http://cowcotland.com/news/47455/disque-dur-externe-buffalo-ministation-extreme.html"
         },
-        "challenges.fr/2015/04/faut-il-craquer-pour-le-disque-dur-wi-fi-de-toshiba": {
-            "title": "Faut-il craquer pour le disque dur wi-fi de Toshiba? -...",
-            "snippet": "craquer pour le disque dur wi-fi de Toshiba? affiche une physionomie de disque dur b\u00eate et m\u00e9chant. Et pourtant il en a sous le capot, puisqu'il permet de se connecter simultan\u00e9ment avec six appareils diff\u00e9rents au sein du foyer: smartphones,...",
-            "date": "2015-04-25",
-            "tags": "disque,dur,toshiba",
-            "recuweb_url": "http://fr.recuweb.com/challenges.fr/2015/04/faut-il-craquer-pour-le-disque-dur-wi-fi-de-toshiba",
-            "resource_url": "http://news.google.fr/?hl=fr&q=disque%2Bdur&output=atom&nord=1",
-            "source_url": "http://challenges.fr/high-tech/20150423.CHA5229/faut-il-craquer-pour-le-disque-dur-wi-fi-de-toshiba.html"
+        "bhmag.fr/2015/04/buffalo-lance-le-ministation-extreme-un-disque-dur-antichoc-et-s%C3%A9curis%C3%A9": {
+            "title": "Buffalo lance le MiniStation Extreme: un disque dur antichoc et s\u00e9curis\u00e9...",
+            "snippet": "Les nouveaux disques durs MiniStation Extreme de Buffalo sont des mod\u00e8les... Buffalo nous informe que le Ministation Extreme est disponible en France au prix de 169 TTC pour le mod\u00e8le 1 To (en coloris noir, rouge ou argent) et au prix de 239...",
+            "date": "2015-04-27",
+            "tags": "prix,disponible,disques,disque,s\u00e9curis\u00e9,ministation,ministation_extreme,extreme,lance,buffalo,dur,france,noir",
+            "recuweb_url": "http://fr.recuweb.com/bhmag.fr/2015/04/buffalo-lance-le-ministation-extreme-un-disque-dur-antichoc-et-s%C3%A9curis%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bdisque%2Bdur&format=RSS&cc=fr",
+            "source_url": "http://bhmag.fr/actualites/buffalo-lance-le-ministation-extreme-un-disque-dur-antichoc-et-securise-27401"
+        },
+        "bhmag.fr/2015/04/mini-station-extreme-nfc-un-disque-dur-s%C3%A9curis%C3%A9-qui-mise": {
+            "title": "Mini Station Extreme NFC: un disque dur s\u00e9curis\u00e9 qui mise sur la technologie NFC (MAJ: les prix)...",
+            "snippet": "Le Mini Station Extreme NFC est un disque dur portable USB 3.0 de 2,5 pouces dont le ma\u00eetre mot est la s\u00e9curit\u00e9. Tout d'abord, d'un point de vue physique puisque le disque dur dispose d'une coque renforc\u00e9e capable de r\u00e9sister aux chocs (il...",
+            "date": "2015-04-27",
+            "categories": "technologie",
+            "tags": "chocs,dispose,prix,s\u00e9curis\u00e9,extreme,disque,dur,portable,usb,pouces",
+            "recuweb_url": "http://fr.recuweb.com/technologie/bhmag.fr/2015/04/mini-station-extreme-nfc-un-disque-dur-s%C3%A9curis%C3%A9-qui-mise",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bdisque%2Bdur&format=RSS&cc=fr",
+            "source_url": "http://bhmag.fr/actualites/mini-station-extreme-nfc-disque-dur-securise-qui-mise-technologie-nfc-maj-27361"
+        },
+        "thd.tn/2015/03/tunisie-asus-lance-la-tablette-windows-8-1-plus-mince": {
+            "title": "Tunisie: Asus lance la tablette Windows 8.1 la plus mince au monde - Tunisie Haut D\u00e9bit...",
+            "snippet": "Tunisie: Asus lance la tablette Windows 8.1 la plus mince au mondeTunisie Haut D\u00e9bitIl dispose d'un disque dur SSD ultra-rapide (SSD) avec une capacit\u00e9 de 512 Go. L'\u00e9cran de 13,3 pouces poss\u00e8de une r\u00e9solution QHD de 3200 x 1800 pixels.",
+            "date": "2015-03-27",
+            "tags": "\u00e9cran,dispose,haut,lance,asus,windows,disque,dur,ssd,pouces",
+            "recuweb_url": "http://fr.recuweb.com/thd.tn/2015/03/tunisie-asus-lance-la-tablette-windows-8-1-plus-mince",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bdisque%2Bdur&output=atom&nord=1",
+            "source_url": "http://thd.tn/index.php?option=com_content&view=article&id=4480:tunisie-asus-lance-la-tablette-windows-8-1-la-plus-mince-au-monde&catid=63:enbref&Itemid=316"
         }
     }
 }
