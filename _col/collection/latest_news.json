@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "collection",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/collection/",
@@ -11,32 +11,62 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/collection/collection/blogs.json"
     },
     "items": {
-        "leparisien.fr/2015/05/c-est-la-plus-belle-collection-de-jardins-le-parisien": {
-            "title": "C'est la plus belle collection de jardins - Le Parisien...",
-            "snippet": "Le ParisienC'est la plus belle collection de jardinsLe ParisienC'est la plus belle collection de jardins. Le Festival international des jardins de Chaumont-sur-Loire pr\u00e9sente 30 cr\u00e9ations exceptionnelles de paysagistes. Un enchantement. Christophe...",
-            "date": "2015-05-02",
+        "leblogtvnews.com/2015/05/collection-documentaire-diffus%C3%A9e-ce-3-mai-le-si%C3%A8cle-des-journalistes-blog": {
+            "title": "Collection documentaire diffus\u00e9e ce 3 mai: Le si\u00e8cle des journalistes. - Le Blog TV News (Blog)...",
+            "snippet": "Collection documentaire diffus\u00e9e ce 3 mai: Le si\u00e8cle des journalistes. - Le Blog TV News (Blog)...",
+            "date": "2015-05-03",
             "categories": "collection",
-            "tags": "collection,parisien",
-            "recuweb_url": "http://fr.recuweb.com/collection/leparisien.fr/2015/05/c-est-la-plus-belle-collection-de-jardins-le-parisien",
+            "tags": "collection,mai",
+            "recuweb_url": "http://fr.recuweb.com/collection/leblogtvnews.com/2015/05/collection-documentaire-diffus%C3%A9e-ce-3-mai-le-si%C3%A8cle-des-journalistes-blog",
             "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
-            "source_url": "http://leparisien.fr/espace-premium/culture-loisirs/c-est-la-plus-belle-collection-de-jardins-02-05-2015-4738767.php"
+            "source_url": "http://leblogtvnews.com/2015/05/collection-documentaire-diffusee-ce-3-mai-le-siecle-des-journalistes.html"
+        },
+        "ladepeche.fr/2015/05/la-grand-messe-de-collection-est-pr%C3%AAte": {
+            "title": "La grand-messe de la collection est pr\u00eate -...",
+            "snippet": "grand-messe de la collection est pr\u00ea moins de deux semaines, le 14 mai, la foule des collectionneurs lotois, r\u00e9gionaux et nationaux, envahira Figeac, pour la grand-messe de la collection: le salon toutes collections du jeudi de l'Ascension.",
+            "date": "2015-05-03",
+            "categories": "collection",
+            "tags": "collection,mai",
+            "recuweb_url": "http://fr.recuweb.com/collection/ladepeche.fr/2015/05/la-grand-messe-de-collection-est-pr%C3%AAte",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
+            "source_url": "http://ladepeche.fr/article/2015/05/03/2097825-la-grand-messe-de-la-collection-est-prete.html"
+        },
+        "trendsperiodical.fr/2015/05/racket-collection-s-2015-trends-periodical": {
+            "title": "Racket - collection S/S 2015 - Trends Periodical...",
+            "snippet": "Trends PeriodicalRacket - collection S/S 2015Trends PeriodicalRacket, le collectif Streetwear fond\u00e9 en 2012, nous pr\u00e9sente sa nouvelle collection Printemps Et\u00e9 2015, toujours empreinte d'instants vol\u00e9s de la vie Parisienne!! Comme le pr\u00e9cise le...",
+            "date": "2015-05-03",
+            "categories": "collection",
+            "tags": "printemps,pr\u00e9sente,collection,comme",
+            "recuweb_url": "http://fr.recuweb.com/collection/trendsperiodical.fr/2015/05/racket-collection-s-2015-trends-periodical",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
+            "source_url": "http://trendsperiodical.fr/racket-collection-streetwear-2015-27939/"
+        },
+        "trendsperiodical.fr/2015/05/stance-d%C3%A9voile-sa-collection-desert-series-pour-l%C3%A9t%C3%A9": {
+            "title": "Stance d\u00e9voile sa collection Desert Series pour l\u00e9t\u00e9!",
+            "snippet": "Apr\u00e8s avoir d\u00e9voil\u00e9 sa collection pour le printemps, Stance, la marque californienne de chaussettes trendy revient avec une nouvelle collection \u00e9t\u00e9 2015 nomm\u00e9e Desert Series! Au menu, 4 paires de chaussettes aux motifs toujours aussi...",
+            "date": "2015-05-03",
+            "categories": "collection",
+            "tags": "marque,printemps,d\u00e9voile,collection,\u00e9t\u00e9",
+            "recuweb_url": "http://fr.recuweb.com/collection/trendsperiodical.fr/2015/05/stance-d%C3%A9voile-sa-collection-desert-series-pour-l%C3%A9t%C3%A9",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
+            "source_url": "http://trendsperiodical.fr/stance-devoile-sa-collection-desert-series-pour-lete-27911/"
         },
         "leparisien.fr/2015/05/chanel-les-photos-de-la-collection-avec-cara-delevingne": {
             "title": "Chanel: les photos de la collection avec Cara Delevingne et... - Le Parisien...",
             "snippet": "Le ParisienChanel: les photos de la collection avec Cara Delevingne et...Le ParisienChanel: les photos de la collection avec Cara Delevingne et Pharrell Williams. Cara Delevingne et Pharrell Williams sont de retours sous l'objectif de Karl...",
             "date": "2015-05-02",
             "categories": "collection",
-            "tags": "objectif,photos,collection,parisien",
+            "tags": "photos,collection",
             "recuweb_url": "http://fr.recuweb.com/collection/leparisien.fr/2015/05/chanel-les-photos-de-la-collection-avec-cara-delevingne",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection%2Bcollection&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
             "source_url": "http://leparisien.fr/laparisienne/mode/chanel-les-photos-de-la-collection-avec-cara-delevingne-et-pharrell-williams-30-04-2015-4737267.php"
         },
         "ouest-france.fr/2015/05/landes-&-bruy%C3%A8res-sylvain-morin-enrichit-sa-collection-de-troph%C3%A9es-ouest": {
             "title": "Landes & Bruy\u00e8res. Sylvain Morin enrichit sa collection de troph\u00e9es - Ouest-France...",
-            "snippet": "Ouest-FranceLandes & Bruy\u00e8res. Sylvain Morin enrichit sa collection de troph\u00e9esOuest-FranceLandes & Bruy\u00e8res. Sylvain Morin enrichit sa collection de troph\u00e9es. Erquy - 20h07. \u00e9couter. Sylvain Morin, sous ses nouvelles couleurs, remporte son...",
+            "snippet": "Ouest-FranceLandes & Bruy\u00e8res. Sylvain Morin enrichit sa collection de troph\u00e9esOuest-FranceLandes & Bruy\u00e8res. Sylvain Morin enrichit sa collection de troph\u00e9es. Erquy - 02 Mai. \u00e9couter. Sylvain Morin, sous ses nouvelles couleurs, remporte son...",
             "date": "2015-05-02",
             "categories": "collection",
-            "tags": "collection",
+            "tags": "collection,mai",
             "recuweb_url": "http://fr.recuweb.com/collection/ouest-france.fr/2015/05/landes-&-bruy%C3%A8res-sylvain-morin-enrichit-sa-collection-de-troph%C3%A9es-ouest",
             "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
             "source_url": "http://ouest-france.fr/sport/running/bretagne/sylvain-morin-enrichit-sa-collection-de-trophees-3374778"
@@ -46,27 +76,27 @@
             "snippet": "La Voix du NordMazinghien: avec sa collection, le gendarme Poulain voit toujours...La Voix du NordDifficile de se glisser dans l'univers d'un collectionneur de gendarmerie. Car comme tout passionn\u00e9, le gendarme Dominique Poulain craint pour sa...",
             "date": "2015-05-02",
             "categories": "collection",
-            "tags": "collection,car",
+            "tags": "comme,univers,collection,nord,car",
             "recuweb_url": "http://fr.recuweb.com/collection/lavoixdunord.fr/2015/05/mazinghien-avec-sa-collection-le-gendarme-poulain-voit-toujours-la-voix",
-            "resource_url": "http://news.google.fr/?hl=fr&q=collection%2Bcollection&output=atom&nord=1",
+            "resource_url": "http://news.google.fr/?hl=fr&q=collection&output=atom&nord=1",
             "source_url": "http://lavoixdunord.fr/region/mazinghien-avec-sa-collection-le-gendarme-poulain-voit-ia14b45256n2805031"
         },
-        "journaldugeek.com/2015/05/une-collection-star-wars-en-%C3%A9dition-limit%C3%A9e-chez-celio": {
-            "title": "Une collection Star Wars en \u00e9dition limit\u00e9e chez Celio...",
-            "snippet": "Hystereo a comment\u00e9 l'article Pluton pourrait \u00eatre dot\u00e9e d'une calotte glaciaire, selon la NASA Hystereo a comment\u00e9 l'article Les applications pour l'Apple Watch dont la fonction principale est de donner l'heure seront rejet\u00e9es ombre a...",
+        "elle.fr/2015/05/exclu-vid%C3%A9o-la-nouvelle-collection-de-petite-joaillerie-dior-rose": {
+            "title": "Exclu vid\u00e9o: la nouvelle collection de petite joaillerie Dior Rose des Vents...",
+            "snippet": "Comme chacun sait, une rose des vents comporte quatre points cardinaux. Chacun dentre eux est sur les bijoux de la collection repr\u00e9sent\u00e9 par une pierre diff\u00e9rente. La nacre blanche \u00e9voque le nord, lopale rose lest, la turquoise le sud tandis...",
             "date": "2015-05-01",
             "categories": "collection",
-            "tags": "collection",
-            "recuweb_url": "http://fr.recuweb.com/collection/journaldugeek.com/2015/05/une-collection-star-wars-en-%C3%A9dition-limit%C3%A9e-chez-celio",
+            "tags": "nord,eux,collection,comme",
+            "recuweb_url": "http://fr.recuweb.com/collection/elle.fr/2015/05/exclu-vid%C3%A9o-la-nouvelle-collection-de-petite-joaillerie-dior-rose",
             "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
-            "source_url": "http://journaldugeek.com/2015/05/01/une-collection-star-wars-en-edition-limitee-chez-celio/"
+            "source_url": "http://elle.fr/Mode/Joaillerie-Horlogerie/Exclu-video-la-nouvelle-collection-de-petite-joaillerie-Dior-Rose-des-Vents-2946522"
         },
         "meltystyle.fr/2015/04/drake-collection-ovo-printemps-%C3%A9t%C3%A9-2015-d%C3%A9voil%C3%A9e": {
             "title": "Drake: Collection OVO printemps \u00e9t\u00e9 2015 d\u00e9voil\u00e9e...",
             "snippet": "Le label lanc\u00e9 par Drake, OVO d\u00e9voile sa nouvelle collection printemps \u00e9t\u00e9 2015. \u00c0 l'image du chanteur, c'est une ligne de v\u00eatement sans fioritures et pas prise de t\u00eate. Alors que de nouvelles photos de la collaboration d'OVO x Air Jordan...",
             "date": "2015-04-29",
             "categories": "collection",
-            "tags": "photos,collection",
+            "tags": "photos,d\u00e9voile,printemps,\u00e9t\u00e9,collection",
             "recuweb_url": "http://fr.recuweb.com/collection/meltystyle.fr/2015/04/drake-collection-ovo-printemps-%C3%A9t%C3%A9-2015-d%C3%A9voil%C3%A9e",
             "resource_url": "http://www.bing.com/news/search?first=1&q=collection&format=RSS&cc=fr",
             "source_url": "http://meltystyle.fr/drake-collection-ovo-printemps-ete-2015-devoilee-a405600.html"
