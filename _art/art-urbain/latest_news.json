@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "art-urbain",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/art-urbain/",
@@ -11,24 +11,72 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/art-urbain/art-urbain/blogs.json"
     },
     "items": {
+        "sudouest.fr/2015/05/du-tricot-graffiti-au-village": {
+            "title": "Du tricot-graffiti au village...",
+            "snippet": "e yarn bombing, l'art urbain des tricoteuses et des crocheteuses, a fait une entr\u00e9e remarqu\u00e9e dans le village. En effet, depuis quelques mois, le Foyer la\u00efque de Beauregard a vu na\u00eetre une nouvelle section: un club de tricot. Publicit\u00e9 Une...",
+            "date": "2015-05-06",
+            "categories": "graffiti",
+            "tags": "tricot,yarn,bombing,graffiti,art,urbain",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/sudouest.fr/2015/05/du-tricot-graffiti-au-village",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=art%2Burbain&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/05/06/du-tricot-graffiti-au-village-1912772-1726.php"
+        },
+        "culturebox.francetvinfo.fr/2015/05/la-villette-a-rendez-vous-avec-le-street-art": {
+            "title": "La Villette a rendez-vous avec le street art...",
+            "snippet": "Avec le street art l'espace urbain devient un espace de cr\u00e9ation in\u00e9dit parfois... Pierre Les street artistes se mobilisent pour la fondation Emma\u00fcs Abb\u00e9 Pierre France 3/Culturebox Au programme aussi cette ann\u00e9e des \u00e9v\u00e8nements et ateliers...",
+            "date": "2015-05-06",
+            "tags": "pierre,france,espace,street,art,urbain,artistes",
+            "recuweb_url": "http://fr.recuweb.com/culturebox.francetvinfo.fr/2015/05/la-villette-a-rendez-vous-avec-le-street-art",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bart%2Burbain&format=RSS&cc=fr",
+            "source_url": "http://culturebox.francetvinfo.fr/tendances/street-art/la-villette-a-rendez-vous-avec-le-street-art-218589"
+        },
+        "sudouest.fr/2015/05/les-arts-fous-reviennent": {
+            "title": "Les Arts Fous reviennent...",
+            "snippet": "epuis leur premi\u00e8re soir\u00e9e organis\u00e9e en 2008, les Arts Fous se sont impos\u00e9s comme un \u00e9v\u00e9nement... Pour l'occasion, le groupe sera accompagn\u00e9 de deux MCs de renom: le po\u00e8te urbain Mike Ladd et Edgar Sekloka \u00e9chapp\u00e9 de Milk Coffee & Sugar...",
+            "date": "2015-05-06",
+            "categories": "arts",
+            "tags": "deux,comme,occasion,urbain",
+            "recuweb_url": "http://fr.recuweb.com/arts/sudouest.fr/2015/05/les-arts-fous-reviennent",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bart%2Burbain&format=RSS&cc=fr",
+            "source_url": "http://sudouest.fr/2015/05/07/les-arts-fous-reviennent-1913681-1352.php"
+        },
+        "meltybuzz.fr/2015/05/marketing-le-m%C3%A9tro-mairie-des-lilas-recouvert-de-tricot-fait-main": {
+            "title": "Marketing: Le m\u00e9tro Mairie des Lilas recouvert de tricot fait main!",
+            "snippet": "Connaissez-vous le Yarn Bombing? Il s'agit d'un art urbain qui permet de modifier un paysage en utilisant le tricot. Regardez plut\u00f4t et dites-nous ce que vous en pensez! T\u00e9l\u00e9charge Flash Player pour lire la vid\u00e9o \"Yarn Bombing au m\u00e9tro des...",
+            "date": "2015-05-06",
+            "categories": "marketing",
+            "tags": "yarn,bombing,tricot,art,urbain",
+            "recuweb_url": "http://fr.recuweb.com/marketing/meltybuzz.fr/2015/05/marketing-le-m%C3%A9tro-mairie-des-lilas-recouvert-de-tricot-fait-main",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bart%2Burbain&format=RSS&cc=fr",
+            "source_url": "http://meltybuzz.fr/marketing-le-metro-mairie-des-lilas-recouvert-de-tricot-fait-main-a407667.html"
+        },
+        "ladepeche.fr/2015/05/ils-transforment-la-ville-en-un-parkourpark": {
+            "title": "Ils transforment la ville en un Parkourpark...",
+            "snippet": "Entre - eux, ils nomment \u00e7a l'art du d\u00e9placement (ADD). Cet art urbain s'\u00e9tend en fait comme une train\u00e9e de poudre sous le vocable de parkour (PK). Ces ados d\u00e9bordant d'\u00e9nergie - en ge d'exp\u00e9rimenter - ont en fait invent\u00e9 une activit\u00e9...",
+            "date": "2015-05-05",
+            "tags": "comme,ville,art,urbain",
+            "recuweb_url": "http://fr.recuweb.com/ladepeche.fr/2015/05/ils-transforment-la-ville-en-un-parkourpark",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=art%2Burbain&format=RSS&cc=fr",
+            "source_url": "http://ladepeche.fr/article/2015/05/06/2099469-ils-transforment-la-ville-en-un-parkourpark.html"
+        },
+        "fr.rbth.com/2015/05/graffiti-en-russie-de-la-rue-aux-affiches-%C3%A9lectorales": {
+            "title": "Graffiti en Russie: de la rue aux affiches \u00e9lectorales...",
+            "snippet": "Cest au pas de course que la Russie a franchi le chemin depuis les balbutiements de lint\u00e9r\u00eat pour l\u00e9cole am\u00e9ricaine du graffiti jusquaux diverses techniques de lart urbain de tradition europ\u00e9enne. Au milieu des ann\u00e9es 1980, la...",
+            "date": "2015-05-04",
+            "categories": "tradition,graffiti",
+            "tags": "graffiti,urbain",
+            "recuweb_url": "http://fr.recuweb.com/graffiti/fr.rbth.com/2015/05/graffiti-en-russie-de-la-rue-aux-affiches-%C3%A9lectorales",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=art%2Burbain&format=RSS&cc=fr",
+            "source_url": "http://fr.rbth.com/art/2015/05/01/graffiti_en_russie_de_la_rue_aux_affiches_electorales_33549.html"
+        },
         "toutmontpellier.fr/2015/04/montpellier-garden-p-arty-l-art-urbain-s-invite-au-chteau": {
             "title": "Montpellier: Garden P(Arty), l'Art urbain s'invite au Chteau de la... - Tout Montpellier...",
             "snippet": "Tout MontpellierMontpellier: Garden P(Arty), l'Art urbain s'invite au Chteau de la...Tout MontpellierDes artistes de renomm\u00e9e nationale, tels que, pour la sc\u00e8ne Street Art parisienne: Mademoiselle Maurice, Gregos, le collectif du 9\u00e8me Concept.",
             "date": "2015-04-20",
-            "tags": "maurice,montpellier,art,urbain,artistes,gregos",
+            "tags": "street,montpellier,art,urbain,artistes,gregos",
             "recuweb_url": "http://fr.recuweb.com/toutmontpellier.fr/2015/04/montpellier-garden-p-arty-l-art-urbain-s-invite-au-chteau",
             "resource_url": "http://news.google.fr/?hl=fr&q=art%2Burbain&output=atom&nord=1",
             "source_url": "http://toutmontpellier.fr/montpellier-garden-p-arty-l-art-urbain-s-invite-au-chateau-de-la-mogere--132576.html"
-        },
-        "sen360.com/2015/04/tours-une-friche-industrielle-transform%C3%A9e-en-p%C3%B4le-des-arts-sen360": {
-            "title": "Tours: une friche industrielle transform\u00e9e en p\u00f4le des arts... - Sen360...",
-            "snippet": "Tours: une friche industrielle transform\u00e9e en p\u00f4le des arts...Sen360Espace de recherche, d'innovation, de cr\u00e9ation et de formation, le lieu sera g\u00e9r\u00e9 par la Compagnie Off et le pOlau, p\u00f4le des arts urbains, une structure qui met des \u00e9quipes...",
-            "date": "2015-04-18",
-            "categories": "arts",
-            "tags": "arts,urbains",
-            "recuweb_url": "http://fr.recuweb.com/arts/sen360.com/2015/04/tours-une-friche-industrielle-transform%C3%A9e-en-p%C3%B4le-des-arts-sen360",
-            "resource_url": "http://news.google.fr/?hl=fr&q=art%2Burbain%2Bart%2Burbain&output=atom&nord=1",
-            "source_url": "http://sen360.com/international/tours-une-friche-industrielle-transformee-en-pole-des-arts-urbains-273144.html"
         }
     }
 }
