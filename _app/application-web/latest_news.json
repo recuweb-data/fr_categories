@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "application-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/application-web/",
@@ -11,31 +11,41 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/application-web/application-web/blogs.json"
     },
     "items": {
+        "ouest-france.fr/2015/05/apple-l-application-france-musique-supprim%C3%A9e-de-appstore": {
+            "title": "Apple. L'application France Musique supprim\u00e9e de l'AppStore...",
+            "snippet": "France Musique n'a plus d'application iOS pour iPhone ou iPad... il semblerait de cette certitude se base sur le passif du g\u00e9ant du web am\u00e9ricain. Alors que Facebook, Instagram et autres mastodonte puribonds ne sauraient, en effet, voir seins...",
+            "date": "2015-05-05",
+            "categories": "musique,iphone,ipad,facebook",
+            "tags": "semblerait,base,musique,apple,application,web,facebook",
+            "recuweb_url": "http://fr.recuweb.com/facebook/ouest-france.fr/2015/05/apple-l-application-france-musique-supprim%C3%A9e-de-appstore",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=fr%2Blocalhost%2Bcom%2Bapplication%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://ouest-france.fr/lapplication-france-musique-supprimee-de-lappstore-3379188"
+        },
+        "emploi.silicon.fr/2015/05/int%C3%A9grateur-html5-css3-js-confirm%C3%A9-h-f": {
+            "title": "Int\u00e9grateur HTML5/CSS3/JS confirm\u00e9 H/F...",
+            "snippet": "Rattach\u00e9(e) au Responsable technique et au Chef de projet, vous avez pour mission lint\u00e9gration HTML5/CS3 dune application web communautaire au sein dune \u00e9quipe de 4 personnes. Vous serez en charge de la conception et du d\u00e9veloppement du...",
+            "date": "2015-05-02",
+            "categories": "css",
+            "tags": "d\u00e9veloppement,sein,application,web,personnes",
+            "recuweb_url": "http://fr.recuweb.com/css/emploi.silicon.fr/2015/05/int%C3%A9grateur-html5-css3-js-confirm%C3%A9-h-f",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://emploi.silicon.fr/453022/intgrateur-html5-css3-js-confirm-hf/"
+        },
         "macplus.net/2015/05/application-apple-store-sur-l-watch-macplus": {
             "title": "Application Apple Store sur l'Apple Watch - MacPlus...",
             "snippet": "MacPlusApplication Apple Store sur l'Apple WatchMacPlusSi Apple ne propose pas (encore?) de navigateur web pour sa montre afin de naviguer, par exemple, sur l'Apple Store, il semblerait qu'une adaptation de son application Apple Store soit dans les...",
             "date": "2015-05-01",
-            "tags": "navigateur,propose,application,web",
+            "tags": "semblerait,navigateur,propose,application,apple,web",
             "recuweb_url": "http://fr.recuweb.com/macplus.net/2015/05/application-apple-store-sur-l-watch-macplus",
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
             "source_url": "http://macplus.net/depeche-83665-application-apple-store-sur-l-apple-watch"
-        },
-        "emploi.presse-citron.net/2015/04/int%C3%A9grateur-html5-css3-js-confirm%C3%A9-h-f": {
-            "title": "Int\u00e9grateur HTML5/CSS3/JS confirm\u00e9 H/F...",
-            "snippet": "Rattach\u00e9(e) au Responsable technique et au Chef de projet, vous avez pour mission l'int\u00e9gration HTML5/CS3 d'une application web communautaire au sein d'une \u00e9quipe de 4 personnes. Vous serez en charge de la conception et du d\u00e9veloppement du...",
-            "date": "2015-04-30",
-            "categories": "css",
-            "tags": "sein,html,application,web,personnes",
-            "recuweb_url": "http://fr.recuweb.com/css/emploi.presse-citron.net/2015/04/int%C3%A9grateur-html5-css3-js-confirm%C3%A9-h-f",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://emploi.presse-citron.net/emploi/informatique/D\u00e9veloppement/Int\u00e9grateur+HTML5++CSS3++JS+confirm\u00e9+HF/30198"
         },
         "silicon.fr/2015/04/google-chrome-moins-de-failles-plus-musique": {
             "title": "Google Chrome: moins de failles, plus de musique...",
             "snippet": "Cette derni\u00e8re apportera quelques nouveaut\u00e9s int\u00e9ressantes, comme le support des p\u00e9riph\u00e9riques Midi, qui permettra de piloter un synth\u00e9tiseur depuis une application web. Google sappuie ici sur lAPI Web Midi du W3C. En plus des usages en...",
             "date": "2015-04-29",
             "categories": "musique,google",
-            "tags": "web,quelques,application",
+            "tags": "web,musique,application",
             "recuweb_url": "http://fr.recuweb.com/google/silicon.fr/2015/04/google-chrome-moins-de-failles-plus-musique",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://silicon.fr/google-chrome-de-failles-plus-de-musique-115154.html"
@@ -50,11 +60,21 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://clubic.com/messagerie-email/actualite-765224-uber-boomerang-paypal-outlook.html"
         },
+        "bulletins-electroniques.com/2015/04/2%C3%A8me-%C3%A9dition-d-innovatives-shs-le-salon-des-sciences-humaines": {
+            "title": "2\u00e8me \u00e9dition d'Innovatives SHS, le salon des Sciences Humaines et Sociales...",
+            "snippet": "ISQVT qui est une application web ludique pour diagnostiquer la qualit\u00e9 de vie au travail, ODR qui est un observatoire du d\u00e9veloppement du monde rural, mais aussi le Jardin th\u00e9rapeutique, un lieu de soin par la nature et la culture, Dessine-moi...",
+            "date": "2015-04-28",
+            "categories": "nature,culture,science",
+            "tags": "d\u00e9veloppement,monde,application,web",
+            "recuweb_url": "http://fr.recuweb.com/science/bulletins-electroniques.com/2015/04/2%C3%A8me-%C3%A9dition-d-innovatives-shs-le-salon-des-sciences-humaines",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
+            "source_url": "http://bulletins-electroniques.com/actualites/78369.htm"
+        },
         "ladn.eu/2015/04/lonsdale-29-nouveaux-clients": {
             "title": "Lonsdale: 29 nouveaux clients...",
             "snippet": "DIGITAL branding: renouvellement de la confiance de BNP Paribas qui confie 6 nouveaux sujets aux \u00e9quipes (aussi bien corporate que BtoC), et par le gain des marques telles que GrDF (site \u00e9v\u00e8nementiel), AIXIA Syst\u00e8mes (site dapplication web pour...",
             "date": "2015-04-27",
-            "tags": "site,web",
+            "tags": "web",
             "recuweb_url": "http://fr.recuweb.com/ladn.eu/2015/04/lonsdale-29-nouveaux-clients",
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://ladn.eu/actualites/agence,lonsdale-29-nouveaux-clients,29,26142.html"
@@ -68,30 +88,11 @@
             "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
             "source_url": "http://itrnews.com/articles/155496/angularjs-developpez-aujourd-hui-applications-web-demain.html"
         },
-        "globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global": {
-            "title": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web... - Global Security Mag...",
-            "snippet": "Qualys lance un service Cloud pour s\u00e9curiser les applications Web...Global Security MagQualys WAF est d\u00e9ploy\u00e9 en tant qu'image virtuelle devant les applications Web. Ce service s'installe et se configure en quelques minutes seulement, sans...",
-            "date": "2015-04-22",
-            "tags": "quelques,applications,web",
-            "recuweb_url": "http://fr.recuweb.com/globalsecuritymag.fr/2015/04/qualys-lance-un-service-cloud-pour-s%C3%A9curiser-les-applications-web-global",
-            "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb%2Bapplication%2Bweb&output=atom&nord=1",
-            "source_url": "http://globalsecuritymag.fr/Qualys-lance-un-service-Cloud-pour,20150422,52451.html"
-        },
-        "javascript.developpez.com/2015/04/highcharts-de-multiples-corrections": {
-            "title": "Highcharts: de multiples corrections...",
-            "snippet": "Highcharts est une biblioth\u00e8que graphique \u00e9crite en HTML5 et JavaScript, offrant des graphiques complets et complexes, mais intuitifs et interactifs pour votre site ou votre application Web. Elle impl\u00e9mente diff\u00e9rents types de graphiques...",
-            "date": "2015-04-21",
-            "categories": "javascript",
-            "tags": "site,biblioth\u00e8que,html,application,web",
-            "recuweb_url": "http://fr.recuweb.com/javascript/javascript.developpez.com/2015/04/highcharts-de-multiples-corrections",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=application%2Bweb&format=RSS&cc=fr",
-            "source_url": "http://javascript.developpez.com/actu/84152/Highcharts-4-1-5-de-multiples-corrections-pour-la-bibliotheque-graphique-ecrite-en-HTML5-et-JavaScript/"
-        },
         "bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news": {
             "title": "Collibris: l'application qui propage la lecture - BSC News...",
             "snippet": "Collibris: l'application qui propage la lectureBSC NewsCollibris est une application Web et Mobile gratuite destin\u00e9e aux lecteurs qui propose d'enregistrer ses lectures et sa biblioth\u00e8que, de garder une trace de son \u00e9motion en notant et...",
             "date": "2015-04-07",
-            "tags": "biblioth\u00e8que,propose,application,web,mobile",
+            "tags": "propose,application,web,mobile",
             "recuweb_url": "http://fr.recuweb.com/bscnews.fr/2015/04/collibris-l-application-qui-propage-la-lecture-bsc-news",
             "resource_url": "http://news.google.fr/?hl=fr&q=application%2Bweb&output=atom&nord=1",
             "source_url": "http://bscnews.fr/201504074636/TECH-WEB/collibris-l-application-qui-propage-la-lecture.html"
