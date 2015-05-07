@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey-sur-glace",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey-sur-glace/",
@@ -11,27 +11,15 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey-sur-glace/hockey-sur-glace/blogs.json"
     },
     "items": {
-        "dailymotion.com/2015/04/ga%C3%ABtan-hass-equipe-nationale-suisse": {
-            "title": "Ga\u00ebtan Hass - Equipe nationale Suisse...",
-            "snippet": "Author: LHCleslionsTags: Hockey sur glace F\u00e9d\u00e9ration de Suisse de hockey sur glace Hockey Club Bienne Posted: 23 April 2015Rating:: 0...",
-            "date": "2015-04-23",
-            "author_name": "LHCleslions",
-            "categories": "hockey,hockey-sur-glace",
-            "tags": "hockey,glace,equipe",
-            "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/dailymotion.com/2015/04/ga%C3%ABtan-hass-equipe-nationale-suisse",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+sur+glace+hockey+sur+glace/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2no7u9_gaetan-hass-equipe-nationale-suisse_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2no7u9_gaetan-hass-equipe-nationale-suisse_sport"
-        },
         "dailymotion.com/2015/03/hockey-sur-glace-gap-%C3%A9pinal-bande-annonce": {
             "title": "Hockey sur glace - Gap/\u00c9pinal: bande-annonce...",
             "snippet": "Apr\u00e8s 4 matches, les joueurs d \u00c9pinal ont creus\u00e9 l'\u00e9cart dans cette finale 2014-2015 de Ligue Magnus (3-1) et fait un pas vers le titre. Ce match 5 entre Gap et \u00c9pinal peut donc \u00eatre d\u00e9cisif! Rdv ce mardi d\u00e8s 20h00 sur L Equipe 21!Author:...",
             "date": "2015-03-30",
             "author_name": "lequipe21",
             "categories": "hockey",
-            "tags": "glace,hockey,match,equipe",
+            "tags": "ligue,joueurs,glace,hockey,match",
             "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/03/hockey-sur-glace-gap-%C3%A9pinal-bande-annonce",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+sur+glace/0?af=1",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+hockey+sur+glace/0?af=1",
             "source_url": "http://dailymotion.com/video/x2l3i2x_hockey-sur-glace-gap-epinal-bande-annonce_sport",
             "img_url": "http://www.dailymotion.com/thumbnail/video/x2l3i2x_hockey-sur-glace-gap-epinal-bande-annonce_sport"
         },
@@ -41,7 +29,7 @@
             "date": "2015-03-28",
             "author_name": "France 3 Aquitaine",
             "categories": "hockey",
-            "tags": "d\u00e9but,glace,hockey,france",
+            "tags": "glace,hockey,france",
             "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2015/03/hockey-sur-glace-d%C3%A9but-des-finales-entre-bordeaux-et-anglet",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=faEie8Q02ZY&feature=youtube_gdata",
@@ -49,39 +37,27 @@
         },
         "youtube.com/2015/02/dauphins-d-epinal-hockey-sur-glace": {
             "title": "Dauphins d'Epinal: Hockey sur Glace...",
-            "snippet": "Dauphins d'Epinal: Hockey sur Glace From: EauPaixId\u00e9es3Fronti\u00e8res TiV\u00ef Views: 86 2 ratings Time: 05:02 More in Sports...",
+            "snippet": "Dauphins d'Epinal: Hockey sur Glace From: EauPaixId\u00e9es3Fronti\u00e8res TiV\u00ef Views: 113 2 ratings Time: 05:02 More in Sports...",
             "date": "2015-02-14",
             "author_name": "EauPaixId\u00e9es3Fronti\u00e8res TiV\u00ef",
             "categories": "hockey,sport",
             "tags": "hockey,glace,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2015/02/dauphins-d-epinal-hockey-sur-glace",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace%2Bhockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=xy1yYEcnV-w&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/xy1yYEcnV-w/0.jpg"
         },
-        "dailymotion.com/2015/01/hockey-sur-glace-spectaculaire-projection-vid%C3%A9o-la-ice-leafs-vs": {
-            "title": "Hockey sur glace - Spectaculaire projection vid\u00e9o sur la glace - Ice Projection Leafs vs...",
-            "snippet": "Hockey sur glace - Spectaculaire projection vid\u00e9o sur la glace - Ice Projection Leafs vs. Hurricanes Author: channelsportTags: Projection vid\u00e9o Hockey sur glace Leafs Hurricanes Posted: 25 January 2015Rating:: 0...",
-            "date": "2015-01-25",
-            "author_name": "channelsport",
-            "categories": "hockey",
-            "tags": "glace,hockey,channelsporttags",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-sur-glace-spectaculaire-projection-vid%C3%A9o-la-ice-leafs-vs",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+sur+glace+hockey+sur+glace/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fjk1e_hockey-sur-glace-spectaculaire-projection-video-sur-la-glace-ice-projection-leafs-vs-hurricanes_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fjk1e_hockey-sur-glace-spectaculaire-projection-video-sur-la-glace-ice-projection-leafs-vs-hurricanes_sport"
-        },
-        "dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise": {
-            "title": "Hockey father breaking mirror Hockey sur glace - Un p\u00e8re \u00e9nerv\u00e9 brise une vitre lors du match...",
-            "snippet": "Hockey sur glace - Un p\u00e8re \u00e9nerv\u00e9 brise une vitre lors du match de son fils: channelsportTags: Hockey Buzz P\u00e8re \u00e9nerv\u00e9 brise glace Posted: 22 January 2015Rating:: 0...",
-            "date": "2015-01-22",
-            "author_name": "channelsport",
-            "categories": "hockey",
-            "tags": "glace,match,hockey,channelsporttags",
-            "recuweb_url": "http://fr.recuweb.com/hockey/dailymotion.com/2015/01/hockey-father-breaking-mirror-sur-glace-un-p%C3%A8re-%C3%A9nerv%C3%A9-brise",
-            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/hockey+sur+glace+hockey+sur+glace/0?af=1",
-            "source_url": "http://dailymotion.com/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport",
-            "img_url": "http://www.dailymotion.com/thumbnail/video/x2fad28_hockey-father-breaking-mirror-hockey-sur-glace-un-pere-enerve-brise-une-vitre-lors-du-match-de-son_sport"
+        "dailymotion.com/2015/01/hockey-sur-glace-la-%C3%A9norme-bagarre-%C3%A9clate-d%C3%A8s-l-%C3%A9chauffement": {
+            "title": "Hockey sur glace: la \u00e9norme bagarre \u00e9clate d\u00e8s l'\u00e9chauffement...",
+            "snippet": "Une bagarre impliquant presque tous les joueurs a \u00e9clat\u00e9 lors du match entre Laval et St. George en North American Hockey League (hockey sur glace).Author: divertissonsnousTags: bagarre Hockey sur glace Laval St. George LNAH fight Posted: 15...",
+            "date": "2015-01-15",
+            "author_name": "divertissonsnous",
+            "categories": "hockey,hockey-sur-glace",
+            "tags": "lnah,hockey,hockey-sur-glace,glace,bagarre,joueurs,match,divertissonsnoustags",
+            "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/dailymotion.com/2015/01/hockey-sur-glace-la-%C3%A9norme-bagarre-%C3%A9clate-d%C3%A8s-l-%C3%A9chauffement",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+hockey+sur+glace/0?af=1",
+            "source_url": "http://dailymotion.com/video/x2etl9h_hockey-sur-glace-la-enorme-bagarre-eclate-des-l-echauffement_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x2etl9h_hockey-sur-glace-la-enorme-bagarre-eclate-des-l-echauffement_sport"
         },
         "youtube.com/2015/01/match-de-hockey-sur-glace-gentlemen-rouen-lions-wasquehal-but": {
             "title": "match de Hockey sur Glace Gentlemen Rouen/Lions de Wasquehal! But de Rouen!",
@@ -89,7 +65,7 @@
             "date": "2015-01-07",
             "author_name": "Yoann mathieux",
             "categories": "hockey",
-            "tags": "glace,match,hockey,wasquehal",
+            "tags": "patinoire,glace,match,hockey,wasquehal",
             "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2015/01/match-de-hockey-sur-glace-gentlemen-rouen-lions-wasquehal-but",
             "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=LHcWCRYHhU4&feature=youtube_gdata",
@@ -103,7 +79,7 @@
             "categories": "hockey,sport",
             "tags": "glace,hockey,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/12/hichem-bourebrab-gardien-de-but-alg%C3%A9rien-hockey-sur-glace",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace%2Bhockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=3nUirc1ldfo&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/3nUirc1ldfo/0.jpg"
         },
@@ -115,21 +91,45 @@
             "categories": "hockey,sport",
             "tags": "glace,hockey,wasquehal,sports",
             "recuweb_url": "http://fr.recuweb.com/sport/youtube.com/2014/12/hockey-sur-glace-u11-wasquehal-vs-valenciennes-2014-12-07-2%C3%A8me",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace%2Bhockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
             "source_url": "http://youtube.com/watch?v=g8wsKYH69uE&feature=youtube_gdata",
             "img_url": "http://img.youtube.com/vi/g8wsKYH69uE/0.jpg"
         },
-        "youtube.com/2014/11/hockey-sur-glace": {
-            "title": "Hockey sur glace...",
-            "snippet": "Hockey sur glace Championnat de France D2,Clermont Ferrand contre Roanne. Clermont a gagn\u00e9 6 \u00e0 2.Tr\u00e8s bonne ambiance au d\u00e9but dommage que les supporters Roann\u00e9 n'ont pas \u00e9t\u00e9 \u00e0 la hauteur, From: Danny Bourassa Views: 200 3 ratings Time: 02:11...",
-            "date": "2014-11-23",
-            "author_name": "Danny Bourassa",
+        "dailymotion.com/2014/10/guillaume-coud%C3%A9-met-ko-dylan-garrioch-au-hockey-sur-glace": {
+            "title": "Guillaume Coud\u00e9 met KO Dylan Garrioch au Hockey sur glace...",
+            "snippet": "Le combat entre Guillaume Coud\u00e9 et Dylan Garrioch n'aura pas dur\u00e9 longtemps! Le match de Ligue nord-am\u00e9ricaine de hockey opposait les River Kings aux: divertissonsnousTags: hockey hockey sur glace bagarre KO LNAH NHL Posted: 30 October...",
+            "date": "2014-10-30",
+            "author_name": "divertissonsnous",
+            "categories": "hockey,hockey-sur-glace",
+            "tags": "lnah,hockey,hockey-sur-glace,glace,bagarre,match,ligue,divertissonsnoustags",
+            "recuweb_url": "http://fr.recuweb.com/hockey-sur-glace/dailymotion.com/2014/10/guillaume-coud%C3%A9-met-ko-dylan-garrioch-au-hockey-sur-glace",
+            "resource_url": "http://www.dailymotion.com/rss/relevance/lang/fr/search/fr+localhost+com+hockey+sur+glace/0?af=1",
+            "source_url": "http://dailymotion.com/video/x28yf5z_guillaume-coude-met-ko-dylan-garrioch-au-hockey-sur-glace_sport",
+            "img_url": "http://www.dailymotion.com/thumbnail/video/x28yf5z_guillaume-coude-met-ko-dylan-garrioch-au-hockey-sur-glace_sport"
+        },
+        "youtube.com/2014/09/ecole-d-hockey-sur-glace-les-aiglons-du-hogly-vend%C3%A9e": {
+            "title": "Ecole d'Hockey sur glace: Les Aiglons du HOGLY (Vend\u00e9e)...",
+            "snippet": "Ecole d'Hockey sur glace: Les Aiglons du HOGLY (Vend\u00e9e) Sites webs/blogs, copiez cette vid\u00e9o avec le bouton \"Int\u00e9grer\"! Si vous voulez t\u00e9l\u00e9charger, allez sur. Direction la patinoire Arago de La Roche-sur-Yon... From: TVvendee Views: 3600 5...",
+            "date": "2014-09-29",
+            "author_name": "TVvendee",
             "categories": "hockey",
-            "tags": "d\u00e9but,glace,hockey,france",
-            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/11/hockey-sur-glace",
-            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace%2Bhockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
-            "source_url": "http://youtube.com/watch?v=ue8r9zvOL2g&feature=youtube_gdata",
-            "img_url": "http://img.youtube.com/vi/ue8r9zvOL2g/0.jpg"
+            "tags": "patinoire,glace,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/youtube.com/2014/09/ecole-d-hockey-sur-glace-les-aiglons-du-hogly-vend%C3%A9e",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Xbu3YKr5kN0&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Xbu3YKr5kN0/0.jpg"
+        },
+        "youtube.com/2014/05/cyril-hanouna-soutient-l-%C3%A9quipe-de-france-hockey-sur-glace": {
+            "title": "Cyril Hanouna soutient l'\u00e9quipe de France de hockey sur glace...",
+            "snippet": "Cyril Hanouna soutient l'\u00e9quipe de France de hockey sur glace EXTRAIT - Suite \u00e0 un d\u00e9fi lanc\u00e9 par un auditeur sur Facebook, Cyril Hanouna a encourag\u00e9 \u00e0 sa mani\u00e8re l'\u00e9quipe de France de hockey sur glace, qui joue aujourd'hui les quarts de...",
+            "date": "2014-05-22",
+            "author_name": "Europe 1",
+            "categories": "hockey,hockey-sur-glace,facebook",
+            "tags": "hockey,hockey-sur-glace,glace,france",
+            "recuweb_url": "http://fr.recuweb.com/facebook/youtube.com/2014/05/cyril-hanouna-soutient-l-%C3%A9quipe-de-france-hockey-sur-glace",
+            "resource_url": "http://gdata.youtube.com/feeds/base/videos?max-results=50&start-index=1&client=ytapi-youtube-search&v=2&q=hockey%2Bsur%2Bglace&hl=fr-FR&lang=fr&lr=fr&orderby=relevance_lang_fr",
+            "source_url": "http://youtube.com/watch?v=Nrtif2lBjrQ&feature=youtube_gdata",
+            "img_url": "http://img.youtube.com/vi/Nrtif2lBjrQ/0.jpg"
         }
     }
 }
