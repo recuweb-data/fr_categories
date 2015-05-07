@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "football",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/football/",
@@ -11,35 +11,65 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/football/football/blogs.json"
     },
     "items": {
-        "sport24.lefigaro.fr/2015/05/lloris-gardien-le-plus-cher-de-l-histoire-du-foot-figaro": {
-            "title": "Lloris, gardien le plus cher de l'histoire du foot? - Le Figaro Sport...",
-            "snippet": "Le Figaro SportLloris, gardien le plus cher de l'histoire du foot?Le Figaro SportRechercher. 10. Menu 10. En ce moment. Suivre Recherche Connexion. Sport R\u00e9sultats Football Tennis Rugby Basket F1 Golf Le Scan Sport Vid\u00e9os Diapo. Menu. Sport. Menu...",
-            "date": "2015-05-02",
-            "categories": "golf,sport,football,tennis,rugby",
-            "tags": "sport,football,histoire,foot",
-            "recuweb_url": "http://fr.recuweb.com/rugby/sport24.lefigaro.fr/2015/05/lloris-gardien-le-plus-cher-de-l-histoire-du-foot-figaro",
+        "recordonline.com/2015/05/barbara-bedell-troop-58-honors-newest-eagle-scouts-times-herald-record": {
+            "title": "Barbara Bedell: Troop 58 honors newest Eagle Scouts - Times Herald-Record...",
+            "snippet": "Barbara Bedell: Troop 58 honors newest Eagle ScoutsTimes Herald-RecordSt. Brendan's GAA Club is accepting new players for its championship football and hurling teams.... In Goshen, a program for all people will be from noon-1 p.m. at the Soldier's...",
+            "date": "2015-05-05",
+            "categories": "football",
+            "tags": "club,herald,record,football",
+            "recuweb_url": "http://fr.recuweb.com/football/recordonline.com/2015/05/barbara-bedell-troop-58-honors-newest-eagle-scouts-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bfootball&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150505/NEWS/150509808/101140/NEWS"
+        },
+        "leparisien.fr/2015/05/football-les-meilleurs-buteurs-de-la-ligue-et-d-excellence": {
+            "title": "FOOTBALL: Les Meilleurs buteurs de la Ligue et d'Excellence...",
+            "snippet": "11 buts: Antchouet (Les Gobelins). 10 buts: Said (Versailles), Ibbou (Les Lilas), Ramos (Lusitanos), Mamilonne (Les Mureaux). 8 buts: J. Traor\u00e9 (Les Mureaux), Meghezel (Le Blanc-Mesnil). 7 buts: Ayi (Lusitanos), Louaisil (Versailles), Beauregard...",
+            "date": "2015-05-04",
+            "categories": "football",
+            "tags": "football,ligue",
+            "recuweb_url": "http://fr.recuweb.com/football/leparisien.fr/2015/05/football-les-meilleurs-buteurs-de-la-ligue-et-d-excellence",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
+            "source_url": "http://leparisien.fr/sports/iledefrance/football-les-meilleurs-buteurs-de-la-ligue-et-d-excellence-04-05-2015-4745169.php"
+        },
+        "aisnenouvelle.fr/2015/05/football-coupe-gambardella-debr%C3%A9sie-est-magique-pas-le-psg-photos": {
+            "title": "Football/Coupe Gambardella: Debr\u00e9sie est magique, pas le PSG PHOTOS...",
+            "snippet": "Les demi-finales de la Coupe Gambardella ont fait vibrer le stade Debr\u00e9sie, ce dimanche. La finale (le 30 mai) opposera les Gones de Lyon aux Lionceaux de Sochaux. Sur la pelouse de Debr\u00e9sie, ce dimanche, il y avait de futurs cracks, comme le...",
+            "date": "2015-05-04",
+            "categories": "football",
+            "tags": "football",
+            "recuweb_url": "http://fr.recuweb.com/football/aisnenouvelle.fr/2015/05/football-coupe-gambardella-debr%C3%A9sie-est-magique-pas-le-psg-photos",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=football&format=RSS&cc=fr",
+            "source_url": "http://aisnenouvelle.fr/sport-region/football-coupe-gambardella-debresie-est-magique-pas-ia21b0n211594"
+        },
+        "slate.fr/2015/05/les-bad-blue-boys-un-morceau-de-l-histoire-croate": {
+            "title": "les Bad Blue Boys, un morceau de l'Histoire croate -...",
+            "snippet": "Bad Blue Boys, un morceau de l'Histoire, 55 ans, est probablement l'homme le plus contest\u00e9 du football croate. Outre ses frasques et provocations l'\u00e9ventail est impressionnant: d\u00e9clarations outranci\u00e8res, saluts nazis, insultes publiques...",
+            "date": "2015-05-03",
+            "categories": "football",
+            "tags": "histoire,football",
+            "recuweb_url": "http://fr.recuweb.com/football/slate.fr/2015/05/les-bad-blue-boys-un-morceau-de-l-histoire-croate",
             "resource_url": "http://news.google.fr/?hl=fr&q=football&output=atom&nord=1",
-            "source_url": "http://sport24.lefigaro.fr/football/transferts/actualites/lloris-gardien-le-plus-cher-de-l-histoire-du-foot-748280"
+            "source_url": "http://slate.fr/story/100773/bad-blue-boys-histoire-croatie"
         },
-        "rtl.fr/2015/04/football-le-real-et-l-atl%C3%A9tico-madrid-pourraient-%C3%AAtre-priv%C3%A9s": {
-            "title": "Football: le Real et l'Atl\u00e9tico Madrid pourraient \u00eatre priv\u00e9s de mercato...",
-            "snippet": "Le Real et l'Atl\u00e9tico Madrid sont dans le viseur de la FIFA. Selon un quotidien espagnol, les deux \u00e9quipes pourraient \u00eatre interdites de recrutement pour le prochain march\u00e9 estival, et peut-\u00eatre, pour le mercato hivernal de janvier 2016. Le...",
-            "date": "2015-04-30",
-            "categories": "recrutement,football",
-            "tags": "peut,\u00eatre,recrutement,madrid,football,real",
-            "recuweb_url": "http://fr.recuweb.com/football/rtl.fr/2015/04/football-le-real-et-l-atl%C3%A9tico-madrid-pourraient-%C3%AAtre-priv%C3%A9s",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
-            "source_url": "http://rtl.fr/sport/football/football-le-real-et-l-atletico-madrid-pourraient-etre-prives-de-mercato-7777516758"
+        "recordonline.com/2015/04/middletown-native-serves-aboard-uss-new-orleans-times-herald-record": {
+            "title": "Middletown native serves aboard USS New Orleans - Times Herald-Record...",
+            "snippet": "Times Herald-RecordMiddletown native serves aboard USS New OrleansTimes Herald-RecordThe ship is longer than two football fields at 684 feet, 105 feet wide, and weighs more than 24,000 tons. Four diesel engines can push the ship through the water at...",
+            "date": "2015-04-09",
+            "categories": "football",
+            "tags": "herald,record,football",
+            "recuweb_url": "http://fr.recuweb.com/football/recordonline.com/2015/04/middletown-native-serves-aboard-uss-new-orleans-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bfootball&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150409/NEWS/150409482/101140/NEWS"
         },
-        "leparisien.fr/2015/04/football-le-real-d%C3%A9ment-%C3%AAtre-interdit-de-recrutement": {
-            "title": "Football: le Real d\u00e9ment \u00eatre interdit de recrutement...",
-            "snippet": "C'est pourtant le sc\u00e9nario imagin\u00e9 par une radio espagnole, la Cadena Ser, g\u00e9n\u00e9ralement tr\u00e8s bien inform\u00e9e sur les affaires du Real Madrid. L'interdiction signifi\u00e9e au Real proviendrait d'irr\u00e9gularit\u00e9s pr\u00e9sum\u00e9es dans les transferts de...",
-            "date": "2015-04-29",
-            "categories": "radio,recrutement,football",
-            "tags": "\u00eatre,recrutement,football,real,madrid",
-            "recuweb_url": "http://fr.recuweb.com/football/leparisien.fr/2015/04/football-le-real-d%C3%A9ment-%C3%AAtre-interdit-de-recrutement",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=football%2Bfootball&format=RSS&cc=fr",
-            "source_url": "http://leparisien.fr/sports/football/football-le-real-dement-etre-interdit-de-recrutement-29-04-2015-4734333.php"
+        "booska-p.com/2015/03/age-of-ultron-livre-son-troisi%C3%A8me-trailer-video-booska-p": {
+            "title": "Age Of Ultron livre son troisi\u00e8me trailer! VIDEO - Booska-p...",
+            "snippet": "Booska-pAge Of Ultron livre son troisi\u00e8me trailer! VIDEOBooska-page of ultron trailer 3 de Avengers 2. Connexion impossible: Access denied for user 'booskap''localhost'(using password: YES)... Football Actu Foot Actu ligue 1 Vid\u00e9os football...",
+            "date": "2015-03-05",
+            "categories": "football",
+            "tags": "football,foot,ligue",
+            "recuweb_url": "http://fr.recuweb.com/football/booska-p.com/2015/03/age-of-ultron-livre-son-troisi%C3%A8me-trailer-video-booska-p",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bfootball&output=atom&nord=1",
+            "source_url": "http://booska-p.com/cinema/new-age-of-ultron-livre-son-troisia-me-trailer-video-n43579.html"
         }
     }
 }
