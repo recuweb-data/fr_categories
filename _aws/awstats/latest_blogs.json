@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "awstats",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/awstats/",
@@ -19,8 +19,30 @@
             "categories": "google,awstats",
             "tags": "via,site,google,analytics,awstats",
             "recuweb_url": "http://fr.recuweb.com/awstats/forum.webrankinfo.com/2015/03/google-analytics-vs-awstats",
-            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://forum.webrankinfo.com/google-analytics-awstats-t179921.html"
+        },
+        "easymac.fr/2014/10/installation-de-squid-3-0-avec-statistiques-awstats-easymac": {
+            "title": "Installation de Squid 3.0 avec statistiques AWStats - EasyMac...",
+            "snippet": "http_access allow manager localhost http_access... do date; echo i;cp i/tmp/; sudo -u www/usr/local/awstats/wwwroot/cgi-bin/-update -config=-configdir=/etc/awstats; done.",
+            "date": "2014-10-27",
+            "author_name": "Olivier DUCROT",
+            "categories": "awstats",
+            "tags": "access,localhost,statistiques,installation,squid,awstats,usr,update,config,etc",
+            "recuweb_url": "http://fr.recuweb.com/awstats/easymac.fr/2014/10/installation-de-squid-3-0-avec-statistiques-awstats-easymac",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://easymac.fr/groups/technicalcookbook/wiki/77616/Installation_de_Squid_30_avec_statistiques_AWStats.html"
+        },
+        "guillaume-p.net/2012/11/installation-analyseur-de-log-proxy-squid-avec-awstats-guillaume": {
+            "title": "installation analyseur de log proxy squid avec awstats - Guillaume...",
+            "snippet": "perl -update -config=SrvProxy. You can also read your statistics for 'SrvProxy'with URL: localhost/awstats/?config=SrvProxy. Press ENTER to finish ENTR\u00c9E. \u00c9diter le fichier de configuration.",
+            "date": "2012-11-19",
+            "author_name": "Guillaume POMENTE",
+            "categories": "awstats,perl",
+            "tags": "fichier,fichier-de-configuration,configuration,also,your,squid,installation,log,awstats,perl,update,config,localhost",
+            "recuweb_url": "http://fr.recuweb.com/perl/guillaume-p.net/2012/11/installation-analyseur-de-log-proxy-squid-avec-awstats-guillaume",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://guillaume-p.net/installation-analyseur-log-proxy-squid-awstats/"
         },
         "technique.arscenic.org/2012/11/installation-et-configuration-de-base-d-awstats-documentation": {
             "title": "Installation et configuration de base d'Awstats - Documentation...",
@@ -30,7 +52,7 @@
             "categories": "awstats",
             "tags": "installation,configuration,awstats",
             "recuweb_url": "http://fr.recuweb.com/awstats/technique.arscenic.org/2012/11/installation-et-configuration-de-base-d-awstats-documentation",
-            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://technique.arscenic.org/monitoring/awstats/article/installation-et-configuration-de"
         },
         "em-corporation.fr/2012/04/awstats-installation-et-configuration-pour-postfix-les-m%C3%A9mos-d": {
@@ -39,21 +61,21 @@
             "date": "2012-04-18",
             "author_name": "Johan",
             "categories": "awstats",
-            "tags": "configuration,awstats,installation,fix",
+            "tags": "configuration,awstats,installation,fix,etc,usr",
             "recuweb_url": "http://fr.recuweb.com/awstats/em-corporation.fr/2012/04/awstats-installation-et-configuration-pour-postfix-les-m%C3%A9mos-d",
             "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://em-corporation.fr/?p=609"
         },
-        "adaltas.com/2011/08/interpr%C3%A9ter-les-statistiques-sous-typo3-avec-awstats-adaltas": {
-            "title": "Interpr\u00e9ter les statistiques sous Typo3 avec AWStats - Adaltas...",
-            "snippet": "Interpr\u00e9ter les statistiques sous Typo3 avec AWStats Aug 25th, 2011 Ce module est bas\u00e9 sur le logiciel AWStats et permet en autre de conna\u00eetre le...",
-            "date": "2011-08-25",
-            "author_name": "info@adaltas.com",
-            "categories": "awstats",
-            "tags": "logiciel,statistiques,awstats",
-            "recuweb_url": "http://fr.recuweb.com/awstats/adaltas.com/2011/08/interpr%C3%A9ter-les-statistiques-sous-typo3-avec-awstats-adaltas",
-            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://adaltas.com/ressources/typo3/awstats.html"
+        "blog.anotherhomepage.org/2011/01/awstats-another-home-page-blog-nils": {
+            "title": "Awstats - Another Home Page Blog - Nils...",
+            "snippet": "Qu'est-ce qu'Awstats? A quoi sert-il? Awstats est un outil web de statistiques pour un serveur web, FTP ou mail. Il permet donc de voir, pour un site internet par exemple, s'il.... Emplacement du fichier de log LogFile=\"/var/log/httpd/blog-access.",
+            "date": "2011-01-31",
+            "author_name": "Nils",
+            "categories": "internet,awstats",
+            "tags": "fichier,site,donc,mail,statistiques,serveur,outil,page,awstats,web,log,access",
+            "recuweb_url": "http://fr.recuweb.com/awstats/blog.anotherhomepage.org/2011/01/awstats-another-home-page-blog-nils",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.anotherhomepage.org/post/2011/01/31/awstats"
         },
         "blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats-le-blog": {
             "title": "Analyser les logs de votre serveur Web avec AWStats - Le blog de...",
@@ -61,9 +83,9 @@
             "date": "2010-09-13",
             "author_name": "NicoLargo",
             "categories": "place,awstats",
-            "tags": "server,proc\u00e9dure,serveur,analyse,logiciel,logs,web,awstats,apache",
+            "tags": "server,proc\u00e9dure,serveur,analyse,donc,logiciel,logs,web,awstats,apache",
             "recuweb_url": "http://fr.recuweb.com/awstats/blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats-le-blog",
-            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.nicolargo.com/2010/09/analyser-les-logs-de-votre-serveur-web-avec-awstats.html"
         },
         "rootslabs.net/2010/08/rootslabs-awstats-exclure-une-ip-des-statistiques": {
@@ -72,7 +94,7 @@
             "date": "2010-08-23",
             "author_name": "Progi1984",
             "categories": "awstats",
-            "tags": "configuration,site,proc\u00e9dure,statistiques,logiciel,libre,awstats",
+            "tags": "fichier,fichier-de-configuration,configuration,site,proc\u00e9dure,statistiques,logiciel,libre,awstats",
             "recuweb_url": "http://fr.recuweb.com/awstats/rootslabs.net/2010/08/rootslabs-awstats-exclure-une-ip-des-statistiques",
             "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://rootslabs.net/blog/56-awstats-exclure-une-ip-des-statistiques"
@@ -83,10 +105,21 @@
             "date": "2010-04-06",
             "author_name": "GanGan",
             "categories": "perl,awstats",
-            "tags": "analyse,statistiques,serveur,fix,apache,log,awstats,web",
+            "tags": "perl,analyse,statistiques,outil,serveur,mail,fix,apache,log,awstats,web",
             "recuweb_url": "http://fr.recuweb.com/awstats/system-linux.eu/2010/04/statistiques-et-analyse-de-log-avec-awstats-postfix-&-apache",
-            "resource_url": "http://www.google.com/search?q=awstats%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=awstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://system-linux.eu/index.php?post/2010/04/10/awstats"
+        },
+        "forum.ubuntu-fr.org/2008/08/vhcs2-et-awstats-page-1-serveurs-forum": {
+            "title": "vhcs2 et awstats (Page 1)/Serveurs/Forum...",
+            "snippet": "AuthName \"AWStats\" AuthType Basic AuthMySQL_Host localhost AuthMySQL_DB vhcs2 AuthMySQL_Password_Table admin AuthMySQL_User vhcs2_awstats AuthMySQL_Password pass AuthMySQL_Username_Field...",
+            "date": "2008-08-17",
+            "author_name": "inconnu",
+            "categories": "awstats",
+            "tags": "basic,awstats,page,localhost",
+            "recuweb_url": "http://fr.recuweb.com/awstats/forum.ubuntu-fr.org/2008/08/vhcs2-et-awstats-page-1-serveurs-forum",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bawstats&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.ubuntu-fr.org/viewtopic.php?id=245320"
         }
     }
 }
