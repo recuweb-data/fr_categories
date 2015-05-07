@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "snowboard",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/snowboard/",
@@ -11,6 +11,16 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/snowboard/snowboard/blogs.json"
     },
     "items": {
+        "fluofun.fr/2015/04/high-cascade-the-summer-snowboard-part-2-fluofun": {
+            "title": "High Cascade: The Summer Snowboard Part.2 - Fluofun...",
+            "snippet": "Avouez le, chaque ann\u00e9e les vid\u00e9os des summer camps High Cascade ne vous donnent qu'une envie: acheter un billet pour l'Oregon et vous mettre en...",
+            "date": "2015-04-27",
+            "author_name": "stagiaire",
+            "tags": "board",
+            "recuweb_url": "http://fr.recuweb.com/fluofun.fr/2015/04/high-cascade-the-summer-snowboard-part-2-fluofun",
+            "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://fluofun.fr/news/19512-high-cascade-the-summer-snowboard-.html"
+        },
         "topito.com/2015/04/un-petit-chien-roi-du-snowboard-topito": {
             "title": "Un petit chien roi du snowboard Topito...",
             "snippet": "Que fait un chien quand on lui donne un snowboard? Bah il en fait et il est m\u00eame beaucoup plus dou\u00e9 que nous.",
@@ -18,7 +28,7 @@
             "author_name": "benoi",
             "tags": "m\u00eame,board",
             "recuweb_url": "http://fr.recuweb.com/topito.com/2015/04/un-petit-chien-roi-du-snowboard-topito",
-            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://topito.com/video/petit-chien-roi-de-la-luge"
         },
         "sports-extremes.net/2015/04/suite-de-cruise-the-park-la-s%C3%A9rie-freeski-&-snowboard-xsories": {
@@ -26,20 +36,10 @@
             "snippet": "Voici les \u00e9pisodes 3 & 4 de la web s\u00e9rie de XSories et ho5park, avec au programme du FreeSki et du Snowboard dans les parks Ho5. Quatre parks, quatre \u00e9pisodes, apr\u00e8s Oakley Cauterets Park et le WOSP de Saint Gervais.",
             "date": "2015-04-22",
             "author_name": "manu",
-            "tags": "board",
+            "tags": "web,s\u00e9rie,board",
             "recuweb_url": "http://fr.recuweb.com/sports-extremes.net/2015/04/suite-de-cruise-the-park-la-s%C3%A9rie-freeski-&-snowboard-xsories",
-            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://sports-extremes.net/2015/04/22/suite-de-cruise-the-park-la-serie-freeski-snowboard-de-xsories/"
-        },
-        "france3-regions.blog.francetvinfo.fr/2015/04/il-jongle-tout-en-descendant-les-pistes-sur-un-snowboard": {
-            "title": "Il jongle tout en descendant les pistes sur un snowboard Le blog...",
-            "snippet": "Est-ce que vous rel\u00e8veriez le d\u00e9fi? Il vous reste quelques jours pour tenter d'en faire autant. Jongler et faire du snow en m\u00eame temps ne semble pas facile. Pas facile certes mais quand m\u00eame r\u00e9alisable comme on le voit sur...",
-            "date": "2015-04-03",
-            "author_name": "Emmanuelle Gayet",
-            "tags": "m\u00eame,board",
-            "recuweb_url": "http://fr.recuweb.com/france3-regions.blog.francetvinfo.fr/2015/04/il-jongle-tout-en-descendant-les-pistes-sur-un-snowboard",
-            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://france3-regions.blog.francetvinfo.fr/pyrenees/2015/04/03/il-jongle-tout-en-descendant-les-pistes-sur-un-snowboard.html"
         },
         "yobeat.com/2015/03/the-snowboard-renaissance-yobeat": {
             "title": "The Snowboard Renaissance - YoBeat...",
@@ -70,7 +70,7 @@
             "categories": "technologie,sport,ski",
             "tags": "board",
             "recuweb_url": "http://fr.recuweb.com/ski/blog-espritdesign.com/2015/01/rideon-masque-de-r%C3%A9alit%C3%A9-augment%C3%A9e-pour-ski-et-snowboard",
-            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog-espritdesign.com/lifestyle/rideon-le-masque-de-realite-augmentee-pour-ski-et-snowboard-29228"
         },
         "yobeat.com/2015/01/a-long-list-of-dead-snowboard-brands-yobeat": {
@@ -79,20 +79,10 @@
             "date": "2015-01-09",
             "author_name": "Brooke Geery",
             "categories": "internet,facebook",
-            "tags": "boarding,past,few,board,yobeat,facebook",
+            "tags": "boarding,past,board,yobeat",
             "recuweb_url": "http://fr.recuweb.com/facebook/yobeat.com/2015/01/a-long-list-of-dead-snowboard-brands-yobeat",
-            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=snowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://yobeat.com/2015/01/09/a-long-list-of-dead-snowboard-brands/"
-        },
-        "yobeat.com/2015/01/fan-mail-women-do-not-snowboard-to-be-sexually-harassed": {
-            "title": "Fan Mail: Women Do Not Snowboard to be Sexually Harassed...",
-            "snippet": "Did you know they are allowed to snowboard? Anyway, while we're being old fashioned, a few feathers have been ruffled by this video. And since we always like to let the people speak, here's a letter from a (former) reader.",
-            "date": "2015-01-05",
-            "author_name": "Brooke Geery",
-            "tags": "few,board",
-            "recuweb_url": "http://fr.recuweb.com/yobeat.com/2015/01/fan-mail-women-do-not-snowboard-to-be-sexually-harassed",
-            "resource_url": "http://www.google.com/search?q=snowboard%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://yobeat.com/2015/01/05/fan-mail-women-do-not-snowboard-to-be-sexually-harassed/"
         },
         "powwowmag.com/2014/12/world-snowboard-day-2014": {
             "title": "World Snowboard Day 2014...",
@@ -101,8 +91,29 @@
             "author_name": "Anthony Bonal",
             "tags": "\u00e8me,board,monde",
             "recuweb_url": "http://fr.recuweb.com/powwowmag.com/2014/12/world-snowboard-day-2014",
-            "resource_url": "http://fr.search.wordpress.com/?q=snowboard%2Bsnowboard&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=snowboard&f=feed&page=1",
             "source_url": "http://powwowmag.com/2014/12/18/world-snowboard-day-2014/"
+        },
+        "fluxbb.fr/2012/11/demande-de-modification-page-1-entraide-4-et-5": {
+            "title": "Demande de modification (Page 1)/Entraide 1.4 et 1.5/...",
+            "snippet": "Version fr (enti\u00e8rement en fran\u00e7ais):.zip (maj 26/08/2011) Pack langue... a-snowboard: Habitu\u00e9 tr\u00e8s actif: Inscription: 20-06-2011: Messages: 441: Site Web... adresse de bouclage (localhost) RFC 1122.",
+            "date": "2012-11-13",
+            "author_name": "Otomatic",
+            "tags": "web,page,version,board",
+            "recuweb_url": "http://fr.recuweb.com/fluxbb.fr/2012/11/demande-de-modification-page-1-entraide-4-et-5",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://fluxbb.fr/forums/viewtopic.php?id=12908"
+        },
+        "fluxbb.fr/2012/09/fluxbb-version-android-page-1-discussions": {
+            "title": "FluxBB version Android (Page 1)/Discussions/...",
+            "snippet": "a-snowboard: Concernant la version 1.5 vs 2.0 il ne peut pas y avoir \u00e9norm\u00e9ment d'\u00e9volutions concernant la mise en place. Dans les deux cas il peut suffire d'ajouter un fichier (m\u00eame si la version 2.0 repend le syst\u00e8me de...",
+            "date": "2012-09-27",
+            "author_name": "Mpok",
+            "categories": "place",
+            "tags": "m\u00eame,version,deux,peut,place,page,board",
+            "recuweb_url": "http://fr.recuweb.com/place/fluxbb.fr/2012/09/fluxbb-version-android-page-1-discussions",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bsnowboard&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://fluxbb.fr/forums/viewtopic.php?id=12861"
         }
     }
 }
