@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "microformat",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/microformat/",
@@ -17,9 +17,9 @@
             "date": "2014-08-12",
             "author_name": "Ma veille",
             "categories": "microformat",
-            "tags": "seo,rich,tools,rdfa,microdata,microformats,web",
+            "tags": "seo,tools,microformats,web",
             "recuweb_url": "http://fr.recuweb.com/microformat/veilleseo.wordpress.com/2014/08/structured-data-markup-visualization-validation-and-testing-tools",
-            "resource_url": "http://fr.search.wordpress.com/?q=microformat%2Bmicroformat&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=microformat&f=feed&page=1",
             "source_url": "http://veilleseo.wordpress.com/2014/08/12/structured-data-markup-visualization-validation-and-testing-tools/"
         },
         "blog.netapsys.fr/2014/08/microdonn%C3%A9es-versus-microformats-le-blog-netapsys": {
@@ -28,9 +28,9 @@
             "date": "2014-08-04",
             "author_name": "Alexis Ravel",
             "categories": "microformat",
-            "tags": "xhtml,microdonn\u00e9es,microformats",
+            "tags": "xhtml,xhtml_friends,xhtml_friends_network,friends,friends_network,network,microformats",
             "recuweb_url": "http://fr.recuweb.com/microformat/blog.netapsys.fr/2014/08/microdonn%C3%A9es-versus-microformats-le-blog-netapsys",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.netapsys.fr/microdonnees-versus-microformats/"
         },
         "dictionnaireduweb.com/2014/05/microformat-dictionnaire-du-web": {
@@ -39,9 +39,9 @@
             "date": "2014-05-11",
             "author_name": "J\u00e9r\u00f4me Chambard",
             "categories": "microformat,langage,nature",
-            "tags": "page,microformat,permettant,donn\u00e9es,web",
+            "tags": "microformat,permettant,donn\u00e9es,web",
             "recuweb_url": "http://fr.recuweb.com/nature/dictionnaireduweb.com/2014/05/microformat-dictionnaire-du-web",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://dictionnaireduweb.com/microformat/"
         },
         "alsacreations.com/2012/08/microformats-2-alsacreations": {
@@ -50,32 +50,21 @@
             "date": "2012-08-02",
             "author_name": "jojaba",
             "categories": "microformat",
-            "tags": "tutoriel,microformats,alsacreations",
+            "tags": "tutoriel,microformats",
             "recuweb_url": "http://fr.recuweb.com/microformat/alsacreations.com/2012/08/microformats-2-alsacreations",
             "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://alsacreations.com/actu/lire/1472-microformats-2.html"
         },
-        "forum.alsacreations.com/2012/05/microformat-hcard-vcard-alsacreations": {
-            "title": "Microformat hCard-vCard - Alsacreations...",
-            "snippet": "(En compl\u00e9ment du tutoriel microformat) Je viens de modifier du XHTML pour obtenir une hCard et j'ai eu quelques surprises chronophages concernant les contenus masqu\u00e9s et l'encodage. (Environnement: XP-SP3/Firefox...",
-            "date": "2012-05-17",
-            "author_name": "sellig",
-            "categories": "microformat,environnement",
-            "tags": "tutoriel,microformat,hcard,vcard,alsacreations,xhtml",
-            "recuweb_url": "http://fr.recuweb.com/environnement/forum.alsacreations.com/2012/05/microformat-hcard-vcard-alsacreations",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://forum.alsacreations.com/topic-1-61903-1-Microformat-hCard-vCard.html"
-        },
-        "microformats.org/2007/08/portabilit%C3%A9-de-r%C3%A9seau-social-microformats-wiki": {
-            "title": "Portabilit\u00e9 de R\u00e9seau Social Microformats Wiki...",
-            "snippet": "... de R\u00e9seau Social. Jump to: navigation, search. La portabilit\u00e9 du r\u00e9seau social est l'une des nombreuses id\u00e9es d'interface utilisateur et de suggestions pour travailler avec les microformats dans le domaine de la portabilit\u00e9 des donn\u00e9es.",
-            "date": "2007-08-07",
-            "author_name": "ChristopheDucamp",
-            "categories": "microformat,wiki,navigation",
-            "tags": "donn\u00e9es,microformats,search",
-            "recuweb_url": "http://fr.recuweb.com/navigation/microformats.org/2007/08/portabilit%C3%A9-de-r%C3%A9seau-social-microformats-wiki",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://microformats.org/wiki/social-network-portability-fr"
+        "anonymoustools.wordpress.com/2011/04/tools-catalog-trad-fr-anonymous": {
+            "title": "Tools Catalog trad fr Anonymous tools...",
+            "snippet": "... email addresses from and Find human relationships using XHTML Friends Network (microformats)..... I have personally used localhost sockets in my applications when I have code running in different processes or threads and need an effective way...",
+            "date": "2011-04-25",
+            "author_name": "greetz4all",
+            "categories": "microformat",
+            "tags": "used,xhtml,xhtml_friends,xhtml_friends_network,friends,friends_network,network,using,tools,microformats",
+            "recuweb_url": "http://fr.recuweb.com/microformat/anonymoustools.wordpress.com/2011/04/tools-catalog-trad-fr-anonymous",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://anonymoustools.wordpress.com/2011/04/25/tools-catalog-trad-fr/"
         },
         "contrib.spip.net/2005/08/utilisation-du-microformat-hcard-pour-cr%C3%A9er-une-vcard-avec-spip": {
             "title": "Utilisation du microformat hCard pour cr\u00e9er une vcard avec SPIP...",
@@ -83,9 +72,9 @@
             "date": "2005-08-28",
             "author_name": "IZO",
             "categories": "microformat",
-            "tags": "donn\u00e9es,standards,permettant,vcard,microformats,hcard",
+            "tags": "donn\u00e9es,permettant,vcard,microformats,hcard",
             "recuweb_url": "http://fr.recuweb.com/microformat/contrib.spip.net/2005/08/utilisation-du-microformat-hcard-pour-cr%C3%A9er-une-vcard-avec-spip",
-            "resource_url": "http://www.google.com/search?q=microformat%2Bmicroformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=microformat&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://contrib.spip.net/Utilisation-du-microformat-hCard"
         }
     }
