@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "hockey",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/hockey/",
@@ -11,15 +11,35 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/hockey/hockey/blogs.json"
     },
     "items": {
-        "sport365.fr/2015/05/la-suisse-manque-ses-d%C3%A9buts": {
-            "title": "La Suisse manque ses d\u00e9buts -...",
-            "snippet": "Suisse manque ses d\u00e9buts Suisse s'est inclin\u00e9e pour son premier match du championnat du monde de hockey sur glace, ce samedi, en R\u00e9publique tch\u00e8que. Les Suisses ont c\u00e9d\u00e9 aux tirs au but contre le voisin autrichien dans ce match comptant pour...",
+        "recordonline.com/2015/05/rangers-can-t-solve-holtby-times-herald-record": {
+            "title": "Rangers can't solve Holtby - Times Herald-Record...",
+            "snippet": "Times Herald-RecordRangers can't solve HoltbyTimes Herald-RecordBut under first-year coach Trotz, and with Holtby matching Lundqvist save for save, the Capitals are proving just as adept at this sort of tight, low-scoring hockey..... Warning:...",
+            "date": "2015-05-05",
+            "categories": "hockey",
+            "tags": "just,this,herald,record,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/recordonline.com/2015/05/rangers-can-t-solve-holtby-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bhockey&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150504/SPORTS/150509718/101124/SPORTS"
+        },
+        "lapresse.ca/2015/05/le-canada-%C3%A9crase-l-allemagne-10-0-au-mondial-de-hockey": {
+            "title": "Le Canada \u00e9crase l'Allemagne 10-0 au Mondial de hockey...",
+            "snippet": "Taylor Hall a r\u00e9ussi un tour du chapeau et le Canada a ross\u00e9 l'Allemagne 10-0, dimanche, au Championnat du monde de hockey. Cody Eakin a marqu\u00e9 deux buts pour le Canada (2-0), tandis que Aaron Ekblad, Claude Giroux, Tyler Ennis, Sidney Crosby et...",
+            "date": "2015-05-03",
+            "categories": "hockey",
+            "tags": "sidney,sidney_crosby,crosby,monde,canada,mondial,hockey,dimanche,championnat",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lapresse.ca/2015/05/le-canada-%C3%A9crase-l-allemagne-10-0-au-mondial-de-hockey",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
+            "source_url": "http://lapresse.ca/sports/hockey/201505/03/01-4866498-le-canada-ecrase-lallemagne-10-0-au-mondial-de-hockey.php"
+        },
+        "lequipe.fr/2015/05/hockey-gazon-le-racing-club-de-france-champion": {
+            "title": "Hockey/gazon Le Racing Club de France champion...",
+            "snippet": "Deuxi\u00e8me club le plus titr\u00e9 derri\u00e8re le Stade Fran\u00e7ais (24 titres), le Racing Club de France a retrouv\u00e9 une couronne de champion de France qui lui \u00e9chappait depuis 1996. Il enregistre son 20e titre (1899, 1903, 1909, 1926, 1929, 1930, 1943,...",
             "date": "2015-05-02",
             "categories": "hockey",
-            "tags": "samedi,championnat,monde,manque,match,hockey,glace",
-            "recuweb_url": "http://fr.recuweb.com/hockey/sport365.fr/2015/05/la-suisse-manque-ses-d%C3%A9buts",
-            "resource_url": "http://news.google.fr/?hl=fr&q=hockey%2Bhockey&output=atom&nord=1",
-            "source_url": "http://sport365.fr/autres-sports/sports-d-hiver/groupe-a-la-suisse-manque-ses-debuts-1231706.shtml"
+            "tags": "champion,fran\u00e7ais,club,hockey,france",
+            "recuweb_url": "http://fr.recuweb.com/hockey/lequipe.fr/2015/05/hockey-gazon-le-racing-club-de-france-champion",
+            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
+            "source_url": "http://lequipe.fr/Hockey-sur-gazon/Actualites/Le-racing-club-de-france-champion/555600"
         },
         "transeet.fr/2015/05/le-championnat-du-monde-de-hockey-sur-glace": {
             "title": "Le Championnat du Monde de hockey sur glace...",
@@ -36,40 +56,60 @@
             "snippet": "Certains inconditionnels des Nordiques ont critiqu\u00e9 avec v\u00e9h\u00e9mence le choix de Qu\u00e9becor dorganiser un match pr\u00e9paratoire Canadiens-Pittsburgh dans LEUR amphith\u00e9tre. Diantre! Les vedettes de la radio locale ont blm\u00e9 le manque de...",
             "date": "2015-05-02",
             "categories": "radio,hockey",
-            "tags": "radio,manque,hockey,match",
+            "tags": "hockey,match",
             "recuweb_url": "http://fr.recuweb.com/hockey/journaldemontreal.com/2015/05/le-hockey-subventionn%C3%A9",
             "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
             "source_url": "http://journaldemontreal.com/2015/05/02/le-hockey-subventionne"
         },
-        "lemonde.fr/2015/05/a-saint-germain-en-laye-le-hockey-de-g%C3%A9n%C3%A9ration": {
-            "title": "A Saint-Germain-en-Laye, le hockey de g\u00e9n\u00e9ration en g\u00e9n\u00e9ration...",
-            "snippet": "Tenant du titre et six fois champion de France, le Saint-Germain Hockey Club dispute samedi 2 mai la finale face au Racing. Ce club cr\u00e9\u00e9 en 1926 m\u00eale le destin de deux familles, les Verrier et les Lacroix. Sur lincontournable nappe Vichy, entre...",
-            "date": "2015-05-01",
+        "fool.ca/2015/03/secure-your-retirement-with-these-3-dependable-dividend-stocks-the-motley": {
+            "title": "Secure Your Retirement With These 3 Dependable Dividend Stocks - The Motley Fool Canada...",
+            "snippet": "Secure Your Retirement With These 3 Dependable Dividend StocksThe Motley Fool CanadaNot every hockey player is as good as Sidney Crosby, and not every dividend stock is as good as Fortis Inc (TSX:FTS). This firm is in a... No, these dividend masters...",
+            "date": "2015-03-20",
             "categories": "hockey",
-            "tags": "hockey,club,samedi,france",
-            "recuweb_url": "http://fr.recuweb.com/hockey/lemonde.fr/2015/05/a-saint-germain-en-laye-le-hockey-de-g%C3%A9n%C3%A9ration",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
-            "source_url": "http://lemonde.fr/sport/visuel/2015/05/01/a-saint-germain-en-laye-le-hockey-de-generation-en-generation_4625159_3242.html"
+            "tags": "dividend,inc,sidney,sidney_crosby,crosby,motley,motley_fool,fool,motley_fool_canada,fool_canada,canada,hockey,this",
+            "recuweb_url": "http://fr.recuweb.com/hockey/fool.ca/2015/03/secure-your-retirement-with-these-3-dependable-dividend-stocks-the-motley",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bhockey&output=atom&nord=1",
+            "source_url": "http://fool.ca/2015/03/20/secure-your-retirement-with-these-3-dependable-dividend-stocks/"
         },
-        "metro-sports.fr/2015/04/hcg-sessions-decouverte-du-hockey-sur-gazon": {
-            "title": "HCG - sessions DECOUVERTE du hockey-sur-gazon...",
-            "snippet": "Les beaux jours reviennent et le hockey reprend en ext\u00e9rieur: sur gazon! Afin de faire d\u00e9couvrir au plus grand nombre ce sport, le Hockey Club de Grenoble organise de sessions d\u00e9couverte gratuites, pour toutes ses cat\u00e9gories. Ces sessions...",
-            "date": "2015-04-30",
-            "categories": "hockey,sport",
-            "tags": "d\u00e9couverte,hockey,hockey_club,club,gazon",
-            "recuweb_url": "http://fr.recuweb.com/sport/metro-sports.fr/2015/04/hcg-sessions-decouverte-du-hockey-sur-gazon",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey%2Bhockey&format=RSS&cc=fr",
-            "source_url": "http://metro-sports.fr/hockey/hockey-club-grenoble/8567-hcg-sessions-decouverte-du-hockey-sur-gazon.html"
-        },
-        "tendanceouest.com/2015/04/hockey-des-resignatures-chez-les-dragons-de-rouen": {
-            "title": "Hockey: Des resignatures chez les dragons de Rouen...",
-            "snippet": "Du nouveau chez les Dragons de Rouen. Lembl\u00e9matique capitaine du Rouen Hockey Elite 76 Marc-Andr\u00e9 Thinel ainsi que le Fabien Colotti et L\u00e9o Guillemain ont r\u00e9sign\u00e9 pour une saison suppl\u00e9mentaire sur les bords de Seine. Bonne nouvelle pour...",
-            "date": "2015-04-30",
+        "fool.ca/2015/03/yawn-all-the-way-to-bank-with-metro-inc-and-canadian": {
+            "title": "Yawn All the Way to the Bank With Metro Inc. and Canadian Utilities... - The Motley Fool Canada...",
+            "snippet": "Yawn All the Way to the Bank With Metro Inc. and Canadian Utilities...The Motley Fool CanadaThe current yield is 2.8% and the payout ratio is just 47%, leaving room for plenty of hikes in the future. If you want excitement, go to the hockey game. If...",
+            "date": "2015-03-19",
             "categories": "hockey",
-            "tags": "hockey,saison",
-            "recuweb_url": "http://fr.recuweb.com/hockey/tendanceouest.com/2015/04/hockey-des-resignatures-chez-les-dragons-de-rouen",
-            "resource_url": "http://www.bing.com/news/search?first=1&q=hockey&format=RSS&cc=fr",
-            "source_url": "http://tendanceouest.com/cherbourg/actualite-102940-hockeydes-resignatures-chez-les-dragons-de-rouen.html"
+            "tags": "just,motley,motley_fool,motley_fool_canadathe,fool,fool_canadathe,canadathe,motley_fool_canada,fool_canada,canada,canadian,inc,hockey,game",
+            "recuweb_url": "http://fr.recuweb.com/hockey/fool.ca/2015/03/yawn-all-the-way-to-bank-with-metro-inc-and-canadian",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bhockey&output=atom&nord=1",
+            "source_url": "http://fool.ca/2015/03/19/yawn-all-the-way-to-the-bank-with-metro-inc-and-canadian-utilities-limited/"
+        },
+        "fool.ca/2015/03/transcontinental-inc-doubles-profits-and-raises-its-dividend-the-motley-fool": {
+            "title": "Transcontinental Inc. Doubles Profits and Raises its Dividend - The Motley Fool Canada...",
+            "snippet": "Transcontinental Inc. Doubles Profits and Raises its DividendThe Motley Fool CanadaThe agreement, announced last November, includes magazines such as Canadian Living and the Hockey News, and a majority stake in Elle Canada and Elle Quebec. The...",
+            "date": "2015-03-17",
+            "categories": "hockey",
+            "tags": "hockey,canadian,motley,motley_fool,motley_fool_canadathe,fool,fool_canadathe,canadathe,motley_fool_canada,fool_canada,canada,inc,dividend",
+            "recuweb_url": "http://fr.recuweb.com/hockey/fool.ca/2015/03/transcontinental-inc-doubles-profits-and-raises-its-dividend-the-motley-fool",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bhockey&output=atom&nord=1",
+            "source_url": "http://fool.ca/2015/03/17/transcontinental-inc-s-doubles-profits-and-raises-dividend/"
+        },
+        "recordonline.com/2015/02/developers-unveil-100-million-plan-b-for-nevele-times-herald-record": {
+            "title": "Developers unveil 100 million 'Plan B'for Nevele - Times Herald-Record...",
+            "snippet": "Developers unveil 100 million 'Plan B'for NeveleTimes Herald-RecordAccording to a press release, the plan calls for: - 750 video lottery terminals. - Four full-size baseball fields. - Eight regulation fields for soccer, field hockey and lacrosse. -...",
+            "date": "2015-02-25",
+            "categories": "baseball,hockey",
+            "tags": "million,herald,record,hockey",
+            "recuweb_url": "http://fr.recuweb.com/hockey/recordonline.com/2015/02/developers-unveil-100-million-plan-b-for-nevele-times-herald-record",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bhockey&output=atom&nord=1",
+            "source_url": "http://recordonline.com/article/20150225/NEWS/150229619"
+        },
+        "fool.ca/2015/02/bce-inc-great-dividend-but-can-it-become-a-growth-stock": {
+            "title": "BCE Inc.: Great Dividend, but Can it Become a Growth Stock? - The Motley Fool Canada...",
+            "snippet": "BCE Inc.: Great Dividend, but Can it Become a Growth Stock?The Motley Fool CanadaBCE also reports that the world championship game of the junior hockey tournament, broadcasted on TSN, set an all-time record of 7.1 million viewers for Canadian...",
+            "date": "2015-02-06",
+            "categories": "hockey",
+            "tags": "record,game,motley,motley_fool,fool,motley_fool_canada,fool_canada,canada,dividend,inc,hockey,million,canadian",
+            "recuweb_url": "http://fr.recuweb.com/hockey/fool.ca/2015/02/bce-inc-great-dividend-but-can-it-become-a-growth-stock",
+            "resource_url": "http://news.google.fr/?hl=fr&q=fr%2Blocalhost%2Bcom%2Bhockey&output=atom&nord=1",
+            "source_url": "http://fool.ca/2015/02/06/bce-inc-great-dividend-but-can-it-become-a-growth-stock/"
         }
     }
 }
