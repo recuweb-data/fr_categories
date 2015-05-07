@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "javascript-object-notation",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/javascript-object-notation/",
@@ -17,7 +17,7 @@
             "date": "2015-02-26",
             "author_name": "St\u00e9phane Bortzmeyer",
             "categories": "javascript,javascript-object-notation",
-            "tags": "texte,documents,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json",
+            "tags": "texte,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2015/02/rfc-7464-javascript-object-notation-json-text-sequences",
             "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bortzmeyer.org/7464.html"
@@ -39,21 +39,10 @@
             "date": "2013-04-03",
             "author_name": "St\u00e9phane Bortzmeyer",
             "categories": "javascript,javascript-object-notation",
-            "tags": "format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,st\u00e9phane,st\u00e9phane_bortzmeyer,bortzmeyer,rfc,json",
+            "tags": "utilis\u00e9,format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,st\u00e9phane,st\u00e9phane_bortzmeyer,bortzmeyer,rfc,json",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2013/04/blog-st%C3%A9phane-bortzmeyer-rfc-6902-javascript-object-notation",
             "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://bortzmeyer.org/6902.html"
-        },
-        "bortzmeyer.org/2013/04/rfc-6901-javascript-object-notation-json-pointer": {
-            "title": "RFC 6901: JavaScript Object Notation (JSON) Pointer...",
-            "snippet": "JSON (RFC 7159) est un format structur\u00e9 de donn\u00e9es tr\u00e8s populaire sur le Web. Les documents JSON peuvent \u00eatre de taille tr\u00e8s variable et il serait int\u00e9ressant d'avoir une syntaxe formelle pour d\u00e9signer une partie bien...",
-            "date": "2013-04-03",
-            "author_name": "St\u00e9phane Bortzmeyer",
-            "categories": "javascript,javascript-object-notation",
-            "tags": "syntaxe,format,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,rfc,json,web,documents",
-            "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/bortzmeyer.org/2013/04/rfc-6901-javascript-object-notation-json-pointer",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://bortzmeyer.org/6901.html"
         },
         "alsacreations.com/2010/12/le-format-json-ajax-et-jquery-alsacreations": {
             "title": "Le format JSON, AJAX et jQuery - Alsacreations...",
@@ -63,8 +52,30 @@
             "categories": "javascript,javascript-object-notation,jquery",
             "tags": "format,texte,donn\u00e9es,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json",
             "recuweb_url": "http://fr.recuweb.com/jquery/alsacreations.com/2010/12/le-format-json-ajax-et-jquery-alsacreations",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://alsacreations.com/article/lire/1161-json-ajax-jquery-jsonp-getjson.html"
+        },
+        "paddyweblog.blogspot.com/2010/11/paddy-s-weblog-restful-client-in-javascript": {
+            "title": "Paddy's Weblog: RESTful client in JavaScript...",
+            "snippet": "readyState==4 &&==200) {//do something with the results} else {//wait for the call to complete}} (\"GET\",url,true); (null);} Then, because JSON is a subset of the object literal notation of...",
+            "date": "2010-11-11",
+            "author_name": "Patrick Champion",
+            "categories": "javascript",
+            "tags": "object,notation,javascript,json",
+            "recuweb_url": "http://fr.recuweb.com/javascript/paddyweblog.blogspot.com/2010/11/paddy-s-weblog-restful-client-in-javascript",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://paddyweblog.blogspot.com/2010/11/restful-client-in-javascript.html"
+        },
+        "blog.excilys.com/2010/02/blog-excilys-android-pour-l-entreprise-5-zencontact-json": {
+            "title": "Blog Excilys Android pour l'entreprise 5 ZenContact, JSON...",
+            "snippet": "Il est souvent utilis\u00e9 dans les applications Web notamment parce qu'il s'int\u00e8gre bien avec JavaScript (on me souffle dans l'oreillette que JSON signifierait JavaScript Object Notation, quelle co\u00efncidence;)!). L'id\u00e9e ici est.... vers le...",
+            "date": "2010-02-08",
+            "author_name": "Pierre-Yves RICAU",
+            "categories": "javascript",
+            "tags": "object,notation,utilis\u00e9,json,web,javascript",
+            "recuweb_url": "http://fr.recuweb.com/javascript/blog.excilys.com/2010/02/blog-excilys-android-pour-l-entreprise-5-zencontact-json",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://blog.excilys.com/2010/02/08/android-pour-lentreprise-5-zencontact-json-relax-avec-gson/"
         },
         "doc.pcsoft.fr/2010/02/json-pc-soft-documentation-en-ligne": {
             "title": "JSON - PC SOFT - Documentation en ligne...",
@@ -74,7 +85,7 @@
             "categories": "javascript,javascript-object-notation",
             "tags": "donn\u00e9es,format,notation,objet,javascript,javascript_object,javascript_object_notation,object,object_notation,json",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/doc.pcsoft.fr/2010/02/json-pc-soft-documentation-en-ligne",
-            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation%2Bjavascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://doc.pcsoft.fr/fr-FR/?1000017287"
         },
         "blog.pascal-martin.fr/2007/01/json-javascript-object-notation-pr%C3%A9sentation-pascal-martin": {
@@ -83,7 +94,7 @@
             "date": "2007-01-13",
             "author_name": "Pascal MARTIN",
             "categories": "javascript,javascript-object-notation",
-            "tags": "objets,syntaxe,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json,format,rfc,juillet",
+            "tags": "objets,javascript,javascript_object,javascript_object_notation,object,object_notation,notation,json,format,rfc,juillet",
             "recuweb_url": "http://fr.recuweb.com/javascript-object-notation/blog.pascal-martin.fr/2007/01/json-javascript-object-notation-pr%C3%A9sentation-pascal-martin",
             "resource_url": "http://www.google.com/search?q=javascript%2Bobject%2Bnotation&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://blog.pascal-martin.fr/post/json-javascript-object-notation-presentation.html"
