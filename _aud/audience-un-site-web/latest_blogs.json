@@ -2,7 +2,7 @@
     "meta": {
         "portal_name": "audience-un-site-web",
         "language": "fr",
-        "updated": "20150503"
+        "updated": "20150507"
     },
     "schema": {
         "html:portal": "http://fr.recuweb.com/audience-un-site-web/",
@@ -11,24 +11,13 @@
         "graph:blogs": "http://fr.recuweb.com/graph/v1.0/audience-un-site-web/audience-un-site-web/blogs.json"
     },
     "items": {
-        "mediametrie.fr/2015/04/m%C3%A9diam%C3%A9trie-communiqu%C3%A9s-de-presse-internet-l-audience": {
-            "title": "M\u00e9diam\u00e9trie - Communiqu\u00e9s de presse - Internet - L'audience de l...",
-            "snippet": "En f\u00e9vrier 2015, 4,5 millions de mobinautes uniques, soit 12,8% de la population mobinaute ont consult\u00e9 au moins un site ou une application de la sous-cat\u00e9gorie Immobilier. L'audience de la sous-cat\u00e9gorie est en...",
-            "date": "2015-04-22",
-            "author_name": "inconnu",
-            "categories": "internet",
-            "tags": "consult\u00e9,millions,m\u00e9diam\u00e9trie,internet,audience,f\u00e9vrier,soit,site",
-            "recuweb_url": "http://fr.recuweb.com/internet/mediametrie.fr/2015/04/m%C3%A9diam%C3%A9trie-communiqu%C3%A9s-de-presse-internet-l-audience",
-            "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://mediametrie.fr/internet/communiques/l-audience-de-l-internet-mobile-en-france-en-fevrier-2015.php?id=1244"
-        },
         "emploi.alsacreations.com/2015/03/responsable-web-analytics-analyste-d-audience-offre-emploi": {
             "title": "Responsable web analytics - analyste d'audience - Offre d'emploi...",
             "snippet": "Responsable web analytics - analyste d'audience. CDI. Responsable Web analytics Ma\u00eetre incontest\u00e9 de l'analyse d'audience. Startup BtoC port\u00e9e par un des sites top 10 du web fran\u00e7ais. CDI - Paris Centre Plus que votre...",
             "date": "2015-03-20",
             "author_name": "inconnu",
             "categories": "emploi",
-            "tags": "analyse,web,analytics,audience,sites,top",
+            "tags": "analyse,web,analytics,audience,ma\u00eetre,sites,top,fran\u00e7ais",
             "recuweb_url": "http://fr.recuweb.com/emploi/emploi.alsacreations.com/2015/03/responsable-web-analytics-analyste-d-audience-offre-emploi",
             "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://emploi.alsacreations.com/offre-560479-Responsable-web-analytics---analyste-daudience.html"
@@ -38,10 +27,21 @@
             "snippet": "Que ce soit pour son site Web ou pour son blog (ou pour les deux, soyons fous), nous recherchons tous les meilleurs fa\u00e7ons de doper notre audience. Il []...",
             "date": "2015-03-19",
             "author_name": "la r\u00e9daction",
-            "tags": "deux,soit,trafic,site,web,audience",
+            "tags": "deux,soit,site,web,audience",
             "recuweb_url": "http://fr.recuweb.com/wmn24.wordpress.com/2015/03/7-outils-gratuits-pour-booster-votre-trafic",
-            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bun%2Bsite%2Bweb&f=feed&page=1",
             "source_url": "http://wmn24.wordpress.com/2015/03/19/7-outils-gratuits-pour-booster-votre-trafic/"
+        },
+        "mediametrie.fr/2015/03/m%C3%A9diam%C3%A9trie-communiqu%C3%A9s-de-presse-internet-l-audience": {
+            "title": "M\u00e9diam\u00e9trie - Communiqu\u00e9s de presse - Internet - L'audience de l...",
+            "snippet": "Les internautes ont suivi les \u00e9v\u00e9nements \u00e9galement sur les sites de M\u00e9dias TV/Radio qui ont enregistr\u00e9 un pic d'audience le vendredi 9 janvier, jour des assauts lanc\u00e9s contre les terroristes: 3,5 millions d'internautes ont...",
+            "date": "2015-03-02",
+            "author_name": "inconnu",
+            "categories": "internet,radio",
+            "tags": "pic,m\u00e9diam\u00e9trie,presse,internet,audience,internautes,sites,radio,janvier,millions",
+            "recuweb_url": "http://fr.recuweb.com/radio/mediametrie.fr/2015/03/m%C3%A9diam%C3%A9trie-communiqu%C3%A9s-de-presse-internet-l-audience",
+            "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://mediametrie.fr/internet/communiques/l-audience-de-l-internet-en-france-en-janvier-2015.php?id=1215"
         },
         "jflaroucheweb.com/2015/02/strat%C3%A9gie-web-analyse-d-audience-internet-et-services-conseils": {
             "title": "Strat\u00e9gie Web, analyse d'audience Internet et services conseils...",
@@ -49,9 +49,9 @@
             "date": "2015-02-23",
             "author_name": "Super User",
             "categories": "internet",
-            "tags": "site,site_web,web,analyse,audience,internet",
+            "tags": "site,web,analyse,audience,internet,mobile",
             "recuweb_url": "http://fr.recuweb.com/internet/jflaroucheweb.com/2015/02/strat%C3%A9gie-web-analyse-d-audience-internet-et-services-conseils",
-            "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
             "source_url": "http://jflaroucheweb.com/fr/services/strategie-web"
         },
         "autoveille.info/2015/02/comment-fid%C3%A9liser-son-audience-sur-le-web-infographie-seo": {
@@ -69,31 +69,51 @@
             "snippet": "La plateforme de cr\u00e9ation et de gestion de blogs offrent des fonctions int\u00e9ressantes pour optimiser son site web et fid\u00e9liser son audience. En voici quelques: on...",
             "date": "2015-01-30",
             "author_name": "Fr\u00e9d\u00e9ric",
-            "tags": "fid\u00e9liser,astuces,cr\u00e9ation,site,web,audience",
+            "tags": "fid\u00e9liser,cr\u00e9ation,astuces,site,web,audience",
             "recuweb_url": "http://fr.recuweb.com/formation20.wordpress.com/2015/01/les-10-astuces-incontournables-pour-blogger",
-            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bun%2Bsite%2Bweb&f=feed&page=1",
             "source_url": "http://formation20.wordpress.com/2015/01/30/les-10-astuces-incontournables-pour-blogger/"
+        },
+        "karlesnine.com/2015/01/on-continue-avec-syslog-web-access-log-logstash-redis": {
+            "title": "On continue avec syslog: web access log logstash redis...",
+            "snippet": "Apr\u00e8s la g\u00e9n\u00e9ration des access log au format JSON avec apache, puis la g\u00e9n\u00e9ration des acces log au format JSON avec varnish on continue avec syslog: web access log logstash redis elasticsearch kibana... Durant les pic d'audience propre a une...",
+            "date": "2015-01-15",
+            "author_name": "karles",
+            "tags": "pic,continue,web,audience",
+            "recuweb_url": "http://fr.recuweb.com/karlesnine.com/2015/01/on-continue-avec-syslog-web-access-log-logstash-redis",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Baudience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://karlesnine.com/2015/01/15/on-continue-avec-syslog-web-access-log-logstash-redis-elasticsearch-kibana/"
         },
         "perpignanweb.wordpress.com/2014/11/seo-tout-ce-qu-il-faut-savoir-blog-one-big-web": {
             "title": "SEO - Tout ce qu'il faut savoir. Blog One Big Web...",
             "snippet": "Le SEO, lorsquil est bien r\u00e9alis\u00e9, se traduit en une augmentation du nombre de visiteurs sur site accompagn\u00e9 dune meilleure qualit\u00e9 daudience. Le SEO est donc incontournable dans []...",
             "date": "2014-11-19",
             "author_name": "agencecomperpi",
-            "tags": "web,seo,site",
+            "tags": "meilleure,web,seo,site",
             "recuweb_url": "http://fr.recuweb.com/perpignanweb.wordpress.com/2014/11/seo-tout-ce-qu-il-faut-savoir-blog-one-big-web",
-            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&f=feed&page=1",
+            "resource_url": "http://fr.search.wordpress.com/?q=audience%2Bun%2Bsite%2Bweb&f=feed&page=1",
             "source_url": "http://perpignanweb.wordpress.com/2014/11/19/seo-tout-ce-quil-faut-savoir-blog-one-big-web/"
         },
-        "getplus.fr/2014/11/ils-en-parlent-le-parisien-mesurer-l-audience-de-son-site": {
-            "title": "Ils en parlent - Le Parisien: Mesurer l'audience de son site Internet...",
-            "snippet": "Dans cet article sign\u00e9 C\u00e9line Chaudeau, Le Parisien interroge plusieurs experts, parmi lesquels Cyril Bladier, sur les diff\u00e9rentes solutions pour \u00e9valuer son trafic web. Extrait: \"Si on veut alle...",
-            "date": "2014-11-03",
-            "author_name": "Philippe GUIHENEUC",
-            "categories": "internet",
-            "tags": "trafic,audience,site,internet,web",
-            "recuweb_url": "http://fr.recuweb.com/internet/getplus.fr/2014/11/ils-en-parlent-le-parisien-mesurer-l-audience-de-son-site",
-            "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb%2Baudience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
-            "source_url": "http://getplus.fr/Ils-en-parlent-Le-Parisien-Mesurer-l-audience-de-son-site-Internet_a499.html"
+        "forum.webrankinfo.com/2011/03/script-qui-importe-des-images-localhost-ok-serveur": {
+            "title": "Script qui importe des images - Localhost OK, serveur PAS OK...",
+            "snippet": "Salut tout le monde, Je rencontre un probl\u00e8me depuis une semaine avec un nouveau site web. J'ai mis en place un site avec Prestashop qui...",
+            "date": "2011-03-30",
+            "author_name": "inconnu",
+            "categories": "place",
+            "tags": "monde,site,web",
+            "recuweb_url": "http://fr.recuweb.com/place/forum.webrankinfo.com/2011/03/script-qui-importe-des-images-localhost-ok-serveur",
+            "resource_url": "http://www.google.com/search?q=fr%2Blocalhost%2Bcom%2Baudience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://forum.webrankinfo.com/script-qui-importe-des-images-localhost-serveur-pas-pourquoi-t141412.html"
+        },
+        "piloter.org/2011/02/web-analytics-tableau-de-bord-et-analyse-d-audience-site": {
+            "title": "Web analytics, tableau de bord et analyse d'audience de site web...",
+            "snippet": "Web analytics, tableau de bord et m\u00e9thode d'analyse d'audience de site web, les indicateurs de visites, les corr\u00e9altions et le profiling, une d\u00e9marche d'am\u00e9lioration continue pilot\u00e9e.",
+            "date": "2011-02-10",
+            "author_name": "inconnu",
+            "tags": "continue,analyse,web,analytics,audience,site",
+            "recuweb_url": "http://fr.recuweb.com/piloter.org/2011/02/web-analytics-tableau-de-bord-et-analyse-d-audience-site",
+            "resource_url": "http://www.google.com/search?q=audience%2Bun%2Bsite%2Bweb&tbm=blg&output=atom&start=0&hl=fr&lr=lang_fr&nord=1",
+            "source_url": "http://piloter.org/techno/CRM/web-analytique.htm"
         }
     }
 }
